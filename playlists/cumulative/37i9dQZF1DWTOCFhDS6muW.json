@@ -701,24 +701,6 @@
     {
       "album": {
         "name": "Metela Sacala",
-        "url": "https://open.spotify.com/album/1IWoViU3wYy3dVcoMdNh93"
-      },
-      "artists": [
-        {
-          "name": "El Chevo",
-          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
-        }
-      ],
-      "date_added": "2020-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 181983,
-      "name": "Metela Sacala",
-      "url": "https://open.spotify.com/track/3xaCZSSnVHUNIHQab4YdVz"
-    },
-    {
-      "album": {
-        "name": "Metela Sacala",
         "url": "https://open.spotify.com/album/76RLt9PsMCiN2z8iC7Hxho"
       },
       "artists": [
@@ -733,6 +715,28 @@
       "duration_ms": 181996,
       "name": "Metela Sacala",
       "url": "https://open.spotify.com/track/0XfQtIY7TqdPzowUopof7U"
+    },
+    {
+      "album": {
+        "name": "Metela Sacala",
+        "url": "https://open.spotify.com/album/1IWoViU3wYy3dVcoMdNh93"
+      },
+      "artists": [
+        {
+          "name": "El Chevo",
+          "url": "https://open.spotify.com/artist/2vC9dN2ebF9lBbAFlIUeL4"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
+        }
+      ],
+      "date_added": "2020-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181983,
+      "name": "Metela Sacala",
+      "url": "https://open.spotify.com/track/3xaCZSSnVHUNIHQab4YdVz"
     },
     {
       "album": {
@@ -977,6 +981,10 @@
         {
           "name": "Kazzabe",
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
         }
       ],
       "date_added": "2020-05-26",
@@ -1145,6 +1153,10 @@
         {
           "name": "Mr Jc",
           "url": "https://open.spotify.com/artist/42TNOe97Vn2D6OgjNpaxZc"
+        },
+        {
+          "name": "MC Productions Inc",
+          "url": "https://open.spotify.com/artist/4pqKYtU6pamrZUuTWaaRgA"
         },
         {
           "name": "KD La Caracola",

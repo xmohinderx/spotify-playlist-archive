@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,445 likes - 80 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,544 likes - 80 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 29 | [Para Siempre](https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 3:21 |
 | 30 | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Wow Wow \(feat\. Becky G\)](https://open.spotify.com/album/7peqMFYmRXaFJ5nXvKtA86) | 3:19 |
 | 31 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 |
-| 32 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 |
-| 33 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 |
+| 32 | [MAFIOSA](https://open.spotify.com/track/1X1vW0xDpkOS35ZxcPqLv6) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [MAFIOSA](https://open.spotify.com/album/2UViwTgvnwO2aKYLFrQ9RH) | 4:26 |
+| 33 | [ESTILAZO](https://open.spotify.com/track/3S6VRZQYwuPIllMmYdAj66) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [ESTILAZO](https://open.spotify.com/album/5JsaR3E92H6w32amvOhl7t) | 2:38 |
 | 34 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/1CrPPsibP3uTc3DSI5vQC5) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [fue mejor \(feat\. SZA\)](https://open.spotify.com/album/5h23sIlF1FvjdIdcJofXlI) | 3:50 |
 | 35 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
 | 36 | [Ay, DiOs Mío!](https://open.spotify.com/track/7x4ASXYEKfQBCewcZhK776) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Ay, DiOs Mío!](https://open.spotify.com/album/1mMUBQXa70gHyUjK0Q0u63) | 3:09 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 74 | [Un Beso](https://open.spotify.com/track/6PwVWeo4KpH7YrTg2b5Het) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Amor Supremo \(Desnudo\)](https://open.spotify.com/album/3ChFP3YQevhl7lbTBtO0Yz) | 4:21 |
 | 75 | [Qué Será](https://open.spotify.com/track/0EixXz4ZIBS5sq7LjyN1VV) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [Qué Será](https://open.spotify.com/album/3YsT4UC2mHKo7ax2cmoGGd) | 3:13 |
 | 76 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
-| 77 | [Chanteito Pa' un Ex](https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Chanteito Pa' un Ex](https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB) | 3:36 |
-| 78 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
+| 77 | [GURÚ](https://open.spotify.com/track/0pZAXbsmAvNQvDAYHpXoCF) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [GOTEO](https://open.spotify.com/album/5ItnrdKLPrJzahQHZwjmYy) | 3:43 |
+| 78 | [Chanteito Pa' un Ex](https://open.spotify.com/track/4mK5PG0R3ch1hJoOW9pFe2) | [Beatriz Luengo](https://open.spotify.com/artist/23cijmutocNvhM5xkcyyFF), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Chanteito Pa' un Ex](https://open.spotify.com/album/1kmys6i9MjDcH2loOM1ZVB) | 3:36 |
 | 79 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
 | 80 | [Pa' Mi Entero](https://open.spotify.com/track/1oUYEiQ669zjwQOMKGMuKH) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 2:52 |
 
-Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMGZhM2U0MTBmMjZiN2Q1Y2UyMWU4ZTNlN2QwNjViYjRh`
+Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMGQxZTU5YTNjNDdkMzA4MTFlNTYwYjA5N2ZkNTYwNTI2`

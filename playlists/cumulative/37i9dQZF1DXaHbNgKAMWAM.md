@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-187 songs - 11 hr 26 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
+188 songs - 11 hr 29 min - [published](https://open.spotify.com/playlist/1EFWmjFnxGCvQODZkJc6C7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All for you](https://open.spotify.com/track/559cLHVZNKw3AzbIZWFwMp) | [Nadle](https://open.spotify.com/artist/4J3ruXeNKsZ11VHdlCfkCd), [신디](https://open.spotify.com/artist/47u4nNVRkakTveVuTdfobp), [라은](https://open.spotify.com/artist/6rJPaaYEcL2Q7icpUMHcLz) | [No Matter What \(Original Television Soundtrack\) Pt\. 34](https://open.spotify.com/album/1A2EWvA0yEXmaB87xtksto) | 3:30 | 2022-06-20 | 2022-07-06 |
 | [Always](https://open.spotify.com/track/2ZrBWpAAEbvBMHzukKGG0Q) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Always](https://open.spotify.com/album/5MsZQAUDrV7zgFhL4h2683) | 3:28 | 2022-06-09 | 2022-07-22 |
 | [Amazing You](https://open.spotify.com/track/37dkyQQNJLaqk09kkNr7In) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 3rd Digital Single \`Amazing You'](https://open.spotify.com/album/4thvEEDY1tQFGeIcTbgwMy) | 4:56 | 2022-05-11 |  |
+| [ANYWHERE ANYTIME](https://open.spotify.com/track/70l9WbRhCmYrnT02psPSMv) | [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [1,2,3..](https://open.spotify.com/album/2uQEtB8QzLCZARbYmnnaUf) | 2:36 | 2022-08-12 |  |
 | [Anywhere With You](https://open.spotify.com/track/5dEGpXgEVxRhdi6SvRWgVL) | [Ants](https://open.spotify.com/artist/0VyTbC31dnoiKg02B3PQaL) | [Anywhere With You](https://open.spotify.com/album/5MlXSnIV0JNrOuU4KDDTAo) | 3:21 | 2022-07-08 | 2022-07-18 |
 | [Aria](https://open.spotify.com/track/3FneRJj423Tn92lRCzNBDR) | [체이스](https://open.spotify.com/artist/2Dcmf3xCuzxyLSLzQ0S6aG) | [Aria](https://open.spotify.com/album/6a2i0NUpralebUD5XzKRW5) | 3:03 | 2022-05-11 | 2022-07-28 |
 | [Baby I told you](https://open.spotify.com/track/27PvuEGJGW91wrP5q3khDD) | [Hawoong](https://open.spotify.com/artist/57saO8Z8WQgBNCfhRc1i3G) | [Baby I told you](https://open.spotify.com/album/4RfQ0urMKBfgd7XF8iQNxc) | 2:44 | 2022-05-11 | 2022-07-22 |
@@ -54,7 +55,7 @@
 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 | 2022-05-11 | 2022-07-27 |
 | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래 \(feat\. BIG Naughty\)](https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D) | [KIXO](https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Dingo X KIXO\(키조\) \- 이건내가처음쓰는사랑노래](https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa) | 3:29 | 2022-07-08 |  |
 | [Don't wanna leave tonight](https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [LOVE & HATE](https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ) | 2:44 | 2022-06-09 |  |
-| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 |  |
+| [Dream Catcher](https://open.spotify.com/track/6MDrZ8WfWiQWB8t12Pqccj) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:46 | 2022-05-11 | 2022-08-14 |
 | [Even if time passes](https://open.spotify.com/track/41AtZo3oUoJfyvgbPRoh8H) | [CHILDDIAHN](https://open.spotify.com/artist/2xIwnQi8JNCYpJjPivvKBr) | [Even if time passes](https://open.spotify.com/album/18sJ1IXGO8jjFzdFv1hxwX) | 4:14 | 2022-05-11 | 2022-07-05 |
 | [Evening \(feat\. BIG Naughty\)](https://open.spotify.com/track/6ZY2EUZjuV9x38AqFdcU6G) | [YUJU](https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [Evening](https://open.spotify.com/album/0mgsPfMEb0YQ42mClBWKc6) | 3:37 | 2022-08-01 |  |
 | [Every day, Every Moment](https://open.spotify.com/track/3Ml2s37uS9jqRM2R3bfDiB) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Should We Kiss First? \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/1UVybcE4gGXIlRjkMPM17U) | 3:30 | 2022-05-11 |  |

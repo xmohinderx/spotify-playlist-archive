@@ -1,12 +1,12 @@
 {
   "description": "Laid back electronic soundscapes rooted in experimental and ambient sensibilities.",
-  "num_followers": 74402,
+  "num_followers": 74443,
   "original_name": "Refractions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NjM0NywwMDAwMDAwMDEyZmIwMmVhMmQ2MzdkOTE4YTU1OTllYThmNTE5NzRl",
+  "snapshot_id": "MTY2MDM1NzM2NywwMDAwMDAwMGNhNmNmYWZjMTUxMDNjZjNiNmRkYmE5M2ViZjg3YTJm",
   "tracks": [
     {
       "added_at": "2021-10-06 04:42:05",
@@ -161,6 +161,22 @@
       "url": "https://open.spotify.com/track/6OQTJ7llyUiejKFxR4MUuy"
     },
     {
+      "added_at": "2022-08-13 02:22:47",
+      "album": {
+        "name": "Summering (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 88960,
+      "name": "Summer Lawns",
+      "url": "https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Angel's Flight",
@@ -179,22 +195,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Erratics & Unconformities",
-        "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
-      },
-      "artists": [
-        {
-          "name": "Craven Faults",
-          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
-        }
-      ],
-      "duration_ms": 475379,
-      "name": "Deipkier",
-      "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "AZD",
         "url": "https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt"
       },
@@ -207,6 +207,22 @@
       "duration_ms": 145946,
       "name": "FALLING RIZLAS",
       "url": "https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Erratics & Unconformities",
+        "url": "https://open.spotify.com/album/2BsxDJWcmm9iFH1BFdXO6V"
+      },
+      "artists": [
+        {
+          "name": "Craven Faults",
+          "url": "https://open.spotify.com/artist/3pAxHOmaTLiUnC9WoXdsyN"
+        }
+      ],
+      "duration_ms": 475379,
+      "name": "Deipkier",
+      "url": "https://open.spotify.com/track/1hZawUg1APIr7nw6MOhyVf"
     },
     {
       "added_at": "2022-07-06 16:48:39",
@@ -527,18 +543,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Panspermia",
-        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
+        "name": "Blinking/Aubades",
+        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
       },
       "artists": [
         {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Panspermia",
-      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
+      "duration_ms": 220212,
+      "name": "Aubades",
+      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -559,18 +575,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Blinking/Aubades",
-        "url": "https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U"
+        "name": "Panspermia",
+        "url": "https://open.spotify.com/album/4TfQg8g5FV1VvZao3Mj94D"
       },
       "artists": [
         {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 220212,
-      "name": "Aubades",
-      "url": "https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12"
+      "duration_ms": 188000,
+      "name": "Panspermia",
+      "url": "https://open.spotify.com/track/6YQ0EXjwQWT263njOeoe8S"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -639,22 +655,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Oquo",
-        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
-      },
-      "artists": [
-        {
-          "name": "Ozoyo",
-          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
-        }
-      ],
-      "duration_ms": 231529,
-      "name": "Oquo Quooon",
-      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Sleep Through the Storm",
         "url": "https://open.spotify.com/album/3EFWBA9qmXMMwX48QdSOm7"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 293026,
       "name": "Endless Jasmine",
       "url": "https://open.spotify.com/track/60HCwP0zHfb2NjXplszK2J"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Iaora Tahiti",
-        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
-      },
-      "artists": [
-        {
-          "name": "Mouse On Mars",
-          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Kompod",
-      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -705,40 +689,52 @@
       "url": "https://open.spotify.com/track/05bgEZbUZ9tEwbhfRN8UJC"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-03-09 04:41:23",
       "album": {
-        "name": "FlimFlam",
-        "url": "https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD"
+        "name": "Octo",
+        "url": "https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ"
       },
       "artists": [
         {
-          "name": "Michael Peter Olsen",
-          "url": "https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO"
-        },
-        {
-          "name": "I Am Robot And Proud",
-          "url": "https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA"
+          "name": "Tim Sean-Lee",
+          "url": "https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I"
         }
       ],
-      "duration_ms": 191000,
-      "name": "FlimFlam",
-      "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
+      "duration_ms": 289041,
+      "name": "Raw Cutz",
+      "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
     },
     {
-      "added_at": "2022-01-13 02:57:00",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
+        "name": "Oquo",
+        "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
       "artists": [
         {
-          "name": "Sky H1",
-          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
         }
       ],
-      "duration_ms": 246604,
-      "name": "Elysian Heights",
-      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
+      "duration_ms": 231529,
+      "name": "Oquo Quooon",
+      "url": "https://open.spotify.com/track/7tzV9VZueBi1IrRwrhCgs5"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Iaora Tahiti",
+        "url": "https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii"
+      },
+      "artists": [
+        {
+          "name": "Mouse On Mars",
+          "url": "https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Kompod",
+      "url": "https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -773,20 +769,20 @@
       "url": "https://open.spotify.com/track/6ls8JBd8DVecHSDZ2ArxsX"
     },
     {
-      "added_at": "2022-03-09 04:41:23",
+      "added_at": "2022-01-13 02:57:00",
       "album": {
-        "name": "Octo",
-        "url": "https://open.spotify.com/album/0HdRPxogDtNU20MGQQlkzQ"
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2QWRgZxiKk6WqR7I5C75y4"
       },
       "artists": [
         {
-          "name": "Tim Sean-Lee",
-          "url": "https://open.spotify.com/artist/40vMsJdhfhZFajVGMWsG5I"
+          "name": "Sky H1",
+          "url": "https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4"
         }
       ],
-      "duration_ms": 289041,
-      "name": "Raw Cutz",
-      "url": "https://open.spotify.com/track/5IMdkWtrs8auJnx0ntGlFC"
+      "duration_ms": 246604,
+      "name": "Elysian Heights",
+      "url": "https://open.spotify.com/track/1IEHhrdBcjiZ4tZ5CiDGb3"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -837,40 +833,24 @@
       "url": "https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC"
     },
     {
-      "added_at": "2022-02-25 05:11:21",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "April Dub",
-        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+        "name": "FlimFlam",
+        "url": "https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD"
       },
       "artists": [
         {
-          "name": "Sancho Meiso Chaya",
-          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+          "name": "Michael Peter Olsen",
+          "url": "https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO"
         },
         {
-          "name": "Koyas",
-          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+          "name": "I Am Robot And Proud",
+          "url": "https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA"
         }
       ],
-      "duration_ms": 260006,
-      "name": "April Dub (Koyas Mix)",
-      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-03-30 04:41:43",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+      "duration_ms": 191000,
+      "name": "FlimFlam",
+      "url": "https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0"
     },
     {
       "added_at": "2022-02-16 00:42:21",
@@ -905,24 +885,40 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-03-30 04:41:43",
       "album": {
-        "name": "Square One",
-        "url": "https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ"
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
       },
       "artists": [
         {
-          "name": "Bj\u00f8rn Torske",
-          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
-        },
-        {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
         }
       ],
-      "duration_ms": 425417,
-      "name": "Arthur",
-      "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
+    },
+    {
+      "added_at": "2022-02-25 05:11:21",
+      "album": {
+        "name": "April Dub",
+        "url": "https://open.spotify.com/album/658oYwejSEjmja1ZLZjLWE"
+      },
+      "artists": [
+        {
+          "name": "Sancho Meiso Chaya",
+          "url": "https://open.spotify.com/artist/5R2atQNZwxCphuQxWh7LGn"
+        },
+        {
+          "name": "Koyas",
+          "url": "https://open.spotify.com/artist/74Ah80XOCgo68rRWaRWnnI"
+        }
+      ],
+      "duration_ms": 260006,
+      "name": "April Dub (Koyas Mix)",
+      "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -945,6 +941,22 @@
       "url": "https://open.spotify.com/track/4FevOfNa6R6UDCXPjJbVFm"
     },
     {
+      "added_at": "2022-07-15 05:19:54",
+      "album": {
+        "name": "K\u00fcbler-Ross",
+        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
+      },
+      "artists": [
+        {
+          "name": "K\u00fcbler-Ross",
+          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
+        }
+      ],
+      "duration_ms": 258174,
+      "name": "Victims of Victimless Crimes",
+      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+    },
+    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
         "name": "Treat Em Right (Boards Of Canada Remix)",
@@ -965,36 +977,24 @@
       "url": "https://open.spotify.com/track/3AETAMXWqZTE1ezv2G8bzG"
     },
     {
-      "added_at": "2022-07-15 05:19:54",
-      "album": {
-        "name": "K\u00fcbler-Ross",
-        "url": "https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH"
-      },
-      "artists": [
-        {
-          "name": "K\u00fcbler-Ross",
-          "url": "https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy"
-        }
-      ],
-      "duration_ms": 258174,
-      "name": "Victims of Victimless Crimes",
-      "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
-    },
-    {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "that day, on the beach",
-        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
+        "name": "Square One",
+        "url": "https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ"
       },
       "artists": [
         {
-          "name": "Matt Kivel",
-          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+          "name": "Bj\u00f8rn Torske",
+          "url": "https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68"
+        },
+        {
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
         }
       ],
-      "duration_ms": 151302,
-      "name": "memorial park",
-      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+      "duration_ms": 425417,
+      "name": "Arthur",
+      "url": "https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1029,6 +1029,22 @@
       "url": "https://open.spotify.com/track/0WBycRtItbpOgbxura7SJR"
     },
     {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "that day, on the beach",
+        "url": "https://open.spotify.com/album/43aoFo7Rdryf3WPpPnnbz1"
+      },
+      "artists": [
+        {
+          "name": "Matt Kivel",
+          "url": "https://open.spotify.com/artist/2WkXhpsmgr8xeRpfF9Bl1w"
+        }
+      ],
+      "duration_ms": 151302,
+      "name": "memorial park",
+      "url": "https://open.spotify.com/track/5TCKrAOgiVCHEgUEgUBL1Q"
+    },
+    {
       "added_at": "2022-03-29 02:05:38",
       "album": {
         "name": "QUAKENBR\u00dcCK [Version]",
@@ -1043,6 +1059,22 @@
       "duration_ms": 279601,
       "name": "Quakenbr\u00fcck - version",
       "url": "https://open.spotify.com/track/19NImMMxeU46iLoMSC1Bmu"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "The Alias Sessions",
+        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+      },
+      "artists": [
+        {
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+        }
+      ],
+      "duration_ms": 320933,
+      "name": "Underwater Lament",
+      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
     },
     {
       "added_at": "2022-03-11 06:16:07",
@@ -1063,18 +1095,34 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "The Alias Sessions",
-        "url": "https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI"
+        "name": "Auroras",
+        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Aeromancias",
+          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
         }
       ],
-      "duration_ms": 320933,
-      "name": "Underwater Lament",
-      "url": "https://open.spotify.com/track/5x85aXgAob5cPgjiiLTcah"
+      "duration_ms": 154838,
+      "name": "Boreal",
+      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
+    },
+    {
+      "added_at": "2022-04-12 01:36:14",
+      "album": {
+        "name": "lavender's love",
+        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "lavender's love",
+      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
     },
     {
       "added_at": "2022-02-25 03:47:46",
@@ -1095,34 +1143,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Auroras",
-        "url": "https://open.spotify.com/album/6STaRwLyivZTQosFvfYQnt"
+        "name": "Fragments",
+        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
       },
       "artists": [
         {
-          "name": "Aeromancias",
-          "url": "https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw"
+          "name": "The Black Dog",
+          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
         }
       ],
-      "duration_ms": 154838,
-      "name": "Boreal",
-      "url": "https://open.spotify.com/track/4SfLJ0ZO8LTbrgxqNKnzys"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "The Crucible",
-        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
-      },
-      "artists": [
-        {
-          "name": "Kabuki",
-          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
-        }
-      ],
-      "duration_ms": 207407,
-      "name": "Green Phase, Part One",
-      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
+      "duration_ms": 210655,
+      "name": "Cup Noodle",
+      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
     },
     {
       "added_at": "2022-01-11 02:28:09",
@@ -1143,18 +1175,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fragments",
-        "url": "https://open.spotify.com/album/2WcSpIMRYszQtLIsDIKMrV"
+        "name": "Ficciones Del Tr\u00f3pico",
+        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
       },
       "artists": [
         {
-          "name": "The Black Dog",
-          "url": "https://open.spotify.com/artist/7qdsk0UXx2jCX7jbp6rxeq"
+          "name": "Molero",
+          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
         }
       ],
-      "duration_ms": 210655,
-      "name": "Cup Noodle",
-      "url": "https://open.spotify.com/track/48ieq4orqgVGclzC5dEMy3"
+      "duration_ms": 269142,
+      "name": "Phasma Gigas",
+      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1171,6 +1203,22 @@
       "duration_ms": 237750,
       "name": "Blush",
       "url": "https://open.spotify.com/track/0TNvT1nOjUcDpamaWDtSxd"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Seelen",
+        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+      },
+      "artists": [
+        {
+          "name": "Doreem",
+          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+        }
+      ],
+      "duration_ms": 275271,
+      "name": "Seele III",
+      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
     },
     {
       "added_at": "2022-01-21 20:11:31",
@@ -1191,34 +1239,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Seelen",
-        "url": "https://open.spotify.com/album/0Bjnjacc6Aihgx4kcYsLT3"
+        "name": "The Crucible",
+        "url": "https://open.spotify.com/album/7CqhUdzJZzxFwvaogHVdv2"
       },
       "artists": [
         {
-          "name": "Doreem",
-          "url": "https://open.spotify.com/artist/3RAvNSmI0guFG0gSYbhVzi"
+          "name": "Kabuki",
+          "url": "https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB"
         }
       ],
-      "duration_ms": 275271,
-      "name": "Seele III",
-      "url": "https://open.spotify.com/track/3TRb8Wm644PAarRbXklzCc"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "Ficciones Del Tr\u00f3pico",
-        "url": "https://open.spotify.com/album/04TdkcgVzFBAEzW4T7b6eV"
-      },
-      "artists": [
-        {
-          "name": "Molero",
-          "url": "https://open.spotify.com/artist/3ItdobbGrJbtjPPZegnSEZ"
-        }
-      ],
-      "duration_ms": 269142,
-      "name": "Phasma Gigas",
-      "url": "https://open.spotify.com/track/2PyLeLsjsVAGzEUPiWIiPm"
+      "duration_ms": 207407,
+      "name": "Green Phase, Part One",
+      "url": "https://open.spotify.com/track/4DCWEaax6GREKHy9XeldmI"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1235,6 +1267,22 @@
       "duration_ms": 338734,
       "name": "Every Since And Then",
       "url": "https://open.spotify.com/track/1RNe4viqCD97PgAChQers4"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "1234,8",
+        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
+      },
+      "artists": [
+        {
+          "name": "Ulises Conti",
+          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
+        }
+      ],
+      "duration_ms": 358862,
+      "name": "161,1",
+      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
     },
     {
       "added_at": "2022-04-29 18:23:46",
@@ -1255,22 +1303,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "1234,8",
-        "url": "https://open.spotify.com/album/02Roi0ruMSmTSaxoiOEF8G"
-      },
-      "artists": [
-        {
-          "name": "Ulises Conti",
-          "url": "https://open.spotify.com/artist/2GbKQKL9D1dkfoSMeWM7vV"
-        }
-      ],
-      "duration_ms": 358862,
-      "name": "161,1",
-      "url": "https://open.spotify.com/track/3RwTPFqufAXpe1n5Mu5qKo"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Muckbirth",
         "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
       },
@@ -1285,20 +1317,20 @@
       "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
-      "added_at": "2022-04-12 01:36:14",
+      "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "lavender's love",
-        "url": "https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo"
+        "name": "Articulation",
+        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "Rival Consoles",
+          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
         }
       ],
-      "duration_ms": 160000,
-      "name": "lavender's love",
-      "url": "https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU"
+      "duration_ms": 219820,
+      "name": "Melodica",
+      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
     },
     {
       "added_at": "2022-06-08 02:10:49",
@@ -1329,20 +1361,20 @@
       "url": "https://open.spotify.com/track/1xNjNoGC0SbQBkMvPxQWe1"
     },
     {
-      "added_at": "2021-10-06 04:42:05",
+      "added_at": "2022-01-12 18:40:19",
       "album": {
-        "name": "Articulation",
-        "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
+        "name": "E2-XO",
+        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
       },
       "artists": [
         {
-          "name": "Rival Consoles",
-          "url": "https://open.spotify.com/artist/05lIUgmmsmTX2N9dCKc8rC"
+          "name": "GCOM",
+          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
         }
       ],
-      "duration_ms": 219820,
-      "name": "Melodica",
-      "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+      "duration_ms": 475965,
+      "name": "XO 4 - Wolf 1061c",
+      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1359,22 +1391,6 @@
       "duration_ms": 270539,
       "name": "Marking Time",
       "url": "https://open.spotify.com/track/43YlD5hr6IVXPAuWz47bSH"
-    },
-    {
-      "added_at": "2022-01-12 18:40:19",
-      "album": {
-        "name": "E2-XO",
-        "url": "https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd"
-      },
-      "artists": [
-        {
-          "name": "GCOM",
-          "url": "https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI"
-        }
-      ],
-      "duration_ms": 475965,
-      "name": "XO 4 - Wolf 1061c",
-      "url": "https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fir Wave",
-        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        }
-      ],
-      "duration_ms": 263750,
-      "name": "Emergence in Nature",
-      "url": "https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "Inkjet / Fluo",
         "url": "https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl"
       },
@@ -1431,6 +1431,22 @@
       "duration_ms": 502161,
       "name": "Fluo",
       "url": "https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
+      },
+      "artists": [
+        {
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
+        }
+      ],
+      "duration_ms": 263750,
+      "name": "Emergence in Nature",
+      "url": "https://open.spotify.com/track/3Si3HzFpu7BEAxc3nh4gQ2"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1503,22 +1519,6 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Fir Wave",
-        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
-      },
-      "artists": [
-        {
-          "name": "Hannah Peel",
-          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Ecovocative",
-      "url": "https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/1KBFcrlvo6vDVOSrWoYy3K"
       },
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2021-10-06 04:42:05",
       "album": {
-        "name": "Comma",
-        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+        "name": "Fir Wave",
+        "url": "https://open.spotify.com/album/4oz4ZcrNgPZknFklLYUQMV"
       },
       "artists": [
         {
-          "name": "Sam Prekop",
-          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+          "name": "Hannah Peel",
+          "url": "https://open.spotify.com/artist/3LRldYGJpCAQT5cZKQyi7o"
         }
       ],
-      "duration_ms": 223750,
-      "name": "Summer Places",
-      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+      "duration_ms": 228000,
+      "name": "Ecovocative",
+      "url": "https://open.spotify.com/track/2xWeaTsQkzeQ5RDahoLmdn"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1623,6 +1623,38 @@
       "duration_ms": 108237,
       "name": "Roses",
       "url": "https://open.spotify.com/track/0hUuWN9s7a0zpDeFG2v2zm"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "Comma",
+        "url": "https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt"
+      },
+      "artists": [
+        {
+          "name": "Sam Prekop",
+          "url": "https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk"
+        }
+      ],
+      "duration_ms": 223750,
+      "name": "Summer Places",
+      "url": "https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ"
+    },
+    {
+      "added_at": "2021-10-06 04:42:05",
+      "album": {
+        "name": "I Can Hear the Birds",
+        "url": "https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 262653,
+      "name": "Bundeena",
+      "url": "https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1"
     },
     {
       "added_at": "2021-10-06 04:42:05",
@@ -1671,38 +1703,6 @@
       "duration_ms": 306794,
       "name": "Calion",
       "url": "https://open.spotify.com/track/7dPY1pM0h0iDZoJNGHnbRX"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "LEGENDO",
-        "url": "https://open.spotify.com/album/62N0giCXIgepaMQl864MIk"
-      },
-      "artists": [
-        {
-          "name": "Lutto Lento",
-          "url": "https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta"
-        }
-      ],
-      "duration_ms": 272327,
-      "name": "Fern Flowers",
-      "url": "https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx"
-    },
-    {
-      "added_at": "2021-10-06 04:42:05",
-      "album": {
-        "name": "I Can Hear the Birds",
-        "url": "https://open.spotify.com/album/4JDu9Wp3oVqBc18hIau11s"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Bundeena",
-      "url": "https://open.spotify.com/track/1sBhHX5W5qmYbMBxvCuzd1"
     }
   ],
   "unique_name": "Refractions",

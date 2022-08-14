@@ -4,7 +4,7 @@
 
 > ¡Ventino y más mujeres, a todo volumen!
 
-116 songs - 6 hr 37 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
+117 songs - 6 hr 40 min - [published](https://open.spotify.com/playlist/4BjclhMki5D8Bs9ZwTy9s8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [Morena](https://open.spotify.com/track/4oZaZ7tGQ8EXVlsd2wXWQ0) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Lil Silvio & El Vega](https://open.spotify.com/artist/53F3cdrVpYq5iM4iaa6AQ3), [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Morena](https://open.spotify.com/album/2tyL1zXbNKyMCCYYgwa3UP) | 4:02 | 2022-01-05 | 2022-03-05 |
 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/7Hwl1ai57xB7TxzICqT3zM) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Muchachitos Feat\. Humbe](https://open.spotify.com/album/6OTpdwUiPRk2KeeCFRZsX9) | 3:05 | 2022-04-08 |  |
 | [Mujer Desastre](https://open.spotify.com/track/5vmnUDKeC89lNuoHJfX0ks) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Delirante](https://open.spotify.com/album/618JrLJV9iCiUQp0u50yF1) | 3:17 | 2022-05-04 |  |
-| [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 | 2022-03-09 |  |
+| [Murió El Amor](https://open.spotify.com/track/09H7KZfOO0PMNLwsUDG2BI) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL) | 3:00 | 2022-03-09 | 2022-08-14 |
+| [Murió El Amor](https://open.spotify.com/track/2D6SrlLoIjmDX8xhCBA06n) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [En Tus Manos](https://open.spotify.com/album/2uLbOZPAiJNsuWKuTS3Ocu) | 3:00 | 2022-08-03 |  |
 | [MÍO AÚN](https://open.spotify.com/track/4W1w9X63tBsilzTXnk8P68) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [MÍO AÚN](https://open.spotify.com/album/4M49OOzgbYzqlUsA2RNQcw) | 3:34 | 2022-01-05 | 2022-03-10 |
 | [Na Na Na](https://open.spotify.com/track/68s5zs7NWOgy3NyJ7U1uzA) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Na Na Na](https://open.spotify.com/album/3ipzv1k3UkOVxIKOeJXZv1) | 2:18 | 2022-03-04 | 2022-03-10 |
 | [Nada](https://open.spotify.com/track/5ihtr3hVJJ7GWgagDiyf1i) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:58 | 2022-01-05 |  |

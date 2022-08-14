@@ -1435,6 +1435,24 @@
     {
       "album": {
         "name": "Happy",
+        "url": "https://open.spotify.com/album/54NpbHDAJ6dRu46WYZxDJq"
+      },
+      "artists": [
+        {
+          "name": "Ha Yea Song",
+          "url": "https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3"
+        }
+      ],
+      "date_added": "2022-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252986,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye"
+    },
+    {
+      "album": {
+        "name": "Happy",
         "url": "https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ"
       },
       "artists": [
@@ -1445,7 +1463,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 252986,
       "name": "Happy",
       "url": "https://open.spotify.com/track/46DptioHrTOMaoRVQWzwVa"

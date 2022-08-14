@@ -1,12 +1,12 @@
 {
   "description": "presa bene \u2728",
-  "num_followers": 6458,
+  "num_followers": 6500,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwODc3MiwwMDAwMDAwMDQyMzhiNDc5MTJlYjNjNTY0MDM2ZTMxNzI3YzYyMjk3",
+  "snapshot_id": "MTY2MDMwODc3MiwwMDAwMDAwMDk1MDI1OWVkOTMwMDk0YjEzNzNiYzM3NmUwNGQwOGMx",
   "tracks": [
     {
       "added_at": "2022-08-12 12:52:52",
@@ -36,12 +36,12 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "duration_ms": 154486,
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
+        "name": "Calm Down",
+        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "duration_ms": 219813,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
         "name": "Kiss Me More (feat. SZA)",
         "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
-        "name": "Calm Down",
-        "url": "https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219813,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -483,6 +483,22 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
         "name": "Jiggle Jiggle",
         "url": "https://open.spotify.com/album/3WcZOQwZQ5gLyNrA0aXUeT"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 97208,
       "name": "Jiggle Jiggle",
       "url": "https://open.spotify.com/track/1I4lCSP69P74nU3a6Su5L2"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -703,6 +703,22 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
+        "name": "Cheese",
+        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
+      },
+      "artists": [
+        {
+          "name": "Stromae",
+          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
+        }
+      ],
+      "duration_ms": 206066,
+      "name": "Alors on danse - Radio Edit",
+      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
         "name": "Rover (feat. DTG)",
         "url": "https://open.spotify.com/album/6XwFgPuBbmmfXEQhCcgPvd"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 167916,
       "name": "Rover (feat. DTG)",
       "url": "https://open.spotify.com/track/4slSrbTK1sNK4I1mDYEthf"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
-        "name": "Cheese",
-        "url": "https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80"
-      },
-      "artists": [
-        {
-          "name": "Stromae",
-          "url": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR"
-        }
-      ],
-      "duration_ms": 206066,
-      "name": "Alors on danse - Radio Edit",
-      "url": "https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
         "name": "edamame (feat. Rich Brian)",
         "url": "https://open.spotify.com/album/1YrACh9xDRGpjrkdWz4MfP"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
-      },
-      "artists": [
-        {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
-        }
-      ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Me Myself & I",
-        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 177879,
-      "name": "Me Myself & I",
-      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Loverboy",
         "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 224520,
       "name": "Loverboy",
       "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1223,6 +1223,26 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
+        "name": "Te Quiero",
+        "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
+      },
+      "artists": [
+        {
+          "name": "Vale pain",
+          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
+        },
+        {
+          "name": "Nko",
+          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
+        }
+      ],
+      "duration_ms": 163624,
+      "name": "Te Quiero",
+      "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
         "name": "Speaking in Tongues (Deluxe Version)",
         "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
       },
@@ -1251,26 +1271,6 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
-        "name": "Te Quiero",
-        "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
-      },
-      "artists": [
-        {
-          "name": "Vale pain",
-          "url": "https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08"
-        },
-        {
-          "name": "Nko",
-          "url": "https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN"
-        }
-      ],
-      "duration_ms": 163624,
-      "name": "Te Quiero",
-      "url": "https://open.spotify.com/track/1MkT5kL2eE8y7s09FxuRTB"
     }
   ],
   "unique_name": "una playlist felice",

@@ -1,12 +1,12 @@
 {
   "description": "Find what's fresh & buzzing in Christian & Gospel music right here!  Cover:  We The Kingdom",
-  "num_followers": 81416,
+  "num_followers": 81435,
   "original_name": "Sing A New Song",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMGMzNzRmNzgzMjc3YzYzMWM0ZDM1YWMxMjhmYjg1ZDg2",
+  "snapshot_id": "MTY1MzY3NDg2NCwwMDAwMDAwMDRkMDY3ZTAyY2IyN2I3ZDU3NDljNmM0M2IxM2NkYzI2",
   "tracks": [
     {
       "added_at": "2022-05-27 18:07:44",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Time and Time Again",
-        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
+        "name": "Take It To Jesus",
+        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
       },
       "artists": [
         {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+          "name": "Anna Golden",
+          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
         }
       ],
-      "duration_ms": 316493,
-      "name": "Time and Time Again",
-      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
+      "duration_ms": 268288,
+      "name": "Take It To Jesus",
+      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -227,22 +227,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Take It To Jesus",
-        "url": "https://open.spotify.com/album/0QFqjo7ISOxM1x4U4DwEg2"
-      },
-      "artists": [
-        {
-          "name": "Anna Golden",
-          "url": "https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe"
-        }
-      ],
-      "duration_ms": 268288,
-      "name": "Take It To Jesus",
-      "url": "https://open.spotify.com/track/2FZzdRlfiXtYnimrqU1OAR"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "I Cry Jesus",
         "url": "https://open.spotify.com/album/4oaP3NFBWzVfEBlOGm05xo"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 218765,
       "name": "I Cry Jesus",
       "url": "https://open.spotify.com/track/0FOa9XhfjDffuC270lfFOG"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Time and Time Again",
+        "url": "https://open.spotify.com/album/3cuIDfmoqlqklQPvIiQQcc"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 316493,
+      "name": "Time and Time Again",
+      "url": "https://open.spotify.com/track/1aP1qmw0tIctlImI0YfeZX"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "This Is the Day",
-        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 325247,
-      "name": "This Is the Day",
-      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Good Lord",
         "url": "https://open.spotify.com/album/6UvRiid9Mlguj4Lt7oYfeF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 199573,
       "name": "Good Lord",
       "url": "https://open.spotify.com/track/1Jy3KTQbhHHr7DEc72oys2"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "This Is the Day",
+        "url": "https://open.spotify.com/album/29KW3MYzgYG4RxdqXPVoP2"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 325247,
+      "name": "This Is the Day",
+      "url": "https://open.spotify.com/track/7irqgbDHvcg4hQwhIR260Y"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
-      },
-      "artists": [
-        {
-          "name": "Steven Curtis Chapman",
-          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
-        }
-      ],
-      "duration_ms": 210599,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Sensibilities",
         "url": "https://open.spotify.com/album/2OE5HEsnnFAKghpqqEkmpl"
       },
@@ -595,18 +579,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Over and Over",
-        "url": "https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A"
+        "name": "Still",
+        "url": "https://open.spotify.com/album/0JQnzBVhMcoqXnUV83l3rl"
       },
       "artists": [
         {
-          "name": "Caleb and Kelsey",
-          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+          "name": "Steven Curtis Chapman",
+          "url": "https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot"
         }
       ],
-      "duration_ms": 215000,
-      "name": "Over and Over",
-      "url": "https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg"
+      "duration_ms": 210599,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/6REtbD1sDtPfL788VWoFZ5"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -639,6 +623,22 @@
       "duration_ms": 205060,
       "name": "In You",
       "url": "https://open.spotify.com/track/1oaifckP3fuz18gjdB1m9z"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Over and Over",
+        "url": "https://open.spotify.com/album/6ZRdE0msjDHKGG076tz87A"
+      },
+      "artists": [
+        {
+          "name": "Caleb and Kelsey",
+          "url": "https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Over and Over",
+      "url": "https://open.spotify.com/track/0llRdEbtFavEzGYkpJjfTg"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "HELP!",
-        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
-      },
-      "artists": [
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 183720,
-      "name": "HELP!",
-      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Landslide",
         "url": "https://open.spotify.com/album/5l9dMNKG2h8bLir0fcNxDF"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 184000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/0FFTRMgjLI5LSbTeJTnrv1"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "HELP!",
+        "url": "https://open.spotify.com/album/0sVketRXWDWlozs5jNopci"
+      },
+      "artists": [
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 183720,
+      "name": "HELP!",
+      "url": "https://open.spotify.com/track/0NYrbgMEKFplv2l4Rzv4hN"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "Heaven's on the Move (Deluxe)",
+        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
+      },
+      "artists": [
+        {
+          "name": "Central Live",
+          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
+        }
+      ],
+      "duration_ms": 350520,
+      "name": "Amen (The Lord's Prayer)",
+      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Somebody Tell That Girl (feat. Anne Wilson)",
         "url": "https://open.spotify.com/album/6Ge39Vt6n9l36QBXRfvMuS"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 210333,
       "name": "Somebody Tell That Girl (feat. Anne Wilson)",
       "url": "https://open.spotify.com/track/3j1MPB5dZLR9kl7k37Ra2u"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Heaven's on the Move (Deluxe)",
-        "url": "https://open.spotify.com/album/5VLaZK1eadF5WEd2N9q0Mc"
-      },
-      "artists": [
-        {
-          "name": "Central Live",
-          "url": "https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn"
-        }
-      ],
-      "duration_ms": 350520,
-      "name": "Amen (The Lord's Prayer)",
-      "url": "https://open.spotify.com/track/5ZHTFwzhEpa1OJMyrpdGE7"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
-      },
-      "artists": [
-        {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
-        }
-      ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "heaven come",
         "url": "https://open.spotify.com/album/7xcKfIPvCRido81mmOFmzs"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Let Me In",
-        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
       },
       "artists": [
         {
-          "name": "Tori Harper",
-          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
         }
       ],
-      "duration_ms": 209017,
-      "name": "Let Me In",
-      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "My King and My Defender",
-        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+        "name": "Let Me In",
+        "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
       },
       "artists": [
         {
-          "name": "Nate Gardiner",
-          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+          "name": "Tori Harper",
+          "url": "https://open.spotify.com/artist/2lDf4hYD0RvgNtYgblvb4i"
         }
       ],
-      "duration_ms": 320981,
-      "name": "My King and My Defender",
-      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+      "duration_ms": 209017,
+      "name": "Let Me In",
+      "url": "https://open.spotify.com/track/28yR8znzFWGvvTGa5bgD6D"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1191,6 +1175,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "My King and My Defender",
+        "url": "https://open.spotify.com/album/52qXEqHIba35MnWdE4XHp1"
+      },
+      "artists": [
+        {
+          "name": "Nate Gardiner",
+          "url": "https://open.spotify.com/artist/7xXcCbR0mR4tBTJnLODynI"
+        }
+      ],
+      "duration_ms": 320981,
+      "name": "My King and My Defender",
+      "url": "https://open.spotify.com/track/1gHCQFLyvxrJPJTmRTsm7U"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Thank God!",
         "url": "https://open.spotify.com/album/6D0WTJd0pUdQNy7VWfgftm"
       },
@@ -1203,38 +1203,6 @@
       "duration_ms": 142151,
       "name": "Thank God!",
       "url": "https://open.spotify.com/track/67nHwqqhRlR4cxbjJSOmkz"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "He Is Not Worried",
-        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 269986,
-      "name": "He Is Not Worried",
-      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
-      },
-      "artists": [
-        {
-          "name": "Jonathan Cain",
-          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
-        }
-      ],
-      "duration_ms": 234185,
-      "name": "Roar",
-      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1255,6 +1223,22 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
+        "name": "He Is Not Worried",
+        "url": "https://open.spotify.com/album/7IDS7l5JGzDfdnBY1P90st"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 269986,
+      "name": "He Is Not Worried",
+      "url": "https://open.spotify.com/track/64bufFeb5iQoZhEhFPVJCb"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
         "name": "Better View, Part II",
         "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 184393,
       "name": "Invited",
       "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/0x1dt3vWR5dfxcVj4SSfnk"
+      },
+      "artists": [
+        {
+          "name": "Jonathan Cain",
+          "url": "https://open.spotify.com/artist/6APhaZEvvKh99J2c3TVM3i"
+        }
+      ],
+      "duration_ms": 234185,
+      "name": "Roar",
+      "url": "https://open.spotify.com/track/6DHIjsUc8GcoouCCb0DWd0"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Born to Love",
-        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
-      },
-      "artists": [
-        {
-          "name": "Sara Groves",
-          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
-        }
-      ],
-      "duration_ms": 229533,
-      "name": "Born to Love",
-      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Mind of Christ (Philippians 2)",
         "url": "https://open.spotify.com/album/78xHy1AXOcqDNevyty5BK6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 242714,
       "name": "Mind of Christ (Philippians 2)",
       "url": "https://open.spotify.com/track/5Ol2f8NBEASW6JYQswBWpi"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Born to Love",
+        "url": "https://open.spotify.com/album/0LBm9x0GNGI68k11b8AIwY"
+      },
+      "artists": [
+        {
+          "name": "Sara Groves",
+          "url": "https://open.spotify.com/artist/25Kfw0CRHgjl9oCgMfEYz7"
+        }
+      ],
+      "duration_ms": 229533,
+      "name": "Born to Love",
+      "url": "https://open.spotify.com/track/6uaXa66iQYahdrRKN3txNP"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "Places (Des Endroits)",
-        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
-      },
-      "artists": [
-        {
-          "name": "Armand Mukenge",
-          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
-        },
-        {
-          "name": "Mbushka",
-          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "Places (Des Endroits)",
-      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "All Things New",
         "url": "https://open.spotify.com/album/4lPhR9VgNgWuPgNZEeuJJw"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 293067,
       "name": "All Things New",
       "url": "https://open.spotify.com/track/48o0RHEBz13nEEAd7wE4Bk"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "Places (Des Endroits)",
+        "url": "https://open.spotify.com/album/7GyGTZAigB3RZKrq3JPjV2"
+      },
+      "artists": [
+        {
+          "name": "Armand Mukenge",
+          "url": "https://open.spotify.com/artist/03FQiZQOAx6vSqB5HflG9i"
+        },
+        {
+          "name": "Mbushka",
+          "url": "https://open.spotify.com/artist/3IRgs9UVzAlK73dZiYI1Ya"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "Places (Des Endroits)",
+      "url": "https://open.spotify.com/track/1woGAdF9icCiBZK0j3yLWg"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "The Greatest Discovery",
-        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Hawkyard",
-          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
-        }
-      ],
-      "duration_ms": 257670,
-      "name": "I Now Have Purpose",
-      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Juntos",
         "url": "https://open.spotify.com/album/5aY9OqT1l9HrMMK66ZbqKe"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 209520,
       "name": "we all need saving",
       "url": "https://open.spotify.com/track/1uNHA4tsOgrkKNQztsEVE5"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "The Greatest Discovery",
+        "url": "https://open.spotify.com/album/4sL4lTlL4SJqho15bwT2LK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Hawkyard",
+          "url": "https://open.spotify.com/artist/3CgmDph153yB1nP3meLZkr"
+        }
+      ],
+      "duration_ms": 257670,
+      "name": "I Now Have Purpose",
+      "url": "https://open.spotify.com/track/0wOfICh5Zv8w1tB78ro0rp"
     },
     {
       "added_at": "2022-05-27 18:07:44",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2022-05-27 18:07:44",
       "album": {
-        "name": "King of Love",
-        "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
-      },
-      "artists": [
-        {
-          "name": "Doug Mathis",
-          "url": "https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "King of Love",
-      "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
-    },
-    {
-      "added_at": "2022-05-27 18:07:44",
-      "album": {
         "name": "Amens and Hallelujahs",
         "url": "https://open.spotify.com/album/6Mi4DjSQbIKECqLOdk5wGI"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 241904,
       "name": "Amens and Hallelujahs",
       "url": "https://open.spotify.com/track/5AaN1OOez8L5uWQcLIL8W4"
+    },
+    {
+      "added_at": "2022-05-27 18:07:44",
+      "album": {
+        "name": "King of Love",
+        "url": "https://open.spotify.com/album/4MQY7rqK8vJK6wLiDuQb74"
+      },
+      "artists": [
+        {
+          "name": "Doug Mathis",
+          "url": "https://open.spotify.com/artist/3eYyzVjQv651odVDdtAfV9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "King of Love",
+      "url": "https://open.spotify.com/track/5shWIh3eSLiACdpeN9zWJe"
     }
   ],
   "unique_name": "Sing A New Song",

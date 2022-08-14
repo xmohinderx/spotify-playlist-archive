@@ -1,12 +1,12 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. En portada: Cuisillos de Arturo Mac\u00edas",
-  "num_followers": 90826,
+  "num_followers": 91036,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMDE1M2ZjOWYxYWRmNjRjZTQzM2M4ZmU5MzU4Yzg2MTEz",
+  "snapshot_id": "MTYzNTI1NjI2NCwwMDAwMDAwMGIzZmY4NTdhYTcyMzVmNzFmZjdjZjVmMGUyNmZmNjQy",
   "tracks": [
     {
       "added_at": "2021-10-22 05:00:00",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Tambora, Vol. 2",
         "url": "https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 154110,
       "name": "Soy C\u00f3mo Quiero Ser",
       "url": "https://open.spotify.com/track/7g9AOwPEt1zWoxV2ZyQ57m"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "El Ultimo Trago",
-        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+        "name": "Banda Sinaloense los Recoditos",
+        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
       },
       "artists": [
         {
-          "name": "Banda Pelillos",
-          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+          "name": "Banda Sinaloense Los Recoditos",
+          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
         }
       ],
-      "duration_ms": 189333,
-      "name": "Frio De Ausencia",
-      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
+      "duration_ms": 150999,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -367,18 +367,34 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Banda Sinaloense los Recoditos",
-        "url": "https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy"
+        "name": "Joan Sebastian con Tambora",
+        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
       "artists": [
         {
-          "name": "Banda Sinaloense Los Recoditos",
-          "url": "https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 150999,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/6oRP3CKIpSqVsJKYrxiYHp"
+      "duration_ms": 157222,
+      "name": "El Viejo Joven",
+      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "El Ultimo Trago",
+        "url": "https://open.spotify.com/album/5it3AmjHepFq7wf1jfCJxb"
+      },
+      "artists": [
+        {
+          "name": "Banda Pelillos",
+          "url": "https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Frio De Ausencia",
+      "url": "https://open.spotify.com/track/18pyEi1Lu4421p3WqRoevn"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -395,22 +411,6 @@
       "duration_ms": 188310,
       "name": "Vamonos de Fiesta",
       "url": "https://open.spotify.com/track/2WBdwIbWx9glAFgzuwqCEI"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Joan Sebastian con Tambora",
-        "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 157222,
-      "name": "El Viejo Joven",
-      "url": "https://open.spotify.com/track/6sLCQVaplvobjCnNdTjupA"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Mis 20 Exitos Originales",
-        "url": "https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4"
-      },
-      "artists": [
-        {
-          "name": "Jessie Morales El Original De La Sierra",
-          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
-        }
-      ],
-      "duration_ms": 163186,
-      "name": "Creo Estar So\u00f1ando",
-      "url": "https://open.spotify.com/track/1NGqwMt7E6g7D4b7Fywkcu"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Recuerdos y algo m\u00e1s",
         "url": "https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 208533,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/2QE8R10kBgZkgosYsrChT7"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Mis 20 Exitos Originales",
+        "url": "https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4"
+      },
+      "artists": [
+        {
+          "name": "Jessie Morales El Original De La Sierra",
+          "url": "https://open.spotify.com/artist/268KnHQWmmgiX2O8bxoknW"
+        }
+      ],
+      "duration_ms": 163186,
+      "name": "Creo Estar So\u00f1ando",
+      "url": "https://open.spotify.com/track/1NGqwMt7E6g7D4b7Fywkcu"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "De Parranda Con La Banda",
-        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
+        "name": "Frente A Frente",
+        "url": "https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 219080,
-      "name": "Que Solo Estoy Sin Ti",
-      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
+      "duration_ms": 180337,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Frente A Frente",
-        "url": "https://open.spotify.com/album/46KKtw1azs960pcIL0ZwN6"
+        "name": "De Parranda Con La Banda",
+        "url": "https://open.spotify.com/album/5lR097ub6SOPcFOzUzE8nq"
       },
       "artists": [
         {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 180337,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/283izuWi8Jtbr1u0r3LLG0"
+      "duration_ms": 219080,
+      "name": "Que Solo Estoy Sin Ti",
+      "url": "https://open.spotify.com/track/3mFqOvXj4w2rh8pAlacsHv"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Como Este Loco",
-        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
-      },
-      "artists": [
-        {
-          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
-          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
-        }
-      ],
-      "duration_ms": 221666,
-      "name": "Como Este Loco",
-      "url": "https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "La Estrella de Los Bailes",
         "url": "https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 212640,
       "name": "Si Tu No Estas",
       "url": "https://open.spotify.com/track/1ajk4KliWOc9TeGXwtUR8y"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Como Este Loco",
+        "url": "https://open.spotify.com/album/7bocxXAgzQYgSYwS2AIM2f"
+      },
+      "artists": [
+        {
+          "name": "Julio Preciado Y Su Banda Perla Del Pacifico",
+          "url": "https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p"
+        }
+      ],
+      "duration_ms": 221666,
+      "name": "Como Este Loco",
+      "url": "https://open.spotify.com/track/5tf3V8LihD79bK9Tg8d841"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Una Aventura",
+        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
+      },
+      "artists": [
+        {
+          "name": "Banda La Coste\u00f1a",
+          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
+        }
+      ],
+      "duration_ms": 185469,
+      "name": "Al Mismo Nivel",
+      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Mis 20 Exitos Originales",
         "url": "https://open.spotify.com/album/4ljRe6ASjOEUrEl5ElNwH4"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 215947,
       "name": "Esa Chica Me Vacila",
       "url": "https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Una Aventura",
-        "url": "https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu"
-      },
-      "artists": [
-        {
-          "name": "Banda La Coste\u00f1a",
-          "url": "https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7"
-        }
-      ],
-      "duration_ms": 185469,
-      "name": "Al Mismo Nivel",
-      "url": "https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
-        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 179666,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Nos Pertenecemos",
         "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 276540,
       "name": "A Gozar",
       "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Pa' Puros Compas!, Vol. 1: Por una Mujer Casada y Otras Rancheras",
+        "url": "https://open.spotify.com/album/5jqZyPBi6NXenINRZ7e0QJ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 179666,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/1GzuoVH7AOB9lsU8uI7mT0"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
-        "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
         }
       ],
-      "duration_ms": 177800,
-      "name": "Fue Tan Poco Tu Cari\u00f1o",
-      "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
+      "duration_ms": 235554,
+      "name": "C\u00f3mo Te Voy A Olvidar",
+      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Africanos Al Ataque",
-        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+        "name": "Con la N\u00famero 1: 13 Rancheras y Cumbias",
+        "url": "https://open.spotify.com/album/2wpgtaMNbDEOs6Woe0PUhk"
       },
       "artists": [
         {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 205635,
-      "name": "Ll\u00e9vame Rosas Y Olvida",
-      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
+      "duration_ms": 177800,
+      "name": "Fue Tan Poco Tu Cari\u00f1o",
+      "url": "https://open.spotify.com/track/6qm7ozFRARBhjOfvhygUNn"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
+        "name": "Africanos Al Ataque",
+        "url": "https://open.spotify.com/album/05W649wdes7jKusqma34Gn"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 205635,
+      "name": "Ll\u00e9vame Rosas Y Olvida",
+      "url": "https://open.spotify.com/track/74Ug67cm77x3i28vjBOGqM"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
         "name": "Panfilita",
         "url": "https://open.spotify.com/album/2Sm9fHLHxTmnBegRtO9U6I"
       },
@@ -1487,22 +1503,6 @@
       "duration_ms": 172199,
       "name": "Esta Cobardia",
       "url": "https://open.spotify.com/track/71SLmnYBRF4ZTRedzfprim"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 235554,
-      "name": "C\u00f3mo Te Voy A Olvidar",
-      "url": "https://open.spotify.com/track/67CMw3dhM3fsSeNxXgFqcL"
     },
     {
       "added_at": "2021-10-22 05:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-10-22 05:00:00",
       "album": {
-        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
-        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
-      },
-      "artists": [
-        {
-          "name": "Mexicano",
-          "url": "https://open.spotify.com/artist/5LsvX0qNNtRQgnkzJlKbwL"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Qu\u00e9 Sabrosa Est\u00e1",
-      "url": "https://open.spotify.com/track/1RFumKyLtFKNeUjdRtV8J2"
-    },
-    {
-      "added_at": "2021-10-22 05:00:00",
-      "album": {
         "name": "Ahy Te Va Kora",
         "url": "https://open.spotify.com/album/6uv5LHEjoT0mvY3AFJG52h"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 154413,
       "name": "Chiquilla Cari\u00f1osa",
       "url": "https://open.spotify.com/track/2iYIFcJsRJqve6j2YKJ91e"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Su Majestad Mi Banda El Mexicano Con Ustedes...",
+        "url": "https://open.spotify.com/album/1s3BrMCfyfzqth3RzFdeSl"
+      },
+      "artists": [
+        {
+          "name": "Mexicano",
+          "url": "https://open.spotify.com/artist/5LsvX0qNNtRQgnkzJlKbwL"
+        }
+      ],
+      "duration_ms": 240094,
+      "name": "Qu\u00e9 Sabrosa Est\u00e1",
+      "url": "https://open.spotify.com/track/1RFumKyLtFKNeUjdRtV8J2"
     },
     {
       "added_at": "2021-10-22 05:00:00",

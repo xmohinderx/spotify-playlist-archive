@@ -4,7 +4,7 @@
 
 > Todo el sonido indie de Chile\. Foto: Angel Maulén.
 
-243 songs - 14 hr 53 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
+244 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/1gsuQWHZM7TnxSlSgVrIUw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Danza](https://open.spotify.com/track/1FujFNI2naG0XkDCf0fdJz) | [Keyo Catto](https://open.spotify.com/artist/2LlKHzvYJMeJuwdk02KUec) | [Danza](https://open.spotify.com/album/4zrP2XzPDDB4WuouYnTIee) | 3:45 | 2022-07-08 |  |
 | [Darkside](https://open.spotify.com/track/5LBlK0wPg9skXJPDzJUtdJ) | [Vale Castillo](https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF), [Cuatrobeats](https://open.spotify.com/artist/5VH4yORLdFVHVSqCYAjjoh) | [Darkside](https://open.spotify.com/album/6dMrlT3y9pTZlGvIK3m7KY) | 3:24 | 2022-04-15 | 2022-07-14 |
 | [De Cerca](https://open.spotify.com/track/1eYOUJWh7BADGKPxhXCM7u) | [Los Días Silvestres](https://open.spotify.com/artist/51ewyZ0SAKgCG9dqme1Rff) | [Cautiverio](https://open.spotify.com/album/7hfyFpnxxzKZGG8fnzwCJ7) | 5:35 | 2022-04-15 | 2022-07-26 |
-| [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-08 |  |
+| [Dentro, Fuera](https://open.spotify.com/track/33IzHjoiz3eJWnQTtQVf9s) | [DPSE](https://open.spotify.com/artist/3UI2kcGWO3drAIwRiRz69M) | [Dentro, Fuera](https://open.spotify.com/album/27FYJ0ynBiNZHQAsA1VoIf) | 4:06 | 2022-07-08 | 2022-08-14 |
 | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/track/1qG0vfV4Choc3a0ge6M1TC) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Depresión Estacional \(Pittosporum\)](https://open.spotify.com/album/6LB7CDWDiFvIB5JoeVp7we) | 3:29 | 2022-04-15 |  |
 | [Detrás de Tu Espejo](https://open.spotify.com/track/0tJR8S5FotmfQSjbjedAXO) | [Quinal](https://open.spotify.com/artist/5dxqPUdOChFnQ4VbZjGymp) | [Detrás de Tu Espejo](https://open.spotify.com/album/2AMX8VrSxSKltPdfbhiS1F) | 3:46 | 2022-04-15 | 2022-07-24 |
 | [Devorarte](https://open.spotify.com/track/66JRlkCDrKxJo25iBqO2Co) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Vida Mía ♡](https://open.spotify.com/album/0lodGLPms9cyzlTtnuuHno) | 3:45 | 2022-04-15 |  |
@@ -137,10 +137,11 @@
 | [Me Puedo Morir](https://open.spotify.com/track/3nb9xSUUpEGdKuFtpgR91I) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Me Puedo Morir](https://open.spotify.com/album/3BYhGn7oJWC1ML1Yvzp39c) | 4:04 | 2022-04-15 | 2022-08-04 |
 | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/track/5wnn9v60XXqJIdP2e7yPHK) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Camino Es Apenas Una Huella](https://open.spotify.com/album/5YqfkhcnCPjF7JF5eBY2U0) | 3:18 | 2022-04-15 | 2022-08-03 |
 | [Mi Sol Menor](https://open.spotify.com/track/0HJfgUh8DE2FzNqKwjR1St) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [Mi Sol Menor](https://open.spotify.com/album/47JB62v141rFEtfppIGVj7) | 4:30 | 2022-04-15 | 2022-07-28 |
-| [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 |  |
+| [Milagros](https://open.spotify.com/track/2TBePNbBTf5wbDI7Rebmp8) | [DINDI JANE](https://open.spotify.com/artist/3NtqMR9pkptsO9mRHUmYDJ) | [Milagros](https://open.spotify.com/album/0kPuuj3n0l0Wi2Sg1Gj5H1) | 3:10 | 2022-04-15 | 2022-08-14 |
 | [Mordisco](https://open.spotify.com/track/6FBzbqhYjRilxEM2Kss8Bv) | [Soy Irracional](https://open.spotify.com/artist/6PKKXAHepFCoV4cAtwPUna) | [Modernica](https://open.spotify.com/album/785tbYjj5baApQGkSIiMkq) | 3:09 | 2022-04-15 | 2022-07-27 |
 | [Musical \- Remix](https://open.spotify.com/track/4G4MuiwszzGmAq9JkvYeIu) | [palma](https://open.spotify.com/artist/7Fpc0RppTKkMDhWJelaKz3), [Yaguar Beats](https://open.spotify.com/artist/1QWeqTfs4i1yVqYybGHpBP) | [Musical \(Remix\)](https://open.spotify.com/album/0IUzPLNB37oEO7TxIAeUq9) | 3:47 | 2022-07-08 | 2022-07-30 |
 | [Nabundearé](https://open.spotify.com/track/35TRct8Yqqmy0XUPg8UFbn) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/6SnUm6EI8bn6uFV7p2LIIR) | 2:55 | 2022-04-15 | 2022-08-11 |
+| [Nabundearé](https://open.spotify.com/track/53qZjbmjh3d3nbzxEzKOkF) | [Nicole Bunout](https://open.spotify.com/artist/5jyOjqLd2YRArrVlguvv4F) | [Crisálida](https://open.spotify.com/album/76XYjBKZrBuAj50Vyxpiur) | 2:55 | 2022-08-12 |  |
 | [Negación](https://open.spotify.com/track/2f0RBeCZ2lP3Ql0T53w2Er) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Negación](https://open.spotify.com/album/4xFkB2ZPujTA2EPCIHVgr9) | 4:26 | 2022-04-15 |  |
 | [Ngen](https://open.spotify.com/track/3fPT6RHEUzylzTDsIRYsrM) | [Valentina Peralta](https://open.spotify.com/artist/2zsV26r2jyjg8toXnBiEId), [Mare Advertencia Lirika](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh), [TÜFACHI BEAT](https://open.spotify.com/artist/6k5nnu2Y7sy4eg2QR9gBbQ), [ÜÑÜM](https://open.spotify.com/artist/5vdG5FPdkNvlzxE8ecl3sB) | [Ngen](https://open.spotify.com/album/7Hn97v4Hrtx9STRHNI7vO4) | 3:52 | 2022-04-15 | 2022-07-29 |
 | [Nictofobia](https://open.spotify.com/track/5hoD4dyws4eNkUiFnIAoNE) | [Algunos Amistosos](https://open.spotify.com/artist/5WanPtdbCY6UgiYy0pPhPx) | [Nictofobia](https://open.spotify.com/album/1LdKQVzzuCRjnbdLU597wL) | 5:37 | 2022-04-15 | 2022-07-24 |
@@ -172,7 +173,7 @@
 | [Piel](https://open.spotify.com/track/4AmhpqjEzqCVVUWuzyNf5l) | [De Mónaco](https://open.spotify.com/artist/67bpPvzKD2IiNBqcxBHAII) | [Piel](https://open.spotify.com/album/2LVCOZjkJAcFtfn7Iru7Ay) | 3:27 | 2022-04-15 | 2022-07-28 |
 | [pienso tanto en abrazarte](https://open.spotify.com/track/3xiqRbTKonu8IfhiWsjFx7) | [Koe](https://open.spotify.com/artist/4lfbckka4VlMvoayZnLvoE), [LoCataLira](https://open.spotify.com/artist/41EwEKA7CUCUGvwu2cP0c8) | [pienso tanto en abrazarte](https://open.spotify.com/album/0MYC7UTlvJdqUTVp1Dty70) | 3:38 | 2022-07-22 |  |
 | [PIÑA](https://open.spotify.com/track/1hH1l9tujegA2cpwesXEJH) | [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [PIÑA](https://open.spotify.com/album/4VNoUHYMwdSivQzWmxpYZx) | 3:18 | 2022-04-15 | 2022-07-29 |
-| [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 | 2022-07-27 |
+| [Playa](https://open.spotify.com/track/3D7dTIOjSEeCeXkhc1vyMF) | [Juanita La O](https://open.spotify.com/artist/4E7BbNhnHWRifH0LUUsQoT) | [Playa](https://open.spotify.com/album/1pAyDmvq2KzwzuNqVJszFJ) | 2:55 | 2022-04-15 |  |
 | [PODER \- Lilith: 6](https://open.spotify.com/track/71UfArMaP4KvUhVBPswRIo) | [MARÍA](https://open.spotify.com/artist/0L26KOsNaEDlbjWUUSWcZ3), [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [PODER \- Lilith: 6](https://open.spotify.com/album/11qFPljBCOXEVSWimELQ0S) | 3:11 | 2022-04-29 |  |
 | [Por Esta Noche](https://open.spotify.com/track/4eKSEGX7T9HWN9zT9T5KpJ) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [\#777](https://open.spotify.com/album/3xc7k3yrB0A83b9tIP3PQ2) | 3:36 | 2022-05-13 | 2022-06-13 |
 | [Por Qué Me Tratas Tan Bien](https://open.spotify.com/track/4Uo5LSC0gjfu7EurU7gMHo) | [Angel Maulén](https://open.spotify.com/artist/4JwEtcpqvM9prTGz9Py1hh) | [El Pulso](https://open.spotify.com/album/3WTMigtRHTS0btKmQNNl7q) | 3:41 | 2022-08-12 |  |

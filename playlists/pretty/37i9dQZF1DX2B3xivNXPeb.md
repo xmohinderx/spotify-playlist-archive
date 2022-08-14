@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,937 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,976 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 19 | [Take My Breath \- Single Version](https://open.spotify.com/track/6M3PsepEj5gyJoIi7Xvr7u) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Take My Breath](https://open.spotify.com/album/4lBrDelXR6Sn0k54a7UWMz) | 3:40 |
 | 20 | [Send Me on My Way](https://open.spotify.com/track/6hs3SDnbO3f6VQuPO4KBEb) | [Rusted Root](https://open.spotify.com/artist/2M3vnW1p5w4uPRkLYTbvdB) | [Music From Party of Five](https://open.spotify.com/album/16rXhq1Hnf0568QnzYpHn3) | 4:23 |
 | 21 | [Best of My Love](https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY) | [The Emotions](https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr) | [Rejoice](https://open.spotify.com/album/7iJCy3T66FJmXT7LGVd3QA) | 3:40 |
-| 22 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
-| 23 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
+| 22 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
+| 23 | [Little Bit of Love](https://open.spotify.com/track/2sX7lJXsOYGP1Us6CqM9t1) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Little Bit of Love](https://open.spotify.com/album/0NZUGfUMwjt3bPlVHxnIN2) | 3:46 |
 | 24 | [Banana Pancakes](https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:11 |
 | 25 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 26 | [Almost \(Sweet Music\)](https://open.spotify.com/track/5Apvsk0suoivI1H8CmBglv) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw) | 3:37 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 53 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 |
 | 54 | [Let Me Let You Go](https://open.spotify.com/track/5uFKO19VWXkT5FgdrKnKRB) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Let Me Let You Go](https://open.spotify.com/album/3HzMam8I1NUVU4yC4aBaCk) | 2:50 |
 | 55 | [What Love Is](https://open.spotify.com/track/7x2fnP5eaWfb3izrpm0U6u) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Heaven in a World so Cold](https://open.spotify.com/album/6Mu28q2JNIpShD39DO2coj) | 3:14 |
-| 56 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 |
-| 57 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
+| 56 | [Tell Me](https://open.spotify.com/track/2jrAN4OhqpaeWrE8Krt2to) | [Conor Albert](https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M) | [Collage 1](https://open.spotify.com/album/6OdqJNtnslCLIeUZt5jogs) | 3:20 |
+| 57 | [la la la that’s how it goes](https://open.spotify.com/track/5Pw4Q2Z2NttJtISFFxe9MK) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [no song without you](https://open.spotify.com/album/3DG5MS8iKYcJROCnb1DYDf) | 3:39 |
 | 58 | [Hope](https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 4:30 |
 | 59 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 |
 | 60 | [My Way](https://open.spotify.com/track/3OFnCTyDRIbv4WDRFotvMG) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [All Love Everything \(Deluxe\)](https://open.spotify.com/album/2oA8BwC6GV58z35khUb1Tx) | 3:30 |
 
-Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMDZmNjliZGFlYTBjZTY0NDJlYjAzYWJkNDZjOTNiN2Y1`
+Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMGQ3YmE2OTlhYjU2OTFjNTA1NWU1YjNiNDYxOGQ3MjZk`

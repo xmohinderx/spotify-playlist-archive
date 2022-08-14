@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 
 > Songs from all genres get a punk rock makeover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,797 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,900 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 27 | [Semi\-Charmed Life](https://open.spotify.com/track/3a1gNXvc0OjJ42BZQSVWrq) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Semi\-Charmed Life](https://open.spotify.com/album/5PVydgL5d7U5aaciynOebz) | 3:44 |
 | 28 | [Losing My Religion](https://open.spotify.com/track/6RaND67ynZKamGlL6esD5P) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Losing My Religion](https://open.spotify.com/album/6mlscNhLWoCtRSoNUSwGGo) | 4:29 |
 | 29 | [XO Tour Llif3](https://open.spotify.com/track/2T1OgnCnRWulJPXYhXqwNt) | [Driveways](https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R) | [XO Tour Llif3](https://open.spotify.com/album/0sGrr63eLGmDyx2iRclNPR) | 3:00 |
-| 30 | [Love Yourself](https://open.spotify.com/track/7Bzc5H5AjV7Bd9f7mayLdG) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:26 |
+| 30 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 |
 | 31 | [Kids in America](https://open.spotify.com/track/6q0EVDx14hHj3DCmQKqFIM) | [Billie Joe Armstrong](https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG), [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Kids in America](https://open.spotify.com/album/1vkImX94Ko16MnEb5kUca8) | 3:08 |
-| 32 | [Crawling](https://open.spotify.com/track/2hGx3rghGVc4agPAB2gFby) | [Dream State](https://open.spotify.com/artist/3PPxT6AXgPvvajfvP1LQtw) | [Crawling](https://open.spotify.com/album/4sv3EzDGjdOWmGoF16mvuc) | 3:32 |
+| 32 | [Love Yourself](https://open.spotify.com/track/7Bzc5H5AjV7Bd9f7mayLdG) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [Punk Goes Pop, Vol\. 7](https://open.spotify.com/album/3vpUxVKjm32bKN7c3LkNxU) | 3:26 |
 | 33 | [Let It Go](https://open.spotify.com/track/5RRPVODLjU7eQmxOek8DHQ) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [From The Screen To Your Stereo 3](https://open.spotify.com/album/5kXa75AebVa3cTR07N4fxv) | 3:16 |
 | 34 | [Shape of my Heart](https://open.spotify.com/track/04Bg0IZ8mMs7OniLNGibX4) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Shape of my Heart](https://open.spotify.com/album/6RD8qEnRpGirna7pYeXTPe) | 5:37 |
 | 35 | [Hot Girl Bummer](https://open.spotify.com/track/4NFUmJY3lp5pCk5UB3nLdK) | [ANSON](https://open.spotify.com/artist/4F0mwtDsLi4dKzug5JB5gn) | [Got You Covered, Vol\. 4](https://open.spotify.com/album/5wF0HilPu6SqcCh3ktN6ax) | 3:26 |
@@ -83,19 +83,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 73 | [Youngblood](https://open.spotify.com/track/4p45ziVRdZu8vRIHbklfY0) | [Colour & Shade](https://open.spotify.com/artist/0Kp0fg86lfOzSBpM3CafS8) | [Youngblood](https://open.spotify.com/album/11edJDSbJOQ09CnqJUp2fi) | 3:46 |
 | 74 | [There's Nothing Holdin' Me Back](https://open.spotify.com/track/4dUedvWuuvVMW5qwdGfyrE) | [The Gospel Youth](https://open.spotify.com/artist/5EWAtvRDy8I6sSYlMjD6g0) | [There's Nothing Holdin' Me Back](https://open.spotify.com/album/4USDJ3abnqMqHJxL2IRgPu) | 3:23 |
 | 75 | [Better Now](https://open.spotify.com/track/6FKo9Wvp9XPLlicjMmGjjf) | [The Animal In Me](https://open.spotify.com/artist/6hyAYqBdxyramm4W9TB7R0) | [Better Now](https://open.spotify.com/album/340cO1YuhIGhjDznigJyDM) | 4:05 |
-| 76 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
-| 77 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
-| 78 | [Look What You Made Me Do](https://open.spotify.com/track/2z7EQG8IckuFX0vRCiW0kk) | [Keeping Secrets](https://open.spotify.com/artist/2Gp5P3qR66AP7AJ7firOB8) | [Look What You Made Me Do](https://open.spotify.com/album/3i61YI0if4khSlVvMdp8BE) | 3:35 |
-| 79 | [Self Esteem](https://open.spotify.com/track/6zXPfmbRwPKhDMQtZID9ed) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Self Esteem](https://open.spotify.com/album/0Mkay8p1oppeATmDrIfDfA) | 2:25 |
-| 80 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
+| 76 | [Don't Stop Me Now](https://open.spotify.com/track/6tUejaw8c0HZDg9TM4lXXf) | [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E) | [Don't Stop Me Now](https://open.spotify.com/album/1YwulgouNoPhGJ3qLB511P) | 3:20 |
+| 77 | [So Done](https://open.spotify.com/track/6TVz1JegvHHx9a0BlMiURt) | [Five AM](https://open.spotify.com/artist/5yOIBW9Rxj73pJrqhW0fpS) | [So Done](https://open.spotify.com/album/35btLqmmx303H9UxLwUSrv) | 1:59 |
+| 78 | [Self Esteem](https://open.spotify.com/track/6zXPfmbRwPKhDMQtZID9ed) | [311](https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K) | [Self Esteem](https://open.spotify.com/album/0Mkay8p1oppeATmDrIfDfA) | 2:25 |
+| 79 | [Losing My Religion](https://open.spotify.com/track/6wLbbFtRtoWoVXB3PEOHwW) | [The Wonder Years](https://open.spotify.com/artist/0nq64XZMWV1s7XHXIkdH7K) | [Losing My Religion](https://open.spotify.com/album/5DrlVXdnx3j7ZL6ZEuvbW2) | 4:28 |
+| 80 | [Look What You Made Me Do](https://open.spotify.com/track/2z7EQG8IckuFX0vRCiW0kk) | [Keeping Secrets](https://open.spotify.com/artist/2Gp5P3qR66AP7AJ7firOB8) | [Look What You Made Me Do](https://open.spotify.com/album/3i61YI0if4khSlVvMdp8BE) | 3:35 |
 | 81 | [Welcome to the Black Parade](https://open.spotify.com/track/36CYOzebYcdwKFI0hVQoGV) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Welcome to the Black Parade](https://open.spotify.com/album/35Kb6h06xzxyzDFsPro6zQ) | 5:03 |
 | 82 | [A.M\. 180](https://open.spotify.com/track/24qP7UXfTVNu0JPdPlaQFg) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [A.M\. 180](https://open.spotify.com/album/2rP57VRk7u0JDiLKW9TbNz) | 3:03 |
 | 83 | [Treat You Better](https://open.spotify.com/track/18af6i5FTYmaA4hZIgHcxU) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Treat You Better](https://open.spotify.com/album/54FrEL61hWG3qKQK07lnbR) | 3:07 |
 | 84 | [What Went Wrong](https://open.spotify.com/track/6b6GTsdxRM7vm1f61LDO6r) | [Feelbacks](https://open.spotify.com/artist/1LkmMVZtvEUHKqWTcPgn3I) | [What Went Wrong](https://open.spotify.com/album/64Xl98jaXY2UwGAl5pj8tu) | 3:17 |
-| 85 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
-| 86 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
-| 87 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
-| 88 | [Santeria](https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:09 |
+| 85 | [Gives You Hell](https://open.spotify.com/track/14jFxgA3tyHWwG3x5n3dkZ) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:30 |
+| 86 | [How's It Gonna Be](https://open.spotify.com/track/7bVTH2yQqGAkFNsyVvo533) | [I Call Fives](https://open.spotify.com/artist/3vsi8vM5Xs8p1NEQuZWP70) | [Someone That's Not You](https://open.spotify.com/album/1dMfFikNXq1cjw1nSv0JQj) | 3:13 |
+| 87 | [Santeria](https://open.spotify.com/track/0FTHyxBgSKvK2d45djO8E4) | [Save Ferris](https://open.spotify.com/artist/1PAi6SNPtaiFqTRiTfecFr) | [The House That Bradley Built \(Deluxe Edition\)](https://open.spotify.com/album/0N5WXAYHV9oq1Xk2YJUYvg) | 3:09 |
+| 88 | [Mr\. Brightside](https://open.spotify.com/track/6888KUSNyofc6EQD5IwOFB) | [FigureItOut](https://open.spotify.com/artist/1IuyjI3FTndgSAXk2cMXXV) | [Mr\. Brightside](https://open.spotify.com/album/6s1utBdxP5zDWN29GjdbLx) | 3:21 |
 | 89 | [Dynamite](https://open.spotify.com/track/1c20ubPE1Rj6Eg6R0cgiJF) | [Brooklane](https://open.spotify.com/artist/6aN4FC9kUb3tG4sFgIR6pW) | [Dynamite](https://open.spotify.com/album/5YLKBH5NM6nRKpGVGcZMqt) | 3:19 |
 | 90 | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/track/6YBz2t787QoPWZrIww5AvV) | [SWMRS](https://open.spotify.com/artist/7dLkuQHF2ijbK6jiLFyIWM), [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [PEOPLE \(feat\. FIDLAR\)](https://open.spotify.com/album/6uHbCLoVuonbsJrIVvELKI) | 2:49 |
 | 91 | [Adore You](https://open.spotify.com/track/520z2yumDjdc18QvmWk5vM) | [First to Eleven](https://open.spotify.com/artist/3Cpk1xlScqbYhmv5EqoI4Y) | [Covers, Vol\. 5](https://open.spotify.com/album/6SFXA3Oo0WxQmcqucfHPVm) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDzsRodF91I.md) - [plain]
 | 99 | [Give Yourself A Try](https://open.spotify.com/track/6PtjoQQDYygkbN13dg4OIv) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Give Yourself A Hell](https://open.spotify.com/album/2r9VWcYFQft2V6PBQkRIA7) | 3:19 |
 | 100 | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/track/5iEoETZwnDZKepux6rixhT) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [Two Tickets to Paradise \(2006\)](https://open.spotify.com/album/2EKyluXV8ICyAfNiSI0WSG) | 3:15 |
 
-Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDdhNWM5ODhiMTMwOTU0NjhmZmY3Y2NmNTgyYTI5NDM4`
+Snapshot ID: `MTYzMDYwMjgyMSwwMDAwMDAwMDQzMjQ0M2Y3MDhjOGZkYWM2MDUxNDY3NmE2MzJkNWUw`

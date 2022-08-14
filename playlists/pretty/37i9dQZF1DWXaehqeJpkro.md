@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,051 likes - 148 songs - 9 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,041 likes - 148 songs - 9 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 95 | [Dreams Come True](https://open.spotify.com/track/6rVCUwfnuYTAsX4P9fIdIu) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Dreams Come True \- SM STATION](https://open.spotify.com/album/4Jzx0XAORPKQ3v7EaL8Ful) | 3:24 |
 | 96 | [If there was practice in love \(Prod\. 2soo\)](https://open.spotify.com/track/3qCL1z9ex9cM26sAYfAHxU) | [Lim Jae Hyun](https://open.spotify.com/artist/3GXxRsiCLmZvM5oSeHbNdO) | [If there was practice in love](https://open.spotify.com/album/4SiT9ClPYVbk7wNEZOOhNB) | 4:15 |
 | 97 | [The Snowman](https://open.spotify.com/track/6HgeeiHqVpxxFCB0bjBRT6) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Spring Again](https://open.spotify.com/album/1lyirN2uEAOt9M6CvkY9Rk) | 3:56 |
-| 98 | [Happy](https://open.spotify.com/track/46DptioHrTOMaoRVQWzwVa) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ) | 4:12 |
+| 98 | [Happy](https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/54NpbHDAJ6dRu46WYZxDJq) | 4:12 |
 | 99 | [For each other's sake](https://open.spotify.com/track/0Br1zQ0fUgzeYcQqrvBOqO) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [For each other's sake](https://open.spotify.com/album/7AOE9KYI6l3X8oSiEeOVdB) | 4:16 |
 | 100 | [Live Well](https://open.spotify.com/track/7ICInvaSc128iJAeA6F2E5) | [V.O.S](https://open.spotify.com/artist/2x8nGCQ6zMQYA8oAX6Ggk2) | [Live Well](https://open.spotify.com/album/4NA7NJq9Twvt0cFyyu1gEU) | 3:23 |
 | 101 | [Making a new ending for this story](https://open.spotify.com/track/30H0FtOCtb5jESDvFcxqXZ) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [The 1st Digital Single "Making a new ending for this story"](https://open.spotify.com/album/5lvAt6IG8iOlKm4AVkxsqn) | 4:22 |
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXaehqeJpkro.md) - [plain]
 | 147 | [스물다섯, 스물하나](https://open.spotify.com/track/3mQwOUjViw1cpwUYugndPV) | [JAURIM](https://open.spotify.com/artist/6evmYxFbDSIHilUaYC9MhL) | [Goodbye, grief.](https://open.spotify.com/album/2EPyeRDl7LqjJ3z3QvP4Cg) | 4:44 |
 | 148 | [시작](https://open.spotify.com/track/4kIpBfvK44bxqX7zo8K1oP) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt.2](https://open.spotify.com/album/4AgCiUejVvU6729YAJwRH9) | 3:22 |
 
-Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMGE5Yzc0ZmIyNWVlOWU4OTFmNGJjMzBkZTc0NjQwNTVk`
+Snapshot ID: `MTY0NTYxOTExMiwwMDAwMDAwMDY3MTVhZTdiZWMxM2FjY2E2NjU4NWIwNmViZTBhYjk1`

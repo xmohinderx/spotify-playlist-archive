@@ -347,7 +347,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 318200,
       "name": "Coming Right At ya",
       "url": "https://open.spotify.com/track/0sMFKh1kcox1e2oZ0sHMG6"
@@ -1339,10 +1339,32 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 355093,
       "name": "The Bassment",
       "url": "https://open.spotify.com/track/7FzR482cXPSleaXixFRNdu"
+    },
+    {
+      "album": {
+        "name": "Just Feelin' It",
+        "url": "https://open.spotify.com/album/29UJRaoihYDbOlMBIbSR6l"
+      },
+      "artists": [
+        {
+          "name": "Michael Manson",
+          "url": "https://open.spotify.com/artist/6Eun8Hnz1EAIrVoWvGVF5v"
+        },
+        {
+          "name": "George Duke",
+          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+        }
+      ],
+      "date_added": "2021-05-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355093,
+      "name": "The Bassment (feat. George Duke)",
+      "url": "https://open.spotify.com/track/0yyoBiEZhgE0oTBBOh0VSv"
     },
     {
       "album": {
@@ -1517,7 +1539,7 @@
       ],
       "date_added": "2021-05-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-06",
+      "date_removed": null,
       "duration_ms": 258312,
       "name": "Trust and Faith",
       "url": "https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3"

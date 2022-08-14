@@ -4,7 +4,7 @@
 
 > ¡Oi nomás ese cumbión!
 
-146 songs - 9 hr 22 min - [published](https://open.spotify.com/playlist/6uJrqwmktk9yM8sMWMY10Z)
+147 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/6uJrqwmktk9yM8sMWMY10Z)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2022-03-04 | 2022-07-29 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-03-04 |  |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-03-04 |  |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-08-02 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-08-02 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-02 |  |
 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2022-03-04 |  |
 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 | 2022-03-04 |  |
 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 | 2022-03-04 |  |

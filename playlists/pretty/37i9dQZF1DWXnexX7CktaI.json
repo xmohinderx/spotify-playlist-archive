@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1832259,
+  "num_followers": 1832744,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0MDMzOSwwMDAwMDAwMGFjZmEyMGFiMTA5N2M1OTRlODQ1MDMyYTYyMGU2MDU0",
+  "snapshot_id": "MTY1OTU0MDMzOSwwMDAwMDAwMDdmZWMwM2UyMjZjNDZiYjRmMTk0ZDFmOWYyMzczNGEw",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -161,42 +161,6 @@
       "url": "https://open.spotify.com/track/79MSEdtXuudhGhC5AtG07g"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2022-07-30 03:34:52",
-      "album": {
-        "name": "Blonde",
-        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 184516,
-      "name": "Pink + White",
-      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Indigo",
@@ -215,6 +179,42 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Blonde",
+        "url": "https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 184516,
+      "name": "Pink + White",
+      "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
+    },
+    {
+      "added_at": "2022-07-30 03:34:52",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -249,22 +249,6 @@
       "url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "Last Day Of Summer",
@@ -283,6 +267,22 @@
       "duration_ms": 222374,
       "name": "Girls Need Love (with Drake) - Remix",
       "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-03-14 17:48:22",
       "album": {
+        "name": "T R A P S O U L",
+        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "duration_ms": 194613,
+      "name": "Exchange",
+      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-03-14 17:48:22",
+      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 275080,
       "name": "Love Galore (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs"
-    },
-    {
-      "added_at": "2022-03-14 17:48:22",
-      "album": {
-        "name": "T R A P S O U L",
-        "url": "https://open.spotify.com/album/6eZdwrhB97A3EYx9QppGfl"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 194613,
-      "name": "Exchange",
-      "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
     },
     {
       "added_at": "2022-07-30 03:34:52",

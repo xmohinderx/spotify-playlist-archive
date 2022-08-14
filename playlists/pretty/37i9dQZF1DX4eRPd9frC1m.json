@@ -1,12 +1,12 @@
 {
   "description": "Aggressive trap and bass for the <a href=\"spotify:genre:edm_dance\">gym</a>.",
-  "num_followers": 2436119,
+  "num_followers": 2436566,
   "original_name": "Hype",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGJjNGE3MGQ5YTFjNmU0MTMyMjBlNWUzODQ5ZWE1MzQ5",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDIyODZlZmMyZWY3ZTc2MmY1ZDY3NjdjZjMyMGM4NDNm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -55,26 +55,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Reaper (feat. JID)",
-        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 164800,
-      "name": "Reaper (feat. JID)",
-      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Puzzle Box",
         "url": "https://open.spotify.com/album/3z3dPd3xRiO8cGESr2aF6M"
       },
@@ -95,22 +75,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "The Pit",
-        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
+        "name": "Reaper (feat. JID)",
+        "url": "https://open.spotify.com/album/0jmZxsfDKqkjBLiFytB3gg"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
         },
         {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
         }
       ],
-      "duration_ms": 152500,
-      "name": "The Pit",
-      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
+      "duration_ms": 164800,
+      "name": "Reaper (feat. JID)",
+      "url": "https://open.spotify.com/track/1KzGwlHu27TUfH3gF1RFAa"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -131,6 +111,26 @@
       "duration_ms": 198400,
       "name": "Griztronics",
       "url": "https://open.spotify.com/track/6OTClxme7EYRZGO6An3SMc"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "The Pit",
+        "url": "https://open.spotify.com/album/2ORFeGP84Wx8BlRJmLx7A3"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+        }
+      ],
+      "duration_ms": 152500,
+      "name": "The Pit",
+      "url": "https://open.spotify.com/track/4tjA1bnIrvCt1O4uaC476a"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -235,18 +235,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Vibe Check",
-        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
+        "name": "Arena",
+        "url": "https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Snavs",
+          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Vibe Check",
-      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
+      "duration_ms": 206400,
+      "name": "Arena",
+      "url": "https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -287,22 +291,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Arena",
-        "url": "https://open.spotify.com/album/0LxtnMt80YF21NGZio7OLR"
+        "name": "Vibe Check",
+        "url": "https://open.spotify.com/album/4kUGKsVNrxh8ckruujWaaJ"
       },
       "artists": [
         {
-          "name": "Fabian Mazur",
-          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
-        },
-        {
-          "name": "Snavs",
-          "url": "https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 206400,
-      "name": "Arena",
-      "url": "https://open.spotify.com/track/5qBcafzXycpvGKiKCfTQjd"
+      "duration_ms": 169600,
+      "name": "Vibe Check",
+      "url": "https://open.spotify.com/track/6e2kwYm4qe4hFbOkLm4nbF"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Here With Me",
-        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
-      },
-      "artists": [
-        {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
-        }
-      ],
-      "duration_ms": 223999,
-      "name": "Here With Me",
-      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Trials (feat. IDK)",
         "url": "https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg"
       },
@@ -359,6 +343,42 @@
       "duration_ms": 133274,
       "name": "Trials (feat. IDK)",
       "url": "https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Here With Me",
+        "url": "https://open.spotify.com/album/0MrSLoHEtnWYFmg38SSnjN"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        }
+      ],
+      "duration_ms": 223999,
+      "name": "Here With Me",
+      "url": "https://open.spotify.com/track/6qLM7FY8SPWYIyKKhzzVO0"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Mercy",
+        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Masked Wolf",
+          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -407,46 +427,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Mercy",
-        "url": "https://open.spotify.com/album/7634SoS9OTz1egYy9CFG2e"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Masked Wolf",
-          "url": "https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/1NuhAA7NeNwrWcsBh9z8R8"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        },
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        }
-      ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Fight Back",
         "url": "https://open.spotify.com/album/4iTii2lDbEYYnZJBkU9p75"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 127900,
       "name": "Save Me",
       "url": "https://open.spotify.com/track/6VkomiRtWhCiFs4nzrzNUc"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Dimension",
+        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 159162,
+      "name": "Dimension",
+      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dimension",
-        "url": "https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 159162,
-      "name": "Dimension",
-      "url": "https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "V!BEZ, Vol. 4",
         "url": "https://open.spotify.com/album/1FJ7kXrCmyFtR2B1NBpYDu"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 160000,
       "name": "Bellz",
       "url": "https://open.spotify.com/track/753DZsGGXlasRCp48FmOhH"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "2 MUCH (feat. 24hrs)",
+        "url": "https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw"
+      },
+      "artists": [
+        {
+          "name": "Flosstradamus",
+          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
+        },
+        {
+          "name": "24hrs",
+          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "2 MUCH (feat. 24hrs)",
+      "url": "https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -703,26 +723,6 @@
       "duration_ms": 150193,
       "name": "TIKTOK",
       "url": "https://open.spotify.com/track/3nJxqghn6qVTWNzYa5Syc7"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "2 MUCH (feat. 24hrs)",
-        "url": "https://open.spotify.com/album/5NsU3AvjQswUoFEkuqSCSw"
-      },
-      "artists": [
-        {
-          "name": "Flosstradamus",
-          "url": "https://open.spotify.com/artist/2FmzVitXZjIkFolH8HXd4j"
-        },
-        {
-          "name": "24hrs",
-          "url": "https://open.spotify.com/artist/4isewEHTP7Az2QheDdBQ6J"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "2 MUCH (feat. 24hrs)",
-      "url": "https://open.spotify.com/track/6jtNk2zqbiZ9S7l6Gcp78A"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        },
-        {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
-        }
-      ],
-      "duration_ms": 169714,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "PEACE LOVE & WUBZ",
         "url": "https://open.spotify.com/album/60obah4obhSZaLOfxOAwj5"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 240000,
       "name": "PEACE LOVE & WUBZ",
       "url": "https://open.spotify.com/track/776eASGwFLhvAUYmWZvwrL"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0BIuPX2XzG3P7Bir90cpP4"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        },
+        {
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+        }
+      ],
+      "duration_ms": 169714,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6s4T0UEJs5kX6EsEjvfXpw"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1015,6 +1015,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "NEW WIP",
+        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
+      },
+      "artists": [
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        },
+        {
+          "name": "MadeinTYO",
+          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "NEW WIP",
+      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Shockwave",
         "url": "https://open.spotify.com/album/7DXpSl0T6HwVOUT83SPVxu"
       },
@@ -1039,26 +1059,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "NEW WIP",
-        "url": "https://open.spotify.com/album/5NToLmDgH4V64h5f3Xzhkn"
-      },
-      "artists": [
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        },
-        {
-          "name": "MadeinTYO",
-          "url": "https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "NEW WIP",
-      "url": "https://open.spotify.com/track/6rv93pYJSTtReQIuwcCYvm"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Moshpit / Comin For Ya Neck",
         "url": "https://open.spotify.com/album/0W1fVHmZ0s1E5l8EOWI5T6"
       },
@@ -1079,30 +1079,6 @@
       "duration_ms": 177600,
       "name": "Moshpit",
       "url": "https://open.spotify.com/track/6EgTYGPIKWgKUf4QnJ3dr7"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "TILL I DIE",
-        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
-      },
-      "artists": [
-        {
-          "name": "Holly",
-          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 171810,
-      "name": "TILL I DIE",
-      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1139,6 +1115,30 @@
       "duration_ms": 238443,
       "name": "Valley Of Violence",
       "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "TILL I DIE",
+        "url": "https://open.spotify.com/album/1mmaDZmiiszP0k2Q3u1hy1"
+      },
+      "artists": [
+        {
+          "name": "Holly",
+          "url": "https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 171810,
+      "name": "TILL I DIE",
+      "url": "https://open.spotify.com/track/3EBqovY8cjouAYyrWRUcFN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1415,26 +1415,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "No Stoppin (feat. GOLD)",
-        "url": "https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J"
-      },
-      "artists": [
-        {
-          "name": "Dirty Audio",
-          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
-        },
-        {
-          "name": "Gold",
-          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "No Stoppin (feat. GOLD)",
-      "url": "https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "NO LOVE",
         "url": "https://open.spotify.com/album/5T2DMQH1Ru2R9FMgpklg4h"
       },
@@ -1467,6 +1447,46 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "No Stoppin (feat. GOLD)",
+        "url": "https://open.spotify.com/album/4qSwKluIRxsN75COJJAC7J"
+      },
+      "artists": [
+        {
+          "name": "Dirty Audio",
+          "url": "https://open.spotify.com/artist/1WGex9YdmT4TZjmmMirZA8"
+        },
+        {
+          "name": "Gold",
+          "url": "https://open.spotify.com/artist/6ImUn600ZnHXjWRuYDMh4H"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "No Stoppin (feat. GOLD)",
+      "url": "https://open.spotify.com/track/4ckoZlzQTOTEN8rhfQPbBl"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Name Drop",
+        "url": "https://open.spotify.com/album/6mrEmNiDqgKLM38kUpyrbp"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "Name Drop",
+      "url": "https://open.spotify.com/track/02yaX0Reb1fQYIQdri4Ow8"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "NOSEBLEED",
         "url": "https://open.spotify.com/album/0Q0mqU937illf7v7rMI8wz"
       },
@@ -1483,22 +1503,6 @@
       "duration_ms": 226285,
       "name": "NOSEBLEED",
       "url": "https://open.spotify.com/track/6qxOL5Opjw8rVp3xMsR9os"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Trap Anthem",
-        "url": "https://open.spotify.com/album/2w12DfrAjOlweziwmo0W1P"
-      },
-      "artists": [
-        {
-          "name": "Yellow Claw",
-          "url": "https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh"
-        }
-      ],
-      "duration_ms": 147378,
-      "name": "Trap Anthem",
-      "url": "https://open.spotify.com/track/3x2djB2lM7twnO8D2M6A0C"
     },
     {
       "added_at": "2022-08-12 04:01:00",

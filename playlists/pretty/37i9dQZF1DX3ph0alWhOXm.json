@@ -1,12 +1,12 @@
 {
   "description": "There's no such thing as \"too much fun.\" Let these country songs keep the party going!",
-  "num_followers": 130176,
+  "num_followers": 130261,
   "original_name": "Drinkin' Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGFlMGRhY2FkOWZkNmI0YWQ4YTIxMzU1YzEyOTJlNjM5",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDY0MjRjZGJhY2RlNGFkNmUxYTljZmY4YWYxMjNjMWYw",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 172253,
+      "name": "Night Shift",
+      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Body Like A Back Road",
         "url": "https://open.spotify.com/album/2N7kidh1wA9EoLdf16QWrz"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 167426,
       "name": "Barefoot Blue Jean Night",
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 172253,
-      "name": "Night Shift",
-      "url": "https://open.spotify.com/track/0bPnT6i9H1p8Vd85GS6Z7I"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -343,26 +343,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
+        "name": "Montevallo",
+        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
       },
       "artists": [
         {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        },
-        {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
         }
       ],
-      "duration_ms": 173173,
-      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
-      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
+      "duration_ms": 190240,
+      "name": "House Party",
+      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -383,18 +375,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Montevallo",
-        "url": "https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 190240,
-      "name": "House Party",
-      "url": "https://open.spotify.com/track/1TwLKNsCnhi1HxbIi4bAW0"
+      "duration_ms": 202346,
+      "name": "Head Over Boots",
+      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -419,18 +411,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        },
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
         }
       ],
-      "duration_ms": 202346,
-      "name": "Head Over Boots",
-      "url": "https://open.spotify.com/track/4ly1QBXEwYoDmje9rmEgC4"
+      "duration_ms": 173173,
+      "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
+      "url": "https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -491,18 +491,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+        "name": "California Sunrise",
+        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
       },
       "artists": [
         {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 267173,
-      "name": "Gimme Three Steps",
-      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
+      "duration_ms": 205200,
+      "name": "Heartache On The Dance Floor",
+      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -523,18 +523,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "California Sunrise",
-        "url": "https://open.spotify.com/album/1DTBcVfk3zXPHRmgpY6rFZ"
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 205200,
-      "name": "Heartache On The Dance Floor",
-      "url": "https://open.spotify.com/track/0w3Q14i073jLoew1hgJkwD"
+      "duration_ms": 267173,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
+      },
+      "artists": [
+        {
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Tequila Little Time",
+      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "34 Number Ones",
         "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "My Kinda Party",
-        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "My Kinda Party",
-      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Wildcard",
         "url": "https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn"
       },
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/2ny0Q7DWoI2GH1TlQTuBdD"
-      },
-      "artists": [
-        {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Tequila Little Time",
-      "url": "https://open.spotify.com/track/15npbUjCgwt2lRvyrJvyxw"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "One Margarita",
         "url": "https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 193426,
       "name": "One Margarita",
       "url": "https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "My Kinda Party",
+        "url": "https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "My Kinda Party",
+      "url": "https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
-      },
-      "artists": [
-        {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
-        }
-      ],
-      "duration_ms": 213546,
-      "name": "Drunk On You",
-      "url": "https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 196760,
       "name": "Here for the Party",
       "url": "https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        }
+      ],
+      "duration_ms": 213546,
+      "name": "Drunk On You",
+      "url": "https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "I Don't Believe We've Met",
-        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Here's To The Good Times...This Is How We Roll",
         "url": "https://open.spotify.com/album/0tlygcp8NWY9Jfq80OFhA0"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 220906,
       "name": "This Is How We Roll",
       "url": "https://open.spotify.com/track/2iT8p5HHGZoIgFME97V1fd"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "I Don't Believe We've Met",
+        "url": "https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM"
+      },
+      "artists": [
+        {
+          "name": "Danielle Bradbery",
+          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6EUDUDQP5ynE3g5SWCA8sc"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Heartache Medication",
-        "url": "https://open.spotify.com/album/0JzXywsekILWEm0mBPKKhC"
+        "name": "Salt, Lime & Tequila",
+        "url": "https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN"
       },
       "artists": [
         {
-          "name": "Jon Pardi",
-          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
+          "name": "Ryan Griffin",
+          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
         }
       ],
-      "duration_ms": 209109,
-      "name": "Heartache Medication",
-      "url": "https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri"
+      "duration_ms": 175699,
+      "name": "Salt, Lime & Tequila",
+      "url": "https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Salt, Lime & Tequila",
-        "url": "https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN"
+        "name": "Heartache Medication",
+        "url": "https://open.spotify.com/album/0JzXywsekILWEm0mBPKKhC"
       },
       "artists": [
         {
-          "name": "Ryan Griffin",
-          "url": "https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT"
+          "name": "Jon Pardi",
+          "url": "https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN"
         }
       ],
-      "duration_ms": 175699,
-      "name": "Salt, Lime & Tequila",
-      "url": "https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh"
+      "duration_ms": 209109,
+      "name": "Heartache Medication",
+      "url": "https://open.spotify.com/track/6ZvAXIWw3rw8WR0Xlmifri"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Cheers",
-        "url": "https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH"
+        "name": "Off The Deep End",
+        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Priscilla Block",
+          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
         }
       ],
-      "duration_ms": 165493,
-      "name": "Cheers",
-      "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
+      "duration_ms": 196499,
+      "name": "Off The Deep End",
+      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1287,6 +1287,22 @@
       "duration_ms": 242800,
       "name": "All My Friends Say",
       "url": "https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Cheers",
+        "url": "https://open.spotify.com/album/659uBz3TUG2ZjxQUYFeuEH"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        }
+      ],
+      "duration_ms": 165493,
+      "name": "Cheers",
+      "url": "https://open.spotify.com/track/5sE5w8lzxAg5fNeXbSWIOw"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1323,22 +1339,6 @@
       "duration_ms": 257079,
       "name": "Long Haired Country Boy (feat. The Rockin' CJB)",
       "url": "https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Off The Deep End",
-        "url": "https://open.spotify.com/album/6rVNBebVL2RgYkWrath59f"
-      },
-      "artists": [
-        {
-          "name": "Priscilla Block",
-          "url": "https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1"
-        }
-      ],
-      "duration_ms": 196499,
-      "name": "Off The Deep End",
-      "url": "https://open.spotify.com/track/1w6LAczpJiuGAQSaVP99ek"
     },
     {
       "added_at": "2022-08-05 04:00:00",

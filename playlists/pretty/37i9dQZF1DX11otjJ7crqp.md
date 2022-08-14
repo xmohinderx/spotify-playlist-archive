@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Maddie Zahm
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,749 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,815 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 21 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 |
 | 22 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 |
 | 23 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 |
-| 24 | [Monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
+| 24 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 25 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
 | 26 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
 | 27 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 31 | [so much more than me](https://open.spotify.com/track/64mtT1WVFNfd7eas2g41K3) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [so much more than me](https://open.spotify.com/album/6gqClqXMbodL5mwP8yFqHd) | 3:06 |
 | 32 | [butterfly fields](https://open.spotify.com/track/2nXtGLBgSu60upR05CGEBN) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [butterfly fields](https://open.spotify.com/album/0gUWXiPPG13Zao8Nbqr1fa) | 3:28 |
 | 33 | [Cancel Your Plans](https://open.spotify.com/track/7g82JCkLrbOE6h0NL0YmzK) | [Mallory Merk](https://open.spotify.com/artist/5GHFapUxfP2H2xxuMytwaF) | [Thorns EP](https://open.spotify.com/album/090fcD0E5Uzxil8i71xBrf) | 3:09 |
-| 34 | [WTF HAPPENED LAST NIGHT](https://open.spotify.com/track/1aTPeXpCL5vJ7NbXzuOw48) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [WTF HAPPENED LAST NIGHT](https://open.spotify.com/album/5aTso3hPLzcxWL9llT7wB2) | 3:25 |
+| 34 | [WTF Happened Last Night](https://open.spotify.com/track/1aTPeXpCL5vJ7NbXzuOw48) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [WTF Happened Last Night](https://open.spotify.com/album/5aTso3hPLzcxWL9llT7wB2) | 3:25 |
 | 35 | [Keep Her](https://open.spotify.com/track/3zg5cOYNckzSAs4aTRBHau) | [Jake Miller](https://open.spotify.com/artist/3gggmBN0erstm3YJvEGe3t) | [Keep Her](https://open.spotify.com/album/6dIok7yPbvTPNLfeJcmctW) | 2:51 |
 | 36 | [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 |
 | 37 | [Femininomenon](https://open.spotify.com/track/1YlOZY3puELE0PgxD1enZo) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6wsWilHjzetverzs9qfHZF) | 3:39 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 40 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 |
 | 41 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 |
 | 42 | [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/track/32il27dOrLpIru8Evp4Pu7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/album/6iB6SNSkqxjN65t5tBETcp) | 2:33 |
-| 43 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 43 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 44 | [Something](https://open.spotify.com/track/5teEJbBtkH2LIbUM9VN3pQ) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Something](https://open.spotify.com/album/7wC4akvMyerG15z7pH2qw4) | 3:34 |
 | 45 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 |
 | 46 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 |

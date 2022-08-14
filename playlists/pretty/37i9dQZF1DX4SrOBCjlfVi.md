@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, Megan Thee Stallion, and more\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 176,872 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 176,989 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 12 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 |
 | 13 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 |
 | 14 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 |
-| 15 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lucki](https://open.spotify.com/artist/70ZUXm3cW6AVm6hZot2Tyh) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
+| 15 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
 | 16 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
 | 17 | [Up](https://open.spotify.com/track/7wcmdOAtyLQxIs2d6h08YC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Up](https://open.spotify.com/album/2rhZNMom0WgyCfamtuvsKZ) | 2:26 |
 | 18 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 |

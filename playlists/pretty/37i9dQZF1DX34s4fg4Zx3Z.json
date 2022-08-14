@@ -1,12 +1,12 @@
 {
   "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: Ph\u1ea1m Nguy\u00ean Ng\u1ecdc; thi\u1ebft k\u1ebf: Isu Kim",
-  "num_followers": 13317,
+  "num_followers": 13321,
   "original_name": "Fresh Finds Vietnam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyOTAxMSwwMDAwMDAwMDU1YzRmN2Q1MzQ5YjcyNjU3M2I5OTM2OGE0MGIxZmY2",
+  "snapshot_id": "MTY2MDQxMDAwMCwwMDAwMDAwMDM4NjNiNTA3Y2E3MDU1ODU3NmQyOWI5NDhkMjJkNWVm",
   "tracks": [
     {
       "added_at": "2022-08-11 14:43:31",
@@ -113,6 +113,22 @@
       "url": "https://open.spotify.com/track/0OYyivKo7eLtmHzYagW60S"
     },
     {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "T\u1eebng L\u00e0 Ch\u00fang Ta",
+        "url": "https://open.spotify.com/album/3ge04XkhedMdUOpMWsOwMk"
+      },
+      "artists": [
+        {
+          "name": "Ng\u1ecdc Dolil",
+          "url": "https://open.spotify.com/artist/6VLN4hTrGOZ5Le1TVTwDTg"
+        }
+      ],
+      "duration_ms": 226285,
+      "name": "T\u1eebng L\u00e0 Ch\u00fang Ta",
+      "url": "https://open.spotify.com/track/73ikMsMoQ9yy0ex2ncCMxC"
+    },
+    {
       "added_at": "2022-08-11 14:43:31",
       "album": {
         "name": "Em Th\u00edch",
@@ -133,72 +149,40 @@
       "url": "https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv"
     },
     {
-      "added_at": "2022-08-11 14:43:31",
+      "added_at": "2022-08-13 17:00:00",
       "album": {
-        "name": "Vi\u1ebft Cho Em",
-        "url": "https://open.spotify.com/album/5SVndghkmunNquBI715Qiy"
+        "name": "M Ng\u00e0y Mai",
+        "url": "https://open.spotify.com/album/6WMbOTcO0vK4zjeMpWRcCp"
       },
       "artists": [
         {
-          "name": "\u0110\u00e0o Duy Qu\u00fd",
-          "url": "https://open.spotify.com/artist/66tegNzEwfuKGJHCmk5hvi"
-        }
-      ],
-      "duration_ms": 300889,
-      "name": "Vi\u1ebft Cho Em",
-      "url": "https://open.spotify.com/track/5pcngYmJI1MBkhZUjHhXrv"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "Y\u00eau L\u00e0",
-        "url": "https://open.spotify.com/album/0qzXOmReCoDSDLbqKwA3sm"
-      },
-      "artists": [
-        {
-          "name": "Huy V\u1ea1c",
-          "url": "https://open.spotify.com/artist/0b68vXEHFuQP71O9FOESra"
-        }
-      ],
-      "duration_ms": 311732,
-      "name": "Y\u00eau L\u00e0",
-      "url": "https://open.spotify.com/track/5UTUihDMJsCken93JlnxWt"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "Falling In Love",
-        "url": "https://open.spotify.com/album/4ppqfQLcqVzOu0giUWKFJO"
-      },
-      "artists": [
-        {
-          "name": "Qu\u1ed1c Anh",
-          "url": "https://open.spotify.com/artist/0xX1YgWck2nUQEEGDnwiGD"
-        }
-      ],
-      "duration_ms": 179099,
-      "name": "Falling In Love",
-      "url": "https://open.spotify.com/track/3lhDQiFGOwkWR9jBZd72M9"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "\u0110i",
-        "url": "https://open.spotify.com/album/7bxX1wKXGRVn3bgTHeAdfv"
-      },
-      "artists": [
-        {
-          "name": "Tony D.",
-          "url": "https://open.spotify.com/artist/0XqppHVqDhLwMDOUmE4rRK"
+          "name": "2T",
+          "url": "https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH"
         },
         {
-          "name": "H\u1ed5",
-          "url": "https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ"
+          "name": "Ng\u1ecdc Y\u1ebfn",
+          "url": "https://open.spotify.com/artist/66bL2ewcgzBICFSvdKaKCT"
         }
       ],
-      "duration_ms": 175609,
-      "name": "\u0110i",
-      "url": "https://open.spotify.com/track/6jO30TtqbCEkG9ZGVX8pL0"
+      "duration_ms": 242698,
+      "name": "M Ng\u00e0y Mai",
+      "url": "https://open.spotify.com/track/34cCAgZ1og8Oy6lhC1MzPD"
+    },
+    {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "L\u1eddi Em N\u00f3i",
+        "url": "https://open.spotify.com/album/0t998F3RSSPze3IjCU8EdW"
+      },
+      "artists": [
+        {
+          "name": "Lil Zpoet",
+          "url": "https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7"
+        }
+      ],
+      "duration_ms": 245315,
+      "name": "L\u1eddi Em N\u00f3i",
+      "url": "https://open.spotify.com/track/64ofw7HN2Wx1uvkC5z7nCo"
     },
     {
       "added_at": "2022-08-11 14:43:31",
@@ -221,72 +205,24 @@
       "url": "https://open.spotify.com/track/0Wqxp4vGLSFzBXvPEApigk"
     },
     {
-      "added_at": "2022-08-11 14:43:31",
+      "added_at": "2022-08-13 17:00:00",
       "album": {
-        "name": "T\u1ea1i Sao L\u00f2ng V\u00f2ng",
-        "url": "https://open.spotify.com/album/5GALPxkR2SfEIbWwe10DRz"
+        "name": "EMCOHAY",
+        "url": "https://open.spotify.com/album/3Tgo3CJ4sHRC4ORhmy1Hpf"
       },
       "artists": [
         {
-          "name": "Ng\u1eafn",
-          "url": "https://open.spotify.com/artist/4Xz2dDcMF1DDfwFcr8Xa5P"
-        }
-      ],
-      "duration_ms": 166956,
-      "name": "T\u1ea1i Sao L\u00f2ng V\u00f2ng",
-      "url": "https://open.spotify.com/track/6yTAqa3VKX9kYKjFjXOrWA"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "Th\u00e0nh Ph\u1ed1 M\u01b0a R\u01a1i",
-        "url": "https://open.spotify.com/album/5g22eLgvT3xdEry4ejyaDZ"
-      },
-      "artists": [
-        {
-          "name": "Kh\u1ea3i",
-          "url": "https://open.spotify.com/artist/2YJjdbWUlFUPMyveMVft5k"
-        }
-      ],
-      "duration_ms": 247848,
-      "name": "Th\u00e0nh Ph\u1ed1 M\u01b0a R\u01a1i",
-      "url": "https://open.spotify.com/track/3NhzsDOJP7wmEZ7GqJsbqN"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "Ng\u00e2y Ng\u00f4 T\u00ecnh Y\u00eau \u0110\u1ea7u \u0110\u1eddi",
-        "url": "https://open.spotify.com/album/2aoS50dVrBzYcfnSrYkG1L"
-      },
-      "artists": [
-        {
-          "name": "DAY",
-          "url": "https://open.spotify.com/artist/114BKkVUhX67beIiVYHPZm"
+          "name": "Solsilva",
+          "url": "https://open.spotify.com/artist/42dopFsZz6H8X2VZl9Pd0I"
         },
         {
-          "name": "BMZ",
-          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+          "name": "Kansy",
+          "url": "https://open.spotify.com/artist/28JBwb0hnc65XxAymjJ1Z2"
         }
       ],
-      "duration_ms": 271014,
-      "name": "Ng\u00e2y Ng\u00f4 T\u00ecnh Y\u00eau \u0110\u1ea7u \u0110\u1eddi",
-      "url": "https://open.spotify.com/track/56J6ygHtKGfeeUdYlExjpO"
-    },
-    {
-      "added_at": "2022-08-11 14:43:31",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/1yHSvBGH1TnUM8sQKEwzcN"
-      },
-      "artists": [
-        {
-          "name": "h0n",
-          "url": "https://open.spotify.com/artist/4uwBXcx7pPGMEPlcQrfpdS"
-        }
-      ],
-      "duration_ms": 262006,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/4Yvog1ClIG8NuYDuYTW2bO"
+      "duration_ms": 161492,
+      "name": "EMCOHAY",
+      "url": "https://open.spotify.com/track/6BVomcgT4btVhkZrt5FyMI"
     },
     {
       "added_at": "2022-08-11 14:43:31",
@@ -327,6 +263,22 @@
       "duration_ms": 280000,
       "name": "Ch\u00e0o 04",
       "url": "https://open.spotify.com/track/1MRPnIH8CA39OVC0xqR8tw"
+    },
+    {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "V\u00ec Anh Bi\u1ebft",
+        "url": "https://open.spotify.com/album/3IlQMfTvQMIO9QBDW5AaQs"
+      },
+      "artists": [
+        {
+          "name": "V\u00f5 Vi\u1ec7t Ph\u01b0\u01a1ng",
+          "url": "https://open.spotify.com/artist/1nwyJq8U2U3ixza7lgbRRv"
+        }
+      ],
+      "duration_ms": 257374,
+      "name": "V\u00ec Anh Bi\u1ebft",
+      "url": "https://open.spotify.com/track/1FAspT5QTfdyfMZBlBMRjE"
     },
     {
       "added_at": "2022-08-11 14:43:31",
@@ -375,6 +327,38 @@
       "duration_ms": 190000,
       "name": "B\u1ea5t C\u1ea7n",
       "url": "https://open.spotify.com/track/4NvUI0B8zb7OgV5z5n6pbS"
+    },
+    {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "L\u00ean Sau",
+        "url": "https://open.spotify.com/album/6Zj4alZOHAHsP6BJ7pckpQ"
+      },
+      "artists": [
+        {
+          "name": "ICD",
+          "url": "https://open.spotify.com/artist/2nk2PnWoh8U5lR6xDhDGFu"
+        }
+      ],
+      "duration_ms": 235642,
+      "name": "L\u00ean Sau",
+      "url": "https://open.spotify.com/track/12c9rJiU2GtS2MR1hMbaqB"
+    },
+    {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "M\u00e2y M\u01b0a",
+        "url": "https://open.spotify.com/album/7gOmdp3IQpPkC6g2qsFISb"
+      },
+      "artists": [
+        {
+          "name": "Limitlxss",
+          "url": "https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "M\u00e2y M\u01b0a",
+      "url": "https://open.spotify.com/track/5UY2LGUTenQKzafvDCJUbY"
     },
     {
       "added_at": "2022-08-11 14:43:31",
@@ -447,6 +431,26 @@
       "duration_ms": 266405,
       "name": "Anh \u0110\u00e3 M\u01a1 V\u1ec1 Chuy\u1ec7n Hai Ta",
       "url": "https://open.spotify.com/track/3T4r7H1pfW7ZuU2hDjErvo"
+    },
+    {
+      "added_at": "2022-08-13 17:00:00",
+      "album": {
+        "name": "\u0110\u00eam \u0110\u1ea7y Sao",
+        "url": "https://open.spotify.com/album/639EeqT7L9rqFCJU09sGWQ"
+      },
+      "artists": [
+        {
+          "name": "Flow X",
+          "url": "https://open.spotify.com/artist/4PnACALAr2D6czajb9XKqj"
+        },
+        {
+          "name": "Helen",
+          "url": "https://open.spotify.com/artist/4jXObtlQAITs69PECntRAP"
+        }
+      ],
+      "duration_ms": 241776,
+      "name": "\u0110\u00eam \u0110\u1ea7y Sao",
+      "url": "https://open.spotify.com/track/1c4fRHXswMWJV4PxU2wrxt"
     },
     {
       "added_at": "2022-08-11 14:43:31",

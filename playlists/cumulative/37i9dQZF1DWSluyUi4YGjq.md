@@ -4,7 +4,7 @@
 
 > A new gen of bands gazing at their pedals, while soaring celestially\-high\. Trementina on cover!
 
-183 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
+185 songs - 12 hr 57 min - [published](https://open.spotify.com/playlist/7khBi2LhuBeMPgT1Gz4AOk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Dance AM](https://open.spotify.com/track/0P57tdDD56YOrjkYSpfBKS) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Miserable Miracles](https://open.spotify.com/album/2ZDCgglH89doOQH4UVoM0S) | 4:32 | 2021-10-19 |  |
 | [Destroy Us](https://open.spotify.com/track/2wSFjD7g5QQ3jiComKKDiA) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/07DZCEUCKN27wKjAHTMfST) | 4:17 | 2021-10-19 | 2022-08-02 |
 | [Destroy Us](https://open.spotify.com/track/5JTsQo9mTbBs8d68UIjNEl) | [Beachy Head](https://open.spotify.com/artist/6Kq54gSL9Ms7dLu8t4AcZz) | [Beachy Head](https://open.spotify.com/album/7n95iySQSShHU7doQfeGP4) | 4:17 | 2021-10-19 | 2022-07-29 |
-| [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 |  |
+| [Die Happily](https://open.spotify.com/track/5JEIIZVri1FvrbO39vGXXZ) | [FRITZ](https://open.spotify.com/artist/2TxetADYy1Fa0ydSfFLPge) | [Pastel](https://open.spotify.com/album/3xWCtrB5gtXzDWk8UOiglW) | 3:25 | 2021-10-19 | 2022-08-14 |
+| [Dismal](https://open.spotify.com/track/4xlAQxlNPIUtSg8K6aVlL8) | [Kalé](https://open.spotify.com/artist/5yNF3n8SacvZy5i5zK7ERv) | [Dismal](https://open.spotify.com/album/44ZdavZzRQbOxaOEbDB31E) | 4:22 | 2022-08-13 |  |
 | [Dopamine](https://open.spotify.com/track/1gbvCuQHPTgU7sgWCbqtVV) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:55 | 2021-10-19 |  |
 | [Dopamine](https://open.spotify.com/track/53FCh1Yv1gdlnybyYWsyca) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/5PPPABn2aZ0jRuHPMONwSR) | 3:55 | 2021-10-19 | 2022-07-29 |
 | [Doused](https://open.spotify.com/track/30uvCVEYqgktyLfDcI76Hx) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Oshin](https://open.spotify.com/album/1OgEi1Ss26Aq9S5sK848fh) | 3:42 | 2021-10-19 |  |
@@ -167,7 +168,7 @@
 | [Starting Over](https://open.spotify.com/track/0dcu28YT8cXZH7JTIraszp) | [LSD and the Search for God](https://open.spotify.com/artist/2feOOr1Yjovo67byuxvjZv) | [LSD and the Search for God](https://open.spotify.com/album/46q859znSzYPVwz7OaO7GS) | 5:04 | 2021-10-19 |  |
 | [Stick](https://open.spotify.com/track/1PiA3Z5eT98iz6my4yVpn4) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/5NBOm2pyKCOqt8iYwgMYnH) | 3:22 | 2021-10-19 |  |
 | [Strawberry](https://open.spotify.com/track/3FeiwCiTMUCh8h8G2T0Gmy) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [Strawberry](https://open.spotify.com/album/5ip1HBRqhN4lzubgPiDNMt) | 3:29 | 2022-01-07 |  |
-| [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 |  |
+| [sueños pasajeros](https://open.spotify.com/track/5qkh3OCdhzDFLLkLDyzQ3I) | [Sonic Emerson](https://open.spotify.com/artist/56NvLMYpWkket0d75Ue5S8) | [sueños pasajeros](https://open.spotify.com/album/5raH91QppDfJ87H19rHjcv) | 1:33 | 2022-08-04 | 2022-08-14 |
 | [Suficiente](https://open.spotify.com/track/6Gzt3wNcTpZMV9wA97IvdB) | [Sadfields](https://open.spotify.com/artist/21EFkTCquqEqYOWXi19fDF) | [Suficiente](https://open.spotify.com/album/3A8kSYi3x2IZwKaxGGAFVZ) | 3:58 | 2022-05-04 | 2022-07-24 |
 | [The Dead Are Dumb](https://open.spotify.com/track/0gtvktvlWNbT8BFgx196ov) | [Nothing](https://open.spotify.com/artist/60mqEPQp1eNjuwt1Z4yL4J) | [Tired of Tomorrow \(Deluxe Version\)](https://open.spotify.com/album/2655MXRi7PSJTtYqdGKeuH) | 4:30 | 2021-10-19 |  |
 | [The Key](https://open.spotify.com/track/2D4GOBkOIrCESyIQ6xCnbV) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:14 | 2022-04-22 |  |
@@ -176,6 +177,7 @@
 | [Thursday](https://open.spotify.com/track/3DiCOFDPnyUIU03qdmURN0) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/3i8QvhKyRoIQmkyACiHsye) | 4:17 | 2021-10-19 |  |
 | [Thursday](https://open.spotify.com/track/6MC9eyZJiicT4tT2YOqf5d) | [Asobi Seksu](https://open.spotify.com/artist/7vXdfh8G9fJVGvfUSkqf62) | [Citrus](https://open.spotify.com/album/5ohM0IJGIOO1xacFqrba3l) | 4:17 | 2021-10-19 | 2022-07-29 |
 | [Tiny Houses](https://open.spotify.com/track/5ibvAGEIPKfrK4WKGg9Iuy) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [A Tiny House, In Secret Speeches, Polar Equals](https://open.spotify.com/album/2lcLu95m0kpo6bY86rj2XA) | 5:52 | 2022-01-10 | 2022-08-04 |
+| [Tongue](https://open.spotify.com/track/0dOf1BeCB1uL1b0dBtvL39) | [Suave Punk](https://open.spotify.com/artist/7mHAXsMI3hAj3dUZMR4fnt) | [Tongue](https://open.spotify.com/album/6ruFK4GEN4Dtu1Ig4KJDho) | 3:34 | 2022-08-13 |  |
 | [Try Harder Still](https://open.spotify.com/track/4qrTk0Ap5AJ04Afy7w93Cm) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Life Is Not A Lesson](https://open.spotify.com/album/0VmkbO4piecyKI4FO9xfut) | 2:23 | 2021-10-19 |  |
 | [Two Girls](https://open.spotify.com/track/4MlTLBpeNYRTkjx35eQfMe) | [Ringo Deathstarr](https://open.spotify.com/artist/3sWLSYm3MFYosc4AZhwajg) | [Colour Trip](https://open.spotify.com/album/5K5UsJA8QsC33ozOZkVf8s) | 2:58 | 2021-10-19 | 2022-07-29 |
 | [Under the Sun](https://open.spotify.com/track/3cp8xX1N5jewfKU2oY2Y08) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Is the Is Are](https://open.spotify.com/album/3fSqRdxX8lh5nZHjgzEGl1) | 3:46 | 2021-10-19 |  |

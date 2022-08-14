@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,485 likes - 51 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,513 likes - 51 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 23 | [Yana Yana](https://open.spotify.com/track/5hUQKHs3lnt0dU5UO5ozZV) | [Sabah](https://open.spotify.com/artist/1sA9ybX80IVJ00sdbm5kB9) | [Sabah](https://open.spotify.com/album/5ewdGO8RViJxkGMVGx4KdP) | 5:05 |
 | 24 | [Set El Habayib](https://open.spotify.com/track/1O4lVF8Foazqwcrc0zFb4R) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Set El Habayib](https://open.spotify.com/album/67n0MKFbk4rWkN62HOOYuP) | 6:23 |
 | 25 | [Oyon El Alb Live Record](https://open.spotify.com/track/6UkneNSMIdiwUEaSVfcYVd) | [Najat Al Saghira](https://open.spotify.com/artist/00Kj91nF1l4o35fAtfDAjW) | [Oyon El Alb](https://open.spotify.com/album/3pnuPZ8nUMMLwHJSvNLrO0) | 19:44 |
-| 26 | [Mestaneyak](https://open.spotify.com/track/2JNaQTPcPdW0ycWhsSVQiY) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Mestaneyak Men Hakak Teatebny](https://open.spotify.com/album/1mZGb35WiLGv70EFtxIFLs) | 39:04 |
+| 26 | [Enta hataraf](https://open.spotify.com/track/7MIVI98kAktGCbrzqmu9ax) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Ahwa](https://open.spotify.com/album/2VT4H8YOf7xysggn0rWu6d) | 6:29 |
 | 27 | [Asfour](https://open.spotify.com/track/43S1gHGrrNbM8k7X1ir5Hn) | [Aida el Ayoubi](https://open.spotify.com/artist/1SWcCkT5tDP5cNIfl3S7Yt) | [Ala Baly](https://open.spotify.com/album/3poHhpjVKN7zrzpF5TkE55) | 4:47 |
-| 28 | [Enta hataraf](https://open.spotify.com/track/7MIVI98kAktGCbrzqmu9ax) | [Asmahan](https://open.spotify.com/artist/2vFXOKUQ2uhI9D8vKozoK6) | [Ahwa](https://open.spotify.com/album/2VT4H8YOf7xysggn0rWu6d) | 6:29 |
+| 28 | [Mestaneyak](https://open.spotify.com/track/2JNaQTPcPdW0ycWhsSVQiY) | [Aziza Jalal](https://open.spotify.com/artist/1u0bf0elRZYy9vqjCNYpet) | [Mestaneyak Men Hakak Teatebny](https://open.spotify.com/album/1mZGb35WiLGv70EFtxIFLs) | 39:04 |
 | 29 | [Esaal Alaya](https://open.spotify.com/track/3w6LdvrXM4a8C4cJrBa6M9) | [Layla Mourad](https://open.spotify.com/artist/4XmfbuyoQBGIMMbDXdFZJZ) | [Laila Mourad](https://open.spotify.com/album/4kFNwqFKfPw3FGqBNcpbfc) | 6:23 |
 | 30 | [Ya Meet Hala](https://open.spotify.com/track/0LLQskrgpuR6FWTkAF7J2B) | [Salwa El Katrib](https://open.spotify.com/artist/1rNj11bm4Kdg5qMcD4dcdX) | [Best of Salwa El Katrib, Vol\. 2](https://open.spotify.com/album/5nnYvn7XMn614uDt3IaaSR) | 3:03 |
 | 31 | [Ana Alby Eleik Mayal](https://open.spotify.com/track/3Dkp2faqV2c5rWPSNySMZ6) | [Fayza Ahmed](https://open.spotify.com/artist/7zwF847GE2hY5ApGSOLmBG) | [Zekrayat](https://open.spotify.com/album/0ObwONWzQGdaIpQnoPvnB5) | 10:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 50 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
 | 51 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMDc3NmQ4ODIxNjhmMTc3ZWI2MmI2OTdmOTEzODU0MmVk`
+Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMDhhNTFmMWJiNTc0NjgzMTQxNDFiOWM0N2RjYmI0YTY0`

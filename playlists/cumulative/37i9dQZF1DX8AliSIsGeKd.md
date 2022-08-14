@@ -4,7 +4,7 @@
 
 > The best new electronic music from Electronica to Techno\. Cover: Rafael Cerato, Teologen
 
-577 songs - 2 day 5 hr 31 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
+578 songs - 2 day 5 hr 37 min - [published](https://open.spotify.com/playlist/1PJKlmQboCNGXvNYEgYkxk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,8 @@
 | [Born Digital](https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb) | 3:29 | 2022-07-28 |  |
 | [Bouzouki](https://open.spotify.com/track/4S5Qk3Q2u3H6f47bWexu7D) | [Hanne & Lore](https://open.spotify.com/artist/70MKGwjypyzdbuY4t9BqPD) | [Bouzouki](https://open.spotify.com/album/3JxpdWTn1j7CSYeXv66VX2) | 6:03 | 2022-04-21 | 2022-05-06 |
 | [Break the Chains](https://open.spotify.com/track/2qC36HSoV5rFKoHFQkLtFp) | [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Break the Chains](https://open.spotify.com/album/2ECNKwjPv9IgNGoW9a9zlv) | 7:37 | 2022-04-14 | 2022-04-29 |
-| [BREAKFREE](https://open.spotify.com/track/1KuZJnjq1NgqcoQrb8YIwG) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/5EJbNyAQu7cG3AgmLugwbY) | 5:43 | 2022-08-12 |  |
+| [BREAKFREE](https://open.spotify.com/track/1KuZJnjq1NgqcoQrb8YIwG) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/5EJbNyAQu7cG3AgmLugwbY) | 5:43 | 2022-08-12 | 2022-08-14 |
+| [BREAKFREE](https://open.spotify.com/track/6OY9l4YUOyaDCMHI51PCqB) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/1wnWYFIRM8UmWB56ONiOSw) | 5:43 | 2022-08-12 |  |
 | [Bricks](https://open.spotify.com/track/32USvckVhWpGreJKB5Q4Um) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Bricks EP](https://open.spotify.com/album/4xeUF0jCtNurMrL3IPzxKO) | 7:12 | 2022-06-16 | 2022-07-08 |
 | [Bring The Beat Back](https://open.spotify.com/track/0EqAZEQA660aYDZAJQvOfX) | [Elisa Elisa](https://open.spotify.com/artist/2Fxcs2AZB1EkSjLon18RHI) | [Infused Roots](https://open.spotify.com/album/3pLdnYGxkDa6yOBZHLvNEH) | 3:12 | 2022-06-02 | 2022-06-24 |
 | [Bring the Future](https://open.spotify.com/track/0XTKVWYbDHzuULAoxTkYrD) | [Terr](https://open.spotify.com/artist/79ipwfkZpcwMYwHJdqtGsN), [Daniel Watts](https://open.spotify.com/artist/59nsDsrFnxoHLp4j5E3wPx) | [Bring the Future](https://open.spotify.com/album/6shriieluj4NRgu4IzEMtZ) | 6:32 | 2022-04-28 | 2022-05-13 |

@@ -4,7 +4,7 @@
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Rafaga.
 
-151 songs - 9 hr 3 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
+152 songs - 9 hr 7 min - [published](https://open.spotify.com/playlist/2BOWiJCT4dyOyema50dxx0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Como Hacer](https://open.spotify.com/track/3VQ8Cz51UVBAsRuQvicTm0) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Amarte](https://open.spotify.com/album/03ZNVDpcTSI1uq3KZOug0k) | 4:53 | 2021-12-24 |  |
 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 | 2021-12-24 |  |
 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 | 2021-12-24 |  |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-12 |  |
 | [Curame el Corazón](https://open.spotify.com/track/3QDnzNNZKMdfVbuwqXAC42) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Letras al Corazón](https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs) | 4:07 | 2021-12-24 | 2022-01-08 |
 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 | 2022-07-15 |  |
 | [Cómo Olvidarte](https://open.spotify.com/track/5DcQjboiW4TJ4jhwHS6FrO) | [Pablo Pesadilla](https://open.spotify.com/artist/41vcoPejPG3vv8emJ2R5Ox), [Dunguita](https://open.spotify.com/artist/6tgy6fQk4b1XwrSoHvEqBo), [Pollo González](https://open.spotify.com/artist/3lrVu7mL3lav5ySeUyD5CV) | [Cómo Olvidarte](https://open.spotify.com/album/0y2Bzf65Y7PVczvoMhR66G) | 2:51 | 2021-12-24 | 2022-05-10 |

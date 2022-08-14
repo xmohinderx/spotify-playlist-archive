@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 
 > The best soft rock from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,978 likes - 70 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,078 likes - 70 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,11 +51,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 41 | [Something to Remind You](https://open.spotify.com/track/4wOQ8upbW1GzHCWjPlISKP) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Staind](https://open.spotify.com/album/1lOE9VtdaX00Mp3Df6pgs3) | 4:07 |
 | 42 | [Summer Of Love](https://open.spotify.com/track/70ItvfhDJSvIpYCVQoxqEg) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Experience \(Deluxe Edition\)](https://open.spotify.com/album/6S9YaGXnmRe8tWJ0e457HP) | 3:24 |
 | 43 | [Morning](https://open.spotify.com/track/65tH2GPMFCt8JtM2PM3MiX) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Morning Phase](https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu) | 5:19 |
-| 44 | [Release](https://open.spotify.com/track/3ubpkIvw8SDchaRPEKIQPS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:28 |
-| 45 | [Glasgow](https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:37 |
+| 44 | [Glasgow](https://open.spotify.com/track/28VT0090inPlN6bfxoVdmB) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Ride](https://open.spotify.com/album/07IHAhsG4FnnfHQSb3bbAZ) | 2:37 |
+| 45 | [Release](https://open.spotify.com/track/3ubpkIvw8SDchaRPEKIQPS) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Smoke + Mirrors \(Deluxe\)](https://open.spotify.com/album/6ecx4OFG0nlUMqAi9OXQER) | 2:28 |
 | 46 | [Some Kind Of Love](https://open.spotify.com/track/0vicQm86o7GnT42GdG34sA) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Wonderful Wonderful](https://open.spotify.com/album/72ZfMxLCPG8mlWC0TXfZQi) | 4:38 |
-| 47 | [Little Boy](https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:53 |
-| 48 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
+| 47 | [Stay With Me \- Acoustic Version](https://open.spotify.com/track/39IX2P1yPA5opcTaHXLPlW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Stay With Me](https://open.spotify.com/album/0fsWxXjjgHAnFLCEAGWHS5) | 3:18 |
+| 48 | [Little Boy](https://open.spotify.com/track/1vkdwNTgBAzWFApCVYX9ER) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [The Attractions Of Youth](https://open.spotify.com/album/2pWDyiJFya59ue0391kzSl) | 3:53 |
 | 49 | [Lost It All](https://open.spotify.com/track/1wfZKFKzBDRl1wTK7TvYQe) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Wretched and Divine: The Story Of The Wild Ones](https://open.spotify.com/album/0wcIOEo1iicfaxxCRgULOO) | 5:19 |
 | 50 | [Sovereign Light Café](https://open.spotify.com/track/38v9pKVik1eEJhpSuh97oc) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Strangeland](https://open.spotify.com/album/7CrzFBSIGuZA07hjRM6HxH) | 3:38 |
 | 51 | [Over You](https://open.spotify.com/track/2rF2dht1UkYFPpJ73w0AU6) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Miracle Pill](https://open.spotify.com/album/79gY3R2V5HcDbnrMp6wuVP) | 2:54 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcf57PJZ9901.md) - [plain]
 | 69 | [Wild Sun](https://open.spotify.com/track/4BfQ0lR0I0iJFS9SoExpbG) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:29 |
 | 70 | [Passing Ships](https://open.spotify.com/track/7n2ovJQ5hDX9wScd9aBL6N) | [Throw The Fight](https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7) | [Transmissions](https://open.spotify.com/album/1pbaNcr9twxPtvBo7GuJnh) | 4:15 |
 
-Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMDM0ZDM4NTFmYWQxMzg1ODhjM2YyNjg1Yjc2MGZkZDg0`
+Snapshot ID: `MTY1NDE3NzIzOCwwMDAwMDAwMGI4ODc4ZWQ0ZDk0NzJjMjk4Y2M3MzE2ODZiMWYwMjhh`

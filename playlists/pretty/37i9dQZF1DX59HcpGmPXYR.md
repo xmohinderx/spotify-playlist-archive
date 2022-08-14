@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Lady Gaga & Ariana Grande
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,225 likes - 60 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,231 likes - 60 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 46 | [Got to Be Real](https://open.spotify.com/track/58r4JuwHhXLAkttkaUZfLw) | [Cheryl Lynn](https://open.spotify.com/artist/6UfoTQXaV3DuqtDVjZIxwZ) | [Cheryl Lynn \(Expanded Edition\)](https://open.spotify.com/album/059jmsqbxhu2n78LMS0H3P) | 5:07 |
 | 47 | [SloMo \- Eurovision's Dancebreak Edit](https://open.spotify.com/track/00rUx6vPpy0XbJer8BcoRn) | [Chanel](https://open.spotify.com/artist/5DeX42pr2TilrnsUgjG8D1) | [SloMo \(Eurovision's Dancebreak Edit\)](https://open.spotify.com/album/3nrVP8ljurMTI2cEv6ItJA) | 3:00 |
 | 48 | [Release Me](https://open.spotify.com/track/4LiJE6pqgsTX3FtukW6bNh) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Dance Love Pop \(The Love Love Love Edition\)](https://open.spotify.com/album/6hfmJS7B3wWyQXfMoNuHIA) | 4:16 |
-| 49 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
-| 50 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
+| 49 | [Finally](https://open.spotify.com/track/0uqvSVhGgQTIdj9G51vhvv) | [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD) | [Finally](https://open.spotify.com/album/3REpPYjJhtaeJc4Mo1v4Ip) | 4:05 |
+| 50 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 |
 | 51 | [I Feel Love](https://open.spotify.com/track/29MOOOmMRPeWyPwKQFoF5t) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [I Feel Love](https://open.spotify.com/album/2DmVNmERvg6j9jZQbelNKu) | 4:14 |
 | 52 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 53 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/60nXduun3ybrHhtDOUmGmV) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/18cAitZNvQLJBlNhDeSH2L) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 59 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 60 | [That's the Way \(I Like It\) \- 2004 Remaster](https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi) | [KC & The Sunshine Band](https://open.spotify.com/artist/3mQBpAOMWYqAZyxtyeo4Lo) | [KC & the Sunshine Band](https://open.spotify.com/album/6S2ZnQo8V7k7EQZZEK3WcR) | 3:05 |
 
-Snapshot ID: `MTY1ODk0OTcxMywwMDAwMDAwMDA3ZTNkNGNkZGUwOGI4MjY2NWY2ZDk0NjU1ZWU0M2Yz`
+Snapshot ID: `MTY1ODk0OTcxMywwMDAwMDAwMGM5NWNlZWNkNzQ0YzZhOTY5NjFiYzczMTU4ZWMxYzRl`

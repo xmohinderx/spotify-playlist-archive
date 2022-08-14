@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-175 songs - 9 hr 15 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
+176 songs - 9 hr 19 min - [published](https://open.spotify.com/playlist/6i54Gc32OBgUQz8RjwMK3M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Creep \- mint Singles](https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [GATTÜSO](https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic) | [Creep \(mint Singles\)](https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf) | 2:41 | 2022-01-04 |  |
 | [Dance Alone](https://open.spotify.com/track/6WoA6fm4Mv1Xo9XuHADlRT) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29) | [Dance Alone](https://open.spotify.com/album/4xN5FWfUzGRI5FGrMbHqRy) | 2:05 | 2022-01-04 | 2022-07-29 |
 | [Dance With Me](https://open.spotify.com/track/7s914GtCjjcdeAP0TScYqB) | [Felguk](https://open.spotify.com/artist/3eH2apcLhzhnr3eWmH3VBf), [NUZB](https://open.spotify.com/artist/1whPdBCsbQv270FMoML1fa) | [Dance With Me](https://open.spotify.com/album/4lEnbHVWLFdlWfPTyUtzfm) | 2:56 | 2022-01-04 | 2022-07-29 |
-| [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 | 2022-03-09 |  |
+| [Dark](https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t) | [Dark](https://open.spotify.com/album/600wdbuRpaK6uJWA63oqii) | 2:03 | 2022-03-09 | 2022-08-14 |
 | [Dark Times](https://open.spotify.com/track/6t8QfeAAYhgmSMV3rOvIRw) | [DUNNOWHO](https://open.spotify.com/artist/5hopiq3ryZicsodQkx8dGn) | [Dark Times](https://open.spotify.com/album/1KJ728YDU2jma0wgngWYaw) | 3:00 | 2022-01-04 | 2022-07-27 |
 | [Death Rail](https://open.spotify.com/track/0gtuo2bvKsqW8yiqQvvtcr) | [Hi I'm Ghost](https://open.spotify.com/artist/7IyxUmBgkkV4jh7kHoip34) | [Death Rail](https://open.spotify.com/album/2LrqZEdBSCA2yKt0fs5Q8H) | 2:31 | 2022-01-04 |  |
 | [Deep Lies](https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM) | [Tadeo Fernandez](https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS), [BW](https://open.spotify.com/artist/1i44h6fV8ef3hIb9tF2Lvp), [Criminal Sounds](https://open.spotify.com/artist/5njfytLYZKkzutruHPuSVj), [Onyra](https://open.spotify.com/artist/6C4TTq7NEdvKLUmBaSqAMb) | [Deep Lies](https://open.spotify.com/album/48n5az0Eky1MyA3LQMNRLz) | 3:25 | 2022-01-04 | 2022-07-29 |
@@ -87,6 +87,7 @@
 | [I Don't Want You](https://open.spotify.com/track/5vcfy76yr163pFH7NkN6nX) | [Riton](https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [I Don't Want You](https://open.spotify.com/album/4moT0z2FHOCnAr9Zh9EiC2) | 3:10 | 2022-01-04 |  |
 | [I Want You](https://open.spotify.com/track/0BCunKrAj1IMTM4A7J3TlC) | [Jerry Davila](https://open.spotify.com/artist/3t76hexN6ZnQZWhvjhp1Jz), [Mixmash Bold](https://open.spotify.com/artist/6yoe6vgX80ZjB2MP9UYwuC) | [I Want You](https://open.spotify.com/album/72oEPfFBu3HpOUNA46hlYB) | 2:22 | 2022-01-04 | 2022-07-29 |
 | [I Want You](https://open.spotify.com/track/4s8BpmFtxDgeCoPj2XHtVj) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/2e0yXV8bjdl4cqWwp1KG8T) | 3:39 | 2022-07-26 | 2022-08-11 |
+| [I Want You](https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn) | 3:39 | 2022-07-26 |  |
 | [I Want You](https://open.spotify.com/track/70hYJ2B7d72XKbXEBiYS5R) | [La Fuente](https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD) | [I Want You](https://open.spotify.com/album/7DuiGBRQXN6grfcmxzZ01L) | 3:39 | 2022-06-27 | 2022-07-29 |
 | [I'm Not Alright \- Zack Martino Remix](https://open.spotify.com/track/3WOlnWcFTW5kDWFvmnATXX) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [Bryce Vine](https://open.spotify.com/artist/1ShZZUjkbXCjhwrb18BA8I), [Zack Martino](https://open.spotify.com/artist/2US2mjK9hW7QGSBNpprlbu) | [I'm Not Alright \(Zack Martino Remix\)](https://open.spotify.com/album/14puptj1QDgkzXygF2Cmr7) | 3:05 | 2022-03-29 | 2022-04-21 |
 | [IM GONE](https://open.spotify.com/track/7sFqwdXin2bgiuElcWdtYl) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5cIB4XHB34ZpVmaSzzhiOB) | 4:45 | 2022-03-29 |  |

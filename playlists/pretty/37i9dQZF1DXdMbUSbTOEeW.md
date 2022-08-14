@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,197 likes - 43 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,212 likes - 43 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 11 | [Check My Fizz](https://open.spotify.com/track/1EySCjsDw2UCbZtopFIBn2) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Check My Fizz](https://open.spotify.com/album/73kDOz97CJszxm2eZnZ70Z) | 2:40 |
 | 12 | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/track/208sMwgVcaFt2mT79Df1KG) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn), [M\. M\. Keeravani](https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR) | [Naacho Naacho \(From "Rrr"\)](https://open.spotify.com/album/1i4dE3ZSEKUVNA85Lr5nbA) | 3:34 |
 | 13 | [In Da Getto](https://open.spotify.com/track/63aj87TQG6F3RVO5nbG2VQ) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [In Da Getto](https://open.spotify.com/album/2M7g0SNXnSq7j5BgYJYJsl) | 2:11 |
-| 14 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 |
+| 14 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
 | 15 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 |
 | 16 | [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 |
 | 17 | [Heaven Takes You Home \(feat\. Connie Constance\)](https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Paradise Again](https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH) | 3:34 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMbUSbTOEeW.md) - [plain]
 | 42 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 |
 | 43 | [What Would You Do?](https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [What Would You Do?](https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD) | 2:54 |
 
-Snapshot ID: `MTY1ODQ5NDYwMywwMDAwMDAwMDFiMzcwYjhiYTNhZWQ2NWFmYTA2YzU1ODMyOTYyYjMz`
+Snapshot ID: `MTY1ODQ5NDYwMywwMDAwMDAwMGEzM2E5YzhkNzNkNzhkYTg4YTg0NmFmOTc1Mjg0YTkw`

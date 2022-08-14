@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 159761,
       "name": "Arson",
       "url": "https://open.spotify.com/track/2QWEMqQMJR1KDf6hDjJOs6"
@@ -7065,10 +7065,32 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 243000,
       "name": "Shut Up and Listen",
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
+    },
+    {
+      "album": {
+        "name": "Shut Up and Listen",
+        "url": "https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Bonnin",
+          "url": "https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN"
+        },
+        {
+          "name": "Angelicca",
+          "url": "https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Shut Up and Listen",
+      "url": "https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM"
     },
     {
       "album": {
@@ -8456,6 +8478,24 @@
     },
     {
       "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
+    },
+    {
+      "album": {
         "name": "Until I Found You",
         "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
       },
@@ -8471,6 +8511,24 @@
       "duration_ms": 177720,
       "name": "Until I Found You",
       "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
+    },
+    {
+      "album": {
+        "name": "V16",
+        "url": "https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz"
+      },
+      "artists": [
+        {
+          "name": "Martinwhite",
+          "url": "https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119106,
+      "name": "V16",
+      "url": "https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3"
     },
     {
       "album": {
@@ -8633,7 +8691,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 214333,
       "name": "Wait",
       "url": "https://open.spotify.com/track/78q95oBxFrzHHAWsXRogXa"

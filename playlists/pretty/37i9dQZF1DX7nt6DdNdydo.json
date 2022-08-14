@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 34316,
+  "num_followers": 34349,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMGE5NWJhNjAxMDEwZjk4MTZjMjUwODQ5Y2JhOTkxNDJl",
+  "snapshot_id": "MTY0ODQ5NjY2NSwwMDAwMDAwMDc0NzM5ZGI1NTgzYzlkMmE4OTZjYWU5Njc0YWNjZmJi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Lost Halloween",
-        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 120480,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "Count Basie Swings - Joe Williams Sings",
         "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
@@ -507,66 +491,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Presenting Big Jay McNeely",
-        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
+        "name": "Lost Halloween",
+        "url": "https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T"
       },
       "artists": [
         {
-          "name": "Big Jay McNeely",
-          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
         }
       ],
-      "duration_ms": 167866,
-      "name": "Deacon Rides Again",
-      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Ruth Brown",
-        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Brown",
-          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
-        }
-      ],
-      "duration_ms": 156320,
-      "name": "Hello Little Boy",
-      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Lovin' Machine",
-        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
-      },
-      "artists": [
-        {
-          "name": "Wynonie Harris",
-          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
-        }
-      ],
-      "duration_ms": 173466,
-      "name": "Keep On Churnin' (Till The Butter Come)",
-      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Sun Records - 60 Years, 60 Singles Box Set",
-        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
-      },
-      "artists": [
-        {
-          "name": "Billy \"The Kid\" Emerson",
-          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
-        }
-      ],
-      "duration_ms": 144166,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
+      "duration_ms": 120480,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/49VFbbe7fYParNLzugoweT"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -591,18 +527,66 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+        "name": "Presenting Big Jay McNeely",
+        "url": "https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A"
       },
       "artists": [
         {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+          "name": "Big Jay McNeely",
+          "url": "https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm"
         }
       ],
-      "duration_ms": 171533,
-      "name": "Sax Shack Boogie",
-      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
+      "duration_ms": 167866,
+      "name": "Deacon Rides Again",
+      "url": "https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Lovin' Machine",
+        "url": "https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo"
+      },
+      "artists": [
+        {
+          "name": "Wynonie Harris",
+          "url": "https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn"
+        }
+      ],
+      "duration_ms": 173466,
+      "name": "Keep On Churnin' (Till The Butter Come)",
+      "url": "https://open.spotify.com/track/7D4xc9AITlutSfDKCaAtDj"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Ruth Brown",
+        "url": "https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Brown",
+          "url": "https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY"
+        }
+      ],
+      "duration_ms": 156320,
+      "name": "Hello Little Boy",
+      "url": "https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Sun Records - 60 Years, 60 Singles Box Set",
+        "url": "https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O"
+      },
+      "artists": [
+        {
+          "name": "Billy \"The Kid\" Emerson",
+          "url": "https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw"
+        }
+      ],
+      "duration_ms": 144166,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -619,6 +603,22 @@
       "duration_ms": 150893,
       "name": "Oh Babe",
       "url": "https://open.spotify.com/track/5uNMlXUTvc7M7nELi7I1Nq"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 171533,
+      "name": "Sax Shack Boogie",
+      "url": "https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw"
     },
     {
       "added_at": "2022-03-28 19:44:25",

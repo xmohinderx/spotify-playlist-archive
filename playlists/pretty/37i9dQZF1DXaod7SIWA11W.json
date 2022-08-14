@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Naomi Raine",
-  "num_followers": 19170,
+  "num_followers": 19256,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMDNlYjZmYjQ0ZmQ2OTRjNjZhZGFkMWUxNTVmOGFkYTZj",
+  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMDJjNGFmYmVjN2U3ZmZmNDg5ZDg4MGZkNmRkZDQ0MDBm",
   "tracks": [
     {
       "added_at": "2022-07-17 06:04:21",
@@ -539,6 +539,26 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 346765,
+      "name": "In Spite Of Me",
+      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
         "url": "https://open.spotify.com/album/3vP8VfkQVpGJSviXLmk9ls"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 344325,
       "name": "Deliver Me (This Is My Exodus) (feat. Le'Andria Johnson)",
       "url": "https://open.spotify.com/track/4imwSeFR8R3yKpfD2yNI2r"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 346765,
-      "name": "In Spite Of Me",
-      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -643,18 +643,18 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Choose You",
-        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
+        "name": "Breakthrough: The Exodus (Live)",
+        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
         }
       ],
-      "duration_ms": 185211,
-      "name": "Choose You",
-      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
+      "duration_ms": 518057,
+      "name": "All Of My Help - Live",
+      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -675,34 +675,18 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Breakthrough: The Exodus (Live)",
-        "url": "https://open.spotify.com/album/5l8UFWanHTPYfWXXJhIYdZ"
+        "name": "Choose You",
+        "url": "https://open.spotify.com/album/1KoVTcluwzGUCo1xMPqqZA"
       },
       "artists": [
         {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
         }
       ],
-      "duration_ms": 518057,
-      "name": "All Of My Help - Live",
-      "url": "https://open.spotify.com/track/5v15knLpGP0gV5vHUemx1R"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Heartbeat (Live)",
-        "url": "https://open.spotify.com/album/0oXvXE4iVb0dSIEeuFnN1C"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 247301,
-      "name": "Heartbeat - Live",
-      "url": "https://open.spotify.com/track/6CQ6A3rlDDBUYXHONUDvPs"
+      "duration_ms": 185211,
+      "name": "Choose You",
+      "url": "https://open.spotify.com/track/2rUNWlmyWYeViuhqb4QQc6"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -723,6 +707,22 @@
       "duration_ms": 168250,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/6tSD4UimW65YowULzt7eSz"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
+        "name": "Heartbeat (Live)",
+        "url": "https://open.spotify.com/album/0oXvXE4iVb0dSIEeuFnN1C"
+      },
+      "artists": [
+        {
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+        }
+      ],
+      "duration_ms": 247301,
+      "name": "Heartbeat - Live",
+      "url": "https://open.spotify.com/track/6CQ6A3rlDDBUYXHONUDvPs"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -759,26 +759,6 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "CALL",
-        "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
-      },
-      "artists": [
-        {
-          "name": "Jor'dan Armstrong",
-          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
-        },
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "CALL",
-      "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
         "name": "Como Eh",
         "url": "https://open.spotify.com/album/3Nt8Qr22mhCSOJ1jQXp9YI"
       },
@@ -795,6 +775,26 @@
       "duration_ms": 169043,
       "name": "Como Eh",
       "url": "https://open.spotify.com/track/2CTBMhHS3GIs8LlC1xXBwj"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
+        "name": "CALL",
+        "url": "https://open.spotify.com/album/7eHtjtQweHAnqPoipe9d3j"
+      },
+      "artists": [
+        {
+          "name": "Jor'dan Armstrong",
+          "url": "https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8"
+        },
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "CALL",
+      "url": "https://open.spotify.com/track/2BeSGeEZXro1Zx2Uhr2kHl"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -835,6 +835,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "The End.",
+        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
+      },
+      "artists": [
+        {
+          "name": "Trip Lee",
+          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
+        }
+      ],
+      "duration_ms": 140554,
+      "name": "Supernatural",
+      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Hit My Line",
         "url": "https://open.spotify.com/album/0CK7KNfyrFlRvTygSeiJA5"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 147492,
       "name": "Hit My Line",
       "url": "https://open.spotify.com/track/6OfQAAc5Bempqs62jzatMv"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "The End.",
-        "url": "https://open.spotify.com/album/04pUvZNdQT3sT8jJ7Iulwr"
-      },
-      "artists": [
-        {
-          "name": "Trip Lee",
-          "url": "https://open.spotify.com/artist/12H1Dmi64fAmmARrsyVFzy"
-        }
-      ],
-      "duration_ms": 140554,
-      "name": "Supernatural",
-      "url": "https://open.spotify.com/track/56Q2OtRzToYHKxU9p6XWsn"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "Hold On Me",
+        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172113,
+      "name": "Hold On Me",
+      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "The Encounter",
         "url": "https://open.spotify.com/album/4KKKZ8MCjt719jKxJnVhtS"
       },
@@ -919,26 +935,6 @@
       "duration_ms": 397297,
       "name": "Build My Life",
       "url": "https://open.spotify.com/track/7csEy5mRiOb8ONsnjDnUkJ"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Hard Times (feat. Mali Music)",
-        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        },
-        {
-          "name": "Mali Music",
-          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Hard Times (feat. Mali Music)",
-      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -963,18 +959,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Hold On Me",
-        "url": "https://open.spotify.com/album/3AD16GLcPl1toDt9qgqhE6"
+        "name": "Hard Times (feat. Mali Music)",
+        "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Mali Music",
+          "url": "https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY"
         }
       ],
-      "duration_ms": 172113,
-      "name": "Hold On Me",
-      "url": "https://open.spotify.com/track/0iYrbOzpIwEnKeRBHlB5tH"
+      "duration_ms": 205333,
+      "name": "Hard Times (feat. Mali Music)",
+      "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Look At You",
-        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 384255,
-      "name": "Look At You",
-      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
         "name": "Prosper (Remix)",
         "url": "https://open.spotify.com/album/03mIIdpF3q6VF1f23dGwzF"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 190588,
       "name": "Prosper (Remix)",
       "url": "https://open.spotify.com/track/2Y4cXBo6kSAG30RdrhoBxe"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
+        "name": "Look At You",
+        "url": "https://open.spotify.com/album/6ByjGbv5DRxWzMqdnQoo17"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 384255,
+      "name": "Look At You",
+      "url": "https://open.spotify.com/track/6siVkh1jUbnZCseo7D3K0s"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "Backslide",
+        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
+      },
+      "artists": [
+        {
+          "name": "Red Tips",
+          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
+        }
+      ],
+      "duration_ms": 150875,
+      "name": "Backslide",
+      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Enemies and Foes",
         "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "Backslide",
-        "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
-      },
-      "artists": [
-        {
-          "name": "Red Tips",
-          "url": "https://open.spotify.com/artist/0e6JPJ634Hw3I95aKMEaD7"
-        }
-      ],
-      "duration_ms": 150875,
-      "name": "Backslide",
-      "url": "https://open.spotify.com/track/0xSmgLMebPwho7od9B4Jsw"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
       },
       "artists": [
         {
-          "name": "Sho Baraka",
-          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
         }
       ],
-      "duration_ms": 214773,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/0GV40hHjZG1GAxk05U2H0m"
       },
       "artists": [
         {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+          "name": "Sho Baraka",
+          "url": "https://open.spotify.com/artist/3dpswct31rsudWf8ZASWZe"
         }
       ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
+      "duration_ms": 214773,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/1l1RKCVgp6qn4UNpgasHhY"
     },
     {
       "added_at": "2022-07-17 06:04:21",

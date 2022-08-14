@@ -1,12 +1,12 @@
 {
   "description": "Tejano's new wave, co-curated with <a href=\"https://tejanonation.net/\">Tejano Nation</a>! La nueva ola de la m\u00fasica tejana. Cover: Stefani Montiel",
-  "num_followers": 140154,
+  "num_followers": 140161,
   "original_name": "New Tejano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMDc4NzI1ZGUyZDUxMTZjZGQ2ZWNhN2ZjYmE0NTE5YTgw",
+  "snapshot_id": "MTY0NjY4NjE4MiwwMDAwMDAwMGY0MTMxOTEzM2JmZTNiZjI0M2FhMmJhYjI0NTQ3NTRl",
   "tracks": [
     {
       "added_at": "2022-03-07 20:49:42",
@@ -259,22 +259,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "On the Same Track",
-        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
-      },
-      "artists": [
-        {
-          "name": "Nightlife",
-          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Paloma Sin Nido",
-      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Fe",
         "url": "https://open.spotify.com/album/0x1psk0bOqvKzFIXg0kKa4"
       },
@@ -311,6 +295,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "On the Same Track",
+        "url": "https://open.spotify.com/album/2XrPpixSLRPPOWRHEkTc2K"
+      },
+      "artists": [
+        {
+          "name": "Nightlife",
+          "url": "https://open.spotify.com/artist/2Ze33LupiJwJ9L7HusVyg8"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Paloma Sin Nido",
+      "url": "https://open.spotify.com/track/2DWsob6FCQvvqBhgBCzKxW"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "Ni Todo el Dinero",
         "url": "https://open.spotify.com/album/0cu4MjortdALwwc0C5ImBR"
       },
@@ -339,6 +339,22 @@
       "duration_ms": 179063,
       "name": "Quedate",
       "url": "https://open.spotify.com/track/10aPjP4AFszpLKNPoQeJv7"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "Y Sigues Siendo Tu",
+        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
+      },
+      "artists": [
+        {
+          "name": "Adrian Gutierrez",
+          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
+        }
+      ],
+      "duration_ms": 190933,
+      "name": "Y Sigues Siendo Tu",
+      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -375,22 +391,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Y Sigues Siendo Tu",
-        "url": "https://open.spotify.com/album/1LoHFvlwyybAXlR2uyr7JJ"
-      },
-      "artists": [
-        {
-          "name": "Adrian Gutierrez",
-          "url": "https://open.spotify.com/artist/4WGAoIeSbercuZ6QRYitic"
-        }
-      ],
-      "duration_ms": 190933,
-      "name": "Y Sigues Siendo Tu",
-      "url": "https://open.spotify.com/track/0pZhbuOqf3aO7U3scNQFEa"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Acu\u00e9rdate (Radio Edit)",
         "url": "https://open.spotify.com/album/6lvLn0vnccMwGKD77kkAcz"
       },
@@ -403,6 +403,22 @@
       "duration_ms": 182080,
       "name": "Acu\u00e9rdate - Radio Edit",
       "url": "https://open.spotify.com/track/2DCtNvMoYlYY3BujKpIxuu"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "So\u00f1ar Contigo",
+        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+      },
+      "artists": [
+        {
+          "name": "Cris Medina",
+          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "So\u00f1ar Contigo",
+      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -427,18 +443,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "So\u00f1ar Contigo",
-        "url": "https://open.spotify.com/album/79Y5ZqObPz9ggm1LHRZ5ab"
+        "name": "Live Sessions 1",
+        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
       },
       "artists": [
         {
-          "name": "Cris Medina",
-          "url": "https://open.spotify.com/artist/61wVOp8MGMPQi3ZGvtGKpx"
+          "name": "Meste\u00f1o",
+          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
         }
       ],
-      "duration_ms": 176000,
-      "name": "So\u00f1ar Contigo",
-      "url": "https://open.spotify.com/track/271wwJ5SCaRqL9UglOu2KQ"
+      "duration_ms": 213211,
+      "name": "Ya No Te Aguanto Moe (Live)",
+      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -459,22 +475,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Live Sessions 1",
-        "url": "https://open.spotify.com/album/5AA8HtoQotv2XEHRyi29tX"
-      },
-      "artists": [
-        {
-          "name": "Meste\u00f1o",
-          "url": "https://open.spotify.com/artist/4sDNXNlCrk7zHUZTYggE4K"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Ya No Te Aguanto Moe (Live)",
-      "url": "https://open.spotify.com/track/19XFBzG7g1PgRLGnGkLtZO"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "Sweet City Style",
         "url": "https://open.spotify.com/album/0OATyzRpcnzyIwdcQ1W8pb"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "La Primavera",
-        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
-      },
-      "artists": [
-        {
-          "name": "Severo y Grupo Fuego",
-          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
-        }
-      ],
-      "duration_ms": 192003,
-      "name": "La Primavera",
-      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "After Party",
         "url": "https://open.spotify.com/album/4OPLsWeoUhOkq1R638KQnW"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 231048,
       "name": "After Party",
       "url": "https://open.spotify.com/track/0fwJhJYyD9tJcroxnKd6ts"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "La Primavera",
+        "url": "https://open.spotify.com/album/6sE3Ckmu17RGYHFt2Hn4Hp"
+      },
+      "artists": [
+        {
+          "name": "Severo y Grupo Fuego",
+          "url": "https://open.spotify.com/artist/6KZCZ4IGZLiJpvVysat6F6"
+        }
+      ],
+      "duration_ms": 192003,
+      "name": "La Primavera",
+      "url": "https://open.spotify.com/track/7et8aJ6TWT1tkkz94qAut3"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -555,18 +555,18 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Me Enamor\u00e9 de un \u00c1ngel",
-        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
+        "name": "Nunca Me Imagine",
+        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
       },
       "artists": [
         {
-          "name": "Juan Trevi\u00f1o",
-          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
+          "name": "Adaly",
+          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
         }
       ],
-      "duration_ms": 251239,
-      "name": "Me Enamor\u00e9 de un \u00c1ngel",
-      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+      "duration_ms": 167507,
+      "name": "Nunca Me Imagine",
+      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -587,18 +587,34 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Nunca Me Imagine",
-        "url": "https://open.spotify.com/album/6fmwfryuaaG0HJ1kuRo3mh"
+        "name": "Me Enamor\u00e9 de un \u00c1ngel",
+        "url": "https://open.spotify.com/album/1melzNhjW9NP9TkXDcuJU3"
       },
       "artists": [
         {
-          "name": "Adaly",
-          "url": "https://open.spotify.com/artist/032x2zeoMF26XF3TwSXccg"
+          "name": "Juan Trevi\u00f1o",
+          "url": "https://open.spotify.com/artist/0Gct7JOgXGrHRMaeQNCtvG"
         }
       ],
-      "duration_ms": 167507,
-      "name": "Nunca Me Imagine",
-      "url": "https://open.spotify.com/track/6zPsXyvfaNhUn3SUySKbjT"
+      "duration_ms": 251239,
+      "name": "Me Enamor\u00e9 de un \u00c1ngel",
+      "url": "https://open.spotify.com/track/7nlh8QxxK8zaEZP4fM34Gd"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "N\u00famero Dos",
+        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
+      },
+      "artists": [
+        {
+          "name": "Emanuel J",
+          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "No Quiero Nada",
+      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -619,22 +635,6 @@
       "duration_ms": 177748,
       "name": "Baby Luna",
       "url": "https://open.spotify.com/track/2esIHai39DyjOVdATc4IQo"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "N\u00famero Dos",
-        "url": "https://open.spotify.com/album/4w2OL4DBZWL2GCb7hqaY07"
-      },
-      "artists": [
-        {
-          "name": "Emanuel J",
-          "url": "https://open.spotify.com/artist/3zFXGHNABaAKnak0jm1EDq"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "No Quiero Nada",
-      "url": "https://open.spotify.com/track/4C2BBpBPFGhCPnWTG52kQv"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
+        "name": "Mentias",
+        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
+      },
+      "artists": [
+        {
+          "name": "Brooke T",
+          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
+        }
+      ],
+      "duration_ms": 199870,
+      "name": "Mentias",
+      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
         "name": "That\u2019s All I\u2019ve Got to Say",
         "url": "https://open.spotify.com/album/1NR8IEBqpsCxqD1vLNFD3u"
       },
@@ -727,22 +743,6 @@
     {
       "added_at": "2022-03-07 20:49:42",
       "album": {
-        "name": "Mentias",
-        "url": "https://open.spotify.com/album/04v5L3ENKr0WXoVGNzTNpv"
-      },
-      "artists": [
-        {
-          "name": "Brooke T",
-          "url": "https://open.spotify.com/artist/0TGrOzaMZ5jiCXcDHffOPQ"
-        }
-      ],
-      "duration_ms": 199870,
-      "name": "Mentias",
-      "url": "https://open.spotify.com/track/4aFMxSqCWFOiOShZd1A7pK"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
         "name": "El Besito",
         "url": "https://open.spotify.com/album/5vABWrnPksWrN6PPjxpkoK"
       },
@@ -755,6 +755,22 @@
       "duration_ms": 180651,
       "name": "El Besito",
       "url": "https://open.spotify.com/track/7JFf66uFq9EPIw3cpWtW24"
+    },
+    {
+      "added_at": "2022-03-07 20:49:42",
+      "album": {
+        "name": "No Soy La Misma",
+        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
+      },
+      "artists": [
+        {
+          "name": "Magali Delarosa",
+          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
+        }
+      ],
+      "duration_ms": 224344,
+      "name": "No Soy La Misma",
+      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-03-07 20:49:42",
@@ -787,22 +803,6 @@
       "duration_ms": 205438,
       "name": "Final De Tu Amor",
       "url": "https://open.spotify.com/track/2z5Hj2JKmUsQUzQ9TIYRhD"
-    },
-    {
-      "added_at": "2022-03-07 20:49:42",
-      "album": {
-        "name": "No Soy La Misma",
-        "url": "https://open.spotify.com/album/6JQUo2owykXVHzeAcXOqO8"
-      },
-      "artists": [
-        {
-          "name": "Magali Delarosa",
-          "url": "https://open.spotify.com/artist/7FadHQQ1vm93uZ6bAg2asc"
-        }
-      ],
-      "duration_ms": 224344,
-      "name": "No Soy La Misma",
-      "url": "https://open.spotify.com/track/7auzwz7CpZaWkoImZpJ7nJ"
     },
     {
       "added_at": "2022-03-07 20:49:42",

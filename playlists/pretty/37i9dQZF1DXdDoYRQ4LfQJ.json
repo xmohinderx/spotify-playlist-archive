@@ -1,12 +1,12 @@
 {
   "description": "The hottest corridos in the US! Bien Al Tiro con Edicion Especial.",
-  "num_followers": 82219,
+  "num_followers": 82371,
   "original_name": "Al Tiro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDNiYTE2M2EwZjhlNzE0OWM5M2I4MDQwYThiYmEzN2Rh",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDNiZjQ5Nzk1NzRjMmQ0Nzc3ZjdjYTMzN2Y4NTRjYTc5",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -755,18 +755,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Somos Arrieros",
-        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 156792,
-      "name": "Vida Ventajosa",
-      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -807,54 +811,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+        "name": "Somos Arrieros",
+        "url": "https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 174275,
-      "name": "Aerol\u00ednea Carrillo",
-      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 159978,
-      "name": "La Oveja Negra",
-      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 137323,
-      "name": "El Circo",
-      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+      "duration_ms": 156792,
+      "name": "Vida Ventajosa",
+      "url": "https://open.spotify.com/track/72kaj3MRKcGnv2dbukJQRA"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -883,6 +851,38 @@
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 137323,
+      "name": "El Circo",
+      "url": "https://open.spotify.com/track/66SvxvblhUIEL6awyLMGL2"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 159978,
+      "name": "La Oveja Negra",
+      "url": "https://open.spotify.com/track/7ss0vnlNgbpUSYd5f5UyhD"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194715,
+      "name": "Mi Religi\u00f3n",
+      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Tan Solo Morro",
         "url": "https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 144545,
       "name": "Tan Solo Morro",
       "url": "https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "The Green Trip",
-        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 194715,
-      "name": "Mi Religi\u00f3n",
-      "url": "https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1379,26 +1379,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Jalo y Exhalo",
-        "url": "https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ"
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "Aldo Trujillo",
+          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
         },
         {
-          "name": "David Bernal",
-          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
-        },
-        {
-          "name": "Ruben Figueroa",
-          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
         }
       ],
-      "duration_ms": 153968,
-      "name": "Jalo y Exhalo",
-      "url": "https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n"
+      "duration_ms": 179821,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1419,22 +1415,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "La Despedida",
-        "url": "https://open.spotify.com/album/2FzJZvtg6raSxzQw21HQZ5"
+        "name": "Jalo y Exhalo",
+        "url": "https://open.spotify.com/album/555L1PT7iC06mQEl8I2vjZ"
       },
       "artists": [
         {
-          "name": "Aldo Trujillo",
-          "url": "https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu"
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "David Bernal",
+          "url": "https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS"
+        },
+        {
+          "name": "Ruben Figueroa",
+          "url": "https://open.spotify.com/artist/39sUQ6z3CTsNB4BhBecLOg"
         }
       ],
-      "duration_ms": 179821,
-      "name": "La Despedida",
-      "url": "https://open.spotify.com/track/65KWKx5WQcjKTJ2gcki1i3"
+      "duration_ms": 153968,
+      "name": "Jalo y Exhalo",
+      "url": "https://open.spotify.com/track/5STfIC4lCW6Q3jYbr6L77n"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Vida Peligrosa",
+        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        }
+      ],
+      "duration_ms": 214426,
+      "name": "LoLo Felix",
+      "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "El Flash",
         "url": "https://open.spotify.com/album/2AyGcvhh7k7Odeumn0x6QL"
       },
@@ -1631,22 +1647,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 185045,
-      "name": "18 Libras",
-      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Un Chamaco Sin Futuro",
         "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 197929,
       "name": "De Peri\u00f3dico Un Gallito",
       "url": "https://open.spotify.com/track/5teILTGkJkSJXI03XeMIj2"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 185045,
+      "name": "18 Libras",
+      "url": "https://open.spotify.com/track/36m0b1aad6A4CXq41VYxDe"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1679,22 +1695,6 @@
       "duration_ms": 218327,
       "name": "Desde Abajo",
       "url": "https://open.spotify.com/track/73zqylPsXYARg3tesE0Kfm"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Vida Peligrosa",
-        "url": "https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY"
-      },
-      "artists": [
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        }
-      ],
-      "duration_ms": 214426,
-      "name": "LoLo Felix",
-      "url": "https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1875,8 +1875,8 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Mi Nueva Familia",
-        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
+        "name": "Se Divisan",
+        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
       },
       "artists": [
         {
@@ -1884,9 +1884,9 @@
           "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 175038,
-      "name": "Mi Nueva Familia",
-      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
+      "duration_ms": 160000,
+      "name": "Se Divisan",
+      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -2059,8 +2059,8 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Se Divisan",
-        "url": "https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ"
+        "name": "Mi Nueva Familia",
+        "url": "https://open.spotify.com/album/1PkLp7f8coVDklhVhEQSvS"
       },
       "artists": [
         {
@@ -2068,9 +2068,9 @@
           "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
         }
       ],
-      "duration_ms": 160000,
-      "name": "Se Divisan",
-      "url": "https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z"
+      "duration_ms": 175038,
+      "name": "Mi Nueva Familia",
+      "url": "https://open.spotify.com/track/4JNEp47KO7F69MjLt61J21"
     },
     {
       "added_at": "2022-08-05 04:00:00",

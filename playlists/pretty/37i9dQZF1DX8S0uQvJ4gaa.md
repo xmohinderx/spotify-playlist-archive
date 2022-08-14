@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New Music Discovery is what we're about\. Try it on for size\. Cover: Maddie & Tae
 
-[Spotify](https://open.spotify.com/user/spotify) - 863,413 likes - 115 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 863,712 likes - 115 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Every Night Every Morning](https://open.spotify.com/track/4qbibbQ1yK0rPl0JUJS0bz) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Every Night Every Morning](https://open.spotify.com/album/5T5eTFklQfQHczrSfV7qej) | 3:16 |
 | 2 | [Handle On You](https://open.spotify.com/track/6Qpfsw8OS5HW5XxgmXYLWS) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Handle On You](https://open.spotify.com/album/65UKRbP97zWe5gBZ48jBkR) | 3:39 |
-| 3 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Songs From Bell Bottom Country](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
+| 3 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 4 | [Some Other Bar](https://open.spotify.com/track/1Y4smjUloaPcgZh99z0SGJ) | [ERNEST](https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky) | [Some Other Bar](https://open.spotify.com/album/6hYRFzxWwKRLpasujAegzw) | 3:19 |
 | 5 | [Always Something With You](https://open.spotify.com/track/52xwCsWMq3PGWWKAH6bNvJ) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Always Something With You](https://open.spotify.com/album/1D5Nj0MYi7BfIrtWidEcdo) | 2:49 |
 | 6 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |

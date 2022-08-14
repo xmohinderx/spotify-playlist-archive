@@ -4,7 +4,7 @@
 
 > ¡Un sa\-sa\-saludo a todos los amantes de la cu\-cu\-cumbia!
 
-204 songs - 13 hr 32 min - [published](https://open.spotify.com/playlist/54ZP2KjUy46mw39AV7wczE)
+205 songs - 13 hr 35 min - [published](https://open.spotify.com/playlist/54ZP2KjUy46mw39AV7wczE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,8 @@
 | [Cuando Volveras](https://open.spotify.com/track/0dUtnWQkXrv3ufAYrmWDhk) | [Cumbias Poblanas](https://open.spotify.com/artist/5yfgm29nhL4CSbKZSPORu4) | [Con Mas Poder](https://open.spotify.com/album/71tYifBcxv2ybsKBntBs41) | 5:24 | 2021-11-30 |  |
 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 | 2021-11-30 | 2022-03-09 |
 | [Cumbia Barulera](https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG) | [Los Dinamiteros de Colombia](https://open.spotify.com/artist/0OJXBz0TBaRCbyDpx62nZW), [Aniceto Molina](https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S) | [Disco De Oro \- Cumbia](https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU) | 3:00 | 2022-06-07 |  |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-06-07 |  |
 | [Cumbia Cholula](https://open.spotify.com/track/7pY2KAZTR53YbiLtbYLPvI) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Cumbia Cholula](https://open.spotify.com/album/08jIxZs7LBfg0BvbINxAE1) | 5:08 | 2021-11-30 | 2022-07-29 |
 | [Cumbia de las Flores](https://open.spotify.com/track/0hDRyG9zE0K2aoEjPXapeQ) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/3w4lqqVH06rYt8Z3EjC92s) | 3:22 | 2021-11-30 |  |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2021-11-30 |  |

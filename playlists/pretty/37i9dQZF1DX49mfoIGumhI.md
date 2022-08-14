@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 
 > ¡Vive la salsa de los '80! Foto: Oscar D'León
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,104 likes - 49 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,183 likes - 49 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 14 | [Hagamos Lo Que Diga El Corazón](https://open.spotify.com/track/5NR1LYf16E6K5t5AeSYP8P) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 5:02 |
 | 15 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 16 | [Esa Mujer \- En Vivo](https://open.spotify.com/track/5gnYYnQTU1GsYlSTQw9Lvm) | [Tony Vega](https://open.spotify.com/artist/3Yg61bt7pZYX1bbMXEj8oY) | [En Concierto](https://open.spotify.com/album/3Gdp5KnCKrIDAfbgvM7N2b) | 5:51 |
-| 17 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
-| 18 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
+| 17 | [Si Supieras](https://open.spotify.com/track/6JUOHyIgRFhZumikb2u1uA) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 5:11 |
+| 18 | [Caretas](https://open.spotify.com/track/6CJAk19Xw9rXoUy1Egshpe) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Por el Buen Camino](https://open.spotify.com/album/1fwcGFkXIXDmd3CJ1w5KM3) | 5:11 |
 | 19 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
 | 20 | [Tu Me Quemas](https://open.spotify.com/track/2EgTgfFKOvCpV3ACbJlDrl) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Atrevido Y Diferente](https://open.spotify.com/album/0qFXgEQ4pj1i6VQ80AMqTG) | 4:59 |
 | 21 | [Y Nos Amamos](https://open.spotify.com/track/1GJ81TUe0L0V8KpFC2Xobo) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 3:49 |
 | 22 | [Nadie Igual Que tu](https://open.spotify.com/track/1E04xyii2FtGyCiAWgbm9k) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Solo](https://open.spotify.com/album/5eT06qIRKZhsrONksaiZrP) | 5:44 |
-| 23 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
-| 24 | [Fantasía Herida](https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [Salseando Con..\. Volume 2](https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85) | 5:09 |
+| 23 | [Fantasía Herida](https://open.spotify.com/track/7gXoJlCvkADgCISM3XFIu1) | [Salseando](https://open.spotify.com/artist/2GV8emlDQZ9U3xbDPsGsv0) | [Salseando Con..\. Volume 2](https://open.spotify.com/album/6c8atZjCJsPUNK7jVqsg85) | 5:09 |
+| 24 | [Me Niegas Tanto Amor](https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o) | [Pedro Conga](https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y) | [Salsa Exitos](https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW) | 4:44 |
 | 25 | [No Me Digan Que Es Muy Tarde](https://open.spotify.com/track/5kiRyGmKOdmc2SyD3JqcSI) | [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Doble Energía](https://open.spotify.com/album/1t9CWp3ykgHF83aO4uYYmU) | 6:52 |
 | 26 | [Anuncio Clasificado / Dámelo](https://open.spotify.com/track/3kqapvD6gg0TlUeqinOX9u) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [Viva Rosario](https://open.spotify.com/album/68Gx7E0QgelZ6Uvpo9PWzB) | 5:01 |
 | 27 | [Tu Me Quemas](https://open.spotify.com/track/52V2RLfvgeXmbzXSk9blQU) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Greatest Hits](https://open.spotify.com/album/5cLsHBFKN5olOn3mQg7WU6) | 4:40 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49mfoIGumhI.md) - [plain]
 | 48 | [Cantante de Cartel](https://open.spotify.com/track/0RBwK6GDmq2CACUzlsBw7B) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Good Vibrations](https://open.spotify.com/album/0viAbizcy2QtBHd5ubN1G7) | 4:33 |
 | 49 | [Busca El Ritmo](https://open.spotify.com/track/5jeimudsdih5ZC1BC6Qsad) | [Willie Rosario](https://open.spotify.com/artist/24qSVomYxpfAFwzBnKCc8J) | [The Greatest Salsa Ever](https://open.spotify.com/album/2WgO5zD6fOYD9LwLwPzfiC) | 5:34 |
 
-Snapshot ID: `MTU1MzYzMTY5NCwwMDAwMDAwMDQyNDg0ZDAxZjY5N2E5MDEwZmZhYzE3Y2U5NWNjNjdj`
+Snapshot ID: `MTU1MzYzMTY5NCwwMDAwMDAwMDEzZjBlZTE4MDI0NzAyY2E0ZDAzNGRlNTY0MDk2ZmVl`

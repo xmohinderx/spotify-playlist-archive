@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 
 > Disfruta de canciones pop para toda la familia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,969 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,003 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,19 +39,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 29 | [No Hay Nadie Más](https://open.spotify.com/track/3IPJg1sdqLj12kFIndaonN) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [MANTRA](https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN) | 3:19 |
 | 30 | [Roar](https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:43 |
 | 31 | [Reggaetón Lento \(Bailemos\)](https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Primera Cita](https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld) | 3:42 |
-| 32 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
+| 32 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
 | 33 | [Vida de Rico](https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Vida de Rico](https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT) | 3:07 |
-| 34 | [Sin Novia](https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Sin Novia](https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl) | 3:08 |
+| 34 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
 | 35 | [No se habla de Bruno](https://open.spotify.com/track/5QKk5N5xJQGsWMhPM80Kfv) | [Carolina Gaitán \- La Gaita](https://open.spotify.com/artist/29PgYEggDV3cDP9QYTogwv), [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I), [Daniela Sierra](https://open.spotify.com/artist/3nwgQnJvhaRxrpJ9o84t4f), [Juanse Diez](https://open.spotify.com/artist/2tZy2DfvQ3d8AkmNUZbxoK), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY), [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Encanto \- Elenco](https://open.spotify.com/artist/52l7jN5e0g2n3IVOHulkA6) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 3:36 |
 | 36 | [drivers license](https://open.spotify.com/track/4ml4WlnHDEpOK8HRVYTCWf) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/7bYichzvtYHdjF8HF69dyA) | 4:02 |
 | 37 | [Oye Pablo](https://open.spotify.com/track/6vruVVMkk7YGKzkuIrtOWz) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 2:57 |
-| 38 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
-| 39 | [Inspiración](https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 2:59 |
+| 38 | [Inspiración](https://open.spotify.com/track/0luqiaAZqlVRhwVpooWC8s) | [Olga Lucía Vives](https://open.spotify.com/artist/1xtEM6Ynrm8jO1o7rXzP22), [Isabel Garcés](https://open.spotify.com/artist/4xkkYZnuGYyxRIvkLz5LfY) | [Encanto \(Banda Sonora Original en Español\)](https://open.spotify.com/album/4X5y4Xykl9IdiLqQtUInVF) | 2:59 |
+| 39 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 |
 | 40 | [Tutu](https://open.spotify.com/track/1nocRtwyNPVtGcIJqfgdzZ) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Tutu](https://open.spotify.com/album/6xu5asYeoMIT5Sa5b1P13q) | 2:58 |
-| 41 | [Nice To Meet Ya](https://open.spotify.com/track/3cphb8kdsjElYR7r5icK3H) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Nice To Meet Ya](https://open.spotify.com/album/3KrYBAbfxlssMirZLs6HzZ) | 2:38 |
-| 42 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
+| 41 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
+| 42 | [Valiente](https://open.spotify.com/track/11lIZiXNEY3eacKxwEvDiK) | [Koko](https://open.spotify.com/artist/58pqy50vIEhqbk6ad978VJ) | [Más Valiente](https://open.spotify.com/album/2bWGnzbEVYMsFdYCIDIA1z) | 3:16 |
 | 43 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
-| 44 | [Valiente](https://open.spotify.com/track/11lIZiXNEY3eacKxwEvDiK) | [Koko](https://open.spotify.com/artist/58pqy50vIEhqbk6ad978VJ) | [Más Valiente](https://open.spotify.com/album/2bWGnzbEVYMsFdYCIDIA1z) | 3:16 |
+| 44 | [De Una Vez](https://open.spotify.com/track/1v3lhrZEsOcazqR2QIyyRu) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 2:35 |
 | 45 | [Invéntame](https://open.spotify.com/track/6g6FWPdAMf55CpmkoE7jF1) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Invéntame](https://open.spotify.com/album/5kiDMxfW38PbWnmIABlXBq) | 3:25 |
 | 46 | [Respiro \(Cap\. 8\)](https://open.spotify.com/track/5O612Iau2nHDR3yv8jAFXs) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [MEMORIA FUTURO](https://open.spotify.com/album/4XFeZO8Do9fdappVKRzbcH) | 3:41 |
 | 47 | [Pensando en Ti](https://open.spotify.com/track/2FNL8nW9rvlDKjNwJXVfm7) | [LÚA](https://open.spotify.com/artist/1sEGUJyocmOnW6emzgoHMM) | [Pensando en Ti](https://open.spotify.com/album/0bNoOCnPKQVK5KvtQbJ6ZA) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXGjZNum410i.md) - [plain]
 | 49 | [Si Tú Te Vas](https://open.spotify.com/track/5fncLNZgQmsV3535P2k5RP) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:08 |
 | 50 | [Soñé Contigo](https://open.spotify.com/track/6VT2jR1Y4KLCXKZVo1JiQU) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Soñé Contigo](https://open.spotify.com/album/2lQYMqZIVFR1DfnF3XKJmZ) | 3:31 |
 
-Snapshot ID: `MTY1OTc0OTc1OCwwMDAwMDAwMDkwMWNkNGJlNjA1OGU4ZjhmM2E2NjM5NjZkZjJmYzQ2`
+Snapshot ID: `MTY1OTc0OTc1OCwwMDAwMDAwMGJmYmVhNmQ1ZTkyZDA1ZDRhMWZkYjhhNDA4NWQxODFm`

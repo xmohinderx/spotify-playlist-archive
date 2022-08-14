@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,410 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,439 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 48 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 |
 | 49 | [Locura](https://open.spotify.com/track/0YdQ18RKVo46yNgj1H92MF) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV) | [Real Life Situations](https://open.spotify.com/album/5xdGIj9ivToi3Iag0pOx77) | 2:44 |
 | 50 | [Time](https://open.spotify.com/track/2sf1UtuCg2v7yzw60vKbKa) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Time](https://open.spotify.com/album/5YGgLlHGBZlz7qqei5OyfC) | 3:10 |
-| 51 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 |
-| 52 | [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 |
+| 51 | [Tarde](https://open.spotify.com/track/7D4se6J5kxfuJUF6BeTo71) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Me cansé de hacer canciones \(que no salgan si no estoy llorando\)](https://open.spotify.com/album/3BQJmgCqlUfOy6dfRytlsw) | 3:19 |
+| 52 | [LUV](https://open.spotify.com/track/1hFg2fenFKilpu1qt8xvUz) | [Victor Internet](https://open.spotify.com/artist/6Ib0Di9b3kMxw9yD0DAyAC) | [LUV](https://open.spotify.com/album/5mnUM8a2FOnkjhTjvivyg0) | 2:23 |
 | 53 | [Amor Extraño](https://open.spotify.com/track/1SK3gmwqNCx7WezSCV3F1W) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 3:44 |
 | 54 | [LA MOLINA](https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8) | 2:43 |
 | 55 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 69 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 |
 | 70 | [Break My Own Rules](https://open.spotify.com/track/7xWVF4qvxbD0OeJDI0pYaf) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0DCFi1nMFtVjAoQX0yOlvQ) | 4:02 |
 
-Snapshot ID: `MTY2MDIzMjgyMSwwMDAwMDAwMGViYzAwN2U0NjI3OGJhYzhhOTQ4ZjZhYWYxZmMwOWFh`
+Snapshot ID: `MTY2MDIzMjgyMSwwMDAwMDAwMDEzY2NhZGM0ODUyY2FkOTJmNmEwYTZkMTkxMzM5NzVj`

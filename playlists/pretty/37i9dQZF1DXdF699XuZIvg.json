@@ -1,12 +1,12 @@
 {
   "description": "Hit the road and scream your heart out!",
-  "num_followers": 537720,
+  "num_followers": 538092,
   "original_name": "Highway to Yell",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDA2ZTkzZmFhM2E2Y2I5MmI3ZDI4ODQwNDg0NGJkZTI1",
+  "snapshot_id": "MTYzODg3MjU2NSwwMDAwMDAwMDc4MGY5YjM2YjMwZTExODJiMDg2MTZhYzhkYzllMGY0",
   "tracks": [
     {
       "added_at": "2021-12-07 10:22:45",
@@ -267,22 +267,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Metal Health",
-        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
-      },
-      "artists": [
-        {
-          "name": "Quiet Riot",
-          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Cum on Feel the Noize",
-      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Ramones (40th Anniversary Deluxe Edition; 2016 Remaster)",
         "url": "https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 134466,
       "name": "Blitzkrieg Bop - 2016 Remaster",
       "url": "https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Metal Health",
+        "url": "https://open.spotify.com/album/3Q3rQ8FK1e9Fd9Gv9xm3CK"
+      },
+      "artists": [
+        {
+          "name": "Quiet Riot",
+          "url": "https://open.spotify.com/artist/1dLWg6m8RRhizsdqJbhyj3"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Cum on Feel the Noize",
+      "url": "https://open.spotify.com/track/3vV3cr2TpPqFk07zxYUbla"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -411,22 +411,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Celebrity Skin",
-        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
-      },
-      "artists": [
-        {
-          "name": "Hole",
-          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "Celebrity Skin",
-      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Runnin' Wild (Special Edition)",
         "url": "https://open.spotify.com/album/0xsxAYE1bJEvQYYZRdotdO"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 222240,
       "name": "Runnin' Wild",
       "url": "https://open.spotify.com/track/71fSn6OIF7HnCbgCzOBqpj"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "Celebrity Skin",
+        "url": "https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "Celebrity Skin",
+      "url": "https://open.spotify.com/track/2V4Bc2I962j7acQj1N0PiQ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -619,18 +619,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 177048,
-      "name": "Bulletproof",
-      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -651,18 +651,18 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+      "duration_ms": 177048,
+      "name": "Bulletproof",
+      "url": "https://open.spotify.com/track/6w7ily4cFWEPO0XWFQYeUO"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "N.A.T.I.O.N.",
-        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
-      },
-      "artists": [
-        {
-          "name": "Bad Wolves",
-          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
-        }
-      ],
-      "duration_ms": 237065,
-      "name": "Killing Me Slowly",
-      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203293,
       "name": "Girls Got Rhythm",
       "url": "https://open.spotify.com/track/6Wn3pdFtAcnYJyJVITwt7N"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "N.A.T.I.O.N.",
+        "url": "https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1"
+      },
+      "artists": [
+        {
+          "name": "Bad Wolves",
+          "url": "https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1"
+        }
+      ],
+      "duration_ms": 237065,
+      "name": "Killing Me Slowly",
+      "url": "https://open.spotify.com/track/34lLAsdH4Y5TLf1B2SIj1I"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -779,22 +779,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "When Legends Rise",
-        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 172826,
-      "name": "When Legends Rise",
-      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Breakin' Outta Hell",
         "url": "https://open.spotify.com/album/2rtA2D8SqJ1aGUd3flJYFP"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 255230,
       "name": "Prey",
       "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "When Legends Rise",
+        "url": "https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "When Legends Rise",
+      "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
     },
     {
       "added_at": "2021-12-07 10:22:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2021-12-07 10:22:45",
       "album": {
-        "name": "The Human Condition",
-        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
-      },
-      "artists": [
-        {
-          "name": "Black Stone Cherry",
-          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
-        }
-      ],
-      "duration_ms": 235672,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
-    },
-    {
-      "added_at": "2021-12-07 10:22:45",
-      "album": {
         "name": "Si Vis Pacem, Para Bellum",
         "url": "https://open.spotify.com/album/13lnqlgmaRHQF54C9iiOWO"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 229640,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/0y1t3QzZAjfFd5IxQZCS1V"
+    },
+    {
+      "added_at": "2021-12-07 10:22:45",
+      "album": {
+        "name": "The Human Condition",
+        "url": "https://open.spotify.com/album/6B5lqns5bfyeAStm1vLj9e"
+      },
+      "artists": [
+        {
+          "name": "Black Stone Cherry",
+          "url": "https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug"
+        }
+      ],
+      "duration_ms": 235672,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/79wVMF2iOCML96gdWYqO9L"
     },
     {
       "added_at": "2021-12-07 10:22:45",

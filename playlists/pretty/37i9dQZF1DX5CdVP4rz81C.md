@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,243 likes - 88 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,550 likes - 88 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 17 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 |
 | 18 | [better off without me](https://open.spotify.com/track/1Ip5p31SowqjJLo2ss1afJ) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [better off without me](https://open.spotify.com/album/6NpbtHJjrRHeYqlyUaZa35) | 2:50 |
 | 19 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 |
-| 20 | [Monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
+| 20 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 21 | [u love u \(feat\. JVKE\)](https://open.spotify.com/track/1Wu5ERJDVhEUDKSim34CnP) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [u love u \(feat\. JVKE\)](https://open.spotify.com/album/6tqmxYtdp7MZS9hcqoA5AM) | 2:03 |
 | 22 | [Never Had a Chance](https://open.spotify.com/track/7kWHoZvIn3TzxUHYrszYFc) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [Never Had a Chance](https://open.spotify.com/album/5td0jzs96pRarCswOchXN8) | 2:25 |
 | 23 | [Lost Me](https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Give Or Take](https://open.spotify.com/album/64LkgCfNbLqjclQYCTid8L) | 3:00 |

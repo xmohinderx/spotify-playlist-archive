@@ -32,7 +32,7 @@
 | [Butter](https://open.spotify.com/track/6QEGpwc5mH2tB1TOMYtr7L) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Send One Your Love](https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6) | 5:04 | 2021-07-12 |  |
 | [Cachaca](https://open.spotify.com/track/4cKdYSn1NdPawP7qCQrFH1) | [Richard Elliot](https://open.spotify.com/artist/6eLlZ44VYhHnvuRet0qTuH) | [Summer Madness](https://open.spotify.com/album/7Ax03GJGYiUOrhiq9M2vjt) | 4:03 | 2021-07-12 |  |
 | [Can You Feel It](https://open.spotify.com/track/2KBRV7S5JLe2elIN7y1DaC) | [Paula Atherton](https://open.spotify.com/artist/22aM32I9ao0SJOxWXrsNO6) | [Can You Feel It](https://open.spotify.com/album/3U0Sga1ARwm8WajY9Y2eJh) | 4:03 | 2021-07-12 |  |
-| [Can't Let Go](https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH) | [Rock Hendricks](https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I) | [Can't Let Go](https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08) | 4:54 | 2021-07-12 |  |
+| [Can't Let Go](https://open.spotify.com/track/09MR2oVNj1mnc6VMEo6ZgH) | [Rock Hendricks](https://open.spotify.com/artist/4bOB5AZPIctPJscn1cMU3I) | [Can't Let Go](https://open.spotify.com/album/1G94VFIPkUW03EbrqgPp08) | 4:54 | 2021-07-12 | 2022-08-14 |
 | [Carnival Fever](https://open.spotify.com/track/7MB4RWR8LbYstvl2L9qFOQ) | [Elan Trotman](https://open.spotify.com/artist/6DyFOggmoAMvrgPB833pww) | [Carnival Fever](https://open.spotify.com/album/4qUIjzS6a92kB4D2O22r1A) | 4:23 | 2021-07-12 | 2022-07-29 |
 | [Caught Me By Surprise](https://open.spotify.com/track/6YNng7Z0KAflPn0ETK9yfz) | [Vincent Ingala](https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7) | [Echoes Of The Heart](https://open.spotify.com/album/7xWREx7N4D17yDHq7iSzRP) | 4:01 | 2021-07-12 |  |
 | [Chill AF](https://open.spotify.com/track/7wsOL6S0gabDU2OW95qlSq) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [30](https://open.spotify.com/album/2uLQpzNicgtkOX2HnuQz7f) | 4:05 | 2021-07-12 |  |
@@ -198,6 +198,6 @@
 | [Windfall](https://open.spotify.com/track/2JeI65ZzFWhma9NjHN7ZGm) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Windfall](https://open.spotify.com/album/5GCIdDoi0JTpnZtDgb2Zh4) | 4:30 | 2021-07-12 | 2022-07-29 |
 | [Windfall](https://open.spotify.com/track/35lSHKu6MIaXuB2aUacX7C) | [Jazz Funk Soul](https://open.spotify.com/artist/3avdUekEuUcWJDjYZimuED) | [Life And Times](https://open.spotify.com/album/7oZHj62kMhRxOuyWgUOCM1) | 4:30 | 2021-07-12 |  |
 | [Work Wit' It](https://open.spotify.com/track/4ZdYGB7R1exGvLbhmyhMO9) | [Jazmin Ghent](https://open.spotify.com/artist/1ObapCOA0O7mr2wXFKEDNY) | [The Story of Jaz](https://open.spotify.com/album/6YWAbLwA22QPzqldQhpeh3) | 4:15 | 2021-07-12 | 2022-07-28 |
-| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 | 2022-08-09 |
+| [You're My Joy](https://open.spotify.com/track/6hNhAlE0IEf7HYfX2JcOrL) | [Randy Scott](https://open.spotify.com/artist/2TN0yEsNdj8cY1854luIQw) | [Serenity](https://open.spotify.com/album/0OwxqIH4qbMowuIaNOLubV) | 3:37 | 2021-07-12 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 247210,
       "name": "AKU MASIH MEMIKIRKANMU",
       "url": "https://open.spotify.com/track/2KCikMsmJSBEgfOOskQ87P"
@@ -2039,10 +2039,28 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 219036,
       "name": "High School in Jakarta",
       "url": "https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3"
+    },
+    {
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219040,
+      "name": "High School in Jakarta",
+      "url": "https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5"
     },
     {
       "album": {
@@ -2913,12 +2931,12 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "date_added": "2022-06-25",
@@ -3743,10 +3761,28 @@
       ],
       "date_added": "2022-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "album": {
+        "name": "Nicole",
+        "url": "https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t"
+      },
+      "artists": [
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336000,
+      "name": "Oceans & Engines",
+      "url": "https://open.spotify.com/track/5ZuqV8q0TgfCGluxgPEkNT"
     },
     {
       "album": {
@@ -4487,6 +4523,28 @@
       "duration_ms": 180018,
       "name": "Sanctuary",
       "url": "https://open.spotify.com/track/5F1ZmucV0uJY14y2dYKePa"
+    },
+    {
+      "album": {
+        "name": "Sang Dewi",
+        "url": "https://open.spotify.com/album/5JO7f6aqA0Tw1vfZuwLr0I"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Andi Rianto",
+          "url": "https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247993,
+      "name": "Sang Dewi",
+      "url": "https://open.spotify.com/track/5fDCy4Hse30ZsjaTUGKVh5"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but classic blues tracks",
-  "num_followers": 929510,
+  "num_followers": 930186,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMDM4NWUyNDdjYWE0ZTgxNjBjZTA5NTMxM2MyYmFiMGQ5",
+  "snapshot_id": "MTY1NzcyNTkzMiwwMDAwMDAwMGE1YTAwZWNmMTNhMTZkOWU0NGMxNGNlM2ZkNzA2NTEy",
   "tracks": [
     {
       "added_at": "2020-01-15 21:29:46",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/3ocm1Cf1Dk1ODrdBdybh82"
     },
     {
+      "added_at": "2022-04-11 19:33:30",
+      "album": {
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+      },
+      "artists": [
+        {
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+        }
+      ],
+      "duration_ms": 230360,
+      "name": "Red House",
+      "url": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+    },
+    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Bluesbreakers",
@@ -189,20 +205,20 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
-      "added_at": "2022-04-11 19:33:30",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 230360,
-      "name": "Red House",
-      "url": "https://open.spotify.com/track/3XxBSvDZKH5YvZZjTpn6eR"
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -219,22 +235,6 @@
       "duration_ms": 412960,
       "name": "Have You Ever Loved A Woman?",
       "url": "https://open.spotify.com/track/2ROJOb98GorxStuOuZWcGd"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "The Fabulous Thunderbirds",
-        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
-      },
-      "artists": [
-        {
-          "name": "The Fabulous Thunderbirds",
-          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Scratch My Back",
-      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Live And Well",
@@ -383,6 +367,22 @@
       "duration_ms": 517400,
       "name": "Why I Sing The Blues",
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "The Fabulous Thunderbirds",
+        "url": "https://open.spotify.com/album/0eukg8bhyBLRYCPoDpPBgs"
+      },
+      "artists": [
+        {
+          "name": "The Fabulous Thunderbirds",
+          "url": "https://open.spotify.com/artist/6zmLTiN3NBNCDECRbbJKkT"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Scratch My Back",
+      "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -499,22 +499,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "To Know You Is To Love You",
         "url": "https://open.spotify.com/album/1ZpLpF64iCjoc0XVrO1sEl"
       },
@@ -529,20 +513,20 @@
       "url": "https://open.spotify.com/track/4c0Mgs559lG4sPiEC3XcxY"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
+      "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+      "duration_ms": 188160,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -559,6 +543,22 @@
       "duration_ms": 147800,
       "name": "Working Man",
       "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+      },
+      "artists": [
+        {
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+        }
+      ],
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -803,22 +803,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Born Under A Bad Sign (Mono)",
-        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
-      },
-      "artists": [
-        {
-          "name": "Albert King",
-          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
-        }
-      ],
-      "duration_ms": 156397,
-      "name": "Crosscut Saw - Mono Mix",
-      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961",
         "url": "https://open.spotify.com/album/5pwsqaIx7UFtjXU3HiF1Nv"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 176186,
       "name": "All Your Love",
       "url": "https://open.spotify.com/track/73GEVn1tqk9bn0KbtWsiqj"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Born Under A Bad Sign (Mono)",
+        "url": "https://open.spotify.com/album/0Ez9S8Dhzr1fa6ZCkcIJiR"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        }
+      ],
+      "duration_ms": 156397,
+      "name": "Crosscut Saw - Mono Mix",
+      "url": "https://open.spotify.com/track/0WvSYVnEXD7QLa5pDJ920S"
     },
     {
       "added_at": "2018-03-29 19:44:07",

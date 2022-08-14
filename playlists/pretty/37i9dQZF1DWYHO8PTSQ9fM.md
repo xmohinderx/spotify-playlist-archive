@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYHO8PTSQ9fM.md) - [plain]
 
 > Les hits Maghrébins du moment sont ici\. Cover : Manal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,861 likes - 47 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,243 likes - 47 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

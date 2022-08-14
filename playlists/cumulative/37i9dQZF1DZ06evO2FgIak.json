@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 170133,
       "name": "All Aboard",
       "url": "https://open.spotify.com/track/1vEUJUU0PlMJa3XSJKTefe"
@@ -125,7 +125,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 417613,
       "name": "Caledonia",
       "url": "https://open.spotify.com/track/3JX3Tu4BFNZFVFZjF4LiLg"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 237973,
       "name": "Feel Like Going Home",
       "url": "https://open.spotify.com/track/4sz6SyP9dfIjuTZhL5uW1C"
@@ -347,7 +347,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 196040,
       "name": "Good Morning Little School Girl",
       "url": "https://open.spotify.com/track/2txRs0wxjGE1uzOhcBxN7L"
@@ -387,7 +387,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 156240,
       "name": "Gypsy Woman",
       "url": "https://open.spotify.com/track/3tpfHjfbS7GbA5BFYsxaf1"
@@ -459,7 +459,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 162933,
       "name": "I Can't Be Satisfied",
       "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
@@ -513,7 +513,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 141466,
       "name": "I Want to Be Loved #2",
       "url": "https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1"
@@ -665,7 +665,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 147493,
       "name": "Key To The Highway",
       "url": "https://open.spotify.com/track/4GtWHmkHwW32qmmhmhCKwn"
@@ -745,7 +745,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 554826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/1puGCG7BtUHdN3G3R4YdTw"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 174866,
       "name": "Louisiana Blues",
       "url": "https://open.spotify.com/track/2nbV8brWogyKVqRhypvzJS"
@@ -985,7 +985,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 188160,
       "name": "Rollin' Stone",
       "url": "https://open.spotify.com/track/61K6lqGyrl2Aerk0LjAZem"
@@ -1141,7 +1141,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 200106,
       "name": "Still A Fool",
       "url": "https://open.spotify.com/track/1IS6IcuoQpQSZIGdKoUsPJ"
@@ -1301,7 +1301,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 162000,
       "name": "Trouble No More",
       "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
@@ -1319,7 +1319,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 178600,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
@@ -1470,6 +1470,24 @@
     },
     {
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181933,
+      "name": "Young Fashioned Ways",
+      "url": "https://open.spotify.com/track/11ne5fiCfAmqxqRCUuPO0o"
+    },
+    {
+      "album": {
         "name": "Live At The Checkerboard Lounge",
         "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
       },
@@ -1481,7 +1499,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 329786,
       "name": "You\u2019re Gonna Miss Me When I\u2019m Gone - Live",
       "url": "https://open.spotify.com/track/2BA4wk0HsgJO9iyvKr8hiE"

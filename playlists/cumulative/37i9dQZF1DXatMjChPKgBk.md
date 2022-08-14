@@ -4,7 +4,7 @@
 
 > Dinner music that includes well known and new tracks.
 
-402 songs - 1 day 1 hr 15 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+403 songs - 1 day 1 hr 18 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Feels Like Home](https://open.spotify.com/track/5z389dy6N80WE9rSkfwDn0) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn), [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ) | [Feels Like Home](https://open.spotify.com/album/42JXJ942JEQSRjvIj1NYFA) | 4:27 | 2022-01-27 |  |
 | [Feels Like This](https://open.spotify.com/track/53Wsf11ElpPr1WAGtRQlcx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Dressed Too Nice For A Jacket](https://open.spotify.com/album/1ziE8y7wGzDY0PDgoDXKwF) | 3:43 | 2022-01-27 |  |
 | [Fly When I Fall](https://open.spotify.com/track/6lT0DHecA1thspBEZX2X1y) | [Lewis Watson](https://open.spotify.com/artist/40ELTAg7Kg6vbWnlyx2n9R) | [Fly When I Fall](https://open.spotify.com/album/17yCOtauWGE5jmzNq3t2bv) | 4:10 | 2022-01-27 | 2022-07-29 |
-| [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 | 2022-01-27 |  |
+| [Fool](https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf) | [Mick Flannery](https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls) | 3:36 | 2022-01-27 | 2022-08-14 |
 | [FourFiveSeconds](https://open.spotify.com/track/78TTtXnFQPzwqlbtbwqN0y) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [FourFiveSeconds](https://open.spotify.com/album/7yBl4uFyJzH48Vy6tPieXL) | 3:08 | 2022-01-27 |  |
 | [Fragile](https://open.spotify.com/track/5oE6INocVL9viDow5y8QNM) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 3:56 | 2022-01-27 |  |
 | [Free](https://open.spotify.com/track/3hOWsTM9OpI6c72iQHP4EB) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Free](https://open.spotify.com/album/5Gl9RkZgyNNKfcL8zXmxlB) | 3:19 | 2022-01-27 |  |
@@ -322,6 +322,7 @@
 | [Squeeze Me](https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Only Trust Your Heart](https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC) | 5:37 | 2022-05-02 |  |
 | [Stand Your Ground](https://open.spotify.com/track/5X3w2MfxgMTZkn2mTPQs0u) | [Joshua Hyslop](https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu) | [Echos](https://open.spotify.com/album/6NEBdOy6auSHbdeC3jB4hQ) | 3:23 | 2022-05-11 |  |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2022-01-27 |  |
+| [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 |  |
 | [Stay Awake with Me](https://open.spotify.com/track/3MkHuCfudrizswQMFcDPNS) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me](https://open.spotify.com/album/5PQ3z1HsuSR3uDV3KkpVFG) | 3:25 | 2022-01-27 | 2022-07-28 |
 | [Stay Awake with Me](https://open.spotify.com/track/7cC0KgXsFepTT9hHms5TR2) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me](https://open.spotify.com/album/2n0SLunDtfbePopzpfxAhP) | 3:25 | 2022-07-08 |  |
 | [Stay Low](https://open.spotify.com/track/3zwkoyqA27XbIDcyXDnUyU) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Stay Low](https://open.spotify.com/album/3TUnWUK1lQkI5T4i8fY0Yh) | 4:07 | 2022-01-27 | 2022-07-29 |

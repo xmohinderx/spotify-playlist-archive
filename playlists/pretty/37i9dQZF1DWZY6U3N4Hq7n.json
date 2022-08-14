@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 308544,
+  "num_followers": 308678,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMDQ0OTEyODFjM2IwNjQ5YThmYTJkZmQ4NDkwNWJlOGE5",
+  "snapshot_id": "MTY0MDE4OTgwMywwMDAwMDAwMDZmOTA5NDc2OGRhZDdjZjhhYWMzZTBmYjg1ZTZjZGJk",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -43,22 +43,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Reckless (30th Anniversary / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
-      },
-      "artists": [
-        {
-          "name": "Bryan Adams",
-          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
-        }
-      ],
-      "duration_ms": 216053,
-      "name": "Summer Of '69",
-      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Sweet Dreams (Are Made Of This)",
         "url": "https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 216933,
       "name": "Sweet Dreams (Are Made of This) - Remastered",
       "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Reckless (30th Anniversary / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
+      },
+      "artists": [
+        {
+          "name": "Bryan Adams",
+          "url": "https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc"
+        }
+      ],
+      "duration_ms": 216053,
+      "name": "Summer Of '69",
+      "url": "https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -131,22 +131,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -435,22 +435,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Eye Of The Tiger",
-        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
-      },
-      "artists": [
-        {
-          "name": "Survivor",
-          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
-        }
-      ],
-      "duration_ms": 243773,
-      "name": "Eye of the Tiger",
-      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 219666,
       "name": "We're Not Gonna Take It",
       "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Eye Of The Tiger",
+        "url": "https://open.spotify.com/album/4PT9VulQaQP6XR1xBI2x1W"
+      },
+      "artists": [
+        {
+          "name": "Survivor",
+          "url": "https://open.spotify.com/artist/26bcq2nyj5GB7uRr558iQg"
+        }
+      ],
+      "duration_ms": 243773,
+      "name": "Eye of the Tiger",
+      "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -675,18 +675,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+        "name": "Heart Of Stone",
+        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
       },
       "artists": [
         {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+          "name": "Cher",
+          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
         }
       ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
+      "duration_ms": 239826,
+      "name": "If I Could Turn Back Time",
+      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -707,18 +707,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Heart Of Stone",
-        "url": "https://open.spotify.com/album/3srdrIrP3V7LTmRujRfLhK"
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
       },
       "artists": [
         {
-          "name": "Cher",
-          "url": "https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt"
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
         }
       ],
-      "duration_ms": 239826,
-      "name": "If I Could Turn Back Time",
-      "url": "https://open.spotify.com/track/6mYrhCAGWzTdF8QnKuchXM"
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Brotherhood (Collector's Edition)",
-        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
-      },
-      "artists": [
-        {
-          "name": "New Order",
-          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
-        }
-      ],
-      "duration_ms": 263213,
-      "name": "Bizarre Love Triangle",
-      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Collected",
         "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
       },
@@ -1243,6 +1227,38 @@
       "duration_ms": 218786,
       "name": "Celebration - Single Version",
       "url": "https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Physical (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 225992,
+      "name": "Physical - Remastered 2021",
+      "url": "https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Brotherhood (Collector's Edition)",
+        "url": "https://open.spotify.com/album/0PSWY4XyjTWppfBb0tBtqu"
+      },
+      "artists": [
+        {
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ],
+      "duration_ms": 263213,
+      "name": "Bizarre Love Triangle",
+      "url": "https://open.spotify.com/track/6wVViUl2xSRoDK2T7dMZbR"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1295,22 +1311,6 @@
       "duration_ms": 285253,
       "name": "Ain't Nobody",
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
-        "name": "Word Up",
-        "url": "https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA"
-      },
-      "artists": [
-        {
-          "name": "Cameo",
-          "url": "https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Word Up",
-      "url": "https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240"
     }
   ],
   "unique_name": "80s Workout",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 
 > Proudly marching to the beat of their own drum\. Cover: DACEY
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,655 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,681 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oMO417tEZs.md) - [plain]
 | 60 | [CAN'T TELL ME NOTHING](https://open.spotify.com/track/5Ch6ZcfUCDzoJsMfhxmK46) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [CAN'T TELL ME NOTHING](https://open.spotify.com/album/4KzvzrVvk26wrGl1irb2Xi) | 2:59 |
 | 61 | [OCTEMBRE](https://open.spotify.com/track/6r1K8p3o3pqzGPiJ8tY21G) | [Hubert Lenoir](https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj), [Bonnie Banane](https://open.spotify.com/artist/5krZkab66mF2eexXFJv0A6) | [PICTURA DE IPSE : Musique directe](https://open.spotify.com/album/5mAkGDBxvG3ZvwvVOBWLNu) | 3:32 |
 | 62 | [All Around The World \(with Duckwrth\)](https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [All Around The World \(with Duckwrth\)](https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt) | 2:47 |
-| 63 | [B/Reaper \(Dog Days\)](https://open.spotify.com/track/6QNMPo44hsztljdOLKJzW1) | [girly.](https://open.spotify.com/artist/2gSSQtOkz05R46WpZDNckK), [Big NoChill](https://open.spotify.com/artist/0TLWjs1XzkDw42cWFjUz1G) | [Boyish \(w/ Da Homies\)](https://open.spotify.com/album/4ri2qIxmE1RbFUERGzlpJ5) | 2:14 |
+| 63 | [B/Reaper \(Dog Days\)](https://open.spotify.com/track/6QNMPo44hsztljdOLKJzW1) | [girly.](https://open.spotify.com/artist/2gSSQtOkz05R46WpZDNckK), [NOCHILL](https://open.spotify.com/artist/2QygYq7K0hFFSjXHaCEhiU) | [Boyish \(w/ Da Homies\)](https://open.spotify.com/album/4ri2qIxmE1RbFUERGzlpJ5) | 2:14 |
 | 64 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
 | 65 | [chosen](https://open.spotify.com/track/0rT7hDCDu6euX1kkWT0JdV) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [chosen](https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z) | 2:49 |
 | 66 | [Turn The Table](https://open.spotify.com/track/70HsIqEK1ATmos8ZAz4wHC) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Save Me](https://open.spotify.com/album/5jhFVn3MgAIVsTKv4YibYI) | 2:51 |

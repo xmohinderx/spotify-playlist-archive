@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 
 > ¡Los éxitos de banda que necesitas! La Septima Banda en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,037,082 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,037,315 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 47 | [Perfecta](https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:31 |
 | 48 | [Se Manda Sola](https://open.spotify.com/track/2ZyqVjfaWdbXogeNjwrLgo) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Se Manda Sola](https://open.spotify.com/album/6JEaPc6iKUgI3YrDUGxJDk) | 2:34 |
 | 49 | [Como Duele Equivocarse](https://open.spotify.com/track/01Bb7kIu9BRyWE0G5A7AmI) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [Como Duele Equivocarse](https://open.spotify.com/album/7uPgz1Q8wMcX95PwxUH3tU) | 3:46 |
-| 50 | [A Cuánto Me Quedé](https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Historias de Mi Vida](https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe) | 3:21 |
-| 51 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 |
+| 50 | [Tú Eres La Razón](https://open.spotify.com/track/0CjVJ4RC8UEVo5pfnnFjs3) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Calidad Y Cantidad](https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl) | 3:11 |
+| 51 | [A Cuánto Me Quedé](https://open.spotify.com/track/4HgB85fVdWG83EZOHj5paV) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Historias de Mi Vida](https://open.spotify.com/album/6rXIKiwGq6YDhNyEUnlabe) | 3:21 |
 | 52 | [A Través Del Vaso](https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot) | 3:00 |
 | 53 | [Te Lo Debo a Ti](https://open.spotify.com/track/6IHwMo9UbzanstmW2Edy8r) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 3:25 |
 | 54 | [El Precio De La Soledad](https://open.spotify.com/track/7pYfcq47xJDP98syaVhpuK) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [El Precio De La Soledad](https://open.spotify.com/album/2eJw7c1smx7ycjTqcBgI5I) | 2:46 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 58 | [Al Final De Nuestra Historia](https://open.spotify.com/track/6orluAPC6hUu3BVZVuZjOu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Y Que Quede Claro](https://open.spotify.com/album/4ktSTdeZtFaDRy7HzslcAU) | 3:17 |
 | 59 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
 | 60 | [Modo Incógnito](https://open.spotify.com/track/7h1KxwCRPI9WC3hJyLuF8g) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Sin Miedo Al Éxito \(Deluxe\)](https://open.spotify.com/album/06RNnPXzGC23bqQiCDTotI) | 3:06 |
-| 61 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
-| 62 | [La Ley De La Vida](https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 2:55 |
+| 61 | [La Ley De La Vida](https://open.spotify.com/track/0B0vC9ItsWMUahbFN7a01H) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl) | [La Ley De La Vida](https://open.spotify.com/album/6nAnqWuOL40YIUfsAPUi4F) | 2:55 |
+| 62 | [Fuerte No Soy](https://open.spotify.com/track/4673knHBZjafW3zfT4nBvc) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Fuerte No Soy](https://open.spotify.com/album/0xeqSKK5P5DbDASkUmiYeU) | 3:21 |
 | 63 | [Provócame](https://open.spotify.com/track/3wnpHn5p1XuiNSNOCJOCxs) | [Banda Tierra Sagrada](https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT) | [Ajeno](https://open.spotify.com/album/4lDfHHRW5vhZQkqmUf9WQO) | 3:00 |
 | 64 | [Una Noche Cualquiera](https://open.spotify.com/track/1d2ziGaMKHlNjuFY1oL8If) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Una Noche Cualquiera](https://open.spotify.com/album/6uhcErVRHBbBaslDcvzDlD) | 3:35 |
 | 65 | [Me Rindo](https://open.spotify.com/track/763m9Csnr97OvhnAej8iDQ) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Me Rindo](https://open.spotify.com/album/4ZuuapFT4NA2nYljrz6D57) | 3:40 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4UAnLC6Pj3.md) - [plain]
 | 72 | [Nimodo](https://open.spotify.com/track/7jSJmetLa9y5DUIQC1pTiq) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Nimodo](https://open.spotify.com/album/19Ei3bMxRcA3DbraG7a5eY) | 3:02 |
 | 73 | [Dueño De Ti \- En vivo](https://open.spotify.com/track/0QAxYBIRvhno4Fiv47pKDU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Las Preferidas, Vol\. 5 \(En vivo\)](https://open.spotify.com/album/6ERihYOfcsvTucjGuBXuI7) | 4:05 |
 | 74 | [No Es Lo Que Dices](https://open.spotify.com/track/2YGOwVow3IMJAOwVGAZeQW) | [Banda Fortuna](https://open.spotify.com/artist/7tdLl1TJQ80SBEBGN8r0AY) | [Va De Nuevo](https://open.spotify.com/album/0F6fytM0EQ1340itrP5o9T) | 3:22 |
-| 75 | [Chingo A Mi Madre \- En Vivo](https://open.spotify.com/track/38FmRkbp9iaBCpqW7DracY) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [Chingo A Mi Madre \(En Vivo\)](https://open.spotify.com/album/2LpiIeEgcYFGyAIKvdyYlc) | 2:53 |
+| 75 | [Te Voy A Olvidar](https://open.spotify.com/track/0KcuXF5liGbs6JXsvZ7Y04) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo), [Banda Reclutada](https://open.spotify.com/artist/6t2N5GqVasKcT1ddOHZ7dj) | [Te Voy A Olvidar](https://open.spotify.com/album/5d2RYTWGCqjdiRCtbrvQFK) | 4:14 |
 
-Snapshot ID: `MTY1OTY3NTUxNSwwMDAwMDAwMGY3NmIxYmExODhmYjg3MGQzMWE0ZTI4ZTVhZmMwOTMx`
+Snapshot ID: `MTY1OTY3NTUxNSwwMDAwMDAwMGJjZDUwMjJiZGJmMjIxZjk3Mjc3NjFlNjFjZDkwM2Ix`

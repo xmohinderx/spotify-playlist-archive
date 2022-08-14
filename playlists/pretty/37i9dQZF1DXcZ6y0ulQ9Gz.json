@@ -1,12 +1,12 @@
 {
   "description": "Those songs you just love to love. Cover: Mustafa",
-  "num_followers": 24918,
+  "num_followers": 24924,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM2NDYzMCwwMDAwMDAwMGM3ZmQzZGE3MWVjYzBlOWFjMzFjY2VhNTA1NGQ1MjEz",
+  "snapshot_id": "MTY1NjM2NDYzMCwwMDAwMDAwMGFmMTE0MjZiNjYwMzdmZDc0MzJlMTM5YzMxNWFhZTAw",
   "tracks": [
     {
       "added_at": "2022-05-03 19:13:06",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "Spirits",
-      "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 203653,
+      "name": "Spirits",
+      "url": "https://open.spotify.com/track/7GJ572zvnU94VZVrj5XRtb"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "ghost town (voice memo)",
-        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
-      },
-      "artists": [
-        {
-          "name": "Chloe George",
-          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
-        }
-      ],
-      "duration_ms": 137250,
-      "name": "ghost town (voice memo)",
-      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
         "name": "Mt. Joy",
         "url": "https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 198600,
       "name": "Silver Lining",
       "url": "https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
+        "name": "ghost town (voice memo)",
+        "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
+      },
+      "artists": [
+        {
+          "name": "Chloe George",
+          "url": "https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y"
+        }
+      ],
+      "duration_ms": 137250,
+      "name": "ghost town (voice memo)",
+      "url": "https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "Feels Right",
-        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 199006,
-      "name": "Feels Right",
-      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
         "name": "Rearrange Us",
         "url": "https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 193186,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
+        "name": "Feels Right",
+        "url": "https://open.spotify.com/album/2p1ShoYCCYtOfyDXRS97Gn"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "duration_ms": 199006,
+      "name": "Feels Right",
+      "url": "https://open.spotify.com/track/0BWBqb5XxraObLopqskk6D"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
+        "name": "Violet Street",
+        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 264213,
+      "name": "When Am I Gonna Lose You",
+      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
         "name": "EVERYTHING",
         "url": "https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 252778,
       "name": "Long Beach",
       "url": "https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
-        "name": "Violet Street",
-        "url": "https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 264213,
-      "name": "When Am I Gonna Lose You",
-      "url": "https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
         "name": "Bad Boy",
         "url": "https://open.spotify.com/album/0elwlQEAz4Y0bb93gFw0jP"
       },
@@ -1507,22 +1523,6 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
         "name": "Mirror Master",
         "url": "https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG"
       },
@@ -1535,6 +1535,22 @@
       "duration_ms": 230959,
       "name": "Superposition",
       "url": "https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1"
+    },
+    {
+      "added_at": "2022-05-03 19:13:06",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 305000,
+      "name": "Scott Street",
+      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
     },
     {
       "added_at": "2022-06-27 21:17:10",
@@ -1555,34 +1571,18 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+        "name": "NEGATIVE",
+        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 305000,
-      "name": "Scott Street",
-      "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
-    },
-    {
-      "added_at": "2022-05-03 19:13:06",
-      "album": {
-        "name": "Untourable Album",
-        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 176315,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
+      "duration_ms": 138306,
+      "name": "then i met her",
+      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "NEGATIVE",
-        "url": "https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE"
+        "name": "Untourable Album",
+        "url": "https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE"
       },
       "artists": [
         {
-          "name": "EKKSTACY",
-          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
         }
       ],
-      "duration_ms": 138306,
-      "name": "then i met her",
-      "url": "https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z"
+      "duration_ms": 176315,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m"
     },
     {
       "added_at": "2022-05-03 19:13:06",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2022-05-03 19:13:06",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+        "name": "i walk this earth all by myself",
+        "url": "https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "EKKSTACY",
+          "url": "https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH"
         }
       ],
-      "duration_ms": 271200,
-      "name": "Fallingwater",
-      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
+      "duration_ms": 145634,
+      "name": "i walk this earth all by myself",
+      "url": "https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA"
     }
   ],
   "unique_name": "Indie Favourites",

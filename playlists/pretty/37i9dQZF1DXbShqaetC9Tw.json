@@ -1,12 +1,12 @@
 {
   "description": "\uc0c8\ubcbd \uac10\uc131. Issa Vibe.",
-  "num_followers": 64343,
+  "num_followers": 64503,
   "original_name": "4:00 AM GROOVE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNjkwMiwwMDAwMDAwMDRmOThjYTRhNWNlY2FkM2Y2NTAzZDJjYTk3NzMyNjg3",
+  "snapshot_id": "MTY2MDMyNjkwMiwwMDAwMDAwMGRmNDhlOWQ2MjQzOTEwNTVkODZiOTJhZTZmNTM0YmM2",
   "tracks": [
     {
       "added_at": "2022-08-12 17:55:02",
@@ -319,26 +319,6 @@
     {
       "added_at": "2022-08-12 17:55:02",
       "album": {
-        "name": "wandering (feat. george)",
-        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
-      },
-      "artists": [
-        {
-          "name": "basecamp",
-          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "wandering (feat. george)",
-      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
-    },
-    {
-      "added_at": "2022-08-12 17:55:02",
-      "album": {
         "name": "Freedom",
         "url": "https://open.spotify.com/album/5JEYiTvQmOPfMpiUoXq2U8"
       },
@@ -355,6 +335,26 @@
       "duration_ms": 239960,
       "name": "Freedom (Feat. DUT2) (Prod. Way Ched)",
       "url": "https://open.spotify.com/track/70DaoUGYskTAJeYGgH5mAh"
+    },
+    {
+      "added_at": "2022-08-12 17:55:02",
+      "album": {
+        "name": "wandering (feat. george)",
+        "url": "https://open.spotify.com/album/6hBEslMx5wtLS5wehYiwPP"
+      },
+      "artists": [
+        {
+          "name": "basecamp",
+          "url": "https://open.spotify.com/artist/4MI73VbvvaJFXe1T6iacWx"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "wandering (feat. george)",
+      "url": "https://open.spotify.com/track/6jMcjpMJEjdJa9GQLgQNZ2"
     },
     {
       "added_at": "2022-08-12 17:55:02",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-08-12 17:55:02",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
-      },
-      "artists": [
-        {
-          "name": "Dynamicduo",
-          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
-        },
-        {
-          "name": "CHEN",
-          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "You",
-      "url": "https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q"
-    },
-    {
-      "added_at": "2022-08-12 17:55:02",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-12 17:55:02",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/6lc1CGb9DBXKszqEzMGZq7"
+      },
+      "artists": [
+        {
+          "name": "Dynamicduo",
+          "url": "https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4"
+        },
+        {
+          "name": "CHEN",
+          "url": "https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "You",
+      "url": "https://open.spotify.com/track/3YGSzYH6RBrT38iObc3w8q"
     },
     {
       "added_at": "2022-08-12 17:55:02",
@@ -775,18 +775,22 @@
     {
       "added_at": "2022-08-12 17:55:02",
       "album": {
-        "name": "sad love song",
-        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
       "artists": [
         {
-          "name": "slchld",
-          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
         }
       ],
-      "duration_ms": 181211,
-      "name": "sad love song",
-      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-12 17:55:02",
@@ -807,6 +811,22 @@
       "duration_ms": 254198,
       "name": "DRUNK TALK (feat. sogumm)",
       "url": "https://open.spotify.com/track/6BE4q4cqxgCU3cipzgFAu9"
+    },
+    {
+      "added_at": "2022-08-12 17:55:02",
+      "album": {
+        "name": "sad love song",
+        "url": "https://open.spotify.com/album/4uu72menSYQHLPndWmzZxw"
+      },
+      "artists": [
+        {
+          "name": "slchld",
+          "url": "https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O"
+        }
+      ],
+      "duration_ms": 181211,
+      "name": "sad love song",
+      "url": "https://open.spotify.com/track/3JySL9qlm77KxpKueHH5Cp"
     },
     {
       "added_at": "2022-08-12 17:55:02",
@@ -835,22 +855,6 @@
     {
       "added_at": "2022-08-12 17:55:02",
       "album": {
-        "name": "Do monsters love too?",
-        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
-      },
-      "artists": [
-        {
-          "name": "Eldon",
-          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Mliy",
-      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
-    },
-    {
-      "added_at": "2022-08-12 17:55:02",
-      "album": {
         "name": "GOOD BOYS GONE BVD",
         "url": "https://open.spotify.com/album/527RxfqAfboRNC1OnD3pga"
       },
@@ -871,6 +875,22 @@
     {
       "added_at": "2022-08-12 17:55:02",
       "album": {
+        "name": "Do monsters love too?",
+        "url": "https://open.spotify.com/album/0Cjq5fozD4xkUdJ3jssHET"
+      },
+      "artists": [
+        {
+          "name": "Eldon",
+          "url": "https://open.spotify.com/artist/04GW9HXt9A5aPSNIVBf6m4"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Mliy",
+      "url": "https://open.spotify.com/track/1CO0sMbcKm7gDP0bcdb0pu"
+    },
+    {
+      "added_at": "2022-08-12 17:55:02",
+      "album": {
         "name": "MOON AND BACK",
         "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 124913,
       "name": "the day we first met",
       "url": "https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg"
-    },
-    {
-      "added_at": "2022-08-12 17:55:02",
-      "album": {
-        "name": "m o v i e",
-        "url": "https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP"
-      },
-      "artists": [
-        {
-          "name": "lofi",
-          "url": "https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9"
-        },
-        {
-          "name": "Jade",
-          "url": "https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh"
-        }
-      ],
-      "duration_ms": 197550,
-      "name": "m o v i e (Feat. Jade)",
-      "url": "https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ"
     }
   ],
   "unique_name": "4:00 AM GROOVE",

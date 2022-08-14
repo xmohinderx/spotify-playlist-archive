@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 
 > Novedades poderosas, perronas y llegadoras de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>\. Carin León & Jean Piero en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,044 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,346 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvaphaClKD3.md) - [plain]
 | 27 | [Dejate Llevar](https://open.spotify.com/track/2wYXO8oP8xJlDexYHSZaiR) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Abelardo Nevarez](https://open.spotify.com/artist/0gQZwaWhArhHMTrrT8ujSr) | [Dejate Llevar](https://open.spotify.com/album/6N5CbKacIelION4UEKfZAe) | 2:40 |
 | 28 | [En Mi Solded \(Unplugged\) \(Live\)](https://open.spotify.com/track/6VOKdej576xZWyM6qWd8o6) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ), [Ivan Davalos](https://open.spotify.com/artist/01bQubIDiWPdv4WSRVpPck) | [En Mi Soledad \(Unplugged\) \(Live\)](https://open.spotify.com/album/0CHhGRNn4nM4qHmyngYIeQ) | 2:54 |
 | 29 | [Corre \- En Vivo](https://open.spotify.com/track/7JU8L4ufF2L2ZFaSeVNej6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Corre \(En Vivo\)](https://open.spotify.com/album/6wwyuM24CjBto1eYWBbyg0) | 3:18 |
-| 30 | [Por Curarte Las Heridas \- Studio](https://open.spotify.com/track/1APltI4KKn1wIQvS58mLAN) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Curarte Las Heridas](https://open.spotify.com/album/26dh4GCsZCTUD0ilc6vTAU) | 3:12 |
+| 30 | [Por Curarte Las Heridas](https://open.spotify.com/track/1APltI4KKn1wIQvS58mLAN) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Curarte Las Heridas](https://open.spotify.com/album/26dh4GCsZCTUD0ilc6vTAU) | 3:12 |
 | 31 | [Viejo Lobo](https://open.spotify.com/track/2zwTEu3dKLWNWszG4YjbAq) | [David Bernal](https://open.spotify.com/artist/01PvcAK6gaCKljM22XKxTS) | [Viejo Lobo](https://open.spotify.com/album/1WMFK1Iihq6cGV0ZSucyBD) | 2:37 |
 | 32 | [Voy a Llorar por Ti](https://open.spotify.com/track/2n6kp2QxCIihe8zmZBZG05) | [Caballo Dorado](https://open.spotify.com/artist/38yOUctO9eek9ti5NWMQXm) | [Voy a Llorar por Ti](https://open.spotify.com/album/6nxwkm73oHBg7hiv2VuimC) | 3:27 |
 | 33 | [Vámonos Pa'l Vallecito](https://open.spotify.com/track/3yMX4EzDT8e4UybwKTX2MJ) | [Solido](https://open.spotify.com/artist/2f6HJFmIQEIUdJGUAZcTIj) | [Vámonos Pa'l Vallecito](https://open.spotify.com/album/5qz4HlKMWk4asLy8u2I276) | 3:13 |

@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-334 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+335 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,6 +237,7 @@
 | [Quiero una Chica](https://open.spotify.com/track/3afj5hDroznm9rXBsqY2cg) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:37 | 2021-12-17 |  |
 | [Quitate Tu Pa Ponerme Yo](https://open.spotify.com/track/16KDdey3vnSBWwqUZoe1cT) | [Eddie Dee](https://open.spotify.com/artist/7zLcnirfgw1VEHHshuGcDR), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Gallego](https://open.spotify.com/artist/6P9Adm5Ne2YtzhV1hOjQcC), [Tego Calderon](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH), [Johnny Prez](https://open.spotify.com/artist/6gm3ZEpugRTHbtEn3A6Siw), [Wiso G](https://open.spotify.com/artist/0LZaKjCxp13clON7dlplRt), [Lennox](https://open.spotify.com/artist/7BOLXRhKCofrP6ESS7Owuo) | [12 Discipulos](https://open.spotify.com/album/7txBx0XCrl5IhJuTNgNV4w) | 4:51 | 2021-12-17 |  |
 | [Quizas \- Remix](https://open.spotify.com/track/5lSASgj3h5dWTK7pr4vkBq) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/4Yufs8sW6tHUNvkDAVTaYn) | 4:00 | 2021-12-17 | 2022-07-29 |
+| [Quizas \- Remix](https://open.spotify.com/track/3yvBoBTTKlYZZSQfYaXfbc) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los clásicos de salón comunal](https://open.spotify.com/album/4UHJUOLJNaaip7Kjj1DGxY) | 4:00 | 2022-08-09 |  |
 | [Quizas \- Remix](https://open.spotify.com/track/4YFoQUkj0XXJgTiHp8d61y) | [Tony Dize](https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW), [Ken\-Y](https://open.spotify.com/artist/4DYFVNKZ1uixa6SQTvzQwJ), [Marioso](https://open.spotify.com/artist/3vK6vMiSDE0xwZXm1Z2bRz) | [Los Vaqueros Wild Wild Mixes](https://open.spotify.com/album/0lSruNExlVqHp7Ox1xpWgu) | 4:00 | 2022-07-27 | 2022-08-11 |
 | [Rakata](https://open.spotify.com/track/1kQqiC1rS1FiuVpeBKN0QN) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Pa'l Mundo](https://open.spotify.com/album/0mfiGkVJST0ysEVznu2aZP) | 2:52 | 2021-12-17 | 2022-07-29 |
 | [Regalame Una Noche](https://open.spotify.com/track/534weu3DIwV9UELLTGanOC) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Arcangel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [El Movimiento: The Mixtape](https://open.spotify.com/album/2ouuoBa8BHjrwj68lftlaZ) | 4:09 | 2021-12-17 |  |
@@ -326,7 +327,7 @@
 | [Villana](https://open.spotify.com/track/53chAlZL168uo8eVAs2bdS) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [Blin Blin, Vol\. 1](https://open.spotify.com/album/63Brxfj0nY3twg5MQg5tRz) | 2:24 | 2021-12-17 | 2022-05-15 |
 | [Virtual Diva](https://open.spotify.com/track/0vnzk4L0JyMODSqLp3pHwo) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Virtual Diva](https://open.spotify.com/album/5tOWTmiFfFhNUuYntiopu8) | 4:02 | 2021-12-17 | 2022-07-29 |
 | [Volverás a Mí](https://open.spotify.com/track/6VZNYWQcBxWL3EPFNv4Rh2) | [Yelsid](https://open.spotify.com/artist/0BkX3f2WgeqNgvulzPLc7R) | [La Voz](https://open.spotify.com/album/6agMJk2h9mZIbOheTL9YQi) | 3:16 | 2021-12-17 |  |
-| [Vuelve](https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:08 | 2021-12-17 |  |
+| [Vuelve](https://open.spotify.com/track/41f2YVgXW3t3fZ7EoHrKGH) | [Latin Dreams](https://open.spotify.com/artist/0fbZUQ5vFLok76WdZ33lhX) | [Quiero Una Chica](https://open.spotify.com/album/34eKYYPYq2EhyTVaQiQjfT) | 3:08 | 2021-12-17 | 2022-08-14 |
 | [Web Cam](https://open.spotify.com/track/5FvBm21bpgoTjq6GQi4mu9) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [El Talento del Bloque](https://open.spotify.com/album/2FGhhlr2SX31pVXnrd13kq) | 3:26 | 2022-07-27 |  |
 | [Web Cam](https://open.spotify.com/track/76tsb1MlePUaN0Y3R8w0KO) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [The Ones](https://open.spotify.com/album/31WdDt5NcgMhHA8Uh1RZFA) | 3:26 | 2021-12-17 | 2022-07-29 |
 | [Welcome To My Crib](https://open.spotify.com/track/5MKnA9nLv9kfB6Dnxqf5Oa) | [Randy Nota Loka](https://open.spotify.com/artist/00ynzcADdPN4jUqiwb5D8A) | [20 Number 1's Now](https://open.spotify.com/album/4POWs8wn88db9OmY9strlo) | 4:07 | 2021-12-17 | 2022-07-29 |

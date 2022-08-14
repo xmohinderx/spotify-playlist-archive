@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYmDNATMglFU.md) - [plain]
 
 > \\m/ ft\. LØLØ
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,488 likes - 66 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,528 likes - 66 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

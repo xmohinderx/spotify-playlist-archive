@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,111 likes - 60 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,609 likes - 60 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 18 | [Spectra](https://open.spotify.com/track/0iHzGqToy1uEM000sKlSiD) | [Nick Devon](https://open.spotify.com/artist/1tf23w0XfVu28n9arb8wX4), [Haffenfold](https://open.spotify.com/artist/2b22KV07lFaJYxVmpdiCkq) | [Spectra](https://open.spotify.com/album/4VLEDbMcKMORaJKIAztSzJ) | 6:49 |
 | 19 | [Run Away](https://open.spotify.com/track/4l8fwDaGkOWJqvNacpcBTo) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [Run Away](https://open.spotify.com/album/3KP04xsSyd236fx8GJPfxK) | 4:22 |
 | 20 | [You Take My Hand](https://open.spotify.com/track/4Lq4TjaQWTNmo5viydoLLa) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Jamie Irrepressible](https://open.spotify.com/artist/1kq2ZvBA7AX9mdZTk9SkpU) | [You Take My Hand](https://open.spotify.com/album/3meERbSehneA03lgl071Io) | 5:15 |
-| 21 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 |
+| 21 | [Tidalwave](https://open.spotify.com/track/7wB5Ktf3MbsbNRgEDI5B80) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Adam McInnis](https://open.spotify.com/artist/0VDxDauEoMAeCRqjLtgeOY) | [Tidalwave](https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04) | 2:48 |
 | 22 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
-| 23 | [Tidalwave](https://open.spotify.com/track/7wB5Ktf3MbsbNRgEDI5B80) | [Moksi](https://open.spotify.com/artist/5jm3x1qIibWdKSEMw2G011), [Adam McInnis](https://open.spotify.com/artist/0VDxDauEoMAeCRqjLtgeOY) | [Tidalwave](https://open.spotify.com/album/3vzNoyDqwgUj8E4fjPWA04) | 2:48 |
+| 23 | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/track/1BiWBZrvcUh7cDCqHsjb2u) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Close Your Eyes \- Spotify Singles](https://open.spotify.com/album/0CBPN1mIPmYvZLKmbH4dd5) | 3:21 |
 | 24 | [All I Got](https://open.spotify.com/track/5bsWIPw0w09vT2lDV2nDQw) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [All I Got](https://open.spotify.com/album/7wVulFxf5NeMvGnhTHD36h) | 5:04 |
 | 25 | [Suvi](https://open.spotify.com/track/3hB45uxnbEjhGJHQZKOpFL) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Suvi](https://open.spotify.com/album/6OYVQ5iCKjq6jIddKMJBds) | 3:11 |
 | 26 | [Admit It \(u don't want 2\)](https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Admit It \(u don't want 2\)](https://open.spotify.com/album/1UYiZeZ7VyQ32mPs3djAWC) | 6:25 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Vergessen](https://open.spotify.com/track/1wCjlErPp61MwhSvm09lsF) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Vergessen](https://open.spotify.com/album/0T0rlhM8tVqXDDarmpGnao) | 9:02 |
 | 60 | [I WON'T STAY](https://open.spotify.com/track/0U9gq4pfWLjoF7F4pWcMvO) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/0m8w2qFAnW82Nn6mhmxZ7I) | 4:46 |
 
-Snapshot ID: `MTY2MDMxMzAyMCwwMDAwMDAwMDdhMjA2ZjllNTU4OTc2ZDlkMjRjZGYwOGJmYjQ2MDk0`
+Snapshot ID: `MTY2MDMxMzAyMCwwMDAwMDAwMDRjODMwMjk3Nzg1OTRlZjA2MDNhM2M4YWJhMDlhNDgz`

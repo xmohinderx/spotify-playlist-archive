@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New releases, driving the current\. Cover: Ari Lennox
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,802 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,837 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 30 | [So Fine](https://open.spotify.com/track/6b68IfNZ8EdKKAdeGxuma9) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [You're My Favourite Day](https://open.spotify.com/album/5KPbeobJ968EMOfqYo51ix) | 2:29 |
 | 31 | [umoya](https://open.spotify.com/track/55uit7L5W8qITBzr34cAyT) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [umoya](https://open.spotify.com/album/1WIQTSv4ExIRpENXv14rdH) | 4:31 |
 | 32 | [Do You Mind](https://open.spotify.com/track/4KlLamiPLfK44rfeZ3drPy) | [Kojo Funds](https://open.spotify.com/artist/2o9hRZ3xI27UQpHT61A4Mm) | [Do You Mind](https://open.spotify.com/album/7sicL1Pp1rDmPPLA8BfnNp) | 2:27 |
-| 33 | [GODDESS REIGN \(FEAT AMBER MARK\)](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN \(FEAT AMBER MARK\)](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
+| 33 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
 | 34 | [Ashawo](https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:03 |
 | 35 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 |
 | 36 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 |

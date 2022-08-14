@@ -4,7 +4,7 @@
 
 > Kappa Jotta entra na zona.
 
-95 songs - 5 hr 14 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
+96 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/22ncssGshPQaFSB3hgligM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Tirar Bilhete](https://open.spotify.com/track/3lq7iyMDvegqcMcSi3qAlI) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Tirar Bilhete](https://open.spotify.com/album/1LARFxMfvrS6hr8F2sA3uG) | 3:05 | 2022-07-16 |  |
 | [Trapstar](https://open.spotify.com/track/4cg7kViRwT1TrrQZqGlTpT) | [Dubzy](https://open.spotify.com/artist/66aZNbD282NMzsBneYujhz), [Progvid](https://open.spotify.com/artist/53yPvcTuQToqXFtROPF11W), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [Trapstar](https://open.spotify.com/album/0xw87VQKsLJatyGV176jIE) | 3:28 | 2022-07-16 | 2022-08-02 |
 | [U feel me?](https://open.spotify.com/track/6J7n1dN9FLzxMv7IlJpQK9) | [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX), [jon.](https://open.spotify.com/artist/1FqCf6XWsq13JJXjiLhzLK) | [Transparente](https://open.spotify.com/album/6X9nyU3clx3PHBZikvKiVt) | 3:24 | 2022-07-16 | 2022-07-22 |
+| [Um Sonho & Uma Caneta](https://open.spotify.com/track/4tjiJdExledMjFkMEBySG2) | [DJ Caique](https://open.spotify.com/artist/7kWVfszPF9qI8Ms6PMhNvM), [Prodigio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5) | [PRODIGIA\-TE \(Zuka Deluxe\)](https://open.spotify.com/album/2A48hZ68pXrEbj4P04s6Go) | 3:40 | 2022-08-11 |  |
 | [Volta](https://open.spotify.com/track/275Brpw83x3q0mBa9MpCx3) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Volta](https://open.spotify.com/album/4jFOf5EaLGkF9xGR3ALE6J) | 4:01 | 2022-07-16 |  |
 | [WUOW](https://open.spotify.com/track/0eXD7LAkqQ9LWyXa0hQkBG) | [ProfJam](https://open.spotify.com/artist/3DhsjXVgWmA6X26tUugAjP) | [WUOW](https://open.spotify.com/album/4KNT4vVQJeSgBmZYRalkHb) | 2:55 | 2022-07-16 |  |
 | [É ASSIM](https://open.spotify.com/track/20EeqYWivW9x7F9ij2GC71) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [É ASSIM](https://open.spotify.com/album/6wZWOmhGZq8IWu1OwXIxtu) | 4:09 | 2022-07-16 |  |

@@ -204,6 +204,24 @@
     },
     {
       "album": {
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
+      },
+      "artists": [
+        {
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
+        }
+      ],
+      "date_added": "2022-07-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
+    },
+    {
+      "album": {
         "name": "Abu Simbel (Hania Rani Invalides Version)",
         "url": "https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900"
       },
@@ -405,7 +423,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 300638,
       "name": "By The Sea (live)",
       "url": "https://open.spotify.com/track/3MYAcI8fKxQjDF2DrULm1B"
@@ -1171,7 +1189,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 105600,
       "name": "Everything in Life is Vibration",
       "url": "https://open.spotify.com/track/2pcvIesWIdt5S8E4haQngr"
@@ -1629,7 +1647,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 257142,
       "name": "Hazy Day",
       "url": "https://open.spotify.com/track/3sooQI7UYmnDwgqoJG2yQO"

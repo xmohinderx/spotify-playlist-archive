@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Il meglio dell'R&B italiano\. Cover: Ama Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,960 likes - 109 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,966 likes - 109 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

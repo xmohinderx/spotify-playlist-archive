@@ -4,14 +4,14 @@
 
 > 무언가 이상한 마음 속 일렁임을 노래로 느껴보세요.
 
-183 songs - 10 hr 19 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
+184 songs - 10 hr 23 min - [published](https://open.spotify.com/playlist/1dl38p2i56KbW8JfxsXigk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#mood](https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [\#mood](https://open.spotify.com/album/5d5K0Jmy6346yBH2WGBatk) | 3:01 | 2022-05-11 |  |
 | [20MIN](https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5) | 2:56 | 2022-07-08 |  |
 | [20MIN](https://open.spotify.com/track/4jKgaXcTdOX1tzv7z7Vno1) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [24℃](https://open.spotify.com/album/47gO1PsZBE4DdS9ipfiHti) | 2:56 | 2022-05-11 | 2022-06-19 |
-| [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-08-08 |  |
+| [28 DREAM](https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW) | [JOHA](https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM) | [28 DREAM](https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z) | 4:10 | 2022-08-08 | 2022-08-14 |
 | [A Good Day](https://open.spotify.com/track/11tT1T2BSELuCaMHMLLIrw) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Far From the Madding City](https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy) | 5:22 | 2022-05-11 | 2022-07-26 |
 | [A Star Is Falling](https://open.spotify.com/track/0GBC7xNTLl6d0I3RGSdf0V) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [Fatal Album Ⅲ](https://open.spotify.com/album/5I2IjvBDa9nJ9F5GOLZIyy) | 1:58 | 2022-05-11 | 2022-07-28 |
 | [addiction](https://open.spotify.com/track/3T21MLVwNG6Qf2KvqStsck) | [KIM JAE HYUNG](https://open.spotify.com/artist/7jPRLZRBxl3CecCaOUpWQH) | [addiction](https://open.spotify.com/album/4Fo8bAywFUH3tok8W2r9B9) | 3:30 | 2022-05-11 | 2022-07-27 |
@@ -140,6 +140,7 @@
 | [Someone Like You](https://open.spotify.com/track/1rLepxqnfZrw7qSTe9b311) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Someone Like You](https://open.spotify.com/album/0qvJ0nfIEdUnlJ6bJPwN0M) | 3:20 | 2022-05-11 | 2022-07-28 |
 | [Something strange](https://open.spotify.com/track/2r7ijruKeijp52uW8pAPU5) | [Arttichoke](https://open.spotify.com/artist/2d50bxrNeeo226v4VaEje9) | [Tang Tang!](https://open.spotify.com/album/0K7e3vLuZqHDkBGrD2KMAF) | 3:20 | 2022-06-13 | 2022-06-19 |
 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 | 2022-05-11 | 2022-08-09 |
+| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-12 |  |
 | [Spanish Restaurant \(Prod\. Liquor well\)](https://open.spotify.com/track/5mxxj0aEeTNvo9N7JWJEhM) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i), [Liquor well](https://open.spotify.com/artist/3ganClcuZN3ZpNrTXJIMmx) | [Spanish Restaurant](https://open.spotify.com/album/5YC4Nrh2IZ8BFx1jjS5Ly9) | 2:48 | 2022-08-08 | 2022-08-12 |
 | [Still](https://open.spotify.com/track/0fHIlsdsb8iJOe6GmP6K11) | [Ronel](https://open.spotify.com/artist/7M9wuczqBCUOPAxaNNW413) | [Still](https://open.spotify.com/album/2r8zohA5aCMQyLyA43ATLL) | 3:47 | 2022-05-11 | 2022-07-26 |
 | [Still \(Feat\. Crush\)](https://open.spotify.com/track/0PiRlZ1bf5nzeuCsAmjJnM) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [DAWNDIDIDAWN](https://open.spotify.com/album/0HyKwRk4xvspJHZdT0eiDb) | 3:13 | 2022-05-11 | 2022-07-28 |

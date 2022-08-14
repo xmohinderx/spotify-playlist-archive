@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YwbagSTSJv.md) - [plain]
 
 > Let it all go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,922 likes - 115 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,941 likes - 115 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

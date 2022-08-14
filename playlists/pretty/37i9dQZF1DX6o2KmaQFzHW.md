@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,117 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,192 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 36 | [Bajo la Sombra de un Árbol](https://open.spotify.com/track/3qJoxHKIggEiseJWAALdbU) | [Peteco Carabajal](https://open.spotify.com/artist/5gii2fYcxLoUHWd1lWe4aT), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Ckayna Cunan, Vol\. 2](https://open.spotify.com/album/6zLsN6jhCmxqx81xEUD6MU) | 3:38 |
 | 37 | [Las Manos De Mi Madre](https://open.spotify.com/track/2xWHt35XioEl0JfPSszwdQ) | [Argentino Luna](https://open.spotify.com/artist/3QSFLkwEghCeYY042s6uWs) | [El Duende De Las Guitarras](https://open.spotify.com/album/2bUhI3v2S9vipV0lqPd7xk) | 2:46 |
 | 38 | [Juan de la Calle](https://open.spotify.com/track/5IX9B2J3JzHw3xyzCk266i) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Juan de la Calle](https://open.spotify.com/album/5iyWMUhjSEU7av1IYKLJ1a) | 3:12 |
-| 39 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
+| 39 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |
 | 40 | [Luna Tucumana \- Remastered 2003](https://open.spotify.com/track/2R85ZXoflj01lCJPWyDQZC) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Recordando Zambas Con Los Chalchaleros](https://open.spotify.com/album/4CEzKKz2fMSjjYwXBTlbZR) | 3:34 |
-| 41 | [Déjame Que Me Vaya](https://open.spotify.com/track/4gqnHuW497Br4ZgZt9cduw) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Nocheros](https://open.spotify.com/album/3zK6I5P3OOV33Mr0DP1H2n) | 3:32 |
+| 41 | [Km\. 11](https://open.spotify.com/track/7gISQrzfd4ZRXK0QQ7qTWN) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H), [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Chamame](https://open.spotify.com/album/1uXqDaLfbmyspjzHVmCEQz) | 2:51 |
 | 42 | [Bloque Romantico: Nada Tengo de Ti / Quiero Tu Voz / No Quisiera Quererte / Amar Amando \- En Vivo](https://open.spotify.com/track/4DP2160LC4dW6RTNeYQvMB) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Sole y Horacio juntos por Única Vez \(Grabado en Vivo en el Luna Park\)](https://open.spotify.com/album/3H8CgdJTlIrZ5QIJFssYVc) | 8:31 |
 | 43 | [Cuando Ya Nadie Te Nombre](https://open.spotify.com/track/5RyS7JpzPMacnkKzQIpeka) | [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Zambas Inolvidables Y Una Canción Al Vino](https://open.spotify.com/album/1EpLxDhlOpSzCCg6FiZ1Wz) | 2:57 |
 | 44 | [Entre A Mi Pago Sin Golpear](https://open.spotify.com/track/39qcpH01L186HXM3fjrXeG) | [Cuti y Roberto Carabajal](https://open.spotify.com/artist/4GN1eZnMxHLMX8a7sBBbFc) | [Ahora](https://open.spotify.com/album/6QmwupG6RMQozuQy04d5NF) | 2:59 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 71 | [Luna Tucumana](https://open.spotify.com/track/3LIXsWXmk8csGYiIuALBxZ) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Eternamente Tucu](https://open.spotify.com/album/1V4WLmq5o6xGosgKdLpq2f) | 3:20 |
 | 72 | [La atardecida](https://open.spotify.com/track/2c1dbVTj8UhMammcH5rb2O) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Inolvidable \- Jorge Cafrune \-](https://open.spotify.com/album/5j1Vzvielu5xKSpS56qSJ5) | 3:51 |
 | 73 | [Viejo Pescador del Paraná \(with Teresa Parodi & Chango Spasiuk\)](https://open.spotify.com/track/38O5VUGdrmOJ4ZWadF0ZR6) | [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Primavera](https://open.spotify.com/album/5azl5cUyO16ERMNnyg5XYG) | 3:56 |
-| 74 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
+| 74 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
 | 75 | [Ay Vidita](https://open.spotify.com/track/4GUppnqduxOfD6qmsQkGZe) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Los Tekis\-Los Elegidos](https://open.spotify.com/album/5hbPxNq1s1WJsQSDxyq0Ft) | 3:20 |
 | 76 | [De Alberdi \- Zamba](https://open.spotify.com/track/0TY0g0YvayB5r6mJ3nUT9U) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [Folclore \- La Colección \- Los Del Suquía](https://open.spotify.com/album/1KquXVu2VO9cPvwoAM0Oik) | 3:34 |
 | 77 | [La Oma](https://open.spotify.com/track/2e6rIzOlqItCOyrryCXKpl) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:14 |
 | 78 | [Romance de Plumas Verdes](https://open.spotify.com/track/2UTFw7lafwlYmFk3NEHhag) | [Los Quilla Huasi](https://open.spotify.com/artist/0mldH6GcoYEV145HY3GHEk), [Horacio Guarany](https://open.spotify.com/artist/7exkSLWDTlXJYcmBhWp9cl) | [Aqui Cosquin](https://open.spotify.com/album/4Rd6qMYofVnpuan16xcp7Q) | 3:01 |
-| 79 | [Guitarra de Medianoche](https://open.spotify.com/track/3MFZmrTRante4uZegBgzbt) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Greatest Hits](https://open.spotify.com/album/3ccvDDuAXDgTBcEJsrotLV) | 3:16 |
+| 79 | [López Pereyra](https://open.spotify.com/track/2VExU73m6bsHkCvPBtnNdf) | [Los Fronterizos](https://open.spotify.com/artist/3JY4oF6rBQ45FSVUJtXixb) | [Romance De Luna Y Flor](https://open.spotify.com/album/4jSATA7cTYomI3uNw1Jpfe) | 3:12 |
 | 80 | [Serenata Otoñal](https://open.spotify.com/track/39YzTZ5TP1zjtNQOiD3x5B) | [Los Cantores del Alba](https://open.spotify.com/artist/2kRyLphTQyz7eaHhfLpMVl) | [Confitería Europea 100 Años](https://open.spotify.com/album/3wcwbHnuDa07nEFmK3qmua) | 2:28 |
 | 81 | [La Refranera](https://open.spotify.com/track/5Gfx8iRscLs9CxaFCQPfmP) | [Orozco\-Barrientos](https://open.spotify.com/artist/23Pml8pDuAoLpaUxxGms4F) | [Tinto](https://open.spotify.com/album/1MOjni1IYZO2Iosd2U0vCq) | 3:23 |
 | 82 | [La Pastorcita Perdida](https://open.spotify.com/track/36wpfInAPheD9NuswqTR3f) | [Atahualpa Yupanqui](https://open.spotify.com/artist/6I2DJf8fZwixA0GTLAvR1b) | [El Canto De La Tierra](https://open.spotify.com/album/5K60VXc8jWyqiMK7QM1GBb) | 3:31 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 89 | [Angelitos Negros](https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:14 |
 | 90 | [La Engañera](https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM) | [Carlos Torres Vila](https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb) | [Carlos Torres Vila\-Los Elegidos](https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC) | 3:08 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMGZiZGRhM2ZlODEwZTgwOTVmZTdmZjRjYzY3NjJmNjhh`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDA0NjkxNGYzODM1YmYxNDJlMGY1OTMxZTZjNDFjMDJi`

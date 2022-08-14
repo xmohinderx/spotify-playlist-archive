@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Ali Gatie, Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,577 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,621 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 72 | [SAY LESS \(with French Montana\)](https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SAY LESS](https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG) | 2:30 |
 | 73 | [OG](https://open.spotify.com/track/3dPlLOjFnKpGpakkhPEIgF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [No Lookin' Back](https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp) | 2:53 |
 | 74 | [22](https://open.spotify.com/track/4U6yLrVw2BrPIzDQ5cDiEk) | [Maurice Moore](https://open.spotify.com/artist/2r3A0lVppaYaTz2ttY1Jws), [Ye Ali](https://open.spotify.com/artist/0Maq4Nk8ZM6keGZjTCXGIH), [Jermaine Elliott](https://open.spotify.com/artist/60jDnkxR5FyCUAGUX4zDNv) | [22](https://open.spotify.com/album/7DtDowNbgFYIyDYnp3ZfA0) | 3:41 |
-| 75 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 75 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 76 | [Want \(feat\. prodby668\)](https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F), [prodby668](https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 1:48 |
 | 77 | [Gold](https://open.spotify.com/track/7mM1vAl5QJ89pgu3LGNqAO) | [LOS LEO](https://open.spotify.com/artist/66JYtwqQMdDFgBgMP1NENW), [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h), [FVLCRVM](https://open.spotify.com/artist/7AjItKsRnEYRSiBt2OxK1y) | [Gold](https://open.spotify.com/album/6APpceKD3PgoHI4rRsWera) | 3:16 |
 | 78 | [Pinto](https://open.spotify.com/track/3OddtSTZ5AA8bqCyeTGkgi) | [Sykamore](https://open.spotify.com/artist/6LPdjVij6UcQbp3r8MBwDI) | [Pinto](https://open.spotify.com/album/6MFwWgLxDbXRc61AOuLePn) | 3:00 |

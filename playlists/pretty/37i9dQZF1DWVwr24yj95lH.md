@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 510,903 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,114 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 39 | [Touch, Peel And Stand](https://open.spotify.com/track/2eG7o3BfbzohiETArwsX1K) | [Days Of The New](https://open.spotify.com/artist/07jc1IMGtecDZzOL9cP50t) | [Days Of The New](https://open.spotify.com/album/3JtPH618I1PMOrafvH8Xo8) | 4:57 |
 | 40 | [Psycho](https://open.spotify.com/track/3e2KBwxibC1rq4bA5TNKW2) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Famous](https://open.spotify.com/album/64gmkAgWQqEGJtvAaGm2La) | 3:30 |
 | 41 | [My Name Is Human](https://open.spotify.com/track/1euszbbvkUzQzIhZUWFmXG) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [The Boy Who Died Wolf](https://open.spotify.com/album/3TC40H9dIJArFzy0rWnWCg) | 4:18 |
-| 42 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
-| 43 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 42 | [Send the Pain Below](https://open.spotify.com/track/6dRAAG4sB71NAtVCHJep7s) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 4:12 |
+| 43 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
 | 44 | [Heavy](https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Dosage](https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66) | 2:54 |
 | 45 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
 | 46 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 66 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
 | 67 | [In Loving Memory](https://open.spotify.com/track/0T9tbj6zsRKLiUx06sbOWX) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [One Day Remains](https://open.spotify.com/album/6hqietEuZCikevdO2oGTcx) | 5:40 |
 | 68 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
-| 69 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 70 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
+| 69 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
+| 70 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 71 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 |
 | 72 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
 | 73 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
-| 74 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
-| 75 | [Swallowed](https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Razorblade Suitcase \(In Addition\)](https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9) | 4:51 |
+| 74 | [Swallowed](https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Razorblade Suitcase \(In Addition\)](https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9) | 4:51 |
+| 75 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 
-Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMGY0YjFmMGNhYjFhNDM0Y2ExNTM4ZGQ0NzAyY2Q3Yzdk`
+Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMGJmNmViMTJlNDFiMDBjODJhZmY3NDcyZjlhMmFjMTdl`

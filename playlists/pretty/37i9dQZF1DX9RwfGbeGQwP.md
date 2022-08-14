@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 
 > chill beats for cool coffeehouse vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,358 likes - 485 songs - 18 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,469 likes - 485 songs - 18 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -422,7 +422,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9RwfGbeGQwP.md) - [plain]
 | 412 | [Daybreak](https://open.spotify.com/track/1j762f5KtqxChgVIQfbo26) | [Gary B](https://open.spotify.com/artist/3j6HqaYmvmWOTF1MH7YTYk) | [Daybreak](https://open.spotify.com/album/3d1t534xCImdyO3rYX2HLF) | 2:05 |
 | 413 | [Happy 35](https://open.spotify.com/track/76lf0KO1aTFGBlKAaHhGrH) | [Sless Praismo](https://open.spotify.com/artist/2T7UwxWIrk7NjU3BDRjtrt) | [Happy 35](https://open.spotify.com/album/4UoW1sIKpGUnpcPnDz5Bps) | 2:35 |
 | 414 | [brooklyn](https://open.spotify.com/track/35purtA2qjQhdwTqhQvGn5) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [brooklyn](https://open.spotify.com/album/1rcrw7a5LNCALnTGVuWNb4) | 2:24 |
-| 415 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/0EhJC8mKLXUtauyyFc0pSV) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 |
+| 415 | [Another Promise](https://open.spotify.com/track/5ZV8OzO3O4YfBArCQyilaL) | [Sam Cross](https://open.spotify.com/artist/4RY9rfaEmLMXM3RaVC4HLd), [WERE](https://open.spotify.com/artist/5P1tayGhNEZlky687uFT06) | [Another Promise](https://open.spotify.com/album/2vI7bNZCTthrYZFgymzTGb) | 2:18 |
 | 416 | [Night Drive](https://open.spotify.com/track/3HpxScbsqFaFm1Zf1ZYRBm) | [Nick Wolf](https://open.spotify.com/artist/4j60yxoFJVWkQNs6uaoJms), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Night Drive](https://open.spotify.com/album/7JYgG86oK5DFMiSp6jHhFr) | 1:45 |
 | 417 | [Baby Steps](https://open.spotify.com/track/1wHj1ok3aquNUubrCtcw7Q) | [Rigid Moods](https://open.spotify.com/artist/1RQFHOfP3K3mIBNr6xjgy7), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Baby Steps](https://open.spotify.com/album/1H3QOGHdXsCykOviRZe4N2) | 3:26 |
 | 418 | [Soliloquy](https://open.spotify.com/track/2lfIAAQU2GE6r1qnfkv6bG) | [Mr\. Käfer](https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [DDob](https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo) | [Soliloquy](https://open.spotify.com/album/7eD16TNMO370ADf36nj8Gt) | 2:24 |

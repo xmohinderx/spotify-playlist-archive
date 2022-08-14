@@ -1,12 +1,12 @@
 {
   "description": "Run to indie and alternative hits.",
-  "num_followers": 213904,
+  "num_followers": 213950,
   "original_name": "Indie x Running",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI5NDE4MiwwMDAwMDAwMGYyMmI3MTUzZjAyOTU0M2IyMzNkMzIwMmQ5MDg1ZDUw",
+  "snapshot_id": "MTY2MDI5NDE4MiwwMDAwMDAwMGQyODA5ZmU1YzE1ZjI4MTVkYTA1Zjk3NGM5Yjg5Yjhk",
   "tracks": [
     {
       "added_at": "2022-08-12 08:49:42",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 278769,
-      "name": "Can I Call You Tonight?",
-      "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
         "name": "Jealous",
         "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 122338,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 278769,
+      "name": "Can I Call You Tonight?",
+      "url": "https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "iii",
-        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
-      },
-      "artists": [
-        {
-          "name": "Miike Snow",
-          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Genghis Khan",
-      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/0ajuOfBlVf6XlnaZAYUVBf"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 191173,
       "name": "Burning",
       "url": "https://open.spotify.com/track/0QgR03vMDoBoLgcu08EtKl"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
+        "name": "iii",
+        "url": "https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt"
+      },
+      "artists": [
+        {
+          "name": "Miike Snow",
+          "url": "https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Genghis Khan",
+      "url": "https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -739,22 +739,6 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "Mechanical Bull (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Temple",
-      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
         "name": "The 1975 (Deluxe Version)",
         "url": "https://open.spotify.com/album/0mkOUedmYlOzCC4tOm2v0c"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 254620,
       "name": "Girls",
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
+        "name": "Mechanical Bull (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0cRJKK0y1sfZEqWub4dK9v"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Temple",
+      "url": "https://open.spotify.com/track/30SjdIdTMhBSe33nFnBFkC"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "Our Own House",
-        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
-      },
-      "artists": [
-        {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "Our Own House",
-      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
         "name": "We Are Only What We Feel",
         "url": "https://open.spotify.com/album/58z2Nvab8wcQNs0n4J3GNZ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 209485,
       "name": "Pumpin Blood",
       "url": "https://open.spotify.com/track/7ti4qMC7xYQeh1uRzj5XuM"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
+        "name": "Our Own House",
+        "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
+      },
+      "artists": [
+        {
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+        }
+      ],
+      "duration_ms": 232186,
+      "name": "Our Own House",
+      "url": "https://open.spotify.com/track/3QzbEvmnuZIONNv82PylZb"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -967,6 +967,22 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
+        "name": "Mondo",
+        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
+      },
+      "artists": [
+        {
+          "name": "Electric Guest",
+          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
+        }
+      ],
+      "duration_ms": 175773,
+      "name": "This Head I Hold",
+      "url": "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
         "name": "How Do You Feel Now?",
         "url": "https://open.spotify.com/album/6uSfC7gekwOjvPmTAIwgQR"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 234773,
       "name": "Tongues",
       "url": "https://open.spotify.com/track/5mCprFWOqe0jB96v9RhLBo"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
-        "name": "Mondo",
-        "url": "https://open.spotify.com/album/6AbrLabiBsj3yzk5H2g1al"
-      },
-      "artists": [
-        {
-          "name": "Electric Guest",
-          "url": "https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs"
-        }
-      ],
-      "duration_ms": 175773,
-      "name": "This Head I Hold",
-      "url": "https://open.spotify.com/track/1tzPSule9WZ9B8SujHv8fp"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
+        "name": "Guero",
+        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 248840,
+      "name": "Go It Alone",
+      "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"
+    },
+    {
+      "added_at": "2022-08-12 08:49:42",
+      "album": {
         "name": "The Front Bottoms",
         "url": "https://open.spotify.com/album/5pCQUIEmbZveYwLmO3Iedv"
       },
@@ -1135,18 +1151,18 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "Guero",
-        "url": "https://open.spotify.com/album/2EugWXUZjr78KJFqZavvZT"
+        "name": "Royal",
+        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "The Royal Concept",
+          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
         }
       ],
-      "duration_ms": 248840,
-      "name": "Go It Alone",
-      "url": "https://open.spotify.com/track/7zeCIWu37bKFJuem8MTyM1"
+      "duration_ms": 204226,
+      "name": "Gimme Twice",
+      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -1183,18 +1199,18 @@
     {
       "added_at": "2022-08-12 08:49:42",
       "album": {
-        "name": "Royal",
-        "url": "https://open.spotify.com/album/4o7rdd2fYeSEXcTJLzpvsg"
+        "name": "Church Of Scars",
+        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
       },
       "artists": [
         {
-          "name": "The Royal Concept",
-          "url": "https://open.spotify.com/artist/7LAucJAvbQa7ZIA0qP8YI2"
+          "name": "Bishop Briggs",
+          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
         }
       ],
-      "duration_ms": 204226,
-      "name": "Gimme Twice",
-      "url": "https://open.spotify.com/track/3DUBhiM44zetJNERX0n8Nk"
+      "duration_ms": 194960,
+      "name": "Dream",
+      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
       "added_at": "2022-08-12 08:49:42",
@@ -1211,22 +1227,6 @@
       "duration_ms": 348226,
       "name": "Burning",
       "url": "https://open.spotify.com/track/2S2nmmJAS5efQ5fVrvYAQj"
-    },
-    {
-      "added_at": "2022-08-12 08:49:42",
-      "album": {
-        "name": "Church Of Scars",
-        "url": "https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY"
-      },
-      "artists": [
-        {
-          "name": "Bishop Briggs",
-          "url": "https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Dream",
-      "url": "https://open.spotify.com/track/3fHZJOvXmyHeFLFS1sDE30"
     },
     {
       "added_at": "2022-08-12 08:49:42",

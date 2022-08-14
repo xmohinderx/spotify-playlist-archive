@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-179 songs - 12 hr 17 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
+181 songs - 12 hr 25 min - [published](https://open.spotify.com/playlist/47Huh5UiGAGys8xAYxZSoJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [I've Told Every Little Star](https://open.spotify.com/track/2bYWfgNXxt4CQCPWBicqPx) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Deep In A Dream](https://open.spotify.com/album/5FhqZM4vl2D8B3yF0EiDtK) | 4:13 | 2022-06-29 |  |
 | [If I Were You](https://open.spotify.com/track/2VypcGKVwuSqdDiTJ45vZh) | [Kingsbury Station](https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD) | [If I Were You](https://open.spotify.com/album/6NIfSU7m3WJ8j6zpFO50JA) | 3:36 | 2022-06-29 | 2022-07-29 |
 | [If you could see me now](https://open.spotify.com/track/4GsV07Q6UYJWVP0GdIrsHX) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Michelle](https://open.spotify.com/album/1kyRkGoAl8eNKQYe549dSU) | 4:32 | 2022-06-29 |  |
+| [If You Could See Me Now](https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA) | [Cedar Wright](https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj) | [If You Could See Me Now](https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm) | 4:15 | 2022-08-12 |  |
 | [In Another Universe](https://open.spotify.com/track/04OlOJOsWy6RUWgyhixoqk) | [Lachlan Wright Trio](https://open.spotify.com/artist/2HaQQhL4YwnMEo6CHATOtx) | [In Another Universe](https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR) | 2:56 | 2022-06-29 |  |
 | [In the Blue of Evening](https://open.spotify.com/track/3a55Ev3zFKc3P3cNgCUGoq) | [Asi Kaplan Jazz Band](https://open.spotify.com/artist/2bQxNPjJdj06cHr6CWLjaO) | [In the Blue of Evening](https://open.spotify.com/album/0iOgj7a3X8cteCh1RrJbOr) | 5:50 | 2022-06-29 |  |
 | [Independence Road](https://open.spotify.com/track/5N0y8OEkKUkiC8IhAWsFpm) | [Josh Lavender Trio](https://open.spotify.com/artist/4vphT3pBuwveeulpKz5DzU) | [Midnight Lines](https://open.spotify.com/album/3fmjOE7ExJ1Dzl5v9CNjzX) | 4:02 | 2022-06-29 |  |
@@ -96,7 +97,7 @@
 | [It Might As Well Be Spring](https://open.spotify.com/track/62sqdTmnNpWcJtxtJXmKzy) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [It Might As Well Be Spring](https://open.spotify.com/album/0FMeAHDC7zwcktJQ3KUzGw) | 4:35 | 2022-06-29 |  |
 | [It Never Entered My Mind](https://open.spotify.com/track/221sAu49BeeicsRkrfn8I0) | [Jonas Olofsson](https://open.spotify.com/artist/5ZVjwllTKhsYz9yuvrPp6O) | [It Never Entered My Mind](https://open.spotify.com/album/56FCHKFMba5as5DRUB8C5d) | 4:11 | 2022-06-29 |  |
 | [It's Your Smile](https://open.spotify.com/track/0WnGSR1VwZxJE9M37zjBQ3) | [Wendy Marcini](https://open.spotify.com/artist/4CaTfk4pRkpA8A9gXamYg2) | [It's Your Smile](https://open.spotify.com/album/2BQpZP1DmHdtJGtVaOG4LL) | 2:55 | 2022-06-29 |  |
-| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-29 |  |
+| [Its That Simple](https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8) | [Robert Elovsson Quartet](https://open.spotify.com/artist/2JtAEXEXjrclv4NJwoGyB7) | [Its That Simple](https://open.spotify.com/album/2wpIk2wkFrfh1aW0E8us4Y) | 4:12 | 2022-06-29 | 2022-08-14 |
 | [It´s Easy To Remember](https://open.spotify.com/track/5PExCVG0iW5oiWpzHZjxMq) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [It´s Easy To Remember](https://open.spotify.com/album/2mQbfegP0VRuYuBP5sKihX) | 3:32 | 2022-06-29 |  |
 | [I´ll Never Smile Again](https://open.spotify.com/track/5vFqxBA36r8w1NKDUhpt07) | [Steve Luke & Holloway](https://open.spotify.com/artist/4rK2sefIZVrvpsz6MoXKvY) | [I´ll Never Smile Again](https://open.spotify.com/album/3ce31a140RpGp1inchw4Cx) | 4:05 | 2022-06-29 |  |
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-29 |  |
@@ -134,8 +135,9 @@
 | [Perception Through A Crystal Orb](https://open.spotify.com/track/5P2fFIHidJIgfcHgs7v4fK) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Perception Through A Crystal Orb](https://open.spotify.com/album/0vrjE37V3hoBoEBFW1FP4m) | 3:10 | 2022-06-29 |  |
 | [Pink Balloons](https://open.spotify.com/track/328IUKlFSM9s4PtJHkrFir) | [Manuel Cali Band](https://open.spotify.com/artist/0EUayRxSuHe3rEgexVFpk6) | [Pink Balloons](https://open.spotify.com/album/7agJWbtNcNFJzvtn62eN9q) | 4:24 | 2022-06-29 |  |
 | [Polka Dots and Moonbeams](https://open.spotify.com/track/7ALLGPWvUBlCkMuWGWkt1u) | [Alexander Berman Quartet](https://open.spotify.com/artist/5Mw51lrS2LcugNZuZG5LIX) | [Moon River](https://open.spotify.com/album/7eYh1aQ15wakx4E7fK2UQ8) | 5:56 | 2022-06-29 | 2022-08-13 |
-| [Quiescence](https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:03 | 2022-06-29 |  |
+| [Quiescence](https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [For You My Love](https://open.spotify.com/album/06PdwmlUcKbdKHGw67YCQ8) | 5:03 | 2022-06-29 | 2022-08-14 |
 | [Rainy Mix](https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj) | [Eltingvilles](https://open.spotify.com/artist/7qYYtUCPSVXspwRs4wiQ9R) | [Rainy Mix](https://open.spotify.com/album/35cS4jrVD80N8kb8WspUqV) | 4:37 | 2022-06-29 | 2022-08-13 |
+| [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-12 |  |
 | [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-06-29 |  |
 | [Sidewalking](https://open.spotify.com/track/2DotXnuPKoxT5K2yjKvhn8) | [Norberg](https://open.spotify.com/artist/4clALHmaxBpsJ0aWHb3Rdy) | [Sidewalking](https://open.spotify.com/album/5EAwH1SGs0hvPxn27vzM1n) | 3:13 | 2022-06-29 |  |
 | [Silent Dreams](https://open.spotify.com/track/6Io5TW0gliTyIZIssh5vS5) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Silent Dreams](https://open.spotify.com/album/0ZURk7Qh9lzCPyxLKT3DVa) | 4:08 | 2022-06-29 |  |

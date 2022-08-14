@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Zo\u00e9 en portada.",
-  "num_followers": 446243,
+  "num_followers": 446406,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMDRjZGUwZjcwZGU1NWU4MWIyY2MwNDcwNzlhZDI1Yjhm",
+  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMGUxZDIyMWEwOWI0ZjZkYTlmNDc1NWJjYmNkMzExMDE0",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Restaurant",
-        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Siento Que...",
-      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Pante\u00f3n Rococ\u00f3",
         "url": "https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg"
       },
@@ -799,6 +783,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Restaurant",
+        "url": "https://open.spotify.com/album/5zU7tsXAkoLAdc1Un5j96c"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Siento Que...",
+      "url": "https://open.spotify.com/track/1VtBjpwh6xdRPDy20Uln3W"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Blanco F\u00e1cil",
         "url": "https://open.spotify.com/album/4ZM6L5xUvFPT74pOw6KmNt"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 263838,
       "name": "Completamente",
       "url": "https://open.spotify.com/track/3c3XE8e9fG7VLoW4GNsiNY"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "El Equilibrio De Los Jaguares",
+        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
+      },
+      "artists": [
+        {
+          "name": "Jaguares",
+          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+        }
+      ],
+      "duration_ms": 238360,
+      "name": "Detr\u00e1s de los Cerros",
+      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
     },
     {
       "added_at": "2022-06-30 21:30:11",
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "El Equilibrio De Los Jaguares",
-        "url": "https://open.spotify.com/album/345ZGeUupFETaN36llAJCR"
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
       "artists": [
         {
-          "name": "Jaguares",
-          "url": "https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 238360,
-      "name": "Detr\u00e1s de los Cerros",
-      "url": "https://open.spotify.com/track/2ype6DLvWvW3NdSzDi8Dk2"
+      "duration_ms": 228534,
+      "name": "No Es Que No Te Quiera",
+      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -859,22 +875,6 @@
       "duration_ms": 191066,
       "name": "Sol\u00edn",
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 228534,
-      "name": "No Es Que No Te Quiera",
-      "url": "https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Deshabitado",
+        "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Olvidate De M\u00ed",
+      "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Norte (Japanese Version)",
         "url": "https://open.spotify.com/album/7I2F6vmsx0y0tevvFi6Luo"
       },
@@ -1175,6 +1191,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
+      },
+      "artists": [
+        {
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3mHTWntPW5EGMkb54cn1PK"
       },
@@ -1187,38 +1219,6 @@
       "duration_ms": 181866,
       "name": "Imagina",
       "url": "https://open.spotify.com/track/5rTpWh5T1yPhIAV9mbmYEW"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Pop...\u00a1Por La Cara!",
-        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
-      },
-      "artists": [
-        {
-          "name": "Plastilina Mosh",
-          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
-        }
-      ],
-      "duration_ms": 244292,
-      "name": "Pervert Pop Song",
-      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Deshabitado",
-        "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
-      },
-      "artists": [
-        {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
-        }
-      ],
-      "duration_ms": 223920,
-      "name": "Olvidate De M\u00ed",
-      "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1239,50 +1239,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+        "name": "Pop...\u00a1Por La Cara!",
+        "url": "https://open.spotify.com/album/6NS5jRu0SnahlW9StQqoNO"
       },
       "artists": [
         {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+          "name": "Plastilina Mosh",
+          "url": "https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq"
         }
       ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Sweet & Sour - Hot & Spicy",
-        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
-      },
-      "artists": [
-        {
-          "name": "Ely Guerra",
-          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
-        }
-      ],
-      "duration_ms": 262066,
-      "name": "Ojos Claros, Labios Rosas",
-      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
+      "duration_ms": 244292,
+      "name": "Pervert Pop Song",
+      "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1299,6 +1267,38 @@
       "duration_ms": 240360,
       "name": "Est\u00e1tico",
       "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Sweet & Sour - Hot & Spicy",
+        "url": "https://open.spotify.com/album/0MpryzsjWVwyYfb5YyAJG7"
+      },
+      "artists": [
+        {
+          "name": "Ely Guerra",
+          "url": "https://open.spotify.com/artist/1ne2c2YEgt4MmJCJGCsfsZ"
+        }
+      ],
+      "duration_ms": 262066,
+      "name": "Ojos Claros, Labios Rosas",
+      "url": "https://open.spotify.com/track/34tCEtUZP9JaPZ6KqFUHvh"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 265740,
-      "name": "La Flotadera",
-      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Sufro Sufro Sufro",
         "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 249506,
       "name": "Nos Tragamos",
       "url": "https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
+      },
+      "artists": [
+        {
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
+        }
+      ],
+      "duration_ms": 265740,
+      "name": "La Flotadera",
+      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Sufro Sufro Sufro",
+        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
+      },
+      "artists": [
+        {
+          "name": "San Pascualito Rey",
+          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
+        }
+      ],
+      "duration_ms": 240306,
+      "name": "Cerquita de Dios",
+      "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -1495,34 +1511,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
-        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
+        "name": "Adicto al Rock N Roll",
+        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
       },
       "artists": [
         {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
         }
       ],
-      "duration_ms": 218426,
-      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
-      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Sufro Sufro Sufro",
-        "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
-      },
-      "artists": [
-        {
-          "name": "San Pascualito Rey",
-          "url": "https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6"
-        }
-      ],
-      "duration_ms": 240306,
-      "name": "Cerquita de Dios",
-      "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
+      "duration_ms": 208866,
+      "name": "Chavo de Onda",
+      "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Rock En Tu Idioma Sinf\u00f3nico, Vol.2 (En Vivo)",
+        "url": "https://open.spotify.com/album/1VdXpzYXEl3GZwghlc1icV"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Dormir So\u00f1ando - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
+      "url": "https://open.spotify.com/track/68BdNYZS8uj9l6fvm11jfZ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -1571,22 +1587,6 @@
       "duration_ms": 219000,
       "name": "Afroman",
       "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Adicto al Rock N Roll",
-        "url": "https://open.spotify.com/album/5V0WSZ1ihWk7bbDZ9O4LoQ"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Chavo de Onda",
-      "url": "https://open.spotify.com/track/5OefRQlG7PuOMXuRLq5wuf"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1605,56 +1605,20 @@
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
     },
     {
-      "added_at": "2022-04-04 22:59:45",
+      "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Rock en Tu Idioma Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/3ayan86yMHukQACm3V7T6J"
+        "name": "Mundo Feliz",
+        "url": "https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6"
       },
       "artists": [
         {
-          "name": "Sabo Romo",
-          "url": "https://open.spotify.com/artist/2xqM9QBD5UgmHWfUbqfs1M"
-        },
-        {
-          "name": "Bon",
-          "url": "https://open.spotify.com/artist/3l0ICzv4v8DpBYkDTBqRju"
-        },
-        {
-          "name": "Marciano Cantero",
-          "url": "https://open.spotify.com/artist/5QzDzXfXC5lepOBeQXBiVO"
-        },
-        {
-          "name": "Kazz",
-          "url": "https://open.spotify.com/artist/5wgG38Y31ihqo1V1si4mIl"
-        },
-        {
-          "name": "Neon",
-          "url": "https://open.spotify.com/artist/6SkzBpjalUBejEPzerVAAX"
-        },
-        {
-          "name": "Fr\u00e1ncisco Familiar",
-          "url": "https://open.spotify.com/artist/6inDzeziUIxChspv3DEKtJ"
-        },
-        {
-          "name": "Ritmo Peligroso",
-          "url": "https://open.spotify.com/artist/7lrWd6DfBEWnFSerEh4n2d"
-        },
-        {
-          "name": "Leonardo de Lozanne",
-          "url": "https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N"
-        },
-        {
-          "name": "La Uni\u00f3n",
-          "url": "https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U"
-        },
-        {
-          "name": "Cala (Rostros Ocultos)",
-          "url": "https://open.spotify.com/artist/2pTuStgL0ImeVhEweOPu50"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 242720,
-      "name": "Cuando Pase el Temblor - Versi\u00f3n Sinf\u00f3nico [En Vivo]",
-      "url": "https://open.spotify.com/track/5VIRFG7jnzr8tElckFwgtA"
+      "duration_ms": 231080,
+      "name": "Camila",
+      "url": "https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

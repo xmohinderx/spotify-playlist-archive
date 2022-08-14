@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le tracce italiane più romantiche di sempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,120 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,149 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 8 | [Completamente](https://open.spotify.com/track/7sh95K3HXkne9mVYDOIRWs) | [Thegiornalisti](https://open.spotify.com/artist/6YBgd2LKccEB3pX6UaW1Yp) | [Completamente Sold Out](https://open.spotify.com/album/2UsIHnX2RaOOQVkpspAYDj) | 3:36 |
 | 9 | [Ridere](https://open.spotify.com/track/5LZVK19ieaV8Mk9FsqTL3F) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Fuori dall'Hype Ringo Starr](https://open.spotify.com/album/56JsicBPrw88plclhKK74J) | 3:34 |
 | 10 | [Poetica](https://open.spotify.com/track/07qo9gnLM488CUr0EtgIA1) | [Cesare Cremonini](https://open.spotify.com/artist/396Jr76018oUMR6QBnqT8T) | [Possibili Scenari](https://open.spotify.com/album/1tcX4ysSZEeMMshVVbkkDa) | 4:53 |
-| 11 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 |
+| 11 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 |
 | 12 | [Ti dedico il silenzio](https://open.spotify.com/track/6GLmGfALwjzCaOiHwgfU7g) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:54 |
-| 13 | [Tu](https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [Tu](https://open.spotify.com/album/0RCpPk09zv72rYvQbRVB6C) | 4:11 |
+| 13 | [Destri](https://open.spotify.com/track/0WBg2If3H9nN9RFl2xO2SZ) | [Gazzelle](https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN) | [Destri](https://open.spotify.com/album/6xIlY5dzwgDm4dVeTteILC) | 3:05 |
 | 14 | [MADAME \- L'anima \(feat\. Madame\)](https://open.spotify.com/track/3go5ZuMoFTKl5ugai8nAKi) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [Persona](https://open.spotify.com/album/3ZOt77e63uMgJXU7xcFpqu) | 3:41 |
 | 15 | [Stanza Singola \(feat\. Tommaso Paradiso\)](https://open.spotify.com/track/23hpOtox5sIuRqVBVVJxsO) | [Franco126](https://open.spotify.com/artist/2KkO9uXHF9BVNJASjLekAc), [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Stanza Singola](https://open.spotify.com/album/5f2LuFGKudyDDp9d93Qvvc) | 3:16 |
 | 16 | [La storia infinita](https://open.spotify.com/track/2r1SRt8bhtR6a9bMRR0AgV) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [AHIA!](https://open.spotify.com/album/0b2peKNz7zmn4xIxfPBUPa) | 3:27 |
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 18 | [È sempre bello](https://open.spotify.com/track/6IdiuMw1FSAvU3e6bgWQVX) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:23 |
 | 19 | [Estate](https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Estate](https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq) | 3:06 |
 | 20 | [Non Avere Paura](https://open.spotify.com/track/1qMx707PFdFXdwLvcUTNz3) | [Tommaso Paradiso](https://open.spotify.com/artist/47z0zz9ZMCn9GBiPRTn5Bc) | [Non Avere Paura](https://open.spotify.com/album/6qoQjya7Pb4NTuNserGcKP) | 4:07 |
-| 21 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
-| 22 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 |
+| 21 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 |
+| 22 | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/track/4O3sAZoZDIhNRcfHNuU4Ps) | [Takagi & Ketra](https://open.spotify.com/artist/76UCIJTB0jcJvBaL0CdIqx), [Marco Mengoni](https://open.spotify.com/artist/3xGlLcG9CUrs5MvFkSLOS5), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Venere e Marte \(feat\. Marco Mengoni, Frah Quintale\)](https://open.spotify.com/album/3qc7zx8OrCXDqzs7qa8l7P) | 3:42 |
 | 23 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 |
 | 24 | [Senza Parole](https://open.spotify.com/track/1myKwR6JbIvo1iKY8nOzbc) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:42 |
 | 25 | [Cascare nei tuoi occhi](https://open.spotify.com/track/60oJSn5MTG2VNvCJKwd65M) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [Peter Pan](https://open.spotify.com/album/7E0zdJM8KYDRa5lQeAfEYi) | 3:46 |
@@ -41,12 +41,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 31 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 |
 | 32 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 33 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
-| 34 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
-| 35 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
+| 34 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
+| 35 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
 | 36 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 37 | [La tua canzone](https://open.spotify.com/track/4Z43nMEiOiNeDrqu2BN0JD) | [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4) | [È sempre bello](https://open.spotify.com/album/10qyDIB3pverR0MvhOFDVy) | 3:12 |
-| 38 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 |
-| 39 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
+| 38 | [Infinito](https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L) | [Raf](https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3) | [Iperbole](https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG) | 4:56 |
+| 39 | [Cosa mi manchi a fare](https://open.spotify.com/track/7L8cIUKXToCr6PV9hFoX3Q) | [Calcutta ](https://open.spotify.com/artist/582KhTHEVOONNQLmQ5612r) | [Mainstream \(Deluxe Edition\)](https://open.spotify.com/album/11dh7pT3FRrGkI3TXl0e4k) | 2:49 |
 | 40 | [22 settembre](https://open.spotify.com/track/15RRpHBNzv0gvjIry4jyOs) | [Ultimo](https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa) | [22 settembre](https://open.spotify.com/album/2XXtM3qexPIlNtotrYZjRp) | 3:50 |
 | 41 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 |
 | 42 | [Il bacio di Klimt](https://open.spotify.com/track/3E1FgPTXX203rgBTD5nlKF) | [Emanuele Aloia](https://open.spotify.com/artist/3vkFU3DBYyYBSUt323pj76) | [Il bacio di Klimt](https://open.spotify.com/album/2JAcCIuh57ns83xfzTpNaB) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 49 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
 | 50 | [Acqua e Sale](https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr) | [MINACELENTANO](https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB) | [Mina Celentano](https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid) | 4:42 |
 
-Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDljNjUwMmUxZmFiZjEwMzU2Y2MyYWVlMDI0OGNjNDMz`
+Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDM1MzIzMTMzZjc2OGQ0NjExZDMzNDI0NThjM2NkN2Mw`

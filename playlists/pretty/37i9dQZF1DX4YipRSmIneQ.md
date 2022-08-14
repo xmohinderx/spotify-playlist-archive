@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,136 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,258 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,12 +31,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 21 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 |
 | 22 | [Versace Hottie](https://open.spotify.com/track/125U9Ok6RD3jG5aLzyvxnY) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [Metallic Butterfly](https://open.spotify.com/album/2eNt8IJkvzDqX205e08bgZ) | 3:14 |
 | 23 | [Pop That](https://open.spotify.com/track/1EpF7SUZOEdYXAJF6QC43Z) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Pop That](https://open.spotify.com/album/1Lr2J72KaKx1RinFIQoiEX) | 3:37 |
-| 24 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
-| 25 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
+| 24 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 |
+| 25 | [Tired and Sick](https://open.spotify.com/track/5fZ3sFURm6vOo5cwAFV1Y8) | [Otha](https://open.spotify.com/artist/6UMUvqiDBEJLyx2uYplGCV) | [Tired and Sick](https://open.spotify.com/album/01xv4kF5gPzZ9l7SgrSrE5) | 2:52 |
 | 26 | [Show Me What](https://open.spotify.com/track/0qJtV82bKOgB2kvfa8IrZp) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [Cecile Believe](https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 2:49 |
 | 27 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
-| 28 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 |
-| 29 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
+| 28 | [Microdosing](https://open.spotify.com/track/6JtT4a0Z406dz7A2f2vGBe) | [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx) | [Microdosing](https://open.spotify.com/album/1MYkpVa9Y1YCoKrlfWHjeW) | 3:58 |
+| 29 | [Scooter](https://open.spotify.com/track/1RBIzko2PMY5CP0d3MIkwl) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [Scooter](https://open.spotify.com/album/1Ib8Y9ZWFGTI4zjglUKxwV) | 2:08 |
 | 30 | [Queen Of This Shit](https://open.spotify.com/track/6JrmHzxhaaavRtlXTOhm63) | [Quay Dash](https://open.spotify.com/artist/6k6lSmhyFpe2oYcredvZHM) | [Queen Of This Shit](https://open.spotify.com/album/6qu9QGQPrAlTOJLGeKeQBK) | 3:06 |
 | 31 | [I'm Perfect](https://open.spotify.com/track/3YK1uAScUpCaFNCn004pm6) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [I'm Perfect](https://open.spotify.com/album/4l3Twapn6OepVAOHDPtmT3) | 2:46 |
 | 32 | [all the bands](https://open.spotify.com/track/6lWOSug1EA1BMXlrE567x2) | [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Charlie Heat](https://open.spotify.com/artist/0bbguzUos4LO6NikkdXdzw) | [all the bands](https://open.spotify.com/album/2uDiNQ5tLIw7M1Qu682asm) | 2:21 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 35 | [Mommy](https://open.spotify.com/track/13qSIkriq6c8jWFLv6Lt7z) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [Mommy](https://open.spotify.com/album/5q0eJFO2tBIPXovoQoWudO) | 2:34 |
 | 36 | [TASTY](https://open.spotify.com/track/3V3ijKDFFwPM9ADBAW41XQ) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [ALIAS](https://open.spotify.com/album/3lpcZOAsYJzvPepNSbzMSb) | 2:24 |
 | 37 | [Cunty \- Wave Edit](https://open.spotify.com/track/5Dy9iOGAYzppHgWcLzZSBe) | [Kevin Aviance](https://open.spotify.com/artist/1tPCPj6UWSQ3VSQ8xwZ4ZJ) | [Box of Chocolates](https://open.spotify.com/album/1iIC7QKwsTtWNRV7NxfrK5) | 4:17 |
-| 38 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 |
-| 39 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 |
+| 38 | [Feels Like](https://open.spotify.com/track/0F9v0lpBD93UIOh4g0BcPm) | [MikeQ](https://open.spotify.com/artist/0H2tgKu7aoe1YVflaRWH6o), [Kevin Jz Prodigy](https://open.spotify.com/artist/6f7VuR9EQ1JqkWXqGwvVH5) | [Let It All Out EP](https://open.spotify.com/album/1EjGCyMdcQlJM5aW4wpyaV) | 2:23 |
+| 39 | [First Class Bitch](https://open.spotify.com/track/5wIuzHBxFEM6TXwAvg6Xxo) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [First Class Bitch](https://open.spotify.com/album/7EgYldvSDOCj4DBJm7JJgk) | 3:01 |
 | 40 | [ELASTIC](https://open.spotify.com/track/3enhwNFECQX6psc1uqprYV) | [ZDBT](https://open.spotify.com/artist/68KFHlDFncH62HCfIdH2tj), [Prado](https://open.spotify.com/artist/1Tw87xR7p102yY4fqusZzq), [Slim Media Player](https://open.spotify.com/artist/0Bf5T1UU0g3YYNrJijScNR) | [ELASTIC](https://open.spotify.com/album/3CYm2Tdcb3dAOIIkRIBvoO) | 3:39 |
 | 41 | [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 |
 | 42 | [Put Cha Back In It](https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 49 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 |
 | 50 | [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 |
 
-Snapshot ID: `MTY2MDIyNDYwOCwwMDAwMDAwMGE4OWUyZDg3ZDg4M2MxNjQ3MzNiMmQxZGUxOWI1ZDNh`
+Snapshot ID: `MTY2MDIyNDYwOCwwMDAwMDAwMGFiZWZmNTMyZDI2NDMyYThiZDdkMzI0MTc1OTBjYWYz`

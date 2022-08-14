@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 169298,
+  "num_followers": 169362,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMDFiNTlmZDNkYzkwNzY2MTE1NjAxODFkMGFjNDA2MTc3",
+  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMDI1YTM1NDc3NzhkMzZjMDlmZDg4NDcyMGY1MDhmMjBi",
   "tracks": [
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
-        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 255533,
-      "name": "Johnson Blvd",
-      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Terraplane",
-        "url": "https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4"
+        "name": "Mountains Of Sorrow, Rivers Of Song (Deluxe)",
+        "url": "https://open.spotify.com/album/7mmqWjgDqup34v4bVcTHTx"
       },
       "artists": [
         {
-          "name": "Steve Earle",
-          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
         }
       ],
-      "duration_ms": 247306,
-      "name": "You\u2019re the Best Lover That I Ever Had",
-      "url": "https://open.spotify.com/track/6zvGluRPhlmtPsK8nPtgCK"
+      "duration_ms": 255533,
+      "name": "Johnson Blvd",
+      "url": "https://open.spotify.com/track/7yVaOoJkOA6Ds8nL9KFDAe"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1115,6 +1099,22 @@
       "duration_ms": 221413,
       "name": "Ford Econoline",
       "url": "https://open.spotify.com/track/4YBWRHOXfB3T9B1TKRT1ki"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Terraplane",
+        "url": "https://open.spotify.com/album/3JPaRHvPKF0iu7L9bTjJy4"
+      },
+      "artists": [
+        {
+          "name": "Steve Earle",
+          "url": "https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "You\u2019re the Best Lover That I Ever Had",
+      "url": "https://open.spotify.com/track/6zvGluRPhlmtPsK8nPtgCK"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Tell the Devil I'm Gettin' there as Fast as I Can",
         "url": "https://open.spotify.com/album/19AaEKSxOSfjfqjWi3UDQU"
       },
@@ -1383,6 +1367,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "They're Calling Me Home (with Francesco Turrisi)",
         "url": "https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms"
       },
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Complicated Game",
+        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Copper Canteen",
+      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Complicated Game",
-        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Copper Canteen",
-      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
-      },
-      "artists": [
-        {
-          "name": "Old Crow Medicine Show",
-          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
-        }
-      ],
-      "duration_ms": 230106,
-      "name": "Brushy Mountain Conjugal Trailer",
-      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 239266,
       "name": "Angel Flight",
       "url": "https://open.spotify.com/track/5HXIx1TnpLAJtWS9O10kls"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/5UeWaLSzyg0dpeCdQyx9u0"
+      },
+      "artists": [
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "duration_ms": 230106,
+      "name": "Brushy Mountain Conjugal Trailer",
+      "url": "https://open.spotify.com/track/1qHro6dwCdlg9XPhNvWrLe"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1875,22 +1875,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
-        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "Boulder to Birmingham - 2003 Remaster",
-      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1903,6 +1887,22 @@
       "duration_ms": 170480,
       "name": "Brothers",
       "url": "https://open.spotify.com/track/6dRdARjCg2Jng4huHZKsP9"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Heartaches & Highways: The Very Best of Emmylou Harris",
+        "url": "https://open.spotify.com/album/2Pd49KeT8aphj7hfBLxcuf"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "Boulder to Birmingham - 2003 Remaster",
+      "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1991,26 +1991,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Healing Tide",
-        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
-      },
-      "artists": [
-        {
-          "name": "The War and Treaty",
-          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 260333,
-      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
-      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Still Woman Enough",
         "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
@@ -2027,6 +2007,26 @@
       "duration_ms": 161013,
       "name": "One's On The Way (feat. Margo Price)",
       "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Healing Tide",
+        "url": "https://open.spotify.com/album/06UpUVi6uLrcg2kjlQoE5Q"
+      },
+      "artists": [
+        {
+          "name": "The War and Treaty",
+          "url": "https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 260333,
+      "name": "Here is Where the Loving is at (feat. Emmylou Harris)",
+      "url": "https://open.spotify.com/track/6LfKYnjQqTgB6UwxHtnIxO"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2123,6 +2123,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Live at the Old Quarter, Houston, Texas",
+        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+      },
+      "artists": [
+        {
+          "name": "Townes Van Zandt",
+          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+        }
+      ],
+      "duration_ms": 270040,
+      "name": "Tecumseh Valley - Live",
+      "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Way Out West",
         "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
       },
@@ -2139,18 +2155,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Live at the Old Quarter, Houston, Texas",
-        "url": "https://open.spotify.com/album/1SXpC0UH36YNCRSQMVRsoC"
+        "name": "The Essential Guy Clark",
+        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
       },
       "artists": [
         {
-          "name": "Townes Van Zandt",
-          "url": "https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof"
+          "name": "Guy Clark",
+          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
         }
       ],
-      "duration_ms": 270040,
-      "name": "Tecumseh Valley - Live",
-      "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
+      "duration_ms": 272866,
+      "name": "Desperados Waiting For A Train",
+      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "The Essential Guy Clark",
-        "url": "https://open.spotify.com/album/7slkWwrXUKHhuJAeaOKB4Y"
-      },
-      "artists": [
-        {
-          "name": "Guy Clark",
-          "url": "https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq"
-        }
-      ],
-      "duration_ms": 272866,
-      "name": "Desperados Waiting For A Train",
-      "url": "https://open.spotify.com/track/2Q3KJw8ibHDsvuNQQmeg8Q"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Old Yellow Moon",
         "url": "https://open.spotify.com/album/33CP9PApYibgmRsx7ux6sE"
       },
@@ -2207,6 +2207,22 @@
       "duration_ms": 172813,
       "name": "Hanging up My Heart",
       "url": "https://open.spotify.com/track/1odrnCw1RmUcevfJz25NJS"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Pure & Simple",
+        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Pure and Simple",
+      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2231,22 +2247,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Pure & Simple",
-        "url": "https://open.spotify.com/album/09xuqHRVpQp8AI5Pz9Oq9M"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "Pure and Simple",
-      "url": "https://open.spotify.com/track/7szyzZ3J9ortisMHATOXCp"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
       },
@@ -2259,22 +2259,6 @@
       "duration_ms": 221183,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2311,6 +2295,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Place in My Heart",
-        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
-      },
-      "artists": [
-        {
-          "name": "Lucinda Williams",
-          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
-        }
-      ],
-      "duration_ms": 313857,
-      "name": "Place in My Heart",
-      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Night Surfer",
         "url": "https://open.spotify.com/album/1QsicTW28qZkphxnImFYtv"
       },
@@ -2375,18 +2359,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "First Agnostic Church of Hope and Wonder",
-        "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
+        "name": "Place in My Heart",
+        "url": "https://open.spotify.com/album/3pwhHzAF1H5N2Uep9mhEpS"
       },
       "artists": [
         {
-          "name": "Todd Snider",
-          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
+          "name": "Lucinda Williams",
+          "url": "https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP"
         }
       ],
-      "duration_ms": 195266,
-      "name": "Never Let a Day Go By",
-      "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
+      "duration_ms": 313857,
+      "name": "Place in My Heart",
+      "url": "https://open.spotify.com/track/2XljwJ0zc1FsztnBq8T9uv"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2411,18 +2395,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "I'll Meet You Here",
-        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+        "name": "First Agnostic Church of Hope and Wonder",
+        "url": "https://open.spotify.com/album/4TdcT0h07oWHX1lAotis7y"
       },
       "artists": [
         {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+          "name": "Todd Snider",
+          "url": "https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5"
         }
       ],
-      "duration_ms": 167340,
-      "name": "You Give it All Away",
-      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
+      "duration_ms": 195266,
+      "name": "Never Let a Day Go By",
+      "url": "https://open.spotify.com/track/4gEMCyTZT8xERvqbRmCXyl"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2439,6 +2423,22 @@
       "duration_ms": 160120,
       "name": "Tell Heaven",
       "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "I'll Meet You Here",
+        "url": "https://open.spotify.com/album/2M0mZ8HDBsQtsoJhXgGnbA"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 167340,
+      "name": "You Give it All Away",
+      "url": "https://open.spotify.com/track/5xFqksMAUocMpcHM8jKiO8"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2491,22 +2491,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
       },
@@ -2539,18 +2523,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
       },
       "artists": [
         {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
         }
       ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2571,6 +2555,22 @@
       "duration_ms": 263000,
       "name": "The Killing Fields",
       "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
+      },
+      "artists": [
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        }
+      ],
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Killin' Uncle Buzzy",
-        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
-      },
-      "artists": [
-        {
-          "name": "Travis Meadows",
-          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
-        }
-      ],
-      "duration_ms": 246373,
-      "name": "Learning How to Live Alone",
-      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 186920,
       "name": "Garfield's Blackberry Blossom",
       "url": "https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Killin' Uncle Buzzy",
+        "url": "https://open.spotify.com/album/3XmWV3KKzHEkV0iZXWSU8l"
+      },
+      "artists": [
+        {
+          "name": "Travis Meadows",
+          "url": "https://open.spotify.com/artist/5d2EFS71gAHBeP1KWOBgCA"
+        }
+      ],
+      "duration_ms": 246373,
+      "name": "Learning How to Live Alone",
+      "url": "https://open.spotify.com/track/0KRiKjCsqMRN0Pmp2CFzQK"
     },
     {
       "added_at": "2022-04-22 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,872 likes - 50 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 50 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,16 +26,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 16 | [Japanese Summer Lost](https://open.spotify.com/track/3VhyUfGwBgnKAP4GpwLQ2L) | [Nao'ymt](https://open.spotify.com/artist/5sqUW4XEHsGVQT6z5NGgJf) | [Japanese Summer Lost](https://open.spotify.com/album/3PTgQngl0s8Kayv6O85LYi) | 3:31 |
 | 17 | [Blue Sky And Yellow Sunflower](https://open.spotify.com/track/6Mk96t3t5qR5YJ8ftCW18V) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Symbol](https://open.spotify.com/album/0ntm3YaiXVkkGitWl2XASV) | 3:59 |
 | 18 | [DNA](https://open.spotify.com/track/0dVOO1yFYNeWjsrIdWi9u7) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [In The Dark Woods](https://open.spotify.com/album/3IZstlhdTOOtJ5HPQDjEFw) | 5:16 |
-| 19 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
+| 19 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
 | 20 | [ohayashi](https://open.spotify.com/track/1LTzuEZtKewRM804YjrDg6) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [Windswept Adan](https://open.spotify.com/album/1W0SccGphtGQNYqaqQ5nhA) | 3:44 |
 | 21 | [Ike](https://open.spotify.com/track/6tmWAG5SEJMqVDQmGDGvLp) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 3:28 |
-| 22 | [Still Space](https://open.spotify.com/track/7e7HTzbFsmLR0mg9QkwMPr) | [Satoshi Ashikawa](https://open.spotify.com/artist/0O0TybCQ8Mib6g5AwnfXz5) | [Kankyō Ongaku: Japanese Ambient, Environmental & New Age Music 1980\-1990](https://open.spotify.com/album/63x6MwkzIVtoH6lbHIYEtr) | 3:59 |
+| 22 | [Last Days](https://open.spotify.com/track/2wKV2ewqNf2ZjW4Nn2X5i7) | [Yasushi Yoshida](https://open.spotify.com/artist/2u5s5wxfNszaIZwWknh3eB) | [Heavenly Me Last Days](https://open.spotify.com/album/2ygBTmJ4Mvq2hXL3Ssjojm) | 9:59 |
 | 23 | [Arne](https://open.spotify.com/track/4ZqQqesPkASH1sqsnm6wmo) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [Grace](https://open.spotify.com/album/37vlYDRVRGH8sf5qZG3J6z) | 3:37 |
-| 24 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
+| 24 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 |
 | 25 | [View from My Window](https://open.spotify.com/track/4KrsGAgv8b2982iqaokrO0) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 6:15 |
-| 26 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
-| 27 | [Azukiiro No Kaori](https://open.spotify.com/track/5J94BE34S8gqfmhTFQzHmM) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Sakura](https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2) | 2:39 |
-| 28 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 |
+| 26 | [GLASS CHIME](https://open.spotify.com/track/1lxgQG0xeAsS1r0u9M1TcP) | [INOYAMALAND](https://open.spotify.com/artist/3nYCvyP4RxuKyEKygqxWHy) | [DANZINDAN\-POJIDON \(New Master Edition\)](https://open.spotify.com/album/5pOZiyJq4YQcTLkV3TyFjX) | 3:26 |
+| 27 | [Energy Flow \(Ki No Nagare\)](https://open.spotify.com/track/414AJsmhPuEA7W3wC9Go77) | [Shiho Yabuki](https://open.spotify.com/artist/72H54BeNWF82wu5czm91VX) | [The Body Is a Message of the Universe \- からだは宇宙のメッセージ](https://open.spotify.com/album/2JdjNySHankOkjITDAo5YT) | 3:47 |
+| 28 | [Images Of Broken Light](https://open.spotify.com/track/3VGOjz1kIkGcGohvArNO2u) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Saunter](https://open.spotify.com/album/7ynXCf2JnfnpyQe6QGeEn2) | 8:29 |
 | 29 | [Midsummer Night](https://open.spotify.com/track/599w57sIc7zTRE2f89TyiZ) | [Toshifumi Hinata](https://open.spotify.com/artist/08tfDO4dSrwxax35a3HIMC) | [Broken Belief](https://open.spotify.com/album/3goyDdPVoNpBK5OroPcHfv) | 7:16 |
 | 30 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
 | 31 | [Blink](https://open.spotify.com/track/7d26IhLPUlL4oncFgsms22) | [Hiroshi Yoshimura](https://open.spotify.com/artist/1DGpHnPOpMYY780hcQHmPB) | [Music for Nine Post Cards](https://open.spotify.com/album/4h5av08hHhOyyINApKfnEE) | 4:42 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 45 | [twilight](https://open.spotify.com/track/6xoab7Sxd9L2N43Gu9fIBd) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [twilight \(Deluxe Edition\)](https://open.spotify.com/album/35o0PH7bM6n9wjVpYrAzpY) | 8:40 |
 | 46 | [Gazing](https://open.spotify.com/track/1hVPAMeg5kekdYulGfgQ8u) | [Firo](https://open.spotify.com/artist/28bSxVrQGGTaSCuotXVtGH) | [Gazing](https://open.spotify.com/album/12qUCf45In3rCNOA0NOXOW) | 3:16 |
 | 47 | [Utano](https://open.spotify.com/track/0h7IkhjykGhsXardJtErat) | [Meitei](https://open.spotify.com/artist/5TS4DIOBGgEE6ysYh7yuii) | [Komachi](https://open.spotify.com/album/4IkrCCorQFfEfwoiCt441A) | 4:15 |
-| 48 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
-| 49 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
+| 48 | [Mkwaju](https://open.spotify.com/track/2mx7O88JR2wrlTqckLtr53) | [Mkwaju Ensemble](https://open.spotify.com/artist/6lhQfkLL5E1JHiam3nNvtN) | [Computer Incarnations For World Peace III](https://open.spotify.com/album/6vXtpsv2IxmvubIDGiE3mX) | 6:28 |
+| 49 | [Huit](https://open.spotify.com/track/6VvOYb9aPWQnpFyvKKsYZW) | [Sky H1](https://open.spotify.com/artist/4PWm0R7GT00XJa3TIFoUT4) | [Mono No Aware](https://open.spotify.com/album/1YbSlMGiAAaTfR9Kk9HNxk) | 3:50 |
 | 50 | [ミート・ミー・イン・ザ・シープ・メドウ](https://open.spotify.com/track/4SQbhj7q0H1yIA7LjATtt5) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 3:25 |
 
-Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDgzZTIzZjdmODA1ODk2ZmEzMjhkZmMzOTAxODI2YTQ0`
+Snapshot ID: `MTY1OTYyNTIwMCwwMDAwMDAwMDI4ZDFhYmIxMmM1N2FlZDhkZjUyNTQwNDRkNDhlNzkz`

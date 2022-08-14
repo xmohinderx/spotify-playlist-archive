@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 313791,
+  "num_followers": 313861,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMDY2Njg4Yjg2ZGU5YTQ4OTE3ZGQxZTFjNDNhZjdjMzVk",
+  "snapshot_id": "MTY1OTQ1NTE4MywwMDAwMDAwMGU4OTU1NmUyNDBkMjdjZTY5ZjcxMzUwOTBmNmMzYTcy",
   "tracks": [
     {
       "added_at": "2022-07-28 13:29:24",
@@ -171,22 +171,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Sonic Apothecary",
         "url": "https://open.spotify.com/album/0xngclE7lI1lFO3Fu9Kzcb"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 448000,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/2FR3mH7DwsaX3TcObkUEX3"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Floating",
-        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
-      },
-      "artists": [
-        {
-          "name": "Gianluca Piacenza",
-          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
-        }
-      ],
-      "duration_ms": 254528,
-      "name": "Floating",
-      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Finding The Heavens",
         "url": "https://open.spotify.com/album/4GUm4q0aC3WpHFhMc4YZBQ"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 234280,
       "name": "when the party's over - Slowed Remix",
       "url": "https://open.spotify.com/track/35zRHowhQifRViG90CiLLY"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Floating",
+        "url": "https://open.spotify.com/album/4Zyls7QoH17wKZlR26b3gY"
+      },
+      "artists": [
+        {
+          "name": "Gianluca Piacenza",
+          "url": "https://open.spotify.com/artist/7qEuC0mCSgDPFzQQPp8RcS"
+        }
+      ],
+      "duration_ms": 254528,
+      "name": "Floating",
+      "url": "https://open.spotify.com/track/1rtXR0fCnRVp27uFmckZJK"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Hour Glass",
-        "url": "https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P"
-      },
-      "artists": [
-        {
-          "name": "Felice Manzi",
-          "url": "https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e"
-        }
-      ],
-      "duration_ms": 171615,
-      "name": "Hour Glass",
-      "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Felt Improv No. 31",
         "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 144042,
       "name": "Felt Improv No. 31",
       "url": "https://open.spotify.com/track/7hq0zahMPS0Ct7k9tyI59F"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Hour Glass",
+        "url": "https://open.spotify.com/album/7om9KUlSTFqdUeQfO9Rm4P"
+      },
+      "artists": [
+        {
+          "name": "Felice Manzi",
+          "url": "https://open.spotify.com/artist/4zyg7o4zxpSwns0Le3W14e"
+        }
+      ],
+      "duration_ms": 171615,
+      "name": "Hour Glass",
+      "url": "https://open.spotify.com/track/5OU3bBYoT7TqGOlPrZqq7N"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -755,6 +755,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "Satisfaction",
+        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
+      },
+      "artists": [
+        {
+          "name": "The Masked Pianoman",
+          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
+        }
+      ],
+      "duration_ms": 129209,
+      "name": "Satisfaction",
+      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "Ave",
         "url": "https://open.spotify.com/album/6qxp9RRJ4ja7D94zw3c0mV"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 110466,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/1wnv2eGj9ZcU2sNwf8IAkN"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/7q8kx8mg8ZJopCc2QrDig6"
-      },
-      "artists": [
-        {
-          "name": "The Masked Pianoman",
-          "url": "https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1"
-        }
-      ],
-      "duration_ms": 129209,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/3FiKHFPOXdU0YcorKuaMZE"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
-      },
-      "artists": [
-        {
-          "name": "Hideyuki Hashimoto",
-          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
-        }
-      ],
-      "duration_ms": 141750,
-      "name": "Sway",
-      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/19b9C2sQ0WGntW7vFAGrwO"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 152176,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/40DJUBObiPR4yQGuMUqZNQ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/07fyRiDsSsGEsSp446gwXo"
+      },
+      "artists": [
+        {
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
+        }
+      ],
+      "duration_ms": 141750,
+      "name": "Sway",
+      "url": "https://open.spotify.com/track/6BHkBgSz4QbqnRnLd77hXy"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Untouched Rainforest, Pt.3",
-        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
-      },
-      "artists": [
-        {
-          "name": "Akira Kosemura",
-          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
-        }
-      ],
-      "duration_ms": 193529,
-      "name": "Untouched Rainforest, Pt.3",
-      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Collage",
         "url": "https://open.spotify.com/album/1mBThT4Q1wQFs6heMlHVyW"
       },
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "River Path",
-        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+        "name": "Untouched Rainforest, Pt.3",
+        "url": "https://open.spotify.com/album/0sTABMBrR7RI5Q4hpjrJ5k"
       },
       "artists": [
         {
-          "name": "Olivia Belli",
-          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
         }
       ],
-      "duration_ms": 209102,
-      "name": "Silent Dusk",
-      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
+      "duration_ms": 193529,
+      "name": "Untouched Rainforest, Pt.3",
+      "url": "https://open.spotify.com/track/5OjGCUApXFcYcDRkU0o9xJ"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1127,6 +1111,22 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
+        "name": "River Path",
+        "url": "https://open.spotify.com/album/7i1G45QnheqqmKcMr3cjx9"
+      },
+      "artists": [
+        {
+          "name": "Olivia Belli",
+          "url": "https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy"
+        }
+      ],
+      "duration_ms": 209102,
+      "name": "Silent Dusk",
+      "url": "https://open.spotify.com/track/46ItAoGhLpaEA1vWNEJtOn"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
         "name": "how we sleep",
         "url": "https://open.spotify.com/album/4G3pDpj8XGIXV3oDhK4LD8"
       },
@@ -1139,6 +1139,22 @@
       "duration_ms": 130459,
       "name": "poetry in touch",
       "url": "https://open.spotify.com/track/3gkLHysY743R1OUGDVMNsZ"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "The Void (I Play Mine version)",
+        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
+      },
+      "artists": [
+        {
+          "name": "Andrea Carri",
+          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "The Void - I Play Mine version",
+      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1159,22 +1175,6 @@
       "duration_ms": 141602,
       "name": "145 - Revisited",
       "url": "https://open.spotify.com/track/5B26HpT55bm8jJ3WGQKzR8"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
-        "name": "The Void (I Play Mine version)",
-        "url": "https://open.spotify.com/album/7LCQ4cTCG4CZNKYNFr7Orc"
-      },
-      "artists": [
-        {
-          "name": "Andrea Carri",
-          "url": "https://open.spotify.com/artist/4XcmEbEiUwaKL9rB870I4U"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "The Void - I Play Mine version",
-      "url": "https://open.spotify.com/track/1zrU4OmjYslhwqjw3jRZBj"
     },
     {
       "added_at": "2022-07-28 13:29:24",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-07-28 13:29:24",
       "album": {
-        "name": "Summer Flowers",
-        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
-      },
-      "artists": [
-        {
-          "name": "Polly Carter",
-          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
-        }
-      ],
-      "duration_ms": 144654,
-      "name": "Summer Flowers",
-      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
-    },
-    {
-      "added_at": "2022-07-28 13:29:24",
-      "album": {
         "name": "Equally",
         "url": "https://open.spotify.com/album/5mSMQ1Dc899N18PTdZGaZf"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 269339,
       "name": "Equally",
       "url": "https://open.spotify.com/track/7AXJP7qDhsxbNr4iUbdjsA"
+    },
+    {
+      "added_at": "2022-07-28 13:29:24",
+      "album": {
+        "name": "Summer Flowers",
+        "url": "https://open.spotify.com/album/3ATS4x1NX1DWfc5NTCz7Eh"
+      },
+      "artists": [
+        {
+          "name": "Polly Carter",
+          "url": "https://open.spotify.com/artist/0GZHuvPr2iFDH4BQFLOrEp"
+        }
+      ],
+      "duration_ms": 144654,
+      "name": "Summer Flowers",
+      "url": "https://open.spotify.com/track/70GMSvwtcM7dg2lYNGDy2I"
     },
     {
       "added_at": "2022-07-28 13:29:24",

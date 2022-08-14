@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 
 > Los mejor de los 90s\. The Best of the 90s
 
-[Spotify](https://open.spotify.com/user/spotify) - 559,462 likes - 60 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 559,763 likes - 60 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,15 +28,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 18 | [Caricias Prohibidas](https://open.spotify.com/track/6ygcsyNINY8tSvzKzHiKkJ) | [Viti Ruiz](https://open.spotify.com/artist/3HpdzWUn8T827FFvfJhioT) | [Sedúceme](https://open.spotify.com/album/3R7986xkYKoYwxc1dRiZxy) | 5:21 |
 | 19 | [Qué Hay de Malo](https://open.spotify.com/track/7t5cskTjWtXVQ6h1yI69op) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cara De Niño](https://open.spotify.com/album/0QH703ohOGjIj2EYeBUTr0) | 4:58 |
 | 20 | [Apiádate de Mi](https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:04 |
-| 21 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
-| 22 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
+| 21 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
+| 22 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 23 | [Sin Sentimientos](https://open.spotify.com/track/0oHX2BlLsnbu3nnTeEUIuL) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Una Aventura...La Historia](https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs) | 4:54 |
 | 24 | [Me Liberé](https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [Nuevo Milenio \- El Mismo Sabor](https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn) | 4:23 |
 | 25 | [Lobo Domesticado](https://open.spotify.com/track/07RVxiFKeWvBF8aKuPMaXk) | [Tommy Olivencia](https://open.spotify.com/artist/38fLjRT1W1x3RR6SWWxL0x) | [Rodven Clasico: Tommy Olivencia Y Su Orquesta "30 Aniversario"](https://open.spotify.com/album/0NTOGSGZBeho4Kwo5nvPzd) | 4:50 |
 | 26 | [Persona Ideal](https://open.spotify.com/track/5H1mAzh396id1TPT0JaItz) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Millenium Hits](https://open.spotify.com/album/2UW6AewaLPCMOqevOZvHof) | 4:41 |
 | 27 | [Por Ella](https://open.spotify.com/track/6xggO96o1OD6zNd5wjevhQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Inconfundible](https://open.spotify.com/album/1VOFVi0W0TME7lcHaorE5B) | 4:38 |
-| 28 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
-| 29 | [Hasta Que Te Conoci](https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 5:05 |
+| 28 | [Hasta Que Te Conoci](https://open.spotify.com/track/7GwIVVxHiE6uyJrYSdCNMH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Otra Nota](https://open.spotify.com/album/4NiUxGgt2iSsbRa6Nf2ocq) | 5:05 |
+| 29 | [Entre La Espada y La Pared](https://open.spotify.com/track/2UpoA15YFW9ItA8BjXUOJg) | [Nino Segarra](https://open.spotify.com/artist/7titF03HCJwxZeJ98nMWbK) | [Vida](https://open.spotify.com/album/0nU31Hhb13gaveZXXw1wkj) | 4:22 |
 | 30 | [Una Aventura](https://open.spotify.com/track/4F8IB14Sjvqb9qJUOxndRZ) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:16 |
 | 31 | [Amores como el nuestro \(Salsa\)](https://open.spotify.com/track/0r8RjrJjZ9U3OxZpGsn3v8) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Un poquito de' to \(Salsa \- Merengue \- Bachata & Reggaeton\)](https://open.spotify.com/album/2b4nbJCVka7rbb5B7D4QON) | 5:05 |
 | 32 | [Se Acabó el Amor](https://open.spotify.com/track/7nxoTSiir8y3vF8HPhFmQ9) | [Adolescent's Orquesta](https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O) | [Búscame](https://open.spotify.com/album/76GMXDdpCLC8NwXtv37yYj) | 4:01 |
@@ -47,19 +47,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 37 | [Busca Por Dentro](https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
 | 38 | [Vivir Lo Nuestro](https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Desde Un Principio / From The Beginning](https://open.spotify.com/album/5d7Tr9DguGh9z9oByKWYoI) | 6:06 |
 | 39 | [Siempre Seré](https://open.spotify.com/track/1FcUm2UbruVWMqQxzDhRWH) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:24 |
-| 40 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
-| 41 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
+| 40 | [Luna Negra](https://open.spotify.com/track/09Prj3ivNAC9Y80cP4eKnm) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:44 |
+| 41 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
 | 42 | [Se Me Sigue Olvidando](https://open.spotify.com/track/2wHtuxkW4dFAlwGkbnwa7l) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Todo A Su Tiempo](https://open.spotify.com/album/69lnF2K07sZMRbyGSuggFk) | 4:53 |
 | 43 | [Cinco Noches](https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez) | [Paquito Guzman](https://open.spotify.com/artist/4JtUybFExZ5dbq3GyYwRE5) | [Serie Millennium 21: Paquito Guzman](https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn) | 5:09 |
 | 44 | [Usted](https://open.spotify.com/track/217OiircokozWB5frngZOs) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Por Derecho Propio](https://open.spotify.com/album/519dNSSpFOivv1krsuQnC2) | 5:43 |
 | 45 | [Cuando Parará La Lluvia](https://open.spotify.com/track/6eQUjx96Gob2WwetawPBMQ) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:46 |
 | 46 | [Cuenta Conmigo](https://open.spotify.com/track/11GaqHqSJIHtS4Y4FRZq5Q) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Mis Favoritas](https://open.spotify.com/album/3Ph28YClqOZvb2nmdsXKBA) | 3:48 |
 | 47 | [Pensamiento y Palabra](https://open.spotify.com/track/2Dy2rajQYwC0p1j4nOH9bX) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Victor Manuelle \(3 CD Box Set\)](https://open.spotify.com/album/4BZSWWLwSlgBUQZqAvqLYL) | 4:48 |
-| 48 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
+| 48 | [Si Te Preguntan](https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:47 |
 | 49 | [Ella se Hizo Deseo](https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Exitos y Más](https://open.spotify.com/album/3nXyqYDpyYCZRQyTqRSssX) | 5:04 |
-| 50 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
+| 50 | [Caradura](https://open.spotify.com/track/1AAx4NAWkHhvYBwXXwcpkJ) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Mejor Que Ayer](https://open.spotify.com/album/2zf6kWIBrE5NOGLmy9vjCr) | 5:17 |
 | 51 | [Casi un Hechizo](https://open.spotify.com/track/4rHczyhBZ53pLWgn6edWfB) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Cuenta Conmigo](https://open.spotify.com/album/5cPr9HXuOGxHVkjnOamDfh) | 4:34 |
-| 52 | [Si Te Preguntan](https://open.spotify.com/track/3Bg1xF0RPxbFN4eIen8PSG) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:47 |
+| 52 | [Gotas De Lluvia](https://open.spotify.com/track/3wBuU391TaEr9NEPkN1e1j) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Siempre Una Aventura](https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF) | 5:54 |
 | 53 | [Por Eso Está Conmigo](https://open.spotify.com/track/2gB1aIidmaeWBapZuqr4xg) | [Johnny Rivera](https://open.spotify.com/artist/3YUhNvMNTyZ65USgOFlq1p) | [Cuando Parará La Lluvia](https://open.spotify.com/album/7wPHaKaBhYBlruGndq64gJ) | 4:40 |
 | 54 | [Ya No Queda Nada \- Salsa Version](https://open.spotify.com/track/2Jcr5m0dP68G1Zlrp7iKp3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Fabricando Fantasías](https://open.spotify.com/album/3Gxrf8cYKgle42MdOOxqu8) | 3:24 |
 | 55 | [Así Es la Vida](https://open.spotify.com/track/7sxCk2tplxW6yEVlguvgET) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Coleccion de Oro](https://open.spotify.com/album/6eK3n2MpVdKqhIOnH9BCe5) | 4:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ERdy9Swdy5.md) - [plain]
 | 59 | [Es Mi Mujer](https://open.spotify.com/track/1A77GFUHMnQW1U6Z9pejg1) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Pal Pueblo](https://open.spotify.com/album/07JdIFh18naO244frEGUqi) | 5:03 |
 | 60 | [De Mí Enamórate](https://open.spotify.com/track/4hgk2iBQfSupmzye4LfTQE) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [The Greatest Salsa Ever](https://open.spotify.com/album/29JoW88csZRXtKP9YhoFeM) | 5:09 |
 
-Snapshot ID: `MTY0NjE1MzgyMiwwMDAwMDAwMDYzN2Y2ZmRjN2NkMDQ4MTJhYTZmNTdhZjA3MTY4NzU3`
+Snapshot ID: `MTY0NjE1MzgyMiwwMDAwMDAwMDMwZDIyYmZmMjA5OTMxNTM1ZTY4Yjg1ZTU3MTQxMGNk`

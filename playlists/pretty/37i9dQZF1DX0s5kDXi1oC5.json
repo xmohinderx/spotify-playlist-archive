@@ -1,12 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
-  "num_followers": 5864274,
+  "num_followers": 5865486,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyOTAwNywwMDAwMDAwMDJjNDEzMDc1NmE0ZWIzNjMwMTM3N2M5NmIyMWFiMzcw",
+  "snapshot_id": "MTY2MDIyOTAwNywwMDAwMDAwMDFmYjYyZmFkZDU2MWFiNDJhNGEyZTM3YmVhODIzYTEw",
   "tracks": [
     {
       "added_at": "2022-08-11 14:43:27",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Uptown Special",
         "url": "https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1"
       },
@@ -495,6 +511,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -507,6 +539,26 @@
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -531,58 +583,6 @@
       "duration_ms": 248413,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
         "name": "I met you when I was 18. (the playlist)",
         "url": "https://open.spotify.com/album/7lqieLm717j9Z8JrG7POkS"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 197436,
       "name": "I Like Me Better",
       "url": "https://open.spotify.com/track/2P91MQbaiQOfbiz9VqhqKQ"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "MKTO",
+        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
+      },
+      "artists": [
+        {
+          "name": "MKTO",
+          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
+        }
+      ],
+      "duration_ms": 175426,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Inner Monologue Part 1",
         "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 173306,
       "name": "What A Time (feat. Niall Horan)",
       "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "MKTO",
-        "url": "https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE"
-      },
-      "artists": [
-        {
-          "name": "MKTO",
-          "url": "https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Classic",
-      "url": "https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 165819,
-      "name": "All Girls Are The Same",
-      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -975,26 +975,6 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "See You Again (feat. Charlie Puth)",
-        "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
-      },
-      "artists": [
-        {
-          "name": "Wiz Khalifa",
-          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 229525,
-      "name": "See You Again (feat. Charlie Puth)",
-      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
         "name": "ANTI (Deluxe)",
         "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
@@ -1027,22 +1007,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+        "name": "See You Again (feat. Charlie Puth)",
+        "url": "https://open.spotify.com/album/5FXIqS1XqbpfOKNoi5VUwS"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         },
         {
-          "name": "Quavo",
-          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 220293,
-      "name": "Congratulations",
-      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
+      "duration_ms": 229525,
+      "name": "See You Again (feat. Charlie Puth)",
+      "url": "https://open.spotify.com/track/2JzZzZUQj3Qff7wapcbKjc"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -1063,18 +1043,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Doo-Wops & Hooligans",
-        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
         }
       ],
-      "duration_ms": 220734,
-      "name": "Just the Way You Are",
-      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+      "duration_ms": 220293,
+      "name": "Congratulations",
+      "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -1095,18 +1079,18 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Heathens",
-        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+        "name": "Doo-Wops & Hooligans",
+        "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
       "artists": [
         {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         }
       ],
-      "duration_ms": 195920,
-      "name": "Heathens",
-      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
+      "duration_ms": 220734,
+      "name": "Just the Way You Are",
+      "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -1123,6 +1107,22 @@
       "duration_ms": 213520,
       "name": "Can't Feel My Face",
       "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "Heathens",
+        "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Heathens",
+      "url": "https://open.spotify.com/track/6i0V12jOa3mr6uu4WYhUBr"
     },
     {
       "added_at": "2022-08-11 14:43:27",

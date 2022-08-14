@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,621 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,759 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 3 | [Running on Empty](https://open.spotify.com/track/6aqm56xP40foYBBtAWWrnY) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Running on Empty / Nothing but Time \(Digital 45\)](https://open.spotify.com/album/5ivr226sTfgyZMeWnQjKRL) | 4:51 |
 | 4 | [Lookin' Out My Back Door](https://open.spotify.com/track/3RTUfvRgq3pYTf7XY0FIcS) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Cosmo's Factory \(Expanded Edition\)](https://open.spotify.com/album/4GLxEXWI3JiRKp6H7bfTIK) | 2:32 |
 | 5 | [When Will I Be Loved](https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Heart Like A Wheel](https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b) | 2:04 |
-| 6 | [Mr\. Bojangles \- Remastered 2001](https://open.spotify.com/track/3cq6mwsjgygbwRIi9wVPGv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Certified Hits \(Remastered\)](https://open.spotify.com/album/2ZJcwgKQMSLyQAfBJsWfbD) | 3:35 |
-| 7 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
+| 6 | [Teach Your Children](https://open.spotify.com/track/29HaKOpeLSYvqdFyEQSRdj) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:53 |
+| 7 | [Mr\. Bojangles \- Remastered 2001](https://open.spotify.com/track/3cq6mwsjgygbwRIi9wVPGv) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Certified Hits \(Remastered\)](https://open.spotify.com/album/2ZJcwgKQMSLyQAfBJsWfbD) | 3:35 |
 | 8 | [Suite: Judy Blue Eyes \- 2005 Remaster](https://open.spotify.com/track/2PuUFT13yCzUOZun94WOXv) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 7:24 |
 | 9 | [You Ain't Goin' Nowhere](https://open.spotify.com/track/6kPxXhjSvy8RsmZBAJUiFs) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Sweetheart Of The Rodeo](https://open.spotify.com/album/02XyFDfvHfIwtqOC3o0PcK) | 2:33 |
 | 10 | [Lyin' Eyes \- 2013 Remaster](https://open.spotify.com/track/5lQKRR3MdJLtAwNBiT8Cq0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 6:21 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 24 | [Morning Sun](https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu) | [Jesse Colin Young](https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M) | [Song for Juli](https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ) | 4:04 |
 | 25 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
 | 26 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 |
-| 27 | [Cadillac Ranch](https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [More Great Dirt: The Best of the Nitty Gritty Dirt Band](https://open.spotify.com/album/3d1juyGb4yIxMQ8Sh8UP7B) | 3:42 |
-| 28 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
+| 27 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
+| 28 | [Cadillac Ranch](https://open.spotify.com/track/5IhIK4GJFA7mNuT6aP6WNl) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [More Great Dirt: The Best of the Nitty Gritty Dirt Band](https://open.spotify.com/album/3d1juyGb4yIxMQ8Sh8UP7B) | 3:42 |
 | 29 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
 | 30 | [Luxury Liner](https://open.spotify.com/track/69WQgn5cXFhtwbDGBHOzxS) | [The International Submarine Band](https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF) | [Safe at Home](https://open.spotify.com/album/3FNy8Kp7h2WoUngSfCNpMM) | 2:55 |
 | 31 | [Sutter's Mill](https://open.spotify.com/track/3fRwEtPmL2hFClf6Ph6l4O) | [Dan Fogelberg](https://open.spotify.com/artist/0cA5Tg15TwARIRZeiNT1RO) | [High Country Snows](https://open.spotify.com/album/04iFpIf2KbXuxpy6uRlTfO) | 6:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 50 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDgxYWJlODZjYzU5ODNiYmY1NjYzZDQ2ZjJjZGU3NTc5`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMGUzNmNmZWIzYTU5MTQ2NzA1MDgxYTY4NmY5ZGQwZmI4`

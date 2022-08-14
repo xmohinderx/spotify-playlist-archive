@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 310820,
+  "num_followers": 310998,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMDFiZDZkODYzZWYwYzg4NDk4NDJhMmZkYTk2MTA4ZWU2",
+  "snapshot_id": "MTY1OTA2NzMyMCwwMDAwMDAwMGIwMmQ3YzliMWFjNzQ5MGI2NzdiNDIyMWM0ZWU0YmQx",
   "tracks": [
     {
       "added_at": "2022-07-29 04:02:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Right Or Wrong",
+        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
+      },
+      "artists": [
+        {
+          "name": "Wanda Jackson",
+          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
+        }
+      ],
+      "duration_ms": 136293,
+      "name": "Stupid Cupid",
+      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Keep On the Sunny Side - June Carter Cash: Her Life In Music",
         "url": "https://open.spotify.com/album/0pSVeCzT60p5pzP3m3iOrN"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 166266,
       "name": "Jackson (with June Carter Cash)",
       "url": "https://open.spotify.com/track/6ekSX8AVzwRSs0mbSlPc0R"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Right Or Wrong",
-        "url": "https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX"
-      },
-      "artists": [
-        {
-          "name": "Wanda Jackson",
-          "url": "https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB"
-        }
-      ],
-      "duration_ms": 136293,
-      "name": "Stupid Cupid",
-      "url": "https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Abilene",
-        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
       },
       "artists": [
         {
-          "name": "George Hamilton IV",
-          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
         }
       ],
-      "duration_ms": 133333,
-      "name": "Abilene",
-      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
+      "duration_ms": 197293,
+      "name": "Homecoming - Single Version",
+      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+        "name": "Abilene",
+        "url": "https://open.spotify.com/album/5hEPstUqc8b4ySF5LCmR5M"
       },
       "artists": [
         {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+          "name": "George Hamilton IV",
+          "url": "https://open.spotify.com/artist/6G39Gakqv1r26pZzijSWti"
         }
       ],
-      "duration_ms": 197293,
-      "name": "Homecoming - Single Version",
-      "url": "https://open.spotify.com/track/5Lb38fmngYVaPkLYHuAThe"
+      "duration_ms": 133333,
+      "name": "Abilene",
+      "url": "https://open.spotify.com/track/5bA26v8eeZrbHJpD4YPKAX"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
-        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
-      },
-      "artists": [
-        {
-          "name": "Dave Dudley",
-          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
-        }
-      ],
-      "duration_ms": 134706,
-      "name": "Six Days On The Road",
-      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Tammy's Greatest Hits",
         "url": "https://open.spotify.com/album/5QF3r0KyftGsWWs6zmyfNI"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 154626,
       "name": "I Don't Wanna Play House",
       "url": "https://open.spotify.com/track/0mSywazXcVFQZRk2Gg9ImX"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Dave Dudley",
+        "url": "https://open.spotify.com/album/2uLj0PdZhNFm5KXJjUW6GM"
+      },
+      "artists": [
+        {
+          "name": "Dave Dudley",
+          "url": "https://open.spotify.com/artist/4bsWHdJkFtq1r3TcXtKGdv"
+        }
+      ],
+      "duration_ms": 134706,
+      "name": "Six Days On The Road",
+      "url": "https://open.spotify.com/track/0LpmpBulMgAwtdC3YYgkql"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1087,22 +1087,18 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "The Essential George Jones",
-        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
       },
       "artists": [
         {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
+      "duration_ms": 168466,
+      "name": "The Bottle Let Me Down",
+      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1123,22 +1119,6 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 168466,
-      "name": "The Bottle Let Me Down",
-      "url": "https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
         "name": "Super Hits",
         "url": "https://open.spotify.com/album/2up4ZFkepH2jR7Ltnd2LiJ"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 179373,
       "name": "Green Green Grass Of Home",
       "url": "https://open.spotify.com/track/6Ss6vCdWHgCuiB3icgBAwY"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "The Essential George Jones",
+        "url": "https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        }
+      ],
+      "duration_ms": 140733,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Prison",
+        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
+      },
+      "artists": [
+        {
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Branded Man - Remastered",
+      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Lost Country Hits of the 60s",
         "url": "https://open.spotify.com/album/2Wod7YXHNfXubV7EdP4Lto"
       },
@@ -1199,6 +1215,22 @@
       "duration_ms": 150093,
       "name": "It's Such A Pretty World Today",
       "url": "https://open.spotify.com/track/32zPvvt7K2nZIbQl7cMM3F"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
+        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        }
+      ],
+      "duration_ms": 160866,
+      "name": "Galveston",
+      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1247,38 +1279,6 @@
       "duration_ms": 144200,
       "name": "Walk On By",
       "url": "https://open.spotify.com/track/1Y6THdMlU9Cr4lgnUAR09L"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Glen Campbell - The Capitol Years 1965 - 1977",
-        "url": "https://open.spotify.com/album/5MrXG5mhgenrHar4S8iQdy"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Galveston",
-      "url": "https://open.spotify.com/track/6oXkUmLOdmsEQS4AlEIKZ8"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Prison",
-        "url": "https://open.spotify.com/album/6u0llsaFIcmb2aTcobahaZ"
-      },
-      "artists": [
-        {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Branded Man - Remastered",
-      "url": "https://open.spotify.com/track/2VN8jqhBgwIsU849PKxCfE"
     },
     {
       "added_at": "2022-07-29 04:02:00",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2022-07-29 04:02:00",
       "album": {
+        "name": "Hawkshaw Hawkins 28 Big Ones",
+        "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
+      },
+      "artists": [
+        {
+          "name": "Hawkshaw Hawkins",
+          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Lonesome 7-7203",
+      "url": "https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk"
+    },
+    {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
         "name": "Don't Let Me Cross Over",
         "url": "https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 157640,
       "name": "The Streets of Baltimore",
       "url": "https://open.spotify.com/track/3kDSSR6noFrYJBxijqEVm3"
-    },
-    {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Hawkshaw Hawkins 28 Big Ones",
-        "url": "https://open.spotify.com/album/6PY8NzMXhWfO5psQjbsQBb"
-      },
-      "artists": [
-        {
-          "name": "Hawkshaw Hawkins",
-          "url": "https://open.spotify.com/artist/0fX1VRKNIBwg3qD7oe2IVV"
-        }
-      ],
-      "duration_ms": 163386,
-      "name": "Lonesome 7-7203",
-      "url": "https://open.spotify.com/track/7uoR7OHB4pJt1LPL128prk"
     },
     {
       "added_at": "2022-07-29 04:02:00",

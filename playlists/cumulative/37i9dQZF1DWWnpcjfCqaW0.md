@@ -4,7 +4,7 @@
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-143 songs - 6 hr 11 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
+144 songs - 6 hr 13 min - [published](https://open.spotify.com/playlist/2fX5VjjnFjAPoruPmq1WKV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [If You've Got the Money I've Got the Time](https://open.spotify.com/track/3jvNwwHkWjELV3QALVz47D) | [Lefty Frizzell](https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU) | [The Complete Columbia Recording Sessions, Vol\. 1 \- 1950\-1951](https://open.spotify.com/album/3bBneZqRXbTYHFcw0V9UB2) | 2:59 | 2018-12-10 |  |
 | [In Care Of The Blues](https://open.spotify.com/track/46qWzjcqItJRcBtcC9BFlK) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Patsy Cline](https://open.spotify.com/album/3z9dAiADFWeGavOVth2B4v) | 2:33 | 2022-07-24 |  |
 | [In The Jailhouse Now](https://open.spotify.com/track/5xcJtLxdprEWBR2jRqcQPW) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:05 | 2018-12-10 | 2022-05-07 |
-| [In the Jailhouse Now](https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Golden Hits \(Vol\. 2\)](https://open.spotify.com/album/11KvQ30X7J2y2v8JPOUQbS) | 2:18 | 2022-05-06 |  |
+| [In the Jailhouse Now](https://open.spotify.com/track/1oSJCRGSS3CbV526xMogmR) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [Golden Hits \(Vol\. 2\)](https://open.spotify.com/album/11KvQ30X7J2y2v8JPOUQbS) | 2:18 | 2022-05-06 | 2022-08-14 |
 | [Indian Love Call](https://open.spotify.com/track/0WrIaFPKeJtGr1SUeKuYH9) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [The Very Best Of Slim Whitman](https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl) | 3:10 | 2018-12-10 |  |
 | [Invitation to the Blues](https://open.spotify.com/track/0C7M2eMM22PSLOGE1v8oTr) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Greatest Hits](https://open.spotify.com/album/1iIdCS3AKg1XSovy1KsfXX) | 2:48 | 2018-12-10 | 2022-07-29 |
 | [It Wasn't God Who Made Honky Tonk Angels](https://open.spotify.com/track/6uMB2D7bytHE904AGNekNB) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:30 | 2018-12-10 | 2022-07-29 |
@@ -122,6 +122,7 @@
 | [Tennessee Stud \- Remastered](https://open.spotify.com/track/0B6zRccZmGS6CoMFXv8wdc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [The Essential Eddy Arnold](https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15) | 3:05 | 2018-12-10 | 2022-07-29 |
 | [That's All Right](https://open.spotify.com/track/0tHcXWIYt99GY8BONrPIfA) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [For LP Fans Only](https://open.spotify.com/album/1NVsMlJgD5GHf0CT1IewbU) | 1:55 | 2022-02-21 |  |
 | [The Auctioneer](https://open.spotify.com/track/1SsgvhtFDZIQyYck9Kh2Hg) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Golden Hits \- The World's Most Famous Auctioneer](https://open.spotify.com/album/3ul1XJITugGlAY2aMtvZJp) | 2:47 | 2022-07-24 | 2022-08-13 |
+| [The Auctioneer](https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Letters from Nashville](https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq) | 2:47 | 2022-07-24 |  |
 | [The Auctioneer](https://open.spotify.com/track/78ppGvt1zJsERRzgRMjdLL) | [Leroy Van Dyke](https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3) | [Golden Hits \- The World's Most Famous Auctioneer](https://open.spotify.com/album/51LKNcsgLkgMmtgSQt9vKL) | 2:47 | 2018-12-10 | 2022-07-29 |
 | [The Battle Of New Orleans](https://open.spotify.com/track/0dwpdcQkeZqpuoAPYD49N3) | [Johnny Horton](https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz) | [Johnny Horton'S Greatest Hits](https://open.spotify.com/album/3ZQQjQreYCK9obcS5B5bwI) | 2:31 | 2018-12-10 |  |
 | [The Master's Call](https://open.spotify.com/track/62rmfpQuieSgCITPX819sR) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:05 | 2022-07-24 |  |

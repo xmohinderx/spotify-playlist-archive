@@ -171,7 +171,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 227226,
       "name": "A Song Can't Fix Everything (feat. Paul Cauthen)",
       "url": "https://open.spotify.com/track/77nza5LdjuD35bjguHP0le"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 214607,
       "name": "Deconstruction of a Heartache",
       "url": "https://open.spotify.com/track/22OAfJb7n2uHuUkyfhBnk0"
@@ -1735,7 +1735,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 215693,
       "name": "Down in Flames",
       "url": "https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f"
@@ -2513,6 +2513,28 @@
     {
       "album": {
         "name": "Harder Stuff",
+        "url": "https://open.spotify.com/album/4gaF0LwArBfbpauA1n5wlG"
+      },
+      "artists": [
+        {
+          "name": "Adam Hood",
+          "url": "https://open.spotify.com/artist/4oqOpULfSzd2BRoBT4aTXk"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272880,
+      "name": "Harder Stuff",
+      "url": "https://open.spotify.com/track/13KCXYA2sMXKisvfsiKmPH"
+    },
+    {
+      "album": {
+        "name": "Harder Stuff",
         "url": "https://open.spotify.com/album/0MxGwGfnilpKimNfupanVB"
       },
       "artists": [
@@ -2527,7 +2549,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 272880,
       "name": "Harder Stuff",
       "url": "https://open.spotify.com/track/3CodabhvUlO7TqeOX1V2F1"
@@ -5063,7 +5085,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 222186,
       "name": "Texas",
       "url": "https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ"

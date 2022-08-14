@@ -1,12 +1,12 @@
 {
   "description": "Los temas que nunca paras de escuchar. En portada: Tego Calderon",
-  "num_followers": 62672,
+  "num_followers": 62952,
   "original_name": "\u00c9xitos del Ayer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTExMzg1NCwwMDAwMDAwMGIzYzJhODdiYTExYmYwYjY0OTFmZTE3ZGE2ODQwZGI5",
+  "snapshot_id": "MTY1OTExMzg1NCwwMDAwMDAwMDdiNTI2YWU0MWU0NDk4NDJlMjliZTU4YjkzNjI3MDU4",
   "tracks": [
     {
       "added_at": "2022-07-29 16:57:33",
@@ -623,46 +623,6 @@
     {
       "added_at": "2022-07-29 16:57:33",
       "album": {
-        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
-        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
-      },
-      "artists": [
-        {
-          "name": "Carlos Baute",
-          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
-        },
-        {
-          "name": "Marta S\u00e1nchez",
-          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
-        }
-      ],
-      "duration_ms": 230280,
-      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
-      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2022-07-29 16:57:33",
-      "album": {
-        "name": "Balas Perdidas",
-        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        },
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 231532,
-      "name": "Besos En Guerra",
-      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
-    },
-    {
-      "added_at": "2022-07-29 16:57:33",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -695,18 +655,42 @@
     {
       "added_at": "2022-07-29 16:57:33",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+        "name": "Balas Perdidas",
+        "url": "https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        },
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 205714,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
+      "duration_ms": 231532,
+      "name": "Besos En Guerra",
+      "url": "https://open.spotify.com/track/1mlGScrDQqHqmhdIqE8MmA"
+    },
+    {
+      "added_at": "2022-07-29 16:57:33",
+      "album": {
+        "name": "De mi pu\u00f1o y letra - Edicion Coleccionista",
+        "url": "https://open.spotify.com/album/1cz8fhax6HNiCSE1uuV2Vs"
+      },
+      "artists": [
+        {
+          "name": "Carlos Baute",
+          "url": "https://open.spotify.com/artist/3smfreCkyJt7bShaTYpG77"
+        },
+        {
+          "name": "Marta S\u00e1nchez",
+          "url": "https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w"
+        }
+      ],
+      "duration_ms": 230280,
+      "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
+      "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
     },
     {
       "added_at": "2022-07-29 16:57:33",
@@ -723,6 +707,22 @@
       "duration_ms": 271766,
       "name": "Virgen",
       "url": "https://open.spotify.com/track/6srBp90EwADKAF7PorGiUC"
+    },
+    {
+      "added_at": "2022-07-29 16:57:33",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/4RrvIEhnaHKpFxsjXc4D7d"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/6De0lHrwBfPfrhorm9q1Xl"
     },
     {
       "added_at": "2022-07-29 16:57:33",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-07-29 16:57:33",
       "album": {
+        "name": "KG0516",
+        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178693,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
+    },
+    {
+      "added_at": "2022-07-29 16:57:33",
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 232853,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/1xK1Gg9SxG8fy2Ya373oqb"
-    },
-    {
-      "added_at": "2022-07-29 16:57:33",
-      "album": {
-        "name": "KG0516",
-        "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178693,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/1WvrDdouh6C51In1SdATbq"
     }
   ],
   "unique_name": "\u00c9xitos del Ayer",

@@ -4,7 +4,7 @@
 
 > Psyched\-out bands from the four corners of the world.
 
-225 songs - 18 hr 20 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
+227 songs - 18 hr 26 min - [published](https://open.spotify.com/playlist/2RHGcfs46V7xV3q5UtJeL9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Catatumbo Lightnings](https://open.spotify.com/track/4oxgLPTh8G6keUBjmMm6ey) | [Marie Byrd Land Band](https://open.spotify.com/artist/1qfKVN8ef3WUy7OU08YvYu) | [Lost Lands](https://open.spotify.com/album/00WN8FG1ICNDQlK3kvF1KV) | 4:15 | 2021-11-12 | 2022-07-24 |
 | [Changing Faces](https://open.spotify.com/track/329NblipbfswPVKLsA8ljD) | [Klaatu Suuns](https://open.spotify.com/artist/4W11PtvmueLMalojlR0qgr) | [Panoramas](https://open.spotify.com/album/1ny9ec75rSo3SOg1EiDRRW) | 4:30 | 2021-11-12 | 2022-07-25 |
 | [Chasse à l'homme](https://open.spotify.com/track/30njO8xB8t4gUbocXczybe) | [Pierre Cavalli](https://open.spotify.com/artist/7z4lDD7ljn6w4SLFMrumey) | [Un soir chez Norris \(Evasion 1971\) \- Single](https://open.spotify.com/album/6R8dIZHRiJ3EwwBqKgk4Ce) | 2:11 | 2021-11-12 | 2022-07-29 |
-| [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 | 2021-11-12 |  |
+| [Christopher Robbins](https://open.spotify.com/track/0W3135lfVN5henzCIdjo2u) | [Paul Jacobs](https://open.spotify.com/artist/3Om4E4aDBrVJxiBjAnAhO2) | [Pink Dogs on the Green Grass](https://open.spotify.com/album/2oQeCkTKGgySCjpSBPCdRx) | 3:45 | 2021-11-12 | 2022-08-14 |
 | [Club Coco](https://open.spotify.com/track/0AVdIO4E1zGzB9wY21tBcj) | [Flamingods](https://open.spotify.com/artist/225FmqaVBffuHcWCN1W5tU) | [Club Coco](https://open.spotify.com/album/0RobLSjAOuZYAMzskNPb7A) | 3:29 | 2021-11-12 | 2022-07-09 |
 | [Concorde](https://open.spotify.com/track/3gUHtLyLPSQFnIJaACGnTC) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust](https://open.spotify.com/album/3IUQi8pLKTcXiEViyuyKKd) | 3:25 | 2021-11-12 | 2022-07-22 |
 | [Concorde](https://open.spotify.com/track/5ULB93v4tHdKtXC4LTa3k1) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Moonlust](https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF) | 3:25 | 2021-11-12 |  |
@@ -63,6 +63,7 @@
 | [El Valle](https://open.spotify.com/track/20mxHuTlg65fP3sFB2zqBr) | [Derby Motoreta’s Burrito Kachimba](https://open.spotify.com/artist/1nRVWZrJJCFAfkRWtFFPj4) | [El Valle](https://open.spotify.com/album/7gN1tO9yniNjUwdJC3HBSa) | 3:05 | 2021-11-12 | 2022-07-29 |
 | [Elephant](https://open.spotify.com/track/6qZjm61s6u8Ead9sWxCDro) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:31 | 2022-04-12 |  |
 | [End of the Night](https://open.spotify.com/track/1KHQli7MSz6ZdmR2M7uNxk) | [A Place To Bury Strangers](https://open.spotify.com/artist/3kx1S2P2Qq3a9bG4DGsAjR) | [End of the Night](https://open.spotify.com/album/3dmTLrm4e636PHdYIJHT0N) | 5:26 | 2021-11-12 | 2022-07-29 |
+| [Escultura Misterio](https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD) | [Tarik Rahim](https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN) | [Escultura Misterio](https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc) | 2:53 | 2022-08-13 |  |
 | [Estratagema](https://open.spotify.com/track/0hqCVbE0yN4Ta5o8wJSbOY) | [Strange Color](https://open.spotify.com/artist/31AXponRbJJncqwRJy8CEX) | [Estratagema](https://open.spotify.com/album/1uusJlOWHPGktNiwcNhUEG) | 6:39 | 2021-11-12 | 2022-07-16 |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-03-18 |  |
 | [Fanfare for Effective Freedom](https://open.spotify.com/track/3oVZYXAb0rzN6MELLiFXPa) | [Horse Lords](https://open.spotify.com/artist/0Oslq5zLftqRVwKseBJ7MV) | [The Common Task](https://open.spotify.com/album/4K3Dv0nnMK10uxpphFNCco) | 7:21 | 2021-11-12 | 2022-07-29 |
@@ -88,6 +89,7 @@
 | [Honestly, I Wish That I Knew](https://open.spotify.com/track/0ituf2R01F0FCxNd2txq55) | [The Smoking Trees](https://open.spotify.com/artist/3ezwxaw7oMvs8MbjzhHkRJ) | [The Adventure Continues...](https://open.spotify.com/album/3BSMZ41ccuLGbR0lcmo8uD) | 2:40 | 2021-11-12 | 2022-07-20 |
 | [Honey](https://open.spotify.com/track/01IuTsgAlgKlgrvPhZ2c95) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Honey](https://open.spotify.com/album/0dEEs01PwyL7KQbhJsNJKQ) | 4:33 | 2021-11-12 | 2022-07-29 |
 | [Honey](https://open.spotify.com/track/0nObOnIxnz6PlPf04tZh1g) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:33 | 2021-11-12 |  |
+| [Hours](https://open.spotify.com/track/6Yf4SLG6BFUMsPvm6Vol6o) | [Volleyball](https://open.spotify.com/artist/4Z6IMhEg0jI9fQe8VcXAok) | [Hours](https://open.spotify.com/album/316QBDbmZR0iwmLWKQf48Y) | 3:05 | 2022-08-13 |  |
 | [hua\(3\)](https://open.spotify.com/track/57znaLsNhGo2dNMK2oPiZu) | [Eupholks](https://open.spotify.com/artist/2yYhno6kAd33lPC1lLyS1o) | [hua\(3\)](https://open.spotify.com/album/60fPszZFgxX6fpYz3vYINi) | 3:00 | 2022-04-01 | 2022-07-26 |
 | [Human Touch](https://open.spotify.com/track/6bO1ZRc6JEvIhBgVQH4VPh) | [Pond](https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s) | [Human Touch](https://open.spotify.com/album/7mTPROFhQbXPcVobbPXV3h) | 3:20 | 2021-11-12 | 2022-07-29 |
 | [I Fucked up I Was a Child](https://open.spotify.com/track/3Gv8uENEjjly7JASxPZ0GK) | [Les Big Byrd](https://open.spotify.com/artist/3g2slv6elrXxGnXqy7Q2ap) | [I Fucked up I Was a Child](https://open.spotify.com/album/2NqiM1M6rO9YxFFs2jJJgr) | 4:43 | 2021-11-12 | 2022-07-28 |
@@ -125,7 +127,7 @@
 | [Maria También](https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Con Todo El Mundo](https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml) | 3:10 | 2021-11-12 |  |
 | [Marihuana](https://open.spotify.com/track/0Vkc2BBI7d6toJky9WtIKX) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/6eH4KQkY5YvxGkBhONc9lg) | 3:40 | 2021-11-12 | 2022-07-21 |
 | [María Juana](https://open.spotify.com/track/1bNuGB94RuKFS2fQiSCGuy) | [La Era de Acuario](https://open.spotify.com/artist/5uM5pjFZqCgexfwJ0n7qQh) | [María Juana](https://open.spotify.com/album/5Zszup3W2EXikXLldmLNRM) | 4:54 | 2022-08-03 |  |
-| [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 | 2021-11-12 |  |
+| [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 | 2021-11-12 | 2022-08-14 |
 | [Mesmo Coração \- The Holydrug Couple Remix](https://open.spotify.com/track/4rc8SaOkVGwfk5He4brXCL) | [Atalhos](https://open.spotify.com/artist/7FSn06H3NaT54hcxAY5rQ9), [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Mesmo Coração Remixes](https://open.spotify.com/album/1a2A7vTxesBdKP0uXy2XKH) | 4:35 | 2021-11-12 | 2022-07-19 |
 | [Mind Mischief](https://open.spotify.com/track/6ewQE1dNPv9qqlnB1CxrvM) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 4:31 | 2022-04-12 | 2022-07-29 |
 | [Monolithium](https://open.spotify.com/track/13FOAbsBvMHY9jLzGS68IG) | [SCALPING](https://open.spotify.com/artist/3pMZZzAKwSIftJmwtEx56W) | [Monolithium](https://open.spotify.com/album/75OHm9PdYyumWK5dxE3Xc4) | 4:35 | 2021-11-12 | 2022-07-17 |

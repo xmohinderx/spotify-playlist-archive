@@ -900,6 +900,28 @@
     },
     {
       "album": {
+        "name": "Freaky Friday",
+        "url": "https://open.spotify.com/album/3F94KLNyE0b4tifAUqrvcL"
+      },
+      "artists": [
+        {
+          "name": "E'Major",
+          "url": "https://open.spotify.com/artist/2Ozp4F6jLBYyUrIyJgF236"
+        },
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209729,
+      "name": "Freaky Friday",
+      "url": "https://open.spotify.com/track/0m3chcCAwOAgdTj4rcAD8d"
+    },
+    {
+      "album": {
         "name": "Freeway",
         "url": "https://open.spotify.com/album/4fBfJVLmH5IF0qs8HAPksa"
       },
@@ -1161,7 +1183,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 183829,
       "name": "Hennessy - Remix",
       "url": "https://open.spotify.com/track/6B6yXEraBwQVlTdqtT03Lx"
@@ -1307,6 +1329,28 @@
       "duration_ms": 234404,
       "name": "Jaiye (Ihe Geme)",
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
+    },
+    {
+      "album": {
+        "name": "Jaiye Foreign",
+        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190164,
+      "name": "Jaiye Foreign",
+      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
       "album": {
@@ -1833,7 +1877,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 157647,
       "name": "My Everything",
       "url": "https://open.spotify.com/track/2t4dEWxR7CaMAlM6TMIMT3"

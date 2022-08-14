@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 
 > New, leftfield, and for the real hip\-hop stans! Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 879,134 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 879,406 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 23 | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/track/5iP1KNUxchR64bieN9pE7z) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Strangers \(feat\. A$AP Rocky and Run The Jewels\)](https://open.spotify.com/album/6OHZ8QAgIJC7nPwACpWqG8) | 4:08 |
 | 24 | [Survivors Guilt](https://open.spotify.com/track/5cEd8xWXyqhpuCDUXQOyE3) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Survivors Guilt](https://open.spotify.com/album/5XGzCRfgCbpaMPLpDYvUNF) | 5:52 |
 | 25 | [Swish](https://open.spotify.com/track/536R5L9YMmxAMvIrBleqZ9) | [Malz Monday](https://open.spotify.com/artist/3qIFdbarxYx2moJbhM1pLy) | [Swish](https://open.spotify.com/album/4bDlqdB1KjTP5YcOnMOhL9) | 3:13 |
-| 26 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 |
-| 27 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |
+| 26 | [Private Valet](https://open.spotify.com/track/3c1sfDYFzlTGTnyVjUZNl1) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [Private Valet](https://open.spotify.com/album/0c7HCpGncE438CV7vM9fFu) | 2:29 |
+| 27 | [DO IT AGAIN](https://open.spotify.com/track/2fvAP52y708KxkAOnI5LYa) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [DO IT AGAIN](https://open.spotify.com/album/32zyLW6egVzXZKusfN49KX) | 2:10 |
 | 28 | [For The Squadron](https://open.spotify.com/track/1Am6QnI4dZi0bkXeJXwW6P) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [For The Squadron](https://open.spotify.com/album/5G34PSaRGTFhZZWuznAXGI) | 3:08 |
 | 29 | [Crazy](https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Crazy](https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB) | 2:14 |
 | 30 | [Loner](https://open.spotify.com/track/0us2nNQpRuZnp7AY7t8f2B) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Loner](https://open.spotify.com/album/1vFcAQbbZcPgn6xu9gsGZI) | 3:05 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 36 | [A Bar About a Bar](https://open.spotify.com/track/1d27WzQN1KHKu5969heJAZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [A Bar About a Bar](https://open.spotify.com/album/61CsvlFEV4KUdTz0KPE6FM) | 1:05 |
 | 37 | [NAOMI](https://open.spotify.com/track/2q4Vq5gPgWIHeAXEWKZELu) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 2:57 |
 | 38 | [NEO](https://open.spotify.com/track/7onHzHeOVE3M9p0tNKQbXc) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [TWOPOINTFIVE](https://open.spotify.com/album/0KkHzH0uia9zwPbrCbS6NY) | 2:03 |
-| 39 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
-| 40 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
+| 39 | [Is What It Is](https://open.spotify.com/track/1hKMOXgE5jEgGPNSPerDem) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3) | [Is What It Is](https://open.spotify.com/album/2YOF3TN46Z2FdTIIE9GTga) | 2:57 |
+| 40 | [Hollandaise](https://open.spotify.com/track/4NvX8KPT4RGT2yh6ZjVYsK) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Hollandaise](https://open.spotify.com/album/64HygXbyafPahxN1avR56P) | 2:58 |
 | 41 | [Still \(feat\. 6LACK and Smino\)](https://open.spotify.com/track/0L2G8Khc96e6yLcLyLklzS) | [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Few Good Things](https://open.spotify.com/album/4dhK1XKetMnAilmo6CMID8) | 3:45 |
 | 42 | [Rainforest](https://open.spotify.com/track/7thhWP37F1tHFcrnwLNaao) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy) | [Rainforest](https://open.spotify.com/album/00tnsObPbrXxDLTPBHhzbH) | 2:42 |
 | 43 | [Pomegranate](https://open.spotify.com/track/1jNKhbKmDgYSHHSCEeMXey) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Lyrics to GO, Vol\. 2](https://open.spotify.com/album/0nJ5saIxlohpcXqBR586pH) | 1:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTggY0yqBxES.md) - [plain]
 | 49 | [AMBEYONCÉ \(feat\. Smino\)](https://open.spotify.com/track/4Ub97P3nIIM1flQuvC7GOK) | [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [GHETTO GODS \(Deluxe\)](https://open.spotify.com/album/4ePq280jPLzy5FR0Z1yQW2) | 3:21 |
 | 50 | [The Root of All \(feat\. Slick Rick & Lil Wayne\)](https://open.spotify.com/track/3rSiXFJlhhhy36761mj9js) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Slick Rick](https://open.spotify.com/artist/1W9qOBYRTfP7HcizWN43G1), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:17 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGM4YjExZWNlNzc2YmY1ZmViZWNmZDE5NjkwNmE0OGJh`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDQxZDY2Mjc3OThiNjY5NGYyZTEwNmMyMzkwNTJiMTIw`

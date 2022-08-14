@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 
 > La carica giusta per i tuoi allenamenti!
 
-[Spotify](https://open.spotify.com/user/spotify) - 275,557 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 275,629 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 19 | [Wow.](https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Hollywood's Bleeding](https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi) | 2:29 |
 | 20 | [Going Bad \(feat\. Drake\)](https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:00 |
 | 21 | [Boss Bitch](https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Boss Bitch](https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc) | 2:14 |
-| 22 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
-| 23 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
+| 22 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 |
+| 23 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 |
 | 24 | [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 |
 | 25 | [Numb / Encore](https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Numb / Encore: MTV Ultimate Mash\-Ups Presents Collision Course](https://open.spotify.com/album/4lhyg7YGQagE8FT8cZBqyw) | 3:25 |
 | 26 | [MALA](https://open.spotify.com/track/4epHhc2lvhFYzMlKA23O3G) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 3:26 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 57 | [La zone \(feat\. Shiva\)](https://open.spotify.com/track/2Q1ICiLBk9lmLQz7GhMoWB) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [La zone \(feat\. Shiva\)](https://open.spotify.com/album/4zZrt7ZP0AmUCdxTJxBN6M) | 2:38 |
 | 58 | [The London \(feat\. J\. Cole & Travis Scott\)](https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [So Much Fun](https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh) | 3:20 |
 | 59 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
-| 60 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 |
-| 61 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 |
+| 60 | [Non Abbiamo Età](https://open.spotify.com/track/0NwuXciw6eQc4edjwSBnV3) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Potere](https://open.spotify.com/album/2PjyVGPJwYRg9GbNXlicKM) | 3:01 |
+| 61 | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/track/5w1eX8eQf8Z9jvqTCAtHkY) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [3 DI CUORI \(feat\. Lazza\)](https://open.spotify.com/album/7IScTLAkymhF5ltesag29N) | 2:57 |
 | 62 | [Thick \(feat\. MamboLosco\) \- Remix](https://open.spotify.com/track/45bjf2E1OwkD58JN7CLr99) | [Slings](https://open.spotify.com/artist/0XMi14343o5LtUKVdKmMUj), [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [Thick \(feat\. MamboLosco\) \[Remix\]](https://open.spotify.com/album/4mFFBoSp9p60aAGyalV96c) | 2:11 |
 | 63 | [Ali Bomaye](https://open.spotify.com/track/0LFcFGLYTX6UmeIdO7NVd7) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Jesus Piece \(Deluxe\)](https://open.spotify.com/album/5IBNSiR9VYaGIxOfcOJ2LB) | 6:12 |
 | 64 | [KIKA](https://open.spotify.com/track/0IFMbLUK5ttPmXyK16qUQu) | [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [DUMMY BOY](https://open.spotify.com/album/06XM9ExRELs8dcuwEAn1jd) | 2:16 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBofUhpgE88.md) - [plain]
 | 69 | [SWISH](https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [SWISH](https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh) | 3:14 |
 | 70 | [You Don't Know](https://open.spotify.com/track/4UhUXGXEeq3mPJyzZkx9fY) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh), [Ca$his](https://open.spotify.com/artist/3PDMMt0Ip2WHysoAOEAdBq), [Lloyd Banks](https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi) | [Eminem Presents The Re\-Up](https://open.spotify.com/album/6NeJONAsrs5xp24Jnkr4K0) | 4:17 |
 
-Snapshot ID: `MTY1NjkzOTM2NCwwMDAwMDAwMDZjOTVkNzI1NWEwMWIwZjY3M2Q4ZjczZjEzM2FhZGVh`
+Snapshot ID: `MTY1NjkzOTM2NCwwMDAwMDAwMDU5MzgxMTFiZjA1ZTlhMDgxNTc2NTFiMWUzYTAzN2Jh`

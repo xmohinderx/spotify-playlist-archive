@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 
 > Kick back with a collection of iconic and new acoustic tracks with that classic feel\. Cover: George Harrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,447,085 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,447,710 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,17 +49,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 39 | [The Times They Are A\-Changin'](https://open.spotify.com/track/52vA3CYKZqZVdQnzRrdZt6) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Times They Are A\-Changin'](https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS) | 3:12 |
 | 40 | [Rocky Mountain High](https://open.spotify.com/track/1ne9wOtDF2jM6Cm8WBkaER) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w) | [Rocky Mountain High](https://open.spotify.com/album/2gEurk31djZjI3P3SY8ZcC) | 4:43 |
 | 41 | [Thunder Road](https://open.spotify.com/track/56lhDZNQ5J47aog6mGKeGk) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:48 |
-| 42 | [Peace Train \- Remastered 2021](https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 4:13 |
-| 43 | [Homeward Bound](https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:29 |
+| 42 | [Homeward Bound](https://open.spotify.com/track/4Xl2PrS3DJqqSKXCo6Uhv9) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Parsley, Sage, Rosemary And Thyme](https://open.spotify.com/album/1sh32o99zA04PJIUJUpEj7) | 2:29 |
+| 43 | [Peace Train \- Remastered 2021](https://open.spotify.com/track/4d0d2llNcQIHmaCgYTrODQ) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 4:13 |
 | 44 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:40 |
 | 45 | [Michelle \- Remastered 2009](https://open.spotify.com/track/5By7Pzgl6TMuVJG168VWzS) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Rubber Soul \(Remastered\)](https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm) | 2:42 |
 | 46 | [Pink Houses](https://open.spotify.com/track/5JKQMoGmXwDHCodn5pFVHB) | [John Mellencamp](https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH) | [Uh\-HUH!](https://open.spotify.com/album/1p4YwrjrP7t6Rfb755yoTQ) | 4:43 |
 | 47 | [Guitar Man](https://open.spotify.com/track/0gZXockVcE7rEhSf4mcGLO) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:46 |
 | 48 | [Hard Sun](https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Into The Wild \(Music For The Motion Picture\)](https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX) | 5:22 |
 | 49 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 |
-| 50 | [The Wind \- Remastered 2021](https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 1:42 |
-| 51 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
-| 52 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
+| 50 | [Change the World](https://open.spotify.com/track/6BQNJ0JFKh8sWjQLI6Zudi) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Clapton Chronicles: The Best of Eric Clapton](https://open.spotify.com/album/6FCakQJ6z6TF0y0qkHYKgy) | 3:54 |
+| 51 | [Pale Blue Eyes](https://open.spotify.com/track/11VwZwNF29HrqwalYUMitb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC) | [The Velvet Underground \(45th Anniversary\)](https://open.spotify.com/album/2HOf3Nb44Us8U9oEtKLSrX) | 5:39 |
+| 52 | [The Wind \- Remastered 2021](https://open.spotify.com/track/0wEo4mwfs6tXYgCem9m9wP) | [Yusuf / Cat Stevens](https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8) | [Teaser And The Firecat \(Remastered 2021\)](https://open.spotify.com/album/7ez8WRX4sGhKHZryJPJCNg) | 1:42 |
 | 53 | [Mr\. Tambourine Man](https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 5:30 |
 | 54 | [America](https://open.spotify.com/track/6dfhF1BDGmhM69fnCb6wSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 3:35 |
 | 55 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/7Dm3dV3WPNdTgxoNY7YFnc) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours](https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB) | 4:29 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX504r1DvyvxG.md) - [plain]
 | 92 | [Angie \- 2015 Remaster](https://open.spotify.com/track/4QTV3dLUyYu5vFPEFvA1jg) | [Bert Jansch](https://open.spotify.com/artist/1FqG6mhiJbhbMg43ohCT6D) | [Bert Jansch](https://open.spotify.com/album/2Fqo2YzPayuwaiUJEqUMGy) | 3:09 |
 | 93 | [Boulder to Birmingham \- 2003 Remaster](https://open.spotify.com/track/05XNDab0Lhitzqk7tRpOnY) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Pieces of the Sky \(Expanded & Remastered\)](https://open.spotify.com/album/04TlWfr3EnQE47HyNTBnex) | 3:33 |
 | 94 | [Love At The Five And Dime](https://open.spotify.com/track/5MhqCzQuPwHEVGS2i5zHOz) | [Nanci Griffith](https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0) | [The Last Of The True Believers](https://open.spotify.com/album/35HzQJGNwaNXWUInoJNz1t) | 4:39 |
-| 95 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
-| 96 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
+| 95 | [Angeles](https://open.spotify.com/track/2uwN3PDudlRkAKE3wA0OqJ) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:56 |
+| 96 | [Your Song](https://open.spotify.com/track/7gCeodIXjhCLDWC5H1LOmT) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Elton John](https://open.spotify.com/album/0C2grVR8DnJnL8rg7OP6Zm) | 4:04 |
 | 97 | [It's All Over Now Baby Blue](https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm) | [Marianne Faithfull](https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB) | [Rich Kid Blues](https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk) | 3:49 |
 | 98 | [Our Town](https://open.spotify.com/track/44gq8zKiyisjDCKRfcuk3N) | [Iris DeMent](https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY) | [Infamous Angel](https://open.spotify.com/album/4LluPNK62d1cUvD1ZL46bf) | 5:00 |
 | 99 | [All Things Must Pass \- 2020 Mix](https://open.spotify.com/track/02fXDM2myvnYF5NyCkKPvp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(2020 Mix\)](https://open.spotify.com/album/3F3illSUdMEOECbU7HKRG8) | 3:46 |
 | 100 | [Maggie May \- Remastered Version](https://open.spotify.com/track/1r3kj1yMff7ilIsR7hpvUo) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [The Definitive Rod Stewart](https://open.spotify.com/album/16B8kK28QgKIYTb7XyLMuj) | 5:45 |
 
-Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMGFkYzg0OGQzNGFkMjU2YjgxNTVhMDBiYWY0ZTZmOTcz`
+Snapshot ID: `MTY1MzY3NzIyMiwwMDAwMDAwMDlmNmEzZTA0OGJhMTg3OGIwODc3MTAwMzZhMDA4NzAw`

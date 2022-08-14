@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: <a href="https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X?si=hTvc\-caoTtOHaKx8M5qI4A">Nikita Kering'</a>
 
-86 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
+87 songs - 5 hr 1 min - [published](https://open.spotify.com/playlist/05RBXY2jPO9XncKwkUOGKt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Sunshine](https://open.spotify.com/track/47jeYgNLyaN1pBLQrVE6x0) | [Muthaka](https://open.spotify.com/artist/1y2NzUCGrOaUPBZhhyUPcQ) | [Sunshine](https://open.spotify.com/album/3abCYOOplfgQSvt5vrOF29) | 3:28 | 2021-12-28 |  |
 | [Switch It Up](https://open.spotify.com/track/4SWMtMtaLoC2jpi5NWHr0y) | [Antoneosoul](https://open.spotify.com/artist/7fsXIEztGNSh4QUaP9mp4T) | [Welcome 2 My Soul](https://open.spotify.com/album/4wVpKqI9vE8ce64g1lCukJ) | 4:32 | 2022-06-16 |  |
 | [Tender](https://open.spotify.com/track/4VGdRiXSYdL44YCz84jpG5) | [Njoki Karu](https://open.spotify.com/artist/0pGewSIX8FwwBqZLsbDk7F) | [Anchor](https://open.spotify.com/album/3hdpiMQSXkG3tXRVF4oaw7) | 3:32 | 2021-12-28 |  |
-| [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 |  |
+| [Tosheka](https://open.spotify.com/track/3rqJOJNbeyxBDOas8W6CRN) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/3OkzNe6vIcb7ZhVtDGO9vP) | 4:02 | 2021-12-28 | 2022-08-14 |
+| [Tosheka](https://open.spotify.com/track/5g1YeZeEGyPOMwnz0TpGeO) | [Mutoriah](https://open.spotify.com/artist/23fYD3tClohzF1Afng7tPJ), [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE) | [Dive In](https://open.spotify.com/album/7nuk7Wcfcv8UyMDfRimD4I) | 4:02 | 2021-12-28 |  |
 | [Uko Poa \- Full Version](https://open.spotify.com/track/3xfM0L04g8E0F7Pz111Pf3) | [Ethan Muziki](https://open.spotify.com/artist/0pwc18AOKnFRwTqHu50jbn) | [Uko Poa \(Full Version\)](https://open.spotify.com/album/1aKKwECJHnLPpHF6zJ9vi1) | 3:24 | 2022-04-28 |  |
 | [Usiende Mbali](https://open.spotify.com/track/2T80rcru064O2vpGt9zU9S) | [Antonio Carmona](https://open.spotify.com/artist/1YVEF2N8QHkkQ84LM51Xyo), [Romantico](https://open.spotify.com/artist/0M3CMDbz66AlRsb6AEwbf6), [Samaki Mkuu](https://open.spotify.com/artist/6DUSQDYQbsaKtEISmpWIou), [Jabali Afrika](https://open.spotify.com/artist/5qF9WAxB1C3SxPdE1xp0wC), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Usiende Mbali](https://open.spotify.com/album/3gWHpGUHpc8u90J3oReY8M) | 4:34 | 2021-12-28 | 2022-06-17 |
 | [Waiting](https://open.spotify.com/track/5XCYhCn9eDYIrfrdBiVhAy) | [Ukweli](https://open.spotify.com/artist/5I48tG854vS1rY1isuMOgQ), [Xenia Manasseh](https://open.spotify.com/artist/2J4IvVbi2h1wB2A0p5kd86) | [Waiting](https://open.spotify.com/album/4bRnHj1ApFBEVMbvEw4H7E) | 2:44 | 2022-02-04 |  |

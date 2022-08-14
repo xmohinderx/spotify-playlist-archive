@@ -1,12 +1,12 @@
 {
   "description": "Dale play, y que la cumbia no pare.",
-  "num_followers": 205762,
+  "num_followers": 205970,
   "original_name": "Enganchados: Cumbianchas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMjQxNiwwMDAwMDAwMGI0ZDBmMTU0NTFjNWMxMzFhZGY0YTUwNTUyYzRmZGM2",
+  "snapshot_id": "MTY1ODUwMjQxNiwwMDAwMDAwMGE4NDczZTRjN2Q5ZTkzYjVmZjkxMjE4YzEyMjQwNWQy",
   "tracks": [
     {
       "added_at": "2022-07-22 15:06:56",
@@ -151,6 +151,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "25 A\u00f1os (En Vivo)",
+        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Jurabas Tu",
+      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "Ya No M\u00e1s",
         "url": "https://open.spotify.com/album/1QLVTUnZKiixvasfNSqzCl"
       },
@@ -175,22 +191,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Imparables",
-        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Mentirosa",
-      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
         "url": "https://open.spotify.com/album/2ZgN0mY4umEaC137PdttK7"
       },
@@ -203,22 +203,6 @@
       "duration_ms": 494464,
       "name": "Session #2: Y Tu Con el / Llora Me Llama / Quiero Verte Bailar",
       "url": "https://open.spotify.com/track/0UOmXlzfeKqVkMPzpRtAAl"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "25 A\u00f1os (En Vivo)",
-        "url": "https://open.spotify.com/album/6ORA5WpFFDIkLQs1UwDCD6"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Jurabas Tu",
-      "url": "https://open.spotify.com/track/5ISajXj2M1yvkrC0KsgbR5"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -239,6 +223,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "Grandes \u00c9xitos Remezclados Y Remasterizados",
         "url": "https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew"
       },
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+        "name": "Imparables",
+        "url": "https://open.spotify.com/album/0Rjblvwx7OfldgNEJQ6xcm"
       },
       "artists": [
         {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
         }
       ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+      "duration_ms": 195466,
+      "name": "Mentirosa",
+      "url": "https://open.spotify.com/track/2e3fohSwZ9nU6Q2tks0fFz"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
+        "name": "Coraz\u00f3n de Papel",
+        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Amores como el nuestro",
+      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
         "name": "Coraz\u00f3n Valiente",
         "url": "https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn"
       },
@@ -331,38 +347,6 @@
       "duration_ms": 254333,
       "name": "Vienes y Te Vas - En Vivo",
       "url": "https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Lo mejor de R\u00e1faga",
-        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
-      },
-      "artists": [
-        {
-          "name": "Rafaga",
-          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
-        }
-      ],
-      "duration_ms": 183266,
-      "name": "Una R\u00e1faga de Amor",
-      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
-        "name": "Coraz\u00f3n de Papel",
-        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Amores como el nuestro",
-      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -415,22 +399,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
-      },
-      "artists": [
-        {
-          "name": "Gilda",
-          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
-        }
-      ],
-      "duration_ms": 220813,
-      "name": "No Me Arrepiento de Este Amor",
-      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Hecho con Amor",
         "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
       },
@@ -443,6 +411,38 @@
       "duration_ms": 202586,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Lo mejor de R\u00e1faga",
+        "url": "https://open.spotify.com/album/4qECJweYNVyAPvZNT6fd1T"
+      },
+      "artists": [
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "duration_ms": 183266,
+      "name": "Una R\u00e1faga de Amor",
+      "url": "https://open.spotify.com/track/4i5NFoPWqTqlsR4WyoVFtB"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/6cWj9XVKzrrayy7c6n5KiI"
+      },
+      "artists": [
+        {
+          "name": "Gilda",
+          "url": "https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE"
+        }
+      ],
+      "duration_ms": 220813,
+      "name": "No Me Arrepiento de Este Amor",
+      "url": "https://open.spotify.com/track/6Bj9aK0jTMmjUp1y4Z7SVz"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "A\u00fan Sigue La Lecci\u00f3n",
-        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 211213,
-      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
-      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Altos Cumbieros - Cumbia Villera",
         "url": "https://open.spotify.com/album/3DmO4wgUL3E20fhuNpTrNF"
       },
@@ -543,18 +527,18 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "No Lo Compren",
-        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+        "name": "A\u00fan Sigue La Lecci\u00f3n",
+        "url": "https://open.spotify.com/album/7yGG6SN679bWm8Op7Baf1D"
       },
       "artists": [
         {
-          "name": "El Dipy",
-          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
         }
       ],
-      "duration_ms": 217013,
-      "name": "Soy Soltero",
-      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
+      "duration_ms": 211213,
+      "name": "Llorar\u00e1s M\u00e1s De Diez Veces",
+      "url": "https://open.spotify.com/track/2IuLxgL5dd02AeF5FSygjQ"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -571,6 +555,22 @@
       "duration_ms": 211026,
       "name": "Cinco Minutos",
       "url": "https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "No Lo Compren",
+        "url": "https://open.spotify.com/album/31nDorIqLwLOrjNtf31zGR"
+      },
+      "artists": [
+        {
+          "name": "El Dipy",
+          "url": "https://open.spotify.com/artist/2Bof5crSbhfBwf2pHNjPlw"
+        }
+      ],
+      "duration_ms": 217013,
+      "name": "Soy Soltero",
+      "url": "https://open.spotify.com/track/09bBwB9wctmnYtxMOdNGRd"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Sin Verg\u00fcenza",
-        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
-      },
-      "artists": [
-        {
-          "name": "Karina",
-          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
-        }
-      ],
-      "duration_ms": 179213,
-      "name": "Corazon Mentiroso",
-      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Un Homenaje Al Cielo",
         "url": "https://open.spotify.com/album/5fPNASmvNeT43QSYp6Asd2"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 219800,
       "name": "Quiereme",
       "url": "https://open.spotify.com/track/2749jULVf3n93RHzAIpmTi"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Sin Verg\u00fcenza",
+        "url": "https://open.spotify.com/album/2WuEroV8xhS8VXN8xjArIT"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "duration_ms": 179213,
+      "name": "Corazon Mentiroso",
+      "url": "https://open.spotify.com/track/2ZkWTFZ9rQCl6ccNAOO79L"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Creciendo",
-        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
-      },
-      "artists": [
-        {
-          "name": "Leo Mattioli",
-          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Tan Solo Amantes",
-      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Pibes Chorros:Discograf\u00eda Completa Vol.1",
         "url": "https://open.spotify.com/album/455BXTyu53QqEeFnStn2FP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 308337,
       "name": "Duraznito",
       "url": "https://open.spotify.com/track/5tjqwBcn9WsaoaqS2oGJq2"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Creciendo",
+        "url": "https://open.spotify.com/album/54PCI2vrd9zYtH2GhP3W8v"
+      },
+      "artists": [
+        {
+          "name": "Leo Mattioli",
+          "url": "https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Tan Solo Amantes",
+      "url": "https://open.spotify.com/track/0oONA6yBr4XfW8iloofFSg"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "Por Siempre",
-        "url": "https://open.spotify.com/album/0kAkyYhZo4S3nJXxtkvall"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/0nPObGwq8ryJ0ZLEdY6Qg8"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "No Llores",
         "url": "https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 256702,
       "name": "No Llores",
       "url": "https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "Por Siempre",
+        "url": "https://open.spotify.com/album/0kAkyYhZo4S3nJXxtkvall"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/0nPObGwq8ryJ0ZLEdY6Qg8"
     },
     {
       "added_at": "2022-07-22 15:06:56",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-07-22 15:06:56",
       "album": {
-        "name": "El Bonaerense",
-        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 276298,
-      "name": "Los Due\u00f1os del Pabellon",
-      "url": "https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K"
-    },
-    {
-      "added_at": "2022-07-22 15:06:56",
-      "album": {
         "name": "Despues de Ti / Pero Me Acuerdo de Ti / a Puro Dolor",
         "url": "https://open.spotify.com/album/6k53cVKHS6nwAwzcqqGguZ"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 252211,
       "name": "Despues de Ti / Pero Me Acuerdo de Ti/ a Puro Dolor",
       "url": "https://open.spotify.com/track/5GDNQTJxjaRWhXrEK26NeV"
+    },
+    {
+      "added_at": "2022-07-22 15:06:56",
+      "album": {
+        "name": "El Bonaerense",
+        "url": "https://open.spotify.com/album/5A0jz6qj9yuxVpQxahbC0x"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 276298,
+      "name": "Los Due\u00f1os del Pabellon",
+      "url": "https://open.spotify.com/track/2Hd6a7rO8DrHgfGTiDIY8K"
     },
     {
       "added_at": "2022-07-22 15:06:56",

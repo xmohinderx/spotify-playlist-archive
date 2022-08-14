@@ -1,12 +1,12 @@
 {
   "description": "Mari Fernandez e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 122452,
+  "num_followers": 122566,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMDkxMzA1NTllNTNmNjMyMTk1NWE5ZDczNDY0YjdhNzUw",
+  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMDM4NzJkYjk0YzkzNjVkODc1M2M4MGNlZDNjMzQ3YThi",
   "tracks": [
     {
       "added_at": "2022-08-03 03:00:00",
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 129399,
-      "name": "Amiga - Ao Vivo",
-      "url": "https://open.spotify.com/track/4Ws6gg0N987D2e0140nQHf"
+      "duration_ms": 144981,
+      "name": "Homem \u00c9 Tudo Igual - Ao Vivo",
+      "url": "https://open.spotify.com/track/0FV4eVWzSAglihmcJPECiE"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -127,22 +127,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Romance Desapegado",
-        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Romance Desapegado",
-      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD"
       },
@@ -159,6 +143,38 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
+        "name": "Romance Desapegado",
+        "url": "https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Romance Desapegado",
+      "url": "https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Me Trata Como Ex (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ"
+      },
+      "artists": [
+        {
+          "name": "Day e Lara",
+          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
+        }
+      ],
+      "duration_ms": 164757,
+      "name": "Me Trata Como Ex - Ao Vivo",
+      "url": "https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
         "name": "Baseado em Fatos Reais, Ep. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2F1IlArMVL10Uc8BQ4Po3E"
       },
@@ -171,22 +187,6 @@
       "duration_ms": 161834,
       "name": "Triscou J\u00e1 Foi - Ao Vivo",
       "url": "https://open.spotify.com/track/7cxum22Z75BDS2DTkTz2Ll"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
-        "name": "Fiquei Careta",
-        "url": "https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk"
-      },
-      "artists": [
-        {
-          "name": "Lari Ferreira",
-          "url": "https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y"
-        }
-      ],
-      "duration_ms": 143515,
-      "name": "Fiquei Careta",
-      "url": "https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -236,9 +236,9 @@
           "url": "https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE"
         }
       ],
-      "duration_ms": 144981,
-      "name": "Homem \u00c9 Tudo Igual - Ao Vivo",
-      "url": "https://open.spotify.com/track/0FV4eVWzSAglihmcJPECiE"
+      "duration_ms": 129399,
+      "name": "Amiga - Ao Vivo",
+      "url": "https://open.spotify.com/track/4Ws6gg0N987D2e0140nQHf"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
+        "name": "Fiquei Careta",
+        "url": "https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk"
+      },
+      "artists": [
+        {
+          "name": "Lari Ferreira",
+          "url": "https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y"
+        }
+      ],
+      "duration_ms": 143515,
+      "name": "Fiquei Careta",
+      "url": "https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
         "name": "Segue Invicto",
         "url": "https://open.spotify.com/album/6cSpSEmFKxpVasXThfY5Er"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 148687,
       "name": "Segue Invicto",
       "url": "https://open.spotify.com/track/7JGsf3jzhsMWDu75sQdPCF"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
-        "name": "Me Trata Como Ex (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ"
-      },
-      "artists": [
-        {
-          "name": "Day e Lara",
-          "url": "https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Me Trata Como Ex - Ao Vivo",
-      "url": "https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Saudade de Mim",
-        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
-      },
-      "artists": [
-        {
-          "name": "Japinha Conde",
-          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
-        }
-      ],
-      "duration_ms": 181674,
-      "name": "Saudade de Mim",
-      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Foguete N\u00e3o Tem R\u00e9",
         "url": "https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 165457,
       "name": "Que Amiga \u00e9 Essa",
       "url": "https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Saudade de Mim",
+        "url": "https://open.spotify.com/album/0Z8ecnJEt7Bv4DjVLUUmlr"
+      },
+      "artists": [
+        {
+          "name": "Japinha Conde",
+          "url": "https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n"
+        }
+      ],
+      "duration_ms": 181674,
+      "name": "Saudade de Mim",
+      "url": "https://open.spotify.com/track/2ncNchvQqM2yCtQOq5rkyr"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Retr\u00f4 Rom\u00e2nticas, Pt. 1",
-        "url": "https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa"
-      },
-      "artists": [
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        }
-      ],
-      "duration_ms": 162858,
-      "name": "Ponto de Partida",
-      "url": "https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Quero Que Voc\u00ea Se (Ao vivo)",
         "url": "https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 174766,
       "name": "Quero Que Voc\u00ea Se - Ao vivo",
       "url": "https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Retr\u00f4 Rom\u00e2nticas, Pt. 1",
+        "url": "https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        }
+      ],
+      "duration_ms": 162858,
+      "name": "Ponto de Partida",
+      "url": "https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0"
     },
     {
       "added_at": "2022-08-03 03:00:00",

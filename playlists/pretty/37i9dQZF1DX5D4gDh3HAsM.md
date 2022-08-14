@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 
 > Jazzy takes on your favorite Holiday songs\. Cover: Nat King Cole
 
-[Spotify](https://open.spotify.com/user/spotify) - 454,421 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 454,404 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 12 | [Greensleeves](https://open.spotify.com/track/6qEZ3wkUF7nY1DBbD7DHoN) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [A Charlie Brown Christmas \[2012 Remastered & Expanded Edition\]](https://open.spotify.com/album/7DuJYWu66RPdcekF5TuZ7w) | 5:29 |
 | 13 | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/track/7bA6fNlWEMMKhjathJ1Rfi) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Christmas Calling \(Jolly Jones\)](https://open.spotify.com/album/05UWD0k7AO2IgySGbmPoaI) | 3:20 |
 | 14 | [O Little Town of Bethlehem](https://open.spotify.com/track/7mN5Va59eJwb5fRTuOmuUb) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [An Oscar Peterson Christmas](https://open.spotify.com/album/74wmf30QFStNhgwiLLNPuk) | 3:16 |
-| 15 | [A Child Is Born](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 |
-| 16 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 |
+| 15 | [What Child Is This?](https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Behold](https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX) | 3:15 |
+| 16 | [A Child Is Born](https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Together Again](https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6) | 3:14 |
 | 17 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/5JfaOWtjZp3blXwvExWtjl) | [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Trio 64](https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv) | 4:24 |
 | 18 | [Good “Swing” Wenceslas](https://open.spotify.com/track/1aeVPzsWRiLbZEcn9SSEfb) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 3:33 |
 | 19 | [Sugar Rum Cherry \(Dance of the Sugar\-Plum Fairy\)](https://open.spotify.com/track/2OyMysbUPsAV7W3ga8Lqr0) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Three Suites](https://open.spotify.com/album/4YfEBSeidWGv2gn4LUUiVS) | 3:05 |
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5D4gDh3HAsM.md) - [plain]
 | 39 | [Show Me The Magic](https://open.spotify.com/track/7CO9j3NbotOqtajfvM1ilQ) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Show Me The Magic](https://open.spotify.com/album/7gI7vQXmYWCl2QY7gc8VAq) | 2:30 |
 | 40 | [We Wish You The Merriest](https://open.spotify.com/track/2YyDhrHll7MvGZsGtQbq7O) | [John Tesh](https://open.spotify.com/artist/59B2CHEMh1to8diq0jB92r) | [Big Band Christmas](https://open.spotify.com/album/56pKtkUTPwFTlRuApcpS9P) | 2:13 |
 | 41 | [Baby, It's Cold Outside](https://open.spotify.com/track/1zZGu0CZd3Sifl2GNECXWG) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6), [Wes Montgomery](https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ) | [Christmas Cookin'](https://open.spotify.com/album/0uhYdmdjyACeqr61Pf6gPC) | 6:00 |
-| 42 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
-| 43 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
-| 44 | [White Christmas](https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 4:57 |
-| 45 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 |
+| 42 | [The Little Things](https://open.spotify.com/track/5iSVLB0MDNoeXXfi5hs9T8) | [Jeremy Lister](https://open.spotify.com/artist/5ChUwGNEwjVk3L7Wa7nmvJ) | [Happy Holidays, Everyone](https://open.spotify.com/album/1zBD9yzF3OzQExEKxMeuOh) | 3:43 |
+| 43 | [Winter Wonderland](https://open.spotify.com/track/4pHopDzHTDIkiNK8oLt0RX) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Crescent City Christmas Card](https://open.spotify.com/album/2NByhuKF7RIqf9OQhs6rJ6) | 2:52 |
+| 44 | [Dech The Hall Boughs Of Holly](https://open.spotify.com/track/1ckWK9gPj5z6Ikb5gi6Xhh) | [The Eddie Higgins Trio](https://open.spotify.com/artist/7AbWCUgC8aFlUYWSuiaQhK) | [Christmas Songs](https://open.spotify.com/album/0t0LMIRhBLD6xWPc6MEKxX) | 3:42 |
+| 45 | [White Christmas](https://open.spotify.com/track/1Als47O3HnJ8NGg5je6s4A) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Christmas Blues: Savoy Jazz Christmas Album](https://open.spotify.com/album/1QMmVNZc6MpssCZy62IuNI) | 4:57 |
 | 46 | [Christmas Time is Here](https://open.spotify.com/track/5zgSvriujXdqbP0kyEhZvS) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi) | [Christmas in the Rockies](https://open.spotify.com/album/4jfBNIB9fPR9tZLalMMIxu) | 3:46 |
 | 47 | [What Are You Doing New Year's Eve?](https://open.spotify.com/track/7DESENONjlQosUbxToDKOy) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [It's Christmas](https://open.spotify.com/album/7ne0Kc9Ky1QdfNLb3FfOuj) | 3:06 |
 | 48 | [Have Yourself A Merry Little Christmas \- Fireplace](https://open.spotify.com/track/3aZemyBU6kMjsqVGTWQ0v4) | [Scott Leonard Jazz Band](https://open.spotify.com/artist/3soQqRQIgqqYLTR62pZ8mK) | [Jazz Christmas Songs By The Fire](https://open.spotify.com/album/0F8Aw2DVnhQNINV62SYtqg) | 3:21 |
 | 49 | [Cool Yule](https://open.spotify.com/track/0KIbWpeVKKl2XVLzTWVIA9) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61) | [Blue Christmas](https://open.spotify.com/album/3EP7C0h2BiVEGH7g8PUaFM) | 3:30 |
 | 50 | [The Little Drummer Boy \(feat\. Bill Huntington & Jason Marsalis\)](https://open.spotify.com/track/2ApiBIDqdv5kBukv666Qhf) | [Ellis Marsalis](https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj), [Jason Marsalis](https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6), [Bill Huntington](https://open.spotify.com/artist/6ehjcjYM2hcJO4xLHgv2yU) | [A New Orleans Christmas Carol \(Deluxe Edition\)](https://open.spotify.com/album/5ts9XnU0lMg6SpiCelP0ba) | 4:16 |
 
-Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMDBhMTZmZmM2ODEzNzQyODBhMTVlZjk2MzIzYWMzZjc1`
+Snapshot ID: `MTYzOTExMjQ2MCwwMDAwMDAwMDQyNmQ2N2FhOWE2NmMwODI2ZDQxNjE0YTk4MThkY2Zj`

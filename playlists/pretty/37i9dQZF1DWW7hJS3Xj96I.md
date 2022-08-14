@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 
 > ¡Baila con los mejores éxitos de los 90!
 
-[Spotify](https://open.spotify.com/user/spotify) - 969,973 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 970,193 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 4 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
 | 5 | [Livin' la Vida Loca](https://open.spotify.com/track/0Ph6L4l8dYUuXFmb71Ajnd) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 6 | [Get Busy](https://open.spotify.com/track/5qTvkDrSfvwDv6RBjjcfQr) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:31 |
-| 7 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
-| 8 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
+| 7 | [Boom, Boom, Boom, Boom!!](https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW) | [Vengaboys](https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj) | [The Party Album!](https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx) | 3:22 |
+| 8 | [Coco Jamboo](https://open.spotify.com/track/5fRvePkRGdpn2nKacG7I6d) | [Mr\. President](https://open.spotify.com/artist/7KBkgunlONG7LPxs93pgpp) | [We See The Same Sun](https://open.spotify.com/album/2aMWSTZkHdS6mR28WtpuxY) | 3:38 |
 | 9 | [Ciega, Sordomuda](https://open.spotify.com/track/7jxHeJLVpnP7S08JFF4GBi) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 4:27 |
 | 10 | [Formas De Amor](https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L) | [Sin Miedo](https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf) | 4:02 |
 | 11 | [Clavado En Un Bar](https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 5:10 |
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 16 | [Azúcar Amargo](https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Tierna La Noche](https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y) | 4:41 |
 | 17 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 |
 | 18 | [Ojos Así](https://open.spotify.com/track/4EDfdYJ7mqXRoWAqzF1PVO) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:55 |
-| 19 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 |
-| 20 | [MMMBop \- Single Version](https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [The Best Of Hanson 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5) | 3:58 |
+| 19 | [MMMBop \- Single Version](https://open.spotify.com/track/2HNZxbvFvasRtlOJ9M6DgR) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [The Best Of Hanson 20th Century Masters The Millennium Collection](https://open.spotify.com/album/1SNNc4pb0aA0GS2PsLr5b5) | 3:58 |
+| 20 | [Mujeres](https://open.spotify.com/track/7wNrk2vc0GUUNBFggJzEsI) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Animal Nocturno](https://open.spotify.com/album/3BkE5kvMnXh6ljEvyCSR0I) | 3:26 |
 | 21 | [Bella Señora](https://open.spotify.com/track/7vyfkPROxVBZQOJtufdIIJ) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [20 Exitos Originales](https://open.spotify.com/album/7GJk5uyd0Fk8ekmz9v3ywI) | 4:41 |
 | 22 | [Bailando](https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Tarpeia](https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf) | 3:49 |
 | 23 | [La Bomba](https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb) | [azul azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa) | [El Sapo](https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB) | 2:03 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 25 | [Desesperada](https://open.spotify.com/track/20WaSPMyeIO7NntPpn1FM5) | [Marta Sánchez](https://open.spotify.com/artist/368rTiMKMrz3b03az6B14w) | [Mujer](https://open.spotify.com/album/4fbm0OYtjthyi4RlTQuT6l) | 3:47 |
 | 26 | [Mirala Miralo](https://open.spotify.com/track/6GCNUmk7L7OWtpvSk0fWOg) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Libre](https://open.spotify.com/album/5Zb5uLdHzmnIbOBy4zvVwW) | 4:00 |
 | 27 | [Mas de Lo Que Te Imaginas \(Classic Version\)](https://open.spotify.com/track/4fXBKW9Xt9oSb7qRvVoU9Y) | [The Sacados](https://open.spotify.com/artist/55n0yLUMpJbCd20oPNRbo6) | [Superexitos Vol\. 2](https://open.spotify.com/album/5x1hFavbDYh9ttS0KMQGmz) | 3:39 |
-| 28 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
-| 29 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 28 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 |
+| 29 | [Macarena](https://open.spotify.com/track/4oaj36KzXRgDg4McgcTsZK) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:09 |
 | 30 | [La pachanga](https://open.spotify.com/track/0bIye27QbOvSrTAmCViX5O) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [Lo Mejor de Vilma Palma](https://open.spotify.com/album/04ezQVYrGNcXyrBUl42NZi) | 4:41 |
 | 31 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/5XiDsBqpcVgouOX1o9n6OQ) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 32 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 38 | [Mírame a los Ojos](https://open.spotify.com/track/0q3P0vjpqqswJSukITnfZA) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 4:22 |
 | 39 | [Livin' la Vida Loca \- Spanish Version](https://open.spotify.com/track/4Yq7WIbdjwx4H7JR6Bf3nZ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/1k1Cr3nlJDa8pvwZUJ5xfj) | 4:03 |
 | 40 | [The Summer Is Magic \- Radio Mix](https://open.spotify.com/track/3riZWJaCsJLpTH9s2gGtGc) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \- Ep](https://open.spotify.com/album/04yDcYbEtjOyYbM1TNfaab) | 3:56 |
-| 41 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 |
-| 42 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 |
+| 41 | [Dragostea Din Tei](https://open.spotify.com/track/4nnHlGaBwJHb1rBetqj0Yl) | [O\-Zone](https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r) | [DiscO\-Zone](https://open.spotify.com/album/5Tz9AVbzCljIpaOs8TnJmt) | 3:33 |
+| 42 | [Solo Se Vive una Vez](https://open.spotify.com/track/2e7mL0M7mvjYVANfWPUjCH) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Monica Naranjo](https://open.spotify.com/album/1JM9myoPgh1n5Hn0RWLKlz) | 4:13 |
 | 43 | [No Puedo Olvidarme Ti](https://open.spotify.com/track/3AZ2FAKI5pGoRgRdAwN2Mq) | [MDO](https://open.spotify.com/artist/08xFgTEmizKwzfDSbxvODp) | [MDO](https://open.spotify.com/album/1Qh8IqiGgpCGxHGXQdpbVr) | 3:30 |
 | 44 | [Dime Que Me Quieres \(Bring A Little Lovin\)](https://open.spotify.com/track/4pupiOjh6MWxPUTIroVaJy) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ricky Martin](https://open.spotify.com/album/2RUhYJK4Ho2uDNhyZSJsOg) | 3:15 |
 | 45 | [The Rhythm of the Night](https://open.spotify.com/track/5IPJsGFKtxKDPCkT8lhEjN) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/5ooTXuDOxCNohug76VGayS) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7hJS3Xj96I.md) - [plain]
 | 49 | [Con los Ojos Cerrados](https://open.spotify.com/track/2YTKyc2ZppRHWTSI1Bf2Iz) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [Me Siento Tan Sola](https://open.spotify.com/album/2KmUjMOR518g6yHp1TqpyG) | 3:35 |
 | 50 | [Rica y Apretadita \(feat\. Anayka\)](https://open.spotify.com/track/2TdaIMnopPFjYqckoyEUAJ) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK), [Anayka](https://open.spotify.com/artist/2LxuBen9oGUGMy3UamvOQV) | [Serie 2000](https://open.spotify.com/album/71s0hsH2Qwf99hbiOcT7RR) | 4:20 |
 
-Snapshot ID: `MTY1NzY3MzM5NywwMDAwMDAwMDAxYWRmMTYyYWZkM2VhMmZhYzgxZTVmNmJlNGFkMTcx`
+Snapshot ID: `MTY1NzY3MzM5NywwMDAwMDAwMDY2MjkwNzczODE2ZDRhZmQ4Y2U0ZjJiNjg1Y2Q3MzIy`

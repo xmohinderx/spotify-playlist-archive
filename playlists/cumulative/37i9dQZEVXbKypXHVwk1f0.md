@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Panama.
 
-463 songs - 1 day 2 hr 59 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
+464 songs - 1 day 3 hr 1 min - [published](https://open.spotify.com/playlist/2099aCeoQUdwB6wwyCKCux)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [Cuarentena](https://open.spotify.com/track/3NzO25bvpU4lUf8kYvcrd1) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Cuarentena](https://open.spotify.com/album/6gNn20ucl04E91XvLdMc1Z) | 2:11 | 2021-10-31 | 2021-10-31 |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2021-12-05 | 2021-12-06 |
 | [Culito](https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL) | [El Bird](https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q) | [Culito](https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB) | 3:36 | 2022-07-23 |  |
+| [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-13 |  |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 | 2022-05-08 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-05 | 2021-12-22 |
 | [Dale](https://open.spotify.com/track/0E2Z5bEriQ2V7Nq6Rwn17v) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Bucle](https://open.spotify.com/album/1Bf3zK23ffWtQtySZ75j55) | 3:30 | 2022-03-12 | 2022-03-27 |
@@ -157,7 +158,7 @@
 | [Follie Flow](https://open.spotify.com/track/5HJAOnMn4sXWlLwDFf0eCH) | [Italian Somali](https://open.spotify.com/artist/38VNGRG9Wz2FOBKAyA6HFv), [EL BOY C](https://open.spotify.com/artist/5QMn8GQyPTKyS6TQi7ye1A), [Capo Musica](https://open.spotify.com/artist/1jSVPJKCv0LeyvXtpNULyO), [Da Silva](https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X) | [Follie Flow](https://open.spotify.com/album/3nUT1eQTC3nInvAVQK9nNv) | 3:00 | 2021-03-27\* | 2021-05-25 |
 | [For Youth](https://open.spotify.com/track/4JzCFEc3O2UEdjKzevvFH5) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 4:24 | 2022-06-11 | 2022-06-18 |
 | [Fuego](https://open.spotify.com/track/2bEjeBM3MVspWXXbor9H32) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:35 | 2021-12-05 | 2021-12-09 |
-| [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-25 |  |
+| [Fuera del mercado](https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [@dannocean](https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I) | 2:39 | 2022-03-25 | 2022-08-14 |
 | [Fulanito](https://open.spotify.com/track/59L8x0xy8njj75vzVCPMqg) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Fulanito](https://open.spotify.com/album/5AVKorAwqFCfUiPkNwv89o) | 2:38 | 2021-07-27 | 2021-09-05 |
 | [Gastar](https://open.spotify.com/track/7jZGELQvY3aZKaCIQVqwSY) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:29 | 2021-12-05 | 2021-12-06 |
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-12 | 2021-12-13 |

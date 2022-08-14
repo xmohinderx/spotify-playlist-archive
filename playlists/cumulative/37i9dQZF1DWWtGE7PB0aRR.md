@@ -4,7 +4,7 @@
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-104 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
+105 songs - 7 hr 40 min - [published](https://open.spotify.com/playlist/7gJ8WrGorienL6aMEyovTu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Goin' Down Slow](https://open.spotify.com/track/4JkNSMKERJEZiIcNzsqqmQ) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Tons Of Sobs](https://open.spotify.com/album/3h2uQXJFhgBTVQpZWfXKi9) | 8:20 | 2021-04-22 |  |
 | [Gotta Get to Know You](https://open.spotify.com/track/0nORptIh3WnyVEkcYcQJRo) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat](https://open.spotify.com/album/436NeoRUt1APoubE867iBx) | 7:43 | 2021-04-22 | 2022-07-29 |
 | [Harmonica](https://open.spotify.com/track/1RzvCKDGLcPaz9jEpsADWZ) | [The Graham Bond Organisation](https://open.spotify.com/artist/2YHcSCb5tMbCoovS962pff), [Jack Bruce](https://open.spotify.com/artist/73ndLgs6jSrpZzjyzU9TJV), [Ginger Baker](https://open.spotify.com/artist/5xTbqEbkihxdjj2jyYSthw) | [Gonks Go Beat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6F7KmbT7Do6tetnKzE5C3i) | 2:49 | 2021-04-22 |  |
-| [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 | 2021-04-22 |  |
+| [Hear Me Calling \- Mono](https://open.spotify.com/track/4e2QAsNsK4k2L3AmfkCs3w) | [Ten Years After](https://open.spotify.com/artist/7nkLRaWHImCvWGHdNGnhVE) | [Stonedhenge \(Re\-Presents\)](https://open.spotify.com/album/6Y4yzjEE03x6pPQbyoWi8l) | 5:48 | 2021-04-22 | 2022-08-14 |
 | [Hey Baby, Everything's Gonna Be Alright, Yeh Yeh Yeh](https://open.spotify.com/track/0IDPpYCPWQfcMJABUxqoGc) | [Climax Blues Band](https://open.spotify.com/artist/4eeRviM714mXXeILmKHxh2) | [The Climax Blues Band Plays On](https://open.spotify.com/album/7Dyfx1BcJMbajqziS2ppka) | 4:26 | 2021-04-22 |  |
 | [Highway \(Killing Me\) \- 2016 Remaster](https://open.spotify.com/track/26lMoZvdVmBdAribSN7RLL) | [Foghat](https://open.spotify.com/artist/6x33CmZWo2Ve4hxYl2Craq) | [Foghat \(2016 Remaster\)](https://open.spotify.com/album/6joHhNZW3Wmu62vFiqL3mQ) | 3:50 | 2021-04-22 |  |
 | [Home](https://open.spotify.com/track/2EEvpwNJQGN0nokOv0CxCO) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Home](https://open.spotify.com/album/46jRgQN63M7lI9PphL7R3T) | 6:31 | 2022-03-25 |  |
@@ -75,6 +75,7 @@
 | [Masters of War](https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR) | [Dani Wilde](https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB) | [Masters of War](https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58) | 4:56 | 2022-03-25 |  |
 | [My Baby's Good to Me](https://open.spotify.com/track/0v5TdcJwcraaD757Unagp6) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:50 | 2021-04-22 | 2022-07-28 |
 | [My Heart Beat Like a Hammer \- Take 2](https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 3:32 | 2021-04-22 |  |
+| [No Fool Baby](https://open.spotify.com/track/4nY5qPRiY5x0t1cwMBhNuS) | [Mick Clarke](https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt) | [No Fool Baby](https://open.spotify.com/album/1IaVCs3r55S02WlrZmKzP8) | 3:52 | 2022-08-05 |  |
 | [Poor Boy](https://open.spotify.com/track/4jb8VQ2XbpXf8doWXUJU29) | [Stan Webb](https://open.spotify.com/artist/5q92HD24UWdGpV7pUU0ZlF), [Chicken Shack](https://open.spotify.com/artist/7aUVQRiWaOqZU0JwOlGfWi) | [Going Up, Going Down..\. The Anthology 1968\-2001](https://open.spotify.com/album/4YEypnQ1RQ9N3gifKKYIUM) | 5:09 | 2021-04-22 |  |
 | [Railway And Gun](https://open.spotify.com/track/0T7D44xh8oCPLYDfi8HIo7) | [Taste](https://open.spotify.com/artist/4Se7TFuKKQVCzttyri6bg3) | [On The Boards](https://open.spotify.com/album/6UP7rSugk9wAcMYnqZ6Ti8) | 3:36 | 2021-04-22 |  |
 | [Rain Is Such a Lonesome Sound \- Remastered](https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [Rain Is Such a Lonesome Sound \(Remastered 2015\)](https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2) | 2:49 | 2021-04-22 | 2022-07-27 |

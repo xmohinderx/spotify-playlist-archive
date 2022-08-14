@@ -3400,6 +3400,24 @@
     },
     {
       "album": {
+        "name": "Internet Shooter",
+        "url": "https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M"
+      },
+      "artists": [
+        {
+          "name": "Lil Seeto",
+          "url": "https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117562,
+      "name": "Internet Shooter",
+      "url": "https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw"
+    },
+    {
+      "album": {
         "name": "New Era",
         "url": "https://open.spotify.com/album/41FoQRZr8INsVkHD2uuAvA"
       },

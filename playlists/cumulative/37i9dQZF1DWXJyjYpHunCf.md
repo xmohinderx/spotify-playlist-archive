@@ -4,7 +4,7 @@
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: Trousdale
 
-212 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
+213 songs - 12 hr 28 min - [published](https://open.spotify.com/playlist/4CdXUQqY69Nj0IMKyxyk64)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,10 +196,11 @@
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-11-12 |  |
 | [Valentina](https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw) | [The Hunts](https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH) | [Those Younger Days](https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs) | 3:50 | 2021-11-12 |  |
 | [Wait No More](https://open.spotify.com/track/4clWpztIoh70RqmZGPvnJz) | [The End of America](https://open.spotify.com/artist/1lyJ8ddC52ERd8XppvRbzq) | [Wait No More](https://open.spotify.com/album/73xDo3fQAsSLNTCpTlBedN) | 2:27 | 2021-11-12 | 2022-01-22 |
-| [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 | 2022-03-12 |  |
+| [Waiting Here](https://open.spotify.com/track/010K4ydIvyrxXWbt7gGvzZ) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [Waiting Here \(Remixes\)](https://open.spotify.com/album/6VnXIm4oiQoiRVjSCypRJo) | 3:54 | 2022-03-12 | 2022-08-14 |
 | [War In Your Arms](https://open.spotify.com/track/6j7ECfEZNlJFKzSTGavsE6) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [War In Your Arms](https://open.spotify.com/album/7h6f4SBKM7yosSAHR7eZf3) | 3:33 | 2021-11-12 | 2022-07-29 |
 | [War In Your Arms](https://open.spotify.com/track/2EFy7yp659dID3X1TVbdfq) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 3:35 | 2022-03-12 |  |
 | [Waterfall](https://open.spotify.com/track/2huz1HeHccvyRuxTQRDGKJ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [Waterfall](https://open.spotify.com/album/2pOfoFlDHQ7YO9YorMzeLF) | 3:32 | 2022-02-21 | 2022-07-29 |
+| [Waterfall](https://open.spotify.com/track/65g1gHMTYxsYWdN4QGyNLE) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:32 | 2022-03-12 |  |
 | [We Were Young](https://open.spotify.com/track/7jvbxB4On47Hl33C0qA88B) | [RIVVRS](https://open.spotify.com/artist/5T3N5ks9c3L7D4aXw54DVs) | [We Were Young](https://open.spotify.com/album/6AATZIM9hLK5zcTCVHHf7M) | 3:24 | 2021-11-12 | 2022-07-27 |
 | [Weatherman](https://open.spotify.com/track/4i3ayapBXkyHJZLVOUqTmc) | [Hush Kids](https://open.spotify.com/artist/4XzsOuqFltgBcdHF3RZQbh) | [Weatherman](https://open.spotify.com/album/4GkmkJSF88GEnP2LFuCl0r) | 3:31 | 2021-11-12 |  |
 | [What to Do](https://open.spotify.com/track/01yXBrB0ddIzRaIfGk3ZrG) | [Bandits on the Run](https://open.spotify.com/artist/40wE5c0s5AtxRwWXoPzBg6) | [The Criminal Record](https://open.spotify.com/album/4mPo1YkLytNQdFAl4fNaHV) | 3:48 | 2021-11-12 | 2022-07-28 |

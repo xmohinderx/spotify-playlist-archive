@@ -410,6 +410,28 @@
     },
     {
       "album": {
+        "name": "Caja de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4GJr9U2jyhsomXIFB7eYma"
+      },
+      "artists": [
+        {
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194023,
+      "name": "Caja de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/5gbYdVq1gpExyakimfFINk"
+    },
+    {
+      "album": {
         "name": "Calaveritas",
         "url": "https://open.spotify.com/album/5RL8kn7xV8ivinDYDra4Uh"
       },
@@ -1389,7 +1411,7 @@
       ],
       "date_added": "2021-10-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 240298,
       "name": "Hasta la Rai\u0301z",
       "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
@@ -1941,7 +1963,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 128371,
       "name": "Marineros",
       "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
@@ -2969,7 +2991,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 156781,
       "name": "Veinte A\u00f1os",
       "url": "https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X"

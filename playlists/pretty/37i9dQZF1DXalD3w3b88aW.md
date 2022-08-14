@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 
 > The emotional interludes we wish were longer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,324 likes - 75 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,336 likes - 75 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,10 +16,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 6 | [Wavy \(Interlude\) \(feat\. James Fauntleroy\)](https://open.spotify.com/track/3LcoHjgdNl4xtWVaJGSA1p) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 1:15 |
 | 7 | [Big Boss \(Interlude\)](https://open.spotify.com/track/7EuktT4CgA637ci366IrYW) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR](https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR) | 1:31 |
 | 8 | [Good Heels \(feat\. Jazmine Sullivan\)](https://open.spotify.com/track/1BSZGNpIm2nBt1hWSK2bRp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Ventura](https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY) | 1:38 |
-| 9 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
+| 9 | [Bluff](https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 1:12 |
 | 10 | [End](https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 2:14 |
 | 11 | [Bria's Interlude \(feat\. Omarion\)](https://open.spotify.com/track/4i3GraNMzBKze1WsVl38DS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Omarion](https://open.spotify.com/artist/0f5nVCcR06GX8Qikz0COtT) | [So Far Gone](https://open.spotify.com/album/1LShhEEKRT5MNPcO7jtYHh) | 2:19 |
-| 12 | [Bluff](https://open.spotify.com/track/3j7zwRLw8QEbYoOhSE0AOd) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Take Me Apart](https://open.spotify.com/album/6pw1XPub1bSMq03ASVqRVu) | 1:12 |
+| 12 | [Superstar \- Interlude](https://open.spotify.com/track/22IVvpKhaLiYGzu3FdqBwB) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 1:04 |
 | 13 | [Kaytra's Interlude \(feat\. KAYTRANADA\)](https://open.spotify.com/track/5Sf02v5Q9Z9Ewfxmn69JOt) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Overgrown](https://open.spotify.com/album/55kmFrMvcnO54KbEurJTrM) | 1:20 |
 | 14 | [Feeling U, Feeling Me \(Interlude\)](https://open.spotify.com/track/4noLzwgD4GzlbLRbSCElVq) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [The Diary Of Alicia Keys](https://open.spotify.com/album/6TqRKHLjDu5QZuC8u5Woij) | 2:07 |
 | 15 | [Runnin' \- Interlude](https://open.spotify.com/track/0dYDmow4l5hbPs5E6QLMSC) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [You Should Be Here](https://open.spotify.com/album/34JNly8P6uZRKTGnmmLNAt) | 2:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 58 | [I Surrender \- Interlude](https://open.spotify.com/track/4E0psyPzApbWOMI20ZU7gZ) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 1:14 |
 | 59 | [Interlude](https://open.spotify.com/track/3vFubrcAel5283u4pFoBr2) | [Jaheim](https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3) | [Still Ghetto](https://open.spotify.com/album/10NYla7wqjbdNXNExgtRGa) | 0:48 |
 | 60 | [Stay \(Interlude\)](https://open.spotify.com/track/2k6IeQ72mNLQolHIR5p1cA) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:56 |
-| 61 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
-| 62 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
+| 61 | [Definition of a Bad Girl \(Interlude\)](https://open.spotify.com/track/7pCs7Zi5ya5NCwMPDC6Cuk) | [Total](https://open.spotify.com/artist/1urjDGTd4iBze91Z1W1gu7) | [Total](https://open.spotify.com/album/4uLoT81NWVFx09mkfnGCHb) | 1:10 |
+| 62 | [Interlude 2 \(Can't Stop\)](https://open.spotify.com/track/2ti1XPHOSijdN6ng8tQIKk) | [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Usher](https://open.spotify.com/album/0euolARSHQGtySLAWUvilr) | 2:42 |
 | 63 | [Anywhere \(Interlude\)](https://open.spotify.com/track/62aa75nKO5orJZ1AIOeled) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 1:10 |
 | 64 | [C'mere \- Skit](https://open.spotify.com/track/6m8jUowInyWee9inDLOF9S) | [Bilal](https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs) | [1st Born Second](https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77) | 2:10 |
 | 65 | [Special Place \- Interlude](https://open.spotify.com/track/324uRiZwnoIRVRqQ9bCiEC) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 1:01 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXalD3w3b88aW.md) - [plain]
 | 74 | [So Much Love \- Interlude](https://open.spotify.com/track/1e7BgRrZ1uNwSzEuGRosuP) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Room 112](https://open.spotify.com/album/2a9zJQA2ttMax51gVplZ2w) | 1:48 |
 | 75 | [Never Felt This Way](https://open.spotify.com/track/0uUwnByckydEF8r0ifZ5ke) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Songs In A Minor](https://open.spotify.com/album/5qUlPoDmNxCSzqVx81RDLJ) | 2:00 |
 
-Snapshot ID: `MTYyNzA2MjcwNCwwMDAwMDAwMDE1MzdhZGVhYzk5ZTRjMjViYzIwYTdlMmE3MjFmYjc1`
+Snapshot ID: `MTYyNzA2MjcwNCwwMDAwMDAwMDA2YzdkODhhYzc3MWEzNWZhYTE5NGI0N2NiNDM5YTYy`

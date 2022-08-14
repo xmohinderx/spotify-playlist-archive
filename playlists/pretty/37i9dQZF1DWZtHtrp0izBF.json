@@ -1,12 +1,12 @@
 {
   "description": "1-2-3, 5-6-7, now you're dancing salsa!",
-  "num_followers": 21712,
+  "num_followers": 21824,
   "original_name": "Salsa Lessons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNzg1MTgxMSwwMDAwMDAwMDFkYzE0NWY0NTM0ODAxY2I1YzMxMDg3YWJmZTBiYTNm",
+  "snapshot_id": "MTYzNzg1MTgxMSwwMDAwMDAwMDMxOWViMDdhMzU3ZTg0OGVlMjQ1NDZiMmE2M2I5M2Nl",
   "tracks": [
     {
       "added_at": "2021-11-25 14:50:11",
@@ -639,22 +639,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
-      },
-      "artists": [
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 321200,
-      "name": "Casi Te Envidio",
-      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "Reg\u00e1lame Una Noche",
         "url": "https://open.spotify.com/album/1VXQXHRTUD5kaCQotZhuvW"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 276346,
       "name": "Reg\u00e1lame una Noche",
       "url": "https://open.spotify.com/track/2URe3fGSKuCh8v0d49lsNU"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/4ihlEk0yuvUpKGSX8A9ITz"
+      },
+      "artists": [
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 321200,
+      "name": "Casi Te Envidio",
+      "url": "https://open.spotify.com/track/3lfWaQLyg71Uar9gAgFVWV"
     },
     {
       "added_at": "2021-11-25 14:50:11",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-11-25 14:50:11",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 303306,
-      "name": "Tu Con El",
-      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
-    },
-    {
-      "added_at": "2021-11-25 14:50:11",
-      "album": {
         "name": "Intenso",
         "url": "https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 254933,
       "name": "La Agarro Bajando",
       "url": "https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM"
+    },
+    {
+      "added_at": "2021-11-25 14:50:11",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 303306,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I"
     },
     {
       "added_at": "2021-11-25 14:50:11",

@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 80047,
+  "num_followers": 80197,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMDExZTYyNWUzYzkwZWQ0MzBjN2RhNDYxMWE4NGZhMTIx",
+  "snapshot_id": "MTY1NDY2OTUwNSwwMDAwMDAwMDg1ODc0MWIwYWQ1ZjQxMjIwZTJkZjRlMTIzOTNjZWZk",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:05",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Katrina & The Waves",
         "url": "https://open.spotify.com/album/1UQG78YJjaBySRMh0A8Uw7"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 238733,
       "name": "Walking On Sunshine",
       "url": "https://open.spotify.com/track/05wIrZSwuaVWhcv5FfqeH0"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "American Fool",
-        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
-      },
-      "artists": [
-        {
-          "name": "John Mellencamp",
-          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
-        }
-      ],
-      "duration_ms": 254493,
-      "name": "Jack & Diane",
-      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Greatest Hits: Huey Lewis And The News",
         "url": "https://open.spotify.com/album/0u34k1ANjgZ47uQfG9yaLj"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 234333,
       "name": "The Power Of Love",
       "url": "https://open.spotify.com/track/2olVm1lHicpveMAo4AUDRB"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "American Fool",
+        "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
+      },
+      "artists": [
+        {
+          "name": "John Mellencamp",
+          "url": "https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Jack & Diane",
+      "url": "https://open.spotify.com/track/43btz2xjMKpcmjkuRsvxyg"
     },
     {
       "added_at": "2022-06-08 06:25:05",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You - Remastered 2004",
-      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
         "name": "Hi Infidelity (30th Anniversary Edition)",
         "url": "https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - Remastered 2004",
+      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
     },
     {
       "added_at": "2022-06-08 06:25:05",

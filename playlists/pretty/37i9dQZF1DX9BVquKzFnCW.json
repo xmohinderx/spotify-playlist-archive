@@ -1,12 +1,12 @@
 {
   "description": "Set the perfect brunch mood with instrumental and vocal jazz.",
-  "num_followers": 7807,
+  "num_followers": 7841,
   "original_name": "Brunch Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4NjM4MSwwMDAwMDAwMDg1YzgwZTdhZDA3NWJhYWJkMGRjMWFlNTUyNGU5ODFl",
+  "snapshot_id": "MTY2MDI4NjM4MSwwMDAwMDAwMGEwMjgyN2UxMjVhYzE5ODM2NzQyZTYxN2RhMzZjYzNi",
   "tracks": [
     {
       "added_at": "2022-08-12 06:39:41",
@@ -419,6 +419,22 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Explorations [Original Jazz Classics Remasters]",
         "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
@@ -435,18 +451,18 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+        "name": "Everybody Digs Bill Evans",
+        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
       },
       "artists": [
         {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
         }
       ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
+      "duration_ms": 214440,
+      "name": "Tenderly",
+      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -467,22 +483,6 @@
       "duration_ms": 300618,
       "name": "Unsentimental",
       "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Everybody Digs Bill Evans",
-        "url": "https://open.spotify.com/album/2zSAVheEFBPMuUozd6C9gt"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 214440,
-      "name": "Tenderly",
-      "url": "https://open.spotify.com/track/4Y9WU4Za9QVX7IIk7bjJCS"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -559,18 +559,18 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj"
       },
       "artists": [
         {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+          "name": "Joey Alexander",
+          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
         }
       ],
-      "duration_ms": 351280,
-      "name": "All the Things You Are",
-      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
+      "duration_ms": 282386,
+      "name": "Draw Me Nearer",
+      "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -607,6 +607,22 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        }
+      ],
+      "duration_ms": 351280,
+      "name": "All the Things You Are",
+      "url": "https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Plays Monk",
         "url": "https://open.spotify.com/album/7gIeXaWDihgMi7s925uq4A"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 407293,
       "name": "I Mean You",
       "url": "https://open.spotify.com/track/1bOLFHXStwdSHAdz412vMG"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/2tWjJCMYSGNRJg55XJj0rj"
-      },
-      "artists": [
-        {
-          "name": "Joey Alexander",
-          "url": "https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII"
-        }
-      ],
-      "duration_ms": 282386,
-      "name": "Draw Me Nearer",
-      "url": "https://open.spotify.com/track/6vZ8PZZy7ljlQEgCPSZTAM"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Charlie Brown Holiday Hits",
-        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi Trio",
-          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Charlie Brown Theme",
-      "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
         "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
         "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 176626,
       "name": "You\u2019re Driving Me Crazy",
       "url": "https://open.spotify.com/track/1iBs0OyTuRQG2ZLkYEbxLT"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
+        "name": "Charlie Brown Holiday Hits",
+        "url": "https://open.spotify.com/album/1d3w7T3iyK3JJQ6kdpE6l9"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi Trio",
+          "url": "https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Charlie Brown Theme",
+      "url": "https://open.spotify.com/track/2tr8uTaifUtZimedSRmcoY"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -771,18 +771,26 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "The Bill Evans Album",
-        "url": "https://open.spotify.com/album/5KMFvQIC2Of0UtJe9w5e0n"
+        "name": "Portrait In Jazz [Keepnews Collection]",
+        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
       },
       "artists": [
         {
           "name": "Bill Evans",
           "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        },
+        {
+          "name": "Scott LaFaro",
+          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
+        },
+        {
+          "name": "Paul Motian",
+          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
         }
       ],
-      "duration_ms": 370200,
-      "name": "The Two Lonely People",
-      "url": "https://open.spotify.com/track/2Syy6iCju7lcPLesnbEwnV"
+      "duration_ms": 195973,
+      "name": "Peri's Scope",
+      "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -835,6 +843,38 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 453506,
+      "name": "Blue Thoughts",
+      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
+        "name": "The Bill Evans Album",
+        "url": "https://open.spotify.com/album/5KMFvQIC2Of0UtJe9w5e0n"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 370200,
+      "name": "The Two Lonely People",
+      "url": "https://open.spotify.com/track/2Syy6iCju7lcPLesnbEwnV"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -851,30 +891,6 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Portrait In Jazz [Keepnews Collection]",
-        "url": "https://open.spotify.com/album/7dlYNvbD4QYDL3sSkTCjxi"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        },
-        {
-          "name": "Scott LaFaro",
-          "url": "https://open.spotify.com/artist/4g7uUySyORXh2KgDEhgxXa"
-        },
-        {
-          "name": "Paul Motian",
-          "url": "https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX"
-        }
-      ],
-      "duration_ms": 195973,
-      "name": "Peri's Scope",
-      "url": "https://open.spotify.com/track/5qAqBkA9qT0kpV1m8Sccc4"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
         "name": "Quiet Kenny",
         "url": "https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 524346,
       "name": "Blue Friday - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/21YdGlpbMRU6k13KKU2A2z"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 453506,
-      "name": "Blue Thoughts",
-      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1035,6 +1035,30 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "Legacy Of A Legend",
+        "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
+      },
+      "artists": [
+        {
+          "name": "Dave Brubeck",
+          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
+        },
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 301080,
+      "name": "Ode To A Cowboy",
+      "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Sunday At The Village Vanguard [Keepnews Collection]",
         "url": "https://open.spotify.com/album/3uwufR7PwniMX7t3v4I5oB"
       },
@@ -1063,30 +1087,6 @@
       "duration_ms": 208906,
       "name": "Wrapped Tight",
       "url": "https://open.spotify.com/track/7a1kkDDdNdTDSUM7Y96CLM"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Legacy Of A Legend",
-        "url": "https://open.spotify.com/album/0F2bmdj2Dm8zDnBRjmFpTN"
-      },
-      "artists": [
-        {
-          "name": "Dave Brubeck",
-          "url": "https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E"
-        },
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 301080,
-      "name": "Ode To A Cowboy",
-      "url": "https://open.spotify.com/track/6Oci0KLr1huChKVkO5MUVP"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "Trio 64",
+        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans",
+          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
+        }
+      ],
+      "duration_ms": 275133,
+      "name": "Dancing In The Dark",
+      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Paper Moon",
         "url": "https://open.spotify.com/album/1zjtMS9M1eGoY7KyMW71qf"
       },
@@ -1219,42 +1235,18 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "The Inspiration Suite",
-        "url": "https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D"
+        "name": "Now!",
+        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
       },
       "artists": [
         {
-          "name": "David Hazeltine",
-          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
-        },
-        {
-          "name": "John Webber",
-          "url": "https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0"
-        },
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+          "name": "Sonny Stitt",
+          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
         }
       ],
-      "duration_ms": 393133,
-      "name": "My Ideal",
-      "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Trio 64",
-        "url": "https://open.spotify.com/album/4rLPJEiZuhRRswnBGBgVvv"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans",
-          "url": "https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF"
-        }
-      ],
-      "duration_ms": 275133,
-      "name": "Dancing In The Dark",
-      "url": "https://open.spotify.com/track/3QnB59VTOkWNGBk8qptee6"
+      "duration_ms": 255600,
+      "name": "I'm Getting Sentimental Over You",
+      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1275,18 +1267,42 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Now!",
-        "url": "https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG"
+        "name": "Songs: The Art of the Trio, Vol. 3",
+        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
       },
       "artists": [
         {
-          "name": "Sonny Stitt",
-          "url": "https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj"
+          "name": "Brad Mehldau",
+          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
         }
       ],
-      "duration_ms": 255600,
-      "name": "I'm Getting Sentimental Over You",
-      "url": "https://open.spotify.com/track/59eRG0NvuYIxe0i7IMAH0z"
+      "duration_ms": 482440,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
+        "name": "The Inspiration Suite",
+        "url": "https://open.spotify.com/album/5oafA6jQB4S3q6Pjm6Lh0D"
+      },
+      "artists": [
+        {
+          "name": "David Hazeltine",
+          "url": "https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q"
+        },
+        {
+          "name": "John Webber",
+          "url": "https://open.spotify.com/artist/03xXcbbFNqZUU3ENJcY8a0"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 393133,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/5Bw061eIZfnpaGhcYCp7J6"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Blowin' The Blues Away",
-        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 362280,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
         "name": "The Return Of Art Pepper",
         "url": "https://open.spotify.com/album/3KEF0sqASzm7SVrozeiITT"
       },
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "Songs: The Art of the Trio, Vol. 3",
-        "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
+        "name": "Blowin' The Blues Away",
+        "url": "https://open.spotify.com/album/2yjs1MxTiDffQ1VGY9ilJc"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
         }
       ],
-      "duration_ms": 482440,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/6Inq57v3xTl6U361EgpXJZ"
+      "duration_ms": 362280,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/5XjjmKaKGBgPuwOgm1Ux1j"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1383,22 +1383,6 @@
       "duration_ms": 229226,
       "name": "Everybody Gets the Blues",
       "url": "https://open.spotify.com/track/0ns3AARhJgB5o2WqTDPzSm"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1427,6 +1411,22 @@
       "duration_ms": 414466,
       "name": "Charcoal Blues - Remastered 2004",
       "url": "https://open.spotify.com/track/6S5vGVyWqxCXkBwrF32wHJ"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
+        "name": "Lee Konitz Meets Jimmy Giuffre",
+        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Jimmy Giuffre",
+          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Uncharted",
+      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
         "name": "Oscar Peterson Plays The Duke Ellington Song Book",
         "url": "https://open.spotify.com/album/1pKJpLhilpDIcpVPtyxvMc"
       },
@@ -1519,26 +1539,6 @@
       "duration_ms": 402573,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2XuM2irHH6kaHk4np8VIHL"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
-        "name": "Lee Konitz Meets Jimmy Giuffre",
-        "url": "https://open.spotify.com/album/4RpZEpHc5YqVOMmxBy3zAs"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Jimmy Giuffre",
-          "url": "https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6"
-        }
-      ],
-      "duration_ms": 235266,
-      "name": "Uncharted",
-      "url": "https://open.spotify.com/track/3Jp9JcePzezvMPoXvAduHt"
     },
     {
       "added_at": "2022-08-12 06:39:41",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-08-12 06:39:41",
       "album": {
-        "name": "In Pursuit Of The 27th Man",
-        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 281746,
-      "name": "Summer In Central Park - Remastered",
-      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
-    },
-    {
-      "added_at": "2022-08-12 06:39:41",
-      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 331253,
       "name": "Prophet Jennings - Remastered 1999/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/01a23tagFxN7rI5f3ZSAUd"
+    },
+    {
+      "added_at": "2022-08-12 06:39:41",
+      "album": {
+        "name": "In Pursuit Of The 27th Man",
+        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 281746,
+      "name": "Summer In Central Park - Remastered",
+      "url": "https://open.spotify.com/track/20ZALyUySircoAOgNfp3Cs"
     },
     {
       "added_at": "2022-08-12 06:39:41",

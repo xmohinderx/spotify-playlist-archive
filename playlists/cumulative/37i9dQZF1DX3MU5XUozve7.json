@@ -2441,6 +2441,24 @@
     {
       "album": {
         "name": "Swagger",
+        "url": "https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN"
+      },
+      "artists": [
+        {
+          "name": "Flogging Molly",
+          "url": "https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj"
+        }
+      ],
+      "date_added": "2022-07-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239653,
+      "name": "Devil's Dance Floor",
+      "url": "https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg"
+    },
+    {
+      "album": {
+        "name": "Swagger",
         "url": "https://open.spotify.com/album/17DfzMvhWL7EjCdqWpqj9P"
       },
       "artists": [
@@ -4429,7 +4447,7 @@
       ],
       "date_added": "2020-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"

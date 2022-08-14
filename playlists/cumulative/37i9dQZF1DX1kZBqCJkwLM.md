@@ -4,7 +4,7 @@
 
 > Dope, Asian, and Femme\. Cover: Bella Poarch
 
-163 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
+164 songs - 8 hr 37 min - [published](https://open.spotify.com/playlist/756XYickqmZe8mftqVVYln)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [LEGEND](https://open.spotify.com/track/5YG6LyULsmNIwxNOTTdTTu) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/2TqkISTB5q8RlsOQSuEnGH) | 2:37 | 2021-12-03 |  |
 | [Less Like](https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Less Like](https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn) | 2:53 | 2021-12-03 | 2022-07-29 |
 | [LITTLE FIRES](https://open.spotify.com/track/3rZbiEFem2bm8zYUIA9ecd) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [LITTLE FIRES](https://open.spotify.com/album/1vVD2Jm1xVWk3TGhdQ6z97) | 2:59 | 2022-02-04 | 2022-07-18 |
+| [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 | 2022-08-12 |  |
 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 | 2021-12-03 | 2022-07-27 |
 | [Lose](https://open.spotify.com/track/7rgjkzZBhBjObaYsvq8Ej0) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Lose](https://open.spotify.com/album/5GW3Hm4C7AkrClwby88sFJ) | 4:16 | 2021-12-03 |  |
 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 | 2022-04-15 |  |
@@ -162,7 +163,7 @@
 | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/track/3UQFh2pOHS3h2ivIm7Zcyf) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [WHAT WE DREW 우리가 그려왔던](https://open.spotify.com/album/6RB63l1Ngjkg5xXSgCS6AP) | 3:49 | 2022-07-15 |  |
 | [What You Waiting For](https://open.spotify.com/track/4CoxD8tetisleUQDA7vn1B) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [What You Waiting For](https://open.spotify.com/album/59iiiARciChm70cn85wxuH) | 2:55 | 2021-12-03 |  |
 | [Whatchu Doin Later](https://open.spotify.com/track/29vraZyXg8F4e8QmKMxkiv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Whatchu Doin Later](https://open.spotify.com/album/5zFgySX8BrQULB2rdQfkSc) | 2:57 | 2021-12-03 | 2022-07-27 |
-| [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 | 2022-01-28 |  |
+| [WHO DIS?](https://open.spotify.com/track/6nxl63vBvsjtHFjemw3NPM) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ) | [WHO DIS?](https://open.spotify.com/album/3HSERFlXcsFpGMb2TszEGw) | 2:04 | 2022-01-28 | 2022-08-14 |
 | [Whoopie is a Punkrocker](https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [Stephen Harrison](https://open.spotify.com/artist/366dKk1Th87zx5H1xXnXAH) | [Whoopie is a Punkrocker](https://open.spotify.com/album/4b3o9025OYso4WFmwwqzQh) | 2:22 | 2022-07-08 | 2022-08-07 |
 | [Wish You Were Here](https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov) | 3:41 | 2021-12-03 | 2022-07-29 |
 | [Wish You Were Here](https://open.spotify.com/track/47jhKD8sm2I3Aoktj4G5J8) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/5MgtnDKyeSkXEkKu5u82gr) | 3:41 | 2022-07-15 |  |

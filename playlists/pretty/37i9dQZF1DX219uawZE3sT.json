@@ -1,12 +1,12 @@
 {
   "description": "Apasi\u00f3nate y revive los temas de tus historias predilectas. Foto: Thal\u00eda",
-  "num_followers": 97514,
+  "num_followers": 97575,
   "original_name": "Telenovelas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMGY1NmQ5MDc5NzM0MzdkM2I3NWEyNWZlMzA4MzkwMWQy",
+  "snapshot_id": "MTY1MTg2MTk0NiwwMDAwMDAwMDMzOWQxMDQ0OTUwMTYzZmVkYzFkMmQyMzc5NDRlOGJi",
   "tracks": [
     {
       "added_at": "2022-05-06 18:32:26",
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Super #1's",
-        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
-      },
-      "artists": [
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 220613,
-      "name": "Contra Viento Y Marea",
-      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
         "name": "El Amor Manda",
         "url": "https://open.spotify.com/album/6iyVNbwXzxrdVZKFyHTW8Y"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 196866,
       "name": "Porque El Amor Manda",
       "url": "https://open.spotify.com/track/3ot3tplmCSuP4tghJia2jR"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
+        "name": "Super #1's",
+        "url": "https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh"
+      },
+      "artists": [
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 220613,
+      "name": "Contra Viento Y Marea",
+      "url": "https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
+        "name": "1985-1998",
+        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 205800,
+      "name": "La Usurpadora",
+      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+    },
+    {
+      "added_at": "2022-05-06 18:32:26",
+      "album": {
         "name": "Los Ganadores De La Voz",
         "url": "https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6"
       },
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "1985-1998",
-        "url": "https://open.spotify.com/album/1TrINJ03nVRp9Xas5oNVTP"
+        "name": "Mis \u00cdntimas Razones",
+        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Luc\u00eda M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
         }
       ],
-      "duration_ms": 205800,
-      "name": "La Usurpadora",
-      "url": "https://open.spotify.com/track/2hWwM1HvqlinY0n9mnC3NW"
+      "duration_ms": 220706,
+      "name": "Un Alma en Pena",
+      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1139,22 +1155,6 @@
       "duration_ms": 302453,
       "name": "S\u00f3lo Importas T\u00fa",
       "url": "https://open.spotify.com/track/4dCj8lsb7xO4Wlz4P8RcMb"
-    },
-    {
-      "added_at": "2022-05-06 18:32:26",
-      "album": {
-        "name": "Mis \u00cdntimas Razones",
-        "url": "https://open.spotify.com/album/0NVKTnvoqBpIGJDgT8A7yr"
-      },
-      "artists": [
-        {
-          "name": "Luc\u00eda M\u00e9ndez",
-          "url": "https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Un Alma en Pena",
-      "url": "https://open.spotify.com/track/19a0LWL0uI0ggevU7QpzpG"
     },
     {
       "added_at": "2022-05-06 18:32:26",
@@ -1191,18 +1191,22 @@
     {
       "added_at": "2022-05-06 18:32:26",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+        "name": "Como Un Tatuaje",
+        "url": "https://open.spotify.com/album/38WF9Pop7ly27JK60rEDhR"
       },
       "artists": [
         {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+          "name": "K-Paz De La Sierra",
+          "url": "https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359"
+        },
+        {
+          "name": "Alisson Lozz",
+          "url": "https://open.spotify.com/artist/6BytuB2f4wmznbMfkYe4vM"
         }
       ],
-      "duration_ms": 187800,
-      "name": "Te Quiero Tanto, Tanto - Versi\u00f3n de la Telenovela Mi Peque\u00f1a Traviesa",
-      "url": "https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7"
+      "duration_ms": 219453,
+      "name": "Al Diablo Con Los Guapos aka No Me Supiste Querer",
+      "url": "https://open.spotify.com/track/4bxUPG9Z6km505nHcfCdT4"
     }
   ],
   "unique_name": "Telenovelas",

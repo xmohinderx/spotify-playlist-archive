@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 
 > Japanese female rock icons\. Cover: リーガルリリー \(Regallily\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,038 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,071 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,16 +28,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 18 | [ジャスコ、上野](https://open.spotify.com/track/3qzlu7OhkK34jzXRJE1c61) | [peanut butters](https://open.spotify.com/artist/54hEgY8Ut3i0OriX1fELbP) | [ジャスコ、上野](https://open.spotify.com/album/5qYVPh95Bowgs3FMPV7W1s) | 3:53 |
 | 19 | [あいつら全員同窓会](https://open.spotify.com/track/2VIK6jaaKghS4QPHr6sAkv) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [あいつら全員同窓会](https://open.spotify.com/album/3JV0AKw3HatCzJgSEDq450) | 4:14 |
 | 20 | [Wan!](https://open.spotify.com/track/0yRSL5aaF9xJfJxqNyOvhW) | [ニューヤナセ](https://open.spotify.com/artist/4JyYJ2F9QIGXEE0j8bWepn) | [ダークムーンサイド](https://open.spotify.com/album/3M61w8VggQrFathWSsp1Qh) | 3:27 |
-| 21 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
+| 21 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 |
 | 22 | [UTOPIA](https://open.spotify.com/track/6155KcjQlwKcrbUAW6tAOF) | [Living Rita](https://open.spotify.com/artist/0ekt0GY3EGCsVugNHfBkHJ) | [Reality / UTOPIA](https://open.spotify.com/album/1rS3zYiUpv89HAuiedJf8X) | 4:02 |
-| 23 | [往け](https://open.spotify.com/track/4cDm9C5jhBiIyYxVhQmMwB) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [往け](https://open.spotify.com/album/3zQM46m2V0bUGFeCNA0evx) | 3:48 |
+| 23 | [キャラクター](https://open.spotify.com/track/1WkMPKhw6w2PAaZyKpITNi) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [キャラクター](https://open.spotify.com/album/2ylk0z5v9TVDEbexjpVh8c) | 4:09 |
 | 24 | [愛雨](https://open.spotify.com/track/4m6skrawKxM1NeMxXw0I2W) | [微睡んでアビー](https://open.spotify.com/artist/5FqDNMNIOH7R0wVII6gCkl) | [愛雨](https://open.spotify.com/album/08WsQ9MqCrcmk5jxSVYxaw) | 5:06 |
 | 25 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 |
 | 26 | [It's not too late](https://open.spotify.com/track/6msygryLZFEN7Fw7laGcAA) | [LOVE PSYCHEDELICO](https://open.spotify.com/artist/5V7OCRPNS7vBRLRkrMVNqp) | [It's not too late](https://open.spotify.com/album/03Dx5bwpehJewD0236CHfe) | 4:33 |
-| 27 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
+| 27 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
 | 28 | [朔日](https://open.spotify.com/track/5hHiiyWh4rgOgF3ONSnO7o) | [帰りの会](https://open.spotify.com/artist/5YXzV93qLK8xNqNy5OKVkJ) | [朔日](https://open.spotify.com/album/3eITKe4UScpy4XHuL3X2db) | 4:17 |
-| 29 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
-| 30 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
+| 29 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 |
+| 30 | [勘冴えて悔しいわ](https://open.spotify.com/track/7zbfS30vKiHU8oBs6Wi1Qp) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:56 |
 | 31 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 |
 | 32 | [君と夏フェス](https://open.spotify.com/track/0mVtmQomDom72Y7UDm1ODi) | [SHISHAMO](https://open.spotify.com/artist/6MGHit7sV38BhpChZYByFv) | [SHISHAMO BEST](https://open.spotify.com/album/6q8CiqzaJZIfYmoBAnkXxx) | 3:44 |
 | 33 | [10月無口な君を忘れる](https://open.spotify.com/track/006u4CXVO2cusq08RrMElQ) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [10月無口な君を忘れる](https://open.spotify.com/album/600Y6vAnetFVK3AghyzSMg) | 5:32 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59CyY8YTix2.md) - [plain]
 | 42 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
 | 43 | [そばかす](https://open.spotify.com/track/0IL7LGrnYObWYyYaJ3GzWr) | [JUDY AND MARY](https://open.spotify.com/artist/7unNuvk3OEqGmegHTaxRA9) | [そばかす](https://open.spotify.com/album/5Vl05dEPdeLwUXc6OIcrrT) | 4:15 |
 | 44 | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/track/0wOkiindak4Dx5e4CuylaP) | [Genie High](https://open.spotify.com/artist/1NdpjvRYsY6cwAVX9YWzAB), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [華奢なリップ \(feat\. ちゃんみな\)](https://open.spotify.com/album/7jvzFjCae8MXblb8lmeXCm) | 4:28 |
-| 45 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
-| 46 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 |
-| 47 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
+| 45 | [ヘビースモーク](https://open.spotify.com/track/6SZxiOImowwY2pcYjnrf8n) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [ヘビースモーク](https://open.spotify.com/album/3vviZ2ljJiDqTAHm7OCTCd) | 5:02 |
+| 46 | [赤裸裸](https://open.spotify.com/track/2fws0PJcupSLyCNCarcxGM) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [赤裸裸](https://open.spotify.com/album/0z33f6cNlOZvj8lGYIP3j4) | 2:40 |
+| 47 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
 | 48 | [Beyond Selves \(feat\. L\)](https://open.spotify.com/track/0yhDRfvMNnEzSTyGvfu5ds) | [Void\_Chords](https://open.spotify.com/artist/7CHOrOaEA09yNN1PLPlibc), [L](https://open.spotify.com/artist/5yf1IhykFumDFsiQmxwswU) | [Beyond Selves \(feat\. L\)](https://open.spotify.com/album/7bfbdV0sHCg8dlreqTYic5) | 5:33 |
 | 49 | [LITMUS](https://open.spotify.com/track/4SKkKCv06oN15DHpyKUnJk) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [LITMUS](https://open.spotify.com/album/3xZrKf9hGGyU6GPEmEJ2q7) | 4:14 |
-| 50 | [愛のしるし](https://open.spotify.com/track/39ctCzopDN0dYr26AKmQOP) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW) | [JET CD](https://open.spotify.com/album/1Rfgzkyxu5BBqtVWncmH7C) | 2:48 |
+| 50 | [OH HEY](https://open.spotify.com/track/6YZeMe9CGjpc6JG6JofwsU) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [LÜCY](https://open.spotify.com/artist/6opBMmpW2ODmI9iPF2btzD) | [OH HEY](https://open.spotify.com/album/1JlkxU3l8RV4whcN0nP1DD) | 3:57 |
 
-Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDNhNjI0NTYyNWEzZjU5MWY4ZTY0ZTlkODNjOTFkODFk`
+Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDkzMmJiZDc1YzI0YzRlOTI2YTBmYmY0ODYyNDE4MDY0`

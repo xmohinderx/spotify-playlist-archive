@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,176 likes - 50 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,298 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 32 | [As The Years Go Passing By](https://open.spotify.com/track/2NdRldi1OaTHDdTOnTS1Z8) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [I Hear Some Blues Downstairs](https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3) | 4:48 |
 | 33 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
 | 34 | [That's Why I Play the Blues](https://open.spotify.com/track/2wUDhs2MkJGHWFXHZtNmMQ) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Power of the Blues](https://open.spotify.com/album/3vGzSG4pwDm7L0xRyzC2Lv) | 4:04 |
-| 35 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
-| 36 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
-| 37 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
+| 35 | [Beaumont Blues](https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s) | [Phillip Walker](https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo) | [Someday You'll Have These Blues](https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz) | 4:07 |
+| 36 | [Personal Manager](https://open.spotify.com/track/4C0745bTNGF8nOOxqzLhtN) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [Born Under A Bad Sign](https://open.spotify.com/album/42WQ76qWDQmHlHvJa6Z3Uw) | 4:28 |
+| 37 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
 | 38 | [Kind Hearted Woman Blues](https://open.spotify.com/track/4TvQu0OSTGGeXErsYCGvcb) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/19Nhw4EECcCOj2379B8idV) | 4:06 |
 | 39 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
 | 40 | [Teardrops](https://open.spotify.com/track/4E3n9S34nNuJ25OiR8UxRg) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Good Luck Man](https://open.spotify.com/album/2v0DQ5RtiQl8ldmxA3KOvs) | 7:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 49 | [Night Time Is the Right Time](https://open.spotify.com/track/5BFsVmmI84lGKuC2BGAhew) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:50 |
 | 50 | [Sweet Little Angel](https://open.spotify.com/track/14DtWZA10VU7PZLxM5vO6g) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 5:30 |
 
-Snapshot ID: `MTY1OTEwNTU4MCwwMDAwMDAwMDI5MTBmZDNiODdlZTAzNDUwNjQwNTQ5ZmEwYzc1OGEw`
+Snapshot ID: `MTY1OTEwNTU4MCwwMDAwMDAwMDVkMGIxYzM1ZmEwYzZjMjIyM2Q2ODY1OTU1YWI3NDNi`

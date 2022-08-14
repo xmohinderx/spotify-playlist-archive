@@ -705,7 +705,7 @@
       ],
       "date_added": "2021-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 170247,
       "name": "Days Go By",
       "url": "https://open.spotify.com/track/0OCIiW9YJEqpHZZAyLuqU3"
@@ -1483,7 +1483,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-21",
+      "date_removed": null,
       "duration_ms": 187059,
       "name": "Guilty Pleasure",
       "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 172093,
       "name": "NIGHTMARE (feat. guardin)",
       "url": "https://open.spotify.com/track/3as5VuWv791EWn04JkrvtK"
@@ -3351,6 +3351,24 @@
       "duration_ms": 133186,
       "name": "THERAPY!",
       "url": "https://open.spotify.com/track/0GAWAziokyaTDufed63rEh"
+    },
+    {
+      "album": {
+        "name": "Death Of A Fantasy",
+        "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
+      },
+      "artists": [
+        {
+          "name": "Lauren Sanderson",
+          "url": "https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj"
+        }
+      ],
+      "date_added": "2022-06-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133186,
+      "name": "THERAPY!",
+      "url": "https://open.spotify.com/track/6lzW55cVEYSovFmM4EcSS6"
     },
     {
       "album": {

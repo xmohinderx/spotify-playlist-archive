@@ -4,7 +4,7 @@
 
 > Grab your leg warmers and spandex: let's get physical!
 
-169 songs - 11 hr 52 min - [published](https://open.spotify.com/playlist/3b0I2xOIGj17FstCLzMt5l)
+170 songs - 11 hr 56 min - [published](https://open.spotify.com/playlist/3b0I2xOIGj17FstCLzMt5l)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Owner of a Lonely Heart](https://open.spotify.com/track/6mTl8R70ONl748Tmw4E8DM) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Hits Of The 80s](https://open.spotify.com/album/0zPUfMqIUwToTHyUzK7GUx) | 4:23 | 2021-12-22 | 2022-06-01 |
 | [Owner of a Lonely Heart](https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [90125 \(Deluxe Version\)](https://open.spotify.com/album/6nNlTIiFd3J06W0rJiiwlz) | 4:28 | 2021-12-22 |  |
 | [Physical](https://open.spotify.com/track/7aeW3CrQAyQTk4PqwIYCVU) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Gold](https://open.spotify.com/album/24xwaPVl6xkUunl6lEWwje) | 3:41 | 2021-12-22 | 2022-07-29 |
+| [Physical \- Remastered 2021](https://open.spotify.com/track/4gitetlGHZ9LfuJhwUhEhF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Physical \(Deluxe Edition\)](https://open.spotify.com/album/6iEs6clt0QoAW4y0dzd3JH) | 3:45 | 2021-12-22 |  |
 | [Pump Up The Jam \- Edit](https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf) | [Technotronic](https://open.spotify.com/artist/2Cd98zHVdZeOCisc6Gi2sB), [Felly](https://open.spotify.com/artist/1pvibpCqTQG4mnbZ7vVSDj) | [Best Of](https://open.spotify.com/album/5uuAdNhG4ruMYRFPVCW8gL) | 3:35 | 2021-12-22 |  |
 | [Push It](https://open.spotify.com/track/0GugYsbXWlfLOgsmtsdxzg) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [The Best Of Salt\-N\-Pepa 20th Century Masters The Millennium Collection](https://open.spotify.com/album/0nHRtMQ4TiSCZOIqW5qJBq) | 4:28 | 2021-12-22 | 2022-07-29 |
 | [Push It](https://open.spotify.com/track/6sT9MWlJManry3EQwf4V80) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Hot, Cool & Vicious](https://open.spotify.com/album/5QFYPgLGw6DYz8S3TrLM2d) | 4:32 | 2021-12-22 |  |
@@ -170,7 +171,7 @@
 | [Whip It](https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Freedom of Choice](https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41) | 2:41 | 2021-12-22 |  |
 | [White Wedding, Pt\. 1 \- Edit](https://open.spotify.com/track/5g5mL6j77KPniAoUUSEo7D) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [This Is..\. 1985](https://open.spotify.com/album/7tgsgsiypWVQFxbNEnPHik) | 3:34 | 2021-12-22 | 2022-07-10 |
 | [Who Can It Be Now?](https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:21 | 2021-12-22 |  |
-| [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2021-12-22 |  |
+| [Word Up](https://open.spotify.com/track/7LoGfKBAaOl0nxhodJ1240) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 4:20 | 2021-12-22 | 2022-08-14 |
 | [You Give Love A Bad Name](https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet](https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t) | 3:42 | 2021-12-22 |  |
 | [You Give Love A Bad Name](https://open.spotify.com/track/5VVwwfK6Cp9IydkhKfJUEq) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Slippery When Wet \(Remastered\)](https://open.spotify.com/album/7pMFJnQzOnQXviU4FPpQAn) | 3:42 | 2021-12-22 | 2022-07-28 |
 | [You Got It \(The Right Stuff\)](https://open.spotify.com/track/4buDeg67vos7KP1yHrS9wl) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:09 | 2021-12-22 | 2022-05-01 |

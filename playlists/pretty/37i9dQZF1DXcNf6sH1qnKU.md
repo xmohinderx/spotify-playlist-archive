@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,679 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,043 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 34 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
 | 35 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 36 | [You And Your Sister \- Remastered](https://open.spotify.com/track/6y234mJkt0DEh39NxZ4uZ6) | [This Mortal Coil](https://open.spotify.com/artist/5OK8j1JnhoBlivN32G7yOO) | [Blood \(Remastered\)](https://open.spotify.com/album/1wHBJPXwl19a4xNgPaCDq9) | 3:14 |
-| 37 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
-| 38 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
+| 37 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
+| 38 | [Dive](https://open.spotify.com/track/0RBfGcrONMLwLysUhbtxJM) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:25 |
 | 39 | [Echo's Answer](https://open.spotify.com/track/3ZB8WOTt7p9cSia9iG0TMz) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [The Noise Made By People](https://open.spotify.com/album/4vm6U9WwZvHUKaCNYRj9Bv) | 3:12 |
 | 40 | [Sight of You](https://open.spotify.com/track/7fectUUMiPjZijOJIJaN3S) | [Pale Saints](https://open.spotify.com/artist/0WY2ddzQUF9eh16GiqrElA) | [The Comforts of Madness](https://open.spotify.com/album/3YZJ5Uiyy1vCMubtZDG7a2) | 5:37 |
 | 41 | [Tal Uno](https://open.spotify.com/track/3BPRUFOrl3IOOY8HpzRn4S) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Tal Uno](https://open.spotify.com/album/1xAniFMNAAkdXM8daxNBn2) | 4:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 49 | [Mesmerise](https://open.spotify.com/track/6bEbOvzviHrQEYjpuEvgje) | [Chapterhouse](https://open.spotify.com/artist/3r94PF71LWRI5K6wqclNjQ) | [Best Of](https://open.spotify.com/album/3aZ04o7EWxUYaJiQA1f9EE) | 4:12 |
 | 50 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 
-Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMGVkMDJkNTcwNDk4Y2MzMTc3M2JkNWUxMTM3NmEzMzYw`
+Snapshot ID: `MTY2MDAwNDkyMiwwMDAwMDAwMGVhZDllM2E0ZWRkNDc5YTIyMTE2YWJmNWFhNjgzNTlj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 
 > pov: u hand the internet the aux
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,792 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,033 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 21 | [Let's Groove](https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Raise!](https://open.spotify.com/album/1hj1SYbJYdXloRiSjsCLXg) | 5:39 |
 | 22 | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Emilee](https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE) | [ily \(i love you baby\) \(feat\. Emilee\)](https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B) | 2:56 |
 | 23 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 |
-| 24 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
-| 25 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
+| 24 | [Tainted Love](https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non\-Stop Erotic Cabaret](https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD) | 2:33 |
+| 25 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 |
 | 26 | [Phonky Town](https://open.spotify.com/track/5mnpMkzp3Z2RCCbwIEZCbv) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [Phonky Town](https://open.spotify.com/album/1TphjjWjHo2s2nFeZWrThI) | 2:21 |
 | 27 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
 | 28 | [Override](https://open.spotify.com/track/0KYvs7DKC7Cl5IHmwpP13f) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Override](https://open.spotify.com/album/0bwtv7A8S0PMvgobvukQO7) | 1:54 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 37 | [Jerusalema \(feat\. Nomcebo Zikode\)](https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K) | 5:42 |
 | 38 | [Dead To Me \- Slow + Reverb](https://open.spotify.com/track/7xnElMPFCmSlMJ0AY2hnxc) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Fraxo](https://open.spotify.com/artist/2lMv8dtufbOPrrf5CPS7tS), [Lox Chatterbox](https://open.spotify.com/artist/3SFVIUlipGj3RpWCKe9s73) | [Dead To Me Slow + Reverb](https://open.spotify.com/album/13juqGwSBOnrdF9GjZO835) | 4:27 |
 | 39 | [Dark Beach](https://open.spotify.com/track/5QmdK8QFbY8TLVKPuJzexD) | [Pastel Ghost](https://open.spotify.com/artist/06O23tLg0or676h8EEzH7W) | [Abyss](https://open.spotify.com/album/0RItfbXPf5eDzwdsgK9rKV) | 3:42 |
-| 40 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 |
-| 41 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
+| 40 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 |
+| 41 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 |
 | 42 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/1t0Jmqg1pKVBbxjQFZebeR) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Marea \(we’ve lost dancing\)](https://open.spotify.com/album/3AAwKutHRWyftJ2GrFdPX9) | 4:45 |
 | 43 | [U Are My High](https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [U Are My High](https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq) | 3:00 |
 | 44 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6C8II7sX76D.md) - [plain]
 | 49 | [Let Go](https://open.spotify.com/track/3kdlVcMVsSkbsUy8eQcBjI) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9), [Veronika Redd](https://open.spotify.com/artist/6kuFWCCvd7bWB1PV0tJMN2) | [Let Go](https://open.spotify.com/album/1MGkdnByMIGI1ZXcAf4Wze) | 4:08 |
 | 50 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
 
-Snapshot ID: `MTY1NTkzMjgxNywwMDAwMDAwMDVkMDkxZTczN2NjMDk1NWNjNjdiNWQ2OTc4NTA1MTBk`
+Snapshot ID: `MTY1NTkzMjgxNywwMDAwMDAwMDExMzdjMmNmZTEwYWVjYzY0YmYyYWE0ZjI5NWQ1MDQ3`

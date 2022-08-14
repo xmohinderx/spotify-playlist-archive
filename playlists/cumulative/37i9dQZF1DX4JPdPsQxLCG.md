@@ -4,7 +4,7 @@
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-221 songs - 14 hr 55 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
+222 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/53dtueIOJq1n4EVVrLjqp4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Albatross](https://open.spotify.com/track/4wFVYrjDT0rpEC1yjjs5hb) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Albatross](https://open.spotify.com/album/3x66IuQoDTrZnBrIYgXzQu) | 4:14 | 2022-05-02 | 2022-07-29 |
 | [All Hell For A Basement](https://open.spotify.com/track/221OWzoN7cDlxo5fenxawk) | [Big Sugar](https://open.spotify.com/artist/75eraSeadYDXU4zyzDxglZ) | [Brothers And Sisters, Are You Ready?](https://open.spotify.com/album/3frowGksCCfhu5gdxQI7J2) | 4:00 | 2022-05-02 | 2022-07-29 |
 | [American Psycho](https://open.spotify.com/track/43Uo8TI07snIf8GaS43F7U) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/5WZLwoDpwywF00FzAhJGQC) | 3:24 | 2022-05-02 | 2022-07-29 |
+| [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 | 2022-05-02 |  |
 | [American Woman](https://open.spotify.com/track/3LQPTJEqOfljGBxmpgUnoC) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [American Woman](https://open.spotify.com/album/4Z3eBMaRmWCbTguaeiYUjV) | 5:07 | 2022-05-02 |  |
 | [Anthems For A Seventeen Year\-Old Girl](https://open.spotify.com/track/0VXp4zDspR993l2hIKW17g) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 4:35 | 2022-05-02 |  |
 | [Apparitions](https://open.spotify.com/track/7CosFlbml7Rhw7t4FrSkdz) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Underdogs](https://open.spotify.com/album/74Rz6pP4zcrT10smt1EALp) | 5:14 | 2022-05-02 | 2022-07-21 |
@@ -67,7 +68,7 @@
 | [Hard To Laugh](https://open.spotify.com/track/5U5KjKI1zudxGTv7WVODO6) | [The Pursuit Of Happiness](https://open.spotify.com/artist/0lVGx5D7ylaycWxIdGXMt0) | [Love Junk](https://open.spotify.com/album/31BdrZHZlWKIGjoy0aaplt) | 2:39 | 2022-05-02 | 2022-07-28 |
 | [Hasn't Hit Me Yet \- 2012 Remaster](https://open.spotify.com/track/4MgPAPoNsUpJrVhKf1dCxz) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:13 | 2022-05-02 |  |
 | [Heart of Gold \- 2009 Remaster](https://open.spotify.com/track/1Q1b8eVkUPGlpSArl8JAVw) | [Neil Young](https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm) | [Harvest \(2009 Remaster\)](https://open.spotify.com/album/2l3QxNo4QubBNmVKxLeum0) | 3:07 | 2022-05-02 | 2022-07-24 |
-| [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 |  |
+| [Heaven Coming Down](https://open.spotify.com/track/6lOvhkSYAU6xde5BvtWNbB) | [The Tea Party](https://open.spotify.com/artist/6O5Xi2xT3bICu1ZLXqLYRE) | [TRIPtych](https://open.spotify.com/album/1q1DoRb0McqviO1JCwJ7mQ) | 4:01 | 2022-05-02 | 2022-08-14 |
 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 | 2022-05-02 |  |
 | [Hello, I'm In Delaware](https://open.spotify.com/track/1PUh1GENlvlgu0dW28I6tY) | [City and Colour](https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR) | [Sometimes](https://open.spotify.com/album/4RiXxyAgLSoTNcIgPYV5dn) | 5:45 | 2022-05-02 |  |
 | [High Road Easy](https://open.spotify.com/track/42KjSGC2rITrf3aPGPvdmm) | [Sass Jordan](https://open.spotify.com/artist/5s2RlLSGQMDvvQcv3dYtAB) | [Rats](https://open.spotify.com/album/6fRQotr4bCJNFScYyIHkCP) | 4:01 | 2022-05-02 | 2022-07-25 |

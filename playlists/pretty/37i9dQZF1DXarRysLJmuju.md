@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,081 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,157 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 53 | [You Might Not Like Her](https://open.spotify.com/track/1emUJfYrNiu2TuUsz8WiQf) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/2QEzpmo0T8QXYZidgsb5Uh) | 3:22 |
 | 54 | [Bet on Me](https://open.spotify.com/track/0m0MkG5PgAFYKdkAdxYYFk) | [Tedy](https://open.spotify.com/artist/2Iyxo030DdKWKmhhEaS22p) | [Bet on Me](https://open.spotify.com/album/1WPUKvdXUxK27Xmujturse) | 2:59 |
 | 55 | [Rooftops](https://open.spotify.com/track/0M8LvMw5ARqPvBGALIBLoM) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Rooftops](https://open.spotify.com/album/60j4yeYZl6vPOcDGtWIxVc) | 3:00 |
-| 56 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
+| 56 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
 | 57 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 58 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 |
 | 59 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 |

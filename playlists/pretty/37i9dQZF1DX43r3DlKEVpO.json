@@ -1,12 +1,12 @@
 {
   "description": "Uma sele\u00e7\u00e3o para as m\u00e3es e os pais cantarem junto com os filhos e vice-versa.",
-  "num_followers": 58736,
+  "num_followers": 58767,
   "original_name": "Pais e Filhos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMGY3MmJiZDIyMGY3MTNhODIzNzcwZjExYjI2NTczNWJl",
+  "snapshot_id": "MTY1NDYxMzEyOCwwMDAwMDAwMDJhYTA5YjIxMWE4OGFjMzg0MTNjZmZhMjhlNDhhMmM0",
   "tracks": [
     {
       "added_at": "2021-08-18 22:14:03",
@@ -647,22 +647,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Various Positions",
-        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
-      },
-      "artists": [
-        {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
-        }
-      ],
-      "duration_ms": 277160,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "The Boatman's Call (2011 Remastered Version)",
         "url": "https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 256120,
       "name": "Into My Arms - 2011 Remastered Version",
       "url": "https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Various Positions",
+        "url": "https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 277160,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9"
     },
     {
       "added_at": "2021-08-18 22:14:03",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-08-18 22:14:03",
       "album": {
-        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
-        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
-      },
-      "artists": [
-        {
-          "name": "Luiz Gonzaga",
-          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
-        }
-      ],
-      "duration_ms": 171040,
-      "name": "O Xote das Meninas",
-      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
-    },
-    {
-      "added_at": "2021-08-18 22:14:03",
-      "album": {
         "name": "Abra\u00e7ar e Agradecer (Ao Vivo)",
         "url": "https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 201426,
       "name": "This Time Tomorrow",
       "url": "https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye"
+    },
+    {
+      "added_at": "2021-08-18 22:14:03",
+      "album": {
+        "name": "Luiz Gonzaga Canta Seus Sucessos Com Z\u00e9 Dantas",
+        "url": "https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw"
+      },
+      "artists": [
+        {
+          "name": "Luiz Gonzaga",
+          "url": "https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD"
+        }
+      ],
+      "duration_ms": 171040,
+      "name": "O Xote das Meninas",
+      "url": "https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5"
     },
     {
       "added_at": "2022-06-07 14:45:28",

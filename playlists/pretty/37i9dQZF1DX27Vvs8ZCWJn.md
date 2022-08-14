@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 
 > Clásicas románticas, melodiosas, apacibles.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,110 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,246 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Vvs8ZCWJn.md) - [plain]
 | 38 | [Quién Fuera](https://open.spotify.com/track/5mLuPM0CpoXyrBncooRJZa) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Silvio](https://open.spotify.com/album/27B1VxY1FN5zUfp7hPR2Dc) | 5:36 |
 | 39 | [No Hace Falta](https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT) | [Mijares](https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p) | [Que Nada Nos Separe](https://open.spotify.com/album/0tv0ugArh5TtRPMORE70RY) | 4:27 |
 | 40 | [Tómame o Déjame \- Remasterizado](https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Mocedades 5](https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx) | 3:07 |
-| 41 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
-| 42 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
+| 41 | [Cantares](https://open.spotify.com/track/3sjv1TBUwUjXeyUrsH3DwJ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Dedicado A Antonio Machado, Poeta](https://open.spotify.com/album/3EF2QL5cEctLrXwNqTIBZX) | 3:16 |
+| 42 | [Todo Cambia](https://open.spotify.com/track/0njOsb3y8TnwIJC7GnlWwD) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [¿Será Posible El Sur?](https://open.spotify.com/album/3qbjXmDq5KNBU5BbycE3cj) | 4:44 |
 | 43 | [Medley \(Yo Que No Vivo Sin Ti / Culpable O No / Más Allá De Todo / Fría Como El Viento / Entrégate /Tengo Todo Excepto A Ti / La Incondicional\) \- En Vivo](https://open.spotify.com/track/2VbKzmGzbd2qjO0xw3WhKq) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 16:32 |
 | 44 | [Mentiras](https://open.spotify.com/track/1FkCsyMlPzsIJxqRRHurtT) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Coleccion de Oro](https://open.spotify.com/album/03qbgosLANCuqg2jUgmI9V) | 4:10 |
 | 45 | [Carta urgente \(feat\. Abel Pintos\)](https://open.spotify.com/track/7ljsdGh3oj4bNGqQsx4UM7) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [8 Lunas](https://open.spotify.com/album/4zsSDL0SbCqgifIHgiNxll) | 4:20 |
 | 46 | [Yolanda](https://open.spotify.com/track/2A0ZLZ2Bixhcnf9Jkdh5Xp) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Yo Me Quedo](https://open.spotify.com/album/3tOrqsV4WmxXbI57j3RHvU) | 4:38 |
 | 47 | [Te Voy a Enseñar a Querer](https://open.spotify.com/track/1611GmlolwbEqZgoi3nqvN) | [Manoella Torres](https://open.spotify.com/artist/4JRKcLbpjobmoOVoOXPd6y) | [La Gran Colección del 60 Aniversario CBS \- Manoella Torres](https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi) | 3:16 |
-| 48 | [Aquellas Pequeñas Cosas](https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Mediterráneo](https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72) | 1:50 |
-| 49 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 |
-| 50 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 48 | [Eres Tú](https://open.spotify.com/track/08HeIb9BidFjKROf9ptln0) | [Mocedades](https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY) | [Grandes Exitos](https://open.spotify.com/album/1PCiyADys8TTu8HrSFrTAl) | 3:34 |
+| 49 | [Necesito](https://open.spotify.com/track/7H62s62eUQqYXTA3WsrTK7) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Vida](https://open.spotify.com/album/0EdYPXNaKi8QOBwq1C13jM) | 2:13 |
+| 50 | [Señora](https://open.spotify.com/track/3sKfWfo0VSspTmBmK3jKzr) | [Francisco Céspedes](https://open.spotify.com/artist/54jti4nqabEAlBvIDU2zt8) | [Vida Loca](https://open.spotify.com/album/11lYdxQdsgkvKfDjX0nTHa) | 3:24 |
 
-Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMGE1M2E2MjE1YTBlMDlhZDMwOGE2NDY1YTcxYTUxMTIx`
+Snapshot ID: `MTY0MDQ1NTM0NywwMDAwMDAwMDdiODdmYjlkNmQ4MjY2NWM1ZWFjN2NmZTgyNmYyYjhh`

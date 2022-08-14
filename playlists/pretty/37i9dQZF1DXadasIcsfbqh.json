@@ -1,12 +1,12 @@
 {
   "description": "Pop country hits of today and tomorrow. Cover: Ingrid Andress",
-  "num_followers": 97966,
+  "num_followers": 98118,
   "original_name": "PopCo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGVlZTJhNjg0NTkyNzQ5MTk4MjRjYzkxMjc0ZGI3YWYx",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGM5ZTZiNDk0ZTcyZjJjZjk2MzQ5YTBmZjZkNGFjMjVh",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -471,22 +471,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Chasing After You (with Maren Morris)",
-        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
+        "name": "Blue In The Sky",
+        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
       },
       "artists": [
         {
-          "name": "Ryan Hurd",
-          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
+          "name": "Dustin Lynch",
+          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
         },
         {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
         }
       ],
-      "duration_ms": 207973,
-      "name": "Chasing After You (with Maren Morris)",
-      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
+      "duration_ms": 170560,
+      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
+      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -543,22 +543,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Blue In The Sky",
-        "url": "https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi"
+        "name": "Chasing After You (with Maren Morris)",
+        "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
       "artists": [
         {
-          "name": "Dustin Lynch",
-          "url": "https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS"
+          "name": "Ryan Hurd",
+          "url": "https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw"
         },
         {
-          "name": "MacKenzie Porter",
-          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 170560,
-      "name": "Thinking 'Bout You (feat. MacKenzie Porter)",
-      "url": "https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd"
+      "duration_ms": 207973,
+      "name": "Chasing After You (with Maren Morris)",
+      "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -583,18 +583,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Glad You Exist",
-        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+          "name": "Chris Lane",
+          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
+        },
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
         }
       ],
-      "duration_ms": 144533,
-      "name": "Glad You Exist",
-      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+      "duration_ms": 199000,
+      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
+      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -615,6 +619,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Glad You Exist",
+        "url": "https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 144533,
+      "name": "Glad You Exist",
+      "url": "https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Ghost Story",
         "url": "https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc"
       },
@@ -627,26 +647,6 @@
       "duration_ms": 181400,
       "name": "Ghost Story",
       "url": "https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-        "url": "https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr"
-      },
-      "artists": [
-        {
-          "name": "Chris Lane",
-          "url": "https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0"
-        },
-        {
-          "name": "Lauren Alaina",
-          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Dancin' In The Moonlight (feat. Lauren Alaina)",
-      "url": "https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Baby I Am",
-        "url": "https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo"
+        "name": "Nothing To Do Town",
+        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
       },
       "artists": [
         {
-          "name": "Dalton Dover",
-          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+          "name": "Dylan Scott",
+          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
         }
       ],
-      "duration_ms": 176573,
-      "name": "Baby I Am",
-      "url": "https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD"
+      "duration_ms": 160706,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -747,22 +747,6 @@
       "duration_ms": 224985,
       "name": "Brown Eyes Baby",
       "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Nothing To Do Town",
-        "url": "https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX"
-      },
-      "artists": [
-        {
-          "name": "Dylan Scott",
-          "url": "https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x"
-        }
-      ],
-      "duration_ms": 160706,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -787,6 +771,22 @@
       "duration_ms": 173173,
       "name": "ONE BEER (feat. Lauren Alaina & Devin Dawson)",
       "url": "https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Baby I Am",
+        "url": "https://open.spotify.com/album/44lDYWVwQ1yo5r066GtpSo"
+      },
+      "artists": [
+        {
+          "name": "Dalton Dover",
+          "url": "https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A"
+        }
+      ],
+      "duration_ms": 176573,
+      "name": "Baby I Am",
+      "url": "https://open.spotify.com/track/6OSa9hgEvituO2SaaYBiwD"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 174146,
-      "name": "Not Yet",
-      "url": "https://open.spotify.com/track/5csddpxbUz4tsxnC8GB9ZH"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "these words are all for you too",
         "url": "https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 162973,
       "name": "Love Is Real",
       "url": "https://open.spotify.com/track/73gI9hHi8wKYyNvoHFmH9C"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
+      },
+      "artists": [
+        {
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
+        }
+      ],
+      "duration_ms": 174146,
+      "name": "Not Yet",
+      "url": "https://open.spotify.com/track/5csddpxbUz4tsxnC8GB9ZH"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "I Don't Go Back",
+        "url": "https://open.spotify.com/album/0Rh8EYAlpUkvonGJoBMudV"
+      },
+      "artists": [
+        {
+          "name": "Kassi Ashton",
+          "url": "https://open.spotify.com/artist/1LCsAfmP4l13EYtzDaLMAg"
+        }
+      ],
+      "duration_ms": 200573,
+      "name": "I Don't Go Back",
+      "url": "https://open.spotify.com/track/55Y4hbXnw8DZDGxwVFr6Xp"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Elephant in the Room (feat. Teddy Swims)",
         "url": "https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 172663,
       "name": "Can't Miss You Anymore",
       "url": "https://open.spotify.com/track/5LkRgwjOaBydaGxc5rztPd"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Break My Heart Again",
-        "url": "https://open.spotify.com/album/28xGeXg7CLzjoTsp1y1u7Q"
-      },
-      "artists": [
-        {
-          "name": "Danielle Bradbery",
-          "url": "https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN"
-        }
-      ],
-      "duration_ms": 201256,
-      "name": "Break My Heart Again",
-      "url": "https://open.spotify.com/track/0iVbEBizaS8X9RW1MLzKB8"
     }
   ],
   "unique_name": "PopCo",

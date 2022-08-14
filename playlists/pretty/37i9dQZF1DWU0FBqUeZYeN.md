@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 337,468 likes - 127 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 337,676 likes - 127 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

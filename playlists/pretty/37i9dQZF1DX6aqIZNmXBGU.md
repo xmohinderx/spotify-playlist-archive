@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 
 > Get pumped, feel the vibe and get ready for the swell coming in.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,961 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,967 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,18 +43,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 33 | [Tourette's](https://open.spotify.com/track/6ZXGdStfF4q5jnyK76uG4a) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [In Utero \- 20th Anniversary Remaster](https://open.spotify.com/album/7wOOA7l306K8HfBKfPoafr) | 1:35 |
 | 34 | [The Boy](https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ) | [Shannon & The Clams](https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE) | [Onion](https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W) | 3:02 |
 | 35 | [Think Of You](https://open.spotify.com/track/5W3Auo6qVL6wwbIruLFju7) | [Bleached](https://open.spotify.com/artist/2kS9MrOD16tiQOIyJTzFxK) | [Carter](https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX) | 2:41 |
-| 36 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
-| 37 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
+| 36 | [DVP](https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [The Dream Is Over](https://open.spotify.com/album/3l94HZBpKFTn1plZ1WWQPf) | 2:28 |
+| 37 | [Toe Cutter \- Thumb Buster](https://open.spotify.com/track/4lZjHEJXzKCCTVPtgYcypv) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Floating Coffin](https://open.spotify.com/album/6UpdRU3P0AAMA6MVCzsW3c) | 3:32 |
 | 38 | [Creep in a T\-Shirt](https://open.spotify.com/track/1lpN3qsugqtMR49xwzHYnt) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Evil Friends](https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF) | 3:53 |
 | 39 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |
 | 40 | [Veni Vidi Vici](https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Good Bad Not Evil](https://open.spotify.com/album/6sDyIpIg0vjpKOR9VrvagJ) | 2:28 |
-| 41 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
-| 42 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
-| 43 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
-| 44 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
-| 45 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
-| 46 | [Lucidity](https://open.spotify.com/track/4aetgBuI5iRQpjy8gdGxY8) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo) | 4:31 |
-| 47 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
+| 41 | [King of the Beach](https://open.spotify.com/track/1CHL6sjDwpivvA4LE0lsww) | [Wavves](https://open.spotify.com/artist/6bUJpbekaIlq2fT5FMV2mQ) | [King of the Beach](https://open.spotify.com/album/7Mn0aXVHjaoFZPKLssqI9d) | 2:38 |
+| 42 | [Floating Vibes](https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA) | [Surfer Blood](https://open.spotify.com/artist/0IlQRCafsMrd0QkTRBU6n0) | [Astro Coast](https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42) | 3:54 |
+| 43 | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Broken Boy \(feat\. Iggy Pop\)](https://open.spotify.com/album/4jCLZy0GRmWrOCiIpj3Gbt) | 2:43 |
+| 44 | [Badillac](https://open.spotify.com/track/5tQkgG7unCiJxaOFp5yc5O) | [Together Pangea](https://open.spotify.com/artist/29q1axQPERERxUzqufXMqB) | [Badillac](https://open.spotify.com/album/5GgsYoD0QMQyCaJ1MhEtPz) | 2:27 |
+| 45 | [Lucidity](https://open.spotify.com/track/4aetgBuI5iRQpjy8gdGxY8) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/5RA5hhLlbw31QfQRX11pwo) | 4:31 |
+| 46 | [Blood Under My Belt](https://open.spotify.com/track/5Nhsz5O0DIS5Mh5E3tlBbp) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Abysmal Thoughts](https://open.spotify.com/album/2dfRhvbhgRTB5wBjI1mihw) | 3:48 |
+| 47 | [The Dream](https://open.spotify.com/track/1JdweBSkJMLjnNW6LzmXJ8) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Carrion Crawler / The Dream](https://open.spotify.com/album/7JC1vAUtlOwe8AJ3hLmr91) | 6:52 |
 | 48 | [Leash \- Remastered](https://open.spotify.com/track/52FlqmFHKaTV0dDMEe0F4F) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Vs.](https://open.spotify.com/album/3BSOiAas8BpJOii3kCPyjV) | 3:08 |
 | 49 | [Space Cadet](https://open.spotify.com/track/3bkP8LtaC6fWnBPkuqDlQa) | [The Murlocs](https://open.spotify.com/artist/0rH93aHDYyJfMAcPB9OKus) | [Loopholes](https://open.spotify.com/album/3Jwlm2yPSjIld9S1sCNw4G) | 3:10 |
 | 50 | [Reservoir Dawgs](https://open.spotify.com/track/5QiqeGYwJDzZh2qCmXbooc) | [Beach Goons](https://open.spotify.com/artist/7Aw7RMHmISxyQBftcksDZ3) | [Boisad](https://open.spotify.com/album/1AW9OdUZ9PK4x1VH5Tg300) | 3:29 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aqIZNmXBGU.md) - [plain]
 | 59 | [Modern Art](https://open.spotify.com/track/3p6DhlMp6bql668XFfszkK) | [Black Lips](https://open.spotify.com/artist/35C0NSLogAwImm8HAMqEmG) | [Arabia Mountain](https://open.spotify.com/album/1HODhqNf9fFCKPffdnKJaR) | 2:04 |
 | 60 | [No Song Unheard](https://open.spotify.com/track/4dtThTihlGhxcggGCAfhed) | [The Hellacopters](https://open.spotify.com/artist/1lsXuaLnHnfL7GoJXKkUtH) | [High Visibility](https://open.spotify.com/album/0EuXyADUMu7Dzl2xa41rjx) | 4:00 |
 
-Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMDhiYTIzYjczMjA1MjIyNWY3ZDgzYzc1YmZkZjg1YWYx`
+Snapshot ID: `MTY0ODA1MDUxNSwwMDAwMDAwMDBmYWE3Zjg5MzZhZjM1ZWVlN2FmZDRlZjI2NDYwOTIy`

@@ -4,7 +4,7 @@
 
 > Upbeat piano for stepping out
 
-252 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
+253 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/6T0dcge1HCXsvT3rcEc3mW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,9 @@
 | [Cornélis](https://open.spotify.com/track/3gGFpTbVGM8M2T3ZmjKsvJ) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Cornélis](https://open.spotify.com/album/4jlUnPvwnPdxwNwC6VU3Mf) | 2:28 | 2022-06-07 |  |
 | [Coulant](https://open.spotify.com/track/445KHitEvap0tspDZ3C78V) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Coulant](https://open.spotify.com/album/2yVjc4mMxopxCDyPDBP1Iq) | 2:28 | 2022-06-07 |  |
 | [Could It Be?](https://open.spotify.com/track/1BVWa7Qf9nN9eakpg13aF1) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Elyse Cloudd](https://open.spotify.com/artist/4Z9Z9Pd1xy1BKq3PgHnpGV) | [Could It Be?](https://open.spotify.com/album/1FtVHVt45fGkU5cHeyLgkP) | 1:51 | 2022-06-07 | 2022-07-20 |
-| [Dancing Butterflies](https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Dancing Butterflies](https://open.spotify.com/album/0jS0WNnzijFTntrDJOJBRY) | 1:58 | 2022-06-07 |  |
+| [Dancing Butterflies](https://open.spotify.com/track/4h5GTzoptGcmml3VwBkP6t) | [Remi Sinclair](https://open.spotify.com/artist/2e43Th3IHo39TLIcMpeFbn) | [Dancing Butterflies](https://open.spotify.com/album/0jS0WNnzijFTntrDJOJBRY) | 1:58 | 2022-06-07 | 2022-08-14 |
 | [Dancing Fairies](https://open.spotify.com/track/4ZhBTKqXyEpRR6GC8bVV2z) | [Almeda](https://open.spotify.com/artist/2X4HKfgm5M8uwMWDLSauFE) | [Dancing Fairies](https://open.spotify.com/album/3djM3a4pI910KyYDHlaabn) | 1:56 | 2022-06-07 |  |
-| [Dandelion Song](https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Dandelion Song](https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM) | 3:12 | 2022-06-07 |  |
+| [Dandelion Song](https://open.spotify.com/track/1wDYoGkjEyzH0LgYNuS4YS) | [Maël Alexandrienne](https://open.spotify.com/artist/5VQ1hti6Wtt95mSCrighiu) | [Dandelion Song](https://open.spotify.com/album/26QuZDw2nEtsvVWUUZaLwM) | 3:12 | 2022-06-07 | 2022-08-14 |
 | [Darjeeling](https://open.spotify.com/track/37LE6gpXSSArk0zKyvukSb) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Darjeeling](https://open.spotify.com/album/3brqqWbxbR44knvxSxj4s0) | 2:52 | 2022-06-07 |  |
 | [Dazzling Sun](https://open.spotify.com/track/2Ybs9KNO2dlCp6CGBIGtzo) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Efflorescence](https://open.spotify.com/album/39PUwYEN0AxbFJDAdsrJOO) | 2:19 | 2022-06-07 |  |
 | [De seu](https://open.spotify.com/track/5Bl7fjZwq3u37T51tspPAp) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [De Seu](https://open.spotify.com/album/0a84zl4kQdodn1VhkTl3jl) | 2:35 | 2022-06-07 |  |
@@ -253,8 +253,9 @@
 | [Westwood](https://open.spotify.com/track/6sfddrMHU0zljVevQLa4dg) | [Peter Bach](https://open.spotify.com/artist/7uOP00uc0fjE4yEFecj0oL) | [Westwood](https://open.spotify.com/album/5G0SwN1Hn8Xz91PcE8UoGy) | 2:42 | 2022-06-07 |  |
 | [What We Used To Say](https://open.spotify.com/track/43puambWzfUexLaMUVfR4H) | [Debra Goulet](https://open.spotify.com/artist/2S7w1Z4eNOuk8bam4aGJG4) | [What We Used To Say](https://open.spotify.com/album/6O6vtBUInq3QlBYRAK6IWj) | 2:16 | 2022-06-07 |  |
 | [Whirling sky](https://open.spotify.com/track/0ngwNemhn1nKmYHYZnJZmB) | [Tamara Blake](https://open.spotify.com/artist/1JKAaplWralpIuAjbe1ROw) | [Whirling sky](https://open.spotify.com/album/2tWbOuTHJk5700ETmICSBU) | 2:49 | 2022-06-07 |  |
+| [Wind of Change](https://open.spotify.com/track/0ubuJV6bCSUME2iCKovVwo) | [Phil Servati](https://open.spotify.com/artist/297Q5ZWFQEZFXwiGa54day) | [Wind of Change](https://open.spotify.com/album/6f25L5Lmd4FxMNYLhHN1ux) | 2:00 | 2022-08-09 |  |
 | [Wings](https://open.spotify.com/track/1TMwDvcIQpZKiio3glvpq7) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Wings](https://open.spotify.com/album/1hTQa53r74R97QMZZ8t8b9) | 2:33 | 2022-06-07 |  |
-| [World For A Dance](https://open.spotify.com/track/7rIN1EjL0P78qaM46slfD7) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Wisdom](https://open.spotify.com/album/6QGeclXlvL4oNRmmfa6ZNP) | 1:55 | 2022-07-19 | 2022-07-26 |
+| [World For A Dance](https://open.spotify.com/track/7rIN1EjL0P78qaM46slfD7) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Wisdom](https://open.spotify.com/album/6QGeclXlvL4oNRmmfa6ZNP) | 1:55 | 2022-07-19 |  |
 | [Wurzeln](https://open.spotify.com/track/1XxpdpkVxh9B3jYOW3Le14) | [Lekk](https://open.spotify.com/artist/0yicpX5myaa6X2hXtsJ1Oj) | [Glass Stone](https://open.spotify.com/album/0nGGwRQAKy5uAoeoE0bjyF) | 2:32 | 2022-06-07 |  |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2022-07-19 |  |
 | [Yōsei](https://open.spotify.com/track/5wsqAeIRP9mmZBVRua7ShH) | [Malotte H](https://open.spotify.com/artist/7DRkB3iAI3rpubmBA7qrEt) | [Yōsei](https://open.spotify.com/album/0PK0SJ0irDoDsSvI2WF5zy) | 2:38 | 2022-06-07 |  |

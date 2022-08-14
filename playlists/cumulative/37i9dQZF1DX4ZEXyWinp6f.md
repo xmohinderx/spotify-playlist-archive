@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-272 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+273 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [In The Space Capsule \(The Love Theme\)](https://open.spotify.com/track/2jVcsAnUCJeNqWycXKJVY1) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Flash Gordon](https://open.spotify.com/album/3B9CPu2LUskwUbZBkzu34h) | 2:43 | 2020-07-07\* | 2022-04-19 |
 | [Iniziare](https://open.spotify.com/track/4SgUoGv3RlcMF4Vpm0Jp5i) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Iniziare](https://open.spotify.com/album/0slaiqzIOB4yT6UlSPdC8S) | 5:42 | 2021-10-20 |  |
 | [Iniziare](https://open.spotify.com/track/6539RqDlPkwIPXrsmi4u1D) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [AVANTI](https://open.spotify.com/album/6LDgPsDJlyJ948ARpncN9c) | 5:42 | 2020-10-20 | 2022-07-25 |
-| [Into the Aether](https://open.spotify.com/track/48A4wR1mc9xv0CEZPFuThs) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Into the Aether](https://open.spotify.com/album/2zcBKjQTMvMUIpcXl0CPxH) | 4:55 | 2022-01-14 |  |
+| [Into the Aether](https://open.spotify.com/track/48A4wR1mc9xv0CEZPFuThs) | [Applefish](https://open.spotify.com/artist/2tXSmVWVgzUAot6441wbTS) | [Into the Aether](https://open.spotify.com/album/2zcBKjQTMvMUIpcXl0CPxH) | 4:55 | 2022-01-14 | 2022-08-14 |
 | [Is This Power](https://open.spotify.com/track/0Q70gojAQn9mTAdY15tWzM) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/6h1LdVhHDirAXwgDFftCL0) | 8:39 | 2021-10-20 |  |
 | [Is This Power](https://open.spotify.com/track/6gNyWXWnOmNwhHmrqCoq6z) | [The Field](https://open.spotify.com/artist/23MIhFHpoOuhtEHZDrrnCS) | [Looping State Of Mind](https://open.spotify.com/album/3fASgexUtIr2a7jAGaIeNP) | 8:39 | 2020-10-20 | 2022-04-21 |
 | [Kagen Sound](https://open.spotify.com/track/65CcRPKQEQcT3bGHNfk2v9) | [Luke Abbott](https://open.spotify.com/artist/3rVAnydRNnaQr24T3reJZg) | [Translate](https://open.spotify.com/album/0Sn4h3jqTAWbVvoFHqG2Od) | 3:07 | 2020-11-24 |  |
@@ -136,6 +136,7 @@
 | [Le Bracelet](https://open.spotify.com/track/04uauFxLrz9VTsqQpsGKMa) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4BF1mMXkDo1NcJCgEBXKEk) | 1:27 | 2021-10-20 |  |
 | [Le Bracelet](https://open.spotify.com/track/2khUO1FMaVvGagUJpUJIwt) | [Alain Goraguer](https://open.spotify.com/artist/2yenSHFA1v0ZsCMFWr5N1M) | [La Planète Sauvage](https://open.spotify.com/album/0hyEAwTWIDaseZAAi5t36x) | 1:27 | 2021-02-27 | 2022-04-21 |
 | [Let Me See](https://open.spotify.com/track/5c8A84d753jlBaLnsVnYR5) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:41 | 2020-09-08 | 2022-07-27 |
+| [Life Forms](https://open.spotify.com/track/3lmGK3UelDNbXwTCbvVKrN) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/4MXUqLOKxcTFkHgF7ChgdR) | 2:30 | 2021-10-20 |  |
 | [Life Forms](https://open.spotify.com/track/7hj956jJ1eIMcQJy165Kpf) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Life Forms](https://open.spotify.com/album/5lMabjCJifbzYeRVpep5lY) | 2:30 | 2020-07-07\* | 2022-07-24 |
 | [Life In The Circus](https://open.spotify.com/track/37BOeQy16hgtJvmTrEYRCP) | [Mars Sense](https://open.spotify.com/artist/3CzreurmyGbePnOzFceCHm) | [Life In The Circus](https://open.spotify.com/album/09fVRkCx60JbsKJVIxPjNo) | 3:18 | 2022-01-07 | 2022-07-22 |
 | [Lighter than the Air](https://open.spotify.com/track/4MBjZS2wipFT30GSQkjxvL) | [Norwell](https://open.spotify.com/artist/6tpd4iKhBI02ABzfPfR27z), [Alpár](https://open.spotify.com/artist/6LOTmLaPHsnxCzUpqFomsw) | [Illúzío](https://open.spotify.com/album/0sGTtmmEMlFg6IKOlDiIlR) | 6:27 | 2021-05-23 | 2021-05-27 |

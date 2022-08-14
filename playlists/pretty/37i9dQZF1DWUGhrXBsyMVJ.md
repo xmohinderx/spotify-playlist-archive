@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 
 > Unforgettable love songs from the 1950s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,499 likes - 53 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,718 likes - 53 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 25 | [Magic Moments](https://open.spotify.com/track/7bflxIMDz5mFxhQyYx1CEh) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Today & Yesterday](https://open.spotify.com/album/29LVsHDQnohvzRrKerq5t3) | 2:39 |
 | 26 | [Come Rain or Come Shine](https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 3:42 |
 | 27 | [A Teenager's Romance](https://open.spotify.com/track/1Qn5jElT7XqjvVeJ8pYM2w) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Legacy](https://open.spotify.com/album/1bZHbHtUvjGqUOKNla4lo0) | 2:20 |
-| 28 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
-| 29 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
+| 28 | [Calendar Girl](https://open.spotify.com/track/7Gpx2fNJiilvrf9Ss8qbit) | [Neil Sedaka](https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL) | [Rock with Sedaka \(Expanded Edition\)](https://open.spotify.com/album/1Ue6n39wDCfKyy4IBOuPqO) | 2:39 |
+| 29 | [Devoted to You](https://open.spotify.com/track/4FrMb1ckGBrhARbHySQKx5) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:21 |
 | 30 | [Witchcraft](https://open.spotify.com/track/3BTsv0FthgmDwyKlYShwJF) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:53 |
-| 31 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
-| 32 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
+| 31 | [My Prayer](https://open.spotify.com/track/1ntGJDSakqsaw1KhptKrB5) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Platters](https://open.spotify.com/album/1T6CcZgciHOZeeAZnw9jji) | 2:47 |
+| 32 | [Cry Me A River](https://open.spotify.com/track/4ydtQJImyQg6UDFFZBzgxp) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [What A Diff'rence A Day Makes! \(Expanded Edition\)](https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe) | 2:30 |
 | 33 | [Never Be Anyone Else But You \- Remastered](https://open.spotify.com/track/0snHlyyyUp2hKYEz7ffmkx) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:16 |
 | 34 | [Words Of Love](https://open.spotify.com/track/3U9Kkv90QElks0pzIgfAxw) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Buddy Holly](https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP) | 1:57 |
 | 35 | [To Be Loved](https://open.spotify.com/track/0CAzT38ct3vgDW3p6yIzUe) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [He's So Fine](https://open.spotify.com/album/4u4SJFMnkubwHu8VmNQJ9w) | 2:34 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUGhrXBsyMVJ.md) - [plain]
 | 52 | [You Are My One Desire](https://open.spotify.com/track/4Ypc4CISFdkHHbOrrKQtrn) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:25 |
 | 53 | [All The Way \- 2006 Digital Remaster/24 Bit Mastering](https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Romance: Songs From The Heart](https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp) | 2:52 |
 
-Snapshot ID: `MTY0MTgxNTE5MSwwMDAwMDAwMGQwZjNjOWRjODM5OTUxMThhYjBmNzZmZDcxMjdkNTdk`
+Snapshot ID: `MTY0MTgxNTE5MSwwMDAwMDAwMDJhZDYxNWJiNTA2YzhjMTg4OTA4YjU2NTU2YjUwMmI2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 
 > Speaking to us sweetly from a window in the Tower of Song, this collection includes the legend's own tributes\. Cover: <a href="spotify:artist:5l8VQNuIg0turYE1VtM9zV">Leonard Cohen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,758 likes - 40 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,762 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX8N4beMj76D.md) - [plain]
 | 28 | [Everybody Knows](https://open.spotify.com/track/7arMFVCLQ4h0B3lIZITEdY) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX), [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Everybody Knows](https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo) | 5:26 |
 | 29 | [Who By Fire](https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Songs I Love Vol.1](https://open.spotify.com/album/7GE2PIbzksYbhVxtbSHuwF) | 3:00 |
 | 30 | [Heart With No Companion](https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui) | [Ron Sexsmith](https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH) | [Ron Sexsmith](https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg) | 3:09 |
-| 31 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 |
-| 32 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 |
+| 31 | [Suzanne](https://open.spotify.com/track/73Nr0OjKNWybcYvJXeO9nN) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Just Like A Woman: Nina Simone Sings Classic Songs Of The '60s](https://open.spotify.com/album/5iFgWpYe8TI36apXgwlJlR) | 4:19 |
+| 32 | [Tennessee Waltz \- Live at Montreux Jazz Festival](https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Dear Heather](https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg) | 4:05 |
 | 33 | [Ballad of a Runaway Horse](https://open.spotify.com/track/4fuNvXnEfvtHtdNFdsVcRB) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Cowgirl's Prayer](https://open.spotify.com/album/7CMJy2xY33K9LBVdnlADdC) | 5:35 |
 | 34 | [Song of Bernadette](https://open.spotify.com/track/2dtsFPhGB5YduAoIKekVaT) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Bathhouse Betty](https://open.spotify.com/album/73NZUZBj0TJbzaEdW503Yn) | 3:46 |
-| 35 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
-| 36 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
+| 35 | [Who by Fire \(feat\. Jenn Grant\)](https://open.spotify.com/track/1HrWXSbm7z0qykZCxBn4CT) | [Buck 65](https://open.spotify.com/artist/6jbuMVAvWgoPxEb1wMglyz) | [20 ODD YEARS](https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj) | 3:35 |
+| 36 | [Ballad of the Absent Mare](https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC) | [Perla Batalla](https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd) | [Bird on the Wire: The Songs of Leonard Cohen](https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz) | 6:16 |
 | 37 | [Coming Back To You](https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV) | [Martin Gore](https://open.spotify.com/artist/6KQQ6ka4Thwww3kjYqrG0F) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:32 |
 | 38 | [A Thousand Kisses Deep \- New Recording](https://open.spotify.com/track/0DYMn3FBYloHiTqiCTDIB9) | [Judy Collins](https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn) | [Judy Collins Sings Leonard Cohen: Democracy](https://open.spotify.com/album/7Ferd5c8F0JJOptUiMmxqZ) | 5:42 |
 | 39 | [Sisters Of Mercy](https://open.spotify.com/track/1t8gcWQNb5bD9XssAzxbcw) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [The Chieftains](https://open.spotify.com/artist/6AnrSlk5Gp1YMXgaI3mWCL) | [Tower Of Song \- The Songs Of Leonard Cohen](https://open.spotify.com/album/2Gh98Zgs0pR0ZF5VuUOsXC) | 3:19 |
 | 40 | [Chelsea Hotel \#2](https://open.spotify.com/track/0wWuIseAsESzPDFPBYwkRs) | [Kyle Craft](https://open.spotify.com/artist/29kOS7p4N9JeqoRgA2PCsr) | [Chelsea Hotel \#2](https://open.spotify.com/album/74kCTmJ9MUmJWRZifk69Bi) | 3:35 |
 
-Snapshot ID: `MTU0NDEyNDU2MiwwMDAwMDAwMGJhMTZlZmI2Mzc1YTM4MWMxNWVmMDBmOTM1MWJiMDgx`
+Snapshot ID: `MTU0NDEyNDU2MiwwMDAwMDAwMDE3Zjk4MWY1MjgwZmU5ZjE4OWUxMmM5NmZkMGE3MTA4`

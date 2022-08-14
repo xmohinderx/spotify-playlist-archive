@@ -4,7 +4,7 @@
 
 > Plug your brain into a modular synthesizer analog loop.
 
-152 songs - 9 hr 9 min - [published](https://open.spotify.com/playlist/2ARx9LN0yDEgMqgS0RHhmt)
+153 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2ARx9LN0yDEgMqgS0RHhmt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,8 @@
 | [Mixed Waste 4.2](https://open.spotify.com/track/27gmgvQ1KMiqTwpIVeQx9u) | [Baiyon](https://open.spotify.com/artist/2ibBdk29W8yH1KPD6oZdaj) | [Moog \(Original Film Soundtrack\)](https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3) | 4:11 | 2021-08-17 |  |
 | [Moog Power](https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2) | [Hugo Montenegro](https://open.spotify.com/artist/0JBc7Jztn7EdEVjyMCN6Wi) | [Moog Power](https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX) | 2:54 | 2021-08-17 |  |
 | [Motorama](https://open.spotify.com/track/70RSgTp3AuCOenN3RXlef2) | [Gerhard Narholz](https://open.spotify.com/artist/7uvEwug4pon5M8ktDXyx3q), [Manuel Landy](https://open.spotify.com/artist/7w5BFEiKNV1PK6SCPlogco) | [Retro Synth POP](https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2) | 3:10 | 2021-08-17 |  |
-| [Mushrooms \(Raag Multani\)](https://open.spotify.com/track/73fEqa2W97tsRn0FMC8KZW) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 1:52 | 2021-11-12 |  |
+| [Mushrooms \(Raag Multani\)](https://open.spotify.com/track/2ELgcsJO8lNU8MdagrlaoM) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/4BrxiBiX85qOxYPbZXXl3c) | 1:52 | 2021-11-12 |  |
+| [Mushrooms \(Raag Multani\)](https://open.spotify.com/track/73fEqa2W97tsRn0FMC8KZW) | [Modern Biology](https://open.spotify.com/artist/0a5RCK5J5b6GVzHVcEO05o) | [Plant Music, Vol\. 1](https://open.spotify.com/album/28P0TxFIZ9QaiQ49RPjumi) | 1:52 | 2021-11-12 | 2022-08-14 |
 | [Music Box](https://open.spotify.com/track/2VByjjAgoQEV0dMcrpvROq) | [Locust](https://open.spotify.com/artist/5kytvmQqoeunOLa2LtIt1N) | [The Plaintive](https://open.spotify.com/album/0uGMnCKyRxq2h6YnK6zqbe) | 3:20 | 2021-08-17 |  |
 | [Music for Advertising \#1](https://open.spotify.com/track/5XHR7hotYg8SLIi0hdFTuU) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Music from Patch Cord Productions](https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75) | 1:01 | 2021-08-17 | 2022-07-29 |
 | [Music for Advertising \#1](https://open.spotify.com/track/7dexp8CBwf4epTO74a8PBG) | [Mort Garson](https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha) | [Music from Patch Cord Productions](https://open.spotify.com/album/2rDr9iY1cIdIN9Bfu46iYr) | 1:01 | 2021-08-17 |  |

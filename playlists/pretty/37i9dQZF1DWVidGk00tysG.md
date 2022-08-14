@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 
 > Dive into Chopin's greatest works for the piano, from solo études to full\-blown concertos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,781 likes - 89 songs - 8 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,828 likes - 89 songs - 8 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVidGk00tysG.md) - [plain]
 | 64 | [Waltz No\. 10 in B Minor, Op\. 69, No\. 2](https://open.spotify.com/track/7lAOLNDVHWwvBohU5frfG7) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Waltzes \(Complete\)](https://open.spotify.com/album/2T3nLB2fOmHzoN8nDKbHWl) | 3:58 |
 | 65 | [Polonaise No\. 3 in A Major, Op\. 40, No\. 1 'Military'](https://open.spotify.com/track/4GIxB5XC9OeeQoIab7rM5S) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Polonaises](https://open.spotify.com/album/6VKtoTP1F2NzGjNH1ASS68) | 5:06 |
 | 66 | [Nocturne No\. 19 in E Minor, Op\. 72, No\. 1](https://open.spotify.com/track/64LTn5fTsPR0QLy7bVYl9w) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Benjamin Grosvenor](https://open.spotify.com/artist/4imd50KIbHcyrStbIuZswj) | [Benjamin Grosvenor: Chopin, Liszt, Ravel](https://open.spotify.com/album/5MyejkHGSoo5IfTum4VMiw) | 4:01 |
-| 67 | [Waltz No.19 in A minor, Op.posth.](https://open.spotify.com/track/2I7WcgmlZSKkWhC0zEAmQn) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: Piano Music/Piano Concertos](https://open.spotify.com/album/4HsGBOGrhdYy0uHIoXaCQA) | 2:32 |
+| 67 | [Waltz No\. 19 in A minor, Op\. posth.](https://open.spotify.com/track/2I7WcgmlZSKkWhC0zEAmQn) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Claudio Arrau](https://open.spotify.com/artist/5k15M5itLxlNtLk7BGpGa1) | [Chopin: Piano Music/Piano Concertos](https://open.spotify.com/album/4HsGBOGrhdYy0uHIoXaCQA) | 2:32 |
 | 68 | [Mazurka No\. 14 in G Minor, Op\. 24, No\. 1](https://open.spotify.com/track/0LZh6bNs6HtMmvCL9cpEWM) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Idil Biret](https://open.spotify.com/artist/5SBOWUBQdfga0xprPVBxOr) | [Chopin: Mazurkas, Vol\. 1](https://open.spotify.com/album/4kN7aLWISt6TVQcsv5s4gx) | 3:06 |
 | 69 | [Chopin: Scherzo No\. 2 in B\-Flat Minor, Op\. 31](https://open.spotify.com/track/6OwavBgVS1N4lAXZ2zKUfc) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Simon Trpčeski](https://open.spotify.com/artist/5PIHDfb0kpwTfNuWRWjXmU) | [Chopin: Piano Sonata No\. 2 Op\. 35 & 4 Scherzos](https://open.spotify.com/album/2nYlvZ89PuF4MVME7EHqns) | 9:47 |
 | 70 | [Mazurka No\. 36 in A Minor, Op\. 59 No\. 1](https://open.spotify.com/track/50NKS5zdW19a73ckDz29eu) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Vladimir Ashkenazy](https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82) | [Chopin: Mazurkas](https://open.spotify.com/album/1V9JapAlT99rVUJzVgv0gJ) | 4:28 |

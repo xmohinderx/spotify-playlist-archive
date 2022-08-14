@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 
 > Classic soft rock\. For that free and easy feeling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,561 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,682 likes - 80 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 36 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
 | 37 | [Save It For A Rainy Day](https://open.spotify.com/track/5AHjRKFCVUaRClF2Oxx8Ld) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [Careless](https://open.spotify.com/album/08zWo4xb7GZ5e3dyUOUAmm) | 3:12 |
 | 38 | [Love Will Find A Way](https://open.spotify.com/track/2LqzuRukwnpeWYLXBtiwmq) | [Pablo Cruise](https://open.spotify.com/artist/3Y5abCLsMxsOLaZ8rYusSR) | [Worlds Away](https://open.spotify.com/album/4aYsq7sHYon9fInMOboyfK) | 4:11 |
-| 39 | [Son Of A Son Of A Sailor](https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 3:26 |
-| 40 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |
+| 39 | [You Are the Woman](https://open.spotify.com/track/4iiLzvbh0bXMnomiB6DIuk) | [Firefall](https://open.spotify.com/artist/1tfXh4XxILEuMU2qZupFn8) | [Firefall](https://open.spotify.com/album/4AFZXGTZBMj0T1H20laj7o) | 2:44 |
+| 40 | [Son Of A Son Of A Sailor](https://open.spotify.com/track/5Yi6mwvMHnnh241uGjcJYy) | [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Son Of A Son Of A Sailor](https://open.spotify.com/album/56JCyRFdBu8cTxla0VrGLK) | 3:26 |
 | 41 | [On the Beach](https://open.spotify.com/track/5QrNXvTQEuBb5iLoIAAuvk) | [Chris Rea](https://open.spotify.com/artist/5KEG7G8LDYlHgFDqZyEEs2) | [New Light Through Old Windows](https://open.spotify.com/album/7p9ePF3nuGOHHKdK54xjHH) | 3:41 |
 | 42 | [Thunder Island](https://open.spotify.com/track/3FkQN4NyCFlfn7fWzBkWCj) | [Jay Ferguson](https://open.spotify.com/artist/3aahGWIXwvG1fxduXjimtl) | [Thunder Island](https://open.spotify.com/album/2ICj5EvbtucP1EeMID4zBj) | 4:00 |
 | 43 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 60 | [In Your Letter](https://open.spotify.com/track/0udUxLibGsKop4rlmBaVsi) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:16 |
 | 61 | [You Belong to Me](https://open.spotify.com/track/1xqkWY4drK3wKu75XiY9hW) | [Bobby Caldwell](https://open.spotify.com/artist/4V4Z3qMCwYofWHtip6ePF6) | [Carry On](https://open.spotify.com/album/49gYESUIs0Wk80IhUgnbsY) | 3:11 |
 | 62 | [If I Saw You Again](https://open.spotify.com/track/3XJC8vRhbtm3NzHXE1XAta) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Pages](https://open.spotify.com/album/1qdncgTUWG6mnVUfTyYdIG) | 3:24 |
-| 63 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
-| 64 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 63 | [Get It Right Next Time](https://open.spotify.com/track/0o3HJmXnQPRX4jymsmk3sS) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [Night Owl](https://open.spotify.com/album/6Xs4APmiDQ4IpqOqzKv0Yh) | 4:42 |
+| 64 | [The Lady Wants to Know](https://open.spotify.com/track/0zS5yED1tcpP5gXTTj0IL0) | [Michael Franks](https://open.spotify.com/artist/0AVE7rDx4X9w0pW1XlN1om) | [Sleeping Gypsy](https://open.spotify.com/album/4z3AgcuD8k8rkzXjdDw1ry) | 4:45 |
 | 65 | [Better Love Next Time](https://open.spotify.com/track/2WHTHxUipSqJU9yJRnpO6S) | [Dr\. Hook](https://open.spotify.com/artist/2Mhi3jfuRSdbVZPdjqsnnN) | [Greatest Hits](https://open.spotify.com/album/6rZyWDvLwKIkfSZ8qcmmdK) | 3:00 |
 | 66 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
 | 67 | [The Nightfly](https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 5:47 |
-| 68 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
-| 69 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
+| 68 | [Say You'll Be Mine](https://open.spotify.com/track/7ys2QcBgHEIO6tyaRF2nOt) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 2:56 |
+| 69 | [Casablanca](https://open.spotify.com/track/2dcL0moa4ZOrRNUBrOMojo) | [Dane Donohue](https://open.spotify.com/artist/4kTI0EhldC81wN7PSBki3A) | [Dane Donohue](https://open.spotify.com/album/34LLJFmhTpNRaKVR5qnqwx) | 4:03 |
 | 70 | [Still Right Here In My Heart](https://open.spotify.com/track/5HZchgrpAreegk6UGs0zHr) | [Pure Prairie League](https://open.spotify.com/artist/1MXwwmS2JpmsHZhdMeOL2s) | [Something In The Night](https://open.spotify.com/album/1TqLFWSHFnAZq5I7Xg0tti) | 2:56 |
 | 71 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 72 | [Reminiscing \- 2002 Digital Remaster](https://open.spotify.com/track/4NoLnnJvVK5tpOdlNQI6RG) | [Little River Band](https://open.spotify.com/artist/6clbbhnIqpHnqxwtOWcilg) | [The Definitive Collection](https://open.spotify.com/album/1iZgFhl4ik5FfPxaRiv3RN) | 4:09 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6fhMYWIyuww.md) - [plain]
 | 76 | [One More Look At The Night](https://open.spotify.com/track/7vUbFCefkYWl4uSpMManF1) | [Andy Gibb](https://open.spotify.com/artist/4YPqbAiLzBg5DIfsgQZ8QK) | [Shadow Dancing](https://open.spotify.com/album/3Ru1PEQBFI88kBIWcPGGS8) | 3:47 |
 | 77 | [Nice, Nice, Very Nice](https://open.spotify.com/track/10Vp6LUbSc5LUM3ksCZB1M) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw), [Alan Parsons](https://open.spotify.com/artist/6HpZkC8GUktP9utE6OPWZG) | [Ambrosia](https://open.spotify.com/album/4WLSlSsZR6RZSaZm2ZB1WI) | 5:49 |
 | 78 | [Who's Right, Who's Wrong](https://open.spotify.com/track/5IXfPffHYMM9a7nrHWjh8l) | [Pages](https://open.spotify.com/artist/4xoTZnaFX7xWz76sVSgg7u) | [Future Street](https://open.spotify.com/album/7KBgZw2zPPQes5Oo1vNQha) | 4:19 |
-| 79 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
-| 80 | [Don't Turn Me Away](https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Essential Air Supply](https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY) | 3:40 |
+| 79 | [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 |
+| 80 | [Baby I Need Your Lovin'](https://open.spotify.com/track/3JUSHG1WHesa1p7rN7Ad3g) | [Eric Carmen](https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU) | [Change Of Heart](https://open.spotify.com/album/5hhDhRDQ1sTeKpLH6CvROw) | 3:16 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGRiYzBmNGVmYzI3MTM1ODRlYjhjZGYwY2Y5YTRhMDIw`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGY4Zjk4NWExOWFlYTkzMzdmZTViMWFiN2Q4NmI5OTZm`

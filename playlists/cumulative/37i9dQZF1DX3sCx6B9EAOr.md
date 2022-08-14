@@ -4,7 +4,7 @@
 
 > Tap your feet to the K\-Pop beats on your way through the driving moments\. \(시원한 국내음악들과 드라이빙을 즐겨보세요!\)
 
-563 songs - 1 day 7 hr 27 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
+564 songs - 1 day 7 hr 30 min - [published](https://open.spotify.com/playlist/0nUjsH768x0umnQTjqeac9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Attention](https://open.spotify.com/track/7FmMYtdjfJSeZjC2e2Pt6t) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Don't Call Me \- The 7th Album](https://open.spotify.com/album/6bfcHf3khPey88qjiiw8V3) | 3:44 | 2021-12-07 | 2022-04-09 |
 | [AWay](https://open.spotify.com/track/6kDjvnLPUyDn0GVc6BLG6A) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Simple](https://open.spotify.com/album/3UM9M1xTkqU6Df6Cciui5J) | 3:20 | 2022-03-24 | 2022-04-20 |
 | [AYA](https://open.spotify.com/track/4BZXVFYCb76Q0Klojq4piV) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [TRAVEL](https://open.spotify.com/album/3xje7wSW2xwQx2GNJ5cfNu) | 3:31 | 2022-03-24 |  |
-| [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2021-12-07 |  |
+| [Bad Boy](https://open.spotify.com/track/1WCOna34eEMPgjfOOZkGQc) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y), [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Bad Boy](https://open.spotify.com/album/4IRuxkSbw7iZZmnr6Rly2Q) | 3:02 | 2021-12-07 | 2022-08-14 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-12 |  |
 | [BAD GIRL \(Prod\. Czaer\)](https://open.spotify.com/track/4yCQYX8eKL1XYJmGglSV1A) | [LACHICA](https://open.spotify.com/artist/0vqjEQRfmE1Sov92UQRJMp), [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Street Woman Fighter\(SWF\) Special](https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6) | 3:14 | 2021-12-07 | 2022-06-16 |
 | [Bad Idea](https://open.spotify.com/track/5C5mQ012yrXCHJAdesRWrJ) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [IN\-OUT](https://open.spotify.com/album/5Ak5VnM8tuKypGz4FbfiDc) | 3:18 | 2022-03-24 | 2022-04-18 |
@@ -422,6 +422,7 @@
 | [RING X RING](https://open.spotify.com/track/4hfF0FOFcaiOtwY3NP5hnv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the Billage of perception : chapter one](https://open.spotify.com/album/1kp4txZsSpDNR4EoDFi2LD) | 3:20 | 2022-02-14 | 2022-07-27 |
 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 | 2021-12-07 |  |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-12-07 | 2022-07-14 |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-12 |  |
 | [RUN](https://open.spotify.com/track/5addyZDQMgnj1vDkMYZAyA) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz) | [RUN](https://open.spotify.com/album/7bwlqMGcB1u57m3rUVBn15) | 2:44 | 2021-12-07 | 2022-07-28 |
 | [Run Away](https://open.spotify.com/track/3UtKoiEoW8P9irIXTtIk1m) | [Yi Sung Yol](https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9) | [Ms\. Ma, Nemesis Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3xoBvHrae7rbl9ip3KK5nw) | 4:03 | 2022-03-24 | 2022-04-15 |
 | [Run BTS](https://open.spotify.com/track/69xohKu8C1fsflYAiSNbwM) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:24 | 2022-06-20 |  |

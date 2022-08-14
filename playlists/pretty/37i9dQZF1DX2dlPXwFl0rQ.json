@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables del Regional Mexicano. Janely Rosa en portada.",
-  "num_followers": 75137,
+  "num_followers": 75189,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NDkzMCwwMDAwMDAwMDRjNmZmOGZkOGIxNjg0NTVkYTY3Y2YzMTA1NjIyMzU5",
+  "snapshot_id": "MTY1OTA3NDkzMCwwMDAwMDAwMGJhN2Y2OGQyOWQxMWZjOTlmZWY5YzlkZmQ3MTBmN2Y5",
   "tracks": [
     {
       "added_at": "2022-07-29 06:08:50",
@@ -267,18 +267,22 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Orgullo De Mujer",
-        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
+        "name": "Qu\u00e9 Bueno Es Tenerte",
+        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
       "artists": [
         {
-          "name": "Alicia Villarreal",
-          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 243933,
-      "name": "Insensible A Ti (Me Pone A Mil)",
-      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -299,22 +303,18 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Qu\u00e9 Bueno Es Tenerte",
-        "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
+        "name": "Orgullo De Mujer",
+        "url": "https://open.spotify.com/album/4fbZPlF487LFDjYetlqmk3"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Alicia Villarreal",
+          "url": "https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
+      "duration_ms": 243933,
+      "name": "Insensible A Ti (Me Pone A Mil)",
+      "url": "https://open.spotify.com/track/6WP2v1QpghefM2iM4x5L4a"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Mi Reflejo",
-        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
-      },
-      "artists": [
-        {
-          "name": "Nora Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
-        }
-      ],
-      "duration_ms": 214071,
-      "name": "Mi Reflejo",
-      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
         "name": "Hazme Tuya",
         "url": "https://open.spotify.com/album/0a48C884SUXHbslHhIwlGI"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 144869,
       "name": "Hazme Tuya",
       "url": "https://open.spotify.com/track/7GbzKGxTsaNmvgnBhcnNP5"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
+        "name": "Mi Reflejo",
+        "url": "https://open.spotify.com/album/2YOA7R8fMyfUqGjNn4CYuP"
+      },
+      "artists": [
+        {
+          "name": "Nora Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/0BVCyIztXUUpw2Ek7REmd9"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Mi Reflejo",
+      "url": "https://open.spotify.com/track/1wi1GAdmpU1qdbrtNBss75"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Ya Viv\u00ed El Desamor",
-        "url": "https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi"
-      },
-      "artists": [
-        {
-          "name": "La Martita",
-          "url": "https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz"
-        }
-      ],
-      "duration_ms": 101680,
-      "name": "Ya Viv\u00ed El Desamor",
-      "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"
-    },
-    {
-      "added_at": "2022-06-08 17:53:25",
-      "album": {
         "name": "Siempre Vuelvo A Ti",
         "url": "https://open.spotify.com/album/2dIhh5rHaiCNx3OZGIG35w"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 182373,
       "name": "Siempre Vuelvo Contigo",
       "url": "https://open.spotify.com/track/5lWViFRs52ZHJr8LK6fOb5"
+    },
+    {
+      "added_at": "2022-06-08 17:53:25",
+      "album": {
+        "name": "Ya Viv\u00ed El Desamor",
+        "url": "https://open.spotify.com/album/54rgpyfRluG3hRXR7CQdPi"
+      },
+      "artists": [
+        {
+          "name": "La Martita",
+          "url": "https://open.spotify.com/artist/0v94jdfLfhW6v2zKE6uEJz"
+        }
+      ],
+      "duration_ms": 101680,
+      "name": "Ya Viv\u00ed El Desamor",
+      "url": "https://open.spotify.com/track/5SZcsfj451HOgs3GYxOHgj"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "No Te Dejes Enga\u00f1ar",
-        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
+        "name": "Perd\u00f3name",
+        "url": "https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
         }
       ],
-      "duration_ms": 193066,
-      "name": "No Te Dejes Enga\u00f1ar",
-      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
+      "duration_ms": 144531,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1271,24 +1271,24 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Perd\u00f3name",
-        "url": "https://open.spotify.com/album/70k3vqW5xmIMhKMzSRzG1a"
+        "name": "No Te Dejes Enga\u00f1ar",
+        "url": "https://open.spotify.com/album/5r2bpBBDDMPEenUASbVGME"
       },
       "artists": [
         {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
         }
       ],
-      "duration_ms": 144531,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/0VGHUbRgbbiMNcsE5QErKG"
+      "duration_ms": 193066,
+      "name": "No Te Dejes Enga\u00f1ar",
+      "url": "https://open.spotify.com/track/1DDqAJ6VPBqB8mBi64B7jf"
     },
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Ya No Me Importa",
-        "url": "https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR"
+        "name": "Hoy Dame el Gusto",
+        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
       },
       "artists": [
         {
@@ -1296,9 +1296,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 223883,
-      "name": "Ya No Me Importa",
-      "url": "https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf"
+      "duration_ms": 192827,
+      "name": "Hoy Dame el Gusto",
+      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
     },
     {
       "added_at": "2022-06-08 17:53:25",
@@ -1367,8 +1367,8 @@
     {
       "added_at": "2022-06-08 17:53:25",
       "album": {
-        "name": "Hoy Dame el Gusto",
-        "url": "https://open.spotify.com/album/3kRufiPZq2VFnS6EhFqUwF"
+        "name": "Ya No Me Importa",
+        "url": "https://open.spotify.com/album/7FZGLlJEMDpfGOS21YKLOR"
       },
       "artists": [
         {
@@ -1376,9 +1376,9 @@
           "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Hoy Dame el Gusto",
-      "url": "https://open.spotify.com/track/5bYDZac40Gh7u7MdOm2RlI"
+      "duration_ms": 223883,
+      "name": "Ya No Me Importa",
+      "url": "https://open.spotify.com/track/12rkhRzMY5uTZHviXYyBRf"
     },
     {
       "added_at": "2022-06-08 17:53:25",

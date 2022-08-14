@@ -4,7 +4,7 @@
 
 > Trending dance hits in India\. Cover: Lil Pump & Yo Yo Honey Singh
 
-132 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
+133 songs - 7 hr 2 min - [published](https://open.spotify.com/playlist/4LmBKe4LSrS4bT8FvFonit)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,8 @@
 | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/track/1dt220OBbkTsYz1NLVKIaw) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Call Me \(with R3HAB & Timmy Trumpet\)](https://open.spotify.com/album/3FPgLHoo4FzTPtY8j2HNeQ) | 2:58 | 2022-05-18 |  |
 | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/track/4dnD517ZzwS68r2JlUybIe) | [Yo Yo Honey Singh](https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR), [Lil Pump](https://open.spotify.com/artist/3wyVrVrFCkukjdVIdirGVY), [DJ Shadow Dubai](https://open.spotify.com/artist/3qnsN7WTgndwqTiBHelp6S), [Simar Kaur](https://open.spotify.com/artist/5yI5MjFLwQwfP24OxchqN1) | [Casanova \(feat\. Simar Kaur\)](https://open.spotify.com/album/6WMxMrIallcyiPjLQdMKwt) | 3:34 | 2022-07-22 |  |
 | [Check My Fizz](https://open.spotify.com/track/1EySCjsDw2UCbZtopFIBn2) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Chakshu Kotwal](https://open.spotify.com/artist/0w3yzcroyJEGY9nzsseeam) | [Check My Fizz](https://open.spotify.com/album/73kDOz97CJszxm2eZnZ70Z) | 2:40 | 2022-05-18 |  |
-| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-11-26 |  |
+| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-11-26 | 2022-08-14 |
+| [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 | 2022-07-22 |  |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [Cold Heart \(PNAU Remix\)](https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6) | 3:22 | 2022-02-01 | 2022-05-19 |
 | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-05-18 |  |
 | [Daylight](https://open.spotify.com/track/7K1fqeaZKX2fGH2ddOfPUC) | [Soundwaves](https://open.spotify.com/artist/56BMviGiJkpclgY1dCJmcK), [Hysaze](https://open.spotify.com/artist/0OvAdt4y8gH1lnUOCRxf9D), [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Daylight](https://open.spotify.com/album/2T874FXcRt9kwIags5Zckc) | 3:30 | 2021-11-26 | 2022-05-19 |

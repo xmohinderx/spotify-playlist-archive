@@ -1,12 +1,12 @@
 {
   "description": "The classic jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 35403,
+  "num_followers": 35469,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTEyMywwMDAwMDAwMDkxNjc4NDUwNDRhZmY2YWExYTQ5YmU5ZjU5OWFiMDdl",
+  "snapshot_id": "MTY2MDMwOTEyMywwMDAwMDAwMGZkMDZiNDNmYTEwZjJhNjQ5MzBlYzA4NTA4NWI2MTcx",
   "tracks": [
     {
       "added_at": "2022-08-12 12:58:43",
@@ -347,8 +347,8 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
-        "name": "Unforgettable",
-        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
+        "name": "Virtuoso",
+        "url": "https://open.spotify.com/album/15mqbWSQ1XtAtpx5JsRA3Y"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 151506,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
+      "duration_ms": 212066,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -527,8 +527,8 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
-        "name": "Virtuoso",
-        "url": "https://open.spotify.com/album/15mqbWSQ1XtAtpx5JsRA3Y"
+        "name": "Unforgettable",
+        "url": "https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ"
         }
       ],
-      "duration_ms": 212066,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/6BH7yXu2TGulH6Gdn6zJSI"
+      "duration_ms": 151506,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -575,18 +575,26 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
-        "name": "The Genius Of The Electric Guitar",
-        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
+        "name": "Kessel Plays Standards",
+        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
       },
       "artists": [
         {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+          "name": "Barney Kessel",
+          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
+        },
+        {
+          "name": "Ray Brown",
+          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
+        },
+        {
+          "name": "Shelly Manne",
+          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
         }
       ],
-      "duration_ms": 174973,
-      "name": "I Found a New Baby",
-      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
+      "duration_ms": 188333,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -623,26 +631,18 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
-        "name": "Kessel Plays Standards",
-        "url": "https://open.spotify.com/album/5ppBTIkGP1apH4P9Rc1Wjc"
+        "name": "The Genius Of The Electric Guitar",
+        "url": "https://open.spotify.com/album/4QIxeBZfEtZpUWFbOrMrjV"
       },
       "artists": [
         {
-          "name": "Barney Kessel",
-          "url": "https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG"
-        },
-        {
-          "name": "Ray Brown",
-          "url": "https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8"
-        },
-        {
-          "name": "Shelly Manne",
-          "url": "https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo"
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
         }
       ],
-      "duration_ms": 188333,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/6uddYxVxC6qX5PSPzAylid"
+      "duration_ms": 174973,
+      "name": "I Found a New Baby",
+      "url": "https://open.spotify.com/track/651OpXqL6blBV0KOswQ2yh"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -999,6 +999,30 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
+      },
+      "artists": [
+        {
+          "name": "John Abercrombie",
+          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
+        },
+        {
+          "name": "Jan Hammer",
+          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
+        },
+        {
+          "name": "Jack DeJohnette",
+          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
+        }
+      ],
+      "duration_ms": 292133,
+      "name": "Ralph's Piano Waltz",
+      "url": "https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8"
+    },
+    {
+      "added_at": "2022-08-12 12:58:43",
+      "album": {
         "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
         "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
@@ -1027,30 +1051,6 @@
       "duration_ms": 255280,
       "name": "When The Sun Comes Out",
       "url": "https://open.spotify.com/track/6AVztYjd9LnVjXtDHK73NU"
-    },
-    {
-      "added_at": "2022-08-12 12:58:43",
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW"
-      },
-      "artists": [
-        {
-          "name": "John Abercrombie",
-          "url": "https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa"
-        },
-        {
-          "name": "Jan Hammer",
-          "url": "https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy"
-        },
-        {
-          "name": "Jack DeJohnette",
-          "url": "https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU"
-        }
-      ],
-      "duration_ms": 292133,
-      "name": "Ralph's Piano Waltz",
-      "url": "https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
+        "name": "Question and Answer",
+        "url": "https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv"
+      },
+      "artists": [
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        }
+      ],
+      "duration_ms": 505226,
+      "name": "Solar",
+      "url": "https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn"
+    },
+    {
+      "added_at": "2022-08-12 12:58:43",
+      "album": {
         "name": "Kenny Burrell & John Coltrane",
         "url": "https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 422680,
       "name": "I Never Knew",
       "url": "https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL"
-    },
-    {
-      "added_at": "2022-08-12 12:58:43",
-      "album": {
-        "name": "Question and Answer",
-        "url": "https://open.spotify.com/album/1kM7n3aiIKwS4FZqWLLdLv"
-      },
-      "artists": [
-        {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
-        }
-      ],
-      "duration_ms": 505226,
-      "name": "Solar",
-      "url": "https://open.spotify.com/track/0AduWgUPoSsKHMzhHKzqkn"
     },
     {
       "added_at": "2022-08-12 12:58:43",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2022-08-12 12:58:43",
       "album": {
+        "name": "Bill Frisell, Ron Carter, Paul Motian",
+        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
+      },
+      "artists": [
+        {
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
+        }
+      ],
+      "duration_ms": 356533,
+      "name": "You Are My Sunshine",
+      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
+    },
+    {
+      "added_at": "2022-08-12 12:58:43",
+      "album": {
         "name": "I Have The Room Above Her",
         "url": "https://open.spotify.com/album/3b1HL44VlL1tniGvg6yDF3"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 253866,
       "name": "Odd Man Out",
       "url": "https://open.spotify.com/track/4zSlzvNseGhiutbNKzq6nO"
-    },
-    {
-      "added_at": "2022-08-12 12:58:43",
-      "album": {
-        "name": "Bill Frisell, Ron Carter, Paul Motian",
-        "url": "https://open.spotify.com/album/7hnLRv9M7Gt9HjMPsZ1mmz"
-      },
-      "artists": [
-        {
-          "name": "Bill Frisell",
-          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
-        }
-      ],
-      "duration_ms": 356533,
-      "name": "You Are My Sunshine",
-      "url": "https://open.spotify.com/track/2sf3HFNcwXw9cd1D4in2lT"
     },
     {
       "added_at": "2022-08-12 12:58:43",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Nicki Minaj, Megan Thee Stallion, Rod Wave, Rex Orange County, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,947,146 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,947,658 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 18 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 |
 | 19 | [Inevitable](https://open.spotify.com/track/63tOjOVg2NU1lF1Iw8NBG4) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her](https://open.spotify.com/album/5wHRgHOgsIhpqMUG52pmAE) | 3:22 |
 | 20 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 |
-| 21 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lucki](https://open.spotify.com/artist/70ZUXm3cW6AVm6hZot2Tyh) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
+| 21 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
 | 22 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
 | 23 | [Living Hell](https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls EP](https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz) | 2:54 |
 | 24 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 62 | [Femininomenon](https://open.spotify.com/track/1YlOZY3puELE0PgxD1enZo) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Femininomenon](https://open.spotify.com/album/6wsWilHjzetverzs9qfHZF) | 3:39 |
 | 63 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
 | 64 | [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 |
-| 65 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Songs From Bell Bottom Country](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
+| 65 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 66 | [My Tribe](https://open.spotify.com/track/3uBU35tiEfq9nstHLauSHU) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe](https://open.spotify.com/album/4PErex6T8qV3kP7cYOQzU0) | 3:03 |
 | 67 | [SAY LESS \(with French Montana\)](https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SAY LESS](https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG) | 2:30 |
 | 68 | [Chase Em Down \(feat\. G Herbo\)](https://open.spotify.com/track/6nUKL13cbO4ngkiPSQveRP) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trench Baby 3](https://open.spotify.com/album/0WcrXk7wQoVhbQSvIFpPMx) | 2:47 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 
 > Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,289,462 likes - 125 songs - 9 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,290,633 likes - 125 songs - 9 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 61 | [Modern Day Cowboy](https://open.spotify.com/track/5ZIU2kT1wNjQNclQeVCz5O) | [Tesla](https://open.spotify.com/artist/0dgnITyIAN4NrmUVisvxHU) | [Mechanical Resonance](https://open.spotify.com/album/1VctZj1UuAgfqtnDcTlzGI) | 5:18 |
 | 62 | [Overkill](https://open.spotify.com/track/3Staqm5EYDnYBqcwuxrWjZ) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [Overkill \(Expanded Bonus Track Edition\)](https://open.spotify.com/album/5iw08epzFaKtmX3y2vRVU6) | 5:11 |
 | 63 | [Balls to the Wall](https://open.spotify.com/track/2dbOYFfS7r7NAzquRvji9A) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Balls To The Wall](https://open.spotify.com/album/2twCPCDGJjVD90GWUjA8vN) | 5:42 |
-| 64 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
+| 64 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
 | 65 | [I Surrender](https://open.spotify.com/track/2dHjSNCw10clC9oOld8tPn) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Difficult To Cure](https://open.spotify.com/album/6bLrltddpgzAPMlefww9Ex) | 4:01 |
-| 66 | [Lay It Down](https://open.spotify.com/track/3D5ORNm9spaTcdRx50ksHx) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Invasion of Privacy](https://open.spotify.com/album/7CzsLoFBEMElxviJoApcAI) | 3:25 |
+| 66 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 | 67 | [Wild Child](https://open.spotify.com/track/3iC3Numiy9P3AkF7iioKmx) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Last Command](https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv) | 5:12 |
 | 68 | [In My Darkest Hour \- Remastered](https://open.spotify.com/track/5LO0sJCkNMZYLYeGOvblLu) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [So Far, So Good...So What! \(2004 Remaster\)](https://open.spotify.com/album/5f4vbRLrRmoDH0zpdQnyrE) | 6:26 |
 | 69 | [Bringin' On The Heartbreak](https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:33 |
@@ -106,8 +106,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 96 | [Evil](https://open.spotify.com/track/5pH1BecbNktYDbYw0XCEWn) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 4:44 |
 | 97 | [Blackout](https://open.spotify.com/track/15RpfmFhrE5RRkf4vZ6kZu) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:48 |
 | 98 | [Angel Witch](https://open.spotify.com/track/4G3Nnoae2XF1cdbdgATKKq) | [Angel Witch](https://open.spotify.com/artist/6L48AOtGmQL1ELLoKML7cS) | [Angel Witch \(30th Anniversary Edition\)](https://open.spotify.com/album/1a3pru3t4DuZoGHBpCNM66) | 3:23 |
-| 99 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
-| 100 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 |
+| 99 | [Only the Brave](https://open.spotify.com/track/5F4PRUrsZQ8zTppxd6OA9a) | [Tygers Of Pan Tang](https://open.spotify.com/artist/1MZ8NERIuOS610KBhr6yna) | [Tygers of Pan Tang](https://open.spotify.com/album/3amo8Qg9VoTutpiftk6oAO) | 5:03 |
+| 100 | [Over the Wall](https://open.spotify.com/track/5xXeIlEiWIA8xnPa8BkJyj) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Legacy](https://open.spotify.com/album/6HELG1uNTkBj4OwJcC9fY9) | 4:06 |
 | 101 | [Long Live Rock N Roll](https://open.spotify.com/track/2ilsr4UkwAL10MspiJtKA3) | [Rainbow](https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m) | [Long Live Rock 'n' Roll](https://open.spotify.com/album/0abggihGZTIzf1GfHhrjwE) | 4:24 |
 | 102 | [Princess of the Night](https://open.spotify.com/track/6SUudbR4vTazN9Jb7QWQn5) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Denim and Leather](https://open.spotify.com/album/40v5zR6YBrjhkodFEjZcKs) | 4:02 |
 | 103 | [A Dangerous Meeting](https://open.spotify.com/track/0V7iTNAnyoOqcZz54lGA4E) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Don't Break the Oath](https://open.spotify.com/album/6gADLDKOjcXTFrfE5Xp3HA) | 5:12 |
@@ -115,15 +115,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 105 | [Fast as a Shark](https://open.spotify.com/track/204523f9MSgEfc0oDJycNS) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 3:48 |
 | 106 | [We Rock](https://open.spotify.com/track/4cMKvXUOLFbC6lRLCz5HPg) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [The Last in Line](https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9) | 4:35 |
 | 107 | [Children of the Earth](https://open.spotify.com/track/0un0EK8Qvd3eNYh7BJz2OF) | [Praying Mantis](https://open.spotify.com/artist/7rWdpyAaKzEA0jdP0WgLG0) | [Time Tells No Lies](https://open.spotify.com/album/4LXymJcEmn1Hw9GmfEqmem) | 5:37 |
-| 108 | [Riding the Storm \- 2017 \- Remaster](https://open.spotify.com/track/4Tak05pxFRYnHBsvxrVmag) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Death or Glory \(Expanded Version; 2017 \- Remaster\)](https://open.spotify.com/album/5qWs6LYzk0YpSGmkUBE5sp) | 6:28 |
-| 109 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
+| 108 | [Armed and Ready \- 2000 Remaster](https://open.spotify.com/track/4r299IW4ua73XaiXYFtLwP) | [Michael Schenker Group](https://open.spotify.com/artist/5uSY4FF3dZMCVSkZslKCHi) | [Michael Schenker Group](https://open.spotify.com/album/6QqK1XqWiU2fSVuLUXgdeR) | 4:09 |
+| 109 | [Riding the Storm \- 2017 \- Remaster](https://open.spotify.com/track/4Tak05pxFRYnHBsvxrVmag) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Death or Glory \(Expanded Version; 2017 \- Remaster\)](https://open.spotify.com/album/5qWs6LYzk0YpSGmkUBE5sp) | 6:28 |
 | 110 | [Curse of the Pharaohs](https://open.spotify.com/track/0mobywrA15c3nHS5qzarlu) | [Mercyful Fate](https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9) | [Melissa](https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58) | 3:57 |
 | 111 | [Can U Deliver](https://open.spotify.com/track/25kORdST1xzG4WXOnzJCKV) | [Armored Saint](https://open.spotify.com/artist/4ug41UGuMZzlV2hJOrOqHN) | [March Of The Saint](https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1) | 3:35 |
 | 112 | [Swords and Tequila](https://open.spotify.com/track/3lJqE5AKrrFDFdhDyB0kqx) | [Riot](https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR) | [Fire Down Under](https://open.spotify.com/album/5yygmFcqz4aOo36rLXyNXO) | 3:20 |
 | 113 | [Princess of the Dawn](https://open.spotify.com/track/2CgXyaryyuxl35iMlvanD8) | [Accept](https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv) | [Restless And Wild](https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX) | 6:15 |
-| 114 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
-| 115 | [Mexican Radio](https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Bonus Track Edition\)](https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR) | 3:29 |
-| 116 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
+| 114 | [Under Jolly Roger](https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf) | [Running Wild](https://open.spotify.com/artist/7954VFaZClkL503srfV5PE) | [Under Jolly Roger](https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P) | 4:42 |
+| 115 | [Bedside Radio](https://open.spotify.com/track/7dp39ThK3DGKVneJERWhHe) | [Krokus](https://open.spotify.com/artist/4YveAIZNQZBiWbt7iWsvCa) | [Metal Rendez\-Vous](https://open.spotify.com/album/45tNUIvPmtfo4w44e1Tpgw) | 3:19 |
+| 116 | [Mexican Radio](https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt) | [Celtic Frost](https://open.spotify.com/artist/4ZISAmHmQUDCpv8xydqeKG) | [Into the Pandemonium \(Bonus Track Edition\)](https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR) | 3:29 |
 | 117 | [Let Them Eat Metal](https://open.spotify.com/track/3uZFSiCurXd9Jm3OIfxmAb) | [The Rods](https://open.spotify.com/artist/3W6mkWRUQjmny6bSsEcJf3) | [Let Them Eat Metal](https://open.spotify.com/album/1wbX59VoMx72e3N9P3NhLZ) | 3:57 |
 | 118 | [Fool for Your Loving \- 2009 Remaster](https://open.spotify.com/track/0BdTZNyYnSIDmkqjxSB0ef) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Slip of the Tongue \(20th Anniversary Edition\)](https://open.spotify.com/album/75eYg2qUeIvXaDMtFhYuin) | 4:08 |
 | 119 | [Crusader](https://open.spotify.com/track/1IQwVMvWjaWqW8dABr0rPG) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [The Best of Saxon](https://open.spotify.com/album/1W5MR7hWVGdKrjGVdedj7x) | 6:34 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LTcinqsO68.md) - [plain]
 | 124 | [Phantom of the Opera \- 2015 Remaster](https://open.spotify.com/track/5dtdDxI45qW6GRr2YyC0mX) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 \- Remaster\)](https://open.spotify.com/album/5nyyw7ThJdClJ0jPisOta3) | 7:21 |
 | 125 | [Tomorrow's Dream \- 2021 Remaster](https://open.spotify.com/track/07f9Uh1cWqH8ggfcEYeC1l) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Tomorrow's Dream \(2021 Remaster\)](https://open.spotify.com/album/6Zzss0gwhwdizR2JIoSUa7) | 3:08 |
 
-Snapshot ID: `MTY1Nzc1NjgwMCwwMDAwMDAwMGFjNmIyOWRjYmU4OWI0NTlhMDY1MzYwMTMyYzE2NzFk`
+Snapshot ID: `MTY1Nzc1NjgwMCwwMDAwMDAwMGU5NWYzMmU0NzQxMWFhNDVhNDg5Mjk2M2E1Mjc3ZDdk`

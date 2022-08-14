@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 
 > Para los enamorados y despechados.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,412 likes - 60 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,431 likes - 60 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,22 +34,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 24 | [Vete y Dile](https://open.spotify.com/track/1gcLwCdALFFT5qvpDZgFu7) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Vete y Dile](https://open.spotify.com/album/3bLNzJGuGCJCPnJw4lqwTn) | 4:56 |
 | 25 | [Tu Me Vas a Dejar](https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Tanto Amor](https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV) | 4:24 |
 | 26 | [Asesina](https://open.spotify.com/track/68VJAoIwl72kQXzAm01cqG) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [12 Golden Hits](https://open.spotify.com/album/04irf8DoODG5y4esqlnLEI) | 4:46 |
-| 27 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
-| 28 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
-| 29 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
-| 30 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
+| 27 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |
+| 28 | [Popurri de Exitos](https://open.spotify.com/track/0efgwb66083LCAI2OQb1C6) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [El Torito](https://open.spotify.com/artist/1pbzjrJpvYl4xN0uaBGLsS) | [Homenaje a Benny Sadel](https://open.spotify.com/album/1FBkxyRCgqPiua8ZPAwIk5) | 6:03 |
+| 29 | [Si Una Vez](https://open.spotify.com/track/4pDORttLOuVRInjTSZ3hlf) | [Manny Manuel](https://open.spotify.com/artist/7gSCtDiDLABfTqTc1OYjKd) | [Rey De Corazones](https://open.spotify.com/album/0TcHNfk42IZKbx9ysCdrBF) | 4:48 |
+| 30 | [Me vas a Extrañar](https://open.spotify.com/track/5Muc1XL39s90NZAKvyOiC1) | [Julian Oro Duro](https://open.spotify.com/artist/5mmCExgqybS3rG2mjXAYIa) | [Me vas a Extrañar](https://open.spotify.com/album/6Ta9lXiBj3jfE37AWRteTt) | 5:02 |
 | 31 | [Ni Tu Ni Yo](https://open.spotify.com/track/7fLBzA1v6P0CXQ52OOLZdO) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Mi Propuesta 1996](https://open.spotify.com/album/22hNAaD6Cak0gcrvCfRbaT) | 4:39 |
-| 32 | [Mi Novia, Mi Amante y Mujer](https://open.spotify.com/track/2ANq1nRElqdzPkkVy8Cno6) | [Sandy Reyes](https://open.spotify.com/artist/1Gq85lksoNZdmmShTR7cas) | [Otro Dia Mas Sin Verte](https://open.spotify.com/album/3n0ZcDHnxDwDoy9kuzzOTP) | 4:47 |
+| 32 | [Quiero Saber de Tí](https://open.spotify.com/track/3kiQ59TqSkTxGNMXm4mVfw) | [Raffy Matias](https://open.spotify.com/artist/29DVZ3OIDobBN5xH7It79l) | [Acusame](https://open.spotify.com/album/13GSJCMgDOtnLQXvl6fkiI) | 4:41 |
 | 33 | [Desnudate Mujer](https://open.spotify.com/track/33cVlyik4hIaS4gwiLCNcY) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Lo Mejor De...Toño Rosario](https://open.spotify.com/album/475agtJk3uN4dSg38QKx5t) | 4:41 |
 | 34 | [Sobrevivire](https://open.spotify.com/track/1RyrjRUroLjPXeb2wNh9dQ) | [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Volando Alto](https://open.spotify.com/album/2EoojuFoL3YrvnKgR3kALw) | 4:15 |
 | 35 | [Mi Tonto Amor](https://open.spotify.com/track/59v5xM3ExyPEMx62PDAlNm) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Juntos Con Sus Éxitos](https://open.spotify.com/album/0lKVudDiHqax3e3sj3AHrb) | 4:17 |
 | 36 | [Cuando Estés Con Él](https://open.spotify.com/track/6tBIGZ5EZzulhDdNeV5DyW) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 3:40 |
 | 37 | [Me Arrepiento](https://open.spotify.com/track/2mImo5tRWlJrd7a1kl176n) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 3:46 |
 | 38 | [Que Pasara](https://open.spotify.com/track/1lmzFjc5xPnnHwGO73bHTo) | [Benny Sadel](https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq) | [Por un Poco de Amor](https://open.spotify.com/album/2mN7A45bIPrIZgArQ0VZDN) | 3:41 |
-| 39 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
+| 39 | [Palabritas](https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V) | 3:44 |
 | 40 | [Un Beso y una Flor](https://open.spotify.com/track/3SnAxVKTCE6oLiXIDqEpUd) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Bomba 2000](https://open.spotify.com/album/5pybY0Fv6TnJCi7Ds6roxv) | 4:34 |
 | 41 | [La Quiero a Morir / Si Algún Día la Vez](https://open.spotify.com/track/3VGAirMC7nJnhReTDiDv8d) | [Sergio Vargas](https://open.spotify.com/artist/4EzD52bDFGZTEeEucKHtDs) | [Historia de Éxitos, Vol\. 1](https://open.spotify.com/album/0hV81HgF4pm6dcN22gLiHQ) | 6:33 |
-| 42 | [Palabritas](https://open.spotify.com/track/1OLipTUWDrz67unieZgkdD) | [El Jeffrey](https://open.spotify.com/artist/0WfG4KbWJJoxomK5HH1kSX) | [Mi Tierra](https://open.spotify.com/album/7vld1FYKOT0Rdo6bEfur8V) | 3:44 |
+| 42 | [Hay No Se Que Hacer](https://open.spotify.com/track/2bu0vzMnwzjOcHD5xWWU4X) | [El Zafiro](https://open.spotify.com/artist/4KM2Ilg49V5miYDbIJOg9E) | [The Last Kiss \(Latin Edition\)](https://open.spotify.com/album/7JweTrCv458Rq6i6FHystG) | 4:17 |
 | 43 | [Un Buen Perdedor](https://open.spotify.com/track/7oHEmIJtoLEEn3WgBxd9F2) | [Toño Rosario](https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy) | [Exclusivo](https://open.spotify.com/album/6aK3BPI7eC3Tihn7mt70dM) | 4:47 |
 | 44 | [Corazón en Soledad](https://open.spotify.com/track/0HID2RX44WWmKz1pEqtA4L) | [Ala Jaza](https://open.spotify.com/artist/3t3hIeMUcwqWaEVpEox5QW) | [Mamwali, Vol\. 2](https://open.spotify.com/album/3dcYjalrQeUe4ed4FHxa6e) | 3:31 |
 | 45 | [Cobarde Cobarde](https://open.spotify.com/track/67978eUTI2KSUJVgrynk5F) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4), [Rubby Perez](https://open.spotify.com/artist/0hrEx5826hgRBMESGY9wXC) | [Vida, Canción y Suerte](https://open.spotify.com/album/2WdxCp3m8IfjNxa2PLpf9u) | 4:21 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbOKKEa4x1DK.md) - [plain]
 | 59 | [Esa Mujer](https://open.spotify.com/track/6pGsdur9mCYPIf8ZmXBedr) | [Julian](https://open.spotify.com/artist/16WE6ZSzPgSVwzjpen71eI) | [El Mas Duro](https://open.spotify.com/album/0FISHOo9xahqeM8glh8m3E) | 4:11 |
 | 60 | [Tu No Sabes Del Amor](https://open.spotify.com/track/0ShBMVpAUJpoD9g9dKrqfF) | [El Sujeto](https://open.spotify.com/artist/1agXndRcnMoHrs8BqFDi0R) | [I Love Urbano 2011 \(Dembow \- Mambo \- Reggaeton \- Merengue Urbano\)](https://open.spotify.com/album/4GT87SeLVbNcbb4KYqb0nj) | 3:42 |
 
-Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMDUzY2FmOGJjMTg5YzBmMDdkZTc0YzlhZDdkM2MyZjY0`
+Snapshot ID: `MTYzNDY2NDUwMiwwMDAwMDAwMDViYzdmYmUxYWY5Yzk3YzZlODFkMWI2NTE5NzA1Nzlj`

@@ -4,7 +4,7 @@
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-274 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
+275 songs - 15 hr 17 min - [published](https://open.spotify.com/playlist/4I910OciKq3ClAvBAI2YCq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Barbie](https://open.spotify.com/track/0kovjlzP8JGEIgatmIozzN) | [Jang Ye Eun](https://open.spotify.com/artist/4hMhbcPHd2nsZFhY1TNp8Y) | [GOOD GIRL \(Episode 3\)](https://open.spotify.com/album/2bKpgH4MLl6pRfl6ZzuOkj) | 3:31 | 2021-11-17 | 2022-05-15 |
 | [Be My Lover](https://open.spotify.com/track/3g4dzZWuPHGZs4xOXfDQik) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Season Songs](https://open.spotify.com/album/7o5jeWeyGW3Nb77WhmVPwJ) | 4:02 | 2021-11-17 |  |
 | [Be Yourself](https://open.spotify.com/track/509VlYwebt36Tn80X5y4vC) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Be Yourself](https://open.spotify.com/album/5JGB7sxVshd2D4WSSFTEXt) | 3:25 | 2021-11-17 | 2022-07-25 |
+| [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 | 2022-08-12 |  |
 | [Beautiful Night](https://open.spotify.com/track/6kDTdIoSgVqm4hWj0EIhHz) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [FANTASIA X](https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4) | 3:03 | 2021-11-17 | 2022-07-14 |
 | [begin](https://open.spotify.com/track/4iPtWqoxXClW0Y6IXhMeGJ) | [YooJung](https://open.spotify.com/artist/4DBCD06KeXIRQdxw6gxaED) | [undergrOund idOl \#1](https://open.spotify.com/album/0sFrv9JullsE1BoyDUcct5) | 3:23 | 2022-07-07 | 2022-08-13 |
 | [Bet You Wanna \(feat\. Cardi B\)](https://open.spotify.com/track/7iAgNZdotu40NwtoIWJHFe) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 2:41 | 2021-11-17 |  |
@@ -207,7 +208,7 @@
 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 | 2021-11-17 | 2022-07-28 |
 | [Potion](https://open.spotify.com/track/2PLSn6dQtgLWPLWh0rn5le) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM), [Woodie Gochild](https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt) | [Honestly](https://open.spotify.com/album/5vXxqjX7PyPxmQF4KCAhXf) | 3:32 | 2021-11-17 | 2022-06-19 |
 | [PRESENTE](https://open.spotify.com/track/1oaVw7Y6RnvZlneLjAMLic) | [777 \(Triple Seven\)](https://open.spotify.com/artist/1Y5rgGFlx3ws6zMNoqxa4G) | [PRESENTE](https://open.spotify.com/album/4ZLRadM9Wi5L4mCEHGi4Xt) | 3:14 | 2021-11-17 | 2022-07-24 |
-| [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 | 2021-11-17 |  |
+| [Promise U](https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD), [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [PROMISE U \(REVIBE Vol.1\)](https://open.spotify.com/album/4eJdKwHH9rb3dNbtIsBgjV) | 3:27 | 2021-11-17 | 2022-08-14 |
 | [REALLY REALLY](https://open.spotify.com/track/02UNF1uo5f0UNgc1qx5XGt) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/5hmezEZaQ7D0ntBA9J76kb) | 3:23 | 2021-11-17 | 2022-07-29 |
 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 | 2022-07-27 |  |
 | [Red Flavor](https://open.spotify.com/track/7nKQ5WAcjnG48knyLuo8gO) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Red Summer \- Summer Mini Album](https://open.spotify.com/album/6OXg149IkmbgW7zfzbwgS2) | 3:11 | 2021-11-17 |  |

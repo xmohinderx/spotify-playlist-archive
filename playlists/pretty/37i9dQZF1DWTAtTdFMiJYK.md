@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 
 > Most exciting artists from the Indian Indie scene\. Cover : Anumita Nadesan
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,617 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,868 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTAtTdFMiJYK.md) - [plain]
 | 68 | [Grip](https://open.spotify.com/track/6T6I79tFf1Zc9h5Piy0gV9) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Landslands](https://open.spotify.com/artist/4I4rUfCqitzhA0WpTmwZvf) | [Grip](https://open.spotify.com/album/1tM6K9limY633ujoAagEuf) | 3:32 |
 | 69 | [Jiya Kaanch Ka](https://open.spotify.com/track/2NgXNCccXyW9xIVfKVonl4) | [Aman Moroney](https://open.spotify.com/artist/2IEODkvsAXxCrYi308ictx), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Jiya Kaanch Ka](https://open.spotify.com/album/1uOokbJIY02uOXNmMReuVF) | 2:40 |
 | 70 | [Le Chal](https://open.spotify.com/track/5fehqyMcmFL86IkoPtntbz) | [The Western Ghats](https://open.spotify.com/artist/3vX5K7r9Icdjsrlax4FzWv) | [Le Chal](https://open.spotify.com/album/13T9R562F4d4Xmd2SI9c7J) | 4:07 |
-| 71 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 |
+| 71 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
 | 72 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 |
 | 73 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
 | 74 | [Jiyara](https://open.spotify.com/track/3wtUeVGw8hOlJCVRxtjtZY) | [Gautam Kale](https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL) | [Jiyara](https://open.spotify.com/album/4jyfJKuTlSVfve70u1jUvv) | 2:36 |
 | 75 | [Guzarish](https://open.spotify.com/track/524ovLWFCWeMbMlMQWp5Zf) | [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH) | [Guzarish](https://open.spotify.com/album/5KH94qpVVG6IEMrkJvJmSJ) | 4:18 |
 
-Snapshot ID: `MTY2MDEwNjkyNywwMDAwMDAwMGVmN2UyZTQ2NTBjZGNjYmJkNDgzNmEzZWZlYjRhYTMy`
+Snapshot ID: `MTY2MDM3NDMyOCwwMDAwMDAwMGRlYjk0MDVjNzg0OTk4ZmYxNjY1N2E4ZDdmMTliMzhh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,108 likes - 105 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,106 likes - 105 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 31 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 |
 | 32 | [Company](https://open.spotify.com/track/07axCjbrJZ4DfXUAWo5Rwo) | [Simeon](https://open.spotify.com/artist/5R42oko4xV2U7uqlZXbzqk) | [Company](https://open.spotify.com/album/73YJMkju5YIAsyRfU7IHz6) | 2:04 |
 | 33 | [Allting På Menyn](https://open.spotify.com/track/6Ue9LEeSKKe3PaILTaNjFF) | [Ivory](https://open.spotify.com/artist/3jmh6dena7pZQpjUnlKcrD), [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [ODZ](https://open.spotify.com/artist/295SPRt7YTtIPdYoMkkF7K), [Young Earth Sauce](https://open.spotify.com/artist/07uDVtXpkJl9IIqMRCwrOf) | [Allting På Menyn](https://open.spotify.com/album/09iWtCrDwIKRrOvl2J7EUf) | 2:54 |
-| 34 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 34 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 35 | [’Til dawn](https://open.spotify.com/track/3N58ftPZ6v554yyVwiQHdc) | [Rebecca & Fiona](https://open.spotify.com/artist/6rgEPiKjowlMKZC1DF6W75), [Chinaski](https://open.spotify.com/artist/6ofdjjT2rgq6wBJ82ipNtA) | [’Til dawn](https://open.spotify.com/album/2IhIjkViX8md7P2IeShPEx) | 4:21 |
 | 36 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 |
 | 37 | [I Forgive Me](https://open.spotify.com/track/1KODYWcqyguVZOPaJ7sP7V) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [I Forgive Me](https://open.spotify.com/album/14XzPJq2TkzYrLJmG8yZGe) | 2:16 |
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 62 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 |
 | 63 | [Seamless \(with Kehlani\)](https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Seamless \(with Kehlani\)](https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV) | 3:15 |
 | 64 | [Superspreader](https://open.spotify.com/track/6q0RXGkwh6qH9aeAezNA68) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Superspreader](https://open.spotify.com/album/2CAFyzuSiSSe6CEU2UUm7j) | 3:20 |
-| 65 | [Monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
+| 65 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 66 | [ARMA\-GET\-IT\-ON](https://open.spotify.com/track/1tjUXZgwwx0gYho58kkNhN) | [Two Year Vacation](https://open.spotify.com/artist/32pDhOhptrPf8qiTFG8VPZ) | [ARMA\-GET\-IT\-ON](https://open.spotify.com/album/3Pnhl7xueY6gBKSnzVQmTJ) | 3:07 |
 | 67 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 |
 | 68 | [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 |
@@ -109,7 +109,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 99 | [Let You Go](https://open.spotify.com/track/2hgQwxkSbUo3jj6IeS2Rea) | [Digrasso](https://open.spotify.com/artist/3AJGLfQkhqWcrLi96938Iq), [Ernest Noah](https://open.spotify.com/artist/0ScDdCKUGZlnRy68RQx0tf) | [Let You Go](https://open.spotify.com/album/1rk4Uwk6boA7cR8nEWuvQI) | 2:27 |
 | 100 | [FOUND LOVE](https://open.spotify.com/track/2UTLnWmEWtGML6mzARAb0y) | [JAQUELINE](https://open.spotify.com/artist/6P0lm60NchkQfg1jO9h4th) | [FOUND LOVE](https://open.spotify.com/album/5PHSTDOUbIRWkwIL6OXl9C) | 2:56 |
 | 101 | [Self Made](https://open.spotify.com/track/3upxC57njvZzUbF3ETuXYT) | [Laura Toth](https://open.spotify.com/artist/7je1BJ0ktL1zQbQSJhMU22), [Albin Loán](https://open.spotify.com/artist/6n8c8YMCqNbs0veQjYdYga) | [Self Made](https://open.spotify.com/album/3veRZP2Wblpqjo7n0k2fX6) | 2:40 |
-| 102 | [WTF HAPPENED LAST NIGHT](https://open.spotify.com/track/1aTPeXpCL5vJ7NbXzuOw48) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [WTF HAPPENED LAST NIGHT](https://open.spotify.com/album/5aTso3hPLzcxWL9llT7wB2) | 3:25 |
+| 102 | [WTF Happened Last Night](https://open.spotify.com/track/1aTPeXpCL5vJ7NbXzuOw48) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [WTF Happened Last Night](https://open.spotify.com/album/5aTso3hPLzcxWL9llT7wB2) | 3:25 |
 | 103 | [Something](https://open.spotify.com/track/5teEJbBtkH2LIbUM9VN3pQ) | [Lulu Simon](https://open.spotify.com/artist/3Z5BbiIldlrLYBVVHKdhYa) | [Something](https://open.spotify.com/album/7wC4akvMyerG15z7pH2qw4) | 3:34 |
 | 104 | [Hypnotic \(feat\. Uffie\)](https://open.spotify.com/track/21DGq2EA5LRYKbSz7Aih6g) | [Flowers](https://open.spotify.com/artist/0GC742enCDyfsS4rjnSxJq), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Hypnotic](https://open.spotify.com/album/3XNv6j31KuIWzkR2IFhCnJ) | 2:50 |
 | 105 | [Kommer du?](https://open.spotify.com/track/3OMcNkHS3NOCqUUxvPtTnA) | [Folke Nikanor](https://open.spotify.com/artist/0nWS9zGIhQ7PTrfyxBDtHY), [Anja Bigrell](https://open.spotify.com/artist/568NIHvFPRqaPsrPdTSddN) | [Kommer du?](https://open.spotify.com/album/3ym7r9puJvrcOjEjPVsUcs) | 3:02 |

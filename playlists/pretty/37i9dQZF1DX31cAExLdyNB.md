@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,383 likes - 69 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,410 likes - 69 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 23 | [Bonafide \(feat\. Chiiild\)](https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ) | [Emotional Oranges](https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [The Juicebox](https://open.spotify.com/album/2EpbqvHpamUFsBboRaSbG1) | 2:57 |
 | 24 | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/track/0bmQ5H9mHFzRnJ4ZntylFg) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Somewhere \(feat\. Gus Dapperton\)](https://open.spotify.com/album/6QPRwYT6byImXj3adBh6wm) | 3:03 |
 | 25 | [How Long Have You Been Away?](https://open.spotify.com/track/0W1jh3ExLv0nMvvmNJOBxh) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [How Long Have You Been Away?](https://open.spotify.com/album/0rG6VTxWDBNufy5ghJTHij) | 3:28 |
-| 26 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
-| 27 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 |
+| 26 | [PAGA DIOS](https://open.spotify.com/track/2CGc8zqNbsnYVV5oPXZIku) | [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf), [Paco Amoroso](https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR) | [PAGA DIOS](https://open.spotify.com/album/6N0HJ7vRJLzUVjBmQPrDit) | 2:16 |
+| 27 | [Nagano](https://open.spotify.com/track/5qTnlwbe18VRvDJQYAreGW) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:03 |
 | 28 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 |
 | 29 | [I Like 2 Be](https://open.spotify.com/track/1KtTsGHdFznXFNqGIPovLA) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [I Like 2 Be](https://open.spotify.com/album/1cTR5iyuSGvU9kP0rZNIX8) | 2:54 |
 | 30 | [Suéltame, Bogotá](https://open.spotify.com/track/5J9ToBuIm9IqXea1zdwLgm) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Mira Lo Que Me Hiciste Hacer](https://open.spotify.com/album/2qrp8qjS2WuKEoj6a9AiXe) | 3:48 |
@@ -53,14 +53,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 43 | [Young](https://open.spotify.com/track/45FLsvojU63HpbTKXSwTao) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Real](https://open.spotify.com/album/4my95sS2JXep8uUPOfe8zI) | 3:14 |
 | 44 | [Silence & Secrets](https://open.spotify.com/track/05S0KvoffEaOwYbCv4y08e) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Silence & Secrets](https://open.spotify.com/album/5e5z9MRAVAOItfLScdFwtd) | 4:28 |
 | 45 | [Daikiri](https://open.spotify.com/track/4H1FWNakPyBYKkohOm6I8O) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Daikiri](https://open.spotify.com/album/7lHVQTwK5be4j9Lr8L5c5C) | 3:57 |
-| 46 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
-| 47 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
+| 46 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 |
+| 47 | [A Hero's Death \- Soulwax Remix](https://open.spotify.com/track/0aTTn1Xb7rRH0TXkUx5OCJ) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [A Hero's Death \(Soulwax Remix\)](https://open.spotify.com/album/6k5jA2u04coOGjgIgsQkU4) | 4:29 |
 | 48 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 |
 | 49 | [FIXXIÓN](https://open.spotify.com/track/7Hkfm6Yg7IH2VBmTGIjizg) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Hyperreal](https://open.spotify.com/album/50ZzEixwx59PVmSUKthqId) | 3:07 |
 | 50 | [6º](https://open.spotify.com/track/1rEHH6Wrm0iuv61O1oM2nc) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [6º](https://open.spotify.com/album/4pUtOdz74IkwnwQUZdpkUj) | 3:12 |
 | 51 | [El Muro](https://open.spotify.com/track/40KjgjBzPdYEknIkyq11bS) | [Inzul](https://open.spotify.com/artist/6MOWxtx3qLM9FR0EVn4xGp) | [El Muro](https://open.spotify.com/album/38xzRsuZMB90afWuLksZA8) | 3:43 |
-| 52 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 |
-| 53 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 52 | [Temporal](https://open.spotify.com/track/4NondO4RKVa3LHCoZ0USBT) | [Xavier Martinex](https://open.spotify.com/artist/1XLR7wR5X9EWHrL5BYV8oY) | [Temporal](https://open.spotify.com/album/2NZaPwg2RK3AdI6Nza7Kcj) | 2:56 |
+| 53 | [LLUVIA](https://open.spotify.com/track/3FbAt3RLSMPbDEjlCo8YGY) | [SIMONA](https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT) | [LLUVIA](https://open.spotify.com/album/0YxBRACAFNhh3NC0pzcegd) | 3:38 |
 | 54 | [Las Vegas](https://open.spotify.com/track/31jNrPCOW4TejXcSP0pM3k) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Las Vegas](https://open.spotify.com/album/2NWp5GnhLTLUgBFzfRFhuc) | 4:16 |
 | 55 | [Lilas](https://open.spotify.com/track/1qS1IzE3loYp6fBrzGJUeG) | [MIEL](https://open.spotify.com/artist/7KQCUauVB5CLGrJwq2JoVd) | [ƎDÉN](https://open.spotify.com/album/3biwHpS1Tnm3LOgTf3CqYr) | 3:33 |
 | 56 | [Cuando Te Veo](https://open.spotify.com/track/5HKp434u035kYFjNSOgPbg) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Caída Libre](https://open.spotify.com/album/5u5v417GIPrG6EjY8a9oTH) | 3:51 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Realidades No Ordinarias](https://open.spotify.com/track/71GdwydcMwyK63mJncZwTt) | [Bardo José](https://open.spotify.com/artist/5KGBbZQTTbci3K89C99XPT), [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Realidades No Ordinarias, Vol\. 2](https://open.spotify.com/album/7iDKNoDsFFEZrTUqvKsXAM) | 4:49 |
 | 69 | [me acostumbro](https://open.spotify.com/track/6xqwYV9XH89Ug1HXItusje) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [me acostumbro](https://open.spotify.com/album/6VdyxAmkc5YNXo7TqipDwj) | 2:50 |
 
-Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDc0YWQwNGFlNzdlMWM5ZDc5MTNkNThmYThkODAwMTk1`
+Snapshot ID: `MTY1OTA3MDgwMCwwMDAwMDAwMDg0YzMzOTcwMWM0YmY2ODdlYmQxN2RiYThhNDNjY2Zi`

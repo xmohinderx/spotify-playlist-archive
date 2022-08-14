@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > The latest form Pale Waves along with the top Rock songs you need to hear today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,646,641 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,646,855 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 35 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
 | 36 | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/track/3PqpLZTiiwJjYD1uSvQoCC) | [DE'WAYNE](https://open.spotify.com/artist/4lpKeKXJYkglSWyEmnOF7O), [POORSTACY](https://open.spotify.com/artist/7vSY9HEreOqb1Llar3UC38) | [DIE OUT HERE \(feat\. POORSTACY\)](https://open.spotify.com/album/4agLeYDJ434nJLLvM4uJWJ) | 2:14 |
 | 37 | [Epiphany](https://open.spotify.com/track/37EMTlg8KIQRED2lsxuNhj) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/5c9M1pUeEKoPMYLG9nry1a) | 4:28 |
-| 38 | [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 |
+| 38 | [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 |
 | 39 | [2am](https://open.spotify.com/track/04no0XXxXd3F5uLZi3qDYK) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [2am](https://open.spotify.com/album/04CKg4c7QsOXrlUxXbEZAe) | 3:44 |
 | 40 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |
 | 41 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [hair out](https://open.spotify.com/track/66MvNxKQGPQS0AUeaoYlcn) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:40 |
 | 50 | [Foxglove](https://open.spotify.com/track/3kpW19uTVTQF9EYJ9jhIOG) | [Boston Manor](https://open.spotify.com/artist/4WjeQi9wm84lYTIWZ95QoM) | [Foxglove](https://open.spotify.com/album/0l684ODdBRRFtnBrNn6wSd) | 3:38 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGY4ZTc5NDlmZjYzZDY0NmM1MWExMTI5MTUzMjM2Yjli`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDVkZDUxNWU0ZWQxM2NmNTJkYzQ1MDc3NTMxZGZjOTMy`

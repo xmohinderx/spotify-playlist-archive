@@ -1,15 +1,159 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 4308,
+  "num_followers": 4382,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDQwNywwMDAwMDAwMDY2OTBmNmM4YzZmMDcxZTAyMjhlMTQ2M2ViOWQ0OTkz",
+  "snapshot_id": "MTY2MDQxNDY4OSwwMDAwMDAwMDc4NjZlZTExNWE3NjE0MTdhYWU1MDFkMmNhYzZkMmQ3",
   "tracks": [
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 301720,
+      "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
+      "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 266516,
+      "name": "Sleepless rainy night",
+      "url": "https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 205312,
+      "name": "You, Clouds, Rain",
+      "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Rain Song",
+        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 241440,
+      "name": "Rain Song",
+      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "duration_ms": 262482,
+      "name": "Rain and You",
+      "url": "https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Reasons 4 Breathing",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "The Dream Chapter: ETERNITY",
         "url": "https://open.spotify.com/album/4jTVGyo4fSSFniFPbfr0bW"
@@ -25,7 +169,23 @@
       "url": "https://open.spotify.com/track/12I69qHomlIZflYA1G2MAp"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Thumbs Up!",
+        "url": "https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 244990,
+      "name": "When It Rains In Night",
+      "url": "https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "GO LIVE",
         "url": "https://open.spotify.com/album/6DWLIzvmiLPAuDWYZqrLQo"
@@ -41,7 +201,7 @@
       "url": "https://open.spotify.com/track/30YeoWowzWypZNSl6WNXAR"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Love, Pt. 1",
         "url": "https://open.spotify.com/album/5oA67QC0FjqXTSGy2kCSJp"
@@ -57,27 +217,7 @@
       "url": "https://open.spotify.com/track/1ZEFYW6nPEvIcsIvymgsLk"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Chancellor",
         "url": "https://open.spotify.com/album/5Jw4ohSYaEuxyOeIOR47Hq"
@@ -97,39 +237,7 @@
       "url": "https://open.spotify.com/track/3cJ520R7Pwav2xrQUHCcZo"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 244546,
-      "name": "When This Rain Stops",
-      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Rain Song",
         "url": "https://open.spotify.com/album/1DXAqvIPDtdyTmug9hCX8J"
@@ -149,7 +257,59 @@
       "url": "https://open.spotify.com/track/5IWlLl3xT95o8TSv3O8tRH"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 244546,
+      "name": "When This Rain Stops",
+      "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Syndrome",
         "url": "https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX"
@@ -165,7 +325,7 @@
       "url": "https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "IU 5th Album 'LILAC'",
         "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
@@ -181,7 +341,7 @@
       "url": "https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Sun Shower (A Business Proposal OST Part.3)",
         "url": "https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2"
@@ -197,67 +357,7 @@
       "url": "https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "SOMO: FUME",
-        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
-      },
-      "artists": [
-        {
-          "name": "JAY B",
-          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
-        },
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 217441,
-      "name": "AM PM (feat. Whee In) - Prod. Gray",
-      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
-        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
-      },
-      "artists": [
-        {
-          "name": "KIXO",
-          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 209240,
-      "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
-      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
@@ -277,7 +377,79 @@
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "SOMO: FUME",
+        "url": "https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F"
+      },
+      "artists": [
+        {
+          "name": "JAY B",
+          "url": "https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 217441,
+      "name": "AM PM (feat. Whee In) - Prod. Gray",
+      "url": "https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
+        "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
+      },
+      "artists": [
+        {
+          "name": "KIXO",
+          "url": "https://open.spotify.com/artist/2Ls9v5vL8yvMh5NaziiluS"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 209240,
+      "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Don't be sad",
         "url": "https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc"
@@ -293,23 +465,7 @@
       "url": "https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "My Liberation Notes OST Part 9",
-        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
-      },
-      "artists": [
-        {
-          "name": "Kwak jineon",
-          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
-        }
-      ],
-      "duration_ms": 236097,
-      "name": "A Kind Of Confession (Male Ver.)",
-      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Melody (Gongzza X Whee In)",
         "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
@@ -325,7 +481,7 @@
       "url": "https://open.spotify.com/track/6bOHDFOz1MIuXe1wl1rLfk"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "overdose",
         "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
@@ -341,27 +497,39 @@
       "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+        "name": "My Liberation Notes OST Part 9",
+        "url": "https://open.spotify.com/album/19Ya0jFcV7U0opVyJqRHCV"
       },
       "artists": [
         {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "GIRIBOY",
-          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+          "name": "Kwak jineon",
+          "url": "https://open.spotify.com/artist/5NBDM7OpuuyUNtlLLxTYWD"
         }
       ],
-      "duration_ms": 216018,
-      "name": "I Don\u2019t Lie (Feat. GIRIBOY)",
-      "url": "https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE"
+      "duration_ms": 236097,
+      "name": "A Kind Of Confession (Male Ver.)",
+      "url": "https://open.spotify.com/track/5w1sW9Gr8fBBy82f21uF0s"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Night Poem",
+        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
+      },
+      "artists": [
+        {
+          "name": "JungJaewon",
+          "url": "https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Night Poem",
+      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
         "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
@@ -381,7 +549,27 @@
       "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "In the Rain",
         "url": "https://open.spotify.com/album/5gfpmmyrpKjXeiVrd4ZQmH"
@@ -405,23 +593,7 @@
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Night Poem",
-        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
-      },
-      "artists": [
-        {
-          "name": "JungJaewon",
-          "url": "https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "Night Poem",
-      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
@@ -437,7 +609,23 @@
       "url": "https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "STABLE MINDSET",
+        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "duration_ms": 212371,
+      "name": "On A Rainy Day",
+      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "You Are My Spring OST Part 3",
         "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
@@ -453,39 +641,7 @@
       "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Delete",
-        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Love is alone",
-      "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Fall in Love Again",
         "url": "https://open.spotify.com/album/6udqW4k67GIeTy0M7alLZX"
@@ -501,7 +657,7 @@
       "url": "https://open.spotify.com/track/3HjKfAEeG40jBKIuUlJlGK"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
@@ -517,23 +673,23 @@
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
       },
       "artists": [
         {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
         }
       ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
+      "duration_ms": 249213,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
@@ -549,7 +705,43 @@
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "GIRIBOY",
+          "url": "https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq"
+        }
+      ],
+      "duration_ms": 216018,
+      "name": "I Don\u2019t Lie (Feat. GIRIBOY)",
+      "url": "https://open.spotify.com/track/0Px7nsZhwF6qtebbZZHlyE"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        }
+      ],
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "summer flows 0.02",
         "url": "https://open.spotify.com/album/2FxzArH5KLx18yasYHuVE4"
@@ -565,23 +757,7 @@
       "url": "https://open.spotify.com/track/43ap1ds3F1o8Fmz6b29NoG"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Rain Song",
-        "url": "https://open.spotify.com/album/2jTAGPtLTI71MyRhTITbyi"
-      },
-      "artists": [
-        {
-          "name": "Younha",
-          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
-        }
-      ],
-      "duration_ms": 241440,
-      "name": "Rain Song",
-      "url": "https://open.spotify.com/track/2jGbpRUsuhFr6VelssN8Nq"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Lost Way (Good Doctor X Gaho)",
         "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
@@ -597,39 +773,7 @@
       "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "MISSING U",
-      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Chocolate, Pt. 7 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/1cpAltXg2KRN7PCRSJCLtf"
@@ -645,7 +789,23 @@
       "url": "https://open.spotify.com/track/1udv7FVK3Jx7Q7ZR1miBwK"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 248051,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
@@ -665,23 +825,7 @@
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "D-day",
         "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
@@ -697,7 +841,23 @@
       "url": "https://open.spotify.com/track/5UvS2soEVuRr4SFpvB09KJ"
     },
     {
-      "added_at": "2022-08-12 18:53:27",
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
+      },
+      "artists": [
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
+        }
+      ],
+      "duration_ms": 201080,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
       "album": {
         "name": "Beside",
         "url": "https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt"
@@ -711,154 +871,6 @@
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Oh, My Sun",
-        "url": "https://open.spotify.com/album/0ozVQNHtmZz2DdGwCiIjMi"
-      },
-      "artists": [
-        {
-          "name": "Kevin Oh",
-          "url": "https://open.spotify.com/artist/3XgMCDrTkw1mcmeBE48Pqy"
-        }
-      ],
-      "duration_ms": 287386,
-      "name": "Oh, My Sun",
-      "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 185808,
-      "name": "Sleepless (feat. Heize)",
-      "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "girl in red",
-        "url": "https://open.spotify.com/album/1k2Zc3BLrCXK5G9uPSCcsC"
-      },
-      "artists": [
-        {
-          "name": "ALEPH",
-          "url": "https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv"
-        }
-      ],
-      "duration_ms": 159365,
-      "name": "girl in red",
-      "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-        "url": "https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 199746,
-      "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
-      "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Love Interference 2022 (Original Television Soundtrack), Pt.15",
-        "url": "https://open.spotify.com/album/58uielBksTKu8wfbWBfJxC"
-      },
-      "artists": [
-        {
-          "name": "O.WHEN",
-          "url": "https://open.spotify.com/artist/7f5OHScUwC0ZKZzma5mMxq"
-        }
-      ],
-      "duration_ms": 233773,
-      "name": "Only Longing Grows",
-      "url": "https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Dry Flower",
-        "url": "https://open.spotify.com/album/45VLePxOqvMWcGOPImCpNg"
-      },
-      "artists": [
-        {
-          "name": "PENOMECO",
-          "url": "https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY"
-        }
-      ],
-      "duration_ms": 145613,
-      "name": "Rain Drop",
-      "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Overflow",
-        "url": "https://open.spotify.com/album/1nwb0n8emaeZ6Y7CnA8TLh"
-      },
-      "artists": [
-        {
-          "name": "jeebanoff",
-          "url": "https://open.spotify.com/artist/6FK6uP46ntwU9gaQQxTlDV"
-        }
-      ],
-      "duration_ms": 209376,
-      "name": "Overflow",
-      "url": "https://open.spotify.com/track/4zf4gt42CLmQXakI2jzfy4"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Dear X Who Doesn't Love Me, Pt. 1 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/4jdwECuw0825yQKD5CJCHm"
-      },
-      "artists": [
-        {
-          "name": "Lee MinHyuk",
-          "url": "https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH"
-        }
-      ],
-      "duration_ms": 258799,
-      "name": "Ask Me Out",
-      "url": "https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh"
-    },
-    {
-      "added_at": "2022-08-12 18:53:27",
-      "album": {
-        "name": "Rainy Saturday",
-        "url": "https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2"
-      },
-      "artists": [
-        {
-          "name": "JEMINN",
-          "url": "https://open.spotify.com/artist/1PuPoF4cUFMhb9xbzeKpg2"
-        }
-      ],
-      "duration_ms": 244186,
-      "name": "Rainy Saturday",
-      "url": "https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

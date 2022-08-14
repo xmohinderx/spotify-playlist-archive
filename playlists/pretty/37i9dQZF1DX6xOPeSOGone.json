@@ -1,12 +1,12 @@
 {
   "description": "The great masterpieces of the genre.",
-  "num_followers": 3398483,
+  "num_followers": 3399489,
   "original_name": "Soft Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAzNjI4NywwMDAwMDAwMGY3NDYwMzA5NzM4NWNjZGNjMGJjMTc3NGU4ODg4MTNh",
+  "snapshot_id": "MTY1NzAzNjI4NywwMDAwMDAwMGJkZjI0ODU5YzM1OWQzZWJhZjI5ZmZjMjlhOWFhNzBi",
   "tracks": [
     {
       "added_at": "2022-01-03 09:35:04",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Bigger, Better, Faster, More !",
         "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 295533,
       "name": "What's Up?",
       "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Everybody Else Is Doing It, So Why Can't We?",
-        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
-      },
-      "artists": [
-        {
-          "name": "The Cranberries",
-          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
-        }
-      ],
-      "duration_ms": 274706,
-      "name": "Linger",
-      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Blind Melon",
         "url": "https://open.spotify.com/album/55jET4vDioHHd7ztX7OX3h"
       },
@@ -687,18 +671,18 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
         }
       ],
-      "duration_ms": 125666,
-      "name": "Yesterday - Remastered 2009",
-      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+      "duration_ms": 274706,
+      "name": "Linger",
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -719,22 +703,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -747,6 +715,38 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 125666,
+      "name": "Yesterday - Remastered 2009",
+      "url": "https://open.spotify.com/track/3BQHpFgAp4l80e1XslIjNI"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Slippery When Wet",
+        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 308666,
+      "name": "Wanted Dead Or Alive",
+      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Slippery When Wet",
-        "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 308666,
-      "name": "Wanted Dead Or Alive",
-      "url": "https://open.spotify.com/track/0oerlffJSzhRVvtDfLcp3N"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Even In The Quietest Moments",
         "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "The Bends",
         "url": "https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 257480,
       "name": "High and Dry",
       "url": "https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
+      },
+      "artists": [
+        {
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
+        }
+      ],
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
-      },
-      "artists": [
-        {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
-        }
-      ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Duran Duran",
         "url": "https://open.spotify.com/album/0PqCkTvKFJxzr9uujq7a3T"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 340200,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Immortalized",
-        "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 248466,
-      "name": "The Sound of Silence",
-      "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Where the Light Is: John Mayer Live In Los Angeles",
         "url": "https://open.spotify.com/album/4Dgxy95K9BWkDUvQPTaYBb"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 263573,
       "name": "Free Fallin' - Live at the Nokia Theatre, Los Angeles, CA - December 2007",
       "url": "https://open.spotify.com/track/4LloVtxNZpeh7q7xdi1DQc"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Immortalized",
+        "url": "https://open.spotify.com/album/3qFQ4XNQ15alZrAaj5oGJK"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 248466,
+      "name": "The Sound of Silence",
+      "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Sob Rock",
-        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 286386,
-      "name": "I Guess I Just Feel Like",
-      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Bloody Tourists",
         "url": "https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 267946,
       "name": "Dreadlock Holiday",
       "url": "https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Sob Rock",
+        "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 286386,
+      "name": "I Guess I Just Feel Like",
+      "url": "https://open.spotify.com/track/4Im6GRj17qa7NW76OsJh1s"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2059,18 +2059,18 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Wildflowers",
-        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
       },
       "artists": [
         {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
         }
       ],
-      "duration_ms": 190320,
-      "name": "Wildflowers",
-      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
+      "duration_ms": 251866,
+      "name": "Mama, I'm Coming Home",
+      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2091,18 +2091,18 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+        "name": "Wildflowers",
+        "url": "https://open.spotify.com/album/3ZGUBwDiY5HPOcWv4SBPQg"
       },
       "artists": [
         {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 251866,
-      "name": "Mama, I'm Coming Home",
-      "url": "https://open.spotify.com/track/0S3gpZzlT9Hb7CCSV2owX7"
+      "duration_ms": 190320,
+      "name": "Wildflowers",
+      "url": "https://open.spotify.com/track/2Pr1nZpt8A8WP7QYpyq6L3"
     },
     {
       "added_at": "2022-01-03 09:35:04",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2022-01-03 09:35:04",
       "album": {
-        "name": "Heartbeat City",
-        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
-      },
-      "artists": [
-        {
-          "name": "The Cars",
-          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
-        }
-      ],
-      "duration_ms": 234493,
-      "name": "Drive",
-      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
-    },
-    {
-      "added_at": "2022-01-03 09:35:04",
-      "album": {
         "name": "Ring",
         "url": "https://open.spotify.com/album/41aJgAReVkh1pA0aKAvT4W"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 278973,
       "name": "'74-'75",
       "url": "https://open.spotify.com/track/2MAVcVr2oylw2OZ3hojWYj"
+    },
+    {
+      "added_at": "2022-01-03 09:35:04",
+      "album": {
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
+      },
+      "artists": [
+        {
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
+        }
+      ],
+      "duration_ms": 234493,
+      "name": "Drive",
+      "url": "https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM"
     },
     {
       "added_at": "2022-01-03 09:35:04",

@@ -1,12 +1,12 @@
 {
   "description": "Let us take care of your workday soundtrack.",
-  "num_followers": 181599,
+  "num_followers": 181608,
   "original_name": "Your Office Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMGI1OGU5YmIyNGQxYTY0ZTkwYzIyZWMzMWEwZGNlNTVk",
+  "snapshot_id": "MTYzMzk1MDI1NCwwMDAwMDAwMDBlZjlkYmU4MzY0ZDMyNjVhNzdjMTc2MmIwYWJiMGFm",
   "tracks": [
     {
       "added_at": "2021-08-12 14:57:38",
@@ -237,22 +237,6 @@
       "url": "https://open.spotify.com/track/1Lb1S77Ooubhoy3sz509aY"
     },
     {
-      "added_at": "2021-09-22 10:11:59",
-      "album": {
-        "name": "When You Were Mine",
-        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
-      },
-      "artists": [
-        {
-          "name": "Joy Crookes",
-          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
-        }
-      ],
-      "duration_ms": 203483,
-      "name": "When You Were Mine",
-      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
-    },
-    {
       "added_at": "2021-08-12 14:57:38",
       "album": {
         "name": "Shore",
@@ -267,6 +251,22 @@
       "duration_ms": 244186,
       "name": "Can I Believe You",
       "url": "https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp"
+    },
+    {
+      "added_at": "2021-09-22 10:11:59",
+      "album": {
+        "name": "When You Were Mine",
+        "url": "https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "When You Were Mine",
+      "url": "https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -321,20 +321,20 @@
       "url": "https://open.spotify.com/track/7IY2JF7AlVN5uvIUBVnSJd"
     },
     {
-      "added_at": "2021-09-24 18:51:29",
+      "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
+        "name": "homebody",
+        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "Kamal.",
+          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
         }
       ],
-      "duration_ms": 198840,
-      "name": "U&ME",
-      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
+      "duration_ms": 189000,
+      "name": "homebody",
+      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -357,20 +357,20 @@
       "url": "https://open.spotify.com/track/2HpDcssMlgQXfmAUYhePIP"
     },
     {
-      "added_at": "2021-08-12 14:57:38",
+      "added_at": "2021-09-24 18:51:29",
       "album": {
-        "name": "homebody",
-        "url": "https://open.spotify.com/album/5sgzeY6Z2rZchiVFO1H80f"
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/5ogYKSRRlVAgMzv09HFeIn"
       },
       "artists": [
         {
-          "name": "Kamal.",
-          "url": "https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI"
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
         }
       ],
-      "duration_ms": 189000,
-      "name": "homebody",
-      "url": "https://open.spotify.com/track/3I3ZmlSouhOYDHGWn3w0CW"
+      "duration_ms": 198840,
+      "name": "U&ME",
+      "url": "https://open.spotify.com/track/3i4ColsuZEvjeLz63m0jPt"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5FMkcYANuajBUi9yq27hgU"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 236486,
       "name": "Angel",
       "url": "https://open.spotify.com/track/1l1o761oy3oZiwzU75QI5S"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "AUATC",
-        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 142125,
-      "name": "AUATC",
-      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "More Like You",
         "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 219720,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/6oCFVNkKjrFRmieVbpQa3s"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/2A6GfKINLJ2oN4sjUWj0g2"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 337426,
-      "name": "bloodstream",
-      "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Little Oblivions",
         "url": "https://open.spotify.com/album/3IQRHa9iVLsGlSuVHiHZ3A"
       },
@@ -887,22 +871,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Greener",
-        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
-      },
-      "artists": [
-        {
-          "name": "Jade Emperor",
-          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Greener",
-      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Sunshine State",
         "url": "https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij"
       },
@@ -915,6 +883,38 @@
       "duration_ms": 138756,
       "name": "Sunshine State",
       "url": "https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 337426,
+      "name": "bloodstream",
+      "url": "https://open.spotify.com/track/3VJ8JnA1femj0x5KCcfBpT"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Greener",
+        "url": "https://open.spotify.com/album/6pEe6ykp15A2SRDqWm5PKK"
+      },
+      "artists": [
+        {
+          "name": "Jade Emperor",
+          "url": "https://open.spotify.com/artist/22x4ObzsgLRlFkoqsZ00Lo"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Greener",
+      "url": "https://open.spotify.com/track/3y51IDTIvdRJAwzZOhYHqB"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -951,22 +951,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Good Woman",
-      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Baby It's You",
         "url": "https://open.spotify.com/album/1X25p3GpzvOSH8oupRUh0t"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 242239,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/3Yoy8R29IewKS8sO80L4XB"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Good Woman",
+      "url": "https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Taurus",
-        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
-      },
-      "artists": [
-        {
-          "name": "Aby Coulibaly",
-          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Something Good Will Happen",
         "url": "https://open.spotify.com/album/73NXw8O4hc5Uqbx1D4cYNK"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 204440,
       "name": "Caught Up & Confused",
       "url": "https://open.spotify.com/track/3qS0ySnwtPC2JvTnr4x9KO"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Taurus",
+        "url": "https://open.spotify.com/album/0IaxrgQd3Q2z66CE02UyC0"
+      },
+      "artists": [
+        {
+          "name": "Aby Coulibaly",
+          "url": "https://open.spotify.com/artist/1ZjJVQsxUHP7MKnZg8yE33"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/2qAZTSoZL0tNEw2RX0MpMw"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Sanctuary",
-        "url": "https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw"
-      },
-      "artists": [
-        {
-          "name": "Gengahr",
-          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Icarus",
-      "url": "https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
         "name": "Girlhood",
         "url": "https://open.spotify.com/album/36pD53bU7Igw82ZHD4Herb"
       },
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6TpdsAKl6qB08qTqkerwZw"
+      },
+      "artists": [
+        {
+          "name": "Gengahr",
+          "url": "https://open.spotify.com/artist/2ATweaQe83QUQVjM8LMh7J"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Icarus",
+      "url": "https://open.spotify.com/track/7mnnCaWiLtsbOQEExjWeHc"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
         "name": "Through Water",
         "url": "https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za"
       },
@@ -1259,22 +1259,6 @@
       "duration_ms": 234453,
       "name": "Womxn",
       "url": "https://open.spotify.com/track/3uZfLLYmvNUTWuZieOgJKr"
-    },
-    {
-      "added_at": "2021-08-12 14:57:38",
-      "album": {
-        "name": "Bel\u00b7li",
-        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
-      },
-      "artists": [
-        {
-          "name": "Uma",
-          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
-        }
-      ],
-      "duration_ms": 172308,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1295,22 +1279,18 @@
     {
       "added_at": "2021-08-12 14:57:38",
       "album": {
-        "name": "Goodbye Blue",
-        "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
+        "name": "Bel\u00b7li",
+        "url": "https://open.spotify.com/album/538Vk5Rhv1AybJcuL2L5FS"
       },
       "artists": [
         {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        },
-        {
-          "name": "Jonah Yano",
-          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+          "name": "Uma",
+          "url": "https://open.spotify.com/artist/0RZewmdiKrFtejSJ3jfmGs"
         }
       ],
-      "duration_ms": 241026,
-      "name": "Goodbye Blue",
-      "url": "https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP"
+      "duration_ms": 172308,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/4ZSgMLmYmuxwTb8jO8L2vJ"
     },
     {
       "added_at": "2021-08-12 14:57:38",
@@ -1327,6 +1307,26 @@
       "duration_ms": 197000,
       "name": "California Screaming",
       "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2021-08-12 14:57:38",
+      "album": {
+        "name": "Goodbye Blue",
+        "url": "https://open.spotify.com/album/7DEVGpxtcFj3fCLk9kc8Ro"
+      },
+      "artists": [
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        },
+        {
+          "name": "Jonah Yano",
+          "url": "https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ"
+        }
+      ],
+      "duration_ms": 241026,
+      "name": "Goodbye Blue",
+      "url": "https://open.spotify.com/track/1Hl4xRC4328EyH1cgmpacP"
     },
     {
       "added_at": "2021-08-12 14:57:38",

@@ -1,12 +1,12 @@
 {
   "description": "Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.",
-  "num_followers": 305436,
+  "num_followers": 305534,
   "original_name": "Soul Revived",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDJhZWZjYTg3OGZjMTQ4MTQxOTBmZmQ1ZjhhMzMxMThi",
+  "snapshot_id": "MTY1ODUwMDg1MiwwMDAwMDAwMDFiNzY2MmJiNmY5YjBjZjlmYWI1M2ViNmIzNjE5MzE3",
   "tracks": [
     {
       "added_at": "2021-01-15 05:01:00",
@@ -63,6 +63,22 @@
     {
       "added_at": "2021-01-15 05:01:00",
       "album": {
+        "name": "What's The 411?",
+        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
+      },
+      "artists": [
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Sweet Thing",
+      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
+    },
+    {
+      "added_at": "2021-01-15 05:01:00",
+      "album": {
         "name": "A Day in the Life",
         "url": "https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 280880,
       "name": "Georgy Porgy (feat. Faith Evans)",
       "url": "https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq"
-    },
-    {
-      "added_at": "2021-01-15 05:01:00",
-      "album": {
-        "name": "What's The 411?",
-        "url": "https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2"
-      },
-      "artists": [
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Sweet Thing",
-      "url": "https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa"
     },
     {
       "added_at": "2021-01-15 05:01:00",

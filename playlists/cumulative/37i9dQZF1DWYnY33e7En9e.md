@@ -4,13 +4,14 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-426 songs - 1 day 5 hr 42 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+427 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Don't Fear\) The Reaper](https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo) | [Blue Öyster Cult](https://open.spotify.com/artist/00tVTdpEhQQw1bqdu8RCx2) | [Agents Of Fortune](https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt) | 5:08 | 2021-05-19 | 2022-07-26 |
 | [\(I Just\) Died In Your Arms](https://open.spotify.com/track/4ByEFOBuLXpCqvO1kw8Wdm) | [Cutting Crew](https://open.spotify.com/artist/3cniTumSiUysiPWXapGx1i) | [Broadcast](https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1) | 4:40 | 2021-05-19 | 2022-07-15 |
 | [...Baby One More Time](https://open.spotify.com/track/3MjUtNVVq3C8Fn0MP3zhXa) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [...Baby One More Time \(Digital Deluxe Version\)](https://open.spotify.com/album/3WNxdumkSMGMJRhEgK80qx) | 3:31 | 2021-05-19 |  |
+| [1979 \- Remastered 2012](https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Deluxe Edition\)](https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV) | 4:26 | 2021-05-19 |  |
 | [20th Century Boy \- Remaster](https://open.spotify.com/track/1y5LL9dpLXbCXNKKqw5wCJ) | [T\. Rex](https://open.spotify.com/artist/3dBVyJ7JuOMt4GE9607Qin) | [Tanx \(The Visconti Master\)](https://open.spotify.com/album/7z7CGJZt7ZuMaBFjxy5fWo) | 3:38 | 2021-05-19 | 2022-06-15 |
 | [6 'N the Mornin'](https://open.spotify.com/track/2cBOh97kgDenDOdtKhwU9O) | [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Rhyme Pays \(Explicit Version\)](https://open.spotify.com/album/267xiIVnif2CUxhbRQk115) | 3:44 | 2021-05-19 | 2022-03-03 |
 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 | 2021-05-19 | 2022-04-21 |
@@ -267,7 +268,7 @@
 | [No One Like You](https://open.spotify.com/track/26fZwf1ImE4aUJ4XaqOkUg) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/6x75r5C54z1quun86Bbqbr) | 3:57 | 2021-05-19 | 2022-07-28 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2021-05-19 |  |
 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 | 2021-05-19 | 2022-07-03 |
-| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-19 |  |
+| [Nothing's Gonna Stop Us Now](https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [No Protection](https://open.spotify.com/album/3nCQjsOzTmnWM6gnjIaT8J) | 4:30 | 2021-05-19 | 2022-08-14 |
 | [Old Time Rock & Roll](https://open.spotify.com/track/1lhpxZT57yw5toGJtt8fGE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Stranger In Town](https://open.spotify.com/album/3IqhO2ukdUkAs83DzamqIJ) | 3:14 | 2021-05-19 | 2022-07-15 |
 | [One \(Remastered\)](https://open.spotify.com/track/10HlI5OL8VIdMh2CaymhbD) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/7CNQl7thCP0pDllX1lehLM) | 7:27 | 2021-05-19 | 2022-07-28 |
 | [One More Astronaut](https://open.spotify.com/track/3kJw8wpzrB5WLFcdmIvXew) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Scenery & Fish](https://open.spotify.com/album/2ghGUuQNwMOVl5HNIPSKeU) | 5:24 | 2021-05-19 | 2022-04-27 |

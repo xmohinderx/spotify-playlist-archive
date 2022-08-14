@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-230 songs - 15 hr 8 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+231 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 | 2022-03-29 | 2022-07-29 |
 | [Cheers for the Tears](https://open.spotify.com/track/1luf18dR160FyYqTnIAXfE) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Cheers for the Tears](https://open.spotify.com/album/4yLYA25JyfmIYwbIaOchCq) | 2:54 | 2021-11-10 |  |
 | [Chunks](https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Weird Invitations](https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh) | 3:31 | 2021-11-10 |  |
-| [Classic \(feat\. Leila Dey\)](https://open.spotify.com/track/5PHgf88ChFGGMdF69wU4YQ) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 2:53 | 2022-02-21 |  |
+| [Classic \(feat\. Leila Dey\)](https://open.spotify.com/track/5PHgf88ChFGGMdF69wU4YQ) | [Adria Kain](https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y), [Leila Dey](https://open.spotify.com/artist/5Nyjyy5Wsv0advrO01KvUp) | [When Flowers Bloom](https://open.spotify.com/album/1LjYyb9wGDzAwo1x8RVbUG) | 2:53 | 2022-02-21 | 2022-08-14 |
 | [Claustrophobic](https://open.spotify.com/track/14l9sBVb9bI8m65mtV9auv) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Claustrophobic](https://open.spotify.com/album/17kfcdo0KsghQmZvdeI5bL) | 3:07 | 2021-11-10 | 2022-07-29 |
 | [Closer](https://open.spotify.com/track/6XaV2S7rtFLMw2YBXcIhvv) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Live from the Artists Den: Season 2](https://open.spotify.com/album/0kZaBpZZZINkqWpH5VvrXG) | 4:28 | 2021-11-10 |  |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2022-01-20 |  |
@@ -154,6 +154,7 @@
 | [No Time To Play](https://open.spotify.com/track/0pPf7GFLcuqp3Eis5Hm5yw) | [Guru](https://open.spotify.com/artist/6xyaria4AcxjRuJZLkWvMW), [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [DC Lee](https://open.spotify.com/artist/5KbqBh2kNs9JzwTtcQrgss) | [Jazzmatazz Volume 1](https://open.spotify.com/album/64J8girYqmK86ebqBayrjQ) | 4:54 | 2021-11-10 |  |
 | [Ordinary Things](https://open.spotify.com/track/6f1xXhYfCzE1dNrsPYmvjY) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(International Version\)](https://open.spotify.com/album/4sDGo9aQ0A2SUzYBkh6pGd) | 3:28 | 2021-11-10 | 2022-05-12 |
 | [Over You](https://open.spotify.com/track/64WxLGjquEiDypddXZgggY) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [Ruby](https://open.spotify.com/album/3NaRWUhsOLdHsmqJON0aiv) | 3:46 | 2021-11-10 |  |
+| [Palo Santo](https://open.spotify.com/track/0rT1uRsIdsIht4deJOlF0z) | [Saint Joshua](https://open.spotify.com/artist/5dSZ45x1qKuQFU9L6cODmz) | [Palo Santo](https://open.spotify.com/album/3iDJodyAXkwE76Z3NNt8W8) | 2:55 | 2022-08-02 |  |
 | [Pass Time](https://open.spotify.com/track/7MuAIzPxVZwUNJgF9cGZr6) | [Lizzie Berchie](https://open.spotify.com/artist/4ZdG27oG6K31RhN9XKHt7m), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Pass Time](https://open.spotify.com/album/13Zo5L7T7hhrOdsUUZsiWz) | 3:39 | 2022-06-17 |  |
 | [Penthouse Floor \(feat\. Chance the Rapper\)](https://open.spotify.com/track/4bCqxEfZ0i6Oz6I0hpfM7a) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Penthouse Floor \(feat\. Chance the Rapper\)](https://open.spotify.com/album/2GtWvH7zM9bqXpQkuUTsVn) | 4:43 | 2021-11-10 | 2022-07-29 |
 | [Petit Prince Du Macadam](https://open.spotify.com/track/3cCLvbMCHMgX7DLXPr1ALv) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Umami](https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel) | 3:04 | 2021-11-10 |  |

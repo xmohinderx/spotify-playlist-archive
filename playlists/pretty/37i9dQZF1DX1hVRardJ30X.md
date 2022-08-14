@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anitta, Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 507,951 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,277 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 12 | [HELLCAT](https://open.spotify.com/track/541bPCQXqcU8mNRV7udEff) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Hydro](https://open.spotify.com/artist/3pTZ5sCcE1o2O9sWn5yQMg) | [HELLCAT](https://open.spotify.com/album/4vb14fg6oTyXWeMAz4DqnV) | 3:06 |
 | 13 | [Nadie La Mantiene](https://open.spotify.com/track/3dvMNHL50mtjkr47j9g5Qo) | [YoGambii](https://open.spotify.com/artist/5RuWFvTN5tmKqn0KUfNruD), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Nadie La Mantiene](https://open.spotify.com/album/4VsBy8wJ0Tq1gbdX7gjPPK) | 3:44 |
 | 14 | [Mi Peor Error](https://open.spotify.com/track/61SfEOvxgYHwqkRu5K8GIB) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [Mi Peor Error](https://open.spotify.com/album/0zIqIwZW0LSPZ5fSjnpUWF) | 3:03 |
-| 15 | [Medio Crazy Remix \(with Khea & Ingratax feat\. Rusherking, FMK & Juhn\)](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix \(with Khea & Ingratax feat\. Rusherking, FMK & Juhn\)](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 |
+| 15 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 |
 | 16 | [Piensas En Mi](https://open.spotify.com/track/4aZXV9vBzJlwAd54GGZdGY) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE) | [Piensas En Mi](https://open.spotify.com/album/48bOYyl6R4Osu0luA0RWoS) | 3:02 |
 | 17 | [Dame Tu Cruz](https://open.spotify.com/track/1Ra386thvEEIz7cQp2GPwp) | [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Dame Tu Cruz](https://open.spotify.com/album/36jPYsM19P6uSB0na1wrhj) | 3:22 |
 | 18 | [Me Miraban Raro](https://open.spotify.com/track/7MghxYy2DZTHTUfhRrUZmX) | [Josephlee](https://open.spotify.com/artist/4pjKgubEZt1C7vtkDhsfyY) | [El Odioso](https://open.spotify.com/album/5yNtkTEHrmnKO15aHPocKO) | 2:39 |

@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3558,
+  "num_followers": 3568,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDM2OCwwMDAwMDAwMDI2NGZlNzg4NzIxMDQxMGM0OTg0MDQ4ODI5N2NlMDVk",
+  "snapshot_id": "MTY2MDMzMDM2OCwwMDAwMDAwMDMwN2Y4ODA1YjdhOWE5MDk1NWQ2YzE4MWMzNDExN2Yw",
   "tracks": [
     {
       "added_at": "2022-08-12 18:52:48",
@@ -343,6 +343,30 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
+        "name": "Drivin'",
+        "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
+      },
+      "artists": [
+        {
+          "name": "Kim Seungmin",
+          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
+        },
+        {
+          "name": "Layone",
+          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 162586,
+      "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
+      "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
       },
@@ -375,30 +399,6 @@
       "duration_ms": 196586,
       "name": "Like a Diamond (With. Stella Jang)",
       "url": "https://open.spotify.com/track/7l6Apaxjjt4cJgiBJ20kGG"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "Drivin'",
-        "url": "https://open.spotify.com/album/1y02gJR3gmhHjBl8zX3yAL"
-      },
-      "artists": [
-        {
-          "name": "Kim Seungmin",
-          "url": "https://open.spotify.com/artist/31VffPWiL2AAwNIMODB9qZ"
-        },
-        {
-          "name": "Layone",
-          "url": "https://open.spotify.com/artist/2TTGZUWJg6LIOWsmCEgKCZ"
-        },
-        {
-          "name": "BIG Naughty",
-          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
-        }
-      ],
-      "duration_ms": 162586,
-      "name": "Drivin\u2019 (Feat. Layone, BIG Naughty)",
-      "url": "https://open.spotify.com/track/1x8waytyN4BfxrkuoQsBRT"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Kangaroo",
-        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
       },
       "artists": [
         {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
         }
       ],
-      "duration_ms": 225903,
-      "name": "Kangaroo",
-      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -499,6 +499,22 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Kangaroo",
+        "url": "https://open.spotify.com/album/7GBQfaZAiYs7K1kGRYUYKv"
+      },
+      "artists": [
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 225903,
+      "name": "Kangaroo",
+      "url": "https://open.spotify.com/track/1Oi9J5OpJmnZusVBbt2cjo"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -551,6 +567,22 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 134026,
+      "name": "Traveler",
+      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/19lmfiETJkR6VKXZDsFn02"
       },
@@ -571,22 +603,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 134026,
-      "name": "Traveler",
-      "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "WATERFALL",
         "url": "https://open.spotify.com/album/4ZK9zZuiaZsryNQC8NLlQu"
       },
@@ -599,6 +615,26 @@
       "duration_ms": 191793,
       "name": "Then",
       "url": "https://open.spotify.com/track/5HjDMN3cGXdyyO2bY6DWBZ"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -619,22 +655,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
-      },
-      "artists": [
-        {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
-        }
-      ],
-      "duration_ms": 217106,
-      "name": "Sun Dance",
-      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "SPACE MULAN",
         "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
       },
@@ -651,6 +671,42 @@
       "duration_ms": 197306,
       "name": "GO! (feat. Eelittlee)",
       "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "theme park",
+        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
+      },
+      "artists": [
+        {
+          "name": "chilly",
+          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "theme park",
+      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
+        {
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -687,22 +743,18 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+        "name": "24\u2103",
+        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+      "duration_ms": 176759,
+      "name": "20MIN",
+      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -723,34 +775,22 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "theme park",
-        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
-          "name": "chilly",
-          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "theme park",
-      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "24\u2103",
-        "url": "https://open.spotify.com/album/5u9CP1NknadV33hZepVEy5"
-      },
-      "artists": [
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        },
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 176759,
-      "name": "20MIN",
-      "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -779,22 +819,18 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+        "name": "Hug me tight",
+        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
       "artists": [
         {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        },
-        {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+          "name": "Heo Hoy Kyung",
+          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
         }
       ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+      "duration_ms": 227756,
+      "name": "Hug me tight",
+      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -819,22 +855,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Hug me tight",
-        "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
-      },
-      "artists": [
-        {
-          "name": "Heo Hoy Kyung",
-          "url": "https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl"
-        }
-      ],
-      "duration_ms": 227756,
-      "name": "Hug me tight",
-      "url": "https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "Far From the Madding City",
         "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
       },
@@ -847,22 +867,6 @@
       "duration_ms": 274582,
       "name": "TENNIS",
       "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "28 DREAM",
-        "url": "https://open.spotify.com/album/0i0pzQQFJt6WJBvhfIay6z"
-      },
-      "artists": [
-        {
-          "name": "JOHA",
-          "url": "https://open.spotify.com/artist/5EA6BuU37htR4XD3l83mQM"
-        }
-      ],
-      "duration_ms": 250733,
-      "name": "28 DREAM",
-      "url": "https://open.spotify.com/track/7Jj4ro3G9jFZFfr2S3C4yW"
     },
     {
       "added_at": "2022-08-12 18:52:48",

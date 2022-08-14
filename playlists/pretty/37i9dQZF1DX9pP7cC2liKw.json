@@ -1,12 +1,12 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 43910,
+  "num_followers": 44174,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM1MzE2MiwwMDAwMDAwMDdlZjUyN2MzNjViOWRlY2U5NjFmYTg2MGVlNzIyZmQ5",
+  "snapshot_id": "MTY2MDM1NTg1OSwwMDAwMDAwMDg2YzdmYWIzZDE2ZDFiMzgyMTM1YTg3OTY1MjIxMDZi",
   "tracks": [
     {
       "added_at": "2022-06-15 04:26:09",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
-      },
-      "artists": [
-        {
-          "name": "Bomba Est\u00e9reo",
-          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Algo Est\u00e1 Cambiando",
-      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Dolores",
         "url": "https://open.spotify.com/album/0WDiOaWlbou6miFDG9sXlZ"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 218360,
       "name": "Dolores",
       "url": "https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Algo Est\u00e1 Cambiando",
+      "url": "https://open.spotify.com/track/5dLz5CRzW8RcNEptn0NtOi"
     },
     {
       "added_at": "2022-07-01 02:43:42",
@@ -529,30 +529,6 @@
       "url": "https://open.spotify.com/track/4fCevXfseuEJRmPwmNnUZr"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Camino de Flores",
-        "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
-      },
-      "artists": [
-        {
-          "name": "El B\u00faho",
-          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
-        },
-        {
-          "name": "Joaqu\u00edn Cornejo",
-          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
-        },
-        {
-          "name": "Minuk",
-          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
-        }
-      ],
-      "duration_ms": 341500,
-      "name": "Mirando El Fuego",
-      "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
-    },
-    {
       "added_at": "2022-07-11 18:32:36",
       "album": {
         "name": "Morena",
@@ -577,24 +553,44 @@
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2022-08-13 01:57:39",
       "album": {
-        "name": "On te l'avait dit",
-        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+        "name": "Mayahuel",
+        "url": "https://open.spotify.com/album/62uYHxDORrNSyoA0wIPYIj"
       },
       "artists": [
         {
-          "name": "Voilaaa",
-          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
-        },
-        {
-          "name": "Sir Jean",
-          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+          "name": "S\u00e1vila",
+          "url": "https://open.spotify.com/artist/2MnzgTDDWD0KTonayeznfN"
         }
       ],
-      "duration_ms": 432963,
-      "name": "Spies Are Watching Me",
-      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
+      "duration_ms": 261092,
+      "name": "Mayahuel",
+      "url": "https://open.spotify.com/track/7HbT88iSUcM6fnFTIZ5GZf"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Camino de Flores",
+        "url": "https://open.spotify.com/album/0vdxye7k8StChBnsKnMjoo"
+      },
+      "artists": [
+        {
+          "name": "El B\u00faho",
+          "url": "https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR"
+        },
+        {
+          "name": "Joaqu\u00edn Cornejo",
+          "url": "https://open.spotify.com/artist/6V4NgkMjgxnogUDJe1rAUx"
+        },
+        {
+          "name": "Minuk",
+          "url": "https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn"
+        }
+      ],
+      "duration_ms": 341500,
+      "name": "Mirando El Fuego",
+      "url": "https://open.spotify.com/track/4LWhuOXAg8TiEH87RATu5X"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -615,6 +611,26 @@
       "duration_ms": 170158,
       "name": "SALTA",
       "url": "https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "On te l'avait dit",
+        "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
+      },
+      "artists": [
+        {
+          "name": "Voilaaa",
+          "url": "https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1"
+        },
+        {
+          "name": "Sir Jean",
+          "url": "https://open.spotify.com/artist/4SkHS4kCrdABhw4KLVrOz0"
+        }
+      ],
+      "duration_ms": 432963,
+      "name": "Spies Are Watching Me",
+      "url": "https://open.spotify.com/track/1UIqpCB0b56K7U0JJPfskN"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -691,6 +707,26 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Santa Teresa",
+        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
+      },
+      "artists": [
+        {
+          "name": "Oceanvs Orientalis",
+          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
+        },
+        {
+          "name": "Castello Branco",
+          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
+        }
+      ],
+      "duration_ms": 298666,
+      "name": "Santa Teresa",
+      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Paloma + Remixes",
         "url": "https://open.spotify.com/album/5LE9oiaGprQqvFtinBA73K"
       },
@@ -711,26 +747,6 @@
       "duration_ms": 506655,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/4lvRuiCSvrrfmnAb4YHZHn"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Santa Teresa",
-        "url": "https://open.spotify.com/album/5MWFftrRcVgXuUkWWatWVT"
-      },
-      "artists": [
-        {
-          "name": "Oceanvs Orientalis",
-          "url": "https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg"
-        },
-        {
-          "name": "Castello Branco",
-          "url": "https://open.spotify.com/artist/18mXdMHUw1ULPaeW1DNy90"
-        }
-      ],
-      "duration_ms": 298666,
-      "name": "Santa Teresa",
-      "url": "https://open.spotify.com/track/0GVu2gXzurD0FBL7CHqE0F"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -771,22 +787,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Turn Around",
-        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
-      },
-      "artists": [
-        {
-          "name": "Rampue",
-          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
-        }
-      ],
-      "duration_ms": 437241,
-      "name": "Turn Around",
-      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "It All Depends (Aguacate Version)",
         "url": "https://open.spotify.com/album/3bLTS663bCWe0YPowrxzMQ"
       },
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Turn Around",
+        "url": "https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u"
+      },
+      "artists": [
+        {
+          "name": "Rampue",
+          "url": "https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv"
+        }
+      ],
+      "duration_ms": 437241,
+      "name": "Turn Around",
+      "url": "https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Hunch Music",
         "url": "https://open.spotify.com/album/2Zkm6fLuFZ6gywkYeFsewV"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 351207,
       "name": "Rare Happiness",
       "url": "https://open.spotify.com/track/2bpvml9LqQIWz1wkiYUcv0"
-    },
-    {
-      "added_at": "2022-07-13 15:46:50",
-      "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -869,6 +869,22 @@
       "url": "https://open.spotify.com/track/13LVADAG1jdD42fe5wihFc"
     },
     {
+      "added_at": "2022-07-13 15:46:50",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+    },
+    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Hustler's Lullaby",
@@ -883,6 +899,42 @@
       "duration_ms": 314181,
       "name": "Shinjuku Strut",
       "url": "https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Sentir",
+        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
+      },
+      "artists": [
+        {
+          "name": "Ilse Hendrix",
+          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
+        }
+      ],
+      "duration_ms": 228194,
+      "name": "Sentir",
+      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -931,42 +983,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
-      },
-      "artists": [
-        {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "P\u00e1jaro Cenzontle",
-      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Feelings",
         "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 134220,
       "name": "Moody",
       "url": "https://open.spotify.com/track/213H9vfVfLc7m2zRVWgCmJ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Sentir",
-        "url": "https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z"
-      },
-      "artists": [
-        {
-          "name": "Ilse Hendrix",
-          "url": "https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB"
-        }
-      ],
-      "duration_ms": 228194,
-      "name": "Sentir",
-      "url": "https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        }
+      ],
+      "duration_ms": 220866,
+      "name": "P\u00e1jaro Cenzontle",
+      "url": "https://open.spotify.com/track/3QYQIrQ5ccLToSwFJ1cZcW"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Amansara",
         "url": "https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl"
       },
@@ -1039,26 +1055,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Better When We're Close",
-        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
-      },
-      "artists": [
-        {
-          "name": "Poolside",
-          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 213453,
-      "name": "Better When We're Close",
-      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Tuyo",
         "url": "https://open.spotify.com/album/0mNt37lNYCqm2EN6LCLwml"
       },
@@ -1075,6 +1071,26 @@
       "duration_ms": 394669,
       "name": "Tuyo - Original Mix",
       "url": "https://open.spotify.com/track/3ZcjaZ8kqimC1lgQ3662U0"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
+        "name": "Better When We're Close",
+        "url": "https://open.spotify.com/album/3QAQLlcR4CVx9ySkuNNnah"
+      },
+      "artists": [
+        {
+          "name": "Poolside",
+          "url": "https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 213453,
+      "name": "Better When We're Close",
+      "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Riviera Maya",
-        "url": "https://open.spotify.com/album/3Y53io7boMQYIjfxAf7BSC"
-      },
-      "artists": [
-        {
-          "name": "Ouska",
-          "url": "https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV"
-        }
-      ],
-      "duration_ms": 145333,
-      "name": "Riviera Maya",
-      "url": "https://open.spotify.com/track/3Ny7QoCSLbOMUGQLE9uhpQ"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
         "name": "Drama",
         "url": "https://open.spotify.com/album/4XGFdSkArqglb0DLPeh8N5"
       },
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
+        "name": "Theme from Selva",
+        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
+      },
+      "artists": [
+        {
+          "name": "Quantic",
+          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
+        }
+      ],
+      "duration_ms": 340720,
+      "name": "Nineteen Hundred and Eighty Five",
+      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
+    },
+    {
+      "added_at": "2022-06-15 04:26:09",
+      "album": {
         "name": "Jallalla",
         "url": "https://open.spotify.com/album/5Iul5UaUiG7Ko0r0rbnf5c"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 340616,
       "name": "La Frontera",
       "url": "https://open.spotify.com/track/6vixh55dCERkMeHM68KOE6"
-    },
-    {
-      "added_at": "2022-06-15 04:26:09",
-      "album": {
-        "name": "Theme from Selva",
-        "url": "https://open.spotify.com/album/6ht7LwHxyNVk8gkqGaK6mM"
-      },
-      "artists": [
-        {
-          "name": "Quantic",
-          "url": "https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8"
-        }
-      ],
-      "duration_ms": 340720,
-      "name": "Nineteen Hundred and Eighty Five",
-      "url": "https://open.spotify.com/track/65KrPjUkVnvUUfQaDGn6n7"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1247,26 +1247,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Amor Entre Mujer",
-        "url": "https://open.spotify.com/album/4tRbLBaf7fQaYZnZp41ttO"
+        "name": "Riviera Maya",
+        "url": "https://open.spotify.com/album/3Y53io7boMQYIjfxAf7BSC"
       },
       "artists": [
         {
-          "name": "YoSoyMatt",
-          "url": "https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV"
-        },
-        {
-          "name": "Polocorp",
-          "url": "https://open.spotify.com/artist/2y9LLMJaR9CvCFeeuLoWjZ"
-        },
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+          "name": "Ouska",
+          "url": "https://open.spotify.com/artist/1BhytEyR0LxnxXoeQPxGVV"
         }
       ],
-      "duration_ms": 272799,
-      "name": "Amor Entre Mujer",
-      "url": "https://open.spotify.com/track/7kbLWbsm16J2WimzrC0iDA"
+      "duration_ms": 145333,
+      "name": "Riviera Maya",
+      "url": "https://open.spotify.com/track/3Ny7QoCSLbOMUGQLE9uhpQ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1287,22 +1279,18 @@
     {
       "added_at": "2022-06-15 04:26:09",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+        "name": "Safe Passage",
+        "url": "https://open.spotify.com/album/4nEl5WmNwaoRTUJZzJIH37"
       },
       "artists": [
         {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+          "name": "Gitkin",
+          "url": "https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt"
         }
       ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
+      "duration_ms": 214553,
+      "name": "Chicha Nola - Alternative Version",
+      "url": "https://open.spotify.com/track/0PNXaIFtSKlXDJSzWPy8YG"
     }
   ],
   "unique_name": "Tulum Vibes",

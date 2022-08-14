@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 
 > music to help you \~ focus \~
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,500 likes - 81 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,769 likes - 81 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSrwtip3vZP.md) - [plain]
 | 7 | [because i liked a boy](https://open.spotify.com/track/32FhTAAjKZaBein150o3Px) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can't send](https://open.spotify.com/album/5kDmlA2g9Y1YCbNo2Ufxlz) | 3:16 |
 | 8 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 9 | [MEAN!](https://open.spotify.com/track/0KQRhak4Irr2CKxgQ9U6ay) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY) | [MEAN!](https://open.spotify.com/album/1JX43p0bIGOMiHjdgoyAQD) | 2:23 |
-| 10 | [Monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
+| 10 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 11 | [Vienna](https://open.spotify.com/track/0mGIL8cwDCf712oaI1Nosb) | [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Vienna](https://open.spotify.com/album/10t8s95xXT88VShcKfPDZ2) | 2:43 |
 | 12 | [Devil Doesn’t Bargain](https://open.spotify.com/track/1zu2GKHPJIsUu80SUJX4H4) | [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [\(Un\)Commentary](https://open.spotify.com/album/5Wvcnn5547f6xz8F9Kz6rO) | 2:43 |
 | 13 | [Get Your Attention](https://open.spotify.com/track/4MCJB2N8KBptcmd1fmo7XY) | [Andi](https://open.spotify.com/artist/7fEXIS5LgSLbCdzTePqe0V) | [Get Your Attention](https://open.spotify.com/album/43am42UyYn68HuCzv16WDg) | 3:17 |

@@ -4,7 +4,7 @@
 
 > Classic soft rock\. For that free and easy feeling.
 
-99 songs - 6 hr 31 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
+100 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/08neF8htQhOTNoWwHUhonx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Dance with Me](https://open.spotify.com/track/3D0fUBloGwPcLGLyheGWXu) | [Orleans](https://open.spotify.com/artist/1667U2YoucgG5Pdvm2M59c) | [The Essentials: Orleans](https://open.spotify.com/album/3b3CBmEMZKC4ugmcM2iPc6) | 3:00 | 2021-04-22 |  |
 | [Do It Again](https://open.spotify.com/track/2BstRQGodshjGpeDGQiNgo) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 5:56 | 2021-04-22 |  |
 | [Doctor My Eyes](https://open.spotify.com/track/3QcuZo6WLcFkqqLmDs0d95) | [Jackson Browne](https://open.spotify.com/artist/5lkiCO9UQ8B23dZ1o0UV4m) | [Jackson Browne \(Saturate Before Using\)](https://open.spotify.com/album/0n93YRc9GP3ZgREgTHvP5u) | 3:19 | 2021-04-22 |  |
-| [Don't Turn Me Away](https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Essential Air Supply](https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY) | 3:40 | 2021-04-22 |  |
+| [Don't Turn Me Away](https://open.spotify.com/track/5jEuU57nvKw74sYR9Rcej5) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [The Essential Air Supply](https://open.spotify.com/album/1szGVsmiZJRyOAGOVk0mCY) | 3:40 | 2021-04-22 | 2022-08-14 |
 | [Dream On](https://open.spotify.com/track/2zjs7VtYszHqh3gHcSHGJP) | [Bill LaBounty](https://open.spotify.com/artist/7F81AqbZ2eUSjf9FpVptwO) | [Bill LaBounty](https://open.spotify.com/album/7aPh03VcoR5N96qC6odwS2) | 4:22 | 2021-04-22 | 2022-07-24 |
 | [Escape \(The Pina Colada Song\)](https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ) | [Rupert Holmes](https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj) | [Partners In Crime](https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN) | 4:36 | 2021-04-22 |  |
 | [Everybody Needs Love](https://open.spotify.com/track/0rLemgaftUhE0iYxp6VQSm) | [Stephen Bishop](https://open.spotify.com/artist/3JhRHqCi8HEzkJVWt19LtN) | [20th Century Masters: The Millennium Collection: Best Of Stephen Bishop](https://open.spotify.com/album/5xQPBKkD2vZQag95dVpyOs) | 3:41 | 2021-04-22 | 2022-07-29 |
@@ -48,6 +48,7 @@
 | [Let Out](https://open.spotify.com/track/3q4aF4bp248tWr7lAyoFHe) | [Gary Wright](https://open.spotify.com/artist/3z6Uf5IZkN4TogRpRpgD84) | [The Dream Weaver](https://open.spotify.com/album/0tFPDkiH2TpnjoVcrWtZHp) | 3:22 | 2021-04-22 | 2022-07-24 |
 | [Lotta Love](https://open.spotify.com/track/2bS2tETCzUmjALnXEvhOGo) | [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Nicolette](https://open.spotify.com/album/4IYDdR6uUcazKjPPzJJzfu) | 3:11 | 2021-04-22 |  |
 | [Love Is the Answer](https://open.spotify.com/track/2jto2mk883akXynLqkdung) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Dr\. Heckle & Mr\. Jive](https://open.spotify.com/album/7MJWKg2ENg95w9cD6BXw7h) | 4:44 | 2022-03-31 |  |
+| [Love Is the Answer \(Single Version\)](https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED) | 4:41 | 2021-04-22 |  |
 | [Love Is the Answer \- Single Version](https://open.spotify.com/track/7xKGghZ59EGUT0Ft9BRVMr) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Rhino Hi\-Five: England Dan & John Ford Coley](https://open.spotify.com/album/40V7QExJNlpQZaxZf1JTF5) | 4:41 | 2021-04-22 | 2022-08-06 |
 | [Love the One You're With](https://open.spotify.com/track/5cKb2kQzChjhE5Rd1ExYNY) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 3:38 | 2021-04-22 | 2022-07-29 |
 | [Love the One You're With](https://open.spotify.com/track/0NnyYBnyStcNKDu7PejLPF) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Givin' It Back](https://open.spotify.com/album/0xd0GqZYWh9wEA3TuqMy5h) | 3:43 | 2021-04-22 |  |

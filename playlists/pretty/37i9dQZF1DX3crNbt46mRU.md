@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,947 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,955 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 37 | [Burning](https://open.spotify.com/track/07IAGsfYqS8sZSECzK1hZK) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Burning](https://open.spotify.com/album/71Dk5SUWHmMrRnfPwYRnGB) | 4:05 |
 | 38 | [Pizza chunt](https://open.spotify.com/track/2kItuIN8iM4HQyhqL4Mq9Z) | [Tica](https://open.spotify.com/artist/6dQBFZkKyZ1tRJTz79wjhS) | [Pizza chunt](https://open.spotify.com/album/35LdVfAjUZIUxmTKm8nWhG) | 3:48 |
 | 39 | [Gottes Plan](https://open.spotify.com/track/45oI4Djd6iwoKORhLEZLjb) | [Ra'is](https://open.spotify.com/artist/6tekmZkCK5xHTIwWeqyr0i), [NGEE](https://open.spotify.com/artist/3Hvx3BM0K4FHBs9J3k8G6V), [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d) | [Gottes Plan](https://open.spotify.com/album/3U0BR1lRpqbpdR6Wbattsl) | 3:58 |
-| 40 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 40 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 41 | [SAY LESS \(with French Montana\)](https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SAY LESS](https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG) | 2:30 |
 | 42 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 |
 | 43 | [Tausendfrankenlang \- Live](https://open.spotify.com/track/3BBHpRuuQbMrIhVQOuh4gz) | [Faber](https://open.spotify.com/artist/0k70gnDBLPirCltbTzoxuM) | [Tausendfrankenlang \(Live\)](https://open.spotify.com/album/10riI75JgFZFIq8AKJDmCz) | 4:45 |

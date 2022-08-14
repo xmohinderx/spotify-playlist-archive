@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-105 songs - 4 hr 51 min - not published yet
+105 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/6G5WCUYS9dgq5fbeEQzQHB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > indie pop for when ur crushing so hard it hurts
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,892 likes - 70 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,513 likes - 70 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 27 | [Please Notice](https://open.spotify.com/track/36seMHoyXmLUNxcwzwjdF7) | [Christian Leave](https://open.spotify.com/artist/2G8UkPZnQ8i78L8TfqP1X6) | [Hope](https://open.spotify.com/album/58g2PHmbpBfwmBU2SICdxc) | 1:56 |
 | 28 | [Loverboy](https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb) | [A\-Wall](https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV) | [Loverboy](https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx) | 3:44 |
 | 29 | [affection](https://open.spotify.com/track/2lTtnKQgjbrBA1qnOFhBkP) | [BETWEEN FRIENDS](https://open.spotify.com/artist/2HkSsS8O2U2gPhnCGVN5vn) | [we just need some time together](https://open.spotify.com/album/0S4Y2Jnwf3tjQRlcKTsGUE) | 3:55 |
-| 30 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
-| 31 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 30 | [Drew Barrymore](https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 3:51 |
+| 31 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
 | 32 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 |
-| 33 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
-| 34 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
-| 35 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
+| 33 | [4EVER](https://open.spotify.com/track/5mIOsPuQdXchVY0jB5NO9Q) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [4EVER](https://open.spotify.com/album/7E5bHNtTN25JAw8vJALDz9) | 2:39 |
+| 34 | [Summertime In Paris](https://open.spotify.com/track/6XNANAB7sFvkfho6bMCp7o) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [ERYS \(Deluxe\)](https://open.spotify.com/album/6cKBoHXh7dKn2gVsGniZ58) | 4:30 |
+| 35 | [Pain](https://open.spotify.com/track/7CIERzyqIwLVKGp00YbHRO) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Pain](https://open.spotify.com/album/6N4ySRXQsXl6g9mCr7QPFx) | 1:38 |
 | 36 | [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 |
 | 37 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
 | 38 | [Fool](https://open.spotify.com/track/5Yx9t9RgATAtYoHN8gbRM0) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 2:04 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 55 | [You Say I'm in Love](https://open.spotify.com/track/5Ss6DqCldgTmIo6BekVOJT) | [Banes World](https://open.spotify.com/artist/5BCnLrqpwYtufR1bDWn0hG) | [You Say I'm in Love](https://open.spotify.com/album/7M3ne50fqV9L911ieSAqyN) | 2:56 |
 | 56 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
 | 57 | [Make Me Your Queen](https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:41 |
-| 58 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
-| 59 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 |
+| 58 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 |
+| 59 | [First Date](https://open.spotify.com/track/733hyyG8U8kxxebds98nc6) | [frad](https://open.spotify.com/artist/1XLYJ9VzlgEpBdlkC4MhOL) | [First Date](https://open.spotify.com/album/1nU6zoYEGCPBe6qTjbxwYH) | 2:53 |
 | 60 | [Wishful Thinking](https://open.spotify.com/track/06Xh1KvQofFghlSt33mFjc) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [FIRE ON MARZZ](https://open.spotify.com/album/6pTMhQX8gt1xegiIwo3Ekb) | 3:33 |
 | 61 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 62 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 65 | [Beach Boy](https://open.spotify.com/track/4Z2zWAUN9YVxHkZXS7s1KE) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/6dakHNG3NtaGyGEzM2lfFn) | 3:12 |
 | 66 | [nothing else i could do](https://open.spotify.com/track/6qtoHId8ZoJ3J5JG6eOqJB) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [THIS IS NOT WHAT IT LOOKS LIKE!](https://open.spotify.com/album/2jGyX0p346kDwHvVqanE8W) | 2:50 |
 | 67 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
-| 68 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
-| 69 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
+| 68 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
+| 69 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |
 | 70 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 |
 
-Snapshot ID: `MTY2MDIzNzE0MCwwMDAwMDAwMGE3ODg0OWM5ZTJkNzcwY2UyOTA3MjEzODRjNTJmYzI1`
+Snapshot ID: `MTY2MDIzNzE0MCwwMDAwMDAwMGJiZjQyNDAzODhmYTFhZjJiY2E5Y2I0OTRiOWI4ZGM1`

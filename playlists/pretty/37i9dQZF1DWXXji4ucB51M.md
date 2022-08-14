@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,071 likes - 73 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,070 likes - 73 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 31 | [Toosie Slide](https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Toosie Slide](https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J) | 4:07 |
 | 32 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 |
 | 33 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 |
-| 34 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
-| 35 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 34 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 |
+| 35 | [You should be sad](https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:25 |
 | 36 | [bloody valentine](https://open.spotify.com/track/6mADjHs6FXdroPzEGW6KVJ) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 3:25 |
 | 37 | [xanny](https://open.spotify.com/track/4QIo4oxwzzafcBWkKjDpXY) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 4:03 |
 | 38 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 |
@@ -72,14 +72,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXji4ucB51M.md) - [plain]
 | 62 | [strawberry lipstick](https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:43 |
 | 63 | [Boyfriend](https://open.spotify.com/track/5EBtY2shIV1vmY4bnvvV6T) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:41 |
 | 64 | [Lockdown](https://open.spotify.com/track/5oZps6mYqU5s7A4WjUZggJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Lockdown](https://open.spotify.com/album/7x8QTmOI3zN1V5xOq3Jko5) | 3:32 |
-| 65 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
-| 66 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
-| 67 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
-| 68 | [Mother's Daughter](https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 3:39 |
+| 65 | [Mother's Daughter](https://open.spotify.com/track/4C5iYZMmSYeIUCtX3uShA7) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [SHE IS COMING](https://open.spotify.com/album/6Be5Qxq0Xm0CGyxs5JUYX9) | 3:39 |
+| 66 | [Do It](https://open.spotify.com/track/1bRjwdtScY2eMe9uMmsOkG) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Do It](https://open.spotify.com/album/3qv9FlK79TvW61dCRd1f76) | 2:56 |
+| 67 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 |
+| 68 | [Orphans](https://open.spotify.com/track/6muOWhMh7Tf0UFUtMDBhUR) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Orphans / Arabesque](https://open.spotify.com/album/6DX4K0afv5l01Pf6lymJuB) | 3:17 |
 | 69 | [Happy Days](https://open.spotify.com/track/6GHAAp25FcGdaHgAn8rTif) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 2:59 |
 | 70 | [Some Kind of Disaster](https://open.spotify.com/track/02lU0Hj680zVexT4GqJJZ4) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Wake Up, Sunshine](https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE) | 3:43 |
 | 71 | [Dear Future Self \(Hands Up\)](https://open.spotify.com/track/1tm4Bl2E5RwTevOiBs4gtH) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Believers Never Die \(Volume Two\)](https://open.spotify.com/album/2MlgtDuxXXz8c8Toc9kKTd) | 2:50 |
 | 72 | [Oh Yeah!](https://open.spotify.com/track/3QiNQFiueqnIc6rOPLZB3f) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Oh Yeah!](https://open.spotify.com/album/4YfXSuoJWZGcTNGAkFK8cO) | 2:51 |
-| 73 | [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 |
+| 73 | [Wasted On You](https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:24 |
 
-Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMDYzMjAxN2M0Njg1NjNiMTVkMTE1NjExN2NjNWQ3ZGVh`
+Snapshot ID: `MTU5ODMwNzU2OSwwMDAwMDAwMDNkYTk5NDhlZjJkMzI1MWNlYWM1MWQxNWQwODhjMDI5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 
 > Early pioneers that brought the underground to the foreground\. Cover: Depeche Mode
 
-[Spotify](https://open.spotify.com/user/spotify) - 952,084 likes - 75 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 952,353 likes - 75 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 32 | [Train in Vain \(Stand by Me\) \- Remastered](https://open.spotify.com/track/6ITuEsxEy2qPhqMowdDAeI) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:14 |
 | 33 | [Age of Consent \- 2015 Remaster](https://open.spotify.com/track/2EEinN4Zk8MUv4OQuLsTBj) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Power Corruption and Lies](https://open.spotify.com/album/6NTrwu1XJ56jBPx7HMksbZ) | 5:15 |
 | 34 | [Mad World](https://open.spotify.com/track/0Qv7xi6uPSqH2k82tOkGSt) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [The Hurting](https://open.spotify.com/album/3sIFpEctox1XOs3FEkqrgr) | 3:35 |
-| 35 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
-| 36 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
+| 35 | [We Got The Beat](https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF) | [The Go\-Go's](https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE) | [Beauty And The Beat](https://open.spotify.com/album/1L4HE00En7eNK74voVZums) | 2:33 |
+| 36 | [Girls on Film \- 2010 Remaster](https://open.spotify.com/track/4EFkvOhgAmlHEfDfvfSoh5) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Duran Duran \(Deluxe Edition\)](https://open.spotify.com/album/2Tc7ILGF89w1PWOhzuZlqB) | 3:32 |
 | 37 | [Cannonball](https://open.spotify.com/track/1KdwPeY1WRWQGHCmRJTveb) | [The Breeders](https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp) | [Last Splash](https://open.spotify.com/album/57F44c0MTziVzHPEuJtH9A) | 3:33 |
 | 38 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
 | 39 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
@@ -66,15 +66,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 56 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
 | 57 | [Ghost Town](https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn) | [The Specials](https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3) | [Stereo\-Typical: A's, B's & Rarities](https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz) | 3:39 |
 | 58 | [She Don't Use Jelly](https://open.spotify.com/track/1dJuteDIOkGfDSN7zPkzNv) | [The Flaming Lips](https://open.spotify.com/artist/16eRpMNXSQ15wuJoeqguaB) | [Transmissions From the Satellite Heart](https://open.spotify.com/album/0rr668ZzoNDQa1yxhSpBAw) | 3:42 |
-| 59 | [Mony Mony \- Downtown Mix / 24\-Bit Digitally Remastered 2001](https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 5:01 |
-| 60 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
-| 61 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 |
+| 59 | [Save It For Later](https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5) | [The English Beat](https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N) | [Special Beat Service \(Remastered\)](https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP) | 3:33 |
+| 60 | [Mony Mony \- Downtown Mix / 24\-Bit Digitally Remastered 2001](https://open.spotify.com/track/2LbkpJUH052AvFcNIgjHTO) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Vital Idol](https://open.spotify.com/album/0XGgMqKNcQgd0i9YHFiPei) | 5:01 |
+| 61 | [Watching The Detectives \- Single Version](https://open.spotify.com/track/0KrYPz4S4mKHeBjCwYJp0s) | [Elvis Costello](https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn) | [My Aim Is True](https://open.spotify.com/album/1aucGNKimhgARC7iO2xLt2) | 3:46 |
 | 62 | [Ooh La La \- 2004 Remaster](https://open.spotify.com/track/6TNNMVpOgn8K5NoDC7alG6) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [The Best of Faces: Good Boys When They're Asleep](https://open.spotify.com/album/375DYMUVvk7xXyKq5IaUTR) | 3:34 |
 | 63 | [Holiday in Cambodia](https://open.spotify.com/track/2OuNnwnNQyWrF47pthWxNb) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 3:44 |
 | 64 | [Carry the Zero](https://open.spotify.com/track/3HMOMdRPywfouYx5B4PvaH) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 5:43 |
 | 65 | [Heroin](https://open.spotify.com/track/5by3w3NXvwDpV9FBSOR35u) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 7:13 |
-| 66 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
-| 67 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
+| 66 | [Electricity \- Remastered 2003](https://open.spotify.com/track/60TmG8cFPMBo7kTTFOLiAB) | [Orchestral Manoeuvres In The Dark](https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk) | [Orchestral Manoeuvres In The Dark \(Remastered 2003\)](https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF) | 3:39 |
+| 67 | [Roadrunner](https://open.spotify.com/track/5E5HYgxGMp3BPakHGfKfIB) | [The Modern Lovers](https://open.spotify.com/artist/2eRdPaLHWAL4d1WcNUO9Vz) | [The Modern Lovers](https://open.spotify.com/album/5BPCP7WSGBG4br2o4WRmd8) | 4:06 |
 | 68 | [Autumn Sweater](https://open.spotify.com/track/19Qi2Cymjh7HDQESDrDBzs) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [I Can Hear The Heart Beating As One](https://open.spotify.com/album/3V18DIKvRuwdxc2LE4wuac) | 5:18 |
 | 69 | [Love Will Tear Us Apart \- 2010 Remaster](https://open.spotify.com/track/1r8oPEXqnhUVgkUkJNqEuF) | [Joy Division](https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5) | [Substance](https://open.spotify.com/album/2KPhpTUihx9KRWRwBtpTeJ) | 3:24 |
 | 70 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTCdwCKzXwo.md) - [plain]
 | 74 | [Buena](https://open.spotify.com/track/2SSBJhvMsujY94GK5JAtKs) | [Morphine](https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5) | [Cure for Pain](https://open.spotify.com/album/0FocpOyE7RnaNsiaEhSbp6) | 3:19 |
 | 75 | [The Lovecats](https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 |
 
-Snapshot ID: `MTY2MDMyODk2OCwwMDAwMDAwMDM4MDYwYTg1MDg0MTM2ODBhYzJiZjU5NTRhMWRhNmE5`
+Snapshot ID: `MTY2MDMyODk2OCwwMDAwMDAwMDBkYzUxZTVlZGZkYTNlZDNkM2QzNzE4ODYwZmVjMjE4`

@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Steve Lacy
 
-1,180 songs - 2 day 22 hr 35 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
+1,181 songs - 2 day 22 hr 38 min - [published](https://open.spotify.com/playlist/5B0jp45qz6hLoPhNNGwuxh)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Age of Anxiety II \(Rabbit Hole\)](https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [WE](https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B) | 6:41 | 2022-05-13 |  |
 | [Albion](https://open.spotify.com/track/4xw3CqdYLZIncseekii4Kq) | [Gus Harvey](https://open.spotify.com/artist/1cxAeZbDhf2S8t544RIVIf) | [Albion](https://open.spotify.com/album/1vGy4ML1gT6NieDKU8tT1t) | 4:50 | 2020-06-12 | 2020-10-29 |
 | [Alemania](https://open.spotify.com/track/5dkhXb9kA9TRhhC929wbkm) | [Twin Shadow](https://open.spotify.com/artist/6fLrPFLWLSCrp7gcTZXcKb) | [Alemania](https://open.spotify.com/album/6omb0Celi5La2laiUoweog) | 3:55 | 2021-04-20 | 2022-02-25 |
+| [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 | 2022-08-12 |  |
 | [All I Ever Asked](https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked](https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn) | 3:35 | 2022-03-18 |  |
 | [All I Need](https://open.spotify.com/track/51V7IK66jWw2AB3UZ18zxh) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [All I Need](https://open.spotify.com/album/0Q0dDF1hZa6YC5dV2ADrnb) | 3:23 | 2021-02-22 | 2022-04-08 |
 | [All Mirrors](https://open.spotify.com/track/4ZQdynvfiayhdoq5lcuCQ1) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [All Mirrors](https://open.spotify.com/album/3SRs9ltRM8jG6TuAYDLpLj) | 4:42 | 2019-08-09 | 2019-09-27 |
@@ -164,7 +165,7 @@
 | [Can't Cool Me Down](https://open.spotify.com/track/5EoiWO5l5CFlVs9hu0e5z3) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Can't Cool Me Down](https://open.spotify.com/album/3rvDVJ0WyBDeGpjh15XeGc) | 5:09 | 2020-03-06 | 2020-06-12 |
 | [Can't Fight](https://open.spotify.com/track/1zALEEIF3ipCSQMyHBzwPf) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Can't Fight](https://open.spotify.com/album/6WvLHMNGRawv4mzu1HZzFq) | 3:10 | 2020-07-03 | 2021-04-10 |
 | [Candy](https://open.spotify.com/track/2PC6lbQhSTaeZIEGs7lHF6) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [I Don't Wanna Lose](https://open.spotify.com/album/1TDcYaDlJPVDJWfNjS8LM9) | 3:51 | 2019-06-21 | 2019-12-07 |
-| [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-08-12 |  |
+| [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-08-12 | 2022-08-14 |
 | [Can’t Do Much](https://open.spotify.com/track/66bYcZdmQX5uUYewYpNuxX) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Can’t Do Much](https://open.spotify.com/album/3Ep1PLlLdqnVbayahXutA6) | 3:44 | 2020-04-03 | 2020-06-12 |
 | [Can’t Leave It Alone](https://open.spotify.com/track/1touf5V9daiTEakef3yEBA) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Can't Leave It Alone](https://open.spotify.com/album/6u24zEXUUCklmFvFWIYg9H) | 2:32 | 2021-01-13 | 2021-03-22 |
 | [Car Therapy](https://open.spotify.com/track/03bB3eUCjwXGYkyMrKK8qg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Car Therapy](https://open.spotify.com/album/7D252Ap6IlJ1q37D92PjyB) | 3:34 | 2022-04-22 | 2022-07-08 |

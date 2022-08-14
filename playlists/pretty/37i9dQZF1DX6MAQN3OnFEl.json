@@ -1,12 +1,12 @@
 {
   "description": "that's hot",
-  "num_followers": 260519,
+  "num_followers": 260833,
   "original_name": "y2k",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMGUzMzcwYWI4NjgwZmE3ZjU3NjdkZjQyOWU5YTA3ZTQ3",
+  "snapshot_id": "MTY1ODc5MDQzNCwwMDAwMDAwMDRjNzBjMTljNjAxZmYwMjE1MTYyZDMxOTczNjNjZWJk",
   "tracks": [
     {
       "added_at": "2022-03-26 14:30:45",
@@ -475,26 +475,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "Confessions (Expanded Edition)",
         "url": "https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 237493,
       "name": "A Thousand Miles",
       "url": "https://open.spotify.com/track/4w1lzcaoZ1IC2K5TwjalRP"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "The Young and The Hopeless",
-        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
-      },
-      "artists": [
-        {
-          "name": "Good Charlotte",
-          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "The Anthem",
-      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "Who Needs Guitars Anyway?",
         "url": "https://open.spotify.com/album/7wyEph8JrTyNFNPmRCu3pU"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 214883,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5XVjNRubJUW0iPhhSWpLCj"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "The Young and The Hopeless",
+        "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
+      },
+      "artists": [
+        {
+          "name": "Good Charlotte",
+          "url": "https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "The Anthem",
+      "url": "https://open.spotify.com/track/0BRHnOFm6sjxN1i9LJrUDu"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 222458,
+      "name": "We Like To Party! (The Vengabus)",
+      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -1275,18 +1291,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+        "name": "The Spirit Room",
+        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
       },
       "artists": [
         {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+          "name": "Michelle Branch",
+          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
         }
       ],
-      "duration_ms": 222458,
-      "name": "We Like To Party! (The Vengabus)",
-      "url": "https://open.spotify.com/track/73ljrkSg4A0q3ByU0Cu7mw"
+      "duration_ms": 214826,
+      "name": "Everywhere",
+      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1307,22 +1323,6 @@
       "duration_ms": 223000,
       "name": "Goodies (feat. Petey Pablo)",
       "url": "https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
-        "name": "The Spirit Room",
-        "url": "https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi"
-      },
-      "artists": [
-        {
-          "name": "Michelle Branch",
-          "url": "https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Everywhere",
-      "url": "https://open.spotify.com/track/1u0l8zWpQeMYStFkc2mLD7"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Atomic Kitten",
-        "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
-      },
-      "artists": [
-        {
-          "name": "Atomic Kitten",
-          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
-        }
-      ],
-      "duration_ms": 205360,
-      "name": "The Tide Is High - Radio Mix",
-      "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "This Is The End: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Greetings From Imrie House (U.S. Version)",
-        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+        "name": "Atomic Kitten",
+        "url": "https://open.spotify.com/album/340y6ZpqGxp4xW0203bOPN"
       },
       "artists": [
         {
-          "name": "The Click Five",
-          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+          "name": "Atomic Kitten",
+          "url": "https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw"
         }
       ],
-      "duration_ms": 234146,
-      "name": "Just the Girl",
-      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
+      "duration_ms": 205360,
+      "name": "The Tide Is High - Radio Mix",
+      "url": "https://open.spotify.com/track/5WuVWOngcRkMOx9RRLCvui"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1631,6 +1615,22 @@
       "duration_ms": 257333,
       "name": "Summer Girls",
       "url": "https://open.spotify.com/track/7uYroF9RRrhRJBrigRvB6H"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Greetings From Imrie House (U.S. Version)",
+        "url": "https://open.spotify.com/album/7gZilZGYr8M7UwEeYvdAKZ"
+      },
+      "artists": [
+        {
+          "name": "The Click Five",
+          "url": "https://open.spotify.com/artist/01lz5VBfkMFDteSA9pKJuP"
+        }
+      ],
+      "duration_ms": 234146,
+      "name": "Just the Girl",
+      "url": "https://open.spotify.com/track/1JURww012QnWAw0zZXi6Aa"
     },
     {
       "added_at": "2022-03-26 14:30:45",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-03-26 14:30:45",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Barbie Girl",
-      "url": "https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU"
-    },
-    {
-      "added_at": "2022-03-26 14:30:45",
-      "album": {
         "name": "The Singles Collection",
         "url": "https://open.spotify.com/album/5fSlrmZPalwAAQDwu6shK2"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 225866,
       "name": "It's My Life",
       "url": "https://open.spotify.com/track/2fOxxLz9JVe53itq6pfBak"
+    },
+    {
+      "added_at": "2022-03-26 14:30:45",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/7uYn7ZSrXOVlmITyocZs9F"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Barbie Girl",
+      "url": "https://open.spotify.com/track/2RSOzvKUnfDDrb2nQPfpQU"
     },
     {
       "added_at": "2022-03-26 14:30:45",

@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 616530,
+  "num_followers": 619380,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA3NDkwMywwMDAwMDAwMGU1MDVhOTU0OWEyZGJiMWYwYTUwYTAyNmNkOGQ5MDIx",
+  "snapshot_id": "MTY2MDA3NDkwMywwMDAwMDAwMGU5NzlkMWJmY2U3OTJlNDZiNWViNzkzNjc1NGViMjc3",
   "tracks": [
     {
       "added_at": "2022-08-09 19:55:03",
@@ -543,22 +543,18 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Dandelions (slowed + reverb)",
-        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        },
-        {
-          "name": "slater",
-          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 268717,
-      "name": "Dandelions - slowed + reverb",
-      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
+      "duration_ms": 153000,
+      "name": "You Get Me So High",
+      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -583,18 +579,22 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Dandelions (slowed + reverb)",
+        "url": "https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
+        },
+        {
+          "name": "slater",
+          "url": "https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7"
         }
       ],
-      "duration_ms": 153000,
-      "name": "You Get Me So High",
-      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
+      "duration_ms": 268717,
+      "name": "Dandelions - slowed + reverb",
+      "url": "https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -731,26 +731,6 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
-      },
-      "artists": [
-        {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
-    },
-    {
-      "added_at": "2022-08-09 19:55:03",
-      "album": {
         "name": "Indigo",
         "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+    },
+    {
+      "added_at": "2022-08-09 19:55:03",
+      "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 196767,
-      "name": "Into It",
-      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
-    },
-    {
-      "added_at": "2022-08-09 19:55:03",
-      "album": {
         "name": "Last Day Of Summer",
         "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
@@ -871,18 +855,18 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Apollo XXI",
-        "url": "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
       },
       "artists": [
         {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
         }
       ],
-      "duration_ms": 224444,
-      "name": "N Side",
-      "url": "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"
+      "duration_ms": 196767,
+      "name": "Into It",
+      "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -903,6 +887,22 @@
       "duration_ms": 209831,
       "name": "Best Part (feat. H.E.R.)",
       "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2022-08-09 19:55:03",
+      "album": {
+        "name": "Apollo XXI",
+        "url": "https://open.spotify.com/album/3IhDL1HDvlujs6ZcIfL9gE"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "N Side",
+      "url": "https://open.spotify.com/track/24G1PXBWoRgV0wDXZKwxzz"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Not Around",
-        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
-      },
-      "artists": [
-        {
-          "name": "Nova",
-          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
-        }
-      ],
-      "duration_ms": 183920,
-      "name": "Not Around",
-      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
-    },
-    {
-      "added_at": "2022-08-09 19:55:03",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 158420,
       "name": "Trust",
       "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
+      "added_at": "2022-08-09 19:55:03",
+      "album": {
+        "name": "Not Around",
+        "url": "https://open.spotify.com/album/1Sj2R7Zu0mYAPf5oCEnl2P"
+      },
+      "artists": [
+        {
+          "name": "Nova",
+          "url": "https://open.spotify.com/artist/3J2OSq7G34UlfnNB6YuZCF"
+        }
+      ],
+      "duration_ms": 183920,
+      "name": "Not Around",
+      "url": "https://open.spotify.com/track/1Adhz5VVDZxhojOLfQQUxa"
     },
     {
       "added_at": "2022-08-09 19:55:03",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2022-08-09 19:55:03",
       "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 247079,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
-    },
-    {
-      "added_at": "2022-08-09 19:55:03",
-      "album": {
         "name": "Exis",
         "url": "https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 251859,
       "name": "Drama (feat. Drake)",
       "url": "https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X"
+    },
+    {
+      "added_at": "2022-08-09 19:55:03",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 247079,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     }
   ],
   "unique_name": "goosebumps",

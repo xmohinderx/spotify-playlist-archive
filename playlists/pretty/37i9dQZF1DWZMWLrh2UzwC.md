@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,041 likes - 79 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,045 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 15 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
 | 16 | [深淵](https://open.spotify.com/track/5EGS2zGhvAZ7TIpa7VPBPy) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [婁峻碩](https://open.spotify.com/artist/40sntfyZsRwGfDgSJnxYuX) | [深淵](https://open.spotify.com/album/5TiHeesm2euDkdL97P3Fyl) | 4:04 |
 | 17 | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/track/7IMQuX237UE0BgT3eXj3Xw) | [RESORT](https://open.spotify.com/artist/5xuLRF6Q5vKklxMJ3ZXJng) | [Xylo \(Shouldn't Have Called It\)](https://open.spotify.com/album/2hBDHksfKvzXLbPAFY6BrM) | 2:42 |
-| 18 | [Secrets](https://open.spotify.com/track/3E9SlEyTNGUyTZTvTQbOfa) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Jordan Hearn](https://open.spotify.com/artist/5QJ5FGCN5gImIqKIGSrsI6) | [Secrets](https://open.spotify.com/album/7DaMBlMoRNIbLl9xYnDqhC) | 3:37 |
+| 18 | [Secrets](https://open.spotify.com/track/3E9SlEyTNGUyTZTvTQbOfa) | [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg) | [Secrets](https://open.spotify.com/album/7DaMBlMoRNIbLl9xYnDqhC) | 3:37 |
 | 19 | [Infinity](https://open.spotify.com/track/0ys67ApLdX56j21to2JRIV) | [Nathan Hartono](https://open.spotify.com/artist/6n8yGGsqYQhvH412YUbBsd) | [Infinity](https://open.spotify.com/album/0z34Mg3doQ3WbE3eztyupv) | 3:25 |
 | 20 | [camera roll](https://open.spotify.com/track/4qPx1LnNuGSFUnNnIZnYfN) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [camera roll](https://open.spotify.com/album/5jVDpgn7eKVImYq2Ff7oCb) | 2:07 |
 | 21 | [Replay](https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds) | [Golden Child](https://open.spotify.com/artist/5zShiwTHlygdfsXj6eavTu) | [AURA](https://open.spotify.com/album/3lWLkdPRedaFQGuC4qQpKm) | 3:27 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 40 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 41 | [Day N Night](https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Black V Neck](https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Day N Night](https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk) | 2:59 |
 | 42 | [Hypnotic \(feat\. Uffie\)](https://open.spotify.com/track/21DGq2EA5LRYKbSz7Aih6g) | [Flowers](https://open.spotify.com/artist/0GC742enCDyfsS4rjnSxJq), [Uffie](https://open.spotify.com/artist/2s6lxOYvvCvzpHtd3VyuMj) | [Hypnotic](https://open.spotify.com/album/3XNv6j31KuIWzkR2IFhCnJ) | 2:50 |
-| 43 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 43 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 44 | [What's With The Roses](https://open.spotify.com/track/55h1aacXiM4YAUcNi8cfh1) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [What's With The Roses](https://open.spotify.com/album/0y7Me7TzBLzmBC0h5Wruns) | 2:50 |
 | 45 | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/track/3BFHMSEppgXLsFYpI61A4Z) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [only in the night \(feat\. Sarcastic Sounds\)](https://open.spotify.com/album/67bP9ZjrlpDrNFGMpf8rVn) | 2:10 |
 | 46 | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/track/2mpcqMEvFFWHaFUprs0wv7) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [Energy \(featuring Pink Sweat$\)](https://open.spotify.com/album/36N7aZLCMbUr7MHItTQaqC) | 3:10 |

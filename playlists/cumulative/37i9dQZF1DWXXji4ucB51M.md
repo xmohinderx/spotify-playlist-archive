@@ -4,7 +4,7 @@
 
 > The official 2020 VMAs playlist from MTV + Spotify\. See more at <a href="http://www.mtv.com/vma">vma.mtv.com</a> 🚀
 
-86 songs - 4 hr 52 min - [published](https://open.spotify.com/playlist/6VwE3Legh0DA93EQ0bQLCX)
+87 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/6VwE3Legh0DA93EQ0bQLCX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Harleys In Hawaii](https://open.spotify.com/track/5nCthAh3jt4xKuLJAifAaR) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Harleys In Hawaii](https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V) | 3:05 | 2020-08-24 |  |
 | [HIGHEST IN THE ROOM](https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [HIGHEST IN THE ROOM](https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU) | 2:55 | 2020-08-24 |  |
 | [Honey Boo](https://open.spotify.com/track/0P0UtGDZpUMWoFCuDTn78K) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Honey Boo](https://open.spotify.com/album/2MtqE42Ibi1CWWiyMRb8rr) | 3:26 | 2020-08-24 |  |
-| [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 | 2020-08-24 |  |
+| [I Can't Breathe](https://open.spotify.com/track/4CPszpSnlbgnQLIQYyzIR2) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Can't Breathe](https://open.spotify.com/album/2izdMqMVUz0VSg2jTZIdU5) | 4:47 | 2020-08-24 | 2022-08-14 |
 | [I Love Me](https://open.spotify.com/track/2IHLaN6wwYKQ3S24NsQqpA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [I Love Me](https://open.spotify.com/album/3VKVZ7PvA64NtVJChPGDaH) | 3:23 | 2020-08-24 |  |
 | [If You’re Too Shy \(Let Me Know\) \- Edit](https://open.spotify.com/track/3iEqGBZ2wcpVzhiAcwXVC6) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [If You’re Too Shy \(Let Me Know\)](https://open.spotify.com/album/3yP8qjvxER61axf20pFfAP) | 3:59 | 2020-08-24 |  |
 | [Intentions](https://open.spotify.com/track/364dI1bYnvamSnBJ8JcNzN) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Intentions](https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt) | 3:32 | 2020-08-24 |  |
@@ -85,6 +85,7 @@
 | [Underdog](https://open.spotify.com/track/7FsAFw1oZeTJUZmIzSh0cg) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:24 | 2020-08-24 |  |
 | [Underdog](https://open.spotify.com/track/3FGiFUJRRp5RGikVrs6kig) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Underdog](https://open.spotify.com/album/01aNLzRaKJogmxt3hDeII2) | 3:28 | 2020-08-24 | 2022-07-29 |
 | [Wasted On You](https://open.spotify.com/track/3XN5MbVdTPLfdQcP07YO5O) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Wasted On You](https://open.spotify.com/album/0M2nZca4uqtlmP9ujd7Yas) | 4:24 | 2020-08-24 | 2022-07-29 |
+| [Wasted On You](https://open.spotify.com/track/6SeiHTSmnC6CJ9tGvVLdMR) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Bitter Truth](https://open.spotify.com/album/4MYCjsaDaemi8Lmkj5PzkL) | 4:24 | 2020-08-24 |  |
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2020-08-24 |  |
 | [WHATS POPPIN](https://open.spotify.com/track/1jaTQ3nqY3oAAYyCTbIvnM) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:19 | 2020-08-24 |  |
 | [Wildflower](https://open.spotify.com/track/353IDEfNzPJmGNRnOi5kJ1) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/0vX2Jo5xhltAA7kVdW2hwO) | 3:40 | 2020-08-24 | 2022-07-29 |

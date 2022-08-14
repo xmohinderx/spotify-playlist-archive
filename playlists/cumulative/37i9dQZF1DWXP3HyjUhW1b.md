@@ -4,7 +4,7 @@
 
 > Aquí están las meras\-meras de nuestro cancionero\. En portada: Pedro Infante
 
-155 songs - 8 hr 56 min - [published](https://open.spotify.com/playlist/60XC9Gg1KRiP0TwNvVrnnp)
+156 songs - 9 hr 0 min - [published](https://open.spotify.com/playlist/60XC9Gg1KRiP0TwNvVrnnp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Después de Ti, ¿Quién?](https://open.spotify.com/track/3qGkFQOEJ0w0SqnAXFeG2v) | [La Adictiva Banda San José de Mesillas](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:54 | 2021-11-12 |  |
 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 | 2021-11-12 | 2022-07-29 |
 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 | 2021-11-12 |  |
-| [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 | 2021-11-12 |  |
+| [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 | 2021-11-12 | 2022-08-14 |
 | [El Color de Tus Ojos](https://open.spotify.com/track/1l77YWrGUp3qX3NS1rz7lq) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:22 | 2021-11-12 |  |
 | [El Mariachi Loco](https://open.spotify.com/track/0cEazkkPgRlEBvAfDcojC2) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [La Más Completa Colección](https://open.spotify.com/album/5YZnRB9emHtZ5yRQ4xTjc7) | 2:57 | 2021-11-12 |  |
 | [El Muchacho Alegre](https://open.spotify.com/track/6sqNESQ8bbQsiVHkfLTTD8) | [Francisco "Charro" Avitia](https://open.spotify.com/artist/4avWq3MJ9MS6TiIHrnymok) | [RCA 100 Años de Música](https://open.spotify.com/album/4RjkV0J5IxjqbDbqNzmeGC) | 3:09 | 2021-11-12 | 2022-06-12 |
@@ -127,6 +127,7 @@
 | [Ramito De Violetas](https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Mi Mexico Querido](https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1) | 3:32 | 2021-11-12 |  |
 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 | 2021-11-12 |  |
 | [Rumores](https://open.spotify.com/track/1CGZr3OWD5QG1KCW7LMC1D) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Disco De Oro: Baladas, Vol\. 1](https://open.spotify.com/album/4BqbJnEBxaFr21syHgr6bc) | 3:42 | 2021-11-12 | 2022-07-29 |
+| [Secreto De Amor](https://open.spotify.com/track/47PiSg7z5qjUyEGKN4I1g7) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 4:33 | 2021-11-12 |  |
 | [Secreto De Amor](https://open.spotify.com/track/5NZDQErD8SKBQTWokxFNSk) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM) | 4:33 | 2021-11-12 | 2022-07-29 |
 | [Sentimental](https://open.spotify.com/track/6wrUBvGFZYeOycORjHO0AM) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Afortunado](https://open.spotify.com/album/4nX2YwuCsLZhvaPNaQphFJ) | 2:47 | 2021-11-12 | 2022-07-29 |
 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 | 2021-11-12 |  |

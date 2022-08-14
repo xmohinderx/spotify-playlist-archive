@@ -604,6 +604,24 @@
     },
     {
       "album": {
+        "name": "Escultura Misterio",
+        "url": "https://open.spotify.com/album/0JZld6b73MsZUKI1bg8KSc"
+      },
+      "artists": [
+        {
+          "name": "Tarik Rahim",
+          "url": "https://open.spotify.com/artist/6G8dH1AvGAD1TOldBpAolN"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173862,
+      "name": "Escultura Misterio",
+      "url": "https://open.spotify.com/track/110XHKXij8NsQYcDiZk0cD"
+    },
+    {
+      "album": {
         "name": "Fear Colours",
         "url": "https://open.spotify.com/album/3pH6DSketPRDBNCIpUMuNW"
       },
@@ -669,10 +687,28 @@
       ],
       "date_added": "2022-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 218805,
       "name": "French Disko",
       "url": "https://open.spotify.com/track/2MtVT4LJqi3RhU1D5o8dPt"
+    },
+    {
+      "album": {
+        "name": "fuck yeah no please",
+        "url": "https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Weisz",
+          "url": "https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145000,
+      "name": "fuck yeah no please",
+      "url": "https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz"
     },
     {
       "album": {
@@ -1115,7 +1151,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
@@ -1485,6 +1521,24 @@
       "duration_ms": 209923,
       "name": "Nada Es Real",
       "url": "https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr"
+    },
+    {
+      "album": {
+        "name": "Night Crawling",
+        "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
+      },
+      "artists": [
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293706,
+      "name": "Night Crawling",
+      "url": "https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O"
     },
     {
       "album": {
@@ -2256,6 +2310,24 @@
     },
     {
       "album": {
+        "name": "THE 55",
+        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
+      },
+      "artists": [
+        {
+          "name": "GUSPY",
+          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172941,
+      "name": "THE 55",
+      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
+    },
+    {
+      "album": {
         "name": "the dealer",
         "url": "https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI"
       },
@@ -2267,7 +2339,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 218640,
       "name": "the dealer",
       "url": "https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn"
@@ -2679,7 +2751,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 231422,
       "name": "Witches",
       "url": "https://open.spotify.com/track/65rPQRPaiv7RLj6uCDrnQZ"

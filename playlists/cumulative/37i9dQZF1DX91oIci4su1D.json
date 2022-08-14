@@ -1255,7 +1255,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 216780,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5tLtVHK1rTefQJi8o1OUUG"
@@ -2523,6 +2523,24 @@
       "duration_ms": 253918,
       "name": "Falling",
       "url": "https://open.spotify.com/track/4zOSUnrmTMOQejyyluCZh3"
+    },
+    {
+      "album": {
+        "name": "Falling",
+        "url": "https://open.spotify.com/album/4fcuj6nj9Fq6CVquHVTRSJ"
+      },
+      "artists": [
+        {
+          "name": "Roman Messer",
+          "url": "https://open.spotify.com/artist/25DnzR3jtrD8StkyyRCvHR"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231304,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/5LI0pkjDAZa4nHGh32LImr"
     },
     {
       "album": {
@@ -4055,7 +4073,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 197375,
       "name": "Kingdom",
       "url": "https://open.spotify.com/track/3wli1SxtT8HtklAWBnvCm1"
@@ -8555,6 +8573,28 @@
       "duration_ms": 205161,
       "name": "Villaneve",
       "url": "https://open.spotify.com/track/0cYjaUPIMjgBQOIJk2kZ4i"
+    },
+    {
+      "album": {
+        "name": "Virtual Companion",
+        "url": "https://open.spotify.com/album/5MZCBU6Bqtp8G8SZFNhur1"
+      },
+      "artists": [
+        {
+          "name": "Grum",
+          "url": "https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ"
+        },
+        {
+          "name": "Able Joseph",
+          "url": "https://open.spotify.com/artist/0djvjweduXm6AxFgwcznq8"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244250,
+      "name": "Virtual Companion - Edit",
+      "url": "https://open.spotify.com/track/1Ldl0TWQu8k6tDxsAnxtm0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,775 likes - 50 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,798 likes - 50 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,20 +34,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 24 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
 | 25 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
 | 26 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
-| 27 | [Tea In The Desert](https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae) | [Bonada](https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ) | [Tea In The Desert](https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ) | 3:30 |
-| 28 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
+| 27 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
+| 28 | [Tea In The Desert](https://open.spotify.com/track/6ZtUV3S8sjh0OUaUBZZ9Ae) | [Bonada](https://open.spotify.com/artist/6sBWpQ5pWojqFXt62W1FwZ) | [Tea In The Desert](https://open.spotify.com/album/6MuABW95Vkd0xkyuan13lQ) | 3:30 |
 | 29 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
 | 30 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
 | 31 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
 | 32 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
 | 33 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
-| 34 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
-| 35 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
+| 34 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
+| 35 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
 | 36 | [Thirst Issues](https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Full Pupp Splits 004 \- Hamar\-O\-Ramah!](https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy) | 5:58 |
 | 37 | [Kuk Av Stal](https://open.spotify.com/track/1gK0m17kzMese8TyEDCi4p) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL) | [Kuk Av Stal / November](https://open.spotify.com/album/7gwgWGGKyazdpIYE5L4T6Z) | 12:22 |
 | 38 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
-| 39 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
-| 40 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
+| 39 | [Low](https://open.spotify.com/track/5SBlfw8rNCcerJxbNUGxue) | [Jerry Folk](https://open.spotify.com/artist/356FCJoyYWyzONni54Dgrv), [Tilla](https://open.spotify.com/artist/27POB5qIrVHNFFjz56PRVI) | [Moving Points](https://open.spotify.com/album/5eQvhdesnKTbBVxBPJuBJE) | 2:07 |
+| 40 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
 | 41 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
 | 42 | [Italian Stallion](https://open.spotify.com/track/6SQiiwKY6DwT0jcwpejmcn) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [Eurodans](https://open.spotify.com/album/27Pe6yBUgKYYXILiT7Cj5u) | 6:27 |
 | 43 | [Perseverance](https://open.spotify.com/track/1S2N8e03dQC5Hs8OC141PE) | [Niilas](https://open.spotify.com/artist/1qAHgylFxv2gU6bXAQEM2P) | [Perseverance](https://open.spotify.com/album/3mppadjAyaa5NGmMRDSQIS) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [Motown](https://open.spotify.com/track/78NzFZ6gnIltx8fsH55ZeX) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61), [Tracee Meyn](https://open.spotify.com/artist/0V5mBY6o8MxoDNdKD49gly) | [Motown](https://open.spotify.com/album/7HFK2ICVRt9dkd4szhk42l) | 6:28 |
 | 50 | [Maskindans \- Radio Edit](https://open.spotify.com/track/4ln5gGLJie7NiRwR11RMMc) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw), [Det Gylne Triangel](https://open.spotify.com/artist/1jGwKlVoMvOShtje9ipVAR) | [Maskindans](https://open.spotify.com/album/7zUntiGDtGZiwZT1gs1JdD) | 3:34 |
 
-Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDNjYTg5NjBmNTFkZWFhZGViNGVlNmU5Y2I0ZDQ0N2Rh`
+Snapshot ID: `MTY1OTY1MDQ2MCwwMDAwMDAwMDI5ZTY3MDcwOWYzM2QxMTZiZDZiZTY4YmRjZWExYjEw`

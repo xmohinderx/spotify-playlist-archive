@@ -4,7 +4,7 @@
 
 > Relax to the sweet and soothing sound of Bossa nova.
 
-146 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
+147 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/3aH3sMKMrDaZCgEOtCiFCf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,6 +51,7 @@
 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 | 2022-05-13 | 2022-07-27 |
 | [Este Seu Olhar](https://open.spotify.com/track/7ws9U1clOAmsZmc0LAQxFt) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Nara Dez Anos Depois](https://open.spotify.com/album/14vNVSBK4R5XpKUEUOTjvd) | 2:32 | 2022-06-28 |  |
 | [Every Breath You Take](https://open.spotify.com/track/4u2b3QdJ6FkyaaTK0TrRQR) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [Karen Souza Essentials](https://open.spotify.com/album/7oLFzJWMBpnAB7jd5bMOxm) | 2:47 | 2022-05-13 |  |
+| [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-11 |  |
 | [Favela](https://open.spotify.com/track/4TtDDJT3b9ardn5stlCc2u) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba](https://open.spotify.com/album/1cHjqGzxfwssPgyD6IYW28) | 4:00 | 2022-05-13 | 2022-07-29 |
 | [Favela \- Remastered](https://open.spotify.com/track/13Y8guAjsfss2WPIINuoYd) | [Ike Quebec](https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh) | [Bossa Nova Soul Samba \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/4ntjTCmyhwHIsK12RScxRP) | 4:00 | 2022-06-28 |  |
 | [Fly Me To The Moon](https://open.spotify.com/track/7ilc2TB1RZXbQJyFs5qCiC) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Shadow Of Your Smile](https://open.spotify.com/album/37xKx9ymHBSgYX02zZhwb9) | 2:22 | 2022-05-13 |  |
@@ -112,7 +113,7 @@
 | [Rolling in the Deep](https://open.spotify.com/track/2Mm8gYk1g6LQEssmIAMGTJ) | [Bossa Nova Covers](https://open.spotify.com/artist/6lkrkVSqgzJZz2jguafSAy), [Mats & My](https://open.spotify.com/artist/3NP2Tqcgz3vv8e40BfnYm3) | [Rolling in the Deep](https://open.spotify.com/album/0su4Qa3PP2oT9xaVp42XqZ) | 3:43 | 2022-05-13 |  |
 | [S'Wonderful](https://open.spotify.com/track/71ZkjDXREmufJQGwwGhCSr) | [Rosa Passos](https://open.spotify.com/artist/1ztbuuZdlymbE7XnHlj0nP) | [Amorosa](https://open.spotify.com/album/7cT8aPmqRKH72T0HwwIckz) | 4:27 | 2022-05-13 |  |
 | [Samba Cantina](https://open.spotify.com/track/1Yimq2iZciRfLDDdeGnhiA) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 5:38 | 2022-05-13 | 2022-07-29 |
-| [Samba Cantina](https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 5:42 | 2022-06-28 |  |
+| [Samba Cantina](https://open.spotify.com/track/1tOaKNDYsx3YoWThbOCvVx) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Bossa Antigua](https://open.spotify.com/album/620p4tcAC1PAmDUY8Vk5KT) | 5:42 | 2022-06-28 | 2022-08-14 |
 | [Samba Da Benção](https://open.spotify.com/track/6XMDSWv7ZwM0BM0i0YJPOn) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Personalidade](https://open.spotify.com/album/10hZyN6wHBQ94xt8aoaq9o) | 6:54 | 2022-06-28 |  |
 | [Samba Da Benção](https://open.spotify.com/track/2dA7eKXUzw1Ndc78kKRefH) | [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [Baden Powell \- A Bênção Baden Powell](https://open.spotify.com/album/6tfUEd0AHP0l3cqOdsREbf) | 6:50 | 2022-05-13 | 2022-07-29 |
 | [Samba De Uma Nota So](https://open.spotify.com/track/5bKrCtDuBoFGqeMrKRVH3V) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Charlie Byrd](https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik) | [Jazz Samba](https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom) | 6:09 | 2022-05-13 |  |

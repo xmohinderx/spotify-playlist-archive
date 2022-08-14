@@ -1,12 +1,12 @@
 {
   "description": "Explore the great works of Maurice Ravel.",
-  "num_followers": 42328,
+  "num_followers": 42365,
   "original_name": "This Is Ravel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMGY5NmQ2ZTczNDk4Yzk5MTA0ZmUwNmZkNDc1MDU5YzRh",
+  "snapshot_id": "MTY1NjMyMzY2MywwMDAwMDAwMDdiZmFjODhiNDA5MTg4NDliNDAxNmIwMDE3M2MyOTYx",
   "tracks": [
     {
       "added_at": "2022-06-27 09:54:23",
@@ -555,26 +555,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
-        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Lucas Debargue",
-          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
-        }
-      ],
-      "duration_ms": 416786,
-      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
-      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Debussy, Faur\u00e9 & Ravel: String Quartets",
         "url": "https://open.spotify.com/album/2ZzP0NJ3dB7SNYT7zhO5pn"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 280826,
       "name": "Ravel: String Quartet, M. 35: IV. Vif et agit\u00e9",
       "url": "https://open.spotify.com/track/24woomxv6bct8nFOayjN3F"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Scarlatti, Chopin, Liszt, Ravel, Grieg & Schubert: Piano Works",
+        "url": "https://open.spotify.com/album/41FxpHotQ6ig4nsbjUTOmD"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        }
+      ],
+      "duration_ms": 416786,
+      "name": "Gaspard de la Nuit, M. 55: 1. Ondine - Live",
+      "url": "https://open.spotify.com/track/4GrQ7WEfpye1LcTNEuc5KC"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
-        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Carlo Grante",
-          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
-        }
-      ],
-      "duration_ms": 212026,
-      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
-      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: L'enfant et les sortil\u00e8ges, M. 71 & Ma m\u00e8re l'oye, M. 62",
         "url": "https://open.spotify.com/album/1E0g1RP7XJem98VuCtRo8X"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 188000,
       "name": "Sh\u00e9h\u00e9razade, M. 41: II. La fl\u00fbte enchant\u00e9e",
       "url": "https://open.spotify.com/track/2frOJsnhsTX5oyDzBjV4uX"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Miroirs, Gaspard de la nuit & Pavane pour une infante d\u00e9funte",
+        "url": "https://open.spotify.com/album/04GCmTgKEXp90EUZoG2Kdj"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Carlo Grante",
+          "url": "https://open.spotify.com/artist/7y5puJ1Dk69nBH8ccUSKCD"
+        }
+      ],
+      "duration_ms": 212026,
+      "name": "Miroirs, M. 43: No. 2. Oiseaux tristes",
+      "url": "https://open.spotify.com/track/64lpFLGwcXNgCnYELyZBpl"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Orchestral Works, Vol. 1",
-        "url": "https://open.spotify.com/album/4n3wUSXoAsY630IbePkAAx"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
-        },
-        {
-          "name": "Leonard Slatkin",
-          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
-        }
-      ],
-      "duration_ms": 395293,
-      "name": "Menuet antique (version for orchestra)",
-      "url": "https://open.spotify.com/track/1lNYA7pVMt0qBpHK2nMJqy"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: Orchestral Works, Vol. 5",
         "url": "https://open.spotify.com/album/1YyXhW5uqF7aloforW4aQr"
       },
@@ -1075,6 +1051,30 @@
       "duration_ms": 239120,
       "name": "Sh\u00e9h\u00e9razade: No. 3. L'Indiff\u00e9rent",
       "url": "https://open.spotify.com/track/6d2XbcMGhW3wT6OQPA8nl3"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Ravel: Orchestral Works, Vol. 1",
+        "url": "https://open.spotify.com/album/4n3wUSXoAsY630IbePkAAx"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+        },
+        {
+          "name": "Leonard Slatkin",
+          "url": "https://open.spotify.com/artist/0xcogVKoT8y5OBIg3L0fua"
+        }
+      ],
+      "duration_ms": 395293,
+      "name": "Menuet antique (version for orchestra)",
+      "url": "https://open.spotify.com/track/1lNYA7pVMt0qBpHK2nMJqy"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
+        "name": "Ravel: Complete Works for Solo Piano",
+        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Jean-Yves Thibaudet",
+          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
+        }
+      ],
+      "duration_ms": 106000,
+      "name": "Menuet sur le nom de Haydn",
+      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
         "name": "Ravel: Orchestral Works, Vol. 4",
         "url": "https://open.spotify.com/album/6S8WhBddmTRxeXgNXLMy2N"
       },
@@ -1303,26 +1323,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Volodos in Vienna",
-        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Arcadi Volodos",
-          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
-        }
-      ],
-      "duration_ms": 278013,
-      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
-      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Ravel: String Quartet; Violin Sonata; Piano Trio",
         "url": "https://open.spotify.com/album/6HmzLIkB5r7UXsaWQQqMFm"
       },
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-06-27 09:54:23",
       "album": {
-        "name": "Ravel: Complete Works for Solo Piano",
-        "url": "https://open.spotify.com/album/21wDzUkqsx7zfU73K33EsQ"
-      },
-      "artists": [
-        {
-          "name": "Maurice Ravel",
-          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
-        },
-        {
-          "name": "Jean-Yves Thibaudet",
-          "url": "https://open.spotify.com/artist/1Dot4uMsJMx8n1Xi7gAdV6"
-        }
-      ],
-      "duration_ms": 106000,
-      "name": "Menuet sur le nom de Haydn",
-      "url": "https://open.spotify.com/track/3Vcpv8QWJ3IPG9RYKFphoS"
-    },
-    {
-      "added_at": "2022-06-27 09:54:23",
-      "album": {
         "name": "Mussorgsky: Pictures at an Exhibition / Ravel: Valses nobles",
         "url": "https://open.spotify.com/album/3S9zmrqcyS91iSoxHfyAmb"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 165493,
       "name": "Valses nobles et sentimentales, M. 61: III. Mod\u00e9r\u00e9",
       "url": "https://open.spotify.com/track/14KNcXdLqGkfgbuQh7Ygkj"
+    },
+    {
+      "added_at": "2022-06-27 09:54:23",
+      "album": {
+        "name": "Volodos in Vienna",
+        "url": "https://open.spotify.com/album/3TsXBqjYS4SgtK7g7xPAHd"
+      },
+      "artists": [
+        {
+          "name": "Maurice Ravel",
+          "url": "https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY"
+        },
+        {
+          "name": "Arcadi Volodos",
+          "url": "https://open.spotify.com/artist/2DG9aIMzcln3w7SIVGGnmg"
+        }
+      ],
+      "duration_ms": 278013,
+      "name": "Valses nobles et sentimentales, M. 61: VIII. Epilogue (Lent)",
+      "url": "https://open.spotify.com/track/42rGNryLrLzLSH9xCWfDdR"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1588,9 +1588,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 296146,
-      "name": "Piano Concerto for the Left Hand in D Major, M. 82: III. Tempo I",
-      "url": "https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE"
+      "duration_ms": 460933,
+      "name": "Piano Concerto for the Left Hand in D Major, M. 82: I. Lento",
+      "url": "https://open.spotify.com/track/1ba2SJHoTUFs2a7KSRwm8G"
     },
     {
       "added_at": "2022-06-27 09:54:23",
@@ -1616,9 +1616,9 @@
           "url": "https://open.spotify.com/artist/78tOC3otzyHJOy6wO6j6hB"
         }
       ],
-      "duration_ms": 460933,
-      "name": "Piano Concerto for the Left Hand in D Major, M. 82: I. Lento",
-      "url": "https://open.spotify.com/track/1ba2SJHoTUFs2a7KSRwm8G"
+      "duration_ms": 296146,
+      "name": "Piano Concerto for the Left Hand in D Major, M. 82: III. Tempo I",
+      "url": "https://open.spotify.com/track/6p4nfsao6pTiZQrkhB71VE"
     },
     {
       "added_at": "2022-06-27 09:54:23",

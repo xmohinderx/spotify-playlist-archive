@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-292 songs - 1 day 6 hr 41 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
+293 songs - 1 day 6 hr 48 min - [published](https://open.spotify.com/playlist/66u9yFnXK0KKC58c1Sivy2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,6 +119,7 @@
 | [Home \- Mind Against Remix](https://open.spotify.com/track/0pyjqTGLsrg1r6m5YR4tuq) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB), [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Delhia De France](https://open.spotify.com/artist/7A4TdwdnxfR9auD1yAmpWD), [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Home \(Mind Against Remix\)](https://open.spotify.com/album/0UTTvSP2puk1FP4NQzWKb3) | 7:17 | 2022-05-06 |  |
 | [Honest \- Beije Remix](https://open.spotify.com/track/2hRIX5atyidrLfBuRyyMsm) | [Vidno](https://open.spotify.com/artist/2uBgJ4hDGwZM5r9MbLNZwy), [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Protoplasta \(Remixes\)](https://open.spotify.com/album/6jtCT81CDZSx38Q0c4lvr7) | 8:31 | 2021-07-02 | 2022-07-27 |
 | [Horizon](https://open.spotify.com/track/7AntWY2dWqjQXFCKLqDomR) | [Roderic](https://open.spotify.com/artist/7wSzFq5CoNoCpzazDphDJs) | [Horizon](https://open.spotify.com/album/72ZrMLaF4S1iUUCwXRuPWX) | 7:32 | 2021-05-26 | 2022-07-29 |
+| [Human Aura \- Massano Remix](https://open.spotify.com/track/2b0eZppcdEDh0NvMPHrlgv) | [Yubik](https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [Human Aura](https://open.spotify.com/album/0loNravFAcXbiWG50QZzk8) | 6:44 | 2022-08-05 |  |
 | [Hummingbird \- Arnas D Remix](https://open.spotify.com/track/4vwO2jLIsbKPH5Ra3BEJja) | [Wolf Ear & Fassbender](https://open.spotify.com/artist/3WoHhepzRb4A1m5esS2v2r), [Arnas D](https://open.spotify.com/artist/0Kx8kDxWUfetjFFkeQLcoX) | [Hummingbird](https://open.spotify.com/album/7vitgaCxhbUcK7mPaxsihV) | 7:58 | 2021-04-21 | 2022-07-02 |
 | [Hypertrophy of Heart](https://open.spotify.com/track/42bZq7YzcIsrIpbQesd5nh) | [Enamour](https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO), [Hydrah](https://open.spotify.com/artist/7mx6m8w71DBSnLTV3i7wVk) | [Hypertrophy of Heart](https://open.spotify.com/album/0omAadju0KB3bL3G8a35Gb) | 5:00 | 2021-06-25 |  |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-07-01 |  |
@@ -204,7 +205,7 @@
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 |  |
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-01-12 | 2022-07-17 |
 | [Otherside \- Fideles Remix Edit](https://open.spotify.com/track/1Xilluxw6uuXERiG6E5Zzi) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx), [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs) | [Otherside \(Fideles Remix Edit\)](https://open.spotify.com/album/4Da2OQ1W0I4e8Mbz5DQ6mf) | 4:30 | 2022-07-22 |  |
-| [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 |  |
+| [Oud Imperial](https://open.spotify.com/track/4LTCKJhqbHAa8sbDZ5XBMF) | [Michael Simon](https://open.spotify.com/artist/47tdos6tQTQ9AntqjEQjnj) | [Oud Imperial](https://open.spotify.com/album/7khYH0dkJQYr557uLisMal) | 8:36 | 2021-04-21 | 2022-08-14 |
 | [Oudara \- Club Mix](https://open.spotify.com/track/0QX9AiK3RhrJuJEHBlpYVd) | [Daniel Rateuke](https://open.spotify.com/artist/27NerKeEGofbhhDMEhagyq) | [Oudara](https://open.spotify.com/album/7rdSwrZvfnJZfSl8Cmi3Mk) | 5:45 | 2022-07-01 | 2022-07-20 |
 | [Out of Focus \(feat\. Zoot Woman\) \- Âme Remix](https://open.spotify.com/track/3jc7WSwiPPAjdokdwVflJk) | [Solomun](https://open.spotify.com/artist/5wJK4kQAkVGjqM9x46KQOC), [Zoot Woman](https://open.spotify.com/artist/25w2vpqq7dYleBAqMx7Ijx), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Nobody Is Not Loved, Remixes, Pt\. 3](https://open.spotify.com/album/5bFS2PZfzq8CGP58M23ktV) | 6:24 | 2022-06-10 |  |
 | [Palo Santo](https://open.spotify.com/track/6SFGnnxX5VUgpZJiGSKjx7) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Palo Santo](https://open.spotify.com/album/5S2BwJuzdryUUs6sCUuvwC) | 4:36 | 2021-05-07 | 2022-04-23 |

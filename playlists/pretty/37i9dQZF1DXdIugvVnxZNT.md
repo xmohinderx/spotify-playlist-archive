@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 
 > Haz que tu corazón lata más alto con los beats de estos temas de amor EDM.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,253 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,283 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 35 | [Feel Your Love](https://open.spotify.com/track/4h4c2nt7wTFLn0OYVDWOHC) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq) | [Feel Your Love](https://open.spotify.com/album/6NarQFpErQAqgw7Lzv9SXp) | 3:12 |
 | 36 | [Red Lights](https://open.spotify.com/track/5L2l7mI8J1USMzhsmdjat9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:22 |
 | 37 | [Like I Do](https://open.spotify.com/track/6RnkFd8Fqqgk1Uni8RgqCQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Like I Do](https://open.spotify.com/album/5oU1ROIHS6IOWnb87GWhqU) | 3:22 |
-| 38 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
-| 39 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
+| 38 | [Came Here for Love](https://open.spotify.com/track/0mGJTKRIuCOJtiT4YkJHiv) | [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN), [Ella Eyre](https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA) | [Brighter Days](https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11) | 3:23 |
+| 39 | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/track/4NSW0Km5ZG60L8FthUebPJ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Theresa Rex](https://open.spotify.com/artist/6t9tbRO9Lv6Oq6xtVwfdrn) | [What I Like About You \(feat\. Theresa Rex\)](https://open.spotify.com/album/6gPZmYBSipug1asf4zu9jh) | 3:40 |
 | 40 | [In Your Arms \(with X Ambassadors\)](https://open.spotify.com/track/70YPzqSEwJvAIQ6nMs1cjY) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [ASCEND](https://open.spotify.com/album/60xcVwuQJAOyu11xf9mObS) | 3:40 |
 | 41 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 42 | [Nobody Compares To You \(feat\. Katie Pearlman\)](https://open.spotify.com/track/17ejRbr6B8l9zdqgCZsn4m) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Katie Pearlman](https://open.spotify.com/artist/1Q9KyQkc3vODeRt9OfItxl) | [Gravity](https://open.spotify.com/album/2IAVHJdaRPFA6MQqXHoG75) | 3:51 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIugvVnxZNT.md) - [plain]
 | 59 | [I Want U](https://open.spotify.com/track/6wb61u8ayuanWSHZzle5od) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Run](https://open.spotify.com/album/4YEuQkWaBp1L4LQ5qrI2ys) | 3:30 |
 | 60 | [Make You Mine \(feat\. Moa Lisa\)](https://open.spotify.com/track/1ICPREUY4yMNeFEgbNh7D5) | [Mike Williams](https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7), [Moa Lisa](https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E) | [Make You Mine \(feat\. Moa Lisa\)](https://open.spotify.com/album/7J7m238D5jzzO8td6XGJHa) | 3:33 |
 
-Snapshot ID: `MTY0OTg2MTI5NSwwMDAwMDAwMDc0OGU5ZWJmYzc2NjIyOTUxMjk3YjQyN2JmNWQwYmMx`
+Snapshot ID: `MTY0OTg2MTI5NSwwMDAwMDAwMGYyMTg1OGVkYmRiNzlkMWU0YWVlMjQ5MTRjOWQ2NWI0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,487 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,898 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 26 | [Neon Moon](https://open.spotify.com/track/3EUl8M6SzxZl03NPkB8mUd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [\#1s ..\. and then some](https://open.spotify.com/album/1ZXM9jY3Bsg12KXgwftBrO) | 4:23 |
 | 27 | [Should've Been A Cowboy](https://open.spotify.com/track/18BajNiyvH6GpYshB0unrm) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Toby Keith 35 Biggest Hits](https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC) | 3:28 |
 | 28 | [Things A Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
-| 29 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 |
+| 29 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
 | 30 | [Lay Down With You](https://open.spotify.com/track/0SLiBF2OKw6F1vjKV2rnt1) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Lay Down With You](https://open.spotify.com/album/1ednonVNc1XyWtfOT3V4In) | 3:02 |
-| 31 | [Cowboy Take Me Away](https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:47 |
+| 31 | [Damn Strait](https://open.spotify.com/track/4jp9FimhP2bQ93vR0A5r7b) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Damn Strait](https://open.spotify.com/album/3WOFt4KvKhIeHN4fckCf5y) | 3:50 |
 | 32 | [Louisiana Saturday Night](https://open.spotify.com/track/50PU05RTGva8laKDwxED9Y) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [I'm Countryfied](https://open.spotify.com/album/3F88UQZzP3fmw2p3m2j9l5) | 2:24 |
 | 33 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 34 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 50 | [You Can Have Him Jolene](https://open.spotify.com/track/1A4sU22TOu9GUqQeZYqqoa) | [Chapel Hart](https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj) | [The Girls Are Back in Town](https://open.spotify.com/album/2AVfLcUhMj7QZ1sBgH8tPK) | 3:12 |
 | 51 | [On My Way to You](https://open.spotify.com/track/3OjNkFFZavF89xvRqWCXmU) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 3:33 |
 | 52 | [She Won't Be Lonely Long](https://open.spotify.com/track/0158TMiGmHyibaDeaUKayX) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [She Won't Be Lonely Long](https://open.spotify.com/album/6dOT94cdPmoPv4ddHHeuo1) | 3:29 |
-| 53 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 |
-| 54 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
+| 53 | [Every Light In The House](https://open.spotify.com/track/2A7j0RLnzvvlUFrevBiOQf) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 2:59 |
+| 54 | [Then Again](https://open.spotify.com/track/2PoOVPahdBzzlX8B35XflM) | [Mitch Rossell](https://open.spotify.com/artist/0cEVpgfIpUSsUKUMsRrhtZ) | [Then Again](https://open.spotify.com/album/0s0WEmrf0jQ9nUlqmBahLb) | 3:25 |
 | 55 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
 | 56 | [Country Again](https://open.spotify.com/track/3CiF9D8iuVhZWDvvjf8HpG) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Country Again \(Side A\)](https://open.spotify.com/album/3W2BTPUHJX51hweWPNRenv) | 3:41 |
 | 57 | [One Night Standards](https://open.spotify.com/track/47qZzTLLJcuD69AIKnquo4) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:10 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 88 | [Sunrise Tells The Story](https://open.spotify.com/track/1fCl1BY97PPNnac9oewVBJ) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [The Last Resort: Greetings From](https://open.spotify.com/album/6qURbeUcbhHdGXDAUzZcag) | 3:27 |
 | 89 | [Bible and a .44](https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Jalopies & Expensive Guitars](https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT) | 3:55 |
 | 90 | [Catching Up With An Ol' Memory](https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw) | [Clay Walker](https://open.spotify.com/artist/4MPkNgar5uTd8Sqvrr7par) | [Texas to Tennessee](https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6) | 3:24 |
-| 91 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
-| 92 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |
-| 93 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/4PkVIBGCoYfGi8MQQS4m7U) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Rhino Hi\-Five: John Michael Montgomery](https://open.spotify.com/album/6Aix3bSl8pwxkfNyFmai01) | 2:31 |
-| 94 | [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 |
+| 91 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 3:17 |
+| 92 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 |
+| 93 | [Here's a Quarter \(Call Someone Who Cares\)](https://open.spotify.com/track/0RdMBceHhBJLqNjObk1NPP) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Greatest Hits: From the Beginning](https://open.spotify.com/album/5pDzCS2g2oZueNkPr1S1Ey) | 2:32 |
+| 94 | [Sold \(The Grundy County Auction Incident\)](https://open.spotify.com/track/4PkVIBGCoYfGi8MQQS4m7U) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Rhino Hi\-Five: John Michael Montgomery](https://open.spotify.com/album/6Aix3bSl8pwxkfNyFmai01) | 2:31 |
 | 95 | [Out Of Sight](https://open.spotify.com/track/5zRHjnfnJyahARo5ugxHgV) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [On The Rocks](https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0) | 4:21 |
-| 96 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/2YrUpji5N9biuvxKgyO2OT) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Drake Milligan \- EP](https://open.spotify.com/album/0Dwtk61QlV7qErBqsFTm8u) | 3:17 |
+| 96 | [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 |
 | 97 | [From A Table Away](https://open.spotify.com/track/6WTJj7qXOh0XonzXAHUqGG) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Concrete](https://open.spotify.com/album/5jmDjnNISgZCgJW9hZQHEB) | 3:35 |
-| 98 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
+| 98 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 |
 | 99 | [Dancing Away with My Heart](https://open.spotify.com/track/3ss88YLxa2pYOtyKgyKIjM) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Hell on an Angel](https://open.spotify.com/album/1V6RHh2eMlzWTgcEPgOAbu) | 3:47 |
-| 100 | [Stealing Cinderella](https://open.spotify.com/track/6aOdhGqD0xuFM0OauOedNl) | [Chuck Wicks](https://open.spotify.com/artist/696fbyLHSMBSYjDrDU5yiK) | [Starting Now](https://open.spotify.com/album/3WyCVkjnQvHnS29LogStFV) | 4:02 |
+| 100 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGFlNGI2MGYyYzFhMzVmMWVmNTIzNDhmZTc4YmU0MjRj`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGMxYzQ5NDkzZjNlOTQ4MDFmYmZlYmY0NGU5NmRmNWJh`

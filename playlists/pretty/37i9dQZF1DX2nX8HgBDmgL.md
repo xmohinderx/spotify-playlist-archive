@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Celebrating South Asian Heritage Month with Raja Kumari.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,757 likes - 33 songs - 1 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,812 likes - 33 songs - 1 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

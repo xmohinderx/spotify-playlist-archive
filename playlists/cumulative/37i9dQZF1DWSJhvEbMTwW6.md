@@ -4,7 +4,7 @@
 
 > Favor de hacer doble fila para bailar estos cumbiones ¡Súbale hay lugares!
 
-164 songs - 10 hr 52 min - [published](https://open.spotify.com/playlist/6EideOA6wKb3APriXwASYn)
+165 songs - 10 hr 56 min - [published](https://open.spotify.com/playlist/6EideOA6wKb3APriXwASYn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-06-07 |  |
 | [Cosas Bonitas](https://open.spotify.com/track/75VDWiZEfAt3dL49kASgvi) | [Grupo Maravilla](https://open.spotify.com/artist/0Ur2HPuhb0mRnXFPOsCFB7) | [De Reventon](https://open.spotify.com/album/4qzxNsbEaoBc4M2ZFEyFoU) | 4:14 | 2021-12-27 |  |
 | [Culpable O No](https://open.spotify.com/track/7pFkCMjIYl91V7oRIo0Sat) | [Los Byby's](https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN) | [Cumbias Con Amor](https://open.spotify.com/album/5GebqosGDuhpy9unAu9nvN) | 3:28 | 2021-12-27 |  |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-07 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-06-07 |  |
 | [Cumbia De Los Estados](https://open.spotify.com/track/4n0kXy9VtZQnh1oOLIOQ6D) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia \- Auténticos Embajadores De La Cumbia](https://open.spotify.com/album/3rX1cWMO3LNCi4uSD2eKxg) | 4:01 | 2021-12-27 |  |
 | [Cumbia de los Pajaritos](https://open.spotify.com/track/0fNwZHd0wq3eQEOppEqUEG) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Cumbias Chichadelicas: Peruvian Psychedelic Chicha](https://open.spotify.com/album/1YCdKn5y7C99mM2sb3QTlo) | 2:51 | 2021-12-27 |  |
 | [Cumbia Del Chinito](https://open.spotify.com/track/761FhLirwe3hFnJKgHUN8y) | [Super Grupo Colombia](https://open.spotify.com/artist/4VUjAlb1nGT2FW5n4CPxwi) | [Super Grupo Colombia](https://open.spotify.com/album/16b1llxcevVntDsf1HLbtK) | 4:12 | 2021-12-27 |  |

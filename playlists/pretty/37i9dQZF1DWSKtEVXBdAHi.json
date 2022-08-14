@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMDJlZjAwYzYzZTRiNDg0NWNjODJjZTRiYWUzZDkwZmRm",
+  "snapshot_id": "MTU4MjAzMjY5MCwwMDAwMDAwMGY5ZjJlNDMyYWYxMDMxMzA1YmQ4MzJhNjA3MGEyNjA5",
   "tracks": [
     {
       "added_at": "2020-02-18 13:31:30",
@@ -275,22 +275,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/2xZSrcBmvMw9Y8hac6xU7L"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 212424,
       "name": "Fast Car",
       "url": "https://open.spotify.com/track/1SN1vSPsr4V4tIUTR3s8YW"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/1J2BrRxtQjVUa7X9Ne99xD"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/6LsAAHotRLMOHfCsSfYCsz"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -499,26 +499,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        },
-        {
-          "name": "Steve Void",
-          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Bruises - Steve Void Remix",
-      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "Close To Me (feat. Swae Lee)",
         "url": "https://open.spotify.com/album/4bLCVUEB9YWKEeaJm8FfqQ"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 182623,
       "name": "Close To Me (with Diplo) (feat. Swae Lee)",
       "url": "https://open.spotify.com/track/5JEx7HbmvHQQswJCsoo9rA"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        },
+        {
+          "name": "Steve Void",
+          "url": "https://open.spotify.com/artist/3WSK3JppX3N41XHVwQp7Gt"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Bruises - Steve Void Remix",
+      "url": "https://open.spotify.com/track/4raMIjIjMc8JohHth7l9lG"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -691,6 +691,42 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Easier \u2013 Remix (with Charlie Puth)",
+        "url": "https://open.spotify.com/album/5h2ljtbTQqfbCg4nem00bf"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 157325,
+      "name": "Easier \u2013 Remix (with Charlie Puth)",
+      "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
+        "name": "Doom Days",
+        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 192681,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Beautiful People (feat. Khalid) [NOTD Remix]",
         "url": "https://open.spotify.com/album/2oEcytQ5u5QtR9VZc2XgE2"
       },
@@ -715,22 +751,6 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
-        "name": "Doom Days",
-        "url": "https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 192681,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
         "name": "We Got Love",
         "url": "https://open.spotify.com/album/4GtslEn7rHERVWRlqrYehy"
       },
@@ -747,26 +767,6 @@
       "duration_ms": 213040,
       "name": "We Got Love",
       "url": "https://open.spotify.com/track/35mMXfym6C9VOTUVrcKKZp"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Easier \u2013 Remix (with Charlie Puth)",
-        "url": "https://open.spotify.com/album/5h2ljtbTQqfbCg4nem00bf"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 157325,
-      "name": "Easier \u2013 Remix (with Charlie Puth)",
-      "url": "https://open.spotify.com/track/5iTaLzgPI5jRMVAxITcZwT"
     },
     {
       "added_at": "2020-02-18 13:31:30",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2020-02-18 13:31:30",
       "album": {
+        "name": "Lion",
+        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
+      },
+      "artists": [
+        {
+          "name": "Hearts & Colors",
+          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "Lion",
+      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
+    },
+    {
+      "added_at": "2020-02-18 13:31:30",
+      "album": {
         "name": "Complicated (Faustix Remix)",
         "url": "https://open.spotify.com/album/0llzH5uVLmppDsZQApY6du"
       },
@@ -1339,22 +1355,6 @@
       "duration_ms": 147840,
       "name": "Complicated - Faustix Remix",
       "url": "https://open.spotify.com/track/0HbPfCPmndvkevg4TjwcJQ"
-    },
-    {
-      "added_at": "2020-02-18 13:31:30",
-      "album": {
-        "name": "Lion",
-        "url": "https://open.spotify.com/album/4ASMkFoc7GDXkWqvv9zHwG"
-      },
-      "artists": [
-        {
-          "name": "Hearts & Colors",
-          "url": "https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "Lion",
-      "url": "https://open.spotify.com/track/6GWNh4A7t4UHtUupgL5Evj"
     },
     {
       "added_at": "2020-02-18 13:31:30",

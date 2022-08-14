@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,318 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,398 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 37 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
 | 38 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 |
 | 39 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
-| 40 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
-| 41 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
+| 40 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
+| 41 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 42 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
 | 43 | [Ya No Te Buscare](https://open.spotify.com/track/1CIUos10Or0tFaf4ZhaSfW) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 3:36 |
 | 44 | [Esta Noche](https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 4:42 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 48 | [Morir Solo](https://open.spotify.com/track/18hnXK4HWm3BxT8QijiJVO) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Morir Solo](https://open.spotify.com/album/6knKxseycCjKl3KVZizjbb) | 4:02 |
 | 49 | [Siento Que Te Quiero](https://open.spotify.com/track/2w9o0Yw1XYF3mmXMS82Vyp) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Mi Liberé](https://open.spotify.com/album/2XcWwRaYyfOfyLqo3gGcu4) | 5:01 |
 | 50 | [Bailando Con El](https://open.spotify.com/track/6YhrPNvIJga1ACuEmsyaPO) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Directo Al Corazon](https://open.spotify.com/album/6pxW8JeqkH4wo8JJqICWBh) | 3:41 |
-| 51 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
-| 52 | [Fecha de Vencimiento](https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:32 |
+| 51 | [Fecha de Vencimiento](https://open.spotify.com/track/06YEsAMgIA37hKjmdBhmrE) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:32 |
+| 52 | [Hoja En Blanco](https://open.spotify.com/track/4U8sOYJreJ7D00VlyvIk2v) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 5:08 |
 | 53 | [Pégame Tu Vicio](https://open.spotify.com/track/55VkPG0F93r4gYkYXBetfE) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Enamorado](https://open.spotify.com/album/3cncShkeHvZMb0b1sz8TxA) | 6:12 |
 | 54 | [No Es Brujeria](https://open.spotify.com/track/4b1ULLyRgU6FZhb9yQ7E1D) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Alma Perdida](https://open.spotify.com/album/7Jll0qQUYAVBvUUFk5Xeyu) | 4:08 |
 | 55 | [La Pared](https://open.spotify.com/track/6OXuPBJvkktBQ5I0B3wLgR) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Tonto Corazón](https://open.spotify.com/album/3F0W5hKLkbgGsyhwxSKmwi) | 4:44 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 58 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
 | 59 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
 | 60 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 |
-| 61 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
-| 62 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
-| 63 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
+| 61 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
+| 62 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
+| 63 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
 | 64 | [Creiste](https://open.spotify.com/track/53orRX6MudB9jhW0sKZWhW) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Creiste](https://open.spotify.com/album/7mKk2Bs3RmVufvShVI8EcU) | 4:17 |
 | 65 | [Los Pobres Tambien LLoran](https://open.spotify.com/track/2PcQcYs9O2akTO3uCgRdGg) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:36 |
 | 66 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 73 | [Vine A Decirte Adios](https://open.spotify.com/track/40dliSTZf3ABIqfvenH9TI) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Vine a Decirte Adios](https://open.spotify.com/album/5QShP54MICYu2VqkwfEnGm) | 4:37 |
 | 74 | [La Luz De Mis Ojos](https://open.spotify.com/track/31lScgOqA8PkbSHDTyLsfJ) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [La Luz De Mis Ojos](https://open.spotify.com/album/5v6JO2CVfD3jReTRSkmYO7) | 3:49 |
 | 75 | [Borracho Y Loco](https://open.spotify.com/track/4KtYHts2AdkhcV9x2MGbWt) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [La Raiz](https://open.spotify.com/album/6X78J9UxEWDy8vhEfAq7aL) | 3:20 |
-| 76 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
-| 77 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
+| 76 | [Weekend](https://open.spotify.com/track/2xSQ05tzoYMBIuJQUWUe56) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Weekend](https://open.spotify.com/album/5CpHJgQXcBXROlsDnlRY4b) | 3:48 |
+| 77 | [Me Sacaste Del Llavero](https://open.spotify.com/track/3R6BkHp37wmjYlpzaU1ODd) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias](https://open.spotify.com/album/00Gbe3lGwcNlWn9JvlvBhD) | 4:10 |
 | 78 | [Abrazame amor](https://open.spotify.com/track/2moTUdEmaqUAiwA2aM8I0R) | [Luis Miguel Del Amargue](https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ) | [Mi Regreso](https://open.spotify.com/album/5c7bGd5Mbwhpp8JNiTSdKz) | 3:56 |
 | 79 | [Corazón Culpable](https://open.spotify.com/track/198HWHhymECcoWD5udzWzH) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Aqui Esta La Bachata, Vol\. 2: Con Sus Interpretes Originales](https://open.spotify.com/album/5k70ucpuyCsNdA32zviCZ9) | 6:01 |
 | 80 | [Carta De Verano](https://open.spotify.com/track/0XmmFaLwnQt1mDL5VP8c4q) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [La Demanda](https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:54 |
 | 100 | [Tuyo](https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:38 |
 
-Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGIxZWU2MmFkZGM3Y2EyYmFiZTk2NmMzNDlhMDBjMDk5`
+Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGYwMDdiMzlmOGE5YjJiMGVhMTQ3MmM1MDQ5MTU4ZjVj`

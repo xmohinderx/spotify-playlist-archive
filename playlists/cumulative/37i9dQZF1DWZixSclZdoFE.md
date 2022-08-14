@@ -4,7 +4,7 @@
 
 > Need to get your energy level up?
 
-396 songs - 23 hr 29 min - [published](https://open.spotify.com/playlist/5CbAsG9fBWO5F8hAWrZOHQ)
+397 songs - 23 hr 32 min - [published](https://open.spotify.com/playlist/5CbAsG9fBWO5F8hAWrZOHQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -333,6 +333,7 @@
 | [Stuntin' Like My Daddy \- Radio Edit](https://open.spotify.com/track/2LY5SCd9qtjBs7U35LNyEK) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Stuntin' Like My Daddy](https://open.spotify.com/album/7nRb0EIZOFfxhXlRk1dXOc) | 4:30 | 2022-06-10 | 2022-07-26 |
 | [Suge](https://open.spotify.com/track/2gwkD6igEhQbDQegRCcdoB) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby](https://open.spotify.com/album/0O1PJ0t69iTO5yWrIeIga0) | 2:43 | 2021-12-17 |  |
 | [SUNDOWN](https://open.spotify.com/track/0ipgd8PPFza3NNmN3Rn2uF) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:05 | 2021-12-17 | 2022-07-29 |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-11 |  |
 | [Swervin \(feat\. 6ix9ine\)](https://open.spotify.com/track/1wJRveJZLSb1rjhnUHQiv6) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [6ix9ine](https://open.spotify.com/artist/7gZfnEnfiaHzxARJ2LeXrf) | [Hoodie SZN](https://open.spotify.com/album/3r5hf3Cj3EMh1C2saQ8jyt) | 3:09 | 2021-12-17 |  |
 | [SWISH](https://open.spotify.com/track/55GiOwtxNajXVbpjjIzMnD) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [SWISH](https://open.spotify.com/album/4RH1KjpPQxqtOTyV6WikPh) | 3:14 | 2021-12-17 | 2022-04-21 |
 | [Take Your Shirt Off](https://open.spotify.com/track/6BKtGdvO4IooVZdbF8bDyP) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Take Your Shirt Off](https://open.spotify.com/album/6Ci0aa8UuxgUNROh3a6bOt) | 3:48 | 2022-04-11 | 2022-04-21 |
@@ -349,7 +350,7 @@
 | [THRU THE NIGHT \(feat\. Bryson Tiller\)](https://open.spotify.com/track/1AgSUWSzmza5jF6ER5R68v) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 2:08 | 2021-12-17 |  |
 | [Thug](https://open.spotify.com/track/63aEJ4wsr95XjkvIydKOZG) | [Slim Thug](https://open.spotify.com/artist/0st5vgzw9XkH5ALJiUM1lE) | [Boss of All Bosses](https://open.spotify.com/album/7dZRiNhi3dw5QL6npDmTqi) | 3:50 | 2022-04-14 | 2022-07-15 |
 | [THUG MOTIVATION: 430](https://open.spotify.com/track/5Rg66DxuSKEPXj6mORK8Zc) | [Robb Bank$](https://open.spotify.com/artist/7KduBCxhfAMiQlhMOHL3IZ) | [NO ROOFTOPS 2](https://open.spotify.com/album/15IrnmcjoEJrf6ApAIyHO1) | 1:59 | 2022-01-05 | 2022-01-10 |
-| [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 | 2021-12-17 |  |
+| [Tiimmy Turner](https://open.spotify.com/track/3NJG6vMH1ZsectZkocMEm0) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Tiimmy Turner](https://open.spotify.com/album/7zf9kyxc3ZhJv79HrjTRir) | 3:59 | 2021-12-17 | 2022-08-14 |
 | [Till I Die](https://open.spotify.com/track/7rq7HvZrCie7MmiGm8pUVC) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [General Admission \(Deluxe\)](https://open.spotify.com/album/1HK1WLip5xwWQYixdF3Jsk) | 3:32 | 2022-03-15 | 2022-04-20 |
 | [Tirane London](https://open.spotify.com/track/74kv4QCG9Booi2c1VciEfP) | [Young Zerka](https://open.spotify.com/artist/2a6IKShigz9rPBWN0GWnjr), [OG Merks](https://open.spotify.com/artist/65FW7C2EYbsA20RLHt5y3d) | [Tirane London](https://open.spotify.com/album/6Eg274AVJypFCG3MpEGEHP) | 3:06 | 2022-03-25 | 2022-04-07 |
 | [Too Many Years](https://open.spotify.com/track/7KyTq7H5f3Oavmuo9TX6QK) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Lil Big Pac](https://open.spotify.com/album/6dAUCUgPdEiorKV7101AtE) | 3:16 | 2021-12-17 | 2022-04-21 |

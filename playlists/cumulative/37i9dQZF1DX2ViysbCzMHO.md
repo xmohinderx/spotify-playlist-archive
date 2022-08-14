@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-184 songs - 10 hr 11 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+185 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [As You Leave \(undone\)](https://open.spotify.com/track/68hGkMqxX5AfMuO5Y4NL0A) | [Canaan Cox](https://open.spotify.com/artist/6LcdklijxllKGfl4FWiv3D) | [As You Leave \(undone\)](https://open.spotify.com/album/2qbYexAOjAjIg9eySC5jNO) | 2:07 | 2022-07-29 |  |
 | [At the End of a Bar \- Acoustic](https://open.spotify.com/track/77UxRSc10Z4zM1XUB9ec2o) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q), [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [At the End of a Bar \(Acoustic\)](https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th) | 3:02 | 2022-03-18 |  |
 | [Austin \- Acoustic](https://open.spotify.com/track/4jSnQyYyO0OV0VQXx2x46N) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Austin \(Acoustic\)](https://open.spotify.com/album/4NzUmm4MlZpmSCwKb0bKls) | 3:46 | 2022-04-15 |  |
-| [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 |  |
+| [Bar Friends \- Acoustic](https://open.spotify.com/track/2F6WS0ge5MpaMlOiIXOwUG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Bar Friends \(Acoustic\)](https://open.spotify.com/album/0ihzfb4aNvUcjehS3Fr8es) | 3:00 | 2021-12-17 | 2022-08-14 |
 | [Best Of Me \(feat\. Dallas Smith\) \- Live Acoustic](https://open.spotify.com/track/595uX2pBVg3T7twSbuWiFE) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Dallas Smith](https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC) | [Best Of Me \(feat\. Dallas Smith\) \[Live Acoustic\]](https://open.spotify.com/album/3k5vv15i6n5dlHsLkDIAmG) | 3:57 | 2022-03-11 | 2022-07-22 |
 | [Best Shot \- Acoustic](https://open.spotify.com/track/760faKfgTNKZeuJ9khjV1J) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Best Shot \(Acoustic\)](https://open.spotify.com/album/75cVE2IQSMeE4LwiQAfCS4) | 3:13 | 2021-12-17 |  |
 | [Best Shot \- Spotify Singles](https://open.spotify.com/track/6rrLJj8UgltvAustzZhK1w) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:10 | 2022-04-01 |  |
@@ -94,6 +94,7 @@
 | [Joy Of My Life](https://open.spotify.com/track/4EuaDcxHmHKS6gZ5iuGba0) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:34 | 2021-12-17 |  |
 | [Just About Over You \- Acoustic Version](https://open.spotify.com/track/51SIaNorTKeEpmtFBC948L) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You \(Acoustic Version\)](https://open.spotify.com/album/3qBrKZAfQcktj3NBWRSpjb) | 3:08 | 2021-12-17 |  |
 | [Landslide \- Live from Nashville](https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:17 | 2022-07-08 |  |
+| [Last Cigarette \- Acoustic](https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Acoustic Sessions EP](https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH) | 2:50 | 2022-08-12 |  |
 | [Led Myself On \- Acoustic](https://open.spotify.com/track/4ks5IPN4v73N5eib9JRk4N) | [Liddy Clark](https://open.spotify.com/artist/5TFWfcZSH39BwHbxpsn1UJ) | [Led Myself On \(Acoustic\)](https://open.spotify.com/album/4sZn99yH1cxhm9a76aO6C9) | 2:58 | 2021-12-17 | 2022-04-16 |
 | [Lessons \(Acoustic\)](https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw) | [Tommy Karlas](https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY) | [Put It in Drive](https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB) | 3:11 | 2021-12-17 |  |
 | [Like It Ain't \- Stripped](https://open.spotify.com/track/20p4dwzd7q36OkTEhuvqjb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Like It Ain't \(Stripped\)](https://open.spotify.com/album/3vXE1hHGpttyFG7q6WEmOm) | 2:36 | 2021-12-17 |  |

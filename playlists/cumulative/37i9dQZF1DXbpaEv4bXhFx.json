@@ -91,7 +91,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 199746,
       "name": "All Night Long (She is My Type\u2661 X Car, the garden)",
       "url": "https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD"
@@ -229,7 +229,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 258799,
       "name": "Ask Me Out",
       "url": "https://open.spotify.com/track/12VxAgB6wsdwxWoTNumEGh"
@@ -973,7 +973,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 159365,
       "name": "girl in red",
       "url": "https://open.spotify.com/track/2fLcbn8qoxyXpxS3nUjIVf"
@@ -1481,7 +1481,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
@@ -1905,10 +1905,28 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 287386,
       "name": "Oh, My Sun",
       "url": "https://open.spotify.com/track/5rKJzOs5bVA4v5Tt8vJkqW"
+    },
+    {
+      "album": {
+        "name": "STABLE MINDSET",
+        "url": "https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h"
+      },
+      "artists": [
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212371,
+      "name": "On A Rainy Day",
+      "url": "https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF"
     },
     {
       "album": {
@@ -1927,6 +1945,24 @@
       "duration_ms": 249800,
       "name": "On A Rainy Night",
       "url": "https://open.spotify.com/track/1t6AYmReZJdCcbKLUjGCWQ"
+    },
+    {
+      "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
     },
     {
       "album": {
@@ -1959,7 +1995,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 233773,
       "name": "Only Longing Grows",
       "url": "https://open.spotify.com/track/2crkSPXNfENoVob10TfTTh"
@@ -2013,7 +2049,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 209376,
       "name": "Overflow",
       "url": "https://open.spotify.com/track/4zf4gt42CLmQXakI2jzfy4"
@@ -2092,6 +2128,42 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/0pLInB6G2NXR87Pwi4O3dQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237217,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/5n368tNF47S70THlmpaGLf"
+    },
+    {
+      "album": {
+        "name": "Rain - SM STATION",
+        "url": "https://open.spotify.com/album/5MgY1E2inbDcthAQEzwz8L"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222047,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1ukyvyEeSg1odSQvhlRAIU"
+    },
+    {
+      "album": {
         "name": "Rain (feat. Aden, Kebee)",
         "url": "https://open.spotify.com/album/1wYcAlWBTHaGjKPK7KUWJs"
       },
@@ -2115,6 +2187,24 @@
       "duration_ms": 198000,
       "name": "Rain (feat. Aden, Kebee)",
       "url": "https://open.spotify.com/track/3aoXrvOYq3QFOe4bHWUCz1"
+    },
+    {
+      "album": {
+        "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
+      },
+      "artists": [
+        {
+          "name": "Lee Mujin",
+          "url": "https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262482,
+      "name": "Rain and You",
+      "url": "https://open.spotify.com/track/4ribiWWnI451QMRdOgByIP"
     },
     {
       "album": {
@@ -2147,7 +2237,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 145613,
       "name": "Rain Drop",
       "url": "https://open.spotify.com/track/4aJxNxnrW5tbL8gay0pCdU"
@@ -2256,6 +2346,32 @@
     },
     {
       "album": {
+        "name": "Rainy day",
+        "url": "https://open.spotify.com/album/7lLMwJuLck4Rnd5GUi81j2"
+      },
+      "artists": [
+        {
+          "name": "PATEKO",
+          "url": "https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp"
+        },
+        {
+          "name": "ASH ISLAND",
+          "url": "https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE"
+        },
+        {
+          "name": "Skinny Brown",
+          "url": "https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218250,
+      "name": "Rainy day (Feat. ASH ISLAND, Skinny Brown)",
+      "url": "https://open.spotify.com/track/4LxFRsy3TZjqAtAgIsjkez"
+    },
+    {
+      "album": {
         "name": "Rainy Saturday",
         "url": "https://open.spotify.com/album/1Ew9gqTpDDL1HmwoKbHeI2"
       },
@@ -2267,7 +2383,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 244186,
       "name": "Rainy Saturday",
       "url": "https://open.spotify.com/track/2GmFwSUgGg8IQvLc0417AN"
@@ -2467,10 +2583,28 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 185808,
       "name": "Sleepless (feat. Heize)",
       "url": "https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96"
+    },
+    {
+      "album": {
+        "name": "A flower bookmark",
+        "url": "https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266516,
+      "name": "Sleepless rainy night",
+      "url": "https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv"
     },
     {
       "album": {
@@ -2811,7 +2945,7 @@
       ],
       "date_added": "2022-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 134026,
       "name": "Traveler",
       "url": "https://open.spotify.com/track/5vr62SPe4vI8p3WROSB5zY"
@@ -3062,6 +3196,24 @@
     },
     {
       "album": {
+        "name": "Thumbs Up!",
+        "url": "https://open.spotify.com/album/6AjfY47ASqK3OjjaPxTqaH"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244990,
+      "name": "When It Rains In Night",
+      "url": "https://open.spotify.com/track/0C2tTlEGYQnUAVgbtJ68MB"
+    },
+    {
+      "album": {
         "name": "D-day",
         "url": "https://open.spotify.com/album/6FAG9dF5HWKlUALQeLYWpt"
       },
@@ -3157,6 +3309,28 @@
       "duration_ms": 101000,
       "name": "You Don't Shine Anymore (Interlude)",
       "url": "https://open.spotify.com/track/58ugn5hQqFTHp0WcaR8bPz"
+    },
+    {
+      "album": {
+        "name": "/// (You, Clouds, Rain)",
+        "url": "https://open.spotify.com/album/7ANb4BnhkVoBO4RDSJ6uSs"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205312,
+      "name": "You, Clouds, Rain",
+      "url": "https://open.spotify.com/track/6FZAc2XaVYc8G8jaDnBshv"
     },
     {
       "album": {
@@ -3268,6 +3442,24 @@
     },
     {
       "album": {
+        "name": "Reasons 4 Breathing",
+        "url": "https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216373,
+      "name": "\ube44\uc624\ub294 \uc555\uad6c\uc815",
+      "url": "https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT"
+    },
+    {
+      "album": {
         "name": "\uc3df\uc544\uc9c0\ub294 \ube44\uc5d0",
         "url": "https://open.spotify.com/album/5I8lsE4Vq1DTbQQUawT284"
       },
@@ -3283,6 +3475,28 @@
       "duration_ms": 241909,
       "name": "\uc3df\uc544\uc9c0\ub294 \ube44\uc5d0",
       "url": "https://open.spotify.com/track/7hNmfopH2QKUSeCR6EhBss"
+    },
+    {
+      "album": {
+        "name": "Pieces, Part One",
+        "url": "https://open.spotify.com/album/1xepnoe8Uet49Nh0nv20lO"
+      },
+      "artists": [
+        {
+          "name": "Epik High",
+          "url": "https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw"
+        },
+        {
+          "name": "Younha",
+          "url": "https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301720,
+      "name": "\uc6b0\uc0b0 (feat. \uc724\ud558)",
+      "url": "https://open.spotify.com/track/1VnjByC7TUx5A73A4qtgoo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 300700,
+  "num_followers": 300829,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDA5MzUzOWUwMjkyMGRjZWY3Y2M1MjBlMmE2NDQ2NzYy",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDM5NjM2MDg4ZGE1MzdhMzhjODU2ZDE1ODk0NTJiOGQx",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -27,22 +27,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Head Hunters",
-        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
-      },
-      "artists": [
-        {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
-        }
-      ],
-      "duration_ms": 941360,
-      "name": "Chameleon",
-      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "End Of The World Party (Just In Case)",
         "url": "https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 299066,
       "name": "Shine It",
       "url": "https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Head Hunters",
+        "url": "https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 941360,
+      "name": "Chameleon",
+      "url": "https://open.spotify.com/track/4Ce66JznW8QbeyTdSzdGwR"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Bacano",
-        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 309092,
-      "name": "Open Season",
-      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Scratch My Itch",
         "url": "https://open.spotify.com/album/50JWmtnK2xUgMY321aZyzs"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 239280,
       "name": "Do You Wanna Get Down",
       "url": "https://open.spotify.com/track/1U2WuiUGSpZfzoL0e3n8Kj"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Bacano",
+        "url": "https://open.spotify.com/album/0WSLWbijlDB3tnbl2WcSgt"
+      },
+      "artists": [
+        {
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+        }
+      ],
+      "duration_ms": 309092,
+      "name": "Open Season",
+      "url": "https://open.spotify.com/track/5jjzzQ9xQ1iYsrqABU2cYH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -479,18 +479,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Groove Cubed",
-        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
+        "name": "Resonate",
+        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
       },
       "artists": [
         {
-          "name": "Rock Candy Funk Party",
-          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
         }
       ],
-      "duration_ms": 412733,
-      "name": "In the Groove",
-      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
+      "duration_ms": 381040,
+      "name": "Blaze",
+      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -511,18 +511,18 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Resonate",
-        "url": "https://open.spotify.com/album/32wdlbMm4TWfi75n9qW1rs"
+        "name": "The Groove Cubed",
+        "url": "https://open.spotify.com/album/0agUvZzRFE3DuNYG4qIPRK"
       },
       "artists": [
         {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+          "name": "Rock Candy Funk Party",
+          "url": "https://open.spotify.com/artist/0n6R1WkjWzYq9NblwRLaBQ"
         }
       ],
-      "duration_ms": 381040,
-      "name": "Blaze",
-      "url": "https://open.spotify.com/track/1cFgKdRa1Zir3fVQgfTIwH"
+      "duration_ms": 412733,
+      "name": "In the Groove",
+      "url": "https://open.spotify.com/track/5YPvJO7U1HhwuJBLrD1f0q"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -541,20 +541,20 @@
       "url": "https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Basilisk",
-        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
+        "name": "Hot Chicken",
+        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "DLG 3",
+          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
         }
       ],
-      "duration_ms": 269146,
-      "name": "Basilisk",
-      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
+      "duration_ms": 241306,
+      "name": "Hot Chicken",
+      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -589,20 +589,20 @@
       "url": "https://open.spotify.com/track/28HHPAwdeLxYcmXAnihqcx"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
+      "added_at": "2021-02-19 05:01:00",
       "album": {
-        "name": "Hot Chicken",
-        "url": "https://open.spotify.com/album/5D7hc9k3V0WKdU754REsIk"
+        "name": "Basilisk",
+        "url": "https://open.spotify.com/album/6qeN6Ub19GsiAr9HnQtt6H"
       },
       "artists": [
         {
-          "name": "DLG 3",
-          "url": "https://open.spotify.com/artist/2aibOlbkbZ3Wzu9pw7uT1I"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 241306,
-      "name": "Hot Chicken",
-      "url": "https://open.spotify.com/track/1uy8jY4k6SmI2Zr6fwbldQ"
+      "duration_ms": 269146,
+      "name": "Basilisk",
+      "url": "https://open.spotify.com/track/5YqSp1vrRmTotscUvqIn3u"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Baked, Broiled & Fried",
-        "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
-      },
-      "artists": [
-        {
-          "name": "Cookin' On 3 Burners",
-          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Feel Good Inc.",
-      "url": "https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Jazz In The Present Tense",
         "url": "https://open.spotify.com/album/6mB4Dw3ryI693Cpm1KOYIK"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 249933,
       "name": "Montuno Funk",
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Baked, Broiled & Fried",
+        "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
+      },
+      "artists": [
+        {
+          "name": "Cookin' On 3 Burners",
+          "url": "https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Feel Good Inc.",
+      "url": "https://open.spotify.com/track/4GVx7oT2KnKCN9Ia0YDGau"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -889,22 +889,6 @@
       "url": "https://open.spotify.com/track/29p9C7pmhax5CCrfR1SD5m"
     },
     {
-      "added_at": "2021-01-15 21:11:37",
-      "album": {
-        "name": "The Duke",
-        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
-      },
-      "artists": [
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 166760,
-      "name": "The Duke",
-      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
-    },
-    {
       "added_at": "2021-07-09 04:01:00",
       "album": {
         "name": "Praise Me Now",
@@ -919,6 +903,22 @@
       "duration_ms": 220363,
       "name": "Mr Bong",
       "url": "https://open.spotify.com/track/51DMIydCssADRLfnmgt8ZI"
+    },
+    {
+      "added_at": "2021-01-15 21:11:37",
+      "album": {
+        "name": "The Duke",
+        "url": "https://open.spotify.com/album/2FnbvOsZ4x8mnx4eKOKnA9"
+      },
+      "artists": [
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 166760,
+      "name": "The Duke",
+      "url": "https://open.spotify.com/track/11V8HzOfn85nFZmDntBvnP"
     },
     {
       "added_at": "2021-04-02 05:01:00",
@@ -955,22 +955,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Funkafized Plus",
-        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
-      },
-      "artists": [
-        {
-          "name": "Boston Horns",
-          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Funkafized",
-      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Uh Yeah!",
         "url": "https://open.spotify.com/album/6l1B3uOyqe1kWKQnMNIZdk"
       },
@@ -983,6 +967,42 @@
       "duration_ms": 188840,
       "name": "Living Off",
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Saturday Morning",
+        "url": "https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud"
+      },
+      "artists": [
+        {
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "David D.R. Robbins",
+          "url": "https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc"
+        }
+      ],
+      "duration_ms": 149059,
+      "name": "Saturday Morning",
+      "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Funkafized Plus",
+        "url": "https://open.spotify.com/album/7kMk2WjnOqsiD4Jqqp0z7f"
+      },
+      "artists": [
+        {
+          "name": "Boston Horns",
+          "url": "https://open.spotify.com/artist/1c8Oi7jBZp09wJap1wn2Cd"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Funkafized",
+      "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
       "added_at": "2021-04-16 04:00:00",
@@ -1039,6 +1059,22 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
       },
@@ -1055,22 +1091,6 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1107,38 +1127,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 324078,
-      "name": "Royal Highness",
-      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
-    },
-    {
-      "added_at": "2021-01-22 05:01:00",
-      "album": {
-        "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
-      },
-      "artists": [
-        {
-          "name": "True Loves",
-          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
-        }
-      ],
-      "duration_ms": 252106,
-      "name": "First Impression",
-      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Gotcha Rhythm Right Here",
         "url": "https://open.spotify.com/album/5Ru54rs8Wr4ojekCyKHsz0"
       },
@@ -1151,6 +1139,22 @@
       "duration_ms": 352192,
       "name": "Chili Wa Man",
       "url": "https://open.spotify.com/track/73wTZTmfSWoUbTk6daCj4S"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 324078,
+      "name": "Royal Highness",
+      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1169,24 +1173,20 @@
       "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-01-22 05:01:00",
       "album": {
-        "name": "Saturday Morning",
-        "url": "https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud"
+        "name": "Sunday Afternoon",
+        "url": "https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "David D.R. Robbins",
-          "url": "https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc"
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
         }
       ],
-      "duration_ms": 149059,
-      "name": "Saturday Morning",
-      "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
+      "duration_ms": 252106,
+      "name": "First Impression",
+      "url": "https://open.spotify.com/track/4RPt0Kh6elRr1UCdlyU4qn"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1221,20 +1221,20 @@
       "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
-      "added_at": "2021-11-26 05:01:00",
+      "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Sir Somebody",
-        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+        "name": "Du-Vibrations",
+        "url": "https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2"
       },
       "artists": [
         {
-          "name": "Family Company",
-          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+          "name": "The Du-Rites",
+          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
         }
       ],
-      "duration_ms": 242226,
-      "name": "Sir Somebody",
-      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
+      "duration_ms": 175537,
+      "name": "Du-Vibrations",
+      "url": "https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn"
     },
     {
       "added_at": "2021-05-14 04:01:00",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/0sGUOyUDs3xySpBS0mWUCy"
     },
     {
+      "added_at": "2021-11-26 05:01:00",
+      "album": {
+        "name": "Sir Somebody",
+        "url": "https://open.spotify.com/album/4SQDM8myIkEa4MDA5hz5fH"
+      },
+      "artists": [
+        {
+          "name": "Family Company",
+          "url": "https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0"
+        }
+      ],
+      "duration_ms": 242226,
+      "name": "Sir Somebody",
+      "url": "https://open.spotify.com/track/7aHHRCZdz4ZW9tCN3nX5uv"
+    },
+    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "S3NS",
@@ -1285,22 +1301,6 @@
       "url": "https://open.spotify.com/track/5vKuE21kmH89BH5w5yWume"
     },
     {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Du-Vibrations",
-        "url": "https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2"
-      },
-      "artists": [
-        {
-          "name": "The Du-Rites",
-          "url": "https://open.spotify.com/artist/2Rui2r6tT4fRIuxZ5vVIpw"
-        }
-      ],
-      "duration_ms": 175537,
-      "name": "Du-Vibrations",
-      "url": "https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn"
-    },
-    {
       "added_at": "2021-11-19 05:02:00",
       "album": {
         "name": "Cornish Hen",
@@ -1319,6 +1319,34 @@
       "duration_ms": 305000,
       "name": "Cornish Hen",
       "url": "https://open.spotify.com/track/7nzJpykzx8lLq6aKKjcMP5"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Say Goodbye",
+        "url": "https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG"
+      },
+      "artists": [
+        {
+          "name": "Lucas de Mulder",
+          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
+        },
+        {
+          "name": "The New Mastersounds",
+          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
+        },
+        {
+          "name": "Eddie Roberts",
+          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
+        },
+        {
+          "name": "Nate Edgar",
+          "url": "https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0"
+        }
+      ],
+      "duration_ms": 187214,
+      "name": "Say Goodbye",
+      "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1355,34 +1383,6 @@
       "duration_ms": 488031,
       "name": "Spherical (Tiny Room Sessions)",
       "url": "https://open.spotify.com/track/0lXo6V2m1WTDNWMjgbhy1U"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
-        "name": "Say Goodbye",
-        "url": "https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG"
-      },
-      "artists": [
-        {
-          "name": "Lucas de Mulder",
-          "url": "https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ"
-        },
-        {
-          "name": "The New Mastersounds",
-          "url": "https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG"
-        },
-        {
-          "name": "Eddie Roberts",
-          "url": "https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI"
-        },
-        {
-          "name": "Nate Edgar",
-          "url": "https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0"
-        }
-      ],
-      "duration_ms": 187214,
-      "name": "Say Goodbye",
-      "url": "https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB"
     }
   ],
   "unique_name": "Instrumental Funk",

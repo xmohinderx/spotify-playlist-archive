@@ -4,7 +4,7 @@
 
 > A mix of new and classic melodic punk songs.
 
-633 songs - 1 day 7 hr 32 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
+634 songs - 1 day 7 hr 36 min - [published](https://open.spotify.com/playlist/44fGnydRWldy7s0Nsw51vV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Dear Maria, Count Me In](https://open.spotify.com/track/0JJP0IS4w0fJx01EcrfkDe) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right](https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP) | 3:02 | 2022-07-26 |  |
 | [Dear Maria, Count Me In](https://open.spotify.com/track/3ZsexY07D4t4HRq7ogeSAS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [So Wrong, It's Right \(Deluxe Version\)](https://open.spotify.com/album/2e8m3glGL3xIuSrGGXzcIc) | 3:02 | 2021-10-09 | 2021-10-10 |
 | [Deja Brew](https://open.spotify.com/track/13g3fLfwlZ6f6Mzj0Vf85v) | [Down Memory Lane](https://open.spotify.com/artist/7i5zj9SbWx6PfnF29hiEC1) | [Deja Brew](https://open.spotify.com/album/0zXhd0o7qbT7LStChAm9OF) | 3:43 | 2020-04-08 | 2020-05-19 |
+| [Devil's Dance Floor](https://open.spotify.com/track/1QxiAWrrZ2uFrjyzsC5jFg) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/16aGG0N50n3KeXLqSxWkyN) | 3:59 | 2022-07-26 |  |
 | [Devil's Dance Floor](https://open.spotify.com/track/2DPrCpQlpwWGJSPJJtLTyY) | [Flogging Molly](https://open.spotify.com/artist/5kQGFREO5FzMBMsAO3cEtj) | [Swagger](https://open.spotify.com/album/17DfzMvhWL7EjCdqWpqj9P) | 3:59 | 2021-10-10 | 2021-12-06 |
 | [Devil's Kind](https://open.spotify.com/track/1a6jJSAUgRwpUB7IrwxYOS) | [The Longshot](https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O) | [Devil's Kind](https://open.spotify.com/album/3z0DqLSBK7xU8SnSYpECps) | 3:01 | 2020-03-21 | 2022-07-22 |
 | [Diamonds And Guns](https://open.spotify.com/track/5njSPpv1nzVOBhDoHiibQA) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Transplants](https://open.spotify.com/album/4SLzlWrGhjxq3HOV8xImJG) | 4:01 | 2021-01-23 | 2022-07-22 |
@@ -251,7 +252,7 @@
 | [I Believe I Can Fly](https://open.spotify.com/track/6C0JXC9vaaoX5aa6A7tWf4) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Take a Break](https://open.spotify.com/album/4cgMkeavjD3BGNfQBVwrU3) | 3:01 | 2021-10-12 | 2021-10-16 |
 | [I Don't Care As Long As You Sing](https://open.spotify.com/track/15XkE7wBo9JYmpEc757A4E) | [Beatsteaks](https://open.spotify.com/artist/79qRD2IfSr3pmuYUficMWX) | [23 Singles](https://open.spotify.com/album/49gv3P0lcUjXHc0BJjI3OB) | 3:20 | 2021-10-12 |  |
 | [I Don't Feel Anything](https://open.spotify.com/track/5jeAc29rn6W3bVzccu9tV9) | [Rehasher](https://open.spotify.com/artist/3JegvPNbAf7Pt3zrKsgXWu) | [I Don't Feel Anything](https://open.spotify.com/album/0eVczh2uc0WtEaE4jy4ciA) | 2:37 | 2020-04-02 | 2022-07-25 |
-| [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 | 2020-03-21 |  |
+| [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 | 2020-03-21 | 2022-08-14 |
 | [I Don't Want to Be Me](https://open.spotify.com/track/6MQD0dJWAXEN5STY0qhAj0) | [The Normandys](https://open.spotify.com/artist/39HhPXuzSS2N6zqKHDpYA6) | [Co\-Conspirators of Greater Evils](https://open.spotify.com/album/3DiOm6Q77sCE1tLWjS3VuC) | 2:40 | 2020-03-30 | 2022-04-21 |
 | [I Feel So](https://open.spotify.com/track/1Igy3egsujfV4WphlW0B7K) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/3gODo8aZ2dTVIaOr9SqeRE) | 4:30 | 2022-07-26 |  |
 | [I Feel So](https://open.spotify.com/track/27RAL3IXe6LDtWaldMnvvH) | [Box Car Racer](https://open.spotify.com/artist/0DK7FqcaL3ks9TfFn9y1sD) | [Box Car Racer](https://open.spotify.com/album/5bJQXNxXTwvVh5250agH7p) | 4:30 | 2021-01-23 | 2022-02-11 |

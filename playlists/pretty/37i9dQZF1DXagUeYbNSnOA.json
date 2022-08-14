@@ -1,12 +1,12 @@
 {
   "description": "Fresh releases from Latin independent artists and labels. Lanzamientos frescos de artistas y sellos latinxs independientes. musica gratis & Juana Rozas on cover.",
-  "num_followers": 166142,
+  "num_followers": 166143,
   "original_name": "Fresh Finds Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNzYwMCwwMDAwMDAwMDJlOTJjOGM0YmMyZGVmN2MyMzE5ODMyZDM4MWIwYmJi",
+  "snapshot_id": "MTY2MDEwNzYwMCwwMDAwMDAwMDAwMjVmYzIwNjg4NDkyMDJmNjVkZGJhMjUyZGQxMWY1",
   "tracks": [
     {
       "added_at": "2022-08-10 05:00:00",
@@ -83,26 +83,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Entre los dos",
-        "url": "https://open.spotify.com/album/6jA8wdGruzOiNQPbm5YWHb"
-      },
-      "artists": [
-        {
-          "name": "Anacri",
-          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
-        },
-        {
-          "name": "Subliminals",
-          "url": "https://open.spotify.com/artist/3RHLm0zZscBiIeAabUQOLi"
-        }
-      ],
-      "duration_ms": 141130,
-      "name": "Entre los dos",
-      "url": "https://open.spotify.com/track/4SkVGTTp5bVS4A480lp81a"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "tensi\u00f3n",
         "url": "https://open.spotify.com/album/0hnC4bP1PMMt18ZPdMftFX"
       },
@@ -119,6 +99,26 @@
       "duration_ms": 187657,
       "name": "tensi\u00f3n",
       "url": "https://open.spotify.com/track/2nO0Wk3YrbisjXcCDJkR5T"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Entre los dos",
+        "url": "https://open.spotify.com/album/6jA8wdGruzOiNQPbm5YWHb"
+      },
+      "artists": [
+        {
+          "name": "Anacri",
+          "url": "https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ"
+        },
+        {
+          "name": "Subliminals",
+          "url": "https://open.spotify.com/artist/3RHLm0zZscBiIeAabUQOLi"
+        }
+      ],
+      "duration_ms": 141130,
+      "name": "Entre los dos",
+      "url": "https://open.spotify.com/track/4SkVGTTp5bVS4A480lp81a"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw"
-      },
-      "artists": [
-        {
-          "name": "Lezlie",
-          "url": "https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Natural",
-      "url": "https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "Sin Pena",
         "url": "https://open.spotify.com/album/4E8m3FYdXGNVB4mofcKtji"
       },
@@ -279,18 +263,18 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Aprendiendo por las Malas",
-        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw"
       },
       "artists": [
         {
-          "name": "Doris Anah\u00ed",
-          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+          "name": "Lezlie",
+          "url": "https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg"
         }
       ],
-      "duration_ms": 193786,
-      "name": "Aprendiendo por las Malas",
-      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
+      "duration_ms": 208000,
+      "name": "Natural",
+      "url": "https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -307,6 +291,22 @@
       "duration_ms": 134482,
       "name": "Nevel",
       "url": "https://open.spotify.com/track/6wZ02O2sdWq8uUTpKyA7l2"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Aprendiendo por las Malas",
+        "url": "https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3"
+      },
+      "artists": [
+        {
+          "name": "Doris Anah\u00ed",
+          "url": "https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju"
+        }
+      ],
+      "duration_ms": 193786,
+      "name": "Aprendiendo por las Malas",
+      "url": "https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -343,6 +343,22 @@
       "duration_ms": 146677,
       "name": "HASTA QUE VUELVA A NACER",
       "url": "https://open.spotify.com/track/4M1qy4gik7rB7x6ghabyCs"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Negro",
+        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
+      },
+      "artists": [
+        {
+          "name": "Mayra C\u00e1rdenas",
+          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
+        }
+      ],
+      "duration_ms": 245217,
+      "name": "Negro",
+      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -387,18 +403,18 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Huracan",
-        "url": "https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi"
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4o4IPuj2n9rgsgfP44cQ9E"
       },
       "artists": [
         {
-          "name": "Sara Ontaneda",
-          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
+          "name": "Ferna",
+          "url": "https://open.spotify.com/artist/58FJ0VvcKAYY89TFOczBfK"
         }
       ],
-      "duration_ms": 184033,
-      "name": "Huracan",
-      "url": "https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF"
+      "duration_ms": 179213,
+      "name": "Caracoles",
+      "url": "https://open.spotify.com/track/7D2iqTnsZi9KQKUu5BOd2b"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -423,18 +439,18 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4o4IPuj2n9rgsgfP44cQ9E"
+        "name": "Huracan",
+        "url": "https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi"
       },
       "artists": [
         {
-          "name": "Ferna",
-          "url": "https://open.spotify.com/artist/58FJ0VvcKAYY89TFOczBfK"
+          "name": "Sara Ontaneda",
+          "url": "https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC"
         }
       ],
-      "duration_ms": 179213,
-      "name": "Caracoles",
-      "url": "https://open.spotify.com/track/7D2iqTnsZi9KQKUu5BOd2b"
+      "duration_ms": 184033,
+      "name": "Huracan",
+      "url": "https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -459,6 +475,22 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
+        "name": "Cables",
+        "url": "https://open.spotify.com/album/4lnhke8dhD04dReOJt39Vy"
+      },
+      "artists": [
+        {
+          "name": "BICHA",
+          "url": "https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Cables",
+      "url": "https://open.spotify.com/track/0Xu5v9Ip6EM4zlQPMpbt1P"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
         "name": "Otra Temporada",
         "url": "https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ"
       },
@@ -479,58 +511,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Negro",
-        "url": "https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT"
-      },
-      "artists": [
-        {
-          "name": "Mayra C\u00e1rdenas",
-          "url": "https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1"
-        }
-      ],
-      "duration_ms": 245217,
-      "name": "Negro",
-      "url": "https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "Cables",
-        "url": "https://open.spotify.com/album/4lnhke8dhD04dReOJt39Vy"
-      },
-      "artists": [
-        {
-          "name": "BICHA",
-          "url": "https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Cables",
-      "url": "https://open.spotify.com/track/0Xu5v9Ip6EM4zlQPMpbt1P"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "A Medias",
-        "url": "https://open.spotify.com/album/6nCNu4TnCgP06u4TrP9UyD"
-      },
-      "artists": [
-        {
-          "name": "Salazar",
-          "url": "https://open.spotify.com/artist/73X4fppU5NABqeJgfX8nnf"
-        },
-        {
-          "name": "Blvck Reyes",
-          "url": "https://open.spotify.com/artist/6xlYWUlopRTwGr2oOPa426"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "A Medias",
-      "url": "https://open.spotify.com/track/3NH7Cdm2G8zLZi8IqJ8gTn"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "Humo",
         "url": "https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k"
       },
@@ -543,54 +523,6 @@
       "duration_ms": 222783,
       "name": "Humo",
       "url": "https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "Lo que no ves",
-        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
-      },
-      "artists": [
-        {
-          "name": "Mimi Rose",
-          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
-        }
-      ],
-      "duration_ms": 135205,
-      "name": "Espejos",
-      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "az\u00facar",
-        "url": "https://open.spotify.com/album/5dugwIhpvF8pm3DfGeVsBL"
-      },
-      "artists": [
-        {
-          "name": "mau",
-          "url": "https://open.spotify.com/artist/0ZURfcYcS9GldV99dbHWCr"
-        }
-      ],
-      "duration_ms": 123850,
-      "name": "az\u00facar",
-      "url": "https://open.spotify.com/track/7ijx9EtHx1ImdRkC9LQoJW"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "Ecos",
-        "url": "https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 212210,
-      "name": "Ecos",
-      "url": "https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -615,6 +547,42 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
+        "name": "A Medias",
+        "url": "https://open.spotify.com/album/6nCNu4TnCgP06u4TrP9UyD"
+      },
+      "artists": [
+        {
+          "name": "Salazar",
+          "url": "https://open.spotify.com/artist/73X4fppU5NABqeJgfX8nnf"
+        },
+        {
+          "name": "Blvck Reyes",
+          "url": "https://open.spotify.com/artist/6xlYWUlopRTwGr2oOPa426"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "A Medias",
+      "url": "https://open.spotify.com/track/3NH7Cdm2G8zLZi8IqJ8gTn"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "Lo que no ves",
+        "url": "https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW"
+      },
+      "artists": [
+        {
+          "name": "Mimi Rose",
+          "url": "https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB"
+        }
+      ],
+      "duration_ms": 135205,
+      "name": "Espejos",
+      "url": "https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
         "name": "El Modo",
         "url": "https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS"
       },
@@ -631,18 +599,34 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Mi Lugar",
-        "url": "https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C"
+        "name": "Ecos",
+        "url": "https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ"
       },
       "artists": [
         {
-          "name": "cata rec",
-          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
         }
       ],
-      "duration_ms": 173641,
-      "name": "Mi Lugar",
-      "url": "https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy"
+      "duration_ms": 212210,
+      "name": "Ecos",
+      "url": "https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "az\u00facar",
+        "url": "https://open.spotify.com/album/5dugwIhpvF8pm3DfGeVsBL"
+      },
+      "artists": [
+        {
+          "name": "mau",
+          "url": "https://open.spotify.com/artist/0ZURfcYcS9GldV99dbHWCr"
+        }
+      ],
+      "duration_ms": 123850,
+      "name": "az\u00facar",
+      "url": "https://open.spotify.com/track/7ijx9EtHx1ImdRkC9LQoJW"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -667,22 +651,18 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "El Poder de Lola",
-        "url": "https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse"
+        "name": "Mi Lugar",
+        "url": "https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C"
       },
       "artists": [
         {
-          "name": "Neck Talese",
-          "url": "https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA"
-        },
-        {
-          "name": "Briela Ojeda",
-          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+          "name": "cata rec",
+          "url": "https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A"
         }
       ],
-      "duration_ms": 334000,
-      "name": "Quebranto",
-      "url": "https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP"
+      "duration_ms": 173641,
+      "name": "Mi Lugar",
+      "url": "https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -699,6 +679,26 @@
       "duration_ms": 203965,
       "name": "F\u00e1cil Fue Quererte",
       "url": "https://open.spotify.com/track/64RT9Eq5EVi0Bzsswt6rBK"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "El Poder de Lola",
+        "url": "https://open.spotify.com/album/5XXj66VxuFuj1atm0pKWse"
+      },
+      "artists": [
+        {
+          "name": "Neck Talese",
+          "url": "https://open.spotify.com/artist/3AELbAjHI0SeWsXUVZMXZA"
+        },
+        {
+          "name": "Briela Ojeda",
+          "url": "https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo"
+        }
+      ],
+      "duration_ms": 334000,
+      "name": "Quebranto",
+      "url": "https://open.spotify.com/track/6qOnahK31RK7v4YTxpZIvP"
     },
     {
       "added_at": "2022-08-10 05:00:00",
@@ -739,6 +739,22 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
+        "name": "Naufragio",
+        "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
+      },
+      "artists": [
+        {
+          "name": "Varese",
+          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
+        }
+      ],
+      "duration_ms": 145170,
+      "name": "Naufragio",
+      "url": "https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
         "name": "simeves",
         "url": "https://open.spotify.com/album/661S3vn7rgq7hscQdlRe5g"
       },
@@ -759,38 +775,6 @@
     {
       "added_at": "2022-08-10 05:00:00",
       "album": {
-        "name": "Naufragio",
-        "url": "https://open.spotify.com/album/78adW0Bc0zg5E6PqYdc3Vk"
-      },
-      "artists": [
-        {
-          "name": "Varese",
-          "url": "https://open.spotify.com/artist/5DG278QHnEKfWW9zAGFeRg"
-        }
-      ],
-      "duration_ms": 145170,
-      "name": "Naufragio",
-      "url": "https://open.spotify.com/track/2DrfPQ6ONLQaWB7nSbrf8i"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
-        "name": "ENVIDIA",
-        "url": "https://open.spotify.com/album/0o5KxfeXVNlPuKedwJ5stP"
-      },
-      "artists": [
-        {
-          "name": "Gallard\u00eda",
-          "url": "https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "ENVIDIA",
-      "url": "https://open.spotify.com/track/5OaJ7CyykcSB5bKPz840Df"
-    },
-    {
-      "added_at": "2022-08-10 05:00:00",
-      "album": {
         "name": "Los D\u00edas",
         "url": "https://open.spotify.com/album/0DSBtXfbEulz3zDVrClVbR"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 184320,
       "name": "C\u00e1mara Lenta",
       "url": "https://open.spotify.com/track/3Phkpm54EHflUG3z0jOhid"
+    },
+    {
+      "added_at": "2022-08-10 05:00:00",
+      "album": {
+        "name": "ENVIDIA",
+        "url": "https://open.spotify.com/album/0o5KxfeXVNlPuKedwJ5stP"
+      },
+      "artists": [
+        {
+          "name": "Gallard\u00eda",
+          "url": "https://open.spotify.com/artist/0yP5P5C0GfMQ8Nlpq3lFBY"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "ENVIDIA",
+      "url": "https://open.spotify.com/track/5OaJ7CyykcSB5bKPz840Df"
     },
     {
       "added_at": "2022-08-10 05:00:00",

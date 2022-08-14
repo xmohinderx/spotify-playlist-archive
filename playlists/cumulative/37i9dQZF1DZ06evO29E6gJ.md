@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 39 min - [published](https://open.spotify.com/playlist/3L1RmjKFTceey2iLuEWcFK)
+55 songs - 2 hr 42 min - [published](https://open.spotify.com/playlist/3L1RmjKFTceey2iLuEWcFK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,11 +20,12 @@
 | [Cuando Salgo A Los Campos](https://open.spotify.com/track/0u0N27nvxh5ClF4sMgYMpV) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Frente a Frente Los Alegres de Terán vs Los Invasores de Nuevo León](https://open.spotify.com/album/4Vnb9izUKk4ee79qfydeyf) | 2:31 | 2022-06-01 |  |
 | [Cuatro Milpas](https://open.spotify.com/track/2GapsLaCJN57fkVBmQiJ3P) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Nostalgia Norteña](https://open.spotify.com/album/30ONqsYPJeKz3lMs1PjeLu) | 3:04 | 2022-06-01 |  |
 | [El 24 De Junio](https://open.spotify.com/track/5Yr85w0xLBDQv33C07Nczz) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 2:42 | 2022-06-01 |  |
+| [El Cuervo Y El Escribano](https://open.spotify.com/track/4zc9IeFLfP38imKJgRzuNc) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Alma Enamorada](https://open.spotify.com/album/0Hhcxil7ucwHVQgVxxIJTc) | 2:37 | 2022-08-13 |  |
 | [El Desgastado](https://open.spotify.com/track/21Slc5ctUKCzBLzDiRxwuq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:53 | 2022-06-01 |  |
 | [El Golpe Traidor](https://open.spotify.com/track/7bBKjaJ2bU7iLagUNwtJrW) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:26 | 2022-06-01 |  |
 | [Entre Copa y Copa](https://open.spotify.com/track/6uvGgaWZ66OiLqFxZDokGq) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Homenaje Norteño A Felipe Valdes Leal Con](https://open.spotify.com/album/0ZJcupskEdoVbyQqCaU4rp) | 2:43 | 2022-06-01 |  |
 | [Flor del Río](https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tesoros de Colección \- Los Mejores Duetos Rancheros de la Historia](https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ) | 2:31 | 2022-06-01 |  |
-| [Gabino Barrera](https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:36 | 2022-06-01 |  |
+| [Gabino Barrera](https://open.spotify.com/track/7eWE0XtEh4ZbUjWzEDTSPJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:36 | 2022-06-01 | 2022-08-14 |
 | [Hablando Claro](https://open.spotify.com/track/7cXUofSYEealMPBcymmKGp) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [La Gran Coleccion de Oro, Vol\. 1](https://open.spotify.com/album/7FgTvoZPZEOarrn1kKHWa0) | 2:46 | 2022-06-01 |  |
 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 | 2022-06-01 |  |
 | [Hermosísimo Lucero](https://open.spotify.com/track/19mrbn7SgoqJlTTyoCt5HP) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:48 | 2022-06-01 |  |

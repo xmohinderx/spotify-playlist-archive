@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 101278,
+  "num_followers": 101333,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NDEwNSwwMDAwMDAwMGYxMjY0ODMzYzU2MmQxZGVjZWMzZDZmNzBhNWMyM2Qw",
+  "snapshot_id": "MTY2MDI3NDEwNSwwMDAwMDAwMGJlNDE1Y2Q5NGI5YmVlNzlkZDA1ZTI4NTc1NWFiMDVj",
   "tracks": [
     {
       "added_at": "2022-08-12 03:15:05",
@@ -167,6 +167,22 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
+        "name": "Eletrocardiograma",
+        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 190096,
+      "name": "O Jeito",
+      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
+    },
+    {
+      "added_at": "2022-08-12 03:15:05",
+      "album": {
         "name": "Casas",
         "url": "https://open.spotify.com/album/4srydLleGSH7OmLav3nCTX"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 294049,
       "name": "Mantra (Feat. Emicida)",
       "url": "https://open.spotify.com/track/1vuAdDQlGRntmbQ7RpkObZ"
-    },
-    {
-      "added_at": "2022-08-12 03:15:05",
-      "album": {
-        "name": "Eletrocardiograma",
-        "url": "https://open.spotify.com/album/0M7Qar3a31HBBUGBREC4rg"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 190096,
-      "name": "O Jeito",
-      "url": "https://open.spotify.com/track/2HkiLuom1eTh8ZEaGqQjLY"
     },
     {
       "added_at": "2022-08-12 03:15:05",
@@ -419,18 +419,18 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
-        "name": "Calma",
-        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
       "artists": [
         {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 186400,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2022-08-12 03:15:05",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
+        "name": "Calma",
+        "url": "https://open.spotify.com/album/4NnapYcmIcnlJXB22BPve5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2022-08-12 03:15:05",
+      "album": {
         "name": "Nonsense, Vol. 1",
         "url": "https://open.spotify.com/album/0psPVRixSPuaBChZnZ9Eot"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 217110,
       "name": "Onde Estar\u00e1",
       "url": "https://open.spotify.com/track/0hbNJXcaPK4cQD78fh8uSR"
-    },
-    {
-      "added_at": "2022-08-12 03:15:05",
-      "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2022-08-12 03:15:05",
@@ -515,26 +515,6 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
-        "name": "Alumi\u00f4",
-        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
-      },
-      "artists": [
-        {
-          "name": "Luiza Lian",
-          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
-        },
-        {
-          "name": "Bixiga 70",
-          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
-        }
-      ],
-      "duration_ms": 204116,
-      "name": "Alumi\u00f4",
-      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
-    },
-    {
-      "added_at": "2022-08-12 03:15:05",
-      "album": {
         "name": "Servi\u00e7o",
         "url": "https://open.spotify.com/album/5WCVs6FJvyIH9Zr0ZVGmge"
       },
@@ -551,6 +531,26 @@
       "duration_ms": 183013,
       "name": "C\u00e9u da Boca",
       "url": "https://open.spotify.com/track/1tqio9a4FxPi01E1NDII3U"
+    },
+    {
+      "added_at": "2022-08-12 03:15:05",
+      "album": {
+        "name": "Alumi\u00f4",
+        "url": "https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1"
+      },
+      "artists": [
+        {
+          "name": "Luiza Lian",
+          "url": "https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW"
+        },
+        {
+          "name": "Bixiga 70",
+          "url": "https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU"
+        }
+      ],
+      "duration_ms": 204116,
+      "name": "Alumi\u00f4",
+      "url": "https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3"
     },
     {
       "added_at": "2022-08-12 03:15:05",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
-        "name": "Carinhoso",
-        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9u",
-          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
-        }
-      ],
-      "duration_ms": 265557,
-      "name": "Carinhoso",
-      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
-    },
-    {
-      "added_at": "2022-08-12 03:15:05",
-      "album": {
         "name": "Al\u00f4 Al\u00f4, Como Vai?",
         "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 262933,
       "name": "Olha a Pipa",
       "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2022-08-12 03:15:05",
+      "album": {
+        "name": "Carinhoso",
+        "url": "https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9u",
+          "url": "https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn"
+        }
+      ],
+      "duration_ms": 265557,
+      "name": "Carinhoso",
+      "url": "https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE"
     },
     {
       "added_at": "2022-08-12 03:15:05",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-12 03:15:05",
       "album": {
-        "name": "Sem Medo",
-        "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
-      },
-      "artists": [
-        {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
-        }
-      ],
-      "duration_ms": 252373,
-      "name": "Sem Medo",
-      "url": "https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds"
-    },
-    {
-      "added_at": "2022-08-12 03:15:05",
-      "album": {
         "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
         "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 209906,
       "name": "Choror\u00f4",
       "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+    },
+    {
+      "added_at": "2022-08-12 03:15:05",
+      "album": {
+        "name": "Sem Medo",
+        "url": "https://open.spotify.com/album/36P5zxfGnYSXock4EQgLcA"
+      },
+      "artists": [
+        {
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+        }
+      ],
+      "duration_ms": 252373,
+      "name": "Sem Medo",
+      "url": "https://open.spotify.com/track/31YDFOH4f9fOhF0CGWEFds"
     },
     {
       "added_at": "2022-08-12 03:15:05",

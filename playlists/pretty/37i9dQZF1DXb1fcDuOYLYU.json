@@ -1,12 +1,12 @@
 {
   "description": "Celebrate Women's History Month with these powerful voices. Cover: Greeicy",
-  "num_followers": 17873,
+  "num_followers": 17933,
   "original_name": "Women of Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDljYzhhMGYzMjhhZmE5NjkzYTY4YzBhZDNkNGU0ZGQx",
+  "snapshot_id": "MTY0ODQ3NzQyMywwMDAwMDAwMDI3NjJjYTQ2YWU2N2FkYjEyNTNlYjIwZGE5YzUzY2Yw",
   "tracks": [
     {
       "added_at": "2022-03-28 14:23:43",
@@ -339,18 +339,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Para La Eternidad",
-        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
       },
       "artists": [
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
         }
       ],
-      "duration_ms": 278866,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Para La Eternidad",
+        "url": "https://open.spotify.com/album/2MSP1JG7KflqYqAHtk7wlB"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/1BwrMGGhPA6GarWIYaFrW8"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Oh Na Na",
         "url": "https://open.spotify.com/album/6gkAMKnELz3nS8KtSDTPko"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Boys Don't Cry",
         "url": "https://open.spotify.com/album/7vvalwoghtZRu2Cv35WDgV"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "On The 6",
-        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "Let's Get Loud",
-      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "HA-ASH Primera Fila - Hecho Realidad",
         "url": "https://open.spotify.com/album/2RCKVV7j5dZax3YZHfG0QM"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 226986,
       "name": "Perd\u00f3n, Perd\u00f3n - HA-ASH Primera Fila - Hecho Realidad [En Vivo]",
       "url": "https://open.spotify.com/track/15Hx1oi6C3AxYhhvolqrJG"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "On The 6",
+        "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "Let's Get Loud",
+      "url": "https://open.spotify.com/track/42nSaPdT6g3ZIMHmKLlP2p"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -691,6 +691,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "Eres Diamante",
+        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 240295,
+      "name": "Ojos Noche",
+      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "+",
         "url": "https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 219367,
       "name": "+",
       "url": "https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "Eres Diamante",
-        "url": "https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 240295,
-      "name": "Ojos Noche",
-      "url": "https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "atravesao",
+        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
+      },
+      "artists": [
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 200510,
+      "name": "atravesao",
+      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Andan Diciendo",
         "url": "https://open.spotify.com/album/4QnRBgWvHDjy8i1buxbHxh"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 221345,
       "name": "Andan Diciendo",
       "url": "https://open.spotify.com/track/0wt2PeQ8AeBlx6WbgoM97r"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "atravesao",
-        "url": "https://open.spotify.com/album/2NQf4yrGL2SCUFvOYIKdFr"
-      },
-      "artists": [
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 200510,
-      "name": "atravesao",
-      "url": "https://open.spotify.com/track/00HU2RYUeBcOVJPbdOtdJ2"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
+        "name": "C14TORCE III",
+        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 143680,
+      "name": "C14TORCE III",
+      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
         "name": "Pa Ti + Lonely",
         "url": "https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 229549,
       "name": "Pa Ti (For You)",
       "url": "https://open.spotify.com/track/2wUgG5Fr9PQcIbKRfVJ76C"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
-        "name": "C14TORCE III",
-        "url": "https://open.spotify.com/album/588LtwOHlhE4L4VulRdO7e"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 143680,
-      "name": "C14TORCE III",
-      "url": "https://open.spotify.com/track/5feYWe3hr9hZ7jEXfa2UcS"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "No M\u00e1s",
-        "url": "https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 152631,
-      "name": "No M\u00e1s",
-      "url": "https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "As\u00ed As\u00ed",
         "url": "https://open.spotify.com/album/1q8UCTOD6HHb477bNDnGaZ"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 195491,
       "name": "As\u00ed As\u00ed",
       "url": "https://open.spotify.com/track/0c60lGN8Fnq4oTMFJpQuYx"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "No M\u00e1s",
+        "url": "https://open.spotify.com/album/0YbJiVZxRmLNeEVrtRvbwQ"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 152631,
+      "name": "No M\u00e1s",
+      "url": "https://open.spotify.com/track/2WUmmdgeXxIKhEbsfKZ4fd"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "Aguardiente (Remix)",
         "url": "https://open.spotify.com/album/6MEDIrVfxoDBboJMDjlqvh"
       },
@@ -2059,18 +2043,18 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "Eva",
-        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
       },
       "artists": [
         {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Eva",
-      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2087,6 +2071,22 @@
       "duration_ms": 133944,
       "name": "Madluv",
       "url": "https://open.spotify.com/track/09WDXOt4jgIP36HbzxJCrq"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "Eva",
+        "url": "https://open.spotify.com/album/4JwtH9ZZTfQSPMXogxHzgl"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Eva",
+      "url": "https://open.spotify.com/track/1txcYMd5pfWZivOfJcZpiP"
     },
     {
       "added_at": "2022-03-28 14:23:43",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2022-03-28 14:23:43",
       "album": {
-        "name": "En Letra de Otro",
-        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        }
-      ],
-      "duration_ms": 138626,
-      "name": "Na Na Na",
-      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
-    },
-    {
-      "added_at": "2022-03-28 14:23:43",
-      "album": {
         "name": "De Qu\u00e9 Sirve",
         "url": "https://open.spotify.com/album/5CEohogm9tC85m92zXpmQZ"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 155579,
       "name": "De Qu\u00e9 Sirve",
       "url": "https://open.spotify.com/track/1uGVTBOzltXEbOH7qSfuHL"
+    },
+    {
+      "added_at": "2022-03-28 14:23:43",
+      "album": {
+        "name": "En Letra de Otro",
+        "url": "https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        }
+      ],
+      "duration_ms": 138626,
+      "name": "Na Na Na",
+      "url": "https://open.spotify.com/track/2Jir9NKPpn83SZodIOXYKz"
     },
     {
       "added_at": "2022-03-28 14:23:43",

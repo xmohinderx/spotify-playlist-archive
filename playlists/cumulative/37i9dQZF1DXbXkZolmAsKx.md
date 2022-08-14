@@ -4,7 +4,7 @@
 
 > The best Ambient tracks from 2010 to 2019.
 
-91 songs - 7 hr 43 min - not published yet
+91 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/35yQHDJt5uIXaC5Kq6C4sA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

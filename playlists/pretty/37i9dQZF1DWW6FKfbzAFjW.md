@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,062 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,059 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

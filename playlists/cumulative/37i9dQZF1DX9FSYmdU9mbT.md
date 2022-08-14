@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Gilberto Gil
 
-114 songs - 7 hr 19 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
+115 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/0KkIdIP6N50yyjIcbunsdH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,8 @@
 | [Drão \- Remasterizado](https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Drão \(Remasterizado\)](https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr) | 5:11 | 2021-12-31 |  |
 | [Encontro](https://open.spotify.com/track/4THhSMVKTUASFp9N3mYlVU) | [Maria Gadú](https://open.spotify.com/artist/3uCu2WgyG0Iw50ylOYDSpH) | [Maria Gadú](https://open.spotify.com/album/60zdKaNDD0nMnM90ndtcGF) | 3:24 | 2021-12-31 |  |
 | [Entre a Serpente e a Estrela \- Ao Vivo](https://open.spotify.com/track/5t1XCqqd7HxVd5Aa2T4nIY) | [Zé Ramalho](https://open.spotify.com/artist/7JoWcJHDOG58JYTe6d400S) | [Zé Ramalho Na Paraíba \(Ao Vivo\)](https://open.spotify.com/album/7IBdFBeduRIbjjxyqT8QdA) | 3:33 | 2021-12-31 |  |
-| [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 | 2021-12-31 |  |
+| [Espelhos d'Água](https://open.spotify.com/track/2O7xS5JAHwGqetnkuhvLuJ) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/0LD0biXNzFwRPOTSt4KYVk) | 4:51 | 2022-06-24 |  |
+| [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 | 2021-12-31 | 2022-08-14 |
 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 | 2022-06-24 |  |
 | [Eu Sei Que Vou Te Amar](https://open.spotify.com/track/3s4gwVdy6g4KmBLerpNMIK) | [Vinícius](https://open.spotify.com/artist/5b2ylVrhm7GKFoUjuNk1Op), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Bossa Nova](https://open.spotify.com/album/2KJsAjK0T585kFmFA3O7vr) | 3:49 | 2021-12-31 | 2022-07-29 |
 | [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/track/0JdiACPzhOZ5nuFJG2Rzlb) | [Zabelê](https://open.spotify.com/artist/4JMakNBSx2CeKCKVIEcw21), [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Eu Também Quero Beijar / A Lua e o Mar](https://open.spotify.com/album/6DSaEClssEB5gUtlcNzdn7) | 2:52 | 2022-04-15 |  |

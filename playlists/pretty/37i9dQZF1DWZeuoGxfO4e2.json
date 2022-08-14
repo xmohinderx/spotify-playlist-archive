@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 474367,
+  "num_followers": 474790,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzA1MjI3OCwwMDAwMDAwMDVmZDk0YzA0OGIzMGFlYzBmYTZiYmQ2Nzg0MGI2ODk2",
+  "snapshot_id": "MTY1MzA1MjI3OCwwMDAwMDAwMDZlMDlmYTU2ZWU2OTU2YmI1M2MxNjM5ZmRiYmM5OWU3",
   "tracks": [
     {
       "added_at": "2022-05-20 13:11:18",
@@ -283,38 +283,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Dosis Perfecta",
-      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Soda Stereo (Remastered)",
         "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
       },
@@ -327,6 +295,38 @@
       "duration_ms": 200800,
       "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
       "url": "https://open.spotify.com/track/65DBZofI0b79kfHTcWWDuU"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 232026,
+      "name": "Crimen",
+      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Dosis Perfecta",
+      "url": "https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 232026,
-      "name": "Crimen",
-      "url": "https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp"
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -667,22 +667,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Avalancha de \u00e9xitos",
-        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 214880,
-      "name": "Como te extra\u00f1o mi amor",
-      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
         "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 253186,
       "name": "Maldito duende",
       "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Avalancha de \u00e9xitos",
+        "url": "https://open.spotify.com/album/33iiSdb0XhQI0dSstspDls"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 214880,
+      "name": "Como te extra\u00f1o mi amor",
+      "url": "https://open.spotify.com/track/6hFHsQWB7HdVrSe7efRR82"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Infame",
-        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 156197,
-      "name": "Irresponsables",
-      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Alma En Fuego",
         "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
@@ -763,6 +747,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Infame",
+        "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 156197,
+      "name": "Irresponsables",
+      "url": "https://open.spotify.com/track/0dsViRiDTIuexAL42Nc1Kh"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Bailar\u00edn Apocal\u00edptico",
         "url": "https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ"
       },
@@ -775,6 +775,22 @@
       "duration_ms": 195580,
       "name": "Raz\u00f3n",
       "url": "https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Bocanada",
+        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 273800,
+      "name": "Puente",
+      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -811,18 +827,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Bocanada",
-        "url": "https://open.spotify.com/album/2rIdWbXPjcq8K7BCccBhhC"
+        "name": "La Ley MTV Unplugged",
+        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
       },
       "artists": [
         {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
         }
       ],
-      "duration_ms": 273800,
-      "name": "Puente",
-      "url": "https://open.spotify.com/track/6gwaa6ElIixNTvu6RwkMyo"
+      "duration_ms": 288066,
+      "name": "Mentira",
+      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -843,18 +859,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "La Ley MTV Unplugged",
-        "url": "https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi"
+        "name": "Rocanrol Bumerang",
+        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
       },
       "artists": [
         {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+          "name": "Miguel R\u00edos",
+          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
         }
       ],
-      "duration_ms": 288066,
-      "name": "Mentira",
-      "url": "https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX"
+      "duration_ms": 224826,
+      "name": "Santa Lucia - Remastered 2005",
+      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -871,22 +887,6 @@
       "duration_ms": 256933,
       "name": "Oye Como Va",
       "url": "https://open.spotify.com/track/5u6y4u5EgDv0peILf60H5t"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Rocanrol Bumerang",
-        "url": "https://open.spotify.com/album/1YIw799VStxgysT27cUGwp"
-      },
-      "artists": [
-        {
-          "name": "Miguel R\u00edos",
-          "url": "https://open.spotify.com/artist/1dpnxi6xgoB2kaRYnnoatZ"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Santa Lucia - Remastered 2005",
-      "url": "https://open.spotify.com/track/5bycn7SuJzYnxte0W54mNX"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1007,18 +1007,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
         }
       ],
-      "duration_ms": 225826,
-      "name": "Y Que",
-      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
+      "duration_ms": 225826,
+      "name": "Y Que",
+      "url": "https://open.spotify.com/track/5YRhQ7h8w2cMCY2teyjax6"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 280080,
       "name": "Arr\u00e9glame el Alma (feat. Maria Barracuda) - En Vivo",
       "url": "https://open.spotify.com/track/7wL7mQUpStsapIkNuy0d2Z"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+      },
+      "artists": [
+        {
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+        }
+      ],
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Mucho",
         "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
@@ -1351,18 +1367,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
       "artists": [
         {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
         }
       ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1411,22 +1427,6 @@
       "duration_ms": 135133,
       "name": "Las flores",
       "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "Avalancha",
+        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "duration_ms": 327426,
+      "name": "La chispa adecuada (Bendecida 3)",
+      "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "A Casa",
         "url": "https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Avalancha",
-        "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 327426,
-      "name": "La chispa adecuada (Bendecida 3)",
-      "url": "https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Antihumano",
         "url": "https://open.spotify.com/album/3NsuNDcnIc0jAxpC9svIbz"
       },
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Buscando un Amor",
-        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
-      },
-      "artists": [
-        {
-          "name": "Pappo",
-          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
-        }
-      ],
-      "duration_ms": 161133,
-      "name": "Juntos a la Par",
-      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Compa\u00f1eros Musicales",
         "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 213720,
       "name": "La Carencia",
       "url": "https://open.spotify.com/track/1v3rQg6uPY6AnOY5TtxN7I"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Buscando un Amor",
+        "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
+      },
+      "artists": [
+        {
+          "name": "Pappo",
+          "url": "https://open.spotify.com/artist/1db5TWniHR7iqwXer7AiQ2"
+        }
+      ],
+      "duration_ms": 161133,
+      "name": "Juntos a la Par",
+      "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
     }
   ],
   "unique_name": "Iconos del Rock Latinoamericano",

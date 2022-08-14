@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,046 likes - 60 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,154 likes - 60 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,27 +34,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 24 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 |
 | 25 | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/track/3MddMYGS4fdkcRnkFbz2PM) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [ひかり](https://open.spotify.com/artist/7FqXFvzwNYVhW12u5O3yUc) | [透明なガール \-Dye me\- \(feat\. ひかり\)](https://open.spotify.com/album/0dJVYEeg3RoLXPcUcpVatv) | 3:29 |
 | 26 | [Remember me](https://open.spotify.com/track/02cpMqOFhYCBFcOf8u2V8P) | [peeto](https://open.spotify.com/artist/2o7CvH7hLj3c3XbkFmnLXA) | [Remember me](https://open.spotify.com/album/1OQlchkVRwfKlCg02KEtSA) | 4:46 |
-| 27 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
+| 27 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
 | 28 | [UNDR BLUE](https://open.spotify.com/track/3WlVSWdPofy7KJWXHDx0A6) | [POOL](https://open.spotify.com/artist/2dvTZ5JWjRhkzd8QSBIhDo) | [UNDR BLUE](https://open.spotify.com/album/7o5PEy2vFqEbfN6UhV1yVj) | 3:06 |
-| 29 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
-| 30 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 |
+| 29 | [嘘寝](https://open.spotify.com/track/5hUqa7aXDPzl8H3gdavuns) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [嘘寝](https://open.spotify.com/album/7zkHeXykXJfponPUUjvvGM) | 3:47 |
+| 30 | [Don't Be Someone Else](https://open.spotify.com/track/3BUNigzrbG1jyFS1lRc74Z) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [MUSIC WARDROBE](https://open.spotify.com/album/3cqeIPIj8gyb9olBEqhC2D) | 3:43 |
 | 31 | [SURPRISE OF SUMMER](https://open.spotify.com/track/3uYCbGo0mc5p7volIb5k2N) | [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [COOOL](https://open.spotify.com/album/2X9EFWmSWAYLjKm9y6llqL) | 4:13 |
 | 32 | [Gentle Hands](https://open.spotify.com/track/2JkLmkvLRq89CrcrOdOBT8) | [Original Love & TENDRE](https://open.spotify.com/artist/38mbylHdhnt6RSf0HyHWnm), [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck), [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [Gentle Hands](https://open.spotify.com/album/1mq2LQh4ZcG8USY6v8ujpL) | 4:12 |
 | 33 | [AURORA TOKIO](https://open.spotify.com/track/0DWuqS6eHlmVazf52ysjB4) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [AURORA TOKIO](https://open.spotify.com/album/23BfGKaS5MhE255NglNI0R) | 3:35 |
 | 34 | [Baby Baby Baby](https://open.spotify.com/track/5uMl2Prrq7BrPqALqkThvJ) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Hot Sauce on Ice Cream](https://open.spotify.com/album/6FDsnKHOZcxraTjXWQDUXE) | 3:31 |
 | 35 | [Good Morning](https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J) | [Awesome City Club](https://open.spotify.com/artist/7jGn8qhLb48n7yMMNfAoHv) | [Good Morning](https://open.spotify.com/album/4HBA6vzBbAERjK1i10ja5R) | 3:17 |
 | 36 | [BITTER!](https://open.spotify.com/track/6dmvgAl7jBgYbLBaFw3t3R) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [BITTER!](https://open.spotify.com/album/2l4vECEdLZGPbbRlDWdVXe) | 3:05 |
-| 37 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 |
+| 37 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 |
 | 38 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 |
-| 39 | [プラスティック・ラブ \- 12" Original Length ReMix](https://open.spotify.com/track/6FhRpVWOtflqDk2UjWMY2N) | [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N) | [VARIETY \(30th Anniversary Edition\)](https://open.spotify.com/album/3CBcuIFKPBBTHy7wLfGudH) | 4:55 |
+| 39 | [SEPTEMBER](https://open.spotify.com/track/0hh8HEObfyaRV7jZyVOPR1) | [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [SEPTEMBER](https://open.spotify.com/album/1z9aAHNTNB1heqRfK501Rn) | 4:35 |
 | 40 | [Watching Over You](https://open.spotify.com/track/6zI12MoGsKN4CmAzzXljhE) | [Peach & Apricot](https://open.spotify.com/artist/54l7q4MlKoJbewWkohTJeX), [Mariya Takeuchi](https://open.spotify.com/artist/3WwGRA2o4Ux1RRMYaYDh7N), [Anri](https://open.spotify.com/artist/0xGtOrmB2hnrNRLG3vhpSo) | [Watching Over You](https://open.spotify.com/album/4ArOG7wTFTDM7Sqc2XPB0Z) | 4:57 |
 | 41 | [Last Train](https://open.spotify.com/track/3QnxZYQmOOvIRtVj3i9Ipa) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF), [THREE1989](https://open.spotify.com/artist/43pUK083tLA3lk3JQr5ATn) | [Last Train](https://open.spotify.com/album/4XVsm1ov9k7FLTotdBG82G) | 3:37 |
 | 42 | [STARLIGHT](https://open.spotify.com/track/7gg611kXgkFXDwEdAAYSOD) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [STARLIGHT](https://open.spotify.com/album/3goLdwlEKJatLLNgVkRcxf) | 3:07 |
 | 43 | [IMA](https://open.spotify.com/track/4L9DM1h6qdDdHzv7b07Xlz) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju) | [IMA](https://open.spotify.com/album/2yMvBOJATTkn4wDhZZotIT) | 3:37 |
 | 44 | [CHASE](https://open.spotify.com/track/3phd1kWZKgyizFh63gcHMa) | [SPiCYSOL](https://open.spotify.com/artist/19C24gEiJyfC8b2IhuupfA) | [CHASE](https://open.spotify.com/album/59rUpax1sOQhOkh8v3R7JU) | 3:10 |
-| 45 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 |
+| 45 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
 | 46 | [It's all about you](https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr) | [Ovall](https://open.spotify.com/artist/5fajxqVLxJxAzMvZn0AGIv), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [It's all about you](https://open.spotify.com/album/2Nle2je0kLudi6kk0PJsuA) | 3:11 |
-| 47 | [エモめの夏](https://open.spotify.com/track/2o2yCUIo6XUIIselWfjKw3) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [DAILY BOP](https://open.spotify.com/album/1YOYK7r5fpf5dRJDr2KdOU) | 2:25 |
+| 47 | [pure](https://open.spotify.com/track/4SnHenrEeKJgZA8j8h4fzb) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [pure](https://open.spotify.com/album/6sWvjpeac8oh7gfmEWHZYA) | 3:45 |
 | 48 | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/track/2gqwCxvd7eVS07GGP1As3R) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [Hikari](https://open.spotify.com/artist/3MTt9WYmlzfy9uULNyxDiw) | [STAY TUNE \(feat\. ひかり\)](https://open.spotify.com/album/2hWP8xVmJ5JXdUUXkSHHnZ) | 3:46 |
 | 49 | [「あの娘は誰?」とか言わせたい](https://open.spotify.com/track/4oHcqir3Q8Rr8x7xJiGao4) | [KIRINJI](https://open.spotify.com/artist/0O1UtbTe4ca7HabaiMhYZ7) | [cherish](https://open.spotify.com/album/3hJezmiYPXSjbYEsJ0Xu30) | 4:39 |
 | 50 | [Adventure](https://open.spotify.com/track/0pDqeRO43GzZTNqrMbahJl) | [Momoko Kikuchi](https://open.spotify.com/artist/0gT302jqzDIhNWY8YpzDCs) | [ADVENTURE](https://open.spotify.com/album/1VBTH11KSAOmymdocgM4qR) | 4:39 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdY5tVYFPWb2.md) - [plain]
 | 59 | [Change My Life](https://open.spotify.com/track/2oqe9h6uLQ1jn48Mz4OQI6) | [THE RAMPAGE from EXILE TRIBE](https://open.spotify.com/artist/6E94YMM50nYraxpkixvQuW) | [Change My Life](https://open.spotify.com/album/0ta9f6bwpnvCMuVbb1RfHG) | 4:03 |
 | 60 | [SQUALL](https://open.spotify.com/track/6GDLmddnNU6v6AoyqnlvXD) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [SQUALL](https://open.spotify.com/album/665nMWjjVtin2BIuiy61SW) | 4:06 |
 
-Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDZkZWZiNTkxMDZkZjRmOTE3N2JlODg0Njc0YWE4MTQ2`
+Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDk4MTc4MjA5ODYzNTQ0ZWRlZWY4YTY5MTM2MmRlMmM1`

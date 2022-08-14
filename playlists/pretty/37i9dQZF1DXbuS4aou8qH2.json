@@ -1,12 +1,12 @@
 {
   "description": "The perfect jams on a perfect summer day. Cover: Doechii & SZA",
-  "num_followers": 9549,
+  "num_followers": 9661,
   "original_name": "SUMMA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDU3ZDFjYmYwY2NkMDE0ZDY5ZTg2OGUwMWY1NDRkN2Ji",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGVlZTcyMGY2NDRlZTFhNWYzZjI3MmVmMTBmM2RiYjMy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -443,38 +443,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "BILLIE EILISH.",
-        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
-      },
-      "artists": [
-        {
-          "name": "Armani White",
-          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
-        }
-      ],
-      "duration_ms": 99282,
-      "name": "BILLIE EILISH.",
-      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Never Sleep",
         "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
       },
@@ -495,6 +463,38 @@
       "duration_ms": 185785,
       "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
       "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "BILLIE EILISH.",
+        "url": "https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA"
+      },
+      "artists": [
+        {
+          "name": "Armani White",
+          "url": "https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA"
+        }
+      ],
+      "duration_ms": 99282,
+      "name": "BILLIE EILISH.",
+      "url": "https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Right On",
-        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        }
-      ],
-      "duration_ms": 213975,
-      "name": "Right On",
-      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Sleazy Flow (Remix)",
         "url": "https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 161355,
       "name": "Sleazy Flow (with Lil Baby) - Remix",
       "url": "https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Right On",
+        "url": "https://open.spotify.com/album/1dzpQiq9uhCaaeTGFmtn2p"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "duration_ms": 213975,
+      "name": "Right On",
+      "url": "https://open.spotify.com/track/6ws54n2IzyrIxxyzlG2bVJ"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1055,30 +1055,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
-        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
+        "name": "F.N.F. (Let's Go)",
+        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
       },
       "artists": [
         {
-          "name": "Kay Flock",
-          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
+          "name": "Hitkidd",
+          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
         },
         {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Dougie B",
-          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
-        },
-        {
-          "name": "Bory300",
-          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
         }
       ],
-      "duration_ms": 118249,
-      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
-      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
+      "duration_ms": 137579,
+      "name": "F.N.F. (Let's Go)",
+      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1103,22 +1095,30 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "F.N.F. (Let's Go)",
-        "url": "https://open.spotify.com/album/1FkcZKerCfWg4nUItVHf9B"
+        "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+        "url": "https://open.spotify.com/album/0Kr65MJsLayLENRXxrlW3Z"
       },
       "artists": [
         {
-          "name": "Hitkidd",
-          "url": "https://open.spotify.com/artist/5pR1zWq3UPsOpW1pTWayLf"
+          "name": "Kay Flock",
+          "url": "https://open.spotify.com/artist/2AMeiDbfU2vonrTkpXDKUu"
         },
         {
-          "name": "GloRilla",
-          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Dougie B",
+          "url": "https://open.spotify.com/artist/6ykgQbKcZFy5qoKBU4YiWj"
+        },
+        {
+          "name": "Bory300",
+          "url": "https://open.spotify.com/artist/77oGJAObEl8wdAUrknL1gH"
         }
       ],
-      "duration_ms": 137579,
-      "name": "F.N.F. (Let's Go)",
-      "url": "https://open.spotify.com/track/1vrFJDrysqmsNAgyjBzx4f"
+      "duration_ms": 118249,
+      "name": "Shake It (feat. Cardi B, Dougie B & Bory300)",
+      "url": "https://open.spotify.com/track/0RkCnqwF8Tfl2QGPZwopyk"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Ctrl (Deluxe)",
-        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 182068,
-      "name": "Tread Carefully",
-      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Ambition For Cash",
         "url": "https://open.spotify.com/album/3lMWNCoEQzdbb9lSZa5gv9"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 143480,
       "name": "Ambition For Cash",
       "url": "https://open.spotify.com/track/1tkipCYkIgti8f1tqjfcWe"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Ctrl (Deluxe)",
+        "url": "https://open.spotify.com/album/6FKP2O0oOvZlDkF0gyTjiJ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 182068,
+      "name": "Tread Carefully",
+      "url": "https://open.spotify.com/track/7newfXclX39UwWTw2gDswM"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 207474,
-      "name": "Playboy",
-      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "B.I.B.L.E.",
         "url": "https://open.spotify.com/album/6np2Ix6RidhSseqw2dZovP"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 201398,
       "name": "What\u2019s My Name (with Queen Naija & Coi Leray)",
       "url": "https://open.spotify.com/track/5m4TMhR7wQQGxelJa7lToQ"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1H60asyrMtrrOlieQIPtrI"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 207474,
+      "name": "Playboy",
+      "url": "https://open.spotify.com/track/1Cg51Jk6EoXBQ0KiwzWJfm"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Dance Now (with Kenny Mason)",
+        "url": "https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U"
+      },
+      "artists": [
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 227555,
+      "name": "Dance Now (with Kenny Mason)",
+      "url": "https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Zipcodes",
         "url": "https://open.spotify.com/album/49OiilOMo4qUuaIpNhc00S"
       },
@@ -1635,6 +1655,22 @@
       "duration_ms": 212878,
       "name": "Beautiful Lies",
       "url": "https://open.spotify.com/track/3BjwSq6phb60SOdTZw5pZY"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Playboy",
+        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 183349,
+      "name": "Ashawo",
+      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1731,42 +1767,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Playboy",
-        "url": "https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 183349,
-      "name": "Ashawo",
-      "url": "https://open.spotify.com/track/6459gZKddpOoPIH8PAcCwS"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "I NEVER LIKED YOU",
-        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 236186,
-      "name": "I'M ON ONE (feat. Drake)",
-      "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "blue water road",
         "url": "https://open.spotify.com/album/1fZRXWVJVe07UcD4GowJ8j"
       },
@@ -1787,18 +1787,26 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Out The Trunk",
-        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
       "artists": [
         {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
         }
       ],
-      "duration_ms": 224347,
-      "name": "Smoothies In 1991",
-      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
+      "duration_ms": 200377,
+      "name": "Day One (with Pharrell & Pusha T)",
+      "url": "https://open.spotify.com/track/2wgbyESBZ7xBkxYN2bSDOL"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1823,6 +1831,42 @@
       "duration_ms": 206250,
       "name": "Sunshine (feat. Lil Wayne & Childish Gambino)",
       "url": "https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "I NEVER LIKED YOU",
+        "url": "https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 236186,
+      "name": "I'M ON ONE (feat. Drake)",
+      "url": "https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Out The Trunk",
+        "url": "https://open.spotify.com/album/5d3B7aEbk5qvssQvlmQXJZ"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "Smoothies In 1991",
+      "url": "https://open.spotify.com/track/5hmv0zcBcIX8OIVG98imHa"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1859,42 +1903,6 @@
       "duration_ms": 180786,
       "name": "Bad Then A Beach (feat. Tory Lanez)",
       "url": "https://open.spotify.com/track/4DEwF4k5U2iwCwutoWUI3Q"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 230721,
-      "name": "Time N Affection",
-      "url": "https://open.spotify.com/track/0aMOalD335v1hsSXmLURzz"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Bitch I'm Nice",
-        "url": "https://open.spotify.com/album/1XME8elbyGZ3cmhq3rb7Vg"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 87037,
-      "name": "Bitch I'm Nice",
-      "url": "https://open.spotify.com/track/7u5fFWlc7P46XWECmhyqNo"
     }
   ],
   "unique_name": "SUMMA",

@@ -1,12 +1,12 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 104783,
+  "num_followers": 104869,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDc5NDY4YTk1MjFmNWE1ZDQ3ZjQ2YzRjYTY5MGFkNGFm",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDcwZTU4ODUyOWI2ZjQ1ZDRkOTQ0YTE3ZjM4Njg1YzMw",
   "tracks": [
     {
       "added_at": "2022-02-18 06:00:00",
@@ -767,38 +767,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Burbujas De Amor",
-        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
-      },
-      "artists": [
-        {
-          "name": "Luisita Peixoto",
-          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
-        }
-      ],
-      "duration_ms": 243684,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
-      },
-      "artists": [
-        {
-          "name": "Segundo Piso",
-          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Si Veo a Tu Mam\u00e1",
         "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
       },
@@ -827,6 +795,38 @@
       "duration_ms": 198000,
       "name": "D\u00e9jala que vuelva",
       "url": "https://open.spotify.com/track/56FZGghCNsEffwJF1wyagX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Llamas (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/0eYb5PlrKL31jDjvKWNGTG"
+      },
+      "artists": [
+        {
+          "name": "Segundo Piso",
+          "url": "https://open.spotify.com/artist/5qN0sPcoiBWKOXJw6b5659"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Me Llamas - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1NNNDr8YjI7oIzEksdi5ap"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Burbujas De Amor",
+        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
+      },
+      "artists": [
+        {
+          "name": "Luisita Peixoto",
+          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
+        }
+      ],
+      "duration_ms": 243684,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -883,18 +883,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Panacea Session, Vol. 2",
-        "url": "https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n"
+        "name": "Rojo",
+        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
       "artists": [
         {
-          "name": "Panacea Project",
-          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 216383,
-      "name": "Otra Vez",
-      "url": "https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ"
+      "duration_ms": 142000,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Panacea Session, Vol. 2",
+        "url": "https://open.spotify.com/album/0vVu8iHQmGTkfc0YwwtA0n"
+      },
+      "artists": [
+        {
+          "name": "Panacea Project",
+          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
+        }
+      ],
+      "duration_ms": 216383,
+      "name": "Otra Vez",
+      "url": "https://open.spotify.com/track/7hwhLO6kskiavCM8Xi6bpQ"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Me Reh\u00faso",
         "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 172839,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Rojo",
-        "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 142000,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Panacea Sessions, Vol. 1",
-        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
-      },
-      "artists": [
-        {
-          "name": "Panacea Project",
-          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
-        }
-      ],
-      "duration_ms": 227088,
-      "name": "La Bicicleta",
-      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Pobre De Ti",
         "url": "https://open.spotify.com/album/2wCNlBIDraaqMYzy6GV4sX"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 214838,
       "name": "Dembow - Acoustic Version",
       "url": "https://open.spotify.com/track/2DpBQ4fq4bEr2IZJ40s9Dy"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Panacea Sessions, Vol. 1",
+        "url": "https://open.spotify.com/album/2kDtNPi673aOjPw9Mn6iEt"
+      },
+      "artists": [
+        {
+          "name": "Panacea Project",
+          "url": "https://open.spotify.com/artist/2JPjEf17xC7Rp1lMpDZv7c"
+        }
+      ],
+      "duration_ms": 227088,
+      "name": "La Bicicleta",
+      "url": "https://open.spotify.com/track/5f3XhfWGMXQ4YTdqbmGLsZ"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Y Co\u0301mo Es E\u0301l?",
-        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+        "name": "Mis Covers, Vol. 3",
+        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
       },
       "artists": [
         {
-          "name": "Nara Gilberto",
-          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 231500,
-      "name": "Y Co\u0301mo Es E\u0301l?",
-      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+      "duration_ms": 231910,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Y Co\u0301mo Es E\u0301l?",
+        "url": "https://open.spotify.com/album/5CmwEq7NdDCZSLtl44Vu90"
+      },
+      "artists": [
+        {
+          "name": "Nara Gilberto",
+          "url": "https://open.spotify.com/artist/5H8qAk2IBifRhZK1BS8XFs"
+        }
+      ],
+      "duration_ms": 231500,
+      "name": "Y Co\u0301mo Es E\u0301l?",
+      "url": "https://open.spotify.com/track/3sTh8rnycgz4pBRqAd1V9y"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Ya no tiene novio",
         "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
       },
@@ -1215,18 +1231,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 3",
-        "url": "https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy"
+        "name": "Mamita (Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Carlo Gless",
+          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
         }
       ],
-      "duration_ms": 231910,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/0anEuO11FGUN4Y9hDHGuym"
+      "duration_ms": 142291,
+      "name": "Mamita - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 188789,
       "name": "Me Hace Tanto Bien - En Vivo",
       "url": "https://open.spotify.com/track/1gemIOvi0ybSilXyxNkk9J"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Mamita (Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/77TsvmLS36GDZBQuZM4asl"
-      },
-      "artists": [
-        {
-          "name": "Carlo Gless",
-          "url": "https://open.spotify.com/artist/0JHf76hafaLMLN3BXSCFBm"
-        }
-      ],
-      "duration_ms": 142291,
-      "name": "Mamita - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0L8h7Eo1LksZrT3vu4eRES"
     },
     {
       "added_at": "2022-02-18 06:00:00",

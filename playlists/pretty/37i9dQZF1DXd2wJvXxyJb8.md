@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 
 > Tudo o que está bombando e viralizando por aí!
 
-[Spotify](https://open.spotify.com/user/spotify) - 818,719 likes - 90 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 819,685 likes - 90 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd2wJvXxyJb8.md) - [plain]
 | 4 | [Vento Forte](https://open.spotify.com/track/5PSkF3QpVMlAx8U5Inxj39) | [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [Dj Tk](https://open.spotify.com/artist/0mfeoleda752Uj4JbEZDIN) | [Vento Forte](https://open.spotify.com/album/6eqgOX2XCH1I0LdJIMtMtT) | 2:03 |
 | 5 | [Baile no Morro](https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD) | [MC Tairon](https://open.spotify.com/artist/7ujbuq6hAjLSf7cGr6au0b), [Mc Vitin Da Igrejinha](https://open.spotify.com/artist/6junQmlAntqTBJPTYCq25a), [Dj Win](https://open.spotify.com/artist/04NtfTeul9H9B41tPvF3MG) | [Baile no Morro](https://open.spotify.com/album/0zk4s7xBJ8M2VoT0TTd230) | 2:20 |
 | 6 | [Escolhe o Bandido](https://open.spotify.com/track/3QxKHcpNt6CWNUYCLLBHeZ) | [MC CH da Z.O](https://open.spotify.com/artist/5cPFz5IHZH7LE8h2DOuhDA), [MC Myres](https://open.spotify.com/artist/4GeitETxoipNor9MyEEbYz), [Danado do Recife](https://open.spotify.com/artist/1m2ae8UiHCWhIARPw33Xhx), [eoo kendy](https://open.spotify.com/artist/0p0wrJX8lQEIbxCHU7JzIA), [Deyvinho PL](https://open.spotify.com/artist/6EjGbKRm2EruQW0ZAIKzoK) | [Escolhe o Bandido](https://open.spotify.com/album/1Xdq2uHOP7p6NQ2RRPrAp7) | 2:24 |
-| 7 | [Melo de Bafora o Lança 2022 \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Melo de Bafora o Lança 2022 \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 |
+| 7 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 |
 | 8 | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/track/0E0OENqh3jaZ4VpDFTOLGj) | [Mc Delux](https://open.spotify.com/artist/3l4fsEzoeabsET7ddv0lZW), [DJ ABDO](https://open.spotify.com/artist/5g1Ojx0MsvmNEjnVKGmHVw) | [EU BEM QUE TE AVISEI \- TU EMPINOU ELE PEI](https://open.spotify.com/album/3lPLg51Y7BDPRB4n8pLnNC) | 2:38 |
 | 9 | [Cachaça, Pinga e Puta](https://open.spotify.com/track/7IYnUFKOoVMFr3tJgbUSPm) | [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl), [Mc Koruja](https://open.spotify.com/artist/44AXaX2aJKSQhMxVTtNb0s), [Maax Deejay](https://open.spotify.com/artist/2fzhICndlL7ikUtUqSmlFq) | [Clima de Favela](https://open.spotify.com/album/7rlzngtff6KErutNwXxb4u) | 2:40 |
 | 10 | [Me Chama de Amor \- Arrochadeira Remix](https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5) | [O Tubarão](https://open.spotify.com/artist/5oqu436HPM9PGpNSlPBpAT), [Treyce](https://open.spotify.com/artist/2CxOaVqRvTLZAZ7nFnJhsU) | [Me Chama de Amor \(Arrochadeira Remix\)](https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq) | 2:09 |

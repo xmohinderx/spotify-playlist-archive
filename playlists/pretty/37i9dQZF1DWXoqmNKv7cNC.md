@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 
 > Mujeres a todo volumen\. En portada: The Warning
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,083 likes - 48 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,080 likes - 48 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [CHOKE](https://open.spotify.com/track/1GQv9r0tn00ZfHTw92jAcW) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [ERROR](https://open.spotify.com/album/0el7KHRPZwYXPwXNeSNdJB) | 3:51 |
 | 2 | [Duvet](https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM) | [bôa](https://open.spotify.com/artist/5jTtGLk1mGFMY5lQOvJYUj) | [Twilight](https://open.spotify.com/album/7sGYAV0xv7ZfAMzIpMl8m1) | 3:23 |
-| 3 | [Venus Fly Trap](https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 2:38 |
+| 3 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 |
 | 4 | [FBI](https://open.spotify.com/track/7Cb7KptiBrbDHaKKFN6iAn) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:24 |
-| 5 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 |
+| 5 | [Venus Fly Trap](https://open.spotify.com/track/6h7AmUi3ghBeEfsZygAxOd) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Ancient Dreams In A Modern Land](https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd) | 2:38 |
 | 6 | [We Appreciate Power](https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [HANA](https://open.spotify.com/artist/224Zsim3dmWXWYUXFuHv0o) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 5:35 |
 | 7 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 |
 | 8 | [Dualidad](https://open.spotify.com/track/73fEAatuIG7pWfTUHC8Ood) | [Vondré](https://open.spotify.com/artist/11uh9MySOy1TkjknybWRom) | [Dualidad](https://open.spotify.com/album/7B2B1gWf8uxlM75gnxCXtO) | 3:29 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXoqmNKv7cNC.md) - [plain]
 | 47 | [Golden Child](https://open.spotify.com/track/7FTbo2T1yZrn6EoSgy0eWT) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Immortelle](https://open.spotify.com/album/1J8qyiuSQ0LvDELnkvbEje) | 4:41 |
 | 48 | [Ikite Iru](https://open.spotify.com/track/5mJzC72lhxY3Bh9mlOfd5S) | [Neptuna](https://open.spotify.com/artist/6zucgTdBIrQ7ULFhw7MG1G) | [Ikite Iru](https://open.spotify.com/album/26U7D0QxDGkKhtw2sBCVRF) | 3:20 |
 
-Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDExNjc5NTI4ZDQzOGNmNTc5MWUzY2RlY2JhNTY3MjNh`
+Snapshot ID: `MTY1OTUwMDI4OCwwMDAwMDAwMDhmMDA0ODRjNzQ3Nzc1MDBjYzhlYWU5NTQwYzRmNzAw`

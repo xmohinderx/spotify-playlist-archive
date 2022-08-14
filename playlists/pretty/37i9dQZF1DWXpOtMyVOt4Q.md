@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,671 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,684 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 5 | [Building Steam With A Grain Of Salt](https://open.spotify.com/track/4cucslsiEgezV2o900Ykg3) | [DJ Shadow](https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI) | [Endtroducing.....](https://open.spotify.com/album/4wvqGLk1HThPA0b5lzRK2l) | 6:39 |
 | 6 | [Never Mess With Sunday](https://open.spotify.com/track/1sotD6Cn8aOtUsL0bd5HTJ) | [Yppah](https://open.spotify.com/artist/3Gaqw2nGyE7yM3rcRSzE3U) | [Ninja Tune XX \(Volume 2\)](https://open.spotify.com/album/61bYJTYERgYGSgFUamgTCa) | 3:16 |
 | 7 | [Anything You Synthesize \- Ambient](https://open.spotify.com/track/0OF6WSdeVmYEGBZlxvwvLq) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 4:08 |
-| 8 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
-| 9 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
+| 8 | [Greenland](https://open.spotify.com/track/7hlBb5jUQH764VF99CinP4) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:11 |
+| 9 | [Your Hand In Mine](https://open.spotify.com/track/4sYn64V9gqP6bpkOGw5B9k) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [The Earth Is Not a Cold Dead Place](https://open.spotify.com/album/49buCcKCJwxvdl0R2dMoIU) | 8:16 |
 | 10 | [Smoke & Mirrors](https://open.spotify.com/track/2C1nOw1nRxJaBWb9I1x05A) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Deadringer: Deluxe](https://open.spotify.com/album/7DmNwRBDJRUEFUlk3oa2Aj) | 4:26 |
 | 11 | [I Can Almost See You](https://open.spotify.com/track/11n8LudggXuZXmldSlAadR) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Raising Your Voice..\. Trying to Stop an Echo \(Deluxe Edition\)](https://open.spotify.com/album/2AbCfihy80zuR1mPwN5yLl) | 4:15 |
 | 12 | [Aquarium](https://open.spotify.com/track/4ZOv9mx6Lz7RRaBFi5UNaE) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Views/Octopus EP](https://open.spotify.com/album/3L4wUhGelZ8wyJ13O1jerU) | 3:04 |
 | 13 | [My Only Swerving](https://open.spotify.com/track/4q26ViixkilRLjl1MdLABS) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:14 |
 | 14 | [L](https://open.spotify.com/track/6brTu7TkwXtFMjQgcxkMA4) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Awake](https://open.spotify.com/album/0GjrPTT00KWsalUi8jnpR9) | 4:37 |
-| 15 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
-| 16 | [Eyesdown](https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 5:26 |
-| 17 | [Nevergreen](https://open.spotify.com/track/0PC5KYZpygPcpeq063k4Kj) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:35 |
+| 15 | [Nevergreen](https://open.spotify.com/track/0PC5KYZpygPcpeq063k4Kj) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 3:35 |
+| 16 | [Everything You Do Is A Balloon](https://open.spotify.com/track/4OO2lavE7yz5Ane6fEYXp3) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Hi Scores](https://open.spotify.com/album/3FabCzGQgFLqkCqzceB5ii) | 7:03 |
+| 17 | [Eyesdown](https://open.spotify.com/track/0XiHcuUEf1wmvmX1cOaVR9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 5:26 |
 | 18 | [Places](https://open.spotify.com/track/3RN6IMCkcJr44Xm7tdWWaK) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 5:02 |
 | 19 | [Start Shootin'](https://open.spotify.com/track/4IUgpL0CgSiloUOHzgd6Qe) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Mickey Mouse Operation](https://open.spotify.com/album/2ULdmAtiIIn5xok5YCVGpk) | 3:36 |
 | 20 | [Cream On Chrome](https://open.spotify.com/track/0yzfkTH0QKIAYVeTex1NKJ) | [Ratatat](https://open.spotify.com/artist/57dN52uHvrHOxijzpIgu3E) | [Magnifique](https://open.spotify.com/album/5bFeGIVw5pGnLamK7eVSef) | 4:15 |
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 24 | [Hours](https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:44 |
 | 25 | [Aminals](https://open.spotify.com/track/17RkpFRsRKCNSX7WfxX2qi) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:18 |
 | 26 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 |
-| 27 | [A Beautiful Mine](https://open.spotify.com/track/7aRJmzl622nk2qhnUxc1fV) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/5GBO4ql3H9w2UV00RAFApk) | 5:29 |
-| 28 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 |
+| 27 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 |
+| 28 | [A Beautiful Mine](https://open.spotify.com/track/7aRJmzl622nk2qhnUxc1fV) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/5GBO4ql3H9w2UV00RAFApk) | 5:29 |
 | 29 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
 | 30 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 |
 | 31 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 |
 | 32 | [In The Twilight](https://open.spotify.com/track/5wfgLASWmbbLjNkbXsbs8t) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [The Cold in You](https://open.spotify.com/album/0vNplpx6d7yYXn4k6coarh) | 6:26 |
 | 33 | [Melanine](https://open.spotify.com/track/5uTnqjoCiHCZJ3TmQpOhpH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 2:53 |
 | 34 | [Another Day \(revised\)](https://open.spotify.com/track/6Xr3Ii4HyMcatwsQgq1iOD) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 4:21 |
-| 35 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
-| 36 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
+| 35 | [What You Love You Must Love Now](https://open.spotify.com/track/2R7bTCbxSrVlHkZDaQbVs2) | [The Six Parts Seven](https://open.spotify.com/artist/3puKPIXi7bUDnPuJZOlJxL) | [Everywhere And Right Here](https://open.spotify.com/album/1hC3Tr1axplzxjGLEXSNf5) | 5:22 |
+| 36 | [A Song That Will Help You Remember to Forget](https://open.spotify.com/track/0itMKInovica9ugQZRTx5p) | [Slow Dancing Society](https://open.spotify.com/artist/4DTUmkn8z1XIzHPr5b0yEc) | [The Sound of Lights When Dim](https://open.spotify.com/album/3WaoN1PHxKk87nuBv8WtwP) | 6:14 |
 | 37 | [Fanshawe](https://open.spotify.com/track/4p0Yp2fnqydGVEgIE2p60X) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0) | [El Ten Eleven](https://open.spotify.com/album/6bv070I2PgzwGLgYGBxaJW) | 5:12 |
 | 38 | [Breathturn](https://open.spotify.com/track/3cG2iuhY6uzUwrmr7HmwWH) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Chasing After Shadows..\. Living With the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/1Trf9tr74LtVRBRqAJjnxS) | 6:00 |
 | 39 | [Third](https://open.spotify.com/track/3BmtVxAg1jr2sw4WaPHdoz) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Third EP](https://open.spotify.com/album/7uZjhHZv5OKWRj2ar3Y84u) | 4:46 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Sleeper](https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws) | [Pray for Sound](https://open.spotify.com/artist/3pmb6EnakP15oTPwkUndJx) | [Dreamer](https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu) | 5:32 |
 | 60 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 |
 
-Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDRkZWE4NWQ3N2Y4NGY1NWM5YzdkZTc4YmI3OTYxYWYz`
+Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDExMzhmNmQ1N2U2MmZhZmMzZjU1OTM0MzQ0Mzg0ZTcx`

@@ -1202,6 +1202,24 @@
     },
     {
       "album": {
+        "name": "Burning Love",
+        "url": "https://open.spotify.com/album/7MLEP4Ik41myE0hJnFcjt2"
+      },
+      "artists": [
+        {
+          "name": "santyskies",
+          "url": "https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350505,
+      "name": "Burning Love",
+      "url": "https://open.spotify.com/track/0YjoKktjL95d6bCszZits7"
+    },
+    {
+      "album": {
         "name": "Hikima - Creativity",
         "url": "https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3"
       },
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 213083,
       "name": "Clear (Eight-Circuit Mix)",
       "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
@@ -2241,7 +2259,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 767583,
       "name": "En Bas Tu Vois",
       "url": "https://open.spotify.com/track/7lvr6IFQGQPEBlV9aWBKKv"
@@ -4609,7 +4627,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 247478,
       "name": "Oiran II",
       "url": "https://open.spotify.com/track/0naafZLsLgvHp3JZu52HUH"
@@ -7225,7 +7243,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 1173500,
       "name": "We Lay Down in a Field of Orange Flowers and We Listened to the Birds",
       "url": "https://open.spotify.com/track/25np9YI8L2IWtcxDoTFgoG"
@@ -7261,7 +7279,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 434565,
       "name": "What's A Girl To Do",
       "url": "https://open.spotify.com/track/4U5e1DoKCDNvAlx0WnUv9h"

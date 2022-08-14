@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 
 > A new shade of Country\. Cover: Kelsey Waldon
 
-[Spotify](https://open.spotify.com/user/spotify) - 391,738 likes - 120 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 391,918 likes - 120 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUgBy0IJPlHq.md) - [plain]
 | 8 | [Problem With It](https://open.spotify.com/track/1hCrL9BjC03mTYR5905Q9k) | [Plains](https://open.spotify.com/artist/1vxqrtPBBQWCuoAcJqVCph), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF), [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Problem With It](https://open.spotify.com/album/66ydaWFaxPBMBGmegJBDDR) | 3:32 |
 | 9 | [Waxahachie](https://open.spotify.com/track/1ksaL982agSeYAAUQlYrx5) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Palomino](https://open.spotify.com/album/69z5d2iu6PdaRZWvx8YVUl) | 3:29 |
 | 10 | [All I Needed](https://open.spotify.com/track/2VUNlM2B9OqF1A4R7mqCrB) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [Chicamacomico](https://open.spotify.com/album/4oOoEXroTRo6DePYVOrl5B) | 2:59 |
-| 11 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Songs From Bell Bottom Country](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
+| 11 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 12 | [Staring Down the North](https://open.spotify.com/track/4WNsQR8HnXcoyylyjLVENg) | [Tylor & the Train Robbers](https://open.spotify.com/artist/56uv6W81FBAmalvwAIX67F) | [Non\-Typical Find](https://open.spotify.com/album/4QKU72PCx4PgB5LTKS3Ou7) | 4:49 |
 | 13 | [One More Night](https://open.spotify.com/track/0NwmPeStDzdgT9wKxrfTvi) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5) | [One More Night](https://open.spotify.com/album/3hjJpCE83GDNugliCAXZCt) | 3:46 |
 | 14 | [Paradise](https://open.spotify.com/track/03oJ08eFsEOll82tHJNAY3) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/4hCtJiXI3q5gQAydvchzYh) | 3:18 |

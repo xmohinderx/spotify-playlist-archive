@@ -1,12 +1,12 @@
 {
   "description": "Blues guitar heroes of today. Cover: Kirk Fletcher",
-  "num_followers": 13027,
+  "num_followers": 13048,
   "original_name": "Modern Blues Guitar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDJlMmMzNDQ0MDU4NTNmYWM0OGVlY2FkYmRlNzlhOTg1",
+  "snapshot_id": "MTY1MjQxNDUyMCwwMDAwMDAwMDc4OTM0ODQ4OWY0NmFlMjQ5ZmUxMmRlYjgyOTBhMmI3",
   "tracks": [
     {
       "added_at": "2020-10-21 17:37:12",
@@ -789,6 +789,22 @@
       "url": "https://open.spotify.com/track/1dA1yyrPmoqKfqXxMX2brl"
     },
     {
+      "added_at": "2020-10-21 17:37:12",
+      "album": {
+        "name": "Rock Bottom",
+        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
+      },
+      "artists": [
+        {
+          "name": "Michael Landau",
+          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
+        }
+      ],
+      "duration_ms": 197237,
+      "name": "Gettin Old",
+      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
+    },
+    {
       "added_at": "2021-06-04 04:01:00",
       "album": {
         "name": "Shufflin' West Coast",
@@ -835,22 +851,6 @@
       "duration_ms": 262536,
       "name": "Shufflin' West Coast",
       "url": "https://open.spotify.com/track/35znJMAm3GhjLwY9o3KiSG"
-    },
-    {
-      "added_at": "2020-10-21 17:37:12",
-      "album": {
-        "name": "Rock Bottom",
-        "url": "https://open.spotify.com/album/137DEWrKTsMmQWsixCEyfV"
-      },
-      "artists": [
-        {
-          "name": "Michael Landau",
-          "url": "https://open.spotify.com/artist/6kXe2uPLJcKyNrSUmR21Cw"
-        }
-      ],
-      "duration_ms": 197237,
-      "name": "Gettin Old",
-      "url": "https://open.spotify.com/track/706ZgJOItrsyuJFLvh2JKl"
     },
     {
       "added_at": "2021-09-03 04:01:00",

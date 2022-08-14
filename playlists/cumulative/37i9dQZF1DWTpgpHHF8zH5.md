@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-196 songs - 10 hr 0 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
+197 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-06 |  |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-05-06 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-05-06 |  |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-06-03 |  |
 | [Superstar](https://open.spotify.com/track/1lzvNTzq0v7qZcpZCnxD79) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Superstar](https://open.spotify.com/album/6EjJR3kzzAmsCLpja0YtS7) | 3:21 | 2022-05-16 | 2022-07-29 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-05-06 | 2022-07-29 |
@@ -191,7 +192,7 @@
 | [What A Man Gotta Do](https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [What A Man Gotta Do](https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p) | 3:00 | 2022-07-22 |  |
 | [What Does It Matter](https://open.spotify.com/track/5hZJBAewYu2J5YNcuZZ3sx) | [Maxiz](https://open.spotify.com/artist/0tPvS7MPWR6z5WTN1dDqN3) | [What Does It Matter](https://open.spotify.com/album/52Vd6fMrwJv7Ew4mZe1sx6) | 2:21 | 2022-05-06 | 2022-05-25 |
 | [What Love Is](https://open.spotify.com/track/39pr29s4Nv7V6DqFwmjrQg) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Heaven in a World so Cold](https://open.spotify.com/album/75UdpT0U3k3qfxq5p68UTY) | 3:14 | 2022-05-06 | 2022-07-14 |
-| [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2022-07-22 |  |
+| [What Other People Say](https://open.spotify.com/track/2h9TDNEXRhcDIV3fsoEVq9) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [What Other People Say](https://open.spotify.com/album/0VzqGKZQDQLSse6W0hgABW) | 3:14 | 2022-07-22 | 2022-08-14 |
 | [What's Love Got to Do with It](https://open.spotify.com/track/3Be7CLdHZpyzsVijme39cW) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It](https://open.spotify.com/album/1JFKchcdu3ewuhA5PIHWno) | 3:28 | 2022-07-22 |  |
 | [Where Are You Now](https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Where Are You Now](https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD) | 2:28 | 2022-05-06 |  |
 | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/track/2tsArM8er9gkqiN4XiaW3r) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [John Martin](https://open.spotify.com/artist/2auikkNYqigWStoHWK1Grq) | [Wherever You Go \(feat\. John Martin\)](https://open.spotify.com/album/1mkiHxOjzK6O2WxQgyO4Hd) | 3:20 | 2022-05-06 | 2022-07-29 |

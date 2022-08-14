@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 
 > Os grandes artistas da MPB\. Foto: Gilberto Gil
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,219,580 likes - 88 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,219,762 likes - 88 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 63 | [Back in Bahia \- Ao vivo](https://open.spotify.com/track/42XOOCltwfAiy8AdUHA4MT) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Dois Amigos, Um Século de Música: Multishow Live](https://open.spotify.com/album/5wkh8zB5DgWzdbyrjWwN8r) | 2:24 |
 | 64 | [Não É um Bolero](https://open.spotify.com/track/25D9YD6JDfQnWzPqgM9osJ) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Vidas Pra Contar](https://open.spotify.com/album/1oUVz3XYuycGaodvUPce2M) | 4:21 |
 | 65 | [Metamorfose Ambulante](https://open.spotify.com/track/2Yk0HvfTaijA47aM0Fj88u) | [Raul Seixas](https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu) | ["Krig\-Ha, Bandolo"](https://open.spotify.com/album/2xRddGxRH0KdDWLNE5b0iu) | 3:51 |
-| 66 | [Espelhos D'água](https://open.spotify.com/track/4QuKUXkg7eaNgxdtkUIeSL) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/49I70bzY27d4gQaqdOdakq) | 4:51 |
+| 66 | [Espelhos d'Água](https://open.spotify.com/track/2O7xS5JAHwGqetnkuhvLuJ) | [Patricia Marx](https://open.spotify.com/artist/43bh4WLBq3yxN3kIucxnHE), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Trinta](https://open.spotify.com/album/0LD0biXNzFwRPOTSt4KYVk) | 4:51 |
 | 67 | [Rosa de Hiroshima](https://open.spotify.com/track/5BUmMyyJviZZ5XxVyfUAjO) | [Secos & Molhados](https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm) | [Gigantes](https://open.spotify.com/album/0hIgIeXzJlQEEDQcrKJ6Wv) | 1:58 |
 | 68 | [O Mundo É Um Moinho](https://open.spotify.com/track/1xCbDvw3UNReOWq9BbAThc) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 3:55 |
 | 69 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FSYmdU9mbT.md) - [plain]
 | 87 | [Oba, Lá Vem Ela](https://open.spotify.com/track/4u0Xdy7BizHLrcPIf7c6h2) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Favourites: From Samba Esquema Novo 1963 To Africa Brasil 1976](https://open.spotify.com/album/1jJXtCHztoIKiSG8IbLmq0) | 4:14 |
 | 88 | [O Bêbado e a Equilibrista](https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU) | [João Bosco](https://open.spotify.com/artist/3DF0ClNOUuvS3gh8V8sRJH), [Angela Maria](https://open.spotify.com/artist/4SKChJZZUJd8fD4ZbkpL6l) | [Linha De Passe](https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH) | 3:20 |
 
-Snapshot ID: `MTY1NjA5NzY1NCwwMDAwMDAwMGQxY2ZmNjU1M2E3YWJkYmIxNjM0MzY2ZTdiYWZiN2Fk`
+Snapshot ID: `MTY1NjA5NzY1NCwwMDAwMDAwMDJmMjkwNzA4MDNkOGEyYjMyNWJmNzE5NGE0ZjQ3MWIw`

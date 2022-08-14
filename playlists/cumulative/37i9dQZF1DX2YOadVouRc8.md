@@ -4,7 +4,7 @@
 
 > Slow jams from West Africa that unwind and relax
 
-85 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
+86 songs - 4 hr 30 min - [published](https://open.spotify.com/playlist/1py77qQXoVwE0Vmpffvuvp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,11 +26,12 @@
 | [Brunch](https://open.spotify.com/track/2uka2kAlD8m3yUXT0iZKv6) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm) | [Brunch](https://open.spotify.com/album/2cQ86acGp5LQatlnXdrDec) | 3:01 | 2022-06-09 |  |
 | [Can You See Her](https://open.spotify.com/track/6ClDzvO4Ys2FAYXEBAqRJ3) | [Tha Beatsmith](https://open.spotify.com/artist/0jlnkOITm8T6aR98XB1y6O), [Ogranya](https://open.spotify.com/artist/2Y4GWlZVnj2QoLJb5r85of) | [Vanity](https://open.spotify.com/album/2NNV633QV0mNfqRDoFx0q0) | 3:44 | 2022-06-09 |  |
 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 | 2022-07-28 |  |
-| [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 | 2022-06-09 |  |
+| [Chigal](https://open.spotify.com/track/4EVzgtfcg5kMEnKEpDv2bL) | [Sinachi](https://open.spotify.com/artist/3Oo9PudiVUZjuCdJBBn4si) | [Chigal](https://open.spotify.com/album/48unx5t6zGTXFtMDhElQIK) | 2:06 | 2022-06-09 | 2022-08-14 |
 | [CLOUD 9](https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [CLOUD 9](https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx) | 3:08 | 2022-06-09 |  |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-07-08 |  |
 | [Confession](https://open.spotify.com/track/2yIUb32c5s0cjMFuQJKTy7) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [What Have We Done](https://open.spotify.com/album/2hYF39ZoQ7zf9bXHi0Qe9n) | 3:00 | 2022-06-09 |  |
 | [Confident](https://open.spotify.com/track/0rMiP3sIxMZu7bIaSXWRXu) | [Savage](https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Confident](https://open.spotify.com/album/0biMdg0M95TBDaREsTiB23) | 3:05 | 2022-06-09 |  |
+| [Crayons](https://open.spotify.com/track/3o5ImZ1yj1FoV4nkuAsbe1) | [Preyé](https://open.spotify.com/artist/6dbTmlL5brq9B2fkUj2MQD) | [Crayons](https://open.spotify.com/album/6HZYUn33trHEZ78tFsFnCS) | 2:23 | 2022-08-12 |  |
 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 | 2022-06-09 |  |
 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 | 2022-06-09 |  |
 | [Dutty Love](https://open.spotify.com/track/6k7TGPkAitlkUamq2maMNT) | [Ojahbee](https://open.spotify.com/artist/0PssYXDV1kjmSuUVkxEQkY), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Dutty Love](https://open.spotify.com/album/5PJtsGGSWAP8qDTVu0zXJ4) | 2:51 | 2022-06-09 |  |

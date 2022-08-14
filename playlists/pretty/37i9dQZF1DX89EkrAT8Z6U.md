@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > the perfect fight scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,404 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,497 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 29 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
 | 30 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
 | 31 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 |
-| 32 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
-| 33 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
+| 32 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
+| 33 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
 | 34 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
 | 35 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
 | 36 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 43 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 44 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 45 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
-| 46 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
-| 47 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
+| 46 | [インフェルノ](https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [Attitude](https://open.spotify.com/album/3bRSI9DOQA2KdJ7t6zdW0V) | 3:31 |
+| 47 | [The Law of Recognition](https://open.spotify.com/track/4DPYOF6Tvptit1xDUbOo8o) | [KYSLINGO](https://open.spotify.com/artist/2JdZlNYqYJ8xY0a5nFlXdO) | [The Law of Recognition](https://open.spotify.com/album/6ZvIedykZIKjNhYoPxozOB) | 2:09 |
 | 48 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 49 | [uhh](https://open.spotify.com/track/3iDQnloxYVrnzE0eNZ85en) | [framed](https://open.spotify.com/artist/6qW2MCeqjNlMwiLl0JPbuZ) | [Uhh](https://open.spotify.com/album/3PgoWZSSEFdI0f5gektpdn) | 1:23 |
 | 50 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 56 | [Zoom!](https://open.spotify.com/track/1Vv93qCC50ckZdeXh7Etln) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Zoom!](https://open.spotify.com/album/10WMv6j9OpkTHVafzM3JSx) | 2:07 |
 | 57 | [THE DAY](https://open.spotify.com/track/1tjOClAkdMxDfYPO0xvGbG) | [PornoGraffitti](https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6) | [Butterfly Effect](https://open.spotify.com/album/01X3RZ75rwi431u8hB34eK) | 4:01 |
 | 58 | [A Cruel Angel's Thesis \(Director's Edit Version\)](https://open.spotify.com/track/3x4378ztiLvFmm2nuzEI0C) | [Yoko Takahashi](https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t) | [Neon Genesis Evangelion \(Original Series Soundtrack\)](https://open.spotify.com/album/4vwgTxjKwiSWfEoGOqhiWa) | 4:05 |
-| 59 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 60 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
+| 59 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
+| 60 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 61 | [Led](https://open.spotify.com/track/2tewsqBBUALqKedOrnU1AT) | [GOTOU寄生獣](https://open.spotify.com/artist/3lBMiwsMDQZItXes0VxBsJ), [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Led](https://open.spotify.com/album/2RIYeR7qaek1c8BNIBsq0a) | 2:14 |
-| 62 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
-| 63 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 62 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
+| 63 | [Go!](https://open.spotify.com/track/4Fd2jLQspwZVv7hF3bXHFg) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [Go!](https://open.spotify.com/album/2e1GXVnwfl6zGCigos6g4w) | 2:40 |
 | 64 | [Dead on Arrival](https://open.spotify.com/track/2wYJ7AszuzxSdb0yOjirKQ) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Dead on Arrival](https://open.spotify.com/album/0PBdPsVuk89l7nPv5IJFLx) | 2:52 |
-| 65 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
-| 66 | [She Bad](https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT) | 1:45 |
+| 65 | [She Bad](https://open.spotify.com/track/7yF19wC6msoj2cGUEtlm1S) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/4qfFCBcWN7Z1SJxZoEAXcT) | 1:45 |
+| 66 | [Bars No Jutsu](https://open.spotify.com/track/5H9VMgnzuU62NYzWdJlqae) | [Louis Capone](https://open.spotify.com/artist/29zXTjItl1yrV99QZQxECu) | [Bars No Jutsu](https://open.spotify.com/album/0bvzkMcYdnGAqgrD8pKAWT) | 2:28 |
 | 67 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 |
 | 68 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 |
 | 69 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 |
 | 70 | [chichen itza](https://open.spotify.com/track/7nLbEx8juSAeanLzMjYhpT) | [zecki](https://open.spotify.com/artist/3hmaJ9tTvaDVTrJyHPO9T0) | [chichen itza](https://open.spotify.com/album/2q4Iee4RTN2CiPasPyY2vm) | 2:11 |
 | 71 | [the WORLD](https://open.spotify.com/track/1g0SlTCGN9j3OicWHfSKEn) | [Nightmare](https://open.spotify.com/artist/11CxpTfZC60MYKjL7HESKR) | [the WORLD Ruler](https://open.spotify.com/album/1QnwkCaZYTMXlAk4b9DZJ2) | 3:48 |
 | 72 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
-| 73 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
-| 74 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
-| 75 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
+| 73 | [I'm Toxic](https://open.spotify.com/track/6aLzDW8TlgccoWycY99mfU) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [I'm Toxic](https://open.spotify.com/album/0LbmzupwRcQfKfF2VQr4q0) | 1:56 |
+| 74 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
+| 75 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 
-Snapshot ID: `MTY2MDMzNDE2MywwMDAwMDAwMGZlYjY4ZjdjZDA0N2I4ZDkyOWVkMDg5NGJkYzQ3MTBm`
+Snapshot ID: `MTY2MDMzNDE2MywwMDAwMDAwMDY2MGU3M2Q4OWVmN2NkNDExMjBiNTFmNjEzMGUwMmFi`

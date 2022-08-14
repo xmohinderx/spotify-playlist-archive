@@ -4,7 +4,7 @@
 
 > Instrumental bliss beyond genre classification.
 
-176 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
+177 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/0oD5iC51KNsAwsn7m40tDg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Full Panther](https://open.spotify.com/track/7q4kf5pGKXWT3HShalid99) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Full Panther](https://open.spotify.com/album/6NnHFMmeDC1R31eheMh725) | 3:23 | 2021-10-15 | 2022-03-31 |
 | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n) | [Brainwaltzera](https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB) | [Fwd: Re: late \(Ref.: karoshi\)](https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s) | 6:01 | 2022-01-19 |  |
 | [Get There](https://open.spotify.com/track/4QzQFNQnwNqmdOKwkfWeTi) | [Evil Needle](https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS) | [Souvenirs](https://open.spotify.com/album/0762wvRziSk7teli97iy1A) | 4:33 | 2021-10-15 | 2022-01-04 |
-| [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2022-07-08 |  |
+| [Go \(Otik Remix\)](https://open.spotify.com/track/0LF47HeMZteqsbcQRk1hkJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Otik](https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB) | [Go \(Otik Remix\)](https://open.spotify.com/album/0ybL4M8dUUD1YaxxUTVUcI) | 4:05 | 2022-07-08 | 2022-08-14 |
 | [Goddess Calling](https://open.spotify.com/track/4npxPQ7jYsO9RL6aN9EDjl) | [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [She's Calling EP](https://open.spotify.com/album/4QIzvwiurfYaLWAATLXU0N) | 7:40 | 2021-10-15 | 2022-01-21 |
 | [Gripper](https://open.spotify.com/track/1Ic1HKNFUzgomJECOGpg1X) | [Robin Ball](https://open.spotify.com/artist/3BkQkIMX2qIvwRgUQoxk15) | [X To C](https://open.spotify.com/album/7upSj25Yd2zUW2AneFDlfu) | 7:42 | 2021-10-15 | 2022-01-20 |
 | [Harmonic Frequencies](https://open.spotify.com/track/2U2dlU4ELCrmUOnojBsMcT) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Harmonic Frequencies](https://open.spotify.com/album/4KI8PM8G8iT5tc2yAz3PBl) | 4:10 | 2021-10-15 | 2022-01-11 |
@@ -154,6 +154,7 @@
 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 | 2022-04-22 |  |
 | [Talaria](https://open.spotify.com/track/2OAPybo0X5gpwyMAEnkJFA) | [Scuba](https://open.spotify.com/artist/48hZklIMPklae2Mssfp8Cx) | [Talaria](https://open.spotify.com/album/6kZQMVK65YS2g3UuKZF1N2) | 5:15 | 2022-01-13 | 2022-07-16 |
 | [Talk to Me](https://open.spotify.com/track/2bfLkpwxog2kK4QeJf6I3T) | [autumn keys](https://open.spotify.com/artist/1S7PwtEKL0mdNtfgGJtINy) | [Harvest](https://open.spotify.com/album/5p5ThNG5wCLVhJWDZgSujY) | 3:42 | 2021-10-15 | 2022-01-20 |
+| [Tapestry \- Edit](https://open.spotify.com/track/7zFeaYojjxdXbP3CjLHlQn) | [Dainty](https://open.spotify.com/artist/7qz5GofoKgs2V3bSP5quAr) | [Tapestry](https://open.spotify.com/album/2M3uW6aDFhw8vEOxUZlC84) | 3:42 | 2022-08-13 |  |
 | [Taurus](https://open.spotify.com/track/6uoAE0LHNKqNsL6Jk6uwUV) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9) | [Taurus](https://open.spotify.com/album/6TqFTkO65uFJ1Lyn0bGD0G) | 4:42 | 2022-01-14 |  |
 | [TEMPERATE](https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0) | [Sunsick](https://open.spotify.com/artist/0bXf3YSy8qNsLYYNy5vs5v) | [Firstsun](https://open.spotify.com/album/0cCW4DkYaH4YHeDmnlYyKe) | 4:19 | 2022-01-11 |  |
 | [The Accident](https://open.spotify.com/track/41Ff5UlYl58MBR4hpLSHSl) | [Eli Keszler](https://open.spotify.com/artist/2YfqCdQFDp4c0s8F5Lkk4z) | [The Accident](https://open.spotify.com/album/42msjp6Mvx8xMtBANlKuT9) | 4:36 | 2021-10-15 | 2022-02-10 |

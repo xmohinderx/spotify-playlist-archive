@@ -1,12 +1,12 @@
 {
   "description": "Unwind to these easy classics from the 2010s...",
-  "num_followers": 243682,
+  "num_followers": 243825,
   "original_name": "Easy 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMGQyYTU1NDc1OGYxOGEwODc2NzUxNDJhNzk0NjQ5NjNj",
+  "snapshot_id": "MTY0MjUwNTU4NywwMDAwMDAwMGVlNWQxMjMyMDNiNmNmMGEwMTg0NDhjNzY4NGJjOGFj",
   "tracks": [
     {
       "added_at": "2020-07-08 17:53:44",
@@ -227,22 +227,6 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Voicenotes",
-        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 208786,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
         "name": "Recovery",
         "url": "https://open.spotify.com/album/47BiFcV59TQi2s9SkBo2pb"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 263373,
       "name": "Love The Way You Lie",
       "url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
+        "name": "Voicenotes",
+        "url": "https://open.spotify.com/album/0mZIUXje90JtHxPNzWsJNR"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 208786,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -843,6 +843,22 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+    },
+    {
+      "added_at": "2020-07-08 17:53:44",
+      "album": {
         "name": "A Place We Knew",
         "url": "https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 240013,
       "name": "Waves",
       "url": "https://open.spotify.com/track/6w8pFOKn42O418qwcQElZ3"
-    },
-    {
-      "added_at": "2020-07-08 17:53:44",
-      "album": {
-        "name": "Take Me Home (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
-      },
-      "artists": [
-        {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-        }
-      ],
-      "duration_ms": 219040,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
     },
     {
       "added_at": "2020-07-08 17:53:44",
@@ -891,18 +891,18 @@
     {
       "added_at": "2020-07-08 17:53:44",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+        "name": "Take Me Home (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2sWX3HYnZjPZ9MrH6MFsBt"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
         }
       ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
+      "duration_ms": 219040,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj"
     },
     {
       "added_at": "2020-07-08 17:53:44",

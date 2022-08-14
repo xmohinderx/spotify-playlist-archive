@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Alfredo Olivas en portada.",
-  "num_followers": 294569,
+  "num_followers": 295144,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMDIyOTM5Y2EwMTI5NWMxNmQ4MTg0MGEyYjdmY2JmZmI2",
+  "snapshot_id": "MTY1OTY3NTYwMCwwMDAwMDAwMDQzZjNjY2U3MTU5ZTljYWM5NzUyY2NlZThjOWJlZjVk",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -231,18 +231,22 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+        "name": "Hublot",
+        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
       },
       "artists": [
         {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
         }
       ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
+      "duration_ms": 225250,
+      "name": "Hublot",
+      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -263,22 +267,18 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Hublot",
-        "url": "https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG"
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
       },
       "artists": [
         {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 225250,
-      "name": "Hublot",
-      "url": "https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb"
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -689,22 +689,6 @@
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
-      "added_at": "2022-03-11 06:00:00",
-      "album": {
-        "name": "Chalino",
-        "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 214243,
-      "name": "Chalino",
-      "url": "https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8"
-    },
-    {
       "added_at": "2022-02-22 21:59:42",
       "album": {
         "name": "Bonita",
@@ -719,6 +703,22 @@
       "duration_ms": 201084,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+    },
+    {
+      "added_at": "2022-03-11 06:00:00",
+      "album": {
+        "name": "Chalino",
+        "url": "https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 214243,
+      "name": "Chalino",
+      "url": "https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8"
     },
     {
       "added_at": "2022-07-15 05:00:00",
@@ -985,22 +985,6 @@
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
-      "added_at": "2022-02-04 06:00:00",
-      "album": {
-        "name": "Soy de Sinaloa",
-        "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 161690,
-      "name": "Soy de Sinaloa",
-      "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
-    },
-    {
       "added_at": "2022-06-20 22:08:45",
       "album": {
         "name": "Coraz\u00f3n M\u00e1gico",
@@ -1031,6 +1015,22 @@
       "duration_ms": 201265,
       "name": "KDR",
       "url": "https://open.spotify.com/track/66OK4uEWo71v2hcsPqxMNn"
+    },
+    {
+      "added_at": "2022-02-04 06:00:00",
+      "album": {
+        "name": "Soy de Sinaloa",
+        "url": "https://open.spotify.com/album/2RirpFu0iqptAyM5eARyl2"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 161690,
+      "name": "Soy de Sinaloa",
+      "url": "https://open.spotify.com/track/0G8UX6rA6OLal4OXPZLv5K"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1097,6 +1097,26 @@
       "url": "https://open.spotify.com/track/5Jo2xhD9fwJJbCYE9FY2i5"
     },
     {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "El Corrido Del Piyi (LDLG)",
+        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
+      },
+      "artists": [
+        {
+          "name": "Larry Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 184874,
+      "name": "El Corrido Del Piyi (LDLG)",
+      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+    },
+    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Provocame",
@@ -1129,24 +1149,20 @@
       "url": "https://open.spotify.com/track/0TwWnaZ6JGfVuN4iZq2BzJ"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-06-20 22:08:45",
       "album": {
-        "name": "El Corrido Del Piyi (LDLG)",
-        "url": "https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2"
+        "name": "Ni Lo Intentes",
+        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
       },
       "artists": [
         {
-          "name": "Larry Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
         }
       ],
-      "duration_ms": 184874,
-      "name": "El Corrido Del Piyi (LDLG)",
-      "url": "https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12"
+      "duration_ms": 150466,
+      "name": "Perd\u00f3n Porque?",
+      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 244653,
       "name": "Gato de Madrugada",
       "url": "https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q"
-    },
-    {
-      "added_at": "2022-06-20 22:08:45",
-      "album": {
-        "name": "Ni Lo Intentes",
-        "url": "https://open.spotify.com/album/07A8pAHXqkucbE1KkZwfC0"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 150466,
-      "name": "Perd\u00f3n Porque?",
-      "url": "https://open.spotify.com/track/5hPLduAGq6QIKhId97NzcP"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1317,22 +1317,6 @@
       "url": "https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT"
     },
     {
-      "added_at": "2022-07-15 05:00:00",
-      "album": {
-        "name": "Algo Transitorio",
-        "url": "https://open.spotify.com/album/61FFtKEaelyA7BxOWg40yQ"
-      },
-      "artists": [
-        {
-          "name": "Joss Favela",
-          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
-        }
-      ],
-      "duration_ms": 235340,
-      "name": "Algo Transitorio",
-      "url": "https://open.spotify.com/track/6TCUTF64M04hp0SiPuGU0o"
-    },
-    {
       "added_at": "2022-07-01 05:00:00",
       "album": {
         "name": "En Vivo Desde la Paz",
@@ -1351,18 +1335,18 @@
     {
       "added_at": "2022-07-15 05:00:00",
       "album": {
-        "name": "Por Sentimental",
-        "url": "https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra"
+        "name": "Algo Transitorio",
+        "url": "https://open.spotify.com/album/61FFtKEaelyA7BxOWg40yQ"
       },
       "artists": [
         {
-          "name": "Leandro R\u00edos",
-          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+          "name": "Joss Favela",
+          "url": "https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh"
         }
       ],
-      "duration_ms": 175031,
-      "name": "Por Sentimental",
-      "url": "https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3"
+      "duration_ms": 235340,
+      "name": "Algo Transitorio",
+      "url": "https://open.spotify.com/track/6TCUTF64M04hp0SiPuGU0o"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1379,6 +1363,22 @@
       "duration_ms": 158741,
       "name": "Te Mereces",
       "url": "https://open.spotify.com/track/7MOsxXYlhSoQUSJhR09QGB"
+    },
+    {
+      "added_at": "2022-07-15 05:00:00",
+      "album": {
+        "name": "Por Sentimental",
+        "url": "https://open.spotify.com/album/6U7OGnl3pRGlKRKf8MuTra"
+      },
+      "artists": [
+        {
+          "name": "Leandro R\u00edos",
+          "url": "https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w"
+        }
+      ],
+      "duration_ms": 175031,
+      "name": "Por Sentimental",
+      "url": "https://open.spotify.com/track/6VhVObyMiMZFF9tsByo6F3"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1401,22 +1401,6 @@
       "url": "https://open.spotify.com/track/0FkATCT3LOTcMaDh6nwFsl"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 187146,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
-    },
-    {
       "added_at": "2022-08-05 05:00:00",
       "album": {
         "name": "Amandote",
@@ -1431,6 +1415,22 @@
       "duration_ms": 167230,
       "name": "Amandote",
       "url": "https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 187146,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Cuando Me Importabas",
-        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
-      },
-      "artists": [
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 192913,
-      "name": "Cuando Me Importabas",
-      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
-    },
-    {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
         "name": "La \u00daltima y Nos Vamos",
         "url": "https://open.spotify.com/album/6FrH1j5lnmSaYUoAkVCQRU"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 156595,
       "name": "La \u00daltima y Nos Vamos",
       "url": "https://open.spotify.com/track/3CqT8gjOHWBDaJ7yp4QtFb"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "Cuando Me Importabas",
+        "url": "https://open.spotify.com/album/1yEZEZ575OrXSneXTDDsWD"
+      },
+      "artists": [
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 192913,
+      "name": "Cuando Me Importabas",
+      "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/3smZXzA9dK9vtp8FCdmcWu"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
-        "name": "Sindrome De Estocolmo",
-        "url": "https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k"
-      },
-      "artists": [
-        {
-          "name": "Don Zares",
-          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
-        }
-      ],
-      "duration_ms": 231018,
-      "name": "Sindrome De Estocolmo",
-      "url": "https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7"
-    },
-    {
       "added_at": "2022-08-05 05:00:00",
       "album": {
         "name": "Cu\u00e9ntame",
@@ -1579,6 +1563,22 @@
       "duration_ms": 166040,
       "name": "Cu\u00e9ntame",
       "url": "https://open.spotify.com/track/2zJ1zCoUtHb6dt7C5Q7LqT"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "Sindrome De Estocolmo",
+        "url": "https://open.spotify.com/album/0pLGZyin7yXLHfXsAK2H0k"
+      },
+      "artists": [
+        {
+          "name": "Don Zares",
+          "url": "https://open.spotify.com/artist/1qDZG8dXTf2EBxHUACVPdf"
+        }
+      ],
+      "duration_ms": 231018,
+      "name": "Sindrome De Estocolmo",
+      "url": "https://open.spotify.com/track/5EJ3ZjHeXeVQezMhQuzvn7"
     },
     {
       "added_at": "2022-07-15 05:00:00",

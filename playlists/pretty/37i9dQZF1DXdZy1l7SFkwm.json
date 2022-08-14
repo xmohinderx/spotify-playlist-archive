@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 29652,
+  "num_followers": 29676,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDgxYjlkNmRkMWVlMDRhMjBkNmQzZmNhMzhjMjYwNTM2",
+  "snapshot_id": "MTYxNTgyNDI5MywwMDAwMDAwMDUzNGZjMjkzMjRjNGQwODViZGFmYmUzNjFlNjgzZDA2",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -351,22 +351,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "El Rey Bravo",
-        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
-      },
-      "artists": [
-        {
-          "name": "Tito Puente",
-          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
-        }
-      ],
-      "duration_ms": 274018,
-      "name": "Oye C\u00f3mo Va",
-      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "The Best of Sam Cooke",
         "url": "https://open.spotify.com/album/2Dpw2XUAsBvuNdNLarNzz8"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 129061,
       "name": "(What A) Wonderful World",
       "url": "https://open.spotify.com/track/7N15WWy12QAMpGAh6QMAej"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "El Rey Bravo",
+        "url": "https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq"
+      },
+      "artists": [
+        {
+          "name": "Tito Puente",
+          "url": "https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX"
+        }
+      ],
+      "duration_ms": 274018,
+      "name": "Oye C\u00f3mo Va",
+      "url": "https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -707,6 +707,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "I Like It Like That",
+        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+      },
+      "artists": [
+        {
+          "name": "Pete Rodriguez",
+          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Soy El Rey",
+      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Tropical\u00edsimo: Cl\u00e1sicos de Cumbia Peruana",
         "url": "https://open.spotify.com/album/4y6v6W4BoxN7HjlbxKL6lW"
       },
@@ -739,34 +755,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "I Like It Like That",
-        "url": "https://open.spotify.com/album/3jMsGvImaL1YxiTxNNIvvB"
+        "name": "Lonely Teardrops",
+        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
       },
       "artists": [
         {
-          "name": "Pete Rodriguez",
-          "url": "https://open.spotify.com/artist/76KY8JsK3XMQkjDiRZVprS"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 185546,
-      "name": "Soy El Rey",
-      "url": "https://open.spotify.com/track/0TGLRGD4ZRp6sM5jy8EOjR"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
-        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 209400,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
+      "duration_ms": 166213,
+      "name": "Lonely Teardrops",
+      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Lonely Teardrops",
-        "url": "https://open.spotify.com/album/4Ixm6f2gdD6Ai1qKkE5NGT"
+        "name": "Elegance: The Birth Of The Modern Jazz Quartet",
+        "url": "https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC"
       },
       "artists": [
         {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
         }
       ],
-      "duration_ms": 166213,
-      "name": "Lonely Teardrops",
-      "url": "https://open.spotify.com/track/6TYR3IVgIwDK6ydc2EPEQq"
+      "duration_ms": 209400,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "L\u00e1grimas negras",
+      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Para Todo el Mundo, Vol. 2",
         "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 220080,
       "name": "Elsa",
       "url": "https://open.spotify.com/track/5NKsz3ZklHNHbCVxMHiFU7"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "L\u00e1grimas negras",
-      "url": "https://open.spotify.com/track/2G6bY2enGuwmluoAAMQ0mj"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Estoy Como Nunca",
-        "url": "https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb"
-      },
-      "artists": [
-        {
-          "name": "Eliades Ochoa",
-          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
-        }
-      ],
-      "duration_ms": 301600,
-      "name": "Estoy como nunca",
-      "url": "https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 155773,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Estoy Como Nunca",
+        "url": "https://open.spotify.com/album/1R0WJw960zHMiruda6o1Lb"
+      },
+      "artists": [
+        {
+          "name": "Eliades Ochoa",
+          "url": "https://open.spotify.com/artist/0hXHTWhBUEpkyHJ0GnghEH"
+        }
+      ],
+      "duration_ms": 301600,
+      "name": "Estoy como nunca",
+      "url": "https://open.spotify.com/track/3aTSo5FtNDv6PQJFV9Jmxa"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 238413,
-      "name": "La negra Tomasa",
-      "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Caetano Veloso",
         "url": "https://open.spotify.com/album/3idXLXoZDLQyxAHF97yguf"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 223866,
       "name": "Soy Loco Por Ti America - Remastered 2006",
       "url": "https://open.spotify.com/track/5zitPHwFth0QZji0s7Q9uP"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 238413,
+      "name": "La negra Tomasa",
+      "url": "https://open.spotify.com/track/4ruIPaoUI5m32txdjLkpzG"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Os Originais Do Samba",
-        "url": "https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ"
-      },
-      "artists": [
-        {
-          "name": "Os Originais Do Samba",
-          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
-        }
-      ],
-      "duration_ms": 196440,
-      "name": "Rapaz Do Viol\u00e3o",
-      "url": "https://open.spotify.com/track/1BIxpdpbOgELhYOoBYael5"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Pure Bossa Nova",
         "url": "https://open.spotify.com/album/52G6kzmnMumKmdJuL0Tim5"
       },
@@ -1695,18 +1679,38 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Beach Samba",
-        "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
+        "name": "Os Originais Do Samba",
+        "url": "https://open.spotify.com/album/72ITnY3eflQkRLbLYkRkaZ"
+      },
+      "artists": [
+        {
+          "name": "Os Originais Do Samba",
+          "url": "https://open.spotify.com/artist/4gKqxjR0MkEKjqvO3Ctvpg"
+        }
+      ],
+      "duration_ms": 196440,
+      "name": "Rapaz Do Viol\u00e3o",
+      "url": "https://open.spotify.com/track/1BIxpdpbOgELhYOoBYael5"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Astrud Gilberto W/ Stanley Turrentine",
+        "url": "https://open.spotify.com/album/1pBySyoanBiqZr7h4eYERr"
       },
       "artists": [
         {
           "name": "Astrud Gilberto",
           "url": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+        },
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 92533,
-      "name": "Canoeiro",
-      "url": "https://open.spotify.com/track/5vGjcafbPf55xNWI5pP9cy"
+      "duration_ms": 219493,
+      "name": "Zazueira (with Stanley Turrentine)",
+      "url": "https://open.spotify.com/track/4Asm2SGig47qpAePl8Wj8r"
     }
   ],
   "unique_name": "Cocina con sabor",

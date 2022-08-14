@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,774 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 60 | [D.A.N.C.E](https://open.spotify.com/track/33yAEqzKXexYM3WlOYtTfQ) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Justice](https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL) | 4:02 |
 | 61 | [Calla Tú](https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:41 |
 | 62 | [We Are The Champions \- Remastered 2011](https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:59 |
-| 63 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
-| 64 | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R) | 2:48 |
+| 63 | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/track/6fenHIxXuuzKB55wY4WCHP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [God Is A Dancer \(with Mabel\)](https://open.spotify.com/album/2T0NPRcdhIt71ifDWm328R) | 2:48 |
+| 64 | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/track/463PQggkmk5tTw8ug0ahOX) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [The Other Side \(from Trolls World Tour\)](https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ) | 3:08 |
 | 65 | [Good as Hell](https://open.spotify.com/track/3Yh9lZcWyKrK9GjbhuS0hR) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Good as Hell](https://open.spotify.com/album/4CA8GvVF7swZafg0zYh9qq) | 2:39 |
 | 66 | [Speed Me Up \(with Ty Dolla $ign, Lil Yachty & Sueco the Child\)](https://open.spotify.com/track/15eWNa3kpCPKILbSvvzSWl) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Speed Me Up \(with Ty Dolla $ign, Lil Yachty & Sueco the Child\)](https://open.spotify.com/album/09GInsudkisPoqLrcZikUI) | 3:34 |
 | 67 | [Cheap Thrills \(feat\. Sean Paul\)](https://open.spotify.com/track/2ONIJ40u0Attbm3miIIpNO) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:44 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 78 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 | 79 | [Tortoise Playing Minecraft](https://open.spotify.com/track/2je07NBiHQZNoZRvTNB0AO) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Tortoise Playing Minecraft](https://open.spotify.com/album/7KhfdyxlNNX1rZ7xS6dx5k) | 2:12 |
 
-Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDEwODVjMmNhMGJmODBjZmZlOTE1NDAxZWE4NTIxNzI3`
+Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDcwY2Q4YTgwYTA5N2QzM2E4MzVlMGUyZmMzNWZhYjJh`

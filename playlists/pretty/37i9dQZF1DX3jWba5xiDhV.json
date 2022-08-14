@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 41975,
+  "num_followers": 42174,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMGIwODEzNGVkYTdlNDVlOTNhOGM5Zjc5YjkxMTc1NWI1",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDk3ZDBkMTc1MjA0YWNmNDM5Y2ExMmFhYjJiMjQwZWE3",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -647,6 +647,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "The Hits Collection",
+        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Challenger",
         "url": "https://open.spotify.com/album/6EnJDtzIBJPRrlk0bn4QT1"
       },
@@ -695,6 +711,30 @@
       "duration_ms": 206600,
       "name": "Hey Hey Guy (7\" Vocal Version)",
       "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
+        "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
+      },
+      "artists": [
+        {
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+        }
+      ],
+      "duration_ms": 208194,
+      "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
+      "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -755,46 +795,6 @@
       "duration_ms": 259773,
       "name": "Morir\u00f2 Per Te - 2001 Remaster",
       "url": "https://open.spotify.com/track/6Q2gYxDdz165RwZXHCcyIy"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "The Hits Collection",
-        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
-      },
-      "artists": [
-        {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        }
-      ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
-        "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
-      },
-      "artists": [
-        {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "EMMANUELLE",
-          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
-        }
-      ],
-      "duration_ms": 208194,
-      "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
-      "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Dancing on Townsquare",
+        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
+      },
+      "artists": [
+        {
+          "name": "The Chaplin Band",
+          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
+        }
+      ],
+      "duration_ms": 210186,
+      "name": "Il Veliero - Single Version",
+      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Future Disco: Visions of Love",
         "url": "https://open.spotify.com/album/2d2vxkPozwy5AIjqLnslJ4"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 447775,
       "name": "Italo Amore (Musumeci Edit)",
       "url": "https://open.spotify.com/track/1xgwRZnFMa0JfV9m0qMAao"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Dancing on Townsquare",
-        "url": "https://open.spotify.com/album/6gAB9n1Aa5DzJTuoeeBl7c"
-      },
-      "artists": [
-        {
-          "name": "The Chaplin Band",
-          "url": "https://open.spotify.com/artist/0Na3lGtrQVJlRaQEnQD5P2"
-        }
-      ],
-      "duration_ms": 210186,
-      "name": "Il Veliero - Single Version",
-      "url": "https://open.spotify.com/track/26u2CgXp9Qr0MtcEBWi2gv"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Baila Bolero (Marc Hartman Remix)",
+        "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        },
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 300773,
+      "name": "Baila Bolero - Marc Hartman Remix",
+      "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Pictures Old Days (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
       },
@@ -1047,22 +1067,6 @@
       "duration_ms": 237013,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "The Night (Original Remastered Version 2020)",
-        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
-      },
-      "artists": [
-        {
-          "name": "Valerie Dore",
-          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
-        }
-      ],
-      "duration_ms": 376621,
-      "name": "The Night - Original Remastered Version 2020",
-      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1083,22 +1087,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Baila Bolero (Marc Hartman Remix)",
-        "url": "https://open.spotify.com/album/0xC161DAv1bnh3s2zYTFo4"
+        "name": "The Night (Original Remastered Version 2020)",
+        "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
       "artists": [
         {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
-        },
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+          "name": "Valerie Dore",
+          "url": "https://open.spotify.com/artist/6IwjxNTPn0EMh4U855D3qs"
         }
       ],
-      "duration_ms": 300773,
-      "name": "Baila Bolero - Marc Hartman Remix",
-      "url": "https://open.spotify.com/track/35FPjkNAkXdp8cXgh6gBfH"
+      "duration_ms": 376621,
+      "name": "The Night - Original Remastered Version 2020",
+      "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "Let me love tonight (12 Inc)",
+        "url": "https://open.spotify.com/album/4VJs7sQLWpnHDAXnni4LCU"
+      },
+      "artists": [
+        {
+          "name": "Electric Mind",
+          "url": "https://open.spotify.com/artist/2CRKZgVOneZ1ytAxCsVFja"
+        }
+      ],
+      "duration_ms": 229999,
+      "name": "Let Me Love Tonight - Radio Version",
+      "url": "https://open.spotify.com/track/6zEAlbxY12vp24gMkiwM1d"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Livin' Up",
         "url": "https://open.spotify.com/album/5IyZ1GScObnqiuRXDG3ray"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 196957,
       "name": "Danza Organica - Musumeci Remix Hot Version",
       "url": "https://open.spotify.com/track/1j4LiTZvzTjuG587ghNF9z"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Give me a Break (Original) - Single",
-        "url": "https://open.spotify.com/album/2RElM88tFDv38lDi1nUcA6"
-      },
-      "artists": [
-        {
-          "name": "Vivien Vee",
-          "url": "https://open.spotify.com/artist/6lX7V0XRKG9pY7hgNn6H9d"
-        }
-      ],
-      "duration_ms": 531120,
-      "name": "Give me a Break",
-      "url": "https://open.spotify.com/track/21ebxv3xeNEJbmdwBhfwQ5"
     }
   ],
   "unique_name": "Italo Disco",

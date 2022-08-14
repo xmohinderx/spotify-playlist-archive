@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 
 > Make room for these R&B/Soul artists on the rise! Photo: FLO
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,432 likes - 78 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,467 likes - 78 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbo613Z2iWO.md) - [plain]
 | 8 | [Achy](https://open.spotify.com/track/24yW63G9CzOVKm1SRfAXmV) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:47 |
 | 9 | [DAY PARTY](https://open.spotify.com/track/11MSMTqJHzwI67SXaaCKpi) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [DAY PARTY](https://open.spotify.com/album/5EsYiXCWkKzcUfSsDvIBNG) | 3:06 |
 | 10 | [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 |
-| 11 | [GODDESS REIGN \(FEAT AMBER MARK\)](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN \(FEAT AMBER MARK\)](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
+| 11 | [GODDESS REIGN](https://open.spotify.com/track/28UpQYrPTTYSf1hnpgWHys) | [Sherwyn](https://open.spotify.com/artist/4cxJUMXdHetYoijH951DRV), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [GODDESS REIGN](https://open.spotify.com/album/1zvfaFBgRmCP3zSeegmAg1) | 3:29 |
 | 12 | [Throw It Away](https://open.spotify.com/track/1Khn7WhtkBK8ixeI95Msxx) | [Joéllen](https://open.spotify.com/artist/2y7cvgbbpRXy36T223ujdf) | [Stay In Luv](https://open.spotify.com/album/0Vdk013Q5SZ5OSiBCkxWy5) | 2:52 |
 | 13 | [Trip](https://open.spotify.com/track/3MPh6fCxLilH9ZJ1sTLBlN) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K) | [Trip](https://open.spotify.com/album/02J88YmFnbuXmGUpRwpqDW) | 3:28 |
 | 14 | [About U](https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [About U](https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB) | 2:42 |

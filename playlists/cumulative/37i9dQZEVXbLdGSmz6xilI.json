@@ -950,6 +950,24 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "Bo X\u00ec Bo",
+      "url": "https://open.spotify.com/track/4X2iEvLVDm1Acd8Xmxw1ZC"
+    },
+    {
+      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -1371,7 +1389,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 278823,
       "name": "B\u01b0\u1edbc Qua M\u00f9a C\u00f4 \u0110\u01a1n",
       "url": "https://open.spotify.com/track/7wkX67ruxr3x2GFz6vyIX9"
@@ -1411,6 +1429,32 @@
       "duration_ms": 197549,
       "name": "B\u1eaft C\u00f3c Con Tim",
       "url": "https://open.spotify.com/track/3ho1OQb9SFtCt3MIiRZ8Si"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "Mew Amazing",
+          "url": "https://open.spotify.com/artist/34nom4Ft3keMWBZPAUB3EI"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204000,
+      "name": "B\u1eaft V\u00eda (feat. Wren Evans & Mew Amazing)",
+      "url": "https://open.spotify.com/track/54EzTMmlLYab5d9psfwmxZ"
     },
     {
       "album": {
@@ -1661,7 +1705,7 @@
       ],
       "date_added": "2021-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 208048,
       "name": "Chuy\u1ec7n \u0110\u00f4i Ta (feat. Mu\u1ed9ii)",
       "url": "https://open.spotify.com/track/4CUvVaAYuXtvYURLFz7EIL"
@@ -2691,7 +2735,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 230000,
       "name": "d\u1eb1m trong tim",
       "url": "https://open.spotify.com/track/1QwSqNlknVSTdmmtjsOGM9"
@@ -3347,6 +3391,28 @@
       "duration_ms": 205846,
       "name": "GIAYPHUT",
       "url": "https://open.spotify.com/track/07b849p3xuq03EdlAo4CKX"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        },
+        {
+          "name": "\u0110en",
+          "url": "https://open.spotify.com/artist/1LEtM3AleYg1xabW6CRkpi"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198947,
+      "name": "Gieo Qu\u1ebb (feat. Den)",
+      "url": "https://open.spotify.com/track/6SjnTRDyTM162pPOAM0O8M"
     },
     {
       "album": {
@@ -4117,6 +4183,24 @@
       "duration_ms": 210285,
       "name": "H\u01b0\u01a1ng (feat. Negav)",
       "url": "https://open.spotify.com/track/6aeU5IH8DB1qHK5jRFTNUv"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "H\u1ea1 Ph\u1ecfm",
+      "url": "https://open.spotify.com/track/2lGGlexu72TnPQPUHd8NWt"
     },
     {
       "album": {
@@ -5141,12 +5225,12 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "date_added": "2022-06-25",
@@ -5353,7 +5437,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 258668,
       "name": "Li\u1ec7u Gi\u1edd",
       "url": "https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd"
@@ -5512,6 +5596,24 @@
     },
     {
       "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "L\u00fac Th\u1ea5y L\u00fac Kh\u00f4ng",
+      "url": "https://open.spotify.com/track/0glPN37HvVqCUh1qCWBKo7"
+    },
+    {
+      "album": {
         "name": "L\u1ea1 L\u00f9ng",
         "url": "https://open.spotify.com/album/3Snqkoi7IXxtDxx71z1lWR"
       },
@@ -5585,7 +5687,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 259114,
       "name": "l\u1eddi t\u1ea1m bi\u1ec7t ch\u01b0a n\u00f3i",
       "url": "https://open.spotify.com/track/3AejRjgBsFV4HWHjJmmEP7"
@@ -8875,7 +8977,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 158400,
       "name": "tiny love",
       "url": "https://open.spotify.com/track/4AgFXIVT7hVhBZ5DEOaLu3"
@@ -8987,6 +9089,24 @@
       "duration_ms": 199266,
       "name": "Tr\u00ean T\u00ecnh B\u1ea1n D\u01b0\u1edbi T\u00ecnh Y\u00eau",
       "url": "https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ"
+    },
+    {
+      "album": {
+        "name": "LINK",
+        "url": "https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM"
+      },
+      "artists": [
+        {
+          "name": "Hoang Thuy Linh",
+          "url": "https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195008,
+      "name": "Tr\u01b0\u1edfng N\u1eef Ch\u1ea1y Tr\u1ed1n",
+      "url": "https://open.spotify.com/track/2Zos792uWaDCqqnmPaBH1x"
     },
     {
       "album": {

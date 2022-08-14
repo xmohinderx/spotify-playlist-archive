@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 
 > Midwest music breaking waves\. Doe Boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,209 likes - 57 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,213 likes - 57 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Xlyj8WKw1E.md) - [plain]
 | 7 | [AKUNA](https://open.spotify.com/track/6y9fIg54gDgqgldH4EMJhf) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [AKUNA](https://open.spotify.com/album/4wr8ni8dr2e94Ae6tCbFHR) | 3:13 |
 | 8 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
 | 9 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |
-| 10 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lucki](https://open.spotify.com/artist/70ZUXm3cW6AVm6hZot2Tyh) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
+| 10 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
 | 11 | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Hot Shit \(feat\. Ye & Lil Durk\)](https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO) | 3:31 |
 | 12 | [Distraction](https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Distraction](https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o) | 2:51 |
 | 13 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |

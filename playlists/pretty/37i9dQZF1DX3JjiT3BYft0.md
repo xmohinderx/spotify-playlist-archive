@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,797 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,860 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,15 +42,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 32 | [Don't be afraid!](https://open.spotify.com/track/4q9QnIxZH4FR4Z543vkA85) | [Glitter\*Green](https://open.spotify.com/artist/2sheZhJBCHLVlenoXp72Jz) | [Don't be afraid!](https://open.spotify.com/album/2z4rn5CogIc1wieoxjKHvu) | 3:57 |
 | 33 | [Hanazono Electric Guitar!!!](https://open.spotify.com/track/3PepTcSJv2jHSnrSIzDGyR) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 3:17 |
 | 34 | [Shuwarin☆Dreaming](https://open.spotify.com/track/5BoibxBflNv4MzwRsjqSO8) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Shuwarin☆Dreaming](https://open.spotify.com/album/4ZeNepkkacJVPvkDbiro78) | 3:53 |
-| 35 | [Blazing Bonfire!](https://open.spotify.com/track/4A0i8dTImNzelppte1hNsm) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Domination to world](https://open.spotify.com/album/2VJQX8yK6XNNmuQ1RhD5T2) | 3:44 |
+| 35 | [Sacred world](https://open.spotify.com/track/0V3WhvVVbRFEtzSDSv2ePr) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [Sacred world](https://open.spotify.com/album/0cfxwaRmmOsIxnXvFGiwan) | 5:00 |
 | 36 | [fly with the night](https://open.spotify.com/track/4KvQX4py0s4DQJeeOBlRoB) | [Morfonica](https://open.spotify.com/artist/12BquJvJVg8XFRB3M90MmJ) | [fly with the night](https://open.spotify.com/album/1PvPrmGPkkpjROBsHbFqBU) | 4:00 |
 | 37 | [Hello! Wink!](https://open.spotify.com/track/4ekwokxbqpykXfKKckzeRA) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Breakthrough!](https://open.spotify.com/album/5ZGEKyT4SB4U4cXbQmhngy) | 4:40 |
 | 38 | [GO! GO! MANIAC](https://open.spotify.com/track/3LgVlvdNcEa4iKhLxgdexo) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ \(Special Selection\)](https://open.spotify.com/album/1kkgobIs7hST3jqja1LUMd) | 4:07 |
 | 39 | [COMIC PANIC!!!](https://open.spotify.com/track/6VqqHjxdGXkeqnvEbXsHbx) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [Y.O.L.O!!!!!!](https://open.spotify.com/album/4LDTFJvIlM2KZMBT8ZHchR) | 4:40 |
 | 40 | [優勝](https://open.spotify.com/track/27VXRcYHf59cItmZyCfQPQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [優勝](https://open.spotify.com/album/3MC0ieKmwAVeSQVKqi0Twc) | 4:31 |
 | 41 | [A Distant Heartbeat](https://open.spotify.com/track/01hHmEBYk9oQClRa6A81HC) | [山吹沙綾\(CV.大橋彩香\)](https://open.spotify.com/artist/6JnXnlFTlsvXctXZiWa8fy) | [A Distant Heartbeat](https://open.spotify.com/album/1tZtuwJ2Onp8AnRWR2LQjR) | 4:00 |
-| 42 | [Quintuple☆Smile](https://open.spotify.com/track/4u5uWG6Z7DI8eysB5KfpQe) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Quintuple☆Smile](https://open.spotify.com/album/3Sch89X2lpqgiCfyansDMH) | 4:05 |
-| 43 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 |
+| 42 | [Chocolate Bass Recipe](https://open.spotify.com/track/3Uu3VQnOUjhLRGx72poDb6) | [牛込りみ\(CV.西本りみ\)](https://open.spotify.com/artist/5WyWRCcDLl2MHHRxUk1tjG) | [Chocolate Bass Recipe](https://open.spotify.com/album/2Ek51ItxeKaV8GQUr9LsjH) | 4:26 |
+| 43 | [Quintuple☆Smile](https://open.spotify.com/track/4u5uWG6Z7DI8eysB5KfpQe) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [Quintuple☆Smile](https://open.spotify.com/album/3Sch89X2lpqgiCfyansDMH) | 4:05 |
 | 44 | [Doki\-Doki Sing Out!](https://open.spotify.com/track/07Px1iST5Djx5zpnpG8f5B) | [戸山香澄\(CAST:愛美\)](https://open.spotify.com/artist/4WxWVilaHHB9S5yMmo5lir) | [Doki\-Doki Sing Out!](https://open.spotify.com/album/7C7Kxyra0SlTUPtcO6k1tW) | 4:09 |
 | 45 | [A Song No More](https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [Live Beyond!!](https://open.spotify.com/album/2z1EdXW0K0ZYY7W9Q3fsSS) | 4:37 |
 | 46 | [Y.O.L.O!!!!!](https://open.spotify.com/track/6U3agujpZILhEyo0Esjy5y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [ONE OF US](https://open.spotify.com/album/7hG6dWwbHdovFzMlP6BJ0e) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 49 | [Summer Skies & Sun! Sun! Seven! \- Acoustic Ver.](https://open.spotify.com/track/58WIbtANgOd9wK4c7mv3KZ) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [I\-I Never Said Love!](https://open.spotify.com/album/47vhSZQmJN0WyMaig29Zls) | 4:55 |
 | 50 | [On Your New Journey \- Acoustic Ver.](https://open.spotify.com/track/7bQ5CkzVlHwtopBCxrwXBp) | [花園たえ\(CV.大塚紗英\)](https://open.spotify.com/artist/3m7Y1adYVPRrEcAFffxV7Q) | [Hanazono Electric Guitar!!!](https://open.spotify.com/album/53BaJSVpvAGh6QiuefarPe) | 4:53 |
 
-Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMDVjNTUxMGRmNGIxZWNiOTQ1ODJiNDc5OWE5NzIzZDRl`
+Snapshot ID: `MTY1NTk5NjQwMCwwMDAwMDAwMGJlMWI1MzUwZGM5MzA4Y2UyZGYxYjQ4OWI3ZjE0ZWJk`

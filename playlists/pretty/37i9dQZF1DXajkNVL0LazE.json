@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 27355,
+  "num_followers": 27455,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMGRlNzRmZWM1YTg5NzEzMjUzYmM1YWRlYjYxNWE1MDlh",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDJkYWMzYjkxNmE1NWM4ZTIxYzE1ZjIxN2MyZTU1MjZj",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "Ongiara",
+        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
+      },
+      "artists": [
+        {
+          "name": "Great Lake Swimmers",
+          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
+        }
+      ],
+      "duration_ms": 216453,
+      "name": "Your Rocky Spine",
+      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Artifacts",
         "url": "https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Furr",
-        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
-      },
-      "artists": [
-        {
-          "name": "Blitzen Trapper",
-          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
-        }
-      ],
-      "duration_ms": 247515,
-      "name": "Furr",
-      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Seven Swans",
         "url": "https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 168040,
       "name": "To Be Alone With You",
       "url": "https://open.spotify.com/track/12homE4JpBey5cckgoepR7"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Furr",
+        "url": "https://open.spotify.com/album/2DyjbFqAX5Yxoh3EFMMXh7"
+      },
+      "artists": [
+        {
+          "name": "Blitzen Trapper",
+          "url": "https://open.spotify.com/artist/72XY3HrDdFfZXNZFCT9Zh1"
+        }
+      ],
+      "duration_ms": 247515,
+      "name": "Furr",
+      "url": "https://open.spotify.com/track/2fgbsGWU2Dum08uifQHhiB"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -619,22 +635,6 @@
       "duration_ms": 179960,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "Ongiara",
-        "url": "https://open.spotify.com/album/6gamwl8cQXiBbq0VzMxTKI"
-      },
-      "artists": [
-        {
-          "name": "Great Lake Swimmers",
-          "url": "https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR"
-        }
-      ],
-      "duration_ms": 216453,
-      "name": "Your Rocky Spine",
-      "url": "https://open.spotify.com/track/3CecLFOWdbQwc2qdTmHAc8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -815,18 +815,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Our Endless Numbered Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
       },
       "artists": [
         {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
         }
       ],
-      "duration_ms": 207773,
-      "name": "Each Coming Night",
-      "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -847,34 +847,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+        "name": "Our Endless Numbered Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m"
       },
       "artists": [
         {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
         }
       ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "The Crane Wife",
-        "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
-      },
-      "artists": [
-        {
-          "name": "The Decemberists",
-          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
-        }
-      ],
-      "duration_ms": 313600,
-      "name": "Sons & Daughters",
-      "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
+      "duration_ms": 207773,
+      "name": "Each Coming Night",
+      "url": "https://open.spotify.com/track/2xa9PoO42d7VjT0KqG5d3I"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -891,6 +875,38 @@
       "duration_ms": 152346,
       "name": "Special Death",
       "url": "https://open.spotify.com/track/1Y7SunUEcwxyev6VtXRnZd"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 286880,
+      "name": "Roscoe",
+      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Crane Wife",
+        "url": "https://open.spotify.com/album/4qvFBtRrwbSgoH3nyVlTCp"
+      },
+      "artists": [
+        {
+          "name": "The Decemberists",
+          "url": "https://open.spotify.com/artist/7ITd48RbLVpUfheE7B86o2"
+        }
+      ],
+      "duration_ms": 313600,
+      "name": "Sons & Daughters",
+      "url": "https://open.spotify.com/track/721tATaNQPPGSuC3dYEI3h"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -923,22 +939,6 @@
       "duration_ms": 193546,
       "name": "Gone for Good",
       "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
-        "name": "The Trials of Van Occupanther",
-        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 286880,
-      "name": "Roscoe",
-      "url": "https://open.spotify.com/track/01qJhVPCHFFR6wJ5ptyw17"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
+        "name": "War Elephant",
+        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+      },
+      "artists": [
+        {
+          "name": "Deer Tick",
+          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Baltimore Blues No. 1",
+      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
         "name": "Chutes Too Narrow",
         "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
       },
@@ -1055,18 +1071,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "War Elephant",
-        "url": "https://open.spotify.com/album/0mOjYGdxvpusOVunsElaCq"
+        "name": "Boxer",
+        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
       },
       "artists": [
         {
-          "name": "Deer Tick",
-          "url": "https://open.spotify.com/artist/3rT8xTwSOMDURtWpPyoKIO"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 181466,
-      "name": "Baltimore Blues No. 1",
-      "url": "https://open.spotify.com/track/3Dy8QNZ77cre9ThUPRguy0"
+      "duration_ms": 205040,
+      "name": "Fake Empire",
+      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Pride",
-        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 374640,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Yankee Hotel Foxtrot",
         "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Boxer",
-        "url": "https://open.spotify.com/album/2pwNkShhY1uip80rLMHUgX"
+        "name": "Pride",
+        "url": "https://open.spotify.com/album/3TB7zZsUbPtRZGIvtayvmX"
       },
       "artists": [
         {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 205040,
-      "name": "Fake Empire",
-      "url": "https://open.spotify.com/track/7hanhZrUArC9qUerln4jh1"
+      "duration_ms": 374640,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/0ZPbtxMljoofkXVLkiiqdl"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Sometimes I Wish We Were An Eagle",
-        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 279253,
-      "name": "Jim Cain",
-      "url": "https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Convict Pool",
         "url": "https://open.spotify.com/album/2OHPi5M4JlhCTlA5zzUXoq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 204480,
       "name": "Alone Again Or",
       "url": "https://open.spotify.com/track/5cG90AasL6Fd9uTwAMF1tS"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Sometimes I Wish We Were An Eagle",
+        "url": "https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 279253,
+      "name": "Jim Cain",
+      "url": "https://open.spotify.com/track/3KZRkM7Uv0F2oCTUHAvv0a"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Transfiguration of Vincent",
-        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
-      },
-      "artists": [
-        {
-          "name": "M. Ward",
-          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
-        }
-      ],
-      "duration_ms": 300186,
-      "name": "Let\u2019s Dance",
-      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/4zHS8jrrBCdAo11WtNaz8A"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 298666,
       "name": "Inside Of Love",
       "url": "https://open.spotify.com/track/56hMpSZ6CZ2gjmdKdNN8pz"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Transfiguration of Vincent",
+        "url": "https://open.spotify.com/album/4teFdvjZVz0nud7aGZ8jjS"
+      },
+      "artists": [
+        {
+          "name": "M. Ward",
+          "url": "https://open.spotify.com/artist/6nXSnNEdLuKTzAQozRtqiI"
+        }
+      ],
+      "duration_ms": 300186,
+      "name": "Let\u2019s Dance",
+      "url": "https://open.spotify.com/track/2GeeOvZ02vgWehu9Sl8tX8"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Destroyer's Rubies",
-        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
-      },
-      "artists": [
-        {
-          "name": "Destroyer",
-          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
-        }
-      ],
-      "duration_ms": 250013,
-      "name": "Painter in Your Pocket",
-      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Sea & the Rhythm",
         "url": "https://open.spotify.com/album/4ujax5DobWOX6ylaK0MEiy"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 323973,
       "name": "The Sea and the Rhythm",
       "url": "https://open.spotify.com/track/5H8xLLUBnNS9ipRlybQbu6"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Destroyer's Rubies",
+        "url": "https://open.spotify.com/album/1VTq7Bn60Qic2E9nMhZ0Ii"
+      },
+      "artists": [
+        {
+          "name": "Destroyer",
+          "url": "https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In"
+        }
+      ],
+      "duration_ms": 250013,
+      "name": "Painter in Your Pocket",
+      "url": "https://open.spotify.com/track/2h2FLYLTGP3wKSbZAPrnes"
     }
   ],
   "unique_name": "00s Indie Folk",

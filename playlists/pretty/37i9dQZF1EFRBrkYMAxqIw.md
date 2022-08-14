@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/76LEMAAXaxvnvt22nn8DUH">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99 likes - 67 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 100 likes - 67 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 20 | [Just Miss Love](https://open.spotify.com/track/6KwvzNhrvOXc1i4mCCU0xY) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [Burak Yeter](https://open.spotify.com/artist/4ON1ruy5ijE7ZPQthbrkgI), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Just Miss Love](https://open.spotify.com/album/0HdLiRs3Kv3D36oRKL72zn) | 3:27 |
 | 21 | [Back To Summer](https://open.spotify.com/track/1ecT8HKw4RnjgGoC63jHXI) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Back To Summer](https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5) | 3:01 |
 | 22 | [Masochistic](https://open.spotify.com/track/56o8wi8BFSpeW1m8TRcQUJ) | [Blithe](https://open.spotify.com/artist/604wNNLUmrAmNOSEU8GfK4) | [Masochistic](https://open.spotify.com/album/4gqoXId2ShFtzrx2YUUmA8) | 2:40 |
-| 23 | [On My Way \(Rain or Shine Remix\)](https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/4NtbltmozSWfZ4ZfRPXCLL) | 4:00 |
-| 24 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 |
+| 23 | [Love And Appreciation](https://open.spotify.com/track/1MfbWqsh6HxRxXd6pJwnXy) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:03 |
+| 24 | [On My Way \(Rain or Shine Remix\)](https://open.spotify.com/track/4dVxY7muQS2QYy0bjhM7df) | [Tobtok](https://open.spotify.com/artist/6pcxIOhQCNb7DX2iuEXgxL), [Rain or Shine](https://open.spotify.com/artist/4HkboL1vsKz9DYa0EEX29g) | [On My Way \(Remixes\)](https://open.spotify.com/album/4NtbltmozSWfZ4ZfRPXCLL) | 4:00 |
 | 25 | [Hello](https://open.spotify.com/track/14a0YvOAe1nT3rfnllJ4D9) | [Emily Burns](https://open.spotify.com/artist/6Gi8ZaXGx8MK79HwzXpuVZ) | [I Love You, You're The Worst](https://open.spotify.com/album/6fgHw31cLVUTu3nAFHvW9k) | 3:33 |
 | 26 | [NYC](https://open.spotify.com/track/2rzWSWPzZZGSx6Wzj4ZJKO) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [NYC](https://open.spotify.com/album/2UaIgK5kTsX38Q9p9RnqRC) | 3:08 |
 | 27 | [Let There Be Drums](https://open.spotify.com/track/2DKoCWXpQlwjJcXt0TSqUI) | [Feder](https://open.spotify.com/artist/5KnoVkIUGmK0PiDKMjz2LM), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Let There Be Drums](https://open.spotify.com/album/4RLEBlVLqIAeccrY5ewOkx) | 3:21 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 32 | [Gonna Run](https://open.spotify.com/track/7IMcjrgmAqRGqB1OxM7SSJ) | [Tiggi Hawke](https://open.spotify.com/artist/5DltvtWOZYwcH6p0ka8I0l) | [Gonna Run](https://open.spotify.com/album/4L7rvrCFNYxQ9B0rQuTstl) | 3:06 |
 | 33 | [Sweet Dreams](https://open.spotify.com/track/37GXIxCvM0Tq6rwsDHdYO6) | [Naxxos](https://open.spotify.com/artist/2iG0HNCECG2DxXxSUcMhEX) | [Sweet Dreams](https://open.spotify.com/album/0hyddra5kXgkos48Tg3u50) | 3:19 |
 | 34 | [You Don't Know](https://open.spotify.com/track/1eeP92z3DuzoZhLOtKq8jt) | [Dan Port](https://open.spotify.com/artist/6KA3l8F3e3uI8jYBIDGVH5) | [You Don't Know](https://open.spotify.com/album/5DVrx39jp6knd54awdgBg0) | 2:43 |
-| 35 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
-| 36 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
+| 35 | [Selfmade](https://open.spotify.com/track/5gPFjvxjZwHcYNzVa3YZEx) | [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu) | [Magic Still Exists](https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN) | 5:21 |
+| 36 | [Bounce](https://open.spotify.com/track/6uipQY1DKk611P3uOOePUb) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [New Chapter \#1: The Chance of Love \- The 8th Album](https://open.spotify.com/album/0ipyHYAE0cMf4aDJNIDIU1) | 3:17 |
 | 37 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 |
 | 38 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 |
 | 39 | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/track/1vgmZmpxJSEyx9TCp0mQhL) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Tough Love](https://open.spotify.com/artist/16KSSLMXOdKQ2MHt9bOHTG), [Saint Wilder](https://open.spotify.com/artist/7egpYmPWaTX6xTFbZiAgmD) | [Late Nights \(feat\. Saint Wilder\)](https://open.spotify.com/album/57LaPoPp9JEyf01lA3dj3M) | 3:12 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 66 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 67 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
 
-Snapshot ID: `Mjc2NzI1NjEsMDAwMDAwMDBlYzczZjI5YmI2NzEzYjg3ODEyNGJmMTIwMDIxOWJhOQ==`
+Snapshot ID: `Mjc2NzQwMDEsMDAwMDAwMDBiOGUyYTdlYmEwNjcyZTY4MWU5NDc0MzZhZmY1NTgwYg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 
 > Music in the award\-winning doc: The Black Power Mixtape 1967–1975.
 
-[Spotify](https://open.spotify.com/user/spotify) - 633,548 likes - 67 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 633,692 likes - 67 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 12 | [Drift Away \- Single Version](https://open.spotify.com/track/6hJhVBOnkchxBsDHbLOBJP) | [Dobie Gray](https://open.spotify.com/artist/3mC1KCuZZSOlN8Z0M56VsV) | [Ultimate Collection: Dobie Gray](https://open.spotify.com/album/4EuAVxsazdEFr5ylShtllS) | 3:57 |
 | 13 | [Everyday People](https://open.spotify.com/track/4ZVZBc5xvMyV3WzWktn8i7) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Stand](https://open.spotify.com/album/7iwS1r6JHYJe9xpPjzmWqD) | 2:21 |
 | 14 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 |
-| 15 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
-| 16 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
+| 15 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
+| 16 | [The Tracks Of My Tears](https://open.spotify.com/track/6QyQmdvQ1ywNccYa0pwLNQ) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [Going To A Go\-Go](https://open.spotify.com/album/2NT1Pc0MXlXORHLBkHyKQW) | 2:54 |
 | 17 | [Son of a Preacher Man](https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis \[Deluxe Edition\]](https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg) | 2:29 |
 | 18 | [A Song for You](https://open.spotify.com/track/5spAjqC772iC2KzDvEkmSr) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Donny Hathaway](https://open.spotify.com/album/4yzozr59813IAXnxhWUl7i) | 5:25 |
 | 19 | [Can't Get Enough Of Your Love, Babe](https://open.spotify.com/track/7LaCgCP7FCol0RYwMDQKwK) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:02 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 32 | [I Was Made To Love Her](https://open.spotify.com/track/2aCKBrLn7rbhStk5k4FwnF) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Was Made To Love Her](https://open.spotify.com/album/6thSjE17RxW8tJFtLyXA3B) | 2:36 |
 | 33 | [Hang On In There Baby](https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef) | [Johnny Bristol](https://open.spotify.com/artist/0F4yfY9manxJrgsfwbXdZa) | [Hang On In There Baby](https://open.spotify.com/album/6eoKjEg7UGE9ZeT3S3Q6Ix) | 3:53 |
 | 34 | [Hercules](https://open.spotify.com/track/0INkcALLD8NAM6tbn4qbMj) | [Aaron Neville](https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT) | [Tell It Like It Is](https://open.spotify.com/album/01z00nqcQU6ffZVfx0SIeg) | 4:09 |
-| 35 | [I Never Loved a Man \(The Way I Love You\)](https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:51 |
-| 36 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
+| 35 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 |
+| 36 | [I Never Loved a Man \(The Way I Love You\)](https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [I Never Loved a Man the Way I Love You](https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V) | 2:51 |
 | 37 | [The Ghetto](https://open.spotify.com/track/1yeIxOEFmpQ3qlOb2R3g2m) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Everything Is Everything](https://open.spotify.com/album/7k89fD1BB2xQCibsPtSYyh) | 6:53 |
 | 38 | [Cissy Strut](https://open.spotify.com/track/7b8s4Z0abQQ4x4jpct4GjR) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Funkify Your Life: The Meters Anthology](https://open.spotify.com/album/40VWlphQtyDSj3ldPNhDvz) | 3:05 |
 | 39 | [Supernatural Thing, Pt\. 1](https://open.spotify.com/track/62dhSmROhppvuWyeCeC730) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Supernatural Thing](https://open.spotify.com/album/69MJXfjEtAf2xpyNe4KIfD) | 4:11 |
@@ -56,10 +56,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 46 | [Why Can't We Live Together](https://open.spotify.com/track/722E6CPY8biq4sUnf40u6Y) | [Timmy Thomas](https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B) | [Why Can't We Live Together](https://open.spotify.com/album/0HN6yWzRIaLKPnSFdeBtAO) | 4:37 |
 | 47 | [Express Yourself \- Remastered Version](https://open.spotify.com/track/6gQZKkphKIMxZgca5r7ImA) | [Charles Wright & The Watts 103rd Street Rhythm Band](https://open.spotify.com/artist/2t0kaaDtGZtmpczIAMaVTQ) | [Express Yourself \(Remastered & Expanded\)](https://open.spotify.com/album/5qDWJPnZ9IXMMDBhAFQgq3) | 3:49 |
 | 48 | [Boogie On Reggae Woman](https://open.spotify.com/track/1xTfQiHbhB2Bj2B9dlAojb) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [At The Close Of A Century](https://open.spotify.com/album/04giHQ9zptJUHUvtIyxL9Z) | 5:13 |
-| 49 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:18 |
-| 50 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
+| 49 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
+| 50 | [I Forgot To Be Your Lover](https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI) | [William Bell](https://open.spotify.com/artist/0mFoqJiNDtYntypvy6roGR) | [The Best Of William Bell](https://open.spotify.com/album/3qOZr2tczUvMFciKLk6lzb) | 2:18 |
 | 51 | [My World Is Empty Without You](https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [I Hear A Symphony](https://open.spotify.com/album/7vNmiLEdMqJYUlPxSx2zgg) | 2:34 |
-| 52 | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/track/54K7o2yNOMZYCtEDnfD6wI) | [Luther Ingram](https://open.spotify.com/artist/5Pek6HAr0BoHD9P1RuA7d5) | [\(If Loving You Is Wrong\) I Don't Want to Be Right](https://open.spotify.com/album/3hiwk4q34fJTUJsAzrlNMD) | 3:36 |
+| 52 | [Get out of My Life Woman](https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr) | [Lee Dorsey](https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js) | [Ride Your Pony](https://open.spotify.com/album/7AmWUlNaYvQlK8UqmD4tvF) | 2:26 |
 | 53 | [If You're Ready \(Come Go With Me\)](https://open.spotify.com/track/5eX6j2j6gfaXEryl54oIKZ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Be What You Are \(Reissue\)](https://open.spotify.com/album/2p7fRyRo0bvJtmAE8O8Lk7) | 4:27 |
 | 54 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
 | 55 | [Who's Making Love](https://open.spotify.com/track/2DxX9x7Cmywikp14l1YUdk) | [Johnnie Taylor](https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz) | [Who's Making Love...](https://open.spotify.com/album/3ZCzcCgiSwoUB2czLBWmGJ) | 2:46 |
@@ -76,4 +76,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX94QVAxB7Dum.md) - [plain]
 | 66 | [On Broadway \- Re\-Recording](https://open.spotify.com/track/7xs0AmGs6R9fCOAipbAExp) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Golden Legends: The Drifters](https://open.spotify.com/album/7ib2aOqt1KIm1C0jApKMDl) | 2:46 |
 | 67 | [Hurt So Bad \- Re\-Recording](https://open.spotify.com/track/3qY8Ni73Tx4mJXASDmBWJN) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [100 Hits Of The Swingin' 60's](https://open.spotify.com/album/36QisDW5zB4phHrXOzE60V) | 2:17 |
 
-Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMDdlNTJlMTMwZDJmZDY4OTc5NTAyZWU3ZWVmNjk4ODdi`
+Snapshot ID: `MTYyOTk2NTQwMywwMDAwMDAwMDljODRjNzQ1MmEwYTBmZWEyOGE1NDkzZmVmNzMyYjYw`

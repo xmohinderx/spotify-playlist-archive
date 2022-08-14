@@ -4,7 +4,7 @@
 
 > This is Burna Boy\. The essential tracks, all in one playlist.
 
-72 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6PNqDto21Pc7noiKhPa5qP)
+73 songs - 4 hr 7 min - [published](https://open.spotify.com/playlist/6PNqDto21Pc7noiKhPa5qP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,8 @@
 | [Killin Dem](https://open.spotify.com/track/4cxyQw1AKCVqa9JVSN7njk) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Killin Dem](https://open.spotify.com/album/2Le6W3ospgVmqVJYWVzgXW) | 3:40 | 2021-12-28 | 2022-07-10 |
 | [Kilometre](https://open.spotify.com/track/03YUNUpazIbzwqJq2YSBvB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:32 | 2022-07-15 |  |
 | [Kilometre](https://open.spotify.com/track/0oQgoesQJq0fRnWOY1D73g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Kilometre](https://open.spotify.com/album/6Vqv0UEcqmB1mMvvxZ4Y9T) | 2:32 | 2021-12-28 | 2022-07-16 |
-| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-14 |  |
+| [Last Last](https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Last Last](https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe) | 2:52 | 2022-05-14 | 2022-08-14 |
+| [Last Last](https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:52 | 2022-08-13 |  |
 | [Lenu \- Remix](https://open.spotify.com/track/51trdVTGB18HFEsb8dEzq1) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Lenu \(Remix\)](https://open.spotify.com/album/0XPpgvyG25SbLEcKvAMinb) | 3:33 | 2021-12-28 | 2022-07-10 |
 | [Location \(feat\. Burna Boy\)](https://open.spotify.com/track/3z4CGd63tpUn9a6oQSG0CI) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [PSYCHODRAMA](https://open.spotify.com/album/4GrFuXwRmEBJec22p58fsD) | 4:01 | 2021-12-28 |  |
 | [Loved By You \(feat\. Burna Boy\)](https://open.spotify.com/track/2tB9OFgAHjAds3cqquLlvp) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:39 | 2021-12-28 |  |
@@ -72,7 +73,7 @@
 | [Sponono](https://open.spotify.com/track/5T6wd1ScvJGSz17zMCugW0) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd) | [I Am The King Of Amapiano: Sweet & Dust](https://open.spotify.com/album/5YiIm4cWzk8dDshWB179mE) | 6:35 | 2021-12-28 | 2022-06-26 |
 | [Sungba \(feat\. Burna Boy\) \- Remix](https://open.spotify.com/track/5FtWjKVBTMklN2yCP9UhF6) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sungba \(Remix\) \[feat\. Burna Boy\]](https://open.spotify.com/album/4zK5YK5uXEDbGPnvv7DCNE) | 3:30 | 2022-07-20 |  |
 | [Sunshine Riptide](https://open.spotify.com/track/0ZqqrBHeSeyZahfcyw9N8O) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [MANIA](https://open.spotify.com/album/16xtTZvPH6PXcwSqYqJHHG) | 3:24 | 2021-12-28 |  |
-| [Vanilla](https://open.spotify.com/track/0jjH8vwVEENKNpDPWWOwuK) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:35 | 2022-07-09 |  |
+| [Vanilla](https://open.spotify.com/track/0jjH8vwVEENKNpDPWWOwuK) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:35 | 2022-07-09 | 2022-08-14 |
 | [Want It All \(feat\. Polo G\)](https://open.spotify.com/track/45s98gUcOcj5nJeFDNLH2g) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Want It All \(feat\. Polo G\)](https://open.spotify.com/album/4sfZvwEahjF7he9xtv3Ftf) | 3:52 | 2021-12-28 |  |
 | [Way Too Big](https://open.spotify.com/track/4rlaH7EbXL55bj9pvp57nP) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/218CJKDCszsQQj7Amk7vIu) | 3:20 | 2021-12-28 |  |
 | [Wetin Dey Sup](https://open.spotify.com/track/4I93MxrTPIJkjKNVYW6yn7) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:37 | 2022-01-01 | 2022-01-04 |

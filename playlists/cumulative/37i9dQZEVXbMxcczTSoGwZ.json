@@ -909,7 +909,7 @@
       ],
       "date_added": "2021-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 244360,
       "name": "Another Love",
       "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
@@ -3395,7 +3395,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 240360,
       "name": "Elegia",
       "url": "https://open.spotify.com/track/2yXwDDa357IYXuMsFiJchr"
@@ -4484,6 +4484,28 @@
     },
     {
       "album": {
+        "name": "3\u00bd",
+        "url": "https://open.spotify.com/album/60dPYk27SouDtGxGCtbDAQ"
+      },
+      "artists": [
+        {
+          "name": "Evelina",
+          "url": "https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM"
+        },
+        {
+          "name": "JVG",
+          "url": "https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192319,
+      "name": "Galileo Galilei",
+      "url": "https://open.spotify.com/track/4tT4NmTKrIxdyh137GGh7a"
+    },
+    {
+      "album": {
         "name": "Gang (Maanantai sessarit 6)",
         "url": "https://open.spotify.com/album/4WCq7kBPbG3T8Iiv7UBPZY"
       },
@@ -4607,7 +4629,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
@@ -5999,6 +6021,24 @@
       "duration_ms": 376169,
       "name": "I Drink Wine",
       "url": "https://open.spotify.com/track/6v0UJD4a2FtleHeSYVX02A"
+    },
+    {
+      "album": {
+        "name": "I Forgive Me",
+        "url": "https://open.spotify.com/album/6iueXAM6UG0uiRgVO3jClO"
+      },
+      "artists": [
+        {
+          "name": "ALMA",
+          "url": "https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136906,
+      "name": "I Forgive Me",
+      "url": "https://open.spotify.com/track/5g0LwC4kPt3XXzoYGgdz5n"
     },
     {
       "album": {
@@ -7713,6 +7753,24 @@
       "duration_ms": 185672,
       "name": "Kelle m\u00e4 soitan",
       "url": "https://open.spotify.com/track/0JaJLSes2LpFGit36B7tzm"
+    },
+    {
+      "album": {
+        "name": "Kelle?",
+        "url": "https://open.spotify.com/album/4IHCQEmQAe56s63gN10Lur"
+      },
+      "artists": [
+        {
+          "name": "Ege Zulu",
+          "url": "https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188852,
+      "name": "Kelle?",
+      "url": "https://open.spotify.com/track/4hFIYS75gVRiQ7FIITV1av"
     },
     {
       "album": {
@@ -11025,7 +11083,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 190042,
       "name": "M\u00e4 mietin sua",
       "url": "https://open.spotify.com/track/2YBd7C5sNr8teXlOfQfMIO"
@@ -15083,7 +15141,7 @@
       ],
       "date_added": "2022-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 148064,
       "name": "SUPERMODEL",
       "url": "https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR"
@@ -17217,7 +17275,7 @@
       ],
       "date_added": "2021-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 211176,
       "name": "Vauhti kiihtyy (feat. Matti ja Teppo)",
       "url": "https://open.spotify.com/track/4N84bVnNycTXiuoKZFEXrD"
@@ -17261,6 +17319,28 @@
       "duration_ms": 253586,
       "name": "VENT'ANNI",
       "url": "https://open.spotify.com/track/6Vfo6O3hk38vDcSpazNo3p"
+    },
+    {
+      "album": {
+        "name": "Veri (feat. VilleGalle)",
+        "url": "https://open.spotify.com/album/6cQFrGU9AXePqdUV7EdGgA"
+      },
+      "artists": [
+        {
+          "name": "Juno",
+          "url": "https://open.spotify.com/artist/5iFuIxdmHNEiGJaR49TLL9"
+        },
+        {
+          "name": "VilleGalle",
+          "url": "https://open.spotify.com/artist/6VVSjZwPAHNbkKeMhTI2bb"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184296,
+      "name": "Veri (feat. VilleGalle)",
+      "url": "https://open.spotify.com/track/3bBkYc9e838YuLbNljgLFH"
     },
     {
       "album": {

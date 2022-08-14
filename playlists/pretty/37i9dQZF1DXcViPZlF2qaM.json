@@ -1,13 +1,29 @@
 {
   "description": "Abajo y a la izquierda.",
-  "num_followers": 28312,
+  "num_followers": 28362,
   "original_name": "Caf\u00e9 Revoluci\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxNDEyMCwwMDAwMDAwMDUyNjY1NWVkODkyNmRmMTQwMjRmZWU0ZGZmODA3ODZi",
+  "snapshot_id": "MTY2MDM1NjkxMSwwMDAwMDAwMGQ0MjMwODU1MjQ1NWFhNjE3Nzg5NzhlNjBmNDI5NWRk",
   "tracks": [
+    {
+      "added_at": "2022-04-25 16:15:40",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
+    },
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
@@ -29,46 +45,6 @@
       "url": "https://open.spotify.com/track/5reQI13tWWYDLMrGcUF4Mk"
     },
     {
-      "added_at": "2022-07-25 18:58:14",
-      "album": {
-        "name": "Veinte A\u00f1os",
-        "url": "https://open.spotify.com/album/7y10h42cMtYY8FWliI9tfC"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Ulibarri",
-          "url": "https://open.spotify.com/artist/7xcXkowvgYLmNwl8ST2uvd"
-        },
-        {
-          "name": "Leiden",
-          "url": "https://open.spotify.com/artist/6fvjP4AZ19ce4gwJSr5qnI"
-        },
-        {
-          "name": "Musas Ensamble de Arpas",
-          "url": "https://open.spotify.com/artist/6cHMCy1zPbtTZe62e3nUUg"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Veinte A\u00f1os",
-      "url": "https://open.spotify.com/track/70XqvfxgfXusqHIUGmo65X"
-    },
-    {
-      "added_at": "2022-04-25 16:15:40",
-      "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
       "added_at": "2022-04-04 18:08:00",
       "album": {
         "name": "MOTOMAMI",
@@ -83,22 +59,6 @@
       "duration_ms": 155480,
       "name": "DELIRIO DE GRANDEZA",
       "url": "https://open.spotify.com/track/6lKZ5I0yW3IpUFHEKJCWlx"
-    },
-    {
-      "added_at": "2022-08-08 21:57:17",
-      "album": {
-        "name": "Marineros",
-        "url": "https://open.spotify.com/album/0fJJS7pmFtmEH5Lrfneny0"
-      },
-      "artists": [
-        {
-          "name": "Ulises Hadjis",
-          "url": "https://open.spotify.com/artist/5Udwg8yiCTj2zTRt8zKRWH"
-        }
-      ],
-      "duration_ms": 128371,
-      "name": "Marineros",
-      "url": "https://open.spotify.com/track/1TIyjwt0Q7tOe99lu1SjRA"
     },
     {
       "added_at": "2022-04-08 19:03:44",
@@ -119,22 +79,6 @@
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
-    },
-    {
-      "added_at": "2022-08-12 14:22:00",
-      "album": {
-        "name": "Flores",
-        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
-      },
-      "artists": [
-        {
-          "name": "Battle of Santiago",
-          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
-        }
-      ],
-      "duration_ms": 198048,
-      "name": "Flores",
-      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
     },
     {
       "added_at": "2022-01-19 17:36:28",
@@ -181,6 +125,54 @@
       "url": "https://open.spotify.com/track/1xuYajTJZh8zZrPRmUaagf"
     },
     {
+      "added_at": "2022-08-12 14:22:00",
+      "album": {
+        "name": "Flores",
+        "url": "https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4"
+      },
+      "artists": [
+        {
+          "name": "Battle of Santiago",
+          "url": "https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl"
+        }
+      ],
+      "duration_ms": 198048,
+      "name": "Flores",
+      "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2022-03-30 01:48:29",
+      "album": {
+        "name": "Que la Vida Vale",
+        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Que la Vida Vale",
+      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
+        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 110526,
+      "name": "la luna enamorada",
+      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
+    },
+    {
       "added_at": "2022-08-05 19:15:58",
       "album": {
         "name": "Quemonito",
@@ -199,22 +191,6 @@
       "duration_ms": 220463,
       "name": "Quemonito",
       "url": "https://open.spotify.com/track/7BpJ0z0MG7aAOeQfudwFpJ"
-    },
-    {
-      "added_at": "2022-03-30 01:48:29",
-      "album": {
-        "name": "Que la Vida Vale",
-        "url": "https://open.spotify.com/album/3WnKgNvbPDs3TxizVPYH9J"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Que la Vida Vale",
-      "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -237,20 +213,24 @@
       "url": "https://open.spotify.com/track/2LyNql7yzPQ8cW4tpWFzVK"
     },
     {
-      "added_at": "2021-10-16 00:59:30",
+      "added_at": "2022-08-13 02:15:11",
       "album": {
-        "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
-        "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
+        "name": "Caja de Cart\u00f3n",
+        "url": "https://open.spotify.com/album/4GJr9U2jyhsomXIFB7eYma"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Rocio Igarzabal",
+          "url": "https://open.spotify.com/artist/7HzX50l6Oi0gFLTkdHJcOZ"
+        },
+        {
+          "name": "Mel Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y"
         }
       ],
-      "duration_ms": 110526,
-      "name": "la luna enamorada",
-      "url": "https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3"
+      "duration_ms": 194023,
+      "name": "Caja de Cart\u00f3n",
+      "url": "https://open.spotify.com/track/5gbYdVq1gpExyakimfFINk"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -269,22 +249,6 @@
       "url": "https://open.spotify.com/track/2jBe0JwHUxPi02bvSigPdg"
     },
     {
-      "added_at": "2022-07-15 04:46:05",
-      "album": {
-        "name": "La Plegaria de la Noche",
-        "url": "https://open.spotify.com/album/1RVQVJBoyI5o8PC0l0JQ5e"
-      },
-      "artists": [
-        {
-          "name": "Centavrvs",
-          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
-        }
-      ],
-      "duration_ms": 254024,
-      "name": "La Plegaria de la Noche",
-      "url": "https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "!!Going Places!!",
@@ -299,6 +263,22 @@
       "duration_ms": 126893,
       "name": "Spanish Flea",
       "url": "https://open.spotify.com/track/689DTIE4YIRfuIUG58Z2H2"
+    },
+    {
+      "added_at": "2022-07-15 04:46:05",
+      "album": {
+        "name": "La Plegaria de la Noche",
+        "url": "https://open.spotify.com/album/1RVQVJBoyI5o8PC0l0JQ5e"
+      },
+      "artists": [
+        {
+          "name": "Centavrvs",
+          "url": "https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo"
+        }
+      ],
+      "duration_ms": 254024,
+      "name": "La Plegaria de la Noche",
+      "url": "https://open.spotify.com/track/4CHnu9MmiPITxzCmQ5W1R2"
     },
     {
       "added_at": "2022-02-17 23:02:00",
@@ -353,6 +333,22 @@
       "url": "https://open.spotify.com/track/7wQ3PHT0oNWwjPuTZ2z7cS"
     },
     {
+      "added_at": "2022-04-17 20:11:32",
+      "album": {
+        "name": "Uno",
+        "url": "https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE"
+      },
+      "artists": [
+        {
+          "name": "Ainda",
+          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
+        }
+      ],
+      "duration_ms": 173202,
+      "name": "Canci\u00f3n de Ba\u00f1ar la Luna",
+      "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
+    },
+    {
       "added_at": "2022-08-09 01:56:55",
       "album": {
         "name": "No Imagin\u00e9",
@@ -387,22 +383,6 @@
       "duration_ms": 166933,
       "name": "Soltarlo",
       "url": "https://open.spotify.com/track/6fC5Xz6sRIAgnOIbZbuP5h"
-    },
-    {
-      "added_at": "2022-04-17 20:11:32",
-      "album": {
-        "name": "Uno",
-        "url": "https://open.spotify.com/album/7lhWIJPpVRmPU1ozYnRtdE"
-      },
-      "artists": [
-        {
-          "name": "Ainda",
-          "url": "https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE"
-        }
-      ],
-      "duration_ms": 173202,
-      "name": "Canci\u00f3n de Ba\u00f1ar la Luna",
-      "url": "https://open.spotify.com/track/518wotaL3vqUUBCyGV2WSb"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -539,6 +519,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "A Swingin' Safari (Remastered)",
+        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
+      },
+      "artists": [
+        {
+          "name": "Bert Kaempfert",
+          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
+        }
+      ],
+      "duration_ms": 146133,
+      "name": "Afrikaan Beat",
+      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Churupaca",
         "url": "https://open.spotify.com/album/4WEJMxY05ww9RP2jCK4SXX"
       },
@@ -559,38 +555,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "A Swingin' Safari (Remastered)",
-        "url": "https://open.spotify.com/album/1WuhfJk7fhSif4qkWL9Rh5"
-      },
-      "artists": [
-        {
-          "name": "Bert Kaempfert",
-          "url": "https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX"
-        }
-      ],
-      "duration_ms": 146133,
-      "name": "Afrikaan Beat",
-      "url": "https://open.spotify.com/track/1BPXaPBTN9oF2HJ4PDx2sp"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Uno Dos Tres 1-2-3",
-        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 183293,
-      "name": "Fried Neck Bones And Some Home Fries",
-      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "The Original Recordings",
         "url": "https://open.spotify.com/album/2Yc5i2E3EU89eIX8QshY2W"
       },
@@ -607,34 +571,18 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+        "name": "Uno Dos Tres 1-2-3",
+        "url": "https://open.spotify.com/album/0RU2nMPZpLlb8DXBmZMB8k"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
         }
       ],
-      "duration_ms": 215480,
-      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
-      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "Ojos Del Sol",
-        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 245161,
-      "name": "Ojos Del Sol",
-      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
+      "duration_ms": 183293,
+      "name": "Fried Neck Bones And Some Home Fries",
+      "url": "https://open.spotify.com/track/19AO4YUP1Uau61hXotfRu3"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -659,6 +607,22 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77CJTWwnnZit2KO3LSMpyI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Wish You Were Gay - Versi\u00f3n en Espa\u00f1ol - Spotify Singles",
+      "url": "https://open.spotify.com/track/7pRw8jLLLSlGw3Xhc7bYHK"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
         "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
       },
@@ -675,6 +639,22 @@
       "duration_ms": 278640,
       "name": "Silencio",
       "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Ojos Del Sol",
+        "url": "https://open.spotify.com/album/1bv229IwMr6O2Id5jVZqmc"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 245161,
+      "name": "Ojos Del Sol",
+      "url": "https://open.spotify.com/track/2gke8YaJQur5OpkWAeIMdz"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -729,22 +709,6 @@
       "url": "https://open.spotify.com/track/4v2SHoi0mUbeS4no69gQNX"
     },
     {
-      "added_at": "2022-04-23 18:00:53",
-      "album": {
-        "name": "Sur o No Sur",
-        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 250866,
-      "name": "Cumbiera Intelectual",
-      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
-    },
-    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Mr. Carisma",
@@ -759,6 +723,22 @@
       "duration_ms": 231716,
       "name": "Mr. Carisma",
       "url": "https://open.spotify.com/track/1hdSsODySd5A7IHDStGjBn"
+    },
+    {
+      "added_at": "2022-04-23 18:00:53",
+      "album": {
+        "name": "Sur o No Sur",
+        "url": "https://open.spotify.com/album/2pbdnwDbOlbtJG3yZuCqkq"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 250866,
+      "name": "Cumbiera Intelectual",
+      "url": "https://open.spotify.com/track/44QrX1Mp26xztzWBLuYsjz"
     },
     {
       "added_at": "2022-03-30 19:53:15",
@@ -833,6 +813,26 @@
       "url": "https://open.spotify.com/track/7iTwZ8bxJRgX6HfkVdDa2D"
     },
     {
+      "added_at": "2022-07-15 18:11:06",
+      "album": {
+        "name": "La Cura",
+        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Gizmo Varillas",
+          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "La Cura",
+      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+    },
+    {
       "added_at": "2021-10-16 00:59:30",
       "album": {
         "name": "Echando pa'lante",
@@ -869,24 +869,20 @@
       "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
-      "added_at": "2022-07-15 18:11:06",
+      "added_at": "2022-02-18 18:49:36",
       "album": {
-        "name": "La Cura",
-        "url": "https://open.spotify.com/album/0SMT9ClQIEh49gPEIPH1Nf"
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
       },
       "artists": [
         {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Gizmo Varillas",
-          "url": "https://open.spotify.com/artist/47i4lPow1dIRwOb85AB6lj"
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
         }
       ],
-      "duration_ms": 181000,
-      "name": "La Cura",
-      "url": "https://open.spotify.com/track/0UVwUs9TMKgee3kvE2uMxC"
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-04-23 18:00:53",
@@ -903,22 +899,6 @@
       "duration_ms": 300746,
       "name": "Guacamole",
       "url": "https://open.spotify.com/track/5D42s3vtQV0yJ5T1LtjADH"
-    },
-    {
-      "added_at": "2022-02-18 18:49:36",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2021-10-16 00:59:30",
@@ -991,38 +971,6 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Sonido Amazonico",
-      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
-        "name": "R\u00fambala",
-        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
-      },
-      "artists": [
-        {
-          "name": "Eva de Marce",
-          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
-        }
-      ],
-      "duration_ms": 178823,
-      "name": "R\u00fambala",
-      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
-    },
-    {
-      "added_at": "2021-10-16 00:59:30",
-      "album": {
         "name": "Cosas Del Universo",
         "url": "https://open.spotify.com/album/036AR7pZFfjmQ6wX2c2dCk"
       },
@@ -1047,6 +995,38 @@
     {
       "added_at": "2021-10-16 00:59:30",
       "album": {
+        "name": "R\u00fambala",
+        "url": "https://open.spotify.com/album/4yf3TyT75f33sAq1o1ORuR"
+      },
+      "artists": [
+        {
+          "name": "Eva de Marce",
+          "url": "https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E"
+        }
+      ],
+      "duration_ms": 178823,
+      "name": "R\u00fambala",
+      "url": "https://open.spotify.com/track/0YjGcWlFaksNtsCIxfrmur"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Sonido Amazonico",
+      "url": "https://open.spotify.com/track/2Zcv2Vk65xi37T7AT2qcDJ"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
         "name": "Gar\u00faa (Sabor a Querer)",
         "url": "https://open.spotify.com/album/0XiN7T7kky8LzThoVwbgNO"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 222000,
       "name": "Gar\u00faa (Sabor a Querer)",
       "url": "https://open.spotify.com/track/39jlkB93dZvtx8RG0Zkhdc"
+    },
+    {
+      "added_at": "2021-10-16 00:59:30",
+      "album": {
+        "name": "Latin & Love Studies",
+        "url": "https://open.spotify.com/album/771YlZnyW3Dhj8n9X4wMWM"
+      },
+      "artists": [
+        {
+          "name": "Isaac & Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        },
+        {
+          "name": "Feten Feten",
+          "url": "https://open.spotify.com/artist/2jA6wEXprTZysvomP2krp8"
+        }
+      ],
+      "duration_ms": 240298,
+      "name": "Hasta la Rai\u0301z",
+      "url": "https://open.spotify.com/track/47KRnXQdhZvTdWyQZUTqiG"
     }
   ],
   "unique_name": "Caf\u00e9 Revoluci\u00f3n",

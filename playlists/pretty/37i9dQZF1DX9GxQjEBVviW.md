@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,580 likes - 50 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,651 likes - 50 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 18 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
 | 19 | [Sincerely](https://open.spotify.com/track/6hOD1yxLeWllJ2TiwbuwQg) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [The Best Of Bobby Lester And The Moonglows](https://open.spotify.com/album/5G9ZcFBoCQgIQDjV4arzl8) | 3:09 |
 | 20 | [Get a Job](https://open.spotify.com/track/21NhrNOfIoakyWISXUMkFN) | [The Silhouettes](https://open.spotify.com/artist/5LmehwqsJa7a4Ya5SaqXpx) | [Get a Job](https://open.spotify.com/album/28pRA1gcndMkuHd0LI9EN9) | 2:49 |
-| 21 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
-| 22 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
+| 21 | [Up on the Roof](https://open.spotify.com/track/2806jBTs12WAfzFImSxJzL) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [Up on the Roof: The Best of the Drifters](https://open.spotify.com/album/2hnrAozjkiXgE1Xe2X4Fq3) | 2:35 |
+| 22 | [Mama Said](https://open.spotify.com/track/5sGeyWYDvUIF7QjERNCY7L) | [The Shirelles](https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn) | [Because I Said So \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/70gDHlCYONYFiaHZj98hLY) | 2:10 |
 | 23 | [Whispering Bells](https://open.spotify.com/track/3HYOGLROB66y1gFYxZyWhs) | [The Del\-Vikings](https://open.spotify.com/artist/10xLCBOlt2NhclsRmrOvX5), [Krips Johnson](https://open.spotify.com/artist/1HaB4OY2BLW2ve9FHAwMRZ) | [Come Go With Me: The Best Of The Del\-Vikings](https://open.spotify.com/album/35hzrbmJqylZoIRcatUfYx) | 2:24 |
 | 24 | [I Wonder Why \- Remastered](https://open.spotify.com/track/5ta9IiShIAlXs38xpdkEaH) | [Dion & The Belmonts](https://open.spotify.com/artist/2loYllWFfoWpoxC5YrJKc4) | [The Best Of Dion & The Belmonts](https://open.spotify.com/album/4XCCPbgyV1L06tIZmQYFwu) | 2:18 |
 | 25 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
-| 26 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
+| 26 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 27 | [Goin' Out Of My Head](https://open.spotify.com/track/538IUnkjiDgU9Ndhf1wN2f) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Goin' Out Of My Head](https://open.spotify.com/album/1b5ALXWfAgs3hBrQRD4LMK) | 2:29 |
-| 28 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
+| 28 | [Smoke Gets In Your Eyes](https://open.spotify.com/track/1jTkRvUHQhh2v77G5KOyYW) | [The Platters](https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy) | [The Magic Touch: An Anthology](https://open.spotify.com/album/6qV2qBClHsKwdfbzQfBUFC) | 2:37 |
 | 29 | [Silhouettes](https://open.spotify.com/track/4YSdo81Wt11kR7M1zc94vD) | [The Rays](https://open.spotify.com/artist/3owdLGoMpuTwee9KIh1Ibv) | [Presenting The Rays](https://open.spotify.com/album/32Jl14rurUEKvm8iRuDqoS) | 2:46 |
 | 30 | [Life Is but a Dream](https://open.spotify.com/track/7pihvWmEVo5J2PcxvP6T4f) | [The Harptones](https://open.spotify.com/artist/3ldj7TJdwN9Ei96ZIUU3M7) | [The Harptones](https://open.spotify.com/album/3cqvDBd8s4jYbSugoY73AF) | 2:43 |
 | 31 | [16 Candles](https://open.spotify.com/track/4ht9nNdPiJbbBhwUvPf4Lg) | [Johnny Maestro](https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw), [The Crests](https://open.spotify.com/artist/64vw6q9ZBTop3Tf2ol1x4U) | [Troubles in Paradise](https://open.spotify.com/album/0cAmbOsbe0cOyxbF1M7D1H) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 49 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
 | 50 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
 
-Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDQxMGVkYzQxN2NhYWMyOGYwYTI1M2EzOGVlMTMwZjk0`
+Snapshot ID: `MTYxMzEyNDQwNywwMDAwMDAwMDQ3NzkxMGM1YTVjNTc3MzM3ZmQyNTliODdjMDcxOGFj`

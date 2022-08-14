@@ -1,12 +1,12 @@
 {
   "description": "Please stand for your personal anthems. Cover: Paramore",
-  "num_followers": 988997,
+  "num_followers": 989717,
   "original_name": "Pure Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDkxMGM1MTQ4NjA3YzFkOTVlZTcwOTUxMzM4MzQ5YjMw",
+  "snapshot_id": "MTY1NTM5NDU0MSwwMDAwMDAwMDQyMzM5ZDI0YmIwMmYzZjgyZGEyMDNjYzE4NmI1MWZl",
   "tracks": [
     {
       "added_at": "2022-06-16 15:49:01",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
+        "name": "Conspiracy Of One",
+        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+      },
+      "artists": [
+        {
+          "name": "The Offspring",
+          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+        }
+      ],
+      "duration_ms": 202573,
+      "name": "Want You Bad",
+      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
         "name": "DECEMBERUNDERGROUND",
         "url": "https://open.spotify.com/album/1XcA7EEpVRg3FpVbhWu9JV"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 206586,
       "name": "Miss Murder",
       "url": "https://open.spotify.com/track/0Ti2dlF2xLjXblvdU5fCxM"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
-        "name": "A Hangover You Don't Deserve",
-        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
-      },
-      "artists": [
-        {
-          "name": "Bowling For Soup",
-          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "1985",
-      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -639,18 +639,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Conspiracy Of One",
-        "url": "https://open.spotify.com/album/09OM7urF0SXgJqbFcllYQs"
+        "name": "A Hangover You Don't Deserve",
+        "url": "https://open.spotify.com/album/43jBR9MNJk5AUuB56M0pRF"
       },
       "artists": [
         {
-          "name": "The Offspring",
-          "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
+          "name": "Bowling For Soup",
+          "url": "https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb"
         }
       ],
-      "duration_ms": 202573,
-      "name": "Want You Bad",
-      "url": "https://open.spotify.com/track/6hwQ69v7VbPhTTR2fOtYX7"
+      "duration_ms": 193000,
+      "name": "1985",
+      "url": "https://open.spotify.com/track/5oQcOu1omDykbIPSdSQQNJ"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "FANDOM",
-        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 162577,
-      "name": "Turbulent",
-      "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Nothing Personal (Deluxe Version)",
         "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 198000,
       "name": "Weightless",
       "url": "https://open.spotify.com/track/0aZJGkkXR3DgaFqo5sB8ot"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "FANDOM",
+        "url": "https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 162577,
+      "name": "Turbulent",
+      "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 207633,
-      "name": "Everything Is Alright",
-      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "The Young and The Hopeless",
         "url": "https://open.spotify.com/album/5CTygC3aONv7l0klY4k3hc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 183493,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/65mxB9IWpmVo4qUjdGSxRB"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 207633,
+      "name": "Everything Is Alright",
+      "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Double Dare",
-        "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 191544,
-      "name": "Stupid for You",
-      "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Boys Like Girls",
         "url": "https://open.spotify.com/album/4WqgusSAgXkrjbXzqdBY68"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 206520,
       "name": "The Great Escape",
       "url": "https://open.spotify.com/track/6GIrIt2M39wEGwjCQjGChX"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Double Dare",
+        "url": "https://open.spotify.com/album/1uh8SiLASOMowO5TWEYmbw"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 191544,
+      "name": "Stupid for You",
+      "url": "https://open.spotify.com/track/1N7Aep1OewK9diaN9WbuuR"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Reach For The Sun",
-        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
-      },
-      "artists": [
-        {
-          "name": "The Dangerous Summer",
-          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
-        }
-      ],
-      "duration_ms": 203560,
-      "name": "The Permanent Rain",
-      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "The Same Old Blood Rush With A New Touch",
         "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 203626,
       "name": "The Curse of Curves",
       "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "Reach For The Sun",
+        "url": "https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T"
+      },
+      "artists": [
+        {
+          "name": "The Dangerous Summer",
+          "url": "https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj"
+        }
+      ],
+      "duration_ms": 203560,
+      "name": "The Permanent Rain",
+      "url": "https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Dead Reflection",
-        "url": "https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 188885,
-      "name": "The Afterglow",
-      "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
-    },
-    {
-      "added_at": "2022-06-16 15:49:01",
-      "album": {
         "name": "Say It Like You Mean It",
         "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
       },
@@ -1555,18 +1539,34 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "Lovely Little Lonely",
-        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
+        "name": "Dead Reflection",
+        "url": "https://open.spotify.com/album/7EAVX7J3DRvhbMiKjgtgvB"
       },
       "artists": [
         {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
         }
       ],
-      "duration_ms": 203057,
-      "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
-      "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
+      "duration_ms": 188885,
+      "name": "The Afterglow",
+      "url": "https://open.spotify.com/track/4VKN3lBovrmKK7nWP4xknO"
+    },
+    {
+      "added_at": "2022-06-16 15:49:01",
+      "album": {
+        "name": "From The Screen To Your Stereo, Pt. II",
+        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
+      },
+      "artists": [
+        {
+          "name": "New Found Glory",
+          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+        }
+      ],
+      "duration_ms": 175173,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46"
     },
     {
       "added_at": "2022-06-16 15:49:01",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2022-06-16 15:49:01",
       "album": {
-        "name": "From The Screen To Your Stereo, Pt. II",
-        "url": "https://open.spotify.com/album/1LLHUxDRE2ocsNoPUaohzp"
+        "name": "Lovely Little Lonely",
+        "url": "https://open.spotify.com/album/2jStuYeaRty1cwxjoxfo9K"
       },
       "artists": [
         {
-          "name": "New Found Glory",
-          "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 175173,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/3Tm90zTQXKVR2q0KBXgC46"
+      "duration_ms": 203057,
+      "name": "Black Butterflies and D\u00e9j\u00e0 Vu",
+      "url": "https://open.spotify.com/track/6QZ8h3RqIgTRTo3hfaqryx"
     },
     {
       "added_at": "2022-06-16 15:49:01",

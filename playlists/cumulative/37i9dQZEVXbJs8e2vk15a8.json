@@ -3211,7 +3211,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 178567,
       "name": "Me Porto Bonito",
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
@@ -3603,7 +3603,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 188929,
       "name": "Mora (ALOCATE REMAKE)",
       "url": "https://open.spotify.com/track/5SWRohMTnae9mrts8TAMcO"
@@ -4736,6 +4736,42 @@
     },
     {
       "album": {
+        "name": "Rip Pin898 Tiradera",
+        "url": "https://open.spotify.com/album/4LsbRN7xbwzDXzflaaBhMS"
+      },
+      "artists": [
+        {
+          "name": "420 ak",
+          "url": "https://open.spotify.com/artist/3pKpJUzgUjb58s6LOjtfFt"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179272,
+      "name": "Rip Pin898 Tiradera",
+      "url": "https://open.spotify.com/track/0LDkywYPRFxIyRqaQhV8Lf"
+    },
+    {
+      "album": {
+        "name": "TRAP KITTY",
+        "url": "https://open.spotify.com/album/4LA06BUD265HXY7Mv2HUG7"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134000,
+      "name": "Riri",
+      "url": "https://open.spotify.com/track/2DPaMYROSbnrY7dQUDyJSs"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -5021,10 +5057,32 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 243000,
       "name": "Shut Up and Listen",
       "url": "https://open.spotify.com/track/0yqAz6HBzwlJ2nGjK4UiX0"
+    },
+    {
+      "album": {
+        "name": "Shut Up and Listen",
+        "url": "https://open.spotify.com/album/6ESObhLkBvTh4CXm9wMdwQ"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Bonnin",
+          "url": "https://open.spotify.com/artist/3nirCcAFDstMworUJd3OfN"
+        },
+        {
+          "name": "Angelicca",
+          "url": "https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243000,
+      "name": "Shut Up and Listen",
+      "url": "https://open.spotify.com/track/3PNaaKLGYYn1ULNZXyMuWM"
     },
     {
       "album": {
@@ -5495,7 +5553,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 179657,
       "name": "TE TENGO UNA PROPUESTA",
       "url": "https://open.spotify.com/track/1AvQZw6d3CpSE1AwPbLyug"
@@ -5819,6 +5877,28 @@
       "duration_ms": 418728,
       "name": "Tu Lokotron Remix",
       "url": "https://open.spotify.com/track/0LqY6Y6M4xx5mCe3QKLb2o"
+    },
+    {
+      "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Enjoy a break with some relaxing soft songs.
 
-757 songs - 1 day 20 hr 59 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
+758 songs - 1 day 21 hr 3 min - [published](https://open.spotify.com/playlist/51dhSaYcrh8IGq16obFObB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,7 +213,7 @@
 | [Focus](https://open.spotify.com/track/5ChQHJhW6RHf10bmmmrTsB) | [Elias](https://open.spotify.com/artist/0UCLbPGOhtnYf29U7qbfLf) | [Entwined](https://open.spotify.com/album/0ysbz1S6Ml5PdyN4qqsj94) | 4:14 | 2021-12-21 | 2022-07-21 |
 | [Follow My Voice](https://open.spotify.com/track/6J5XDjKMhyWbIBW8JkLXFL) | [Julie Byrne](https://open.spotify.com/artist/10duXbKJkvdGK5RgktEnxV) | [Not Even Happiness](https://open.spotify.com/album/1fA7zjpDoE4aBNSgGQ7dVa) | 4:02 | 2022-03-24 | 2022-04-21 |
 | [Fool For You](https://open.spotify.com/track/4eECaktwFUcoBwdhuukv6d) | [Paul Rey](https://open.spotify.com/artist/5FjiYgLczmrP2j1gijAGWp) | [Note To Self](https://open.spotify.com/album/5ZYeRCZRIXCLK58nbL5Fsl) | 3:16 | 2021-12-21 |  |
-| [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 |  |
+| [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 | 2022-07-08 | 2022-08-14 |
 | [Fool's Gold](https://open.spotify.com/track/7kAxc7ZfkPiCWSZBD5ed6F) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Fool's Gold](https://open.spotify.com/album/0EaZIiPjCpZoODnTuzSroH) | 4:14 | 2022-03-24 | 2022-04-21 |
 | [Footprints](https://open.spotify.com/track/6W1WqOE3Wd5AnZbL149Xfy) | [Molly Kate Kestner](https://open.spotify.com/artist/390x0qxDdsMmN20RAwspbf) | [Footprints](https://open.spotify.com/album/5vk7PQrawbv5FJtWHYUK9i) | 4:13 | 2022-03-24 | 2022-04-20 |
 | [For a While](https://open.spotify.com/track/4w051WDUnlgzmR1IZeSgLL) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:54 | 2022-07-08 |  |
@@ -588,6 +588,7 @@
 | [Stars](https://open.spotify.com/track/1NWDYLu5pLh5jH4MKGQDPe) | [Traveling John](https://open.spotify.com/artist/6AfxRBowNEDZpYKmoWcBm9) | [Stars](https://open.spotify.com/album/2OHOBLjEHxYSXIK5S0rbCA) | 2:48 | 2021-12-21 | 2022-07-29 |
 | [Starving \- Acoustic](https://open.spotify.com/track/3otAtzQb3f7adNdiCgdECo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Starving \(Acoustic\)](https://open.spotify.com/album/2rTG6XOfAwNyfwjACFKN16) | 3:01 | 2022-03-24 | 2022-04-02 |
 | [Stay](https://open.spotify.com/track/4zu19OtPZq8ljWVhPthram) | [Abraham Alexander](https://open.spotify.com/artist/2f6fW5uWhqbEDXDK6IGirN) | [Stay](https://open.spotify.com/album/1Thc6xEDDKf6LsyE55ytOv) | 3:49 | 2021-12-21 |  |
+| [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 | 2022-08-12 |  |
 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 | 2022-02-24 |  |
 | [Stay Low](https://open.spotify.com/track/2zMa3j2F2h4UJbhpXivD3S) | [In Memoirs](https://open.spotify.com/artist/1LZevuTucGb3IEb84enBNt) | [Hope, Fear & Fashion](https://open.spotify.com/album/6nTvklCSNP03q78ix8Dh58) | 4:07 | 2022-05-13 | 2022-07-29 |
 | [Stay The Way I Left You \(feat\. Dahl\)](https://open.spotify.com/track/1wT9hNHjSdpKAK8ysEdAg7) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq), [Dahl](https://open.spotify.com/artist/2v9KnUyRW5IW6dWZtptQdU) | [Late Teens / Early Twenties](https://open.spotify.com/album/0HTwVQTBJLcpgvgtf78j55) | 2:12 | 2022-07-08 |  |

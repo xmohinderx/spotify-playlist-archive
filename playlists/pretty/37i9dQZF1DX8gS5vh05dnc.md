@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 
 > 想紓解緊張壓力，就聽這些輕鬆、愉快的歌曲來讓自己放輕鬆。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,597 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,623 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gS5vh05dnc.md) - [plain]
 | 37 | [Waiting On the World to Change](https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 3:21 |
 | 38 | [Dang! \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5iUQMwxUPdJBFeGkePtM66) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [The Divine Feminine](https://open.spotify.com/album/6f6tko6NWoH00cyFOl4VYQ) | 5:05 |
 | 39 | [Supalonely](https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4), [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [STELLA & STEVE](https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8) | 3:43 |
-| 40 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 |
+| 40 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
 | 41 | [Skate](https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:23 |
-| 42 | [Despacito \- Remix](https://open.spotify.com/track/6rPO02ozF3bM7NnOV4h6s2) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Despacito Feat\. Justin Bieber \(Remix\)](https://open.spotify.com/album/3Gq2Dme9nesdgoqNNlcN8O) | 3:48 |
+| 42 | [I Like That](https://open.spotify.com/track/2RkZZh5XQ4y3sG8gCu96Tz) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [I Like That](https://open.spotify.com/album/0Nu5uWgrnNGWWbWfzXPgPI) | 2:38 |
 | 43 | [Beautiful Soul](https://open.spotify.com/track/1HwpWwa6bnqqRhK8agG4RS) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Beautiful Soul](https://open.spotify.com/album/2gidE8vgVOkYufANjuvj3S) | 3:34 |
-| 44 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
-| 45 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
+| 44 | [Mad at Disney](https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Mad at Disney](https://open.spotify.com/album/1xWYSg7J7pxTZ113CJVy1P) | 2:16 |
+| 45 | [Kids Are Born Stars](https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Kids Are Born Stars](https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA) | 3:07 |
 | 46 | [Big Energy \(feat\. DJ Khaled\) \- Remix](https://open.spotify.com/track/0EJ3Kofm9hYq3hL4VZ881G) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Big Energy \(feat\. DJ Khaled\) \[Remix\]](https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv) | 3:01 |
 | 47 | [Downtown](https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Downtown](https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt) | 3:13 |
-| 48 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 |
-| 49 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
-| 50 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 |
+| 48 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
+| 49 | [Let's Fall in Love for the Night](https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Let’s Fall In Love For The Night](https://open.spotify.com/album/3LONldJV06J1AHEph6lopK) | 3:10 |
+| 50 | [Mean It](https://open.spotify.com/track/3uc8AGNL0KbvISIrjnfRvN) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [\~how i'm feeling\~](https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP) | 3:52 |
 
-Snapshot ID: `MTY1OTkyNDQ5NCwwMDAwMDAwMDk2ODAyODkzYTAyNTdmYmE5ZjQzZGVjNDlhOTc0MDUw`
+Snapshot ID: `MTY1OTkyNDQ5NCwwMDAwMDAwMGFhZWYwZDY4ZThhMTg4YmQzMTNiMTkwOGZkOTdiYjBk`

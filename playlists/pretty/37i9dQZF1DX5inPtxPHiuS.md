@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Oh'laville
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,953 likes - 60 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,981 likes - 60 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 8 | [Techo de Astros y Truenos: Fenómenos](https://open.spotify.com/track/4Bz2qeU43gmHUavvtLGOKP) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Primavera Febril](https://open.spotify.com/album/4YUGotNFarS1TGff1FkzeN) | 3:04 |
 | 9 | [Te Lastimé](https://open.spotify.com/track/29ewalVPcrRF03aTtWvD9z) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Calidosound](https://open.spotify.com/album/02jSWAxa0OgylMZkHApDyj) | 3:46 |
 | 10 | [Lobo Hombre en Paris](https://open.spotify.com/track/6wHbkqzDJqUsuXAzQgWH87) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [Babel \(Special Edition\)](https://open.spotify.com/album/1qDJZqRsBuvynficMP9CqK) | 3:47 |
-| 11 | [Dancing In The Dark](https://open.spotify.com/track/67AKmlZEFlxmiosbY9U5ea) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Dancing In The Dark](https://open.spotify.com/album/4WHWtwgH3asVLjzPmd1Hc7) | 4:04 |
-| 12 | [Solo](https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Niño Gigante](https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT) | 4:57 |
+| 11 | [Solo](https://open.spotify.com/track/1YKizTW9cW02HAUdMgThf8) | [Ekhymosis](https://open.spotify.com/artist/4gOoiVWzfjPtXK3ohuEy0M) | [Niño Gigante](https://open.spotify.com/album/3ys3fHtdrDDjoWaS68k8jT) | 4:57 |
+| 12 | [Dancing In The Dark](https://open.spotify.com/track/67AKmlZEFlxmiosbY9U5ea) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Dancing In The Dark](https://open.spotify.com/album/4WHWtwgH3asVLjzPmd1Hc7) | 4:04 |
 | 13 | [Baracunatana](https://open.spotify.com/track/2dtYgxJAFZlf6RwbRijeIp) | [Aterciopelados](https://open.spotify.com/artist/3MqjsWDLhq8SyY6N3PE8yW) | [Lo Esencial](https://open.spotify.com/album/1imzv4Lfobnw8htp6XHGvd) | 2:32 |
 | 14 | [No Más](https://open.spotify.com/track/3ObCX2lb4FlM1Rn9WUppst) | [Los De Adentro](https://open.spotify.com/artist/282UIRNs6aprjrs0ynDn6v) | [Volver Amar](https://open.spotify.com/album/7lNxWPJ2lAiCVWE3iACqpW) | 3:15 |
 | 15 | [El Puñal](https://open.spotify.com/track/6cO3H592rPALlR3XoUG0P9) | [La Derecha](https://open.spotify.com/artist/7JNwRhdFj1nB8I1OKTHbCO) | [Polvo Eres](https://open.spotify.com/album/7HasLPPt3DSEI2CQENBMPQ) | 4:23 |
@@ -33,12 +33,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 23 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
 | 24 | [Perdedor](https://open.spotify.com/track/5ar5amjRsCkf0Q83SDIpMl) | [Consulado Popular](https://open.spotify.com/artist/7A8fPSWDyJhjCtzHWhprQR) | [Perdedor](https://open.spotify.com/album/4LlHGstQq3kGoD76eJ6gaB) | 3:11 |
 | 25 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
-| 26 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
+| 26 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
 | 27 | [No Sé Si Volverá \(2010\) \- En Vivo](https://open.spotify.com/track/4McZzvdbv5LiiCTab7ZfjV) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Sesiones 10.10 \(En Vivo\)](https://open.spotify.com/album/39RUjOR8bOAvdCqlRRqQf4) | 5:07 |
 | 28 | [Todo Va a Arder](https://open.spotify.com/track/00cMA5Xuinekqx8ui1Eixy) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [B \(Deluxe Edition\)](https://open.spotify.com/album/44TWj8mzWLC1KrlGQ7asNY) | 3:21 |
 | 29 | [Barco de Papel](https://open.spotify.com/track/1ufmRhXT4AWHwSGak3ZO9T) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/2GQgIRVZ3XkqyiZKxHBDZP) | 3:31 |
-| 30 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
-| 31 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
+| 30 | [Desvanecer](https://open.spotify.com/track/1M0OhNeH1RFJdam3cAVvQL) | [Poligamia](https://open.spotify.com/artist/3l8MpG7CL6zqYDBhbcNG1O) | [15 Grandes Éxitos](https://open.spotify.com/album/0BKbOvXdF2QVXNwX63Iwbk) | 4:00 |
+| 31 | [El Tema de Amor Que Esperabas](https://open.spotify.com/track/7J4Ax9xslsyY7aw8ku7I6j) | [Las Yumbeñas](https://open.spotify.com/artist/2S1RZNDZE0W1pt57ytr1dh) | [Yumbotopía](https://open.spotify.com/album/05ySquwyP7g6JTiRzJKQc1) | 2:53 |
 | 32 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 |
 | 33 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
 | 34 | [Delirio](https://open.spotify.com/track/4iT2KQFHJHqbyOktqLkI23) | [Los Makenzy](https://open.spotify.com/artist/2H4hhmZnat1J12EI1u4N0s), [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Pipe Bravo](https://open.spotify.com/artist/1jQdrJgtbeqURoJDNUtQaq) | [Delirio](https://open.spotify.com/album/35nk59oHxNe8wQkGiDyAMI) | 3:30 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 48 | [Planetas](https://open.spotify.com/track/3OAr3wALlfcBz88S1oyu0z) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Anaranjado](https://open.spotify.com/album/6pgtJt1lDEZmoOC2fhgD0Y) | 3:16 |
 | 49 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
 | 50 | [Salir Ileso](https://open.spotify.com/track/4iG7vsYRFNlDMaH69fuETH) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL), [Mëlmak 69](https://open.spotify.com/artist/4vvDpSyIco1oUkGqhJxWX8) | [Salir Ileso](https://open.spotify.com/album/7BYksiPvBb4HVobCBJqqWK) | 3:23 |
-| 51 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
-| 52 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
+| 51 | [Salvaje Vagabundo](https://open.spotify.com/track/0gOvLUA0IHMUiDFPPINFnr) | [1280 Almas](https://open.spotify.com/artist/5skZhjSLizA2G1bJQp2iNM) | [Marteko Euriak](https://open.spotify.com/album/6FD2WgISjrdvvr7XSjKgYT) | 3:07 |
+| 52 | [A Tu Lado](https://open.spotify.com/track/4Yx4NDik0QW3hpKXTMOQNw) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [A Tu Lado](https://open.spotify.com/album/603lFzzUSI0yVjfQxlpXN2) | 3:23 |
 | 53 | [Voy a olvidarme de mi](https://open.spotify.com/track/2AklN5bNjuVAg3U3bKZ0Dk) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M), [Andrés Felipe Muñoz Lara](https://open.spotify.com/artist/70k6TbiV5FfziomRQvHrX7), [Sebastián Mejía](https://open.spotify.com/artist/2GcxW1f5KFCz3Rgc3OSAZS), [Jorge Iván Botero](https://open.spotify.com/artist/1rcnDmNR0ajpqHOrnNmsKO), [Julio Osorio](https://open.spotify.com/artist/1fcdwrNb20Yjm5P4kgnxsB) | [Covers](https://open.spotify.com/album/2ETz2y2dJ7bD7XfXXUaKjq) | 3:33 |
 | 54 | [Un Día Cómo Hoy](https://open.spotify.com/track/5BbV0srUESAQv3hFIWGdPM) | [Bonus Trak](https://open.spotify.com/artist/3v68dDHJPpjDZ3sJDNsqQP) | [Un Día Cómo Hoy](https://open.spotify.com/album/01SzUo0Zb1Xsa4mLOhnIXl) | 3:03 |
 | 55 | [Ave Nocturna](https://open.spotify.com/track/7Hnw7DhlqhfdywAqjNDXy5) | [Bajo Tierra](https://open.spotify.com/artist/3QyEoyQFrPTPxE01tTxjNm) | [Ave Nocturna](https://open.spotify.com/album/7kwFVg9z4gRPmmz8z5TZIH) | 3:37 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 |
 | 60 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 
-Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMGU4ZjM0YjQ5MjU5OTIwMWM5NTFkOTFiZWVlNDQ1N2Vh`
+Snapshot ID: `MTY1NjA0NzcwMCwwMDAwMDAwMDBhM2JhNWM0ZjBjZGZhZWEzNWYwNjg5YjkyMzdkN2M5`

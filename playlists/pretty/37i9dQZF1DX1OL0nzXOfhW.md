@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OL0nzXOfhW.md) - [plain]
 
 > 發掘世一超新聲，香港RADAR超新聲正式展開！Cover: 盧華
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,866 likes - 40 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,865 likes - 40 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

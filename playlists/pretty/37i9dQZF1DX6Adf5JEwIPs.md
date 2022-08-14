@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo nuevo de la Música Mexicana\. Cover: Los Plebes del Rancho de Ariel Camacho
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,256 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,342 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 36 | [Por Este Amor](https://open.spotify.com/track/3fzpyP4ZIErngyf50UtC4z) | [Grace Guillén](https://open.spotify.com/artist/04K92Tg6ryvoyNj1Xju6rD) | [Por Este Amor](https://open.spotify.com/album/4mvMp0GsL49qqlqrVmUbqI) | 3:43 |
 | 37 | [Somos Hombres No Payasos](https://open.spotify.com/track/6tjuqkmDiJboTN0YneYX0C) | [Otro Nivel](https://open.spotify.com/artist/2dCsNoreGt2dkckeSrszzp) | [Somos Hombres No Payasos](https://open.spotify.com/album/3WUNfrjWeS5Slr7iVjn7xJ) | 2:56 |
 | 38 | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/track/0hgTaCVMiUVwp4cK4kmkDW) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Ni Muy Niño Ni Muy Viejo](https://open.spotify.com/album/71kYjtmfd7gZcTMM73LyPV) | 2:54 |
-| 39 | [Por Curarte Las Heridas \- Studio](https://open.spotify.com/track/1APltI4KKn1wIQvS58mLAN) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Curarte Las Heridas](https://open.spotify.com/album/26dh4GCsZCTUD0ilc6vTAU) | 3:12 |
+| 39 | [Por Curarte Las Heridas](https://open.spotify.com/track/1APltI4KKn1wIQvS58mLAN) | [Erika Vidrio](https://open.spotify.com/artist/4psSCgqhwgjY16plPhSw9P) | [Por Curarte Las Heridas](https://open.spotify.com/album/26dh4GCsZCTUD0ilc6vTAU) | 3:12 |
 | 40 | [Tu Recuerdo en Cuatro Copas](https://open.spotify.com/track/2oZNqMMC13HGUYQJuqfIEH) | [José Alfredo](https://open.spotify.com/artist/2EutrFGTzcaM5NgNZlO52c), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Tu Recuerdo en Cuatro Copas](https://open.spotify.com/album/2ePPOkbeXCGkkicLgStenX) | 3:14 |
 | 41 | [Corre \- En Vivo](https://open.spotify.com/track/7JU8L4ufF2L2ZFaSeVNej6) | [Marilyn Odessa](https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w) | [Corre \(En Vivo\)](https://open.spotify.com/album/6wwyuM24CjBto1eYWBbyg0) | 3:18 |
 | 42 | [Invítame A Pecar \- En Vivo](https://open.spotify.com/track/2MbZ3WjCUUzkX8tVznWiYY) | [Banda La Misma Escuela](https://open.spotify.com/artist/6XWNbAQkiHTJz46yFENY43) | [Invítame A Pecar \(En Vivo\)](https://open.spotify.com/album/5M5zYhy8CdRgOXgXSaVVbp) | 3:33 |

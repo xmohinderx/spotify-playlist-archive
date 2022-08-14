@@ -4554,6 +4554,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [sad sierreño](/playlists/pretty/37i9dQZF1DWZQGZ7yvpH00.md)
 - [sad sla](/playlists/pretty/37i9dQZF1DX0H97kz3DdJ6.md)
 - [sanguegiovane](/playlists/pretty/37i9dQZF1DWW9tK1GiTdMf.md)
+- [scorned](/playlists/pretty/37i9dQZF1DX02pE0Dxwufo.md)
 - [sentimiento.](/playlists/pretty/37i9dQZF1DX4Ghyz32wen4.md)
 - [shōnen](/playlists/pretty/37i9dQZF1DX89EkrAT8Z6U.md)
 - [skad'aká](/playlists/pretty/37i9dQZF1DXdNw9eeM3mpo.md)

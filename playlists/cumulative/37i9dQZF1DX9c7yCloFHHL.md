@@ -4,7 +4,7 @@
 
 > The home of today’s cutting edge Ambient, Atmospheric and Neo Classical music\. Erland Cooper on cover.
 
-586 songs - 1 day 21 hr 57 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
+587 songs - 1 day 22 hr 0 min - [published](https://open.spotify.com/playlist/2VJZyunnZCFnCPLdfBtZ7N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [i want a white petal in my teacup](https://open.spotify.com/track/1oROJIuLMP3VcxhLJdAoiS) | [NRV](https://open.spotify.com/artist/4YDNbSN74NttKCbtKNYQoZ) | [Notari](https://open.spotify.com/album/7mVmnHy97vIe5dKMmj3p1M) | 5:44 | 2021-12-24 | 2022-03-04 |
 | [I've Got What I Need](https://open.spotify.com/track/5X7DeZgp2mRSkwc5tHrCNY) | [Nate Mercereau](https://open.spotify.com/artist/5fUnrD4Bwhct3etEOPID7X) | [SUNDAYS](https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K) | 4:54 | 2021-12-24 |  |
 | [Icarus](https://open.spotify.com/track/7znsnWlNp5NpC4whTL7RnQ) | [Rosentwig](https://open.spotify.com/artist/3RvDvs8u3A7qVJjkG6NoPb) | [Icarus](https://open.spotify.com/album/6kAXVR6ZJWzEIAp8OZMkVt) | 2:36 | 2021-12-24 | 2022-07-27 |
-| [Ideal](https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Renaissance](https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p) | 5:00 | 2022-03-16 |  |
+| [Ideal](https://open.spotify.com/track/6ou4vxp2Er281W1cqByTpC) | [Asaph Sánchez](https://open.spotify.com/artist/6WDgyfRIVQ68WwwnYZIOsI) | [Renaissance](https://open.spotify.com/album/3VENz2QJCmYvxXmEJw5w1p) | 5:00 | 2022-03-16 | 2022-08-14 |
 | [If](https://open.spotify.com/track/5nptEUCXW1z3I0Y6F3Wz3r) | [Niklas Paschburg](https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI), [Andy Barlow](https://open.spotify.com/artist/6TC2SpVp20fhwV7SAVr56o) | [Svalbard](https://open.spotify.com/album/57bDNgzUtAvKaL2wSPnsiF) | 5:07 | 2022-01-14 |  |
 | [If Anyone's Sleepy \- PTU Remix](https://open.spotify.com/track/5BY4B7OBSQdo0MduH5IcmY) | [Kate NV](https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx), [PTU](https://open.spotify.com/artist/70UHL8BEGqoUNmXfXi0nGr) | [Lu Na / If Anyone's Sleepy \(Remixes\)](https://open.spotify.com/album/0zzv1sE4oDC1K9RTLca3M8) | 4:15 | 2021-12-24 | 2022-01-29 |
 | [Im Fenster \- Midori Hirano Rework](https://open.spotify.com/track/7Li1gksDDC2ZcMUONx3jmh) | [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT), [Midori Hirano](https://open.spotify.com/artist/6q1lHz1O9inWPaToF6l5rj) | [Im Fenster \(Midori Hirano Rework\)](https://open.spotify.com/album/2RBe533TCvX6b3niOTwJNs) | 4:24 | 2021-12-24 | 2022-02-12 |
@@ -330,6 +330,7 @@
 | [Murmur \- Machinefabriek Remix](https://open.spotify.com/track/3sF0muGOQvjsV4ZKLxr7KQ) | [Simon Goff](https://open.spotify.com/artist/6TsjNI2RRk5DaCbKZK2J90), [Machinefabriek](https://open.spotify.com/artist/4Tzunwe7m9sBMSsmEV49Qo) | [Murmur \(Machinefabriek Remix\)](https://open.spotify.com/album/0ZO7czDtPwdpa76DvMdydf) | 4:01 | 2021-12-24 | 2022-02-13 |
 | [Music For Growing Flowers \- Pt\. 1](https://open.spotify.com/track/0u3745sLYXG4RGNd61YRbK) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:09 | 2022-08-12 |  |
 | [Music For Growing Flowers \- Pt\. 2](https://open.spotify.com/track/71dSoY9stxFkrx7z9HcOwS) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 3:38 | 2022-08-12 |  |
+| [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/1HoCiBasSm8HLDQ6TIyZlL) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 2:44 | 2022-08-12 |  |
 | [Music For Growing Flowers \- Pt\. 5](https://open.spotify.com/track/7JDWgXllpyJqPlxGnaY80u) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers – Pt\. 5](https://open.spotify.com/album/3KTMP9GcFuVttRKCzWf3T6) | 2:44 | 2022-07-01 | 2022-08-11 |
 | [Music For Growing Flowers \- Pt\. 7](https://open.spotify.com/track/3I2zndi9j1FAt30rA8ZHaz) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 4:55 | 2022-08-12 |  |
 | [Music For Psychedelic Therapy \- Excerpt](https://open.spotify.com/track/4xT0BmSuDNp2vkK5v07yba) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Music For Psychedelic Therapy \(Excerpt\)](https://open.spotify.com/album/0gO5MR5zzkhqplcMbpYTQv) | 7:07 | 2021-12-24 |  |

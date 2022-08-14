@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: <a href=\"https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=BTR6ApmMTNm_3xNhhimsFw\">Tems</a>",
-  "num_followers": 539966,
+  "num_followers": 540322,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGNlYjg4Y2U5NGQ2NDUwZjYyZTFhMTZhMmRlNmFhN2Y3",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDg1Y2FiYzNhOWIyOTBkZTgyM2JkNjAxYTdmZTQ5N2E2",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -51,26 +51,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 159123,
-      "name": "For My Hand (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -87,6 +67,26 @@
       "duration_ms": 116727,
       "name": "ENERGY (feat. Beam)",
       "url": "https://open.spotify.com/track/0314PeD1sQNonfVWix3B2K"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 159123,
+      "name": "For My Hand (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -151,22 +151,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Last Last",
-        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 203383,
       "name": "MOVE (feat. Grace Jones & Tems)",
       "url": "https://open.spotify.com/track/5YLGlPYkZBDXieMwzVve7g"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Last Last",
+        "url": "https://open.spotify.com/album/6aWJgsbvVPQR2HgPztf4qe"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/2PDgArI0p7UkeYgXWuqpmh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -294,10 +294,6 @@
         {
           "name": "Juls",
           "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
       "duration_ms": 152523,
@@ -375,22 +371,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "Propeller (feat. Dave & BNXN)",
+        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
         },
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "BNXN fka Buju",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
         }
       ],
-      "duration_ms": 192417,
-      "name": "Fountains (with Tems)",
-      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
+      "duration_ms": 204440,
+      "name": "Propeller (feat. Dave & BNXN)",
+      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -423,26 +423,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Propeller (feat. Dave & BNXN)",
-        "url": "https://open.spotify.com/album/1HpHd9hLNy77kZx5w07xqD"
+        "name": "Certified Lover Boy",
+        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
       "artists": [
         {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "BNXN fka Buju",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 204440,
-      "name": "Propeller (feat. Dave & BNXN)",
-      "url": "https://open.spotify.com/track/4A7sSA10D35HQUNrSOl5Zo"
+      "duration_ms": 192417,
+      "name": "Fountains (with Tems)",
+      "url": "https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -987,22 +983,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Legalize",
-        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 146249,
-      "name": "Legalize",
-      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Dimension (feat. Skepta & Rema)",
         "url": "https://open.spotify.com/album/0Zp33hB1LZhbpMQCNfzeVF"
       },
@@ -1023,6 +1003,22 @@
       "duration_ms": 234026,
       "name": "Dimension (feat. Skepta & Rema)",
       "url": "https://open.spotify.com/track/2Jy4EdqIZswDZvVDh5dx3A"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Legalize",
+        "url": "https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 146249,
+      "name": "Legalize",
+      "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1239,8 +1235,8 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Damn (feat. 6lack)",
-        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
+        "name": "Boy Alone",
+        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
       },
       "artists": [
         {
@@ -1248,13 +1244,13 @@
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 159338,
-      "name": "Damn (feat. 6lack)",
-      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
+      "duration_ms": 180563,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1335,8 +1331,8 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Boy Alone",
-        "url": "https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem"
+        "name": "Damn (feat. 6lack)",
+        "url": "https://open.spotify.com/album/6QRekwLova6fc0YkVfEoTi"
       },
       "artists": [
         {
@@ -1344,13 +1340,13 @@
           "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
         }
       ],
-      "duration_ms": 180563,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/2IhARxCm5lBKHgQvGw8RPo"
+      "duration_ms": 159338,
+      "name": "Damn (feat. 6lack)",
+      "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1451,30 +1447,38 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
-        "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Focalistic",
-          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Abidoza",
-          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 169911,
-      "name": "WATAWI (feat. Davido, Focalistic & Abidoza) - Edit",
-      "url": "https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz"
+      "duration_ms": 174421,
+      "name": "Might Let You (feat. Davido)",
+      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "AWAY",
+        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+      },
+      "artists": [
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 164571,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1499,42 +1503,30 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "AWAY",
-        "url": "https://open.spotify.com/album/0ARscMPXbdZCwPgjhFPTWy"
+        "name": "WATAWI (feat. Davido, Focalistic & Abidoza) [Edit]",
+        "url": "https://open.spotify.com/album/2aN0xNQEkjaEGW2d0NReSg"
       },
       "artists": [
         {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/1wfIqsTXmMVtZxYk8uWxGa"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Blessings REMIX (feat. French Montana & Davido)",
-        "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
-      },
-      "artists": [
-        {
-          "name": "Angel",
-          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+          "name": "Focalistic",
+          "url": "https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Abidoza",
+          "url": "https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Blessings REMIX (feat. French Montana & Davido)",
-      "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
+      "duration_ms": 169911,
+      "name": "WATAWI (feat. Davido, Focalistic & Abidoza) - Edit",
+      "url": "https://open.spotify.com/track/2ZLcMQmxJvHHQgcRbawsjz"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1575,22 +1567,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+        "name": "Blessings REMIX (feat. French Montana & Davido)",
+        "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
       "artists": [
         {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+          "name": "Angel",
+          "url": "https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R"
+        },
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 174421,
-      "name": "Might Let You (feat. Davido)",
-      "url": "https://open.spotify.com/track/1q03sSwtOk5czzjKFa4qhA"
+      "duration_ms": 225000,
+      "name": "Blessings REMIX (feat. French Montana & Davido)",
+      "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1991,6 +1987,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "All or Nothing",
+        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
+      },
+      "artists": [
+        {
+          "name": "Rotimi",
+          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
+        },
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 206786,
+      "name": "Fiction (feat. Busy Signal)",
+      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/3dHnvFaf3fJFPqCOjzWURD"
       },
@@ -2027,26 +2043,6 @@
       "duration_ms": 162680,
       "name": "juju",
       "url": "https://open.spotify.com/track/1Ji8uyxpJ8HwW94wlEY9ip"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "All or Nothing",
-        "url": "https://open.spotify.com/album/35J4qJY7CLZzn3o682sx2V"
-      },
-      "artists": [
-        {
-          "name": "Rotimi",
-          "url": "https://open.spotify.com/artist/1xBARhKI09ZTmeePVDWMCf"
-        },
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 206786,
-      "name": "Fiction (feat. Busy Signal)",
-      "url": "https://open.spotify.com/track/27FUxZMduwKmhhCmnXjqTO"
     }
   ],
   "unique_name": "We Everywhere",

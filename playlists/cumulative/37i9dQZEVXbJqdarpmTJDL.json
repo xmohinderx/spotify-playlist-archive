@@ -15240,6 +15240,28 @@
     },
     {
       "album": {
+        "name": "Spot",
+        "url": "https://open.spotify.com/album/5zDrt7HXqn3iCgPk5fA6Ko"
+      },
+      "artists": [
+        {
+          "name": "Strat",
+          "url": "https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158445,
+      "name": "Spot",
+      "url": "https://open.spotify.com/track/3aZs6ZP7YrLXHOJEXGsB88"
+    },
+    {
+      "album": {
         "name": "Prometheus",
         "url": "https://open.spotify.com/album/5gBnMPbN5lduEZZU22lQ1W"
       },
@@ -16421,7 +16443,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 191477,
       "name": "Tilefono",
       "url": "https://open.spotify.com/track/7bohfOpcSFE5cE4zBpt0ST"

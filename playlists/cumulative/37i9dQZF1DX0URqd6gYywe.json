@@ -624,6 +624,24 @@
     },
     {
       "album": {
+        "name": "Guerras (Un Viaje en el Tiempo)",
+        "url": "https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR"
+      },
+      "artists": [
+        {
+          "name": "Ciro y los Persas",
+          "url": "https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi"
+        }
+      ],
+      "date_added": "2022-07-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302731,
+      "name": "El Farolito (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy"
+    },
+    {
+      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -1133,7 +1151,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 318560,
       "name": "Miel",
       "url": "https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO"

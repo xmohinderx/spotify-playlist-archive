@@ -1,12 +1,12 @@
 {
   "description": "Rock that was on repeat during the summers of the 2000s.",
-  "num_followers": 22049,
+  "num_followers": 22084,
   "original_name": "00s Summer Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMDYwMzM3MjBhMGE4ZjExOGQwZDBiMGRmMTZiYjIxMGI5",
+  "snapshot_id": "MTY1MDkxNjc2NywwMDAwMDAwMGNiMDdjNzZmNmQ0MTFlYmY3NDEyYzhhMjVkMzVlZGVm",
   "tracks": [
     {
       "added_at": "2021-04-09 06:36:41",
@@ -507,18 +507,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "The Fray",
-        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "The Fray",
-          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 241853,
-      "name": "You Found Me",
-      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
+      "duration_ms": 321040,
+      "name": "Take A Look Around",
+      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -555,18 +555,18 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "The Fray",
+        "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "The Fray",
+          "url": "https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK"
         }
       ],
-      "duration_ms": 321040,
-      "name": "Take A Look Around",
-      "url": "https://open.spotify.com/track/2avKuMN2QXkaG9vvHa2JLt"
+      "duration_ms": 241853,
+      "name": "You Found Me",
+      "url": "https://open.spotify.com/track/4IoYz8XqqdowINzfRrFnhi"
     },
     {
       "added_at": "2021-04-09 06:36:41",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2021-04-09 06:36:41",
       "album": {
-        "name": "Tyrannosaurus Hives",
-        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
-      },
-      "artists": [
-        {
-          "name": "The Hives",
-          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
-        }
-      ],
-      "duration_ms": 211813,
-      "name": "Walk Idiot Walk",
-      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
-    },
-    {
-      "added_at": "2021-04-09 06:36:41",
-      "album": {
         "name": "Favourite Worst Nightmare (Standard Version)",
         "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 170253,
       "name": "Brianstorm",
       "url": "https://open.spotify.com/track/5rTIpPWeO0IL4HWlGWrz5G"
+    },
+    {
+      "added_at": "2021-04-09 06:36:41",
+      "album": {
+        "name": "Tyrannosaurus Hives",
+        "url": "https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV"
+      },
+      "artists": [
+        {
+          "name": "The Hives",
+          "url": "https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt"
+        }
+      ],
+      "duration_ms": 211813,
+      "name": "Walk Idiot Walk",
+      "url": "https://open.spotify.com/track/5Pdd4QCr0rREXM03zBM2Eh"
     },
     {
       "added_at": "2021-04-09 06:36:41",

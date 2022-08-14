@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 
 > Music from the most memorable Super Bowl halftime shows\. Cover: Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,052 likes - 96 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,075 likes - 96 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,10 +60,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 50 | [Gospel \(with Eminem\)](https://open.spotify.com/track/3a2jFwnts4Cf0OwJbK61SL) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Gospel \(with Eminem\)](https://open.spotify.com/album/5ulYXl8kDywda5dOOFkZpX) | 3:30 |
 | 51 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 52 | [Me Gusta](https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Me Gusta](https://open.spotify.com/album/4IcQ1ni07PmlOenqwf6MgG) | 3:10 |
-| 53 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 53 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
 | 54 | [Ain't Your Mama](https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Ain't Your Mama](https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp) | 3:38 |
-| 55 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
-| 56 | [I Kissed A Girl](https://open.spotify.com/track/005lwxGU1tms6HGELIcUv9) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 2:59 |
+| 55 | [Walk This Way \(feat\. Aerosmith\)](https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA), [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Raising Hell](https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg) | 5:10 |
+| 56 | [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 |
 | 57 | [Just A Girl](https://open.spotify.com/track/5lWRaa0fBxDE5yU91npPq7) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Tragic Kingdom](https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8) | 3:29 |
 | 58 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
 | 59 | [Swimming Pools \(Drank\) \- Extended Version](https://open.spotify.com/track/5ujh1I7NZH5agbwf7Hp8Hc) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:13 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 67 | [\(Love Is Like A\) Heat Wave](https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF) | [Martha Reeves & The Vandellas](https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP) | [Heat Wave](https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK) | 2:43 |
 | 68 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
 | 69 | [Who Are You](https://open.spotify.com/track/23IJ5wLRhEZ9DOuia5mPiZ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 6:21 |
-| 70 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
+| 70 | [Cowboy](https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:17 |
 | 71 | [Lose Control \(feat\. Ciara & Fat Man Scoop\)](https://open.spotify.com/track/0UaMYEvWZi0ZqiDOoHU3YI) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Fatman Scoop](https://open.spotify.com/artist/15GGbJKqC6w0VYyAJtjej6) | [The Cookbook](https://open.spotify.com/album/6vV5UrXcfyQD1wu4Qo2I9K) | 3:46 |
-| 72 | [Cowboy](https://open.spotify.com/track/19LT4ZUEeoUdimKE04WJJg) | [Kid Rock](https://open.spotify.com/artist/7dOBabd5O4CvKrg4iriHTM) | [Devil Without a Cause](https://open.spotify.com/album/7nFlAxnXMrQRpM1R80pKQm) | 4:17 |
+| 72 | [Bad Boy for Life](https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Black Rob](https://open.spotify.com/artist/1QPZhx0asYTBxD5RDqfU49), [Mark Curry](https://open.spotify.com/artist/20N6dS0vq9kMWXUqEkFrBA) | [The Saga Continues...](https://open.spotify.com/album/28BrFxsnBMjN689hOuf1jv) | 4:13 |
 | 73 | [Beautiful Day](https://open.spotify.com/track/1VuBmEauSZywQVtqbxNqka) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [All That You Can't Leave Behind](https://open.spotify.com/album/7gskILm9UyDvFlmmAoqn2g) | 4:06 |
 | 74 | [Step by Step](https://open.spotify.com/track/6J6RWKCPN5RFKHUKEUFjxS) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Step By Step](https://open.spotify.com/album/4dCdnfD0shXGuHtyTOtx8q) | 4:27 |
 | 75 | [Motownphilly](https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Cooleyhighharmony \(Bonus Tracks Version\)](https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO) | 3:55 |
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNQEmXRHxVe.md) - [plain]
 | 95 | [Live For Loving You](https://open.spotify.com/track/6eT8JIrp1I3N6UfzXSnFhU) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Into The Light](https://open.spotify.com/album/1TVVVSbdBRF6KtffVu0p2g) | 4:36 |
 | 96 | [The Recipe \- Bonus Track](https://open.spotify.com/track/1eRBW1HcyM1zPlxO26cScZ) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/3DGQ1iZ9XKUQxAUWjfC34w) | 5:52 |
 
-Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDUwODk0YjRmY2EwNWJkYTVjZWYyYzY3ZGE2YjJkOTI4`
+Snapshot ID: `MTY0NDU4ODYwMywwMDAwMDAwMDk1ZDQ4MWZhYzY3MDFlYmZmNzA2MDZiZDY2OGQ3MmYy`

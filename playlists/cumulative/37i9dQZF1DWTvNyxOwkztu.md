@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy these relaxed beats.
 
-203 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+204 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Adore](https://open.spotify.com/track/2elyvOdJyP3b0h0FxM7BqT) | [Apsa](https://open.spotify.com/artist/6DDiYDtHywDhJPGHDCSKzm) | [Adore](https://open.spotify.com/album/6FTW4vthpJX9HeB97mtvh4) | 2:02 | 2021-12-09 |  |
 | [Adventurous](https://open.spotify.com/track/1Fqwyw77YAzrBVSaJp9kFm) | [Mellowdy](https://open.spotify.com/artist/2qcHi6YzCJYvbHIs0jvHGc) | [Adventurous](https://open.spotify.com/album/4HEaT0EG4q2UpZvkyVPm6W) | 2:59 | 2021-12-09 |  |
 | [Africa to the World](https://open.spotify.com/track/2SVPNYPAozCGQP4C7uhTqq) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/5DHuZXoJiWYFbtqxRYDPH2) | 2:26 | 2021-12-09 | 2022-07-29 |
+| [Africa to the World](https://open.spotify.com/track/5v3gUhVDurjzJZ2ycJN1xu) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ) | [Africa to the World](https://open.spotify.com/album/3z61lYxp7ucCtjInYmPvWR) | 2:26 | 2022-08-05 |  |
 | [Agoura Eyes](https://open.spotify.com/track/0d036L67zOm3Il6h3jLCb7) | [Parker Son](https://open.spotify.com/artist/3ID3ZMg7Mf5wRvqFJwF82r) | [Agoura Eyes](https://open.spotify.com/album/6NTIOA7EHjs7tS3s88P28N) | 2:24 | 2021-12-09 | 2022-07-22 |
 | [Alabora](https://open.spotify.com/track/3uI33EsE7AVM3GMxaOn7fv) | [Beyhude](https://open.spotify.com/artist/65orViGnlMcbptdIGceZzo) | [Alabora](https://open.spotify.com/album/5aFbgu112bBrasrwQWVk2O) | 7:03 | 2021-12-09 |  |
 | [All Equal](https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [All Equal](https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS) | 3:42 | 2021-12-09 |  |
@@ -205,7 +206,7 @@
 | [Waves](https://open.spotify.com/track/2IeGo6SC3TRmqQxFCW0hAT) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Waves](https://open.spotify.com/album/6ent80pUTxQywClxcj0JZT) | 3:30 | 2022-06-02 |  |
 | [Waves](https://open.spotify.com/track/6O1nKsN1VUQDic17dTaZmw) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Waves](https://open.spotify.com/album/5i6qghXwHblajkE2DeV9yE) | 3:30 | 2021-12-09 | 2022-07-29 |
 | [White Dust](https://open.spotify.com/track/2zlmxxH4eHn2rmBZRQRwEY) | [Sun Mirage](https://open.spotify.com/artist/3wqjOyUcOsV0wSLgCsGwf4) | [It's all clear now](https://open.spotify.com/album/4nZ4IAl00PTqsNs0AmC0GA) | 4:02 | 2021-12-09 |  |
-| [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 |  |
+| [White Sand](https://open.spotify.com/track/6SDgWPio1gMsTmYzRKjVAs) | [Saint Haux](https://open.spotify.com/artist/6U0eV4Y0Uyfa9UadndH7hg) | [White Sand](https://open.spotify.com/album/2UsS2tEkeUIi4vRS1dkRQH) | 3:08 | 2021-12-09 | 2022-08-14 |
 | [Wings](https://open.spotify.com/track/6LUMBf6Tkb4ZKIihUYzzax) | [Näver](https://open.spotify.com/artist/1HRjMYr2iqidxK45p1lRM0) | [Wings](https://open.spotify.com/album/0vZb5GeHCfPZXGEYZVqnNj) | 3:07 | 2022-01-21 |  |
 | [Wishes](https://open.spotify.com/track/2spvatSBWwVXUVT8EIzjts) | [Cratouille](https://open.spotify.com/artist/71bT9EEHGRQNqKHVwS1kdR) | [Wishes](https://open.spotify.com/album/2gGOKB9hjdPnYyQkAdNHPS) | 3:01 | 2021-12-09 | 2022-08-06 |
 | [Wonderful People \- Original Mix](https://open.spotify.com/track/40sgR4OCBYNMpE3bQmlqJL) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Piano Lessons](https://open.spotify.com/album/0F4jOKzO7GXng1LR31BV0s) | 7:47 | 2021-12-09 |  |

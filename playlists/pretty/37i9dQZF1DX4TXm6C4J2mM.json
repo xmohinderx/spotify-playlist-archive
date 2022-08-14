@@ -1,12 +1,12 @@
 {
   "description": "Den perfekta mixade spellistan f\u00f6r tr\u00e4ningspasset.",
-  "num_followers": 157320,
+  "num_followers": 157318,
   "original_name": "Tr\u00e4ning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMGM3NWMyMWVhNWM2ODgwMDZiZmQ2NGEwM2ZkMDk3YWI2",
+  "snapshot_id": "MTY1Nzg5NDI0NCwwMDAwMDAwMDAwY2VlZjQwNWVjYmEzYmUyYzMzM2FmMjhjMjgzMzli",
   "tracks": [
     {
       "added_at": "2022-07-15 14:10:44",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "To The Moon & Back",
+        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
+      },
+      "artists": [
+        {
+          "name": "Eight Waters",
+          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "To The Moon & Back",
+      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Creep (mint Singles)",
         "url": "https://open.spotify.com/album/31LEjqDdP0TyZgiuse84cf"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 161190,
       "name": "Creep - mint Singles",
       "url": "https://open.spotify.com/track/5LRxdeykOfvKb1aWGrrGyo"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "To The Moon & Back",
-        "url": "https://open.spotify.com/album/7bWx6LxzmEd9JJ0I7OMqBW"
-      },
-      "artists": [
-        {
-          "name": "Eight Waters",
-          "url": "https://open.spotify.com/artist/3msbM40j3i96Q6xToNa28Y"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "To The Moon & Back",
-      "url": "https://open.spotify.com/track/1VGveBIiTkrnK27Bj0FAzu"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "In My Head (On My Mind)",
-        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "In My Head (On My Mind)",
-      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Stars Align (with Jolin Tsai)",
         "url": "https://open.spotify.com/album/79hQ8RdrbrZDjceDsdTYm5"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 161904,
       "name": "Stars Align (with Jolin Tsai)",
       "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "In My Head (On My Mind)",
+        "url": "https://open.spotify.com/album/2kHF4Kt6da7GupfAzPcMrA"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "In My Head (On My Mind)",
+      "url": "https://open.spotify.com/track/6VXRlDvbQbZg8k4TplGW3J"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Bass Goes Down",
-        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
-      },
-      "artists": [
-        {
-          "name": "MOLOW",
-          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
-        },
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        }
-      ],
-      "duration_ms": 144449,
-      "name": "Bass Goes Down",
-      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "All Comes Back To You",
         "url": "https://open.spotify.com/album/5sF8cTLQirqDYQWJwzxq87"
       },
@@ -1107,26 +1087,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
-        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
+        "name": "Bass Goes Down",
+        "url": "https://open.spotify.com/album/2JgIfDQUhkptCzJZkhPiY0"
       },
       "artists": [
         {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+          "name": "MOLOW",
+          "url": "https://open.spotify.com/artist/3X2bWmlO8Oq7dIeEgAbTAB"
         },
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
         }
       ],
-      "duration_ms": 168824,
-      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
-      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
+      "duration_ms": 144449,
+      "name": "Bass Goes Down",
+      "url": "https://open.spotify.com/track/0HfNmWE8fohKdQCXbR1CwS"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1199,6 +1175,30 @@
       "duration_ms": 136500,
       "name": "Te Bot\u00e9",
       "url": "https://open.spotify.com/track/3WK855oWM0YXIWKqkIwK6U"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Fake A Smile (feat. salem ilese) [Remixes]",
+        "url": "https://open.spotify.com/album/2fqN9pZSHYwf1PaaEgPeyO"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 168824,
+      "name": "Fake A Smile (feat. salem ilese) - R3HAB Remix",
+      "url": "https://open.spotify.com/track/1dMsLbHAMiWPzUUbLrXAwF"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Fighter",
+        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
+      },
+      "artists": [
+        {
+          "name": "Klaas",
+          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Fighter",
+      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Raindrops",
         "url": "https://open.spotify.com/album/0sOqBTPwD7ev0X9k0RLqyf"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 151832,
       "name": "Raindrops",
       "url": "https://open.spotify.com/track/14DkH5iDM1ZaA3hMfJeRuM"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Fighter",
-        "url": "https://open.spotify.com/album/2XjDpISRYzFI7okmx0YZPS"
-      },
-      "artists": [
-        {
-          "name": "Klaas",
-          "url": "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Fighter",
-      "url": "https://open.spotify.com/track/4rBjP3PrWdWEdFdTt33H9X"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Come Alive",
-        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Robbie Rosen",
-          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
-        }
-      ],
-      "duration_ms": 209663,
-      "name": "Come Alive",
-      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3BkE4Ws2kwc5RPL9qoDQPI"
       },
@@ -1763,6 +1743,46 @@
       "duration_ms": 147725,
       "name": "Kids",
       "url": "https://open.spotify.com/track/10A0QRPnDy605pBZ5Lw3pL"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Come Alive",
+        "url": "https://open.spotify.com/album/431dPv3igSZocpya96M9Dm"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Robbie Rosen",
+          "url": "https://open.spotify.com/artist/1569hvm0IW3DHOfruYP2lM"
+        }
+      ],
+      "duration_ms": 209663,
+      "name": "Come Alive",
+      "url": "https://open.spotify.com/track/5rbnKSSsith3hIrj9Pi1Yw"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Something Like That",
+        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
+      },
+      "artists": [
+        {
+          "name": "Mike Candys",
+          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
+        },
+        {
+          "name": "le Shuuk",
+          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
+        }
+      ],
+      "duration_ms": 164160,
+      "name": "Something Like That",
+      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
-        "name": "Something Like That",
-        "url": "https://open.spotify.com/album/6ffcpnaUecLcpNj6Nx56jw"
-      },
-      "artists": [
-        {
-          "name": "Mike Candys",
-          "url": "https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9"
-        },
-        {
-          "name": "le Shuuk",
-          "url": "https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u"
-        }
-      ],
-      "duration_ms": 164160,
-      "name": "Something Like That",
-      "url": "https://open.spotify.com/track/0VDazr5nn6zpfjyXR7ZWXd"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
         "name": "Million Ways (Remixes)",
         "url": "https://open.spotify.com/album/6RKJnTD9NaJBQN4Bb9t33s"
       },
@@ -1827,30 +1827,6 @@
       "duration_ms": 142120,
       "name": "Million Ways - Steve Void Remix",
       "url": "https://open.spotify.com/track/7Jp1D99U01dG9Wwoa4el7j"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Kiss My (Uh Oh) [Billen Ted Remix]",
-        "url": "https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        },
-        {
-          "name": "Billen Ted",
-          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
-        }
-      ],
-      "duration_ms": 165815,
-      "name": "Kiss My (Uh Oh) - Billen Ted Remix",
-      "url": "https://open.spotify.com/track/1owq4K5HuyCa3aVYv6Hj4k"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -1875,6 +1851,30 @@
       "duration_ms": 193920,
       "name": "Wave (feat. Mike Sabath) - R3HAB Remix",
       "url": "https://open.spotify.com/track/4owZgn8PCpafrhBzJD7wNj"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
+        "name": "Kiss My (Uh Oh) [Billen Ted Remix]",
+        "url": "https://open.spotify.com/album/1usw2Ln7GF9WsAtIwTiZ2w"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        },
+        {
+          "name": "Billen Ted",
+          "url": "https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82"
+        }
+      ],
+      "duration_ms": 165815,
+      "name": "Kiss My (Uh Oh) - Billen Ted Remix",
+      "url": "https://open.spotify.com/track/1owq4K5HuyCa3aVYv6Hj4k"
     },
     {
       "added_at": "2022-07-15 14:10:44",
@@ -2091,6 +2091,26 @@
     {
       "added_at": "2022-07-15 14:10:44",
       "album": {
+        "name": "Magic",
+        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
+      },
+      "artists": [
+        {
+          "name": "Zookeepers",
+          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
+        },
+        {
+          "name": "TOOMANYLEFTHANDS",
+          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
+        }
+      ],
+      "duration_ms": 194220,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
+    },
+    {
+      "added_at": "2022-07-15 14:10:44",
+      "album": {
         "name": "Let\u2019s Go Home Together (MOTi Remix)",
         "url": "https://open.spotify.com/album/29TEQj74Hb0FObdoPXY5IN"
       },
@@ -2111,26 +2131,6 @@
       "duration_ms": 160000,
       "name": "Let\u2019s Go Home Together - MOTi Remix",
       "url": "https://open.spotify.com/track/043WLrvXDkihMzFI0lfvp8"
-    },
-    {
-      "added_at": "2022-07-15 14:10:44",
-      "album": {
-        "name": "Magic",
-        "url": "https://open.spotify.com/album/78qCT4QKVUaXZwJGtPfAb1"
-      },
-      "artists": [
-        {
-          "name": "Zookeepers",
-          "url": "https://open.spotify.com/artist/1frSJ3BwjRHE9jgMRQV5wC"
-        },
-        {
-          "name": "TOOMANYLEFTHANDS",
-          "url": "https://open.spotify.com/artist/5tCPpDoXfTKy5yTongtDAT"
-        }
-      ],
-      "duration_ms": 194220,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/5qLK7mVhmrqZ1KV0Wn1tU5"
     }
   ],
   "unique_name": "Tr\u00e4ning",

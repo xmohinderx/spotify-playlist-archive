@@ -187,7 +187,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 299413,
       "name": "Fire And Rain",
       "url": "https://open.spotify.com/track/1EHQIcvBr0kwsWYvVqUMG9"
@@ -267,7 +267,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 243400,
       "name": "Grown & Sexy",
       "url": "https://open.spotify.com/track/2FlaI8o6RjwfiwyN2eMkOY"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 250080,
       "name": "Hurt You",
       "url": "https://open.spotify.com/track/7EB10pKYUvwe7nnCBBn6mA"
@@ -732,6 +732,28 @@
     },
     {
       "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -857,7 +879,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 358426,
       "name": "Something Bout You",
       "url": "https://open.spotify.com/track/5r3cGlrATha1Li3bMdJrEQ"
@@ -991,7 +1013,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 259266,
       "name": "Tender Lover",
       "url": "https://open.spotify.com/track/00GfGwzlSB8DoA0cDP2Eit"

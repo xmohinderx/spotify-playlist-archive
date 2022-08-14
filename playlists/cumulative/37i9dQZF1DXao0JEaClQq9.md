@@ -4,7 +4,7 @@
 
 > if it feels ethereal, it's here\. cover: Montell Fish
 
-424 songs - 1 day 2 hr 13 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
+425 songs - 1 day 2 hr 17 min - [published](https://open.spotify.com/playlist/4CRtbJr5tLg7o8NQ01m1n7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Get My Shit Together](https://open.spotify.com/track/1Z6zf9Wo5OOi0rXnN8VwTs) | [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj), [Thouxanbanfauni](https://open.spotify.com/artist/1O8X4zxUh4AdAPFttOTlLr) | [WDYWTBWYGU](https://open.spotify.com/album/6sd1FmCTSPabYh4aHRICTu) | 3:10 | 2022-06-03 | 2022-06-11 |
 | [ghost](https://open.spotify.com/track/0mIZJApcnV5qnNgdfljoHf) | [xxsagexx](https://open.spotify.com/artist/4g1ExmNRjpmwlalG0VzAbH) | [ghost](https://open.spotify.com/album/6d4lsPM1Iaj2ph9HWscfjb) | 2:06 | 2022-01-28 | 2022-04-21 |
 | [girl of my dreams](https://open.spotify.com/track/1yf64DXlkiJ8oMSoUxZzLr) | [Dxvid](https://open.spotify.com/artist/5jSt4R2f03LpayhdOZrC7r) | [girl of my dreams](https://open.spotify.com/album/1HZ8JNnJYVHUoUUJpM6ldD) | 3:42 | 2022-04-22 | 2022-08-03 |
+| [Girl of My Dreams](https://open.spotify.com/track/5ERQFMCgW9JO5EWqwWGpmO) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Girl of My Dreams](https://open.spotify.com/album/11rLG3oF7eWzP079JDQUg3) | 3:42 | 2022-04-22 |  |
 | [Girl of My Dreams](https://open.spotify.com/track/5RdTT9trEnmVML9PlBqNKr) | [Guti](https://open.spotify.com/artist/6BYc2AlVqCvVqTpTvz792O) | [Late Nights and Heartbreak](https://open.spotify.com/album/2QKh9vmbvNmBwsAzptNHfF) | 3:42 | 2022-04-22 | 2022-06-01 |
 | [Glass](https://open.spotify.com/track/0QMaNirJT0S10i9MXJFWbQ) | [Blood Cultures](https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis) | [Oh Uncertainty! A Universe Despairs](https://open.spotify.com/album/0cafqSXPiqB0jf1hiTAOI0) | 2:55 | 2021-06-03 | 2022-06-01 |
 | [Glider \- from "Sable" Original Video Game Soundtrack](https://open.spotify.com/track/3LEvqWwkTAZD29xXRNjWSk) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Glider \(from "Sable" Original Video Game Soundtrack\)](https://open.spotify.com/album/70zXnYjeRgIzhiC7gYJZpO) | 2:51 | 2021-09-10 | 2022-07-29 |
@@ -322,7 +323,7 @@
 | [Secrets \(Your Fire\)](https://open.spotify.com/track/1jZwVqFP2v8mhdvEkj4mPa) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Secrets \(Your Fire\)](https://open.spotify.com/album/3pBnAbc3sR4PSH8dfAJmgC) | 4:05 | 2021-08-13 | 2022-04-23 |
 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 | 2022-06-03 |  |
 | [seer](https://open.spotify.com/track/7boiFhcGcfE3DRMvM5nJkD) | [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [plague town](https://open.spotify.com/album/4vE4Kr73Pai0UGZ98J4tW6) | 2:49 | 2021-06-03 | 2022-07-24 |
-| [Serenade of Water](https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:05 | 2021-08-27 |  |
+| [Serenade of Water](https://open.spotify.com/track/5tt7O3V5vwf8ltkr1Wgxrf) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 3:05 | 2021-08-27 | 2022-08-14 |
 | [sex money feelings die \- slowed version](https://open.spotify.com/track/0dkvbYmXYEPK7gGMdytmfI) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [sex money feelings die \(slowed version\)](https://open.spotify.com/album/7bL1fTsGeOyxv29BNVtMb1) | 2:48 | 2022-06-03 |  |
 | [shell](https://open.spotify.com/track/2FUUXKc681PUENWYRsL3f6) | [Tohji](https://open.spotify.com/artist/7j7kL8K4GE1z5Cdxl7ucBF), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [t\-mix](https://open.spotify.com/album/4IHM3NRzz1b6g9qsO5M583) | 3:09 | 2022-06-03 | 2022-06-26 |
 | [Shinigami Eyes](https://open.spotify.com/track/0YQEWdfq3ajtNtK106Dr0k) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Shinigami Eyes](https://open.spotify.com/album/4wsyyLWO72hZ39U6hrl31A) | 2:39 | 2022-01-28 | 2022-04-19 |

@@ -4,7 +4,7 @@
 
 > Throw the weights around with your favorite uptempo pop songs!
 
-223 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
+224 songs - 12 hr 7 min - [published](https://open.spotify.com/playlist/2PdN5idnlpDGB9nQ1OsLKL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,7 +155,7 @@
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2022-01-28 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2022-01-28 | 2022-05-23 |
 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 |  |
-| [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2022-01-28 |  |
+| [Never Really Over](https://open.spotify.com/track/5PYQUBXc7NYeI1obMKSJK0) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Really Over](https://open.spotify.com/album/3KjXg0MDej2pG9fv6I22lT) | 3:43 | 2022-01-28 | 2022-08-14 |
 | [New Rules](https://open.spotify.com/track/2xJCMIJfcNYDc5iR0sAm2O) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Complete Edition\)](https://open.spotify.com/album/2wKlXxlwYDByrGY1aAUh6o) | 3:29 | 2022-03-24 | 2022-04-21 |
 | [Night Call](https://open.spotify.com/track/1dNyeO5Oy7RuGYOq30HrK2) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Night Call \(New Year's Edition\)](https://open.spotify.com/album/4ANoIvV1JMAne7lFSExMI0) | 2:50 | 2022-02-07 | 2022-04-05 |
 | [No One Dies From Love](https://open.spotify.com/track/62MosvjGMQY3HeGPFEsmM1) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [No One Dies From Love](https://open.spotify.com/album/2oKzwmlJS888dI16InbxCv) | 3:06 | 2022-07-28 |  |
@@ -199,6 +199,7 @@
 | [Sucker](https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 | 2022-07-28 |  |
 | [Sucker](https://open.spotify.com/track/4y3OI86AEP6PQoDE6olYhO) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Sucker](https://open.spotify.com/album/4W0r9HOcuCC6Vh7aze2hwi) | 3:01 | 2022-03-24 | 2022-04-21 |
 | [Sunshine \- MOTi Remix](https://open.spotify.com/track/1zgV7obuDgU0DEaNCmPw8u) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [Sunshine\. The EP](https://open.spotify.com/album/0XXoRMuytQq5EFiNmMXL6c) | 3:08 | 2022-01-28 | 2022-07-29 |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [Sweet but Psycho](https://open.spotify.com/track/25sgk305KZfyuqVBQIahim) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Sweet but Psycho](https://open.spotify.com/album/7CdLU3GgPy1PH5FVsrPlyA) | 3:07 | 2022-03-24 | 2022-04-21 |
 | [Sweet Talker](https://open.spotify.com/track/6FRxFke9VsjXmibGgSeKki) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Sweet Talker](https://open.spotify.com/album/301gSTTWjmjIa1M6Hx4hPT) | 2:56 | 2022-01-28 | 2022-05-27 |
 | [Sweetest Pie \- David Guetta Dance Remix](https://open.spotify.com/track/5xUJYQA7f6WU77N8VDASBH) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Sweetest Pie \(David Guetta Remixes\)](https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl) | 2:23 | 2022-05-06 | 2022-07-29 |

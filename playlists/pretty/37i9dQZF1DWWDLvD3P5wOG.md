@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,761 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 412,113 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,10 +38,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 28 | [No Games](https://open.spotify.com/track/2zRR41MU5nXB1LeBkyjgtV) | [Serani](https://open.spotify.com/artist/22099GssG7Ood0d5UIh2wo) | [No Games](https://open.spotify.com/album/6GCvpB2OEXJfXRQYc4Ti42) | 3:08 |
 | 29 | [Summer Tiime](https://open.spotify.com/track/2aULMaE3NgcnVluZCvxFmT) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [The Gaza Don](https://open.spotify.com/album/7E3KsCMrb6nMImvI0Cr3Ad) | 2:47 |
 | 30 | [Give It All To Me](https://open.spotify.com/track/6vwmviVBIBMGGIEmz88auB) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Give It All To Me](https://open.spotify.com/album/4sHrUYhZdfAdGM0s628Isq) | 3:34 |
-| 31 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
+| 31 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
 | 32 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
 | 33 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
-| 34 | [Heads High](https://open.spotify.com/track/1mTEDYrH2BGlVA8FuXegji) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Mr Vegas: The Hits](https://open.spotify.com/album/2ImQoEEg93DwKIIBtb5RLg) | 3:31 |
+| 34 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 35 | [Only Man She Want](https://open.spotify.com/track/5tdl56mOgdZeY6RNF5jLwT) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Only Man She Want](https://open.spotify.com/album/0xYKErJkWgfurZHmZo0blf) | 3:25 |
 | 36 | [Pon De River Pon De Bank](https://open.spotify.com/track/46l7fOJggsNqrNPJeFk0og) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Good 2 Go](https://open.spotify.com/album/4N8f7aP3lVNkn7sKHTnHVZ) | 3:59 |
 | 37 | [King Of The Dancehall](https://open.spotify.com/track/2vACumvzzT2ZngO2p7i3Gu) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Back To Basics](https://open.spotify.com/album/1WWXhQfZhwZR67iLJ9rBI2) | 3:37 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 62 | [Dutty Whine](https://open.spotify.com/track/0faQCjG6E7VecroZfmSA3J) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Whine](https://open.spotify.com/album/7fv1oxFvj0feUywPYZKpR0) | 3:13 |
 | 63 | [Broad Out \- Raw](https://open.spotify.com/track/3pTQs1htsNk3NYKDpturZU) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Broad Out](https://open.spotify.com/album/3nwS8SobIYJ74TywjJfiax) | 3:06 |
 | 64 | [Nuh Linga](https://open.spotify.com/track/1XDu72IZMRTO2gDPaMydXE) | [Elephant Man](https://open.spotify.com/artist/6NOvBZrkd83MSD51xkq4on) | [Dance & Sweep! \- Adventures Of The Energy God](https://open.spotify.com/album/1h6idb5MNxRtSz4EWsMe84) | 2:08 |
-| 65 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
-| 66 | [Things Mi Love](https://open.spotify.com/track/5pUR6ZtoAJ6RZ1NY7EIAZh) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Alkaline Mix Tape Extended](https://open.spotify.com/album/5iTKUdJaihXEaBj3k4Kr6K) | 3:26 |
+| 65 | [Things Mi Love](https://open.spotify.com/track/5pUR6ZtoAJ6RZ1NY7EIAZh) | [Alkaline](https://open.spotify.com/artist/2LIAgeQ5NZurwixfoG3CWZ) | [Alkaline Mix Tape Extended](https://open.spotify.com/album/5iTKUdJaihXEaBj3k4Kr6K) | 3:26 |
+| 66 | [Ghetto Story](https://open.spotify.com/track/00bnP8RyknzZMkNlEAO2ih) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Ghetto Story \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/35NmvuGyzxJcHMCkh68v5y) | 4:11 |
 | 67 | [Party Shot](https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Phantom 2](https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI) | 3:50 |
 | 68 | [Always](https://open.spotify.com/track/1ge5u2oNzB340gHdMCdTSl) | [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Girl Boss \- The Realest Girl](https://open.spotify.com/album/3m2CNO9jD3BKz8vusgkDYE) | 3:14 |
 | 69 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 79 | [Life \(Is What You Make of It\)](https://open.spotify.com/track/1GPr2bSZGp3FY8WLUIz6kD) | [Frighty](https://open.spotify.com/artist/3sJ4PdcDMz8f54s58xsNzt), [Colonel Mite](https://open.spotify.com/artist/3uKvf6v8ivXfxa3UrJx738) | [Life \(Is What You Make of It\)](https://open.spotify.com/album/5PnaOrdPmijULnutsP7DQt) | 3:32 |
 | 80 | [Unknown Number](https://open.spotify.com/track/1cAFDCGAqqzJCxmgto5qxF) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Loaded](https://open.spotify.com/album/2tpA1IQ99v1OVIOkowexHy) | 3:34 |
 
-Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMGY0MTM5ZTkzNGQ3YTk1YWRmZWRjNGEwMmU0ZTBlYWQ0`
+Snapshot ID: `MTY0MzE1ODMzNSwwMDAwMDAwMDhhYWY5Y2I1NGNiNmI0ZjU3NjYzMjExODQ2N2JmYjA2`

@@ -976,6 +976,28 @@
     },
     {
       "album": {
+        "name": "Chopin Gold",
+        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        }
+      ],
+      "date_added": "2019-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373173,
+      "name": "Nocturne No. 8 In D Flat, Op. 27 No. 2 - Live",
+      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
+    },
+    {
+      "album": {
         "name": "Chopin Favourites",
         "url": "https://open.spotify.com/album/5JZN2y1ePhusziw1DpndlL"
       },
@@ -1017,28 +1039,6 @@
       "duration_ms": 252000,
       "name": "Nocturne No.19 in E minor, Op.72 No.1",
       "url": "https://open.spotify.com/track/66zOdwAIuFXNrB3kcnrkyr"
-    },
-    {
-      "album": {
-        "name": "Chopin Gold",
-        "url": "https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif"
-      },
-      "artists": [
-        {
-          "name": "Fr\u00e9d\u00e9ric Chopin",
-          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        }
-      ],
-      "date_added": "2019-08-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 373173,
-      "name": "Nocturne No.8 In D Flat, Op.27 No.2 - Live",
-      "url": "https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF"
     },
     {
       "album": {

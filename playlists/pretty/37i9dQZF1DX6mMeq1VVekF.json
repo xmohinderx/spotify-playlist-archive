@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Lil Silva",
-  "num_followers": 122647,
+  "num_followers": 122702,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODA3NDI3NywwMDAwMDAwMDczOGJjODU1N2Y4Nzg1MTJhNmVhZWIxNmU5NDg2MWE4",
+  "snapshot_id": "MTY1ODA3NDI3NywwMDAwMDAwMDMxYTU5MzM4OTRiMWM5OTNlMzAxMmIyOWEzNDU4OTQ4",
   "tracks": [
     {
       "added_at": "2022-07-17 16:11:17",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-07-17 16:11:17",
       "album": {
-        "name": "Never Leave",
-        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
-      },
-      "artists": [
-        {
-          "name": "WSTRN",
-          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
-        },
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 196153,
-      "name": "Never Leave",
-      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
-    },
-    {
-      "added_at": "2022-07-17 16:11:17",
-      "album": {
         "name": "Sometimes I Might Be Introvert",
         "url": "https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 185600,
       "name": "Point and Kill",
       "url": "https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE"
+    },
+    {
+      "added_at": "2022-07-17 16:11:17",
+      "album": {
+        "name": "Never Leave",
+        "url": "https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp"
+      },
+      "artists": [
+        {
+          "name": "WSTRN",
+          "url": "https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs"
+        },
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 196153,
+      "name": "Never Leave",
+      "url": "https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq"
     },
     {
       "added_at": "2022-07-17 16:11:17",
@@ -699,6 +699,30 @@
     {
       "added_at": "2022-07-17 16:11:17",
       "album": {
+        "name": "TYRON",
+        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
+      },
+      "artists": [
+        {
+          "name": "slowthai",
+          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
+        },
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+        }
+      ],
+      "duration_ms": 192733,
+      "name": "terms (feat. Dominic Fike & Denzel Curry)",
+      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
+    },
+    {
+      "added_at": "2022-07-17 16:11:17",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -731,30 +755,6 @@
       "duration_ms": 204174,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy"
-    },
-    {
-      "added_at": "2022-07-17 16:11:17",
-      "album": {
-        "name": "TYRON",
-        "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
-      },
-      "artists": [
-        {
-          "name": "slowthai",
-          "url": "https://open.spotify.com/artist/3r1XkJ7vCs8kHBSzGvPLdP"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
-        }
-      ],
-      "duration_ms": 192733,
-      "name": "terms (feat. Dominic Fike & Denzel Curry)",
-      "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
     },
     {
       "added_at": "2022-07-17 16:11:17",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-07-17 16:11:17",
       "album": {
-        "name": "Gone",
-        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
-      },
-      "artists": [
-        {
-          "name": "Jorja Smith",
-          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
-        }
-      ],
-      "duration_ms": 195275,
-      "name": "Gone",
-      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
-    },
-    {
-      "added_at": "2022-07-17 16:11:17",
-      "album": {
         "name": "ELVIS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/74g0V2gxEA5MCSaivAwZyb"
       },
@@ -903,22 +887,6 @@
     {
       "added_at": "2022-07-17 16:11:17",
       "album": {
-        "name": "Entrepreneur",
-        "url": "https://open.spotify.com/album/7wIGIAvJf8SQhZ3z4BfuPM"
-      },
-      "artists": [
-        {
-          "name": "Rimzee",
-          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
-        }
-      ],
-      "duration_ms": 146357,
-      "name": "Entrepreneur",
-      "url": "https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE"
-    },
-    {
-      "added_at": "2022-07-17 16:11:17",
-      "album": {
         "name": "Send Them To Coventry",
         "url": "https://open.spotify.com/album/07XuUjDVxufzEQI5bGpzhT"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 188826,
       "name": "Energy (feat. Mahalia)",
       "url": "https://open.spotify.com/track/1KSz0dMTPwRq9OqLkNxcfd"
+    },
+    {
+      "added_at": "2022-07-17 16:11:17",
+      "album": {
+        "name": "Entrepreneur",
+        "url": "https://open.spotify.com/album/7wIGIAvJf8SQhZ3z4BfuPM"
+      },
+      "artists": [
+        {
+          "name": "Rimzee",
+          "url": "https://open.spotify.com/artist/65QlWmtWjcK3CPBung0ATT"
+        }
+      ],
+      "duration_ms": 146357,
+      "name": "Entrepreneur",
+      "url": "https://open.spotify.com/track/2wiJQhmWcClrB2LKnyvBNE"
+    },
+    {
+      "added_at": "2022-07-17 16:11:17",
+      "album": {
+        "name": "Gone",
+        "url": "https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "duration_ms": 195275,
+      "name": "Gone",
+      "url": "https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2"
     },
     {
       "added_at": "2022-07-17 16:11:17",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2022-07-17 16:11:17",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2022-07-17 16:11:17",
+      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 231320,
       "name": "Relax",
       "url": "https://open.spotify.com/track/2WFLsBTMjMMWBLOiTGvFFq"
-    },
-    {
-      "added_at": "2022-07-17 16:11:17",
-      "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 197524,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
     },
     {
       "added_at": "2022-07-17 16:11:17",

@@ -1,12 +1,12 @@
 {
   "description": "New wave took the 70s punk blueprint and ran wild! Cover: Blondie",
-  "num_followers": 756831,
+  "num_followers": 757064,
   "original_name": "Is it New Wave?",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDVlZWJlZGUzZGQyY2NlYWVlYjM3ZWFiNjFlNDVlZTE2",
+  "snapshot_id": "MTU3OTAzNjYwMSwwMDAwMDAwMDAzNjE3MmQwZTliMTlhNzU4NWViMjBkMzEyYjc3ZmYy",
   "tracks": [
     {
       "added_at": "2020-01-14 21:16:41",
@@ -43,22 +43,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -571,22 +571,6 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 184160,
-      "name": "Manic Monday",
-      "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
         "name": "The Specials (Deluxe Version)",
         "url": "https://open.spotify.com/album/2OHPxPTasGkolt8lFDxCpE"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 172920,
       "name": "A Message to You Rudy - 2015 Remaster",
       "url": "https://open.spotify.com/track/49slT7gVW0zj1KIG8w6DoL"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
+      },
+      "artists": [
+        {
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "duration_ms": 184160,
+      "name": "Manic Monday",
+      "url": "https://open.spotify.com/track/00vYs0qZA40Z8AAaN7xmMO"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -667,6 +667,22 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
+        "name": "Stereo-Typical: A's, B's & Rarities",
+        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+      },
+      "artists": [
+        {
+          "name": "The Specials",
+          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+        }
+      ],
+      "duration_ms": 219306,
+      "name": "Ghost Town",
+      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+    },
+    {
+      "added_at": "2020-01-14 21:16:41",
+      "album": {
         "name": "Special Beat Service (Remastered)",
         "url": "https://open.spotify.com/album/4Y1DZv5OK6rg4ljw2Oj6wP"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 213933,
       "name": "Save It For Later",
       "url": "https://open.spotify.com/track/5rBOBI3INEw0u0rwNNGib5"
-    },
-    {
-      "added_at": "2020-01-14 21:16:41",
-      "album": {
-        "name": "Different Light (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
-      },
-      "artists": [
-        {
-          "name": "The Bangles",
-          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Walk Like an Egyptian",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -731,18 +731,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "Stereo-Typical: A's, B's & Rarities",
-        "url": "https://open.spotify.com/album/0EKaJQaxiszKS8DBUDhbtz"
+        "name": "Different Light (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN"
       },
       "artists": [
         {
-          "name": "The Specials",
-          "url": "https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3"
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
         }
       ],
-      "duration_ms": 219306,
-      "name": "Ghost Town",
-      "url": "https://open.spotify.com/track/6ewN9MaFbi78oDLT9wYDgn"
+      "duration_ms": 203226,
+      "name": "Walk Like an Egyptian",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
     },
     {
       "added_at": "2020-01-14 21:16:41",
@@ -795,18 +795,18 @@
     {
       "added_at": "2020-01-14 21:16:41",
       "album": {
-        "name": "I Just Can't Stop It (Remastered)",
-        "url": "https://open.spotify.com/album/08zjJfP4f6cXGxscvztbvh"
+        "name": "Heartbeat City",
+        "url": "https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO"
       },
       "artists": [
         {
-          "name": "The English Beat",
-          "url": "https://open.spotify.com/artist/1eVEVL20zNLcGrPDOR691N"
+          "name": "The Cars",
+          "url": "https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp"
         }
       ],
-      "duration_ms": 190333,
-      "name": "Mirror In the Bathroom",
-      "url": "https://open.spotify.com/track/3LUhdkixxrrqv3nfNfkINe"
+      "duration_ms": 185026,
+      "name": "You Might Think",
+      "url": "https://open.spotify.com/track/7BvuV4c1BGhaRapcXvRu5z"
     }
   ],
   "unique_name": "Is it New Wave?",

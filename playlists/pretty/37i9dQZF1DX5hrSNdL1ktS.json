@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del popet\u00f3n y reggaet\u00f3n emergente en MX. Foto: Opium G",
-  "num_followers": 55090,
+  "num_followers": 55093,
   "original_name": "Urbano Fresh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMGY3NmJmZTY4YzUyNWY4MGMxODg0YzA1ZTlhNjU3ODlm",
+  "snapshot_id": "MTY1OTU0NDQ5NSwwMDAwMDAwMGY4OGQyN2I4YzM1YTNmYjI0NzZkNTZiNzA4NTgwODc2",
   "tracks": [
     {
       "added_at": "2022-08-03 16:34:55",
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Mi Plan B",
-        "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
-      },
-      "artists": [
-        {
-          "name": "Freddy Leyva",
-          "url": "https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl"
-        },
-        {
-          "name": "Fano",
-          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Mi Plan B",
-      "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
         "name": "Shot de Tequila",
         "url": "https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 160386,
       "name": "KRMA",
       "url": "https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "Mi Plan B",
+        "url": "https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9"
+      },
+      "artists": [
+        {
+          "name": "Freddy Leyva",
+          "url": "https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl"
+        },
+        {
+          "name": "Fano",
+          "url": "https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Mi Plan B",
+      "url": "https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0"
     },
     {
       "added_at": "2022-08-03 16:34:55",
@@ -999,26 +999,6 @@
     {
       "added_at": "2022-08-03 16:34:55",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/1HqFS49pmoR174vkddzArp"
-      },
-      "artists": [
-        {
-          "name": "Daniela BB",
-          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
-        },
-        {
-          "name": "DJ Tona",
-          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
-        }
-      ],
-      "duration_ms": 195493,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
-    },
-    {
-      "added_at": "2022-08-03 16:34:55",
-      "album": {
         "name": "Loquera",
         "url": "https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 220202,
       "name": "Otra Canci\u00f3n",
       "url": "https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB"
+    },
+    {
+      "added_at": "2022-08-03 16:34:55",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/1HqFS49pmoR174vkddzArp"
+      },
+      "artists": [
+        {
+          "name": "Daniela BB",
+          "url": "https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf"
+        },
+        {
+          "name": "DJ Tona",
+          "url": "https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB"
+        }
+      ],
+      "duration_ms": 195493,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3"
     }
   ],
   "unique_name": "Urbano Fresh",

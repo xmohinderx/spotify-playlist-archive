@@ -4,7 +4,7 @@
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Donovan en portada.
 
-143 songs - 7 hr 21 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
+144 songs - 7 hr 25 min - [published](https://open.spotify.com/playlist/4deShREhcI0g0uTRXQGiPo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Frío](https://open.spotify.com/track/1p9vRub1lRUQDdFNxzJfCu) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Frío](https://open.spotify.com/album/52fZOIMpznnGr5pwXm2aMA) | 2:50 | 2022-02-04 |  |
 | [Fue Lindo](https://open.spotify.com/track/7bMJX92st9uXhc4OuHDRG5) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:28 | 2022-02-04 |  |
 | [Hola, ¿Qué Tal?](https://open.spotify.com/track/3oVLT7aggBe2JOReCPrabx) | [Fátima Pinto](https://open.spotify.com/artist/4CCbR8akoap4IDhxSlxlzG) | [Hola, ¿Qué Tal?](https://open.spotify.com/album/3k9BginlCEQlACX95UdAme) | 2:48 | 2022-02-04 | 2022-02-16 |
-| [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2022-02-04 |  |
+| [Hora y Cuarto \- Single Version](https://open.spotify.com/track/2pqRUZyX7LOC2FgoawYtG8) | [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [Alaska](https://open.spotify.com/artist/5ppm4jKbRPVMwuBO3DwnWB) | [Hora y Cuarto](https://open.spotify.com/album/3j8ns8OLszeAGzbem3Ei6C) | 3:53 | 2022-02-04 | 2022-08-14 |
 | [IDIOTA](https://open.spotify.com/track/0Wk3MRrKRn6EPG7B83nKSJ) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2) | [IDIOTA](https://open.spotify.com/album/5HLaq4AONQkCMvFVHswg85) | 3:25 | 2022-04-22 |  |
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2022-02-04 |  |
 | [La Noche](https://open.spotify.com/track/16alCAQtM9TPU6FUexEUnh) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [La Noche](https://open.spotify.com/album/4LZmupArVMH708EjwPECO3) | 3:04 | 2022-02-04 |  |
@@ -91,6 +91,7 @@
 | [Nadie Te Entiende](https://open.spotify.com/track/3UMJzfw9Fq4gXnrJ0eCdM1) | [Karol Sevilla](https://open.spotify.com/artist/6aBoKzSTjuIi0sY69XHLk3) | [Nadie Te Entiende](https://open.spotify.com/album/6PdWbSpwcrtKxbDmOG0pzA) | 3:10 | 2022-02-04 | 2022-07-24 |
 | [Neón Ponderosa](https://open.spotify.com/track/0ew6IpoCY2hx5xVfCt6BhE) | [José Hoek](https://open.spotify.com/artist/0bq9MHfPforgiUxuuffVzs) | [Neón Ponderosa](https://open.spotify.com/album/5eDv0qyiE6Rau1LEQxk7hN) | 3:23 | 2022-02-25 | 2022-04-23 |
 | [No Eres Tú](https://open.spotify.com/track/4GStP9aSm7eAR6Q2ltRlum) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [No Eres Tú](https://open.spotify.com/album/6mid7zTX6Ba7MabucYA6zN) | 3:49 | 2022-02-04 | 2022-08-04 |
+| [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/track/1Ak0ucQzPS6mvMn1m8YQTY) | [Jennifer Rojo](https://open.spotify.com/artist/0SMyQijONSkk6q5UseJXEN), [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [NO ERES TÚ \(feat\. Gloria Trevi\)](https://open.spotify.com/album/7CEvogoNvFLnDR0z1nPw1k) | 3:49 | 2022-07-29 |  |
 | [No Es Mi Culpa](https://open.spotify.com/track/6u8WHBY1SRLHQk2fXiA879) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [No Es Mi Culpa](https://open.spotify.com/album/1ncVCtS5Mhw26G4hBUj2OX) | 2:48 | 2022-02-04 | 2022-06-15 |
 | [No Puede Ser \- con Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(con Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-02-04 |  |
 | [No Seas Así](https://open.spotify.com/track/502dC2IZ0seREbTF6OhBOQ) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 2:38 | 2022-02-04 | 2022-07-29 |

@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 206070,
       "name": "Bam Bam (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
@@ -4357,7 +4357,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 252613,
       "name": "Duality",
       "url": "https://open.spotify.com/track/61mWefnWQOLf90gepjOCb3"
@@ -4831,7 +4831,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 267243,
       "name": "Erootika Pood",
       "url": "https://open.spotify.com/track/0irG7UHJP2APS0hul5MCat"
@@ -9863,6 +9863,24 @@
       "duration_ms": 220363,
       "name": "Marmalade",
       "url": "https://open.spotify.com/track/7rvEwAILTqxBpdIyUifkE8"
+    },
+    {
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "album": {
@@ -19035,10 +19053,36 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 132649,
       "name": "\u0422\u0435\u0441\u043d\u043e",
       "url": "https://open.spotify.com/track/32KaMkGx3AZPQcHd8suXCb"
+    },
+    {
+      "album": {
+        "name": "AA LANGUAGE",
+        "url": "https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q"
+      },
+      "artists": [
+        {
+          "name": "Aarne",
+          "url": "https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo"
+        },
+        {
+          "name": "BUSHIDO ZHO",
+          "url": "https://open.spotify.com/artist/27kGBCjiz5OXojkKX4xQ6R"
+        },
+        {
+          "name": "ANIKV",
+          "url": "https://open.spotify.com/artist/4uWhcZCwuPopf6JGvwsN2B"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132649,
+      "name": "\u0422\u0435\u0441\u043d\u043e",
+      "url": "https://open.spotify.com/track/4oHEJ5KPf9hW1pDyQYIRIw"
     },
     {
       "album": {

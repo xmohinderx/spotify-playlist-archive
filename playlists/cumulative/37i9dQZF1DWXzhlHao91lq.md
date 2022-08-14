@@ -4,7 +4,7 @@
 
 > 以輕快又富原野氣息的民謠搭配午茶，讓耳際、齒頰一同留香，好心情開花結果。
 
-139 songs - 7 hr 52 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
+140 songs - 7 hr 55 min - [published](https://open.spotify.com/playlist/2huVTNU2fzUcSwfsB8l29J)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Renee's Song](https://open.spotify.com/track/13iMiwdY7pgE1f7NwYKr1D) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Renee's Song](https://open.spotify.com/album/0WuZ8xp4MRsvNfYeN0M33G) | 2:10 | 2022-07-25 |  |
 | [Rose Petals](https://open.spotify.com/track/2qWuegI1pmesQPRvzgnokk) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 3:33 | 2022-08-08 |  |
 | [Say I Love U](https://open.spotify.com/track/1qwn1cLzaOKb501YwbuF1H) | [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [Love Interference Season3 \(Original Television Soundtrack\), Pt\. 17](https://open.spotify.com/album/21fVkmQsDvSeGP5jQ1k2CG) | 2:50 | 2022-05-30 | 2022-06-26 |
+| [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 | 2022-08-08 |  |
 | [Separate Seasons](https://open.spotify.com/track/6B5YgFMDxPjWVuiOA1oid4) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Westbound EP](https://open.spotify.com/album/7KE6QLulOMXqVsN4XiJvxF) | 3:48 | 2022-05-30 | 2022-07-29 |
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2022-08-08 |  |
 | [September Song \- Guitar Acoustic](https://open.spotify.com/track/7bMkcxifc4EjIQKw49EC7h) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Raised Under Grey Skies \(Deluxe\)](https://open.spotify.com/album/3cS0qzNDjE5SjdAL1W98fo) | 3:32 | 2022-07-25 |  |
@@ -140,7 +141,7 @@
 | [Where's My Love](https://open.spotify.com/track/1B62o4CbdL9ckGvwsz2cgn) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [SYML](https://open.spotify.com/album/7Lwn8CSE6bv6VYScebUGiz) | 3:22 | 2022-07-25 | 2022-08-09 |
 | [Whiskey Sour](https://open.spotify.com/track/1wlbeqO0XpftrT2pVqcxaL) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Whiskey Sour](https://open.spotify.com/album/78iTqpAzKHMnonY5UqRIXH) | 3:29 | 2022-07-25 |  |
 | [Who's She](https://open.spotify.com/track/5wwsojnDfF6vQMxWgO3H2L) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 3:19 | 2022-08-08 |  |
-| [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 | 2022-08-08 |  |
+| [Wildflowers](https://open.spotify.com/track/46Nz7uguhTyUWOXhRBbzxa) | [The Wailin' Jennys](https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj) | [Fifteen](https://open.spotify.com/album/119HRNCY7xfA3R218gtspV) | 3:42 | 2022-08-08 | 2022-08-14 |
 | [Wish Upon A Star](https://open.spotify.com/track/4dRlRt2jZKOd7WsPRQ5KVq) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Wish Upon A Star](https://open.spotify.com/album/6Z5QlpJojN80fwGLHFEkDS) | 4:25 | 2022-05-30 | 2022-07-26 |
 | [Written in the Sand](https://open.spotify.com/track/2A69wys3S9uiPSmn6UZWJn) | [Old Dominion](https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i) | [Happy Endings](https://open.spotify.com/album/66Y5XaoFSoa0A4P0u56s8V) | 3:04 | 2022-07-25 | 2022-08-09 |
 | [You Are The Reason \- Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios](https://open.spotify.com/track/2L5V8TQCEq5n3CLrjGbWE8) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [You Are The Reason \(Acoustic, 1 Mic 1 Take/Live From Abbey Road Studios\)](https://open.spotify.com/album/5TY5e5pUCFkAkCyFGFzn3P) | 3:48 | 2022-08-08 |  |

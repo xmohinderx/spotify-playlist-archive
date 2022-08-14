@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,721 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,833 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 43 | [Caught Up](https://open.spotify.com/track/2Bm2pjLh2wlYwZ4nrcY6wU) | [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Caught Up](https://open.spotify.com/album/2h8lT0Ffh2eHz87LXY40v2) | 2:12 |
 | 44 | [Heaven](https://open.spotify.com/track/1OOZ7HK33XptwtvGuKmb5s) | [Amaal](https://open.spotify.com/artist/785y6F5AHHafGaFaRdpMtz) | [Milly](https://open.spotify.com/album/0ybPRt9okiivYSRzyyv1Yd) | 3:03 |
 | 45 | [City Girl](https://open.spotify.com/track/7HaAuZBOJTp0bpZPnccBUm) | [Ari PenSmith](https://open.spotify.com/artist/4e8ULyN5otwmBHxanRiBnP), [Jonah Christian](https://open.spotify.com/artist/6pDfhbJGBQJ22SvibycTYb) | [City Girl](https://open.spotify.com/album/6Yb2iAl9GFYc0QjurOGgsn) | 2:39 |
-| 46 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 |
-| 47 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
-| 48 | [Glitter Ain't Gold](https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Glitter Ain't Gold](https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c) | 3:41 |
-| 49 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 |
+| 46 | [Black Woman](https://open.spotify.com/track/3SMd9iGyHF47xNZw3SXFPE) | [Emanuel](https://open.spotify.com/artist/4Dj6yFk1Y4v6J4jZyhtrZ7) | [Black Woman](https://open.spotify.com/album/3QPkK3geVdiICJtxxAnCZ2) | 3:58 |
+| 47 | [Warm December](https://open.spotify.com/track/1xLBOnBn16AXmvDZ2WOTOw) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Warm December](https://open.spotify.com/album/1IudCFPdNr3NcTkfXLLcVx) | 3:15 |
+| 48 | [Time & Space](https://open.spotify.com/track/6MOovkZjVPHVFIjBHDQFyb) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Time & Space](https://open.spotify.com/album/1AtZbc5gR0HBEYinJONZA0) | 3:19 |
+| 49 | [Glitter Ain't Gold](https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Glitter Ain't Gold](https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c) | 3:41 |
 | 50 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 |
 
-Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMGI3MzY4ZWNmMmYyZDQ1ZjhjMzliNjg4M2U1Y2U2ZjJk`
+Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMGU2ZDFjMGU3NDlkZThkN2IxZTQwOWE3Y2QxMDIyNzRj`

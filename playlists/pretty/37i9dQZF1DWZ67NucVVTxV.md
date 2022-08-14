@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,161 likes - 81 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,190 likes - 81 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 63 | [Pray 2 The East \(feat\. BNXN fka Buju\)](https://open.spotify.com/track/5NI7jC26RB9s7prQc7SkZg) | [M Huncho](https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Pray 2 The East](https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR) | 2:58 |
 | 64 | [Yawa No Dey End](https://open.spotify.com/track/4TzkFUNRNSE99Glbq1hBoe) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Yawa No Dey End](https://open.spotify.com/album/5cmg0vIsj5P4DiWOB76hBA) | 2:26 |
 | 65 | [Free My Mind](https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Free My Mind](https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn) | 2:55 |
-| 66 | [Holy F4k](https://open.spotify.com/track/6PTiCTZVL30tsXGh22Yga1) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Holy F4k](https://open.spotify.com/album/2vu3ZG15dRi4HNkEUkLJWB) | 3:15 |
+| 66 | [Holy F4k](https://open.spotify.com/track/7eWoPZVIC0RzgFghNDrLbQ) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Ivorian Doll](https://open.spotify.com/artist/5zWJtrglcTFohMajO2qrgd), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Connecting the Dots](https://open.spotify.com/album/1q6SQV8J22Is1SsgKAh4eJ) | 3:15 |
 | 67 | [Big Man](https://open.spotify.com/track/64AIGkXqeAcQ6qD0beLfWu) | [Erigga](https://open.spotify.com/artist/39tfnGyyHWw6NeYS77RldF), [Jay Teazer](https://open.spotify.com/artist/3NJtgj1RyywLt9iGtxxjsl) | [Strange Vibes](https://open.spotify.com/album/1nlolPM5eKVhJi8s0lX9Ja) | 3:05 |
 | 68 | [Champion Sound](https://open.spotify.com/track/3vTW0qXIitjhZW5kfTwBTv) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju) | [Champion Sound](https://open.spotify.com/album/6pLdp90UOgmgb6yYh6bf2T) | 3:57 |
 | 69 | [First Sermon](https://open.spotify.com/track/1eJ1pgxRJWi0LYPbS9CxS3) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [First Sermon](https://open.spotify.com/album/5U2r0XU9TAO8nASyLMC8GC) | 3:05 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 80 | [Non Stop](https://open.spotify.com/track/4frYjcru01K8WkQZYc3KqX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Non Stop](https://open.spotify.com/album/5MJX3wuUeSpFqqI3aRpIAn) | 2:50 |
 | 81 | [5&6](https://open.spotify.com/track/42vNb1kyy4bK5dBWotxr6V) | [MROLAIDE](https://open.spotify.com/artist/00ny8QQkOKld5dKLc7N3Ke) | [5&6](https://open.spotify.com/album/0gml2zKAcbvqV5lYsL7pZU) | 2:18 |
 
-Snapshot ID: `MTY2MDI4MzA3NywwMDAwMDAwMGJhZDUwMTdlZjdjZDY4MDk4MGUwMTkwYTE1ZmI5YmI5`
+Snapshot ID: `MTY2MDI4MzA3NywwMDAwMDAwMGUzYWI2ZDZlYjA2NmQ3YjZhOTA5NjI2MmI1ZmVhZDk2`

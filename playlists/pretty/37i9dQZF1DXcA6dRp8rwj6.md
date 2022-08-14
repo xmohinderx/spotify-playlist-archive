@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover:  The Game\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,360 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,448 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 13 | [SAY LESS \(with French Montana\)](https://open.spotify.com/track/5MHWydvAwPPpCtW95txrIS) | [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [SAY LESS](https://open.spotify.com/album/0q8IQGk6wdsplmtxTcLyfG) | 2:30 |
 | 14 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 |
 | 15 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
-| 16 | [Nigga Now \(feat\. Tech N9ne\)](https://open.spotify.com/track/4KDPQhJXXE3DILEbOXBltl) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Nigga Now](https://open.spotify.com/album/1KOvN1fAbx5v4083QlA7al) | 3:14 |
+| 16 | [Nigga Now \(feat\. Tech N9ne\)](https://open.spotify.com/track/4KDPQhJXXE3DILEbOXBltl) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [Nigga Now \(feat\. Tech N9ne\)](https://open.spotify.com/album/1KOvN1fAbx5v4083QlA7al) | 3:14 |
 | 17 | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/track/00g4AEpAH40uIlm62yf3Rt) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Yung Raja](https://open.spotify.com/artist/2HXfSr5CfTPZbcqS2gyGYm) | [MING LING \(feat\. Yung Raja\)](https://open.spotify.com/album/15onMCaLwVnhiovri1Kxzj) | 2:43 |
 | 18 | [Modern Problem](https://open.spotify.com/track/79HxZf9djlyJ3tgNsZwEkf) | [Our Shame](https://open.spotify.com/artist/5vKIV2YjcVSf3wWUkcyCR5), [LINION](https://open.spotify.com/artist/26OkmynS2y6LiuUWz3yeqT) | [Modern Problem](https://open.spotify.com/album/6nK6jXwPvD5hSH5H1aFoVv) | 3:40 |
 | 19 | [Somedays](https://open.spotify.com/track/4EDgWcaPUNMOUMgNVhNznm) | [80 Empire](https://open.spotify.com/artist/1E9J4hV2WmL5I3aE3RawEO), [7xvethegenius](https://open.spotify.com/artist/3qIgGknqPwbSOTd6aLmah5) | [Somedays](https://open.spotify.com/album/7wFo8l8GxXiztEjDyVBnox) | 3:18 |

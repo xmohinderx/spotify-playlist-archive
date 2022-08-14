@@ -4,7 +4,7 @@
 
 > You're on top of the world\. Don't forget it.
 
-382 songs - 21 hr 30 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
+383 songs - 21 hr 33 min - [published](https://open.spotify.com/playlist/6HuIdktgC33vvZen0bYwSa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Electricity \(with Dua Lipa\)](https://open.spotify.com/track/5N4erncE7kuUccm7zEmwzk) | [Silk City](https://open.spotify.com/artist/2X97ZAqRKRMYFIDqtvGgGc), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp) | [Electricity \(with Dua Lipa\)](https://open.spotify.com/album/429B3se6xtZuvblNnS2iy7) | 3:58 | 2019-07-29\* | 2021-05-28 |
 | [EveryTime I Cry](https://open.spotify.com/track/0mV43B6pJWRjcM5TmzNe6d) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [EveryTime I Cry](https://open.spotify.com/album/5W79aGcuoBYk0Mb2QL2Jcw) | 2:57 | 2021-06-12 | 2022-02-04 |
 | [Ex's & Oh's](https://open.spotify.com/track/2vW5tqS1EFel9yYOQ7WZmE) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff \(Japan Version\)](https://open.spotify.com/album/7m4d3jbswZ7fy8aeLAcbsa) | 3:22 | 2021-02-27 | 2022-04-19 |
-| [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 | 2022-07-21 |  |
+| [Ex's & Oh's](https://open.spotify.com/track/70eDxAyAraNTiD6lx2ZEnH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Love Stuff](https://open.spotify.com/album/0B4eikFaUJcf3hc6DaSVov) | 3:22 | 2022-07-21 | 2022-08-14 |
 | [Express Yourself \- 7" Remix](https://open.spotify.com/track/4KImfnZuVGuGt84MhfFc8M) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Shep Pettibone](https://open.spotify.com/artist/6GOmlO6wisWSbBzBbCCaWv) | [Express Yourself](https://open.spotify.com/album/6v75OtLW4MZxCu035LAopd) | 4:35 | 2022-03-25 | 2022-04-21 |
 | [F\*\*kin' Perfect](https://open.spotify.com/track/1H9AbpMAShkCVuaPAR6CHf) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [F\*\*kin' Perfect](https://open.spotify.com/album/4Y8f8TQ9U0Rl4YIfU7MojC) | 3:33 | 2022-03-25 | 2022-04-16 |
 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 | 2021-10-09 | 2022-07-29 |
@@ -315,6 +315,7 @@
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2021-08-24 | 2022-02-04 |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2021-01-17 | 2022-04-19 |
 | [Sunshine \- From the Motion Picture “Ron’s Gone Wrong”](https://open.spotify.com/track/48oN0dm8zwleoUvuLBqIOp) | [Liam Payne](https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6) | [Sunshine \(From the Motion Picture “Ron’s Gone Wrong”\)](https://open.spotify.com/album/3EUNQSlJDx66zBXQFtRXjZ) | 2:44 | 2021-08-31 | 2022-01-15 |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [SUPERBLOOM](https://open.spotify.com/track/2HvtedoEeymVWrBPyAMNwZ) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [SUPERBLOOM](https://open.spotify.com/album/59f3BAKRdlWeaGTetnUPob) | 3:33 | 2020-08-07 | 2022-07-29 |
 | [Supercut](https://open.spotify.com/track/6IIcLzR05sN1gk4ngzz7Kk) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Melodrama](https://open.spotify.com/album/4oCGmYsAQOWt2ACWTpNUU6) | 4:37 | 2019-07-29\* | 2021-07-27 |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-02-03 |  |

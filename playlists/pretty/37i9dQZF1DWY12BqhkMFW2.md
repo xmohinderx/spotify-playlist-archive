@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 
 > Revive your soul with this playlist, featuring updated takes on classic R&B and soul tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 305,436 likes - 35 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 305,534 likes - 35 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Killing Me Softly With His Song](https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 4:58 |
 | 2 | [How Deep Is Your Love](https://open.spotify.com/track/0loJyuSFr6vVPBQSmLLrrQ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:17 |
 | 3 | [Untitled \(How Does It Feel\)](https://open.spotify.com/track/6ALoVRxwV5KxaSWyejnmvi) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Spotify Singles](https://open.spotify.com/album/7pfQDManhpjhxwqps9cveA) | 3:41 |
-| 4 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
-| 5 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 4 | [Sweet Thing](https://open.spotify.com/track/3X3XuCPTC95ARm9SguWsIa) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [What's The 411?](https://open.spotify.com/album/5Q3xLiKnY4ShDuQda7qfg2) | 3:45 |
+| 5 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 |
 | 6 | [Thank God I Found You \(feat\. Joe & Nas\) \- Make It Last Remix Edit](https://open.spotify.com/track/6nTcn8CybBcx0t7IaXEJ6O) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Clue](https://open.spotify.com/artist/4ybJiTIMVzeVOd00nI8Xxm), [Supa Engineer "Duro"](https://open.spotify.com/artist/04PvD1Anr3LC341vrIWXsf) | [My Name Is Joe](https://open.spotify.com/album/6zuCJaxmHKNKN5hMDF556U) | 4:11 |
 | 7 | [Knocks Me Off My Feet](https://open.spotify.com/track/4o1E2c0ye1RlIJJqOM0dqP) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [My Heart](https://open.spotify.com/album/1YylipCwfGRhRc4j3vJzwV) | 3:42 |
 | 8 | [Feel Like Makin' Love](https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Voodoo](https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8) | 6:22 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY12BqhkMFW2.md) - [plain]
 | 34 | [Love Don't Live Here Anymore](https://open.spotify.com/track/0bL1x6Y2OvJZbkB1B7o83u) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 4:17 |
 | 35 | [Let's Chill](https://open.spotify.com/track/7wb7R141Fp1oRitCNhKsyu) | [Charlie Wilson](https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w) | [Charlie, Last Name Wilson](https://open.spotify.com/album/28HcjLBR5KSz5QrnRz7kSP) | 5:02 |
 
-Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDJhZWZjYTg3OGZjMTQ4MTQxOTBmZmQ1ZjhhMzMxMThi`
+Snapshot ID: `MTY1ODUwMDg1MiwwMDAwMDAwMDFiNzY2MmJiNmY5YjBjZjlmYWI1M2ViNmIzNjE5MzE3`

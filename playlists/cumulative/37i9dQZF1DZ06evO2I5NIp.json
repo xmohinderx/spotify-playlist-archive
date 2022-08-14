@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "33 1/3",
+        "url": "https://open.spotify.com/album/23azwDEA9OOtTeXFsYIM7d"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281933,
+      "name": "Mississippi Mud",
+      "url": "https://open.spotify.com/track/5JpzAZohaLCOJTpwDFbEHs"
+    },
+    {
+      "album": {
         "name": "Uncivil War",
         "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
       },
@@ -781,7 +799,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 279640,
       "name": "Too Close",
       "url": "https://open.spotify.com/track/0opbokPzAGFGb950SHPzHq"

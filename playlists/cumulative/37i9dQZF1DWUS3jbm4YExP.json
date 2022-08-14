@@ -942,6 +942,32 @@
     },
     {
       "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/0Nxl08hPtWD64wmJ4QDtKz"
+      },
+      "artists": [
+        {
+          "name": "Maajo",
+          "url": "https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO"
+        },
+        {
+          "name": "Gilbert K",
+          "url": "https://open.spotify.com/artist/4806BUBQra8PgZMWXpYDO9"
+        },
+        {
+          "name": "Waina",
+          "url": "https://open.spotify.com/artist/1uqZL2dlgnS2JDtX0F8s4i"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393580,
+      "name": "Better Days (Kumba)",
+      "url": "https://open.spotify.com/track/2HPB1X4LrvvHxoNgMQGB8S"
+    },
+    {
+      "album": {
         "name": "Zan",
         "url": "https://open.spotify.com/album/3gzvo3s0ZBcBaQ5AJeYR77"
       },
@@ -1041,6 +1067,24 @@
       "duration_ms": 209653,
       "name": "Boom!",
       "url": "https://open.spotify.com/track/2gsD0Bf0Bb0UCaSlWenzMD"
+    },
+    {
+      "album": {
+        "name": "Boul Bayi",
+        "url": "https://open.spotify.com/album/5fnjE6FP4f2JzhEu22tzWb"
+      },
+      "artists": [
+        {
+          "name": "Afro Begue",
+          "url": "https://open.spotify.com/artist/00WVDGi6uKfbfd97rreoQA"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205577,
+      "name": "Boul Bayi",
+      "url": "https://open.spotify.com/track/1aJ0avSZwIt5qlJKt9aYXX"
     },
     {
       "album": {
@@ -1793,7 +1837,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 172293,
       "name": "Diablo",
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
@@ -2901,7 +2945,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 356129,
       "name": "Giants",
       "url": "https://open.spotify.com/track/32B5eGIOm9qifV9hwpx0Kv"
@@ -4339,7 +4383,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180"
@@ -6707,6 +6751,24 @@
       "duration_ms": 207533,
       "name": "Say the Word",
       "url": "https://open.spotify.com/track/5ySFN6UT59uqDxp9TrSFvT"
+    },
+    {
+      "album": {
+        "name": "Shake",
+        "url": "https://open.spotify.com/album/1TTt9ZEy0EmabFaJLXnvtZ"
+      },
+      "artists": [
+        {
+          "name": "Santigold",
+          "url": "https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101560,
+      "name": "Shake",
+      "url": "https://open.spotify.com/track/5Ey7yUZCEdRd57MlkZOXYj"
     },
     {
       "album": {

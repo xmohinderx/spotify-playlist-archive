@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 92751,
+  "num_followers": 92855,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMDFmMjg2NWUxNjJiZmM2ZWQyNWFjODI1NzBjNDQ4YTQ3",
+  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMGI3ZDlmNzQ5NWRlMWQ2MGFmYjE3NGY4NTdkYmY5YTM1",
   "tracks": [
     {
       "added_at": "2022-01-25 23:50:43",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
-        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 441000,
-      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
-      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Mujer Interesada",
         "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 160011,
       "name": "Mujer Interesada",
       "url": "https://open.spotify.com/track/04CFuPjz3XcbbrWAMsi55V"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "La Parranda De Los Amigos (Vol. 1 / En Vivo)",
+        "url": "https://open.spotify.com/album/4KU1Pj7yeo1eH0edQFuSlB"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 441000,
+      "name": "Medley: El Olotito / El Toro Viejo / El Sinaloense / La Imagen De Malverde - En Vivo",
+      "url": "https://open.spotify.com/track/4QaZC2yYRWx60342ibZBsT"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Era Cab - El Viejo",
+        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "Mi Gusto Es",
+      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Una Vez M\u00e1s",
         "url": "https://open.spotify.com/album/3pg4CVG7UZ5UI1AxSekVEe"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 260160,
       "name": "Popurr\u00ed Cumbias: La Yaquecita / La Cumbia Bonita / El Aparatito",
       "url": "https://open.spotify.com/track/4Y9RNuHmJXcQhnPFt3DVcM"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
-        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
-      },
-      "artists": [
-        {
-          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
-          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
-        }
-      ],
-      "duration_ms": 220453,
-      "name": "Cinco De T\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Era Cab - El Viejo",
-        "url": "https://open.spotify.com/album/5BQIRjVPuSGgT9AB11jzKu"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "Mi Gusto Es",
-      "url": "https://open.spotify.com/track/7t2ix5iyt6UPwKkaXbgL8s"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "De la Ciudad pal' Rancho (Puro A\u00f1uuu Weiii)",
         "url": "https://open.spotify.com/album/2JN6smXOqkzHF0dXAtCFcJ"
       },
@@ -775,22 +759,6 @@
       "duration_ms": 264693,
       "name": "Al Estilo Potos\u00ed: El Pistolero / Orde\u00f1ando la Vaca / Cuando los Frijoles Bailan",
       "url": "https://open.spotify.com/track/1nyMsdNsF6t7Ar88vnudFE"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Con Sangre Ranchera",
-        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
-      },
-      "artists": [
-        {
-          "name": "Banda Alte\u00f1ita de Morelia",
-          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
-        }
-      ],
-      "duration_ms": 136752,
-      "name": "A Qui\u00e9n No Le Gusta Eso",
-      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -847,6 +815,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "La Parranda De Los Amigos (Vol. 2 / En Vivo)",
+        "url": "https://open.spotify.com/album/6zAsjRleHzUXZxCI2XEDWX"
+      },
+      "artists": [
+        {
+          "name": "Chuy Lizarraga y Su Banda Tierra Sinaloense",
+          "url": "https://open.spotify.com/artist/1DA8SLXtp8MMVpgaOWzMQr"
+        }
+      ],
+      "duration_ms": 220453,
+      "name": "Cinco De T\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/5z00b6yYj7hKiE2MCVgeZM"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Pal Rancho 100% Chicoteadas",
         "url": "https://open.spotify.com/album/5i7b3QzBMm0veTlnB1gwik"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+        "name": "Con Sangre Ranchera",
+        "url": "https://open.spotify.com/album/7vujUCeiFL1L347J9ghpR4"
       },
       "artists": [
         {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+          "name": "Banda Alte\u00f1ita de Morelia",
+          "url": "https://open.spotify.com/artist/17ND8vMcTSrwhZOUvG7CnA"
         }
       ],
-      "duration_ms": 161946,
-      "name": "La Feria de Cali",
-      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
+      "duration_ms": 136752,
+      "name": "A Qui\u00e9n No Le Gusta Eso",
+      "url": "https://open.spotify.com/track/1ocotVnvTXqgSHqtfqx3yt"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -895,18 +879,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "En Vivo...Desde Guanajuato Vol. 2",
-        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
       },
       "artists": [
         {
-          "name": "Banda Yurirense",
-          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
         }
       ],
-      "duration_ms": 123141,
-      "name": "El Olotito",
-      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+      "duration_ms": 161946,
+      "name": "La Feria de Cali",
+      "url": "https://open.spotify.com/track/1yNugyc4i6Jym2iHc6aRpm"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -927,6 +911,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "En Vivo...Desde Guanajuato Vol. 2",
+        "url": "https://open.spotify.com/album/4xDMitRkvUwKESArPODB5U"
+      },
+      "artists": [
+        {
+          "name": "Banda Yurirense",
+          "url": "https://open.spotify.com/artist/02o7VD6pSPi2BnnIjlISG4"
+        }
+      ],
+      "duration_ms": 123141,
+      "name": "El Olotito",
+      "url": "https://open.spotify.com/track/2Ae478fhoMQ8zQlZry5e7G"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Homenaje a un Grande",
         "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
       },
@@ -939,26 +939,6 @@
       "duration_ms": 167133,
       "name": "Sangoloteadito",
       "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Mujer Alegre",
-        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        },
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Mujer Alegre",
-      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -995,22 +975,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Bicentenario",
-        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "El Toro Viejo",
-      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "El Toro Meko",
         "url": "https://open.spotify.com/album/3H6XfV5BJvzjOXrnNMhN42"
       },
@@ -1023,6 +987,42 @@
       "duration_ms": 187805,
       "name": "El Huitzuque\u00f1o",
       "url": "https://open.spotify.com/track/5DGE6ZCHbQU3id35BsHBLI"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Mujer Alegre",
+        "url": "https://open.spotify.com/album/5l1c87A41VA7IZijmFfdat"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        },
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 217894,
+      "name": "Mujer Alegre",
+      "url": "https://open.spotify.com/track/7eKL6KLXRYboZ74w0138qx"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Bicentenario",
+        "url": "https://open.spotify.com/album/6tFbIEt2apg5Zj1KPCdyMi"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "El Toro Viejo",
+      "url": "https://open.spotify.com/track/0i14Ax87IW9ClGPk6hY0eV"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
-      },
-      "artists": [
-        {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        },
-        {
-          "name": "Banda Los Escamilla",
-          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
-        }
-      ],
-      "duration_ms": 167100,
-      "name": "Los Colorados (feat. Banda los Escamilla)",
-      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -1107,22 +1087,6 @@
       "duration_ms": 119807,
       "name": "El Toro De Once (En Vivo)",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Mujer Interesada",
-        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 135830,
-      "name": "Los Once Pueblos",
-      "url": "https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1143,6 +1107,26 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        },
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "Los Colorados (feat. Banda los Escamilla)",
+      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Como Loco Alucino",
         "url": "https://open.spotify.com/album/2HZ10UUKKSRmVpVBjRXh1k"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 192066,
       "name": "La Vaquilla",
       "url": "https://open.spotify.com/track/42zeCHx9BC59y2oRG6DBxf"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Mujer Interesada",
+        "url": "https://open.spotify.com/album/61bBUzkom2CEA555x0dF8a"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 135830,
+      "name": "Los Once Pueblos",
+      "url": "https://open.spotify.com/track/3r6RZczKIOru45X6M7YzQQ"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
-        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 461333,
-      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
-      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Que Lindo Es Michoac\u00e1n! (Puros Sones!)",
         "url": "https://open.spotify.com/album/2SZ3bcNDilMhbkhCBZv8WR"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 138640,
       "name": "El Tiliche",
       "url": "https://open.spotify.com/track/1Nzjgrrt5viVSG8ZSVS4WJ"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
+        "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 461333,
+      "name": "Las Consentidas del Maka / El Coyotito / Los Colorados / Flor de Pi\u00f1a - En Vivo",
+      "url": "https://open.spotify.com/track/7BbnJBLTG8ldzDHfED34iA"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
-        "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
-      },
-      "artists": [
-        {
-          "name": "Banda La Fregona",
-          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
-        }
-      ],
-      "duration_ms": 128501,
-      "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
-      "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "En Vivo Desde Colima, Vol. 2",
         "url": "https://open.spotify.com/album/79T7IMva98HwHfjvygeY6n"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 166876,
       "name": "El Chavo del Ocho (The Elephant Never Forgets)",
       "url": "https://open.spotify.com/track/5cFY7DAekksn0hroUe8K02"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Por el Puro Gusto (Puro A\u00f1uuu Weiii)",
+        "url": "https://open.spotify.com/album/71gqtmiaV5bge2aAf7TCGT"
+      },
+      "artists": [
+        {
+          "name": "Banda La Fregona",
+          "url": "https://open.spotify.com/artist/5QjGlm1dx35Pgsg5S1hVf7"
+        }
+      ],
+      "duration_ms": 128501,
+      "name": "Por el Puro Gusto - Puro A\u00f1uuu Weiii",
+      "url": "https://open.spotify.com/track/1AhojDGBY8qjWWYsAkh58k"
     },
     {
       "added_at": "2022-01-25 23:50:43",

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Metallica",
-  "num_followers": 178598,
+  "num_followers": 178857,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEwMjc3NCwwMDAwMDAwMDY5MzJmNDY2MzA0YmJlMTMyOTgyNDI0MTlkY2RiMTUy",
+  "snapshot_id": "MTY1NTEwMjc3NCwwMDAwMDAwMDlkYmE5ZDEwNGYwY2I1MzdmNzNlYmQ2NzE2N2NjNGM1",
   "tracks": [
     {
       "added_at": "2022-06-13 06:46:14",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Beat It",
-        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
-      },
-      "artists": [
-        {
-          "name": "One Morning Left",
-          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
-        }
-      ],
-      "duration_ms": 210639,
-      "name": "Beat It",
-      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Lovecraft & Witch Hearts",
         "url": "https://open.spotify.com/album/1S5CAeg3cV0Y6SFPcIt2at"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 430733,
       "name": "Hallowed Be Thy Name",
       "url": "https://open.spotify.com/track/0mJUxFpEI1eAOIIfnNoZ4G"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Beat It",
+        "url": "https://open.spotify.com/album/3EIpsdVjwGV0Bf20sF2QvL"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 210639,
+      "name": "Beat It",
+      "url": "https://open.spotify.com/track/0O7fXel2uzgJraKd1NBSVb"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Diamonds in the Rough",
-        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Born Dead",
         "url": "https://open.spotify.com/album/4dcc16iApVBmr8Q6XVMvmz"
       },
@@ -527,18 +511,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Surtur Rising",
-        "url": "https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB"
+        "name": "Diamonds in the Rough",
+        "url": "https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 219853,
-      "name": "Aerials",
-      "url": "https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn"
+      "duration_ms": 162690,
+      "name": "Paranoid",
+      "url": "https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -555,6 +539,22 @@
       "duration_ms": 395683,
       "name": "Creeping Death",
       "url": "https://open.spotify.com/track/6onRH7iyBTjrm2GXGrSXUp"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Surtur Rising",
+        "url": "https://open.spotify.com/album/6bz1yWjzSUlsXXlih2fjyB"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 219853,
+      "name": "Aerials",
+      "url": "https://open.spotify.com/track/0qAi6FKsbiGXAkk6Sx4mVn"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
+        "name": "Enter Sandman",
+        "url": "https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "duration_ms": 231115,
+      "name": "Enter Sandman",
+      "url": "https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
         "name": "Lovely (feat. Charlotte Buchholz)",
         "url": "https://open.spotify.com/album/2zXwjDE1op3goWSzN31I4G"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 238043,
       "name": "Lovely (feat. Charlotte Buchholz)",
       "url": "https://open.spotify.com/track/73lnNys5DP9GOM2YKqNkQz"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
-        "name": "Enter Sandman",
-        "url": "https://open.spotify.com/album/5833BTHlYCmErR58ED2wmu"
-      },
-      "artists": [
-        {
-          "name": "Ghost",
-          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
-        }
-      ],
-      "duration_ms": 231115,
-      "name": "Enter Sandman",
-      "url": "https://open.spotify.com/track/0YatuNVDfq8a2VoYlPka9k"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Renegades",
-        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 208906,
-      "name": "Renegades",
-      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Only for the Weak",
         "url": "https://open.spotify.com/album/0LGDnOKdzUM9QtXTFvOWQu"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 276571,
       "name": "Only for the Weak",
       "url": "https://open.spotify.com/track/0OBxEhj74scqtN9l1RxANI"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Renegades",
+        "url": "https://open.spotify.com/album/387RMZLKNvf1s3ZPSIkYCM"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 208906,
+      "name": "Renegades",
+      "url": "https://open.spotify.com/track/66gXuXJx50t2a8XGwhDiHP"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "Animals",
-        "url": "https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd"
-      },
-      "artists": [
-        {
-          "name": "Villain of the Story",
-          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
-        }
-      ],
-      "duration_ms": 182337,
-      "name": "Animals",
-      "url": "https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR"
-    },
-    {
-      "added_at": "2022-06-13 06:46:14",
-      "album": {
         "name": "Livin' la Vida Loca (Cover)",
         "url": "https://open.spotify.com/album/1vwAdEbrf2M5oC79nUyjWC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 217452,
       "name": "Livin' la Vida Loca - Cover",
       "url": "https://open.spotify.com/track/3v6ji8IE3AXlBeHK3vwJTc"
+    },
+    {
+      "added_at": "2022-06-13 06:46:14",
+      "album": {
+        "name": "Animals",
+        "url": "https://open.spotify.com/album/2TGEqCNx8wHVFtgZ820rPd"
+      },
+      "artists": [
+        {
+          "name": "Villain of the Story",
+          "url": "https://open.spotify.com/artist/28XopU8Uw6D6Wl7rIgCVNE"
+        }
+      ],
+      "duration_ms": 182337,
+      "name": "Animals",
+      "url": "https://open.spotify.com/track/6656ZMxIGQewFwQt5x4GvR"
     },
     {
       "added_at": "2022-06-13 06:46:14",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-06-13 06:46:14",
       "album": {
-        "name": "The Best of Voivod",
-        "url": "https://open.spotify.com/album/0TJzcxxTif2yPcgdn1EKdj"
+        "name": "Mambo No. 5 (Cover)",
+        "url": "https://open.spotify.com/album/5Ng9lsJwo1waGpQhSOMBSn"
       },
       "artists": [
         {
-          "name": "Voivod",
-          "url": "https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3"
+          "name": "COMETRON",
+          "url": "https://open.spotify.com/artist/3zlHrJ9PNVZzqy7qobJFIi"
         }
       ],
-      "duration_ms": 330306,
-      "name": "Astronomy Domine",
-      "url": "https://open.spotify.com/track/4gHNdbRBmLgMmZFBG99Hje"
+      "duration_ms": 210145,
+      "name": "Mambo No. 5 - Cover",
+      "url": "https://open.spotify.com/track/6zVPxBtCzKMewKLC9OOfcx"
     }
   ],
   "unique_name": "Metal Covers",

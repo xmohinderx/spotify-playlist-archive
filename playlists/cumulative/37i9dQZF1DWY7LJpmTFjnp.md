@@ -4,7 +4,7 @@
 
 > Una dosis con lo más chingón pa'l gusto mexicano\. Kinky en portada.
 
-93 songs - 6 hr 9 min - [published](https://open.spotify.com/playlist/2vu2JM6dXd3OuInlDXgZcJ)
+94 songs - 6 hr 12 min - [published](https://open.spotify.com/playlist/2vu2JM6dXd3OuInlDXgZcJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Quisiera Saber \(with Natalia Lafourcade\)](https://open.spotify.com/track/7ETuZtnJJ1brMNiPpd2LFg) | [Los Daniels](https://open.spotify.com/artist/6wAdcWMCHvamfged5FsKBD), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [A Casa](https://open.spotify.com/album/1435j1Cd1T8MJLSos4Arll) | 3:29 | 2022-01-14 |  |
 | [Rastaman\- Dita](https://open.spotify.com/track/5kUf3gMXG6lTJkfQWLZSsP) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW) | [Apocalypshit](https://open.spotify.com/album/2Kd0lXsX8jlXwnoRrAnRiQ) | 3:48 | 2022-04-19 |  |
 | [Raíz \(Sinfónico en Vivo\)](https://open.spotify.com/track/4olGOQU6lKPpw3NiuXKtae) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [14 Episodios Sinfónicos / En Vivo / Auditorio Nacional de México / Febrero 2002](https://open.spotify.com/album/68BnYL75CjklQes6lwfzWO) | 4:07 | 2022-08-11 |  |
+| [Ricos](https://open.spotify.com/track/1EnZ3INXgu2fnfQhqGWHDt) | [Axel Catalán](https://open.spotify.com/artist/3RyQCdkn4bCRxZ3kOgUPxH) | [Ricos](https://open.spotify.com/album/2tg6afES7ci3iXpktgcmKi) | 2:54 | 2022-08-13 |  |
 | [Rocket Song](https://open.spotify.com/track/0yvPC1XEX2lnY3dFpuRgkN) | [Lasser Drakar](https://open.spotify.com/artist/5PMSq3OgSznXoYCWcszP7K), [Stag Girls](https://open.spotify.com/artist/3x3erz9ReUd13rHrUh76o5) | [Rocket Song](https://open.spotify.com/album/7mM4xNYZMMZO79JxEzI5aw) | 2:45 | 2022-08-09 | 2022-08-12 |
 | [ropa de bazar \- En Vivo](https://open.spotify.com/track/7d7esG3HKaSZXPbI3oIXYO) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [ed maverick en el metropólitan \(En Vivo\)](https://open.spotify.com/album/2rzVL9OV53yHsDU2Y6qmg2) | 3:03 | 2022-01-14 | 2022-07-04 |
 | [Runaway](https://open.spotify.com/track/0ZLakHzHWqUIlkeDa4i8aC) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR), [The Original Wailers](https://open.spotify.com/artist/5OjaCQpOgXRm51CdZzLAHW) | [Pericos & Friends](https://open.spotify.com/album/6X5Q67CsxndSPng67Xxqua) | 3:53 | 2022-01-14 |  |
@@ -87,7 +88,7 @@
 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 | 2022-01-14 | 2022-06-28 |
 | [Soñé \- En Vivo](https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:46 | 2022-01-14 |  |
 | [Sólo Eres Tú](https://open.spotify.com/track/0EqWWA2CnRwcJIt7czGB5Z) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Sólo Eres Tú](https://open.spotify.com/album/2Pa9kp6NPUH9H2Af0TTbVg) | 3:53 | 2022-02-10 | 2022-04-21 |
-| [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 |  |
+| [Sólo Tú](https://open.spotify.com/track/7lruysdjllso0aWGM7qDGj) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Sólo Tú](https://open.spotify.com/album/4P3K3YGnFdgj51xBMtavdS) | 3:16 | 2022-04-09 | 2022-08-14 |
 | [Te Lo Pido por Favor](https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M) | [Jaguares](https://open.spotify.com/artist/1RgXxY6uzWo9cjYYwwgVGq) | [El Primer Instinto](https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL) | 3:26 | 2022-01-14 |  |
 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 | 2022-01-14 | 2022-07-27 |
 | [Tu Volverás](https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Monarca](https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw) | 4:43 | 2022-04-19 | 2022-07-29 |

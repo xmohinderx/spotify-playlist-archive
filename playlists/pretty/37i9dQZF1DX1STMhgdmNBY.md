@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,716 likes - 60 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,799 likes - 60 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 16 | [Lonesome In My Bedroom](https://open.spotify.com/track/4xu0LW34dFEoHG1x65tQPx) | [Luther Johnson](https://open.spotify.com/artist/1fgNJ5TmN4k8Kf1zdaSBoV) | [They Call Me the Popcorn Man \(France 1975\) \[Blues Reference\]](https://open.spotify.com/album/4crkm4DvH6Bn7B4oRMIetm) | 6:25 |
 | 17 | [Do I Move You?](https://open.spotify.com/track/0aIcFRGr88cGtlEJBuDub6) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 2:44 |
 | 18 | [Call It Stormy Monday](https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:03 |
-| 19 | [Cold Hearted Woman](https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x) | [Tin Pan Alley](https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT) | 5:22 |
-| 20 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
+| 19 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
+| 20 | [Cold Hearted Woman](https://open.spotify.com/track/1WVh4LQBjRhooTIYmMpAu4) | [Magic Slim](https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x) | [Tin Pan Alley](https://open.spotify.com/album/3zH6FQfxszWNSF4EYmgVhT) | 5:22 |
 | 21 | [Hummingbird](https://open.spotify.com/track/769OeqqYJcSQjvVquDWfYf) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Indianola Mississippi Seeds](https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l) | 4:38 |
 | 22 | [As The Years Go Passing By](https://open.spotify.com/track/56UsciEGCYrmCTSI3veuvC) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Still Got The Blues](https://open.spotify.com/album/5yrouz3mmUWSsCufl1tLUJ) | 7:44 |
 | 23 | [T\-Bone Blues](https://open.spotify.com/track/3DjwjAUPT4zvIu6ZzcgLGJ) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 3:48 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 42 | [Gospel Groove](https://open.spotify.com/track/55mwnnVCq90cdzFro3UFGZ) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Here Comes Shuggie Otis](https://open.spotify.com/album/6mzeogguJ6lMUHWgBJzhcd) | 4:15 |
 | 43 | [Blue Jean Blues](https://open.spotify.com/track/2YRF157SH4KOtDlaVjHoaB) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rancho Texicano: The Very Best of ZZ Top](https://open.spotify.com/album/6ti1HC6R2Op1enYiuCDf6k) | 4:39 |
 | 44 | [Sittin' And Cryin' The Blues](https://open.spotify.com/track/4vl2dLCKiTjkPGFRGchtuL) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 3:23 |
-| 45 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
-| 46 | [It's a Man's, Man’s, Man’s World](https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Georgia Blue](https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV) | 4:31 |
+| 45 | [It's a Man's, Man’s, Man’s World](https://open.spotify.com/track/5CfGXaEPnhwqAlhX2PJmy4) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Georgia Blue](https://open.spotify.com/album/2JGpezeVAwq7Jw2ua3EniV) | 4:31 |
+| 46 | [So Easy To Love You](https://open.spotify.com/track/7LZlJz418kxtuK3QkGvL15) | [Magic Slim & The Teardrops](https://open.spotify.com/artist/2HjJcAHHvf3xGxYQ6LXSat) | [Chicago Blues Session Volume 3](https://open.spotify.com/album/3vdYcbFn0CFZZkYR9HisI8) | 7:22 |
 | 47 | [I Just Want To Make Love To You \- Single Version](https://open.spotify.com/track/1OhUmE8Wkw1KBXx2gQcOo9) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [The Best Of Muddy Waters](https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY) | 2:50 |
 | 48 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 49 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 59 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 60 | [I Don't Know What You've Got](https://open.spotify.com/track/2I5D6pMboqouze5XiRNK0D) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7), [Mike Farris](https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o) | [The Blues Album](https://open.spotify.com/album/4Oi6hTkomUsifP4dqmKZlS) | 4:49 |
 
-Snapshot ID: `MTY1OTEwNTUyNSwwMDAwMDAwMGY0NWQ5MDQyZDliNWY5ZDljMTJhNWU1N2QzMDFlZjky`
+Snapshot ID: `MTY1OTEwNTUyNSwwMDAwMDAwMDAwZTdmMzc0MGE1NmMwNzFhYTE2YmU3ZTk1MjhhMzVm`

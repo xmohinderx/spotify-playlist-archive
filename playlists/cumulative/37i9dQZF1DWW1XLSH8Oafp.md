@@ -4,7 +4,7 @@
 
 > ur on the list bb 🪐 featuring Pinkpantheress and Sam Gellaitry
 
-343 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
+344 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/4qQTwjVUQcX8L2UpyIZBmb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [boythots](https://open.spotify.com/track/57miWCpd7kX78sbys9uWRg) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [boythots](https://open.spotify.com/album/4x1k1941BX8jNrxhiI9QYv) | 2:17 | 2022-08-12 |  |
 | [BRAND NEW BITCH](https://open.spotify.com/track/13DNuiQyuTDcAw6Y8thZFM) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [BRAND NEW BITCH](https://open.spotify.com/album/6xMnRBIpa2x3M40yVkGMBb) | 3:16 | 2022-06-24 |  |
 | [Break It Off](https://open.spotify.com/track/0DwVfCYLrVXgvejYbWwZAd) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Break It Off](https://open.spotify.com/album/5q84FQfWp3Q7XnoMlzLRD3) | 1:35 | 2021-07-23 |  |
-| [BREAKFREE](https://open.spotify.com/track/1KuZJnjq1NgqcoQrb8YIwG) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/5EJbNyAQu7cG3AgmLugwbY) | 5:43 | 2022-08-12 |  |
+| [BREAKFREE](https://open.spotify.com/track/1KuZJnjq1NgqcoQrb8YIwG) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/5EJbNyAQu7cG3AgmLugwbY) | 5:43 | 2022-08-12 | 2022-08-14 |
+| [BREAKFREE](https://open.spotify.com/track/6OY9l4YUOyaDCMHI51PCqB) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/1wnWYFIRM8UmWB56ONiOSw) | 5:43 | 2022-08-12 |  |
 | [Brick!](https://open.spotify.com/track/1DFkPT7Gb7qngvv1V8EmOv) | [CRUSH3d](https://open.spotify.com/artist/5Qvgao5nFsaKRPeL42Dnpf) | [Brick!](https://open.spotify.com/album/3zMZWhIhYCyyIetvrYAXJV) | 5:51 | 2022-06-17 |  |
 | [Britnaeys new baby \[125 BPM\]](https://open.spotify.com/track/3eoWq5oqHA72MObemar3xY) | [Vegyn](https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o), [Danny L Harle](https://open.spotify.com/artist/1PNvaesh1mkKZucGhBuqgD) | [Don't Follow Me Because I'm Lost Too!!](https://open.spotify.com/album/0fzPd8PH6TQR8BQBkxQDRZ) | 2:52 | 2022-01-28 | 2022-07-16 |
 | [Bubbly Paradise](https://open.spotify.com/track/7eNSM4ZEpgGIzvMcObLKSs) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7) | [Eternal Euphoria](https://open.spotify.com/album/47Pqc2BRtUyi22WyC5ngJG) | 6:12 | 2022-01-21 | 2022-04-16 |

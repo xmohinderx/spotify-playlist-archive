@@ -4,7 +4,7 @@
 
 > Keep your night easy and light with this acoustic mix.
 
-201 songs - 12 hr 51 min - [published](https://open.spotify.com/playlist/0M0Cs9qzLAasLW0h17eQAb)
+202 songs - 12 hr 54 min - [published](https://open.spotify.com/playlist/0M0Cs9qzLAasLW0h17eQAb)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cormorant Bird](https://open.spotify.com/track/4BSUpjNIIuy766fewPrcvH) | [Fionn Regan](https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy) | [Cormorant Bird](https://open.spotify.com/album/6TfLPZhtwAxbeWMuCLxPYq) | 3:27 | 2022-04-15 |  |
 | [Dancefloor](https://open.spotify.com/track/2jcGfz4bpHaOCvrcd9IHn9) | [Mary Glenn](https://open.spotify.com/artist/2ffB2Wk1UD0wQ7fJZDXEH0) | [Mary Glenn](https://open.spotify.com/album/3mqZniFwoADxKEz4QETQTR) | 5:22 | 2021-11-11 |  |
 | [Dark](https://open.spotify.com/track/2nfUcAyXnCs7VaedrWsbqI) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/5eq6sWxCUtIKSFZaLPmIO8) | 3:13 | 2022-04-15 | 2022-04-21 |
+| [Dark](https://open.spotify.com/track/401H08YGkVs5iKtiX3ccBn) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [The Lingering](https://open.spotify.com/album/3dmPz4j1JhjGi9NXlbrK6S) | 3:13 | 2022-04-15 |  |
 | [Denver](https://open.spotify.com/track/4GEKo09xhhb5GQQNE3k8ju) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Fish Pond Fish](https://open.spotify.com/album/48mwALvRndLkgANgah5qmd) | 3:58 | 2021-11-11 | 2022-07-29 |
 | [Diamond In The Mine](https://open.spotify.com/track/1mjuGwCsomm1O8rqsx1nC4) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Diamond In The Mine](https://open.spotify.com/album/6u64RL5jJUHBlEOGPZMA31) | 2:33 | 2021-11-11 | 2022-07-29 |
 | [Diamond In The Mine](https://open.spotify.com/track/4xKMfoafvtFw0JSQIkMscZ) | [Piers Faccini](https://open.spotify.com/artist/2hK2gWQ2TequHGKZe5dzHd) | [Diamond In The Mine](https://open.spotify.com/album/6A241AQ7AlmY71mdFWY2Jr) | 2:33 | 2022-04-15 |  |
@@ -208,6 +209,6 @@
 | [Witness Trees](https://open.spotify.com/track/5QENB0ad34Y0Fs2j7DoOXI) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Witness Trees](https://open.spotify.com/album/5R2eVRMY8SSRPiq8EV4urI) | 2:40 | 2021-11-11 |  |
 | [Woodpecker](https://open.spotify.com/track/0D5YcW57alDCPA6XQwwKcZ) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Big Bend \(An Original Soundtrack for Public Television\)](https://open.spotify.com/album/7w3BcToSqLYL2z3HOgMWwv) | 2:05 | 2021-11-11 |  |
 | [Young Bodies](https://open.spotify.com/track/4BhEQsifqbzCdknLf52O1G) | [Sea Wolf](https://open.spotify.com/artist/3ZllGjNdP5pS8UFnT5Jj2x) | [Song Spells, No.1: Cedarsmoke](https://open.spotify.com/album/3Q4S1bRlEEeztfrM4KsMFQ) | 3:29 | 2022-04-15 | 2022-04-20 |
-| [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 | 2021-11-11 |  |
+| [Zebra](https://open.spotify.com/track/0TazAJfiga0yScZ8rT61rD) | [COLETON RUBIN](https://open.spotify.com/artist/7Krl9mcONPsEv1stFtsWL7) | [Zebra](https://open.spotify.com/album/6QmnGl7Bj5U4bbXVQSbR37) | 3:05 | 2021-11-11 | 2022-08-14 |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

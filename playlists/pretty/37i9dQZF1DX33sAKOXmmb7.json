@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 18034,
+  "num_followers": 18113,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDg4MWZlNDI1ZTQyMDBkMzdkYmE3YmNkNTBmYjUzZTRh",
+  "snapshot_id": "MTY1MDkxNjQ0MiwwMDAwMDAwMDU4NDJiMTBmNDJjMzFjN2I5YjY4ZTQwN2QzYmNjMzZj",
   "tracks": [
     {
       "added_at": "2022-02-04 21:53:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Blindfaller",
-        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
-      },
-      "artists": [
-        {
-          "name": "Watchhouse",
-          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
-        }
-      ],
-      "duration_ms": 329893,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 206465,
       "name": "Me & My Dog",
       "url": "https://open.spotify.com/track/74uoN2UfgdUAzwVeFaRUE2"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Blindfaller",
+        "url": "https://open.spotify.com/album/2Ww7LYiKIxQUhLyiXtlppZ"
+      },
+      "artists": [
+        {
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
+        }
+      ],
+      "duration_ms": 329893,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/6VfY0sgS4j4JpFQH8kk4XA"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "I Need to Start a Garden",
-        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
-      },
-      "artists": [
-        {
-          "name": "Haley Heynderickx",
-          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
-        }
-      ],
-      "duration_ms": 228459,
-      "name": "The Bug Collector",
-      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Prologue",
         "url": "https://open.spotify.com/album/1FlNkbhrTnMma2VkDY6t9Q"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 330773,
       "name": "Michigan",
       "url": "https://open.spotify.com/track/6RGGOBfNQLOvQhyl1oG2oD"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "I Need to Start a Garden",
+        "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        }
+      ],
+      "duration_ms": 228459,
+      "name": "The Bug Collector",
+      "url": "https://open.spotify.com/track/5nVE45ithgyVocZp5XLAk6"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Lost On The River (Deluxe)",
-        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
-      },
-      "artists": [
-        {
-          "name": "The New Basement Tapes",
-          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
-        }
-      ],
-      "duration_ms": 244426,
-      "name": "Kansas City",
-      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 212467,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Lost On The River (Deluxe)",
+        "url": "https://open.spotify.com/album/2d25Dhlk9EcJjrW0K0tnV9"
+      },
+      "artists": [
+        {
+          "name": "The New Basement Tapes",
+          "url": "https://open.spotify.com/artist/2oQpz9DEfhuSbuT8hjhTDK"
+        }
+      ],
+      "duration_ms": 244426,
+      "name": "Kansas City",
+      "url": "https://open.spotify.com/track/2JTBNz8VZx7i38pcPROWuz"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Hannah",
-        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
-      },
-      "artists": [
-        {
-          "name": "Lomelda",
-          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
-        }
-      ],
-      "duration_ms": 208382,
-      "name": "Hannah Sun",
-      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Hannah",
+        "url": "https://open.spotify.com/album/0xyYtBmta0jBeqXOJsocSJ"
+      },
+      "artists": [
+        {
+          "name": "Lomelda",
+          "url": "https://open.spotify.com/artist/6zcDLZ62JsbVM1nLrQMzi4"
+        }
+      ],
+      "duration_ms": 208382,
+      "name": "Hannah Sun",
+      "url": "https://open.spotify.com/track/4neuBR5NvjaYqAfj2vPbig"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Forever Turned Around",
-        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
-      },
-      "artists": [
-        {
-          "name": "Whitney",
-          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
-        }
-      ],
-      "duration_ms": 236453,
-      "name": "Valleys (My Love)",
-      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Forever Turned Around",
+        "url": "https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ"
+      },
+      "artists": [
+        {
+          "name": "Whitney",
+          "url": "https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G"
+        }
+      ],
+      "duration_ms": 236453,
+      "name": "Valleys (My Love)",
+      "url": "https://open.spotify.com/track/7LYVDh003mW2jl5D1UBPhR"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "The Wilds",
-        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 233289,
-      "name": "Real Peach",
-      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "22, A Million",
         "url": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 245200,
       "name": "29 #Strafford APTS",
       "url": "https://open.spotify.com/track/5qngJJcuGPqUyX3VPKvH11"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1611,6 +1611,22 @@
       "duration_ms": 232986,
       "name": "Halo",
       "url": "https://open.spotify.com/track/4JaoU6fL2Ifz2gDyFYtpiP"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Undercurrent",
+        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 154200,
+      "name": "Take Me Back",
+      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1647,22 +1663,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Undercurrent",
-        "url": "https://open.spotify.com/album/0MXtcpjNSnK68Xpv5rXnrc"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 154200,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/3CiZBMNMkRm8CzPD4ZLM6C"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Hundred Acres",
         "url": "https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4"
       },
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Harlem River",
-        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 555883,
-      "name": "Harlem River",
-      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "New Ways",
         "url": "https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 247266,
       "name": "Hot Tears",
       "url": "https://open.spotify.com/track/1aU0F8KL0vaKQacSMQRN9d"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Harlem River",
+        "url": "https://open.spotify.com/album/0DP6oSVu75inYj3jJ7tvLR"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 555883,
+      "name": "Harlem River",
+      "url": "https://open.spotify.com/track/0cDQyfkR7kYIBITKccaDmN"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Spirit Cold",
-      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Shallow Grave",
         "url": "https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe"
       },
@@ -1771,6 +1755,22 @@
       "duration_ms": 237000,
       "name": "The Gardener",
       "url": "https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Spirit Cold",
+      "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "Unfucktheworld",
-      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "Ancient Transition",
         "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 244120,
       "name": "Our Remains",
       "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "Burn Your Fire For No Witness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/62RDt42wD8VdrhfHG6IzpC"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "Unfucktheworld",
+      "url": "https://open.spotify.com/track/2NE61HPxiQyPbNhggQqrzG"
     },
     {
       "added_at": "2022-02-04 21:53:01",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-02-04 21:53:01",
       "album": {
-        "name": "No No No",
-        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
-      },
-      "artists": [
-        {
-          "name": "Beirut",
-          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
-        }
-      ],
-      "duration_ms": 170640,
-      "name": "No No No",
-      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
-    },
-    {
-      "added_at": "2022-02-04 21:53:01",
-      "album": {
         "name": "I Want to See Pulaski at Night",
         "url": "https://open.spotify.com/album/1XBBNeT50E40fWKY5SOvb5"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 289093,
       "name": "Pulaski at Night",
       "url": "https://open.spotify.com/track/3v6NuKeDbFbaq1lNjw3XtR"
+    },
+    {
+      "added_at": "2022-02-04 21:53:01",
+      "album": {
+        "name": "No No No",
+        "url": "https://open.spotify.com/album/6iAOkTDFRiWHVNNUjBqIxT"
+      },
+      "artists": [
+        {
+          "name": "Beirut",
+          "url": "https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX"
+        }
+      ],
+      "duration_ms": 170640,
+      "name": "No No No",
+      "url": "https://open.spotify.com/track/1dD6UAnqCJotTyU1bhCnDQ"
     },
     {
       "added_at": "2022-02-04 21:53:01",

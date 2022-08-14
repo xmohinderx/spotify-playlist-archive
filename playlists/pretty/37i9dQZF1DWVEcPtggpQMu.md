@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=Q\-wpBE3aQAqknnRePRGQVw">Priddy Ugly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,361 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,376 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Changed](https://open.spotify.com/track/2xZxcQ9wAqiaBvjNCXlnk9) | [Ray Chillz](https://open.spotify.com/artist/6MlAyF1Wf3wdr7LICB0qj2), [Naardie](https://open.spotify.com/artist/48jZBoeSEG2obtqG5wAO61) | [Changed](https://open.spotify.com/album/32oGJP8KwLlbyPYp06ZEa9) | 3:06 |
 | 2 | [30minutes to Soweto](https://open.spotify.com/track/6jfdGlzKaFgaSZESel9EQy) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [30minutes to Soweto](https://open.spotify.com/album/1eb8a1HGutT2c8EkJB92Oo) | 4:06 |
-| 3 | [ngivelelwe](https://open.spotify.com/track/2BNTdyCj7B403GFVM8zdvG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Garde](https://open.spotify.com/artist/2yNLbmgIk1HLW4wIlABt9A) | [4LUV \(Deluxe\)](https://open.spotify.com/album/6h02u7EmmsLguvsEGburBg) | 4:24 |
+| 3 | [ngivelelwe](https://open.spotify.com/track/2BNTdyCj7B403GFVM8zdvG) | [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [GARDENOTGOD](https://open.spotify.com/artist/385IN1Qy3c75zjSvtvoxgo) | [4LUV \(Deluxe\)](https://open.spotify.com/album/6h02u7EmmsLguvsEGburBg) | 4:24 |
 | 4 | [Tlaala Di Traata](https://open.spotify.com/track/4QZgfpj5zXW5RAktrbUzLJ) | [Mark Akol](https://open.spotify.com/artist/3bEST1JRTy3cmNbRLTyEVb), [DazzyLeNigga](https://open.spotify.com/artist/7dGH3AujymaCEYN0sgKO5s) | [Death Row Africa](https://open.spotify.com/album/1mpqILNXy1y0njIE0OdVkB) | 2:23 |
 | 5 | [God Is A Black Woman](https://open.spotify.com/track/08rcbLs7BrwOMFSGASlLgs) | [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [KayGizm](https://open.spotify.com/artist/7zZJ8uMyYLA5IXhjf1wlw2) | [God Is A Black Woman](https://open.spotify.com/album/2gEToWe7xbkYqQUERfGkG4) | 2:58 |
 | 6 | [Top Ten](https://open.spotify.com/track/66up8vDuQBeJF9w03S3UsG) | [Kay Faith](https://open.spotify.com/artist/2r237Ri8bYnH945KJNCdAm), [Owethu](https://open.spotify.com/artist/26onEbIE7wVmDSrMseL5pq), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs), [Hanna](https://open.spotify.com/artist/1K288EUFcrCVl5dIm46bYU), [Holy Alpha](https://open.spotify.com/artist/2Yy2Im8JOCPaECv2OgLKNy) | [Antithesis](https://open.spotify.com/album/5MgFuoNL6eV1jLiNOAA8iN) | 4:11 |

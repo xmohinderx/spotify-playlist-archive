@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 
 > The biggest rock artists in Japan right now! Cover: BAND\-MAID
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,779 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,845 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,10 +48,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 38 | [UNITE](https://open.spotify.com/track/5WwwgrjwI7DLLfg0qCEL7t) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [UNITE](https://open.spotify.com/album/53xqFfS0lGK2jQVoZ0ls1W) | 4:44 |
 | 39 | [Freaks](https://open.spotify.com/track/7IdKSSqLyFsDCe5wKYe0aG) | [88rising](https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs), [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ), [Warren Hue](https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g) | [Freaks](https://open.spotify.com/album/31KJXQUrbyRqkNJxKHYQB0) | 2:13 |
 | 40 | [More Than Words](https://open.spotify.com/track/4mvTOCXzPHBmLT5IJLUHJ5) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [More Than Words](https://open.spotify.com/album/479BpYjSqpTRKX4DjmIbQC) | 3:50 |
-| 41 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
+| 41 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 |
 | 42 | [AVALANCHE](https://open.spotify.com/track/5j5GxdQl506TDP8nSkRD8x) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [AVALANCHE](https://open.spotify.com/album/1rQTIzd2E969GJjCIv3sGR) | 4:13 |
-| 43 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
-| 44 | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J) | [Pyramid](https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy), [Miho Fukuhara](https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe) | [ODORO!\(feat.MIHO FUKUHARA\)](https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc) | 4:03 |
+| 43 | [原罪と福音](https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [総合](https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp) | 4:40 |
+| 44 | [Future Tone Bender](https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [egomaniac feedback](https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF) | 3:52 |
 | 45 | [VIBES BY VIBES](https://open.spotify.com/track/4IQ8TRkM7s24li5Y6xbEtp) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h), [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [10\-feat](https://open.spotify.com/album/0fEuThtACeHQcSULrDR1ma) | 3:56 |
 | 46 | [SummerDay](https://open.spotify.com/track/6Mstbao3J36dXocCdZfKqD) | [androp](https://open.spotify.com/artist/7n437ZdDaCzqjJDJ7WmbyX) | [SummerDay](https://open.spotify.com/album/1RyjFEI2GMTIAvkPH3SdGL) | 3:06 |
 | 47 | [あなたがどこかで](https://open.spotify.com/track/5HcQ3l5sM9aFyd49UFwSoK) | [Anzen Chitai](https://open.spotify.com/artist/3EAqVJtaxnPcWYlHXkHcuC) | [あなたがどこかで](https://open.spotify.com/album/39ZsxUsASZ2XZKjUwMsIUF) | 4:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbR32Ldau7WM.md) - [plain]
 | 49 | [閃光 \- English ver.](https://open.spotify.com/track/3qDky2Jzzp4MQ2dKTNfVLe) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/4g7RyFbsJV7WSxBKvialqK) | 4:25 |
 | 50 | [緑酒](https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU) | [Tokyo Incidents](https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5) | [音楽](https://open.spotify.com/album/62SB9GdMdVA5dog0Om9huj) | 4:06 |
 
-Snapshot ID: `MTY2MDA1NzIwMCwwMDAwMDAwMDk3NDExNjAxMDVjZjRkZTg3ZDkzY2IxN2E2ZTE3Mzgw`
+Snapshot ID: `MTY2MDA1NzIwMCwwMDAwMDAwMGEwMDQ1OTk3ZDc5NWU1MGJlNjY4ZGE4ZjRhMWFkMTYz`

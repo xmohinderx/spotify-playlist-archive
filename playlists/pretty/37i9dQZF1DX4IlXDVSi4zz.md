@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 
 > Dance the night away and just blame it on Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,908 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,442 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 45 | [Opus](https://open.spotify.com/track/3v2oAQomhOcYCPPHafS3KV) | [Eric Prydz](https://open.spotify.com/artist/5sm0jQ1mq0dusiLtDJ2b4R) | [Opus](https://open.spotify.com/album/2Kwbn1H4KMGZAe4MS6uDzU) | 9:03 |
 | 46 | [En Mi Cuarto](https://open.spotify.com/track/6Ee34qCOE6FBzEPRAGwSrn) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [En Mi Cuarto](https://open.spotify.com/album/5Tb0I67ArZ6gI4tXJVIJ3h) | 3:16 |
 | 47 | [Gravity](https://open.spotify.com/track/1eV81a6H4xDdpi8r2C4tQT) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Laura Korinth](https://open.spotify.com/artist/060duYsbrXFx0FDnlhs72T) | [Gravity](https://open.spotify.com/album/1p3Tbckk09MaXRz3Tf4dRK) | 3:36 |
-| 48 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
-| 49 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
+| 48 | [You Were Right](https://open.spotify.com/track/5H4sJFZZjKakgTzyEVmvGX) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Bloom](https://open.spotify.com/album/1SR9xhoYg57S95GDFpyQGT) | 3:59 |
+| 49 | [On My Mind](https://open.spotify.com/track/5lXY6PTuWXOludKy4zDQwM) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [On My Mind](https://open.spotify.com/album/2JvNCktHSlDwB9PhNYfOEq) | 3:09 |
 | 50 | [Cocaine Model](https://open.spotify.com/track/5Z3trOR982mBrJcPfrLUsq) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [THE NIGHTDAY](https://open.spotify.com/album/59irM3hSsX9Kpj31rJnsHc) | 4:15 |
 | 51 | [I Got U](https://open.spotify.com/track/69gQgkobVW8bWjoCjBYQUd) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [EP1](https://open.spotify.com/album/5ZzT6EX1TinZGrS7CuaTHI) | 4:45 |
 | 52 | [Nirvana](https://open.spotify.com/track/5zEAGm4yKQ8NMemN0m3rW1) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Nirvana](https://open.spotify.com/album/4VrGw3dww2O6U0hZTXOHae) | 2:37 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IlXDVSi4zz.md) - [plain]
 | 54 | [Who Loves The Sun](https://open.spotify.com/track/2u2aognU8U2C3bPJO5pVmz) | [Jo.Ke](https://open.spotify.com/artist/0RKP3F2s1SHvGpckHuW4S7), [Nu](https://open.spotify.com/artist/5tY2sa8I11tpMuhU9onQ6e) | [We Love The Sun](https://open.spotify.com/album/68dHtIw94SJ33SIBiT1rcK) | 9:22 |
 | 55 | [Soul Sacrifice](https://open.spotify.com/track/01fVbxyW9y2oKdXvg56uE5) | [Dombresky](https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN) | [Soul Sacrifice](https://open.spotify.com/album/2CcH3HYEAFwkbdNmhStK9V) | 3:52 |
 
-Snapshot ID: `MTY1OTQ2NDAyNywwMDAwMDAwMDgxZjZlMmEyYWQzNjc0Mzc0NjQxOGU1NGViNjM5ZWEz`
+Snapshot ID: `MTY1OTQ2NDAyNywwMDAwMDAwMDE2YjhkODg4NTlmNTJjNDRkNTRlNDQ5MjlkZjZlNTQ0`

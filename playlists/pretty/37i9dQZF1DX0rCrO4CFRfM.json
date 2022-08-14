@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 821930,
+  "num_followers": 822207,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMGY3NTZlZjFiZmQ5Nzc4YThjZDM2OTYyMmIyYzNhODAx",
+  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMGI5YTUyMDk0NjFiMWZjNDQ1NmIwNGE0ZDc1NDI3NDUy",
   "tracks": [
     {
       "added_at": "2022-06-27 09:43:41",
@@ -531,6 +531,38 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
+        "name": "SoCal Sessions",
+        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
+      },
+      "artists": [
+        {
+          "name": "P.O.D.",
+          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Youth Of The Nation - Acoustic Version",
+      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "All I Want (Acoustic)",
+        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
+      },
+      "artists": [
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 199893,
+      "name": "All I Want - Acoustic",
+      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
         "name": "Keep the Village Alive (Deluxe)",
         "url": "https://open.spotify.com/album/5NKgyV3NPyX3ErJCgctHgW"
       },
@@ -579,22 +611,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "All I Want (Acoustic)",
-        "url": "https://open.spotify.com/album/0jFBhRmqhqXDMI9AKgRRg4"
-      },
-      "artists": [
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 199893,
-      "name": "All I Want - Acoustic",
-      "url": "https://open.spotify.com/track/3GxyVQvYDjoTUr7hohx9Ye"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "Acoustic at The Ryman (Live)",
         "url": "https://open.spotify.com/album/6N3W6VPGBBxZcYajhZB75a"
       },
@@ -607,38 +623,6 @@
       "duration_ms": 307760,
       "name": "The Funeral - Live Acoustic",
       "url": "https://open.spotify.com/track/1jKvrkkZxtQ7ZDiXdITOis"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "SoCal Sessions",
-        "url": "https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo"
-      },
-      "artists": [
-        {
-          "name": "P.O.D.",
-          "url": "https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Youth Of The Nation - Acoustic Version",
-      "url": "https://open.spotify.com/track/4gkzgIySsIKS4FAlF724Bm"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
-        "name": "Boxes (Acoustic)",
-        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Boxes - Acoustic",
-      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -659,18 +643,18 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Us and Them (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+        "name": "Boxes (Acoustic)",
+        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
       },
       "artists": [
         {
-          "name": "Shinedown",
-          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 202080,
-      "name": "Save Me - Acoustic",
-      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
+      "duration_ms": 262186,
+      "name": "Boxes - Acoustic",
+      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -687,6 +671,22 @@
       "duration_ms": 160346,
       "name": "Vagabond - Acoustic Version",
       "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Us and Them (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/311sQUy4H8IFHsY9j8kx5q"
+      },
+      "artists": [
+        {
+          "name": "Shinedown",
+          "url": "https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI"
+        }
+      ],
+      "duration_ms": 202080,
+      "name": "Save Me - Acoustic",
+      "url": "https://open.spotify.com/track/0mqBx2unSAs6w8qHWDHdC7"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Yonaka Stripped Back",
-        "url": "https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7"
-      },
-      "artists": [
-        {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "In Bloom: Versions",
         "url": "https://open.spotify.com/album/6UjgPXbovoEObPAYEfuC85"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 212534,
       "name": "In Bloom (Acoustic)",
       "url": "https://open.spotify.com/track/0MkIn6BHsrQswE5v44kToW"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Yonaka Stripped Back",
+        "url": "https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7"
+      },
+      "artists": [
+        {
+          "name": "YONAKA",
+          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
     }
   ],
   "unique_name": "Acoustic Rock",

@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Ezra Collective
 
-219 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
+220 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/5YdwjD0Yo4VfktuMzWIUHY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Got Myself a Good Man](https://open.spotify.com/track/47p7EXLVpPSr3l9wK9bA4E) | [Lance Ferguson](https://open.spotify.com/artist/6dbQYrMbGorwsvnVCDb9ua) | [Got Myself a Good Man](https://open.spotify.com/album/2OIU1dz7wtdA1HaICpuVO2) | 5:08 | 2022-04-01 | 2022-07-29 |
 | [Grease of the East\(bay\) \[feat\. Eric Krasno, Daniel Casares & Adam Theis\]](https://open.spotify.com/track/5frRUnhEY8Pd5KGz5hRvTE) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k), [Daniel Casares](https://open.spotify.com/artist/3LRzrB7J8bLTpTP7Ukf4DD), [Adam Theis](https://open.spotify.com/artist/7F0GE9aWnuNcFG5Vxi1AtZ) | [Grease of the East\(bay\) \[feat\. Eric Krasno, Daniel Casares & Adam Theis\]](https://open.spotify.com/album/2td0xMJS2A1L3d2lwrmYFD) | 4:49 | 2021-01-08 | 2022-07-28 |
 | [Green Chimneys \- Juffie \- Instrumental](https://open.spotify.com/track/08eE1HMgTQ5Dsih5xAI43H) | [Sven Hammond](https://open.spotify.com/artist/3zSA1rBeAHp5NFDR4Q9lyn), [Akwasi](https://open.spotify.com/artist/31REX4WGmuDvtihynSCvly) | [Green Chimneys – Juffie](https://open.spotify.com/album/0U4Q2KC5lZA6woOZtzHM6T) | 3:31 | 2021-04-02 | 2022-07-03 |
-| [Green Frog](https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q) | [The Natural Yogurt Band](https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr) | [Green Frog](https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV) | 3:37 | 2022-06-10 |  |
+| [Green Frog](https://open.spotify.com/track/6S4QY1HV2rJH6avwEAyO8Q) | [The Natural Yogurt Band](https://open.spotify.com/artist/6EKAnJX0ELDyHUq5JBMVRr) | [Green Frog](https://open.spotify.com/album/4d8TsTBz7yhj07JGAIaoZV) | 3:37 | 2022-06-10 | 2022-08-14 |
 | [Hambone](https://open.spotify.com/track/0QSDnSYwEzsBOisXZqzIJy) | [Bob Stewart](https://open.spotify.com/artist/1j6ZqtSr1Y94DjLnQdUnUl), [Steve Turre](https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF), [Stanton Davis](https://open.spotify.com/artist/3WNjNtvmrX0JjI6bnCfJJF), [James Zollar](https://open.spotify.com/artist/2rqvqsDQ2tD7ehvzmbD1Cn), [Buddy Williams](https://open.spotify.com/artist/5hdGn3EDkKivCdqkWbJwj2) | [Then & Now](https://open.spotify.com/album/2DRzxrAuKQwZ79O1lddtwp) | 7:10 | 2022-03-11 | 2022-07-29 |
 | [Happy 'Cause I'm Goin' Home](https://open.spotify.com/track/7GAKkO3EXsJZvsG1racYMa) | [Charles Earland](https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi) | [Intensity](https://open.spotify.com/album/0UIDIJWyepSPXNAqLWBPiv) | 11:15 | 2020-10-09 |  |
 | [Harlem Buck Dance Strut](https://open.spotify.com/track/0u40DR3lPUDNCxtfDzNs3Q) | [Les McCann](https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI) | [Layers](https://open.spotify.com/album/6f1xvgs11hAh1Jedx9lRWm) | 5:55 | 2020-10-09 | 2022-06-18 |
@@ -195,6 +195,7 @@
 | [The Message Continues](https://open.spotify.com/track/4cr8FyfxkPatU8ca7cCzmN) | [Nubya Garcia](https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ) | [SOURCE](https://open.spotify.com/album/5iooBeTrG8wPKMgo7OAOX6) | 6:44 | 2020-10-09 |  |
 | [The Necessary Change](https://open.spotify.com/track/5mCXzeUcxymyUMaPA3zqbA) | [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [Music Ruined My Life](https://open.spotify.com/album/3qcxlqf6NWGxMoRcoetCTO) | 3:25 | 2021-10-22 | 2022-07-29 |
 | [The Positive and the Negative](https://open.spotify.com/track/2vRidmUrgY8KWpVbs2eHAA) | [Surprise Chef](https://open.spotify.com/artist/2Ks1Z1scmEDZfaYaCS7Osj) | [The Positive and the Negative](https://open.spotify.com/album/1C2B844cWZPT0eGCNTm03g) | 4:47 | 2022-01-21 |  |
+| [The Resurrection](https://open.spotify.com/track/1F39hjm8I9oxamHT3RmQJ2) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/639JLfs3Nbas5UHqoEA7Te) | 4:03 | 2022-04-01 |  |
 | [The Resurrection](https://open.spotify.com/track/4QPbdYWhalTiDZBi9ZSXhG) | [Luke Smith](https://open.spotify.com/artist/5eaYeMThA7paMUOBudZJ6H), [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx) | [The Resurrection](https://open.spotify.com/album/2wgZU2AxlsOPBeWV3h6HUd) | 4:03 | 2022-04-01 | 2022-07-29 |
 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7kjg2NCn3Zx70m1DFHSSGO) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/6gZlPB0fBBD75qUSKSFKs0) | 3:05 | 2020-10-09 | 2022-04-21 |
 | [The Revolution Will Not Be Televised](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV) | [Gil Scott\-Heron](https://open.spotify.com/artist/0kEfub5RzlZOB2zGomqVSU) | [Pieces of a Man](https://open.spotify.com/album/3Iny1eqJMoqU1I1UoUbVQl) | 3:07 | 2020-10-09 |  |

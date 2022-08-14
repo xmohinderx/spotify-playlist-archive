@@ -4,7 +4,7 @@
 
 > All 90s, all ballads\. Cover: Shania Twain
 
-83 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
+84 songs - 6 hr 29 min - [published](https://open.spotify.com/playlist/1S5MWUPnOvyz1w7RvDvP5N)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [All My Life](https://open.spotify.com/track/5GorFaKkP2mLREQvhSblIg) | [K\-Ci & JoJo](https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK) | [Love Always](https://open.spotify.com/album/5cmtcMzuUZq8vxS5T7NVPu) | 5:31 | 2021-02-10 |  |
 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 | 2021-02-10 | 2022-07-29 |
 | [Angel](https://open.spotify.com/track/3xZMPZQYETEn4hjor3TR1A) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:30 | 2021-02-10 |  |
-| [Angels](https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:25 | 2021-02-10 |  |
+| [Angels](https://open.spotify.com/track/7CKbqqrs0AS1si1ZgaQdcj) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Angels](https://open.spotify.com/album/15lwLTwByJddohg3GvxICy) | 4:25 | 2021-02-10 | 2022-08-14 |
 | [As Long as You Love Me](https://open.spotify.com/track/00WvmRXTkPBZNhhRK3xfdy) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 3:34 | 2021-02-10 |  |
 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 | 2021-02-10 |  |
 | [Back for Good \- Radio Mix](https://open.spotify.com/track/24fQpRwKFkC3Fe8QtvvrNw) | [Take That](https://open.spotify.com/artist/1XgFuvRd7r5g0h844A5ZUQ) | [Nobody Else \(Deluxe\)](https://open.spotify.com/album/5QnHvl0ne6yEhRGw3ajvFF) | 4:02 | 2021-02-10 | 2022-07-29 |
@@ -64,6 +64,7 @@
 | [Kiss from a Rose](https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh) | [Seal](https://open.spotify.com/artist/5GtMEZEeFFsuHY8ad4kOxv) | [Seal](https://open.spotify.com/album/1mSECpFqHRW6leG4idqTE1) | 4:48 | 2021-02-10 |  |
 | [Love Is](https://open.spotify.com/track/7z8NZEvwZU6PzYAzkw3DWE) | [Vanessa Williams And Brian McKnight](https://open.spotify.com/artist/3N57Gx6Q8V0qxpK4n8aAFt) | [Beverly Hills 90210\-The Soundtrack](https://open.spotify.com/album/17zrIQKituLxyNrpFbxYxp) | 4:44 | 2022-04-19 | 2022-04-21 |
 | [More Than Words \- Radio Edit](https://open.spotify.com/track/4sagNFI6iRtqK0bYxZ1yQY) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II: Pornograffitti \(Deluxe\)](https://open.spotify.com/album/7jMiLIy96oxGm4InizGUZF) | 3:41 | 2021-02-10 | 2022-04-21 |
+| [More Than Words \- Remix](https://open.spotify.com/track/5agRdN48WN57DGLja3klwV) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II: Pornograffitti \(Deluxe\)](https://open.spotify.com/album/4bQ3DhbAEU6zhWFRhDNF3r) | 3:47 | 2022-07-27 |  |
 | [My All](https://open.spotify.com/track/3RSpK5Y0y5tl25qvssrwJ6) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Butterfly](https://open.spotify.com/album/7aDBFWp72Pz4NZEtVBANi9) | 3:50 | 2022-04-19 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:40 | 2022-07-27 |  |
 | [My Heart Will Go On \- Love Theme from "Titanic"](https://open.spotify.com/track/3oEHQmhvFLiE7ZYES0ulzv) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/3SwxRkHbAarf3wWlInRTzA) | 4:40 | 2021-02-10 | 2022-07-29 |

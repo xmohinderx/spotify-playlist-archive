@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kayla Rivera, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,812 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,823 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

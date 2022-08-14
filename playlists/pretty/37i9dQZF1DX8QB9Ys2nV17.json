@@ -1,12 +1,12 @@
 {
   "description": "The greatest female voices in blues today. Cover: Amythyst Kiah",
-  "num_followers": 169645,
+  "num_followers": 169653,
   "original_name": "EQUAL Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMDA3OTA2ZGQ2ZDBhOTU3YWU5ODhlMDg0YTJmYmRjYzEy",
+  "snapshot_id": "MTY0Njc0ODA2OSwwMDAwMDAwMGMwNjY1ZDk2NDM5Nzg1YWQ5ZDliMjRlODlhZDI0MzNk",
   "tracks": [
     {
       "added_at": "2022-03-08 14:01:09",
@@ -207,22 +207,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Voodoo in the Shadows",
-        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
-      },
-      "artists": [
-        {
-          "name": "Fiona Boyes",
-          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
-        }
-      ],
-      "duration_ms": 255106,
-      "name": "Party at Red's",
-      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "She's A Self Made Man",
         "url": "https://open.spotify.com/album/6dzXBWjuzGjI5TQxJWBh7G"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 181624,
       "name": "She's A Self Made Man",
       "url": "https://open.spotify.com/track/7Bu4ET2R5zKAeqM68l3Oqk"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Voodoo in the Shadows",
+        "url": "https://open.spotify.com/album/30sZe7tBbgrO1PFuULYoAK"
+      },
+      "artists": [
+        {
+          "name": "Fiona Boyes",
+          "url": "https://open.spotify.com/artist/2dQerNdFoiwLUnBfji9ZBE"
+        }
+      ],
+      "duration_ms": 255106,
+      "name": "Party at Red's",
+      "url": "https://open.spotify.com/track/2oW9JOaiukULquG0dYrkwp"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Juice Me Up",
-        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
-      },
-      "artists": [
-        {
-          "name": "Dani Wilde",
-          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
-        }
-      ],
-      "duration_ms": 303600,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Love on the Rocks",
         "url": "https://open.spotify.com/album/2UE190kQ5nUHXGpP5r686Q"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 222826,
       "name": "Love on the Rocks",
       "url": "https://open.spotify.com/track/6paMAWG7CCn967OkrIILty"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Juice Me Up",
+        "url": "https://open.spotify.com/album/6YbtdgILdYRkOVFNK2PPha"
+      },
+      "artists": [
+        {
+          "name": "Dani Wilde",
+          "url": "https://open.spotify.com/artist/75Fysjl73jB4dHfN0Yb1iB"
+        }
+      ],
+      "duration_ms": 303600,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/30h268bCKmGWxFleXGYATy"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 266071,
-      "name": "Clotilda's On Fire",
-      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Loud Guitars, Big Suspicions",
         "url": "https://open.spotify.com/album/31YVnDFP920mK7VVqU3Fyp"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 209866,
       "name": "No Riders",
       "url": "https://open.spotify.com/track/0NHW16lrKx7ra3ix9xKqxh"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 266071,
+      "name": "Clotilda's On Fire",
+      "url": "https://open.spotify.com/track/0G42OWO7nynxXHht2X9mEU"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "The Ice Queen",
-        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
-      },
-      "artists": [
-        {
-          "name": "Sue Foley",
-          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
-        }
-      ],
-      "duration_ms": 383133,
-      "name": "The Ice Queen",
-      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Healing Creek",
         "url": "https://open.spotify.com/album/7dF7ZkpIBrkCMDqFEIEzh6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 271733,
       "name": "Tricky Thing",
       "url": "https://open.spotify.com/track/7bpJJDFOR7CQMA2Ssm1yka"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "The Ice Queen",
+        "url": "https://open.spotify.com/album/3n8lBM5zwfplU0OaoW7zVe"
+      },
+      "artists": [
+        {
+          "name": "Sue Foley",
+          "url": "https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS"
+        }
+      ],
+      "duration_ms": 383133,
+      "name": "The Ice Queen",
+      "url": "https://open.spotify.com/track/5Jhl0KvkFWBRNzLdY2iq3J"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -723,22 +723,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Uncivil War",
-        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
-      },
-      "artists": [
-        {
-          "name": "Shemekia Copeland",
-          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
-        }
-      ],
-      "duration_ms": 216171,
-      "name": "Money Makes You Ugly",
-      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Masters of War",
         "url": "https://open.spotify.com/album/32L4ByoDGk3hSJTfXunr58"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 296413,
       "name": "Masters of War",
       "url": "https://open.spotify.com/track/4KIpaOe8mx1Ss7THfddQCR"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Uncivil War",
+        "url": "https://open.spotify.com/album/5nzja6pp2VI6ywfosAhcBM"
+      },
+      "artists": [
+        {
+          "name": "Shemekia Copeland",
+          "url": "https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee"
+        }
+      ],
+      "duration_ms": 216171,
+      "name": "Money Makes You Ugly",
+      "url": "https://open.spotify.com/track/5niqr1DK4xpCGGcGH6Zk4P"
     },
     {
       "added_at": "2022-03-08 14:01:09",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-03-08 14:01:09",
       "album": {
-        "name": "Moon Goes Missing",
-        "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
-      },
-      "artists": [
-        {
-          "name": "Carolyn Wonderland",
-          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
-        }
-      ],
-      "duration_ms": 321494,
-      "name": "Open Eyes",
-      "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
-    },
-    {
-      "added_at": "2022-03-08 14:01:09",
-      "album": {
         "name": "Throw Away Your Blues",
         "url": "https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 298173,
       "name": "If You See Him",
       "url": "https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3"
+    },
+    {
+      "added_at": "2022-03-08 14:01:09",
+      "album": {
+        "name": "Moon Goes Missing",
+        "url": "https://open.spotify.com/album/3HTWMRiLGpWPb0YYNAHprh"
+      },
+      "artists": [
+        {
+          "name": "Carolyn Wonderland",
+          "url": "https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n"
+        }
+      ],
+      "duration_ms": 321494,
+      "name": "Open Eyes",
+      "url": "https://open.spotify.com/track/27Hps0EsBwR2ImKIiJfC95"
     },
     {
       "added_at": "2022-03-08 14:01:09",

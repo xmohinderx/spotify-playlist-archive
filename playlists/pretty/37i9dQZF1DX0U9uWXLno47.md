@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 
 > Clásicos que no sabías que eran covers para disfrutar con papá.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,652 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,670 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,19 +23,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 13 | [With A Little Help From My Friends](https://open.spotify.com/track/0YZ3J8xzGwLOg4yEgST1YK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [With A Little Help From My Friends](https://open.spotify.com/album/74sIm8QdXqFwYeDS7OfYVw) | 5:12 |
 | 14 | [Higher Ground \- Remastered](https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Mother's Milk](https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z) | 3:22 |
 | 15 | [Mrs\. Robinson \- Remastered](https://open.spotify.com/track/5EugXICXL06waHgP4iTI58) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [It's A Shame About Ray \(Expanded Edition\)](https://open.spotify.com/album/3AKjod7W29b6DQKwuInZji) | 3:44 |
-| 16 | [China Girl \- 2018 Remaster](https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:33 |
-| 17 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
+| 16 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
+| 17 | [China Girl \- 2018 Remaster](https://open.spotify.com/track/5Ei9o2fHEnfHb84YrPuz4v) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Let's Dance \(2018 Remaster\)](https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV) | 5:33 |
 | 18 | [Jealous Guy](https://open.spotify.com/track/6EMQo2suHaUYZVsbGVTxSZ) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [The Best Of Roxy Music](https://open.spotify.com/album/6yui99cp2Q3dosoHtiPJk7) | 4:57 |
 | 19 | [We Can Work It Out](https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Signed, Sealed And Delivered](https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO) | 3:19 |
 | 20 | [I Put A Spell On You](https://open.spotify.com/track/4SDywo3ykB2PEthjXvo1UP) | [Creedence Clearwater Revival](https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd) | [Creedence Clearwater Revival \(Expanded Edition\)](https://open.spotify.com/album/7oIftk0P8cViwNpNEdCYl2) | 4:31 |
 | 21 | [Personal Jesus](https://open.spotify.com/track/5dcwiQFqn0mTcWewYIv7MV) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 3:19 |
-| 22 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
-| 23 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
+| 22 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
+| 23 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
 | 24 | [I Fought the Law](https://open.spotify.com/track/7lSDCrF11sdTVfjbAQVZE8) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 2:43 |
 | 25 | [If Not For You \- Remastered 2014](https://open.spotify.com/track/7ykaUgkdQWJLsMuOymTV2A) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 3:30 |
 | 26 | [Soldier of Love](https://open.spotify.com/track/0ll4shInilQVdYVrVVHpjB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Last Kiss](https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf) | 2:54 |
-| 27 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
-| 28 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
+| 27 | [Baby I'm Yours](https://open.spotify.com/track/6FLqFu1ApSkUddZ9P4H6Io) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Leave Before The Lights Come On](https://open.spotify.com/album/7zGAOSaUjqWdwyYtQvnqWy) | 2:32 |
+| 28 | [Across the Universe](https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [Pleasantville \-Music From The Motion Picture](https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3) | 5:07 |
 | 29 | [Black Magic Woman / Gypsy Queen](https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P) | [Abraxas](https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6) | 5:19 |
 | 30 | [I'm A Believer \- From "Shrek" Motion Picture Soundtrack](https://open.spotify.com/track/0mBL2JwjNYKtdFacHxvtJt) | [Smash Mouth](https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd) | [Shrek](https://open.spotify.com/album/4fFn4t0JoZrNB3VY4HZ970) | 3:05 |
 | 31 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0U9uWXLno47.md) - [plain]
 | 72 | [Eyes Without A Face](https://open.spotify.com/track/48TH4snarSvpIF6559Gjry) | [Angel Olsen](https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt) | [Aisles](https://open.spotify.com/album/6yp8LzFMaKy0WyPpTyYEB7) | 4:40 |
 | 73 | [Zombie](https://open.spotify.com/track/1oPMTvVb57KNBV354DxsX9) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [The City Holds My Heart](https://open.spotify.com/album/0YCSQTk2QkPkHVHeGo1Pbu) | 3:24 |
 | 74 | [Everybody Wants to Rule the World](https://open.spotify.com/track/75lEtKX3MoBmnUSmXn75E2) | [Brothertiger](https://open.spotify.com/artist/2MaMzvFmtu68r9zpdJ4tLE) | [Brothertiger Plays: Tears for Fears' Songs from the Big Chair](https://open.spotify.com/album/2Zv6ExetUe6w00tINrreEO) | 4:21 |
-| 75 | [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 |
+| 75 | [Killing Me Softly](https://open.spotify.com/track/33JtNLiczBlcVTAzxRqXEv) | [Scary Pockets](https://open.spotify.com/artist/1e16kiJQtCTveTl7TQnkFN), [India Carney](https://open.spotify.com/artist/1P3aWqFIk6jRJ2IpxlHvGy) | [Nu Funk](https://open.spotify.com/album/4m0tTmOODI4Is44HefPOYk) | 3:20 |
 
-Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDI3YWMwMzA5ODM2NDEyYzAyNzE4ODk2YjkzMzE4MDY0`
+Snapshot ID: `MTYzNTUyNTA3NiwwMDAwMDAwMDVmNmU2MTYzM2U5M2M1ZTBkNzdkNWE0NGZiNzg4MWRk`

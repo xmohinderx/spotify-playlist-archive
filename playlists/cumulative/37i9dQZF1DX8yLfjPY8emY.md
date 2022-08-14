@@ -4,7 +4,7 @@
 
 > ¡Baila esta cumbia! Los éxitos de Latinoamérica en un solo lugar\. Foto: Los Ángeles Azules
 
-129 songs - 8 hr 17 min - [published](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
+130 songs - 8 hr 21 min - [published](https://open.spotify.com/playlist/3NPFPzywLrReMGONHDdRqu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Amor Sin Primavera](https://open.spotify.com/track/0SPeRV2ZKS9SBgNg9MOHZe) | [Los Yaguarú](https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ) | [Los Gigantes De La Cumbia, Vol\. 1, Disco 1](https://open.spotify.com/album/219roX2NTtUuwrhNoj4Bly) | 3:52 | 2021-09-14 | 2022-07-29 |
 | [Baila Esta Cumbia](https://open.spotify.com/track/3lFGBrRWUxpTfhhq6lGBRw) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 2:41 | 2022-04-22 | 2022-08-03 |
 | [Besar Tu Piel](https://open.spotify.com/track/3sxYWCxHH0TcbPcEd6Ie0N) | [Rayito Colombiano](https://open.spotify.com/artist/3yJUTkFm88TiJPLhLHKumn) | [Cicatrices](https://open.spotify.com/album/1p4Y2PEsXTnTxWrYjihemm) | 3:24 | 2021-09-14 |  |
+| [Cariño](https://open.spotify.com/track/4HSZVS72M5MXs9yFQX9irX) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ) | [Sueño Cumplido](https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz) | 3:20 | 2022-08-12 |  |
 | [Carola](https://open.spotify.com/track/6dcm0TIdy8FXJFiX0m5yk2) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección 100 Éxitos de Rodolfo Aicardi](https://open.spotify.com/album/5VywhvVETbUeEedl9aBVCb) | 2:53 | 2022-04-22 | 2022-07-29 |
 | [Cómo Te Voy a Olvidar](https://open.spotify.com/track/1YHiq5iuXraptr8feJfEZn) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3ERz9oKdZXefGVnDajDR5m) | 4:20 | 2021-09-14 | 2022-07-27 |
 | [Culpable o No](https://open.spotify.com/track/1GbJ9RLOTvjSbSgIL4nlxL) | [Arturo Jaimes Y Los Cantantes](https://open.spotify.com/artist/4LOxW5D6hIgOAAOh1jedrx), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Culpable o No](https://open.spotify.com/album/49igeZ8QndVCzyJZQjfco8) | 3:31 | 2022-01-24 | 2022-05-05 |
@@ -56,7 +57,7 @@
 | [Escándalo](https://open.spotify.com/track/1Ed4AvDGnUGtU0dYrnwLPg) | [Margarita la diosa de la cumbia](https://open.spotify.com/artist/2vdi5RS6XV5Qy7J5GgDqgn) | [30 Aniversario](https://open.spotify.com/album/7bYeeLp33ix2DiyM8f5It6) | 4:48 | 2021-09-14 | 2022-07-29 |
 | [Estupido \(feat\. Janeth Guadalupe\)](https://open.spotify.com/track/7jkSmurPDivppMGamGnmdN) | [Los Papis RA7](https://open.spotify.com/artist/1y7GWTEfMzxafQ4mL0uZpq), [Janeth Guadalupe](https://open.spotify.com/artist/3uFMg8vtoD5oMUvBppMARq) | [Tonto Carino](https://open.spotify.com/album/4hHMUL65fAWuJUo8dV1tC6) | 4:59 | 2021-09-14 | 2022-07-15 |
 | [Flasheaste Amor](https://open.spotify.com/track/2ACgvo2Kx4LgWqQ2amvM5C) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [Hernan y La Champion's Liga](https://open.spotify.com/artist/04XdCDDrPnnqidaVBTOQjt), [Lauro](https://open.spotify.com/artist/6jf90HKr9vgFgKaQ2iHGHJ) | [Flasheaste Amor](https://open.spotify.com/album/34AlPTtBDL5H8B1Dl2DgoO) | 2:55 | 2022-04-22 |  |
-| [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 | 2022-08-02 |  |
+| [Fuiste](https://open.spotify.com/track/3jxP1S0xXvPBry3scDZj6h) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Corazón Valiente](https://open.spotify.com/album/3WuwesFp1zHaIQa98Y3Fcn) | 3:02 | 2022-08-02 | 2022-08-14 |
 | [Gaita Frenética](https://open.spotify.com/track/0rx60mGB2AsgqvEBJio1AS) | [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw) | [Colección Oro La Sonora Dinamita, Vol\. 9](https://open.spotify.com/album/0LL1QpNatIwG1YAzGewz0J) | 2:58 | 2022-04-22 | 2022-07-20 |
 | [Golpe Con Golpe](https://open.spotify.com/track/4LZ0xWXt8vQz5nYNH7doRr) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Colección 100 Exitos de Pastor López](https://open.spotify.com/album/4KwbyCFUhUF5e3iCQgsZbS) | 3:32 | 2022-01-24 | 2022-02-10 |
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2022-04-22 |  |

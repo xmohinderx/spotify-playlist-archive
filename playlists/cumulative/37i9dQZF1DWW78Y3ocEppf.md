@@ -4,7 +4,7 @@
 
 > The feelings you can't put into words...only songs\. Cover: Brent Faiyaz
 
-288 songs - 15 hr 53 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
+289 songs - 15 hr 57 min - [published](https://open.spotify.com/playlist/2kdisFoq51qaCb3npEXTAg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [I Been](https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 3:41 | 2021-12-15 |  |
 | [I Deserve](https://open.spotify.com/track/0g5OzPkEGQeFiExxhUPjc3) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l) | [I Deserve](https://open.spotify.com/album/3kZ8kuSmWXSJDeWjjTosUv) | 3:49 | 2021-12-15 | 2022-06-24 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2021-12-15 |  |
+| [I Love You More Than You Know \(feat\. Childish Gambino\)](https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Hummingbird](https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy) | 4:23 | 2022-08-05 |  |
 | [I'm Coming Back](https://open.spotify.com/track/1v0PjMzN2vFtK3vTWwASDS) | [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo), [Rachelle Ferrell](https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ) | [Where It All Begins](https://open.spotify.com/album/1eXj3GU32V64aHE5BMInZX) | 6:57 | 2022-03-25 | 2022-04-20 |
 | [Icarus](https://open.spotify.com/track/1iSOrS6dfgPvENu0G4WhAd) | [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Hues](https://open.spotify.com/album/3CU1TMUl0c6XzIVWPvzPv0) | 2:30 | 2021-12-15 | 2022-06-26 |
 | [IDGAF](https://open.spotify.com/track/2bNXO8JjQZY2PkIFJ3XyuB) | [Bren Joy](https://open.spotify.com/artist/4vZ5UD5pIliRPSdHHj9EUp) | [Twenties \(Deluxe\)](https://open.spotify.com/album/0bD5bkHCUBQcf6sNg8aRcd) | 2:48 | 2021-12-15 | 2022-04-06 |
@@ -249,7 +250,7 @@
 | [So Frequently](https://open.spotify.com/track/5dpEHuTqnkM0SxzRpme5Bi) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG) | [So Frequently](https://open.spotify.com/album/773nWzQZ7Uy2BekzwLAUYI) | 3:01 | 2021-12-15 | 2022-07-22 |
 | [So So Sick](https://open.spotify.com/track/4edxOO3ZAuDTlJi3P98kDH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum) | [So So Sick](https://open.spotify.com/album/6YEmBhITTqQZ4sYsh5tcqD) | 3:57 | 2021-12-15 | 2022-07-27 |
 | [Sober \(With Jeremih\)](https://open.spotify.com/track/3dZJ85uBHJpE2blaL9E1LE) | [Nakkia Gold](https://open.spotify.com/artist/2kPJ3uWBBRjfh0dZNEW7ET), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Sober \(With Jeremih\)](https://open.spotify.com/album/4wvtawFRk8OIskbS8TcWkq) | 4:13 | 2022-07-08 | 2022-07-18 |
-| [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-03-11 |  |
+| [sorry](https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [sorry](https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB) | 3:40 | 2022-03-11 | 2022-08-14 |
 | [Stay Mad](https://open.spotify.com/track/3bNyIdiGPnepE6D6bOhGoQ) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX) | [Stay Mad](https://open.spotify.com/album/0F3csopuNUJxURyr9oZx1V) | 2:11 | 2021-12-15 | 2022-01-27 |
 | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/track/24KUvSg9QsX6FWsOmN0ZxP) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Stickin' \(feat\. Masego & VanJess\)](https://open.spotify.com/album/0XhJIckMs6b1crNGl9RUAB) | 3:08 | 2021-12-15 | 2022-07-26 |
 | [Still Your Best](https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done](https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q) | 2:57 | 2021-12-15 |  |

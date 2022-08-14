@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Cover: Alvvays\n",
-  "num_followers": 837095,
+  "num_followers": 837244,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzNTAzMSwwMDAwMDAwMDdlODg2ODM3M2E0MmQwNTZhMzk2MjdiMTk1YjIzYzlk",
+  "snapshot_id": "MTY2MDQxNTUwNCwwMDAwMDAwMGNlMTM1OTc0NTViMzJiMmMzOThjN2RkNDhiOTJhMjEw",
   "tracks": [
     {
       "added_at": "2022-08-12 04:20:00",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD"
     },
     {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Cocoon",
+        "url": "https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR"
+      },
+      "artists": [
+        {
+          "name": "Jadu Heart",
+          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
+        }
+      ],
+      "duration_ms": 247323,
+      "name": "Cocoon",
+      "url": "https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7"
+    },
+    {
       "added_at": "2022-07-15 04:01:00",
       "album": {
         "name": "I Think I Left the Stove On",
@@ -311,6 +327,22 @@
       "duration_ms": 164466,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+    },
+    {
+      "added_at": "2022-08-13 02:02:05",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/63ct0fj5ma1lS5WLmEtZh6"
+      },
+      "artists": [
+        {
+          "name": "Kid Smoko",
+          "url": "https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I"
+        }
+      ],
+      "duration_ms": 180869,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/50I0tMy5eLxPzjLr4V4fBw"
     },
     {
       "added_at": "2022-07-29 04:20:00",
@@ -391,22 +423,6 @@
       "duration_ms": 151454,
       "name": "I hope we can still be friends",
       "url": "https://open.spotify.com/track/2Fp2eFJSDMZCZ3Pc9OINmp"
-    },
-    {
-      "added_at": "2022-08-12 04:20:00",
-      "album": {
-        "name": "Cocoon",
-        "url": "https://open.spotify.com/album/5wdTC4sxASTdWthmF5cRRR"
-      },
-      "artists": [
-        {
-          "name": "Jadu Heart",
-          "url": "https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj"
-        }
-      ],
-      "duration_ms": 247323,
-      "name": "Cocoon",
-      "url": "https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7"
     },
     {
       "added_at": "2022-08-05 18:08:09",
@@ -715,22 +731,6 @@
       "duration_ms": 173643,
       "name": "PEOPLE FUEL",
       "url": "https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "Magenta Mountain",
-        "url": "https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 364599,
-      "name": "Magenta Mountain",
-      "url": "https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V"
     },
     {
       "added_at": "2022-07-29 04:20:00",

@@ -1474,6 +1474,24 @@
     },
     {
       "album": {
+        "name": "If You Could See Me Now",
+        "url": "https://open.spotify.com/album/2pNS32INlB1N89pSd0VeLm"
+      },
+      "artists": [
+        {
+          "name": "Cedar Wright",
+          "url": "https://open.spotify.com/artist/40men95XZW3jNTv2l0aXFj"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255210,
+      "name": "If You Could See Me Now",
+      "url": "https://open.spotify.com/track/5ig6zG9Mpf9Y6PT9pRfSJA"
+    },
+    {
+      "album": {
         "name": "In Another Universe",
         "url": "https://open.spotify.com/album/20gDATBmLKwoNueDSsC7rR"
       },
@@ -1611,7 +1629,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 252500,
       "name": "Its That Simple",
       "url": "https://open.spotify.com/track/1ancD3oX9uRaQ0oKrFVTi8"
@@ -2303,7 +2321,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 303356,
       "name": "Quiescence",
       "url": "https://open.spotify.com/track/2fZD8MnLDXP10QfeYNPGHO"
@@ -2325,6 +2343,24 @@
       "duration_ms": 277133,
       "name": "Rainy Mix",
       "url": "https://open.spotify.com/track/2lCpVqpPOJQ30mstKPHBqj"
+    },
+    {
+      "album": {
+        "name": "Ripples of a Stream",
+        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Ripples of a Stream",
+      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
     },
     {
       "album": {

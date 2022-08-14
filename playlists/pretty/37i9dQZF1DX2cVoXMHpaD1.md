@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cVoXMHpaD1.md) - [plain]
 
 > It's been a great decade for K\-Pop\. Check it out! Cover: Super Junior
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,804 likes - 120 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,813 likes - 120 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

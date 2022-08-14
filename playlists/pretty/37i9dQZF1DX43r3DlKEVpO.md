@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 
 > Uma seleção para as mães e os pais cantarem junto com os filhos e vice\-versa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,736 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,767 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 37 | [De Do Do Do, De Da Da Da](https://open.spotify.com/track/0yJvWbn8xQKiDZ84VN5lQG) | [The Police](https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE) | [Zenyatta Mondatta \(Remastered 2003\)](https://open.spotify.com/album/23enz9nXJhH1BR1Rm5CzDJ) | 4:07 |
 | 38 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
 | 39 | [Just The Way You Are](https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- The Collection](https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m) | 4:49 |
-| 40 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
-| 41 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
+| 40 | [Into My Arms \- 2011 Remastered Version](https://open.spotify.com/track/407ltk0BtcZI8kgu0HH4Yj) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [The Boatman's Call \(2011 Remastered Version\)](https://open.spotify.com/album/4Gp9Ls1UqkrQRrTTxhvs6A) | 4:16 |
+| 41 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
 | 42 | [Tempos Modernos](https://open.spotify.com/track/1TIvODlICRKM5uhbKbNFGA) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:44 |
 | 43 | [Stop! In The Name Of Love \- Single Version](https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [More Hits By The Supremes](https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A) | 2:52 |
 | 44 | [Yellow Submarine](https://open.spotify.com/track/1tdltVUBkiBCW1C3yB4zyD) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Yellow Submarine Songtrack](https://open.spotify.com/album/0XRZpF083HqgygM0v1hQyE) | 2:39 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 66 | [Clube Da Esquina Nº2 \- Acústico](https://open.spotify.com/track/4ACqPYXQse8c8dllQmOmBp) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Nada Será Como Antes \(Acústico\)](https://open.spotify.com/album/2qaxc8FAGYDRW5toXaPuVc) | 4:30 |
 | 67 | [Os Alquimistas Estão Chegando Os Alquimistas](https://open.spotify.com/track/6WohVJvZ6RYmYN8Nxl9VHa) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [A Tabua De Esmeralda](https://open.spotify.com/album/5rcMJNWebtl2r2S18Je1A0) | 3:15 |
 | 68 | [João E Maria](https://open.spotify.com/track/0XI3xzi3W1sBDfri2FKtj9) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Chico 50 Anos \- O Trovador](https://open.spotify.com/album/0D3mPnL97GSsO21X6BD7XV) | 2:21 |
-| 69 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
-| 70 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
-| 71 | [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 |
+| 69 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
+| 70 | [This Time Tomorrow](https://open.spotify.com/track/1LjPCQHkAYnJbQUgSoHaye) | [The Kinks](https://open.spotify.com/artist/1SQRv42e4PjEYfPhS0Tk9E) | [Lola Versus Powerman and the Moneygoround, Pt\. One](https://open.spotify.com/album/4jaLfcNpIrOgcPyXuuiHTi) | 3:21 |
+| 71 | [O Xote das Meninas](https://open.spotify.com/track/0V7iPl67ctA3MioAzO2ae5) | [Luiz Gonzaga](https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD) | [Luiz Gonzaga Canta Seus Sucessos Com Zé Dantas](https://open.spotify.com/album/7gQBkiyV2o2NPEHhafVVGw) | 2:51 |
 | 72 | [Do fundo do nosso quintal \- Ao vivo](https://open.spotify.com/track/2ypG5kEdrAHSOVXhSkJfxe) | [Jorge Aragão](https://open.spotify.com/artist/2cAooeeHKk2UvzUgIxpS0y) | [Ao vivo](https://open.spotify.com/album/3InSZxw9rH0JDmiEy9zxnA) | 5:23 |
 | 73 | [Samba Do Aviao \- Live](https://open.spotify.com/track/3qhAqp4xBxqg8zEAFmcXmF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/1pvPrGENPU0yj9ocp0Zvpd) | 3:23 |
 | 74 | [Fever](https://open.spotify.com/track/4Ke1CYcm2wYDFlOhziFFjK) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [All Aglow Again!](https://open.spotify.com/album/3RXdzJHsQSxpucVGBcsgOP) | 3:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43r3DlKEVpO.md) - [plain]
 | 99 | [Negro Gato](https://open.spotify.com/track/5xde0qUR1uUmH8ZVOqoPRo) | [Erasmo Carlos](https://open.spotify.com/artist/6cHQUDAPGKRE2NbVjBlOcz), [Leo Jaime](https://open.spotify.com/artist/2TjzEhCBd9s3YPWKPwKZYo), [Renato e Seus Blue Caps](https://open.spotify.com/artist/27hFv7JqcDVyqgaCvLHpy7), [Fagner](https://open.spotify.com/artist/5j3htXVskZF0u8qWY5zcF8), [Leno](https://open.spotify.com/artist/68xhplUZZ18723PccI3i1G), [Golden Boys](https://open.spotify.com/artist/6e90eYChXG3b8PbkAPcPcn), [Jerry Adriani](https://open.spotify.com/artist/5OBXrPtAgpRVJgua6rgbs6), [Almir](https://open.spotify.com/artist/73Op2gKQknruMmIuzlJoc3) | [Jovem Guarda \- O Pulo Do Negro Gato](https://open.spotify.com/album/1qb6cq2hah9dAMraqTqGcF) | 4:11 |
 | 100 | [Nao Identificado](https://open.spotify.com/track/1eqUenDSQsy87cpoogbKvi) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Costa](https://open.spotify.com/album/5ZVLLME05cmciSZz4IGcZu) | 3:18 |
 
-Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMGY3MmJiZDIyMGY3MTNhODIzNzcwZjExYjI2NTczNWJl`
+Snapshot ID: `MTY1NDYxMzEyOCwwMDAwMDAwMDJhYTA5YjIxMWE4OGFjMzg0MTNjZmZhMjhlNDhhMmM0`

@@ -1,12 +1,12 @@
 {
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Doja Cat",
-  "num_followers": 4193218,
+  "num_followers": 4194290,
   "original_name": "Party Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDk1OGYwMThjNGUwZDc1MmQyZWMyNTEzNjUyNDlmMmRk",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGZhMjQ3OGM2MzI3YjA5M2I4NGI2MDhhYTM5ZTM1NTY5",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -115,22 +115,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "One Kiss (with Dua Lipa)",
-        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 214846,
-      "name": "One Kiss (with Dua Lipa)",
-      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -167,38 +163,38 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+        "name": "One Kiss (with Dua Lipa)",
+        "url": "https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+      "duration_ms": 214846,
+      "name": "One Kiss (with Dua Lipa)",
+      "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
     },
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -303,18 +299,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Doja",
-        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
       },
       "artists": [
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 97392,
-      "name": "Doja",
-      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -407,22 +407,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Cold Heart (PNAU Remix)",
+        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -447,26 +451,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cold Heart (PNAU Remix)",
-        "url": "https://open.spotify.com/album/5D8Rdb09BkmHscEGSWAlA6"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6zSpb8dQRaw0M1dK8PBwQz"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -767,6 +767,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Sweetest Pie",
+        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 201334,
+      "name": "Sweetest Pie",
+      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Potion (with Dua Lipa & Young Thug)",
         "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
@@ -791,22 +811,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Sweetest Pie",
-        "url": "https://open.spotify.com/album/4qw41n8iWrdR70Ui3hYBPv"
+        "name": "Do It To It",
+        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
       "artists": [
         {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          "name": "ACRAZE",
+          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Cherish",
+          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
         }
       ],
-      "duration_ms": 201334,
-      "name": "Sweetest Pie",
-      "url": "https://open.spotify.com/track/7mFj0LlWtEJaEigguaWqYh"
+      "duration_ms": 157890,
+      "name": "Do It To It",
+      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -831,22 +851,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Do It To It",
-        "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
-        },
-        {
-          "name": "Cherish",
-          "url": "https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo"
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
         }
       ],
-      "duration_ms": 157890,
-      "name": "Do It To It",
-      "url": "https://open.spotify.com/track/20on25jryn53hWghthWWW3"
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -863,22 +879,6 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -915,6 +915,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Leave Before You Love Me",
+        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 154983,
+      "name": "Leave Before You Love Me (with Jonas Brothers)",
+      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "The Days / Nights",
         "url": "https://open.spotify.com/album/0h2knr6qpiAq0tV5ri5JMF"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 176658,
       "name": "The Nights",
       "url": "https://open.spotify.com/track/0ct6r3EGTcMLPtrXHDvVjc"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        }
-      ],
-      "duration_ms": 203064,
-      "name": "Levitating (feat. DaBaby)",
-      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -975,22 +975,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Leave Before You Love Me",
-        "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/5lKlFlReHOLShQKyRv6AL9"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 154983,
-      "name": "Leave Before You Love Me (with Jonas Brothers)",
-      "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+      "duration_ms": 203064,
+      "name": "Levitating (feat. DaBaby)",
+      "url": "https://open.spotify.com/track/5nujrmhLynf4yMoMtj8AQF"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1243,26 +1243,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
       "artists": [
         {
-          "name": "NEIKED",
-          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         },
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        },
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 160656,
-      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
-      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1287,22 +1283,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+        "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+        "url": "https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q"
       },
       "artists": [
         {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "NEIKED",
+          "url": "https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f"
         },
         {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        },
+        {
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+      "duration_ms": 160656,
+      "name": "Better Days (NEIKED x Mae Muller x Polo G)",
+      "url": "https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -1347,18 +1363,38 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8"
+        "name": "Encore",
+        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0wXuerDYiBnERgIpbb3JBR"
+      "duration_ms": 205946,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "The Business",
+        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "The Business",
+      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1391,26 +1427,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Encore",
-        "url": "https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 205946,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "MONTERO",
         "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 137704,
       "name": "MONTERO (Call Me By Your Name)",
       "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "The Business",
-        "url": "https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "The Business",
-      "url": "https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 273997,
+      "name": "SUMMER RENAISSANCE",
+      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Planet Her",
         "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
@@ -1542,15 +1558,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 208666,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1583,22 +1595,6 @@
       "duration_ms": 189320,
       "name": "Tacones Rojos",
       "url": "https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "SUMMER RENAISSANCE",
-      "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1651,6 +1647,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "HIGHEST IN THE ROOM",
         "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU"
       },
@@ -1663,30 +1679,6 @@
       "duration_ms": 175720,
       "name": "HIGHEST IN THE ROOM",
       "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Hot Shit (feat. Ye & Lil Durk)",
-        "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 211649,
-      "name": "Hot Shit (feat. Ye & Lil Durk)",
-      "url": "https://open.spotify.com/track/3uJFmluXzYedoJcvhpC1AW"
     },
     {
       "added_at": "2022-08-12 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Baby Bugs
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,251 likes - 98 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,368 likes - 98 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 47 | [Orange County Punk Rock Legend](https://open.spotify.com/track/2IyMFjkWuxuev05AWpFDXj) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [Orange County Punk Rock Legend](https://open.spotify.com/album/0N6DCJtzG6GPoaQxu0YwJL) | 1:40 |
 | 48 | [my ex](https://open.spotify.com/track/1iE5bs1p6cXGkj5T4NODE2) | [Chad Tepper](https://open.spotify.com/artist/0Tcr6t5uyvDgOuNPCD36A3), [Pierre Bouvier](https://open.spotify.com/artist/1FwRuZTNH8Ys97avBNW6uJ) | [my ex](https://open.spotify.com/album/4jwTtRDIY9ckGii0QNsCdq) | 2:48 |
 | 49 | [That Was A Joke](https://open.spotify.com/track/6lAYusLNkTuXcKzxkWzdGg) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU) | [That Was A Joke](https://open.spotify.com/album/5sWDf1SnNbtZG4ROx8CzkF) | 3:22 |
-| 50 | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/1lPdVGhYGvE9RiWQ5zB7lI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/album/4V0dVPKKUWESWe45QHkT86) | 2:52 |
+| 50 | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/2rsrUjh63rWpT3amc4N6GV) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 2:52 |
 | 51 | [She Likes My Tattoos](https://open.spotify.com/track/2Lle3tbO97Dd4I3deOZ92g) | [Pardyalone](https://open.spotify.com/artist/6M4q5QWjmpjuPAi7LVFEFG) | [She Likes My Tattoos](https://open.spotify.com/album/5K2xRnUFqZBB1FoWoegvp7) | 2:44 |
 | 52 | [Open up My Head](https://open.spotify.com/track/1dXx1NLFcQBCPoGAUNhKTU) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Open Up My Head](https://open.spotify.com/album/37Th8gyncYopCvlWvedrGn) | 3:16 |
 | 53 | [It's Not A Problem](https://open.spotify.com/track/5Wvz3IwfAUk81KQikNEvdU) | [No Fun At All](https://open.spotify.com/artist/6usO1o98RY3cUWxqaQxi8O) | [It's Not A Problem](https://open.spotify.com/album/2Xhq4BlVM0dlAA9guQNCSs) | 2:25 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 97 | [all we’ve got // all we need](https://open.spotify.com/track/7H38z9NAu83HbUhtBlu5GJ) | [adults](https://open.spotify.com/artist/1P6PNpYC4Re0swLHQ3qIfH) | [all we’ve got // all we need](https://open.spotify.com/album/1wjQ7nxbjW9CvzdLeFfHxg) | 2:04 |
 | 98 | [Startafight](https://open.spotify.com/track/30nqbZ1fDudZpIcONS5Y2P) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Startafight](https://open.spotify.com/album/56gJl75eEF3pO6FMDtUPXW) | 3:07 |
 
-Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMDlhYmFmNDI4MjFkMWUxZGIzMjJkMDNlZjQ3ZGRmMjhm`
+Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMDA4ZDk0ZDI4MjY2NDYzN2Q3Y2U3NGY3N2Q5ZmUzZWE2`

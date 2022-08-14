@@ -4,7 +4,7 @@
 
 > Dark and moody progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-294 songs - 22 hr 21 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
+295 songs - 22 hr 25 min - [published](https://open.spotify.com/playlist/76zaifZx3jEadyZfNlsyIR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,10 +159,11 @@
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
 | [Make This Last](https://open.spotify.com/track/04opOX2Aa6K5b137Mag3LK) | [Farius](https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ) | [Make This Last](https://open.spotify.com/album/0JYTYKa3PepCIywcV2ha8S) | 3:39 | 2021-05-07 | 2022-04-19 |
 | [March of the giants](https://open.spotify.com/track/4A2u7RmGIQk9bjoKExlqj7) | [Solee](https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C) | [Planet Earth \| March of the Giants](https://open.spotify.com/album/2A77EAnV2CDxlsFxLwsEY2) | 7:37 | 2021-05-07 | 2022-04-18 |
+| [Mercury](https://open.spotify.com/track/25dFcH5EsCJLMSmFDDJLT3) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Mercury](https://open.spotify.com/album/5q2bsjSrluBoWf3F61Fofp) | 3:45 | 2022-08-12 |  |
 | [Meru](https://open.spotify.com/track/0g6ETeguyh9nVpvXunhCzb) | [Gil Zambrano](https://open.spotify.com/artist/0unsoQpK3DQyCnKzWcDfJ0) | [Meru](https://open.spotify.com/album/6nvbxjQkkmoKSFs31HhhHu) | 3:52 | 2021-05-07 | 2022-06-30 |
 | [Miracles](https://open.spotify.com/track/3BaywzVZGn8Z1kmVGUvmCz) | [AVIRA](https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS) | [Miracles](https://open.spotify.com/album/5TUntnLcRe7YdSjrVQFOoF) | 3:03 | 2021-05-07 | 2022-05-16 |
 | [Monkey & Disorder](https://open.spotify.com/track/7JCFsXGVsFPEhzvTkdjFsf) | [Mooglie](https://open.spotify.com/artist/3VejcuVO9JCQ9e23syZSoJ) | [Prélude](https://open.spotify.com/album/6bbYm4X9iwpNE1BIjtuAkd) | 6:07 | 2021-05-07 | 2022-04-21 |
-| [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2021-05-07 |  |
+| [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 | 2021-05-07 | 2022-08-14 |
 | [More Than Human](https://open.spotify.com/track/61zB4KTrgORQiXRJ1B3urg) | [Luttrell](https://open.spotify.com/artist/4EOyJnoiiOJ4vuNhSBArB2) | [Music For My Memories Pt\. II](https://open.spotify.com/album/00v10qeXX8AUzg5boCdG83) | 4:13 | 2021-06-11 | 2022-07-29 |
 | [Moving On](https://open.spotify.com/track/44q90g5h6dBJAkWbKrCSuW) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [The Valley EP](https://open.spotify.com/album/2KVBSUUfklLKmQPSTbNQqQ) | 3:25 | 2022-05-13 | 2022-07-29 |
 | [My Armour](https://open.spotify.com/track/0dcF0b9gjuGV3aCzjq5h6h) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [EKE](https://open.spotify.com/artist/5Bkfq1NhUCWBf2OTuTyD4I), [Nathan Red](https://open.spotify.com/artist/3BOwXt7PXPQ0RekeGEDgP2) | [Indigo](https://open.spotify.com/album/4wqRMgQqHrEOJ5dFN5oxvr) | 3:48 | 2022-07-01 | 2022-07-25 |

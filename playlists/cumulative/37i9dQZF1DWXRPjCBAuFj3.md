@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Central Cee
 
-162 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
+163 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Chosen \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/1dIWPXMX4kRHj6Dt2DStUQ) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [No Love Lost \(Deluxe\)](https://open.spotify.com/album/7AwrgenNcTAJlJF3pKL0Qr) | 2:41 | 2022-05-10 |  |
 | [Company \(feat\. Future\)](https://open.spotify.com/track/3JVTsvTldB6arHVlmxmTnM) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [El Dorado](https://open.spotify.com/album/270o30h7cAlEhBnbuSpFZq) | 3:33 | 2022-05-10 | 2022-07-28 |
 | [Cooped Up \(with Roddy Ricch\)](https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Cooped Up](https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi) | 3:05 | 2022-05-18 |  |
-| [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2022-06-29 |  |
+| [Cuando Ella Sale](https://open.spotify.com/track/0bxzF2Kyql0pQ58Mymztue) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Cuando Ella Sale](https://open.spotify.com/album/4izXmDJvboFTIVxs8gkO94) | 3:42 | 2022-06-29 | 2022-08-14 |
 | [D.M.B.](https://open.spotify.com/track/7IBLt4Qarf4JDLxIQDv2O5) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [D.M.B.](https://open.spotify.com/album/1o13E5QES3KCOg85oF0KNa) | 4:51 | 2022-05-13 |  |
 | [Denial](https://open.spotify.com/track/4MQnXVR8DJvsySuXYuzUtf) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Denial](https://open.spotify.com/album/7pU5A0t0YLo1BMH5OE67Uc) | 3:00 | 2022-07-01 | 2022-07-26 |
 | [Deux frères](https://open.spotify.com/track/7xy0ELfUz8xEon8B4K55Vb) | [PNL](https://open.spotify.com/artist/3NH8t45zOTqzlZgBvZRjvB) | [Deux frères](https://open.spotify.com/album/0VbjQH6iXN5VdE0OX35cpD) | 4:07 | 2022-06-29 | 2022-07-29 |
@@ -152,6 +152,7 @@
 | [Straight Back to It](https://open.spotify.com/track/709MdyUol3Qfgcowmd7KV4) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [23](https://open.spotify.com/album/0SakL2ra5Cik5yQgKQBHGp) | 3:16 | 2022-05-10 |  |
 | [Suavemente](https://open.spotify.com/track/7Bz5B6hEU5TS145QYTfc3k) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [Boro Boro](https://open.spotify.com/artist/1hHYi4Vy83BGo6TqKd98hu) | [Suavemente](https://open.spotify.com/album/6RfOBcxexu6ZYIUS9HG9Al) | 2:37 | 2022-05-13 |  |
 | [Sunshine \(feat\. Lil Wayne & Childish Gambino\)](https://open.spotify.com/track/3Lf16tRdqj4H7MBtCSztDS) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [777](https://open.spotify.com/album/4vjE6Rgl5z6K2PhrAtIA7O) | 3:26 | 2022-07-28 | 2022-07-30 |
+| [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [Super Gremlin](https://open.spotify.com/track/4A8cWXxKfIL3lAyUDzXbCF) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Sniper Gang Presents Syko Bob & Snapkatt: Nightmare Babies](https://open.spotify.com/album/0kxA9Bc8pamypR5GYXmeti) | 3:20 | 2022-05-10 |  |
 | [The Heart Part 5](https://open.spotify.com/track/5MMW4CZsZiZt2iuqAXzzWC) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [The Heart Part 5](https://open.spotify.com/album/5XClh485CRBIIKaNXWWt7Z) | 5:32 | 2022-05-10 | 2022-05-14 |
 | [The King and I \(feat\. CeeLo Green\) \- From the Original Motion Picture Soundtrack ELVIS](https://open.spotify.com/track/4QjbbBQAJ7NiGdlfDPcxag) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The King and I \(feat\. CeeLo Green\) \[From the Original Motion Picture Soundtrack ELVIS\]](https://open.spotify.com/album/24lMM7McdJmSBgbFhKGugA) | 3:13 | 2022-07-01 |  |

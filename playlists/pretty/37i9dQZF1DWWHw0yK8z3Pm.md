@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Singer\-songwriters who colour outside the lines\. Cover: Mariel Buckley
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,800 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,812 likes - 100 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-211 songs - 13 hr 50 min - [published](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
+212 songs - 13 hr 54 min - [published](https://open.spotify.com/playlist/6q0fkfy4UwedQGnQXEpEq6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Haven't Seen It Yet](https://open.spotify.com/track/1JVefYHGnKd8ZjyaqWmTpz) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 4:04 | 2021-10-15 |  |
 | [He Believes In You](https://open.spotify.com/track/4aSEMyeOX4bORHIRToPcy0) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [He Believes In You](https://open.spotify.com/album/4WndsUGUWi2hLMYH7xVbSD) | 4:01 | 2021-10-15 | 2022-07-29 |
 | [He Is](https://open.spotify.com/track/2uO3Ldx1HaCiimUkJwAf6c) | [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [He Is](https://open.spotify.com/album/2pDAo6chBiSVFYWQhee9ry) | 3:45 | 2021-10-15 | 2022-07-29 |
-| [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 | 2021-10-15 |  |
+| [Heart of the Father](https://open.spotify.com/track/1TmLe4cOUoLjEiON85AOQF) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Heart of the Father](https://open.spotify.com/album/6eg9VkQpbxdVpgh3iwPkxR) | 4:03 | 2021-10-15 | 2022-08-14 |
 | [High Up](https://open.spotify.com/track/0drumuKkSeMz3CH5kGfOEl) | [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [High Up](https://open.spotify.com/album/0xrpWr1M61XiTDFntqEYrz) | 3:00 | 2021-10-15 |  |
 | [Hold Me Together](https://open.spotify.com/track/6pn23TuJqMqYpJNl0guFBJ) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hold Me Together](https://open.spotify.com/album/0cxz9emCMmUK3b8nR3wFMs) | 4:33 | 2021-10-15 | 2022-07-29 |
 | [Hold Us Together \- Hope Mix](https://open.spotify.com/track/42Q6AOIHAybfNz8tFMwrWl) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hold Us Together \(Hope Mix\)](https://open.spotify.com/album/1v2udzifT2MKC7HBgz8BlU) | 4:38 | 2021-10-15 |  |
@@ -216,6 +216,7 @@
 | [Yes He Does](https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Yes He Does](https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo) | 3:26 | 2021-10-15 | 2022-07-29 |
 | [Yes I Will](https://open.spotify.com/track/1sF4VadVaVTvp9WTEy79JT) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Bright Faith Bold Future](https://open.spotify.com/album/4jrX2w9Y3shbQNVhT43jbj) | 3:54 | 2021-10-15 |  |
 | [You Got This](https://open.spotify.com/track/1gibxiYQ2bDcnbYga7qXY7) | [Love & The Outcome](https://open.spotify.com/artist/1xU1V8I8pFrMOjtuSmjPBs) | [You Got This](https://open.spotify.com/album/1bqjdAockCikwMTVoncR8I) | 3:14 | 2021-10-15 | 2022-07-29 |
+| [You Love Me Anyway](https://open.spotify.com/track/7KT088cs0FVVQum6IyT0X9) | [Sidewalk Prophets](https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U) | [These Simple Truths](https://open.spotify.com/album/6UtlWkAxBuVPSzFNwiIPqj) | 4:20 | 2021-10-15 |  |
 | [You've Always Been](https://open.spotify.com/track/3WJu00SBajX0tuNfg53yKU) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/5AJl777j0hpNnNGWSrMLSW) | 3:38 | 2021-10-15 | 2022-07-29 |
 | [You've Always Been](https://open.spotify.com/track/7s2AninaWICPPvch6wBctw) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Reason](https://open.spotify.com/album/3Nq9AIP3OMU6hKUpyiGjfS) | 3:38 | 2021-10-15 |  |
 | [Your Love Defends Me](https://open.spotify.com/track/066eFvkQXyR9UIYi65GsSu) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:46 | 2021-10-15 |  |

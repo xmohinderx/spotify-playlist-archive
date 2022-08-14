@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Best Bollywood love songs from last 10 years\. Cover\- Shamshera
+> Best Bollywood love songs from last 10 years\. Cover\- Aamir Khan & Kareena Kapoor
 
 100 songs - 6 hr 59 min - [published](https://open.spotify.com/playlist/12gsYyhSmdkqjPDElYuEed)
 

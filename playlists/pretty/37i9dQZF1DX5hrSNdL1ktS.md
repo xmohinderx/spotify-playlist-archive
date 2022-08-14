@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Opium G
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,090 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,093 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 39 | [Como Antes](https://open.spotify.com/track/1zX8ub9Zy31pkCgb2xBr4E) | [st\. Pedro](https://open.spotify.com/artist/6jbd3DVthY6pIVjjCnNDRK) | [Como Antes](https://open.spotify.com/album/7rNprFES6lD2zMTaK2Vf2A) | 2:50 |
 | 40 | [SI SE DA](https://open.spotify.com/track/7I32i1J6IFa2SXdWGFa3eZ) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso), [DEEIKEL](https://open.spotify.com/artist/4ct2cBBso7eggPi2Qcjwbi), [J E A N](https://open.spotify.com/artist/29AQgmcNlSmwfkafzzt1xF) | [SI SE DA](https://open.spotify.com/album/16BOpWf37rPT7f5eTyxs9L) | 3:32 |
 | 41 | [LUZ APAGÁ](https://open.spotify.com/track/0KpGFdhdydyHOVrkOqifFr) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [ANA SOCLASH](https://open.spotify.com/artist/1Ki6CexnSiRGBidWxa97Bs) | [LUZ APAGÁ](https://open.spotify.com/album/7oKIMAZs7VrRMAKnjKSQZ0) | 2:57 |
-| 42 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
-| 43 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 |
-| 44 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
+| 42 | [Shot de Tequila](https://open.spotify.com/track/0zTgXlqnEh9ivzze8OHumA) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Shot de Tequila](https://open.spotify.com/album/6CESDKI9wJgftoDyGzRXEc) | 3:31 |
+| 43 | [KRMA](https://open.spotify.com/track/4okYg73pQX4BWiarAKE6Nz) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [KRMA](https://open.spotify.com/album/0TuPGs0QmDGRWWkg4woomQ) | 2:40 |
+| 44 | [Mi Plan B](https://open.spotify.com/track/3Tv8aAhY0OkchvVeBRpgk0) | [Freddy Leyva](https://open.spotify.com/artist/3ueyBGPT589ZTaWcVw3Qyl), [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1) | [Mi Plan B](https://open.spotify.com/album/0pMF3ZiXOvh5ZDvfMfjvT9) | 3:17 |
 | 45 | [14](https://open.spotify.com/track/7g4K0u8y6MV4t5669khiVw) | [Siho Villalobos](https://open.spotify.com/artist/5eab0u4WjbuWHcmLhvmkso) | [14](https://open.spotify.com/album/7jWHBDXnMcb9dG72nODTBI) | 3:16 |
 | 46 | [Mal Acompañada](https://open.spotify.com/track/4RJlsx582twGDbz7H0M8XI) | [Martinez](https://open.spotify.com/artist/1T19oNolVnNcXU8pywjvhy), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Mal Acompañada](https://open.spotify.com/album/6whBPpJGLiL39sq4C7p17G) | 3:21 |
 | 47 | [Swipe Up](https://open.spotify.com/track/4ShtXgPGZ6Xj0xGoK8mvkD) | [Alan Rosales](https://open.spotify.com/artist/2mi9HBpuOnJGhganiPOdbs), [Alan Marcos](https://open.spotify.com/artist/1RFuShAGN3rRIlRXQdpN4t), [Super Kai](https://open.spotify.com/artist/0F1QfgSUowc0ZpxE4bvtkK) | [Swipe Up](https://open.spotify.com/album/2nSrXIdqNv7xbENHUjYZqZ) | 3:32 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 | 50 | [Terminé Contigo](https://open.spotify.com/track/17gA2iojI2oeb7DCiMlHCo) | [Lamentablemente Flow](https://open.spotify.com/artist/5b6Hl206aXLFcGUPx7DLSk) | [Terminé Contigo](https://open.spotify.com/album/0yI1O48KJZVhmQV4mhXdf9) | 2:54 |
 | 51 | [DEJA VU](https://open.spotify.com/track/2w2M7YfBSDqcigZFmMpoLL) | [Fano](https://open.spotify.com/artist/3aRfIDlreP9D5POnhqIJI1), [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [DEJA VU](https://open.spotify.com/album/2C6zo81kZcH4cyp8YUMLJe) | 2:51 |
 | 52 | [Facetime](https://open.spotify.com/track/5cU6y5Qztm60N2UrWE01vQ) | [Luxxo](https://open.spotify.com/artist/3otSlac6GaXERmCz9opbqS) | [Facetime](https://open.spotify.com/album/69EGNC4LO6dCs1DPAkhLi8) | 2:31 |
-| 53 | [Criminal](https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf), [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB) | [Criminal](https://open.spotify.com/album/1HqFS49pmoR174vkddzArp) | 3:15 |
-| 54 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
-| 55 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 |
+| 53 | [Loquera](https://open.spotify.com/track/3vcnWgkMcA4FqhQKhJNeIC) | [Melanie Espinosa](https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6), [Yorkinson](https://open.spotify.com/artist/5a34fiAtb9hOllbTqKUvSK), [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [Loquera](https://open.spotify.com/album/0VvhggXB5waDczdLjKG9ev) | 3:14 |
+| 54 | [Otra Canción](https://open.spotify.com/track/687Bt7NeMu6g33jAiPdNrB) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Otra Canción](https://open.spotify.com/album/2XfEFsy1BGDLwJoBiOpDy6) | 3:40 |
+| 55 | [Criminal](https://open.spotify.com/track/7y5bcou13EfJefvPQCQIi3) | [Daniela BB](https://open.spotify.com/artist/3alzYKmQgRGAbTCfGZqYDf), [DJ Tona](https://open.spotify.com/artist/5MzTbNyy68X6pjcq1zMzxB) | [Criminal](https://open.spotify.com/album/1HqFS49pmoR174vkddzArp) | 3:15 |
 
-Snapshot ID: `MTY1OTU0NDQ5NSwwMDAwMDAwMGY3NmJmZTY4YzUyNWY4MGMxODg0YzA1ZTlhNjU3ODlm`
+Snapshot ID: `MTY1OTU0NDQ5NSwwMDAwMDAwMGY4OGQyN2I4YzM1YTNmYjI0NzZkNTZiNzA4NTgwODc2`

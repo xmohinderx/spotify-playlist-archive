@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95036,
+  "num_followers": 95063,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDNlM2Q5MWFmY2YzOGZjNzA1MzkzOGE1MjM4ZTRlZDdh",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGIwOWU0MDFhNDU0Y2QwMTJhYWJmMGNkYTIyM2RjYzU4",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -559,6 +559,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Hardcore Vibes",
+        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
+      },
+      "artists": [
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Hardcore Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 145174,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Hardcore Vibes",
-        "url": "https://open.spotify.com/album/1F6VezXavMMMumP9w2Aqc2"
-      },
-      "artists": [
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Hardcore Vibes - Radio Edit",
-      "url": "https://open.spotify.com/track/7nrPXddIkx8hxM9Ot46JRX"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -891,26 +891,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Baddest",
         "url": "https://open.spotify.com/album/0ayLG9HLt07N00Ycl60y5J"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 151200,
       "name": "Baddest",
       "url": "https://open.spotify.com/track/65ffWlQCk6XeKX50CDYgib"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -951,6 +951,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Step-Grandma",
+        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 160685,
+      "name": "Step-Grandma",
+      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "To the Moon",
         "url": "https://open.spotify.com/album/7a33tuAXRrTQpjzIlUv57M"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 178812,
       "name": "To the Moon",
       "url": "https://open.spotify.com/track/68j909ukxFuw5Pwjwzx3X2"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "GOOD PUSS",
-        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 220223,
-      "name": "GOOD PUSS",
-      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Step-Grandma",
-        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
+        "name": "GOOD PUSS",
+        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
       },
       "artists": [
         {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
         }
       ],
-      "duration_ms": 160685,
-      "name": "Step-Grandma",
-      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
+      "duration_ms": 220223,
+      "name": "GOOD PUSS",
+      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "The Club Is Jumpin'",
-        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "The Club Is Jumpin'",
-      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "SKOGSREJV",
         "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 180588,
       "name": "SKOGSREJV",
       "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1279,6 +1279,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
+      },
+      "artists": [
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "B3VA",
+          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
-      },
-      "artists": [
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "B3VA",
-          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Trombone",
         "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
       },
@@ -1451,6 +1467,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
+      },
+      "artists": [
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
       },
@@ -1471,18 +1511,18 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "IN I DIMMAN",
-        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+        "name": "Rave In My Garage",
+        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
         }
       ],
-      "duration_ms": 121846,
-      "name": "IN I DIMMAN",
-      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
+      "duration_ms": 140921,
+      "name": "Rave In My Garage",
+      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1527,46 +1567,6 @@
       "duration_ms": 176250,
       "name": "Ring The Alarm - Habstrakt Remix",
       "url": "https://open.spotify.com/track/67kJ3o6PrkB9CetDTXQ1wR"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Rave In My Garage",
-        "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
-      },
-      "artists": [
-        {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
-        }
-      ],
-      "duration_ms": 140921,
-      "name": "Rave In My Garage",
-      "url": "https://open.spotify.com/track/4jy2oAJR2w61b9OMhx5pow"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
-      },
-      "artists": [
-        {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1619,8 +1619,8 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Booty Call",
-        "url": "https://open.spotify.com/album/1arVLyiIrvLgfFzvCG6N3I"
+        "name": "California Sun",
+        "url": "https://open.spotify.com/album/4ktYp7QtLH9jMvpo1Tz4SN"
       },
       "artists": [
         {
@@ -1630,11 +1630,15 @@
         {
           "name": "Little Sis Nora",
           "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
+        {
+          "name": "Jungle Jonsson",
+          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
         }
       ],
-      "duration_ms": 126500,
-      "name": "Booty Call",
-      "url": "https://open.spotify.com/track/41kMShsVIBgBYl3dIu6I0L"
+      "duration_ms": 151265,
+      "name": "California Sun",
+      "url": "https://open.spotify.com/track/2SHWi8NdPvjeyRKA3sW3ab"
     },
     {
       "added_at": "2022-07-28 22:10:25",

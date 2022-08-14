@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,385 likes - 21 songs - 58 min 58 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,383 likes - 21 songs - 58 min 58 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 5 | [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 |
 | 6 | [3 Pound Pints](https://open.spotify.com/track/5NBXebY5O7Q8EGXo6R7zoK) | [Hyphen](https://open.spotify.com/artist/2Ktr0i8RmKTMlBFuqhMkAi) | [3 Pound Pints](https://open.spotify.com/album/6QQdto2JCrakFVK0PVhs13) | 2:10 |
 | 7 | [good thing](https://open.spotify.com/track/6TuyZfx8LHlC5Tt1FbUgQP) | [emie nathan](https://open.spotify.com/artist/6vFlOaLfKZPqqJuJ3YWhAB) | [good thing](https://open.spotify.com/album/448Uhhw0zZBHdohVWZNCUJ) | 2:22 |
-| 8 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødstrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
+| 8 | [Spaceman](https://open.spotify.com/track/6wKKVXNBvszUyqQxSfYVdW) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome \(The Dødsdrom Edition\)](https://open.spotify.com/album/2vU563bzpLxxCWc9X1ia4V) | 2:43 |
 | 9 | [Forever Drunk](https://open.spotify.com/track/0DqnKQQarQLw4zVY0LLGbY) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Forever Drunk](https://open.spotify.com/album/2lKcXqayvN3V1opi6oQWZ7) | 3:10 |
 | 10 | [nobody loves me](https://open.spotify.com/track/3hPtLdxyDpXuXPzX4IMB1o) | [Kayla Grace](https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T) | [nobody loves me](https://open.spotify.com/album/7JljDQSHufuK9PQ7pEsow9) | 3:03 |
 | 11 | [Kiss \- Edit](https://open.spotify.com/track/6pldLFN4pLfySELWJwhYxA) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Kiss](https://open.spotify.com/album/6RW7rkL2TAKGYO3XbIH6Af) | 3:04 |
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 | 17 | [Playing Chess](https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S) | [Giolì & Assia](https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU) | [Playing Chess](https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl) | 3:51 |
 | 18 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 19 | [Regrets](https://open.spotify.com/track/2vxLLlGneqcEp6O1wdpINT) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [Regrets](https://open.spotify.com/album/3qaHQ8gM5xnIsYdPwxZQWT) | 2:55 |
-| 20 | [More Than Friends](https://open.spotify.com/track/7rGd1xAX5A7fz5NDhgIq6X) | [Laura Gomes](https://open.spotify.com/artist/0RUbuKQEhd5ZwvwSbdCOJ8) | [More Than Friends](https://open.spotify.com/album/4Gz11cvWtWUZSVfHhaYY9T) | 3:18 |
+| 20 | [More Than Friends](https://open.spotify.com/track/7rGd1xAX5A7fz5NDhgIq6X) | [Laura Gomes](https://open.spotify.com/artist/4otLEIeqdTrM0mgj9oPobm) | [More Than Friends](https://open.spotify.com/album/4Gz11cvWtWUZSVfHhaYY9T) | 3:18 |
 | 21 | [Not the One](https://open.spotify.com/track/481ZLYM7FUam5FACXysCev) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck) | [Not the One](https://open.spotify.com/album/1AfHalVy5AETYsy9Yzm92e) | 2:16 |
 
 Snapshot ID: `MjM1NSwyN2U0MWQzMWQ1ZGI4ZWJhYmE2YmRhYmEwNmNiODcwNjc3OWM3N2Y2`

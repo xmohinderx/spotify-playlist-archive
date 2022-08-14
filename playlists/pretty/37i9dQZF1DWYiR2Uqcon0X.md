@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 681,920 likes - 83 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,030 likes - 83 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 51 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 52 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
 | 53 | [Body On Body](https://open.spotify.com/track/5CWPHctw7j1tLXQivEstv7) | [Jewel](https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 4:26 |
-| 54 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
-| 55 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
+| 54 | [Two Story House](https://open.spotify.com/track/1OfA15M48QXwN2n92m7qE2) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Two Story House](https://open.spotify.com/album/2P2FI57iewRlqpOy6bhPFQ) | 3:19 |
+| 55 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
 | 56 | [A House Made of You](https://open.spotify.com/track/69ZO6imfpWPajcjFeU5kNI) | [Michael Shynes](https://open.spotify.com/artist/1hoLjrdiXJoP9abACQNgx3) | [Happy Before We Get Old](https://open.spotify.com/album/0ZROSmXfCd7Yf0hNTLmlEs) | 3:24 |
 | 57 | [Home To Me](https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Home To Me](https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ) | 3:06 |
 | 58 | [War](https://open.spotify.com/track/1UxeYs0x9oyJtCpmH0QbvL) | [The Dryes](https://open.spotify.com/artist/0npnqS0C9n5uuuBQC4oEWE) | [War](https://open.spotify.com/album/5BGimDYo0GQML8zT2gTeJK) | 3:47 |
@@ -92,4 +92,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 82 | [Suitcase Heart](https://open.spotify.com/track/49pwoHqxTI3xI52w883fkO) | [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd) | [This Is All There Is, Vol\. 1](https://open.spotify.com/album/6LZ2ATHpoFHve0CvBwHb4v) | 2:44 |
 | 83 | [It Don't Work Like That](https://open.spotify.com/track/0IYLEch1W0g2L6BOxypDdb) | [Kenny Foster](https://open.spotify.com/artist/0awfhMMIeRArR1ESXbCmW4) | [It Don't Work Like That](https://open.spotify.com/album/3i8Mp5tQop1sdcXkJPbfi2) | 3:01 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGYxMzhiMmNmZmI3NzZmYWMyYmE3MzI2NDRkMWY2OTkz`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDA1NzNjNDlhNzdlMThjMTYzNTllYTI4NzAyZmZjOTBm`

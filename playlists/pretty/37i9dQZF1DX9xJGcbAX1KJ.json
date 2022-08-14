@@ -1,12 +1,12 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 8847,
+  "num_followers": 8849,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMDE4MTBiNDE0NDA1MTFkMjk5ZTBhNzBkMDRhMDVlMTEw",
+  "snapshot_id": "MTU1MDg2Njc4NiwwMDAwMDAwMGM0NTI1ZDBmMDU1NjhmMzFhZmVkMjI0ODcyYWFkNzU3",
   "tracks": [
     {
       "added_at": "2019-02-22 20:19:46",
@@ -387,22 +387,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "If I Was (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 192053,
-      "name": "I'm on Fire",
-      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Mr. Sandman",
         "url": "https://open.spotify.com/album/4IRbrDOChZMRwzkiGQuJVn"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 206493,
       "name": "Mr. Sandman",
       "url": "https://open.spotify.com/track/6sPpUfwcYBgW3kTXStNsVM"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "If I Was (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2VxNr0ZeGhWJ8rQNe4d8vS"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 192053,
+      "name": "I'm on Fire",
+      "url": "https://open.spotify.com/track/14WxdK01IyDl3bumvqufxH"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -455,22 +455,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 346373,
-      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "All or Nothing / Fast Car",
         "url": "https://open.spotify.com/album/0aqbYdpaGt1QhCJDcruuMV"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 272966,
       "name": "Fast Car (feat. Tall Heights)",
       "url": "https://open.spotify.com/track/79ms40oOzof3LMyrrXDXtJ"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 346373,
+      "name": "Harvest Moon - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -523,18 +523,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+        "name": "Little Talks",
+        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
       },
       "artists": [
         {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+          "name": "Julia Sheer",
+          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
+        },
+        {
+          "name": "Jon D",
+          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
+      "duration_ms": 219760,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -571,22 +575,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Little Talks",
-        "url": "https://open.spotify.com/album/1wAtKYtwQNBHFP1tRKKRBM"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
       },
       "artists": [
         {
-          "name": "Julia Sheer",
-          "url": "https://open.spotify.com/artist/4jHWpUyRI2rzJVimtasEBF"
-        },
-        {
-          "name": "Jon D",
-          "url": "https://open.spotify.com/artist/5HCypjplgh5uQezvBpOfXN"
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
         }
       ],
-      "duration_ms": 219760,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/1ulDt6ySVbMbzZCBO6hSfb"
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -643,22 +643,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 316240,
-      "name": "Lovesong",
-      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Superstition",
         "url": "https://open.spotify.com/album/6cxIb7DQLAhGSZQXYsybPo"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 272000,
       "name": "Mr. Brightside",
       "url": "https://open.spotify.com/track/6Bcsu35LlV2YyUSa1X7Cpf"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 316240,
+      "name": "Lovesong",
+      "url": "https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -743,18 +743,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+        "name": "Refuge",
+        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Canyon City",
+          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
         }
       ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
+      "duration_ms": 261665,
+      "name": "Fix You",
+      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -775,22 +775,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Refuge",
-        "url": "https://open.spotify.com/album/2skqfExK1zl4wW7s7vkCHu"
-      },
-      "artists": [
-        {
-          "name": "Canyon City",
-          "url": "https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fix You",
-      "url": "https://open.spotify.com/track/0J4sK2VO75cRSVoj0FokQn"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+      "duration_ms": 250836,
+      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -835,6 +819,26 @@
       "duration_ms": 227562,
       "name": "Titanium",
       "url": "https://open.spotify.com/track/0knwYd0kPonZMwaNWLLudK"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Stolen Dance",
+        "url": "https://open.spotify.com/album/5LPeL99ZVABKUJgkK0QVk5"
+      },
+      "artists": [
+        {
+          "name": "Twin Bandit",
+          "url": "https://open.spotify.com/artist/0PFFKJfJZU5TbgQXIw8cBr"
+        },
+        {
+          "name": "Joshua Hyslop",
+          "url": "https://open.spotify.com/artist/1I7oHjCjMrMUz66v67yJJu"
+        }
+      ],
+      "duration_ms": 235466,
+      "name": "Stolen Dance",
+      "url": "https://open.spotify.com/track/4U97fO94vsHmSmCF7jk5cZ"
     }
   ],
   "unique_name": "Under the Covers",

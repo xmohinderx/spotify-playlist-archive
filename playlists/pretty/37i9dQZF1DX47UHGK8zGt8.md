@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 
 > Músicas calminhas pra começar o dia bem relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,189 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,461 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 8 | [Coisa Linda](https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Troco Likes](https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH) | 2:58 |
 | 9 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
 | 10 | [Não Te Largo, Não Te Troco](https://open.spotify.com/track/4aOjUCwa65AQ0uYoeQZS6Z) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Ana](https://open.spotify.com/album/03EODNJC2L3f9Yq6QrgEJX) | 3:09 |
-| 11 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
-| 12 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
+| 11 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
+| 12 | [Pra Sonhar](https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe) | [Marcelo Jeneci](https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE), [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Feito Pra Acabar](https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO) | 4:28 |
 | 13 | [4 da manhã](https://open.spotify.com/track/5xVJU6DJHnmHnbbKS56yCC) | [UM44K](https://open.spotify.com/artist/3zhKxZr516VdNDa8v3oft2) | [4 da manhã](https://open.spotify.com/album/4pbbrNIhUdWxLYmd46lhVl) | 3:36 |
 | 14 | [Me Espera](https://open.spotify.com/track/27hUD1YdTO5dmRw0V5bOqD) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Meu Canto \- EP](https://open.spotify.com/album/6WQAS1zej9JEKE47QBVSJB) | 3:50 |
 | 15 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 27 | [Á Primeira Vista](https://open.spotify.com/track/2hjDxNmryN9ziHAIYiRksM) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Aos Vivos](https://open.spotify.com/album/4oUdOO2U2FwFiuHOMUwkNF) | 3:36 |
 | 28 | [Declaração](https://open.spotify.com/track/3d9nrJ5u7JIMLdA917SzEn) | [Vitão](https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP) | [Declaração](https://open.spotify.com/album/03xIJaP4Ify8698ptSD82L) | 2:55 |
 | 29 | [Outono](https://open.spotify.com/track/1oFXWGb5SWcChrzJuXXmvj) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ), [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Deixa Vir Do Coração](https://open.spotify.com/album/4IlVpTe4eaaIvMBmyMCT9y) | 3:24 |
-| 30 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
+| 30 | [Quando Amanhecer](https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR) | 2:51 |
 | 31 | [Isn't She Lovely](https://open.spotify.com/track/6yZc8RzX7vxxqIQLQeVPzT) | [Lorenza Pozza](https://open.spotify.com/artist/2TVIEPW2MAGMyGqozwFzG1) | [Música para Casar](https://open.spotify.com/album/3fgCfzJrp5xR6BhvcaY87V) | 2:29 |
-| 32 | [Quando Amanhecer](https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw) | [Lado de Cá](https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD) | [Quando Amanhecer](https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR) | 2:51 |
+| 32 | [Ai que Saudade D'Ocê \- Sessions](https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Mariana Nolasco Sessions 2](https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF) | 2:18 |
 | 33 | [Lisboa\-Madrid](https://open.spotify.com/track/70kJ2O6JiFg4nTATPw4b0E) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Lisboa\-Madrid](https://open.spotify.com/album/6fmdvFGB23usYVqWC9Evdy) | 3:40 |
 | 34 | [Eu Me Lembro](https://open.spotify.com/track/3g2mIjzQJhOLcloOnJcZJe) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/7HpyNnONRvryrDxanTrysA) | 3:37 |
 | 35 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47UHGK8zGt8.md) - [plain]
 | 49 | [Te Faço um Cafuné](https://open.spotify.com/track/2PxakiZUhHmFdp5G3sBiXD) | [Mariana Aydar](https://open.spotify.com/artist/3rE82NMVBb5C5tQ83o8u8N) | [Te Faço um Cafuné](https://open.spotify.com/album/1k35AKHHe1G9pnmIRsAJf0) | 3:47 |
 | 50 | [Zero](https://open.spotify.com/track/7Jl757vT5eNqemc6PtY2dA) | [Liniker e os Caramelows](https://open.spotify.com/artist/5ZtyHkAGvYFPSYcWPfmL5n) | [Cru](https://open.spotify.com/album/7wYN6lMpcVx2maHSGc2yQb) | 6:04 |
 
-Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMGM0NjQzYmRjMzI3MDlhNzhmY2E5N2Y2MjU1MTZlYjIw`
+Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMGI1ZGJhZDJhMmFhNDNiOGRhYTMyODQ3MWZmNzRhN2Fk`

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Mexico.",
-  "num_followers": 1527989,
+  "num_followers": 1528508,
   "original_name": "Top 50 - Mexico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzNjIwNjQwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzNzA2MDcyLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -101,23 +101,7 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "PROVENZA",
         "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
@@ -133,7 +117,23 @@
       "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
@@ -149,7 +149,23 @@
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Ojos Marrones",
+        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        }
+      ],
+      "duration_ms": 198520,
+      "name": "Ojos Marrones",
+      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "El Rescate",
         "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
@@ -169,23 +185,7 @@
       "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Ojos Marrones",
-        "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        }
-      ],
-      "duration_ms": 198520,
-      "name": "Ojos Marrones",
-      "url": "https://open.spotify.com/track/7gwT3HGL84vF7bgtwL1N88"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
@@ -221,7 +221,7 @@
       "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "JGL",
         "url": "https://open.spotify.com/album/1VwBEj5qv0cbe78LJmANhW"
@@ -241,47 +241,7 @@
       "url": "https://open.spotify.com/track/5kpxVMDvYGRmNqawPqDTYR"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Jhay Cortez",
-          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
-        }
-      ],
-      "duration_ms": 237894,
-      "name": "Tarot",
-      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tony Dize",
-          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
-        }
-      ],
-      "duration_ms": 198367,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Te Felicito",
         "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
@@ -301,7 +261,47 @@
       "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Jhay Cortez",
+          "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz"
+        }
+      ],
+      "duration_ms": 237894,
+      "name": "Tarot",
+      "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tony Dize",
+          "url": "https://open.spotify.com/artist/3LKXWvXFWrkwUzJWxzwVpW"
+        }
+      ],
+      "duration_ms": 198367,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Mi Vida En Un Cigarro 2",
         "url": "https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb"
@@ -321,7 +321,23 @@
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 173119,
+      "name": "Neverita",
+      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -341,55 +357,7 @@
       "url": "https://open.spotify.com/track/44XjoNvtwevktFKjvVe1vH"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Neverita",
-      "url": "https://open.spotify.com/track/31i56LZnwE6uSu3exoHjtB"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 196412,
-      "name": "Un Coco",
-      "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "En El Radio Un Cochinero",
         "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
@@ -405,7 +373,7 @@
       "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
@@ -421,7 +389,23 @@
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 196412,
+      "name": "Un Coco",
+      "url": "https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Si Fuera F\u00e1cil",
         "url": "https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE"
@@ -437,7 +421,23 @@
       "url": "https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 167303,
+      "name": "As It Was",
+      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -453,7 +453,23 @@
       "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -469,7 +485,23 @@
       "url": "https://open.spotify.com/track/4d4ZXH4dr5bYfgErHiZCX2"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
@@ -493,7 +525,7 @@
       "url": "https://open.spotify.com/track/4gzsuuZypVbxs0Af1LSZyB"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -509,39 +541,7 @@
       "url": "https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "@dannocean",
         "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
@@ -557,7 +557,7 @@
       "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Villano Antillano: Bzrp Music Sessions, Vol. 51",
         "url": "https://open.spotify.com/album/1tjIQcE1WoeRfI7t5QFRgR"
@@ -577,39 +577,23 @@
       "url": "https://open.spotify.com/track/4hceSKjrkDTO0nMKFcb3sj"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
-        "name": "San Lucas",
-        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+        "name": "XT4S1S",
+        "url": "https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
         }
       ],
-      "duration_ms": 247196,
-      "name": "San Lucas",
-      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+      "duration_ms": 219320,
+      "name": "XT4S1S",
+      "url": "https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "La Clase",
         "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
@@ -625,7 +609,23 @@
       "url": "https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
@@ -645,7 +645,39 @@
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Simplemente Gracias",
+        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 255640,
+      "name": "Si Te Pudiera Mentir",
+      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "San Lucas",
+        "url": "https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 247196,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -665,59 +697,7 @@
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "VICE VERSA",
-        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Simplemente Gracias",
-        "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 255640,
-      "name": "Si Te Pudiera Mentir",
-      "url": "https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
@@ -737,23 +717,43 @@
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "VICE VERSA",
+        "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 210989,
-      "name": "Aguacero",
-      "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
@@ -773,7 +773,7 @@
       "url": "https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -789,7 +789,23 @@
       "url": "https://open.spotify.com/track/28GCbKgjlVD9eDmasGbe0T"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 210989,
+      "name": "Aguacero",
+      "url": "https://open.spotify.com/track/2uflssWlCaJ6CbTMOsUpNI"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Borrachera Con Los Honorables (Live)",
         "url": "https://open.spotify.com/album/6dvpGPwp36h1DYPUbp2dmv"
@@ -805,23 +821,7 @@
       "url": "https://open.spotify.com/track/1Tcm4Qi0lbzXofH11MIzJs"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230704,
-      "name": "Yo No Soy Celoso",
-      "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Yonaguni",
         "url": "https://open.spotify.com/album/6VSOIs13DaSG2IPilNviX5"
@@ -837,7 +837,39 @@
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"
     },
     {
-      "added_at": "2022-08-12 11:57:20",
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230704,
+      "name": "Yo No Soy Celoso",
+      "url": "https://open.spotify.com/track/5kVZxyMY1gfdCLiChsfjn1"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
+      "album": {
+        "name": "No Es Por Ac\u00e1",
+        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 167692,
+      "name": "No Es Por Ac\u00e1",
+      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "added_at": "2022-08-13 11:41:12",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -855,42 +887,6 @@
       "duration_ms": 250533,
       "name": "Callaita",
       "url": "https://open.spotify.com/track/71wFwRo8xGc4lrcyKwsvba"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "No Es Por Ac\u00e1",
-        "url": "https://open.spotify.com/album/452R0kJudc73I2N1hxhL7k"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 167692,
-      "name": "No Es Por Ac\u00e1",
-      "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
-    },
-    {
-      "added_at": "2022-08-12 11:57:20",
-      "album": {
-        "name": "ULTRA SOLO",
-        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "ULTRA SOLO",
-      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     }
   ],
   "unique_name": "Top 50 - Mexico",

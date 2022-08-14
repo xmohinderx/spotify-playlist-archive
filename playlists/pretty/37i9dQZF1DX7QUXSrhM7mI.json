@@ -1,12 +1,12 @@
 {
   "description": "It's 3pm and we've peaced out for the day.",
-  "num_followers": 5500,
+  "num_followers": 5611,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjQxNSwwMDAwMDAwMDA3NWEzNDA4NWYwNzdjNjdlZDc4ZjgyYzY0NzU4YTc1",
+  "snapshot_id": "MTY2MDI0NjQxNSwwMDAwMDAwMDdiNjY2NGJiYzQwODEzY2RkNGQxMDBmMDI5OTQzNTQ4",
   "tracks": [
     {
       "added_at": "2022-08-11 19:33:35",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-08-11 19:33:35",
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 227693,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 177533,
-      "name": "the perfect pair",
-      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
     },
     {
       "added_at": "2022-08-11 19:33:35",
@@ -647,6 +647,26 @@
     {
       "added_at": "2022-08-11 19:33:35",
       "album": {
+        "name": "Thinking 'Bout Love",
+        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        },
+        {
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "Thinking 'Bout Love",
+      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
         "name": "Solar Power",
         "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
       },
@@ -675,26 +695,6 @@
       "duration_ms": 280603,
       "name": "Birch Tree",
       "url": "https://open.spotify.com/track/2isf9DCebk6mUhGagcD5bf"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
-        "name": "Thinking 'Bout Love",
-        "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
-      },
-      "artists": [
-        {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
-        },
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "Thinking 'Bout Love",
-      "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
     },
     {
       "added_at": "2022-08-11 19:33:35",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-11 19:33:35",
       "album": {
-        "name": "Seven",
-        "url": "https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY"
-      },
-      "artists": [
-        {
-          "name": "Men I Trust",
-          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
-        }
-      ],
-      "duration_ms": 225394,
-      "name": "Seven",
-      "url": "https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW"
       },
@@ -759,22 +743,6 @@
       "duration_ms": 184548,
       "name": "ocean eyes - Recorded Live at Jungle City Studios",
       "url": "https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
-        "name": "golden thing",
-        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 219300,
-      "name": "golden thing",
-      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
     },
     {
       "added_at": "2022-08-11 19:33:35",
@@ -795,6 +763,38 @@
     {
       "added_at": "2022-08-11 19:33:35",
       "album": {
+        "name": "Seven",
+        "url": "https://open.spotify.com/album/3HdIy1njUneWoE5pWy4lEY"
+      },
+      "artists": [
+        {
+          "name": "Men I Trust",
+          "url": "https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT"
+        }
+      ],
+      "duration_ms": 225394,
+      "name": "Seven",
+      "url": "https://open.spotify.com/track/2dwvxOHnQjndZLowIR6PiS"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
+        "name": "golden thing",
+        "url": "https://open.spotify.com/album/33MiMpGm7MU2UBggBqBIUz"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 219300,
+      "name": "golden thing",
+      "url": "https://open.spotify.com/track/5y2TuOFgwlpztHlqENHQOE"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
         "name": "The Few Things (With Charlotte Lawrence)",
         "url": "https://open.spotify.com/album/1UTQg1Y9DUJQGZQOICLCv1"
       },
@@ -811,6 +811,22 @@
       "duration_ms": 211567,
       "name": "The Few Things (With Charlotte Lawrence)",
       "url": "https://open.spotify.com/track/7BdXiDH2bPhBuPP2jTwRZB"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
+        "name": "Girls And Boys",
+        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Michaelson",
+          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
+        }
+      ],
+      "duration_ms": 135386,
+      "name": "The Way I Am",
+      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
     },
     {
       "added_at": "2022-08-11 19:33:35",
@@ -843,22 +859,6 @@
       "duration_ms": 153693,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/47hXMyQDGW8sA1NGqmFL7h"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
-        "name": "Girls And Boys",
-        "url": "https://open.spotify.com/album/2115eAMeQ8neIN5PHWwz9Z"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Michaelson",
-          "url": "https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0"
-        }
-      ],
-      "duration_ms": 135386,
-      "name": "The Way I Am",
-      "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
     },
     {
       "added_at": "2022-08-11 19:33:35",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2022-08-11 19:33:35",
       "album": {
+        "name": "rest in peace",
+        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
+      },
+      "artists": [
+        {
+          "name": "BL\u00dc EYES",
+          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
+        }
+      ],
+      "duration_ms": 191910,
+      "name": "rest in peace",
+      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
+    },
+    {
+      "added_at": "2022-08-11 19:33:35",
+      "album": {
         "name": "Angels",
         "url": "https://open.spotify.com/album/4HHsYvJLSiZ8f7WnU6Xiie"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 188426,
       "name": "When You Need It (feat. Wrabel)",
       "url": "https://open.spotify.com/track/6be7birJOF85i9dL0wUrBg"
-    },
-    {
-      "added_at": "2022-08-11 19:33:35",
-      "album": {
-        "name": "rest in peace",
-        "url": "https://open.spotify.com/album/0sE1YP1nRz29DgpaogCRsE"
-      },
-      "artists": [
-        {
-          "name": "BL\u00dc EYES",
-          "url": "https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2"
-        }
-      ],
-      "duration_ms": 191910,
-      "name": "rest in peace",
-      "url": "https://open.spotify.com/track/20ACQf24bEwSVnKAhVfH5u"
     },
     {
       "added_at": "2022-08-11 19:33:35",

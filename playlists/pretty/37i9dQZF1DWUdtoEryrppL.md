@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdtoEryrppL.md) - [plain]
 
 > My favourite tracks to harness your focus and push you to the limit in your next workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,388 likes - 39 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,415 likes - 39 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

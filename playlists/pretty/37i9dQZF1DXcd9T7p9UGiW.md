@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL?si=FiOiEsFvSe2rzVZ8pJRTOg" > Aymos </a> and <a href="https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq?si=zbz0yK\_\-R\-WuVPvE\_Ct9pA" > M1llions </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,867 likes - 83 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,883 likes - 83 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 | 14 | [A Body, A Coffin](https://open.spotify.com/track/2YYYrSLbcf5eNB5VQJxfM9) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS), [Marvel](https://open.spotify.com/artist/3JKb5kVdAbFREFnHtwhBKa) | [Black Panther: Wakanda Forever Prologue](https://open.spotify.com/album/5O6YjrVzzeXStO3YJZuXaM) | 2:49 |
 | 15 | [LORD FORGIVE ME](https://open.spotify.com/track/3PnDz7t38mzVZaImRrSknW) | [Tobe Nwigwe](https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Fat Nwigwe](https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y) | [LORD FORGIVE ME](https://open.spotify.com/album/3hkubccNWxxhxzF6HsIaoh) | 3:24 |
 | 16 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 |
-| 17 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
+| 17 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 | 18 | [how to luv](https://open.spotify.com/track/6cfRX5ktaMj7ZzwM68HrYG) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:31 |
 | 19 | [Tony Montana](https://open.spotify.com/track/5dl2O9ACpsfplIikHO0p6y) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Tony Montana](https://open.spotify.com/album/43RnBjoNMaz6atnQZadGAE) | 2:33 |
 | 20 | [Gum Body \(feat\. Jorja Smith\)](https://open.spotify.com/track/5nUiz96J8ZSmwoSuL4sGvh) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:15 |

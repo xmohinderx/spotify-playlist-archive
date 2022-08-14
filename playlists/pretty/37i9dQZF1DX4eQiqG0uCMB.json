@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 9452,
+  "num_followers": 9471,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4Mjg1NSwwMDAwMDAwMGE0YjU3ZGY4NjMwM2E5MjkxYTRkYTgyYWU4NGI1Mzk1",
+  "snapshot_id": "MTY2MDI4Mjg1NSwwMDAwMDAwMDJhNjI1ZjUwNjZiOWRiZjdlMTQ5YmRkMjAyOGE1ZTAw",
   "tracks": [
     {
       "added_at": "2022-07-07 23:00:00",
@@ -321,6 +321,22 @@
       "url": "https://open.spotify.com/track/2U474RK9GnAqXXh5YqigaY"
     },
     {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "Legalize",
@@ -337,20 +353,20 @@
       "url": "https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5"
     },
     {
-      "added_at": "2022-07-07 23:00:00",
+      "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "AV",
+          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+      "duration_ms": 188629,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -375,22 +391,6 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/2j6o2L4cimT1ufEDoymvTF"
-      },
-      "artists": [
-        {
-          "name": "AV",
-          "url": "https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF"
-        }
-      ],
-      "duration_ms": 188629,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/4ucXeGcKKzubgHb932T6sl"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -449,6 +449,26 @@
       "url": "https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH"
     },
     {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "THENIGHTISYOUNG.",
+        "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 254315,
+      "name": "Wait For You (feat. Oxlade)",
+      "url": "https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui"
+    },
+    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "KOA II Part 1",
@@ -471,26 +491,6 @@
       "duration_ms": 384893,
       "name": "Ubumnandi (feat. Nia Pearl & MDU a.k.a TRP)",
       "url": "https://open.spotify.com/track/5ADJ5bKQxtLI8z1XWeQuRD"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "THENIGHTISYOUNG.",
-        "url": "https://open.spotify.com/album/4np0ohQb06VAAitOpk3Rt4"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 254315,
-      "name": "Wait For You (feat. Oxlade)",
-      "url": "https://open.spotify.com/track/1OgoSHtTZyMJt3ns3e5Lui"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -525,22 +525,6 @@
       "url": "https://open.spotify.com/track/1nIhLChEGB8Y2dP7CHt3PN"
     },
     {
-      "added_at": "2022-06-30 23:00:00",
-      "album": {
-        "name": "Many Man - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Many Man - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
-    },
-    {
       "added_at": "2022-06-09 23:00:00",
       "album": {
         "name": "WITH YOU",
@@ -555,6 +539,22 @@
       "duration_ms": 192475,
       "name": "WITH YOU",
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2022-06-30 23:00:00",
+      "album": {
+        "name": "Many Man - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/7j3undJfNrbm3uOboIvpNI"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 190621,
+      "name": "Many Man - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/4nwtkUjULEbhp5VJItUWbV"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -575,22 +575,6 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Laughter, Tears & Goosebumps",
-        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 165040,
-      "name": "King",
-      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
         "name": "Afro Pop, Vol. 1",
         "url": "https://open.spotify.com/album/6GHHoK6LC0Y36nYsouK8qR"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 158699,
       "name": "AG Baby",
       "url": "https://open.spotify.com/track/1iHqhI5BZ5LoV4DiG0c9Iv"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Laughter, Tears & Goosebumps",
+        "url": "https://open.spotify.com/album/4dZjYBEciWomanesAv3fie"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 165040,
+      "name": "King",
+      "url": "https://open.spotify.com/track/1IARNA3zsu39Kul2ov9n3J"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -681,22 +681,6 @@
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
     },
     {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "Made In Lagos: Deluxe Edition",
-        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
-      },
-      "artists": [
-        {
-          "name": "WizKid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 203026,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
-    },
-    {
       "added_at": "2022-07-07 23:00:00",
       "album": {
         "name": "No Dey Form",
@@ -711,6 +695,22 @@
       "duration_ms": 140540,
       "name": "No Dey Form",
       "url": "https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
+        "name": "Made In Lagos: Deluxe Edition",
+        "url": "https://open.spotify.com/album/6bCs4XCCkm9cTwlswlu0VD"
+      },
+      "artists": [
+        {
+          "name": "WizKid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 203026,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6mAdcIFP25eb37HjkzglSh"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
+        "name": "Free My Mind",
+        "url": "https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 175989,
+      "name": "Free My Mind",
+      "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
+    },
+    {
+      "added_at": "2022-06-09 23:00:00",
+      "album": {
         "name": "Pray 2 The East",
         "url": "https://open.spotify.com/album/6oOKILSxYzQ3xmk7QDncIR"
       },
@@ -831,18 +847,18 @@
     {
       "added_at": "2022-06-09 23:00:00",
       "album": {
-        "name": "Free My Mind",
-        "url": "https://open.spotify.com/album/5tnf29cBX19DsHpqDpa7Vn"
+        "name": "DKT",
+        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
       },
       "artists": [
         {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
         }
       ],
-      "duration_ms": 175989,
-      "name": "Free My Mind",
-      "url": "https://open.spotify.com/track/2NcJDSpMJsbyabOLoa00GM"
+      "duration_ms": 138181,
+      "name": "DKT",
+      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2022-06-09 23:00:00",
@@ -859,22 +875,6 @@
       "duration_ms": 129544,
       "name": "Cubana",
       "url": "https://open.spotify.com/track/6L0owZVOkCYYajP9ChDHdX"
-    },
-    {
-      "added_at": "2022-06-09 23:00:00",
-      "album": {
-        "name": "DKT",
-        "url": "https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd"
-      },
-      "artists": [
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 138181,
-      "name": "DKT",
-      "url": "https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB"
     },
     {
       "added_at": "2022-06-09 23:00:00",

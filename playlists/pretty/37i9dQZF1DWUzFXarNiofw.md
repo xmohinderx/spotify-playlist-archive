@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Kehlani & Babyface
 
-[Spotify](https://open.spotify.com/user/spotify) - 915,942 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,255 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 20 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 21 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 |
 | 22 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 |
-| 23 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
+| 23 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 | 24 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 25 | [Can't Swim](https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Can't Swim](https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS) | 3:31 |
 | 26 | [Coastin' \[Feat\. Lalah Hathaway\]](https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Coastin'](https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin) | 3:40 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 66 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 |
 | 67 | [ICED OUT SUMMER](https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICED OUT SUMMER](https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P) | 2:40 |
 | 68 | [Odds](https://open.spotify.com/track/3gDIzJLAOIiFqcCXjcz8hp) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [it's not that deep](https://open.spotify.com/album/438o26Y0oRAh6vpyboYWQP) | 2:52 |
-| 69 | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/track/1UlkeNTAI6j9xon4RcEVT2) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Benziboy](https://open.spotify.com/artist/2HVYZvpEGdadr91TCxyPW2) | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/album/6n4GEw9B0ssEHzRw19bdsg) | 2:50 |
+| 69 | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/track/1UlkeNTAI6j9xon4RcEVT2) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Elijah Beuzieron](https://open.spotify.com/artist/089fAXVN8TcByzhdKywnay) | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/album/6n4GEw9B0ssEHzRw19bdsg) | 2:50 |
 | 70 | [Alarming](https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Alarming](https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG) | 2:55 |
 | 71 | [all of that](https://open.spotify.com/track/13rhDmlqwOZAtQiaIE40m0) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [all of that](https://open.spotify.com/album/3xset6R3izwNhY3n0L2ijI) | 2:38 |
 | 72 | [If You Want My Love](https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj) | [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [If You Want My Love](https://open.spotify.com/album/7qUwQ0bUDNJnyZb8IWpglN) | 3:42 |

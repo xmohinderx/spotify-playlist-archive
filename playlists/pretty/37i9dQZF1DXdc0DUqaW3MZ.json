@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 279889,
+  "num_followers": 280075,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDU0NTllODljNTNmY2JkMDRjYmY1NGMxOGE3OTQzZTI3",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDQxOTYyY2UxMjkzMDU5Y2I2NjM1OGE3MmFkMTJkYTc3",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Baby Face",
+        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 219083,
+      "name": "Nobody Scared",
+      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "i can't go outside",
         "url": "https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU"
       },
@@ -499,18 +515,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Baby Face",
-        "url": "https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1"
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
       },
       "artists": [
         {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
         }
       ],
-      "duration_ms": 219083,
-      "name": "Nobody Scared",
-      "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
+      "duration_ms": 246800,
+      "name": "Morning Matters",
+      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -531,38 +547,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit"
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
       },
       "artists": [
         {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 246800,
-      "name": "Morning Matters",
-      "url": "https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "ADOLESCENCE",
-        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Cub Sport",
-          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
-        }
-      ],
-      "duration_ms": 240924,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil"
+      "duration_ms": 264710,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -583,18 +579,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+        "name": "ADOLESCENCE",
+        "url": "https://open.spotify.com/album/6RcCRqPn7qtoleMiH8pxSH"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Cub Sport",
+          "url": "https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt"
         }
       ],
-      "duration_ms": 264710,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
+      "duration_ms": 240924,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/3LU1LzDmm5siz3WExknlil"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -767,18 +767,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Only Diamonds Cut Diamonds",
-        "url": "https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg"
+        "name": "LoveConfusion",
+        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
       },
       "artists": [
         {
-          "name": "Vegyn",
-          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+          "name": "Karnaval Blues",
+          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
         }
       ],
-      "duration_ms": 163973,
-      "name": "Debold",
-      "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
+      "duration_ms": 258333,
+      "name": "LoveConfusion",
+      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Passion Controller",
-        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
+        "name": "Only Diamonds Cut Diamonds",
+        "url": "https://open.spotify.com/album/50156iq4owa0BXegpAf1Mg"
       },
       "artists": [
         {
-          "name": "Khazali",
-          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
         }
       ],
-      "duration_ms": 172219,
-      "name": "Passion Controller",
-      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
+      "duration_ms": 163973,
+      "name": "Debold",
+      "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -835,18 +835,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "LoveConfusion",
-        "url": "https://open.spotify.com/album/1KKBhVD7u0bD0EdvHI7BeP"
+        "name": "Passion Controller",
+        "url": "https://open.spotify.com/album/43G6peF9DcpFseLV2b5KQL"
       },
       "artists": [
         {
-          "name": "Karnaval Blues",
-          "url": "https://open.spotify.com/artist/4APHks5GcW1GrlfnSvL5O3"
+          "name": "Khazali",
+          "url": "https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd"
         }
       ],
-      "duration_ms": 258333,
-      "name": "LoveConfusion",
-      "url": "https://open.spotify.com/track/38xyC5uryAeiprkzLbNF6W"
+      "duration_ms": 172219,
+      "name": "Passion Controller",
+      "url": "https://open.spotify.com/track/5QoWB3fZCKdwWkKFagoFI4"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "o shit!",
-        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
-      },
-      "artists": [
-        {
-          "name": "lentra",
-          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
-        }
-      ],
-      "duration_ms": 136822,
-      "name": "o shit!",
-      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "LowKey (feat. Jayd Ink)",
         "url": "https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 173420,
       "name": "LowKey (feat. Jayd Ink)",
       "url": "https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "o shit!",
+        "url": "https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2"
+      },
+      "artists": [
+        {
+          "name": "lentra",
+          "url": "https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT"
+        }
+      ],
+      "duration_ms": 136822,
+      "name": "o shit!",
+      "url": "https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
-      },
-      "artists": [
-        {
-          "name": "Becca Hatch",
-          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
-        }
-      ],
-      "duration_ms": 177560,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
         "name": "Liquid Portraits",
         "url": "https://open.spotify.com/album/19uGXP6YaIElZQ08aNLJwS"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 249112,
       "name": "Moving On",
       "url": "https://open.spotify.com/track/24jQYMpwrraSLf6TfE2K0U"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/0ounACjKD0M8EjnTxAF3UW"
+      },
+      "artists": [
+        {
+          "name": "Becca Hatch",
+          "url": "https://open.spotify.com/artist/1ypgMpyZkcMwXMkWuNFwyg"
+        }
+      ],
+      "duration_ms": 177560,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/4fkgjkCqxOsjePLSpHZbpa"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Lost Time EP",
-        "url": "https://open.spotify.com/album/5dKSpFOUope79HvRizNhMX"
+        "name": "Raining Colours",
+        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
       },
       "artists": [
         {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
         }
       ],
-      "duration_ms": 220840,
-      "name": "Lost Time",
-      "url": "https://open.spotify.com/track/2kf4G153Qt8MR6Hv6t7NzS"
+      "duration_ms": 192703,
+      "name": "Raining Colours",
+      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
     }
   ],
   "unique_name": "Soultronic",

@@ -4,7 +4,7 @@
 
 > The pulse of new indie rock\. Cover: Alvvays
 
-605 songs - 1 day 8 hr 58 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
+606 songs - 1 day 9 hr 1 min - [published](https://open.spotify.com/playlist/6NQ4UrfxHZRCQftucSkbbm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@
 | [Lucky](https://open.spotify.com/track/6mTrJCo3VOX1ch8vBOthH5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/7C5FxYoWzNaZg01isi7CA9) | 4:03 | 2022-06-10 | 2022-07-09 |
 | [Lung](https://open.spotify.com/track/4Pi72tLDcxfsIlYgoDYlcY) | [j\. pastel](https://open.spotify.com/artist/4e0F3Bqyp0BpE3VmNh4qKS) | [Lung](https://open.spotify.com/album/0pnr5IIqUTcYdHx2wGGxAw) | 2:49 | 2022-02-11 | 2022-04-14 |
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-06-21 |  |
-| [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-01 |  |
+| [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-01 | 2022-08-14 |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-02 | 2022-06-09 |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-06-22 |
 | [Mall Goths](https://open.spotify.com/track/5Zupw5HZsfcW4fcOIyE9dm) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Mall Goths](https://open.spotify.com/album/037MzXYKJtot4R9yL67ora) | 2:17 | 2021-08-20 | 2021-12-30 |
@@ -403,6 +403,7 @@
 | [Palms \(with Channel Tres\)](https://open.spotify.com/track/0Lskej1hiep1PKXoz7KhyO) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Palms \(with Channel Tres\)](https://open.spotify.com/album/4dh0Z5pwqLY6cRvFtGC6ox) | 4:00 | 2021-06-07 | 2022-01-13 |
 | [Parade](https://open.spotify.com/track/0cKatKxyXXsgjsLffKtota) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Parade](https://open.spotify.com/album/6NhCwnGXxezzXptdm3MNL7) | 2:03 | 2022-05-06 | 2022-07-02 |
 | [Paradise](https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Paradise](https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U) | 2:44 | 2022-07-15 |  |
+| [Paradise](https://open.spotify.com/track/50I0tMy5eLxPzjLr4V4fBw) | [Kid Smoko](https://open.spotify.com/artist/16zg8eKBf9uqn7jLrCpo8I) | [Paradise](https://open.spotify.com/album/63ct0fj5ma1lS5WLmEtZh6) | 3:00 | 2022-08-13 |  |
 | [Pastlife](https://open.spotify.com/track/2QwPjDaLR5oKupvdSX1Yor) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Pastlife](https://open.spotify.com/album/5FofsTaVjUyymLRgw7EE3i) | 2:31 | 2022-04-01 | 2022-06-29 |
 | [paul blart mall cop](https://open.spotify.com/track/24EqBj3PZlN71flFEzXa9B) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [paul blart mall cop](https://open.spotify.com/album/60sJD11vvUlDibnk1vBAdU) | 2:51 | 2022-03-22 |  |
 | [PEOPLE FUEL](https://open.spotify.com/track/4mos7PoOTESMcxKZqudrRe) | [Palmertrees](https://open.spotify.com/artist/52VT62cropnSSiAZXtU8ho) | [PEOPLE FUEL](https://open.spotify.com/album/1DnDtCSI0lfURV2P3cpcKQ) | 2:53 | 2022-06-25 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 117902,
+  "num_followers": 117951,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDdhZTM0ZGUwZjYxYzZmNTQ5ZjI5YjIwMTIzYzcwOTZl",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDE1OWNjMTExMjU4ZjVmN2IzOGY5MTNiZDJhYTE5YzI1",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -379,38 +379,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Intractable",
-        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
-      },
-      "artists": [
-        {
-          "name": "Gina Young",
-          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
-        }
-      ],
-      "duration_ms": 124653,
-      "name": "So-Called Str8 Grrrl",
-      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Total 90",
         "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
@@ -427,6 +395,22 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
         "name": "Mayo Supreme",
         "url": "https://open.spotify.com/album/2T42kZHMEGCe6XkRmCWe8y"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 172432,
       "name": "Fuck the Cistem",
       "url": "https://open.spotify.com/track/6Qt0KafTAgxOBEi3XFo2eg"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Intractable",
+        "url": "https://open.spotify.com/album/4UH7wsiFLZ6yvw24HGzh1J"
+      },
+      "artists": [
+        {
+          "name": "Gina Young",
+          "url": "https://open.spotify.com/artist/0U64coxrK2Wm5s2PmApkBn"
+        }
+      ],
+      "duration_ms": 124653,
+      "name": "So-Called Str8 Grrrl",
+      "url": "https://open.spotify.com/track/5XUZUnnvjObWveOA9fpO7L"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Free Bleedin'",
-        "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
-      },
-      "artists": [
-        {
-          "name": "The Menstrual Cramps",
-          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
-        }
-      ],
-      "duration_ms": 197052,
-      "name": "Tinder Girl",
-      "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Fuck Danny Denial",
         "url": "https://open.spotify.com/album/0iJ5e19OUZmJH8ywlj5NLR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 205293,
       "name": "CCCHOKEMEEE",
       "url": "https://open.spotify.com/track/4c9xAn5v8trWontgFe9Q2A"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Free Bleedin'",
+        "url": "https://open.spotify.com/album/20EOnbktQbZbkxOJGrqLmA"
+      },
+      "artists": [
+        {
+          "name": "The Menstrual Cramps",
+          "url": "https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "Tinder Girl",
+      "url": "https://open.spotify.com/track/4v8Ld3zwasdQvBZtVJgO0H"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Chickens",
-        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
-      },
-      "artists": [
-        {
-          "name": "Forrest Flowers",
-          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Chickens",
-      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Stoned Butch Blues",
         "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 167623,
       "name": "Blood",
       "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Chickens",
+        "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
+      },
+      "artists": [
+        {
+          "name": "Forrest Flowers",
+          "url": "https://open.spotify.com/artist/6dpJaK0AIrYLSHi4UFeeA8"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Chickens",
+      "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Model Citizen",
-        "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
-      },
-      "artists": [
-        {
-          "name": "Meet Me @ The Altar",
-          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
-        }
-      ],
-      "duration_ms": 183610,
-      "name": "Brighter Days (Are Before Us)",
-      "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Snarkism",
         "url": "https://open.spotify.com/album/68ctZ7mlwKGobH2N7Z8DEP"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Night in the Woods",
-        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
+        "name": "Model Citizen",
+        "url": "https://open.spotify.com/album/7qGZWGsspSXTXiqTWa4sT5"
       },
       "artists": [
         {
-          "name": "Gender Chores",
-          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
+          "name": "Meet Me @ The Altar",
+          "url": "https://open.spotify.com/artist/4bzfsZhaLW6VWHLh1sqcrK"
         }
       ],
-      "duration_ms": 183000,
-      "name": "Night in the Woods",
-      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
+      "duration_ms": 183610,
+      "name": "Brighter Days (Are Before Us)",
+      "url": "https://open.spotify.com/track/6VUFd1yl3AvPwb5QFVCoqg"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -855,6 +839,22 @@
       "duration_ms": 137781,
       "name": "They/Them",
       "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Night in the Woods",
+        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
+      },
+      "artists": [
+        {
+          "name": "Gender Chores",
+          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Night in the Woods",
+      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
     },
     {
       "added_at": "2022-05-31 23:01:00",

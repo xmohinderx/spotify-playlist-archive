@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 
 > Rock unplugged\. Cover: Wolf Alice
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,393 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,500 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMJdkLQRrmg.md) - [plain]
 | 45 | [The Messenger](https://open.spotify.com/track/45CFyww2OsnABfrBg6FzRY) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 3:01 |
 | 46 | [Just Say When \(Version 2.0\)](https://open.spotify.com/track/4JtUz0ZcInSokkKBalijhd) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [Just Say When \(Version 2.0\)](https://open.spotify.com/album/0YQxKT6so33kUPPvrS5FfC) | 3:44 |
 | 47 | [Scumbag \- Acoustic](https://open.spotify.com/track/37Eb16TFeVB2dxkoEnzW4W) | [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [Scumbag \(Acoustic\)](https://open.spotify.com/album/3bauwJBwUAGFxVCoajMIKv) | 3:29 |
-| 48 | [Behind Your Walls \- Acoustic](https://open.spotify.com/track/6j64GT8KPQE1AaLkjXNyMV) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Behind Your Walls](https://open.spotify.com/album/071cCoc1WosvNgGdke7JRZ) | 3:21 |
-| 49 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 |
+| 48 | [bloody valentine \- Acoustic](https://open.spotify.com/track/4Uah1pyFsLEsw4eauJvuNF) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [bloody valentine \(Acoustic\)](https://open.spotify.com/album/6b3coyUziyxHqt8h5UiSkU) | 3:15 |
+| 49 | [Seaside](https://open.spotify.com/track/0QCuMBeqdWkwFUTO1WlAjH) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 1:39 |
 | 50 | [Something Human \(Acoustic\)](https://open.spotify.com/track/1D2ISRyHAs9QBHIWVQIbgM) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Simulation Theory \(Super Deluxe\)](https://open.spotify.com/album/5OZgDtx180ZZPMpm36J2zC) | 3:46 |
 
-Snapshot ID: `MTY2MDMyNTcyNiwwMDAwMDAwMGUzYmU4M2ViNmIwYTc3ODNiMjM1N2M2ZjZhMGNiMDNh`
+Snapshot ID: `MTY2MDMyNTcyNiwwMDAwMDAwMGMxYjJlYTBhZDllYTI0NmQ0MjQ0ZjJmMzkxMWVhZDUy`

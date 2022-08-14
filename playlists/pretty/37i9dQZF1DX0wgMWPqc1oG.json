@@ -1,12 +1,12 @@
 {
   "description": "The essential recordings from the beginning of the Post Bop era. Cover: Freddie Hubbard",
-  "num_followers": 12272,
+  "num_followers": 12306,
   "original_name": "Post Bop Essentials",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTA3MTE0OCwwMDAwMDAwMDU2MDQzOGFhNzkzNWRiYjA1ZmI2ZmViYjJkNjc5OTBk",
+  "snapshot_id": "MTY1MTA3MTE0OCwwMDAwMDAwMGVlMDkyOTA4YjM2OTU1ZmZhMjk4ZjdiMWVhMzM5MDRk",
   "tracks": [
     {
       "added_at": "2022-04-27 14:52:28",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "McCoy Tyner",
+          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
         }
       ],
-      "duration_ms": 388160,
-      "name": "Matrix",
-      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
+      "duration_ms": 552493,
+      "name": "Contemplation",
+      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -235,18 +235,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "The Real McCoy (Remastered / Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/22HoIP0ai6Wikh4R8yM0AX"
+        "name": "Now He Sings, Now He Sobs",
+        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
       },
       "artists": [
         {
-          "name": "McCoy Tyner",
-          "url": "https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
         }
       ],
-      "duration_ms": 552493,
-      "name": "Contemplation",
-      "url": "https://open.spotify.com/track/55GY76amiMF9wjAeto5vco"
+      "duration_ms": 388160,
+      "name": "Matrix",
+      "url": "https://open.spotify.com/track/13VdXFe27FOq9CW2CJaxID"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -383,6 +383,22 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
+        "name": "Mingus Mingus Mingus Mingus Mingus",
+        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
+      },
+      "artists": [
+        {
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+        }
+      ],
+      "duration_ms": 374800,
+      "name": "Celia",
+      "url": "https://open.spotify.com/track/158L9sb16tvsZLiJSbajdP"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
         "name": "Belonging",
         "url": "https://open.spotify.com/album/6dmq2NJgWAvrzRVrpPwkzv"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 502866,
       "name": "The Windup",
       "url": "https://open.spotify.com/track/78zX3x0pFjsz6qSzNc7gA3"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "Mingus Mingus Mingus Mingus Mingus",
-        "url": "https://open.spotify.com/album/12DCd8u80PoRIvBgjQrtuH"
-      },
-      "artists": [
-        {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
-        }
-      ],
-      "duration_ms": 374800,
-      "name": "Celia",
-      "url": "https://open.spotify.com/track/158L9sb16tvsZLiJSbajdP"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -475,6 +475,22 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
+        "name": "Straight, No Chaser",
+        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
+      },
+      "artists": [
+        {
+          "name": "Thelonious Monk",
+          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+        }
+      ],
+      "duration_ms": 695200,
+      "name": "We See",
+      "url": "https://open.spotify.com/track/2mgAcliOOlNXdyCwhVZIQg"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
         "name": "Hub-Tones",
         "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
       },
@@ -491,18 +507,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Straight, No Chaser",
-        "url": "https://open.spotify.com/album/1BHwJqnHhuIryphXMZ0PMQ"
+        "name": "Explorations [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
       },
       "artists": [
         {
-          "name": "Thelonious Monk",
-          "url": "https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN"
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
         }
       ],
-      "duration_ms": 695200,
-      "name": "We See",
-      "url": "https://open.spotify.com/track/2mgAcliOOlNXdyCwhVZIQg"
+      "duration_ms": 371333,
+      "name": "Israel",
+      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -527,22 +543,6 @@
       "duration_ms": 450213,
       "name": "Kattorna",
       "url": "https://open.spotify.com/track/2JkLqYx0HQM0fMyfcppV4p"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
-        "name": "Explorations [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/3PGsNODk3bl8GYvAtgbBBw"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 371333,
-      "name": "Israel",
-      "url": "https://open.spotify.com/track/6l3Qttv1rOdLxnACYm3fRJ"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Out Of The Afternoon",
-        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
-      },
-      "artists": [
-        {
-          "name": "Roy Haynes Quartet",
-          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
-        }
-      ],
-      "duration_ms": 282440,
-      "name": "Long Wharf",
-      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Blues & Roots",
         "url": "https://open.spotify.com/album/7EOQggjtK8JCqeRz9IG33e"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 402240,
       "name": "E's Flat Ah's Flat Too",
       "url": "https://open.spotify.com/track/2uG5erIimWW9wLnz57BFFZ"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Out Of The Afternoon",
+        "url": "https://open.spotify.com/album/3zH8JfREa9pne9mPeqptfu"
+      },
+      "artists": [
+        {
+          "name": "Roy Haynes Quartet",
+          "url": "https://open.spotify.com/artist/4Gtcxqk0DjMyqqvYBr1RWX"
+        }
+      ],
+      "duration_ms": 282440,
+      "name": "Long Wharf",
+      "url": "https://open.spotify.com/track/6PzBd5u8T312lggGnoeRGp"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Hub-Tones",
-        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 504426,
-      "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "Indestructible",
         "url": "https://open.spotify.com/album/4qMDshn0sMrt3bf7C0mmCx"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 424733,
       "name": "Mr. Jin - Remastered",
       "url": "https://open.spotify.com/track/4LH1EhRiBEDeb7TtMpNKAJ"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "Hub-Tones",
+        "url": "https://open.spotify.com/album/6WXQu3KjFlb9Hjwzy3vyS5"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 504426,
+      "name": "Hub-Tones - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/19naWBsLEkWKc61ERtQ3xm"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
-        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
-      },
-      "artists": [
-        {
-          "name": "Max Roach",
-          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
-        }
-      ],
-      "duration_ms": 340840,
-      "name": "Three-Four vs. Six-Eight Four-Four Ways",
-      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
-    },
-    {
-      "added_at": "2022-04-27 14:52:28",
-      "album": {
         "name": "East Broadway Run Down",
         "url": "https://open.spotify.com/album/6VFSJ5bKlJaZBbJaMPYTXQ"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 742960,
       "name": "Blessing In Disguise",
       "url": "https://open.spotify.com/track/6AZl7WAq1CfMTbMfgvZLFn"
+    },
+    {
+      "added_at": "2022-04-27 14:52:28",
+      "album": {
+        "name": "The Max Roach Trio, Featuring The Legendary Hasaan Ibn Ali",
+        "url": "https://open.spotify.com/album/5PRPdUdfuX532COPYP5AUX"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        }
+      ],
+      "duration_ms": 340840,
+      "name": "Three-Four vs. Six-Eight Four-Four Ways",
+      "url": "https://open.spotify.com/track/0GAVJcVNjYUlQnZ6NWhAxL"
     },
     {
       "added_at": "2022-04-27 14:52:28",
@@ -1251,18 +1251,18 @@
     {
       "added_at": "2022-04-27 14:52:28",
       "album": {
-        "name": "Forest Flower: Charles Lloyd At Monterey",
-        "url": "https://open.spotify.com/album/6lIWfnUerZuu9UcUDnF2JD"
+        "name": "Una Mas (Remastered 2014)",
+        "url": "https://open.spotify.com/album/5CWHeD4i4D8ytWcttJ2SpZ"
       },
       "artists": [
         {
-          "name": "Charles Lloyd",
-          "url": "https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 644400,
-      "name": "East of the Sun - Live@Monterey",
-      "url": "https://open.spotify.com/track/0oanzoMD8tt7YMkgaAd6Gj"
+      "duration_ms": 437546,
+      "name": "Sao Paulo - Remastered 2014",
+      "url": "https://open.spotify.com/track/1USV1eumNSdlqPCSOkOUg4"
     }
   ],
   "unique_name": "Post Bop Essentials",

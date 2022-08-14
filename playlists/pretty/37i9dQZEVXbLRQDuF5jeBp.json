@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - USA.",
-  "num_followers": 3408436,
+  "num_followers": 3408685,
   "original_name": "Top 50 - USA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzNjIwNjQ2LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzNzA2MDczLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Gemini Rights",
         "url": "https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD"
@@ -25,7 +25,23 @@
       "url": "https://open.spotify.com/track/4k6Uh1HXdhtusDW5y8Gbvy"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -45,7 +61,7 @@
       "url": "https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -61,23 +77,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
@@ -113,7 +129,7 @@
       "url": "https://open.spotify.com/track/3F5CgOj3wFlRv51JsHbxhe"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Glimpse of Us",
         "url": "https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71"
@@ -129,7 +145,27 @@
       "url": "https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
         "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
@@ -153,43 +189,7 @@
       "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "You Proof",
         "url": "https://open.spotify.com/album/2ORO3nNnFXxsvz9Pcd9RdI"
@@ -205,23 +205,23 @@
       "url": "https://open.spotify.com/track/5uU1uuyaUIBOiiUSQG7Wl3"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "Dreamland (+ Bonus Levels)",
-        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
       "artists": [
         {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 238805,
-      "name": "Heat Waves",
-      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
@@ -237,7 +237,123 @@
       "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 226115,
+      "name": "Yungen (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
+      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Dreamland (+ Bonus Levels)",
+        "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 238805,
+      "name": "Heat Waves",
+      "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 245939,
+      "name": "Moscow Mule",
+      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 191937,
+      "name": "About Damn Time",
+      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
@@ -261,23 +377,7 @@
       "url": "https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -293,55 +393,7 @@
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 191937,
-      "name": "About Damn Time",
-      "url": "https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 245939,
-      "name": "Moscow Mule",
-      "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Betty (Get Money)",
         "url": "https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF"
@@ -357,7 +409,7 @@
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
@@ -373,7 +425,7 @@
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Sunroof",
         "url": "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
@@ -393,23 +445,7 @@
       "url": "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 260253,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
@@ -425,7 +461,7 @@
       "url": "https://open.spotify.com/track/0wHFktze2PHC5jDt3B17DC"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -445,39 +481,23 @@
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "Rock and A Hard Place",
-        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
       },
       "artists": [
         {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
         }
       ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place",
-      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
+      "duration_ms": 260253,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -497,7 +517,71 @@
       "url": "https://open.spotify.com/track/4tYFy8ALRjIZvnvSLw5lxN"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Rock and A Hard Place",
+        "url": "https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place",
+      "url": "https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Growin' Up",
+        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "The Kind of Love We Make",
+      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -513,7 +597,23 @@
       "url": "https://open.spotify.com/track/1Hohk6AufHZOrrhMXZppax"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Quevedo: Bzrp Music Sessions, Vol. 52",
         "url": "https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u"
@@ -533,39 +633,39 @@
       "url": "https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+        "name": "Dangerous: The Double Album",
+        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
       },
       "artists": [
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
+      "duration_ms": 178520,
+      "name": "Wasted On You",
+      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "F*CK LOVE 3: OVER YOU",
         "url": "https://open.spotify.com/album/4bZJWQhHKJckFLJuYdvyX2"
@@ -585,95 +685,7 @@
       "url": "https://open.spotify.com/track/5PjdY0CKGZdEuoNab3yDmX"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Bad Decisions (with BTS & Snoop Dogg)",
-        "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
-      },
-      "artists": [
-        {
-          "name": "benny blanco",
-          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 172714,
-      "name": "Bad Decisions (with BTS & Snoop Dogg)",
-      "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "PROVENZA",
-        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "PROVENZA",
-      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Dangerous: The Double Album",
-        "url": "https://open.spotify.com/album/6JlCkqkqobGirPsaleJpFr"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 178520,
-      "name": "Wasted On You",
-      "url": "https://open.spotify.com/track/3cBsEDNhFI9E82vPj3kvi3"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Growin' Up",
-        "url": "https://open.spotify.com/album/1m9DVgV0kEBiVZ4ElhJEte"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "The Kind of Love We Make",
-      "url": "https://open.spotify.com/track/48UKTR66uUOT9LaUvooTNx"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Something in the Orange",
         "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
@@ -689,71 +701,7 @@
       "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
-      },
-      "artists": [
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 172672,
-      "name": "HONEST",
-      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "RENAISSANCE",
-        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 225388,
-      "name": "CUFF IT",
-      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "808s & Heartbreak",
-        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heartless",
-      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
@@ -773,7 +721,103 @@
       "url": "https://open.spotify.com/track/41oY4WCTj5kccfesTVFnvN"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "PROVENZA",
+        "url": "https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "PROVENZA",
+      "url": "https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "808s & Heartbreak",
+        "url": "https://open.spotify.com/album/3WFTGIO6E3Xh4paEOBY9OU"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heartless",
+      "url": "https://open.spotify.com/track/4EWCNWgDS8707fNSZ1oaA5"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 180705,
+      "name": "Stone Rolling",
+      "url": "https://open.spotify.com/track/6V74LEfuOKN9iz7YinOWpB"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Stereotype",
+        "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 206106,
+      "name": "She Had Me At Heads Carolina",
+      "url": "https://open.spotify.com/track/200x8ONbPfFzByUr3fVz46"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Beautiful Mind",
+        "url": "https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 170126,
+      "name": "Never Get Over Me",
+      "url": "https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
+    },
+    {
+      "added_at": "2022-08-13 11:41:13",
       "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
@@ -789,100 +833,36 @@
       "url": "https://open.spotify.com/track/2MuWTIM3b0YEAskbeeFE1i"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "Certified Lover Boy",
-        "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
+        "name": "RENAISSANCE",
+        "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        },
-        {
-          "name": "Project Pat",
-          "url": "https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc"
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
         }
       ],
-      "duration_ms": 242965,
-      "name": "Knife Talk (with 21 Savage ft. Project Pat)",
-      "url": "https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6"
+      "duration_ms": 225388,
+      "name": "CUFF IT",
+      "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
     },
     {
-      "added_at": "2022-08-12 11:57:26",
+      "added_at": "2022-08-13 11:41:13",
       "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
       },
       "artists": [
         {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
         }
       ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Never Sleep",
-        "url": "https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN"
-      },
-      "artists": [
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 185785,
-      "name": "Never Sleep (with Lil Baby feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Until I Found You",
-        "url": "https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 177720,
-      "name": "Until I Found You",
-      "url": "https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV"
-    },
-    {
-      "added_at": "2022-08-12 11:57:26",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+      "duration_ms": 172672,
+      "name": "HONEST",
+      "url": "https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9"
     }
   ],
   "unique_name": "Top 50 - USA",

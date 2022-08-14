@@ -600,6 +600,24 @@
     },
     {
       "album": {
+        "name": "Beautiful Night",
+        "url": "https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169813,
+      "name": "Beautiful Night",
+      "url": "https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY"
+    },
+    {
+      "album": {
         "name": "FANTASIA X",
         "url": "https://open.spotify.com/album/44BCatQBdneFkyzOVrR0M4"
       },
@@ -3773,7 +3791,7 @@
       ],
       "date_added": "2021-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 207613,
       "name": "Promise U",
       "url": "https://open.spotify.com/track/3S0yfEkrXLpHjcizhj97nf"

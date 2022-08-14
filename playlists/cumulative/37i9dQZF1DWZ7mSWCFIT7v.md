@@ -4,7 +4,7 @@
 
 > Laid back electronic soundscapes rooted in experimental and ambient sensibilities.
 
-258 songs - 21 hr 10 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
+259 songs - 21 hr 12 min - [published](https://open.spotify.com/playlist/6KKCtKWPCrKLZ3W8ZVtimv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Falcon Paradise](https://open.spotify.com/track/24BLbKyr3DlTGeov4Goes7) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Patrimony](https://open.spotify.com/album/7olQu6AkixLOum1nfMkZvf) | 3:19 | 2021-10-06 | 2022-07-28 |
 | [FALLING RIZLAS](https://open.spotify.com/track/2KeaniyEzZlYZzR1qodSso) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [AZD](https://open.spotify.com/album/7BgZb2snTbs5xpRHlQ8VYt) | 2:25 | 2021-10-06 |  |
 | [Felt compute, might delete](https://open.spotify.com/track/4euYmucoRKixWMTtg2Yan7) | [Jas Shaw](https://open.spotify.com/artist/1iYfEUKXzyy3bE2elxuipV) | [Felt compute, might delete](https://open.spotify.com/album/5bVViDPthJW16lx3kO2IS8) | 3:49 | 2021-10-06 |  |
-| [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 |  |
+| [Fern Flowers](https://open.spotify.com/track/60jGfXjxMVaCtuPiDN81qx) | [Lutto Lento](https://open.spotify.com/artist/5u7ZnbVxxcImkr5fx8GJta) | [LEGENDO](https://open.spotify.com/album/62N0giCXIgepaMQl864MIk) | 4:32 | 2021-10-06 | 2022-08-14 |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2022-07-27 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 |  |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 |  |
@@ -209,6 +209,7 @@
 | [Stardust](https://open.spotify.com/track/0WOIqQU4TH6S4PEgiJ9CLD) | [Elision](https://open.spotify.com/artist/4Jgr50VvxX0EFq5fxIoVC0) | [Press Play](https://open.spotify.com/album/0rDJv9F8nPrUNHOUTTgzdJ) | 2:05 | 2021-10-28 | 2022-07-28 |
 | [Storm](https://open.spotify.com/track/2xW20kbtQWko7YKqmlpxl3) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 3:18 | 2021-10-06 | 2022-07-19 |
 | [Street Talk](https://open.spotify.com/track/3oeuuz1IrxQ5ezrJ6seFxC) | [Holodec](https://open.spotify.com/artist/5QGhyDXeg6nwFfYHAXnLS3) | [Street Talk](https://open.spotify.com/album/5kQMsWzWservF6GC2lJ3cv) | 3:49 | 2021-10-06 |  |
+| [Summer Lawns](https://open.spotify.com/track/4GE1Okvtqjm2t2mn5uyBvj) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Summering \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aNN72v2ecOv6BamVhhWp4) | 1:28 | 2022-08-13 |  |
 | [Summer Places](https://open.spotify.com/track/5soyEYI9op1hiyqEhHbtOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk) | [Comma](https://open.spotify.com/album/48WQXkdyIVTEek2TTwXVkt) | 3:43 | 2021-10-06 |  |
 | [Synapse](https://open.spotify.com/track/3iQoEV281XLrAVp9mEVPmV) | [House Of Tapes](https://open.spotify.com/artist/40vP7vx1UAkMTSSGcoalPY) | [Phantom of Eden](https://open.spotify.com/album/17KovENSr872390SmpvK5l) | 5:04 | 2022-02-12 | 2022-07-28 |
 | [Syringe II](https://open.spotify.com/track/2zK9mCkOMGdBwNB6kgyPCb) | [Body Boys](https://open.spotify.com/artist/0c8Kfkhh7R6J19IbSWCLXz) | [Terms](https://open.spotify.com/album/1g3lCeX10xjQFKWv34HVOA) | 5:14 | 2021-10-06 | 2022-07-28 |

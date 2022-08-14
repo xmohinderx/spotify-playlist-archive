@@ -4,7 +4,7 @@
 
 > Get the party going with these classics from across the decades.
 
-223 songs - 14 hr 12 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
+224 songs - 14 hr 16 min - [published](https://open.spotify.com/playlist/4tBOrClKcyYatqHpPJNoHl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/2H3ZUSE54pST4ubRd5FzFR) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/6sbZYwwQB15bt5TgkPFAdb) | 2:31 | 2021-12-16 | 2022-07-29 |
 | [Ain't No Mountain High Enough](https://open.spotify.com/track/7tqhbajSfrz2F7E1Z75ASX) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA), [Tammi Terrell](https://open.spotify.com/artist/75jNCko3SnEMI5gwGqrbb8) | [United](https://open.spotify.com/album/5LqviduT0g0J0ypFrFSwCE) | 2:31 | 2021-12-16 |  |
 | [Ain't No Stoppin' Us Now](https://open.spotify.com/track/6EOdY7I7Xm1vPP1cyaGbWZ) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [Boogie Nights / Music From The Original Motion Picture](https://open.spotify.com/album/4HUntZg0YV0qCvRxmIhq2U) | 3:40 | 2021-12-16 | 2021-12-31 |
+| [All That She Wants](https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9) | [Ace of Base](https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm) | [The Sign](https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB) | 3:31 | 2021-12-16 |  |
 | [American Boy](https://open.spotify.com/track/22UDw8rSfLbUsaAGTXQ4Z8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/5y4Ikuc4sLtNOpanoKKqwo) | 4:44 | 2021-12-16 |  |
 | [American Boy \(feat\. Kanye West\)](https://open.spotify.com/track/41on8RwRh22IHcChAN2gm8) | [Estelle](https://open.spotify.com/artist/5T0MSzX9RC5NA6gAI6irSn), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Shine](https://open.spotify.com/album/4nAIqmKELnBEXEkYg1pMic) | 4:44 | 2021-12-16 | 2022-05-25 |
 | [Are You Ready For Love \- '79 Version Radio Edit](https://open.spotify.com/track/3YdJzolD4HFvWGioELW2pC) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Are You Ready For Love?](https://open.spotify.com/album/1l9jI5f9g2WntXhj84O8YD) | 3:30 | 2021-12-16 | 2022-07-29 |
@@ -68,7 +69,7 @@
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2021-12-16 |  |
 | [Feel the Love \(feat\. John Newman\)](https://open.spotify.com/track/0k73nWaD6RPx2sHFEkGPcn) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [Home](https://open.spotify.com/album/2AOpbitJNMvKhSbsi2YD4F) | 4:05 | 2021-12-16 | 2022-07-29 |
 | [Footloose](https://open.spotify.com/track/6ijK0byhkfjqMQcLrzSIbl) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Clasicos Del Cine](https://open.spotify.com/album/1VWbR5cktfUGFnNGL1WdnM) | 3:39 | 2021-12-16 | 2022-07-29 |
-| [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2021-12-16 |  |
+| [Footloose](https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Yesterday, Today, Tomorrow \- The Greatest Hits Of Kenny Loggins](https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW) | 3:40 | 2021-12-16 | 2022-08-14 |
 | [Footloose \- From "Footloose" Soundtrack](https://open.spotify.com/track/2vz1CsL5WBsbpBcwgboTAw) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW) | [Footloose \(15th Anniversary Collectors' Edition\)](https://open.spotify.com/album/4FZ9s0pelFSliPWhVEWRcC) | 3:46 | 2021-12-16 | 2022-07-28 |
 | [Forget You](https://open.spotify.com/track/6zKMARmU2Ue50cucKnIUR6) | [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8) | [The Lady Killer \(The Platinum Edition\)](https://open.spotify.com/album/3MnOoZGbCDAjLf8jOImSbg) | 3:42 | 2021-12-16 | 2022-07-29 |
 | [Gasolina](https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:12 | 2021-12-16 |  |

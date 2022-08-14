@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent talents are here\. \(Cover: HUNJIYA\) \(프레쉬한 한국의 인디펜던트 아티스트들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,885 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,915 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [OUTGROWN](https://open.spotify.com/track/6qNFeGOQt4gj57V4B2b6WW) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 4:16 |
 | 2 | [Evergray](https://open.spotify.com/track/2ZbthnkJONdgLLFyjwLeoo) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 4:05 |
 | 3 | [GO!DO!RIGHT!](https://open.spotify.com/track/6e9W7Eo6I34JgJW5ZiXz26) | [O.O.O](https://open.spotify.com/artist/0YMpM4y1fUUHhBLFnYVOaD) | [BLUE](https://open.spotify.com/album/3ZPTjzyy3cmbKp8lLT2SNi) | 4:02 |
-| 4 | [눈을 감고 싶어요](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Hope](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 |
+| 4 | [Hope](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Share Your Heart](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 |
 | 5 | [It's all my fault](https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [It's all my fault](https://open.spotify.com/album/26d67oV1i2jC3LX1PWOHHP) | 3:59 |
 | 6 | [GREEN](https://open.spotify.com/track/3gpLvfmxRFV7HjnC4iQPFb) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [GREEN](https://open.spotify.com/album/4V2QOe9G0YV5vXLHfY6b7J) | 2:54 |
 | 7 | [Fly](https://open.spotify.com/track/4kGovia8fjU4qTZp3mNMqX) | [Joyce Yoo](https://open.spotify.com/artist/4F0bWVpeEobe1Rtg9cIf5P) | [Fly](https://open.spotify.com/album/3wrxwHVd5In6JwAyQil9Rp) | 2:58 |

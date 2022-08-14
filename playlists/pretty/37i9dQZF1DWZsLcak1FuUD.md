@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 
 > Fue durante los '70 que el Rock se manifestó como un gigante a nivel mundial\. Argentina no fue la excepción\.  Foto: <a href="spotify:artist:10vtHOCA3qPLmrGylgO2F1">Manal</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,320 likes - 55 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,330 likes - 55 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,9 +24,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 14 | [Mañana por la Noche](https://open.spotify.com/track/6gWplVwr7ta6vpp2DSCo96) | [Color Humano](https://open.spotify.com/artist/6AETRCQep85mUtIlX7BaFV) | [Color Humano](https://open.spotify.com/album/0iEUyTKuM2Nhi3ehAbwYmH) | 2:52 |
 | 15 | [Viento, Dile a la Lluvia](https://open.spotify.com/track/5Qz4D3NixycveVWlTgksDn) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Viento Dile a la Lluvia](https://open.spotify.com/album/2z1Mp2nXoOHfcI3biDXS8h) | 2:49 |
 | 16 | [El Momento En Que Estás](https://open.spotify.com/track/45X4LNePuohdGmuLxpf6oO) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [Cuero Caliente](https://open.spotify.com/album/4mM0WL1bhWu1AUggznW2tN) | 3:42 |
-| 17 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
+| 17 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
 | 18 | [Cantata de Puentes Amarillos](https://open.spotify.com/track/7BCQ7bfdNpCdLmlvEGUfSG) | [Pescado Rabioso](https://open.spotify.com/artist/3q1NXsv9XypOUCJfEatXH9) | [Artaud](https://open.spotify.com/album/5MJR9j21vjEi4ODxzhvoTA) | 9:07 |
-| 19 | [Mañana Campestre](https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L) | [Arco Iris](https://open.spotify.com/artist/1fl6UrQ5p2aQQwKfkrPNpW) | [Tiempo de Resurrección](https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM) | 2:49 |
+| 19 | [Maribel Se Durmió](https://open.spotify.com/track/5BaqCOW8FaahrXIRIvU6Ad) | [Spinetta Jade](https://open.spotify.com/artist/3WxVICwFDAWMTWH8sELmRe) | [Bajo Belgrano](https://open.spotify.com/album/3pFMaPwaHb6D0EkMtRlaO9) | 2:35 |
 | 20 | [Ayer Nomás](https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5) | [Los Gatos](https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU) | [Los Gatos](https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G) | 2:10 |
 | 21 | [Amor de Primavera](https://open.spotify.com/track/1bvQiT1IglZ3QKIpEHgKeC) | [Tango](https://open.spotify.com/artist/7CSiyutcNoggAxGRxymDHM) | [Tango](https://open.spotify.com/album/1p9tykpcBRGa6lHjviOn9x) | 3:31 |
 | 22 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZsLcak1FuUD.md) - [plain]
 | 44 | [Los Juguetes Y Los Niños](https://open.spotify.com/track/3xNyKcQM5nMB3gY6XDvYpF) | [Vivencia](https://open.spotify.com/artist/65IXQZtLc1OfW8H9YxRFwY) | [Mi Cuarto](https://open.spotify.com/album/5bvtHEGG4MGEGkGTFw1lv6) | 3:57 |
 | 45 | [La marcha de la bronca](https://open.spotify.com/track/1yLrOgpKQpLjfW9yO1j40Y) | [Pedro Y Pablo](https://open.spotify.com/artist/5YDpwWFLxk3wmHBKqAcfiI) | [En vivo](https://open.spotify.com/album/1Z6aEZAVsSppuDJhQmkCne) | 4:04 |
 | 46 | [Avellaneda Blues](https://open.spotify.com/track/2SeUS7JmN0oLjHPHGvDZFA) | [Manal](https://open.spotify.com/artist/10vtHOCA3qPLmrGylgO2F1) | [Manal](https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C) | 5:33 |
-| 47 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
-| 48 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
+| 47 | [Apocalipsis](https://open.spotify.com/track/1BOrWWE3wANOCYFn6p2Z9Y) | [Vox Dei](https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR) | [La Biblia](https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6) | 4:47 |
+| 48 | [Los Delirios del Mariscal](https://open.spotify.com/track/56vhyP9UvLtGYUbeBBxqke) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Los Delirios del Mariscal](https://open.spotify.com/album/1IQKV1zaM2GihjCXjZTdeJ) | 10:03 |
 | 49 | [Alguien Más en Quien Confiar \- '74 Single Version](https://open.spotify.com/track/10F81E1vPGGROdMHyVthSh) | [El Reloj](https://open.spotify.com/artist/4qZeDZdBD3NiWVbkwX2Lpx) | [El Reloj](https://open.spotify.com/album/3xIkQ0YsEyRvjEY1a8KdXc) | 4:02 |
 | 50 | [Sólo le pido a dios](https://open.spotify.com/track/5JNZh5pSVcqgacUDd41rTy) | [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [lV](https://open.spotify.com/album/2NoClUagMc6dN9g3KOm4PQ) | 5:03 |
 | 51 | [Figuración](https://open.spotify.com/track/2ZXPZV2w9KSEH6YXJQwFBP) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 3:32 |
-| 52 | [Todo Tiempo Posible](https://open.spotify.com/track/0aF2ape2b7Tzgo1GLs9re3) | [Crucis](https://open.spotify.com/artist/3PN8odvj48fnALdAsCKG3g) | [Crucis](https://open.spotify.com/album/7q4FDjboZh9zLPRqIxdWng) | 4:06 |
-| 53 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
-| 54 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
-| 55 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
+| 52 | [Envases de Todo](https://open.spotify.com/track/7gIUh5iGYpTagqtq74hvs0) | [David Lebón](https://open.spotify.com/artist/48Idb5uZga8diRAMTc9q3E) | [David Lebon](https://open.spotify.com/album/2sVpQXYG4nKgpJ5F3Q84RC) | 7:11 |
+| 53 | [En El Hospicio](https://open.spotify.com/track/6NZ2OTfVCJ9rf6hm6tpJxh) | [Pastoral](https://open.spotify.com/artist/3budmcJD4fTyytFVDp5lud) | [Oro](https://open.spotify.com/album/67TJF7Es43tCAfZtWv5kiq) | 3:37 |
+| 54 | [La Casa De La Mente](https://open.spotify.com/track/4o4LVmNCWYAisLF8j9yc69) | [Espiritu](https://open.spotify.com/artist/5QH5oyyvZkvgzAiENV3tph) | [Crisálida](https://open.spotify.com/album/373aJj6wGlb49JD46Qhh7Q) | 6:55 |
+| 55 | [Se Ama O No Se Ama](https://open.spotify.com/track/7sYM4xTvfR0N3UkRT9n7Vp) | [La Cofradia De La Flor Solar](https://open.spotify.com/artist/5wkCcDqHUaJbR79G5rEEpL) | [La Cofradía De La Flor Solar](https://open.spotify.com/album/13AoE3gnX1NjlEmlNZmhUR) | 4:26 |
 
-Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMDUwOTMxM2VjZjk5ZDQ1NzY1OTE0NjhjYjQ3NWI5ZTBm`
+Snapshot ID: `MTU4MjczNDMyMiwwMDAwMDAwMGMzZmIyNDRjZTA5M2VmZTMzMWViZDNjNDE2YmEyZmQx`

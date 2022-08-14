@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 4931,
+  "num_followers": 4995,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDE1NSwwMDAwMDAwMDFmNjg1MmFkYmEzYzhmZmVmZWQ4NmQ3ZjliNmQ2MjBi",
+  "snapshot_id": "MTY2MDMzMDE1NSwwMDAwMDAwMDVjN2QzZjM2NzNkNGRiYTliNmM4N2Y1OGI1OWUyNTYx",
   "tracks": [
     {
       "added_at": "2022-08-12 18:49:15",
@@ -423,6 +423,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Waiting For",
+      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
         "name": "bag on you",
         "url": "https://open.spotify.com/album/2q2XkVA3ktdA6pB8ycotcg"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 144545,
       "name": "bag on you",
       "url": "https://open.spotify.com/track/51crTtY8DcxVclj75pbRHg"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Waiting For",
-      "url": "https://open.spotify.com/track/3Ql4eE1qDzuhZVnE8jyjdt"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -547,26 +547,18 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "ROOM SERVICE",
-        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
+        "name": "Neo Seoul",
+        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
       },
       "artists": [
         {
-          "name": "GroovyRoom",
-          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
-        },
-        {
-          "name": "Leellamarz",
-          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
-        },
-        {
-          "name": "Moon Sujin",
-          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+          "name": "twlv",
+          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
         }
       ],
-      "duration_ms": 185729,
-      "name": "Pick up your phone (Feat. MOON)",
-      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
+      "duration_ms": 195891,
+      "name": "Excuses",
+      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -603,18 +595,26 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Neo Seoul",
-        "url": "https://open.spotify.com/album/6AsgC7JCztk4Nsy9OEtNDQ"
+        "name": "ROOM SERVICE",
+        "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
       "artists": [
         {
-          "name": "twlv",
-          "url": "https://open.spotify.com/artist/7hKH0uNhhgWJCumCtKMYey"
+          "name": "GroovyRoom",
+          "url": "https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB"
+        },
+        {
+          "name": "Leellamarz",
+          "url": "https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0"
+        },
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
         }
       ],
-      "duration_ms": 195891,
-      "name": "Excuses",
-      "url": "https://open.spotify.com/track/00BGwxNgdsGLcidUl6eUgc"
+      "duration_ms": 185729,
+      "name": "Pick up your phone (Feat. MOON)",
+      "url": "https://open.spotify.com/track/5FMPLl79EfOnRZ4xn2Mck0"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -671,26 +671,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "unorthodox",
-        "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
-      },
-      "artists": [
-        {
-          "name": "Devine Channel",
-          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 168160,
-      "name": "Being True (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/0LDZY13bnHSWjEsw3iskTW"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "Stranger",
         "url": "https://open.spotify.com/album/64u3D3rw0zxNkLVcFcPCQ6"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 267330,
       "name": "ROSE (feat. Skinny Brown, Homeboy)",
       "url": "https://open.spotify.com/track/1CB7xt4rCsyh0RY2eKA2oH"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "unorthodox",
+        "url": "https://open.spotify.com/album/5MJPZCUrHxSBPIsZif1frd"
+      },
+      "artists": [
+        {
+          "name": "Devine Channel",
+          "url": "https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 168160,
+      "name": "Being True (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/0LDZY13bnHSWjEsw3iskTW"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 141355,
-      "name": "DADDY",
-      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "mojo",
         "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+      "duration_ms": 141355,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/2638VL0O0p4sB7BcQoxC2f"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -835,6 +819,22 @@
       "duration_ms": 160443,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1ajvACz9W0uiWr6gIEI4n1"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -899,6 +899,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
         "name": "XYZ",
         "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 194645,
       "name": "Te Quiero(feat.BIBI)",
       "url": "https://open.spotify.com/track/1CxgsJPNnz5X3j92ky5mie"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
-        "name": "I'M LOVIN' AMY",
-        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Murder On The Dance Floor",
-      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
     },
     {
       "added_at": "2022-08-12 18:49:15",

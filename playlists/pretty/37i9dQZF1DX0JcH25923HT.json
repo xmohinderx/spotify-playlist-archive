@@ -1,12 +1,12 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 233585,
+  "num_followers": 233943,
   "original_name": "Trap Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDcxMjgyOSwwMDAwMDAwMGUxZmU2MDg4YzViNTBjZDE2ZDM1OWE1YTJjYWM3ODhj",
+  "snapshot_id": "MTY1NDcxMjgyOSwwMDAwMDAwMGEzMzdhM2M4YWZhMWVmNTdmMjljNDRhODk2NzU1Njg5",
   "tracks": [
     {
       "added_at": "2022-06-08 18:27:09",
@@ -311,26 +311,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Si Tu Novio Te Deja Sola",
-        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243560,
-      "name": "Si Tu Novio Te Deja Sola",
-      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "No Te Hagas",
         "url": "https://open.spotify.com/album/5z6CpoA90Y3xIZC45maoYu"
       },
@@ -347,6 +327,26 @@
       "duration_ms": 233250,
       "name": "No Te Hagas",
       "url": "https://open.spotify.com/track/5hKjEpYrJIJs6uPl7zw6Y6"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Si Tu Novio Te Deja Sola",
+        "url": "https://open.spotify.com/album/3bp5wUKcfBhrqCACidyPKa"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243560,
+      "name": "Si Tu Novio Te Deja Sola",
+      "url": "https://open.spotify.com/track/2joKSGkqac0LIwYG9Ghrwq"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -795,26 +795,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Vas a Querer Volver (feat. Ne\u00f1go Flow)",
         "url": "https://open.spotify.com/album/4fz9Lm8O94dPFo3uga9Cm4"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 305333,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/3qM0vBxIe4VUbK0Z0smuVP"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -995,22 +995,34 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "KHEA: Bzrp Music Sessions, Vol. 34",
-        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
+        "name": "Me Ama Me Odia",
+        "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+          "name": "Revol",
+          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
         },
         {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cosculluela",
+          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
         }
       ],
-      "duration_ms": 198703,
-      "name": "KHEA: Bzrp Music Sessions, Vol. 34",
-      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
+      "duration_ms": 326936,
+      "name": "Me Ama Me Odia",
+      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1039,6 +1051,26 @@
       "duration_ms": 260493,
       "name": "De las 2 (feat. Bad Bunny & Arc\u00e1ngel)",
       "url": "https://open.spotify.com/track/4DS7HoqrKq1dDjeYOKBlu9"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "KHEA: Bzrp Music Sessions, Vol. 34",
+        "url": "https://open.spotify.com/album/4uCvvmrzsCEyLDbBJ1pYww"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 198703,
+      "name": "KHEA: Bzrp Music Sessions, Vol. 34",
+      "url": "https://open.spotify.com/track/7bidsoy3nzCDNYzAzrV7NN"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1075,38 +1107,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Me Ama Me Odia",
-        "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
-      },
-      "artists": [
-        {
-          "name": "Revol",
-          "url": "https://open.spotify.com/artist/2wYOpkTJZGByNEOjEnSmoW"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cosculluela",
-          "url": "https://open.spotify.com/artist/00me4Ke1LsvMxt5kydlMyU"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 326936,
-      "name": "Me Ama Me Odia",
-      "url": "https://open.spotify.com/track/6TZXBJLTIOX6DM6hwCsKw2"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Arriba",
         "url": "https://open.spotify.com/album/0HlvBztJb8mQPHUZqZDHzb"
       },
@@ -1119,26 +1119,6 @@
       "duration_ms": 174642,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/6MOjqs7ngSnZz3J5GZLAfm"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 146106,
-      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
-      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1195,6 +1175,26 @@
       "duration_ms": 259250,
       "name": "Narcos",
       "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+        "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 146106,
+      "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
+      "url": "https://open.spotify.com/track/1MZqHpFyB4j5tFCFNvURou"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Tres Rosas",
-        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
+        "name": "A.D.R.O.M.I.C.F.M.S. 2",
+        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
       },
       "artists": [
         {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        },
+        {
+          "name": "Steve Lean",
+          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
         }
       ],
-      "duration_ms": 163080,
-      "name": "Tres Rosas",
-      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
+      "duration_ms": 191346,
+      "name": "Ready Pa Morir",
+      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1631,38 +1635,18 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "A.D.R.O.M.I.C.F.M.S. 2",
-        "url": "https://open.spotify.com/album/2p9pUKKk5lNjwOY6IbILXu"
+        "name": "Tres Rosas",
+        "url": "https://open.spotify.com/album/6mvvlcmcxcEb5dGRbGPa06"
       },
       "artists": [
         {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        },
-        {
-          "name": "Steve Lean",
-          "url": "https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T"
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 191346,
-      "name": "Ready Pa Morir",
-      "url": "https://open.spotify.com/track/6kFpUyaEiuKriL9bhHLZqR"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Homerun",
-        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 222376,
-      "name": "Condenado Para El Mill\u00f3n",
-      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
+      "duration_ms": 163080,
+      "name": "Tres Rosas",
+      "url": "https://open.spotify.com/track/2r1Ovp2SgP1ybHNbbEAg1S"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1679,6 +1663,22 @@
       "duration_ms": 179078,
       "name": "Es Mejor",
       "url": "https://open.spotify.com/track/6HSnLmg25CFVozSlimAzF4"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Homerun",
+        "url": "https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 222376,
+      "name": "Condenado Para El Mill\u00f3n",
+      "url": "https://open.spotify.com/track/5VIlWNT4PbYNoZLwVNz4lk"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1799,22 +1799,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Nivel",
-        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
+        "name": "Gan-Ga (Remix)",
+        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
       },
       "artists": [
         {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Perdoname Si Llego Tarde",
-      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
+      "duration_ms": 193363,
+      "name": "Gan-Ga - Remix",
+      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1843,38 +1843,22 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "Gan-Ga (Remix)",
-        "url": "https://open.spotify.com/album/5P7PAnKAqVcczk8v9m23HK"
+        "name": "Nivel",
+        "url": "https://open.spotify.com/album/7bZWvSg4dNNFWBfiWKOgzS"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 193363,
-      "name": "Gan-Ga - Remix",
-      "url": "https://open.spotify.com/track/27qRmG3zOWPvMYUkpPdQ1g"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Condiciones",
-        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Condiciones",
-      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
+      "duration_ms": 192000,
+      "name": "Perdoname Si Llego Tarde",
+      "url": "https://open.spotify.com/track/4YvVZba3sBU3qLI7I6TVWD"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -1931,6 +1915,42 @@
       "duration_ms": 451343,
       "name": "La Ocasi\u00f3n - Remix",
       "url": "https://open.spotify.com/track/1M9gupJZxS3LdK8R6UZfYH"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Condiciones",
+        "url": "https://open.spotify.com/album/2MoqqHx26J401BHrqqWNeY"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Condiciones",
+      "url": "https://open.spotify.com/track/2xcaABUXHZ5WNc6TtmghbX"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "#Ysya2020 Vol. 5 - Silbando",
+        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "CLUB HATS",
+          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+        }
+      ],
+      "duration_ms": 119438,
+      "name": "#Ysya2020 Vol. 5 - Silbando",
+      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2003,22 +2023,30 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "#Ysya2020 Vol. 5 - Silbando",
-        "url": "https://open.spotify.com/album/7cQuRxvG0SivoV6YCyrJY5"
+        "name": "La Oscuridad",
+        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
       },
       "artists": [
         {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "CLUB HATS",
-          "url": "https://open.spotify.com/artist/3Nk2mAv4k4ZOzrP5tpXL2G"
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Almighty",
+          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
         }
       ],
-      "duration_ms": 119438,
-      "name": "#Ysya2020 Vol. 5 - Silbando",
-      "url": "https://open.spotify.com/track/6TI490muJ6RgFsYJc626BZ"
+      "duration_ms": 304733,
+      "name": "Ojala",
+      "url": "https://open.spotify.com/track/6KhcjdFnuQ6g6QUDnGEKPF"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2071,34 +2099,6 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
-        "name": "La Oscuridad",
-        "url": "https://open.spotify.com/album/38QMtmbbl4jdpeQ29I8vMB"
-      },
-      "artists": [
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Ojala",
-      "url": "https://open.spotify.com/track/6KhcjdFnuQ6g6QUDnGEKPF"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
         "name": "Po' encima (feat. Bryant Myers)",
         "url": "https://open.spotify.com/album/2Z1xWYZFxCz2QNIVpAZ3xf"
       },
@@ -2115,26 +2115,6 @@
       "duration_ms": 211408,
       "name": "Po' encima (feat. Bryant Myers)",
       "url": "https://open.spotify.com/track/7sWdGtYvzlzuQRAoZ7fGeO"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
-        "url": "https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
-        }
-      ],
-      "duration_ms": 142857,
-      "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
-      "url": "https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2175,6 +2155,26 @@
     {
       "added_at": "2022-06-08 18:27:09",
       "album": {
+        "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
+        "url": "https://open.spotify.com/album/5VZx3dyGCnrp2JUQMbmi27"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        }
+      ],
+      "duration_ms": 142857,
+      "name": "Seven Kayne: Bzrp Music Sessions, Vol. 33",
+      "url": "https://open.spotify.com/track/5PmK5pRspJq5ki30zgyv7G"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
         "name": "Carbon Fiber Hits",
         "url": "https://open.spotify.com/album/2Uld8jdkYagsj9j7xBom0T"
       },
@@ -2203,34 +2203,6 @@
       "duration_ms": 260706,
       "name": "Tr\u00e9pate",
       "url": "https://open.spotify.com/track/6wwylfCbdEALetNADibzUz"
-    },
-    {
-      "added_at": "2022-06-08 18:27:09",
-      "album": {
-        "name": "Jimmy Fallon (Remix)",
-        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
-      },
-      "artists": [
-        {
-          "name": "Lucho SSJ",
-          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
-        }
-      ],
-      "duration_ms": 242376,
-      "name": "Jimmy Fallon - Remix",
-      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
     },
     {
       "added_at": "2022-06-08 18:27:09",
@@ -2295,6 +2267,34 @@
       "duration_ms": 306946,
       "name": "Tacos Altos",
       "url": "https://open.spotify.com/track/66pK7thQ0yw1xlqw8AQSlw"
+    },
+    {
+      "added_at": "2022-06-08 18:27:09",
+      "album": {
+        "name": "Jimmy Fallon (Remix)",
+        "url": "https://open.spotify.com/album/6ZodluiJtgoZDLMRnv8VkW"
+      },
+      "artists": [
+        {
+          "name": "Lucho SSJ",
+          "url": "https://open.spotify.com/artist/1OBizG9nrnHJkrL9NjnWYN"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 242376,
+      "name": "Jimmy Fallon - Remix",
+      "url": "https://open.spotify.com/track/3oyOEGQXpwXVwLSZb088bJ"
     },
     {
       "added_at": "2022-06-08 18:27:09",

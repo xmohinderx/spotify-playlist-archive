@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbTERrLjYkP.md) - [plain]
 
 > Discover the next wave of talent on the scene writing their own songs\. Cover: Genevieve Stokes
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,007 likes - 82 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,112 likes - 82 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Habits](https://open.spotify.com/track/4UGvqm3e7UElrrriPtnhwz) | [Genevieve Stokes](https://open.spotify.com/artist/2uaMjmR0IE0K3oKTQrNZVQ) | [Habits](https://open.spotify.com/album/4KKuhABzFkGE9UAucodfUo) | 2:16 |
 | 2 | [On The Drive Home](https://open.spotify.com/track/5HXQI1AJwzmnxLVm7BW1kV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/7gK4I6eM9fYJCfq4IeHx1t) | 4:16 |
 | 3 | [Love Me Back](https://open.spotify.com/track/6gbk2Uxer4YJ1uJ9TKt9EI) | [Bebe Stockwell](https://open.spotify.com/artist/2KPSR6XA83w8XYrwWekhA9) | [Love Me Back](https://open.spotify.com/album/3FSnxrJFGEaDSo0pddtkbh) | 2:28 |
-| 4 | [Monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [Monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
+| 4 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 5 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
 | 6 | [used to love girls](https://open.spotify.com/track/6g8H6zcEjkQKoKrorN92h7) | [nobody likes you pat](https://open.spotify.com/artist/7pxMZWBZWMMRH3USeGtu1I) | [used to love girls](https://open.spotify.com/album/1aCojGKRcnIPz5XvokeKkX) | 3:10 |
 | 7 | [Inevitable](https://open.spotify.com/track/16aUfGKznCQHHi00xCFy6v) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [You Might Not Like Her \(Clean\)](https://open.spotify.com/album/1qZD8GiN2m2wxydGdXHpYT) | 3:22 |

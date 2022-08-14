@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4aaDnIu6X4bZwMQ2yc4YAg">Emily Falvey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52 likes - 66 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - ??? likes - 66 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 21 | [Ghost Of My Past](https://open.spotify.com/track/0zDftqIhxEhl9AfGiCvgGh) | [Vicetone](https://open.spotify.com/artist/0daugAjUgbJSqdlyYNwIbT), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Legacy](https://open.spotify.com/album/6NnwmqK1adZp3yXObpoD0W) | 3:36 |
 | 22 | [Numb](https://open.spotify.com/track/17XexdiAjHvTdNj24ayQle) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [FOSTER](https://open.spotify.com/artist/4wl3djIA2tCPxv3pH7Rs0M) | [Numb](https://open.spotify.com/album/1MSGqY6VGYPektAZVtGosL) | 3:34 |
 | 23 | [Side Of My Heart](https://open.spotify.com/track/1Ek06P8GYs1HF5ePUsW0mx) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Side Of My Heart](https://open.spotify.com/album/23EzioEmU2OX3sZOi6YgJb) | 3:13 |
-| 24 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
-| 25 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 |
+| 24 | [8 Months](https://open.spotify.com/track/34FV8dxL8QyrVgRPzB6Qzf) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [8 Months](https://open.spotify.com/album/78e0sWg0gWKZ9UaQmb6ZlT) | 2:40 |
+| 25 | [I Didn't Love You](https://open.spotify.com/track/0PgPGluNJgg4Tzy9sTmTeq) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [I Didn't Love You](https://open.spotify.com/album/0pdfobBNkrXR21XW204Sws) | 2:59 |
 | 26 | [lose a friend](https://open.spotify.com/track/0Cw21zwpYtEsRtX1ahlC5O) | [Nightly](https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3) | [night, love you.](https://open.spotify.com/album/58J1HN0dJl1pkTwu1YGJSq) | 3:07 |
 | 27 | [Girl Wonder](https://open.spotify.com/track/2g3vOIC3J9uYfSu6yi74rI) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Girl Wonder](https://open.spotify.com/album/4kUyEMsQ4Ho1TkwPln0h6w) | 3:02 |
 | 28 | [Hope](https://open.spotify.com/track/096ZnSaLLYkslAd9oVXtp4) | [Texada](https://open.spotify.com/artist/39PgoLIR1mXfy0AktyYumn) | [Hope](https://open.spotify.com/album/6cHlVeJ95y7fhhaSjARwyN) | 3:33 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 30 | [Mean To Me](https://open.spotify.com/track/0UzuBW8HXoez3hmI1AoN3J) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 3:01 |
 | 31 | [Same Team](https://open.spotify.com/track/52MFjMbUfxVJw3N1Ue7aQR) | [Josh Kerr](https://open.spotify.com/artist/7tnICxEQkOML369POsUizq) | [Wild Thing](https://open.spotify.com/album/33RnkjYAI2ltETjA3EIAZI) | 2:54 |
 | 32 | [Outdoor Voices](https://open.spotify.com/track/57JCpf5iUwSLpdQxe9ORWb) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Love, Kylie](https://open.spotify.com/album/6Ab0rIJ0ydHvziPeeLE5e6) | 3:00 |
-| 33 | [Power Suit](https://open.spotify.com/track/09dlKExc85wtU719kpctK4) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Power Suit](https://open.spotify.com/album/58od0srS1llhodqjGlFup8) | 2:18 |
-| 34 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
+| 33 | [I'm Sorry](https://open.spotify.com/track/3TOIDYFbn2NJYZhUHW4Q6j) | [Taylor Edwards](https://open.spotify.com/artist/2LMvoFcHZ0G38iO4Jra8ki) | [Born in July](https://open.spotify.com/album/3Y22F7f6OISIYwTirf2E6R) | 2:43 |
+| 34 | [Power Suit](https://open.spotify.com/track/09dlKExc85wtU719kpctK4) | [Caroline Romano](https://open.spotify.com/artist/1MgbE6bu4MzbVLfAesPRol) | [Power Suit](https://open.spotify.com/album/58od0srS1llhodqjGlFup8) | 2:18 |
 | 35 | [Never Now](https://open.spotify.com/track/2gSFr15E0Mv4cI6dhZJLWs) | [Elephants Everywhere](https://open.spotify.com/artist/6BWEZz5zvfJGBjJZhlAWM5), [Emily Falvey](https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi) | [Never Now](https://open.spotify.com/album/4k7wUy1wwoaIRvkMbbekNu) | 3:32 |
 | 36 | [Time for You](https://open.spotify.com/track/6alla5DflGEfEWnvVSnOJM) | [Lindsay James](https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz) | [Time for You](https://open.spotify.com/album/4VoczVespp2I2Sf0348Qbg) | 2:49 |
 | 37 | [Trust Issues](https://open.spotify.com/track/0MdlrWJAGxGXEC4qQCEZHP) | [Jackie Castro](https://open.spotify.com/artist/6blpGtm31QFko8NcqeOxvN) | [Thank you for your patience.](https://open.spotify.com/album/2OkKCOuivjuzskcq7kqDNB) | 3:28 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 47 | [die 4 u](https://open.spotify.com/track/7k8IcQsuJAPtWI6QNCdSx3) | [Livy Jeanne](https://open.spotify.com/artist/0BBr2UBxbwwmG9yLEr8mR5) | [die 4 u](https://open.spotify.com/album/7Bw4ZLyMlGiihatI3VUQq9) | 2:53 |
 | 48 | [Bad for Me](https://open.spotify.com/track/27W6Mlh7dZaNuWQaXaoe5H) | [Sarah Allison Turner](https://open.spotify.com/artist/5HKrm4aihaeEPAezAxT24Z) | [Bad for Me](https://open.spotify.com/album/3mCCEf1n16Rrjclrw2S3jB) | 3:22 |
 | 49 | [LONELY PLACE](https://open.spotify.com/track/4aQ1hgPKHr74xqQUUwAour) | [Josie Dunne](https://open.spotify.com/artist/2KgFtUjEtayfuximKppSAq) | [EPISODE 5: DUMB / LONELY PLACE](https://open.spotify.com/album/63ygNpVZyoKuUoDMdzDDqb) | 1:03 |
-| 50 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
-| 51 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 50 | [That Was All You](https://open.spotify.com/track/4OuDH82pXLHUcrO5prgVNA) | [Alana Springsteen](https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy) | [History of Breaking Up \(Part Two\)](https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW) | 2:55 |
+| 51 | [The Truth](https://open.spotify.com/track/1iEBtGIwux7Z91TkCzbDV7) | [Eloise Alterman](https://open.spotify.com/artist/6fwUdydSdIHu9NHHTCDYc0) | [The Truth](https://open.spotify.com/album/7uTgWHct2uQraEWN3IXLuv) | 3:03 |
 | 52 | [There Goes My Heart](https://open.spotify.com/track/3PBjyEIhY26g5wByX9lDBt) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [There Goes My Heart](https://open.spotify.com/album/7h2JwEdU03S7OoTasIdhWx) | 2:32 |
 | 53 | [Miss It Now \(For Sarah\)](https://open.spotify.com/track/5PpehEZDyUuDn9Kq3SkATF) | [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Miss It Now \(For Sarah\)](https://open.spotify.com/album/1xGWc24fUFh0QtXmCfQvSG) | 2:30 |
 | 54 | [Personal](https://open.spotify.com/track/3DCu17yxNOj44wpNg9h3YT) | [Summer Overstreet](https://open.spotify.com/artist/73z6hYt1jsBWSbm2irWqlz) | [Personal](https://open.spotify.com/album/5PSkXaHWqp6xQZMQvDJ74b) | 2:54 |
@@ -75,4 +75,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJilMkRJCY5M.md) - [plain]
 | 65 | [Are We Still Good](https://open.spotify.com/track/1E4lKGhLeldkoBiocnsptN) | [Forrest Finn](https://open.spotify.com/artist/4CHpwd1pdYUKJaGKbElg3m) | [Spotlight](https://open.spotify.com/album/7uj8AZOnobHVP6GEwGlCj0) | 2:57 |
 | 66 | [Parallel Universe](https://open.spotify.com/track/7Bjeh8lHQZMolHSm4kX2Ie) | [Navyhue](https://open.spotify.com/artist/1ab6W5waGBlE1nmkVtLdX5) | [Parallel Universe](https://open.spotify.com/album/00zC5ot02HOcq5pf9odGIw) | 3:32 |
 
-Snapshot ID: `Mjc2NzI1NjMsMDAwMDAwMDAyNTlmOTRlN2QwZTNiMWZkM2M3NTc5YWIwOTU4ODEyZQ==`
+Snapshot ID: `Mjc2NzQwMDMsMDAwMDAwMDA4YjcxODgwYTQ2ZjlkZDM5ODQyNDk0YjI5ZGM3M2ZjOQ==`

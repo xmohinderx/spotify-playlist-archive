@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > 신곡 배달! The freshest K\-Pop releases are here! \(Cover: TRI.BE \(트라이비\)\) \(신선한 국내 최신곡들을 플레이리스트로 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,905 likes - 110 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,066 likes - 110 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 17 | [Darling You](https://open.spotify.com/track/3j4QD9uSev2Uh1DeFMdMml) | [Bernard Park](https://open.spotify.com/artist/53Yqe3arWNbYQCw4kk1Qmv) | [ADAMAS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/6dYluyaRdoGCOONJcEOa1k) | 2:29 |
 | 18 | [Way to go \(feat\. MNZU\)](https://open.spotify.com/track/3a3LtRGfpGZenE5lS0gEiP) | [Herz Analog](https://open.spotify.com/artist/35qf2lYforklQasGTtc3Uw), [MNZU](https://open.spotify.com/artist/1juqEV8as6kKzFY3bKSmP9) | [Way to go \(feat\. MNZU\)](https://open.spotify.com/album/5r6YyNnljv5XpJDQMEkWga) | 3:45 |
 | 19 | [localized heavy rain](https://open.spotify.com/track/45mQsmDCpcaauiPnjWtRJJ) | [Bada](https://open.spotify.com/artist/18IwGkcIzn689YpIkzEKZj) | [localized heavy rain](https://open.spotify.com/album/0e4fsfgSp8RfdrOwc2FWrI) | 4:00 |
-| 20 | [눈을 감고 싶어요](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Hope](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 |
+| 20 | [Hope](https://open.spotify.com/track/2fjB4nrW8yaDvaDddhO06a) | [Zayvo](https://open.spotify.com/artist/0FmgnSatLqM7wQPSkdTN3g) | [Share Your Heart](https://open.spotify.com/album/2R7KBtvoygAaNAbQXmGDQ8) | 2:40 |
 | 21 | [TEAM NY In The House \(Feat\. PUFF DAEHEE\)](https://open.spotify.com/track/54h9zrzO1pw5EdOwKV4dCO) | [TEAM NY](https://open.spotify.com/artist/6l1aV2YBZdFqWnNlsobpl7), [PUFF DAEHEE](https://open.spotify.com/artist/3JZuQV3uJJtoDkkWDNt1oJ) | [TEAM NY In The House](https://open.spotify.com/album/2UmGWWFcYHCzPijx7zKEgu) | 4:09 |
 | 22 | [It's all my fault](https://open.spotify.com/track/2ScIOszpvKuJvIJwd0Ywkf) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [It's all my fault](https://open.spotify.com/album/26d67oV1i2jC3LX1PWOHHP) | 3:59 |
 | 23 | [Run It Up](https://open.spotify.com/track/3HP3szYNBsm3gCp9qpxQdM) | [Black Velvet Feel](https://open.spotify.com/artist/6AvvVmtC7n2FXjabXELjhu) | [Run It Up](https://open.spotify.com/album/6NAgG13go8R9J8Eor9qyf4) | 2:44 |

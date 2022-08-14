@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Rafael Cerato, Teologen
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,266 likes - 74 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,461 likes - 74 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 53 | [Just Stay](https://open.spotify.com/track/2xerM05DvoPwjjU7A6Nf6E) | [Carbon](https://open.spotify.com/artist/5BSvQ8klrDFPpCJ3TujFoK), [Lampe](https://open.spotify.com/artist/7hvD2Cs8fbF3HvhQCmV3xq) | [Just Stay](https://open.spotify.com/album/3ICIxhIjalYHcf1slfsD64) | 6:12 |
 | 54 | [Dance Or Die](https://open.spotify.com/track/0bf5Jsf2DzO8TXuV5eEDPE) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Dance Or Die](https://open.spotify.com/album/02dDeBJv14dvvF6p4kXVlR) | 6:16 |
 | 55 | [Escape](https://open.spotify.com/track/4zkR0zQIgQfQGh8Hufmm0c) | [Dubfire](https://open.spotify.com/artist/3bVYqr2NfmwmL4YJisWhJI) | [Escape / Elevation](https://open.spotify.com/album/6nF9JgIDYCtHZPgz3wGT8o) | 6:36 |
-| 56 | [BREAKFREE](https://open.spotify.com/track/1KuZJnjq1NgqcoQrb8YIwG) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/5EJbNyAQu7cG3AgmLugwbY) | 5:43 |
+| 56 | [BREAKFREE](https://open.spotify.com/track/6OY9l4YUOyaDCMHI51PCqB) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw) | [MY VOICE MY WEAPON OF CHOICE](https://open.spotify.com/album/1wnWYFIRM8UmWB56ONiOSw) | 5:43 |
 | 57 | [In Trance](https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL) | [Dominik Saltevski](https://open.spotify.com/artist/5SRcKErsuBLiDZDfFtOBGN) | [In Trance](https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7) | 5:57 |
 | 58 | [Game Changer](https://open.spotify.com/track/4aDDTscnZVexyySUwxrZT8) | [Tom Wax](https://open.spotify.com/artist/1b0WGyps7QC5KqSSq57wXX) | [Game Changer](https://open.spotify.com/album/5G1gCcY4K6dDeXdChh6JOE) | 6:10 |
 | 59 | [Be The Change](https://open.spotify.com/track/4aibXK1Ions27oyqdJLkVf) | [concious](https://open.spotify.com/artist/7AZKqpYQSQoUoylF3cIJ37) | [Be The Change](https://open.spotify.com/album/2p5EwIEGE8bKVGqr2QcdWC) | 4:01 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 73 | [Autobahn](https://open.spotify.com/track/3S3ApUC98oFhwIpHAg1JVo) | [Earth Boys](https://open.spotify.com/artist/03CK8N8CSSPg3ZFEmkGCpR) | [Ditties](https://open.spotify.com/album/4jenD9Y7H3fiRsxV7HZkto) | 4:38 |
 | 74 | [Pájaros en Verano](https://open.spotify.com/track/13T0NsBgMUpCQIPvpEWWTq) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T), [DJ Python](https://open.spotify.com/artist/1LoZxxInSyuVFKSMAB4BPl) | [Pájaros en Verano](https://open.spotify.com/album/2LZp9KgxfRodgUI4NbKvWS) | 3:16 |
 
-Snapshot ID: `MTY2MDMwNTM4MCwwMDAwMDAwMDM5NTczNjQ1ZDQxYzIzZjc0NDg2YTE2MmU0MjA3NDU2`
+Snapshot ID: `MTY2MDMwNTM4MCwwMDAwMDAwMGY4NzMyNmJhOTllYWFjNGZiY2U5MDk4YmViOGI2MDZj`

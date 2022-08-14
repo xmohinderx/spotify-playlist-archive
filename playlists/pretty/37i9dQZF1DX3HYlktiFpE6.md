@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 
 > Your favorite a cappella music from Pentatonix, the Glee cast, Pitch Perfect, and more\. Just sing it! Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,146 likes - 57 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,165 likes - 57 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 40 | [Set Fire to the Rain](https://open.spotify.com/track/0h5d8MMKGBk0ljzWdGiIdq) | [Cornell Class Notes](https://open.spotify.com/artist/3p4HVb99wOlD2WhALBpCLF) | [Full Disclosure](https://open.spotify.com/album/3zgdIPtEijUbLJW3cXfaLu) | 3:56 |
 | 41 | [Misty Mountains](https://open.spotify.com/track/2Wx6axM4v1d7sjfVFMYtTQ) | [Peter Hollens](https://open.spotify.com/artist/7EIbKyiLnEJ1Y074UIUyZJ) | [Peter Hollens](https://open.spotify.com/album/33UKIAvj9JIi9S1EMimWku) | 4:19 |
 | 42 | [Circle of Life/He Lives in You](https://open.spotify.com/track/4jf7aZoiQScwVWWv3SL1bN) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Circle of Life/He Lives in You](https://open.spotify.com/album/19POZtGrmFmsM5XnkF5Z27) | 3:38 |
-| 43 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
-| 44 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
+| 43 | [Feelin' It](https://open.spotify.com/track/14cikDRwGYOB1UfdA44V4P) | [Home Free](https://open.spotify.com/artist/2MSlGNpwXDScUdspOK6TS7) | [Feelin' It](https://open.spotify.com/album/5tO2dLnLIp7up7epQNTjpI) | 3:02 |
+| 44 | [Halo](https://open.spotify.com/track/5Qm8Ll86HwwH6U2ZLWOINf) | [Pitch Slapped](https://open.spotify.com/artist/7EH7jldX62OIsU1yU1SWE7) | [Voices Only 2011 College A Cappella \(Volume 1\)](https://open.spotify.com/album/4M3HRSFi2ptkuykdTSwFWe) | 4:38 |
 | 45 | [Come Sail Away](https://open.spotify.com/track/2EjZUiVyEobahPyK4oNE90) | [Tufts Beelzebubs](https://open.spotify.com/artist/4VsNVAxuPxZrJMWE2Tprtq) | [Pandæmonium](https://open.spotify.com/album/17o7Zqwk3wNExhfJUWnt5b) | 5:36 |
 | 46 | [Fix You](https://open.spotify.com/track/071wmdZJxlDspBpKNtV0HL) | [Straight No Chaser](https://open.spotify.com/artist/1yQ8S4xdGOGbUcpaPR6hCM) | [With a Twist \(Deluxe\)](https://open.spotify.com/album/2gtkOsq9ayJeySp8VkzuAt) | 4:06 |
 | 47 | [Give Your Heart a Break](https://open.spotify.com/track/2ln351qfbbJuYjUx7gbsAn) | [Anthem Lights](https://open.spotify.com/artist/7kwEvDE8e7EBGKh5bLczqQ) | [Anthem Lights Covers](https://open.spotify.com/album/4q15SF055uWNuLQVLDvcK7) | 3:36 |
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HYlktiFpE6.md) - [plain]
 | 56 | [Wavin' Flag](https://open.spotify.com/track/21i3JjSTPryzlVKNBiWjxE) | [University of Rochester YellowJackets](https://open.spotify.com/artist/5PdBpsZXvnEbbTe1589fMO) | [The Sing\-Off: Season 3: Episode 1 \- Signature Songs](https://open.spotify.com/album/6QOq1vvaRJxVzDFS1GBN3S) | 1:55 |
 | 57 | [Disney's Broadway Is Back Medley](https://open.spotify.com/track/6SYixGuExn9SBVxgoBo5aD) | [DCappella](https://open.spotify.com/artist/0OCEtyF7fdc3UnUovFsvjm) | [Disney's Broadway Is Back Medley](https://open.spotify.com/album/5BysJpeX62fHE7uU4rjXbh) | 2:28 |
 
-Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDNmMDYyMzZlNzI5Zjg5NjMyMmZhOTNiM2FkNThiNmJi`
+Snapshot ID: `MTY0MDMyMjAwMCwwMDAwMDAwMDQ0NTdmN2JmOGZiNmUxNWU4YWM1MzNkODBjNzJhZmY0`

@@ -5423,7 +5423,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 159123,
       "name": "For My Hand (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff"
@@ -6203,7 +6203,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 134400,
       "name": "Go",
       "url": "https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI"
@@ -8071,7 +8071,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 216410,
       "name": "In The Stars",
       "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
@@ -11751,7 +11751,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 155588,
       "name": "Numb",
       "url": "https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL"
@@ -12209,7 +12209,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
@@ -15183,6 +15183,24 @@
       "duration_ms": 178148,
       "name": "SUPA",
       "url": "https://open.spotify.com/track/4gORd3Ws62ueWU2tQ2Fe16"
+    },
+    {
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "album": {

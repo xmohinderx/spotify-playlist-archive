@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and energetic music that helps you stay motivated.",
-  "num_followers": 6425484,
+  "num_followers": 6426756,
   "original_name": "Motivation Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMDQyNzFjMjI1NGM0MjJhODg1MTQyMjhkZGNlZjYzY2M1",
+  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMGRlMzY5MGY1Zjc2ZDY5NWNiZTFlNDA2ZTczMzRkN2Qx",
   "tracks": [
     {
       "added_at": "2022-08-11 22:01:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "OMG",
+        "url": "https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf"
+      },
+      "artists": [
+        {
+          "name": "Broiler",
+          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
+        },
+        {
+          "name": "Sofiloud",
+          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
+        }
+      ],
+      "duration_ms": 168893,
+      "name": "OMG",
+      "url": "https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Do It To It (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 125280,
       "name": "Do It To It - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "OMG",
-        "url": "https://open.spotify.com/album/7eawqlqbnsJrfyUQTJwYyf"
-      },
-      "artists": [
-        {
-          "name": "Broiler",
-          "url": "https://open.spotify.com/artist/3836OTICMPjhTMMcpPw4EC"
-        },
-        {
-          "name": "Sofiloud",
-          "url": "https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm"
-        }
-      ],
-      "duration_ms": 168893,
-      "name": "OMG",
-      "url": "https://open.spotify.com/track/1leQBt3X85aFCucHi4CEYt"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "DARK MATTER",
+        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
+      },
+      "artists": [
+        {
+          "name": "HEDEGAARD",
+          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
+        }
+      ],
+      "duration_ms": 174044,
+      "name": "P.I.M.P. - HEDEGAARD Remix",
+      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Tell Me Secrets",
         "url": "https://open.spotify.com/album/3HWre2IiyyqUclVbnd6PlW"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "DARK MATTER",
-        "url": "https://open.spotify.com/album/03PhHS2Rf06ee9nucQmHhg"
-      },
-      "artists": [
-        {
-          "name": "HEDEGAARD",
-          "url": "https://open.spotify.com/artist/2ZuweXv0TkfsidZOLZZoM2"
-        }
-      ],
-      "duration_ms": 174044,
-      "name": "P.I.M.P. - HEDEGAARD Remix",
-      "url": "https://open.spotify.com/track/5UCxWGNXG4kjBmpftwyctt"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
-      },
-      "artists": [
-        {
-          "name": "Club Soda",
-          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
-        }
-      ],
-      "duration_ms": 138095,
-      "name": "One By One - Radio Edit",
-      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "edamame (feat. Rich Brian) [Diplo Remix]",
         "url": "https://open.spotify.com/album/2pcFjaO7Eouy8DiDV9mmjW"
       },
@@ -1311,6 +1295,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/21vWD0Q7nVEcl3Unv6Mjm5"
+      },
+      "artists": [
+        {
+          "name": "Club Soda",
+          "url": "https://open.spotify.com/artist/1sQ1gegnvsC0r1OVZHMq5r"
+        }
+      ],
+      "duration_ms": 138095,
+      "name": "One By One - Radio Edit",
+      "url": "https://open.spotify.com/track/6kCvQVXRjVmbtZ4k76s4c4"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "No Fun",
         "url": "https://open.spotify.com/album/5MOMnX1NgMpjRD0iAHcttM"
       },
@@ -1327,6 +1327,22 @@
       "duration_ms": 130412,
       "name": "No Fun",
       "url": "https://open.spotify.com/track/3YOZWCREvKsxhcZNJix5xd"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Down For The Ride",
+        "url": "https://open.spotify.com/album/54h5f6arTVEerecJIR9g84"
+      },
+      "artists": [
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 160593,
+      "name": "Down For The Ride",
+      "url": "https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1363,22 +1379,6 @@
       "duration_ms": 186666,
       "name": "Paper Planes",
       "url": "https://open.spotify.com/track/4mrAArfFEIqpH6myouJb03"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Down For The Ride",
-        "url": "https://open.spotify.com/album/54h5f6arTVEerecJIR9g84"
-      },
-      "artists": [
-        {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
-        }
-      ],
-      "duration_ms": 160593,
-      "name": "Down For The Ride",
-      "url": "https://open.spotify.com/track/0L8NzGlH4nmnbOUSg4gO72"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1443,6 +1443,26 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "MAMI",
+        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+      },
+      "artists": [
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        },
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 247896,
+      "name": "MAMI",
+      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "When I'm Gone (with Katy Perry) [VIP Mix]",
         "url": "https://open.spotify.com/album/7Bm6JstkS27sFuX9UPbXfQ"
       },
@@ -1463,22 +1483,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "MAMI",
-        "url": "https://open.spotify.com/album/6fdfCmP6hJg0gqFobszTYB"
+        "name": "I\u2019m Blue (with T-Pain)",
+        "url": "https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ"
       },
       "artists": [
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
         },
         {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
         }
       ],
-      "duration_ms": 247896,
-      "name": "MAMI",
-      "url": "https://open.spotify.com/track/6JjSoJ2laV4ZbKNb9nybvh"
+      "duration_ms": 182586,
+      "name": "I\u2019m Blue (with T-Pain)",
+      "url": "https://open.spotify.com/track/5IztgoHg3NQGep7SjbI5W7"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1507,22 +1527,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "I\u2019m Blue (with T-Pain)",
-        "url": "https://open.spotify.com/album/7EzEjcZPL1ZrnxGFERqKuQ"
+        "name": "079",
+        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
       },
       "artists": [
         {
-          "name": "Softest Hard",
-          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+          "name": "Rain Radio",
+          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
         },
         {
-          "name": "T-Pain",
-          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+          "name": "Block Notice",
+          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
         }
       ],
-      "duration_ms": 182586,
-      "name": "I\u2019m Blue (with T-Pain)",
-      "url": "https://open.spotify.com/track/5IztgoHg3NQGep7SjbI5W7"
+      "duration_ms": 168200,
+      "name": "079",
+      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1547,26 +1567,6 @@
       "duration_ms": 168196,
       "name": "Runaway (with Sigala and JP Cooper)",
       "url": "https://open.spotify.com/track/6tS1Fm9z3UKuLSxrinY3pC"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "079",
-        "url": "https://open.spotify.com/album/717BskCJ1pYenCuIzoEPW6"
-      },
-      "artists": [
-        {
-          "name": "Rain Radio",
-          "url": "https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY"
-        },
-        {
-          "name": "Block Notice",
-          "url": "https://open.spotify.com/artist/60rugLFQWUwxQEAT8ViGzq"
-        }
-      ],
-      "duration_ms": 168200,
-      "name": "079",
-      "url": "https://open.spotify.com/track/1ULaCASWLNrzg76Jt3VDWd"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1607,6 +1607,26 @@
       "duration_ms": 120000,
       "name": "Jenny From The Block",
       "url": "https://open.spotify.com/track/0bZL9EEh4nCiuRomDhMjwT"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "From Paris to Berlin (Chrit Leaf Remix)",
+        "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
+      },
+      "artists": [
+        {
+          "name": "Braaheim",
+          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
+        },
+        {
+          "name": "Chrit Leaf",
+          "url": "https://open.spotify.com/artist/04df2ILEj2H1MUilOCAdx6"
+        }
+      ],
+      "duration_ms": 132712,
+      "name": "From Paris to Berlin (Chrit Leaf Remix)",
+      "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1687,26 +1707,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "From Paris to Berlin (Chrit Leaf Remix)",
-        "url": "https://open.spotify.com/album/6NQEZ6aURGOWm5QxjEMiHo"
-      },
-      "artists": [
-        {
-          "name": "Braaheim",
-          "url": "https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg"
-        },
-        {
-          "name": "Chrit Leaf",
-          "url": "https://open.spotify.com/artist/04df2ILEj2H1MUilOCAdx6"
-        }
-      ],
-      "duration_ms": 132712,
-      "name": "From Paris to Berlin (Chrit Leaf Remix)",
-      "url": "https://open.spotify.com/track/5fJKruTP0DiAFBDesEBR3C"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/4mt2BPMZLEIwHTl4A8oTGb"
       },
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Life Goes On (Alok Remix)",
-        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 157647,
-      "name": "Life Goes On - Alok Remix",
-      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Salvation",
         "url": "https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 187320,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Life Goes On (Alok Remix)",
+        "url": "https://open.spotify.com/album/1U0bfwnhIZaygrKy4X2fX8"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 157647,
+      "name": "Life Goes On - Alok Remix",
+      "url": "https://open.spotify.com/track/7Gwx8Ry5me7Mpd2oRQyikF"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1815,6 +1815,42 @@
       "duration_ms": 146983,
       "name": "Friday",
       "url": "https://open.spotify.com/track/4t5DaUXvdAFahZJtXYGYpH"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "ARIZONA",
+        "url": "https://open.spotify.com/album/4QoSFoqrV492dG1b1zqKh8"
+      },
+      "artists": [
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+        }
+      ],
+      "duration_ms": 131803,
+      "name": "ARIZONA",
+      "url": "https://open.spotify.com/track/3SgTZxicV78GmXYlSnNedh"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1859,22 +1895,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "ARIZONA",
-        "url": "https://open.spotify.com/album/4QoSFoqrV492dG1b1zqKh8"
-      },
-      "artists": [
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
-        }
-      ],
-      "duration_ms": 131803,
-      "name": "ARIZONA",
-      "url": "https://open.spotify.com/track/3SgTZxicV78GmXYlSnNedh"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Talk (feat. Askar and the Ghosts)",
         "url": "https://open.spotify.com/album/50e4v4nOVaI1kVEP1gB1ZU"
       },
@@ -1891,26 +1911,6 @@
       "duration_ms": 177841,
       "name": "Talk (feat. Askar and the Ghosts)",
       "url": "https://open.spotify.com/track/1BIeWq1iSksVIhPcTU8kEx"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -2043,6 +2043,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Step-Grandma",
+        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 160685,
+      "name": "Step-Grandma",
+      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
       },
@@ -2059,22 +2075,6 @@
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Step-Grandma",
-        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 160685,
-      "name": "Step-Grandma",
-      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
     },
     {
       "added_at": "2022-08-11 22:01:00",

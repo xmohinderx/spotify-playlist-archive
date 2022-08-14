@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,139 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,149 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 20 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
 | 21 | [Buenos Días](https://open.spotify.com/track/3cDs4QvgqiEX0fms6Pfg7A) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Subcampeón](https://open.spotify.com/album/0n25eeakMD41p1JUUlUinE) | 4:40 |
 | 22 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 |
-| 23 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
-| 24 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 |
+| 23 | [IR](https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:32 |
+| 24 | [Ganas](https://open.spotify.com/track/1Sr0zBbzovJTg5yxd41CcQ) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Ganas](https://open.spotify.com/album/7hjSVz7TryKxWe8Y4AHZe0) | 4:14 |
 | 25 | [Oro de Abeja](https://open.spotify.com/track/2q3GgW71FqrEfFFtdWC3tJ) | [El Plan De La Mariposa](https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir) | [Estado de Enlace](https://open.spotify.com/album/4wQOcHIqzPgS3dMbXWKy8z) | 3:48 |
 | 26 | [Precipicio](https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Lavandina](https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw) | 4:59 |
 | 27 | [Todas las Flores de Enero](https://open.spotify.com/track/1hewNRg4E4KU8r7LV2eu9x) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Todas las Flores de Enero](https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a) | 2:14 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 45 | [No Sentir Nada](https://open.spotify.com/track/5yO08ego5Exs0acRhxs6tn) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [No Sentir Nada](https://open.spotify.com/album/4hquSaJKohf2oE50JgOBo3) | 3:44 |
 | 46 | [Si te vas](https://open.spotify.com/track/6VzjDbTOkv4EVUVF7PorLi) | [dani](https://open.spotify.com/artist/4sYXzPulKYxOYuDKS1px8Y) | [veinte](https://open.spotify.com/album/1rAMdylzJZKDJgL200ivk5) | 3:43 |
 | 47 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
-| 48 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
-| 49 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
+| 48 | [Cristales](https://open.spotify.com/track/3fl8Pm4eN1q1wbIMScw7em) | [HOLOGRAMMA](https://open.spotify.com/artist/7akSnRWtc7SsxdZSq0Evkm) | [Cristales](https://open.spotify.com/album/6jfAYLekcHR4qF3c39d6xK) | 3:45 |
+| 49 | [Joderlo Todo](https://open.spotify.com/track/1G93uVHCm8fegsmYKCsJTA) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Joderlo Todo](https://open.spotify.com/album/3a5u1dS9MeqrQtSLqrXxrs) | 3:47 |
 | 50 | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/track/03If5wA0g4z8C9qSw6hDK8) | [Pepe Pecas](https://open.spotify.com/artist/5TZkTvjOfTSsgBQVP7SDyq) | [Lo Que Vales \(Para Mí\)](https://open.spotify.com/album/60ki1aJySUjzhFLLnYMpJW) | 3:31 |
 | 51 | [Danza de Sol](https://open.spotify.com/track/2IHswTTnpUppvV8jn7PHqH) | [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [Hijos del Sol](https://open.spotify.com/album/0syY8WEuVTi39vVHfrCbjq) | 3:10 |
 | 52 | [y arderán](https://open.spotify.com/track/1BQH4CK9tWxyOCxXWHdD77) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [brotes \(florecen\)](https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U) | 3:16 |
@@ -88,9 +88,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 78 | [Azulmagenta](https://open.spotify.com/track/0BWXCS8fU8Y4Rj2ng4fIsu) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Azulmagenta](https://open.spotify.com/album/4NMpBN4NunLm6hINDVh5Lw) | 3:38 |
 | 79 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
 | 80 | [Caminos Extraños](https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [En Transmisión Perpetua](https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe) | 4:19 |
-| 81 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
-| 82 | [My America Is Not Your America](https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [My America Is Not Your America](https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf) | 5:06 |
-| 83 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
+| 81 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
+| 82 | [Corte Superior](https://open.spotify.com/track/15ydTyKE48KnZlAbJRQdMJ) | [Pablo Trujillo](https://open.spotify.com/artist/69zb17Y0bpZAvvhHjLddpb) | [Corte Superior](https://open.spotify.com/album/07LYLQ1wwl1sjSZTebfpDG) | 3:56 |
+| 83 | [My America Is Not Your America](https://open.spotify.com/track/0NYtyAkJBCE6cnlvCd5a7E) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [My America Is Not Your America](https://open.spotify.com/album/31vbSgrHUqxbqjGfnBUESf) | 5:06 |
 | 84 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
 | 85 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
 | 86 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
@@ -98,4 +98,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 88 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
 | 89 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
 
-Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGE3MzQ0YWNiNzY2ZjJjYWIzODFkOTYyN2M4Zjk3YTEz`
+Snapshot ID: `MTYwNjg4NTczMSwwMDAwMDAwMGI4ZWM2MmQ0NDQ4ZDJhZTY1NGMyZWI0MDZlMGZkZDI0`

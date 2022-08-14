@@ -1,12 +1,12 @@
 {
   "description": "Blues - new and old - to accompany your drive. Cover: B.B. King",
-  "num_followers": 43547,
+  "num_followers": 43613,
   "original_name": "Blues Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDc5ODJhOGIyMWE0ZmVhZTAxYmEyZDc1ZDNmNjMwYmUy",
+  "snapshot_id": "MTY1NjA4ODI0MywwMDAwMDAwMDU4YmY5YzU4NDEyZDdjOWVmMWY3ZGNiMjhmZDUzMGM4",
   "tracks": [
     {
       "added_at": "2021-03-03 17:28:10",
@@ -155,22 +155,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "In The Right Place",
-        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
-      },
-      "artists": [
-        {
-          "name": "Dr. John",
-          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
-        }
-      ],
-      "duration_ms": 175240,
-      "name": "Right Place Wrong Time",
-      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Moanin' In The Moonlight",
         "url": "https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "In The Right Place",
+        "url": "https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq"
+      },
+      "artists": [
+        {
+          "name": "Dr. John",
+          "url": "https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO"
+        }
+      ],
+      "duration_ms": 175240,
+      "name": "Right Place Wrong Time",
+      "url": "https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -301,6 +301,22 @@
       "url": "https://open.spotify.com/track/1yKah8BCP3Vgq2tPBOLKL0"
     },
     {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
+    },
+    {
       "added_at": "2021-12-07 19:02:16",
       "album": {
         "name": "Deuces Wild",
@@ -339,22 +355,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Howlin' Wolf",
-        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
-      },
-      "artists": [
-        {
-          "name": "Howlin' Wolf",
-          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/7j02rdE5RVtNcNMuLGY5SS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Taj Mahal",
         "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
       },
@@ -367,22 +367,6 @@
       "duration_ms": 289560,
       "name": "Leaving Trunk",
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
-      },
-      "artists": [
-        {
-          "name": "John Lee Hooker",
-          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
-        }
-      ],
-      "duration_ms": 184960,
-      "name": "One Bourbon, One Scotch, One Beer",
-      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -403,6 +387,22 @@
       "duration_ms": 264240,
       "name": "Riding with the King",
       "url": "https://open.spotify.com/track/618hiI74zBL8UVgAvfmkLj"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
+      },
+      "artists": [
+        {
+          "name": "John Lee Hooker",
+          "url": "https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x"
+        }
+      ],
+      "duration_ms": 184960,
+      "name": "One Bourbon, One Scotch, One Beer",
+      "url": "https://open.spotify.com/track/2dp14VWbIxOVNmaWKkVB1r"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -439,6 +439,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Indianola Mississippi Seeds",
+        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 293733,
+      "name": "Chains And Things",
+      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Feels Like Rain",
         "url": "https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 275266,
       "name": "Feels Like Rain (feat. Bonnie Raitt)",
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Indianola Mississippi Seeds",
-        "url": "https://open.spotify.com/album/1NgGj5ECcDELHjoQRX2P1l"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 293733,
-      "name": "Chains And Things",
-      "url": "https://open.spotify.com/track/5x7Oxaa9EEIx9nw17CC5yW"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -511,18 +511,18 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Nick Of Time",
-        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+        "name": "Goodbye Carolina",
+        "url": "https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7"
       },
       "artists": [
         {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+          "name": "The Marcus King Band",
+          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
         }
       ],
-      "duration_ms": 232866,
-      "name": "Nick Of Time",
-      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+      "duration_ms": 241608,
+      "name": "Goodbye Carolina",
+      "url": "https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -543,18 +543,50 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Goodbye Carolina",
-        "url": "https://open.spotify.com/album/0YQSSpPZgvUvGWJCKZbYj7"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
-          "name": "The Marcus King Band",
-          "url": "https://open.spotify.com/artist/0tgaHqkU1p7QhBUIzKXVU9"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 241608,
-      "name": "Goodbye Carolina",
-      "url": "https://open.spotify.com/track/6lNGQqEos6i2KxISBn24Xc"
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Nick Of Time",
+        "url": "https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 232866,
+      "name": "Nick Of Time",
+      "url": "https://open.spotify.com/track/1gqk2dawfdLdn4XamF27cx"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -575,38 +607,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "The Real Folk Blues",
         "url": "https://open.spotify.com/album/6AToTGNfNIiOSMcl6xGJTY"
       },
@@ -619,22 +619,6 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -683,6 +667,22 @@
       "duration_ms": 440200,
       "name": "Blues Deluxe",
       "url": "https://open.spotify.com/track/2O7OjNCjqflzWOTVg9UlEm"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -739,6 +739,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "In Step",
+        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 143226,
+      "name": "The House Is Rockin'",
+      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Heart & Soul: A Retrospective",
         "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
@@ -787,6 +803,22 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
         "name": "Bad News Is Coming",
         "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
@@ -803,8 +835,8 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "In Step",
-        "url": "https://open.spotify.com/album/1d3gakptaQZQ4zw9YbOagk"
+        "name": "Couldn't Stand The Weather (Legacy Edition)",
+        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
       },
       "artists": [
         {
@@ -812,25 +844,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 143226,
-      "name": "The House Is Rockin'",
-      "url": "https://open.spotify.com/track/4BYmnYGNVBVm2JHVxFNMXj"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+      "duration_ms": 240986,
+      "name": "Cold Shot",
+      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -927,22 +943,6 @@
       "duration_ms": 324786,
       "name": "Bright Lights",
       "url": "https://open.spotify.com/track/7aO35V27YDi4hKOL9odSya"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
-        "name": "Couldn't Stand The Weather (Legacy Edition)",
-        "url": "https://open.spotify.com/album/5vxBOzakDbJleNA1rbA7FQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 240986,
-      "name": "Cold Shot",
-      "url": "https://open.spotify.com/track/3QwDN08fGnGfRrsn5wLTej"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Fast Fingers",
-        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dawkins",
-          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "Little Angel Child",
-      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Power Of The Pontchartrain",
         "url": "https://open.spotify.com/album/0jfaR6Gbk36L1UF8ba8ufm"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 304933,
       "name": "Shelter Me",
       "url": "https://open.spotify.com/track/0Wv8SrR4kycxh3GIpl2adV"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Fast Fingers",
+        "url": "https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dawkins",
+          "url": "https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "Little Angel Child",
+      "url": "https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1449,22 +1449,6 @@
       "url": "https://open.spotify.com/track/3tvyQCSm1QcWURgGvygvke"
     },
     {
-      "added_at": "2021-05-14 04:01:00",
-      "album": {
-        "name": "Holy Ghost Fire",
-        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 202917,
-      "name": "Holy Ghost Fire",
-      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Amen",
@@ -1479,6 +1463,22 @@
       "duration_ms": 247478,
       "name": "Amen",
       "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Holy Ghost Fire",
+        "url": "https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 202917,
+      "name": "Holy Ghost Fire",
+      "url": "https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga"
     },
     {
       "added_at": "2021-03-03 17:28:10",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2021-03-03 17:28:10",
       "album": {
-        "name": "Peach",
-        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
-      },
-      "artists": [
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 201586,
-      "name": "Preachin' Blues",
-      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
-    },
-    {
-      "added_at": "2021-03-03 17:28:10",
-      "album": {
         "name": "Trouble Is...",
         "url": "https://open.spotify.com/album/1ODpJWe2bymqj4DyJfuBE9"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 334800,
       "name": "Somehow, Somewhere, Someway",
       "url": "https://open.spotify.com/track/3N8YmS2jHNmziUhqTR7Wk4"
+    },
+    {
+      "added_at": "2021-03-03 17:28:10",
+      "album": {
+        "name": "Peach",
+        "url": "https://open.spotify.com/album/0rvaC10w4nAe8NT8y2Zuwl"
+      },
+      "artists": [
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 201586,
+      "name": "Preachin' Blues",
+      "url": "https://open.spotify.com/track/2oVDBaesJPlOsvr3FmRIFW"
     },
     {
       "added_at": "2021-03-03 17:28:10",

@@ -4,7 +4,7 @@
 
 > La mezcla perfecta, picosita y refrescante.
 
-166 songs - 9 hr 46 min - [published](https://open.spotify.com/playlist/2OyWUm7JT7S1430Zfh33kP)
+167 songs - 9 hr 50 min - [published](https://open.spotify.com/playlist/2OyWUm7JT7S1430Zfh33kP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Con Tus Besos](https://open.spotify.com/track/6WYB1odDfMPVMyp1QxFInT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:46 | 2022-01-07 |  |
 | [Contigo No Fue](https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [La Cotorrisa](https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ), [Strecci](https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:49 | 2022-03-04 |  |
 | [Cuando Te Ame](https://open.spotify.com/track/1wdWyRs5xnuoa6itHiWVUN) | [Soñadores de Sinaloa](https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf) | [Volumen 5](https://open.spotify.com/album/1vBjoHzTclIISicKH9HOtf) | 3:55 | 2022-06-03 | 2022-07-01 |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-30 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-06-30 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-03 |  |
 | [Cumbia Del Corazón](https://open.spotify.com/track/4dURe03os9BAxIO0RThU28) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Cumbia Del Corazón](https://open.spotify.com/album/3mfwypID037UHlutwTYINo) | 3:17 | 2022-08-12 |  |
 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 | 2022-01-07 |  |
 | [Desde El Fondo De Mi Corazón](https://open.spotify.com/track/3rQndjZ676PPjV9QvL42te) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 4:02 | 2022-06-03 |  |

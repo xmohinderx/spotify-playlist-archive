@@ -1,12 +1,12 @@
 {
   "description": "The champs are here.",
-  "num_followers": 173237,
+  "num_followers": 173367,
   "original_name": "Trophy Room",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDFiMzE2NzYxNGI5ZjQ5ODhjNDkxZGUyYTgwYzFjMmQ5",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDE4MjQxNWJhZDVjODllY2NjMzA1NjVmMjg5Y2M2NDQ0",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -235,6 +235,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 135920,
+      "name": "Father Stretch My Hands Pt. 1",
+      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Hot Shit (feat. Ye & Lil Durk)",
         "url": "https://open.spotify.com/album/2qTIltFPwJzsyssGeOwdRO"
       },
@@ -275,22 +291,6 @@
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 135920,
-      "name": "Father Stretch My Hands Pt. 1",
-      "url": "https://open.spotify.com/track/4KW1lqgSr8TKrvBII0Brf8"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Donda",
+        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 226652,
+      "name": "Praise God",
+      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
       },
@@ -371,22 +387,6 @@
       "duration_ms": 167915,
       "name": "After Party",
       "url": "https://open.spotify.com/track/527k23H0A4Q0UJN3vGs0Da"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Distraction",
-        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        }
-      ],
-      "duration_ms": 171319,
-      "name": "Distraction",
-      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -407,38 +407,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+        "name": "Distraction",
+        "url": "https://open.spotify.com/album/30OwIxHqQILQ9vwd86sD3o"
       },
       "artists": [
         {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         }
       ],
-      "duration_ms": 180434,
-      "name": "Ballin' (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Donda",
-        "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 226652,
-      "name": "Praise God",
-      "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
+      "duration_ms": 171319,
+      "name": "Distraction",
+      "url": "https://open.spotify.com/track/1oc92BMKYkNxK17C2GtyRM"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -455,6 +435,26 @@
       "duration_ms": 219333,
       "name": "Alright",
       "url": "https://open.spotify.com/track/3iVcZ5G6tvkXZkZKlMpIUs"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 180434,
+      "name": "Ballin' (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/3QzAOrNlsabgbMwlZt7TAY"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -751,6 +751,34 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "LONG.LIVE.A$AP (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 233786,
+      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "The Big 3",
         "url": "https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC"
       },
@@ -783,34 +811,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "LONG.LIVE.A$AP (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6rzMufuu8sLkIizM4q9c7J"
-      },
-      "artists": [
-        {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 233786,
-      "name": "F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/4X5f3vT8MRuXF68pfjNte5"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "KIRK",
         "url": "https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl"
       },
@@ -823,6 +823,22 @@
       "duration_ms": 159714,
       "name": "BOP",
       "url": "https://open.spotify.com/track/6Ozh9Ok6h4Oi1wUSLtBseN"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "My Beautiful Dark Twisted Fantasy",
+        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 299613,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "My Beautiful Dark Twisted Fantasy",
-        "url": "https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 299613,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/22L7bfCiAkJo5xGSQgmiIO"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Ramen & OJ",
         "url": "https://open.spotify.com/album/48ahZJLcagb8VTgRAuv6WQ"
       },
@@ -879,6 +879,34 @@
       "duration_ms": 218447,
       "name": "Ramen & OJ",
       "url": "https://open.spotify.com/track/4TIqzdAssasqx3DAe6cG9J"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 227478,
+      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -915,34 +943,6 @@
       "duration_ms": 188320,
       "name": "Trophies",
       "url": "https://open.spotify.com/track/6HfOzLLjsaXsehIFEsrxTk"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
-        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Tory Lanez",
-          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 227478,
-      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
-      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
     },
     {
       "added_at": "2022-08-05 04:00:00",

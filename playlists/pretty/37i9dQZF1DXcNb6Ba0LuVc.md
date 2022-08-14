@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,844 likes - 234 songs - 9 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,300 likes - 234 songs - 9 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

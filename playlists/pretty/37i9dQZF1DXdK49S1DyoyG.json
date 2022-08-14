@@ -1,12 +1,12 @@
 {
   "description": "Take the afternoon off.",
-  "num_followers": 16002,
+  "num_followers": 16086,
   "original_name": "Ros\u00e9 on Tap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTMwNjI3MiwwMDAwMDAwMGYxZjMyMTE1NTRjZDZjZGRkM2Q4MzlhMzM1ZWI2YzYz",
+  "snapshot_id": "MTY1OTMwNjI3MiwwMDAwMDAwMDcwM2Y0YWIwNjY0YWJjMTdhZjk5MTE2ZTdiMGU5YjA1",
   "tracks": [
     {
       "added_at": "2022-07-31 22:24:31",
@@ -255,26 +255,6 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
-        "name": "Kiss Me More (feat. SZA)",
-        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 208866,
-      "name": "Kiss Me More (feat. SZA)",
-      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
-    },
-    {
-      "added_at": "2022-07-31 22:24:31",
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -291,6 +271,26 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
+    },
+    {
+      "added_at": "2022-07-31 22:24:31",
+      "album": {
+        "name": "Kiss Me More (feat. SZA)",
+        "url": "https://open.spotify.com/album/1OnzqJTL9bwe4kvaLxRYxt"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208866,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
     },
     {
       "added_at": "2022-07-31 22:24:31",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2022-07-31 22:24:31",
-      "album": {
         "name": "channel ORANGE",
         "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 200746,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2022-07-31 22:24:31",
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2022-07-31 22:24:31",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
-        "name": "La 167",
-        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Pepas",
-      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
-    },
-    {
-      "added_at": "2022-07-31 22:24:31",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2022-07-31 22:24:31",
+      "album": {
+        "name": "La 167",
+        "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Pepas",
+      "url": "https://open.spotify.com/track/2B4GHvToeLTOBB4QLzW3Ni"
     },
     {
       "added_at": "2022-07-31 22:24:31",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2022-07-31 22:24:31",
       "album": {
+        "name": "JoDee Messina",
+        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
+      },
+      "artists": [
+        {
+          "name": "Jo Dee Messina",
+          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "Heads Carolina, Tails California",
+      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
+    },
+    {
+      "added_at": "2022-07-31 22:24:31",
+      "album": {
         "name": "The Heat",
         "url": "https://open.spotify.com/album/0UZsKcXzOehMvFWTiBlwMi"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 223120,
       "name": "Love You For A Long Time",
       "url": "https://open.spotify.com/track/6QTPacyXkZWG9FMwq6L1hJ"
-    },
-    {
-      "added_at": "2022-07-31 22:24:31",
-      "album": {
-        "name": "JoDee Messina",
-        "url": "https://open.spotify.com/album/2Jsqpx8EeRWIjBFhCX4hvn"
-      },
-      "artists": [
-        {
-          "name": "Jo Dee Messina",
-          "url": "https://open.spotify.com/artist/3ltFy7g6KKQPPttsdOMlq3"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "Heads Carolina, Tails California",
-      "url": "https://open.spotify.com/track/6Lmx6bz3PGYuNSjKMnYBOa"
     },
     {
       "added_at": "2022-07-31 22:24:31",

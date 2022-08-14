@@ -309,7 +309,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 297664,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/3HMuJG1y7pyjg7Rrk17Rsb"
@@ -2247,7 +2247,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 193918,
       "name": "D\u00e9jenme Hacer Dinero",
       "url": "https://open.spotify.com/track/4LdopLerbbhZxY6cBQyRsP"
@@ -2835,7 +2835,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 167973,
       "name": "Ferxxo 100",
       "url": "https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl"
@@ -4271,7 +4271,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 154486,
       "name": "Left and Right (Feat. Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3"
@@ -5267,7 +5267,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 245939,
       "name": "Moscow Mule",
       "url": "https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO"
@@ -5361,7 +5361,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 145000,
       "name": "Murder In My Mind",
       "url": "https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss"
@@ -7288,6 +7288,24 @@
     },
     {
       "album": {
+        "name": "Born To Die (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2GGstjn2lepcltXd21I24t"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264773,
+      "name": "Summertime Sadness",
+      "url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0"
+    },
+    {
+      "album": {
         "name": "Surface Pressure (From \"Encanto\")",
         "url": "https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA"
       },
@@ -8841,6 +8859,24 @@
       "duration_ms": 201905,
       "name": "With you",
       "url": "https://open.spotify.com/track/2gzhQaCTeNgxpeB2TPllyY"
+    },
+    {
+      "album": {
+        "name": "OK ORCHESTRA",
+        "url": "https://open.spotify.com/album/7rbdgYKz1DI4gXMWveqS5T"
+      },
+      "artists": [
+        {
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "World's Smallest Violin",
+      "url": "https://open.spotify.com/track/68EkhVWIeULhHxcbi1QhzK"
     },
     {
       "album": {

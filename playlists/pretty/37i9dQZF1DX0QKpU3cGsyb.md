@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 
 > Slow jams for the passionate.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,599,109 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,599,841 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 19 | [Alone With You](https://open.spotify.com/track/0jHVNBt8A9L8qEAB8XxGuB) | [Alina Baraz](https://open.spotify.com/artist/6hfwwpXqZPRC9CsKI7qtv1) | [Alone With You](https://open.spotify.com/album/310ZzmkHr5zvYyqMkNhXlm) | 3:46 |
 | 20 | [What's Good](https://open.spotify.com/track/1RcUrR3PzhZlKJBpMW2ql0) | [Skylar Stecker](https://open.spotify.com/artist/6f6VAs9A49Er8jbbCUjAH0), [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44) | [What's Good](https://open.spotify.com/album/3mN6MrBpyxQ1iBUdHhva8m) | 2:58 |
 | 21 | [everything](https://open.spotify.com/track/6pyM30WDpG70VTfwoQg4m2) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:27 |
-| 22 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
-| 23 | [Taboo](https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
+| 22 | [Taboo](https://open.spotify.com/track/155PWUwfoYw5mcQOGdzh1w) | [Sevyn Streeter](https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca) | [Drunken Wordz Sober Thoughtz](https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv) | 2:48 |
+| 23 | [Satisfaction](https://open.spotify.com/track/0hZIaQMGqu41dozEwqVa1b) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx) | [Satisfaction](https://open.spotify.com/album/2rMvlXjrgjenPKNBK6ze0q) | 2:10 |
 | 24 | [Say Yea](https://open.spotify.com/track/72kAhVS63uHIQV7drmjjHZ) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Say Yea](https://open.spotify.com/album/7LRIPWJaK4kQfrfD94zTzS) | 3:25 |
 | 25 | [Here](https://open.spotify.com/track/5AWG9WZvWqx9w8am9Vl8TS) | [Shantel May](https://open.spotify.com/artist/3dLvESWiG5LWozJmdvk6D0) | [Here](https://open.spotify.com/album/58OrFFZ6M0DI0RQ7J5Mgng) | 3:14 |
 | 26 | [Long Overdue](https://open.spotify.com/track/1tqr4YfDVX4Yp9TzWaNQUD) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Before I Let Her Go EP](https://open.spotify.com/album/6hAC1PPv2WjG19Mru927Jg) | 2:48 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QKpU3cGsyb.md) - [plain]
 | 38 | [Situationship](https://open.spotify.com/track/2e0bYXa7BRXqPilw9Qj49f) | [Nbdy](https://open.spotify.com/artist/1fQWUHoSWhlrc9rmHi2xnE) | [Situationship](https://open.spotify.com/album/1reU8zP1OtFCmK055l6UZF) | 2:56 |
 | 39 | [A Mess \(feat\. Lucky Daye\)](https://open.spotify.com/track/3HgJ1aYlEgy8Yj1NMAe1pm) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:53 |
 | 40 | [Last One](https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM) | [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s), [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Last One](https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq) | 3:01 |
-| 41 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
-| 42 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 |
-| 43 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 |
-| 44 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
+| 41 | [Church](https://open.spotify.com/track/0dAX78YVZtK3izR21SGxia) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Buckles Laboratories Presents: The Intermission](https://open.spotify.com/album/5ml8UPImaD5c3x3YwQTaeS) | 2:40 |
+| 42 | [You Got The Body](https://open.spotify.com/track/7einjlDEIa7ZjBcgbVLjdY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [You Got The Body](https://open.spotify.com/album/6g7ICjmak0YBacDjAuN7ZG) | 2:56 |
+| 43 | [Rebel \(feat\. Jeremih\)](https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Heat Of The Moment](https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD) | 2:34 |
+| 44 | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/track/3uYl97CFQFl14149UuSJ78) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Comfortable \(feat\. Fana Hues\)](https://open.spotify.com/album/5asMsphuwGm7xBjCsnQuZy) | 3:53 |
 | 45 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 |
 | 46 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 |
-| 47 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
-| 48 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 |
+| 47 | [UNPREDICTABLE](https://open.spotify.com/track/37ahk4lY6MT9jibtVmvYAH) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [UNPREDICTABLE](https://open.spotify.com/album/4FlLFmeikHa7syfabGqL0k) | 3:09 |
+| 48 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
 | 49 | [Caliber](https://open.spotify.com/track/1Okha0BLoXlC6iXrIWLVFk) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Caliber](https://open.spotify.com/album/0zwvnPJUZqs4nlSieXuM8X) | 3:02 |
 | 50 | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/track/6EsOT4Yq4BavQSJ4sEe9dw) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Slow Down \(feat\. Lucky Daye\)](https://open.spotify.com/album/3bP5HbrQemp8PQS9Z9gnCF) | 3:47 |
 
-Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMDAwOTljZWE1ZTBkZmJkNTBiYzdlMzgxNzVhMjIxNDg5`
+Snapshot ID: `MTY1Nzg5MzQ1OCwwMDAwMDAwMGYwZjdjNTdiMzI2ZGQ2M2FiYTJjOTZlZDZiYjEwMDNh`

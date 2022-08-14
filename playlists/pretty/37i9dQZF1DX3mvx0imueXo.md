@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 378,152 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 378,243 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 24 | [Faith](https://open.spotify.com/track/1slGuz5uZMRD9OgxyL7KBD) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O) | [Higher Place](https://open.spotify.com/album/3LrRzezQmsqxC2eyqVvdAr) | 2:53 |
 | 25 | [Marijuana \(feat\. Damian Marley\)](https://open.spotify.com/track/4WHA0SAluXCxpbltBOyUyC) | [Jah Cure](https://open.spotify.com/artist/1bSn5aMcE83TXLlLDU9rTy), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Marijuana \(feat\. Damian Marley\)](https://open.spotify.com/album/1ftcxfLwUpnPeUQZgZt1c9) | 4:32 |
 | 26 | [Thy Will](https://open.spotify.com/track/02TJW1p8g5AWLdbFllCu2K) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:00 |
-| 27 | [The Feeling \(feat\. Johnny Cosmic\)](https://open.spotify.com/track/5DUmNxW374v827lIgnlsZO) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:32 |
-| 28 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
+| 27 | [Push Time](https://open.spotify.com/track/4qeMtlPANjhEHKWm3VhmyK) | [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN), [Super Cat](https://open.spotify.com/artist/7hHDN8REbPLpv46ROortOM) | [Push Time](https://open.spotify.com/album/0hG4yN1bfY9KhQcnUTQSDG) | 3:01 |
+| 28 | [The Feeling \(feat\. Johnny Cosmic\)](https://open.spotify.com/track/5DUmNxW374v827lIgnlsZO) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1), [Johnny Cosmic](https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:32 |
 | 29 | [The Wicked](https://open.spotify.com/track/306Z0s3TVHyD0cSPJusjht) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [The Wicked](https://open.spotify.com/album/6Jn6m73eCgN5bQHXAJxNdL) | 4:08 |
 | 30 | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/album/1zXR7PaPj9fKIOC1XAXb2o) | 3:28 |
 | 31 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 49 | [Good Love \(feat\. General Levy\)](https://open.spotify.com/track/46En06kODv5V6uj9nwoLmj) | [Reggae Roast](https://open.spotify.com/artist/6X9sCKOanZEWlaDnFw24Ed), [General Levy](https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I) | [Good Love \(feat\. General Levy\)](https://open.spotify.com/album/6JRuF0Vy647e0oeqEZTA7b) | 3:03 |
 | 50 | [Plastic Smile](https://open.spotify.com/track/55cJxAVdfFkkoavazIsqev) | [Sizzla](https://open.spotify.com/artist/72T7x96EAqN2UWvAgobYfv), [Bakersteez](https://open.spotify.com/artist/7ME0YHfCVRdZOfApJmHGhh) | [Plastic Smile](https://open.spotify.com/album/75XgUIt3RiQTe9KMFJ8Yns) | 3:43 |
 
-Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMGQzZGFjOTZlZTc5ZTE4YzJlMWQ5ODM1ZmQyZjU5NjQ3`
+Snapshot ID: `MTY1NTc0NzYzNiwwMDAwMDAwMDNiNDRlZDcyZmVlNjVkMzZkNzEwYjFjMjI5ZTExMzA5`

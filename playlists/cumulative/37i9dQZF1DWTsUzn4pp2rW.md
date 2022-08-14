@@ -4,7 +4,7 @@
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Michael Bublé
 
-203 songs - 13 hr 7 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
+204 songs - 13 hr 10 min - [published](https://open.spotify.com/playlist/0zTna4IYVzsQVY4oHk0pH1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Endings Are Beginnings](https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Taller](https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj) | 3:09 | 2022-07-14 |  |
 | [Enough to Be on Your Way](https://open.spotify.com/track/32KeeUAyi8rUDL5f9Lq36P) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Enough to Be on Your Way](https://open.spotify.com/album/1nwhebL6RxGLSP2PFbRqs3) | 5:18 | 2021-11-19 |  |
 | [Everywhere](https://open.spotify.com/track/5UffJ6fz0ikQ0ze8bqRyHQ) | [Eve St\. Jones](https://open.spotify.com/artist/6NP40ldgw4kYtspZOziuii) | [Everywhere](https://open.spotify.com/album/1cOMb8F5PoPBgF79sKxO11) | 3:01 | 2021-11-19 |  |
+| [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-11 |  |
 | [Feeling](https://open.spotify.com/track/0lKHpAK3ybZxuX7K5KuOnm) | [Adrian Setiawan](https://open.spotify.com/artist/39XX7BNu95xOOxusr1BzFn), [Diona Dewiriana](https://open.spotify.com/artist/5TCbrPG4VAeoypYoHsLsAf) | [Feeling](https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i) | 3:52 | 2021-11-19 |  |
 | [Finally](https://open.spotify.com/track/0PYLjTrb7ChZTfWG9TFAPe) | [Stella Starlight Trio](https://open.spotify.com/artist/6MVeEwYSJUvwwYfUVPeZ6Y) | [Finally](https://open.spotify.com/album/0JPsZ8SJLB3tfVJTFjdCo8) | 3:39 | 2021-11-19 |  |
 | [Fly Again](https://open.spotify.com/track/6Z5aIVVWy31Wjm0GPoyoWT) | [Tom Petrone](https://open.spotify.com/artist/76Y7Pfxut1SGgIEF4RWDsb) | [Fly Again](https://open.spotify.com/album/0TqXtMckPVwNzBkxExOJyk) | 3:21 | 2021-11-19 |  |
@@ -145,7 +146,7 @@
 | [My Cherie Amour](https://open.spotify.com/track/0bE5p8nLKOyUGKiQZUO0bw) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [My Cherie Amour](https://open.spotify.com/album/4GdXMNeDeA8HES1Lx9Ilht) | 3:16 | 2021-11-19 | 2022-07-29 |
 | [My Cherie Amour](https://open.spotify.com/track/4uTh5Vc918mmvxcFM3qEe8) | [Anthony Strong](https://open.spotify.com/artist/6U57UDt8Ou4pLLvCSdvKHO) | [Me and My Radio](https://open.spotify.com/album/4wUjstEhEsldWRvESdpuNF) | 3:16 | 2022-07-14 |  |
 | [My One and Only Love](https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK) | [Jose Reinoso](https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ) | [My One and Only Love](https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S) | 4:06 | 2021-11-19 |  |
-| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 |  |
+| [My Ship](https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [All For One](https://open.spotify.com/album/6aPzahQdxU6Y2jcmdbb415) | 4:42 | 2021-11-19 | 2022-08-14 |
 | [New Orleans](https://open.spotify.com/track/5TeCPKspIvleOGStr4PPjn) | [Elly Hoyt](https://open.spotify.com/artist/05ZScqhjLZ9FYCYg1JwmtG) | [The Composers' Voice: Celebrating Australian Women Composers](https://open.spotify.com/album/32kQ3eqSaOjL1sMeCmes3y) | 3:19 | 2021-11-19 |  |
 | [No Meanness](https://open.spotify.com/track/4JlDXh6QcNm6vvHQcDfXqO) | [Madeleine Peyroux](https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef) | [No Meanness](https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj) | 3:58 | 2021-11-19 |  |
 | [Not for Me](https://open.spotify.com/track/5UP7fajBJqRsMPoe89tKlB) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not For Me](https://open.spotify.com/album/5VhZpeo4CaHJ5LFC8hHDNd) | 4:03 | 2021-11-19 |  |

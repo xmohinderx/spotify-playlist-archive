@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44954,
+  "num_followers": 44952,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDlhMjQ4NWUwMmRjYWM1NTczMWMyYzczYTA5N2ZiNTRl",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMGZiY2NmMGUwM2I0ZmExOWIxNTJkODIxMTVlYTZhN2U1",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -103,6 +103,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 194133,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -319,22 +319,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
-      },
-      "artists": [
-        {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
-        }
-      ],
-      "duration_ms": 159544,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Winter Wonderland",
         "url": "https://open.spotify.com/album/7Djta9G35BBXrjz4CnSg39"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 230906,
       "name": "Blue Christmas",
       "url": "https://open.spotify.com/track/7vdYX4mdSNdy9g8FeBSKRm"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "'Tis The Season",
+        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+      },
+      "artists": [
+        {
+          "name": "Silvio Thompson Band",
+          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+        }
+      ],
+      "duration_ms": 159544,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/4EMFafiPV0WM7ogBpJbfzO"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Holiday For Swing!",
-        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 167973,
-      "name": "Christmas Dreaming",
-      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "Greatest Christmas Songs",
         "url": "https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 121573,
       "name": "Love Is a Christmas Rose",
       "url": "https://open.spotify.com/track/2dqvqJetgd4UUVAHsheS9J"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "Holiday For Swing!",
+        "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 167973,
+      "name": "Christmas Dreaming",
+      "url": "https://open.spotify.com/track/3u9QZbQtAoMjm0sgmdQ7bx"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Winter Wonderland",
-        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 201233,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
+      "duration_ms": 227920,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+        "name": "Winter Wonderland",
+        "url": "https://open.spotify.com/album/7e5zGP0I9BPxJ3XzltgfbN"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 227920,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
+      "duration_ms": 201233,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/2c7doFjJ66pEANqZQlDpT9"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -771,22 +771,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+        "name": "A Nancy Wilson Christmas",
+        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
       "artists": [
         {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        },
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+          "name": "Nancy Wilson",
+          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
         }
       ],
-      "duration_ms": 298813,
-      "name": "Christmas Memories",
-      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+      "duration_ms": 237320,
+      "name": "All Through The Night",
+      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -807,18 +803,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "A Nancy Wilson Christmas",
-        "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
       },
       "artists": [
         {
-          "name": "Nancy Wilson",
-          "url": "https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb"
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
         }
       ],
-      "duration_ms": 237320,
-      "name": "All Through The Night",
-      "url": "https://open.spotify.com/track/560YAqeXWWXZ1u9ydYQanQ"
+      "duration_ms": 298813,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
     },
     {
       "added_at": "2021-12-21 12:48:59",

@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas calminhas pra come\u00e7ar o dia bem relax.",
-  "num_followers": 338189,
+  "num_followers": 338461,
   "original_name": "Manh\u00e3 Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGM0NjQzYmRjMzI3MDlhNzhmY2E5N2Y2MjU1MTZlYjIw",
+  "snapshot_id": "MTY2MDI3MzIwMCwwMDAwMDAwMGI1ZGJhZDJhMmFhNDNiOGRhYTMyODQ3MWZmNzRhN2Fk",
   "tracks": [
     {
       "added_at": "2022-08-12 03:00:00",
@@ -207,6 +207,22 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
+        "name": "Esmeraldas (\u00c1lbum Comentado)",
+        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ea",
+          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
+        }
+      ],
+      "duration_ms": 218040,
+      "name": "A noite",
+      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
+    },
+    {
+      "added_at": "2022-08-12 03:00:00",
+      "album": {
         "name": "Feito Pra Acabar",
         "url": "https://open.spotify.com/album/2aD4bVWQ2RrPvpOHSV2nSO"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 268640,
       "name": "Pra Sonhar",
       "url": "https://open.spotify.com/track/2VJOJBlHlSzdsf1uBpReKe"
-    },
-    {
-      "added_at": "2022-08-12 03:00:00",
-      "album": {
-        "name": "Esmeraldas (\u00c1lbum Comentado)",
-        "url": "https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ea",
-          "url": "https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7"
-        }
-      ],
-      "duration_ms": 218040,
-      "name": "A noite",
-      "url": "https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Mariana Nolasco Sessions 2",
-        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
+        "name": "Quando Amanhecer",
+        "url": "https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR"
       },
       "artists": [
         {
-          "name": "Mariana Nolasco",
-          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+          "name": "Lado de C\u00e1",
+          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
         }
       ],
-      "duration_ms": 138647,
-      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
-      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
+      "duration_ms": 171594,
+      "name": "Quando Amanhecer",
+      "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
     },
     {
       "added_at": "2022-08-12 03:00:00",
@@ -575,18 +575,18 @@
     {
       "added_at": "2022-08-12 03:00:00",
       "album": {
-        "name": "Quando Amanhecer",
-        "url": "https://open.spotify.com/album/4DFkTjnLeevK1QNxH2fKJR"
+        "name": "Mariana Nolasco Sessions 2",
+        "url": "https://open.spotify.com/album/5hOl5QyQ3r0Y9DQDoVfszF"
       },
       "artists": [
         {
-          "name": "Lado de C\u00e1",
-          "url": "https://open.spotify.com/artist/5pTc9eM3kCQHVlCaxR0FLD"
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
         }
       ],
-      "duration_ms": 171594,
-      "name": "Quando Amanhecer",
-      "url": "https://open.spotify.com/track/6Ed0W2om56aPTJ47gGmktw"
+      "duration_ms": 138647,
+      "name": "Ai que Saudade D'Oc\u00ea - Sessions",
+      "url": "https://open.spotify.com/track/3jLkEBt841U8Nbca03XD0q"
     },
     {
       "added_at": "2022-08-12 03:00:00",

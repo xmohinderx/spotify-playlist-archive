@@ -4,7 +4,7 @@
 
 > Transport yourself to a quieter place with these downtempo beats and ambient soundscapes.
 
-232 songs - 13 hr 16 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
+233 songs - 13 hr 18 min - [published](https://open.spotify.com/playlist/2Jt65y4t0Q0R06nWIg25oY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [First Defeat](https://open.spotify.com/track/3wUYmc0vGveoD4ltYeOdZt) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Empty](https://open.spotify.com/album/5XD78Fc6jfSfFYgwynseoI) | 3:15 | 2021-10-16 |  |
 | [floating](https://open.spotify.com/track/2d7z7wZhWV4mbbblWogbj4) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF), [dylanwesch](https://open.spotify.com/artist/4cJkh0ixPviJyRB2mStQDC) | [floating](https://open.spotify.com/album/6kOBHeeHa9KgcGbRoWaqpF) | 2:25 | 2022-01-12 |  |
 | [Floating City](https://open.spotify.com/track/58AFaNzitIUSooczRTGrGH) | [Dan Abrams](https://open.spotify.com/artist/6ZHdX5Gv1g9L5pd23gyDfx) | [Orbital Planes & Passenger Trains](https://open.spotify.com/album/7HvQOW1Uz5oaF8flNxyNQk) | 3:56 | 2021-10-16 | 2022-07-29 |
-| [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 |  |
+| [Flyaway](https://open.spotify.com/track/4SVId1J6a0U8VVPA0BuE7X) | [Arbour](https://open.spotify.com/artist/3pSfwb3p6BVPTYDkNdgxS2) | [Sights & Sounds](https://open.spotify.com/album/5aYSZXvc6VcNWB3jdaqQBK) | 2:19 | 2021-10-16 | 2022-08-14 |
 | [Fog Rolls Out Rabun Gap](https://open.spotify.com/track/7eaBu838V5ABXX1i3QvvPZ) | [Ben Seretan](https://open.spotify.com/artist/54N4voTBO17fp6dEegF4qa) | [Cicada Waves](https://open.spotify.com/album/4x027fiQuq8CqSCz02eTNp) | 6:42 | 2021-10-16 |  |
 | [For The Summer, Or Forever](https://open.spotify.com/track/4EgOshzvbK85iuKmA77bWi) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4BVmIRBh4g6th1S83TR4QY) | 4:01 | 2021-10-16 | 2022-07-29 |
 | [For The Summer, Or Forever](https://open.spotify.com/track/61NedbqrI3b0o8piJjQZu0) | [Halftribe](https://open.spotify.com/artist/6t1kXxXcRynbhVozYNKIUb) | [For The Summer, Or Forever](https://open.spotify.com/album/4fZV90dhfZIM0370Dw999y) | 4:01 | 2021-10-16 |  |
@@ -153,6 +153,7 @@
 | [Peperomia Seedling](https://open.spotify.com/track/5Gly7CIj29ZKPw5Zo0qFmz) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Six Songs for Invisible Gardens](https://open.spotify.com/album/6cxjFHSQOwAeURTpzDjp0t) | 3:43 | 2021-10-16 |  |
 | [Peperomia Seedling](https://open.spotify.com/track/7kCbTbQfyVySUftfKsgbWF) | [Green\-House](https://open.spotify.com/artist/0M6QGBKWICr8dxhh3UJW45) | [Peperomia Seedling](https://open.spotify.com/album/2HTliWlRXYQXidfyTOwkpU) | 3:43 | 2021-10-16 | 2022-07-29 |
 | [PHANTOM BRICKWORKS IV](https://open.spotify.com/track/4mxVWv4FnG2LMnD4pWNB0u) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [PHANTOM BRICKWORKS \(IV & V\)](https://open.spotify.com/album/4zGRKlgHQox3JzJHXquI0s) | 11:18 | 2021-10-16 |  |
+| [Physics](https://open.spotify.com/track/6AgoCGY6nXLJkfAReV5D95) | [Chweazy](https://open.spotify.com/artist/6rxQFuMl8R0thvnI8XKa79), [Idepen](https://open.spotify.com/artist/52kTvSXed7Y3NB4X6MyXGf) | [Physics Project](https://open.spotify.com/album/5y4Bxkhyk9pLI7fTrL16JG) | 1:49 | 2022-08-13 |  |
 | [Pinot Noir](https://open.spotify.com/track/5XAl1yLZanqffdvyfDUip2) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [Vin](https://open.spotify.com/album/0OWKd8AB4v7itVOTRPJfgM) | 2:37 | 2021-10-16 | 2022-07-15 |
 | [Playing Coy](https://open.spotify.com/track/6kvcGtcRk87tvBwQew6pkl) | [Arthur Wu](https://open.spotify.com/artist/3FvtuXFdOgdAl7Gsi91GFV) | [Playing Coy](https://open.spotify.com/album/2Vq0MbrCZSbcfZQmsIKZil) | 1:31 | 2021-10-16 | 2022-08-12 |
 | [Powers Out](https://open.spotify.com/track/3Ln2gSxZ0WUDUEUprF5RJa) | [Andrew CS](https://open.spotify.com/artist/7Fv7NaEJyV1PKy9PURdZFx) | [\*](https://open.spotify.com/album/3zGGjNdPQplOCQUyHgIQcq) | 1:57 | 2021-10-16 | 2022-07-29 |

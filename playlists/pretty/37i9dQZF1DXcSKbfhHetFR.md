@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,094 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,102 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 18 | [Johnny go](https://open.spotify.com/track/1SLovCqrzoxNbzT6AJGZhi) | [Jean Leloup](https://open.spotify.com/artist/4wxSKb9ur3AbGRCv81xFAd) | [1985\-2003 Je joue de la guitare](https://open.spotify.com/album/13dpLxuec4cGilEfXHNeOR) | 5:28 |
 | 19 | [Le coup d'état](https://open.spotify.com/track/1ezk3E6ZvorHOEJjlfbEa3) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Les tremblements s'immobilisent](https://open.spotify.com/album/2Tnn8WrAtBgG2OuTtj4OZB) | 4:22 |
 | 20 | [Le métronome](https://open.spotify.com/track/1OHIM375HBlr88fQwi0CJK) | [Malajube](https://open.spotify.com/artist/5yLzPjejoWM3eiYNoejATm) | [Le compte complet](https://open.spotify.com/album/19QK4vgoI5NeY8ISWWcSCN) | 2:43 |
-| 21 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
-| 22 | [Ton amour est trop lourd](https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5) | 1:57 |
+| 21 | [Ton amour est trop lourd](https://open.spotify.com/track/6Bo0Vlj6oB7Essx2A8aFyQ) | [Hepatite B](https://open.spotify.com/artist/57dW2gHW4uMAAfHXSHsqxg) | [Hepatite B](https://open.spotify.com/album/3KB7pIIY4WlHjZSqV8nXs5) | 1:57 |
+| 22 | [Je suis partie](https://open.spotify.com/track/0l90WIAkOhMlPSEvqX0YGV) | [Anik Jean](https://open.spotify.com/artist/6IHeGZkZLc9DQ4INpVyDpa) | [Le Trashy Saloon](https://open.spotify.com/album/0MO9BtyFSmkm4557C9GGd3) | 3:21 |
 | 23 | [Miss Ecstasy](https://open.spotify.com/track/5fwF0ZdA8YPn2iDF78vYuR) | [Dumas](https://open.spotify.com/artist/7HK83pzwHsZqiGchCqtMuD) | [Dumas](https://open.spotify.com/album/3Q4MKOYexRnIgGSjziQUhm) | 3:55 |
 | 24 | [Poney](https://open.spotify.com/track/33RI5afAIREvsm0lJ5j7Jh) | [Pépé et sa guitare](https://open.spotify.com/artist/49fBZHMEYaw2OCJFo7saeV) | [100% boeuf](https://open.spotify.com/album/5M8Bc31hdIJD3sVp5b62bG) | 4:11 |
 | 25 | [Sheila, ch'us là](https://open.spotify.com/track/73JkbiHMyyvGWgtpNvD1NB) | [Loco Locass](https://open.spotify.com/artist/27n0OqRGBxVZWoQMkf3QHD) | [Manifestif](https://open.spotify.com/album/0Nq5kr6yBG63Gu4ATEXjn4) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 | 50 | [Vénus du Mile\-End](https://open.spotify.com/track/5PAghngOh4fop5NV4hhJSp) | [Les Chiens](https://open.spotify.com/artist/3RhGeas8gUsn6bmPpZYYFe) | [La nuit dérobée](https://open.spotify.com/album/4XocEI6NWTsZtY1eJMhjmz) | 5:08 |
 
-Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDNmNmNhZTgyMDQ3OGFmYmNjN2ZlNmRiNDgyZDAwYmI2`
+Snapshot ID: `MTU5MjkyMzY1MCwwMDAwMDAwMDJkYWEwZGMzOGQxODVkMWE3MzcyNmUxNjhlMTM2NTQw`

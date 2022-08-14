@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14044,
+  "num_followers": 14071,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDUyZjMyMjViMGUzNjNhMTkxNjdmOTY1YWEzZWY1YzBl",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDg2MDU1OTVjNmU0OWEwYjBhN2JkOTE1NDE5MGM5ZTI5",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -75,22 +75,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "More Real Folk Blues",
-        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
-      },
-      "artists": [
-        {
-          "name": "Sonny Boy Williamson II",
-          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
-        }
-      ],
-      "duration_ms": 188200,
-      "name": "Help Me",
-      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "The Essential Little Walter",
         "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 162040,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/5KTyzShPViB2hPWgzkCunV"
+      },
+      "artists": [
+        {
+          "name": "Sonny Boy Williamson II",
+          "url": "https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Help Me",
+      "url": "https://open.spotify.com/track/5bC6ONDsL88snGN6QasjZH"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -235,18 +235,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Bad News Is Coming",
-        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
+        "name": "Mourning In The Morning",
+        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
       },
       "artists": [
         {
-          "name": "Luther Allison",
-          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
         }
       ],
-      "duration_ms": 445533,
-      "name": "Bad News Is Coming",
-      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
+      "duration_ms": 147800,
+      "name": "Working Man",
+      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -267,18 +267,18 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Mourning In The Morning",
-        "url": "https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe"
+        "name": "Bad News Is Coming",
+        "url": "https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT"
       },
       "artists": [
         {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+          "name": "Luther Allison",
+          "url": "https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv"
         }
       ],
-      "duration_ms": 147800,
-      "name": "Working Man",
-      "url": "https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW"
+      "duration_ms": 445533,
+      "name": "Bad News Is Coming",
+      "url": "https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT"
     },
     {
       "added_at": "2020-05-03 08:57:28",

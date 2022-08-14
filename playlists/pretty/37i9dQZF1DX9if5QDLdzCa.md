@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9if5QDLdzCa.md) - [plain]
 
 > The sound of crashing waves
 
-[Spotify](https://open.spotify.com/user/spotify) - 479,427 likes - 202 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 479,477 likes - 202 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

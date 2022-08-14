@@ -1,29 +1,13 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90.",
-  "num_followers": 68071,
+  "num_followers": 68492,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MywwMDAwMDAwMDVhZjQ5NDMzYWM0OGQ5OTgxZDQzNzhjYTEwZmE3OWVh",
+  "snapshot_id": "MTY1MDkxNjA5MywwMDAwMDAwMDdiNGM1M2RjNTRhNjZlYjliNGM3MjcyOWUwMzA0ODdk",
   "tracks": [
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "Hasta Que Me Olvides",
-      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
-    },
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 308880,
       "name": "Mi Historia Entre Tus Dedos - Remastered 2020",
       "url": "https://open.spotify.com/track/3UgduSS2bCMmatRox69u3g"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "Hasta Que Me Olvides",
+      "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "La Calle De Las Sirenas",
-        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
-      },
-      "artists": [
-        {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "La Calle De Las Sirenas",
-      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/110rZdMmIjA335CehJJkuk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 215493,
       "name": "La Gota Fria",
       "url": "https://open.spotify.com/track/4tXR895KKljrC2VptgyEhJ"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "La Calle De Las Sirenas",
+        "url": "https://open.spotify.com/album/3Qe5Ldqub3nZPjq26sS1fS"
+      },
+      "artists": [
+        {
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "La Calle De Las Sirenas",
+      "url": "https://open.spotify.com/track/1SVm64B4Ry7dqFSxHY8e65"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Lunas rotas",
-        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
-      },
-      "artists": [
-        {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Enrique Iglesias",
         "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 244026,
       "name": "Por Amarte",
       "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "Lunas rotas",
+        "url": "https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg"
+      },
+      "artists": [
+        {
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/7CX6W4Mf98wMgX0izqRpAl"
     }
   ],
   "unique_name": "Pop Latino: Los 90",

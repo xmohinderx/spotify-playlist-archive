@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Ado
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,174 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,311 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 13 | [優しい彗星](https://open.spotify.com/track/19fhOFi6pNGeZe5uiFlm7c) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [優しい彗星](https://open.spotify.com/album/2JTvRXbEc1JGPrlKC435Jf) | 3:35 |
 | 14 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 |
 | 15 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
-| 16 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
-| 17 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
+| 16 | [asphyxia](https://open.spotify.com/track/3f3FDZajRpcLQGln7OZqdi) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:54 |
+| 17 | [Akuma no Ko](https://open.spotify.com/track/4pw7EuK2WTWGHI51jCKuGJ) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Saiaku Saiai](https://open.spotify.com/album/2CtsgdSCPlWeIdcdk2m2iQ) | 3:49 |
 | 18 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 |
 | 19 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 |
 | 20 | [Tank!](https://open.spotify.com/track/2Wi5ubKr8zSk8L3CLemyS4) | [SEATBELTS](https://open.spotify.com/artist/3U3zr5PCRa9ty74uN46iBa) | [COWBOY BEBOP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1XoE7ZirQ3gjxq8HIzTJU9) | 3:30 |
@@ -43,20 +43,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblYBkrEcpLK.md) - [plain]
 | 33 | [燦々デイズ](https://open.spotify.com/track/4CebKGVZUJw18tnDzsjv2d) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [燦々デイズ](https://open.spotify.com/album/0NnGObV44jyw4aJwz4nfAF) | 3:52 |
 | 34 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 |
 | 35 | [ニッポン笑顔百景](https://open.spotify.com/track/7HvLwBlGXvaWJZpg1IqwbS) | [Momokurotei Ichimon](https://open.spotify.com/artist/5YWCISv1Tkhx9fUlp10w46), [Momoiro Clover Z](https://open.spotify.com/artist/3Zl0EsuYV23OgNw6WqGelN) | [ニッポン笑顔百景](https://open.spotify.com/album/3xafGKlmb5CcZsqWInSU7d) | 3:54 |
-| 36 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
+| 36 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 |
 | 37 | [give it back](https://open.spotify.com/track/6aHFdm58mPF4YPJX3FgI0z) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [give it back](https://open.spotify.com/album/4FYIha9FBi1bZueBbSJSRI) | 3:32 |
-| 38 | [Like Flames](https://open.spotify.com/track/4xBBNJ8spMyuJynOQxJf7e) | [MindaRyn](https://open.spotify.com/artist/7MSns7VCEysJJhcp67gvtZ) | [Like Flames](https://open.spotify.com/album/1si6jnjPfRrzezrxnKGxtd) | 4:10 |
+| 38 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 |
 | 39 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 |
-| 40 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
-| 41 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
-| 42 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
+| 40 | [人芝居](https://open.spotify.com/track/74sYtRs4LCDIpdBP8xDMSP) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [人芝居](https://open.spotify.com/album/7vRJFhwnCxhkQnk9SnSg4U) | 4:07 |
+| 41 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 |
+| 42 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
 | 43 | [足跡](https://open.spotify.com/track/4k5g6HNKtrWbYDllw2Dyp0) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [足跡](https://open.spotify.com/album/2qSycPngTjQbW0JgEPKanq) | 3:47 |
 | 44 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 |
 | 45 | [凸凹](https://open.spotify.com/track/59zVkMccrN10JrDGdV4JeG) | [Kiyoe Yoshioka](https://open.spotify.com/artist/7sG4FexEprpVch00GAM0w7) | [凸凹](https://open.spotify.com/album/2Rk7kN8xzphuTZgp2YJHmn) | 3:49 |
 | 46 | [Dark seeks light](https://open.spotify.com/track/2ATxQ2yeUw3CAGjjPTundt) | [ニノミヤユイ](https://open.spotify.com/artist/4rOv8M7dd60wAgtFI981VE) | [Dark seeks light / 散文的LIFE](https://open.spotify.com/album/29oTb4lakrol3FVikzP60X) | 3:34 |
 | 47 | [Overfly](https://open.spotify.com/track/5KQk3xqndCMM8kQkS0tfOT) | [Luna Haruna](https://open.spotify.com/artist/4eL15GpHSLAAvv5sT00c5i) | [OVERSKY](https://open.spotify.com/album/6F1qAKzkvEUVU2Y33vxuss) | 4:27 |
-| 48 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 |
-| 49 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
+| 48 | [Tiny Light](https://open.spotify.com/track/3nMWM6o4pD6lAkDRPdcqvh) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Desire Again](https://open.spotify.com/album/1TNoCgbem1kKPGUgZRH2AK) | 4:50 |
+| 49 | [Flare](https://open.spotify.com/track/1qZC7gWAR5blkKT1DI4niR) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Flare](https://open.spotify.com/album/2GUZuMzXynqvT2uG34qvxz) | 3:54 |
 | 50 | [Skyreach](https://open.spotify.com/track/427vfPt3SW5ZhtCqwajhaT) | [Amamiya Sora](https://open.spotify.com/artist/0RLTJBHe0jhxEVsYMVCMz0) | [Various BLUE](https://open.spotify.com/album/5rpTgoIEM03GbTQ6kyXxT0) | 4:28 |
 
-Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMGExM2Q2ODY3MjA4ZjA4ODg5OTk5ZjdlMWM0Y2JkYjI1`
+Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMGQ3Y2Q2OTJkYWE4YTBkN2U1YWNiYjc1N2RhOWY4OWE3`

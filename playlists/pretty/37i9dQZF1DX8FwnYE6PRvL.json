@@ -1,12 +1,12 @@
 {
   "description": "The ultimate rock party playlist!",
-  "num_followers": 2136196,
+  "num_followers": 2136878,
   "original_name": "Rock Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyNDg0MywwMDAwMDAwMGM1YTc1YTEzZDBhZTdkYjNjZGU3NTQ3YWI5YmEyYTQx",
+  "snapshot_id": "MTY2MDMyNDg0MywwMDAwMDAwMDM2NzNjMWZiMTgwNDE1NzdiOTMxMTBiZTQ1MTFlYzY2",
   "tracks": [
     {
       "added_at": "2022-04-08 08:32:19",
@@ -377,22 +377,6 @@
       "url": "https://open.spotify.com/track/0rmGAIH9LNJewFw7nKzZnc"
     },
     {
-      "added_at": "2022-07-14 17:11:27",
-      "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
       "added_at": "2022-04-08 08:32:19",
       "album": {
         "name": "Only By The Night",
@@ -411,6 +395,22 @@
     {
       "added_at": "2022-07-14 17:11:27",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2022-07-14 17:11:27",
+      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -423,22 +423,6 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
-    },
-    {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
-        "name": "Combat Rock (Remastered)",
-        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 188986,
-      "name": "Should I Stay or Should I Go - Remastered",
-      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2022-07-14 17:11:27",
@@ -457,20 +441,20 @@
       "url": "https://open.spotify.com/track/2RlgNHKcydI9sayD2Df2xp"
     },
     {
-      "added_at": "2022-07-14 17:11:27",
+      "added_at": "2022-04-08 08:32:19",
       "album": {
-        "name": "Evolve",
-        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+        "name": "Combat Rock (Remastered)",
+        "url": "https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2"
       },
       "artists": [
         {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
         }
       ],
-      "duration_ms": 201240,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
+      "duration_ms": 188986,
+      "name": "Should I Stay or Should I Go - Remastered",
+      "url": "https://open.spotify.com/track/39shmbIHICJ2Wxnk1fPSdz"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -487,6 +471,22 @@
       "duration_ms": 201726,
       "name": "R U Mine?",
       "url": "https://open.spotify.com/track/2AT8iROs4FQueDv2c8q2KE"
+    },
+    {
+      "added_at": "2022-07-14 17:11:27",
+      "album": {
+        "name": "Evolve",
+        "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 201240,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/6Qn5zhYkTa37e91HC1D7lb"
     },
     {
       "added_at": "2022-07-14 17:11:27",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
-        "name": "Infest",
-        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
-      },
-      "artists": [
-        {
-          "name": "Papa Roach",
-          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Last Resort",
-      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
-    },
-    {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
         "name": "Rage Against The Machine - XX (20th Anniversary Special Edition)",
         "url": "https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 313573,
       "name": "Killing In The Name",
       "url": "https://open.spotify.com/track/59WN2psjkt1tyaxjspN8fp"
+    },
+    {
+      "added_at": "2022-04-08 08:32:19",
+      "album": {
+        "name": "Infest",
+        "url": "https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Last Resort",
+      "url": "https://open.spotify.com/track/5W8YXBz9MTIDyrpYaCg2Ky"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/63T7DJ1AFDD6Bn8VzG6JE8"
     },
     {
-      "added_at": "2022-07-14 17:11:27",
-      "album": {
-        "name": "Paramore",
-        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 216013,
-      "name": "Still into You",
-      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
-    },
-    {
       "added_at": "2022-04-08 08:32:19",
       "album": {
         "name": "Astro Lounge",
@@ -615,6 +599,22 @@
       "duration_ms": 200373,
       "name": "All Star",
       "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+    },
+    {
+      "added_at": "2022-07-14 17:11:27",
+      "album": {
+        "name": "Paramore",
+        "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 216013,
+      "name": "Still into You",
+      "url": "https://open.spotify.com/track/1yjY7rpaAQvKwpdUliHx0d"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
-        "name": "The Final Countdown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 310333,
-      "name": "The Final Countdown",
-      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+        "name": "The Final Countdown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
       "artists": [
         {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
         }
       ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+      "duration_ms": 310333,
+      "name": "The Final Countdown",
+      "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -747,6 +731,22 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2022-04-08 08:32:19",
+      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -759,22 +759,6 @@
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
-    },
-    {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
-        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
-        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 293183,
-      "name": "Crazy Train",
-      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
       "added_at": "2022-07-14 17:11:27",
@@ -791,6 +775,22 @@
       "duration_ms": 203506,
       "name": "Thnks fr th Mmrs",
       "url": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP"
+    },
+    {
+      "added_at": "2022-04-08 08:32:19",
+      "album": {
+        "name": "Blizzard Of Ozz (40th Anniversary Expanded Edition)",
+        "url": "https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 293183,
+      "name": "Crazy Train",
+      "url": "https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
-        "name": "Electric Ladyland",
-        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
-      },
-      "artists": [
-        {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
-        }
-      ],
-      "duration_ms": 240800,
-      "name": "All Along the Watchtower",
-      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
-    },
-    {
       "added_at": "2022-07-14 17:11:27",
       "album": {
         "name": "Sixpence None the Richer",
@@ -987,18 +971,18 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+        "name": "Electric Ladyland",
+        "url": "https://open.spotify.com/album/5z090LQztiqh13wYspQvKQ"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
+      "duration_ms": 240800,
+      "name": "All Along the Watchtower",
+      "url": "https://open.spotify.com/track/2aoo2jlRnM3A0NyLQqMN2f"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -1015,6 +999,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2022-04-08 08:32:19",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     },
     {
       "added_at": "2022-04-08 08:32:19",
@@ -1161,22 +1161,6 @@
       "url": "https://open.spotify.com/track/0a7BloCiNzLDD9qSQHh5m7"
     },
     {
-      "added_at": "2022-07-14 17:11:27",
-      "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "Buddy Holly",
-      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
-    },
-    {
       "added_at": "2022-04-08 08:32:19",
       "album": {
         "name": "In Your Honor",
@@ -1191,6 +1175,22 @@
       "duration_ms": 255626,
       "name": "Best of You",
       "url": "https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp"
+    },
+    {
+      "added_at": "2022-07-14 17:11:27",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "Buddy Holly",
+      "url": "https://open.spotify.com/track/3mwvKOyMmG77zZRunnxp9E"
     },
     {
       "added_at": "2022-07-14 17:11:27",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-04-08 08:32:19",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2022-04-08 08:32:19",
+      "album": {
         "name": "Play Deep",
         "url": "https://open.spotify.com/album/2d5GU9ms5JCSS9GjsFebu8"
       },
@@ -1271,22 +1287,6 @@
       "duration_ms": 220400,
       "name": "Walk This Way",
       "url": "https://open.spotify.com/track/5SZ6zX4rOrEQferfFC2MfP"
-    },
-    {
-      "added_at": "2022-04-08 08:32:19",
-      "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
     }
   ],
   "unique_name": "Rock Party",

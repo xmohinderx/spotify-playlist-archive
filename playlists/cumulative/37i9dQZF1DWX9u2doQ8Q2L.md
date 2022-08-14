@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-221 songs - 13 hr 52 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+222 songs - 13 hr 55 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Gimme Some](https://open.spotify.com/track/1IbNNyZifUUoXMHCxMQTmx) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM), [Daichi Yamamoto](https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd) | [Gimme Some](https://open.spotify.com/album/6ssgCi2BiNcnXN6IoSgvr0) | 3:05 | 2022-07-07 |  |
 | [GIRLS](https://open.spotify.com/track/2PnWhodF9qgRrQGy8GEK7H) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb), [Ohashi Trio](https://open.spotify.com/artist/5BANJdBRihIaUpzjqAec7E) | [GIRLS](https://open.spotify.com/album/2WJeO5eGm5dhR7W6eJ5yzD) | 4:05 | 2022-05-26 | 2022-06-29 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-23 | 2022-07-28 |
+| [Gradate](https://open.spotify.com/track/04GV8JLkGPs2AOSrJjiOCX) | [U\-Key zone](https://open.spotify.com/artist/5UGa5DI6W2UrficTR8aZXj), [issei](https://open.spotify.com/artist/2qdOqduF7xgqSVd4153NdZ) | [Gradate](https://open.spotify.com/album/1LY3jOgcsqqu0cRFnWSMvj) | 3:49 | 2022-08-13 |  |
 | [Hana炎](https://open.spotify.com/track/1DarVtvEs9DOwJBeVhCsMO) | [Maika Loubté](https://open.spotify.com/artist/0wMkBz97F3SE4yNz0y2OOz), [LISACHRIS](https://open.spotify.com/artist/2E738wjchAb3fUOxY3bxMr), [Chinza Dopeness](https://open.spotify.com/artist/1d7fxClYCMPbVkpvIFI9ho) | [Hana炎](https://open.spotify.com/album/4uiFrJYts1Rb9X2Kpczrwm) | 4:37 | 2022-07-26 |  |
 | [Happy Sad](https://open.spotify.com/track/7APs1QSzMsX4STHf4ZJnxp) | [FIVE NEW OLD](https://open.spotify.com/artist/71wVBrMErg4ng9lxc1ajZo) | [Happy Sad](https://open.spotify.com/album/3JKIClnWT8iBjb6IOiPDmQ) | 2:50 | 2022-05-26 |  |
 | [HAVE A NICE DAY](https://open.spotify.com/track/5QW06boBm4TZ6VhPTQXSSk) | [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF) | [HAVE A NICE DAY](https://open.spotify.com/album/5cjxQHE6kZIlNtTf25caXq) | 2:36 | 2022-07-05 | 2022-08-02 |
@@ -129,7 +130,7 @@
 | [Shower](https://open.spotify.com/track/1rS2X092hCdnS1DCrajMkd) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [Shower](https://open.spotify.com/album/5OpqTol5Qnm3kZejdelVPP) | 3:12 | 2022-08-04 |  |
 | [So Bad](https://open.spotify.com/track/6C6vyS9KNrSj2arxF9N2QF) | [Sugar House](https://open.spotify.com/artist/688OLNQQtC0VGgYhVXCYVP) | [So Bad](https://open.spotify.com/album/4KTXCOR3hJNkVGWJ5Nh2Pw) | 2:53 | 2022-08-03 |  |
 | [so so good](https://open.spotify.com/track/5s1seRzFMfrx5ZTXKo5KEk) | [Aile The Shota](https://open.spotify.com/artist/2cRxXzkAobXvwQgUv5FRju), [Ma\-Nu](https://open.spotify.com/artist/4fEFUz9XWCLMeBJ0JKjzYY) | [IMA](https://open.spotify.com/album/51N0mrjxiGdR2tmAugtCOl) | 3:27 | 2022-07-05 | 2022-07-20 |
-| [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 |  |
+| [SoiNeon](https://open.spotify.com/track/6KHhrzEfS1q3sw3FV5hPIr) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/1q6tK0Rryn8mrD97eDFiVm) | 3:36 | 2022-07-28 | 2022-08-14 |
 | [SoiNeon](https://open.spotify.com/track/6utqEzW7oh8bxUnEt3YVpM) | [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k), [New K](https://open.spotify.com/artist/6lBK5GR3B0nhG3e6Kg5MAs) | [SoiNeon](https://open.spotify.com/album/4uWjlIXZe66HjKVRura9hR) | 3:36 | 2022-07-12 | 2022-07-29 |
 | [Somewhere Near Marseilles ーマルセイユ辺りー](https://open.spotify.com/track/5ai97hAB5rHiV2luX5NWw5) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [BADモード](https://open.spotify.com/album/7Kxd4i6FPfW0ZuP3Q96uij) | 11:54 | 2022-07-28 |  |
 | [Sparkling Lemonade](https://open.spotify.com/track/2PiqA2ivGioRKIsbJmMuWp) | [Kenta Dedachi](https://open.spotify.com/artist/0kpcv0xdcnCWiCXr3htCwx) | [Sparkling Lemonade](https://open.spotify.com/album/5Y4FbO6BCKrkOMd2VpID0e) | 3:03 | 2022-07-19 |  |

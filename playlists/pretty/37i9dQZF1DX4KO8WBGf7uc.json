@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 206299,
+  "num_followers": 206476,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDBmYWE3ZjBlNWQyOGRiNGY2YzJkNzE5YzJkNTFkZDVj",
+  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDE1ZjFlM2U3M2JjYzU5NmVkNzI4MzM2N2U1Njk1ZWIw",
   "tracks": [
     {
       "added_at": "2022-06-30 14:24:40",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Visionary",
-        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
-      },
-      "artists": [
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Ky-Mani Marley",
-          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
-        }
-      ],
-      "duration_ms": 197840,
-      "name": "Chillax (feat. Ky-Mani Marley)",
-      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "\u00c9pico",
         "url": "https://open.spotify.com/album/46xbsFOp9g1WqTidQEs7YT"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 217129,
       "name": "Aventura",
       "url": "https://open.spotify.com/track/37zdqI4r1gswIzczSBkRon"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Visionary",
+        "url": "https://open.spotify.com/album/1zFp5Q3Dgo8wmKsmfZ23QX"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Ky-Mani Marley",
+          "url": "https://open.spotify.com/artist/1XTGADISSMRf8B4TcVGYUC"
+        }
+      ],
+      "duration_ms": 197840,
+      "name": "Chillax (feat. Ky-Mani Marley)",
+      "url": "https://open.spotify.com/track/1lxswgIpzV6HhENRvkflES"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -983,38 +983,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Si Tu Lo Dejas",
-        "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
-      },
-      "artists": [
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Kosa",
-          "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
-        }
-      ],
-      "duration_ms": 275478,
-      "name": "Si Tu Lo Dejas",
-      "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Me Ama Me Odia",
         "url": "https://open.spotify.com/album/3FAdUgqDYeqcvlpBTbGczq"
       },
@@ -1047,6 +1015,38 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
+        "name": "Si Tu Lo Dejas",
+        "url": "https://open.spotify.com/album/2kk2iZAScz7J4LoZ4y4tH0"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Kosa",
+          "url": "https://open.spotify.com/artist/2DR7MOGAwxMZUA7U4N5X6t"
+        }
+      ],
+      "duration_ms": 275478,
+      "name": "Si Tu Lo Dejas",
+      "url": "https://open.spotify.com/track/2naJy8SKJ27gj6ZhRPDKaz"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
         "name": "ADN",
         "url": "https://open.spotify.com/album/0CUMVFalkFhZM6Xo0ErxLi"
       },
@@ -1063,30 +1063,6 @@
       "duration_ms": 199090,
       "name": "Te Quemaste",
       "url": "https://open.spotify.com/track/4fj7e6Tc48Bmomwyz2Z2XC"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "Caramelo (Remix)",
-        "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "Caramelo - Remix",
-      "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1111,6 +1087,30 @@
       "duration_ms": 219520,
       "name": "Solita",
       "url": "https://open.spotify.com/track/0tJCo71s7HT9Mu5Z4juuLw"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Caramelo (Remix)",
+        "url": "https://open.spotify.com/album/7wwKVRpLdSYASP6dMDrLXQ"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 233160,
+      "name": "Caramelo - Remix",
+      "url": "https://open.spotify.com/track/2uu2aGqA2UblCg581Q7l1g"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
+        "name": "Aura",
+        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
+      },
+      "artists": [
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 255506,
+      "name": "La Modelo",
+      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
         "name": "La Mentira (Remix)",
         "url": "https://open.spotify.com/album/1wFqv2q07zfETMmB1NMDyC"
       },
@@ -1231,26 +1251,6 @@
       "duration_ms": 388800,
       "name": "La Mentira - Remix",
       "url": "https://open.spotify.com/track/4jBpZsZ9qx3cZhoEfuKElF"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "Aura",
-        "url": "https://open.spotify.com/album/0SukGZiXMtmsZoxstkBtNR"
-      },
-      "artists": [
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 255506,
-      "name": "La Modelo",
-      "url": "https://open.spotify.com/track/2SbzdGpOKlH3HIAGTWTbwU"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Sexflix",
-        "url": "https://open.spotify.com/album/16JKU7ALzmQ8pFiHcgXUcH"
-      },
-      "artists": [
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        }
-      ],
-      "duration_ms": 243035,
-      "name": "D\u00e9jate Llevar",
-      "url": "https://open.spotify.com/track/1g4h47nGXrMyaRP7Za4Fuy"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Suave (Remix)",
         "url": "https://open.spotify.com/album/3L9hvsc3Ga0I1EQVHHPZgh"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 203000,
       "name": "Suave - Remix",
       "url": "https://open.spotify.com/track/6K7V47wFpfam2aeE893rbL"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Sexflix",
+        "url": "https://open.spotify.com/album/16JKU7ALzmQ8pFiHcgXUcH"
+      },
+      "artists": [
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        }
+      ],
+      "duration_ms": 243035,
+      "name": "D\u00e9jate Llevar",
+      "url": "https://open.spotify.com/track/1g4h47nGXrMyaRP7Za4Fuy"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1435,26 +1435,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Na' Personal",
-        "url": "https://open.spotify.com/album/3Nq8ogKH4JChsuGhBoCEdz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 225509,
-      "name": "Na' Personal",
-      "url": "https://open.spotify.com/track/16fZpc0Md2q1SGu8FMTo6x"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) [Remix]",
         "url": "https://open.spotify.com/album/3jWqAeLO9g2IR9iKEXTwF8"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 415792,
       "name": "Ella Y Yo (feat. Farruko, Ozuna, Arcangel, Anuel AA, Bryant Myers, Kevin Roldan, \u00d1engo Flow, Alexis La Bestia & \u00d1ejo) - Remix",
       "url": "https://open.spotify.com/track/0O8XuLi337OtgoXUgKORQ5"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Na' Personal",
+        "url": "https://open.spotify.com/album/3Nq8ogKH4JChsuGhBoCEdz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 225509,
+      "name": "Na' Personal",
+      "url": "https://open.spotify.com/track/16fZpc0Md2q1SGu8FMTo6x"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1707,42 +1707,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "No Te Enamores",
-        "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
-      },
-      "artists": [
-        {
-          "name": "Paloma Mami",
-          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
-        }
-      ],
-      "duration_ms": 183398,
-      "name": "No Te Enamores",
-      "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
-        "name": "Esclavo de Tus Besos",
-        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
-      },
-      "artists": [
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 219302,
-      "name": "Esclavo de Tus Besos",
-      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "Ella y Yo (feat. Farruko, Tempo, Anuel AA, Almighty & Bryant Myers)",
         "url": "https://open.spotify.com/album/1ZriaC9kT8i4L51al45sgZ"
       },
@@ -1779,18 +1743,38 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Sue\u00f1os",
-        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+        "name": "Esclavo de Tus Besos",
+        "url": "https://open.spotify.com/album/6NzT9eDEkJvnbL2gLcT6ai"
       },
       "artists": [
         {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
         }
       ],
-      "duration_ms": 206606,
-      "name": "Falsas Promesas",
-      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
+      "duration_ms": 219302,
+      "name": "Esclavo de Tus Besos",
+      "url": "https://open.spotify.com/track/3g4UyIcQwutiG0TfW32GnX"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "No Te Enamores",
+        "url": "https://open.spotify.com/album/6PXli9mP6Bx73bBqZk9sPE"
+      },
+      "artists": [
+        {
+          "name": "Paloma Mami",
+          "url": "https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt"
+        }
+      ],
+      "duration_ms": 183398,
+      "name": "No Te Enamores",
+      "url": "https://open.spotify.com/track/0EJu1RBtxzldMG2peczuPv"
     },
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1811,6 +1795,22 @@
       "duration_ms": 228960,
       "name": "Culpables",
       "url": "https://open.spotify.com/track/4RGKft6YTTWHjpQeRIInuS"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Sue\u00f1os",
+        "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 206606,
+      "name": "Falsas Promesas",
+      "url": "https://open.spotify.com/track/6ATIufHUOw1R1A4q46BqrN"
     },
     {
       "added_at": "2022-06-30 14:24:40",

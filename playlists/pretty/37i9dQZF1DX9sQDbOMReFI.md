@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Snoop Dogg & Dr\. Dre
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,582 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,043 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 19 | [Keep Ya Head Up](https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Strictly 4 My N.I.G.G.A.Z...](https://open.spotify.com/album/7FK1855C3n1Q0RKbmvl7ll) | 4:22 |
 | 20 | [Hood Took Me Under](https://open.spotify.com/track/6QJOEIPT8g3fjdFxibpy2F) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [Music To Driveby](https://open.spotify.com/album/5CfgVk92KTwjlfB66jAEvS) | 3:39 |
 | 21 | [No Vaseline](https://open.spotify.com/track/4wEbikMfcSFAukCbbL06si) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Death Certificate](https://open.spotify.com/album/062N80S3hs96dOhFzmvfLj) | 5:13 |
-| 22 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
-| 23 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
+| 22 | [Pimp Of The Year](https://open.spotify.com/track/5f8KgDZ8aQKQii0U1qdRbC) | [Dru Down](https://open.spotify.com/artist/0WbeGaye1H1KUdYWzYlTmk) | [Explicit Game](https://open.spotify.com/album/1ROtodYSqQpGTr4Z99Vq6P) | 4:14 |
+| 23 | [Lost in Thought](https://open.spotify.com/track/0VOhoc5CtyjYLcCWy1Ds1t) | [Funkdoobiest](https://open.spotify.com/artist/0pbj7bsLCiQ5f8P9mFnuPN) | [Brothas Doobie](https://open.spotify.com/album/33SkKSM72vyJvx5oc13351) | 3:39 |
 | 24 | [Summertime In The LBC](https://open.spotify.com/track/7yOze3trRklt4gGPGyjVwN) | [Dove Shack](https://open.spotify.com/artist/7DMSw5KOzlQ7xdub0vrcVF) | [This Is The Shack](https://open.spotify.com/album/3BlvmwV8FoCQdTs36eHTWU) | 3:58 |
 | 25 | [So Many Tears](https://open.spotify.com/track/0NzNKU2MJ9LCetT2uZMJH2) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 3:59 |
 | 26 | [I Wanna Get High](https://open.spotify.com/track/2icouZbxwqoL63gHhO2vGd) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 2:54 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 32 | [Playaz Club](https://open.spotify.com/track/4ZYM6R5nOZywxACY90Bsla) | [Rappin' 4\-Tay](https://open.spotify.com/artist/4tzxCsdhR0IIUNyzwrag4C) | [Don't Fight The Feelin'](https://open.spotify.com/album/1VUlxoPvDA8PfUDHTic793) | 4:26 |
 | 33 | [Straight Up Menace](https://open.spotify.com/track/5UQOmTylBEdsIfSn37v3DO) | [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [The Best of MC Eiht](https://open.spotify.com/album/38BUSePXkHHL9gNyS1weTB) | 4:34 |
 | 34 | [La Raza](https://open.spotify.com/track/3zCg6CUmhxHukbUs0nd7ar) | [Kid Frost](https://open.spotify.com/artist/6OxjXk1y4QXXRUJyldFIIG) | [Hispanic Causing Panic](https://open.spotify.com/album/54du51RSgc4enNk2K2E2JX) | 3:29 |
-| 35 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
-| 36 | [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 |
+| 35 | [Dusted 'N' Disgusted \(feat\. 2Pac, Mac Mall & Spice 1\)](https://open.spotify.com/track/4iL2i3kck6tRcbSGuXJOe7) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh), [Mac Mall](https://open.spotify.com/artist/2xVnNKRPvS7YqG7C28H8e7), [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:29 |
+| 36 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 | 37 | [Otha Fish](https://open.spotify.com/track/1KcZRMyC2tSs3CMIsng9wx) | [The Pharcyde](https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w) | [Bizarre Ride II The Pharcyde](https://open.spotify.com/album/48kU5gP41TqZEw32Cwhsna) | 5:21 |
 | 38 | [It's Funky Enough \- Remastered Single](https://open.spotify.com/track/63LiOsvf1w1DSbmjbxjh4b) | [The D.O.C.](https://open.spotify.com/artist/2htToCUWzqrvOX6ISJY1nd) | [No One Can Do It Better](https://open.spotify.com/album/3wAMdnbT6F7EM1c4mVe6zD) | 4:29 |
 | 39 | [Late Night Hype](https://open.spotify.com/track/79hH8RuVS9af6ixS97wREx) | [Compton's Most Wanted](https://open.spotify.com/artist/0SAPzv3jNXclYYSHOnJyjg) | [It's A Compton Thang!](https://open.spotify.com/album/53AUJ8HnXA7i8PrC8maxTY) | 4:54 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 47 | [Black Superman](https://open.spotify.com/track/4ptJmZRriw38WVG9mrW5nT) | [Above The Law](https://open.spotify.com/artist/1YStXHRj5phGb2LGCudZ6N) | [Uncle Sam's Curse](https://open.spotify.com/album/7FJYYNhnLJIp7psLUwoBBb) | 4:27 |
 | 48 | [Sprinkle Me \(feat\. Suga\-T\)](https://open.spotify.com/track/5C0LRpVmi4h5pIwAnujiw0) | [E\-40](https://open.spotify.com/artist/3crnzLy8R4lVwaigKEOz7V), [Suga T](https://open.spotify.com/artist/4cX9ggFy3pBFNyJOoVQCHF) | [In A Major Way](https://open.spotify.com/album/5nRvUR1Jki1iRJi2mkbtGw) | 4:10 |
 | 49 | [Indo Smoke](https://open.spotify.com/track/63KcYWznO0w3J5wymiT9QK) | [Mista Grimm](https://open.spotify.com/artist/5kPhNBw1YtAwQgYUETh8iK) | [Poetic Justice: Music from the Motion Picture](https://open.spotify.com/album/4cexzIEP1mkthBusUZZeB3) | 5:22 |
-| 50 | [The One](https://open.spotify.com/track/4tx7dIsrwf5fICyePU8NFk) | [Wc And The Maad Circle](https://open.spotify.com/artist/2BNJSSIoivoAWGlyRb6nhq) | [Curb Servin'](https://open.spotify.com/album/5ZG9lsrp6Dw9nYH7V2Jsuh) | 3:51 |
+| 50 | [Strap On The Side](https://open.spotify.com/track/3sfAumzy0rGj6WEhuuRqz6) | [Spice 1](https://open.spotify.com/artist/4TqmaFJYM8SvuhrunxpmT3) | [Amerikkka's Nightmare](https://open.spotify.com/album/7zOLP3fNyHcY3kKlhGhl9o) | 4:47 |
 
-Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMGY1OWY4YzgzYjNlODY4YWExODFlZGM3ZDVmNDdiNjdl`
+Snapshot ID: `MTY1NzAwNTE1NiwwMDAwMDAwMGVkNDk1NzkxOTI5NDNhNzc4NGU4MzIyMDY4NThmM2Vl`

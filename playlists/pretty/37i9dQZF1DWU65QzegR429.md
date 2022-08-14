@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU65QzegR429.md) - [plain]
 
 > Latin music making waves\. Cover: Jenn Morel
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,389 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,400 likes - 43 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

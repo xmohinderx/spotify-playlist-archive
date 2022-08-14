@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > A bailar con la mejor cumbia sudamericana\. Foto: Rafaga.
 
-[Spotify](https://open.spotify.com/user/spotify) - 662,635 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 662,965 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 52 | [La Cumbia Del Infinito](https://open.spotify.com/track/4bMqrcFJszZ8HzT9rb0Tfz) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [De Buenos Aires Para El Mundo](https://open.spotify.com/album/6lWHI43OEAIWn0gfMxwvZE) | 3:25 |
 | 53 | [Te Llevas Mi Vida](https://open.spotify.com/track/2uOUobz0fNo2rs2relzB4N) | [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Llevas Mi Vida](https://open.spotify.com/album/1sXfRjfRtUWwwBwugKsxzR) | 3:52 |
 | 54 | [O Me Voy O Te Vas](https://open.spotify.com/track/5L4UniqOA53WswdQRc4lxH) | [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [O Me Voy O Te Vas](https://open.spotify.com/album/73PgMjbUraBmIa68eOLr2k) | 5:02 |
-| 55 | [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 |
+| 55 | [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 |
 | 56 | [Hoy Te Vi \- Remasterizado 2019](https://open.spotify.com/track/2XpNHiC5BMpfaZRJngdz5a) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Hoy Te Vi](https://open.spotify.com/album/3zTgssC09xvqTyx0P9K55d) | 3:34 |
 | 57 | [Se Me Ha Perdido Un Corazón](https://open.spotify.com/track/2OzSJG7HmZYTiggNoGujZP) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/6IGIqpi9vP4bbBBjwJUL0y) | 3:30 |
 | 58 | [Como Olvidarla](https://open.spotify.com/track/1hJVwecirYRcWvIqXtKq7u) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como Olvidarla](https://open.spotify.com/album/6IDAEHuhGbPr7r4seDjhk3) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [Sueño Encontrarme Con Vos](https://open.spotify.com/track/6gXcMPtHYJr50M76EqyOG3) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6) | [Sueño Encontrarme Con Vos](https://open.spotify.com/album/4rhvmFlosE3w7Rvy3Uoxb7) | 3:47 |
 | 100 | [Esperandote](https://open.spotify.com/track/1p8dnCh9eOPVARLbIrpPWV) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Esperandote](https://open.spotify.com/album/30lzvxFlN1pmaa0NqUSvZ1) | 3:48 |
 
-Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMGE4ZGU5ZGRjZDUxMTJkNTE3Yzc0MDdjODhlNWVhMWFk`
+Snapshot ID: `MTY2MDI3MzIwMCwwMDAwMDAwMDZkYjc3Y2FlYzVmNTBmY2Y3ZGQ5YzA0MmI1OWQ3MzQx`

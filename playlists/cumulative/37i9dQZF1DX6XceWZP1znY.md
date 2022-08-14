@@ -4,7 +4,7 @@
 
 > Listen to your favourite Anime songs, all in one playlist.
 
-576 songs - 1 day 14 hr 41 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
+577 songs - 1 day 14 hr 45 min - [published](https://open.spotify.com/playlist/4H5YYTXfYVIPc6bncg5u8V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [ninelie](https://open.spotify.com/track/164YLgHJYhqOEYUcAc93Xz) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 4:21 | 2022-06-07 |  |
 | [ninelie](https://open.spotify.com/track/6kQ9Os7x5LJ2jLHb8VWKaa) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm), [Chelly](https://open.spotify.com/artist/7IYp1PwnGxaoNmljusPO8Z) | [Daydream](https://open.spotify.com/album/0rzOTrywE0mNybhErlmD5e) | 4:21 | 2022-06-07 | 2022-06-28 |
 | [No Continue](https://open.spotify.com/track/5UKABRz7YlRofkc5KsOx2A) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [No Continue](https://open.spotify.com/album/3o0M6nYy5OvhUmtk6m7Gmn) | 4:05 | 2022-06-07 | 2022-07-26 |
+| [NO MAN'S DAWN](https://open.spotify.com/track/3w7j5vtYOyNoB2hewUgn0G) | [前島麻由](https://open.spotify.com/artist/0M0v61x8lN3rDLbmTnlYBg) | [ENDING THEME FROM TV SERIES ”OVERLORD IV”](https://open.spotify.com/album/6fiyEepRkKNW1rRZLVgt0P) | 3:53 | 2022-08-11 |  |
 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 | 2022-06-07 |  |
 | [No.1](https://open.spotify.com/track/3GIhgMadHu26VHLEeXviGD) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [No.1 \-Special Edition\-](https://open.spotify.com/album/4FHIrNlHnVl4VDLnkiYfno) | 3:52 | 2022-06-07 |  |
 | [Nocturne](https://open.spotify.com/track/6rIiTCNRFSNpFER8R1chAC) | [Hinano](https://open.spotify.com/artist/5YWTfW6V637AZqljGfrWoI) | [nocturne](https://open.spotify.com/album/5kVXzT1Mx2dgSrYnSMBhhc) | 4:29 | 2022-06-07 | 2022-07-25 |
@@ -268,7 +269,7 @@
 | [Sing My Pleasure](https://open.spotify.com/track/6wOazYrDGLhMAhwU6RArlg) | [ヴィヴィ\(Vo.八木海莉\)](https://open.spotify.com/artist/0yJlj2EYshHk9BWkEAR15k) | [Sing My Pleasure](https://open.spotify.com/album/2fHdvnc0QMfIFci1rm7MXN) | 4:49 | 2022-06-07 |  |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/5duEyPwRu0D5RVLkVORqLG) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ALL IN](https://open.spotify.com/album/06EHg8PHtDhbZMpE0jmhEn) | 2:16 | 2022-06-07 |  |
 | [SLUMP \-Japanese ver.\-](https://open.spotify.com/track/66JOk3VWkYDxriXsuYtqDc) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SLUMP \-Japanese ver.\-](https://open.spotify.com/album/5ny4DPSYvFntWlN0NoCcDC) | 2:17 | 2022-06-07 | 2022-07-29 |
-| [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 |  |
+| [Small world](https://open.spotify.com/track/2E2Ax3uzsMRM1KbzSzHfB3) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [Small world](https://open.spotify.com/album/2tPzJBPpHmEQfmn9xlVuLD) | 5:22 | 2022-06-07 | 2022-08-14 |
 | [SPARK\-AGAIN](https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [SPARK\-AGAIN](https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG) | 4:04 | 2022-06-07 |  |
 | [STACKiNG](https://open.spotify.com/track/0B2ZtMEByFD3MNxgBbL81B) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [STACKiNG](https://open.spotify.com/album/4qovcBWVJKiCAmkOvJwJn4) | 4:10 | 2022-06-07 | 2022-06-30 |
 | [Stay With Me](https://open.spotify.com/track/40bWOGeQYljPPVRQoM8fNk) | [Seven Billion Dots](https://open.spotify.com/artist/15q0tk3egz6qJQAzRpMbMl) | [Stay With Me](https://open.spotify.com/album/4WJjpxxa5pXCAskyYNrK7k) | 4:41 | 2022-06-07 | 2022-07-29 |

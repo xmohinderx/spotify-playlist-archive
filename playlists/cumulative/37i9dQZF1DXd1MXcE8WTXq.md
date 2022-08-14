@@ -4,7 +4,7 @@
 
 > Remember these summer tunes?
 
-370 songs - 22 hr 13 min - [published](https://open.spotify.com/playlist/76ixext8iYF9hl0BaLK20o)
+371 songs - 22 hr 17 min - [published](https://open.spotify.com/playlist/76ixext8iYF9hl0BaLK20o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,10 +142,11 @@
 | [Holiday](https://open.spotify.com/track/69lthMmNtlYX3woh9LK3yx) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [Laidback Luke](https://open.spotify.com/artist/53cQZtWDwDJwVCNZlfJ6Qk) | [Tongue N' Cheek \(Dirtee Deluxe Edition\)](https://open.spotify.com/album/3D8oReEDS5wROmx2DbxX0z) | 3:40 | 2022-03-29 | 2022-04-16 |
 | [Hot \- Play & Win Radio Version](https://open.spotify.com/track/75h7HxRTgNr87wYFdhWB3r) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Hot](https://open.spotify.com/album/0HduudtTtmQll2zkAJ111r) | 3:37 | 2022-03-29 | 2022-04-21 |
 | [Hot Fun in the Summertime](https://open.spotify.com/track/4t6NQkpUmvpvLDCkl3XuwA) | [Sly & The Family Stone](https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD) | [Greatest Hits](https://open.spotify.com/album/0UM9SydcBtsklCTFgGLvcT) | 2:37 | 2022-03-29 | 2022-07-13 |
-| [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2021-04-09 |  |
+| [Hot In Herre](https://open.spotify.com/track/04KTF78FFg8sOHC1BADqbY) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Nellyville](https://open.spotify.com/album/4HUUHHXBXImwksfbSPqE7q) | 3:48 | 2021-04-09 | 2022-08-14 |
 | [Hot Stuff](https://open.spotify.com/track/2vaHFRlL8eLXKLhZ47CtpO) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/3pO9uRVL8kmoVfkcN73w3h) | 5:14 | 2021-04-09 | 2022-04-24 |
 | [Hotel California \(Spanish Mix\)](https://open.spotify.com/track/4Rvhe8O90hFIExTJkdrRPM) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [!Volare! The Very Best of the Gipsy Kings](https://open.spotify.com/album/1I1PxMVe6EXx9I3BlhQ3id) | 5:46 | 2022-03-27 | 2022-04-21 |
 | [Human](https://open.spotify.com/track/5mhUPDWQH3s544WCsa0r9w) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age](https://open.spotify.com/album/39JESZeZjLUrjwQtCrRs6d) | 4:05 | 2021-04-09 | 2022-07-29 |
+| [Human](https://open.spotify.com/track/1sTsuZTdANkiFd7T34H3nb) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Day & Age \(Bonus Tracks\)](https://open.spotify.com/album/0Ug5scDXUIgGN8yanDBLQw) | 4:05 | 2022-04-18 |  |
 | [Hymn for the Weekend \- Seeb Remix](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Hymn for the Weekend \(Seeb Remix\)](https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw) | 3:32 | 2022-04-01 | 2022-04-18 |
 | [I Can See Clearly Now](https://open.spotify.com/track/7aJZxI6TVdIvQSuWxQ4rqp) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [We All Are One: The Best Of Jimmy Cliff](https://open.spotify.com/album/0g0F1l0hQ1nZTelBbmlmB5) | 3:16 | 2022-03-15 | 2022-07-29 |
 | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/track/1WSGTYKLEpKfNQYYW5Oymt) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [I Can’t Get Enough \(benny blanco, Selena Gomez, J Balvin, Tainy\)](https://open.spotify.com/album/2IUVG5x1G7l0TW1LA61Eyy) | 2:38 | 2022-03-29 | 2022-04-21 |

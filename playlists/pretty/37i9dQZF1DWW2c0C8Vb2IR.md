@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 
 > All new, all jazz\. <a href="spotify:genre:0JQ5IMCbQBLmUyU8VyapEr">Click here for more new jazz.</a> Cover: Julian Lage
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,060 likes - 29 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,113 likes - 29 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2c0C8Vb2IR.md) - [plain]
 | 22 | [Volta ao Catopê](https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI) | [Pedro Gomes](https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ) | [Volta ao Catopê](https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K) | 4:17 |
 | 23 | [Panda Party](https://open.spotify.com/track/3Ir7EIxsWzA1JvPUxUSNZq) | [Mathias Heise Quadrillion](https://open.spotify.com/artist/3QuZw5X0grwQpZa02Vby2r), [Mathias Heise](https://open.spotify.com/artist/5VDMcXFNkMZ3bB9bt9jRFW) | [Panda Party](https://open.spotify.com/album/3ogztuwkbWXcydCD9knPeK) | 6:46 |
 | 24 | [Brasilified](https://open.spotify.com/track/2xajUBrhtVWPgic2D7Nt4s) | [Cliff Korman](https://open.spotify.com/artist/7GWSG3QqC182f549tqhXpL) | [Brasilified](https://open.spotify.com/album/7J5GeaQynTJ3HhGHuBEFZS) | 5:03 |
-| 25 | [Juncture](https://open.spotify.com/track/6AxRpQ4zj85DtRdoxG2Y6J) | [Mikkel Villingshøj Quartet](https://open.spotify.com/artist/6mTrIMyRcBMi99TyxOA2iw), [Pelle Fridell](https://open.spotify.com/artist/3d810ewZxutlJFFj5ov3jA), [Anders Rose](https://open.spotify.com/artist/4lUtz08Rg5tP6yz8c6EsBF), [Andreas Hatholt](https://open.spotify.com/artist/0f68ztcTvzcD9w4S2TbuXZ), [Mikkel Villingshøj](https://open.spotify.com/artist/5noRo7Lav8PsfdF3FJsf1B) | [Juncture](https://open.spotify.com/album/3ZeoJpzwEnMMTiusOhUDbW) | 5:52 |
+| 25 | [Juncture](https://open.spotify.com/track/6AxRpQ4zj85DtRdoxG2Y6J) | [Mikkel Villingshøj Quartet](https://open.spotify.com/artist/6mTrIMyRcBMi99TyxOA2iw), [Mikkel Villingshøj](https://open.spotify.com/artist/5noRo7Lav8PsfdF3FJsf1B) | [Juncture](https://open.spotify.com/album/3ZeoJpzwEnMMTiusOhUDbW) | 5:52 |
 | 26 | [Lift Up My Eyes](https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE) | [Dave Douglas Quintet](https://open.spotify.com/artist/47a6PDcqoGixzRNY0SDdj5), [Jon Irabagon](https://open.spotify.com/artist/6KvgFOz25fmSt3Iizz8tPS), [Matt Mitchell](https://open.spotify.com/artist/5YP7nSBWjN9yoANLVzrD1G), [Linda May Han Oh](https://open.spotify.com/artist/1TOuijxFR45Xc1702ki9VC), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Lift Up My Eyes](https://open.spotify.com/album/33AhxjYUAxCLg3wdZIaThe) | 6:57 |
 | 27 | [The Grand Maze](https://open.spotify.com/track/1aaXoC1hESOTNmRmSEn7ns) | [Jacob Roved Quintet](https://open.spotify.com/artist/7GtNzyMUm0JLoKs8XrxqCB), [Jacob Roved](https://open.spotify.com/artist/4NuB9MixMoBdiyfcifI9A7) | [The Grand Maze](https://open.spotify.com/album/3KZRkDntFiE5dmh3XkqF47) | 6:16 |
 | 28 | [Surprised By Joy](https://open.spotify.com/track/0AkEjuyW8S47LaVVIlfA2P) | [Ernesto Cervini](https://open.spotify.com/artist/1P2gzHf6MZrBqdMntUuAlQ) | [Surprised by Joy](https://open.spotify.com/album/5aLDYNdWQuhM4AlF7OhCJS) | 4:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,261 likes - 52 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,266 likes - 52 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 18 | [Wild About You, Baby](https://open.spotify.com/track/4bSX7lBKZlyIVP4cHJVhna) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Hound Dog Taylor & The Houserockers](https://open.spotify.com/album/3whc6JMkDLZMngoWFIMJYV) | 3:39 |
 | 19 | [Sound Of A Broken Man](https://open.spotify.com/track/7BOqaAr7LvvujogwSOlsdT) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [Winning Hand](https://open.spotify.com/album/0KcQqzRRmtu7hsPcEHJXXA) | 4:51 |
 | 20 | [Down Home Blues](https://open.spotify.com/track/3OHj5SY6j7Ftmfa7qZJWoa) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k), [Billy Branch](https://open.spotify.com/artist/5cUazMvxcAPELFif0BGn2t), [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs), [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK) | [Harp Attack!](https://open.spotify.com/album/1zivuph8N0dHpL4k0SA94b) | 6:23 |
-| 21 | [Let The Juke Joint Jump](https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Force Of Nature](https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN) | 6:09 |
-| 22 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
+| 21 | [312 Blood](https://open.spotify.com/track/6rRCC8vOdzR12gdf33Cb5u) | [Nick Moss Band](https://open.spotify.com/artist/6B3fdJhhhAVJ4RTrFAptMM), [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Lucky Guy!](https://open.spotify.com/album/5tWeZuFba1X0sJPBnj2oW3) | 3:09 |
+| 22 | [Let The Juke Joint Jump](https://open.spotify.com/track/6wgAmLxLzLmRm8sQ0REnn4) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Force Of Nature](https://open.spotify.com/album/2K1GPgXQm5WU0b623kN7ZN) | 6:09 |
 | 23 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
 | 24 | [Phillips Goes Bananas](https://open.spotify.com/track/5gfRFbVkh7Ppxe13omloWz) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 2:37 |
 | 25 | [Evil On My Mind \- Remastered](https://open.spotify.com/track/5rq5YNOQrxvZqkcTQG10Fm) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 2:20 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1BcGDqSxiaP.md) - [plain]
 | 51 | [If Trouble Was Money](https://open.spotify.com/track/63t31Qj7dDoNxeo5UTrEBL) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 45th Anniversary Collection](https://open.spotify.com/album/6kpeOuu1Z7cbasKOurTs0B) | 8:00 |
 | 52 | [My Time After A While](https://open.spotify.com/track/0wluTX9lMR6MxlZyPsclHi) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [Serious Business](https://open.spotify.com/album/30XtgsTePORy5sbslFewYU) | 6:17 |
 
-Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMGNlZTA3NThjNWQ3YzM2ODJhZjY3ZDUxMjkxYjM2NzVh`
+Snapshot ID: `MTYxOTY5MTIzMiwwMDAwMDAwMDFhNjNmNWYzYWY4Mjg5NTJkMGM4MjAyMGQ2OTI0NmE4`

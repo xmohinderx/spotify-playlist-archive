@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 848863,
+  "num_followers": 849042,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDI0MjBiN2QwMWZhMzkzMjIxMGQ1OGNmYzE2YzNjYTgx",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDc4YzliMjNhM2FiODE4NzUwN2Y0MDQ0OWNjMWMxMmU2",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -223,38 +223,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        }
-      ],
-      "duration_ms": 144677,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "How it is",
-        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
-      },
-      "artists": [
-        {
-          "name": "Malaa",
-          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "How it is",
-      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "No Piensa",
         "url": "https://open.spotify.com/album/2iM5sFcSVqjikpJ67hcrvA"
       },
@@ -275,6 +243,38 @@
       "duration_ms": 149268,
       "name": "No Piensa",
       "url": "https://open.spotify.com/track/5wk4ccb7pQYrFgxfkeuZOQ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "How it is",
+        "url": "https://open.spotify.com/album/2DjP7cXRnwyry7ji5iVYcc"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "How it is",
+      "url": "https://open.spotify.com/track/7HQEKWXO8oGMvnGSvhRK4j"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/5ik87NiTm8sIW95DZjJPUk"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        }
+      ],
+      "duration_ms": 144677,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/2nCIE2AVFQ1adRVkocdGOp"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "We Don\u2019t Need",
+        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
+      },
+      "artists": [
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        },
+        {
+          "name": "Piero Pirupa",
+          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
+        }
+      ],
+      "duration_ms": 188644,
+      "name": "We Don\u2019t Need",
+      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Pressure",
         "url": "https://open.spotify.com/album/14oFsRCnzCf9gS2RKZR47f"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 171984,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4D8Jh26RrDmNTeXL43kXBE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Another Level (ft. Lovespeake)",
-        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Lovespeake",
-          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
-        }
-      ],
-      "duration_ms": 145941,
-      "name": "Another Level (ft. Lovespeake)",
-      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -443,6 +443,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Another Level (ft. Lovespeake)",
+        "url": "https://open.spotify.com/album/2xeEcUG4blN1kzZYfid0Wd"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Lovespeake",
+          "url": "https://open.spotify.com/artist/0svmVqwlzmbBfwofH6uGbk"
+        }
+      ],
+      "duration_ms": 145941,
+      "name": "Another Level (ft. Lovespeake)",
+      "url": "https://open.spotify.com/track/2jSVBVxFFQY15Ce0V8HUH9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Eternity (feat. Lena Leon)",
         "url": "https://open.spotify.com/album/7AKRqqkDVhqDZMwmcjBPiV"
       },
@@ -463,26 +483,6 @@
       "duration_ms": 217258,
       "name": "Eternity (feat. Lena Leon)",
       "url": "https://open.spotify.com/track/7DDIVNWlbGJpQjVDDg8rXR"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "We Don\u2019t Need",
-        "url": "https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE"
-      },
-      "artists": [
-        {
-          "name": "Oliver Heldens",
-          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
-        },
-        {
-          "name": "Piero Pirupa",
-          "url": "https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB"
-        }
-      ],
-      "duration_ms": 188644,
-      "name": "We Don\u2019t Need",
-      "url": "https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -587,30 +587,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Your Body",
-        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
-      },
-      "artists": [
-        {
-          "name": "DLMT",
-          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
-        },
-        {
-          "name": "Famba",
-          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
-        },
-        {
-          "name": "Kyra Mastro",
-          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
-        }
-      ],
-      "duration_ms": 165120,
-      "name": "Your Body",
-      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/0m7I09FiI0eYNT87TUazHg"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 168170,
       "name": "Magic Carpet",
       "url": "https://open.spotify.com/track/7nEJrG2KIiH6PoDL1Ae5at"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Your Body",
+        "url": "https://open.spotify.com/album/4XB7p9PeV12nwZfQlI4nFP"
+      },
+      "artists": [
+        {
+          "name": "DLMT",
+          "url": "https://open.spotify.com/artist/5rG00A9pRANrMDzVI3DrmF"
+        },
+        {
+          "name": "Famba",
+          "url": "https://open.spotify.com/artist/5hXPnS34O3Kq3O8dkaE9FM"
+        },
+        {
+          "name": "Kyra Mastro",
+          "url": "https://open.spotify.com/artist/0VijmgKPGaaOsmM6jWgbQJ"
+        }
+      ],
+      "duration_ms": 165120,
+      "name": "Your Body",
+      "url": "https://open.spotify.com/track/4UV5qm4XHQETdXrVZjIsSU"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -715,6 +715,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Have Me All (feat. Jelita)",
+        "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jelita",
+          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+        }
+      ],
+      "duration_ms": 170004,
+      "name": "Have Me All (feat. Jelita)",
+      "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Fly With Us",
         "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
       },
@@ -755,22 +775,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Have Me All (feat. Jelita)",
-        "url": "https://open.spotify.com/album/5vHDD8MnfAvxZwC9wGWPTR"
+        "name": "No Man",
+        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
       },
       "artists": [
         {
-          "name": "Bleu Clair",
-          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+          "name": "SMACK",
+          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
         },
         {
-          "name": "Jelita",
-          "url": "https://open.spotify.com/artist/596BA0qMEP52RCEOiqIrnr"
+          "name": "No Thanks",
+          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
+        },
+        {
+          "name": "WEiRD GRRL",
+          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
         }
       ],
-      "duration_ms": 170004,
-      "name": "Have Me All (feat. Jelita)",
-      "url": "https://open.spotify.com/track/5uxSxL44LynLj2xstL0ogf"
+      "duration_ms": 133477,
+      "name": "No Man",
+      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -807,30 +831,6 @@
       "duration_ms": 202515,
       "name": "Eyes On You",
       "url": "https://open.spotify.com/track/1evX3NUBE7QujnSmky2ox4"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "No Man",
-        "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
-      },
-      "artists": [
-        {
-          "name": "SMACK",
-          "url": "https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug"
-        },
-        {
-          "name": "No Thanks",
-          "url": "https://open.spotify.com/artist/1RyEwwco6XV0jQnxLgCU34"
-        },
-        {
-          "name": "WEiRD GRRL",
-          "url": "https://open.spotify.com/artist/6cQgcxR1BLZkXA7R0JrtIz"
-        }
-      ],
-      "duration_ms": 133477,
-      "name": "No Man",
-      "url": "https://open.spotify.com/track/1A9viOL3Wl4lNr6apKIfBC"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -967,6 +967,26 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1191,6 +1211,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Let's Get Down",
+        "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
+      },
+      "artists": [
+        {
+          "name": "Firebeatz",
+          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "Let's Get Down",
+      "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "PPL",
         "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
       },
@@ -1211,22 +1247,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Let's Get Down",
-        "url": "https://open.spotify.com/album/0RMwN0JKg3S63dZQzhwhL6"
-      },
-      "artists": [
-        {
-          "name": "Firebeatz",
-          "url": "https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "Let's Get Down",
-      "url": "https://open.spotify.com/track/0XMEQwAZFgX4PGb5eu67B8"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
       },
@@ -1239,6 +1259,22 @@
       "duration_ms": 161951,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1263,18 +1299,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+        "name": "Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
       },
       "artists": [
         {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
         }
       ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+      "duration_ms": 184266,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1311,26 +1351,6 @@
       "duration_ms": 238544,
       "name": "Hypno",
       "url": "https://open.spotify.com/track/1IEMI8XjtORqBnqc40SX8X"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Prock House",
-        "url": "https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "ALOTT",
-          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
-        }
-      ],
-      "duration_ms": 181875,
-      "name": "End of Slaphouse",
-      "url": "https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1379,6 +1399,26 @@
       "duration_ms": 185714,
       "name": "Same Stars",
       "url": "https://open.spotify.com/track/2fXIiMWnBLfPBxpQ7DTvMO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Prock House",
+        "url": "https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "ALOTT",
+          "url": "https://open.spotify.com/artist/5NIERWixyvXlwwmiJgFms3"
+        }
+      ],
+      "duration_ms": 181875,
+      "name": "End of Slaphouse",
+      "url": "https://open.spotify.com/track/06Pb2d8P6wAaGyrRUYOFJc"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1523,6 +1563,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Green Light (feat. Kate Wild)",
         "url": "https://open.spotify.com/album/6blqmHrgEubFGOJOcIsCUj"
       },
@@ -1543,22 +1599,6 @@
       "duration_ms": 157500,
       "name": "Green Light (feat. Kate Wild)",
       "url": "https://open.spotify.com/track/4SnBJPqAZmf18gF4vlqEWL"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1675,6 +1715,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Strut (Sofi Tukker Remix)",
         "url": "https://open.spotify.com/album/6ocuXtWD8MENZxginKNy7J"
       },
@@ -1691,26 +1751,6 @@
       "duration_ms": 189965,
       "name": "Strut - Sofi Tukker Remix",
       "url": "https://open.spotify.com/track/2XUX1LmtKEISX9Xy0P9lq1"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "BEYGE",
-          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1831,26 +1871,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "The Underground",
-        "url": "https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO"
-      },
-      "artists": [
-        {
-          "name": "RayRay",
-          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
-        },
-        {
-          "name": "MorganJ",
-          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
-        }
-      ],
-      "duration_ms": 155238,
-      "name": "The Underground",
-      "url": "https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Oh Lord",
         "url": "https://open.spotify.com/album/6mUQJM02hQgWKI9HN5OBlC"
       },
@@ -1915,6 +1935,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "The Underground",
+        "url": "https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "MorganJ",
+          "url": "https://open.spotify.com/artist/5irwemCIBdwWYTZrcxX2UW"
+        }
+      ],
+      "duration_ms": 155238,
+      "name": "The Underground",
+      "url": "https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Play By My Rules",
         "url": "https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p"
       },
@@ -1927,42 +1967,6 @@
       "duration_ms": 217142,
       "name": "Play By My Rules",
       "url": "https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Take Me Higher",
-        "url": "https://open.spotify.com/album/5BL906ys501Nd1UJIlNuPC"
-      },
-      "artists": [
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        },
-        {
-          "name": "Castion",
-          "url": "https://open.spotify.com/artist/4xt0qH1NubQexyAzDa9UlR"
-        }
-      ],
-      "duration_ms": 169523,
-      "name": "Take Me Higher",
-      "url": "https://open.spotify.com/track/6QrS4daQd2HhJWLnq3bs1q"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "You Should Already Know",
-        "url": "https://open.spotify.com/album/3j3wrTkB29l68Ebi2bDfTy"
-      },
-      "artists": [
-        {
-          "name": "Croatia Squad",
-          "url": "https://open.spotify.com/artist/3FAUGHLioXySQ1QTnCOWQC"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "You Should Already Know",
-      "url": "https://open.spotify.com/track/6fBHOF46O8LUNI78ZtAK7S"
     }
   ],
   "unique_name": "Shuffle Syndrome",

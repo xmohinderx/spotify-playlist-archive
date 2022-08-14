@@ -1,12 +1,12 @@
 {
   "description": "Introducing Alma \u2014 a soul born from Latin and house music.",
-  "num_followers": 1395,
+  "num_followers": 1408,
   "original_name": "Alma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMGY2MzA3N2Y1NTBiZTVjMDNmYTkyMTlmZWExNzZlZjY0",
+  "snapshot_id": "MTY1MTU4OTc5NCwwMDAwMDAwMDZiNWYzOGZkMmEzZDA1ZTMwOTcxZjQ2ZWMxNjM3M2Qy",
   "tracks": [
     {
       "added_at": "2022-02-11 17:33:41",
@@ -235,26 +235,6 @@
     {
       "added_at": "2021-10-08 15:53:55",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
-      },
-      "artists": [
-        {
-          "name": "Jack Villa",
-          "url": "https://open.spotify.com/artist/0l7O0oybr784STfyacus4o"
-        },
-        {
-          "name": "George Z",
-          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
-        }
-      ],
-      "duration_ms": 190987,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
-    },
-    {
-      "added_at": "2021-10-08 15:53:55",
-      "album": {
         "name": "Mi Casa",
         "url": "https://open.spotify.com/album/1CLz2LKEShUpzhylJcaEHt"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 167397,
       "name": "Mi Casa",
       "url": "https://open.spotify.com/track/1TVeCLmOhfvBm68Okc6xmo"
+    },
+    {
+      "added_at": "2021-10-08 15:53:55",
+      "album": {
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/53ZzWR211mpgiMr6usGH4W"
+      },
+      "artists": [
+        {
+          "name": "Jack Villa",
+          "url": "https://open.spotify.com/artist/0l7O0oybr784STfyacus4o"
+        },
+        {
+          "name": "George Z",
+          "url": "https://open.spotify.com/artist/5IewgFvCqYIYpf660mYVqo"
+        }
+      ],
+      "duration_ms": 190987,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/0FrP64eh0yTC3uDVsq0wG4"
     },
     {
       "added_at": "2021-10-08 15:53:55",

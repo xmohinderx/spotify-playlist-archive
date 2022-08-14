@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Presentamos a Kevin Kaarl, nuestro artista Radar!",
-  "num_followers": 58884,
+  "num_followers": 58920,
   "original_name": "RADAR M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk4Mjg3NiwwMDAwMDAwMGQ4OGViMGI4MjI3ZTBmMjllYzRlYzBiMmFkYTA1MTY2",
+  "snapshot_id": "MTY1OTk4Mjg3NiwwMDAwMDAwMGZjNGZhMjFmYTRlZTgzNDU0ZmZkZGUxNjk2MjUyY2U1",
   "tracks": [
     {
       "added_at": "2022-08-01 05:00:00",
@@ -229,42 +229,6 @@
       "url": "https://open.spotify.com/track/22PH5e4SxE8EPI5YVc0Zin"
     },
     {
-      "added_at": "2022-06-07 05:00:00",
-      "album": {
-        "name": "Rep\u00edtelo",
-        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Joey Montana",
-          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
-        }
-      ],
-      "duration_ms": 201066,
-      "name": "Rep\u00edtelo",
-      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Un Viaje Diferente",
-        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
-      },
-      "artists": [
-        {
-          "name": "Diferente Nivel",
-          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
-        }
-      ],
-      "duration_ms": 222693,
-      "name": "Todo Porque Te Amo",
-      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Lluvia De Micheladas",
@@ -291,6 +255,42 @@
       "duration_ms": 222275,
       "name": "Lluvia De Micheladas",
       "url": "https://open.spotify.com/track/1YAqv5QidJkRcwZo1FV6s1"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Un Viaje Diferente",
+        "url": "https://open.spotify.com/album/0xNHJgl1s8jYp2AB4fjOSP"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        }
+      ],
+      "duration_ms": 222693,
+      "name": "Todo Porque Te Amo",
+      "url": "https://open.spotify.com/track/42xGhi8vZ7cowI55hWgYzP"
+    },
+    {
+      "added_at": "2022-06-07 05:00:00",
+      "album": {
+        "name": "Rep\u00edtelo",
+        "url": "https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Joey Montana",
+          "url": "https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX"
+        }
+      ],
+      "duration_ms": 201066,
+      "name": "Rep\u00edtelo",
+      "url": "https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -437,6 +437,22 @@
       "url": "https://open.spotify.com/track/0miQuUmnk0hQ0HaviDOrUA"
     },
     {
+      "added_at": "2022-06-07 05:00:00",
+      "album": {
+        "name": "Y Te Lo Digo Yo",
+        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        }
+      ],
+      "duration_ms": 137400,
+      "name": "Olvidarte",
+      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
+    },
+    {
       "added_at": "2022-06-03 15:10:16",
       "album": {
         "name": "Salud Por Eso",
@@ -463,26 +479,6 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "No Vale la Pena",
-        "url": "https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout"
-      },
-      "artists": [
-        {
-          "name": "La Santa Grifa",
-          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
-        },
-        {
-          "name": "Elie Tigre",
-          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
-        }
-      ],
-      "duration_ms": 218932,
-      "name": "No Vale La Pena",
-      "url": "https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
         "name": "Qu\u00e9date Conmigo",
         "url": "https://open.spotify.com/album/3VlJVBVcyprRfIf21M7fVk"
       },
@@ -501,20 +497,24 @@
       "url": "https://open.spotify.com/track/6CwnSxlEYLdfmPGFlY61XC"
     },
     {
-      "added_at": "2022-06-07 05:00:00",
+      "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Y Te Lo Digo Yo",
-        "url": "https://open.spotify.com/album/5c1Tq06BqlqyiMlFZKGlxg"
+        "name": "No Vale la Pena",
+        "url": "https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout"
       },
       "artists": [
         {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+          "name": "La Santa Grifa",
+          "url": "https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A"
+        },
+        {
+          "name": "Elie Tigre",
+          "url": "https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1"
         }
       ],
-      "duration_ms": 137400,
-      "name": "Olvidarte",
-      "url": "https://open.spotify.com/track/1sq5yMUQfFvrJ62WfBUSNW"
+      "duration_ms": 218932,
+      "name": "No Vale La Pena",
+      "url": "https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -597,24 +597,44 @@
       "url": "https://open.spotify.com/track/2FnzbCfyXlz6pgPLkptZbr"
     },
     {
+      "added_at": "2022-06-07 05:00:00",
+      "album": {
+        "name": "Mala Man\u00eda",
+        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
+      },
+      "artists": [
+        {
+          "name": "Nicole Favre",
+          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
+        },
+        {
+          "name": "Aczino",
+          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        }
+      ],
+      "duration_ms": 203893,
+      "name": "Mala Man\u00eda",
+      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
+    },
+    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "911",
-        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
+        "name": "Fabulosa de Paris",
+        "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
       },
       "artists": [
         {
           "name": "Bellakath",
           "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Dj Yaso",
-          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
         }
       ],
-      "duration_ms": 166173,
-      "name": "R9 Aleteo",
-      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
+      "duration_ms": 173408,
+      "name": "Fabulosa de Paris",
+      "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -635,22 +655,6 @@
       "duration_ms": 157280,
       "name": "Te Vas",
       "url": "https://open.spotify.com/track/17zk128PQ4dP3aYrCDEg3v"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 171750,
-      "name": "Yo no Necesito de Mucho",
-      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -685,30 +689,6 @@
       "url": "https://open.spotify.com/track/02NMSq5GXpSPCAD2tQgJQM"
     },
     {
-      "added_at": "2022-06-07 05:00:00",
-      "album": {
-        "name": "Mala Man\u00eda",
-        "url": "https://open.spotify.com/album/4eZbwhYczFU1dPCnnAmqSs"
-      },
-      "artists": [
-        {
-          "name": "Nicole Favre",
-          "url": "https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1"
-        },
-        {
-          "name": "Aczino",
-          "url": "https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mala Man\u00eda",
-      "url": "https://open.spotify.com/track/3pik0x3rCS47RC649NRAq5"
-    },
-    {
       "added_at": "2022-05-13 21:33:14",
       "album": {
         "name": "Dm",
@@ -727,6 +707,22 @@
       "duration_ms": 183956,
       "name": "Dm",
       "url": "https://open.spotify.com/track/2HMCrWscGOkbUel0sCW0Bp"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 171750,
+      "name": "Yo no Necesito de Mucho",
+      "url": "https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -763,18 +759,22 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Fabulosa de Paris",
-        "url": "https://open.spotify.com/album/7xrhpUxZuo4Qdj7NEnG2EJ"
+        "name": "Se\u00f1ales",
+        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "Sobrino",
+          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
+        },
+        {
+          "name": "Ana Mancebo",
+          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
         }
       ],
-      "duration_ms": 173408,
-      "name": "Fabulosa de Paris",
-      "url": "https://open.spotify.com/track/6kf9m7QlacUGYQstQBkCZ6"
+      "duration_ms": 183997,
+      "name": "Se\u00f1ales",
+      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
+        "name": "911",
+        "url": "https://open.spotify.com/album/18J0q27mMOs2kvlxH2Kqci"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Dj Yaso",
+          "url": "https://open.spotify.com/artist/6tt7Ubp6rzh4lqATTvdOmd"
+        }
+      ],
+      "duration_ms": 166173,
+      "name": "R9 Aleteo",
+      "url": "https://open.spotify.com/track/037VJbDruLmBcxzlEks9oa"
+    },
+    {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
         "name": "Caf\u00e9 Conmigo",
         "url": "https://open.spotify.com/album/22jSbACBDtGXlqMbZPeIu5"
       },
@@ -807,50 +827,6 @@
       "duration_ms": 176238,
       "name": "Caf\u00e9 Conmigo",
       "url": "https://open.spotify.com/track/3X6zoxS109LGpWrz7WysW0"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "M\u00e1s Tarde (Remix)",
-        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
-      },
-      "artists": [
-        {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
-        },
-        {
-          "name": "Elilluminari",
-          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
-        },
-        {
-          "name": "Ey Gary",
-          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "M\u00e1s Tarde (Remix)",
-      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
-    },
-    {
-      "added_at": "2022-05-13 21:33:14",
-      "album": {
-        "name": "Se\u00f1ales",
-        "url": "https://open.spotify.com/album/79rbLkI6PIg2VmANXERMqB"
-      },
-      "artists": [
-        {
-          "name": "Sobrino",
-          "url": "https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf"
-        },
-        {
-          "name": "Ana Mancebo",
-          "url": "https://open.spotify.com/artist/2jc3R2Jcr4J78KeYt71Epd"
-        }
-      ],
-      "duration_ms": 183997,
-      "name": "Se\u00f1ales",
-      "url": "https://open.spotify.com/track/4JxWLbQM9XrPDK1vghEjaY"
     },
     {
       "added_at": "2022-05-13 21:33:14",
@@ -885,6 +861,30 @@
       "url": "https://open.spotify.com/track/73Op2YIk2Ea5kJ9uHd99QH"
     },
     {
+      "added_at": "2022-05-13 21:33:14",
+      "album": {
+        "name": "M\u00e1s Tarde (Remix)",
+        "url": "https://open.spotify.com/album/73YYxkYl0FlBgD2uhfeTHR"
+      },
+      "artists": [
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        },
+        {
+          "name": "Ey Gary",
+          "url": "https://open.spotify.com/artist/4b4iRS4BUIkDBteNwGc9Ww"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "M\u00e1s Tarde (Remix)",
+      "url": "https://open.spotify.com/track/46kwFYNCjWyNtc92c8ShxN"
+    },
+    {
       "added_at": "2022-06-03 15:10:16",
       "album": {
         "name": "Hoy Todo Bien",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-05-13 21:33:14",
       "album": {
-        "name": "Glommy Afternoon",
-        "url": "https://open.spotify.com/album/4k34ZmgvcK8b1ljA27Uu4d"
+        "name": "SESENTAYNUEVE",
+        "url": "https://open.spotify.com/album/6oSklR7vWOmzc7yD6OaEET"
       },
       "artists": [
         {
-          "name": "Prismatic Shapes",
-          "url": "https://open.spotify.com/artist/17HimzcvF4HNWP8YqBRu8q"
+          "name": "Alan Wittels",
+          "url": "https://open.spotify.com/artist/5JZYv0z6YzsztblsEpst8g"
         }
       ],
-      "duration_ms": 176470,
-      "name": "Empty Process",
-      "url": "https://open.spotify.com/track/3nV6TxijHm8BJwZl7wjck8"
+      "duration_ms": 122986,
+      "name": "SESENTAYNUEVE",
+      "url": "https://open.spotify.com/track/1jlmhmxdbTUI4jY4Rbkeqs"
     }
   ],
   "unique_name": "RADAR M\u00e9xico",

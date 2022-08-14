@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Baby Bugs
 
-521 songs - 1 day 1 hr 57 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
+522 songs - 1 day 2 hr 0 min - [published](https://open.spotify.com/playlist/2haHBtUGc1WwW279RE9x3F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,8 @@
 | [Anything Was Better](https://open.spotify.com/track/6k94bJDkpIpB5ixbNedsul) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Anything Was Better](https://open.spotify.com/album/3lOL6wkd772WZMcBRnAZKm) | 2:57 | 2022-05-26 | 2022-07-22 |
 | [Are You Unhappy?](https://open.spotify.com/track/61O1YCDQ2NnKz4xcyh49UW) | [Craig's Brother](https://open.spotify.com/artist/7vQBiuIC5Ac3zwezkl6Y8S) | [Are You Unhappy?](https://open.spotify.com/album/1J9zdM6Ndjrd3QlMNFgDqd) | 3:43 | 2022-05-26 | 2022-07-08 |
 | [Arm's Length](https://open.spotify.com/track/7t4LARzhISs3JPGhSZnsSq) | [Pool Kids](https://open.spotify.com/artist/6yoW6SfviQ5D4Wa5jGxh7f) | [Arm's Length](https://open.spotify.com/album/7CmMXb8dpxte308mtqGqwe) | 4:18 | 2022-07-14 |  |
-| [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/1lPdVGhYGvE9RiWQ5zB7lI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/album/4V0dVPKKUWESWe45QHkT86) | 2:52 | 2022-07-21 |  |
+| [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/1lPdVGhYGvE9RiWQ5zB7lI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/album/4V0dVPKKUWESWe45QHkT86) | 2:52 | 2022-07-21 | 2022-08-14 |
+| [As We Live \(feat\. Tim Armstrong & Rhoda Dakar\)](https://open.spotify.com/track/2rsrUjh63rWpT3amc4N6GV) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF), [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3), [Rhoda Dakar](https://open.spotify.com/artist/28q3NuNiFoeWa1UVdbNzOH) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 2:52 | 2022-08-11 |  |
 | [ATTENTION!](https://open.spotify.com/track/5w4nlSCMfNT2TdopSd0Lmu) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [ATTENTION!](https://open.spotify.com/album/7zM6DDsuOyzy85DMg6Ktfh) | 2:41 | 2022-08-04 |  |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-04-07 | 2022-05-27 |
 | [Baby, I Had an Abortion](https://open.spotify.com/track/5ilQi9gYgFQohJ5olmtigL) | [Petrol Girls](https://open.spotify.com/artist/7dEx5Gii91YpvTOzrrvx5L) | [Baby, I Had an Abortion](https://open.spotify.com/album/0MmQCI3aQdUXVAfN2q67V7) | 3:12 | 2022-02-11 | 2022-03-25 |

@@ -1,12 +1,12 @@
 {
   "description": "A collection of classics and recent tracks from the world of black and dark metal. Cover: Dimmu Borgir",
-  "num_followers": 396885,
+  "num_followers": 396996,
   "original_name": "Black & Dark Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzNDA4NiwwMDAwMDAwMDM4NDFmM2YxZWFjMTU5YTYwM2ViZTEyYWRjZWNjODY5",
+  "snapshot_id": "MTY2MDMzNDA4NiwwMDAwMDAwMDI0YWI1MjU0N2Y0MmRkMjIwZDQxODA5ZDVjYjg2ZGM3",
   "tracks": [
     {
       "added_at": "2022-08-12 13:00:00",
@@ -701,20 +701,20 @@
       "url": "https://open.spotify.com/track/3Snzs0C112fbgi5q9nQKnj"
     },
     {
-      "added_at": "2022-06-10 08:23:59",
+      "added_at": "2022-07-13 15:09:12",
       "album": {
-        "name": "Rashomon",
-        "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
+        "name": "Enthrone Darkness Triumphant",
+        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
       },
       "artists": [
         {
-          "name": "Ibaraki",
-          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
+          "name": "Dimmu Borgir",
+          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
         }
       ],
-      "duration_ms": 454920,
-      "name": "Kagutsuchi",
-      "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
+      "duration_ms": 342160,
+      "name": "In Death's Embrace",
+      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
     },
     {
       "added_at": "2022-07-13 15:09:12",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-07-13 15:09:12",
       "album": {
-        "name": "Enthrone Darkness Triumphant",
-        "url": "https://open.spotify.com/album/2vsIQw5nIfbO2N4X6pfXU9"
+        "name": "Nemesis Divina",
+        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
       },
       "artists": [
         {
-          "name": "Dimmu Borgir",
-          "url": "https://open.spotify.com/artist/6e8ISIsI7UQZPyEorefAhK"
+          "name": "Satyricon",
+          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
         }
       ],
-      "duration_ms": 342160,
-      "name": "In Death's Embrace",
-      "url": "https://open.spotify.com/track/33Tw7bBpn08xmigGaruVhL"
+      "duration_ms": 385413,
+      "name": "Mother North",
+      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
     },
     {
       "added_at": "2022-07-13 15:09:12",
@@ -765,20 +765,20 @@
       "url": "https://open.spotify.com/track/62aAEJfIS8Vi5JCU9z4ZRl"
     },
     {
-      "added_at": "2022-07-13 15:09:12",
+      "added_at": "2022-06-10 08:23:59",
       "album": {
-        "name": "Nemesis Divina",
-        "url": "https://open.spotify.com/album/1R4Dava3wQxKN0As0OcQFb"
+        "name": "Rashomon",
+        "url": "https://open.spotify.com/album/3iErNnoi1sc1pqKntalRN2"
       },
       "artists": [
         {
-          "name": "Satyricon",
-          "url": "https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd"
+          "name": "Ibaraki",
+          "url": "https://open.spotify.com/artist/2KfAvhpbfc8YkLBj6w3hfU"
         }
       ],
-      "duration_ms": 385413,
-      "name": "Mother North",
-      "url": "https://open.spotify.com/track/79iREiH6mrODItQGLaidt8"
+      "duration_ms": 454920,
+      "name": "Kagutsuchi",
+      "url": "https://open.spotify.com/track/33jOwx7sKn4ugMYsGgJG41"
     },
     {
       "added_at": "2022-07-13 15:09:12",
@@ -847,22 +847,6 @@
     {
       "added_at": "2022-07-13 15:09:12",
       "album": {
-        "name": "Under A Funeral Moon",
-        "url": "https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj"
-      },
-      "artists": [
-        {
-          "name": "Darkthrone",
-          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
-        }
-      ],
-      "duration_ms": 306880,
-      "name": "Under a Funeral Moon - Studio",
-      "url": "https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go"
-    },
-    {
-      "added_at": "2022-07-13 15:09:12",
-      "album": {
         "name": "Cruelty & The Beast",
         "url": "https://open.spotify.com/album/1mANCcmAMRlnFIBM7SHBg7"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 438733,
       "name": "Cruelty Brought Thee Orchids",
       "url": "https://open.spotify.com/track/4G5P8iFosipk75ka1Zi4ob"
+    },
+    {
+      "added_at": "2022-07-13 15:09:12",
+      "album": {
+        "name": "Under A Funeral Moon",
+        "url": "https://open.spotify.com/album/2TXZleYLiza8MszRBsDMsj"
+      },
+      "artists": [
+        {
+          "name": "Darkthrone",
+          "url": "https://open.spotify.com/artist/7kWnE981vITXDnAD2cZmCV"
+        }
+      ],
+      "duration_ms": 306880,
+      "name": "Under a Funeral Moon - Studio",
+      "url": "https://open.spotify.com/track/1a0QUQlASChJk64UV2j9Go"
     },
     {
       "added_at": "2022-07-13 15:09:12",
@@ -1005,6 +1005,22 @@
       "url": "https://open.spotify.com/track/2JzcrgG7EroPtXVTfSNo8G"
     },
     {
+      "added_at": "2022-06-10 08:23:59",
+      "album": {
+        "name": "Where Fear and Weapons Meet",
+        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
+      },
+      "artists": [
+        {
+          "name": "1914",
+          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
+        }
+      ],
+      "duration_ms": 354249,
+      "name": "Fn .380 Acp#19074",
+      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
+    },
+    {
       "added_at": "2022-07-13 15:09:12",
       "album": {
         "name": "Tara",
@@ -1035,22 +1051,6 @@
       "duration_ms": 340466,
       "name": "Fucking Your Ghost In Chains of Ice",
       "url": "https://open.spotify.com/track/5maiXlxUmXjlKqqqpJbctD"
-    },
-    {
-      "added_at": "2022-06-10 08:23:59",
-      "album": {
-        "name": "Where Fear and Weapons Meet",
-        "url": "https://open.spotify.com/album/05u8REOHWoW9b25e7KvZvW"
-      },
-      "artists": [
-        {
-          "name": "1914",
-          "url": "https://open.spotify.com/artist/0IpKWttPlwhd7Cevxsh1Bz"
-        }
-      ],
-      "duration_ms": 354249,
-      "name": "Fn .380 Acp#19074",
-      "url": "https://open.spotify.com/track/3yYfPXQ5hRYVV7lgOFlPWr"
     },
     {
       "added_at": "2022-06-10 08:23:59",
@@ -1541,38 +1541,6 @@
       "url": "https://open.spotify.com/track/4UmELaFGGfsLbN1P5kH5Ax"
     },
     {
-      "added_at": "2022-06-10 08:23:59",
-      "album": {
-        "name": "Popecrusher",
-        "url": "https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8"
-      },
-      "artists": [
-        {
-          "name": "Witchery",
-          "url": "https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10"
-        }
-      ],
-      "duration_ms": 188346,
-      "name": "Popecrusher",
-      "url": "https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO"
-    },
-    {
-      "added_at": "2022-07-13 15:09:12",
-      "album": {
-        "name": "To Embrace the Corpses Bleeding",
-        "url": "https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ"
-      },
-      "artists": [
-        {
-          "name": "Judas Iscariot",
-          "url": "https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Bathed in Clouds of Blood",
-      "url": "https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk"
-    },
-    {
       "added_at": "2022-07-13 15:09:12",
       "album": {
         "name": "Nattens Madrigal",
@@ -1591,6 +1559,38 @@
     {
       "added_at": "2022-07-13 15:09:12",
       "album": {
+        "name": "To Embrace the Corpses Bleeding",
+        "url": "https://open.spotify.com/album/5aJR9XznroTV3CpKyhO8EQ"
+      },
+      "artists": [
+        {
+          "name": "Judas Iscariot",
+          "url": "https://open.spotify.com/artist/5G1MlYyOsiG56mjlsZHsLC"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Bathed in Clouds of Blood",
+      "url": "https://open.spotify.com/track/0Ms5AudGd4Umj3nOyXlzYk"
+    },
+    {
+      "added_at": "2022-06-10 08:23:59",
+      "album": {
+        "name": "Popecrusher",
+        "url": "https://open.spotify.com/album/5lp8Fhsz1D6kZypBMGUDn8"
+      },
+      "artists": [
+        {
+          "name": "Witchery",
+          "url": "https://open.spotify.com/artist/0ucuxyPTAHv0TPkA1WBV10"
+        }
+      ],
+      "duration_ms": 188346,
+      "name": "Popecrusher",
+      "url": "https://open.spotify.com/track/112ODhA6Xh9999jyqpYAmO"
+    },
+    {
+      "added_at": "2022-07-13 15:09:12",
+      "album": {
         "name": "Frost",
         "url": "https://open.spotify.com/album/788vAauAwMdVMkdlgiyzMx"
       },
@@ -1605,20 +1605,20 @@
       "url": "https://open.spotify.com/track/27vcwfCcgCaso2A0hifBT9"
     },
     {
-      "added_at": "2022-07-13 15:09:12",
+      "added_at": "2022-06-10 08:23:59",
       "album": {
-        "name": "Through Chasm, Caves And Titan Woods",
-        "url": "https://open.spotify.com/album/6wW5MkAhpOr0QRtznvqqPH"
+        "name": "Noktvrn",
+        "url": "https://open.spotify.com/album/6zwADRYkyJFcMmuwE48r7A"
       },
       "artists": [
         {
-          "name": "Carpathian Forest",
-          "url": "https://open.spotify.com/artist/0sFntmE9T1tiF6G6O6Lm3H"
+          "name": "Der Weg einer Freiheit",
+          "url": "https://open.spotify.com/artist/7e823b0KQoVtLG86Ui5xGD"
         }
       ],
-      "duration_ms": 175973,
-      "name": "The Pale Mist Hovers Towards the Nightly Shores",
-      "url": "https://open.spotify.com/track/10T3UIoqFkTUCGjZUuG6Gi"
+      "duration_ms": 497740,
+      "name": "Am Rande der Dunkelheit",
+      "url": "https://open.spotify.com/track/0ZnZp0Fo1Gxwx8dC8ol65F"
     }
   ],
   "unique_name": "Black & Dark Metal",

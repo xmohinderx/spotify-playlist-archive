@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o.",
-  "num_followers": 89835,
+  "num_followers": 89939,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDJiYTM1OWI1NmRkNWFhNTM1OGQzNTk3ZDE5YjM3OGVl",
+  "snapshot_id": "MTYzMDYwNzc5NywwMDAwMDAwMDViODk2ZmYzMzZiNjc5ODhkM2Y3MDY2ZmIxNGQ5NmY0",
   "tracks": [
     {
       "added_at": "2021-09-02 18:36:37",
@@ -371,6 +371,22 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Glockada",
+        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 121678,
+      "name": "Glockada",
+      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Assault (Angra)",
         "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Glockada",
-        "url": "https://open.spotify.com/album/0if1rCePNP4OueF2hIbPcF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 121678,
-      "name": "Glockada",
-      "url": "https://open.spotify.com/track/4f3e6HRUIu5Ub2mcwu8god"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -539,26 +539,18 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Dior",
-        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
+        "name": "Bendito",
+        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
       },
       "artists": [
         {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
         }
       ],
-      "duration_ms": 134634,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
+      "duration_ms": 177869,
+      "name": "Bendito",
+      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -587,18 +579,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Bendito",
-        "url": "https://open.spotify.com/album/0VkG6GIwPJ7SoWE4pbocIm"
+        "name": "Dior",
+        "url": "https://open.spotify.com/album/79fVjt1Csv8t5s2XqN2xqN"
       },
       "artists": [
         {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 177869,
-      "name": "Bendito",
-      "url": "https://open.spotify.com/track/7hmUr86smWd2FeviTU1P72"
+      "duration_ms": 134634,
+      "name": "Dior",
+      "url": "https://open.spotify.com/track/5wtUQY9UnGkbRlVYxGppry"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Love And Choppa",
-        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
-      },
-      "artists": [
-        {
-          "name": "NGC Daddy",
-          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
-        }
-      ],
-      "duration_ms": 140855,
-      "name": "Love And Choppa",
-      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "Meu Corre",
         "url": "https://open.spotify.com/album/1jFY75tKVWiLmiCRe6WFGr"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 170181,
       "name": "Meu Corre",
       "url": "https://open.spotify.com/track/0iTTbJikpkTpjn4FUwH9lW"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "Love And Choppa",
+        "url": "https://open.spotify.com/album/4cTdjeCkYYssaUIWdhZhyF"
+      },
+      "artists": [
+        {
+          "name": "NGC Daddy",
+          "url": "https://open.spotify.com/artist/2iNFFCEAFdfAV5hPdpMk6x"
+        }
+      ],
+      "duration_ms": 140855,
+      "name": "Love And Choppa",
+      "url": "https://open.spotify.com/track/26NEo4Ar57Ph1daWpZX4ke"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -795,6 +795,26 @@
       "duration_ms": 213333,
       "name": "T\u00e1 com o Papato (feat. BIN)",
       "url": "https://open.spotify.com/track/5eT9vs7mv4Y4HrBWcP6abV"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
+        "name": "Bail\u00e3o",
+        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
+      },
+      "artists": [
+        {
+          "name": "Meno Tody",
+          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
+        },
+        {
+          "name": "Nobru Black",
+          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
+        }
+      ],
+      "duration_ms": 210616,
+      "name": "Bail\u00e3o",
+      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -839,26 +859,6 @@
       "duration_ms": 171789,
       "name": "Xeque-Mate (feat. Paiva Prod)",
       "url": "https://open.spotify.com/track/2Se6ItuMZiqQ2jZkwXzOO6"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Bail\u00e3o",
-        "url": "https://open.spotify.com/album/6Y0lWZcXvfvSHkJwsNFLwp"
-      },
-      "artists": [
-        {
-          "name": "Meno Tody",
-          "url": "https://open.spotify.com/artist/2mNP0EIVZICxF8NJ46SG0L"
-        },
-        {
-          "name": "Nobru Black",
-          "url": "https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7"
-        }
-      ],
-      "duration_ms": 210616,
-      "name": "Bail\u00e3o",
-      "url": "https://open.spotify.com/track/5dpFeWLyIjhJupWAG7U5PX"
     },
     {
       "added_at": "2021-09-02 18:36:37",
@@ -1119,6 +1119,26 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Criminal Influencer",
+        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Criminal Influencer",
+      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "Jordan",
         "url": "https://open.spotify.com/album/6zhfMgOecZi8lRQ43CO3jL"
       },
@@ -1199,26 +1219,6 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
-        "name": "Criminal Influencer",
-        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Criminal Influencer",
-      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
         "name": "POC POC",
         "url": "https://open.spotify.com/album/5JBShduEBqPGoydz7DD1l3"
       },
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2021-09-02 18:36:37",
       "album": {
+        "name": "Obrigado, M\u00e3e.",
+        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
+      },
+      "artists": [
+        {
+          "name": "Dfideliz",
+          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
+        }
+      ],
+      "duration_ms": 157090,
+      "name": "Obrigado, M\u00e3e.",
+      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
+    },
+    {
+      "added_at": "2021-09-02 18:36:37",
+      "album": {
         "name": "OUTRO PATAMAR",
         "url": "https://open.spotify.com/album/1nb3EIZXO75bxWDz0Agxfo"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 206608,
       "name": "OUTRO PATAMAR",
       "url": "https://open.spotify.com/track/48zE1jY1K1oqjpD3G6UGfH"
-    },
-    {
-      "added_at": "2021-09-02 18:36:37",
-      "album": {
-        "name": "Obrigado, M\u00e3e.",
-        "url": "https://open.spotify.com/album/7rFtXsg1Do5pAEfk44qfmL"
-      },
-      "artists": [
-        {
-          "name": "Dfideliz",
-          "url": "https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10"
-        }
-      ],
-      "duration_ms": 157090,
-      "name": "Obrigado, M\u00e3e.",
-      "url": "https://open.spotify.com/track/6skR4ZtK9TWsLpbxTbectM"
     },
     {
       "added_at": "2021-09-02 18:36:37",

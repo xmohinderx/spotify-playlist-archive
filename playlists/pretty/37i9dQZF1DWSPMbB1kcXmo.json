@@ -1,12 +1,12 @@
 {
   "description": "Viral classics. Yep, we're at that stage.",
-  "num_followers": 729338,
+  "num_followers": 730225,
   "original_name": "internet rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDAwMDI4YTIxNDQwOTZjMjllZWJjNWI5ODE5Y2Q2YzA4YjQy",
+  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDAwMDA3NjM2OTYxNmEzNDAzOWQyMDkzNTNiMzc4MTUyOWE3",
   "tracks": [
     {
       "added_at": "2022-05-27 04:01:00",
@@ -199,6 +199,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Dark Red",
+        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        }
+      ],
+      "duration_ms": 173104,
+      "name": "Dark Red",
+      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "INDUSTRY BABY (feat. Jack Harlow)",
         "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Dark Red",
-        "url": "https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ"
-      },
-      "artists": [
-        {
-          "name": "Steve Lacy",
-          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-        }
-      ],
-      "duration_ms": 173104,
-      "name": "Dark Red",
-      "url": "https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Whole Lotta Red",
-        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
-      },
-      "artists": [
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 193234,
-      "name": "Sky",
-      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 160191,
       "name": "telepat\u00eda",
       "url": "https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Whole Lotta Red",
+        "url": "https://open.spotify.com/album/2QRedhP5RmKJiJ1i8VgDGR"
+      },
+      "artists": [
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        }
+      ],
+      "duration_ms": 193234,
+      "name": "Sky",
+      "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -639,6 +639,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 122338,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 214240,
       "name": "Baby",
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Jealous",
-        "url": "https://open.spotify.com/album/4keJsdw9XhEvimhIgXmtO1"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 122338,
-      "name": "Jealous",
-      "url": "https://open.spotify.com/track/1aXV8GrmQLvgoFtBPERP7E"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Stop Staring At the Shadows",
+        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
+      },
+      "artists": [
+        {
+          "name": "$uicideboy$",
+          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
+        }
+      ],
+      "duration_ms": 168489,
+      "name": "...And to Those I Love, Thanks for Sticking Around",
+      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "Tell Em",
         "url": "https://open.spotify.com/album/3OE8gkPLqI9zr3hlEz6ruQ"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 180379,
       "name": "Tell Em",
       "url": "https://open.spotify.com/track/7nc7mlSdWYeFom84zZ8Wr8"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Stop Staring At the Shadows",
-        "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
-      },
-      "artists": [
-        {
-          "name": "$uicideboy$",
-          "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
-        }
-      ],
-      "duration_ms": 168489,
-      "name": "...And to Those I Love, Thanks for Sticking Around",
-      "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Immunity",
-        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
+        "name": "Astro Lounge",
+        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
       },
       "artists": [
         {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+          "name": "Smash Mouth",
+          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
         }
       ],
-      "duration_ms": 188386,
-      "name": "Sofia",
-      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
+      "duration_ms": 200373,
+      "name": "All Star",
+      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Astro Lounge",
-        "url": "https://open.spotify.com/album/2kyTLcEZe6nc1s6ve0zW9P"
+        "name": "Immunity",
+        "url": "https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd"
       },
       "artists": [
         {
-          "name": "Smash Mouth",
-          "url": "https://open.spotify.com/artist/2iEvnFsWxR0Syqu2JNopAd"
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
         }
       ],
-      "duration_ms": 200373,
-      "name": "All Star",
-      "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+      "duration_ms": 188386,
+      "name": "Sofia",
+      "url": "https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "LALISA",
-        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 168227,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Ladies And Gentlemen... The Best Of George Michael",
         "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 300106,
       "name": "Careless Whisper",
       "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "LALISA",
+        "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 168227,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/7hU3IHwjX150XLoTVmjD0q"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Looking Out for You",
-        "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
-      },
-      "artists": [
-        {
-          "name": "Joy Again",
-          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
-        }
-      ],
-      "duration_ms": 179499,
-      "name": "Looking Out for You",
-      "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -1235,18 +1219,18 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+        "name": "Looking Out for You",
+        "url": "https://open.spotify.com/album/7slouenWhZDdDZibkS4nR3"
       },
       "artists": [
         {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+          "name": "Joy Again",
+          "url": "https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk"
         }
       ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
+      "duration_ms": 179499,
+      "name": "Looking Out for You",
+      "url": "https://open.spotify.com/track/3jfZ9M23l0L7RxzYMTgBTv"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1263,6 +1247,22 @@
       "duration_ms": 174000,
       "name": "I Hate U",
       "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Serotonin Dreams",
+        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
+      },
+      "artists": [
+        {
+          "name": "BoyWithUke",
+          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
+        }
+      ],
+      "duration_ms": 168066,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Nicotine",
-        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
-      },
-      "artists": [
-        {
-          "name": "Trevor Daniel",
-          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
-        }
-      ],
-      "duration_ms": 159381,
-      "name": "Falling",
-      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Ocean Eyes",
         "url": "https://open.spotify.com/album/3vf65wfk1EEjVhy6BjENsS"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 228346,
       "name": "Fireflies",
       "url": "https://open.spotify.com/track/3DamFFqW32WihKkTVlwTYQ"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
+      },
+      "artists": [
+        {
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "duration_ms": 159381,
+      "name": "Falling",
+      "url": "https://open.spotify.com/track/0Aqi7ArnBrGblW5T6p2jmD"
     }
   ],
   "unique_name": "internet rewind",

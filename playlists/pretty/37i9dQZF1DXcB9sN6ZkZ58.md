@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcB9sN6ZkZ58.md) - [plain]
 
 > Food sing\-a\-longs for breakfast, lunch, or snack time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,913 likes - 96 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,914 likes - 96 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

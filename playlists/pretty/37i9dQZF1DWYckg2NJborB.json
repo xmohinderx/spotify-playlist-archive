@@ -1,12 +1,12 @@
 {
   "description": "Suffering from writer's block? This collection of writerly and literature-inspired songs might help!.",
-  "num_followers": 53794,
+  "num_followers": 53790,
   "original_name": "The Writer's Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDZkYjUxMjFlOTUyZGMxM2E3Mjc0MzlkYjAyMGU1OTE4",
+  "snapshot_id": "MTU1NTQxNDUzMiwwMDAwMDAwMDFiZTQwOTI2ZWVmYjhlZjRiN2FmMzU4NDUzMzhkNjA1",
   "tracks": [
     {
       "added_at": "2018-12-10 14:56:06",
@@ -219,22 +219,6 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
-        "name": "Just Enough Education To Perform",
-        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
-      },
-      "artists": [
-        {
-          "name": "Stereophonics",
-          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
-        }
-      ],
-      "duration_ms": 319293,
-      "name": "Mr. Writer",
-      "url": "https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
         "name": "Tonight",
         "url": "https://open.spotify.com/album/6ppF24fU5pqbPrPuK5zVnS"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 193573,
       "name": "Ulysses",
       "url": "https://open.spotify.com/track/5sCjd47MEpd7vkvhYukANl"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
+        "name": "Just Enough Education To Perform",
+        "url": "https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "duration_ms": 319293,
+      "name": "Mr. Writer",
+      "url": "https://open.spotify.com/track/1D6dE2mMlGz3WN1gjKQ76E"
     },
     {
       "added_at": "2018-12-10 14:56:06",
@@ -763,6 +763,22 @@
     {
       "added_at": "2018-12-10 14:56:06",
       "album": {
+        "name": "Com Lag: 2+2=5",
+        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 238280,
+      "name": "Paperbag Writer",
+      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
+    },
+    {
+      "added_at": "2018-12-10 14:56:06",
+      "album": {
         "name": "The End of History",
         "url": "https://open.spotify.com/album/3lFILJkKAjwlUdSz4wwW4b"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 448013,
       "name": "The Tea Song",
       "url": "https://open.spotify.com/track/15WaCkvUPrsbWhjzgl12jv"
-    },
-    {
-      "added_at": "2018-12-10 14:56:06",
-      "album": {
-        "name": "Com Lag: 2+2=5",
-        "url": "https://open.spotify.com/album/5FI5652iVfs27I7zueBt6l"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 238280,
-      "name": "Paperbag Writer",
-      "url": "https://open.spotify.com/track/2VdQeSHJOxA1hk9PlOdWI9"
     }
   ],
   "unique_name": "The Writer's Playlist",

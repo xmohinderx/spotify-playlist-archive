@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-756 songs - 1 day 15 hr 44 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
+757 songs - 1 day 15 hr 47 min - [published](https://open.spotify.com/playlist/0xZxWo7riSweBRsHAunmHj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-05 | 2021-10-17 |
 | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/track/0P88fVbvRQGgRQN1GulQNy) | [Liilz](https://open.spotify.com/artist/0PfJ0SW9UpzczeHL5hgdwL), [ZieZie](https://open.spotify.com/artist/26XzvosH2cl8Re6KSo9m8Z) | [Glad U Came \(feat\. ZieZie\)](https://open.spotify.com/album/52JvEc5EDwgA854xVckQL9) | 2:05 | 2022-03-20 | 2022-04-30 |
 | [Gletscher](https://open.spotify.com/track/2LPIMcvvwn9jfpe3I55tI8) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [Lys Over Land 1](https://open.spotify.com/album/2NJaPWjalZ41VDHlywGyq3) | 3:22 | 2022-06-18 | 2022-06-20 |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-14 | 2022-08-14 |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-08 | 2022-05-22 |
 | [Go Dag](https://open.spotify.com/track/5vWvjEdSmZrXckC6bww7nY) | [Ude Af Kontrol](https://open.spotify.com/artist/2ZbyyCS8KLKsuoNlxc76Ev) | [Go Dag](https://open.spotify.com/album/6pyXCLYNoWrLt7Q9yStu1V) | 2:10 | 2021-07-31 | 2021-08-07 |
 | [GOAL](https://open.spotify.com/track/2pSFzEqskHjtDVcu2ZpN6E) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk), [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:03 | 2021-09-26 | 2021-10-23 |
@@ -630,6 +630,7 @@
 | [Smil Ik' Cry \(Gobs X ICEKIID\)](https://open.spotify.com/track/4fwBQlHrJUYOuSFa1JfBiZ) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [INTET TIL ALT \(DELUXE\)](https://open.spotify.com/album/6VlGt1WawD05ZTd5coZIrO) | 2:16 | 2022-04-16 | 2022-04-29 |
 | [Smokin Out The Window](https://open.spotify.com/track/4iN16F8JtVxG2UTzp3avGl) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [Smokin Out The Window](https://open.spotify.com/album/3BBsMXl00IfMxO7LCpYFU8) | 3:17 | 2021-11-11 | 2021-11-14 |
 | [Smokin Out The Window](https://open.spotify.com/track/7sMBvZCSUl99bJLXZaLa0b) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/2qLI9pIjubUQMlpdmid2sE) | 3:17 | 2021-11-14 | 2022-01-01 |
+| [SNAP](https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP PACK](https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof) | 2:59 | 2022-08-13 |  |
 | [Snowman](https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Everyday Is Christmas \(Deluxe Edition\)](https://open.spotify.com/album/2vcGYJcPfXUmCdcXXqqukg) | 2:45 | 2021-12-07 | 2021-12-29 |
 | [Solhverv](https://open.spotify.com/track/5x6ggDM895CRGHxS3dwRHz) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Solhverv](https://open.spotify.com/album/00knk068AEGY1pN5O7Y4Ax) | 3:33 | 2021-03-27\* | 2022-01-08 |
 | [Som Du Vil](https://open.spotify.com/track/7b0mc5QNr1YrLPinSDfFnC) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Som Du Vil](https://open.spotify.com/album/6xv5vsKLMr1ai2czLUi0dj) | 3:02 | 2021-04-11 | 2021-04-23 |

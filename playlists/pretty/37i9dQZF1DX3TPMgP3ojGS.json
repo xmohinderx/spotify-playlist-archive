@@ -1,12 +1,12 @@
 {
   "description": "Soft (the quietest of them all), subtle, no words needed. Take a sip and enjoy the music of composers from around the world.",
-  "num_followers": 287740,
+  "num_followers": 287886,
   "original_name": "Coffee and Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk5MjU1OSwwMDAwMDAwMDMxNDNhNjliZDE1NGQxMjdkYzlkNDM0Y2UzMWRkZTgz",
+  "snapshot_id": "MTY1OTk5MjU1OSwwMDAwMDAwMGE0Y2FmN2E0ODRhZTI5NDk5OTdiNTQ4MzgxZGI2NGRi",
   "tracks": [
     {
       "added_at": "2022-08-08 21:02:38",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Mind Like Water",
-        "url": "https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0"
-      },
-      "artists": [
-        {
-          "name": "Andreas Monta",
-          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
-        }
-      ],
-      "duration_ms": 120874,
-      "name": "Mind Like Water",
-      "url": "https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Libre",
         "url": "https://open.spotify.com/album/4H3g7aYu5vQ2stDtwlz8TJ"
       },
@@ -247,6 +231,38 @@
       "duration_ms": 143624,
       "name": "Libre",
       "url": "https://open.spotify.com/track/4v1nkqzbzajcLBxEnJ1AP3"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Marigold",
+        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+      },
+      "artists": [
+        {
+          "name": "Santo Trevisani",
+          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+        }
+      ],
+      "duration_ms": 132318,
+      "name": "Marigold",
+      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Mind Like Water",
+        "url": "https://open.spotify.com/album/5IKvJmKiZqUke2c6AaydA0"
+      },
+      "artists": [
+        {
+          "name": "Andreas Monta",
+          "url": "https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ"
+        }
+      ],
+      "duration_ms": 120874,
+      "name": "Mind Like Water",
+      "url": "https://open.spotify.com/track/4fcdZ4bM6DgVGOs9y13KIk"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -283,18 +299,18 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Marigold",
-        "url": "https://open.spotify.com/album/7JUStEDYdlP7l64AG5OhTq"
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
       },
       "artists": [
         {
-          "name": "Santo Trevisani",
-          "url": "https://open.spotify.com/artist/5veEOahK0E7EPbKKEI55pQ"
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
         }
       ],
-      "duration_ms": 132318,
-      "name": "Marigold",
-      "url": "https://open.spotify.com/track/4b4DLYtksvYepzKqdgSkAz"
+      "duration_ms": 196000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -311,22 +327,6 @@
       "duration_ms": 180635,
       "name": "Although",
       "url": "https://open.spotify.com/track/695BxK7VbbK6M4CRvtR5Sn"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/1eVrn1rTgnQZQuQOIZ0jfD"
-      },
-      "artists": [
-        {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3i5Qo75v7ijp9YE0iOnFS5"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Fleurs de cerisier",
-        "url": "https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS"
-      },
-      "artists": [
-        {
-          "name": "Chlo\u00e9 Czans",
-          "url": "https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Fleurs de cerisier",
-      "url": "https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Un Lent Mouvement",
         "url": "https://open.spotify.com/album/0y05yWTeZaHDO9hVZ3PLyb"
       },
@@ -411,18 +395,18 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Still",
-        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
+        "name": "Fleurs de cerisier",
+        "url": "https://open.spotify.com/album/6GNx3naU5PE4SjscEVOfCS"
       },
       "artists": [
         {
-          "name": "Frederiq",
-          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+          "name": "Chlo\u00e9 Czans",
+          "url": "https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu"
         }
       ],
-      "duration_ms": 151500,
-      "name": "Still",
-      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+      "duration_ms": 160000,
+      "name": "Fleurs de cerisier",
+      "url": "https://open.spotify.com/track/0CMjjw0RYpNfQ1VkkL6Bwf"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -443,6 +427,22 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "Still",
+        "url": "https://open.spotify.com/album/3nOLmnXZxUgsWXXE28TUeB"
+      },
+      "artists": [
+        {
+          "name": "Frederiq",
+          "url": "https://open.spotify.com/artist/4WdIA6FvazMuJOCReHzRN1"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Still",
+      "url": "https://open.spotify.com/track/2lMF3cGQbTOzELfwj4Ex3F"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Mid Air",
         "url": "https://open.spotify.com/album/3WDpzRaFtaWQlWxFQn8jxK"
       },
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Woods",
-          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
-        }
-      ],
-      "duration_ms": 163916,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Summer Light",
         "url": "https://open.spotify.com/album/249Ddjzxm1E5D5XWdI4NvA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 132681,
       "name": "Summer Light",
       "url": "https://open.spotify.com/track/3d8ujibjeeCh4tgyMwz2jk"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Woods",
+          "url": "https://open.spotify.com/artist/5my6FfdYpwFo5cEaaqzTnz"
+        }
+      ],
+      "duration_ms": 163916,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/2hxaiA9EtXjMlXhG6SCoW8"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "D'\u00e9meraude",
+        "url": "https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ"
+      },
+      "artists": [
+        {
+          "name": "Daniel Joav\u00ed",
+          "url": "https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "D'\u00e9meraude",
+      "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Il lago",
         "url": "https://open.spotify.com/album/1KoFQ5kYI2wyEjvwdkb582"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 180777,
       "name": "Before your eyes",
       "url": "https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "D'\u00e9meraude",
-        "url": "https://open.spotify.com/album/6oDTazvN0pOA0ZMLOvR5lJ"
-      },
-      "artists": [
-        {
-          "name": "Daniel Joav\u00ed",
-          "url": "https://open.spotify.com/artist/24edSJTejdFtLRivRZ7uGT"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "D'\u00e9meraude",
-      "url": "https://open.spotify.com/track/27NsmJyv3hRvtP9V48xYNB"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Tone of Love",
-        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
-      },
-      "artists": [
-        {
-          "name": "Charles Bolt",
-          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
-        }
-      ],
-      "duration_ms": 198952,
-      "name": "Tone of Love",
-      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Homeward",
         "url": "https://open.spotify.com/album/5bhd7KJdQuJfmpBlWFbQT9"
       },
@@ -715,18 +699,18 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Bienveillant",
-        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
+        "name": "Tone of Love",
+        "url": "https://open.spotify.com/album/5Q23RuwpOqhN28KtBOdnGp"
       },
       "artists": [
         {
-          "name": "Edie Chastain",
-          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
+          "name": "Charles Bolt",
+          "url": "https://open.spotify.com/artist/4FX5p8T76gw69sWyPbggCj"
         }
       ],
-      "duration_ms": 117472,
-      "name": "Bienveillant",
-      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
+      "duration_ms": 198952,
+      "name": "Tone of Love",
+      "url": "https://open.spotify.com/track/3Z0n8POAcDQCSyxA06cqbW"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -747,18 +731,18 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "In the meadow",
-        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
+        "name": "Bienveillant",
+        "url": "https://open.spotify.com/album/49FTA4izcTj5bCtLcDg3Cr"
       },
       "artists": [
         {
-          "name": "Eve Dennison",
-          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
+          "name": "Edie Chastain",
+          "url": "https://open.spotify.com/artist/1Vzm8Hkynchj9tII4nklKk"
         }
       ],
-      "duration_ms": 216000,
-      "name": "In the meadow",
-      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
+      "duration_ms": 117472,
+      "name": "Bienveillant",
+      "url": "https://open.spotify.com/track/0RFePvTBDtrlnhopyDRS73"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -795,6 +779,22 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "In the meadow",
+        "url": "https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn"
+      },
+      "artists": [
+        {
+          "name": "Eve Dennison",
+          "url": "https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "In the meadow",
+      "url": "https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF"
       },
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Ocean Heart",
-        "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
-      },
-      "artists": [
-        {
-          "name": "Hazel Adams",
-          "url": "https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Ocean Heart",
-      "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Places",
         "url": "https://open.spotify.com/album/1A8hQLxcKBLqsXXzqMIaKI"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 154291,
       "name": "Places",
       "url": "https://open.spotify.com/track/4Wvikn2Ltcfa8yhBM7Wblk"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "along the path",
+        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
+      },
+      "artists": [
+        {
+          "name": "Zecil Malka",
+          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
+        }
+      ],
+      "duration_ms": 127835,
+      "name": "along the path",
+      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "Ocean Heart",
+        "url": "https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL"
+      },
+      "artists": [
+        {
+          "name": "Hazel Adams",
+          "url": "https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Ocean Heart",
+      "url": "https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/3OLjWTVE7j1i2pWoBDRhoR"
       },
@@ -919,6 +935,22 @@
       "duration_ms": 160500,
       "name": "Travelling",
       "url": "https://open.spotify.com/track/64XD6XEroqjxW25e6ZMHMK"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "The Greek",
+        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
+      },
+      "artists": [
+        {
+          "name": "Miguel P\u00e9rez",
+          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+        }
+      ],
+      "duration_ms": 164999,
+      "name": "The Greek",
+      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -939,22 +971,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Ala",
-        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
-      },
-      "artists": [
-        {
-          "name": "Joep Beving",
-          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
-        }
-      ],
-      "duration_ms": 120741,
-      "name": "Ala",
-      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Oyasumi Nasai",
         "url": "https://open.spotify.com/album/6zH199CcNElk23h0lqJ9c4"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 164522,
       "name": "Oyasumi Nasai",
       "url": "https://open.spotify.com/track/6EtJU8JmcF7v8sLBEIO9tK"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Il Colibr\u00ec",
-        "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
-      },
-      "artists": [
-        {
-          "name": "Carlo Boscoli",
-          "url": "https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi"
-        }
-      ],
-      "duration_ms": 150187,
-      "name": "Il Colibr\u00ec",
-      "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1003,18 +1003,34 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "The Greek",
-        "url": "https://open.spotify.com/album/5KK54vaBmGiVmnggSiXPgb"
+        "name": "Il Colibr\u00ec",
+        "url": "https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS"
       },
       "artists": [
         {
-          "name": "Miguel P\u00e9rez",
-          "url": "https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8"
+          "name": "Carlo Boscoli",
+          "url": "https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi"
         }
       ],
-      "duration_ms": 164999,
-      "name": "The Greek",
-      "url": "https://open.spotify.com/track/6sMS6Z4qcxbtaF22plJzaM"
+      "duration_ms": 150187,
+      "name": "Il Colibr\u00ec",
+      "url": "https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Ala",
+        "url": "https://open.spotify.com/album/2Xwt6dmjCWZkOkkhWcWlfa"
+      },
+      "artists": [
+        {
+          "name": "Joep Beving",
+          "url": "https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y"
+        }
+      ],
+      "duration_ms": 120741,
+      "name": "Ala",
+      "url": "https://open.spotify.com/track/0vzSIBAqnN1HzvWrPbh6VF"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "along the path",
-        "url": "https://open.spotify.com/album/3SbUeiVDfgcoz4264AHdPU"
-      },
-      "artists": [
-        {
-          "name": "Zecil Malka",
-          "url": "https://open.spotify.com/artist/4wGDIWQL6UqKjNAoL2kKYp"
-        }
-      ],
-      "duration_ms": 127835,
-      "name": "along the path",
-      "url": "https://open.spotify.com/track/4xqtdONrwig5n3JGVBz1nv"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "The Blue Notebooks (15 Years)",
         "url": "https://open.spotify.com/album/1rTHmwhZwhhvivx3pdXXdo"
       },
@@ -1095,54 +1095,6 @@
       "duration_ms": 78546,
       "name": "Vladimir's Blues",
       "url": "https://open.spotify.com/track/6a7vpKrVXdAyMItaQI9ZYS"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Ordinary Day",
-        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
-      },
-      "artists": [
-        {
-          "name": "Eirin Nordness",
-          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
-        }
-      ],
-      "duration_ms": 150242,
-      "name": "Ordinary Day",
-      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Ellipses",
-        "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
-      },
-      "artists": [
-        {
-          "name": "Dominique Marais",
-          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
-        }
-      ],
-      "duration_ms": 151251,
-      "name": "Ellipses",
-      "url": "https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "To You Again",
-        "url": "https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm"
-      },
-      "artists": [
-        {
-          "name": "Filomena",
-          "url": "https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "To You Again",
-      "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1163,18 +1115,50 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Yearning",
-        "url": "https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9"
+        "name": "To You Again",
+        "url": "https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm"
       },
       "artists": [
         {
-          "name": "Carl Moir",
-          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+          "name": "Filomena",
+          "url": "https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k"
         }
       ],
-      "duration_ms": 130500,
-      "name": "Yearning",
-      "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"
+      "duration_ms": 128000,
+      "name": "To You Again",
+      "url": "https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Ellipses",
+        "url": "https://open.spotify.com/album/40Lka5pXfXf6wA3fRZAsZM"
+      },
+      "artists": [
+        {
+          "name": "Dominique Marais",
+          "url": "https://open.spotify.com/artist/76o2X35TzOHMAwIBz49n7K"
+        }
+      ],
+      "duration_ms": 151251,
+      "name": "Ellipses",
+      "url": "https://open.spotify.com/track/28GCsymrcDUXXLC12nkhp3"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Ordinary Day",
+        "url": "https://open.spotify.com/album/0qJc16aboQUNte3sC9fCZg"
+      },
+      "artists": [
+        {
+          "name": "Eirin Nordness",
+          "url": "https://open.spotify.com/artist/2QVUmJ4ycBEI4k0GbycoA2"
+        }
+      ],
+      "duration_ms": 150242,
+      "name": "Ordinary Day",
+      "url": "https://open.spotify.com/track/7rBPXnAOCwblAleRuYD79u"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1191,6 +1175,38 @@
       "duration_ms": 165898,
       "name": "Longest days",
       "url": "https://open.spotify.com/track/1fyoUmAZLx9tLmXA99Uxs4"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/5XCkU63XSSr8e4skFj37M9"
+      },
+      "artists": [
+        {
+          "name": "Carl Moir",
+          "url": "https://open.spotify.com/artist/1zrM4Ly0jnhCc9KJYYgFWO"
+        }
+      ],
+      "duration_ms": 130500,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/6nAIhrJFemcnHMrtfWcQ7k"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Tu as disparu",
+        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
+      },
+      "artists": [
+        {
+          "name": "Laetitia Dostie",
+          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
+        }
+      ],
+      "duration_ms": 115915,
+      "name": "Tu as disparu",
+      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1259,22 +1275,6 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Everlasting",
-        "url": "https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
-        }
-      ],
-      "duration_ms": 154374,
-      "name": "Everlasting",
-      "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
         "name": "Belle Vie De Tous Les Jours",
         "url": "https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI"
       },
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "Everlasting",
+        "url": "https://open.spotify.com/album/0rsXtotAmm85msyl1lakQd"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "duration_ms": 154374,
+      "name": "Everlasting",
+      "url": "https://open.spotify.com/track/6U0Rth9EM8xwmg7rtrKV3t"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Time Line",
         "url": "https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns"
       },
@@ -1319,54 +1335,6 @@
       "duration_ms": 130190,
       "name": "am ersten Tag",
       "url": "https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Tu as disparu",
-        "url": "https://open.spotify.com/album/1zNFGOB6nNKS6pHmkwpbaD"
-      },
-      "artists": [
-        {
-          "name": "Laetitia Dostie",
-          "url": "https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v"
-        }
-      ],
-      "duration_ms": 115915,
-      "name": "Tu as disparu",
-      "url": "https://open.spotify.com/track/7guzWL6scF2bIRud4Mfk9Y"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Sibylline",
-        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
-      },
-      "artists": [
-        {
-          "name": "Corinne Blanchard",
-          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
-        }
-      ],
-      "duration_ms": 131400,
-      "name": "Sibylline",
-      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Love Theme",
-        "url": "https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk"
-      },
-      "artists": [
-        {
-          "name": "Lucie Jean",
-          "url": "https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn"
-        }
-      ],
-      "duration_ms": 179874,
-      "name": "Love Theme",
-      "url": "https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1387,34 +1355,34 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Waiting For You",
-        "url": "https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc"
+        "name": "Love Theme",
+        "url": "https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk"
       },
       "artists": [
         {
-          "name": "Lavendle",
-          "url": "https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u"
+          "name": "Lucie Jean",
+          "url": "https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn"
         }
       ],
-      "duration_ms": 147750,
-      "name": "Waiting For You",
-      "url": "https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc"
+      "duration_ms": 179874,
+      "name": "Love Theme",
+      "url": "https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO"
     },
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD"
+        "name": "Sibylline",
+        "url": "https://open.spotify.com/album/5lo1m7awiXG4tBi5RQCDBJ"
       },
       "artists": [
         {
-          "name": "Cassandra Nestico",
-          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+          "name": "Corinne Blanchard",
+          "url": "https://open.spotify.com/artist/2zDTFnpiqFdhI2VhxBryyG"
         }
       ],
-      "duration_ms": 173276,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H"
+      "duration_ms": 131400,
+      "name": "Sibylline",
+      "url": "https://open.spotify.com/track/1g6eKf7X35dCZv8v8ZRx8P"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1451,6 +1419,38 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
+        "name": "Unassailable",
+        "url": "https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY"
+      },
+      "artists": [
+        {
+          "name": "Nadav Amir-Himmel",
+          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+        }
+      ],
+      "duration_ms": 194832,
+      "name": "Unassailable",
+      "url": "https://open.spotify.com/track/5n3cwcqeC5XvcBuix3ZuVC"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/6jY0TmYZKcSky12q7YoAKD"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Nestico",
+          "url": "https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9"
+        }
+      ],
+      "duration_ms": 173276,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6hB8cRpNQzIj7k6MCYh89H"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
         "name": "Circumstances",
         "url": "https://open.spotify.com/album/7Jn5nOh3o6ttSCTsZLmK1f"
       },
@@ -1483,50 +1483,18 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Unassailable",
-        "url": "https://open.spotify.com/album/2HPF5oiDvF7hhvzG5LjlnY"
+        "name": "Waiting For You",
+        "url": "https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc"
       },
       "artists": [
         {
-          "name": "Nadav Amir-Himmel",
-          "url": "https://open.spotify.com/artist/1gLEDK37zrK7KasVpnQZsZ"
+          "name": "Lavendle",
+          "url": "https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u"
         }
       ],
-      "duration_ms": 194832,
-      "name": "Unassailable",
-      "url": "https://open.spotify.com/track/5n3cwcqeC5XvcBuix3ZuVC"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Me Donner Un Essai",
-        "url": "https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue"
-      },
-      "artists": [
-        {
-          "name": "Zander Shaelyn",
-          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
-        }
-      ],
-      "duration_ms": 117423,
-      "name": "Me Donner Un Essai",
-      "url": "https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI"
-    },
-    {
-      "added_at": "2022-08-08 21:02:38",
-      "album": {
-        "name": "Le notti rosse",
-        "url": "https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr"
-      },
-      "artists": [
-        {
-          "name": "Marinella Necchi",
-          "url": "https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh"
-        }
-      ],
-      "duration_ms": 134595,
-      "name": "Le notti rosse",
-      "url": "https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF"
+      "duration_ms": 147750,
+      "name": "Waiting For You",
+      "url": "https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1547,18 +1515,34 @@
     {
       "added_at": "2022-08-08 21:02:38",
       "album": {
-        "name": "Fr\u00fch",
-        "url": "https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL"
+        "name": "Le notti rosse",
+        "url": "https://open.spotify.com/album/0iugzmYeYMj76R1NztVDHr"
       },
       "artists": [
         {
-          "name": "Franz Ewer",
-          "url": "https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu"
+          "name": "Marinella Necchi",
+          "url": "https://open.spotify.com/artist/4mnHDSsBjWQAaMr7zYXKnh"
         }
       ],
-      "duration_ms": 127217,
-      "name": "Fr\u00fch",
-      "url": "https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM"
+      "duration_ms": 134595,
+      "name": "Le notti rosse",
+      "url": "https://open.spotify.com/track/5axUCaGmmqMGXyAg8BF1FF"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Me Donner Un Essai",
+        "url": "https://open.spotify.com/album/3QxIGbmQmHIc8lYPETj6ue"
+      },
+      "artists": [
+        {
+          "name": "Zander Shaelyn",
+          "url": "https://open.spotify.com/artist/4MCqLBL3gv1AadG3HzOOKy"
+        }
+      ],
+      "duration_ms": 117423,
+      "name": "Me Donner Un Essai",
+      "url": "https://open.spotify.com/track/5BBfQHJVWKxlVEccsELxDI"
     },
     {
       "added_at": "2022-08-08 21:02:38",
@@ -1607,6 +1591,22 @@
       "duration_ms": 142124,
       "name": "Dans",
       "url": "https://open.spotify.com/track/32M1PQzEcQ3QayteUcZDrD"
+    },
+    {
+      "added_at": "2022-08-08 21:02:38",
+      "album": {
+        "name": "Sakteligen",
+        "url": "https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2"
+      },
+      "artists": [
+        {
+          "name": "Lykka Alve",
+          "url": "https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo"
+        }
+      ],
+      "duration_ms": 131906,
+      "name": "Sakteligen",
+      "url": "https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m"
     }
   ],
   "unique_name": "Coffee and Piano",

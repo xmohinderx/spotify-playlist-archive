@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Los Pericos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,648 likes - 89 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,662 likes - 89 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,23 +49,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 39 | [Pupilas Lejanas \(En Vivo\)](https://open.spotify.com/track/3b355y8meUI0ok4bhu9OpI) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [3000 Vivos \(En Vivo\)](https://open.spotify.com/album/7G7RCFtdv9cTAmOijHn0j1) | 4:00 |
 | 40 | [Tu Meta](https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Tu Meta](https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky) | 4:48 |
 | 41 | [Morena](https://open.spotify.com/track/1Qb92EJxnTsGcBEofiwMV0) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Morena](https://open.spotify.com/album/7bI88FeKBsGe9mT2xQFmj7) | 3:16 |
-| 42 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
-| 43 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
+| 42 | [Laba Laba Craven](https://open.spotify.com/track/3hd9TlZsdqhnzdndCbT1Kz) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN) | [Neigborhood Rules](https://open.spotify.com/album/2JyFsrq6OkrfH0mBRRYAiu) | 3:52 |
+| 43 | [Tan Distante](https://open.spotify.com/track/72t5gOSN80UxL23dyBelJ7) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Aguas Frescas De Jamaica](https://open.spotify.com/album/1svQZMx26EywFi49R1BMkX) | 4:38 |
 | 44 | [No Mires Atras](https://open.spotify.com/track/5p1tfHJsagO1inTgmiW7Sk) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Bahiano BH+](https://open.spotify.com/album/395z1bmOgVL9hz71ajyXSj) | 4:20 |
 | 45 | [Luz y Compañía](https://open.spotify.com/track/3Q0COFjoS7geL4ZrpmNNfB) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS) | [International Love](https://open.spotify.com/album/6TfIPMw7QqgcTEL0sIMW48) | 4:57 |
 | 46 | [Llamado](https://open.spotify.com/track/2JhNQJoJYc7SWkZgdVpGin) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo), [Anblessnabi](https://open.spotify.com/artist/3uqqh1xh1gsFU2LRewg4x7) | [Llamado](https://open.spotify.com/album/0W6E96gtjauTn9qfb8yA0H) | 3:45 |
 | 47 | [Quemando Tu Pecho](https://open.spotify.com/track/5MRAyyeWEQvcsf9BdruIIY) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 4:19 |
-| 48 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
+| 48 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
 | 49 | [Normal](https://open.spotify.com/track/7coiBABUHNhnrtwartgZyV) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Normal](https://open.spotify.com/album/4TDHPkZFHmvX2NM5S6y73c) | 4:27 |
-| 50 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
+| 50 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 51 | [Consentimiento](https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Mamita Peyote](https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H) | 4:31 |
 | 52 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
 | 53 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
 | 54 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 |
 | 55 | [Resistencia indigena](https://open.spotify.com/track/1dIhVyOcHzgL07hSO7IOex) | [Sig Ragga](https://open.spotify.com/artist/7hBKLnKOnLXNBwJ1l6p24J) | [Sig Ragga](https://open.spotify.com/album/6MzR1S3TxR1529UPnNtt4r) | 5:09 |
 | 56 | [Ángel Del Pasado](https://open.spotify.com/track/12hH9wErOXz1ZeOPJ8P33Q) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Ángel Del Pasado](https://open.spotify.com/album/2i3GeqMPvIHpEWUEMnOyqo) | 4:06 |
-| 57 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
-| 58 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
+| 57 | [Si No Fuera](https://open.spotify.com/track/5ohIvkIdzrX3Q9UWqojvkM) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Carpe Diem](https://open.spotify.com/album/0hjSy3tFI2uK4RcppyNASu) | 3:38 |
+| 58 | [Déjalo Fluir](https://open.spotify.com/track/32occ8ejTn4YM90KhPBAQA) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:25 |
 | 59 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
 | 60 | [Si vas a dejarme...](https://open.spotify.com/track/61xOrT5LUy1lS9zvzAmjWS) | [Mensajeros Reggae](https://open.spotify.com/artist/33gqwPfmv66I9QO0w5jXoE) | [Así](https://open.spotify.com/album/1Vnxc92RmrxMEoh3wyZFte) | 4:20 |
 | 61 | [La Pipa](https://open.spotify.com/track/5QFCziG8ZeMIDr1rJA3c8C) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Sergio Colombo Presenta el Natty Combo](https://open.spotify.com/album/598QEhVWqPjsH1G5WkKH1s) | 5:49 |
@@ -90,12 +90,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 80 | [Flores y Burbujas](https://open.spotify.com/track/0p5lbTxdlElyVC4VgpYsZD) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [Flores y Burbujas](https://open.spotify.com/album/6ml56iIIqEhsl7YxniYb3j) | 5:04 |
 | 81 | [Strengthen Your Mind](https://open.spotify.com/track/3BjRtnuG74eUj4dYp9mrDT) | [Contravos](https://open.spotify.com/artist/0q6mxrr4ww5O7gewXHIFMC) | [Actor Espectador](https://open.spotify.com/album/1ZHhYDXil7KaimaJkRa3CF) | 4:46 |
 | 82 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
-| 83 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
-| 84 | [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 |
+| 83 | [Al Final](https://open.spotify.com/track/0pc8uz5erBUl2LEgBQuVg0) | [An Espil](https://open.spotify.com/artist/0GEBrC42d3MZT2LpDPh2qt) | [Mentiras Lado B](https://open.spotify.com/album/5WLuDZiaytqLtMQwqQ09Rv) | 2:48 |
+| 84 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
 | 85 | [Cerquita](https://open.spotify.com/track/0Jmfcvb3PiCadPSCioXl8U) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe), [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [La Vida Es Una Canción II](https://open.spotify.com/album/3SJYDcY21FIkFFieIy8Qsd) | 4:18 |
 | 86 | [Diablito](https://open.spotify.com/track/2Z1rlQEgYannUuHeJmWYzp) | [Mamita Peyote](https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8) | [Runfla Calavera](https://open.spotify.com/album/7jSJ3aBEE9ENZrg5LJPAfc) | 3:50 |
 | 87 | [Va Salir](https://open.spotify.com/track/7FF4TyQSAvpukqX66mTGu0) | [BRAZA](https://open.spotify.com/artist/5F0iFhw7bZE7a8INjualJn), [Cuatro Pesos de Propina](https://open.spotify.com/artist/0ChnnP8vWVXGxmfUfFYeND) | [Va Salir](https://open.spotify.com/album/4YxwFWxeTj9cqJej7q40Vy) | 4:13 |
 | 88 | [La Clave](https://open.spotify.com/track/7CkVCRgoZWPt2v1WXRV7rs) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 4:43 |
 | 89 | [El Poder](https://open.spotify.com/track/7fVqTkbZBkLsgJJ5srFbAy) | [El Natty Combo](https://open.spotify.com/artist/4fH7GgndN1PBmd6S3Ux5W9) | [El Poder](https://open.spotify.com/album/5PKSiSTU30fvmR40S2bFdc) | 4:28 |
 
-Snapshot ID: `MTY1NjY0ODEyMCwwMDAwMDAwMDViZDk3MjhmM2U1OWYwNWUwNTNlOTZlNjhiZjMyMGQy`
+Snapshot ID: `MTY1NjY0ODEyMCwwMDAwMDAwMDdhMmFkMGExNTQxMTg5NGVjNTZhN2ViNGFiODI5MTFm`

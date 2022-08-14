@@ -4,7 +4,7 @@
 
 > Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles\. Cover: Wilco, Yeah Yeah Yeahs, and The Marías
 
-172 songs - 10 hr 49 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
+173 songs - 10 hr 53 min - [published](https://open.spotify.com/playlist/0jlSpfHrGrut3sIW12gjF5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Friends \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3jb6ByvjXfeM1p0ISGN584) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Spotify Singles](https://open.spotify.com/album/0VcmfkTIowuHgCCurP5xf7) | 3:00 | 2021-10-27 |  |
 | [Genghis Khan \- Jim Eno Sessions](https://open.spotify.com/track/5mFvYNykzBjdXRbPxKnvwA) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Spotify Sessions](https://open.spotify.com/album/7mqNAKmDhYPSA1NrvIG0wv) | 3:19 | 2021-10-27 |  |
 | [Give Yourself a Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4LEkamb9xfjXN2WccLZzgb) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/7c99hQVIhlC7u9zWo1O3SS) | 4:05 | 2021-10-27 | 2022-08-12 |
+| [Give Yourself A Try \- Recorded at RAK Studios, London](https://open.spotify.com/track/4OoqzDZZyckVUeExecQL8y) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [Spotify Singles](https://open.spotify.com/album/3xfiakKOICUZr8sAFvHnxQ) | 4:05 | 2022-03-30 |  |
 | [Glory \- Recorded At RAK Studios, London](https://open.spotify.com/track/6i1Rn2NjB2a55zq5F6FUAO) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Spotify Singles](https://open.spotify.com/album/0zIDCWV5CF01beePYqSPub) | 3:40 | 2021-10-27 |  |
 | [Gold Rush \- Live at Spotify Studios NYC](https://open.spotify.com/track/4WjTem6hVGUN0sQ83bilib) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Spotify Singles](https://open.spotify.com/album/5WoKNylm4lCVrLV5NuC6sI) | 4:08 | 2021-10-27 |  |
 | [Goodpain \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1ykyMoNbNq1oBjyDxlVeAY) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 4:21 | 2022-03-30 |  |
@@ -77,7 +78,7 @@
 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 | 2021-10-27 |  |
 | [Hot Thoughts \- Jim Eno Sessions](https://open.spotify.com/track/5CdH283hajBcB2V6RHIKul) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/2woqdm6WgKLkmOpLiNrDV6) | 3:38 | 2022-03-30 |  |
 | [Hot Thoughts \- Jim Eno Sessions](https://open.spotify.com/track/67zcOjNtlVCVmNA6sE0spj) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Spotify Singles](https://open.spotify.com/album/5A4mu5CvWnnttNJAU6ouQR) | 3:38 | 2021-10-27 | 2022-07-29 |
-| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-10-27 |  |
+| [Houses \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1NhfDvGAuVnc7IgApijwRa) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Spotify Singles](https://open.spotify.com/album/39XVP9BnseAz2Bn42EuWlS) | 4:14 | 2021-10-27 | 2022-08-14 |
 | [Hunger \- Recorded At RAK Studios, London](https://open.spotify.com/track/1HwuSP4S2lun5IExwkCEOi) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Spotify Singles](https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO) | 3:34 | 2021-10-27 |  |
 | [Hush – Spotify Singles](https://open.spotify.com/track/4dFDrETHRPwHd6rX1LrlIP) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Spotify Singles](https://open.spotify.com/album/4JaFGe9FKcubMLP6YVzCYP) | 2:36 | 2021-10-27 |  |
 | [I Don't Want To Grow Up \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/0Ba6y77PRggqF7CTVSa9cV) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [Spotify Singles](https://open.spotify.com/album/1OuYsrX3M9Ijs31iW04H4y) | 3:07 | 2021-10-27 |  |

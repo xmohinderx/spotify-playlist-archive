@@ -4,7 +4,7 @@
 
 > Celebrating the oral tradition of Punjabi poetry.
 
-37 songs - 2 hr 44 min - [published](https://open.spotify.com/playlist/4mYwTcH6PxKTxtN3dhZN3h)
+38 songs - 2 hr 48 min - [published](https://open.spotify.com/playlist/4mYwTcH6PxKTxtN3dhZN3h)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Boliyan Pawan](https://open.spotify.com/track/4kubMMoSAEH8bV6UW0cb6W) | [Harbhajan Mann](https://open.spotify.com/artist/6NhiWVGtq25QmacOUbTXKf) | [Vadhiyan Jee Vadhiyan](https://open.spotify.com/album/2EWn5S5AWvWycIdT5i58FM) | 6:26 | 2019-08-19 |  |
 | [Boliyan Punjabi Folk \- Original](https://open.spotify.com/track/3EMia99ufXkqIuf50FcdO9) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU), [Chitra Singh](https://open.spotify.com/artist/6pDga1iElP4dCa4S5bYvoo) | [Echoes From Concerts Around The World](https://open.spotify.com/album/0Ke9Tb9HdVi5F7t4rq0K8Q) | 7:26 | 2019-08-19 | 2022-07-29 |
 | [Bulley Shah \(From "Hey Soniye"\)](https://open.spotify.com/track/7coAqNcFx6Z733SiOe7TvW) | [Silinder Pardesi](https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO) | [Boliyan Desh Punjab da \(Punjabi Folk Songs\)](https://open.spotify.com/album/0Z3yTM1ByXqXkYvP4uqUCx) | 4:16 | 2019-08-19 | 2022-07-29 |
+| [Bulley Shah \- Unplugged](https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6) | [Silinder Pardesi](https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO) | [Hey Soniye](https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP) | 4:19 | 2019-08-19 |  |
 | [Chaa Da Cup](https://open.spotify.com/track/2MselOrG2fXw4Xn892BjEd) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Babu Chandigarhia](https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB) | [Chaa Da Cup](https://open.spotify.com/album/7JHWNvdpjjjLVYFu0GyOWp) | 5:50 | 2019-08-19 | 2022-07-29 |
 | [Chah Da Cup, Pt\. 2](https://open.spotify.com/track/0FfqoDtNVC7pSoyVz9MvaL) | [Babu Chandigarhia](https://open.spotify.com/artist/2chDSHehyzR81P7jIxq2nB), [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Chah Da Cup 2](https://open.spotify.com/album/23iXMTjeU5SFld7PiX3Nnd) | 5:50 | 2019-08-19 |  |
 | [Date on Ford](https://open.spotify.com/track/3vpVc8rECvMxRZfeeYH41k) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx) | [Date on Ford](https://open.spotify.com/album/10HZwOxWii41Fz0eNgetaW) | 3:12 | 2019-08-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 
 > A Hasan Raheem takeover highlighting his favorite South Asian indie tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,580 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,820 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Kz7jBbxgYQ.md) - [plain]
 | 33 | [Slow](https://open.spotify.com/track/0rn2YbCbeCspqowCduyt6x) | [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly) | [Slow](https://open.spotify.com/album/5wa08zQUAMtdHmhCCjdENL) | 2:23 |
 | 34 | [Zakir](https://open.spotify.com/track/6RtnuC14DOUrvpRgS6WMQX) | [NAALAYAK](https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R) | [Zakir](https://open.spotify.com/album/2EsxYdY99R9jF31YveCUZN) | 3:41 |
 | 35 | [Shokaleo](https://open.spotify.com/track/3qnHZS4qvzcq4J2vLzlgcU) | [Farooque Bhai Project](https://open.spotify.com/artist/6MHzMgnUHxw8eac1qaVXjH) | [Obostha Bujhe Bebostha](https://open.spotify.com/album/34Q8TuadeSiHqHRoD5XC7i) | 2:07 |
-| 36 | [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 |
+| 36 | [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 |
 | 37 | [ur sweater](https://open.spotify.com/track/5Dm6An47nSw89nSu0KHdtg) | [Barney Sku](https://open.spotify.com/artist/77ziiu02mos4YrZ4mpWO0v), [friexza](https://open.spotify.com/artist/3DGKUbhwIE6KEIbpJhp5Cq) | [ur sweater](https://open.spotify.com/album/2Ai8C3NJ1DOKA0Fl9uUuRX) | 3:20 |
 | 38 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 |
 | 39 | [Nightdriver](https://open.spotify.com/track/5LmvjYl6SZsea5QGdm4aN7) | [Eida](https://open.spotify.com/artist/3qskfyIRwZtp6uIfj6OFcL) | [Nightdriver](https://open.spotify.com/album/7EjeqIsIVy3DpV8LY5TJvE) | 4:36 |
 | 40 | [Moho](https://open.spotify.com/track/6Y2lrjXwW8YcCU5H4xMFBs) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Moho](https://open.spotify.com/album/39HxuHhewQJHpv2EOSYA8K) | 4:25 |
 
-Snapshot ID: `MTY1ODEzNjMwMiwwMDAwMDAwMDhiNzBlM2FkZWVlMjRhZjFhNGUxMTBjYzEzMDljODY2`
+Snapshot ID: `MTY1ODEzNjMwMiwwMDAwMDAwMDNiODc4NjgzMTY5YzMyNmEzZTExZTM5ZDgxM2EwYzMy`

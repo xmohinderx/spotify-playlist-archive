@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-226 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
+227 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/2Mk0biWQ3SbPyW9OyWlNSJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,7 +174,7 @@
 | [Sapphire](https://open.spotify.com/track/2thyOEqaDSJwb9jaHvsa6F) | [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Sapphire](https://open.spotify.com/album/0IA5VCej9UIVUNtcCD0oH8) | 3:12 | 2021-10-29 | 2022-07-28 |
 | [Secret \- Acoustic](https://open.spotify.com/track/2DAshXha1ZTujz0pP7E28P) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/7BHKR9opVrudKl3vxPkbHt) | 3:10 | 2021-10-29 | 2022-07-29 |
 | [Secret \- Acoustic](https://open.spotify.com/track/7khUiiyqFAluYRsw1ZKcWS) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Secret \(Acoustic\)](https://open.spotify.com/album/4YAWFrz6K5VyNQcg8eK7B3) | 3:10 | 2022-04-15 |  |
-| [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-10-29 |  |
+| [Seed of Joy](https://open.spotify.com/track/6kUQwpX1ogl5inar6fE3bx) | [Marc Scibilia](https://open.spotify.com/artist/4CHiVarfTsFhkFOk5vHS77), [Brian Fallon](https://open.spotify.com/artist/3JlzEFwarS8ZcCGNFy11y4) | [Seed of Joy](https://open.spotify.com/album/4ivyT3pP5juItg8Yblaqfn) | 3:30 | 2021-10-29 | 2022-08-14 |
 | [Ser De Ti](https://open.spotify.com/track/2E7zPND4kJd1y3KSWez0ET) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:27 | 2022-04-15 |  |
 | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Seventeen Again \(feat\. Novo Amor\)](https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR) | 3:24 | 2021-10-29 | 2022-07-29 |
 | [Shenandoah Shakedown](https://open.spotify.com/track/7jELkxH51aAkCBmeOnP0iR) | [John R\. Miller](https://open.spotify.com/artist/6VPZjyyur7ltEgkFdMnvz4) | [Shenandoah Shakedown](https://open.spotify.com/album/5oHKjSgvLaRyydVKFYwA79) | 4:09 | 2021-10-29 |  |
@@ -186,6 +186,7 @@
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-29 |  |
 | [Something to Say](https://open.spotify.com/track/5DvEC80DSVY64U1X5L2dmz) | [Lydia Luce](https://open.spotify.com/artist/5e1SaJPn6U7YpOrNTkW1jH) | [Dark River](https://open.spotify.com/album/4UHTfYKYUIK3tRMNCO9VKu) | 3:38 | 2021-10-29 | 2022-07-12 |
 | [Song for Nick Drake](https://open.spotify.com/track/01B4EffzLZbFRVRMyRgta1) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/6AW6SfG4jibbNWdZKqX3tP) | 2:57 | 2021-10-29 | 2022-04-21 |
+| [Song for Nick Drake](https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6) | [Skullcrusher](https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD) | [Song for Nick Drake](https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey) | 2:57 | 2022-04-15 |  |
 | [Song For The Thankful](https://open.spotify.com/track/2nYnAcwmnOe4zr4WVmIefC) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p) | [Song For The Thankful](https://open.spotify.com/album/0Q1YKEQ4XgNjQm5B31YjHM) | 3:54 | 2021-10-29 |  |
 | [Song For Zula](https://open.spotify.com/track/3zr2s3o2Ye1j6t0ZMdoUYi) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho De Lujo \(Deluxe Edition\)](https://open.spotify.com/album/19C3Ferv8ZiWTOpCfxN2S1) | 6:10 | 2021-10-29 | 2022-07-28 |
 | [Song for Zula](https://open.spotify.com/track/6Thn8AOHIwPCkf2O4ZgfC2) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Muchacho](https://open.spotify.com/album/6rAJ4I8SpPMJj0guCZiAI8) | 6:10 | 2022-04-15 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Prendete con tu lista favorita de Dembow. Foto: Tokischa",
-  "num_followers": 62298,
+  "num_followers": 62399,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTg3NywwMDAwMDAwMDc3ZTgyYmI4NjFjMWIzNmQ5ODYxMDI0YWI2YThmNjVl",
+  "snapshot_id": "MTY2MDI1NTg3NywwMDAwMDAwMDIxNjEwODBiOWM4YzhjNjMxZmVjM2U2ZTZiNmJmMDcz",
   "tracks": [
     {
       "added_at": "2022-08-05 20:56:33",
@@ -327,6 +327,30 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
+        "name": "Co\u00f1o",
+        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
+      },
+      "artists": [
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
+        },
+        {
+          "name": "Jhorrmountain",
+          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
+        },
+        {
+          "name": "Adje",
+          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
+        }
+      ],
+      "duration_ms": 137595,
+      "name": "Co\u00f1o",
+      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
         "name": "Prende el Party",
         "url": "https://open.spotify.com/album/0nZ7g8tTNbNUkgh0Z8QDjc"
       },
@@ -351,30 +375,6 @@
       "duration_ms": 184194,
       "name": "Prende el Party",
       "url": "https://open.spotify.com/track/23IfleMgXhIkqdcelFaFZm"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Co\u00f1o",
-        "url": "https://open.spotify.com/album/4Wd8Pb7i1RlfqhEBe6FqqA"
-      },
-      "artists": [
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        },
-        {
-          "name": "Jhorrmountain",
-          "url": "https://open.spotify.com/artist/3aAX2y0amckZ7WcWoz2f2o"
-        },
-        {
-          "name": "Adje",
-          "url": "https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m"
-        }
-      ],
-      "duration_ms": 137595,
-      "name": "Co\u00f1o",
-      "url": "https://open.spotify.com/track/7tXCV0UwFwBxqum6i25you"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -643,6 +643,22 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
+        "name": "Los Bobo Son Mio",
+        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
+      },
+      "artists": [
+        {
+          "name": "Haraca Kiko",
+          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
+        }
+      ],
+      "duration_ms": 131870,
+      "name": "Los Bobo Son Mio",
+      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
         "name": "CHOKOO",
         "url": "https://open.spotify.com/album/6ek8iFlkZy1yNmJq0Psg8p"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 337339,
       "name": "CHOKOO",
       "url": "https://open.spotify.com/track/1FRXVSbMv39KAilkbmKNXz"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Los Bobo Son Mio",
-        "url": "https://open.spotify.com/album/4v1NXjiiUavkphyQmcjmIF"
-      },
-      "artists": [
-        {
-          "name": "Haraca Kiko",
-          "url": "https://open.spotify.com/artist/4xe6s55EDjpRpyZsrFoiWh"
-        }
-      ],
-      "duration_ms": 131870,
-      "name": "Los Bobo Son Mio",
-      "url": "https://open.spotify.com/track/5NcQz7GySYVN5vyx5r0OIl"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -983,6 +983,42 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
+        "name": "Dembow Hits",
+        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
+      },
+      "artists": [
+        {
+          "name": "Paramba",
+          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 223026,
+      "name": "Que Se Mueran de Envidia - Remix",
+      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "Tan Celoso",
+        "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
+      },
+      "artists": [
+        {
+          "name": "Chimbala",
+          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+        }
+      ],
+      "duration_ms": 162847,
+      "name": "Tan Celoso",
+      "url": "https://open.spotify.com/track/4KpvbpBLnw9fYkruj7nE85"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
         "name": "Sesi",
         "url": "https://open.spotify.com/album/07vEYx7A3N8V8glLUqdbmM"
       },
@@ -1007,38 +1043,18 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "Tan Celoso",
-        "url": "https://open.spotify.com/album/1uuMYxzekYHiR7GS1dRHfP"
+        "name": "Dominican Playero 40",
+        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
       },
       "artists": [
         {
-          "name": "Chimbala",
-          "url": "https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U"
+          "name": "RMT",
+          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
         }
       ],
-      "duration_ms": 162847,
-      "name": "Tan Celoso",
-      "url": "https://open.spotify.com/track/4KpvbpBLnw9fYkruj7nE85"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Dembow Hits",
-        "url": "https://open.spotify.com/album/3KmHYKhbEdO8CvzLzT46u6"
-      },
-      "artists": [
-        {
-          "name": "Paramba",
-          "url": "https://open.spotify.com/artist/2JJeLxFOub3q1h6GTKOOBi"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 223026,
-      "name": "Que Se Mueran de Envidia - Remix",
-      "url": "https://open.spotify.com/track/756lNtYctOWwsFwrcAwQ0X"
+      "duration_ms": 201039,
+      "name": "Dominican Playero 40",
+      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1059,22 +1075,6 @@
       "duration_ms": 216816,
       "name": "Limonada Coco - Remix",
       "url": "https://open.spotify.com/track/2B6fcfcO3E54venwlb4N7B"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Dominican Playero 40",
-        "url": "https://open.spotify.com/album/2eoQDJb2fNXkuBfWPANoJe"
-      },
-      "artists": [
-        {
-          "name": "RMT",
-          "url": "https://open.spotify.com/artist/7xkWWYrajypGr7Kq04zgA7"
-        }
-      ],
-      "duration_ms": 201039,
-      "name": "Dominican Playero 40",
-      "url": "https://open.spotify.com/track/7ABFA1oWDw1W4BHHTrRCsF"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1163,50 +1163,6 @@
     {
       "added_at": "2022-08-05 20:56:33",
       "album": {
-        "name": "5 Mujeres",
-        "url": "https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI"
-      },
-      "artists": [
-        {
-          "name": "Jose Reyes",
-          "url": "https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF"
-        },
-        {
-          "name": "Lirico En La Casa",
-          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "5 Mujeres",
-      "url": "https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
-        "name": "Calle",
-        "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
-      },
-      "artists": [
-        {
-          "name": "Braulio Fogon",
-          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
-        },
-        {
-          "name": "Imperio Record",
-          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
-        },
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        }
-      ],
-      "duration_ms": 152049,
-      "name": "Calle",
-      "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
-    },
-    {
-      "added_at": "2022-08-05 20:56:33",
-      "album": {
         "name": "Controla",
         "url": "https://open.spotify.com/album/1549LYCWsYWHPNItxIoi3n"
       },
@@ -1223,6 +1179,26 @@
       "duration_ms": 169729,
       "name": "Controla",
       "url": "https://open.spotify.com/track/1IXtqDHrziebliIRwciMHp"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "5 Mujeres",
+        "url": "https://open.spotify.com/album/2P0gPcMDGOOUdtGo2ECluI"
+      },
+      "artists": [
+        {
+          "name": "Jose Reyes",
+          "url": "https://open.spotify.com/artist/2OT1t2WkAruohDNIwOE8OF"
+        },
+        {
+          "name": "Lirico En La Casa",
+          "url": "https://open.spotify.com/artist/1Vr7DTbtTpOp4tn4hAGOYo"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "5 Mujeres",
+      "url": "https://open.spotify.com/track/12IF1N3EbqgvRZweMJHAVO"
     },
     {
       "added_at": "2022-08-05 20:56:33",
@@ -1247,6 +1223,30 @@
       "duration_ms": 230000,
       "name": "Bum Bam Ven - Remix",
       "url": "https://open.spotify.com/track/7u3QrlRfJChzwic9Hoimiq"
+    },
+    {
+      "added_at": "2022-08-05 20:56:33",
+      "album": {
+        "name": "Calle",
+        "url": "https://open.spotify.com/album/69UK8GlVtjwme70scA812r"
+      },
+      "artists": [
+        {
+          "name": "Braulio Fogon",
+          "url": "https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9"
+        },
+        {
+          "name": "Imperio Record",
+          "url": "https://open.spotify.com/artist/6MJD2elWfMQ0RvEncmitC3"
+        },
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        }
+      ],
+      "duration_ms": 152049,
+      "name": "Calle",
+      "url": "https://open.spotify.com/track/0N5vXnr8cR1WeOAdabF95b"
     },
     {
       "added_at": "2022-08-05 20:56:33",

@@ -4,7 +4,7 @@
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-118 songs - 9 hr 20 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
+119 songs - 9 hr 25 min - [published](https://open.spotify.com/playlist/467x8DmD9jX6toG0U5jCPJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [K.I.S.S.E.S](https://open.spotify.com/track/2ojgRKZJ1oRREcNQIYVnX4) | [Bent](https://open.spotify.com/artist/59xljcfdN2Z9VX2U5RFKEa) | [Best Of](https://open.spotify.com/album/6lqVWHv7vKDrMhTgrNFwkM) | 5:15 | 2022-07-20 |  |
 | [Keep You Kimi](https://open.spotify.com/track/3PlISmMU7prdRBG6zLcGfi) | [Hird](https://open.spotify.com/artist/33nGdwPVGbU7cFuIh9OnTu), [Yukimi Nagano](https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf) | [Moving On](https://open.spotify.com/album/6GNseXyli2wXaeg7LMJVat) | 6:28 | 2022-07-20 |  |
 | [Kerala](https://open.spotify.com/track/5DAjrJqXqYtgr67pVhmUeR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Migration](https://open.spotify.com/album/2T64N96AVfsrRFJCUXQEoZ) | 3:57 | 2022-07-20 |  |
-| [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 | 2021-10-15 |  |
+| [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 | 2021-10-15 | 2022-08-14 |
 | [Kong](https://open.spotify.com/track/7Cg3F9ZsZ2TYUnlza49NYh) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Black Sands](https://open.spotify.com/album/5m1RkwKeU7MV0Ni6PH2lPy) | 3:57 | 2021-10-15 |  |
 | [La Nota](https://open.spotify.com/track/2LDbHa87vrruqNVfN5Qkdp) | [Dauwd](https://open.spotify.com/artist/25TUFIkK2VpEjl6GnzrcEp) | [Psssh 002](https://open.spotify.com/album/2ci7ASUgwOYWAZZbzfjuHC) | 4:51 | 2021-10-15 |  |
 | [Les Nuits \(Radio Edit\)](https://open.spotify.com/track/1y1xQf7kcYtk96q3iyl7jJ) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Les Nuits](https://open.spotify.com/album/5x9ex9cqxZWYe0bYqsPk4r) | 3:42 | 2021-10-15 |  |
@@ -126,5 +126,6 @@
 | [Way to Go \- Club Soda Mix](https://open.spotify.com/track/2kXcKyonAMXWjW0iWTnm2P) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Way to Go \(Club Soda Mix\)](https://open.spotify.com/album/7F8R0maiBdTe0Ey5qkqZet) | 3:44 | 2021-10-15 |  |
 | [Wild Skies](https://open.spotify.com/track/62bxIf35DGi5hAEJMcBAGJ) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4) | [Wild Skies](https://open.spotify.com/album/2I3UDjuD3c8Vjq0d0YYimm) | 3:24 | 2021-10-15 |  |
 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 | 2021-10-15 | 2022-07-29 |
+| [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 | 2022-07-20 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

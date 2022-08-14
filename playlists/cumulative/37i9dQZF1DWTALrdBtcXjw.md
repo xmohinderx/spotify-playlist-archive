@@ -4,7 +4,7 @@
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-164 songs - 15 hr 43 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+165 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Garden of Delight](https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl) | [Jan Lundgren Trio](https://open.spotify.com/artist/3kfAk1i7bmKvhjBoGEAQqy) | [I Love Jan Lundgren Trio](https://open.spotify.com/album/6iUNYWWimI0uy8kzvdQbuh) | 4:51 | 2020-03-31 |  |
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2022-02-18 |  |
 | [Groove Waltz](https://open.spotify.com/track/4JI1z2ExhzqYbnTyG5bNX6) | [McCoy Tyner](https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr) | [The Impulse Story](https://open.spotify.com/album/4lxBGNMymHqIidoIdNmMT5) | 5:28 | 2020-03-31 |  |
+| [Habanera](https://open.spotify.com/track/1TKJu779sVM4bM1Kg0qNEF) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Habanera](https://open.spotify.com/album/1ifBHQSP0GZJx0H1GygeVQ) | 4:48 | 2022-08-11 |  |
 | [Habbit Rabbit](https://open.spotify.com/track/6Pz1RgeZG6tmlu0X00KHhZ) | [Karin Hammar](https://open.spotify.com/artist/6PpRVXmqjgmgFPg9gEJfWc), [Andreas Hourdakis](https://open.spotify.com/artist/0S0DsjhNNujgfny2GV71Wq), [Niklas Fernqvist](https://open.spotify.com/artist/0RwUWenfKob2FP0P4V5pJS), [Fredrik Rundqvist](https://open.spotify.com/artist/5xLLcvi1xnXS9mMKi6PW57) | [Circles](https://open.spotify.com/album/7yDHwMVnH0SXCYw6eD7fDg) | 5:14 | 2020-03-31 | 2022-07-29 |
 | [Ham Hocks and Cabbage](https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr) | [Christian McBride Trio](https://open.spotify.com/artist/3nh2jsKXbzQzTBm5qzVXEP) | [Out Here](https://open.spotify.com/album/14BJkt0RNMcXU14xMmNRxH) | 8:24 | 2020-03-31 |  |
 | [Have You Met Miss Jones?](https://open.spotify.com/track/4mLPAsEe166v3knvou8Io1) | [Alvin Queen Trio](https://open.spotify.com/artist/2MLgaIZV5F0JbvAu45tx3F) | [Have You Met Miss Jones?](https://open.spotify.com/album/2TQdeD5OgkjbLjpCXINMuQ) | 3:44 | 2022-02-18 |  |
@@ -166,7 +167,7 @@
 | [Unforgettable](https://open.spotify.com/track/6YliyU9qRaWIS1YuQXOe3t) | [Mike Casey](https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2) | [Unforgettable](https://open.spotify.com/album/2WNi7GjqE18Me0yisREjZV) | 4:53 | 2022-02-18 |  |
 | [Very Early](https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Joey Alexander](https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII) | [Very Early](https://open.spotify.com/album/0fPVsQec9DfwuSfWSNdp7d) | 8:05 | 2020-03-31 |  |
 | [Very Late](https://open.spotify.com/track/62nSghHUT2LHaMukgWuyCx) | [Carl Bagge](https://open.spotify.com/artist/052RNZarYkMsvs3jzWLtIF) | [Visitor](https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A) | 5:14 | 2022-04-07 | 2022-07-29 |
-| [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 |  |
+| [Walking With You](https://open.spotify.com/track/7EwokoNF4KoWS1lVnGw8cs) | [Hanbeen Park](https://open.spotify.com/artist/3XZBufPlf8pHAt9g6Rkx5f) | [Scratch](https://open.spotify.com/album/0sJ01VN22iocwWroEiPhfh) | 5:49 | 2022-06-02 | 2022-08-14 |
 | [What Are You Doing the Rest of Your Life?](https://open.spotify.com/track/3ZnPVp4Frub6UadiiiGDD9) | [Rolf Kühn](https://open.spotify.com/artist/73xPAo16RiiVu6X90p7UVb) | [Yellow + Blue](https://open.spotify.com/album/4HENgrWOdYVohdxPJXIK0H) | 7:56 | 2020-03-31 |  |
 | [What's Up](https://open.spotify.com/track/3TdiCaHISm2x7waIHKC9Ms) | [Carl Winther Trio](https://open.spotify.com/artist/3y4phUBzYdEtzU05FMCeu6) | [Relaxin'](https://open.spotify.com/album/7mbbHojRg6i6tGjKrMogsJ) | 4:38 | 2022-06-02 | 2022-08-12 |
 | [When It's Sleepytime Down South](https://open.spotify.com/track/0ZO3xca4fN38Be1un20nc9) | [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7) | [Standard Time Vol\. 2: Intimacy Calling](https://open.spotify.com/album/4cmRWv6XOmC9sRryBkeU8U) | 5:09 | 2020-03-31 |  |

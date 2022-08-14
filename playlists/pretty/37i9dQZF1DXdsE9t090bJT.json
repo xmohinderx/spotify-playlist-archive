@@ -1,12 +1,12 @@
 {
   "description": "Amor a la mexicana, canciones para dedicarle al amor de tu vida.",
-  "num_followers": 13384,
+  "num_followers": 13424,
   "original_name": "S\u00f3lo Para Amarte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMDQzYTQyNTNmMmE2YTMzZThjYzc4M2I4YWQ2MTM5ZTQ3",
+  "snapshot_id": "MTY0NDYxMTA5NCwwMDAwMDAwMGVmNjgyZjQzYmQ1ZjdmNmM3OWVmNTZlNjQxZDJmNzJi",
   "tracks": [
     {
       "added_at": "2022-02-11 20:24:54",
@@ -371,6 +371,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "T\u00fa Eres Mi Amor (Versi\u00f3n Regional Mexicana)",
         "url": "https://open.spotify.com/album/2LwnB6bzU01pRU2uEQxBzy"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 228461,
       "name": "T\u00fa Eres Mi Amor - Versi\u00f3n Regional Mexicana",
       "url": "https://open.spotify.com/track/4e52LWbd5B8aiA8Ak3rM0B"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Del Corazon",
-        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
-      },
-      "artists": [
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 245201,
-      "name": "Enamorado",
-      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Caminando",
         "url": "https://open.spotify.com/album/7gKR2yAqsDQoeCRGKKrLQl"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 169000,
       "name": "La Magia de Tus Ojos",
       "url": "https://open.spotify.com/track/16DU79T2PdFSdGf0Z59rr5"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Del Corazon",
+        "url": "https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C"
+      },
+      "artists": [
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 245201,
+      "name": "Enamorado",
+      "url": "https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Perfecta En Mis Ojos",
-        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
-      },
-      "artists": [
-        {
-          "name": "Angel Perez",
-          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
-        }
-      ],
-      "duration_ms": 165745,
-      "name": "Perfecta En Mis Ojos",
-      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Mi Princesa",
         "url": "https://open.spotify.com/album/74Z68wlXXHP5nzOobB6ppJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 214146,
       "name": "Espero Con Ansias",
       "url": "https://open.spotify.com/track/22SnIb63vexyG4RlRcqI9r"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Perfecta En Mis Ojos",
+        "url": "https://open.spotify.com/album/6kG1TQCFmtbs0V7GuqurRp"
+      },
+      "artists": [
+        {
+          "name": "Angel Perez",
+          "url": "https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe"
+        }
+      ],
+      "duration_ms": 165745,
+      "name": "Perfecta En Mis Ojos",
+      "url": "https://open.spotify.com/track/6j6JokKNpHSiCqEX5eJf2Z"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -663,26 +663,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Soy Para Ti",
-        "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
-        }
-      ],
-      "duration_ms": 160250,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "856 para el Mundo",
         "url": "https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ"
       },
@@ -703,18 +683,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Good Vibes Buenas Vibras",
-        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
+        "name": "Soy Para Ti",
+        "url": "https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT"
       },
       "artists": [
         {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 194329,
-      "name": "Antes y Despu\u00e9s De Ti",
-      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
+      "duration_ms": 160250,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -735,6 +719,22 @@
       "duration_ms": 211776,
       "name": "Te Metiste",
       "url": "https://open.spotify.com/track/3f3oWj7ll4vtK6gXb2cIxm"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Good Vibes Buenas Vibras",
+        "url": "https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 194329,
+      "name": "Antes y Despu\u00e9s De Ti",
+      "url": "https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -835,22 +835,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "PDE",
-        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 209583,
-      "name": "Quiero Ser",
-      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Eres Vida",
         "url": "https://open.spotify.com/album/1s9ha8ihTBqdKYjSXK78kC"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 204545,
       "name": "Un Hombre con Suerte",
       "url": "https://open.spotify.com/track/3yoYYOzDtvt3V7vUWNjfC1"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "PDE",
+        "url": "https://open.spotify.com/album/1dyaVG9mr6sHveJI0RWaUT"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 209583,
+      "name": "Quiero Ser",
+      "url": "https://open.spotify.com/track/2O97frCXRrFLDV10UeCd9V"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -899,18 +899,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "El Problema",
-        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
       },
       "artists": [
         {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 201818,
-      "name": "15 Besos",
-      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
+      "duration_ms": 205386,
+      "name": "Qu\u00e9 Bueno Es Tenerte",
+      "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -931,22 +935,18 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
-        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+        "name": "El Problema",
+        "url": "https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s"
       },
       "artists": [
         {
-          "name": "Natalia Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
         }
       ],
-      "duration_ms": 205386,
-      "name": "Qu\u00e9 Bueno Es Tenerte",
-      "url": "https://open.spotify.com/track/5tHTGILurH1rAclKt78TQC"
+      "duration_ms": 201818,
+      "name": "15 Besos",
+      "url": "https://open.spotify.com/track/19kEeX8CzgHA0MSztxSEjo"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "M\u00e1gicos Besitos",
-        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 198066,
-      "name": "M\u00e1gicos Besitos",
-      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Como No Queriendo",
         "url": "https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 163253,
       "name": "Ella Es Mi Mujer",
       "url": "https://open.spotify.com/track/5WdjiXWPnfjgwFssJGFU4K"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "M\u00e1gicos Besitos",
+        "url": "https://open.spotify.com/album/6AxursUWda3oqOG2s2slfi"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 198066,
+      "name": "M\u00e1gicos Besitos",
+      "url": "https://open.spotify.com/track/6GrslZ2M4rznB4dnQbVuNq"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
+        "name": "No Est\u00e1 De M\u00e1s",
+        "url": "https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA"
+      },
+      "artists": [
+        {
+          "name": "Hijos De Barron",
+          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
+        }
+      ],
+      "duration_ms": 192642,
+      "name": "No Est\u00e1 De M\u00e1s",
+      "url": "https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
         "name": "Te Quiero Aqui (Live Session)",
         "url": "https://open.spotify.com/album/45371KQq8N3dbYubEAHnk7"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 190000,
       "name": "Te Quiero Aqui (Live Session)",
       "url": "https://open.spotify.com/track/6Nr9lecX2OdRSFDf39CLld"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
-        "name": "No Est\u00e1 De M\u00e1s",
-        "url": "https://open.spotify.com/album/3Oo0p6Pib85oapWY6iRhJA"
-      },
-      "artists": [
-        {
-          "name": "Hijos De Barron",
-          "url": "https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe"
-        }
-      ],
-      "duration_ms": 192642,
-      "name": "No Est\u00e1 De M\u00e1s",
-      "url": "https://open.spotify.com/track/4XN5AJ0Ab6clJz0jYFbxYA"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "DEL Radio Hits",
-        "url": "https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 145560,
-      "name": "Ma\u00f1ana Voy A Conquistarla",
-      "url": "https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Acceso",
         "url": "https://open.spotify.com/album/67mqwsxgs23jexSjaNAYBJ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 254827,
       "name": "Acceso",
       "url": "https://open.spotify.com/track/3toEJfSF3cXATcc7EfloDB"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "DEL Radio Hits",
+        "url": "https://open.spotify.com/album/6JfZlJcAONas9blriHdP2Z"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/0EjoMMcirolTueVdrvQb5H"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/376vclrFtiKhgh434miOCI"
-      },
-      "artists": [
-        {
-          "name": "Geru y Su Legion 7",
-          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
-        }
-      ],
-      "duration_ms": 159120,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4UPX8tA4fQ6hLLZzjEvI2K"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "En Vivo Desde El Rancho San Vicente",
         "url": "https://open.spotify.com/album/3QETPQ631SSr84mDHE44WA"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 225666,
       "name": "Me Gustas - Live",
       "url": "https://open.spotify.com/track/00LcgzrjBcR2VcvBC7B7jB"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/376vclrFtiKhgh434miOCI"
+      },
+      "artists": [
+        {
+          "name": "Geru y Su Legion 7",
+          "url": "https://open.spotify.com/artist/4BNrYSNWfcX7x10nmCpkch"
+        }
+      ],
+      "duration_ms": 159120,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/4UPX8tA4fQ6hLLZzjEvI2K"
     },
     {
       "added_at": "2022-02-11 20:24:54",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-02-11 20:24:54",
       "album": {
-        "name": "Ni Yo Me la Creo",
-        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
-      },
-      "artists": [
-        {
-          "name": "Jonatan Sanchez",
-          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
-        }
-      ],
-      "duration_ms": 187739,
-      "name": "Ni Yo Me la Creo",
-      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
-    },
-    {
-      "added_at": "2022-02-11 20:24:54",
-      "album": {
         "name": "Singles",
         "url": "https://open.spotify.com/album/2H7TFRkGojG9vGK5mLdRUk"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 153666,
       "name": "El Mejor Perfume",
       "url": "https://open.spotify.com/track/6LBaJdrBpMBb6GMmgFwUPF"
+    },
+    {
+      "added_at": "2022-02-11 20:24:54",
+      "album": {
+        "name": "Ni Yo Me la Creo",
+        "url": "https://open.spotify.com/album/5QmEkyUSOAwp6pQqxPYBwx"
+      },
+      "artists": [
+        {
+          "name": "Jonatan Sanchez",
+          "url": "https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L"
+        }
+      ],
+      "duration_ms": 187739,
+      "name": "Ni Yo Me la Creo",
+      "url": "https://open.spotify.com/track/2zNVZ7kG8wFNPb5wE4qRBd"
     },
     {
       "added_at": "2022-02-11 20:24:54",

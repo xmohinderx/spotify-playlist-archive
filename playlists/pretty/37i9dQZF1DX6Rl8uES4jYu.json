@@ -1,12 +1,12 @@
 {
   "description": "This fun, upbeat playlist will help get you up and ready to start your day! ",
-  "num_followers": 233083,
+  "num_followers": 233091,
   "original_name": "Ready for the Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDYxNjQyOTA0YjA5OGEyNTE0ZmZkYzU1ODg5MTJmNGI4",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGQ3NjhlN2ZjMDIxMGUyN2ExN2MyZDRmNjIyOTBiZDM2",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -245,26 +245,6 @@
       "url": "https://open.spotify.com/track/40gooTta3y4FgzXaMOGDJL"
     },
     {
-      "added_at": "2022-06-10 04:02:00",
-      "album": {
-        "name": "Baby Boo",
-        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        },
-        {
-          "name": "Saweetie",
-          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
-        }
-      ],
-      "duration_ms": 152241,
-      "name": "Baby Boo (with Saweetie)",
-      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
-    },
-    {
       "added_at": "2022-08-08 19:18:25",
       "album": {
         "name": "All She Wanna Do",
@@ -283,6 +263,22 @@
       "duration_ms": 195715,
       "name": "All She Wanna Do (with Saweetie)",
       "url": "https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ"
+    },
+    {
+      "added_at": "2022-08-08 19:18:25",
+      "album": {
+        "name": "Beach House",
+        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+      },
+      "artists": [
+        {
+          "name": "Carly Rae Jepsen",
+          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+        }
+      ],
+      "duration_ms": 150004,
+      "name": "Beach House",
+      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -333,20 +329,24 @@
       "url": "https://open.spotify.com/track/4WIaDYUIlXsHi4yMF596aI"
     },
     {
-      "added_at": "2022-08-08 19:18:25",
+      "added_at": "2022-06-10 04:02:00",
       "album": {
-        "name": "Beach House",
-        "url": "https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB"
+        "name": "Baby Boo",
+        "url": "https://open.spotify.com/album/0DW558ZCBNQQ3hBzOqVeP4"
       },
       "artists": [
         {
-          "name": "Carly Rae Jepsen",
-          "url": "https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju"
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        },
+        {
+          "name": "Saweetie",
+          "url": "https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl"
         }
       ],
-      "duration_ms": 150004,
-      "name": "Beach House",
-      "url": "https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx"
+      "duration_ms": 152241,
+      "name": "Baby Boo (with Saweetie)",
+      "url": "https://open.spotify.com/track/68aV83AuiEu1xeHDGulsyB"
     },
     {
       "added_at": "2022-06-10 04:02:00",
@@ -557,26 +557,6 @@
       "url": "https://open.spotify.com/track/12spArvPaLxK6deo7ikvnZ"
     },
     {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "just another song",
-        "url": "https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj"
-      },
-      "artists": [
-        {
-          "name": "Kelechi",
-          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
-        },
-        {
-          "name": "VINCINT",
-          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
-        }
-      ],
-      "duration_ms": 168700,
-      "name": "just another song",
-      "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
-    },
-    {
       "added_at": "2022-01-21 05:01:00",
       "album": {
         "name": "Chicken Wings (Remix)",
@@ -599,6 +579,26 @@
       "duration_ms": 165565,
       "name": "Chicken Wings - Remix",
       "url": "https://open.spotify.com/track/0GwHL1n6fdRba5e5Vt5lnK"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "just another song",
+        "url": "https://open.spotify.com/album/7LGIfIEZS45SFeS0HyydIj"
+      },
+      "artists": [
+        {
+          "name": "Kelechi",
+          "url": "https://open.spotify.com/artist/0c62xvYMgfzgFPOXg8uhEU"
+        },
+        {
+          "name": "VINCINT",
+          "url": "https://open.spotify.com/artist/6glcVV5wCi1hU4nxqJItqd"
+        }
+      ],
+      "duration_ms": 168700,
+      "name": "just another song",
+      "url": "https://open.spotify.com/track/3554a1PUfDZs7rKJzRhZmp"
     },
     {
       "added_at": "2022-04-22 04:01:00",
@@ -657,22 +657,6 @@
       "url": "https://open.spotify.com/track/0zYHvLLjzBbMYsk2dHY2gY"
     },
     {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
-        "name": "Automatic",
-        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        }
-      ],
-      "duration_ms": 217767,
-      "name": "Automatic",
-      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Something to Say",
@@ -707,6 +691,22 @@
       "duration_ms": 288062,
       "name": "Never Seen You Dance",
       "url": "https://open.spotify.com/track/5mdOo5OClzyz4kgdiek8Pu"
+    },
+    {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/7rqgcPmIqrwJFbtKy165yo"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 217767,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/7m9YbOeFNU0mpvGaPV53L3"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -885,6 +885,38 @@
       "url": "https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed"
     },
     {
+      "added_at": "2022-07-29 04:02:00",
+      "album": {
+        "name": "Berlin 1",
+        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
+      },
+      "artists": [
+        {
+          "name": "Oscar Jerome",
+          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
+        }
+      ],
+      "duration_ms": 302160,
+      "name": "Berlin 1",
+      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+      },
+      "artists": [
+        {
+          "name": "Emarosa",
+          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+        }
+      ],
+      "duration_ms": 208434,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+    },
+    {
       "added_at": "2022-05-27 04:01:00",
       "album": {
         "name": "Turn Up",
@@ -905,38 +937,6 @@
       "url": "https://open.spotify.com/track/3QEtSgpKhnCc37U7kgsEuI"
     },
     {
-      "added_at": "2022-07-29 04:02:00",
-      "album": {
-        "name": "Berlin 1",
-        "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
-      },
-      "artists": [
-        {
-          "name": "Oscar Jerome",
-          "url": "https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh"
-        }
-      ],
-      "duration_ms": 302160,
-      "name": "Berlin 1",
-      "url": "https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX"
-    },
-    {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Sweet Side",
-        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
-      },
-      "artists": [
-        {
-          "name": "Raquel Rodriguez",
-          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
-        }
-      ],
-      "duration_ms": 205862,
-      "name": "Undone",
-      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
-    },
-    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Turntables (from the Amazon Original Movie \"All In: The Fight for Democracy\")",
@@ -953,20 +953,20 @@
       "url": "https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-09-21 15:07:50",
       "album": {
-        "name": "Preach",
-        "url": "https://open.spotify.com/album/0CBn5BaDxwLfjHYG7E3QRW"
+        "name": "Sweet Side",
+        "url": "https://open.spotify.com/album/24PaFeFq25xoO8jPCRkn0H"
       },
       "artists": [
         {
-          "name": "Emarosa",
-          "url": "https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek"
+          "name": "Raquel Rodriguez",
+          "url": "https://open.spotify.com/artist/7CPwAwFBnruFlDqUQCrM1Q"
         }
       ],
-      "duration_ms": 208434,
-      "name": "Preach",
-      "url": "https://open.spotify.com/track/50QvPX0gNbb4nFrE8iUrNW"
+      "duration_ms": 205862,
+      "name": "Undone",
+      "url": "https://open.spotify.com/track/2R76LiRDiwmISuxTdYlSWD"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -1241,22 +1241,6 @@
       "url": "https://open.spotify.com/track/3FqvCSW4LXjdJJPxpna5AH"
     },
     {
-      "added_at": "2022-05-06 04:02:00",
-      "album": {
-        "name": "closure",
-        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
-      },
-      "artists": [
-        {
-          "name": "Wrabel",
-          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
-        }
-      ],
-      "duration_ms": 182574,
-      "name": "closure",
-      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "Every Night",
@@ -1297,20 +1281,20 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-05-06 04:02:00",
       "album": {
-        "name": "No ID",
-        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
+        "name": "closure",
+        "url": "https://open.spotify.com/album/41CSc4GOz0mCIjbNcBlVyb"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+          "name": "Wrabel",
+          "url": "https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII"
         }
       ],
-      "duration_ms": 191088,
-      "name": "No ID",
-      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
+      "duration_ms": 182574,
+      "name": "closure",
+      "url": "https://open.spotify.com/track/10B7inTJO0QRBskRuEZ6mr"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1331,6 +1315,22 @@
       "duration_ms": 181330,
       "name": "Lost & Alive",
       "url": "https://open.spotify.com/track/5x2BKKfwtydW0HO6NgH2Pi"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "No ID",
+        "url": "https://open.spotify.com/album/5314epGl9Z3DZG48Hf2hLd"
+      },
+      "artists": [
+        {
+          "name": "Tank and The Bangas",
+          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
+        }
+      ],
+      "duration_ms": 191088,
+      "name": "No ID",
+      "url": "https://open.spotify.com/track/54rpd5FzFEJZCPBydvW4tF"
     },
     {
       "added_at": "2022-03-18 04:01:00",
@@ -1357,26 +1357,6 @@
       "url": "https://open.spotify.com/track/4WEsRq6qDqJdH7nAkmKevM"
     },
     {
-      "added_at": "2021-09-21 15:07:50",
-      "album": {
-        "name": "Honesty (Cool Company Remixes)",
-        "url": "https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN"
-      },
-      "artists": [
-        {
-          "name": "Linda Diaz",
-          "url": "https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3"
-        },
-        {
-          "name": "Cool Company",
-          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
-        }
-      ],
-      "duration_ms": 175306,
-      "name": "Honesty - Cool Company Remix",
-      "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
-    },
-    {
       "added_at": "2022-04-22 04:01:00",
       "album": {
         "name": "You Gotta Respect Yourself!",
@@ -1395,6 +1375,26 @@
       "duration_ms": 191566,
       "name": "You Gotta Respect Yourself!",
       "url": "https://open.spotify.com/track/4cJiGpB3ucbvuN5F8wwXLb"
+    },
+    {
+      "added_at": "2021-09-21 15:07:50",
+      "album": {
+        "name": "Honesty (Cool Company Remixes)",
+        "url": "https://open.spotify.com/album/7MTHZnqXV5bL1Am1Mq1fAN"
+      },
+      "artists": [
+        {
+          "name": "Linda Diaz",
+          "url": "https://open.spotify.com/artist/0GyNf8GO6wlbCrReIREot3"
+        },
+        {
+          "name": "Cool Company",
+          "url": "https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn"
+        }
+      ],
+      "duration_ms": 175306,
+      "name": "Honesty - Cool Company Remix",
+      "url": "https://open.spotify.com/track/7fxTweRQLu5xIKWSajN7GS"
     },
     {
       "added_at": "2021-11-19 05:02:00",
@@ -1417,6 +1417,22 @@
       "url": "https://open.spotify.com/track/1fWCiAD2ZRN9LNdpzYwQo0"
     },
     {
+      "added_at": "2022-05-13 04:02:00",
+      "album": {
+        "name": "Good Time",
+        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
+      },
+      "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        }
+      ],
+      "duration_ms": 166888,
+      "name": "Good Time",
+      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
+    },
+    {
       "added_at": "2021-09-21 15:07:50",
       "album": {
         "name": "Faded",
@@ -1435,38 +1451,6 @@
     {
       "added_at": "2022-05-13 04:02:00",
       "album": {
-        "name": "Good Time",
-        "url": "https://open.spotify.com/album/3CkPs129sbs0ZHfKYELc7V"
-      },
-      "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        }
-      ],
-      "duration_ms": 166888,
-      "name": "Good Time",
-      "url": "https://open.spotify.com/track/4UiovBMIFb0EwICzNzvh0h"
-    },
-    {
-      "added_at": "2022-06-03 04:01:00",
-      "album": {
-        "name": "Nothing To Do (Deja Vu)",
-        "url": "https://open.spotify.com/album/3gqR0CgKXq5Tu5W6vYbdU9"
-      },
-      "artists": [
-        {
-          "name": "Kid Travis",
-          "url": "https://open.spotify.com/artist/6UWui6Csqc1ywqnDzjOWnk"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Nothing To Do (Deja Vu)",
-      "url": "https://open.spotify.com/track/1TADQ4m8zCn89xlaWMl4Ij"
-    },
-    {
-      "added_at": "2022-05-13 04:02:00",
-      "album": {
         "name": "Superstar",
         "url": "https://open.spotify.com/album/4O6zCCdEquqKmMcXHrSbBy"
       },
@@ -1479,6 +1463,26 @@
       "duration_ms": 201201,
       "name": "Superstar",
       "url": "https://open.spotify.com/track/21pE89kv4OQssxpzUPwMek"
+    },
+    {
+      "added_at": "2021-05-14 04:01:00",
+      "album": {
+        "name": "Vibrant",
+        "url": "https://open.spotify.com/album/5v0gnKHa0ZMf4EgxmZlZYU"
+      },
+      "artists": [
+        {
+          "name": "Stokley",
+          "url": "https://open.spotify.com/artist/1pEbB73S2Rl9etF23ucgAA"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 248414,
+      "name": "Vibrant",
+      "url": "https://open.spotify.com/track/2xQAAd2pCT7q2HlWffAaMh"
     }
   ],
   "unique_name": "Ready for the Day",

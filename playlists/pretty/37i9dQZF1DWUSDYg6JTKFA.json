@@ -1,12 +1,12 @@
 {
   "description": "In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.",
-  "num_followers": 120884,
+  "num_followers": 120922,
   "original_name": "Hold Hope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMDQyODUzODBiMGEzM2YzN2UyNDMzMmQ2OTcwN2ViMzJm",
+  "snapshot_id": "MTU5NTUxNTA5NiwwMDAwMDAwMGYxZjQyMmYzNjQyZjdmZjZmZGYzZWYzYzg1ZjcxYzhm",
   "tracks": [
     {
       "added_at": "2020-07-23 14:38:16",
@@ -283,6 +283,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Great Are You Lord EP",
+        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
+      },
+      "artists": [
+        {
+          "name": "one sonic society",
+          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
+        }
+      ],
+      "duration_ms": 232379,
+      "name": "Great Are You Lord",
+      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "All The Earth (Live)",
         "url": "https://open.spotify.com/album/00T7ckfhNb4TdXDAPCSr0h"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Great Are You Lord EP",
-        "url": "https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf"
-      },
-      "artists": [
-        {
-          "name": "one sonic society",
-          "url": "https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW"
-        }
-      ],
-      "duration_ms": 232379,
-      "name": "Great Are You Lord",
-      "url": "https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1"
       },
@@ -331,22 +331,6 @@
       "duration_ms": 195209,
       "name": "The River",
       "url": "https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
-      },
-      "artists": [
-        {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
-        }
-      ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -367,6 +351,22 @@
       "duration_ms": 197706,
       "name": "Soul On Fire (feat. All Sons & Daughters) (feat. All Sons & Daughters)",
       "url": "https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -407,22 +407,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Different",
-        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
-      },
-      "artists": [
-        {
-          "name": "Micah Tyler",
-          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Even Then",
-      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Citizen of Heaven",
         "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 216940,
       "name": "Until Grace",
       "url": "https://open.spotify.com/track/52stVyuGiZ0QOWAAb27ZY4"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Even Then",
+      "url": "https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -631,6 +631,22 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
+        "name": "Hills and Valleys (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 235025,
+      "name": "Hills and Valleys",
+      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
         "name": "Out Of The Dark",
         "url": "https://open.spotify.com/album/0HXOO7P7QQHPzUHDbSGKMF"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 244360,
       "name": "Bleed The Same",
       "url": "https://open.spotify.com/track/5c1gWcamTmYP1t3UwN6caS"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
-        "name": "Hills and Valleys (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 235025,
-      "name": "Hills and Valleys",
-      "url": "https://open.spotify.com/track/3jWo2yhB8vq8c2OMgPg25D"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Million Lifetimes",
-        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
-      },
-      "artists": [
-        {
-          "name": "River Valley Worship",
-          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
-        }
-      ],
-      "duration_ms": 288986,
-      "name": "Hope Has a Name",
-      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
-    },
-    {
-      "added_at": "2020-07-23 14:38:16",
-      "album": {
         "name": "Wide Open",
         "url": "https://open.spotify.com/album/55oYFRbA2tOa7q0YRH4K8B"
       },
@@ -775,18 +759,18 @@
     {
       "added_at": "2020-07-23 14:38:16",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+        "name": "Million Lifetimes",
+        "url": "https://open.spotify.com/album/4yYkpJ8KaR4pvZDFFPYdgA"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "River Valley Worship",
+          "url": "https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV"
         }
       ],
-      "duration_ms": 211293,
-      "name": "Maybe It's Ok",
-      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
+      "duration_ms": 288986,
+      "name": "Hope Has a Name",
+      "url": "https://open.spotify.com/track/5JkZPokbr84ksAZ6y1mDXn"
     },
     {
       "added_at": "2020-07-23 14:38:16",
@@ -819,6 +803,22 @@
       "duration_ms": 238546,
       "name": "Tremble",
       "url": "https://open.spotify.com/track/5yNffCuv0YGOgRazVMfEP6"
+    },
+    {
+      "added_at": "2020-07-23 14:38:16",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi"
+      },
+      "artists": [
+        {
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Maybe It's Ok",
+      "url": "https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK"
     },
     {
       "added_at": "2020-07-23 14:38:16",

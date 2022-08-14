@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Jason Ross.
 
-214 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+215 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Stardust](https://open.spotify.com/track/7hgNuPmytIlYF8B6Pp4kne) | [Miles Away](https://open.spotify.com/artist/3V8H59FqUdudlO1Fl019tg), [Gioto](https://open.spotify.com/artist/5sUTiAe2pOOMHWPrN5uhd5) | [Stardust](https://open.spotify.com/album/0nPqRvqyHW0l0c6kWxTVcQ) | 3:25 | 2022-07-08 |  |
 | [Starlight](https://open.spotify.com/track/128BW48JmONhjYQzUUwigC) | [Rogue](https://open.spotify.com/artist/3zuevuwyBq4MiQzPB3nvW2) | [Starlight](https://open.spotify.com/album/1x8nvALQ0zTvYavj5bz8QW) | 4:00 | 2022-08-05 |  |
 | [Stars Belong With You](https://open.spotify.com/track/2shiTxgdnUwSxvIPil0BZA) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Medyk](https://open.spotify.com/artist/7vbAs9frQTkhTyOWWIwsSL) | [Stars Belong With You](https://open.spotify.com/album/6XWOydRIMwfeCZG2KytXc6) | 5:02 | 2022-07-08 |  |
+| [Stars Like You](https://open.spotify.com/track/6AGnI7YEUSfkSkzGqb525V) | [N3WPORT](https://open.spotify.com/artist/1iyaH6NJWncvktAfUcNht8), [Rico & Miella](https://open.spotify.com/artist/6F4KRaTnwZ3ttUYpdo45C8) | [Pleiades](https://open.spotify.com/album/5OJHMhwLs2UCia2h9l82fT) | 3:11 | 2022-08-12 |  |
 | [Start It Over \(feat\. KC\)](https://open.spotify.com/track/4Y3hmcRgFw88qJnXGzCwkq) | [Last Heroes](https://open.spotify.com/artist/3HHfEn7yPOy3IiHS6CHG97), [Man Cub](https://open.spotify.com/artist/6uku31mN2SKBGAIEM6Umgi), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Start It Over \(feat\. KC\)](https://open.spotify.com/album/4BcDAfQlDRPek8jSKQRw6W) | 3:15 | 2022-07-08 |  |
 | [Start Over \(feat\. Danni Carra\)](https://open.spotify.com/track/789tQuKCnSNj9ekKbLnEc2) | [Far Out](https://open.spotify.com/artist/7aB2KbM3pphL9mU3dXbyh2), [Danni Carra](https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1) | [Somewhere In Between EP](https://open.spotify.com/album/2bnNcIyUBsgGGVI2EWSPY7) | 4:10 | 2022-07-08 |  |
 | [Stay](https://open.spotify.com/track/4cEWuDn97aI64yw6HrZvBc) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Stay](https://open.spotify.com/album/1LJxKzYjl4bOxgGpb0rei3) | 4:09 | 2022-07-08 | 2022-08-13 |
@@ -204,7 +205,7 @@
 | [Treading Water](https://open.spotify.com/track/4iQnJ1nbzIqRirVI1Q2ig8) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:33 | 2022-07-29 |  |
 | [Treading Water](https://open.spotify.com/track/7vQb9oBfIo2q8IggQ4Bkjy) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 3:33 | 2022-07-08 | 2022-08-04 |
 | [Trip To Mars](https://open.spotify.com/track/3jMtndFPgcjtKHuUnGHf9E) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Sammi Constantine](https://open.spotify.com/artist/0YffB1XSvRrtNRYj4998W6) | [Trip To Mars](https://open.spotify.com/album/5Er1tnoWX3ER2XPeDFmQLq) | 3:32 | 2022-07-08 | 2022-08-13 |
-| [underneath](https://open.spotify.com/track/100ItW5hfY7iax9m74rssm) | [Cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [underneath](https://open.spotify.com/album/5rpFQpojtrAhk4DCwNkoTp) | 3:16 | 2022-08-12 |  |
+| [underneath](https://open.spotify.com/track/100ItW5hfY7iax9m74rssm) | [Cudos](https://open.spotify.com/artist/1MUIsgpeFNcUbM5EXZvsnc), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Kyle Reynolds](https://open.spotify.com/artist/5yhR0OqJhkbQ2y76XUte3R) | [underneath](https://open.spotify.com/album/5rpFQpojtrAhk4DCwNkoTp) | 3:16 | 2022-08-12 | 2022-08-14 |
 | [Underneath My Skin](https://open.spotify.com/track/26ZZUpJ2HO3aZUopW9b70h) | [HALIENE](https://open.spotify.com/artist/1sKIizVYeHkGy7Tjmn9QRj) | [Underneath My Skin](https://open.spotify.com/album/21jKherj2N4me9IDXxFujR) | 3:38 | 2022-07-22 |  |
 | [UNKNOWN](https://open.spotify.com/track/2bm1bTyHpIRq7KPfOO3ToN) | [bear bear & friends](https://open.spotify.com/artist/03LOHqNsgWbNWqz9Ant9eK), [Gill Chang](https://open.spotify.com/artist/7p24N1hqcZaGRNmaYMCTjx) | [UNKNOWN](https://open.spotify.com/album/4NIcFYkYS4PkWjwXjJDjwP) | 3:20 | 2022-07-08 |  |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-07-08 |  |

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica rica y antig\u00fcita!",
-  "num_followers": 19744,
+  "num_followers": 19769,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMDk1NGZlZmE2ZDFhYWQxNmI1NTJmZDYyMDJlNWE0Yjhl",
+  "snapshot_id": "MTY1OTQ4OTMzNywwMDAwMDAwMGFhNjQ4MTMwMjVhMGJjODI0OTcxYjRjMWZhYmNlYTNh",
   "tracks": [
     {
       "added_at": "2022-01-19 17:37:13",
@@ -913,6 +913,22 @@
       "url": "https://open.spotify.com/track/3yEOU4LhTW2DGEPfXiN1u0"
     },
     {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Curandero",
+        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
+      },
+      "artists": [
+        {
+          "name": "Orkesta Mendoza",
+          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "Paleta",
+      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
+    },
+    {
       "added_at": "2022-01-11 03:10:29",
       "album": {
         "name": "Solo para Rom\u00e1nticos - de Mujer a Mujer",
@@ -931,38 +947,6 @@
       "duration_ms": 143830,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Guajira Guantanamera (Remastered)",
-        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
-      },
-      "artists": [
-        {
-          "name": "Abelardo Barroso",
-          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
-        }
-      ],
-      "duration_ms": 137530,
-      "name": "Los tamalitos de Olga - Remastered",
-      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Curandero",
-        "url": "https://open.spotify.com/album/3hbeW1sJ4F6IT5bV5qquM4"
-      },
-      "artists": [
-        {
-          "name": "Orkesta Mendoza",
-          "url": "https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "Paleta",
-      "url": "https://open.spotify.com/track/4UGMFGzGdq4H6nIM82d7mP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -987,6 +971,22 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
+        "name": "Guajira Guantanamera (Remastered)",
+        "url": "https://open.spotify.com/album/53nYU70GFZo0FvmWPjOoID"
+      },
+      "artists": [
+        {
+          "name": "Abelardo Barroso",
+          "url": "https://open.spotify.com/artist/54Cvt1RK4llutqZIBDZAVk"
+        }
+      ],
+      "duration_ms": 137530,
+      "name": "Los tamalitos de Olga - Remastered",
+      "url": "https://open.spotify.com/track/5kQcTgQ7TKzOvgslid4Qv2"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
         "name": "Canto",
         "url": "https://open.spotify.com/album/4CVtGsFWsxDZQHgyQQsAY3"
       },
@@ -999,22 +999,6 @@
       "duration_ms": 324333,
       "name": "Me Voy Pa'l Pueblo",
       "url": "https://open.spotify.com/track/3buA1wR2SA347hFcbDvpSt"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Sonidos Gold",
-        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
-      },
-      "artists": [
-        {
-          "name": "Grupo Fantasma",
-          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
-        }
-      ],
-      "duration_ms": 241520,
-      "name": "Arroz Con Frijoles",
-      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1031,6 +1015,22 @@
       "duration_ms": 245266,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/0Q3A6yU7aufWsTbiNoUmgb"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Sonidos Gold",
+        "url": "https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f"
+      },
+      "artists": [
+        {
+          "name": "Grupo Fantasma",
+          "url": "https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE"
+        }
+      ],
+      "duration_ms": 241520,
+      "name": "Arroz Con Frijoles",
+      "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
-        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
-      },
-      "artists": [
-        {
-          "name": "Antonio Mach\u00edn",
-          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
-        }
-      ],
-      "duration_ms": 157266,
-      "name": "Tengo una debilidad",
-      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
         "name": "Banda de los Muertos",
         "url": "https://open.spotify.com/album/2zkMyaGBpT2swb6k90jmO1"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 187440,
       "name": "Ay Mexicanita",
       "url": "https://open.spotify.com/track/15Aju7YDD1m8LEwyoJGxTX"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Las 50 Mejores Grabaciones De Antonio Mach\u00edn En Discophon (1903-1977)",
+        "url": "https://open.spotify.com/album/7A0ccfjjDyCG3HdU5avaf5"
+      },
+      "artists": [
+        {
+          "name": "Antonio Mach\u00edn",
+          "url": "https://open.spotify.com/artist/30iuQTTr3l7QihN6KKgJrG"
+        }
+      ],
+      "duration_ms": 157266,
+      "name": "Tengo una debilidad",
+      "url": "https://open.spotify.com/track/52ZaEmQXC9AtnZb4xUNNoC"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "It's Time",
-        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 300226,
-      "name": "Mujer Soy",
-      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Court the Storm",
         "url": "https://open.spotify.com/album/1zTyKbpajiZZFcmHGiYArr"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 176653,
       "name": "Michoacan",
       "url": "https://open.spotify.com/track/0U67Ro1MYCIgUUZCCsj8iw"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "It's Time",
+        "url": "https://open.spotify.com/album/2PzljcoZ70HbAKOK24bnEx"
+      },
+      "artists": [
+        {
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Mujer Soy",
+      "url": "https://open.spotify.com/track/64fNZggk4opmLI4aCdqLrP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1387,22 +1387,6 @@
       "duration_ms": 259746,
       "name": "Cumbia Pa Modernos",
       "url": "https://open.spotify.com/track/48msusnRNPnqKeD9nFA1mB"
-    },
-    {
-      "added_at": "2020-05-28 20:45:13",
-      "album": {
-        "name": "Tastes Like L.A.",
-        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
-      },
-      "artists": [
-        {
-          "name": "Las Cafeteras",
-          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
-        }
-      ],
-      "duration_ms": 235934,
-      "name": "Paletero",
-      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1485,20 +1469,20 @@
       "url": "https://open.spotify.com/track/1CcbfkoHGIQvQfVOTmXFvl"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
+      "added_at": "2020-05-28 20:45:13",
       "album": {
-        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
-        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
+        "name": "Tastes Like L.A.",
+        "url": "https://open.spotify.com/album/1PbmMKMsXwEC9S0I6YrMG6"
       },
       "artists": [
         {
-          "name": "Lobo",
-          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
+          "name": "Las Cafeteras",
+          "url": "https://open.spotify.com/artist/2AeRVFWlYSW9zMUGULjPpz"
         }
       ],
-      "duration_ms": 176733,
-      "name": "La Sitiera",
-      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
+      "duration_ms": 235934,
+      "name": "Paletero",
+      "url": "https://open.spotify.com/track/7g0zc1QNXmrg44wpki6C6n"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1515,6 +1499,22 @@
       "duration_ms": 239213,
       "name": "La Xochipitzahuatl",
       "url": "https://open.spotify.com/track/7pu8bUkiBOS3pHo8rAscBu"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "15 Super Exitos De Lobo Y Melon - Versiones Originales",
+        "url": "https://open.spotify.com/album/0xzsqNsEpcTJtcFl5xqakO"
+      },
+      "artists": [
+        {
+          "name": "Lobo",
+          "url": "https://open.spotify.com/artist/1KfWU6b8CeeGutVLWFF34Y"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "La Sitiera",
+      "url": "https://open.spotify.com/track/0B0xMZtJkAgGlYhayJhYcK"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/1Y1NCOWQ4KCzlTtrcwX7K9"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "La Fiesta",
-        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
-      },
-      "artists": [
-        {
-          "name": "Hern\u00e1n Gamboa",
-          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
-        }
-      ],
-      "duration_ms": 187813,
-      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
-      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Songs for Moonlight Swim and Otros Tipos de Ocupaciones",
@@ -1583,18 +1567,18 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Maremagnum",
-        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
+        "name": "La Fiesta",
+        "url": "https://open.spotify.com/album/1QN51TxHmv1PzCnBKm90HM"
       },
       "artists": [
         {
-          "name": "Tot\u00f3 La Momposina",
-          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+          "name": "Hern\u00e1n Gamboa",
+          "url": "https://open.spotify.com/artist/1X4pmZhaFxmit30AOxFpaL"
         }
       ],
-      "duration_ms": 259013,
-      "name": "Los Sabores Del Porro",
-      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
+      "duration_ms": 187813,
+      "name": "Moliendo Caf\u00e9 - Ritmo Orquidea",
+      "url": "https://open.spotify.com/track/2hAZYHPp6JLzLNRMdC3lPP"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -1611,6 +1595,22 @@
       "duration_ms": 305906,
       "name": "El P\u00e1jaro C\u00fa - Live",
       "url": "https://open.spotify.com/track/1xNL418AYlSEzWH4Z8EGFh"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Maremagnum",
+        "url": "https://open.spotify.com/album/6G4MYxWPCyBbWsQ1cPh6ul"
+      },
+      "artists": [
+        {
+          "name": "Tot\u00f3 La Momposina",
+          "url": "https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk"
+        }
+      ],
+      "duration_ms": 259013,
+      "name": "Los Sabores Del Porro",
+      "url": "https://open.spotify.com/track/7mJ2WDNjByJ1Ncqa8NjRJH"
     },
     {
       "added_at": "2022-01-11 03:10:29",

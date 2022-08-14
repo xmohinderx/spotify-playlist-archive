@@ -1,12 +1,12 @@
 {
   "description": "Listen to these flows during your yoga flow.",
-  "num_followers": 316415,
+  "num_followers": 316410,
   "original_name": "Hip-Hop Yoga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDExNDg5NCwwMDAwMDAwMDAyNGE1Mzk0OTM4YzM3MjY4M2VmNzlmZGFjNzlmNzg5",
+  "snapshot_id": "MTY0MDExNDg5NCwwMDAwMDAwMGRhYWMxMzAwYjU0OGZhZDkzMjI5OTRjNWIwNGJlNjYy",
   "tracks": [
     {
       "added_at": "2021-12-21 19:28:14",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "beerbongs & bentleys",
-        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 231266,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
         "name": "Harder Than Ever",
         "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 142273,
       "name": "Yes Indeed",
       "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
+        "name": "beerbongs & bentleys",
+        "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 231266,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/7dt6x5M1jzdTEt8oCbisTK"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
+        "name": "Hollywood's Bleeding",
+        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 149546,
+      "name": "Wow.",
+      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
         "name": "i am > i was",
         "url": "https://open.spotify.com/album/007DWn799UWvfY1wwZeENR"
       },
@@ -499,26 +515,6 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "Championships",
-        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
-      },
-      "artists": [
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 180522,
-      "name": "Going Bad (feat. Drake)",
-      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
         "name": "Invasion of Privacy",
         "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
       },
@@ -543,18 +539,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
-        "name": "Hollywood's Bleeding",
-        "url": "https://open.spotify.com/album/4g1ZRSobMefqF6nelkgibi"
+        "name": "Championships",
+        "url": "https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 149546,
-      "name": "Wow.",
-      "url": "https://open.spotify.com/track/7xQAfvXzm3AkraOtGPWIZg"
+      "duration_ms": 180522,
+      "name": "Going Bad (feat. Drake)",
+      "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -779,6 +779,22 @@
     {
       "added_at": "2021-12-21 19:28:14",
       "album": {
+        "name": "channel ORANGE",
+        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "duration_ms": 200746,
+      "name": "Thinkin Bout You",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/2KJjOBX280F3hZZE1xO33O"
       },
@@ -791,6 +807,22 @@
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/3HWzoMvoF3TQfYg4UPszDq"
+    },
+    {
+      "added_at": "2021-12-21 19:28:14",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 179613,
+      "name": "Go Flex",
+      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
     },
     {
       "added_at": "2021-12-21 19:28:14",
@@ -815,38 +847,6 @@
       "duration_ms": 157712,
       "name": "OUT WEST (feat. Young Thug)",
       "url": "https://open.spotify.com/track/6gi6y1xwmVszDWkUqab1qw"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 179613,
-      "name": "Go Flex",
-      "url": "https://open.spotify.com/track/5yuShbu70mtHXY0yLzCQLQ"
-    },
-    {
-      "added_at": "2021-12-21 19:28:14",
-      "album": {
-        "name": "channel ORANGE",
-        "url": "https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8"
-      },
-      "artists": [
-        {
-          "name": "Frank Ocean",
-          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "duration_ms": 200746,
-      "name": "Thinkin Bout You",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
       "added_at": "2021-12-21 19:28:14",

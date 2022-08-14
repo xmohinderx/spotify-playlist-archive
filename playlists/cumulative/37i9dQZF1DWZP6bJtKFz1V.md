@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Dayglow
 
-373 songs - 19 hr 24 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+374 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -169,6 +169,7 @@
 | [IDGAF \(with blackbear\)](https://open.spotify.com/track/6Jrdb6CFOJEGaHjaa6c4WR) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [IDGAF](https://open.spotify.com/album/3XEOlBcb076IIUTSr98AMu) | 2:20 | 2022-03-18 | 2022-05-22 |
 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 | 2022-02-04 | 2022-03-12 |
 | [ignorance is bliss](https://open.spotify.com/track/4nC2R5thxOEUfcEQ5a0q3B) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [ignorance is bliss](https://open.spotify.com/album/2l2OLcnXmhvxmQG9MWksXI) | 2:54 | 2022-04-22 | 2022-07-29 |
+| [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 |  |
 | [It Took A Lot To Get To This](https://open.spotify.com/track/1kLn3PxbnFzHV1kkXWpg4e) | [Dylan Fraser](https://open.spotify.com/artist/6Awp6fgyzqQ2XuEvOMjq8D) | [It Took A Lot To Get To This](https://open.spotify.com/album/1E2ecZuSPG58MLkgglvFxZ) | 3:05 | 2022-06-10 | 2022-07-23 |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2022-02-04 | 2022-03-12 |
 | [It's Random](https://open.spotify.com/track/3gaerxLTSaKc8miymFRkVA) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [It's Random](https://open.spotify.com/album/2Y4v8He65mQHczvIzanV2W) | 2:24 | 2022-03-04 | 2022-07-29 |
@@ -266,7 +267,7 @@
 | [Purple Sun](https://open.spotify.com/track/3Av5sPAsNXVW2tmbz0LA6j) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Purple Sun](https://open.spotify.com/album/0RRuVdfrNyEnD59MzmVIE1) | 4:01 | 2022-02-04 | 2022-03-12 |
 | [Pushin' Thru It](https://open.spotify.com/track/2zdl37IauOeAFxgJsEFVMo) | [James Ivy](https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ) | [Pushin' Thru It](https://open.spotify.com/album/3ND0sWPefAXkbLUa80Ntdg) | 4:18 | 2022-02-04 | 2022-05-14 |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2022-02-04 | 2022-03-18 |
-| [Red Sun](https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Red Sun](https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om) | 3:52 | 2022-07-08 |  |
+| [Red Sun](https://open.spotify.com/track/115AuyL9TvemxBhMkaR5r4) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [Red Sun](https://open.spotify.com/album/4AtvSXc9ET59Ho3h1Ck2Om) | 3:52 | 2022-07-08 | 2022-08-14 |
 | [Relentless](https://open.spotify.com/track/1wnRNsHtySQZZYsvLs8tJx) | [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [THE UNRAVELING OF PUPTHEBAND](https://open.spotify.com/album/2bRpK0BpzYUQZYIzri35n6) | 4:34 | 2022-04-01 | 2022-07-29 |
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-17 | 2022-07-22 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2022-02-04 | 2022-03-26 |

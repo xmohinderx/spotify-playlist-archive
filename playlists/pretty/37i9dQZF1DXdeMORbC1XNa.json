@@ -1,12 +1,12 @@
 {
   "description": "The best in Afro Bashment, Afro Swing and all that good stuff. Cover: Fireboy DML",
-  "num_followers": 264017,
+  "num_followers": 264190,
   "original_name": "Afro Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAzMjg3NCwwMDAwMDAwMDU3ODMzMGFlNWIxZDMwOTUyMDFhMTYzZTUyZjkwMTZh",
+  "snapshot_id": "MTY2MDAzMjg3NCwwMDAwMDAwMDhmOTA5ZGU5N2Y4NDMwYTUwYzMwYTVkMGE4NzUyYTJi",
   "tracks": [
     {
       "added_at": "2022-08-09 08:14:34",
@@ -90,10 +90,6 @@
         {
           "name": "Juls",
           "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        },
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
         }
       ],
       "duration_ms": 152523,
@@ -647,26 +643,6 @@
     {
       "added_at": "2022-08-09 08:14:34",
       "album": {
-        "name": "PALAZZO",
-        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 186002,
-      "name": "PALAZZO",
-      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
-    },
-    {
-      "added_at": "2022-08-09 08:14:34",
-      "album": {
         "name": "LV N ATTN",
         "url": "https://open.spotify.com/album/7zx9F3ehp4NIcts4Tq0Oc8"
       },
@@ -683,6 +659,26 @@
       "duration_ms": 213991,
       "name": "Monalisa",
       "url": "https://open.spotify.com/track/1zwZ26A7OA5wTrA3FejCLL"
+    },
+    {
+      "added_at": "2022-08-09 08:14:34",
+      "album": {
+        "name": "PALAZZO",
+        "url": "https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf"
+      },
+      "artists": [
+        {
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 186002,
+      "name": "PALAZZO",
+      "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
     },
     {
       "added_at": "2022-08-09 08:14:34",

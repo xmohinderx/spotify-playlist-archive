@@ -3227,7 +3227,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 251488,
       "name": "Everybody Wants To Rule The World",
       "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
@@ -3990,6 +3990,28 @@
     },
     {
       "album": {
+        "name": "Go (Remixes)",
+        "url": "https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        },
+        {
+          "name": "goddard.",
+          "url": "https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192514,
+      "name": "go - goddard. Remix",
+      "url": "https://open.spotify.com/track/6RZo8T7GY9EoWZXC5i2587"
+    },
+    {
+      "album": {
         "name": "go (goddard. Remix)",
         "url": "https://open.spotify.com/album/7K8W66c9ZMtVVYDLGOlffv"
       },
@@ -4005,7 +4027,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 192514,
       "name": "go - goddard. Remix",
       "url": "https://open.spotify.com/track/7kjANxR8XN4hCzLaSc2roy"
@@ -6161,12 +6183,12 @@
           "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
           "name": "Jung Kook",
           "url": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
       "date_added": "2022-06-25",
@@ -7581,7 +7603,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 184120,
       "name": "Mr Reggae",
       "url": "https://open.spotify.com/track/6J6slpqRf9jYqGUVKVEOOt"
@@ -10292,6 +10314,24 @@
     },
     {
       "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "album": {
         "name": "Encanto (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR"
       },
@@ -12053,7 +12093,7 @@
       ],
       "date_added": "2021-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

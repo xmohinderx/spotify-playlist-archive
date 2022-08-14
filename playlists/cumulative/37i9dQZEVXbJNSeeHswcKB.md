@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Belgium.
 
-700 songs - 1 day 15 hr 0 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
+702 songs - 1 day 15 hr 7 min - [published](https://open.spotify.com/playlist/29yUzLQ7r3SIxxtKBc64iH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [About Damn Time](https://open.spotify.com/track/1PckUlxKqWQs3RlWXVBLw3) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [About Damn Time](https://open.spotify.com/album/4JApkbiesQxv5drdEZRlZC) | 3:11 | 2022-05-06 | 2022-07-17 |
 | [About Damn Time](https://open.spotify.com/track/6HMtHNpW6YPi1hrw9tgF8P) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:11 | 2022-07-16 |  |
 | [Acapulco](https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Acapulco](https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW) | 2:19 | 2022-01-14 | 2022-01-15 |
-| [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-08-12 |  |
+| [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2022-08-12 | 2022-08-14 |
 | [Africa](https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Toto IV](https://open.spotify.com/album/62U7xIHcID94o20Of5ea4D) | 4:55 | 2022-01-02 | 2022-01-04 |
 | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/track/62nJqZs3Qs7DGUto35dVUv) | [MHD](https://open.spotify.com/artist/4WnAHZz1pgl8hus8hidIRV) | [Afro Trap Part\. 11 \(King Kong\)](https://open.spotify.com/album/2ztIejOSOlhj6tbkwgaSsc) | 2:34 | 2021-05-30 | 2021-06-28 |
 | [Afterglow](https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Afterglow](https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV) | 3:05 | 2021-03-27\* | 2021-04-04 |
@@ -164,6 +164,7 @@
 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 | 2022-08-05 | 2022-08-08 |
 | [Diamant](https://open.spotify.com/track/4NMkT5dgzOk7xhcNe9lsGs) | [Camille](https://open.spotify.com/artist/2aV2tpJtR55vg19SxBJvNs) | [Diamant](https://open.spotify.com/album/1EOE2RIkrJkOZGSKUYMmeo) | 3:03 | 2022-02-13 | 2022-06-08 |
 | [Dicke Titten](https://open.spotify.com/track/5KTBaWu8IOczQ0sPWzZ7MY) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Zeit](https://open.spotify.com/album/75OE7M0wduJyffbffehHuR) | 3:38 | 2022-08-05 | 2022-08-07 |
+| [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-13 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-22 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-16 | 2021-09-05 |
 | [Discoteque](https://open.spotify.com/track/7dMOzsTZOUtOF7W5kLN0gf) | [THE ROOP](https://open.spotify.com/artist/34G31kGbSQmemVlI0G784o) | [Discoteque](https://open.spotify.com/album/1OfWh8e9R7tOmrX4pGlDBe) | 3:00 | 2021-05-25 | 2021-05-29 |
@@ -641,6 +642,7 @@
 | [Underneath the Tree](https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Wrapped In Red](https://open.spotify.com/album/0t70lpfTyHEv0uuq21fhdZ) | 3:49 | 2021-12-12 | 2021-12-29 |
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-20 |
 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 | 2021-04-03 | 2021-04-20 |
+| [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-08-13 |  |
 | [VIRGO'S GROOVE](https://open.spotify.com/track/0Fl4eWzVaMUOdXcOrj6F1q) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 6:08 | 2022-07-30 | 2022-08-01 |
 | [Visiting Hours](https://open.spotify.com/track/44V6EzbUSYgyfsNiP0FrlA) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Visiting Hours](https://open.spotify.com/album/3Pl0yCO51uGkr5tFlD6bWN) | 3:35 | 2021-08-22 | 2021-08-23 |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2022-08-07 | 2022-08-13 |
@@ -684,7 +686,7 @@
 | [Worldwide Steppers](https://open.spotify.com/track/5p56JT5F9a1z9pwXnqTg7d) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:23 | 2022-05-14 | 2022-05-17 |
 | [Wrecked](https://open.spotify.com/track/149BxWeweaCqmsyedkNiiE) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Act 1](https://open.spotify.com/album/6DdU5f52hpc2gfeLjK374Y) | 4:04 | 2021-10-13 | 2022-02-05 |
 | [Yebba’s Heartbreak](https://open.spotify.com/track/1PDP7mLiAMwhfmgIwzhOm2) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 2:13 | 2021-09-05 | 2021-09-06 |
-| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-06 |  |
+| [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2022-08-06 | 2022-08-14 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-03-27\* | 2021-04-26 |
 | [You Make It Feel Like Christmas \(feat\. Blake Shelton\)](https://open.spotify.com/track/2OQ6a4CfUeYskpTTgyawyJ) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [You Make It Feel Like Christmas](https://open.spotify.com/album/58qdMDlJaZBYleY7Bf0gNc) | 2:36 | 2021-12-25 | 2021-12-27 |
 | [Young Right Now](https://open.spotify.com/track/0JpEMzTHbt2zBIXrntrXzG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Young Right Now](https://open.spotify.com/album/31t9iLimmriRn3Mviqywzw) | 3:06 | 2022-04-17 | 2022-05-15 |

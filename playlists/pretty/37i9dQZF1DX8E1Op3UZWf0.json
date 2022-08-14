@@ -1,13 +1,29 @@
 {
   "description": "Start the day with a morning run together with these easy and joyful tracks.",
-  "num_followers": 212875,
+  "num_followers": 212960,
   "original_name": "Morning Run ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI5NDY3MSwwMDAwMDAwMGQzNjcyMWU4Yzc5NGFmMGM0NGZhYjUzOTRiM2I5NDU1",
+  "snapshot_id": "MTY2MDI5NDY3MSwwMDAwMDAwMDRmMGUwMjE1MmQ1NDAzYmUyZjdjOWM5M2Y3YzU1MDAz",
   "tracks": [
+    {
+      "added_at": "2022-08-12 08:57:51",
+      "album": {
+        "name": "After Hours",
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+    },
     {
       "added_at": "2022-08-12 08:57:51",
       "album": {
@@ -27,22 +43,6 @@
       "duration_ms": 214846,
       "name": "One Kiss (with Dua Lipa)",
       "url": "https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6"
-    },
-    {
-      "added_at": "2022-08-12 08:57:51",
-      "album": {
-        "name": "After Hours",
-        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
     },
     {
       "added_at": "2022-08-12 08:57:51",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-08-12 08:57:51",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 167065,
-      "name": "Like I Can",
-      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
-    },
-    {
-      "added_at": "2022-08-12 08:57:51",
-      "album": {
         "name": "Wolves",
         "url": "https://open.spotify.com/album/5gQZvWM1o8NkQndueJtZcP"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 197993,
       "name": "Wolves",
       "url": "https://open.spotify.com/track/0tBbt8CrmxbjRP0pueQkyU"
+    },
+    {
+      "added_at": "2022-08-12 08:57:51",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 167065,
+      "name": "Like I Can",
+      "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
     },
     {
       "added_at": "2022-08-12 08:57:51",

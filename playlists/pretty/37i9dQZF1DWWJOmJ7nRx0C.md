@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Hollywood Undead
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,596 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,773 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,7 +111,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 101 | [Ringin' In My Head](https://open.spotify.com/track/1WvT1OcoGlm9g3Sjx9W3Gw) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 4:12 |
 | 102 | [Another Last Time](https://open.spotify.com/track/3IzeRtUTIeMMHYxWpjEm4P) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 4:50 |
 | 103 | [Circles](https://open.spotify.com/track/7mQYMHg9ev2RkfaIHf86gt) | [Anberlin](https://open.spotify.com/artist/5v61OSg53KaQxGMpErkBNp) | [Circles](https://open.spotify.com/album/5DjXJr6bteYX3CQl9Q97oR) | 4:35 |
-| 104 | [Assassin](https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Assassin](https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw) | 3:09 |
+| 104 | [A$$A$$IN](https://open.spotify.com/track/6e9rjIDM1bDeWNdro7hLce) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [A$$A$$IN](https://open.spotify.com/album/2Pm4dNCkvZRVMZhVvCPeaw) | 3:09 |
 | 105 | [Live Like This](https://open.spotify.com/track/5CkNMoWHtL0OxNqZSilmYU) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [Live Like This](https://open.spotify.com/album/7w6qO7IK9y49S15hmxDiFq) | 3:56 |
 | 106 | [Dismantled](https://open.spotify.com/track/01dPcsbep0CGpj4VZ2OWKc) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Dismantled](https://open.spotify.com/album/2pJDgYFNu0Qu1FgNDMDa9T) | 3:11 |
 | 107 | [Take Me Away](https://open.spotify.com/track/0jSfQJjEPrcVHr6f7x3D8X) | [New Medicine](https://open.spotify.com/artist/3driPpCh1JEUnPFKGyHXDr) | [Take Me Away](https://open.spotify.com/album/4bf2plTcwmLaWZqBbSO5oe) | 2:17 |

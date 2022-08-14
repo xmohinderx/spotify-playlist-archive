@@ -1,12 +1,12 @@
 {
   "description": "A collection of the hottest soul tracks from the 1970s.",
-  "num_followers": 1283118,
+  "num_followers": 1283715,
   "original_name": "70s Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MjUzNiwwMDAwMDAwMDI5ZDljZTk3OWIzMGQyNTFlZmU1YmE2MGZkNTFjZjQx",
+  "snapshot_id": "MTY1MjI3MjUzNiwwMDAwMDAwMDcxNzdiNTVlMGMzYzk0ZDQyNzQ2Mjk0ZWNjMzQwZmEz",
   "tracks": [
     {
       "added_at": "2022-02-04 15:57:42",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Think (About It)",
-        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
-      },
-      "artists": [
-        {
-          "name": "Lyn Collins",
-          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Think (About It)",
-      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
-    },
-    {
-      "added_at": "2022-02-04 15:57:42",
-      "album": {
         "name": "A Donny Hathaway Collection",
         "url": "https://open.spotify.com/album/2D2sMtTf1Db5bkSRGvWGKB"
       },
@@ -735,18 +719,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Tough Guys",
-        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
+        "name": "Think (About It)",
+        "url": "https://open.spotify.com/album/2197TH5e4lrSiZvYUPh3YE"
       },
       "artists": [
         {
-          "name": "Isaac Hayes",
-          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
+          "name": "Lyn Collins",
+          "url": "https://open.spotify.com/artist/6XJPGyxrP66scKvIE9kpPN"
         }
       ],
-      "duration_ms": 377639,
-      "name": "Hung Up On My Baby",
-      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
+      "duration_ms": 204160,
+      "name": "Think (About It)",
+      "url": "https://open.spotify.com/track/1kG2PZ8geznbDA8I6iWeDi"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -767,18 +751,34 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "There's a Riot Goin' On",
-        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
+        "name": "Tough Guys",
+        "url": "https://open.spotify.com/album/5QPYYcI8rmWC47nNAtOYj8"
       },
       "artists": [
         {
-          "name": "Sly & The Family Stone",
-          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
+          "name": "Isaac Hayes",
+          "url": "https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E"
         }
       ],
-      "duration_ms": 185533,
-      "name": "Family Affair - Single Version",
-      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
+      "duration_ms": 377639,
+      "name": "Hung Up On My Baby",
+      "url": "https://open.spotify.com/track/7wEGeUzpPNnHKfOtSgYjG4"
+    },
+    {
+      "added_at": "2022-02-04 15:57:42",
+      "album": {
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 325493,
+      "name": "Close the Door",
+      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-02-04 15:57:42",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
+        "name": "There's a Riot Goin' On",
+        "url": "https://open.spotify.com/album/29f2cOueckYE8Nc1pkJjrU"
       },
       "artists": [
         {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+          "name": "Sly & The Family Stone",
+          "url": "https://open.spotify.com/artist/5m8H6zSadhu1j9Yi04VLqD"
         }
       ],
-      "duration_ms": 325493,
-      "name": "Close the Door",
-      "url": "https://open.spotify.com/track/53m3UkzcaQVbB2DENsrJiK"
+      "duration_ms": 185533,
+      "name": "Family Affair - Single Version",
+      "url": "https://open.spotify.com/track/4f3u4Oy0JqJRIhMmTqRcxj"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1036,9 +1036,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 213560,
-      "name": "Spanish Harlem",
-      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
+      "duration_ms": 333933,
+      "name": "Bridge over Troubled Water",
+      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
     },
     {
       "added_at": "2022-02-04 15:57:42",
@@ -1132,9 +1132,9 @@
           "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
         }
       ],
-      "duration_ms": 333933,
-      "name": "Bridge over Troubled Water",
-      "url": "https://open.spotify.com/track/5YD86vWLu1YqR818b1GADO"
+      "duration_ms": 213560,
+      "name": "Spanish Harlem",
+      "url": "https://open.spotify.com/track/0sQ594D1EuU66VDdtHBE6j"
     },
     {
       "added_at": "2022-02-04 15:57:42",

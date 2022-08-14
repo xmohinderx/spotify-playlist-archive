@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-428 songs - 1 day 0 hr 52 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
+429 songs - 1 day 0 hr 56 min - [published](https://open.spotify.com/playlist/3HX8jFotLiNc9gbpMw8vKv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,6 +72,7 @@
 | [Casa](https://open.spotify.com/track/3v1wgEVzX2SUrHrdzBCO7P) | [Ninja](https://open.spotify.com/artist/1aEDZ5whyuDHTQxdrPiJYE), [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE) | [RUSIA](https://open.spotify.com/album/1Oq780XyJNTi9BAGySxECi) | 3:19 | 2022-01-21 | 2022-07-24 |
 | [Casamiento](https://open.spotify.com/track/0XVUtVdcxvYLmJw0ExUy4R) | [Lisasinson](https://open.spotify.com/artist/0bvq2O2MrIINNOJTVuqQ32) | [Atasco](https://open.spotify.com/album/5Yh2mHQcwx2NdSLIDGgzbr) | 3:44 | 2022-01-21 | 2022-07-22 |
 | [Casi Extraños](https://open.spotify.com/track/58JNMqizRanibWoYGKZkZL) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/0dCUpjzMpccpLGYcIvxetm) | 3:47 | 2022-01-21 | 2022-07-29 |
+| [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 | 2022-07-29 |  |
 | [Casi Nunca Entiendo Nada](https://open.spotify.com/track/5DCMmMGHptS0nOmN97kIAV) | [Chechi de Marcos](https://open.spotify.com/artist/7Mxqqaq1c8KVXiVLbdGasH), [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs), [Esmeralda Escalante](https://open.spotify.com/artist/56WOnFwq68Q0pn9mUnrdOC) | [Casi Nunca Entiendo Nada](https://open.spotify.com/album/7dAANS4Pwlb9OkkkmadzsV) | 3:13 | 2022-02-11 | 2022-07-16 |
 | [Cerca](https://open.spotify.com/track/3DXx8TguDQQ1Y2g5XQ7Msx) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Cerca](https://open.spotify.com/album/6OcxdF2MWCXFBYHDUD8o3e) | 4:07 | 2022-01-21 | 2022-07-29 |
 | [Chica](https://open.spotify.com/track/5En1tLtPLGsgZ0KnzkjDXv) | [Puebla](https://open.spotify.com/artist/1PqKs6dNaJFy6qNgXEVCpm) | [Chica](https://open.spotify.com/album/2squYvCPxYVekcmOJqPz3D) | 3:12 | 2022-01-21 | 2022-07-25 |
@@ -207,7 +208,7 @@
 | [Lejos Libre Sola](https://open.spotify.com/track/7BhaJfyOOvuzoznVNh1BoB) | [Lali Gaspari](https://open.spotify.com/artist/0IcHojewbT2XZUs7Sb2bTX) | [Nuevas Intenciones](https://open.spotify.com/album/4nJd7rSTeFOZnmwoWCUhmw) | 3:37 | 2022-04-01 | 2022-04-14 |
 | [Levantar](https://open.spotify.com/track/5kr0AHjyDgkXzGNVHJWs2f) | [Ev](https://open.spotify.com/artist/21EczEifDKebasemX58Jp8) | [Levantar](https://open.spotify.com/album/6b6pzWxfwOkwp3vMzt7U3m) | 3:50 | 2022-01-21 | 2022-07-24 |
 | [Lindos Problemas](https://open.spotify.com/track/414ts7HIQUC1e8cQ4OwiCJ) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 2:57 | 2022-01-14 |  |
-| [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 | 2022-01-21 |  |
+| [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/track/2zsSYgjdUGMT5u1TlIlr85) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Llorando Por Ti \(Banda Sonora Original "Todo Lo Otro"\)](https://open.spotify.com/album/7eoFeduvdejcB9j28FL0fh) | 4:25 | 2022-01-21 | 2022-08-14 |
 | [Lo Inevitable](https://open.spotify.com/track/5FhBrrdF8AHRHTaQJXkfrO) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Lo Inevitable](https://open.spotify.com/album/48wvJycqlndD1ghMa9ozGF) | 3:09 | 2022-01-21 | 2022-07-23 |
 | [Lo Que Digo](https://open.spotify.com/track/5OFN31HnVm100b0bCNrggm) | [Carolina Zac](https://open.spotify.com/artist/4iBo5OHiTFbfeR2Iq6zGN4) | [Lo Que Digo](https://open.spotify.com/album/2pf4WSVOCJUOnGCk1xnFA8) | 4:43 | 2022-01-21 | 2022-07-25 |
 | [Lo Que Quedó](https://open.spotify.com/track/2WzKA3ZmmQD2IVvgcHhZzd) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [Lo Que Quedó](https://open.spotify.com/album/6LeAdcapsLl9nHI1A7cASR) | 2:55 | 2022-01-21 | 2022-04-17 |

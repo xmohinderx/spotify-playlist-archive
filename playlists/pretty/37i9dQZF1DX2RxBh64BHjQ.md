@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,670,386 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,670,794 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 26 | [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 |
 | 27 | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/track/3g9CkAfcdZlBhoLvJqIRGc) | [Duke Deuce](https://open.spotify.com/artist/24zj84GShUIcBQYq6VpOYW), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG) | [JUST SAY THAT \(Remix\) \(feat\. Quavo & GloRilla\)](https://open.spotify.com/album/4YaTl6b04ax8sSywFGcrPC) | 4:38 |
 | 28 | [Sleazy Flow \(with Lil Baby\) \- Remix](https://open.spotify.com/track/5cx7vkF8BQ0iOsVpfvZbnz) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sleazy Flow \(Remix\)](https://open.spotify.com/album/4N1yQmAeHbswH8jbcRnsEG) | 2:41 |
-| 29 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lucki](https://open.spotify.com/artist/70ZUXm3cW6AVm6hZot2Tyh) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
+| 29 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
 | 30 | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/6qg6FiJXghvGugTnItB4Lv) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/album/3ubtf0L8eEjiUIDQsSiWYu) | 3:27 |
 | 31 | [6 Months \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/15MObTsMBIdr35hEa4Fgz4) | [Foogiano](https://open.spotify.com/artist/5iyTbismzdvyjpjIuhKRvX), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [So Icy Gang: The ReUp](https://open.spotify.com/album/53aYSRJmJeUO800GL3Wa1C) | 2:55 |
 | 32 | [Get Even](https://open.spotify.com/track/2YVscnKcfmlc2fl89FlX5h) | [Finesse2tymes](https://open.spotify.com/artist/3OoC54nEM3Xl7Kn5hsDdpg) | [Get Even](https://open.spotify.com/album/5dL0R5fAWbcjXgL73QqOoV) | 2:41 |

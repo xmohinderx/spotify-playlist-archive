@@ -4,7 +4,7 @@
 
 > A Hasan Raheem takeover highlighting his favorite South Asian indie tracks.
 
-92 songs - 5 hr 13 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
+93 songs - 5 hr 16 min - [published](https://open.spotify.com/playlist/3EgngKMIU7QCN4I9Kyv7gp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-20 |  |
 | [Choo Lo](https://open.spotify.com/track/2qgXrzJsry4KgYoJCpuaul) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Aalas Ka Pedh](https://open.spotify.com/album/4U2xdJPJfGo2HofVpSynwO) | 3:53 | 2022-05-20 | 2022-07-16 |
 | [Choro](https://open.spotify.com/track/13GkX2Jop4q9FxtGvwb3MH) | [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [Choro](https://open.spotify.com/album/47LlbY7qhYsG5aPXflzG69) | 3:52 | 2022-05-20 | 2022-07-16 |
-| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2022-05-20 |  |
+| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2022-05-20 | 2022-08-14 |
+| [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 | 2022-07-15 |  |
 | [Come Thru](https://open.spotify.com/track/5EBCRL7xDZztH4WV5RL5N4) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [Heterotopia](https://open.spotify.com/album/1npykN4Zpbo7FQR61o1oAr) | 3:48 | 2022-05-20 | 2022-07-16 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-05-20 | 2022-07-16 |
 | [Dhundhala](https://open.spotify.com/track/6PSGzXHJaQogb2G8m8gGZZ) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Talwiinder](https://open.spotify.com/artist/6QoCrBHsojKnOrsGNfRcTN) | [Dhundhala](https://open.spotify.com/album/1wQyuIiZpM5Qy4wQOU2i1J) | 3:02 | 2022-07-15 |  |

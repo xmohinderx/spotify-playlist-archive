@@ -4,7 +4,7 @@
 
 > iykyk
 
-518 songs - 1 day 4 hr 14 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+519 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2022-01-06 | 2022-02-14 |
 | [Drama \(feat\. Drake\)](https://open.spotify.com/track/0PXp9QxBfSKGGpWUNaws2X) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Exis](https://open.spotify.com/album/2vnPwMLtMXZWGkKsoylsGt) | 4:11 | 2022-03-28 | 2022-05-04 |
 | [Drink Before the War](https://open.spotify.com/track/2fgsTIpGlD5odlua0y7gIQ) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [Lion and the Cobra](https://open.spotify.com/album/60gQ6EG1JFQWWUcasx7wKc) | 5:23 | 2022-02-03 | 2022-02-15 |
-| [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-08-02 |  |
+| [Drip Too Hard \(Lil Baby & Gunna\)](https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:25 | 2022-08-02 | 2022-08-14 |
 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 | 2022-03-09 | 2022-05-12 |
 | [Drowning \(feat\. Kodak Black\)](https://open.spotify.com/track/1f5cbQtDrykjarZVrShaDI) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [The Bigger Artist](https://open.spotify.com/album/3HHp5I6Q6SEyU5bkvoCtnV) | 3:29 | 2022-05-06 | 2022-06-19 |
 | [Drowning \- Sped Up Version](https://open.spotify.com/track/40x8vMUHIjqd2A5EtHEvAb) | [sped up nightcore](https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Drowning \(Sped Up Version\)](https://open.spotify.com/album/3Z5FPyxx1sKOTzHsOnS4ZI) | 2:54 | 2022-06-02 |  |
@@ -418,6 +418,7 @@
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-06-17 |  |
 | [SNAP \- High and Fast](https://open.spotify.com/track/2ik0zzlcwHl8hnHw7ZfeNS) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP \(High and Fast\)](https://open.spotify.com/album/6aLC3UK3IBnBCaFQVaDpcP) | 2:15 | 2022-07-06 |  |
 | [Snatched](https://open.spotify.com/track/48JqhA9zo7QlanLa8e0bZE) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Snatched](https://open.spotify.com/album/7zjTC8wx62u1zO2tgDh9D8) | 2:39 | 2022-05-20 | 2022-06-18 |
+| [Sneakers](https://open.spotify.com/track/3eLfICfDzCQrP8pOajVGiJ) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Sneakers](https://open.spotify.com/album/203lgkbyUvtaZAExgXr3Ge) | 3:04 | 2022-08-13 |  |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-01-01 | 2022-02-13 |
 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 | 2022-02-08 | 2022-05-10 |
 | [Softcore](https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Hard To Imagine The Neighbourhood Ever Changing](https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy) | 3:26 | 2022-01-03 |  |

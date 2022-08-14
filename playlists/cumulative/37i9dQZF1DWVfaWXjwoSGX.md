@@ -4,7 +4,7 @@
 
 > Emerging Chicago\-based producer & DJ <a href="spotify:artist:184mGxeseZkY2w05Nr4Tui">kryptogram</a> shares his impressive cratedigging skills in his mix.
 
-18 songs - 1 hr 0 min - not published yet
+18 songs - 1 hr 0 min - [published](https://open.spotify.com/playlist/0gdsdokXKpP5SrTCvCzARu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

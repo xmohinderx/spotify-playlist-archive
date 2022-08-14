@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rmnjMBxfCv.md) - [plain]
 
 > Dance and electronic Arabic songs\. Cover: Khaled & DJ Snake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,208 likes - 58 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,244 likes - 58 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

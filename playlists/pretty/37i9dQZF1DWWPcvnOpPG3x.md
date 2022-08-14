@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 
 > Run to the world of R&B and hip\-hop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,710 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,805 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 34 | [Whatever You Like](https://open.spotify.com/track/1IAzD1muglOxOcPbUHs70R) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | 4:09 |
 | 35 | [Bottoms Up \(feat\. Nicki Minaj\)](https://open.spotify.com/track/4AYX69oFP3UOS1CFmV9UfO) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 4:02 |
 | 36 | [6 Foot 7 Foot](https://open.spotify.com/track/6BCs8vxnGgKL9eMCOrG2wm) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Cory Gunz](https://open.spotify.com/artist/7BAaznGSsqcksud4R5ou5z) | [Tha Carter IV](https://open.spotify.com/album/1MGEMBqM3v8OUM2glv7MSx) | 4:08 |
-| 37 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 |
-| 38 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
+| 37 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 |
+| 38 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 |
 | 39 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
 | 40 | [Good Life](https://open.spotify.com/track/4ZPdLEztrlZqbJkgHNw54L) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Graduation](https://open.spotify.com/album/4SZko61aMnmgvNhfhgTuD3) | 3:27 |
 | 41 | [Venom \- Music From The Motion Picture](https://open.spotify.com/track/2SL6oP2YAEQbqsrkOzRGO4) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:29 |
-| 42 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
-| 43 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 |
+| 42 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 |
+| 43 | [Astronaut In The Ocean](https://open.spotify.com/track/6E90gq0KO6FYZVOXx8kCcC) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronomical](https://open.spotify.com/album/6qNMYsx5OUFDXWAoct9Pge) | 2:12 |
 | 44 | [The Show Goes On](https://open.spotify.com/track/4NTWZqvfQTlOMitlVn6tew) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lasers](https://open.spotify.com/album/1j0apvEvaWbTmlZpKsfr2D) | 3:59 |
 | 45 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
 | 46 | [Up](https://open.spotify.com/track/1M4OcYkxAtu3ErzSgDEfoi) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Up \(Instrumental\)](https://open.spotify.com/album/0Fe4Uj7GkgA1uDGGk8s92C) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWPcvnOpPG3x.md) - [plain]
 | 49 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
 | 50 | [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 |
 
-Snapshot ID: `MTY2MDI5NDQ5NywwMDAwMDAwMGVmNTRhZTRmMTMyMWRkZGZhODczZGZmNzI4YTlhODVm`
+Snapshot ID: `MTY2MDI5NDQ5NywwMDAwMDAwMGJiZDA1ODNhMjI0NTllNmFiM2UwYzRhZjg5MDNjYmYy`

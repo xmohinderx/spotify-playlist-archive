@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: NIKI
 
-1,218 songs - 2 day 15 hr 8 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,219 songs - 2 day 15 hr 10 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -572,6 +572,7 @@
 | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/track/2tQsKH9WgQSGbuV7GQXeP9) | [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b) | [Indecisive \(feat\. Tommy Genesis\)](https://open.spotify.com/album/1bmFqLkkpsfeAEZoBiV4W6) | 2:15 | 2021-12-03 | 2022-01-29 |
 | [Indiana](https://open.spotify.com/track/1RKcRHKDamJjZFxq7g3htb) | [Magic City Hippies](https://open.spotify.com/artist/1ikg4sypcURm8Vy5GP68xb) | [Modern Animal](https://open.spotify.com/album/6y5roSQsSbhNcVfIkhF7wL) | 3:18 | 2019-09-06 | 2021-10-14 |
 | [indica](https://open.spotify.com/track/3o0leBKDR9aCHv5yd3OBLH) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [indica](https://open.spotify.com/album/6pYJRNMrYlBvThV18FwJnx) | 3:25 | 2021-04-07 | 2021-11-20 |
+| [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 | 2022-08-12 |  |
 | [Innocent \(Dreaming\)](https://open.spotify.com/track/1JaNzWg4ez7WBC89YhOcUs) | [Ellur](https://open.spotify.com/artist/4uG8VYp1GLQpZVokfG2Ui7) | [Moments](https://open.spotify.com/album/4QEND2DlPX1E5HAuGC8uFy) | 3:15 | 2022-01-07 | 2022-01-09 |
 | [Into Waves \- MUUUN Remix](https://open.spotify.com/track/6fIqj3bqDFtBLUCboX84bG) | [A Little Nothing](https://open.spotify.com/artist/6NNQ0216pMjyKkkBANKRXl), [MUUUN](https://open.spotify.com/artist/2Z32eS6CsmBjnVbMGeojGS) | [Into Waves \(MUUUN Remix\)](https://open.spotify.com/album/0cfSkyv6oVYjdJirZUC0dg) | 3:39 | 2019-05-26\* | 2020-04-18 |
 | [Island of the Sun](https://open.spotify.com/track/6TD7O7KdrL3kzU2plhZqm0) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/3lhEn9XlYq4Naa0YPBFQd4) | 2:56 | 2022-02-18 | 2022-03-26 |
@@ -633,7 +634,7 @@
 | [Let's Go](https://open.spotify.com/track/05J6B8Mei5yhX84mrUDa7U) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Let's Go](https://open.spotify.com/album/3AsiOVv4RrFwgSXFch8wP9) | 2:22 | 2021-12-24 | 2022-03-26 |
 | [Let's Go Out](https://open.spotify.com/track/4o7IJJZdZG9blmt9Czt1lI) | [Berly](https://open.spotify.com/artist/6U9EnTzy0ihpx4mgs9mfud) | [Let's Go Out](https://open.spotify.com/album/2BJnr6QdGtXYV36KhoKrgg) | 3:07 | 2020-04-21 | 2020-09-25 |
 | [Let's go to Hell](https://open.spotify.com/track/38XLUjlR84JEwK0SOvX77a) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [Let's go to Hell](https://open.spotify.com/album/2tVcIkd2GmDpNQkXRNpaME) | 2:32 | 2021-11-05 |  |
-| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 |  |
+| [let's run away](https://open.spotify.com/track/5IbySMDqxT2qILb666CCz0) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Orion Song](https://open.spotify.com/artist/6o2v5odR8pVWajdW2tBesd), [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X) | [let's run away](https://open.spotify.com/album/0sIrhXZSQwZ3H1cRzVD3Mk) | 3:25 | 2022-07-08 | 2022-08-14 |
 | [Leta](https://open.spotify.com/track/0XdYJ2mMOTRV2s7Y555Hw2) | [Intelligency](https://open.spotify.com/artist/6DdgtZYlUGNzjqkdCqvmfB) | [Leta](https://open.spotify.com/album/4mvdViANsdmhvbvHYmpunp) | 3:58 | 2021-05-03 | 2021-05-28 |
 | [Levitation](https://open.spotify.com/track/6XGIUVbIWpfblrAZDsyTSQ) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [Levitation](https://open.spotify.com/album/2K9USaxWlJWgPO56LR960V) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Liar](https://open.spotify.com/track/5ya0gIGrhh1NdFoWPaBAhN) | [DYLYN](https://open.spotify.com/artist/3hOdLrtKdSs3AEuwcR7ses) | [Liar](https://open.spotify.com/album/40NNI9LICPtbYSNH4n7ArU) | 3:33 | 2022-03-18 | 2022-04-21 |

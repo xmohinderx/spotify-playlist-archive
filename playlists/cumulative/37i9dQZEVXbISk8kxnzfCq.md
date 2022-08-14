@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Nicaragua.
 
-358 songs - 21 hr 6 min - [published](https://open.spotify.com/playlist/67hpJFP9pZbo8wnkuSWocy)
+359 songs - 21 hr 8 min - [published](https://open.spotify.com/playlist/67hpJFP9pZbo8wnkuSWocy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC) | 3:22 | 2022-04-20 | 2022-05-07 |
 | [Cold Heart \- PNAU Remix](https://open.spotify.com/track/7rglLriMNBPAyuJOMGwi39) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [The Lockdown Sessions](https://open.spotify.com/album/7wHczdY0ek3FHnfVhk10om) | 3:22 | 2021-11-26 | 2022-04-21 |
 | [Cumbia Sampuesana](https://open.spotify.com/track/4AwgFDiynuu52p5xtpRlNG) | [La Luz Roja De San Marcos](https://open.spotify.com/artist/5YeFdMPC50VCSc91uYLOGb) | [Los Exitos Mas Calientes](https://open.spotify.com/album/0CFZMKonWgHqhJ1jFipGDt) | 3:53 | 2022-01-02 | 2022-01-04 |
+| [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-13 |  |
 | [CÓMO SE SIENTE \- Remix](https://open.spotify.com/track/2tFwfmceQa1Y6nRPhYbEtC) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [CÓMO SE SIENTE \(Remix\)](https://open.spotify.com/album/0VLl6NV05DjwNE2lZFdCEI) | 3:47 | 2021-03-27\* | 2022-05-08 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2021-12-21 | 2022-02-11 |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-08-11 | 2021-12-22 |
@@ -235,7 +236,7 @@
 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 | 2022-05-22 | 2022-05-25 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-01-28 | 2022-02-26 |
 | [No Te Enamores \- Remix](https://open.spotify.com/track/2mM3gZ0BbPwPPMelbA8vgt) | [Milly](https://open.spotify.com/artist/7kXCcNRLEnblbTAppPraBp), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [No Te Enamores \(Remix\)](https://open.spotify.com/album/77aeZo4yYPoMsnnRtPPpuk) | 4:49 | 2021-03-27\* | 2021-08-02 |
-| [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-09 |  |
+| [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-09 | 2022-08-14 |
 | [North Carolina](https://open.spotify.com/track/0B1J4Mm4oRVMqoy6RM9vIM) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/4MTtBjQEt7i752hISXjKqA) | 2:56 | 2021-11-28 | 2021-11-30 |
 | [Nostálgico](https://open.spotify.com/track/2BEcap3xJtmiPaHKyfQi4e) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nostálgico](https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV) | 3:29 | 2021-10-20 | 2022-05-08 |
 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 | 2021-11-21 | 2021-11-22 |

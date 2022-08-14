@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 64409,
+  "num_followers": 64600,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDczMTc1MywwMDAwMDAwMDVjMTRiZGFjZmZhNDk3MmQ3MzY1YzAyNTMwYmYwZDk2",
+  "snapshot_id": "MTY1NDczMTc1MywwMDAwMDAwMGU5MTNlNTIzNGJmMDlkMzJhOTBmNTRkMTM3YjNlY2E0",
   "tracks": [
     {
       "added_at": "2022-06-08 23:42:33",
@@ -231,6 +231,22 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+        }
+      ],
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
         "name": "Puerta Abierta, Vol. 1 (En Vivo)",
         "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 142064,
       "name": "Cabr\u00f3n y Vago - En Vivo",
       "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -287,18 +287,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
       "artists": [
         {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 155802,
-      "name": "Me La Avente",
-      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
         "name": "Pa' Olvidarme De Ella",
         "url": "https://open.spotify.com/album/6NSiAkMa61CjJI9AHqOhuZ"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 182880,
       "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
       "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 155802,
+      "name": "Me La Avente",
+      "url": "https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -491,8 +491,8 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Trozos De Mi Alma",
-        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
+        "name": "Marco Antonio Solis",
+        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 223666,
-      "name": "Mi Eterno Amor Secreto",
-      "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
+      "duration_ms": 191640,
+      "name": "La Venia Bendita",
+      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -631,8 +631,8 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Marco Antonio Solis",
-        "url": "https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP"
+        "name": "Trozos De Mi Alma",
+        "url": "https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
         }
       ],
-      "duration_ms": 191640,
-      "name": "La Venia Bendita",
-      "url": "https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV"
+      "duration_ms": 223666,
+      "name": "Mi Eterno Amor Secreto",
+      "url": "https://open.spotify.com/track/6mzfmqArdNFYG3ZqM8zFC2"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -911,18 +911,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Los Caminos de la Vida (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
+        "name": "Rep\u00edtelas",
+        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
       },
       "artists": [
         {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
         }
       ],
-      "duration_ms": 328115,
-      "name": "Los Caminos de la Vida - Spotify Singles",
-      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
+      "duration_ms": 175456,
+      "name": "Dulce Pecado",
+      "url": "https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -943,34 +943,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Rep\u00edtelas",
-        "url": "https://open.spotify.com/album/4QRs1syzARn1dej4RWRPtY"
+        "name": "Los Caminos de la Vida (Spotify Singles)",
+        "url": "https://open.spotify.com/album/1GdDkx6ATOjvmbi7AYDtq5"
       },
       "artists": [
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 175456,
-      "name": "Dulce Pecado",
-      "url": "https://open.spotify.com/track/7al6OaakdGoXtEGRy05lgu"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
+      "duration_ms": 328115,
+      "name": "Los Caminos de la Vida - Spotify Singles",
+      "url": "https://open.spotify.com/track/0LPcBW66vudTxR0HcauKNy"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -987,6 +971,22 @@
       "duration_ms": 189800,
       "name": "\u00c9chame a Mi La Culpa",
       "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Amanecida Con Todo y Con Todos",
-        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 193186,
-      "name": "So\u00f1ador Eterno",
-      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
         "name": "Historias Que Contar",
         "url": "https://open.spotify.com/album/6oLY9WsQmRAMfA4ru3ganP"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 188266,
       "name": "Se\u00f1or Locutor",
       "url": "https://open.spotify.com/track/6tTdUPxER1wdW1lAVcuBc4"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "Amanecida Con Todo y Con Todos",
+        "url": "https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 193186,
+      "name": "So\u00f1ador Eterno",
+      "url": "https://open.spotify.com/track/3mPcFoFfDb5r6WkbIFQKqa"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Que No Se Caiga el Ritmo",
-        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
-      },
-      "artists": [
-        {
-          "name": "Espinoza Paz",
-          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
-        }
-      ],
-      "duration_ms": 231916,
-      "name": "Soltero Feliz",
-      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
         "name": "Cosas De Enamorados",
         "url": "https://open.spotify.com/album/7iSjsRvQupUm7MxWGxrbzG"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 252440,
       "name": "Si Quieres",
       "url": "https://open.spotify.com/track/3E4fIAY3BmI6ZzMaJ3pr0j"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "Que No Se Caiga el Ritmo",
+        "url": "https://open.spotify.com/album/0EXq8bLcuNc6DIj20qRFgj"
+      },
+      "artists": [
+        {
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
+        }
+      ],
+      "duration_ms": 231916,
+      "name": "Soltero Feliz",
+      "url": "https://open.spotify.com/track/0J3K43YwdkPzfce68mdQrW"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1575,18 +1575,22 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Solo...Corridos",
-        "url": "https://open.spotify.com/album/34QgGKfya2LLnix0L7r2LL"
+        "name": "Mi Venganza",
+        "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
       },
       "artists": [
         {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+          "name": "Alzate",
+          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
+        },
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 190511,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/1NT6TpCeOEsy0KYhtMEwB5"
+      "duration_ms": 191634,
+      "name": "Mi Venganza",
+      "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1623,22 +1627,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Mi Venganza",
-        "url": "https://open.spotify.com/album/0GfKEcyPtvzo7hNNJFCAfZ"
+        "name": "Solo...Corridos",
+        "url": "https://open.spotify.com/album/34QgGKfya2LLnix0L7r2LL"
       },
       "artists": [
         {
-          "name": "Alzate",
-          "url": "https://open.spotify.com/artist/682qzOnGxexrwH41Cy51Hu"
-        },
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
         }
       ],
-      "duration_ms": 191634,
-      "name": "Mi Venganza",
-      "url": "https://open.spotify.com/track/4MAGNMEAi6yUpC5w58eHLN"
+      "duration_ms": 190511,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/1NT6TpCeOEsy0KYhtMEwB5"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1723,22 +1723,22 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "En Tus Manos",
-        "url": "https://open.spotify.com/album/0gkKTHSGp4ckN2XPVi4GUL"
+        "name": "Nos Divertimos Logrando Lo Imposible",
+        "url": "https://open.spotify.com/album/5zUXAGfz0d2WXpxTeXjVSP"
       },
       "artists": [
         {
-          "name": "Paola Jara",
-          "url": "https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk"
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
         },
         {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+          "name": "Espinoza Paz",
+          "url": "https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y"
         }
       ],
-      "duration_ms": 189208,
-      "name": "Como Si Nada",
-      "url": "https://open.spotify.com/track/0LWE6LsvRwHQtAxiqpSRqU"
+      "duration_ms": 247209,
+      "name": "Cuando Me Ten\u00edas",
+      "url": "https://open.spotify.com/track/4bPKM2jZ9PU1uzANyOC0G7"
     }
   ],
   "unique_name": "Rancheras, Despecho & Licor",

@@ -1,12 +1,12 @@
 {
   "description": "Songs of positivity from some of today's leading inspiring artists. Cover: Chance The Rapper featuring visual artist Na\u00efla Opiangah",
-  "num_followers": 2102,
+  "num_followers": 2108,
   "original_name": "Blessings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMGVkMGMwZWViMjJlNzhjNmU4ZTFkZjkwMTc2ZDFhYjc4",
+  "snapshot_id": "MTY1Mzc2NjE5NCwwMDAwMDAwMDkzOGY3ODkzYjBiMzYwYzAyYWRjMDJlYTA3MjFkNzI0",
   "tracks": [
     {
       "added_at": "2022-05-28 19:29:54",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Clean",
-        "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
-      },
-      "artists": [
-        {
-          "name": "Derek Minor",
-          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
-        }
-      ],
-      "duration_ms": 168004,
-      "name": "Clean",
-      "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "It Could Be Worse",
         "url": "https://open.spotify.com/album/4hhMSsLW0rRcNmXFF9qWPw"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 144021,
       "name": "It Could Be Worse",
       "url": "https://open.spotify.com/track/1pn9N05evZd09npQBnsC31"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Clean",
+        "url": "https://open.spotify.com/album/6x2IRGwgHbo7Tj2zNwCFsS"
+      },
+      "artists": [
+        {
+          "name": "Derek Minor",
+          "url": "https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B"
+        }
+      ],
+      "duration_ms": 168004,
+      "name": "Clean",
+      "url": "https://open.spotify.com/track/2fDG6nBpw0WHVoycB20KeP"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1275,42 +1275,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Hit the Refresh",
-        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
-      },
-      "artists": [
-        {
-          "name": "Voices of Fire",
-          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
-        }
-      ],
-      "duration_ms": 275121,
-      "name": "Hit the Refresh",
-      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Ashamed",
-        "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
-      },
-      "artists": [
-        {
-          "name": "PJ Morton",
-          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
-        },
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        }
-      ],
-      "duration_ms": 147044,
-      "name": "Ashamed",
-      "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Lightning",
         "url": "https://open.spotify.com/album/0egIrc1XFeHAYIMbhIVjcN"
       },
@@ -1327,6 +1291,22 @@
       "duration_ms": 214554,
       "name": "Lightning",
       "url": "https://open.spotify.com/track/0CZd9O1bThdWCQxNSHwjf7"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Hit the Refresh",
+        "url": "https://open.spotify.com/album/0l5NTBFkeI8tizJsiD9nQW"
+      },
+      "artists": [
+        {
+          "name": "Voices of Fire",
+          "url": "https://open.spotify.com/artist/5hMr1UPWUlLzQmHpE45EpH"
+        }
+      ],
+      "duration_ms": 275121,
+      "name": "Hit the Refresh",
+      "url": "https://open.spotify.com/track/0GO1BeMk5m9R3imwp2Lhls"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1351,26 +1331,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "CATCH",
-        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
+        "name": "Ashamed",
+        "url": "https://open.spotify.com/album/0LqYqln7xmL7dcShJOCuxL"
       },
       "artists": [
         {
-          "name": "Peter CottonTale",
-          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+          "name": "PJ Morton",
+          "url": "https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7"
         },
         {
-          "name": "tobi lou",
-          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
         }
       ],
-      "duration_ms": 193941,
-      "name": "Pray For Real",
-      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
+      "duration_ms": 147044,
+      "name": "Ashamed",
+      "url": "https://open.spotify.com/track/7kvbLCrZv4aOz7oafDupzT"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1391,6 +1367,30 @@
       "duration_ms": 167142,
       "name": "ABOVE ME (feat. Parris Chariz)",
       "url": "https://open.spotify.com/track/2ux5VNDPUsAV2Q5qKhRA6A"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "CATCH",
+        "url": "https://open.spotify.com/album/11uE9x208MS33gXdRUC6LJ"
+      },
+      "artists": [
+        {
+          "name": "Peter CottonTale",
+          "url": "https://open.spotify.com/artist/4mkGZGaUTIpyG1LnZ6nNIi"
+        },
+        {
+          "name": "tobi lou",
+          "url": "https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 193941,
+      "name": "Pray For Real",
+      "url": "https://open.spotify.com/track/6Wd1lJm7dCMMINB4QuvqZV"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 182487,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
         "name": "4",
         "url": "https://open.spotify.com/album/17kgXPWtd9Km3qeZjjovrD"
       },
@@ -1547,22 +1563,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/0apbxfxnkAeR7D0crH0oXq"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 182487,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/7nfaD0trhQiStQ8DOQRC0h"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "I's On Him",
         "url": "https://open.spotify.com/album/1331lQw385FSkpj02K7pOF"
       },
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Enemies and Foes",
-        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
+        "name": "Ram in the Bush",
+        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
       },
       "artists": [
         {
-          "name": "J. Monty",
-          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
-        },
-        {
-          "name": "TuKool Tiff",
-          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
+          "name": "Mike Teezy",
+          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
         }
       ],
-      "duration_ms": 289134,
-      "name": "Enemies and Foes",
-      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
+      "duration_ms": 148754,
+      "name": "Ram in the Bush",
+      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1623,38 +1619,22 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Only U Forever",
-        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
+        "name": "Enemies and Foes",
+        "url": "https://open.spotify.com/album/1JPLYPRrG4W639k02xAZ6a"
       },
       "artists": [
         {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+          "name": "J. Monty",
+          "url": "https://open.spotify.com/artist/65qv2AiHO3xVWAs4SCKx4O"
         },
         {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+          "name": "TuKool Tiff",
+          "url": "https://open.spotify.com/artist/50YX6wIj2UNBUvYs13U61H"
         }
       ],
-      "duration_ms": 202493,
-      "name": "ONLY U (feat. Terrian)",
-      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
-        "name": "Ram in the Bush",
-        "url": "https://open.spotify.com/album/3gG2gyb4kEHRLE7TKJqXGn"
-      },
-      "artists": [
-        {
-          "name": "Mike Teezy",
-          "url": "https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7"
-        }
-      ],
-      "duration_ms": 148754,
-      "name": "Ram in the Bush",
-      "url": "https://open.spotify.com/track/1AE7szyIJmjyzMU7ocJqh2"
+      "duration_ms": 289134,
+      "name": "Enemies and Foes",
+      "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1715,22 +1695,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Mind",
-        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
-      },
-      "artists": [
-        {
-          "name": "Limoblaze",
-          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
-        }
-      ],
-      "duration_ms": 158399,
-      "name": "Mind",
-      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "In the Garden",
         "url": "https://open.spotify.com/album/6zTCHVL5HmEtqZ8caJKEaf"
       },
@@ -1747,6 +1711,42 @@
       "duration_ms": 220000,
       "name": "In the Garden",
       "url": "https://open.spotify.com/track/1hsU0Vh95IkTdWSdDJCkiT"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Mind",
+        "url": "https://open.spotify.com/album/50473ucNN99wGu21iP93rO"
+      },
+      "artists": [
+        {
+          "name": "Limoblaze",
+          "url": "https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT"
+        }
+      ],
+      "duration_ms": 158399,
+      "name": "Mind",
+      "url": "https://open.spotify.com/track/7tcRUsbzwk4rc1THwZiNAk"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Only U Forever",
+        "url": "https://open.spotify.com/album/2WwxSsysxtBnwiP55XChDL"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        },
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "ONLY U (feat. Terrian)",
+      "url": "https://open.spotify.com/track/1p9tNHBD4U8pVKFRhvOxJg"
     },
     {
       "added_at": "2022-05-28 19:29:54",
@@ -1811,26 +1811,6 @@
     {
       "added_at": "2022-05-28 19:29:54",
       "album": {
-        "name": "Ascend",
-        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
-      },
-      "artists": [
-        {
-          "name": "Jeremiah Paltan",
-          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
-        },
-        {
-          "name": "KDNS",
-          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
-        }
-      ],
-      "duration_ms": 198095,
-      "name": "Ascend",
-      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
-    },
-    {
-      "added_at": "2022-05-28 19:29:54",
-      "album": {
         "name": "Heard Not Seen III",
         "url": "https://open.spotify.com/album/5RHrcFrhFu7rz2QSGiMiBk"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 195927,
       "name": "Striking Matches (feat. 1K Phew & TNED)",
       "url": "https://open.spotify.com/track/59kiSVJTiUYXJxpyModhI5"
+    },
+    {
+      "added_at": "2022-05-28 19:29:54",
+      "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/2VwSTUlrkCFsCyKNbpqvnN"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Paltan",
+          "url": "https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru"
+        },
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "duration_ms": 198095,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/4jb2OO7G3J68R5mmQtjZKA"
     },
     {
       "added_at": "2022-05-28 19:29:54",

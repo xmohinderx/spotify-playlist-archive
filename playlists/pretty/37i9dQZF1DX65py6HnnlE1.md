@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 517,327 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 517,775 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 17 | [Tu Eres Ajena](https://open.spotify.com/track/64zjvItFmkY8Q96tcmGQ6n) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Amor En Silencio](https://open.spotify.com/album/02IKI6J5vzzTZ0DC2yWNcu) | 3:59 |
 | 18 | [Corazón Culpable](https://open.spotify.com/track/4ZcjNfK9Df94vbT43Gm8dt) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [Cojelo Ahí](https://open.spotify.com/album/3DMQ0XGeZlnUJtqHU8kDWm) | 5:59 |
 | 19 | [Odio \(feat\. Drake\)](https://open.spotify.com/track/1iLv1ieT9BZ3qsti9yTCnG) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Fórmula, Vol\. 2 \(Deluxe Edition\)](https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L) | 3:45 |
-| 20 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
+| 20 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
 | 21 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
 | 22 | [Bachata En Fukuoka](https://open.spotify.com/track/6IfMD01z39P15HKezjdaMP) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Asondeguerra](https://open.spotify.com/album/2LqYd5gIJxEvG5md8kGeyL) | 3:11 |
 | 23 | [Dos Locos](https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Exitos Y Mas](https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1) | 4:06 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 27 | [Stand by Me](https://open.spotify.com/track/0DQd0tWurMHUAv0cMnDELH) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:25 |
 | 28 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 |
 | 29 | [Estrellitas y Duendes](https://open.spotify.com/track/0iPih0VIvzwUW8QSURL8hV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:26 |
-| 30 | [El Malo](https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [The Last](https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe) | 3:58 |
+| 30 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
 | 31 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
 | 32 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
 | 33 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 49 | [Me Puedo Matar \- Remastered](https://open.spotify.com/track/34xtzPLF5pPZ8MTewOdBvx) | [Bachata Heightz](https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL), [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn) | [The First \(Remastered\)](https://open.spotify.com/album/5Nx4z36d4h0wVrGyuxsyyR) | 4:23 |
 | 50 | [Que Vuelva](https://open.spotify.com/track/4NfwBgmzmzx8WpyIy9C6p7) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Medicina De Amor](https://open.spotify.com/album/1NpEJb5OJqbZ6UZTZBdqdz) | 6:31 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDRjOGQxNjViYTJlNTMzNDRjMWJlY2M4NzNiNGVhZDg3`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDNlZjA0YjZmZDVhYjkzMTM5NGYzZTlmZjVhZGUyZWYw`

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNL0ldoQCGi.md) - [plain]
 
 > Aquelas músicas que você ouve viralizando por aí mas não sabe o nome.
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,039 likes - 75 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,204 likes - 75 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Não Fosse Tão Tarde](https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8) | [Lou Garcia](https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov) | [Não Fosse Tão Tarde](https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP) | 3:25 |
-| 2 | [Melo de Bafora o Lança 2022 \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Melo de Bafora o Lança 2022 \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 |
+| 2 | [Bafora o Lança \- Remix](https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn) | [Mario Mc](https://open.spotify.com/artist/4AvoASFHoFCDxWR2yWV3Cn), [Menor Adr](https://open.spotify.com/artist/4KaMTjxBX1mA5Js6KWalNT) | [Bafora o Lança \(Remix\)](https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt) | 3:32 |
 | 3 | [São João Chegou](https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX) | [Renanzin Pressão](https://open.spotify.com/artist/0L7NGVE2t7zDGOL3x53Axo) | [São João Chegou](https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu) | 1:54 |
 | 4 | [Put0 & Cheiroso](https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR) | [éoTGL](https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx), [Jv045](https://open.spotify.com/artist/7DUxpqSJderzchDZHoqZZS), [Denzelthreal](https://open.spotify.com/artist/1CZmKC8jyRLzsDmYuCw850), [Oficialtalim](https://open.spotify.com/artist/48NAhXDturv64ONhQZpkAM), [ProdbySnow](https://open.spotify.com/artist/2u1iQQ4ZbVvPEwhpWVExUe) | [Put0 & Cheiroso](https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp) | 3:23 |
 | 5 | [Não faz isso Comigo não](https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [CalliCartel](https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq), [Victor WAO](https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q) | [É o Trem!](https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx) | 2:00 |

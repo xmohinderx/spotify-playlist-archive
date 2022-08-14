@@ -4,7 +4,7 @@
 
 > Most exciting artists from the Indian Indie scene\. Cover : Anumita Nadesan
 
-167 songs - 10 hr 1 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
+168 songs - 10 hr 4 min - [published](https://open.spotify.com/playlist/6HbYGIijNLCCdW0az43i5B)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Chaand Baaliyan](https://open.spotify.com/track/0snQrp1VaY5Pj1YIHRJpRJ) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe) | 1:43 | 2022-02-24 |  |
 | [Chaand Baaliyan](https://open.spotify.com/track/0vaPHw608M1jHif7kO2TSc) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Chaand Baaliyan](https://open.spotify.com/album/0Q40XX2V1XxzMSyFi95J7h) | 1:43 | 2022-01-31 | 2022-02-25 |
 | [Chhodo Kalaiya](https://open.spotify.com/track/6pkR6jHUCqZY1rkjDiXLTR) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw), [Saiwariya](https://open.spotify.com/artist/34Bsd6kohYGNWw1zvqkVd5) | [Chhodo Kalaiya](https://open.spotify.com/album/7BkrpzKAfxtLlhqEfKJadQ) | 3:13 | 2022-06-10 |  |
-| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-12-06 |  |
+| [Closer](https://open.spotify.com/track/392cXa8zAoEa0KjUid1FQZ) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/25MOAn9V64TwKpBoB4VIF3) | 3:20 | 2021-12-06 | 2022-08-14 |
+| [Closer](https://open.spotify.com/track/57UD8zx3Y6wH7ALm1eII9A) | [Khanvict](https://open.spotify.com/artist/3XjXhRHZjamOXeraqTWff7) | [Closer](https://open.spotify.com/album/61ynBy8B1gL46nyEZdx39d) | 3:20 | 2022-08-13 |  |
 | [Cold Cold Night](https://open.spotify.com/track/7yHpjfYiFCKs0pFSUndEuI) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/1WuSRJC0L115CkTTMOCTuy) | 3:21 | 2022-01-10 | 2022-04-15 |
 | [complicated](https://open.spotify.com/track/0S3rH8lM0LceL2itJRdbR5) | [Yashraj](https://open.spotify.com/artist/0TwG8C39WJIfFlcPrhxHST), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Ramya Pothuri](https://open.spotify.com/artist/0JgLc59DdeDlgyZtnvAJQ6) | [complicated](https://open.spotify.com/album/2Hvf7mHorq11zWsERLN4Js) | 3:36 | 2021-12-06 | 2022-01-11 |
 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 | 2022-01-10 |  |

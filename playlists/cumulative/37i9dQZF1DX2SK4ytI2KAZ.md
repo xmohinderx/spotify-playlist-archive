@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-388 songs - 21 hr 46 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+389 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,6 +263,7 @@
 | [Post Humorous](https://open.spotify.com/track/0yb9DKhu0xA0h0qvKOHVwu) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [Orca](https://open.spotify.com/album/1D8cnABQfjvfQC2Cdk889m) | 4:39 | 2022-07-29 |  |
 | [Preach](https://open.spotify.com/track/2mAlil0VCzglcu4t1dALfN) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [Preach](https://open.spotify.com/album/26EBjKTpGv7b9UczhXxFUe) | 3:04 | 2021-03-10 | 2022-05-28 |
 | [Preacher Man](https://open.spotify.com/track/25lrlvqhBed81hejnUIP5P) | [THE DRIVER ERA](https://open.spotify.com/artist/5bmqhxWk9SEFDGIzWpSjVJ) | [Preacher Man](https://open.spotify.com/album/41RoNnI0O7darplpv3D9Ha) | 3:39 | 2021-03-10 |  |
+| [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 |  |
 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 | 2022-03-11 | 2022-06-25 |
 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 | 2022-06-27 |  |
 | [Pretty Way to Fight](https://open.spotify.com/track/1IqCYpT2uKyCEfH76Re2rr) | [Knox Hamilton](https://open.spotify.com/artist/1XyjBsbZBunXsYDTkaYtk9) | [Pretty Way to Fight](https://open.spotify.com/album/1kMQDvVlFdDjQZjy2b0vQ9) | 3:23 | 2021-03-10 | 2022-07-29 |
@@ -344,7 +345,7 @@
 | [The Hills](https://open.spotify.com/track/47lwvfWsHDZJkCPeqVFrnJ) | [The Faim](https://open.spotify.com/artist/6VsU92soWFLtVsSP65rkrN) | [The Hills](https://open.spotify.com/album/1Une2l5LD0e7savosFt6Gz) | 3:37 | 2022-05-04 |  |
 | [The Idea of You](https://open.spotify.com/track/2q0wGZoUjHbnQsmd3J3lQf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R), [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [The Idea of You](https://open.spotify.com/album/0ISJFgFpHxZzn82nNHB1kb) | 2:58 | 2021-07-02 | 2022-07-29 |
 | [The Last Dance](https://open.spotify.com/track/4E2uNyCIUpK08njwoLQh02) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [The Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/61xkcDOeRRSetouvqU2d3w) | 3:24 | 2022-03-11 | 2022-07-26 |
-| [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 |  |
+| [The Outfield](https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Night Game](https://open.spotify.com/album/09Ft4FmAcy8CnuNoy9JbJN) | 3:52 | 2022-07-29 | 2022-08-14 |
 | [The Outfield](https://open.spotify.com/track/3O2hDxP5BeV4bH99nRvgym) | [The Night Game](https://open.spotify.com/artist/79QO0Xmn1dZhvaLicS2Yrs) | [The Outfield](https://open.spotify.com/album/6yKzyZeg8EUYBZbw7M2f0V) | 3:59 | 2022-03-11 | 2022-04-20 |
 | [The Walls Are Way Too Thin](https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [The Walls Are Way Too Thin](https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8) | 3:41 | 2022-07-29 |  |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2022-08-12 |  |

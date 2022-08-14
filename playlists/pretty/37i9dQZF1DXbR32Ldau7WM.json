@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock artists in Japan right now! Cover: BAND-MAID",
-  "num_followers": 237779,
+  "num_followers": 237845,
   "original_name": "Big in Japan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMDk3NDExNjAxMDVjZjRkZTg3ZDkzY2IxN2E2ZTE3Mzgw",
+  "snapshot_id": "MTY2MDA1NzIwMCwwMDAwMDAwMGEwMDQ1OTk3ZDc5NWU1MGJlNjY4ZGE4ZjRhMWFkMTYz",
   "tracks": [
     {
       "added_at": "2022-08-09 15:00:00",
@@ -675,18 +675,22 @@
     {
       "added_at": "2022-08-09 15:00:00",
       "album": {
-        "name": "\u7dcf\u5408",
-        "url": "https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp"
+        "name": "ODORO!(feat.MIHO FUKUHARA)",
+        "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
       },
       "artists": [
         {
-          "name": "Tokyo Incidents",
-          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+          "name": "Pyramid",
+          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
+        },
+        {
+          "name": "Miho Fukuhara",
+          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
         }
       ],
-      "duration_ms": 280000,
-      "name": "\u539f\u7f6a\u3068\u798f\u97f3",
-      "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
+      "duration_ms": 243506,
+      "name": "ODORO!(feat.MIHO FUKUHARA)",
+      "url": "https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J"
     },
     {
       "added_at": "2022-08-09 15:00:00",
@@ -707,6 +711,22 @@
     {
       "added_at": "2022-08-09 15:00:00",
       "album": {
+        "name": "\u7dcf\u5408",
+        "url": "https://open.spotify.com/album/2jYrSjiB2tmFZ8jKZLuhrp"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Incidents",
+          "url": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "\u539f\u7f6a\u3068\u798f\u97f3",
+      "url": "https://open.spotify.com/track/3N8YigCwZIgIH8IKzlw6V9"
+    },
+    {
+      "added_at": "2022-08-09 15:00:00",
+      "album": {
         "name": "egomaniac feedback",
         "url": "https://open.spotify.com/album/3XBNvPlVMRZkS10ssu1iRF"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 232106,
       "name": "Future Tone Bender",
       "url": "https://open.spotify.com/track/5Ed03SNdYyL69YsW0pOfEz"
-    },
-    {
-      "added_at": "2022-08-09 15:00:00",
-      "album": {
-        "name": "ODORO!(feat.MIHO FUKUHARA)",
-        "url": "https://open.spotify.com/album/6rZjtBvAUd2AS6Hzks3vYc"
-      },
-      "artists": [
-        {
-          "name": "Pyramid",
-          "url": "https://open.spotify.com/artist/3U0QIklMYTwPDN4NE56Wpy"
-        },
-        {
-          "name": "Miho Fukuhara",
-          "url": "https://open.spotify.com/artist/7CM9T52YxOcACiOK2sqHqe"
-        }
-      ],
-      "duration_ms": 243506,
-      "name": "ODORO!(feat.MIHO FUKUHARA)",
-      "url": "https://open.spotify.com/track/3CNiAI3yOlCmjjTpv6xH5J"
     },
     {
       "added_at": "2022-08-09 15:00:00",

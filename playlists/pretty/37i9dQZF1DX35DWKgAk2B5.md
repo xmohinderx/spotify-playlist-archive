@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 
 > Welcome to Indie Rock Club\. Cover: The White Stripes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,077,145 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,077,388 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 36 | [Ruby](https://open.spotify.com/track/0VhhaYztcRWc7PEjJCjr1g) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Yours Truly, Angry Mob \(Deluxe\)](https://open.spotify.com/album/3Hrcrl4FUmt262YeNQJaTM) | 3:22 |
 | 37 | [The Hardest Button to Button](https://open.spotify.com/track/3RdQfyk7BBxxIx0zSnCBIw) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 3:32 |
 | 38 | [Get Free](https://open.spotify.com/track/1JcGNoiwifg0MdJMVgJQYx) | [The Vines](https://open.spotify.com/artist/7vkiEK5D7Gf0z4M1Va0CXD) | [Highly Evolved](https://open.spotify.com/album/14rRGdr4K5UoaEFVw9jqBG) | 2:06 |
-| 39 | [Rest My Chemistry](https://open.spotify.com/track/1zNeVf6Qk402L4Urb7CcG8) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/3YSlq716lXQhnFTxp6z4Tb) | 5:01 |
-| 40 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
-| 41 | [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Sun And The Moon](https://open.spotify.com/album/1jg4hDHRD1CpYZkWKuLX2Z) | 3:46 |
-| 42 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 |
+| 39 | [Hate To Say I Told You So](https://open.spotify.com/track/6xxXrNJnnsQNLdgNk8S4y8) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Veni Vidi Vicious](https://open.spotify.com/album/7lbksDekncvHf1FfZ5y1li) | 3:19 |
+| 40 | [Can't Stand Me Now](https://open.spotify.com/track/2EtZFeLn9msgg4qJzT9Vql) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [The Libertines](https://open.spotify.com/album/026fArxz2P8Vuj8ReXLD6j) | 3:23 |
+| 41 | [Rest My Chemistry](https://open.spotify.com/track/1zNeVf6Qk402L4Urb7CcG8) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Our Love To Admire](https://open.spotify.com/album/3YSlq716lXQhnFTxp6z4Tb) | 5:01 |
+| 42 | [Believe](https://open.spotify.com/track/4Wvr1YaxNsCujq77dKujys) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Sun And The Moon](https://open.spotify.com/album/1jg4hDHRD1CpYZkWKuLX2Z) | 3:46 |
 | 43 | [Do You Want To](https://open.spotify.com/track/6WrnSlcN0dzTO80mVVbBto) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [You Could Have It So Much Better](https://open.spotify.com/album/3GNG4NPXfTeIGYjZ2FpS6P) | 3:35 |
 | 44 | [I Bet You Look Good On The Dancefloor](https://open.spotify.com/track/29EkMZmUNz1WsuzaMtVo1i) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/0ndGMh4twJNzPpr5XtHTR2) | 2:53 |
 | 45 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 61 | [Farewell To The Fairground](https://open.spotify.com/track/09v3dFgd3YwrD0U5gkNaTg) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 4:16 |
 | 62 | [Danger! High Voltage \- Soulchild Radio Mix](https://open.spotify.com/track/2VHfyWLlvCvbkIqtS5tqt3) | [Electric Six](https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua) | [Fire](https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx) | 3:34 |
 | 63 | [Time for Heroes](https://open.spotify.com/track/4J4LjEe33yN6gLmPib0nqz) | [The Libertines](https://open.spotify.com/artist/4fSPtBgFPZzygkY6MehwQ7) | [Up the Bracket](https://open.spotify.com/album/4iddETnfRjPwoPCo9PjeyX) | 2:40 |
-| 64 | [The Bucket](https://open.spotify.com/track/5LZSXhywLD0CXBPQs3ULoL) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3fNRzhnl6WAtghBXEeyaub) | 2:55 |
-| 65 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
+| 64 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
+| 65 | [The Bucket](https://open.spotify.com/track/5LZSXhywLD0CXBPQs3ULoL) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Aha Shake Heartbreak](https://open.spotify.com/album/3fNRzhnl6WAtghBXEeyaub) | 2:55 |
 | 66 | [C'mon C'mon](https://open.spotify.com/track/0YPDp1KIxVLTdh3vnvk6wd) | [The Von Bondies](https://open.spotify.com/artist/5QPNEMldc8k1g5hT54PCWg) | [Pawn Shoppe Heart](https://open.spotify.com/album/4iqIG2tV2idmgWZGjsIQVb) | 2:13 |
 | 67 | [Papillon](https://open.spotify.com/track/7hYiX6LMP8w8d0kEc4KWuW) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [In This Light and on This Evening](https://open.spotify.com/album/4JO30GKQBd4SRLZSBwtTPY) | 5:24 |
 | 68 | [Apply Some Pressure](https://open.spotify.com/track/19503qDaxgCdPL2BhJngij) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [A Certain Trigger](https://open.spotify.com/album/5AMY7GZtT4hz0h4O7OBUz4) | 3:20 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 71 | [Gay Bar](https://open.spotify.com/track/7G5xEOORkAAUhx6wjTRb26) | [Electric Six](https://open.spotify.com/artist/4xNadaO5ZZLVJdqDIVVIua) | [Fire](https://open.spotify.com/album/0mekXZokDUu9QCWbzhDhRx) | 2:20 |
 | 72 | [I Predict a Riot](https://open.spotify.com/track/3fMoeGj4mDusrmYOOF60aC) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/1jnbLwKGgg3XoKYlDmaxmF) | 3:54 |
 | 73 | [Gold Lion](https://open.spotify.com/track/6ttg1sxtU12beFZkjoc6j5) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/4vILeh9sgKiDXnyL2pHCiz) | 3:07 |
-| 74 | [Our Velocity](https://open.spotify.com/track/1yG1OpMiV8WtDeOYEBvNW8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:20 |
+| 74 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 |
 | 75 | [An End Has a Start](https://open.spotify.com/track/5jth1c4wa4BythOzap3qOU) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [An End Has a Start](https://open.spotify.com/album/7jXVRapoxFltuoxCEdbdIp) | 3:45 |
-| 76 | [Beat the Devil's Tattoo](https://open.spotify.com/track/2iPTESocncak2Q45oXzKOG) | [Black Rebel Motorcycle Club](https://open.spotify.com/artist/1tpXaFf2F55E7kVJON4j4G) | [Beat the Devil's Tattoo](https://open.spotify.com/album/04Aq1J0F5FcUUSEhFziTYc) | 3:45 |
+| 76 | [Our Velocity](https://open.spotify.com/track/1yG1OpMiV8WtDeOYEBvNW8) | [Maximo Park](https://open.spotify.com/artist/048FBwXjFYBWxSggPDipic) | [Our Earthly Pleasures](https://open.spotify.com/album/6mDHmXgvy79alh2CwEmMxJ) | 3:20 |
 | 77 | [Bandages](https://open.spotify.com/track/75pMEcHJjLRv0O8MHxQvdg) | [Hot Hot Heat](https://open.spotify.com/artist/5UVftEhSsIg0kkXlmfhB6M) | [Make Up The Breakdown](https://open.spotify.com/album/02KvZdz1ZwyGTok0Sl5g3a) | 3:32 |
 | 78 | [Obstacle 1 \- 2012 Remaster](https://open.spotify.com/track/2urZOEgVXM7rj59Ui0FuNn) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights \(The Tenth Anniversary Edition \- 2012 Remaster\)](https://open.spotify.com/album/5oJ2OTdqCteMkGDjzcItNN) | 4:11 |
 | 79 | [Combat Baby](https://open.spotify.com/track/7Eb5avO0Ut4p6hAGCaeYEk) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Old World Underground, Where Are You Now?](https://open.spotify.com/album/1OOEOpm5mEmxXlJKhVOFnU) | 3:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35DWKgAk2B5.md) - [plain]
 | 99 | [Echoes](https://open.spotify.com/track/6ilylHfblTVdDvJtaAiE8U) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [Echoes](https://open.spotify.com/album/1htTXDHC2YhVq0xTwHzaHh) | 3:06 |
 | 100 | [Human Performance](https://open.spotify.com/track/6gCdeGEhXZbAracd6B977r) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Human Performance](https://open.spotify.com/album/234xgzAxSozAKfXeLb2ofh) | 4:15 |
 
-Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDE3MGNiNGZjN2QyZThjOGU2MWMwNjc1MzJlNzVjNmNj`
+Snapshot ID: `MTY1ODQxOTg3OCwwMDAwMDAwMDMwOWVjZjYwY2UyZDM2NzExZjhhMDQ1MWE2YTIyOGU0`

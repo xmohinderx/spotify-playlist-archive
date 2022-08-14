@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Kep1er\(케플러\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 793,688 likes - 64 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 794,065 likes - 64 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 48 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 |
 | 49 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 |
 | 50 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
-| 51 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
-| 52 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
+| 51 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
+| 52 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
 | 53 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
 | 54 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
 | 55 | [Celebrity](https://open.spotify.com/track/4RewTiGEGoO7FWNZUmp1f4) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Celebrity](https://open.spotify.com/album/3mtDgtcl4bxDN73kIM216g) | 3:15 |
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 57 | [THE GIRLS \(Can’t turn me down\)](https://open.spotify.com/track/5bZ8iEjZ0iLq6Hr6GPWsUR) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:58 |
 | 58 | [Power Up](https://open.spotify.com/track/381g0b6QZxC13SzA2HRMIc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Summer Magic \- Summer Mini Album](https://open.spotify.com/album/5zWa1ZEUBctbKqvwXbFawo) | 3:22 |
 | 59 | [BIRTHDAY](https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [BIRTHDAY](https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx) | 3:05 |
-| 60 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 |
-| 61 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 |
-| 62 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 |
-| 63 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 |
-| 64 | [Dilemma](https://open.spotify.com/track/3j0x2BUUtm2obQXS1lZuN3) | [Apink](https://open.spotify.com/artist/2uWcrwgWmZcQc3IPBs3tfU) | [HORN](https://open.spotify.com/album/6GeYzOIumBxJ4iF41J3KXM) | 3:29 |
+| 60 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
+| 61 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 |
+| 62 | [pporappippam 보라빛 밤](https://open.spotify.com/track/7oQh96s9YemWG3A4zkIbrU) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [pporappippam 보라빛 밤](https://open.spotify.com/album/5IKVYCIhY5SyMhj1cYovz3) | 3:26 |
+| 63 | [Tie a Cherry](https://open.spotify.com/track/6tRzqvMtnfDZY80WRh4csu) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [ALPHA](https://open.spotify.com/album/32lsJQmgxK7swVFGZYfQWg) | 3:10 |
+| 64 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 |
 
-Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDczYjdkYzA3MWQyMzRjMmFhYWI2NDI3ZTViNjA2MDQx`
+Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDBiNDZjN2Y4NmMxNjNhMjMzYmIzZWYzZDExYTFhMjc5`

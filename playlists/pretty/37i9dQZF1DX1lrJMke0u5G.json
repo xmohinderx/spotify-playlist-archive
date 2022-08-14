@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vuelve el Cosqu\u00edn Rock! 12 y 13 de Febrero, Aer\u00f3dromo Santa Mar\u00eda de Punilla, C\u00f3rdoba.",
-  "num_followers": 22793,
+  "num_followers": 22822,
   "original_name": "Cosqu\u00edn Rock 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGYxM2I3YTVlNWEzMTNlNWI4NzFjMDU5ZWVkMDNiZDky",
+  "snapshot_id": "MTY0NDI2NjA4NSwwMDAwMDAwMGQ3NDk0MGI4NWZhYjgyN2JiMWY0Y2U0YzdkNjM2ZDQw",
   "tracks": [
     {
       "added_at": "2022-02-07 20:34:45",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 244160,
+      "name": "De Atar",
+      "url": "https://open.spotify.com/track/1OP1B37Pxw12b7ixZeR0kO"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 337453,
       "name": "All\u00ed donde sol\u00edamos gritar",
       "url": "https://open.spotify.com/track/29tVNOmg85qDLh2wVnJxpv"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 244160,
-      "name": "De Atar",
-      "url": "https://open.spotify.com/track/1OP1B37Pxw12b7ixZeR0kO"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Esperanza",
-        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
-      },
-      "artists": [
-        {
-          "name": "Bardero$",
-          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
-        }
-      ],
-      "duration_ms": 176773,
-      "name": "Esperanza",
-      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/49Y0JDS4o3itFl0aw1eD0o"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 238625,
       "name": "Si Supieras - En Vivo en el Luna Park",
       "url": "https://open.spotify.com/track/1aYjTQMHRpyhu0Yv0HBZuV"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "Esperanza",
+        "url": "https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg"
+      },
+      "artists": [
+        {
+          "name": "Bardero$",
+          "url": "https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G"
+        }
+      ],
+      "duration_ms": 176773,
+      "name": "Esperanza",
+      "url": "https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -859,22 +859,18 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH"
+        "name": "Nafta",
+        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
       },
       "artists": [
         {
-          "name": "ODD MAMI",
-          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
-        },
-        {
-          "name": "Kid Munni",
-          "url": "https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 149433,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9"
+      "duration_ms": 257898,
+      "name": "Potra",
+      "url": "https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -895,18 +891,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "Nafta",
-        "url": "https://open.spotify.com/album/4yl3UNCVcTf287qlknLxVl"
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/6kMUWRb9fOyS8H2p3nehbH"
       },
       "artists": [
         {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
+          "name": "ODD MAMI",
+          "url": "https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6"
+        },
+        {
+          "name": "Kid Munni",
+          "url": "https://open.spotify.com/artist/2HBcNkdZk8JzGkqlc7RsIL"
         }
       ],
-      "duration_ms": 257898,
-      "name": "Potra",
-      "url": "https://open.spotify.com/track/1DIBkKqsREnKgxpZ5RJjRf"
+      "duration_ms": 149433,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/7ytLrsD18C4jG5ib6LyED9"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -975,6 +975,22 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
+        "name": "Lavandina",
+        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 299192,
+      "name": "Precipicio",
+      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
         "name": "Paranoia Pop",
         "url": "https://open.spotify.com/album/6C64Uw0fiwqH3aUPZr9Hsv"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 232226,
       "name": "Paranoia Pop",
       "url": "https://open.spotify.com/track/5BOg9CZMk1nWNMkklZ0Boy"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
-        "name": "Lavandina",
-        "url": "https://open.spotify.com/album/60kgxaYtVgEZdMhY8lWarw"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 299192,
-      "name": "Precipicio",
-      "url": "https://open.spotify.com/track/13oGKDy4OSNNW8PvpDOoxb"
     },
     {
       "added_at": "2022-02-07 20:34:45",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-02-07 20:34:45",
       "album": {
-        "name": "222 BIOGRAMA",
-        "url": "https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo"
-      },
-      "artists": [
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Aguas Turbulentas",
-      "url": "https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3"
-    },
-    {
-      "added_at": "2022-02-07 20:34:45",
-      "album": {
         "name": "Pacto de Sangre",
         "url": "https://open.spotify.com/album/5hbILog4k1bsYkJTnnLDcT"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 243733,
       "name": "Felicidad",
       "url": "https://open.spotify.com/track/6maz5qNXcVL8PG8UP99QcK"
+    },
+    {
+      "added_at": "2022-02-07 20:34:45",
+      "album": {
+        "name": "222 BIOGRAMA",
+        "url": "https://open.spotify.com/album/6R8WKBSETdBft1jXtbvBmo"
+      },
+      "artists": [
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Aguas Turbulentas",
+      "url": "https://open.spotify.com/track/7GXEbrbXdBi3v3KHFzZYc3"
     },
     {
       "added_at": "2022-02-07 20:34:45",

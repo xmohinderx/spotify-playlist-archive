@@ -416,6 +416,28 @@
     },
     {
       "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+    },
+    {
+      "album": {
         "name": "a modern tragedy vol. 1",
         "url": "https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV"
       },
@@ -1533,6 +1555,24 @@
       "duration_ms": 209411,
       "name": "Falling",
       "url": "https://open.spotify.com/track/6DaNlUMdwiidZbFSebVcIy"
+    },
+    {
+      "album": {
+        "name": "Falling Asleep at the Wheel / Julie",
+        "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Falling Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
     },
     {
       "album": {
@@ -3557,7 +3597,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 245333,
       "name": "RIOT",
       "url": "https://open.spotify.com/track/4onluwupxaETxiabwcdeFH"
@@ -4191,7 +4231,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 318428,
       "name": "Subliminal (Even the Ghosts are Laughing)",
       "url": "https://open.spotify.com/track/6T7ORp4dBOA93elX1NIYOm"

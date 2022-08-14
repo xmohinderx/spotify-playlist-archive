@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Netherlands.
 
-714 songs - 1 day 13 hr 19 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
+715 songs - 1 day 13 hr 21 min - [published](https://open.spotify.com/playlist/1y9OKrZRadBDhQD5mCQ38L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -513,7 +513,7 @@
 | [Ova You](https://open.spotify.com/track/5sXgbk2NsZrpMSHlBjzUnp) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Ova You](https://open.spotify.com/album/3hLWixtvDLdjZh0duZeAIh) | 3:29 | 2021-08-08 | 2021-08-22 |
 | [Over](https://open.spotify.com/track/2z87XlLINvV8a2Xnb8mQ2v) | [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT), [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Ibiza Stories](https://open.spotify.com/album/4f4XrPHbOOPXglYfMCkHgP) | 2:22 | 2022-01-29 | 2022-02-13 |
 | [Overbodig](https://open.spotify.com/track/7ztTCnkLuvYt4GsgPgoJLw) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Glen Faria](https://open.spotify.com/artist/0O0Hr8JCTPqXyPLdN6kzdC) | [Overbodig](https://open.spotify.com/album/2hOeqNX2HAxEohssrpY5jt) | 3:04 | 2021-10-17 | 2021-10-18 |
-| [Overleven](https://open.spotify.com/track/3NgVkYRWAhWHLgH9Zn6s5t) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Overleven](https://open.spotify.com/album/2VOaWPQ1eSPREbixlAIkz0) | 2:53 | 2022-08-06 |  |
+| [Overleven](https://open.spotify.com/track/3NgVkYRWAhWHLgH9Zn6s5t) | [Djaga Djaga](https://open.spotify.com/artist/4mg1S6eUvRL9IZKzEShYB8), [Lijpe](https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd) | [Overleven](https://open.spotify.com/album/2VOaWPQ1eSPREbixlAIkz0) | 2:53 | 2022-08-06 | 2022-08-14 |
 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 | 2021-10-31 | 2022-03-09 |
 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 | 2021-05-16 | 2021-05-23 |
 | [p u n c h i n ‘ \. t h e \. c l o c k](https://open.spotify.com/track/57ZUX6TNyKLBydAdVVd02x) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 1:52 | 2021-05-16 | 2021-05-17 |
@@ -658,6 +658,7 @@
 | [United In Grief](https://open.spotify.com/track/05zd5Nv0e02ZqrlC8A2cwx) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 4:15 | 2022-05-14 | 2022-05-17 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2021-03-27\* | 2021-03-27 |
 | [Vallen En Opstaan](https://open.spotify.com/track/1veBfg0rmnrBjhfHMBnMP3) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Vallen En Opstaan](https://open.spotify.com/album/1vbRUJ3yPn710gmYjxku5q) | 2:30 | 2022-07-09 | 2022-07-11 |
+| [Van Mij Zijn](https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo) | [Van Mij Zijn](https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe) | 2:46 | 2022-08-13 |  |
 | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Vanavond \(Uit M'n Bol\)](https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa) | 2:46 | 2022-03-26 |  |
 | [Ven Ven](https://open.spotify.com/track/3upYG0cy9J2QhyV4GgV37x) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Ven Ven](https://open.spotify.com/album/4SzujG2DgIY5wfFOtQFdEx) | 2:30 | 2021-03-27\* | 2021-05-13 |
 | [Veppie vroom](https://open.spotify.com/track/7xdErSNSM2KrduVTGZvoX9) | [QuatroByVeks](https://open.spotify.com/artist/6Thwvyg74Tn4VCSkpsMu65), [CJaye](https://open.spotify.com/artist/1k6UJX3fICUUXA9W5vnnDD) | [Veppie vroom](https://open.spotify.com/album/0RXEbmksA3QO5cpBueLeZ5) | 2:03 | 2022-06-12 | 2022-06-17 |

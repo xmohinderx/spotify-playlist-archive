@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack of the Summer 2022.",
-  "num_followers": 398064,
+  "num_followers": 398076,
   "original_name": "Summer Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMDE3MjJkMjZhOTEzMDEyYzVkNWI1MjQ1YTdjNjdiYjlj",
+  "snapshot_id": "MTY1NjYyNjUyMCwwMDAwMDAwMGJkNTdjZTRlYWQzZjVkNzZiZGM2M2U3MDVhMTE3OWI2",
   "tracks": [
     {
       "added_at": "2022-06-30 22:02:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 155253,
       "name": "21 Reasons (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -235,26 +235,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Peru",
-        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 187111,
-      "name": "Peru",
-      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "Peru",
+        "url": "https://open.spotify.com/album/72hpBprZjtHAgsRTIUKrKO"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 187111,
+      "name": "Peru",
+      "url": "https://open.spotify.com/track/3s1KwrLP0NlFWiWbjz6bfQ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
         "name": "Sigue/Forever My Love",
         "url": "https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 159386,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
-        "name": "Green Green Grass",
-        "url": "https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "The Drum",
-        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 189287,
-      "name": "The Drum",
-      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
-    },
-    {
-      "added_at": "2022-06-30 22:02:00",
-      "album": {
         "name": "Solo Para Ti",
         "url": "https://open.spotify.com/album/7CX6KwcrRx0iwTH8iU6rDJ"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "4U",
-        "url": "https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684"
+        "name": "The Drum",
+        "url": "https://open.spotify.com/album/5UsoRTU88VoYEyskQnQu4H"
       },
       "artists": [
         {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         }
       ],
-      "duration_ms": 149717,
-      "name": "4U",
-      "url": "https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw"
+      "duration_ms": 189287,
+      "name": "The Drum",
+      "url": "https://open.spotify.com/track/1zOOl8f7qkjj0AmvlCfLyQ"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -607,6 +591,22 @@
       "duration_ms": 206277,
       "name": "Gata (feat. Chencho Corleone)",
       "url": "https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr"
+    },
+    {
+      "added_at": "2022-06-30 22:02:00",
+      "album": {
+        "name": "4U",
+        "url": "https://open.spotify.com/album/1dmL2D1rqc98yfqJxn0684"
+      },
+      "artists": [
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 149717,
+      "name": "4U",
+      "url": "https://open.spotify.com/track/3UGAJ5bHrDvxH28oJq5Uiw"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -691,22 +691,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Friendships (Lost My Love)",
-        "url": "https://open.spotify.com/album/2jxal1leCfQeW9udq79xgK"
+        "name": "NO MIENTEN",
+        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
       },
       "artists": [
         {
-          "name": "Pascal Letoublon",
-          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
-        },
-        {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
         }
       ],
-      "duration_ms": 182700,
-      "name": "Friendships (Lost My Love)",
-      "url": "https://open.spotify.com/track/3tzR2HUk6FAGaXzkrXZpQj"
+      "duration_ms": 147395,
+      "name": "NO MIENTEN",
+      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "NO MIENTEN",
-        "url": "https://open.spotify.com/album/1g8y7NQOWqijanTecml5zw"
+        "name": "Friendships (Lost My Love)",
+        "url": "https://open.spotify.com/album/2jxal1leCfQeW9udq79xgK"
       },
       "artists": [
         {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+          "name": "Pascal Letoublon",
+          "url": "https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a"
+        },
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
         }
       ],
-      "duration_ms": 147395,
-      "name": "NO MIENTEN",
-      "url": "https://open.spotify.com/track/3zUtuSPwyqKElkqfnJj3X2"
+      "duration_ms": 182700,
+      "name": "Friendships (Lost My Love)",
+      "url": "https://open.spotify.com/track/3tzR2HUk6FAGaXzkrXZpQj"
     },
     {
       "added_at": "2022-06-30 22:02:00",
@@ -967,26 +967,18 @@
     {
       "added_at": "2022-06-30 22:02:00",
       "album": {
-        "name": "Let Somebody Go (Ofenbach Remix)",
-        "url": "https://open.spotify.com/album/7lbSZjlBsWuXtR3WqsdOSN"
+        "name": "Getting Better",
+        "url": "https://open.spotify.com/album/3x9smhttMTYsCi0vTJxLxz"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
         }
       ],
-      "duration_ms": 194487,
-      "name": "Let Somebody Go - Ofenbach Remix",
-      "url": "https://open.spotify.com/track/1pDrM3rKlxA9fx3mShxzqx"
+      "duration_ms": 166301,
+      "name": "Getting Better",
+      "url": "https://open.spotify.com/track/0LfyrFWFTEvKuW4EOAT3fj"
     }
   ],
   "unique_name": "Summer Hits (2)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 
 > The best to ever do it\. Cover: Jada Kingdom
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,419 likes - 75 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,540 likes - 75 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 23 | [Hard Drive](https://open.spotify.com/track/4tw57jakL7TFEdZ4bUohP1) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Hard Drive](https://open.spotify.com/album/4y2mW0Vpyc897XhWl8K6B9) | 2:48 |
 | 24 | [Can't Let You Go](https://open.spotify.com/track/5YmPSElBlLt0Yy1zPOUGqi) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Can't Let You Go](https://open.spotify.com/album/3x7XvqGzt8oR9Gm0x4r2wV) | 3:14 |
 | 25 | [SUH ME LUV IT \(feat\. Jada Kingdom\)](https://open.spotify.com/track/4iyNOD4gCFiKMc62BVm0IN) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [FIXTAPE](https://open.spotify.com/album/3yqk7nimwdE2FdaA85iJM8) | 4:13 |
-| 26 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
-| 27 | [Romping Shop](https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [World of Reggae Music \(Edited\)](https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7) | 3:32 |
+| 26 | [Romping Shop](https://open.spotify.com/track/6qd2ehzEHv1Tl5pJ3itpKx) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [World of Reggae Music \(Edited\)](https://open.spotify.com/album/6qLRxF0gy9GFyoRMCKlJr7) | 3:32 |
+| 27 | [Gold](https://open.spotify.com/track/5wcWWTTQCEizpl98ggMRYL) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Gold](https://open.spotify.com/album/5CjGqbWegCxmjVZv168HRS) | 3:10 |
 | 28 | [Lockdown](https://open.spotify.com/track/0izUjTuDrUy2FgQOSRALSU) | [Koffee](https://open.spotify.com/artist/1gWjcmBsveEYMxOZ0VRi32) | [Lockdown](https://open.spotify.com/album/0tJs3Wig9YBdDG8jGKeLq6) | 2:59 |
 | 29 | [Open The Door](https://open.spotify.com/track/7Ib4HxrkMe8iHweXxMsev5) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39), [Dj Papis](https://open.spotify.com/artist/3a2dlVcm5z0ha2j9ihlQmP) | [Open The Door](https://open.spotify.com/album/26sEQnPSKzyRxk85fvF0ln) | 3:43 |
 | 30 | [Needle Eye](https://open.spotify.com/track/6gt4crRNZ5Soua4BP52HXv) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Needle Eye \- Single](https://open.spotify.com/album/3xMal1HXLb88nb1EpVi8mv) | 3:05 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cNYCfLOrsu.md) - [plain]
 | 69 | [Designer](https://open.spotify.com/track/4ZptztBp4PvoFsFti49pHu) | [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [Govana](https://open.spotify.com/artist/5Xi3NfsVBIEbaWVUfBTy39) | [Designer](https://open.spotify.com/album/3xZ56cOpghgZNhnxdflXnn) | 3:30 |
 | 70 | [Get Paid](https://open.spotify.com/track/6fjjjC1Swt5bxEdkXH8DFr) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL), [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG) | [Renaissance](https://open.spotify.com/album/0cFJfTwmx4KOM9zEy9i2nB) | 3:27 |
 | 71 | [Hard & Done](https://open.spotify.com/track/50ZQ13cDPuFaSXfWdPwa5n) | [Jugglerz](https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY), [Nyla](https://open.spotify.com/artist/4VZY0nxYMSNotbS7WjNVQy), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or) | [Hard & Done](https://open.spotify.com/album/2mdQ5xNL2QOBniNeHrhIDY) | 2:40 |
-| 72 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
+| 72 | [Wasteman](https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Wasteman](https://open.spotify.com/album/491hOjtl7Ifea5pY5xkwvr) | 3:29 |
 | 73 | [Batty Rider Shorts](https://open.spotify.com/track/0umOVszFJr1XMGBXK1i4xK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Batty Rider Shorts](https://open.spotify.com/album/3Wgc0ssm8QiWJ8UecTW8ex) | 3:19 |
 | 74 | [Naah Done](https://open.spotify.com/track/2569kuV4cvCN9Q0jQBgWlk) | [Alicai Harley](https://open.spotify.com/artist/4HIgMgldxGG0v8nSDWJrnh) | [Naah Done](https://open.spotify.com/album/3YILBKYE3k9kLTi3iFVFx2) | 3:19 |
-| 75 | [Wasteman](https://open.spotify.com/track/2qPSLoOyCXZyGB70Qf5H7K) | [Jada Kingdom](https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5) | [Wasteman](https://open.spotify.com/album/491hOjtl7Ifea5pY5xkwvr) | 3:29 |
+| 75 | [Walk Out](https://open.spotify.com/track/5oQ90gRbe4rqJDkeqhPHIQ) | [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk), [Ms Banks](https://open.spotify.com/artist/4imxqng3RrOBmykL2DhIJC), [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [Walk Out](https://open.spotify.com/album/4n6NxquEZC0FMt1zH12iOS) | 3:10 |
 
-Snapshot ID: `MTY1NTc0Njc3NywwMDAwMDAwMDEzMWYxZTBjZmI4ZjA4NmZkNGU3MDJkMGE0YzAxMjIx`
+Snapshot ID: `MTY1NTc0Njc3NywwMDAwMDAwMGUzY2QxNWJhYTgwMzA5YmE2NGI3N2ZiY2RkNDJmZjI1`

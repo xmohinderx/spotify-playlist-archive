@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Steve Lacy ",
-  "num_followers": 2207195,
+  "num_followers": 2207461,
   "original_name": "Ultimate Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2NDgyNywwMDAwMDAwMDNlOTc1NjAzMzY5OWI2OTQzMTg1NzZjNjQ0NDIzYjdi",
+  "snapshot_id": "MTY2MDI2NDgyNywwMDAwMDAwMGE0YmRlNDIwMWRlYzkyNDFiZWZmZTQ0ZDkwY2JiNTQ0",
   "tracks": [
     {
       "added_at": "2022-08-12 00:40:26",
@@ -459,6 +459,22 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
+        "name": "THREAT",
+        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
+      },
+      "artists": [
+        {
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "duration_ms": 170793,
+      "name": "THREAT",
+      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
         "name": "Then It All Goes Away",
         "url": "https://open.spotify.com/album/1WuvMjvT8P5oOpe51cQdO1"
       },
@@ -583,6 +599,22 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
         "name": "Fantasy Gateway",
         "url": "https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM"
       },
@@ -603,22 +635,6 @@
       "duration_ms": 232298,
       "name": "Sitting In The Corner (feat. Adriel Favela & Kacey Musgraves)",
       "url": "https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -655,18 +671,18 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "WE",
-        "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
+        "name": "strawberry chainsaw",
+        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
       "artists": [
         {
-          "name": "Arcade Fire",
-          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 401253,
-      "name": "Age of Anxiety II (Rabbit Hole)",
-      "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
+      "duration_ms": 156008,
+      "name": "strawberry chainsaw",
+      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -683,6 +699,22 @@
       "duration_ms": 165320,
       "name": "Killing Me",
       "url": "https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
+        "name": "WE",
+        "url": "https://open.spotify.com/album/2sAePf08xIp4tnDlMUCV8B"
+      },
+      "artists": [
+        {
+          "name": "Arcade Fire",
+          "url": "https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB"
+        }
+      ],
+      "duration_ms": 401253,
+      "name": "Age of Anxiety II (Rabbit Hole)",
+      "url": "https://open.spotify.com/track/2z0nkZLzKp1IbZzdQCaD6Z"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -719,6 +751,38 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
+      },
+      "artists": [
+        {
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
+        "name": "Got Weird",
+        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
+      },
+      "artists": [
+        {
+          "name": "dodie",
+          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
+        }
+      ],
+      "duration_ms": 202435,
+      "name": "Got Weird",
+      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
         "name": "Buddy's Rendezvous",
         "url": "https://open.spotify.com/album/3hL6ZIcwV6zUfqRiPLPBLJ"
       },
@@ -751,54 +815,6 @@
       "duration_ms": 219405,
       "name": "Angel",
       "url": "https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "strawberry chainsaw",
-        "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
-      },
-      "artists": [
-        {
-          "name": "JAWNY",
-          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
-        }
-      ],
-      "duration_ms": 156008,
-      "name": "strawberry chainsaw",
-      "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "Got Weird",
-        "url": "https://open.spotify.com/album/2NBdHnQrggzuLN3FgeO9Om"
-      },
-      "artists": [
-        {
-          "name": "dodie",
-          "url": "https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS"
-        }
-      ],
-      "duration_ms": 202435,
-      "name": "Got Weird",
-      "url": "https://open.spotify.com/track/5z1KeOpL9n1b3iFAJk91iu"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -851,22 +867,6 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "THREAT",
-        "url": "https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO"
-      },
-      "artists": [
-        {
-          "name": "Rex Orange County",
-          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "duration_ms": 170793,
-      "name": "THREAT",
-      "url": "https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
         "name": "Lavender Days",
         "url": "https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW"
       },
@@ -899,18 +899,18 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "Easy / Where Do We Go From Here?",
-        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
+        "name": "Emotional Creature",
+        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
       },
       "artists": [
         {
-          "name": "MisterWives",
-          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
+          "name": "Beach Bunny",
+          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
         }
       ],
-      "duration_ms": 231670,
-      "name": "Where Do We Go From Here?",
-      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
+      "duration_ms": 202693,
+      "name": "Weeds",
+      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -935,34 +935,18 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "Emotional Creature",
-        "url": "https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8"
+        "name": "Easy / Where Do We Go From Here?",
+        "url": "https://open.spotify.com/album/1paYV647AAPnlKgpFJVtLa"
       },
       "artists": [
         {
-          "name": "Beach Bunny",
-          "url": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+          "name": "MisterWives",
+          "url": "https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z"
         }
       ],
-      "duration_ms": 202693,
-      "name": "Weeds",
-      "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "Orange Blood",
-        "url": "https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 226013,
-      "name": "Orange Blood",
-      "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
+      "duration_ms": 231670,
+      "name": "Where Do We Go From Here?",
+      "url": "https://open.spotify.com/track/5DObWDHfwHE2mIdZGgRnzE"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "10:36",
-        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+        "name": "Orange Blood",
+        "url": "https://open.spotify.com/album/2H1cK9wMY3GreIFvcNnice"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
         }
       ],
-      "duration_ms": 195066,
-      "name": "10:36",
-      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
+      "duration_ms": 226013,
+      "name": "Orange Blood",
+      "url": "https://open.spotify.com/track/2mKz0wGscPw1xnTvrTlQUi"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -1027,6 +1011,22 @@
       "duration_ms": 250613,
       "name": "Hot & Heavy",
       "url": "https://open.spotify.com/track/6SIooImkHGKCIwgUZ3WDvD"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
+        "name": "10:36",
+        "url": "https://open.spotify.com/album/35YoDuTf68QG4Edvlrgvoz"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "10:36",
+      "url": "https://open.spotify.com/track/1FPTtFzvWMtV1A7ouK78at"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "We're Not In Orbit Yet\u2026",
-        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
-      },
-      "artists": [
-        {
-          "name": "Broken Bells",
-          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
-        }
-      ],
-      "duration_ms": 310840,
-      "name": "We're Not In Orbit Yet\u2026",
-      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
         "name": "Lemon Tree",
         "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 248560,
       "name": "Lemon Tree",
       "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
+        "name": "We're Not In Orbit Yet\u2026",
+        "url": "https://open.spotify.com/album/1BvFdIWtys20Hm0sFVeqeT"
+      },
+      "artists": [
+        {
+          "name": "Broken Bells",
+          "url": "https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG"
+        }
+      ],
+      "duration_ms": 310840,
+      "name": "We're Not In Orbit Yet\u2026",
+      "url": "https://open.spotify.com/track/45iaKryj5SvdzinlHHrDlL"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -1127,18 +1127,22 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "Formentera",
-        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
       "artists": [
         {
-          "name": "Metric",
-          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 219866,
-      "name": "False Dichotomy",
-      "url": "https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa"
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -1175,22 +1179,34 @@
     {
       "added_at": "2022-08-12 00:40:26",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+        "name": "Formentera",
+        "url": "https://open.spotify.com/album/1S5vq5vSHCnCJnMljIiuS6"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
         }
       ],
-      "duration_ms": 263360,
-      "name": "I Love You More Than You Know (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+      "duration_ms": 219866,
+      "name": "False Dichotomy",
+      "url": "https://open.spotify.com/track/6Lg3XL27eplXv3TENt2Twa"
+    },
+    {
+      "added_at": "2022-08-12 00:40:26",
+      "album": {
+        "name": "All Day I Dream About",
+        "url": "https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn"
+      },
+      "artists": [
+        {
+          "name": "joe p",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 201667,
+      "name": "All Day I Dream About",
+      "url": "https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt"
     },
     {
       "added_at": "2022-08-12 00:40:26",
@@ -1243,22 +1259,6 @@
       "duration_ms": 145718,
       "name": "take it back (feat. Beck)",
       "url": "https://open.spotify.com/track/3CBYEnqoS93EUKx4XrHYUE"
-    },
-    {
-      "added_at": "2022-08-12 00:40:26",
-      "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome"
-      },
-      "artists": [
-        {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U"
     }
   ],
   "unique_name": "Ultimate Indie",

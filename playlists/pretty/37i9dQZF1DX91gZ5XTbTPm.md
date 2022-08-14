@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,021 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,074 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

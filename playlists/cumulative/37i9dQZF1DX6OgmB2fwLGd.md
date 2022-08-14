@@ -4,7 +4,7 @@
 
 > The soundtrack to the internet\. Cover: Minions
 
-363 songs - 14 hr 57 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
+364 songs - 14 hr 59 min - [published](https://open.spotify.com/playlist/22i2vvRs1o18fCRD821qvI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,6 +182,7 @@
 | [ily](https://open.spotify.com/track/52otgxiSY8ywOjoSqi0aVV) | [BabySantana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [ily](https://open.spotify.com/album/4BrUuCzw2vfAicYcet3Jmv) | 2:05 | 2022-05-13 | 2022-06-03 |
 | [IMAGO DEI](https://open.spotify.com/track/6zl1eXulHnfWYmiJTNW4eW) | [WELL$](https://open.spotify.com/artist/0LHzh8WdqxdtnTzp0XIOyZ) | [IMAGO DEI](https://open.spotify.com/album/0AjBEA9BMwFZ1z86QvoeID) | 2:20 | 2022-05-20 | 2022-08-02 |
 | [IN THE MIDDLE](https://open.spotify.com/track/00I2ZzY3LBCOfWvyqgPsJb) | [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [IN THE MIDDLE](https://open.spotify.com/album/6NcGjXe9oZn7WReMlwLQcD) | 3:23 | 2022-01-07 | 2022-05-17 |
+| [Internet Shooter](https://open.spotify.com/track/5AC6Q3bRtfUCzvlsBbdeVw) | [Lil Seeto](https://open.spotify.com/artist/6Tcv81NwhshAZnSsoJT0WI) | [Internet Shooter](https://open.spotify.com/album/0lQKfhqKTBEiCllzPa7b6M) | 1:57 | 2022-08-13 |  |
 | [Intro](https://open.spotify.com/track/6OoynwB0ZIefcMvWBsivXO) | [Lando Bando](https://open.spotify.com/artist/0RhMJraoZxBc1FPEXaUZnx), [The Hip Hop Lab](https://open.spotify.com/artist/2Bj4eYljS3HxKmQYTJ6yaG), [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [New Era](https://open.spotify.com/album/41FoQRZr8INsVkHD2uuAvA) | 2:27 | 2021-12-16 | 2022-02-05 |
 | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/track/44jbVr6FfDXB6mbqyvS7ir) | [Shooter McShootem](https://open.spotify.com/artist/0iYOm5jZveoUVliLeAP8xE) | [Istbu \(I'll Shoot This Bitch Up\)](https://open.spotify.com/album/5AAdGxRnMIWBZ0K0BiWqci) | 3:08 | 2022-03-01 | 2022-04-26 |
 | [Ivy](https://open.spotify.com/track/4MPC94p6MfRbMjgYVNSKTC) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8), [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Ivy](https://open.spotify.com/album/60jHOsOAVmUxXEt8AKQ6nc) | 2:00 | 2021-11-19 | 2022-02-26 |

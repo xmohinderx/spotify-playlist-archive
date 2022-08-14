@@ -4,7 +4,7 @@
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-120 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
+121 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 | 2022-06-30 | 2022-07-26 |
 | [Colombia, Mi Encanto](https://open.spotify.com/track/2Q5q1q01KOdHt5fM00WUJ8) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:55 | 2022-01-27 | 2022-03-12 |
 | [Cuarentena](https://open.spotify.com/track/7zNGzcGEnfVld7PdlXSeSa) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:11 | 2021-12-14 | 2022-01-20 |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-07-06 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-07-06 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-08-02 |  |
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-12-14 | 2022-07-14 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-14 | 2022-01-06 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-04-29 | 2022-07-26 |

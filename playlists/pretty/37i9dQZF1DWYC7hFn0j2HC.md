@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,140 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,298 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 50 | [Media Vuelta](https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La Malagradecida](https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR) | 2:38 |
 | 51 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 52 | [No Volveré](https://open.spotify.com/track/4Ny3BGfhqH2XOkOMuR2A4Y) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 4:27 |
-| 53 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
-| 54 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
+| 53 | [El Adolorido](https://open.spotify.com/track/48GVUFn3gtM9taw5aZYlge) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 2:58 |
+| 54 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 55 | [Camino de Guanajuato](https://open.spotify.com/track/4Llj18Ki0h1YLFTCZbpSp8) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Corridos Y Rancheras](https://open.spotify.com/album/0RZ4nhnAHsZeYPtKMX16hf) | 3:13 |
 | 56 | [Tu enamorado](https://open.spotify.com/track/0s9KS4SRdpSuDBulhroP9V) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:09 |
 | 57 | [Payaso](https://open.spotify.com/track/4bvgQHmxuwOt251YF0FrUa) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 3:01 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 69 | [La Que Se Fue](https://open.spotify.com/track/1alyNZG9KRgo9QEs7alv92) | [Jorge Negrete](https://open.spotify.com/artist/4W5RbLZybsLfAzE7QqdibE) | [Fiesta Mexicana](https://open.spotify.com/album/3YGaO3xZe4xrr1defiiv5q) | 2:49 |
 | 70 | [El Jinete \- Remastered](https://open.spotify.com/track/3enUz3EjVKgcrL7q8Q2HuW) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Grabaciones Completas \(Remastered\)](https://open.spotify.com/album/3DhnqhKYzQ8tKtUUOLJcnX) | 2:59 |
 
-Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDk0ZDJmYjZjZWNlYzdmZjI3ZGE5YTIyNTkyOTNkNjc3`
+Snapshot ID: `MTY0MzE1MzkxMSwwMDAwMDAwMDVmNzY5OTUwMDk0ODdlNTAyOTUxM2Y0NTY4Njc1NWI4`

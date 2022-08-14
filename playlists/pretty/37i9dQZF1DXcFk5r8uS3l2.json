@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 413251,
+  "num_followers": 413309,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGIyY2EyOGVhOTBmNTAwZGU2M2FhZDI1NDc1YzkwNmIy",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDJiZTIyMzM1YWFlOTBiYjA1YmZhZDE5ZmMxOWI1MWYz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "Ice Cream & Cigarettes",
-        "url": "https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM"
-      },
-      "artists": [
-        {
-          "name": "Million Miles",
-          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
-        }
-      ],
-      "duration_ms": 172240,
-      "name": "Ice Cream & Cigarettes",
-      "url": "https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 195340,
       "name": "belladonna",
       "url": "https://open.spotify.com/track/6E39NM14yu6A6uFjuiQfZt"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Ice Cream & Cigarettes",
+        "url": "https://open.spotify.com/album/2y2szuP1tMpaGCJhb2TfRM"
+      },
+      "artists": [
+        {
+          "name": "Million Miles",
+          "url": "https://open.spotify.com/artist/3exZi47Gf3ZlXjKbvLp5Wm"
+        }
+      ],
+      "duration_ms": 172240,
+      "name": "Ice Cream & Cigarettes",
+      "url": "https://open.spotify.com/track/4MF13EQrQftevIUwXcLQHS"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-05-27 04:03:00",
       "album": {
+        "name": "Amen",
+        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
+      },
+      "artists": [
+        {
+          "name": "War & Pierce",
+          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+        }
+      ],
+      "duration_ms": 247478,
+      "name": "Amen",
+      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
         "name": "Down to the River",
         "url": "https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 299680,
       "name": "Set My Soul on Fire",
       "url": "https://open.spotify.com/track/5yuqWMCOtMY0IBaQCBzqT5"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Hitchin' a Ride",
-        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
-      },
-      "artists": [
-        {
-          "name": "Amythyst Kiah",
-          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
-        }
-      ],
-      "duration_ms": 270820,
-      "name": "Hitchin' a Ride",
-      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
     },
     {
       "added_at": "2022-07-15 04:02:00",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/4DWr9jdFuoELQ06HLCnGeJ"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
+      "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Amen",
-        "url": "https://open.spotify.com/album/2utrZ7q63fuv9T4Q7AMgeI"
+        "name": "Hitchin' a Ride",
+        "url": "https://open.spotify.com/album/52GMS1garIMItzvmogm1MF"
       },
       "artists": [
         {
-          "name": "War & Pierce",
-          "url": "https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh"
+          "name": "Amythyst Kiah",
+          "url": "https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl"
         }
       ],
-      "duration_ms": 247478,
-      "name": "Amen",
-      "url": "https://open.spotify.com/track/59pMk1hZKKYQw1itapEMCI"
+      "duration_ms": 270820,
+      "name": "Hitchin' a Ride",
+      "url": "https://open.spotify.com/track/7oCx2L4JBKi6wQYhXzT8FN"
     },
     {
       "added_at": "2022-07-26 14:55:05",
@@ -763,6 +763,54 @@
       "duration_ms": 130276,
       "name": "Knew The Day Was Comin'",
       "url": "https://open.spotify.com/track/2ozeYfDCDYipVRTENpgCnT"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "South Gotta Change",
+        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "South Gotta Change",
+      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "POWER",
+        "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
+      },
+      "artists": [
+        {
+          "name": "Seratones",
+          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
+        }
+      ],
+      "duration_ms": 161675,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
+    },
+    {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Rock & Roll",
+        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
+      },
+      "artists": [
+        {
+          "name": "Christone \"Kingfish\" Ingram",
+          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
+        }
+      ],
+      "duration_ms": 290482,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -787,54 +835,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "South Gotta Change",
-        "url": "https://open.spotify.com/album/2fqnpucDvUPFqFTTn3MTiQ"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 225266,
-      "name": "South Gotta Change",
-      "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
-    },
-    {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Rock & Roll",
-        "url": "https://open.spotify.com/album/74udasJvPvH9iaGBIBbcPm"
-      },
-      "artists": [
-        {
-          "name": "Christone \"Kingfish\" Ingram",
-          "url": "https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX"
-        }
-      ],
-      "duration_ms": 290482,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5xfYZuMVGuyh9L0LcVWjzE"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "POWER",
-        "url": "https://open.spotify.com/album/3wZL5NTW9eLvDuYhWhvEPj"
-      },
-      "artists": [
-        {
-          "name": "Seratones",
-          "url": "https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc"
-        }
-      ],
-      "duration_ms": 161675,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/49YzZ6c0PalgJNqZSnfJrn"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "The Angels In Heaven Done Signed My Name",
         "url": "https://open.spotify.com/album/1NJxrv2i8o2eOuRHS6kRxa"
       },
@@ -847,6 +847,22 @@
       "duration_ms": 165727,
       "name": "Don't Let The Devil Ride",
       "url": "https://open.spotify.com/track/5ZwVWdXaJSMnqduVaDXKrn"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Magnolia Blues",
+        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 208546,
+      "name": "Magnolia Blues",
+      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -879,22 +895,6 @@
       "duration_ms": 262426,
       "name": "Got Love - Made In Muscle Shoals",
       "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Magnolia Blues",
-        "url": "https://open.spotify.com/album/23lmCOZk4vEMiaCMKTiZMr"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 208546,
-      "name": "Magnolia Blues",
-      "url": "https://open.spotify.com/track/7piCuE6DVjnko9oTNTqVAO"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/5sLY0cuhTdcKuJi674IWLx"
     },
     {
-      "added_at": "2022-04-08 04:01:00",
-      "album": {
-        "name": "So Far Gone",
-        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
-      },
-      "artists": [
-        {
-          "name": "The Sheepdogs",
-          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
-        }
-      ],
-      "duration_ms": 223961,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "S\u00edminn+Spotify Session",
@@ -1063,6 +1047,22 @@
       "duration_ms": 352720,
       "name": "Neon Experience - Live from Vatnagar\u00f0ar",
       "url": "https://open.spotify.com/track/3MLlB7G51LJaILSRUMfU2k"
+    },
+    {
+      "added_at": "2022-04-08 04:01:00",
+      "album": {
+        "name": "So Far Gone",
+        "url": "https://open.spotify.com/album/3EHloWp5pOdn9FE5aqRII4"
+      },
+      "artists": [
+        {
+          "name": "The Sheepdogs",
+          "url": "https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN"
+        }
+      ],
+      "duration_ms": 223961,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/2ZJDEk5eGgQDG41n7BnqCU"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
-        "name": "Cypress Grove",
-        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
-      },
-      "artists": [
-        {
-          "name": "Jimmy \"Duck\" Holmes",
-          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
-        }
-      ],
-      "duration_ms": 251528,
-      "name": "Catfish Blues",
-      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
-    },
-    {
       "added_at": "2022-07-15 04:02:00",
       "album": {
         "name": "Racing To A Red Light",
@@ -1143,6 +1127,22 @@
       "duration_ms": 264066,
       "name": "Racing To A Red Light",
       "url": "https://open.spotify.com/track/171aGpy6zowgTlHROdFKdY"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "Cypress Grove",
+        "url": "https://open.spotify.com/album/133vVuyhmwo2fWJNs6u5AK"
+      },
+      "artists": [
+        {
+          "name": "Jimmy \"Duck\" Holmes",
+          "url": "https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D"
+        }
+      ],
+      "duration_ms": 251528,
+      "name": "Catfish Blues",
+      "url": "https://open.spotify.com/track/5QjMVxhQ0CQwJ0txzEGgzA"
     },
     {
       "added_at": "2022-01-28 05:01:00",

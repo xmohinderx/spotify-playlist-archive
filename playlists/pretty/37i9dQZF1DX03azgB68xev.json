@@ -1,12 +1,12 @@
 {
   "description": "Your music. Your faith. Your life. This is Pop for life!  Cover artist: The Young Escape",
-  "num_followers": 192913,
+  "num_followers": 192911,
   "original_name": "Pop for Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDdmNzhiNGZhMGZhYzc4NDU3ZDU3N2Y0YjI5Mjc3NmM4",
+  "snapshot_id": "MTYzNTY0NTA2NSwwMDAwMDAwMDdjYmQ4NTkyYTk5NTgzNmM2ZDFiNjU4NTExOWU5ZGJj",
   "tracks": [
     {
       "added_at": "2021-10-31 01:51:05",
@@ -315,18 +315,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "I'm Still Breathing",
-        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
+        "name": "Citizen of Heaven",
+        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
       },
       "artists": [
         {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Steven Furtick",
+          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
         }
       ],
-      "duration_ms": 210510,
-      "name": "I'm Still Breathing",
-      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
+      "duration_ms": 168000,
+      "name": "Close (feat. Steven Furtick)",
+      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -347,22 +351,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Citizen of Heaven",
-        "url": "https://open.spotify.com/album/7o7x7p8emSxFJXS2ECj1Us"
+        "name": "I'm Still Breathing",
+        "url": "https://open.spotify.com/album/3xselxcmppcZRrOD5DdVWb"
       },
       "artists": [
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Steven Furtick",
-          "url": "https://open.spotify.com/artist/6ruMOwHKTLjGkGxpG32RTM"
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Close (feat. Steven Furtick)",
-      "url": "https://open.spotify.com/track/25BV2kcZKrw8FFsKM6gmtx"
+      "duration_ms": 210510,
+      "name": "I'm Still Breathing",
+      "url": "https://open.spotify.com/track/6saWL01T4ENiamU9HyBMmb"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -439,22 +439,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
-      },
-      "artists": [
-        {
-          "name": "Kevin Quinn",
-          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
-        }
-      ],
-      "duration_ms": 191517,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Nothing is Ordinary. Everything is Beautiful.",
         "url": "https://open.spotify.com/album/78lm2RBBywrBwkbxwIqL6P"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 214866,
       "name": "Patient",
       "url": "https://open.spotify.com/track/1uUp4gXR9ZHiV4iHRbmQa3"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/4uBvBJ24lgalgV3dVSqz1z"
+      },
+      "artists": [
+        {
+          "name": "Kevin Quinn",
+          "url": "https://open.spotify.com/artist/3HTHz4rj84gMMV8T3u81op"
+        }
+      ],
+      "duration_ms": 191517,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2mQQaBQd8EnDxFHU7Q1IAm"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -663,18 +663,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Come Home",
-        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
       "artists": [
         {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 182000,
-      "name": "No Better Day",
-      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -699,18 +699,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
+        "name": "Come Home",
+        "url": "https://open.spotify.com/album/3uC1QQs3o0KFgsCGmCRzhH"
       },
       "artists": [
         {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
         }
       ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+      "duration_ms": 182000,
+      "name": "No Better Day",
+      "url": "https://open.spotify.com/track/3yB5OgiAOt4Bi5MPWEIhtI"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -811,18 +811,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "WILD LOVE",
-        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
+        "name": "Fight My Fight For Me",
+        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Citizen Way",
+          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
+        },
+        {
+          "name": "Trampolines",
+          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
         }
       ],
-      "duration_ms": 167499,
-      "name": "WILD LOVE",
-      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
+      "duration_ms": 161323,
+      "name": "Fight My Fight For Me",
+      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -867,22 +871,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Fight My Fight For Me",
-        "url": "https://open.spotify.com/album/42phU77ePK7NmZpxSNhHyB"
+        "name": "WILD LOVE",
+        "url": "https://open.spotify.com/album/6egEvDkcMBG9XDAsIvaOsE"
       },
       "artists": [
         {
-          "name": "Citizen Way",
-          "url": "https://open.spotify.com/artist/7o9BrJpGzDJxWSGpAViJu4"
-        },
-        {
-          "name": "Trampolines",
-          "url": "https://open.spotify.com/artist/6aldh6681sMUSZe2CETBh2"
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
         }
       ],
-      "duration_ms": 161323,
-      "name": "Fight My Fight For Me",
-      "url": "https://open.spotify.com/track/6hGSFl1H2bR0wANwxKG3mS"
+      "duration_ms": 167499,
+      "name": "WILD LOVE",
+      "url": "https://open.spotify.com/track/6O3GXI34itpMqZbBYHNgoX"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -899,22 +899,6 @@
       "duration_ms": 162546,
       "name": "This World Is Not My Home",
       "url": "https://open.spotify.com/track/4jw2RRaFiovU5CmQBAwzFt"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3"
-      },
-      "artists": [
-        {
-          "name": "Coby James",
-          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
-        }
-      ],
-      "duration_ms": 150439,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -939,6 +923,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/5mENIriC2u8kE7AJ5415w3"
+      },
+      "artists": [
+        {
+          "name": "Coby James",
+          "url": "https://open.spotify.com/artist/3DFvLbBG5R981eicF3i31J"
+        }
+      ],
+      "duration_ms": 150439,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/5AjI1A5a68tyKBVjw22oWI"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "When You Speak",
         "url": "https://open.spotify.com/album/4rHimJnaeT1UUWiSPq2kwy"
       },
@@ -951,22 +951,6 @@
       "duration_ms": 179173,
       "name": "When You Speak",
       "url": "https://open.spotify.com/track/4K1pUPcKmm4hTfm23iJxhU"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Thankful",
-        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
-      },
-      "artists": [
-        {
-          "name": "Verses",
-          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
-        }
-      ],
-      "duration_ms": 192775,
-      "name": "Thankful",
-      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -987,6 +971,22 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
+        "name": "Thankful",
+        "url": "https://open.spotify.com/album/6KJqQ81CRJ6BnVTkAaFDPt"
+      },
+      "artists": [
+        {
+          "name": "Verses",
+          "url": "https://open.spotify.com/artist/37Rqopn1vLADPjy3kxp2bb"
+        }
+      ],
+      "duration_ms": 192775,
+      "name": "Thankful",
+      "url": "https://open.spotify.com/track/6eKxpBW2T6FATJp7UzpNRU"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
         "name": "Yes He Does",
         "url": "https://open.spotify.com/album/0IVE74zl2F4p9BVSPYLALo"
       },
@@ -999,6 +999,22 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "January Flower (Deluxe)",
+        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        }
+      ],
+      "duration_ms": 203874,
+      "name": "Save Me - Bonus Track",
+      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1023,34 +1039,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "January Flower (Deluxe)",
-        "url": "https://open.spotify.com/album/61o3mZcWhcH9DbQjCHxCV4"
+        "name": "High Low",
+        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
       },
       "artists": [
         {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+          "name": "Alive City",
+          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
         }
       ],
-      "duration_ms": 203874,
-      "name": "Save Me - Bonus Track",
-      "url": "https://open.spotify.com/track/2FyP26PfA97cgpKut7IH4V"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
-        "name": "Undeniable",
-        "url": "https://open.spotify.com/album/7GE16Cn80c6fjePXMbq44z"
-      },
-      "artists": [
-        {
-          "name": "Josh Wilson",
-          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
-        }
-      ],
-      "duration_ms": 194191,
-      "name": "Undeniable",
-      "url": "https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0"
+      "duration_ms": 205328,
+      "name": "High Low",
+      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "High Low",
-        "url": "https://open.spotify.com/album/4MruUzZBQyfIUpAGf5887Y"
+        "name": "Undeniable",
+        "url": "https://open.spotify.com/album/7GE16Cn80c6fjePXMbq44z"
       },
       "artists": [
         {
-          "name": "Alive City",
-          "url": "https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5"
+          "name": "Josh Wilson",
+          "url": "https://open.spotify.com/artist/1SbnQl7KrIVnXhYcQcMjL2"
         }
       ],
-      "duration_ms": 205328,
-      "name": "High Low",
-      "url": "https://open.spotify.com/track/6eFNET6WIbfwlzfnZXJgNr"
+      "duration_ms": 194191,
+      "name": "Undeniable",
+      "url": "https://open.spotify.com/track/5lnAvxx2pxIM9MRZUIhkl0"
     },
     {
       "added_at": "2021-10-31 01:51:05",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2021-10-31 01:51:05",
       "album": {
-        "name": "Eyes Only for You",
-        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Ecclesia",
-          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
-        }
-      ],
-      "duration_ms": 212250,
-      "name": "Eyes Only for You",
-      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
-    },
-    {
-      "added_at": "2021-10-31 01:51:05",
-      "album": {
         "name": "Energ\u00eda (Remix)",
         "url": "https://open.spotify.com/album/1CqFA1cL8JxqijzPxblDsx"
       },
@@ -1199,6 +1179,26 @@
       "duration_ms": 266181,
       "name": "Energ\u00eda - Remix",
       "url": "https://open.spotify.com/track/2vmhpOgGcHnW1VZU1AKdK2"
+    },
+    {
+      "added_at": "2021-10-31 01:51:05",
+      "album": {
+        "name": "Eyes Only for You",
+        "url": "https://open.spotify.com/album/3WnkjmXut8WYqVb6dPcPRH"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Ecclesia",
+          "url": "https://open.spotify.com/artist/6yuXGldP2yeZ8GFNrZdlSC"
+        }
+      ],
+      "duration_ms": 212250,
+      "name": "Eyes Only for You",
+      "url": "https://open.spotify.com/track/7JWFNEhVS1IZzZK6JBkITN"
     },
     {
       "added_at": "2021-10-31 01:51:05",

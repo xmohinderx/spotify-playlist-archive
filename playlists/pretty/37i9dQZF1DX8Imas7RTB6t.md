@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Imas7RTB6t.md) - [plain]
 
 > The rising star <a href =“spotify:artist:4ztolv1NbTfNxSjS1EgtOX”>Amy Wiles</a>  shares a handpicked selection of Progressive tunes for her latest Spotify mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 310 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > y esa fue la noche más linda del mundo 🎶
 
-199 songs - 11 hr 21 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
+200 songs - 11 hr 24 min - [published](https://open.spotify.com/playlist/4mSbOXa4eJQwXzHtWqAtSr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,7 +45,8 @@
 | [Contigo](https://open.spotify.com/track/1kwtHmqEr6rSyUwrBTtE9j) | [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [The Beginning](https://open.spotify.com/album/1sBA4WniS6cBvvSDAsCgrV) | 3:43 | 2022-06-06 | 2022-07-19 |
 | [Cool for the Summer](https://open.spotify.com/track/2zFF6jG5hQArbzcXz3KUWk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:34 | 2022-03-23 | 2022-08-13 |
 | [Cool Kids](https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9) | [Echosmith](https://open.spotify.com/artist/1PbBg2aYjWLKRk84zJK15x) | [Talking Dreams \(Deluxe Edition\)](https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2) | 3:57 | 2022-07-18 |  |
-| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-07-11 |  |
+| [Cumbia Buena](https://open.spotify.com/track/7q1deBagSVG5uBI2GDawqK) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/1SkeaJEMkfIDuQlCFJb8wC) | 3:33 | 2022-07-11 | 2022-08-14 |
+| [Cumbia Buena](https://open.spotify.com/track/74pSi4Ukm4geJABToCxGgr) | [Grupo la Cumbia](https://open.spotify.com/artist/4pInEVYnkBM7SjkcNrS33s) | [Cumbia Buena](https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB) | 3:33 | 2022-07-11 |  |
 | [Cyberpunk](https://open.spotify.com/track/0x5iuaeBzKEVT49lJKpRAR) | [Max Brhon](https://open.spotify.com/artist/5DxE39K4wk15NUk2c5zpeI) | [Cyberpunk](https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv) | 3:35 | 2022-06-08 | 2022-07-19 |
 | [Da Ya Think I'm Sexy?](https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Blondes Have More Fun](https://open.spotify.com/album/38tXOrjXUUfQWWV2DRwMio) | 5:31 | 2022-01-05 |  |
 | [Demasiadas Mujeres](https://open.spotify.com/track/3GaGWoU1KfVqgl7vnRHP55) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 2:33 | 2022-02-23 | 2022-06-17 |

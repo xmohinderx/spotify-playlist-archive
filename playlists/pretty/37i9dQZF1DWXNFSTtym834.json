@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s.",
-  "num_followers": 752967,
+  "num_followers": 753681,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDMyNjM2NzgxYzY1NmI0ZWI4YWY3MDQ5YTFhOTBkMTc1",
+  "snapshot_id": "MTY2MDI0NjUwMiwwMDAwMDAwMDYzOWFhOTA4Y2Q5NmVjMTMzYzRlNTU1NjdiMTM0ODc0",
   "tracks": [
     {
       "added_at": "2022-04-13 21:11:09",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Shadow Zone",
-        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "The Only",
-      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
-    },
-    {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
         "name": "Untouchables",
         "url": "https://open.spotify.com/album/1MqmDK2xw4isOPhiUb9eXO"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 270960,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/5NHTtXGCdO7ul16xr0q93w"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Shadow Zone",
+        "url": "https://open.spotify.com/album/6ArsYtEDpoPxrCQXG4rHw3"
+      },
+      "artists": [
+        {
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
+        }
+      ],
+      "duration_ms": 171106,
+      "name": "The Only",
+      "url": "https://open.spotify.com/track/35ZmCVnfYRdK1iLGCxNhMa"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/4w3R0GZ2rScJMKlgPJzHRq"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Life Is Killing Me",
-        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
-      },
-      "artists": [
-        {
-          "name": "Type O Negative",
-          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
-        }
-      ],
-      "duration_ms": 308826,
-      "name": "I Don't Wanna Be Me",
-      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
-    },
-    {
       "added_at": "2022-04-13 21:11:09",
       "album": {
         "name": "Are You Dead Yet?",
@@ -891,6 +875,22 @@
       "duration_ms": 234880,
       "name": "Are You Dead Yet?",
       "url": "https://open.spotify.com/track/2T2vudIHfVMA5ychWTU3KA"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Life Is Killing Me",
+        "url": "https://open.spotify.com/album/4AdGr92Z6Ff2WbKP5Ja2QC"
+      },
+      "artists": [
+        {
+          "name": "Type O Negative",
+          "url": "https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco"
+        }
+      ],
+      "duration_ms": 308826,
+      "name": "I Don't Wanna Be Me",
+      "url": "https://open.spotify.com/track/4eGHEHqoDMMejzPhRFTc7p"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1069,22 +1069,6 @@
       "url": "https://open.spotify.com/track/2gqzkEF88vMclfRZEIOnQO"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
-      },
-      "artists": [
-        {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Sinner",
@@ -1099,6 +1083,22 @@
       "duration_ms": 147333,
       "name": "Sinner",
       "url": "https://open.spotify.com/track/4AaZtoVREGSOTMzdzLoCGK"
+    },
+    {
+      "added_at": "2022-04-13 21:11:09",
+      "album": {
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+      },
+      "artists": [
+        {
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/3iUJrkMilUVkUKtYZK7Th4"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
-        "name": "Twilight Of The Thunder God",
-        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263160,
-      "name": "Guardians Of Asgaard",
-      "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
-    },
-    {
       "added_at": "2022-04-13 21:11:09",
       "album": {
         "name": "Doomsday Machine",
@@ -1163,6 +1147,22 @@
       "duration_ms": 252280,
       "name": "Nemesis",
       "url": "https://open.spotify.com/track/27sTzAelgljD6Uxp88BqA3"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Twilight Of The Thunder God",
+        "url": "https://open.spotify.com/album/3j0GCUTDz53x9Mzl8L1Fwz"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263160,
+      "name": "Guardians Of Asgaard",
+      "url": "https://open.spotify.com/track/2DR9AzDhYeStkHupvU08FC"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1245,20 +1245,20 @@
       "url": "https://open.spotify.com/track/0W43LnKXzRivi0WPaoBLVO"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
+      "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Fate of Norns",
-        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
+        "name": "The Curse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
       },
       "artists": [
         {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+          "name": "Atreyu",
+          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
         }
       ],
-      "duration_ms": 270253,
-      "name": "The Pursuit Of Vikings",
-      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
+      "duration_ms": 222466,
+      "name": "Right Side Of The Bed",
+      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
     },
     {
       "added_at": "2022-04-13 21:11:09",
@@ -1277,20 +1277,20 @@
       "url": "https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
+      "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+        "name": "Fate of Norns",
+        "url": "https://open.spotify.com/album/6eQNR9fAkQUFiIwJOVLt8N"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Right Side Of The Bed",
-      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
+      "duration_ms": 270253,
+      "name": "The Pursuit Of Vikings",
+      "url": "https://open.spotify.com/track/0sObxZUKqdPfgjG9ahSlP5"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1501,22 +1501,6 @@
       "url": "https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX"
     },
     {
-      "added_at": "2022-04-13 21:11:09",
-      "album": {
-        "name": "Black Sails at Midnight",
-        "url": "https://open.spotify.com/album/3wEGAfye5wwrX4EEPAABbg"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 222253,
-      "name": "Keelhauled",
-      "url": "https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe"
-    },
-    {
       "added_at": "2022-07-13 14:03:23",
       "album": {
         "name": "Revolution Revolucion",
@@ -1533,20 +1517,20 @@
       "url": "https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH"
     },
     {
-      "added_at": "2022-07-13 14:03:23",
+      "added_at": "2022-04-13 21:11:09",
       "album": {
-        "name": "Slania",
-        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
+        "name": "Black Sails at Midnight",
+        "url": "https://open.spotify.com/album/3wEGAfye5wwrX4EEPAABbg"
       },
       "artists": [
         {
-          "name": "Eluveitie",
-          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 249240,
-      "name": "Inis Mona",
-      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
+      "duration_ms": 222253,
+      "name": "Keelhauled",
+      "url": "https://open.spotify.com/track/2FBmddNjVLziN4AxfUmdQe"
     },
     {
       "added_at": "2022-07-13 14:03:23",
@@ -1567,6 +1551,22 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
+        "name": "Slania",
+        "url": "https://open.spotify.com/album/4UEyHAjtjEs3JNjR4NyyMJ"
+      },
+      "artists": [
+        {
+          "name": "Eluveitie",
+          "url": "https://open.spotify.com/artist/5X0N2k3qMnI8kSrGJT3kfT"
+        }
+      ],
+      "duration_ms": 249240,
+      "name": "Inis Mona",
+      "url": "https://open.spotify.com/track/1KmeyQfVjX1odybN9aEfWt"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
         "name": "As The Palaces Burn",
         "url": "https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-07-13 14:03:23",
       "album": {
-        "name": "Lost and Found",
-        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
-      },
-      "artists": [
-        {
-          "name": "Mudvayne",
-          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
-        }
-      ],
-      "duration_ms": 231933,
-      "name": "Fall Into Sleep",
-      "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
-    },
-    {
-      "added_at": "2022-07-13 14:03:23",
-      "album": {
         "name": "Death Magnetic",
         "url": "https://open.spotify.com/album/0lf5ceMub7KQhLfGxCdM06"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 466586,
       "name": "The Unforgiven III",
       "url": "https://open.spotify.com/track/6guXhXMAHU4QYaEsobnS6v"
+    },
+    {
+      "added_at": "2022-07-13 14:03:23",
+      "album": {
+        "name": "Lost and Found",
+        "url": "https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP"
+      },
+      "artists": [
+        {
+          "name": "Mudvayne",
+          "url": "https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM"
+        }
+      ],
+      "duration_ms": 231933,
+      "name": "Fall Into Sleep",
+      "url": "https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o"
     }
   ],
   "unique_name": "00s Metal Classics",

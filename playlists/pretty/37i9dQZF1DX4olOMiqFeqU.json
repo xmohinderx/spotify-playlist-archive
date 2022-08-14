@@ -1,12 +1,12 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2274978,
+  "num_followers": 2275384,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMGY1Y2FmYTYwYTk2MDAwYjg5ZjdkM2VkM2Y5NTc2ZmFj",
+  "snapshot_id": "MTY2MDExMTMzMSwwMDAwMDAwMDBjZTMzN2Y4NTNlMDQ2MDQyZjZlNjZiMGQ3NWE2ZTEy",
   "tracks": [
     {
       "added_at": "2022-06-13 03:55:05",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
+        "name": "Destination XYZ",
+        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
+      },
+      "artists": [
+        {
+          "name": "Callalily",
+          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
+        }
+      ],
+      "duration_ms": 325590,
+      "name": "Magbalik",
+      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
         "name": "Romantico",
         "url": "https://open.spotify.com/album/0HYAcVSUVkfxzHKgHu6DqR"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 295413,
       "name": "Huling Sayaw",
       "url": "https://open.spotify.com/track/7L8GQLm6e7cGoMMUAgWCVp"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
-        "name": "Destination XYZ",
-        "url": "https://open.spotify.com/album/3tIU2WCVDgPwnG4MraWwQ6"
-      },
-      "artists": [
-        {
-          "name": "Callalily",
-          "url": "https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01"
-        }
-      ],
-      "duration_ms": 325590,
-      "name": "Magbalik",
-      "url": "https://open.spotify.com/track/5zMR44ZH4KVZj4FlhTj3SE"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Nina",
-        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
         "name": "Buruguduystunstugudunstuy",
         "url": "https://open.spotify.com/album/29tJR2oXdGAFHMQkcgPUmn"
       },
@@ -735,34 +719,18 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Monodramatic",
-        "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
+        "name": "Nina",
+        "url": "https://open.spotify.com/album/1yx0lKqG8Z1J3IOxx4gbzs"
       },
       "artists": [
         {
-          "name": "Silent Sanctuary",
-          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/2tQbSWgZLIB8MXMnsXVRro"
         }
       ],
-      "duration_ms": 253360,
-      "name": "Sa'yo",
-      "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
-    },
-    {
-      "added_at": "2022-06-13 03:55:05",
-      "album": {
-        "name": "Teka Lang",
-        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
-      },
-      "artists": [
-        {
-          "name": "Emman",
-          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
-        }
-      ],
-      "duration_ms": 196582,
-      "name": "Teka Lang",
-      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+      "duration_ms": 214773,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/1MkiRsYBkXbXvdiYvTTiQT"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -783,6 +751,38 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
+        "name": "Teka Lang",
+        "url": "https://open.spotify.com/album/0QK7IkS5mne9e95ef0BjAE"
+      },
+      "artists": [
+        {
+          "name": "Emman",
+          "url": "https://open.spotify.com/artist/3FwNjtXQCdxpDOXmgJQGnG"
+        }
+      ],
+      "duration_ms": 196582,
+      "name": "Teka Lang",
+      "url": "https://open.spotify.com/track/3CP6W4N2CnsZgejmUprD6v"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
+        "name": "Monodramatic",
+        "url": "https://open.spotify.com/album/0fWuyWoKTJty03n7xpCrEe"
+      },
+      "artists": [
+        {
+          "name": "Silent Sanctuary",
+          "url": "https://open.spotify.com/artist/4nGp682WMiKS4X217kPw8C"
+        }
+      ],
+      "duration_ms": 253360,
+      "name": "Sa'yo",
+      "url": "https://open.spotify.com/track/3WLDRtRzbKDNZW5AZaAvk0"
+    },
+    {
+      "added_at": "2022-06-13 03:55:05",
+      "album": {
         "name": "Kahit Ayaw Mo Na (Original Movie Soundtrack)",
         "url": "https://open.spotify.com/album/2dO4oPS5hLVjPZpTD9qhcJ"
       },
@@ -799,18 +799,18 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Bawat Daan",
-        "url": "https://open.spotify.com/album/4acHD3ykZw3DYLcLW1Mqv3"
+        "name": "Popcorn",
+        "url": "https://open.spotify.com/album/2CZhWHzzLkNUtfONjbKOy1"
       },
       "artists": [
         {
-          "name": "Ebe Dancel",
-          "url": "https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur"
+          "name": "Moonstar88",
+          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
         }
       ],
-      "duration_ms": 300240,
-      "name": "Bawat Daan",
-      "url": "https://open.spotify.com/track/0wUSZjJVblGKntOqBSWMdo"
+      "duration_ms": 264202,
+      "name": "Torete",
+      "url": "https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG"
     },
     {
       "added_at": "2022-06-13 03:55:05",
@@ -831,34 +831,34 @@
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Face-Off",
-        "url": "https://open.spotify.com/album/1ZVbmjB35arVTLoiFPAxQl"
+        "name": "Bawat Daan",
+        "url": "https://open.spotify.com/album/4acHD3ykZw3DYLcLW1Mqv3"
       },
       "artists": [
         {
-          "name": "Erik Santos",
-          "url": "https://open.spotify.com/artist/7ygtjsCTrCQZAYYPOne9uE"
+          "name": "Ebe Dancel",
+          "url": "https://open.spotify.com/artist/543f0NvGig5Moo9XROTUur"
         }
       ],
-      "duration_ms": 265053,
-      "name": "I'll Never Go",
-      "url": "https://open.spotify.com/track/57kqyESt7sfljPxFohKPR4"
+      "duration_ms": 300240,
+      "name": "Bawat Daan",
+      "url": "https://open.spotify.com/track/0wUSZjJVblGKntOqBSWMdo"
     },
     {
       "added_at": "2022-06-13 03:55:05",
       "album": {
-        "name": "Popcorn",
-        "url": "https://open.spotify.com/album/2CZhWHzzLkNUtfONjbKOy1"
+        "name": "She's Dating the Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0NfAzxHZ4diQArSqZMTJHc"
       },
       "artists": [
         {
-          "name": "Moonstar88",
-          "url": "https://open.spotify.com/artist/2kZThDGZcHl4klYYFk0v8n"
+          "name": "Angeline Quinto",
+          "url": "https://open.spotify.com/artist/7DW4ijH3n36QN0RlC0n649"
         }
       ],
-      "duration_ms": 264202,
-      "name": "Torete",
-      "url": "https://open.spotify.com/track/3nQtkvFMNkRwxjKVAlGPcG"
+      "duration_ms": 240065,
+      "name": "Till I Met You",
+      "url": "https://open.spotify.com/track/0JzwzRDkwZr8s1WRfNgUqA"
     }
   ],
   "unique_name": "OPM Favorites",

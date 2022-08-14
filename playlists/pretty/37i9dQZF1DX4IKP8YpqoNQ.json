@@ -1,12 +1,12 @@
 {
   "description": "Experience the best live performances.",
-  "num_followers": 20421,
+  "num_followers": 20436,
   "original_name": "Soul Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMDk4NTlkY2Y5OGVhNjg4YTg3MDMwOGViMjNjNTQ0OWY4",
+  "snapshot_id": "MTY1MDkxNjI2NywwMDAwMDAwMGJjMDcwZWUyMjM0ODc4ZmJhOTM0YmE0MTQzYjIyZTdm",
   "tracks": [
     {
       "added_at": "2022-02-10 23:02:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "Lovers Live",
+        "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 361000,
+      "name": "The Sweetest Taboo - Live",
+      "url": "https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Compared to What",
         "url": "https://open.spotify.com/album/693i4e5RnbFRb0j3Y2jky3"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 269040,
       "name": "Butterflies - Live At The House Of Blues, New Orleans / 2003",
       "url": "https://open.spotify.com/track/1jtYZUkR3Zr3jzWPI4skzV"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Lovers Live",
-        "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 361000,
-      "name": "The Sweetest Taboo - Live",
-      "url": "https://open.spotify.com/track/7iQv3X7TtjxJ5K6vw8Jwu1"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "Grow (Live)",
-        "url": "https://open.spotify.com/album/5hx3IYGZNWMV9NgVBOFWZd"
-      },
-      "artists": [
-        {
-          "name": "Samm Henshaw",
-          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
-        }
-      ],
-      "duration_ms": 182117,
-      "name": "Grow - Live",
-      "url": "https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Homecoming (Live)",
         "url": "https://open.spotify.com/album/26I2Hz4j3e00ggpjIzuIyY"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 374236,
       "name": "Ain't Nobody - Live",
       "url": "https://open.spotify.com/track/0oPvVcpAOWtr5IVDyVflfT"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Grow (Live)",
+        "url": "https://open.spotify.com/album/5hx3IYGZNWMV9NgVBOFWZd"
+      },
+      "artists": [
+        {
+          "name": "Samm Henshaw",
+          "url": "https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4"
+        }
+      ],
+      "duration_ms": 182117,
+      "name": "Grow - Live",
+      "url": "https://open.spotify.com/track/6pIka0SZY51UfSPnxuuBps"
     },
     {
       "added_at": "2022-02-10 23:02:00",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
+        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
+        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 220672,
+      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
+      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
         "name": "Natural Wonder",
         "url": "https://open.spotify.com/album/6hu9W3TWiCF5sETB1pvrHl"
       },
@@ -1035,38 +1051,6 @@
     {
       "added_at": "2022-02-10 23:02:00",
       "album": {
-        "name": "One Night Only (Live At The Royal Albert Hall / 02 April 2018)",
-        "url": "https://open.spotify.com/album/35q1zz2A5vTQvzSlmv2Aun"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 220672,
-      "name": "Hey Laura - Live At The Royal Albert Hall / 02 April 2018",
-      "url": "https://open.spotify.com/track/35rBkftouvwknzmnYdgo1s"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
-        "name": "Life on Planet Groove",
-        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
-      },
-      "artists": [
-        {
-          "name": "Maceo Parker",
-          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
-        }
-      ],
-      "duration_ms": 225893,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
-    },
-    {
-      "added_at": "2022-02-10 23:02:00",
-      "album": {
         "name": "Lalah Hathaway Live!",
         "url": "https://open.spotify.com/album/2g2JY5M0fG0TJeE3Q6iL71"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 469625,
       "name": "Black Man In A White World - Live From Spotify London",
       "url": "https://open.spotify.com/track/3sCEJXGT2wRXraZeQHi0PS"
+    },
+    {
+      "added_at": "2022-02-10 23:02:00",
+      "album": {
+        "name": "Life on Planet Groove",
+        "url": "https://open.spotify.com/album/5GlkTpCBgyu1C8K25p9zj7"
+      },
+      "artists": [
+        {
+          "name": "Maceo Parker",
+          "url": "https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC"
+        }
+      ],
+      "duration_ms": 225893,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/6aFyyr9Xm4zUtrrjlXeILO"
     },
     {
       "added_at": "2022-02-10 23:02:00",

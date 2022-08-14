@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-528 songs - 1 day 4 hr 0 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+529 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Bränner](https://open.spotify.com/track/7M5QepCsK6kYex4EWWsmhd) | [Kim Cesarion](https://open.spotify.com/artist/1FbsmLXvj5CccZj6JLk46Z) | [Bränner](https://open.spotify.com/album/5AecwqcLjSTpqjgPtCDZ65) | 3:08 | 2022-06-09 | 2022-07-28 |
 | [Buried](https://open.spotify.com/track/2cvFJGpyivEmp69EDos8LE) | [Chris Kläfford](https://open.spotify.com/artist/5dSnbLNmUdguVNTAV5Ctk1) | [Buried](https://open.spotify.com/album/5Wz9LRwQ5BEueU4VqIkRjs) | 2:40 | 2022-01-13 | 2022-07-28 |
 | [Butterflies](https://open.spotify.com/track/6fv3KtQp4WKtUfgPCGsqwb) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:49 | 2022-03-04 | 2022-05-13 |
-| [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 |  |
+| [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
 | [Can't Stay Away](https://open.spotify.com/track/4herjqbsHfOHoIzRPti4JA) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Can't Stay Away](https://open.spotify.com/album/3OIvFO4C2CQGRxYUQ9D8yf) | 3:00 | 2021-12-16 | 2022-03-09 |
 | [Can’t Stop Loving You \(feat\. Theron Thomas\) \- Audio Video](https://open.spotify.com/track/5sHFbT3YHNi2QSn8L9nhdO) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Theron Thomas](https://open.spotify.com/artist/6ymA00Kh0SfzlSbYJjsY07) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 4:27 | 2021-12-16 | 2022-01-10 |
 | [CAPPUCCINO](https://open.spotify.com/track/3ug48HneByt6Ci1Vb4VQu9) | [Jelassi](https://open.spotify.com/artist/2u9ZIMtCrLs7ya2HfIpLKZ), [L1NA](https://open.spotify.com/artist/62oPQvptWCPp2UCsqYwcIf) | [CAPPUCCINO](https://open.spotify.com/album/0PsFUPiLYkZmelIdf0XocV) | 3:01 | 2021-12-16 | 2022-01-07 |
@@ -346,6 +346,7 @@
 | [Oscillating Love](https://open.spotify.com/track/3OkCg0FmQic1z61kpzMmkI) | [Amason](https://open.spotify.com/artist/4cJKxS7uOPhwb5UQ70sYpN) | [Oscillating Love](https://open.spotify.com/album/0px93W1pVB6l4matH0a2TK) | 4:58 | 2021-12-16 | 2022-02-06 |
 | [Our Night](https://open.spotify.com/track/7FBjqWG2unTeEHV2Hi6Mcg) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Motik](https://open.spotify.com/artist/0bbGuJjcgH3cS4EyF8PhhX), [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Our Night](https://open.spotify.com/album/1OTQVr8JLKQ3vwBjSDb3Ry) | 2:45 | 2021-12-16 | 2021-12-25 |
 | [Out of Love](https://open.spotify.com/track/5yHP1bh80YwdDX3fvKGVKA) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8) | [Out of Love](https://open.spotify.com/album/1TCfjANz5UpO95yH3OTrTw) | 2:40 | 2022-05-30 | 2022-07-09 |
+| [Out of My Head](https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Out of My Head](https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT) | 3:34 | 2022-08-11 |  |
 | [Out of the Shadows](https://open.spotify.com/track/7x4hcIjBVYtZ0LfcjclnEW) | [Ely Eira](https://open.spotify.com/artist/5IdqmiFiHkfWGSQcjdz41u) | [Out of the Shadows](https://open.spotify.com/album/2PZzZfZFFtXTqMDgSn4GZS) | 3:21 | 2022-03-24 | 2022-04-21 |
 | [Over You](https://open.spotify.com/track/6svqglRbc9M5cXsIXINJcJ) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Over You](https://open.spotify.com/album/4NU1Zq9movX56OWgyczaLU) | 2:47 | 2021-12-16 | 2022-01-14 |
 | [Owe You](https://open.spotify.com/track/3JYUzjSvKi2StnQApd5YnD) | [Shadi G](https://open.spotify.com/artist/2vi2Nl9GZnMiCFxdlLT98D), [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Owe You](https://open.spotify.com/album/18hdjoechcQD4ddgF65NDw) | 3:22 | 2022-06-16 | 2022-06-20 |

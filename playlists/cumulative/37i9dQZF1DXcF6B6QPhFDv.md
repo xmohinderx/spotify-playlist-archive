@@ -4,7 +4,7 @@
 
 > The latest form Pale Waves along with the top Rock songs you need to hear today.
 
-181 songs - 10 hr 15 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
+182 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/6Fsj2Im6Dv5sgOMEKd4oVV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Hung Up](https://open.spotify.com/track/6BvbBevaIuLHffC5Q09ueO) | [The Mysterines](https://open.spotify.com/artist/15QhuBSLfDNECfF8wvxj0M) | [Hung Up](https://open.spotify.com/album/2bePAZVJAuY8brSambIIiN) | 3:24 | 2021-10-08 | 2022-05-14 |
 | [I Love It](https://open.spotify.com/track/5VpmpRJ0I5lKbInDSjhEyD) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [BOYS DO CRY](https://open.spotify.com/album/7wezeeUZVM2EAzsdqlNzWj) | 3:28 | 2021-10-20\* | 2021-10-30 |
 | [I WANNA BE YOUR SLAVE](https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [Teatro d'ira \- Vol\. I](https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A) | 2:53 | 2021-06-07 | 2022-05-14 |
-| [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 | 2022-04-22 |  |
+| [In The Mirror](https://open.spotify.com/track/11ytsbCqnMlj2bV0hVKp5P) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Mirror](https://open.spotify.com/album/5s0vXZdva9QidlE4g5r2HC) | 3:04 | 2022-04-22 | 2022-08-14 |
+| [In The Mirror](https://open.spotify.com/track/5Pwenv6y4uSH8PwA6ikLLI) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [In The Wild](https://open.spotify.com/album/3kY1OhkaStCboWLSBTIfvg) | 3:04 | 2022-08-12 |  |
 | [in the wake of your leave](https://open.spotify.com/track/3tr7NTCykrBqLxaFTQMIYx) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/4xrHCOnujQW9DDLmntffLP) | 4:03 | 2022-03-11 | 2022-04-09 |
 | [Jackie Down The Line](https://open.spotify.com/track/7fhoVNqC9nHGTz3VjlFV7A) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Jackie Down The Line](https://open.spotify.com/album/6rJkmd9HJJvzALTcUQi6fo) | 4:01 | 2022-03-18 | 2022-05-28 |
 | [Jealousy](https://open.spotify.com/track/2ZdEHxr2L0Dj5zJOdt3Dql) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [Unwanted](https://open.spotify.com/album/2j1AQqwSWqsMaJ5WCS1LlY) | 3:12 | 2022-08-12 |  |

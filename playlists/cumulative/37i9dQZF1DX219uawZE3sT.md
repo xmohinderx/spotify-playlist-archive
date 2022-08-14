@@ -4,7 +4,7 @@
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-130 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/4jQDg5Y9DskGmTHtELVHPY)
+131 songs - 8 hr 9 min - [published](https://open.spotify.com/playlist/4jQDg5Y9DskGmTHtELVHPY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abre Tu Corazon](https://open.spotify.com/track/5iTWIAADwgr8kY6TLK4Q7p) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Una Nueva Mujer](https://open.spotify.com/album/1DjUSTJtfwIGaY1YKftJHp) | 3:35 | 2022-05-06 | 2022-07-29 |
 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 | 2022-05-06 |  |
 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/4ub7vWkgBWI7fv5DiKPMiA) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Gran Coleccion Del 60 Aniversario CBS \- Los Hooligans](https://open.spotify.com/album/3Jr5ERxbJWFJSAw61T5UUH) | 2:14 | 2022-05-06 |  |
+| [Al Diablo Con Los Guapos aka No Me Supiste Querer](https://open.spotify.com/track/4bxUPG9Z6km505nHcfCdT4) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [Alisson Lozz](https://open.spotify.com/artist/6BytuB2f4wmznbMfkYe4vM) | [Como Un Tatuaje](https://open.spotify.com/album/38WF9Pop7ly27JK60rEDhR) | 3:39 | 2022-05-06 |  |
 | [Al Norte Del Corazon](https://open.spotify.com/track/7FdyzCwVG4uE4p142ymqUw) | [Lidia Cavazos](https://open.spotify.com/artist/5tiMe48y3b66iK8gVHenuE) | [Mientes Tan Bien](https://open.spotify.com/album/764Yp0QILtahtwboMQ1qNY) | 2:16 | 2022-05-06 | 2022-07-26 |
 | [Alborada](https://open.spotify.com/track/55hPn6csQY88zOOb8f2MgV) | [Plácido Domingo](https://open.spotify.com/artist/4pU3BpenOZFEBzORx2YBJW) | [Alborada](https://open.spotify.com/album/6AN6hXc0QpfHJvIHIIAmoB) | 3:54 | 2022-05-06 | 2022-07-20 |
 | [Alcanzar Una Estrella](https://open.spotify.com/track/5h8h62vqFevND86N4OSYrA) | [Mariana Garza](https://open.spotify.com/artist/6n0o7rKEKpKhuekiCpS42O) | [Simplemente Amor \(CD2\)](https://open.spotify.com/album/3bJ6YfNbaZ2u2AuwHHQJHx) | 3:12 | 2022-05-06 | 2022-07-29 |
@@ -122,7 +123,7 @@
 | [Sólo Importas Tú](https://open.spotify.com/track/7tnbQYbISl8N09KNWldchn) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Personalidad](https://open.spotify.com/album/4sBee4jULkgbE6WRfk38lZ) | 5:03 | 2022-05-06 | 2022-07-29 |
 | [Sólo Un Suspiro](https://open.spotify.com/track/2APQKFq7yuq3sNaziTaeWE) | [Alejandra Orozco](https://open.spotify.com/artist/4xG7HHi0auDk7vPhOqGPR3), [Oscar Cruz](https://open.spotify.com/artist/0Jnwlov8CnJTEZBbQoRcfF) | [Los Ganadores De La Voz](https://open.spotify.com/album/5z59IcDIT60ng5MSjXhaA6) | 3:49 | 2022-05-06 |  |
 | [Tan Enamorados](https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Volumen 2](https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD) | 4:16 | 2022-05-06 |  |
-| [Te Quiero Tanto, Tanto \- Versión de la Telenovela Mi Pequeña Traviesa](https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2022-05-06 |  |
+| [Te Quiero Tanto, Tanto \- Versión de la Telenovela Mi Pequeña Traviesa](https://open.spotify.com/track/1ycO3Iw4g67JBasAGdYVb7) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 | 2022-05-06 | 2022-08-14 |
 | [Te Sigo Amando](https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Ella](https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX) | 2:45 | 2022-05-06 |  |
 | [Todo o Nada](https://open.spotify.com/track/4fHYjSAaqptu9yYclqohZs) | [Lucía Méndez](https://open.spotify.com/artist/4MbmeIi7C8qe1LboVhdaUN) | [Todo O Nada](https://open.spotify.com/album/5GWQwNtIVpuCazbYFpFIx2) | 3:21 | 2022-05-06 | 2022-06-23 |
 | [Tres palabras](https://open.spotify.com/track/67HOYnFs2hqbKKRNz0YfY8) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Luis Miguel \(Edición De Lujo\)](https://open.spotify.com/album/3MpbAt21ozNGRmmLCmP2ed) | 2:55 | 2022-05-06 |  |

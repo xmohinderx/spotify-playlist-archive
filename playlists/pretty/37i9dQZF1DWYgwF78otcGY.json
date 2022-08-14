@@ -1,12 +1,12 @@
 {
   "description": "P\u00e5 med fj\u00e4derboan och de gyllene skorna. Nu ska vi dansa i neon!",
-  "num_followers": 23589,
+  "num_followers": 23595,
   "original_name": "Schlagerfest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMGM3YmI1NzZmNGI1MzE5NzMwYmRkYTk2ZTY0Njg3Y2Vl",
+  "snapshot_id": "MTU1MTM1ODY3OCwwMDAwMDAwMDM0Y2U4Yzc5MTMzYzc3ODdmNjU4MWU0M2EwMTA4ZDA5",
   "tracks": [
     {
       "added_at": "2019-02-28 12:57:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Sean den f\u00f6rste Banan",
-        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
-      },
-      "artists": [
-        {
-          "name": "Sean Banan",
-          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "Sean den f\u00f6rste Banan",
-      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Fr\u00e5n nu till evighet",
         "url": "https://open.spotify.com/album/6WFBm5Or8TVQPN78wD2wzH"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 181493,
       "name": "Evighet",
       "url": "https://open.spotify.com/track/6XGIQNU8VmOBRIdL5OBYKp"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Take Me To Your Heaven",
+        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Perrelli",
+          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+        }
+      ],
+      "duration_ms": 182800,
+      "name": "Tusen och en natt",
+      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -411,18 +411,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Take Me To Your Heaven",
-        "url": "https://open.spotify.com/album/6fgypOA8G33QMu1Fuufn7Y"
+        "name": "Sean den f\u00f6rste Banan",
+        "url": "https://open.spotify.com/album/0rFpCQes32x4acvY6dmVOh"
       },
       "artists": [
         {
-          "name": "Charlotte Perrelli",
-          "url": "https://open.spotify.com/artist/39Waq6UmqYCBEuyv8M8kjl"
+          "name": "Sean Banan",
+          "url": "https://open.spotify.com/artist/4EyhwDFo0iKdv2nMUM4m1Q"
         }
       ],
-      "duration_ms": 182800,
-      "name": "Tusen och en natt",
-      "url": "https://open.spotify.com/track/6JIwvW8ioos5KFp0Q0mS3Y"
+      "duration_ms": 183373,
+      "name": "Sean den f\u00f6rste Banan",
+      "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -603,18 +603,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Om om och om igen",
-        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
+        "name": "Everyday",
+        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
       },
       "artists": [
         {
-          "name": "Omar Rudberg",
-          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
+          "name": "Mendez",
+          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
         }
       ],
-      "duration_ms": 167346,
-      "name": "Om om och om igen",
-      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
+      "duration_ms": 185239,
+      "name": "Everyday",
+      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -635,34 +635,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW"
+        "name": "Om om och om igen",
+        "url": "https://open.spotify.com/album/34VOvxhqnb5cGsO67IO3Rd"
       },
       "artists": [
         {
-          "name": "Mendez",
-          "url": "https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL"
+          "name": "Omar Rudberg",
+          "url": "https://open.spotify.com/artist/6uRXUjochRDA9d5Sq2tZZd"
         }
       ],
-      "duration_ms": 185239,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
-        "name": "Live Forever - The Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182626,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
+      "duration_ms": 167346,
+      "name": "Om om och om igen",
+      "url": "https://open.spotify.com/track/1Lg5Qf47RERQQmfYbGZB43"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -679,6 +663,22 @@
       "duration_ms": 182320,
       "name": "Give Me Your Love",
       "url": "https://open.spotify.com/track/2B60fzEh2F9Ds6xFtV8LWd"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Live Forever - The Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5g18f9GEyipB2xX2d9xy5x"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182626,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/6yk6jU3Ia33ed2XL4V9IeW"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -715,22 +715,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Den l\u00e5ngsamma blomman",
-        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
-      },
-      "artists": [
-        {
-          "name": "Shirley Clamp",
-          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
-        }
-      ],
-      "duration_ms": 181586,
-      "name": "Min k\u00e4rlek",
-      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "A",
         "url": "https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "In My Cabana",
-        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
+        "name": "Den l\u00e5ngsamma blomman",
+        "url": "https://open.spotify.com/album/42M4B14wexkW2YK3iJ1KeA"
       },
       "artists": [
         {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+          "name": "Shirley Clamp",
+          "url": "https://open.spotify.com/artist/09AdawDC7B5zcphs18nRB7"
         }
       ],
-      "duration_ms": 172000,
-      "name": "In My Cabana",
-      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
+      "duration_ms": 181586,
+      "name": "Min k\u00e4rlek",
+      "url": "https://open.spotify.com/track/5dpkOqj8pVFn3nS8OvMJNG"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -775,6 +759,22 @@
       "duration_ms": 173346,
       "name": "Busy Doin' Nothin'",
       "url": "https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "In My Cabana",
+        "url": "https://open.spotify.com/album/117MLkbXJnYCcN1lNxDm8k"
+      },
+      "artists": [
+        {
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "In My Cabana",
+      "url": "https://open.spotify.com/track/4QQNLEpCHjwovArZsDIUD6"
     },
     {
       "added_at": "2019-02-28 12:57:58",
@@ -799,22 +799,6 @@
     {
       "added_at": "2019-02-28 12:57:58",
       "album": {
-        "name": "Gamla Stan",
-        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
-      },
-      "artists": [
-        {
-          "name": "Magnus Carlsson",
-          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
-        }
-      ],
-      "duration_ms": 182727,
-      "name": "M\u00f6t mig i Gamla Stan",
-      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
-    },
-    {
-      "added_at": "2019-02-28 12:57:58",
-      "album": {
         "name": "Blond",
         "url": "https://open.spotify.com/album/6J8YOKLKvXK0xKrpW9pYv2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 183466,
       "name": "Bara Hon \u00c4lskar Mig",
       "url": "https://open.spotify.com/track/5dEHUYf0NkT1pZeEJOCMsW"
+    },
+    {
+      "added_at": "2019-02-28 12:57:58",
+      "album": {
+        "name": "Gamla Stan",
+        "url": "https://open.spotify.com/album/2Oi3P11a5suZr2JcKjuh9B"
+      },
+      "artists": [
+        {
+          "name": "Magnus Carlsson",
+          "url": "https://open.spotify.com/artist/12VIfmT1N5FGyCuuXGKuYB"
+        }
+      ],
+      "duration_ms": 182727,
+      "name": "M\u00f6t mig i Gamla Stan",
+      "url": "https://open.spotify.com/track/5uYkCI6EcIKq4EGlah4NLu"
     },
     {
       "added_at": "2019-02-28 12:57:58",

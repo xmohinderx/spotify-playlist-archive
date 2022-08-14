@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,625 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,786 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 19 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 |
 | 20 | [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 |
 | 21 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 |
-| 22 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
-| 23 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
+| 22 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
+| 23 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
 | 24 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 25 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 |
 | 26 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 |
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 28 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 |
 | 29 | [I'm Still in Love with You \(feat\. Sasha\)](https://open.spotify.com/track/3MhdH8PxqH1FuQp3HBptUI) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Sasha](https://open.spotify.com/artist/02QYcz7JjwzKiKGHg53rZY), [Jeremy Harding](https://open.spotify.com/artist/4RPAm27zZnyxkEEpdWmrd0), [Murray Elias](https://open.spotify.com/artist/110deyrdzDK0DIuHPeQgKL) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 4:33 |
 | 30 | [Love Really Hurts Without You](https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [Billy Ocean \(Expanded Edition\)](https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz) | 2:59 |
-| 31 | [DEVASTATED](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:27 |
+| 31 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
 | 32 | [One Love / People Get Ready \- Medley](https://open.spotify.com/track/6SR0dDuXH2vtgBfMLrivKV) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 2:52 |
-| 33 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 |
+| 33 | [DEVASTATED](https://open.spotify.com/track/4PnNzWe1LJoAMD5j5RHpI0) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [ALL\-AMERIKKKAN BADA$$](https://open.spotify.com/album/2ZmDoyNYarmubD4vTfwh6g) | 3:27 |
 | 34 | [Fukk Sleep \(feat\. FKA twigs\)](https://open.spotify.com/track/1AqemxWsT0iGg5Lvkm16Bt) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:12 |
 | 35 | [Break Ya Neck](https://open.spotify.com/track/7gKgd0P3dAAePiSQQBqrlf) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:51 |
 | 36 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 49 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 50 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 |
 
-Snapshot ID: `MTYzNTExMjI5NSwwMDAwMDAwMDNmMTA3YTA5ZGZiNWUxYzM2NzM5MDc1NGM1ZWUzYzU3`
+Snapshot ID: `MTYzNTExMjI5NSwwMDAwMDAwMDNiNWRmMjVmMjc0Mzg1ZjgzZWE3NjMzNzExZjI5NTg5`

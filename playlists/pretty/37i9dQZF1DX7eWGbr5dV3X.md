@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 
 > Celebrate, amplify, and support LGBTQ+ API musicians\. Cover: Deb Never.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,053 likes - 43 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,058 likes - 43 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,26 +30,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7eWGbr5dV3X.md) - [plain]
 | 20 | [I'm Not Afraid](https://open.spotify.com/track/3mPH0blHMOPAjSkEKOUQd2) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [I'm Not Afraid](https://open.spotify.com/album/54I8DXkxj9xdLqIf4Uabhd) | 3:41 |
 | 21 | [Masterpiece \(80s Remix\)](https://open.spotify.com/track/3LspHgoGctRuW3lccLI5gx) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Masterpiece \(80s Remix\)](https://open.spotify.com/album/2tJRA9WA7MHc8WbmHHAE9z) | 3:58 |
 | 22 | [Robbed](https://open.spotify.com/track/29IHIrE9eWpH8j6c3P10nq) | [Manila Luzon](https://open.spotify.com/artist/1cJCVvFLO8SLM8W9EITe1g) | [Rules!](https://open.spotify.com/album/0kk6iwrHZ2eoRyHXMFhwga) | 3:22 |
-| 23 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
-| 24 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
+| 23 | [Fix Me](https://open.spotify.com/track/4UJCTSc1E7fMmNJiHvowHF) | [Jake Zyrus](https://open.spotify.com/artist/6hIZBf6t4Yy8Lrqj7vPYTr) | [Fix Me](https://open.spotify.com/album/2coYzAJGlm6XhGdgaLgsFt) | 3:25 |
+| 24 | [Need Ya](https://open.spotify.com/track/7DdiwiiHRuqRZizeq6s1NM) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U) | [good juju : vol\. 1](https://open.spotify.com/album/2JBGnfjeAuIK26Ysk3XlIS) | 3:01 |
 | 25 | [Boys Aside](https://open.spotify.com/track/2aqQYoZ3FuifdW29q1SO1s) | [Sofya Wang](https://open.spotify.com/artist/4axDBKx7Segq3j5P2VVSjx) | [Boys Aside](https://open.spotify.com/album/048AmHZqwIAfCPIBrEsSeq) | 3:50 |
 | 26 | [NEVERLAND](https://open.spotify.com/track/5e9gNMrGlVblMER6iN2tnJ) | [Holland](https://open.spotify.com/artist/3PA9tXcZqiaBXwopM9GPZP) | [NEVERLAND](https://open.spotify.com/album/2y8I9aWRSnBXSUtVWVwBes) | 3:42 |
 | 27 | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/track/2LPibirlWTAdLuw0UW72au) | [Alextbh](https://open.spotify.com/artist/0kXDB5aeESWj5BD9TCLkMu) | [Nothing's Gonna Hurt You Baby \- ASIA RISING FOREVER](https://open.spotify.com/album/1kGTO4BzCPpI74w4yr9MVB) | 4:33 |
 | 28 | [What Happened, Happened](https://open.spotify.com/track/2Ck8r31kURBqC7K2G9lLBo) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [What Happened, Happened](https://open.spotify.com/album/38Vulf6o5aVnrQae85FmOZ) | 3:04 |
 | 29 | [Abide](https://open.spotify.com/track/5dBxM0ddTrg8VKEyM7BgTG) | [Summer Luk](https://open.spotify.com/artist/7jlNTGVXBk8VsSICN3Qswd) | [Abide](https://open.spotify.com/album/3s7Np4fVlWEsQv4R8b5IOO) | 3:11 |
-| 30 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
-| 31 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
-| 32 | [Open up Babe \- Perry twins remix](https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI) | 4:27 |
-| 33 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
+| 30 | [Mess](https://open.spotify.com/track/0qGy2mmBbemdvjHy1cfmrD) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Mess](https://open.spotify.com/album/3RYjGPpZvBQmNHu9QUUywN) | 3:32 |
+| 31 | [You Look so Good](https://open.spotify.com/track/66tyrSjqL9P6sZAb8TQm3X) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [You Look so Good](https://open.spotify.com/album/5r73WnvgjwL3ydzrtsmqpm) | 2:50 |
+| 32 | [K I'm Mortal](https://open.spotify.com/track/4YOfMkWDidWbIFyDy7l39o) | [Kimmortal](https://open.spotify.com/artist/0ioYxkShKhYOKpQh0ERVFS) | [K I'm Mortal](https://open.spotify.com/album/2qzYOiBrWiN5QTMCu8km9P) | 3:40 |
+| 33 | [Open up Babe \- Perry twins remix](https://open.spotify.com/track/1S1Bg9s61Q4NDl8g6VWmOk) | [Wils](https://open.spotify.com/artist/4CVZoZcpNbLBtmK2IddbWn), [Perry Twins](https://open.spotify.com/artist/7F125d4xYCuEndViJQmj1K) | [Open up Babe \(Perry twins remix\)](https://open.spotify.com/album/3gRtkDFfm9vNXknawgocnI) | 4:27 |
 | 34 | [out!](https://open.spotify.com/track/7BB8XTZKAuFkgQavowZUxN) | [Pyra](https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9) | [out!](https://open.spotify.com/album/6pJwhmtkfyJ4nVsENdViPp) | 2:40 |
 | 35 | [Goals\_](https://open.spotify.com/track/26kLjAnE9RZhySfSBkASND) | [SuperKnova](https://open.spotify.com/artist/7om8BpNIYHtacdW2rDVHuD) | [Goals\_](https://open.spotify.com/album/6zs8IZxCicVdrnUnpGC82a) | 3:29 |
-| 36 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
-| 37 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |
-| 38 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
-| 39 | [Safe](https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq) | 3:23 |
+| 36 | [Could I Break Your Heart](https://open.spotify.com/track/6CdyxDDTj4t1lH6WcRAywe) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW) | [Cry, Baby](https://open.spotify.com/album/5hqZIXEQrx1qd5t85v5Rzw) | 3:55 |
+| 37 | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/track/2OeJvSrwnM8fb64WJ4YUXC) | [Jujubee](https://open.spotify.com/artist/4YJKhu78Ddth48vou16B7U), [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [Round and Round \(Bright Light Bright Light Remix\)](https://open.spotify.com/album/3MX5f6IsfLSCvWHkjS11CD) | 3:36 |
+| 38 | [Safe](https://open.spotify.com/track/2EGhBERtho5xqUnXiu8LgS) | [Somaya](https://open.spotify.com/artist/1T4lXkUsMvWaBpk4DjMrdZ) | [Safe](https://open.spotify.com/album/5G5uK5K20TSjbJkW0pVRiq) | 3:23 |
+| 39 | [Say My Name](https://open.spotify.com/track/4syAu4kgVGtLa4j1x0rKCa) | [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Say My Name](https://open.spotify.com/album/3GvF4miurhOMPd7Rg2Q9eL) | 2:47 |
 | 40 | [All I Have To Do Is Dream](https://open.spotify.com/track/3pSjlLIbZZ67aWL1DwGXoE) | [Polartropica](https://open.spotify.com/artist/594UCPHorID2NPzhboCuWl) | [All I Have To Do Is Dream](https://open.spotify.com/album/0uoZnGYyRF3QWuf0RKU1mo) | 3:41 |
 | 41 | [I Won't Envy 2.0](https://open.spotify.com/track/5JSf63q1rGXbCzn2HbtmpY) | [Vivek Shraya](https://open.spotify.com/artist/0LBvYwhPCb8BxAqRi6ewNK) | [I Won't Envy 2.0](https://open.spotify.com/album/0JheY5BmWW4pAisFjXQHwN) | 3:40 |
 | 42 | [I'm Alright](https://open.spotify.com/track/3a4RFjxPCttnbX5jgKxUuR) | [LEADR](https://open.spotify.com/artist/5MBtoGEv50nmq08tb3y38v) | [I'm Alright](https://open.spotify.com/album/0021hkIWKyizFTcZepAUfe) | 3:14 |
 | 43 | [You Matter](https://open.spotify.com/track/1arOj3xVlQB9veK0piJnC4) | [Telly Leung](https://open.spotify.com/artist/7jY4WHm9t4mWwBjg0bTB4N) | [You Matter](https://open.spotify.com/album/731OCmxzYhwwkRpxbt1Onq) | 4:07 |
 
-Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMDVlZGZmNjk5NDFhNDUwYmM3OTJhYTk0NDA1ZjVkYzZh`
+Snapshot ID: `MTY1NDIyODg2MCwwMDAwMDAwMGExNzBmNTZkNWEzMjFmN2Y3ZTgwNmE4ODBiMDdhNGI4`

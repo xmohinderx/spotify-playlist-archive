@@ -2151,7 +2151,7 @@
       ],
       "date_added": "2021-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 119206,
       "name": "CINDY",
       "url": "https://open.spotify.com/track/2MvIexkUblP1QdpBzKot3N"
@@ -4177,7 +4177,7 @@
       ],
       "date_added": "2022-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 185333,
       "name": "Herkes Gibisin",
       "url": "https://open.spotify.com/track/7jnN5sT8rk6PIvBZRWYdJj"
@@ -4529,7 +4529,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 119189,
       "name": "\u0130llegale",
       "url": "https://open.spotify.com/track/2njqaJOTwA4Itcn3TotTAk"
@@ -7898,6 +7898,28 @@
     },
     {
       "album": {
+        "name": "Sevmi\u015f Gibi",
+        "url": "https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8"
+      },
+      "artists": [
+        {
+          "name": "Eftalya Ya\u011fc\u0131",
+          "url": "https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc"
+        },
+        {
+          "name": "Lvbel C5",
+          "url": "https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150004,
+      "name": "Sevmi\u015f Gibi",
+      "url": "https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo"
+    },
+    {
+      "album": {
         "name": "Se\u00f1orita Sinyale",
         "url": "https://open.spotify.com/album/7BNEu6hUIAfu1OI9UJPpkT"
       },
@@ -8083,7 +8105,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 236630,
       "name": "Son Dura\u011f\u0131n",
       "url": "https://open.spotify.com/track/63PJ7AVOjL5WcaYmPxiblX"
@@ -9343,6 +9365,24 @@
       "duration_ms": 131739,
       "name": "\u00c7iftetelli",
       "url": "https://open.spotify.com/track/34MM2UIWX7JOdI7NmnVNyD"
+    },
+    {
+      "album": {
+        "name": "\u00c7ok Kolay",
+        "url": "https://open.spotify.com/album/7hz72trerdO3cg4JP9TGx1"
+      },
+      "artists": [
+        {
+          "name": "Ben Fero",
+          "url": "https://open.spotify.com/artist/2kS0jWMkkFBL0mrl0VotD0"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210604,
+      "name": "\u00c7ok Kolay",
+      "url": "https://open.spotify.com/track/4BBee59kamxuAF3J0pS6GT"
     },
     {
       "album": {

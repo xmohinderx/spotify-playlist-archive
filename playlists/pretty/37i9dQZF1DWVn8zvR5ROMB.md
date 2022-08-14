@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Jordan Davis, Parmalee, Lainey Wilson and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,597 likes - 68 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,944 likes - 68 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Next Thing You Know](https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Next Thing You Know](https://open.spotify.com/album/7Joe4M8FRFyVxmKUSndVqp) | 2:55 |
 | 2 | [Girl In Mine](https://open.spotify.com/track/2DPqR0kuZVjrOF5oxIRYPy) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Girl In Mine](https://open.spotify.com/album/6R75pGKkSGEsUArsphBZ9W) | 2:35 |
-| 3 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Songs From Bell Bottom Country](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
+| 3 | [Watermelon Moonshine](https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Watermelon Moonshine](https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82) | 3:28 |
 | 4 | [Better Love](https://open.spotify.com/track/5jhTSUTvSjXr1wEVcCxzw2) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Better Love](https://open.spotify.com/album/5ZrlWEsfFEv6sa2vSzVRPH) | 3:02 |
 | 5 | [getting into](https://open.spotify.com/track/0tabwXMEh3t7MkeKa95oIp) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [getting into](https://open.spotify.com/album/6EJSIvZH0UbqEzuhyxnnC3) | 2:49 |
 | 6 | [Didn't Do](https://open.spotify.com/track/13sdGIsfF7PdO1TZ89pfHw) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Didn't Do](https://open.spotify.com/album/5g6k9GEe9QmF9iLUso5rNO) | 3:17 |

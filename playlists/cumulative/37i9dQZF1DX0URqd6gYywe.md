@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-115 songs - 8 hr 0 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
+116 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Dos en la ciudad](https://open.spotify.com/track/4MYOJ2AhfzdoPAjwHg79LS) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:42 | 2022-06-03 |  |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/0FnR7sXg9R6gvnYk2B03RS) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 5:02 | 2022-07-06 | 2022-08-11 |
 | [El Farolito \(Acústico\)](https://open.spotify.com/track/1IC9QfsEQx2aVhsscCsbTE) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [El Farolito \(Acústico\)](https://open.spotify.com/album/2ZtLtqU9H4IXLQn4EMDFjU) | 5:02 | 2022-06-03 | 2022-07-29 |
+| [El Farolito \(Acústico\)](https://open.spotify.com/track/75Yc1MhQiQEBGJvyciJQAy) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 5:02 | 2022-07-06 |  |
 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 | 2022-06-03 |  |
 | [El trato](https://open.spotify.com/track/4jsWMUBxGEKn6usvMIO1R8) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Cicatrices](https://open.spotify.com/album/0B8RpNMbnIrTB8Q9Si7gYY) | 3:28 | 2022-07-06 |  |
 | [El Trato](https://open.spotify.com/track/10y0q9ys5yOQA4jGU7daz3) | [Cruzando El Charco](https://open.spotify.com/artist/4STEdt6oH8RopaxpfWrO5Z), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Trato](https://open.spotify.com/album/0yKM9i0sVThtzArvNrrvuN) | 3:31 | 2022-06-03 | 2022-07-29 |
@@ -69,7 +70,7 @@
 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 | 2022-07-06 |  |
 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 | 2022-06-03 |  |
 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 |  |
-| [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 |  |
+| [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 | 2022-08-14 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2022-07-29 |
 | [Motor Psico](https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 4:56 | 2022-06-03 |  |
 | [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 | 2022-07-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Santa Fe Klan; Maluma & Anitta; Danna Paola; Paulo Londra & Ed Sheeran; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,845 likes - 48 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,039 likes - 48 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 17 | [Sucio Guapo](https://open.spotify.com/track/3O6qgosmTPliBdsuCIOqMh) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km) | [Sucio Guapo](https://open.spotify.com/album/6U4wNHIQPFMrKKSxbcZUvH) | 3:28 |
 | 18 | [Eme](https://open.spotify.com/track/2kqsNM8s9y2tlgHGCFnfvh) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Eme](https://open.spotify.com/album/0NyszzEmfMrKgHVDlDaUVC) | 2:54 |
 | 19 | [Diablo Con Bikini](https://open.spotify.com/track/4vWgFVvvd0aKlbHDFA9aAx) | [Neelo](https://open.spotify.com/artist/2ENPnSzAeiXxEGFVQffe5q) | [Diablo Con Bikini](https://open.spotify.com/album/57zmqJHBWNrO3mS1SsHEad) | 3:35 |
-| 20 | [Medio Crazy Remix \(with Khea & Ingratax feat\. Rusherking, FMK & Juhn\)](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix \(with Khea & Ingratax feat\. Rusherking, FMK & Juhn\)](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 |
+| 20 | [Medio Crazy Remix](https://open.spotify.com/track/3AiiL8Idhbmm3vDf2dmyRW) | [Nobeat](https://open.spotify.com/artist/3TKS1JzWOLAnicuOCOyVlW), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Ingratax](https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Juhn](https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr) | [Medio Crazy Remix](https://open.spotify.com/album/4hrH9ThHDvgf2Q2pwsZaIV) | 5:32 |
 | 21 | [Caminemos de la Mano](https://open.spotify.com/track/1cZqrdhWL6f3EiY23zpnTe) | [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq) | [Caminemos de la Mano](https://open.spotify.com/album/4mN6kuLwt2N8SLascdzLyB) | 3:34 |
 | 22 | [Farsas](https://open.spotify.com/track/0j5ZcKLGwS8CV8YwVqbR0O) | [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Hispana](https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5) | [Farsas](https://open.spotify.com/album/2maqCyfdnqRc2IMVPJlIQJ) | 3:18 |
 | 23 | [Suena En Mi Barrio](https://open.spotify.com/track/74yqnVCGQpA9zGTTmBJe6C) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suena En Mi Barrio](https://open.spotify.com/album/5CI5uDMVwq1peqgm0nAO5c) | 3:53 |

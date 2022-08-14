@@ -1,12 +1,12 @@
 {
   "description": "Timeless tunes served over easy for all your brunching needs!",
-  "num_followers": 42778,
+  "num_followers": 42866,
   "original_name": "Sunny Side Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2ODg5NSwwMDAwMDAwMDQ3YjJhMWRkMDEzNmVlNzNkYjZjZWYzNDE0ZGE4ZmYy",
+  "snapshot_id": "MTY1OTA2ODg5NSwwMDAwMDAwMGE1NWM1NzhlODA4YzE1MTZjMzAzZWFmOWEyMjE3MDZh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:28:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Back In The High Life",
-        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
-      },
-      "artists": [
-        {
-          "name": "Steve Winwood",
-          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
-        }
-      ],
-      "duration_ms": 351506,
-      "name": "Higher Love",
-      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Tapestry",
         "url": "https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 233173,
       "name": "It's Too Late",
       "url": "https://open.spotify.com/track/12q3V8ShACq2PSWINMc2rC"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "Back In The High Life",
+        "url": "https://open.spotify.com/album/1VV4tdUYIjRlhKxu1gMw4d"
+      },
+      "artists": [
+        {
+          "name": "Steve Winwood",
+          "url": "https://open.spotify.com/artist/5gxynDEKwNDgxGJmJjZyte"
+        }
+      ],
+      "duration_ms": 351506,
+      "name": "Higher Love",
+      "url": "https://open.spotify.com/track/4ZExvJvQXPEeYzGU0N3THi"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -755,18 +755,18 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -787,18 +787,34 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "The Spice Of Life",
+        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
+      },
+      "artists": [
+        {
+          "name": "Marlena Shaw",
+          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
+        }
+      ],
+      "duration_ms": 177226,
+      "name": "California Soul",
+      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -835,22 +851,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "The Spice Of Life",
-        "url": "https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8"
-      },
-      "artists": [
-        {
-          "name": "Marlena Shaw",
-          "url": "https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w"
-        }
-      ],
-      "duration_ms": 177226,
-      "name": "California Soul",
-      "url": "https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Something / Anything?",
         "url": "https://open.spotify.com/album/3zNPrWuTPDQeqdj2Y8UjO1"
       },
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "If You Could Read My Mind",
-        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "If You Could Read My Mind",
-      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Freedom for the Stallion (Expanded Edition)",
         "url": "https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH"
       },
@@ -915,18 +899,18 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "Aftermath",
-        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+        "name": "If You Could Read My Mind",
+        "url": "https://open.spotify.com/album/6bzqUICBtzct7TiQC8if9s"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
         }
       ],
-      "duration_ms": 221533,
-      "name": "Under My Thumb",
-      "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
+      "duration_ms": 228840,
+      "name": "If You Could Read My Mind",
+      "url": "https://open.spotify.com/track/57ct8jKi6trntXiRV0NnXi"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -943,6 +927,22 @@
       "duration_ms": 161226,
       "name": "I Second That Emotion",
       "url": "https://open.spotify.com/track/6Hd8mrDwBQ8rLo70FwFG5C"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "Aftermath",
+        "url": "https://open.spotify.com/album/72qrnM4yUNMDDlWiqKc8iY"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "Under My Thumb",
+      "url": "https://open.spotify.com/track/5lmGgOaixbwKHtpTzjJoqx"
     },
     {
       "added_at": "2022-07-29 04:28:15",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2022-07-29 04:28:15",
       "album": {
-        "name": "George McCrae - Disco Pioneer",
-        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
-      },
-      "artists": [
-        {
-          "name": "George McCrae",
-          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
-        }
-      ],
-      "duration_ms": 200053,
-      "name": "Rock Your Baby",
-      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
-    },
-    {
-      "added_at": "2022-07-29 04:28:15",
-      "album": {
         "name": "Warm & Tender Soul",
         "url": "https://open.spotify.com/album/2PDg8ZGUuCxr0PQ7eyY750"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 173893,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/1kz3vwmLiBlW3A73exQSNx"
+    },
+    {
+      "added_at": "2022-07-29 04:28:15",
+      "album": {
+        "name": "George McCrae - Disco Pioneer",
+        "url": "https://open.spotify.com/album/3qJGzbhk63pzwqzpTr0bxt"
+      },
+      "artists": [
+        {
+          "name": "George McCrae",
+          "url": "https://open.spotify.com/artist/6oV3BNm1Gj2GGgpYknc5TN"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Rock Your Baby",
+      "url": "https://open.spotify.com/track/16KwF7IrKHTVTitUKH58g3"
     },
     {
       "added_at": "2022-07-29 04:28:15",

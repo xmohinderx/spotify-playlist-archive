@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネット・カルチャーから次々と出現するアーティストを特集。Check out artists of the new Internet age! Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,551 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,646 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,20 +27,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 17 | [もう少しだけ](https://open.spotify.com/track/2pXmohBUnD5Li93sgpbPSg) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [もう少しだけ](https://open.spotify.com/album/32fJ6KxH53e7buqrMsNH5I) | 3:40 |
 | 18 | [Dorothy](https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN) | [KANKAN](https://open.spotify.com/artist/6ZnELeGt16sNYfx3CcTh9d), [Chogakusei](https://open.spotify.com/artist/2sSxUi7Qg7hVHo7345VSLz) | [Dorothy](https://open.spotify.com/album/15HbjaFyq0GZQxpbggYPzl) | 3:02 |
 | 19 | [おとせサンダー](https://open.spotify.com/track/0TBZ2NGb9es28EVrtJGhic) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [おとせサンダー](https://open.spotify.com/album/0xDJJ5AZvTB2CSxeUrkple) | 4:04 |
-| 20 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
+| 20 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
 | 21 | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33) | [麗英](https://open.spotify.com/artist/0Ikg5QGqfXvrtaSosMFruS) | [東京夢遊 \(東京一轉 Japanese Version\)](https://open.spotify.com/album/5AL0bGaBBTRVw7bPD9cb2c) | 3:46 |
 | 22 | [弱虫のラブソング](https://open.spotify.com/track/0M7ZN4vDM3RsOTvb1G8H8z) | [メガテラ・ゼロ](https://open.spotify.com/artist/4I7F7bTQ9tBnRI2razDP9B) | [弱虫のラブソング](https://open.spotify.com/album/2Os4vEqSNwNtX0xzsgDV6b) | 4:42 |
 | 23 | [心という名の不可解](https://open.spotify.com/track/5dwkmgutIFdurpXlzEyCtB) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [狂言](https://open.spotify.com/album/0tDsHtvN9YNuZjlqHvDY2P) | 4:29 |
 | 24 | [イントロは終わり](https://open.spotify.com/track/0RDzaHslzMngPxTX84Xs6G) | [水槽](https://open.spotify.com/artist/67dtSHfEqrggSaOaicpaXq) | [イントロは終わり](https://open.spotify.com/album/1FvFjiAeYqVF14pt6uWKme) | 2:58 |
-| 25 | [ミラーチューン](https://open.spotify.com/track/0R8JLNP107Hr7V7lL9oh13) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ミラーチューン](https://open.spotify.com/album/6QDBlLAlW5dXvnHuwMjmA8) | 4:09 |
+| 25 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 |
 | 26 | [春泥棒](https://open.spotify.com/track/1rr2DJOxV0sHXeUXCAz1yf) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [春泥棒](https://open.spotify.com/album/4YKJk4juMZQr2sDnKzDlBz) | 4:50 |
 | 27 | [イミテイション \(starring 珀\)](https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo) | [今夜、あの街から](https://open.spotify.com/artist/3CIypr428k5fChS6LK790Y), [珀](https://open.spotify.com/artist/5pYWH9L8OcnvIXS1V1cO2L) | [イミテイション \(starring 珀\)](https://open.spotify.com/album/4npreCVmUEi2UeRSyEwUYK) | 2:49 |
 | 28 | [Oz.](https://open.spotify.com/track/2VRcLEvQCMByWBuvM9gaJ2) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Oz.](https://open.spotify.com/album/7C3ayPvTdGuzNCUZL7wLNQ) | 3:14 |
 | 29 | [イージーゲーム](https://open.spotify.com/track/096qZRdXPOyvb5OP8NI7pw) | [natsumi](https://open.spotify.com/artist/7GBDKoYYinEfOirEzLlHPK), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [イージーゲーム](https://open.spotify.com/album/30mRFS3cKkDslOyyK4tTmF) | 3:03 |
 | 30 | [PAKU](https://open.spotify.com/track/6nYezkgAePhAmnxNTQRsLV) | [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza) | [PAKU](https://open.spotify.com/album/2nHwbkFhdzyC79w5Js8Asy) | 2:05 |
-| 31 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
+| 31 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
 | 32 | [プロローグ](https://open.spotify.com/track/7xk7RN5lLRzJVcu0m8Y65O) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo), [EVAN](https://open.spotify.com/artist/6bzdpLlsMQUyZzsbyBe4k2) | [プロローグ](https://open.spotify.com/album/015y1Qu5wxZN3uvHG7Q5Rl) | 5:01 |
-| 33 | [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 |
+| 33 | [Pale Blue](https://open.spotify.com/track/52RfEh76AVKPwtUtTV9ufl) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Pale Blue](https://open.spotify.com/album/24twIPmQ5GlXAPvzpRpc5G) | 4:56 |
 | 34 | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/track/0yzX8MYYJHw7A3PLvgEc7e) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj), [ミドリーズ](https://open.spotify.com/artist/3y1b2eef2HLeYyqFJLtH4p) | [ツバメ \(feat\. ミドリーズ\)](https://open.spotify.com/album/3hLagbbi0Ud7VLJC9AxiTr) | 3:37 |
 | 35 | [シル・ヴ・プレジデント](https://open.spotify.com/track/0nW1Aes1arNyR1fzEKXS2m) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [Sunny!!](https://open.spotify.com/album/6YpoVnWQUIvMLFAeg1lCKU) | 3:10 |
 | 36 | [takt](https://open.spotify.com/track/6YSFQShQdR87tMaQEtUfHo) | [ryo \(supercell\)](https://open.spotify.com/artist/5Ud2lekREUXjinNlIGjJIX), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ), [gaku](https://open.spotify.com/artist/7jjFT71wanEzrqWDlljqts) | [takt](https://open.spotify.com/album/3aInlHXhKl7KFc5unqk1W3) | 3:57 |
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 38 | [Haru wo Tsugeru](https://open.spotify.com/track/5QseXDzPvtjdeaWNhYbm0m) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [Haru wo Tsugeru](https://open.spotify.com/album/002POSVXei4zFN5FDF0YqQ) | 3:16 |
 | 39 | [回る空うさぎ](https://open.spotify.com/track/5NITYjCmkHJEm03GUor1R1) | [DAZBEE](https://open.spotify.com/artist/1m0fLOy3wFNcSpwKn75qJz) | [Remindful.One](https://open.spotify.com/album/0aYunc3nelpAKlZbf8MYDB) | 2:52 |
 | 40 | [MERA MERA](https://open.spotify.com/track/3Y5q0JDCRzjNlMRRrLK0RF) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8) | [MERA MERA](https://open.spotify.com/album/2kgTd0HIj4SUtlmTD6kuzo) | 3:03 |
-| 41 | [月に吠える](https://open.spotify.com/track/7sLxvJ2Lj4Kf2K6Wa7OEk1) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [月に吠える](https://open.spotify.com/album/31wNfG1NEvrOjQxI4S1AsV) | 4:25 |
+| 41 | [嘘月](https://open.spotify.com/track/4MwVirVMyerMiHkFomOZay) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [創作](https://open.spotify.com/album/3BnM7AuvYkREVqNTPIxTRH) | 4:50 |
 | 42 | [融解sink](https://open.spotify.com/track/1m7lHpniqlJyCac7dJgyYJ) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [融解sink](https://open.spotify.com/album/6JZ9BCIEapKcYyP7eF6NXL) | 4:02 |
 | 43 | [足りない](https://open.spotify.com/track/2FPGL1mHYG1vmNSR8up277) | [DUSTCELL](https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B) | [足りない](https://open.spotify.com/album/3kM6SqdM1TL190mApO9HLi) | 3:00 |
 | 44 | [空と虚](https://open.spotify.com/track/1YvLvyEHEUv6xuablK3kpj) | [sasanomaly](https://open.spotify.com/artist/09KNMqVn02ntZA70RA1xyZ) | [空と虚](https://open.spotify.com/album/0HdkHMdirrj9cn26DrCv7J) | 3:43 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 46 | [Under Kids](https://open.spotify.com/track/4i5Dof4iQMmb9pM2EjPXfr) | [TUYU](https://open.spotify.com/artist/0PHf0oiic0xAnCrRuLTtHl) | [Under Kids](https://open.spotify.com/album/6JWQwDPRMxFEfb1oXvUrSh) | 3:26 |
 | 47 | [CapSule](https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY) | [Mori Calliope](https://open.spotify.com/artist/1PhE6rv0146ZTQosoPDjk8), [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [CapSule](https://open.spotify.com/album/6GsX8yyTYKzLxYoKoSdydQ) | 2:54 |
 | 48 | [MoonWalker](https://open.spotify.com/track/4ELSoW5BZzs7rV8ac0Cpit) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [MoonWalker](https://open.spotify.com/album/088QzeGKVNk68ebMWTeL9q) | 3:34 |
-| 49 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 |
-| 50 | [アミ](https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD) | [ayaho](https://open.spotify.com/artist/7awsMAHbAIxGXzwOOxme2B), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [アミ](https://open.spotify.com/album/585o5gifFloGibjfoanTXW) | 2:49 |
+| 49 | [アミ](https://open.spotify.com/track/5xd5pEwtXqZf4OFKN1w7sD) | [ayaho](https://open.spotify.com/artist/7awsMAHbAIxGXzwOOxme2B), [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [アミ](https://open.spotify.com/album/585o5gifFloGibjfoanTXW) | 2:49 |
+| 50 | [進め!そっちだ!](https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8) | [和ぬか](https://open.spotify.com/artist/6LesPuO1nhgJ2acJ4MjyBI) | [進め!そっちだ!](https://open.spotify.com/album/1KVIhGzMdFp0V2z255vbgG) | 3:14 |
 
-Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDU3OGRjMGFlY2NhY2YwNjRmNjE2ODlmYTMyMDA2OTQ4`
+Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMGY5ZDlmYWM3ZWJkZDJhN2VmODFhZmE3M2JmY2EzOWU0`

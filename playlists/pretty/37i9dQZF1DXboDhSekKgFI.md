@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 
 > Los niños se volverán locos por estas canciones de fiesta.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,429 likes - 59 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,443 likes - 59 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 29 | [Hey DJ \- Pop Version](https://open.spotify.com/track/2kAe8s00cKth2AfcLEbFi9) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Hey DJ \(Pop Version\)](https://open.spotify.com/album/5hHBkqV6gED9WKE6qr0DfP) | 3:06 |
 | 30 | [Sodio](https://open.spotify.com/track/7jYZU1CIruZU3puB5tiYiW) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:06 |
 | 31 | [Festival](https://open.spotify.com/track/0SBrGzg3tqlKCWVelWHXYm) | [Los Polinesios](https://open.spotify.com/artist/089IZ7FwRjpOxPypnAG7kW), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx) | [Festival](https://open.spotify.com/album/4ENYEEWdasGNG5YYGbX4Zx) | 3:27 |
-| 32 | [RITMO](https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [RITMO](https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz) | 3:23 |
-| 33 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 |
-| 34 | [Lento](https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 3:16 |
-| 35 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
-| 36 | [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 |
+| 32 | [I Like To Move It](https://open.spotify.com/track/3hYvZHS6dqEhvBbO302MjR) | [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [Fiesta despúes de la siesta](https://open.spotify.com/album/4h6x8zsA7RXuHL2TEkYYy0) | 3:42 |
+| 33 | [RITMO](https://open.spotify.com/track/2gVLpzfM3ZiSXZY8fFgW2a) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [RITMO](https://open.spotify.com/album/77T4L4KT2y6XL0Mx9vJ0Cz) | 3:23 |
+| 34 | [Que Te Vaya Bonito](https://open.spotify.com/track/5H5tnAAoq5D3feuLB9dt6H) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 3:20 |
+| 35 | [Lento](https://open.spotify.com/track/2wga58e6AZmO3kfIZ0fSBw) | [RBD](https://open.spotify.com/artist/7cjh6y0V9SsyCrWSXTzwOs) | [Mas Flow \- Los Benjamins](https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f) | 3:16 |
+| 36 | [Todos a Moverse](https://open.spotify.com/track/2qDZD2UljoMNasceWl4qg9) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:42 |
 | 37 | [Ki Ki Kí \- Co Co Có \- Dance Remix](https://open.spotify.com/track/0dT11N8Apg5dqZrm5iYHyF) | [Payasitas Nifu Nifa](https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T) | [Por Ti y para Ti](https://open.spotify.com/album/553Z8YDy0KOYGyh1BegVoH) | 3:42 |
 | 38 | [Merengue!](https://open.spotify.com/track/3T5DRtuj3RlqKM70IL5Dzu) | [Go, Diego, Go!](https://open.spotify.com/artist/5eOdiRdTA8ZsIsHxcjHFm6) | [Go Diego Go Live! The Great Jaguar Rescue](https://open.spotify.com/album/11OpLREZ8C62lJ9EPFLVAg) | 1:15 |
 | 39 | [Todo En Mi Vida](https://open.spotify.com/track/1eQI12dVlkE9HOuiNB5sRq) | [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [¿Dónde Bailarán Las Niñas?](https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa) | 3:24 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 41 | [Todo de Ti](https://open.spotify.com/track/5yLHW8TGZihPwravJTTrgu) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Todo de Ti](https://open.spotify.com/album/22OaXBrC2e3CrQ5Cgp6m2L) | 2:31 |
 | 42 | [Un Día Voy a Ser Gigante](https://open.spotify.com/track/24F2hfF3c2hx0wAzzP1NHn) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb) | [Miss Patylu, vol\. 1](https://open.spotify.com/album/72J8M3wHLOPU7BRWJVbQEq) | 3:16 |
 | 43 | [La Luz](https://open.spotify.com/track/7Jafrholm3CJ8AIfWKi77X) | [Isabella Castillo](https://open.spotify.com/artist/1VMbsWJQQaRlubXsKcEOcL) | [Yo Soy Franky \(Música Original de la Serie\)](https://open.spotify.com/album/4b1h8Ne7RKTyIpQ9WfWm8F) | 3:40 |
-| 44 | [Me Muevo para Aquí](https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:48 |
-| 45 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 |
+| 44 | [Despacito](https://open.spotify.com/track/3QdqgMuEYLbckJy0XUw3gA) | [Mini Pop Kids](https://open.spotify.com/artist/2VAjBQ6cM2faT2UKxONV93) | [Mini Pop Kids 15](https://open.spotify.com/album/18maOqDk7WqDrp28Kbshdw) | 3:52 |
+| 45 | [Me Muevo para Aquí](https://open.spotify.com/track/4HnfVgHmTZ7kzOdZMY0FIt) | [Elenco Junior Express](https://open.spotify.com/artist/1qpObFWDQW9EPFSzAzi71h), [Diego Topa](https://open.spotify.com/artist/3y6NjjMEV0m5fSaz6AXTsa) | [Junior Express \- Grandes Éxitos](https://open.spotify.com/album/32PoW1uZHdQE8Gm3MGSkBG) | 2:48 |
 | 46 | [Osito Carpintero](https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Viva Kids, Vol\. 1](https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5) | 2:36 |
 | 47 | [Mi Gente](https://open.spotify.com/track/5ztaePc76dP2m4hUvbI1Gt) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 37](https://open.spotify.com/album/48NOB9lIic6YIouK1B4GMj) | 3:06 |
 | 48 | [El Mundo Es un Salón de Fiestas](https://open.spotify.com/track/7rbtK2t5k6zNOnx2Z1eNCe) | [Patylu](https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb), [Chabelo](https://open.spotify.com/artist/1TOnulloO1kwAhFmH1QVJM), [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0), [Cepillin](https://open.spotify.com/artist/0GFoaoQJa0vY4qU3IL0aBZ) | [Mejores Amigos](https://open.spotify.com/album/0AAX2C7kc77hGW5RG7OWHl) | 3:32 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXboDhSekKgFI.md) - [plain]
 | 58 | [Speedy Gonzalez](https://open.spotify.com/track/11dG2Slr6F3a3UB7MHztvd) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [Adelante](https://open.spotify.com/album/0npmHTuGBf093p6kFgZKam) | 3:25 |
 | 59 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 |
 
-Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMDBjZTNmZTcxZWM5ZmE4Mjk2Y2I4ZmFiZWE5YWY5OTkz`
+Snapshot ID: `MTY1NzU3NjkyOCwwMDAwMDAwMDM2MTMzOWU1ZGRjNzNkYmE1YmE5YWM3MmFlOGM2MmI0`

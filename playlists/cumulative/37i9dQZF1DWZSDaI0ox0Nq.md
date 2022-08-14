@@ -4,7 +4,7 @@
 
 > Mujeres que escriben la historia del Tango\. Foto: Julieta Laso.
 
-93 songs - 5 hr 17 min - [published](https://open.spotify.com/playlist/6KIn1gRUVLIycdI4YQ0CKQ)
+94 songs - 5 hr 21 min - [published](https://open.spotify.com/playlist/6KIn1gRUVLIycdI4YQ0CKQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Che bandoneon](https://open.spotify.com/track/2nNttXpVNiyEewXhZUTHNu) | [Susy Leiva](https://open.spotify.com/artist/4gRdLOmvGZUprym6lU6Xaz) | [Susy Leiva \- Grandes Exitos \-](https://open.spotify.com/album/2yeB0qqmekdprMgK6xF4mG) | 2:58 | 2021-12-03 | 2022-07-21 |
 | [Como Dos Extraños](https://open.spotify.com/track/6u14b3JnkqTc1W3hTLNtJ9) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc) | [Vuelve el Tango](https://open.spotify.com/album/6Ew5SpAE83uV8grDDawz5m) | 2:48 | 2021-12-03 |  |
 | [Confidencias](https://open.spotify.com/track/0Vu4EpjrI7g8m6r7DSlhcj) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Confidencias](https://open.spotify.com/album/0hbD19vNbfBDwO6XTujWSR) | 3:28 | 2021-12-03 | 2022-08-03 |
-| [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 | 2022-05-20 |  |
+| [Confidencias](https://open.spotify.com/track/53573za1S0cPRlR9TudWro) | [Mirta Uguet](https://open.spotify.com/artist/7LM8yuLYabmwwol7zh7T0O) | [Un sueño de barrio](https://open.spotify.com/album/4HhtYjOKgTXErKj0GpW2Sz) | 3:28 | 2022-07-08 |  |
+| [Corazón Maldito](https://open.spotify.com/track/18rtBOZ3x3OYWAN7VMEgio) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Corazón Maldito](https://open.spotify.com/album/6akAb35yd9kVQiq3jigIZT) | 3:24 | 2022-05-20 | 2022-08-14 |
 | [Desde el alma](https://open.spotify.com/track/2qy2u4LhIS8OSnnmJdvo1n) | [Nelly Omar](https://open.spotify.com/artist/6IyGH3tMgXudiE41XE6Y8f) | [Nelly Omar \- Desde el alma](https://open.spotify.com/album/0cXYEiQXAKBahVL4uUivpx) | 2:36 | 2021-12-03 |  |
 | [El Choclo](https://open.spotify.com/track/2tGrykC11z4OMBFfKCq0kt) | [Tita Merello](https://open.spotify.com/artist/7r4Bb7uhP2AhJ4qlRp2vgP) | [Serie De Oro](https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj) | 3:03 | 2021-12-03 |  |
 | [El Corazón al Sur](https://open.spotify.com/track/18vYwrRDOByn0oqGpabKoE) | [Maria Graña](https://open.spotify.com/artist/1Yr19zGBA3JmVYOcE4JwRG), [Eladia Blazquez](https://open.spotify.com/artist/0lHsA4VFPhU5bDBYPMskM8) | [María](https://open.spotify.com/album/7cA8YfWeBERZoGS55NIylD) | 4:03 | 2021-12-03 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Sangre fresca en las escenas del indie y el rock\. Siddhartha en portada.
 
-142 songs - 8 hr 54 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
+143 songs - 8 hr 57 min - [published](https://open.spotify.com/playlist/1V1OHh2gBqHE70WTxIG68y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,9 +86,10 @@
 | [Me Sobra la Plata](https://open.spotify.com/track/3igxC0qw663Ip91fIwrU8q) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Me Sobra la Plata](https://open.spotify.com/album/3QeJmMXRGITqC7dARLP7Xy) | 3:44 | 2021-12-17 | 2022-04-30 |
 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 | 2022-04-20 |  |
 | [Melodías Nublados](https://open.spotify.com/track/5ASuoktRXvWLWOjS9YHs6b) | [Build a Vista](https://open.spotify.com/artist/5Rd2pJnoEa82vN30QvIqvX) | [Melodías Nublados](https://open.spotify.com/album/5P10qJonXLknLPrtXbK5qB) | 3:02 | 2022-03-11 | 2022-07-26 |
-| [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 | 2022-03-19 |  |
+| [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 | 2022-03-19 | 2022-08-14 |
 | [Mi Canción](https://open.spotify.com/track/2EeJ3n3I0EZaa3YQUvap72) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Mi Canción](https://open.spotify.com/album/1YcVrh4wME3hr6ZY7yk3d6) | 3:08 | 2022-04-20 | 2022-08-10 |
 | [Mi Culpa](https://open.spotify.com/track/6CXqrDkEPNtWpl0MmBODAN) | [Erik Canales](https://open.spotify.com/artist/3QC4AtX2khtjq72uLVULZQ), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Mi Culpa](https://open.spotify.com/album/5jUWlWkKFjj6vkLuBJPUX4) | 3:50 | 2022-03-18 | 2022-07-28 |
+| [Mi Habitación](https://open.spotify.com/track/7jC3idd95GXBbUxn9S8btI) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn), [Yawners](https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC) | [Mi Habitación](https://open.spotify.com/album/52ZsUG7LV159qKUKOyCjHF) | 2:35 | 2022-08-13 |  |
 | [Mis Discos](https://open.spotify.com/track/5dKzwCh0X3snBbMGxjHqbt) | [Pequeño Fénix](https://open.spotify.com/artist/0fuWp7kffdhZk9XrQdF7Sb) | [Mis Discos](https://open.spotify.com/album/4omhkqT6OYdVGfuFhRAfpj) | 2:27 | 2022-07-22 | 2022-07-30 |
 | [Mismo Amor](https://open.spotify.com/track/1p1Nw0D1JJYbaLLuCY7PEw) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Mismo Amor](https://open.spotify.com/album/47TJKNoGstQmn8cITL9AQv) | 3:18 | 2022-04-20 |  |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 | 2022-08-10 |

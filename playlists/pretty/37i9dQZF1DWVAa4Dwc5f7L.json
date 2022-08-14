@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits!",
-  "num_followers": 369360,
+  "num_followers": 369411,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjcwMTE2OCwwMDAwMDAwMGY2ZDczZmQ0NGM0YWY4MzczMTI3NGNmNGZlMTE3ZTYx",
+  "snapshot_id": "MTY0MjcwMTE2OCwwMDAwMDAwMDBmM2Y3ZjllMGYxMzhhNjI4ZjhhMDU2MWM4N2VmMTk0",
   "tracks": [
     {
       "added_at": "2022-01-20 17:52:48",
@@ -123,18 +123,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Con Su Loquera",
-        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
+        "name": "El Hombre Mas Famoso De La Tierra",
+        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
       "artists": [
         {
-          "name": "Mala Fe",
-          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
+          "name": "Fulanito",
+          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
         }
       ],
-      "duration_ms": 255533,
-      "name": "La Vaca",
-      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
+      "duration_ms": 205333,
+      "name": "Guallando",
+      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "El Hombre Mas Famoso De La Tierra",
-        "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
+        "name": "Con Su Loquera",
+        "url": "https://open.spotify.com/album/4S18mM72RcD7OY9WiyHE8q"
       },
       "artists": [
         {
-          "name": "Fulanito",
-          "url": "https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE"
+          "name": "Mala Fe",
+          "url": "https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp"
         }
       ],
-      "duration_ms": 205333,
-      "name": "Guallando",
-      "url": "https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3"
+      "duration_ms": 255533,
+      "name": "La Vaca",
+      "url": "https://open.spotify.com/track/7neWp4incUBLP1XQTNWmP0"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -403,18 +403,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "El Hombre Merengue",
-        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
+        "name": "Loma de Cayenas",
+        "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
       },
       "artists": [
         {
-          "name": "Kinito Mendez",
-          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
+          "name": "Vicente Garcia",
+          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
+        },
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 283866,
-      "name": "Cachamba",
-      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
+      "duration_ms": 225868,
+      "name": "Loma de Cayenas",
+      "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -439,22 +443,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Loma de Cayenas",
-        "url": "https://open.spotify.com/album/1QO8tFhzFpI1NcyEtY3ljl"
+        "name": "El Hombre Merengue",
+        "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
       "artists": [
         {
-          "name": "Vicente Garcia",
-          "url": "https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq"
-        },
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+          "name": "Kinito Mendez",
+          "url": "https://open.spotify.com/artist/1dlQ9EIUyQvXZ3l05YMQdT"
         }
       ],
-      "duration_ms": 225868,
-      "name": "Loma de Cayenas",
-      "url": "https://open.spotify.com/track/3ARHcfADevNLh3m5oz2TVG"
+      "duration_ms": 283866,
+      "name": "Cachamba",
+      "url": "https://open.spotify.com/track/2HFfwhwTbpGq8Ebi3Nkdwv"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Mas Rika Que Nunca",
+        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Te Voy a Hacer Falta",
+      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "El Virao",
         "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
       },
@@ -863,22 +879,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mas Rika Que Nunca",
-        "url": "https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Te Voy a Hacer Falta",
-      "url": "https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "El Poder de New York",
         "url": "https://open.spotify.com/album/3jsolqg0FWyl8rsgRHAC7q"
       },
@@ -895,18 +895,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "La Tristeza \u00a1Pa' Fuera!",
-        "url": "https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2"
+        "name": "Los Conquistadores (25 Aniversario)",
+        "url": "https://open.spotify.com/album/1H9z9VtLrkYV93Ce01n0e5"
       },
       "artists": [
         {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+          "name": "Grupo Mania",
+          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
         }
       ],
-      "duration_ms": 191920,
-      "name": "La Tristeza \u00a1Pa' Fuera!",
-      "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
+      "duration_ms": 210026,
+      "name": "Tocaito",
+      "url": "https://open.spotify.com/track/5qNzGAfH6QvJvsCGfoX7sQ"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Los Conquistadores (25 Aniversario)",
-        "url": "https://open.spotify.com/album/1H9z9VtLrkYV93Ce01n0e5"
+        "name": "La Tristeza \u00a1Pa' Fuera!",
+        "url": "https://open.spotify.com/album/5kMLbIdGiYx0ZXHUnTVFm2"
       },
       "artists": [
         {
-          "name": "Grupo Mania",
-          "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
         }
       ],
-      "duration_ms": 210026,
-      "name": "Tocaito",
-      "url": "https://open.spotify.com/track/5qNzGAfH6QvJvsCGfoX7sQ"
+      "duration_ms": 191920,
+      "name": "La Tristeza \u00a1Pa' Fuera!",
+      "url": "https://open.spotify.com/track/4TapgIgumLEZXd6r0tYs48"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Sac\u00fadelo Que Tiene Arena",
+        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "Ay!",
+      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Otra Vez!",
         "url": "https://open.spotify.com/album/5KXzQXhEmEX6eJMLoukZWk"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 252826,
       "name": "El Virao",
       "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Sac\u00fadelo Que Tiene Arena",
-        "url": "https://open.spotify.com/album/0n5HXhJ7ouB3y1a9JbLgQg"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "Ay!",
-      "url": "https://open.spotify.com/track/6vU2DPeCqKSvXUCgTaD5cS"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "La Historia",
-        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
-      },
-      "artists": [
-        {
-          "name": "Limi-T 21",
-          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Est\u00e1s Enamorada",
-      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "Merengue De hoy",
         "url": "https://open.spotify.com/album/1xA8RomnALVkcxjAjtATXo"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 264160,
       "name": "Enamorame",
       "url": "https://open.spotify.com/track/7m6ENMMI8c64W7VBXFVeax"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "La Historia",
+        "url": "https://open.spotify.com/album/1g8KiMYp6C2NMEUFfxf73H"
+      },
+      "artists": [
+        {
+          "name": "Limi-T 21",
+          "url": "https://open.spotify.com/artist/5j8Q0VC4Be4yhcQ1tf8Sh7"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Est\u00e1s Enamorada",
+      "url": "https://open.spotify.com/track/6RwiMja5FdaP8mKCRlg6jl"
     },
     {
       "added_at": "2022-01-20 17:52:48",

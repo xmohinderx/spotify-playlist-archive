@@ -1,12 +1,12 @@
 {
   "description": "Para cantar muy bajito... o a voz en grito.",
-  "num_followers": 50381,
+  "num_followers": 50534,
   "original_name": "Las 100 mejores baladas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM3NjAwMCwwMDAwMDAwMGNmODVjMjE0NGY3MmM3ODE4NzgxNjI2YzU1N2U1ZjJj",
+  "snapshot_id": "MTY1ODM3NjAwMCwwMDAwMDAwMDMxNzMwZWRkZDE1NjUwZGZlM2Y3ZjBkYTE3ZGFlMWY0",
   "tracks": [
     {
       "added_at": "2022-07-21 04:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 285240,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
         "name": "Crazy World",
         "url": "https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 312360,
       "name": "Wind Of Change",
       "url": "https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285240,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "Cross Road",
-        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 353026,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "Cross Road",
+        "url": "https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 353026,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2RChe0r2cMoyOvuKobZy44"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "The Singles (Expanded)",
-        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
-      },
-      "artists": [
-        {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
-      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
         "name": "Automatic For The People",
         "url": "https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "The Singles (Expanded)",
+        "url": "https://open.spotify.com/album/7yZHLfxqiGPbSQLrVJljah"
+      },
+      "artists": [
+        {
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "Against All Odds (Take a Look at Me Now) - 2016 Remaster",
+      "url": "https://open.spotify.com/track/63CHa6rmamv9OsehkRD8oz"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
-      },
-      "artists": [
-        {
-          "name": "Eric Carmen",
-          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
-        }
-      ],
-      "duration_ms": 251066,
-      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
-      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
         "name": "Un D\u00eda Normal",
         "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 280000,
       "name": "My Heart Will Go On - Love Theme from \"Titanic\"",
       "url": "https://open.spotify.com/track/33LC84JgLvK2KuW43MfaNq"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/02CxAhdSRhzcm6XQ8m5RNp"
+      },
+      "artists": [
+        {
+          "name": "Eric Carmen",
+          "url": "https://open.spotify.com/artist/2ekjTXgjxbWwBX5lTAj4DU"
+        }
+      ],
+      "duration_ms": 251066,
+      "name": "Hungry Eyes - From \"Dirty Dancing\" Soundtrack",
+      "url": "https://open.spotify.com/track/31H6au3jhblhr6MMJiXnCq"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -779,6 +779,22 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 239426,
+      "name": "Abr\u00e1zame Muy Fuerte",
+      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -799,18 +815,18 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "Abr\u00e1zame Muy Fuerte",
-        "url": "https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU"
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
         }
       ],
-      "duration_ms": 239426,
-      "name": "Abr\u00e1zame Muy Fuerte",
-      "url": "https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J"
+      "duration_ms": 273666,
+      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
+      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -863,22 +879,6 @@
       "duration_ms": 240760,
       "name": "I'll Stand by You",
       "url": "https://open.spotify.com/track/3Nf8oGn1okobzjDcFCvT6n"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 273666,
-      "name": "Because You Loved Me (Theme from \"Up Close and Personal\")",
-      "url": "https://open.spotify.com/track/28UMiBhn383n9S7GL4tsxD"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -979,6 +979,38 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
+        "name": "The Colour Of My Love",
+        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 342400,
+      "name": "The Power of Love",
+      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
+        "name": "I Do Not Want What I Haven't Got",
+        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
+      },
+      "artists": [
+        {
+          "name": "Sin\u00e9ad O'Connor",
+          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
+        }
+      ],
+      "duration_ms": 280040,
+      "name": "Nothing Compares 2 U",
+      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
         "name": "ADMV",
         "url": "https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa"
       },
@@ -1011,38 +1043,6 @@
       "duration_ms": 281066,
       "name": "I'll Never Love Again - Film Version",
       "url": "https://open.spotify.com/track/4A7EkKijzA4ryEoCRWJzdG"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "I Do Not Want What I Haven't Got",
-        "url": "https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01"
-      },
-      "artists": [
-        {
-          "name": "Sin\u00e9ad O'Connor",
-          "url": "https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Nothing Compares 2 U",
-      "url": "https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Colour Of My Love",
-        "url": "https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 342400,
-      "name": "The Power of Love",
-      "url": "https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -1291,6 +1291,26 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "added_at": "2022-07-21 04:00:00",
+      "album": {
         "name": "Prisma",
         "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
@@ -1319,26 +1339,6 @@
       "duration_ms": 237026,
       "name": "Rosas",
       "url": "https://open.spotify.com/track/06p2Ij0lXD45LODQDCov0u"
-    },
-    {
-      "added_at": "2022-07-21 04:00:00",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
-      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
     },
     {
       "added_at": "2022-07-21 04:00:00",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2022-07-21 04:00:00",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+        "name": "Prisma",
+        "url": "https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq"
       },
       "artists": [
         {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+          "name": "Beret",
+          "url": "https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl"
         }
       ],
-      "duration_ms": 267720,
-      "name": "C\u00f3mo Quieres Que Te Quiera",
-      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
+      "duration_ms": 194986,
+      "name": "Te echo de menos",
+      "url": "https://open.spotify.com/track/1YgPkZ6GOwajDveEsuy3uH"
     }
   ],
   "unique_name": "Las 100 mejores baladas",

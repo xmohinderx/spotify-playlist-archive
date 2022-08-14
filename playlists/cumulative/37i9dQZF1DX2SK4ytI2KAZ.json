@@ -4690,6 +4690,24 @@
     },
     {
       "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "album": {
         "name": "Pretty Lady",
         "url": "https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4"
       },
@@ -6195,7 +6213,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 232306,
       "name": "The Outfield",
       "url": "https://open.spotify.com/track/0H188Mi13wkwwwUvczPdmC"

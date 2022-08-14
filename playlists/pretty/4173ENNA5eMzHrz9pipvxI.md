@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 
 > New and trending dance hits released by Spinnin' Records and its sublabels\. For more new Dance, click <a href="https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244">here</a>\. Cover: David Guetta x Benny Benassi
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,106 likes - 31 songs - 1 hr 31 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 119,118 likes - 31 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/4173ENNA5eMzHrz9pipvxI.md) - [plain]
 | 22 | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/track/624KQ6MFOrY8q1EOH6YGzf) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Modern Lover](https://open.spotify.com/artist/04mRnX3dfLtv3ZT9kPay35) | [In & Out \(feat\. Modern Lover\)](https://open.spotify.com/album/1zcftBmZHr5Xczlc361Eza) | 3:47 |
 | 23 | [The Void](https://open.spotify.com/track/6xjtSlGoSQBsZqdpjU5Alm) | [NIVIRO](https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T) | [The Void](https://open.spotify.com/album/3HH5h3BAgDYvaHz2B8obK5) | 4:44 |
 | 24 | [Fall In](https://open.spotify.com/track/4BMM6ux5A0zOeomyNNjZbW) | [Labi Ramaj](https://open.spotify.com/artist/7a57CoJL3sui202CC2kdUB), [BASTL](https://open.spotify.com/artist/2QYmb5VU9IPtOC7gs9esJB) | [Fall In](https://open.spotify.com/album/4t5C0gJwv2hI2NJapXU3nL) | 2:30 |
-| 25 | [Where's You Head At \(Kill It With Fire Mix\)](https://open.spotify.com/track/0twhYzaZLrf4nWRnjgL2sb) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Where's You Head At \(Kill It With Fire Mix\)](https://open.spotify.com/album/5gf686Ticu379hN8ryHU3S) | 2:05 |
+| 25 | [Where's Your Head At \(Kill It With Fire Mix\)](https://open.spotify.com/track/0twhYzaZLrf4nWRnjgL2sb) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Where's Your Head At \(Kill It With Fire Mix\)](https://open.spotify.com/album/5gf686Ticu379hN8ryHU3S) | 2:05 |
 | 26 | [Drop That Low \(Tujamo's Secret Weapon 2022\)](https://open.spotify.com/track/0AukI6rH3HqIbVcKX8FjNk) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh) | [Drop That Low \(Tujamo's Secret Weapon 2022\)](https://open.spotify.com/album/4bvUT08Dt2vWm9vwds2a4z) | 3:04 |
 | 27 | [Back Room](https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO) | [Back Room](https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl) | 2:50 |
 | 28 | [Move Your Body \- le Shuuk & TESFY Remix](https://open.spotify.com/track/4uqIHnVCPKLCrvn1w8pIV1) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [Sevek](https://open.spotify.com/artist/0aOIluXr131XqrXFwFCFGT), [le Shuuk](https://open.spotify.com/artist/7bH17jyjkwMPMh9AS8EH0u), [TESFY](https://open.spotify.com/artist/2ElvCuSMCZ357wrmbDvz2C) | [Move Your Body \(le Shuuk & TESFY Remix\)](https://open.spotify.com/album/012gPYyNfWdQQpm6LP3S7M) | 2:34 |

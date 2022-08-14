@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Black Skirt\(검정치마\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,342 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,575 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,32 +31,32 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 21 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 |
 | 22 | [Koh](https://open.spotify.com/track/17U7z9PG0iOa7YfR5pzZ6m) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Koh](https://open.spotify.com/album/6W50Ympy4qBEahumF57RyF) | 4:59 |
 | 23 | [Hey kid, Close your eyes \(with Lee Sun Hee\)](https://open.spotify.com/track/4Cgct9Vlype9cYZFW2wSnk) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv), [Lee Sun Hee](https://open.spotify.com/artist/4ZQVfuvon3XnGYkjTSey1O) | [NEXT EPISODE](https://open.spotify.com/album/0Pt0eGpyNO5dDN8PORypSy) | 3:53 |
-| 24 | [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
-| 25 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 |
+| 24 | [Winter 눈](https://open.spotify.com/track/4YVA21Db1AbASkjpXRhykz) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [Nonadaptation 비적응](https://open.spotify.com/album/2mZUejhzFxhZu2Zd5XV3kX) | 3:52 |
+| 25 | [Tree](https://open.spotify.com/track/30tYWTkLIQtZWnRIOqcHnJ) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Tree](https://open.spotify.com/album/5MuQTjOeSApez8vNGb94Ur) | 3:52 |
 | 26 | [Leo \(feat\. BAEKHYUN\)](https://open.spotify.com/track/0kvtiq8qll4OTfDXvrkXEF) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl), [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Puberty BookⅡ Pum](https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp) | 3:08 |
 | 27 | [The night we parted](https://open.spotify.com/track/7sCOwMK98Bc3f6hFS0jgkM) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [The night we parted](https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD) | 3:49 |
 | 28 | [No One Told Me Why](https://open.spotify.com/track/1z9iPDRjp1fZUoisaJiTcA) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [1](https://open.spotify.com/album/4IBGLlaW7yGfCRCrHj03Vx) | 3:43 |
 | 29 | [Rawww](https://open.spotify.com/track/1yHU5jp5oLtqxZAiv66L0K) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Rawww](https://open.spotify.com/album/6AMfVr8DNJgkzouRB6qPem) | 2:40 |
 | 30 | [3108](https://open.spotify.com/track/4Pty5kAaFSjQk2a5cLLpqK) | [Ha Hyunsang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [3108](https://open.spotify.com/album/4km6abn4iGxsbDnxuvFMrw) | 2:58 |
-| 31 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
-| 32 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 |
+| 31 | [A Long Dream](https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR) | [SE SO NEON](https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl) | [A Long Dream](https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy) | 4:18 |
+| 32 | [We Sink](https://open.spotify.com/track/5AADyLlMNyHMpUK901UB65) | [SWAY](https://open.spotify.com/artist/4G7fNrdlWLlzoaYqdZHale) | [My Liberation Notes OST Part 6](https://open.spotify.com/album/4ITq7ZmrmIRsvfGtpZKnj8) | 3:26 |
 | 33 | [Hate Everything \- Korean Version](https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Hate Everything](https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R) | 3:25 |
 | 34 | [Don't be sad](https://open.spotify.com/track/1f26mzPoBLP8OO67XDmwv8) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Don't be sad](https://open.spotify.com/album/0U6NOQI9uIsK68H84Kvomc) | 3:30 |
 | 35 | [For the gone\(with ELLE KOREA\)](https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [CHOI JUNG HOON of JANNABI](https://open.spotify.com/artist/5Fa7oN67rqbrgxbRVux7F4), [Simon Dominic](https://open.spotify.com/artist/57W9ikVc6O2wLDtmclSjvN) | [RECONNECT](https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC) | 4:03 |
 | 36 | [naps!](https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw) | [1415](https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA), [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [naps!](https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq) | 3:25 |
 | 37 | [GRIPPIN’THEGREEN](https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk) | [JANNABI](https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS) | [Jannabi’s small pieces ll : GRIPPIN’THEGREEN](https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt) | 3:24 |
 | 38 | [Youth](https://open.spotify.com/track/3WGd1zqLLAWUqPCEVTskT3) | [Dasutt](https://open.spotify.com/artist/3txAiGYUmI4p84stqOoi1s) | [YOUTH](https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE) | 6:01 |
-| 39 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
-| 40 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
-| 41 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 |
-| 42 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [GON JO](https://open.spotify.com/artist/613hMXfJTCI4y3HKdWiLvC) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 |
+| 39 | [Old Notes](https://open.spotify.com/track/0m8MHpjuKKNvT19rvjHWAX) | [GON JO](https://open.spotify.com/artist/613hMXfJTCI4y3HKdWiLvC) | [Old Notes](https://open.spotify.com/album/6T7cyfKQunGFzVKy3nhiGl) | 3:26 |
+| 40 | [in the bed](https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [in the bed](https://open.spotify.com/album/2CtElDOpo2hSKXWVpf0qBj) | 4:25 |
+| 41 | [Closely Far Away](https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [Closely Far Away](https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC) | 3:14 |
+| 42 | [lost](https://open.spotify.com/track/26niEovvgyaq9po2KubsJI) | [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [lost](https://open.spotify.com/album/131Eo9LOhFcv05gClAIpCT) | 4:34 |
 | 43 | [RAL 9002](https://open.spotify.com/track/1XyMBACv8WJzmnAobpgXiW) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [RAL 9002](https://open.spotify.com/album/5GSpWXgjEc3r0rMcS8yrmY) | 3:09 |
-| 44 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
-| 45 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 |
-| 46 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
-| 47 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
-| 48 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
+| 44 | [Lustre](https://open.spotify.com/track/00VsYilvyHRZlTrBopBnCC) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Esprit](https://open.spotify.com/album/61zYPYowUBeJGIqsmu6QBt) | 3:34 |
+| 45 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 |
+| 46 | [Clouds](https://open.spotify.com/track/5EkkdLlRAuzjjA8oT6FN7b) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Clouds](https://open.spotify.com/album/7kV4H8b2CEGLjjF66UUp6J) | 3:12 |
+| 47 | [Cactus](https://open.spotify.com/track/6iLgcK64cgkctviVp6ne9i) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Cactus](https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI) | 3:34 |
+| 48 | [New Plant](https://open.spotify.com/track/79jgzziAIoymcQp3n2GL1M) | [The Volunteers](https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1) | [New Plant](https://open.spotify.com/album/4x0sRy7NHBE1uEy8hiVKy3) | 5:02 |
 | 49 | [Do You Think Of Me?](https://open.spotify.com/track/3rE5YYh8azn8WwtRToLYuh) | [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Do You Think Of Me? \(4.4\)](https://open.spotify.com/album/3w43kNVamjK9eqQ2BJdB7V) | 3:16 |
 | 50 | [Let's Meet In Spring](https://open.spotify.com/track/7e1IpTKqOMw1cstbBic8qs) | [Han All](https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS) | [Again, Spring Days](https://open.spotify.com/album/2PnFurbn4SKEMu9OUk2VUL) | 3:46 |
 
-Snapshot ID: `MTY2MDMyOTAzMywwMDAwMDAwMDdkMzMyYzhlMmZmMjA5MmYwNWJjNTFhMmIxZTg1ZjM3`
+Snapshot ID: `MTY2MDMyOTAzMywwMDAwMDAwMGIyMmVlN2Q3MjJiYmQzYjZhNmMzZGU2NTQ3MGQxNDVm`

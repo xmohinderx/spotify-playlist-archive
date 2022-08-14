@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-112 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
+113 songs - 5 hr 40 min - [published](https://open.spotify.com/playlist/0GSyIlhN75utulsjStUTdu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [Air in the Morning](https://open.spotify.com/track/265Gf3408oAX2bGYUYf7i9) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/2lzp3FhFFbp33LZGFwzdFK) | 3:04 | 2022-07-05 | 2022-07-29 |
 | [Air in the Morning](https://open.spotify.com/track/7GIEVoZu1C74OdyAPbg9hU) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Air in the Morning](https://open.spotify.com/album/6g2GVf0zN2aESjaVDsI9hF) | 3:04 | 2022-07-19 |  |
 | [Alaska](https://open.spotify.com/track/4PW8tiBzQcEutmPndIZagA) | [Scandinavian Nights](https://open.spotify.com/artist/4UrhClOtVbcbsiCZYDMoWL) | [Quiet Hours](https://open.spotify.com/album/45anDTXW4ebJ5bkVNxEh7v) | 3:07 | 2022-07-19 | 2022-07-23 |
-| [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 | 2022-07-19 |  |
+| [Among the Clouds](https://open.spotify.com/track/42qLkry21o8EbfaplIw0rR) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/1TFakvYLpxWVYHXCAJb0Mh) | 2:53 | 2022-07-19 | 2022-08-14 |
 | [Among the Clouds](https://open.spotify.com/track/7KWzzOj2W7ZwkGYJAgX17D) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Among the Clouds](https://open.spotify.com/album/5YRaeJVtFyjdqNmFSqjoOm) | 2:53 | 2022-07-19 | 2022-07-29 |
 | [Amoralis](https://open.spotify.com/track/23MYtqj4lVBxHhb9kxMpfJ) | [Dreamcloud Haze](https://open.spotify.com/artist/57GF408b4kntpAncwk2bZR) | [Amoralis](https://open.spotify.com/album/6PXlEiJLcezQegncKUlDuL) | 3:31 | 2022-07-19 | 2022-07-26 |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2022-07-05 |  |
@@ -26,6 +26,7 @@
 | [Calm Waves](https://open.spotify.com/track/46pzk2tSufIR5xYB0VvPVW) | [Halcyon Shores](https://open.spotify.com/artist/0vf94ACHW9kaimSHQKCSwl) | [Calm Waves](https://open.spotify.com/album/7FtzJPkuvDEb1yWqRhVtce) | 2:46 | 2022-07-05 | 2022-07-28 |
 | [Capella](https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR) | 2:37 | 2022-07-05 | 2022-07-29 |
 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 | 2022-07-19 |  |
+| [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
 | [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 | 2022-07-29 |
 | [darker area](https://open.spotify.com/track/5zIMS6F6nMXAl4Jt1xu39L) | [Fluvis](https://open.spotify.com/artist/7bQwDNMLfpbXVUyUxfN7XX) | [darker area](https://open.spotify.com/album/2BsZnscrvvgIvlqHWyCjf7) | 3:38 | 2022-08-05 |  |
 | [Deep Blue](https://open.spotify.com/track/1GkUaCQLQYxCEV7z4cITTT) | [Nimbus Skies](https://open.spotify.com/artist/6BdApnIAy6D0nQQs1PjzSB) | [Deep Blue](https://open.spotify.com/album/1CuxpTAaorXnbmN1xkLCTg) | 3:04 | 2022-07-05 | 2022-07-29 |

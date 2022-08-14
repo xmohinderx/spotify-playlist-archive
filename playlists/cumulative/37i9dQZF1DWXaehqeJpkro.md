@@ -4,7 +4,7 @@
 
 > Fancy belting out your favourite Korean songs? \(Cover: Kim Min Seok\(김민석\)\) \(지금 노래방에서 가장 핫한 노래들을 만나보세요!\)
 
-232 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
+233 songs - 15 hr 14 min - [published](https://open.spotify.com/playlist/6P4RKNAmjGjcVbVihp09Om)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [Half](https://open.spotify.com/track/4DPu6D0yKDUJoXKzE26EJv) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [Half](https://open.spotify.com/album/3QvNW4EYbYVibicMTojB4j) | 4:04 | 2022-02-23 |  |
 | [Half](https://open.spotify.com/track/2dYy6s3WvuFFXTrkSmBaAQ) | [Jin Minho](https://open.spotify.com/artist/32nBx6aSKfWVXWTl5pLneY) | [Half](https://open.spotify.com/album/3eHZdjYwXbs37Irw06FG3v) | 4:04 | 2022-02-17 | 2022-07-29 |
 | [HAPPEN](https://open.spotify.com/track/1MtCOuTy3B6fU72LQPvg16) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 3:13 | 2022-02-17 |  |
-| [Happy](https://open.spotify.com/track/46DptioHrTOMaoRVQWzwVa) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ) | 4:12 | 2022-02-17 |  |
+| [Happy](https://open.spotify.com/track/3xjiKevynUuilZRUaBfQye) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/54NpbHDAJ6dRu46WYZxDJq) | 4:12 | 2022-02-23 |  |
+| [Happy](https://open.spotify.com/track/46DptioHrTOMaoRVQWzwVa) | [Ha Yea Song](https://open.spotify.com/artist/4Kw6Puq72YDjXvVBrBkdw3) | [Happy](https://open.spotify.com/album/7cChgZm0N8RzpywTsZgwSJ) | 4:12 | 2022-02-17 | 2022-08-14 |
 | [Hello](https://open.spotify.com/track/0SOnbGVEf5q0YqL0FO2qu0) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [LIKE 1st MINI ALBUM “First Story”](https://open.spotify.com/album/6CPFjcggq3c0YHNEhzRjWC) | 4:11 | 2022-02-17 |  |
 | [Horangsuwolga](https://open.spotify.com/track/7Bvb0ZuJCoIHq6mBEAna2U) | [Tophyun](https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR) | [Horangsuwolga](https://open.spotify.com/album/2SHDI5kw0PG739B62GJDGX) | 4:41 | 2022-02-17 |  |
 | [Hug Me](https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Lo9ve3r4s](https://open.spotify.com/album/3KNUfrK6zYLoZ0X4LUj3wy) | 4:34 | 2022-02-17 |  |

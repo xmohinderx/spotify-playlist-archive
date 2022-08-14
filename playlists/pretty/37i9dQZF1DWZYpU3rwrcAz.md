@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 
 > Relaxing piano works by Chopin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,116 likes - 42 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,184 likes - 42 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYpU3rwrcAz.md) - [plain]
 | 28 | [Deux Nocturnes, Op\. 62: 2\. Nocturne In E \(Lento\)](https://open.spotify.com/track/14PfaAkLKxAUs7GTwdN96v) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Rafał Blechacz](https://open.spotify.com/artist/4SbPzV12NmiqoWBMCvtP3X) | [Chopin: Préludes](https://open.spotify.com/album/7LA1cCKvKIPt4koVHjJzU6) | 5:39 |
 | 29 | [Ballade No\. 3 in A Flat Major, Op\. 47](https://open.spotify.com/track/6J1aj3bVh1cEgMniGSGRGZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Chopin \- Winter Vibes](https://open.spotify.com/album/7nGjRnha8kq63mnUGQx9sj) | 7:49 |
 | 30 | [Four Mazurkas, Op\. 41: II\. Andantino](https://open.spotify.com/track/6DtkdC9g7j5nprKIYwSVxx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Katia Bronska](https://open.spotify.com/artist/7uHYhThJnXYNiFa3dCXwyj) | [Schumann: Kinderszenen; Papillons / Chopin: Nocturne Op\. 55 No\. 2; Mazurka Op\. 41 No\. 1](https://open.spotify.com/album/7aOPPHgnzLnKguHCEZQKsL) | 3:35 |
-| 31 | [Nocturne No.8 In D Flat, Op.27 No.2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |
+| 31 | [Nocturne No\. 8 In D Flat, Op\. 27 No\. 2 \- Live](https://open.spotify.com/track/585DlWLG4WtBbmCWXkiOlF) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Chopin Gold](https://open.spotify.com/album/25zJUmKQ80G1phTiXe8Tif) | 6:13 |
 | 32 | [Ballade No\. 2 en fa majeur, Op\. 38](https://open.spotify.com/track/2aKH74H4YPx8NSITKmrk9X) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Janina Fialkowska](https://open.spotify.com/artist/651mTvdpGkaQRBZGCzkZ32) | [Chopin Recital 2](https://open.spotify.com/album/5CbpsTOhs4TjtDbzUXUwqw) | 6:59 |
 | 33 | [12 Etudes, Op\. 10: No\. 3 in E Major "Tristesse"](https://open.spotify.com/track/28CUaWYIWxoeMl4eDvWzD7) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Tamás Vásáry](https://open.spotify.com/artist/4ylqqqUMfc5TdqwoLuq6he) | [Chopin: Piano Works](https://open.spotify.com/album/5nO4aw811eh3KVZYk5sYBA) | 4:02 |
 | 34 | [Chopin: Nocturne No\. 16 in E\-Flat Major, Op\. 55 No\. 2](https://open.spotify.com/track/78eHNe9UocsHmcgAyTxixZ) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Elisabeth Leonskaja](https://open.spotify.com/artist/3i67VvAwUlOKZa3fc75zs8) | [Chopin: Nocturnes \[Complete\]](https://open.spotify.com/album/3Ja7LrUEADfJfYE6nzPfNb) | 6:33 |

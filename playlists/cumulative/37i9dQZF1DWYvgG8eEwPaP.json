@@ -248,6 +248,24 @@
     },
     {
       "album": {
+        "name": "Hey Soniye",
+        "url": "https://open.spotify.com/album/5A7GfTsFQTO3yiOeJUC9HP"
+      },
+      "artists": [
+        {
+          "name": "Silinder Pardesi",
+          "url": "https://open.spotify.com/artist/7DAQ0MYm1LQ00GbF7OrtZO"
+        }
+      ],
+      "date_added": "2019-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259972,
+      "name": "Bulley Shah - Unplugged",
+      "url": "https://open.spotify.com/track/4BlL9VYXAYuXc1vNpz6Dc6"
+    },
+    {
+      "album": {
         "name": "Chaa Da Cup",
         "url": "https://open.spotify.com/album/7JHWNvdpjjjLVYFu0GyOWp"
       },

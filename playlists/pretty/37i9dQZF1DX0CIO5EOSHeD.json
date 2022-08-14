@@ -1,12 +1,12 @@
 {
   "description": "Slacker jams. Cover: Frankie Cosmos",
-  "num_followers": null,
+  "num_followers": 347432,
   "original_name": "Lo-fi Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY5NjY1NywwMDAwMDAwMDJhNDAyOWY0NTg5Y2IzMTA4MjE1NGU3NzBmYmI1MTM3",
+  "snapshot_id": "MTY1OTY5NjY1NywwMDAwMDAwMDIxNjFmOTRmZGNlMTcxODMzNTRiZTdmYWRiZWYxZWJh",
   "tracks": [
     {
       "added_at": "2022-08-05 10:50:57",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "The Way He Looks",
-        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
-      },
-      "artists": [
-        {
-          "name": "carpetgarden",
-          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Beautiful Mind",
-      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 249968,
       "name": "Forever",
       "url": "https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "The Way He Looks",
+        "url": "https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ"
+      },
+      "artists": [
+        {
+          "name": "carpetgarden",
+          "url": "https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Beautiful Mind",
+      "url": "https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Buzzkill Bummer",
-        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
-      },
-      "artists": [
-        {
-          "name": "Vanillaroma",
-          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
-        }
-      ],
-      "duration_ms": 182250,
-      "name": "Buzzkill Bummer",
-      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Me Oh My Mirror",
         "url": "https://open.spotify.com/album/4FIEhoPQZpjjSS6japEfDx"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 223186,
       "name": "Desire",
       "url": "https://open.spotify.com/track/2CgjSLZmBqcJZyefZSDFQ3"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Buzzkill Bummer",
+        "url": "https://open.spotify.com/album/2TsdVKTcu9dzDb2SeZHMjd"
+      },
+      "artists": [
+        {
+          "name": "Vanillaroma",
+          "url": "https://open.spotify.com/artist/3tTYiqgqmGlr2tfujTR7P7"
+        }
+      ],
+      "duration_ms": 182250,
+      "name": "Buzzkill Bummer",
+      "url": "https://open.spotify.com/track/5pLN9j3IQF63Dx4J5OT53p"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Into",
-        "url": "https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f"
-      },
-      "artists": [
-        {
-          "name": "CASTLEBEAT",
-          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
-        }
-      ],
-      "duration_ms": 239343,
-      "name": "Into",
-      "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "3:45/buslane",
         "url": "https://open.spotify.com/album/4BM0zawOq1iJ5zgjfst8NQ"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 128530,
       "name": "3:45/buslane",
       "url": "https://open.spotify.com/track/5bvnL42xbgE6GE1Sqc8DcG"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Into",
+        "url": "https://open.spotify.com/album/22Ta1z6nV13bCOXLQpdY6f"
+      },
+      "artists": [
+        {
+          "name": "CASTLEBEAT",
+          "url": "https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3"
+        }
+      ],
+      "duration_ms": 239343,
+      "name": "Into",
+      "url": "https://open.spotify.com/track/5O408HCYe3tXhyLf5JMjhJ"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
+        "name": "Double Superfine",
+        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
+      },
+      "artists": [
+        {
+          "name": "Wabie",
+          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+        }
+      ],
+      "duration_ms": 204564,
+      "name": "Darcy",
+      "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
         "name": "a single butterfly floating in the breeze",
         "url": "https://open.spotify.com/album/7dZbPztaaasraH6mKHgI6j"
       },
@@ -1191,18 +1207,18 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Double Superfine",
-        "url": "https://open.spotify.com/album/7pnJsCH9fM52wRJ9qWOqUr"
+        "name": "heat waves - lofi version",
+        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
       },
       "artists": [
         {
-          "name": "Wabie",
-          "url": "https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE"
+          "name": "omgkirby",
+          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
         }
       ],
-      "duration_ms": 204564,
-      "name": "Darcy",
-      "url": "https://open.spotify.com/track/4QJpOq2ztDLrdwdNtjoEf3"
+      "duration_ms": 96363,
+      "name": "heat waves - lofi version",
+      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1219,22 +1235,6 @@
       "duration_ms": 127085,
       "name": "Ways to Go",
       "url": "https://open.spotify.com/track/3AgXxc21ikmEhPZT3dcoQE"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
-        "name": "heat waves - lofi version",
-        "url": "https://open.spotify.com/album/0kTHkh9uiuQQg4I3dnoy82"
-      },
-      "artists": [
-        {
-          "name": "omgkirby",
-          "url": "https://open.spotify.com/artist/6LlLRudDi60Uy4jcmOSEs1"
-        }
-      ],
-      "duration_ms": 96363,
-      "name": "heat waves - lofi version",
-      "url": "https://open.spotify.com/track/5t0Dbc52fLBCsMTIXMYGo8"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
+        "name": "California Screaming",
+        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
+      },
+      "artists": [
+        {
+          "name": "Liz Lawrence",
+          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "California Screaming",
+      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
         "name": "Ways To Get Out",
         "url": "https://open.spotify.com/album/54oELqxteSoJx5I6bqQ3vI"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 243666,
       "name": "Pretend",
       "url": "https://open.spotify.com/track/5lU710034s09PYystM8YFH"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
-        "name": "California Screaming",
-        "url": "https://open.spotify.com/album/61Xno5oEO3TchKwEpmYyvw"
-      },
-      "artists": [
-        {
-          "name": "Liz Lawrence",
-          "url": "https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "California Screaming",
-      "url": "https://open.spotify.com/track/7aoQKm7L9RGg5VxYitUkEG"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1455,6 +1455,26 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
+        "name": "Warning Sign (Alt Version)",
+        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        },
+        {
+          "name": "SOMOH",
+          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
+        }
+      ],
+      "duration_ms": 179669,
+      "name": "Warning Sign - Alt Version",
+      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
         "name": "Dreams of Losing Teeth",
         "url": "https://open.spotify.com/album/6wdNsB7Bwk1bk3TAPdRk1w"
       },
@@ -1483,26 +1503,6 @@
       "duration_ms": 221333,
       "name": "blood on the pavement",
       "url": "https://open.spotify.com/track/7wZ3k0Ii8P1j0MOi595RMf"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
-        "name": "Warning Sign (Alt Version)",
-        "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        },
-        {
-          "name": "SOMOH",
-          "url": "https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3"
-        }
-      ],
-      "duration_ms": 179669,
-      "name": "Warning Sign - Alt Version",
-      "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
     },
     {
       "added_at": "2022-08-05 10:50:57",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-05 10:50:57",
       "album": {
-        "name": "Attempt",
-        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Attempt",
-      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
-    },
-    {
-      "added_at": "2022-08-05 10:50:57",
-      "album": {
         "name": "Fun Times",
         "url": "https://open.spotify.com/album/4L5kYzcAbu4AcXoUL4FRPg"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 194634,
       "name": "Summer Something",
       "url": "https://open.spotify.com/track/6ysAK8JrtZE9TmgBZs3A60"
+    },
+    {
+      "added_at": "2022-08-05 10:50:57",
+      "album": {
+        "name": "Attempt",
+        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Attempt",
+      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
     },
     {
       "added_at": "2022-08-05 10:50:57",

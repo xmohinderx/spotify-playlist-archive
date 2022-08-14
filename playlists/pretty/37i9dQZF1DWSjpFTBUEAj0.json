@@ -1,12 +1,12 @@
 {
   "description": "A total apocalypse of the heart. ",
-  "num_followers": 33158,
+  "num_followers": 33218,
   "original_name": "Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMGU2NWIyNmU1YzkxMmExNDg3MmEyZjg2MjM3NmQ1NDM1",
+  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMDJiODVmOTdlNTUwYjk5ZDExY2Q5NzA3NTc5NmYxNTg5",
   "tracks": [
     {
       "added_at": "2022-07-29 14:45:27",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "The Drought",
-        "url": "https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG"
-      },
-      "artists": [
-        {
-          "name": "Puce Mary",
-          "url": "https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6"
-        }
-      ],
-      "duration_ms": 404391,
-      "name": "A Feast Before The Drought",
-      "url": "https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Quarter Turns over a Living Line",
         "url": "https://open.spotify.com/album/7C5ER3q2bZF6ZH3nVkhQwg"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 270260,
       "name": "Passed over Trail",
       "url": "https://open.spotify.com/track/4IsZMk8X6etGsQB9fFB2U9"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "The Drought",
+        "url": "https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG"
+      },
+      "artists": [
+        {
+          "name": "Puce Mary",
+          "url": "https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6"
+        }
+      ],
+      "duration_ms": 404391,
+      "name": "A Feast Before The Drought",
+      "url": "https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Cast Of Mind",
-        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
-      },
-      "artists": [
-        {
-          "name": "Kali Malone",
-          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
-        }
-      ],
-      "duration_ms": 382123,
-      "name": "Arched In Hysteria",
-      "url": "https://open.spotify.com/track/2TVmag61FIpAZxbcDXAD5t"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Shadow World",
         "url": "https://open.spotify.com/album/5up3gB9o2uomnSrZ6xqSgo"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 263160,
       "name": "Wings",
       "url": "https://open.spotify.com/track/4kBI9DGHmIVFlpLDWCvkyi"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Cast Of Mind",
+        "url": "https://open.spotify.com/album/69Aca3wRKDDt6kgfNvPoHN"
+      },
+      "artists": [
+        {
+          "name": "Kali Malone",
+          "url": "https://open.spotify.com/artist/1I0rODlh5K9pW3JhEla2H9"
+        }
+      ],
+      "duration_ms": 382123,
+      "name": "Arched In Hysteria",
+      "url": "https://open.spotify.com/track/2TVmag61FIpAZxbcDXAD5t"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Killed by Roses",
-        "url": "https://open.spotify.com/album/77c0jZPRC5t1QDV2teJNvZ"
-      },
-      "artists": [
-        {
-          "name": "NAKED",
-          "url": "https://open.spotify.com/artist/0OR4I3v3TT7vYvNXfbgeJW"
-        }
-      ],
-      "duration_ms": 175108,
-      "name": "Autosadism",
-      "url": "https://open.spotify.com/track/3CPgAIzWHn5DtziwBzK761"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "AGNUS DEI",
         "url": "https://open.spotify.com/album/5gci11K4fG49oc35JPHKmz"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 230341,
       "name": "WHERE'ER YOU WALK",
       "url": "https://open.spotify.com/track/3YHAXm7tnqQ4kgvweT8JJ2"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Killed by Roses",
+        "url": "https://open.spotify.com/album/77c0jZPRC5t1QDV2teJNvZ"
+      },
+      "artists": [
+        {
+          "name": "NAKED",
+          "url": "https://open.spotify.com/artist/0OR4I3v3TT7vYvNXfbgeJW"
+        }
+      ],
+      "duration_ms": 175108,
+      "name": "Autosadism",
+      "url": "https://open.spotify.com/track/3CPgAIzWHn5DtziwBzK761"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "No era s\u00f3lida",
-        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
-      },
-      "artists": [
-        {
-          "name": "Lucrecia Dalt",
-          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
-        }
-      ],
-      "duration_ms": 204306,
-      "name": "Coatlicue S.",
-      "url": "https://open.spotify.com/track/55ugyo8XEiblazjzi4d7Om"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Permanest",
         "url": "https://open.spotify.com/album/73MXFAuug7MDjBPpt6yAhe"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 278769,
       "name": "Not So Scared",
       "url": "https://open.spotify.com/track/6Q6zKnazwS6eaO4ORqIUAf"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "No era s\u00f3lida",
+        "url": "https://open.spotify.com/album/0yUaUPdT2DcX9f24f61T3u"
+      },
+      "artists": [
+        {
+          "name": "Lucrecia Dalt",
+          "url": "https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9"
+        }
+      ],
+      "duration_ms": 204306,
+      "name": "Coatlicue S.",
+      "url": "https://open.spotify.com/track/55ugyo8XEiblazjzi4d7Om"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
+        "name": "A Buried River",
+        "url": "https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv"
+      },
+      "artists": [
+        {
+          "name": "Leo",
+          "url": "https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "death is quite clearly not what it used to be",
+      "url": "https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
         "name": "Lucy & Aaron",
         "url": "https://open.spotify.com/album/0LcvLhp0X1prpE872gcCBA"
       },
@@ -599,18 +615,18 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "A Buried River",
-        "url": "https://open.spotify.com/album/7ydgRPQagOtlw8J2rQ6pZv"
+        "name": "Illinois, Vol. 1",
+        "url": "https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh"
       },
       "artists": [
         {
-          "name": "Leo",
-          "url": "https://open.spotify.com/artist/3pFmVHsgu8MAibAs0sEhDL"
+          "name": "RK7",
+          "url": "https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6"
         }
       ],
-      "duration_ms": 211343,
-      "name": "death is quite clearly not what it used to be",
-      "url": "https://open.spotify.com/track/2albu8zg4QRCnaLoUDbvlM"
+      "duration_ms": 89448,
+      "name": "Bureau",
+      "url": "https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -635,18 +651,22 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Illinois, Vol. 1",
-        "url": "https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh"
+        "name": "Strangers",
+        "url": "https://open.spotify.com/album/783flv2FHsliDX36JbbmD3"
       },
       "artists": [
         {
-          "name": "RK7",
-          "url": "https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6"
+          "name": "Kane Ikin",
+          "url": "https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4"
+        },
+        {
+          "name": "David Wenngren",
+          "url": "https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp"
         }
       ],
-      "duration_ms": 89448,
-      "name": "Bureau",
-      "url": "https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4"
+      "duration_ms": 481186,
+      "name": "Swell",
+      "url": "https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -663,22 +683,6 @@
       "duration_ms": 341421,
       "name": "Para",
       "url": "https://open.spotify.com/track/3kEcokUxa1y9SNOCKROuar"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
-        "name": "Wanton Witch LP",
-        "url": "https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA"
-      },
-      "artists": [
-        {
-          "name": "Wanton Witch",
-          "url": "https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g"
-        }
-      ],
-      "duration_ms": 276479,
-      "name": "Walking on Moirai",
-      "url": "https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -707,22 +711,18 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Strangers",
-        "url": "https://open.spotify.com/album/783flv2FHsliDX36JbbmD3"
+        "name": "Wanton Witch LP",
+        "url": "https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA"
       },
       "artists": [
         {
-          "name": "Kane Ikin",
-          "url": "https://open.spotify.com/artist/6cTJBOnAwPbGsoni23VAu4"
-        },
-        {
-          "name": "David Wenngren",
-          "url": "https://open.spotify.com/artist/5WDrO7XZNPb8krZgftfkpp"
+          "name": "Wanton Witch",
+          "url": "https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g"
         }
       ],
-      "duration_ms": 481186,
-      "name": "Swell",
-      "url": "https://open.spotify.com/track/3vDCKdMRhIFjHogNngE6TW"
+      "duration_ms": 276479,
+      "name": "Walking on Moirai",
+      "url": "https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -739,6 +739,38 @@
       "duration_ms": 151351,
       "name": "Scarred",
       "url": "https://open.spotify.com/track/1FDhKdUxKpwM92vTiWSz9d"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "PURGE",
+        "url": "https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft"
+      },
+      "artists": [
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 168326,
+      "name": "Drum Fife Bugle",
+      "url": "https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
+        "name": "Floodwaters",
+        "url": "https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF"
+      },
+      "artists": [
+        {
+          "name": "Rites of Fall",
+          "url": "https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So"
+        }
+      ],
+      "duration_ms": 633962,
+      "name": "Floodwaters",
+      "url": "https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -763,22 +795,6 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "Floodwaters",
-        "url": "https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF"
-      },
-      "artists": [
-        {
-          "name": "Rites of Fall",
-          "url": "https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So"
-        }
-      ],
-      "duration_ms": 633962,
-      "name": "Floodwaters",
-      "url": "https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
         "name": "Final Head (No.31)",
         "url": "https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 318642,
       "name": "Final Head (No.31)",
       "url": "https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
-        "name": "PURGE",
-        "url": "https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft"
-      },
-      "artists": [
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
-        }
-      ],
-      "duration_ms": 168326,
-      "name": "Drum Fife Bugle",
-      "url": "https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW"
     },
     {
       "added_at": "2022-07-29 14:45:27",
@@ -847,18 +847,18 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
-        "name": "In Heaven",
-        "url": "https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm"
+        "name": "The Last Wave",
+        "url": "https://open.spotify.com/album/1jJJZAPY8Ax5X1C6vCpuNo"
       },
       "artists": [
         {
-          "name": "Hilary Woods",
-          "url": "https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749"
+          "name": "Ibukun Sunday",
+          "url": "https://open.spotify.com/artist/1XhXRpXu0NntjkqENGveoI"
         }
       ],
-      "duration_ms": 234835,
-      "name": "In Heaven",
-      "url": "https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu"
+      "duration_ms": 134544,
+      "name": "No Turning Back",
+      "url": "https://open.spotify.com/track/3bfKVvO26ivUXYjEiAPCei"
     }
   ],
   "unique_name": "Noise",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 
 > In partnership with <a href ="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,661 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,655 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcPGEMJEYxNg.md) - [plain]
 | 3 | [Lost Without You](https://open.spotify.com/track/4hihbl7qEfTWbV105KXgNo) | [Ruby Ibarra](https://open.spotify.com/artist/5y1a3x8WQZLTsmLPowFnkj), [Nick Isham](https://open.spotify.com/artist/3INQD45A4I7hWypSUOLyB6) | [The Cleaning Lady: Season 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/5vUcnfXZ25zPRTM1VkN42u) | 3:24 |
 | 4 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 |
 | 5 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
-| 6 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
+| 6 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 |
 | 7 | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/track/1dKe9VEGUSNfzn5MDvm6SJ) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Closer \(feat\. H.E.R.\)](https://open.spotify.com/album/5IZ3qMtXKXAleWBxB7vWen) | 2:48 |
 | 8 | [ANGOSTURA](https://open.spotify.com/track/38umMmZQdeoOG7Zojor4g3) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [GABRIEL](https://open.spotify.com/album/1WVIJaAboRSwJOe4u0n0Q7) | 2:51 |
 | 9 | [Jigsaw](https://open.spotify.com/track/1WzOonguDKuWQrTTf5yR0D) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Jigsaw](https://open.spotify.com/album/4OmdjXVk6PslBdirwfruqQ) | 3:28 |

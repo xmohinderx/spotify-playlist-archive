@@ -329,7 +329,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 652440,
       "name": "All Things Considered",
       "url": "https://open.spotify.com/track/2Encv0ig5W29JZ30hQgn6o"
@@ -1001,7 +1001,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 252000,
       "name": "Cannonball - Edit",
       "url": "https://open.spotify.com/track/2IZyJUYPxfrMTxF8iNBEVD"
@@ -1732,6 +1732,24 @@
     },
     {
       "album": {
+        "name": "First Day on Set",
+        "url": "https://open.spotify.com/album/5makhM7JhUfTSWwBNq90Nv"
+      },
+      "artists": [
+        {
+          "name": "Clover Post",
+          "url": "https://open.spotify.com/artist/2XWP1prJQm6CLoHKAqXCEz"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167009,
+      "name": "First Day on Set",
+      "url": "https://open.spotify.com/track/3xhMWYa8ricKp1NN8TVQyS"
+    },
+    {
+      "album": {
         "name": "The Noble Art Of Teddy Wilson",
         "url": "https://open.spotify.com/album/32TZRpG7qCdeDEjWbSWS8G"
       },
@@ -1894,6 +1912,24 @@
     },
     {
       "album": {
+        "name": "Freesia",
+        "url": "https://open.spotify.com/album/15P9FU9R5jbBix4jIGPvBf"
+      },
+      "artists": [
+        {
+          "name": "Carla Anderson",
+          "url": "https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229822,
+      "name": "Freesia",
+      "url": "https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH"
+    },
+    {
+      "album": {
         "name": "From Gagarin's Point of View",
         "url": "https://open.spotify.com/album/1P7f9dheKiUWLPCCQ9RdS1"
       },
@@ -1959,7 +1995,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 291861,
       "name": "Garden of Delight",
       "url": "https://open.spotify.com/track/3apdPUK06P8pXgTsIKlFIl"
@@ -2035,6 +2071,24 @@
       "duration_ms": 322133,
       "name": "Good Morning Heartache",
       "url": "https://open.spotify.com/track/14aFuIi1l2arBrZfBv9fBP"
+    },
+    {
+      "album": {
+        "name": "Good Night",
+        "url": "https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS"
+      },
+      "artists": [
+        {
+          "name": "Charlie James-Walker",
+          "url": "https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236937,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx"
     },
     {
       "album": {
@@ -2393,7 +2447,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 440133,
       "name": "I Got It Bad",
       "url": "https://open.spotify.com/track/5Lu9OYEHAFP6KRls828iNn"
@@ -2972,6 +3026,24 @@
     },
     {
       "album": {
+        "name": "Jardin du Luxembourg",
+        "url": "https://open.spotify.com/album/39JBgmbpRckZqhiqnlX5wp"
+      },
+      "artists": [
+        {
+          "name": "Benjamine Leroy Quartet",
+          "url": "https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247063,
+      "name": "Jardin du Luxembourg",
+      "url": "https://open.spotify.com/track/78qHrGoXAPNGip2OFzKpLp"
+    },
+    {
+      "album": {
         "name": "Journey in Satchidananda / Blue Nile",
         "url": "https://open.spotify.com/album/6PRjheA1lOHH6shqwKkXIE"
       },
@@ -2987,7 +3059,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 406234,
       "name": "Journey in Satchidananda",
       "url": "https://open.spotify.com/track/20Lzd1MB6F6tNdt6stA7IL"
@@ -4664,6 +4736,42 @@
     },
     {
       "album": {
+        "name": "A Simple Book",
+        "url": "https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt"
+      },
+      "artists": [
+        {
+          "name": "Three Four Trio",
+          "url": "https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229756,
+      "name": "Remembering Benny",
+      "url": "https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk"
+    },
+    {
+      "album": {
+        "name": "Ripples of a Stream",
+        "url": "https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3"
+      },
+      "artists": [
+        {
+          "name": "Turning Trio",
+          "url": "https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240480,
+      "name": "Ripples of a Stream",
+      "url": "https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX"
+    },
+    {
+      "album": {
         "name": "M\u00e9nage \u00e0 trois",
         "url": "https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE"
       },
@@ -4966,6 +5074,24 @@
     },
     {
       "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/6dAX6IpKq5s9iQtolusSXE"
+      },
+      "artists": [
+        {
+          "name": "Nordic Quartet",
+          "url": "https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190801,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3W7AQiUlT9SVueyv0ZqZ9G"
+    },
+    {
+      "album": {
         "name": "Sophisticated Ladies",
         "url": "https://open.spotify.com/album/69dcBtgrUwDQZ6fCo5sB8a"
       },
@@ -5260,6 +5386,24 @@
     },
     {
       "album": {
+        "name": "Star Eyes",
+        "url": "https://open.spotify.com/album/6sscV2kzdu75DlL4b3bIDX"
+      },
+      "artists": [
+        {
+          "name": "Bill Walton",
+          "url": "https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269092,
+      "name": "Star Eyes",
+      "url": "https://open.spotify.com/track/3fJsrfPYlvYrll2306xwJn"
+    },
+    {
+      "album": {
         "name": "I'm All For You (Ballad Songbook)",
         "url": "https://open.spotify.com/album/4jdRWzxentnlaBY3ZCQsdL"
       },
@@ -5361,7 +5505,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 401813,
       "name": "Summer In Central Park",
       "url": "https://open.spotify.com/track/2ZQwrAlDEbrE2Y5snAQOIc"
@@ -5379,7 +5523,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 277306,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/2GIwZ0stUc9Pd46XsPrYra"
@@ -5597,7 +5741,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 293946,
       "name": "That's All",
       "url": "https://open.spotify.com/track/0d43eTmA0tQP9ortsZQ9hN"
@@ -6166,6 +6310,24 @@
     },
     {
       "album": {
+        "name": "The Reasons That I Love You",
+        "url": "https://open.spotify.com/album/5GM3f2GT3BwzfKtKdjE0O8"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303224,
+      "name": "Tulip Summer",
+      "url": "https://open.spotify.com/track/3spDu5SW9fQRGUNz699MeN"
+    },
+    {
+      "album": {
         "name": "Ptah The El Daoud",
         "url": "https://open.spotify.com/album/6XyhwP7a50E4u83H9aM8sD"
       },
@@ -6361,7 +6523,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 485505,
       "name": "Very Early",
       "url": "https://open.spotify.com/track/5KtdndjjwcRPMO6kl129TG"

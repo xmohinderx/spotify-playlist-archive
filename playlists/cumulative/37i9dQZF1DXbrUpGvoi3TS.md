@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-356 songs - 21 hr 54 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
+357 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Here Without You](https://open.spotify.com/track/0mYPfHvPzoUZJ2puHRyzyf) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/3vF6tOBY8xo3X2o1retYxS) | 3:58 | 2022-03-24 | 2022-04-20 |
 | [Here Without You](https://open.spotify.com/track/3NLrRZoMF0Lx6zTlYqeIo4) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 3:58 | 2022-05-19 |  |
 | [Hide & Seek](https://open.spotify.com/track/56tNMp3B93TFDbWRg92qZS) | [Amber Run](https://open.spotify.com/artist/0MmnmsAuQKRFpo6vJElcaU) | [Spark EP](https://open.spotify.com/album/1f9OnWfmuBiKkPHbc2H5un) | 4:41 | 2022-03-24 | 2022-04-21 |
+| [High Hopes](https://open.spotify.com/track/6KkyuDhrEhR5nJVKtv9mCf) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Expanded Edition\)](https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y) | 3:50 | 2022-05-19 |  |
 | [High Hopes](https://open.spotify.com/track/7jDe24vXWUNX8Jl2hZHrIS) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 3:50 | 2022-03-24 | 2022-04-12 |
 | [Higher Love](https://open.spotify.com/track/7apw8m9lHQjvuUVfMAm4kZ) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Early in the Morning \(Special Edition\)](https://open.spotify.com/album/33HjgKPNuu4pYcTzAShz2i) | 3:35 | 2022-03-24 | 2022-04-15 |
 | [Hold Me Like You Used To](https://open.spotify.com/track/7eEcVUDXfIaZPq4kwhPIML) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Golden Wings](https://open.spotify.com/album/3eLDkKjoLPJLR5sAgcx6lk) | 3:06 | 2021-10-21 | 2022-07-29 |
@@ -350,7 +351,7 @@
 | [Why Don't You](https://open.spotify.com/track/21pc1gXcU7qyjeWplE7FLV) | [Ida Laurberg](https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4) | [Why Don't You](https://open.spotify.com/album/3a57nyVANIhuNmU9UlNdkY) | 3:02 | 2022-03-24 | 2022-04-11 |
 | [Work Song](https://open.spotify.com/track/67Toy6jG5s1SsmkvXQulzp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/6bcl0ZcPJWJtyuRsOyhvfv) | 3:49 | 2022-03-24 | 2022-04-19 |
 | [Worst In Me](https://open.spotify.com/track/3rK43VNP0142Kbxt8nuAhD) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/22aqlgX39cWQMWazg9qwuv) | 3:26 | 2022-03-24 | 2022-04-20 |
-| [Wrong Direction](https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 4:08 | 2022-05-19 |  |
+| [Wrong Direction](https://open.spotify.com/track/5Qsp8mtshe70DX7EYbWZGo) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Half Written Story](https://open.spotify.com/album/1UPxmm7vKXqA7tO7Y3XklR) | 4:08 | 2022-05-19 | 2022-08-14 |
 | [Wrong Direction](https://open.spotify.com/track/7GCVboEDzfL3NKp1NrAgHR) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [Wrong Direction](https://open.spotify.com/album/2gjtjSAbxvoeQs6zYHj1HJ) | 4:08 | 2021-10-21 | 2022-07-29 |
 | [You](https://open.spotify.com/track/4x4bz6m6oYvRPxNU4HRQHZ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:32 | 2022-03-24 | 2022-04-21 |
 | [You & Me](https://open.spotify.com/track/1bQhZOoXYqjXs7u7rFXo0h) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Chapters](https://open.spotify.com/album/3GNzXsFbzdwM0WKCZtgeNP) | 3:51 | 2022-05-19 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 
 > Celebrando a los músicos Afro\-Latinos\. Cover: Tego Calderon
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,836 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,837 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 8 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 |
 | 9 | [Gogo Dance](https://open.spotify.com/track/6riuMNiPqRmE4LPJZGzIuv) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Chael Produciendo](https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e) | [Sabiduria](https://open.spotify.com/album/2AEfHR7PKwnmLir5rWmMRU) | 2:53 |
 | 10 | [Dile](https://open.spotify.com/track/69Ej1xrGjOcHvIMtMKxK0G) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [The Last Don](https://open.spotify.com/album/4vOvr0tdZWoIGjnHe9jLqz) | 3:24 |
-| 11 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
-| 12 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
+| 11 | [Feliz](https://open.spotify.com/track/2mzDRrBn6M6rWX4bGzd1uQ) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U) | [Feliz](https://open.spotify.com/album/17AsbbuIO3w4PYPS83SmV8) | 2:57 |
+| 12 | [Brisa](https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Brisa](https://open.spotify.com/album/4ZYTZPdMVeOcEaKRhRKFbE) | 4:19 |
 | 13 | [Apretaito](https://open.spotify.com/track/0cW5cXANjlv8hgLAQwdvgE) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Apretaito](https://open.spotify.com/album/0aMqp2gRJQjhVZmHkuTtfL) | 3:19 |
 | 14 | [Sky Walker \(feat\. Travis Scott\)](https://open.spotify.com/track/5WoaF1B5XIEnWfmb5NZikf) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [War & Leisure](https://open.spotify.com/album/05LEST8E8mkEIl2LRfUkcI) | 4:19 |
 | 15 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 35 | [G Wagon](https://open.spotify.com/track/008aqmngiiKe5jrPSNyV6n) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [G Wagon](https://open.spotify.com/album/7CSrNfB7tAWOMcvqv8r3rq) | 3:29 |
 | 36 | [Bitcoin](https://open.spotify.com/track/7edR9E5WUTG1DUN4K8bNgH) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [Bitcoin](https://open.spotify.com/album/0hEC9LcZJT7HvZRzK4ysjC) | 3:21 |
 | 37 | [Úsame](https://open.spotify.com/track/4HDa866zFSzwOkEhgNHx6F) | [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Úsame](https://open.spotify.com/album/4ASrjbSq9D0CuHkAHsAhNc) | 3:23 |
-| 38 | [Vete Y Dile](https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Vete Y Dile](https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ) | 2:27 |
-| 39 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
+| 38 | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/track/13N9dHnUuR0W5MvzFYko5a) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw), [Mozart La Para](https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl) | [Se Acabó \(feat\. Mozart La Para\)](https://open.spotify.com/album/6PIadmxdguUf7r0EZtxlMr) | 3:06 |
+| 39 | [Vete Y Dile](https://open.spotify.com/track/5iRtsyKiVD35YwEBKTETd5) | [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Vete Y Dile](https://open.spotify.com/album/69O1NzZp4mbrzY8Iz7RIeJ) | 2:27 |
 | 40 | [Tiburon](https://open.spotify.com/track/3eoZ06E3Pmf6jfgWHM0m5X) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [20 Exitos](https://open.spotify.com/album/1EfoYpgTD1HtuKIYHrrZei) | 5:02 |
 | 41 | [Qué Lástima](https://open.spotify.com/track/0ojvxgSTugVPVlNWka3hOb) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Qué Lástima](https://open.spotify.com/album/2JLM2HtL1xnfZ6WuJF9lgv) | 3:44 |
 | 42 | [River](https://open.spotify.com/track/6ybkewfx53Quy6rjo4IKDi) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Ibeyi](https://open.spotify.com/album/4VrxiS9RcvqQCdIfww3HKR) | 4:12 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 61 | [Oye Mi Ritmo](https://open.spotify.com/track/6HYo1T8GRaj8J9P4xZHFcq) | [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [En Letra de Otro](https://open.spotify.com/album/7FF6VL4ExrnHjnKAnFgZ4E) | 2:26 |
 | 62 | [Florecer](https://open.spotify.com/track/5FumP2gv0p2x3LiWWamCXg) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Florecer](https://open.spotify.com/album/46K5ezI95o13Nb3boUDTbT) | 2:26 |
 | 63 | [Prende La Vela](https://open.spotify.com/track/6gyKkveHSPxKnZfSu0kYbQ) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [Tambores y Cantos](https://open.spotify.com/album/1KXkEHQiw2vzUIl5b1galh) | 4:48 |
-| 64 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
-| 65 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
+| 64 | [Sin Aire](https://open.spotify.com/track/4m93OTJad26zWgEFprZICX) | [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [Sin Aire](https://open.spotify.com/album/4NA7ABRbQr0hgnmmJXWjBd) | 2:00 |
+| 65 | [MIA BEACH](https://open.spotify.com/track/0boJB2GJMiCGbKr9ePpc9A) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [MIA BEACH](https://open.spotify.com/album/0pudiCC5zZUOicTxpLUFYB) | 3:18 |
 | 66 | [NO TE VAYAS](https://open.spotify.com/track/6265pP7vOElddtF32MJmts) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [DIADREAMER](https://open.spotify.com/album/3dMeA8bEA9Ianbh9mnyhU9) | 3:10 |
 | 67 | [7heaven](https://open.spotify.com/track/7DCnJTsmnN25Xzu8gR8sAa) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Estyland EP](https://open.spotify.com/album/5ippOikp37VeZaOJBhsUCN) | 2:53 |
 | 68 | [Negrita](https://open.spotify.com/track/41p7vS76inehRNOSwYMrNx) | [Nitty Scott](https://open.spotify.com/artist/1Ah5AeHBzgy2b4u6sJtkLg) | [Creature!](https://open.spotify.com/album/4DcsUwb7h7ZxuGffs9q3Gd) | 2:35 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTD6JPQU0gqz.md) - [plain]
 | 74 | [Quimbara](https://open.spotify.com/track/73wEEHZH7sJwckufY0OEwb) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [50 éxitos de salsa cubana](https://open.spotify.com/album/1WT0tVPiWIRGjgpyTvHciX) | 4:53 |
 | 75 | [Latinos](https://open.spotify.com/track/5Ym38eMwTsm4P4aEEMlxlJ) | [Aldo Ranks](https://open.spotify.com/artist/0lsEtpjLWn4S7KBra82VG3) | [Latinos](https://open.spotify.com/album/4aRHR4cVo99A4Zp1XTgL30) | 3:31 |
 
-Snapshot ID: `MTY1NDg1MTk5NywwMDAwMDAwMGE2MmMyZjI3OTE2ZTRjYzA5YzJlMDNmYWI3ZjU5ZDk4`
+Snapshot ID: `MTY1NDg1MTk5NywwMDAwMDAwMDkzYTdiMGJhMWRlM2E1MDQ2ZmU2OGI3ODU0Y2I1MzBh`

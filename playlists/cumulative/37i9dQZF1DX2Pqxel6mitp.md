@@ -4,7 +4,7 @@
 
 > A cup of Joe and the raw blues.
 
-122 songs - 7 hr 36 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
+123 songs - 7 hr 41 min - [published](https://open.spotify.com/playlist/2rceehLfFDsq44a5TcSSEu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,8 +16,9 @@
 | [Back on Top](https://open.spotify.com/track/1Ps6uZFGUtM8VZlOTY6EnU) | [Buffalo Nichols](https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh) | [Buffalo Nichols](https://open.spotify.com/album/2P9z3iSo6T3NmaX5q4FjTc) | 3:25 | 2022-07-08 |  |
 | [Been Here Before](https://open.spotify.com/track/1R95piP4AI1kIzq9PRJfyF) | [Christone "Kingfish" Ingram](https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX) | [Kingfish](https://open.spotify.com/album/6fCDiY92JVAorr6HrKStRH) | 5:54 | 2022-05-25 |  |
 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 | 2022-07-01 |  |
+| [Black Horizon](https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 4:49 | 2022-07-29 |  |
 | [Blessings and Blues](https://open.spotify.com/track/3OCKRAHhEjcKIvJLdMKfPK) | [Bob Margolin](https://open.spotify.com/artist/65SzANOjjJbCdHGbjDkPMU), [Bob Corritore](https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH) | [Blessings and Blues](https://open.spotify.com/album/3jwBxGIKQ3tIuENpVWSvoL) | 2:34 | 2022-05-25 | 2022-07-07 |
-| [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 | 2022-05-25 |  |
+| [Blue River Rising](https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE) | [Michael van Merwyk](https://open.spotify.com/artist/0CbBEc4uGsHwisuBdVO7HF) | [Blue River Rising](https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W) | 6:00 | 2022-05-25 | 2022-08-14 |
 | [Blues Chase up a Rabbit](https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA) | [Judy Henske](https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A) | [High Flying Bird](https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA) | 2:39 | 2022-05-25 |  |
 | [Boneyard \- Edit](https://open.spotify.com/track/1zHHwTIloBthaYONQX2TZ0) | [Fink](https://open.spotify.com/artist/2t9yJDJIEtvPmr2iRIdqBf) | [Boneyard](https://open.spotify.com/album/6PAu4B2YSVrbCzELEhyAmU) | 3:20 | 2022-05-25 |  |
 | [Bonnie](https://open.spotify.com/track/5aEHeKYiIJYKh8LE6uE8Do) | [Sam Burchfield](https://open.spotify.com/artist/2S8ft2HNlQ2Ox9ltQZM1A5) | [Bonnie](https://open.spotify.com/album/6TpMAQZqwXrU5JbT7r57EF) | 4:37 | 2022-05-25 | 2022-07-29 |

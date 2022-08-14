@@ -1098,6 +1098,24 @@
     },
     {
       "album": {
+        "name": "Falling Behind",
+        "url": "https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173640,
+      "name": "Falling Behind",
+      "url": "https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e"
+    },
+    {
+      "album": {
         "name": "Feeling",
         "url": "https://open.spotify.com/album/6utFX9YFFC48mhZrlUcK9i"
       },
@@ -2677,7 +2695,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 282800,
       "name": "My Ship",
       "url": "https://open.spotify.com/track/3uKgdKIJk3CYRmosGaEkMY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 
 > feel it all\. Cover: My Chemical Romance
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,326,685 likes - 75 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,508 likes - 75 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,13 +16,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 6 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 |
 | 7 | [You're Gonna Go Far, Kid](https://open.spotify.com/track/6TfBA04WJ3X1d1wXhaCFVT) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Rise And Fall, Rage And Grace](https://open.spotify.com/album/67v63ubEsvDUQkYMzI7A9t) | 2:57 |
 | 8 | [Thnks fr th Mmrs](https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [Infinity On High](https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g) | 3:23 |
-| 9 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
+| 9 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
 | 10 | [Ohio Is For Lovers](https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [The Silence In Black And White \(Re\-Issue\)](https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z) | 4:04 |
 | 11 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 |
 | 12 | [The Middle](https://open.spotify.com/track/6GG73Jik4jUlQCkKg9JuGO) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 2:45 |
 | 13 | [Sugar, We're Goin Down](https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [From Under The Cork Tree](https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp) | 3:49 |
 | 14 | [Self Esteem](https://open.spotify.com/track/1FkoVC85Ds3mFoK0fVqEqP) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 4:17 |
-| 15 | [King For A Day](https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [Collide With The Sky](https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk) | 3:56 |
+| 15 | [Misery Business](https://open.spotify.com/track/6SpLc7EXZIPpy0sVko0aoU) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Riot!](https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc) | 3:31 |
 | 16 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 |
 | 17 | [Face Down](https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [Don't You Fake It](https://open.spotify.com/album/6TyPSzd5rA2rQ9yLJJ1Gg2) | 3:12 |
 | 18 | [Savior](https://open.spotify.com/track/1vcxF91pWs9uNwDROuiCPB) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Appeal To Reason](https://open.spotify.com/album/4ebodSLpRqbuQjpGlDZglH) | 4:02 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 35 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off](https://open.spotify.com/track/5eB7w8UZJKjL5XmnC6Pctg) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [A Fever You Can't Sweat Out](https://open.spotify.com/album/2YeOhhJg3OWpN0F1VYPxtW) | 3:20 |
 | 36 | [Memory](https://open.spotify.com/track/0ChpoNjXfJPjMvCIN6so6J) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Palm Trees and Power Lines](https://open.spotify.com/album/5pCXe1ZrHEUZeYhMCe0pLX) | 3:46 |
 | 37 | [If It Means A Lot To You](https://open.spotify.com/track/3rEwGRmPVVudVjqdgv0tRR) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Homesick](https://open.spotify.com/album/6MEv8dNtVbKDW1WG4Hk6WZ) | 4:03 |
-| 38 | [Tell Me I'm A Wreck](https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv) | [Every Avenue](https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4) | [Picture Perfect](https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14) | 3:39 |
+| 38 | [Situations](https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:07 |
 | 39 | [Dirty Little Secret](https://open.spotify.com/track/5ZdzNVOmCSp5HFLk0EgvJS) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [Move Along](https://open.spotify.com/album/03kOqFjrxiwkgvj2ExN6ii) | 3:13 |
-| 40 | [Situations](https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Dying Is Your Latest Fashion](https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw) | 3:07 |
+| 40 | [Tell Me I'm A Wreck](https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv) | [Every Avenue](https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4) | [Picture Perfect](https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14) | 3:39 |
 | 41 | [Right Now](https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N) | [SR\-71](https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq) | [Now You See Inside](https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z) | 2:47 |
 | 42 | [Such Great Heights \- Remastered](https://open.spotify.com/track/4G21jWo0Cm6lOIUNnZ2mUI) | [The Postal Service](https://open.spotify.com/artist/5yV1qdnmxyIYiSFB02wpDj) | [Give Up \(Deluxe 10th Anniversary Edition\)](https://open.spotify.com/album/5MoaDbFw4nrm2P7Om1on3b) | 4:26 |
 | 43 | [We Own The Night](https://open.spotify.com/track/4rc2WNOt2w8BHfQjBC8PO0) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Instant Gratification](https://open.spotify.com/album/75Z98z7kl42oWcT0UvtO6e) | 3:25 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 55 | [Vindicated](https://open.spotify.com/track/1EotcFbWTbMCXeKFVEtX6Y) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Dusk And Summer](https://open.spotify.com/album/6HNDip6KYIQapVTDziA91U) | 3:21 |
 | 56 | [The Quiet Things That No One Ever Knows](https://open.spotify.com/track/3IlY76VbP31zwPY0S2EMjh) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 4:01 |
 | 57 | [A Decade Under The Influence](https://open.spotify.com/track/6um5ccNzX7k3SRsVnLupvI) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Where You Want To Be](https://open.spotify.com/album/6D1rTYBev0y8ZKE5tD7OP9) | 4:07 |
-| 58 | [The Permanent Rain](https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Reach For The Sun](https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T) | 3:23 |
-| 59 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 58 | [The Curse of Curves](https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ) | [Cute Is What We Aim For](https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP) | [The Same Old Blood Rush With A New Touch](https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl) | 3:23 |
+| 59 | [The Permanent Rain](https://open.spotify.com/track/4SJIVblEnmdhUHnCjanfsE) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Reach For The Sun](https://open.spotify.com/album/1awdBA8DLv6G5eBvdGxk8T) | 3:23 |
 | 60 | [Never Meant](https://open.spotify.com/track/51R5mPcJjOnfv9lKY1u5sW) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/3wRBlpk5PRoixwOnLujTal) | 4:28 |
 | 61 | [A Favor House Atlantic](https://open.spotify.com/track/4KliQFRlvNKnlVYzMMbSMq) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [In Keeping Secrets Of Silent Earth: 3](https://open.spotify.com/album/2oWXmi9uLRKn60yRmY22MB) | 3:54 |
 | 62 | [The Best Of Me](https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Say It Like You Mean It](https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6) | 4:18 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wa6XirBPv8.md) - [plain]
 | 74 | [Voices](https://open.spotify.com/track/71U9X93wy4BQGyvmjFqApv) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Saosin](https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR) | 3:37 |
 | 75 | [About a Girl](https://open.spotify.com/track/5johpJIVjqU2Ki03DOA7Jr) | [The Academy Is...](https://open.spotify.com/artist/3jwm6OBdUY5xzFiFIPhMHu) | [Fast Times At Barrington High](https://open.spotify.com/album/2IEGo0H1J8AihVqaf5ghkJ) | 3:30 |
 
-Snapshot ID: `MTY2MDMyODg3NywwMDAwMDAwMDQzNzkzNWYwOTE1MjM5NGNmZTA5NTc2MjBmZjQwZGI2`
+Snapshot ID: `MTY2MDMyODg3NywwMDAwMDAwMDYzODQzZTY4ZjY4YzYwMGI1ZWE4NTAyMjRiMDE1MGNj`

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Black love, one song at a time.",
-  "num_followers": 134128,
+  "num_followers": 134268,
   "original_name": "Love Language",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMGE1YWU1YTQ4ZDc4NzlkZjU5ZDliMGEyM2E2YTY1MmM2",
+  "snapshot_id": "MTY0NzI4NzY1OCwwMDAwMDAwMDgwNjE0ODU3Yjg3NDBiZDRiYzNlODg0MjBhOWFkNzM4",
   "tracks": [
     {
       "added_at": "2022-03-14 19:54:18",
@@ -27,22 +27,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Indigo",
+        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 260640,
+      "name": "No Guidance (feat. Drake)",
+      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -79,22 +79,22 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "Indigo",
-        "url": "https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 260640,
-      "name": "No Guidance (feat. Drake)",
-      "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -295,6 +295,26 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
+        "name": "Ego Death",
+        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
+      },
+      "artists": [
+        {
+          "name": "The Internet",
+          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
+        },
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        }
+      ],
+      "duration_ms": 415613,
+      "name": "Girl (feat. KAYTRANADA)",
+      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -323,26 +343,6 @@
       "duration_ms": 256063,
       "name": "Boo'd Up",
       "url": "https://open.spotify.com/track/0At2qAoaVjIwWNAqrscXli"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "Ego Death",
-        "url": "https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q"
-      },
-      "artists": [
-        {
-          "name": "The Internet",
-          "url": "https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8"
-        },
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 415613,
-      "name": "Girl (feat. KAYTRANADA)",
-      "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-03-14 19:54:18",
       "album": {
-        "name": "From The Mint Factory",
-        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
-      },
-      "artists": [
-        {
-          "name": "Mint Condition",
-          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
-        }
-      ],
-      "duration_ms": 314537,
-      "name": "U Send Me Swingin'",
-      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
         "name": "Back To Back",
         "url": "https://open.spotify.com/album/4d4Z42kZJMcrmYlZ7I19rn"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 229626,
       "name": "I Want To Thank You",
       "url": "https://open.spotify.com/track/6ODAghAlMTyu9fWa2CNKmf"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "From The Mint Factory",
+        "url": "https://open.spotify.com/album/7hzFhf3WpRUNM52MVjgCVe"
+      },
+      "artists": [
+        {
+          "name": "Mint Condition",
+          "url": "https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ"
+        }
+      ],
+      "duration_ms": 314537,
+      "name": "U Send Me Swingin'",
+      "url": "https://open.spotify.com/track/1mC7u32zemMLC1mVOU02Pm"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -923,6 +923,22 @@
       "duration_ms": 187951,
       "name": "Touch Me (feat. Kehlani) - Remix",
       "url": "https://open.spotify.com/track/5kAm2Y5ygQtsVfE5dQQfGy"
+    },
+    {
+      "added_at": "2022-03-14 19:54:18",
+      "album": {
+        "name": "1st Born Second",
+        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
+      },
+      "artists": [
+        {
+          "name": "Bilal",
+          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
+        }
+      ],
+      "duration_ms": 318666,
+      "name": "Soul Sista",
+      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2022-03-14 19:54:18",
@@ -959,22 +975,6 @@
       "duration_ms": 238693,
       "name": "Inside My Love - Remastered",
       "url": "https://open.spotify.com/track/1HdNTlZrGTlgxDn31GB6Sv"
-    },
-    {
-      "added_at": "2022-03-14 19:54:18",
-      "album": {
-        "name": "1st Born Second",
-        "url": "https://open.spotify.com/album/6n09PKuOUkvyOmX9U3uO77"
-      },
-      "artists": [
-        {
-          "name": "Bilal",
-          "url": "https://open.spotify.com/artist/4jCbgl5Dmt3uOh8WRQfpPs"
-        }
-      ],
-      "duration_ms": 318666,
-      "name": "Soul Sista",
-      "url": "https://open.spotify.com/track/1eetzMDPNpYSZOreBw7SSk"
     },
     {
       "added_at": "2022-03-14 19:54:18",

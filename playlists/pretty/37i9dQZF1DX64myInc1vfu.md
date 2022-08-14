@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era just for you\. Los boleritos de hoy\. Cover: Yoss Bones
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,758 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,830 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 21 | [Saudade \- Acústica](https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo), [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ), [Los Hermanos Naturales](https://open.spotify.com/artist/39lujDF8rpAX4ezy70mTfx), [José y el Toro](https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex) | [Saudade \(Acústica\)](https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg) | 4:56 |
 | 22 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
 | 23 | [Diez Pasos Hacia Ti](https://open.spotify.com/track/54KsfVVnN4YWI2mMrnyUcC) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Suspiros](https://open.spotify.com/album/2dU3JOkZlSKu7WdqIGvCcK) | 3:29 |
-| 24 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
-| 25 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
-| 26 | [Costa Rica](https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:38 |
-| 27 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 |
-| 28 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
+| 24 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
+| 25 | [Ojitos de Aceituna](https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [Ojitos de Aceituna](https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5) | 2:47 |
+| 26 | [Bésame](https://open.spotify.com/track/05ayzVXVRd5JBtCkQiMFJY) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2), [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [A Color](https://open.spotify.com/album/07PxmxlkhdcoxZDXgyef0X) | 2:50 |
+| 27 | [Costa Rica](https://open.spotify.com/track/6fodcUvAswFV8Az3Imd5F5) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Camas Separadas](https://open.spotify.com/album/7n2Jn4FFREegsVpFlVpbp3) | 3:38 |
+| 28 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 |
 | 29 | [Ser Guitarra](https://open.spotify.com/track/6mtNyMwmlwy8kMq3NsWa6q) | [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Ser Guitarra](https://open.spotify.com/album/3xZM5pC6lmpRMXnTPSeLJZ) | 2:59 |
 | 30 | [Hace Tiempo](https://open.spotify.com/track/5ZIAGLaxIMK8FnNdtZQpkw) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Los Náufragos](https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh) | 4:12 |
 | 31 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 42 | [Si Tú Me Quisieras](https://open.spotify.com/track/3XWCZdvN55Rjly1sSxrXqh) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8), [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Si Tú Me Quisieras](https://open.spotify.com/album/5jS82FjoNBNMEmcoILh0uE) | 4:21 |
 | 43 | [En las Noches](https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [En las Noches](https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e) | 3:59 |
 | 44 | [Salvavidas](https://open.spotify.com/track/1ZVvO03ypa1pSC1WHnHPEx) | [Yoly Saa](https://open.spotify.com/artist/599d8L6EF6XYR133olSRTW) | [Salvavidas](https://open.spotify.com/album/6MnxF6Qm6HVXUXtzsrm7MX) | 2:52 |
-| 45 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
-| 46 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
-| 47 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 45 | [Lo Mismo Que Usted](https://open.spotify.com/track/031dcODCuFUQAyQ38PkdlU) | [Pantoja](https://open.spotify.com/artist/1sSMrejChoHWBnCe7w6fKc) | [Lo Mismo Que Usted](https://open.spotify.com/album/68bhYAXXLFt0gp866clvtQ) | 3:09 |
+| 46 | [Apasionadamente](https://open.spotify.com/track/7a1Ftd97mqW58rBQmqwPel) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Apasionadamente](https://open.spotify.com/album/0xgN5G0w8qGlw1onYHHdks) | 3:00 |
+| 47 | [Bohemio](https://open.spotify.com/track/7vgtsjhT7JpPGkv8RA1Qh1) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [Bohemio](https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn) | 3:28 |
 | 48 | [Amor de Bolero](https://open.spotify.com/track/3XZEt7mxd5C5Ur05j1dfZr) | [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Amor de Bolero](https://open.spotify.com/album/7GQCGDiH41ovnH6yQJYr7G) | 2:24 |
 | 49 | [Como Fue](https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN) | [Paté de Fuá](https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa) | [Amores Ajenos](https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT) | 2:42 |
 | 50 | [Enamorada](https://open.spotify.com/track/562C3EC94HrVqmazwHvzej) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Jei Beibi](https://open.spotify.com/album/74eEfGjMICkDu7u8faPlc5) | 3:52 |
 
-Snapshot ID: `MTY1OTcxNjcxNSwwMDAwMDAwMDg3YzY3MDgyZjNkMjU2OWQxOWEyMjIxNTYxY2IzOWU1`
+Snapshot ID: `MTY1OTcxNjcxNSwwMDAwMDAwMDVhMzhmNzBiMGEwY2M2ZmE0ZDhjZWE1MmI4NWI2NDJk`

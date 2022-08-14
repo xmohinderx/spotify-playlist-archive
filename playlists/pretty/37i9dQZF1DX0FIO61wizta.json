@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 57586,
+  "num_followers": 57619,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGRkMjMyN2Y5MjUzM2YwYmRjNWZlOTQyZGM0MzhkYWIx",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGI4NzQyNzVhZDc0MzNkZDQwODNlZTRjNTIxODE3N2I0",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -495,6 +495,30 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Aida",
+        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Antonio Pappano",
+          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
+        },
+        {
+          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
+        }
+      ],
+      "duration_ms": 263120,
+      "name": "Verdi: A\u00efda, Act 2: Ballet",
+      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Requiem; Quattro pezzi sacri",
         "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
       },
@@ -527,30 +551,6 @@
       "duration_ms": 966000,
       "name": "4 Sacred Pieces (Quattro pezzi sacri): Te Deum",
       "url": "https://open.spotify.com/track/5witywN8YtKvIj95C2zdKz"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Aida",
-        "url": "https://open.spotify.com/album/3i05h9cx661EAQLC1RwJYb"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Antonio Pappano",
-          "url": "https://open.spotify.com/artist/0xHw5qPRSEc8sUmSmXf5sw"
-        },
-        {
-          "name": "Orchestra dell'Accademia Nazionale di Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2Mi20SSCqDqjMRsJXHD72f"
-        }
-      ],
-      "duration_ms": 263120,
-      "name": "Verdi: A\u00efda, Act 2: Ballet",
-      "url": "https://open.spotify.com/track/3qbbzJ2Z0zldaL04fwnHlY"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -767,30 +767,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Overtures, Vol. 1",
-        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 515426,
-      "name": "I vespri siciliani*: Sinfonia",
-      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -831,6 +807,30 @@
       "duration_ms": 123333,
       "name": "Aida: Danza Sacre delle Sacerdotesse",
       "url": "https://open.spotify.com/track/3u02B57scqZyXHuy7bfFjl"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Overtures, Vol. 1",
+        "url": "https://open.spotify.com/album/2ArbYKbKugDKfanstRYf75"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 515426,
+      "name": "I vespri siciliani*: Sinfonia",
+      "url": "https://open.spotify.com/track/6eIyQmLtCxLVzPS8SqfB4Y"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1039,6 +1039,34 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Trovatore (Il)",
         "url": "https://open.spotify.com/album/2kVWXeLcNkNmZO5u0dONiH"
       },
@@ -1103,34 +1131,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Kiri - A Portrait",
         "url": "https://open.spotify.com/album/4zqtZ8uDOrhSL0Yi2CYne4"
       },
@@ -1159,6 +1159,38 @@
       "duration_ms": 277640,
       "name": "La traviata / Act 1: \"Follie! Delirio vano \u00e8 questo!\" - \"Sempre libera\"",
       "url": "https://open.spotify.com/track/1sHxx6JFlwNEZqQl55eOOI"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Opera Choruses",
+        "url": "https://open.spotify.com/album/3rr1HrvyWK0jFyuEfntQXX"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Marian Vach",
+          "url": "https://open.spotify.com/artist/4MVTsqkpprVhkctKjcF7g2"
+        },
+        {
+          "name": "Slovak Philharmonic Chorus",
+          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
+        },
+        {
+          "name": "Slovak Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
+        },
+        {
+          "name": "Oliver von Dohnanyi",
+          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "La battaglia di Legnano: Preghiera, 'Deus meus, pone illos ut rotam'",
+      "url": "https://open.spotify.com/track/6genbSJNg0FxPpAzS2Cf8P"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1219,38 +1251,6 @@
       "duration_ms": 247120,
       "name": "La traviata / Act 1: Prelude",
       "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Opera Choruses",
-        "url": "https://open.spotify.com/album/3rr1HrvyWK0jFyuEfntQXX"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Marian Vach",
-          "url": "https://open.spotify.com/artist/4MVTsqkpprVhkctKjcF7g2"
-        },
-        {
-          "name": "Slovak Philharmonic Chorus",
-          "url": "https://open.spotify.com/artist/5x7Kp2knfxL9XwzQmmHc6P"
-        },
-        {
-          "name": "Slovak Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/428GNN7qZnTsMaK3SfPo6D"
-        },
-        {
-          "name": "Oliver von Dohnanyi",
-          "url": "https://open.spotify.com/artist/4iQfrN4XKLUrtRfTUX54ne"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "La battaglia di Legnano: Preghiera, 'Deus meus, pone illos ut rotam'",
-      "url": "https://open.spotify.com/track/6genbSJNg0FxPpAzS2Cf8P"
     },
     {
       "added_at": "2022-06-27 14:42:44",

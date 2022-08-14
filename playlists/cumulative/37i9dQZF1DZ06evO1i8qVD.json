@@ -117,7 +117,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 295746,
       "name": "Best in Town",
       "url": "https://open.spotify.com/track/5sPZH5scVV63witIumgJIa"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 138506,
       "name": "First Time I Met The Blues - Single Version",
       "url": "https://open.spotify.com/track/75plL57ZziEQ5tM9VKJkw2"
@@ -399,6 +399,28 @@
       "duration_ms": 228019,
       "name": "Fresh Out",
       "url": "https://open.spotify.com/track/0hLEks6H1dPXioRyyHWCBz"
+    },
+    {
+      "album": {
+        "name": "Gunsmoke Blues (feat. Jason Isbell)",
+        "url": "https://open.spotify.com/album/0VxKgrOCKdcF9PSAvn1rx2"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        },
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188973,
+      "name": "Gunsmoke Blues (feat. Jason Isbell)",
+      "url": "https://open.spotify.com/track/62QWywMNsKrR05lOSYUAzg"
     },
     {
       "album": {
@@ -493,10 +515,28 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 553266,
       "name": "I Smell A Rat",
       "url": "https://open.spotify.com/track/567qPkLuj3z5rouyu5ZcQC"
+    },
+    {
+      "album": {
+        "name": "Live At The Checkerboard Lounge - Chicago 1979",
+        "url": "https://open.spotify.com/album/3uU8G6JPjc63efWkuJLHNb"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 551667,
+      "name": "I've Got A Right To Love My Woman",
+      "url": "https://open.spotify.com/track/17E130U5fvS7rbMrVnbanP"
     },
     {
       "album": {
@@ -671,7 +711,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 446080,
       "name": "My Time After Awhile - Live",
       "url": "https://open.spotify.com/track/6GcQV50jII3TVIhkMmk6qI"
@@ -895,7 +935,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-14",
       "duration_ms": 206733,
       "name": "Some Kind Of Wonderful (feat. Paul Rodgers)",
       "url": "https://open.spotify.com/track/7DU5Qgp1JVhgTn1Nlkbs5g"
@@ -953,7 +993,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 431853,
       "name": "Stone Crazy",
       "url": "https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft"

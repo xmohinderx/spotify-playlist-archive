@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,513 songs - 2 day 20 hr 36 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,514 songs - 2 day 20 hr 39 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -497,7 +497,7 @@
 | [Fristad](https://open.spotify.com/track/4G5Zl5CAe63eqW5XrAq9w2) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Fristad](https://open.spotify.com/album/5t8CKlRIPsIXa5QITQRjKn) | 2:38 | 2021-10-25 | 2022-07-29 |
 | [From The Heart](https://open.spotify.com/track/5WyysbGeEUoJ02Xf1tMpac) | [Amanda Heartwood](https://open.spotify.com/artist/0HUXT49x58t1oU5dj46YEz) | [From The Heart](https://open.spotify.com/album/0tcoSiHe5QZxj5S5WdQMDN) | 3:23 | 2021-03-18 | 2021-12-19 |
 | [Frosty The Snowman](https://open.spotify.com/track/5XB4pCmfsspHUDOSTck6tM) | [Clark Anthony](https://open.spotify.com/artist/4LmgGaZAPNgnIWDtwaWMck) | [My Christmas](https://open.spotify.com/album/1tSOQefweVeEW65XKip9X0) | 2:55 | 2021-04-27 | 2022-04-18 |
-| [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-07-27 |  |
+| [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2022-07-27 | 2022-08-14 |
 | [Fugetsu](https://open.spotify.com/track/5289GXfRrGAs7fAwiVkqzT) | [Sayuri Hayashi Egnell](https://open.spotify.com/artist/1pW8cCL6NXZeIFavTetTVF) | [Fugetsu](https://open.spotify.com/album/3E8NTg2mavhnFMmCiSheBM) | 3:02 | 2022-01-06 | 2022-07-28 |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-03-29 | 2022-04-11 |
 | [Garden Of Eternal Spring](https://open.spotify.com/track/5VAhEON7tTQV76naIyIVXF) | [Evelyn Haidu](https://open.spotify.com/artist/0KLuY1vs0XOszyBK0zwAq0) | [Garden of Eternal Spring](https://open.spotify.com/album/15zG56ZwGXAjLPktRRTfzb) | 3:39 | 2021-03-23 | 2022-07-27 |
@@ -1071,6 +1071,7 @@
 | [Safe From Harm](https://open.spotify.com/track/5OJCfx8s0XKPTySHivWXPd) | [Kotono Tanaka](https://open.spotify.com/artist/2uEVl0y8kXD2i1zFhFt7vT) | [Safe From Harm](https://open.spotify.com/album/3009Rcfmt34qSRQFdVfL6Y) | 3:31 | 2022-05-31 | 2022-06-20 |
 | [Saint\-Étienne](https://open.spotify.com/track/5qKkduxPcxzPZQ34lRbbkP) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Song Of Spring](https://open.spotify.com/album/3FFlVYYjsbiZsWKf8lFwDZ) | 3:00 | 2022-06-22 | 2022-07-14 |
 | [Saki](https://open.spotify.com/track/5DCgFSAuvLuLwen6i8CgSN) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Itadaki Girl \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hyD6D2WJ4yXqQvPRL0Lnq) | 1:12 | 2021-03-11 | 2022-07-13 |
+| [Sakteligen](https://open.spotify.com/track/3l7MIilW80gHnwhoV75y2m) | [Lykka Alve](https://open.spotify.com/artist/2vd9f5AxAMnr17GvYdGZeo) | [Sakteligen](https://open.spotify.com/album/22yjb9dD0nwsLdEBjRNUd2) | 2:11 | 2022-08-08 |  |
 | [Saltare \(Somewhere at the Baltic Sea\)](https://open.spotify.com/track/645kj2wJDlXW7Wnx5N9WCq) | [Dirk Maassen](https://open.spotify.com/artist/758yIKdhJhWL6oTuTSFVV6) | [The 8 Pianos Project](https://open.spotify.com/album/4ITpqO83by63yHA8O1YGKM) | 4:17 | 2021-04-30 | 2022-04-19 |
 | [Salvatore](https://open.spotify.com/track/6t49FHYi8W01F35FMrdgbk) | [Henrietta Kuipers](https://open.spotify.com/artist/5ULLDXAaGnGYylLzZxaXog) | [Salvatore](https://open.spotify.com/album/2zqvrczDnP8HS7vCdFXiM7) | 2:16 | 2021-03-09 | 2022-03-31 |
 | [Samarcande](https://open.spotify.com/track/0kBBID6PJWjdh0Feew3rtW) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [Samarcande](https://open.spotify.com/album/1Jas47aIjJ4dJGnFtqnstU) | 3:22 | 2021-03-10 | 2022-04-17 |
