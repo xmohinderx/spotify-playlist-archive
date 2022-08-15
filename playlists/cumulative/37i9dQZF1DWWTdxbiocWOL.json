@@ -1255,10 +1255,28 @@
       ],
       "date_added": "2021-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 297888,
       "name": "Troglodyte",
       "url": "https://open.spotify.com/track/08YHJKv8MRmdNapqgcBwoM"
+    },
+    {
+      "album": {
+        "name": "Survived the Great Flood",
+        "url": "https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4"
+      },
+      "artists": [
+        {
+          "name": "Man Is Not a Bird",
+          "url": "https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw"
+        }
+      ],
+      "date_added": "2022-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297888,
+      "name": "Troglodyte",
+      "url": "https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ"
     },
     {
       "album": {

@@ -4,13 +4,13 @@
 
 > Electro tunes for your virtual world.
 
-279 songs - 16 hr 11 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
+280 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/6nn5hAdMA0a7KkNWl7rEwD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#4u](https://open.spotify.com/track/1scCASo2eOvStCBxUS95sa) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [\#4u](https://open.spotify.com/album/7lSFPJJSetFsOVLPvRqeP4) | 1:48 | 2022-05-27 | 2022-07-25 |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-10 |  |
-| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 |  |
+| [A Cyber's World](https://open.spotify.com/track/2p2E7hPrV1k3pGESHHP75E) | [Curly](https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh), [Dj Cutman](https://open.spotify.com/artist/1IwzmBTWI4CzUNsZM7Zqd8) | [A Cyber's World](https://open.spotify.com/album/4Skl8xv9LILiUM5CS4yk8T) | 2:52 | 2022-01-07 | 2022-08-15 |
 | [A CYBER'S WORLD? \(From "Deltarune"\) \- Electro House Version](https://open.spotify.com/track/7s9VjAWhf8ypPqdOCR3hcn) | [Mykah](https://open.spotify.com/artist/3VYxuvrdxNbXmDIxiHYDqz) | [A CYBER'S WORLD? \(From "Deltarune"\) \[Electro House Version\]](https://open.spotify.com/album/38WxY9cf0avPDxehC3ubmL) | 4:29 | 2022-01-07 | 2022-07-29 |
 | [Airway](https://open.spotify.com/track/7H0Fn4Rf76dMg6hNzyOlef) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Airway](https://open.spotify.com/album/1hvFDHasQOCnAMQfRNa3JO) | 3:15 | 2022-01-07 | 2022-07-27 |
 | [Alive](https://open.spotify.com/track/4XmSL1CcNGC6U1t56alzF7) | [OBLVYN](https://open.spotify.com/artist/6K47OYDcLTBRebTJGDtedF) | [Alive](https://open.spotify.com/album/6Rt1ebG0UdXmQRheYmSJyh) | 3:37 | 2022-01-07 | 2022-07-27 |
@@ -107,6 +107,7 @@
 | [Geist](https://open.spotify.com/track/7KhkLJhPnrym8A989786NP) | [Sublab](https://open.spotify.com/artist/3tjRdPCZTpme7vslZJYtJx) | [Geist](https://open.spotify.com/album/0LsVHAGjWEbrqV9HGQLv68) | 3:26 | 2022-01-07 | 2022-07-14 |
 | [gemstone](https://open.spotify.com/track/6cuH8SCJf51zqFNQam4TvJ) | [4s4ki](https://open.spotify.com/artist/5yCWuaBlu42BKsnW89brND), [Puppet](https://open.spotify.com/artist/0QaiCsyOUjBgLqsbABu07O) | [gemstone](https://open.spotify.com/album/3sEjlfHS2SUceS23TTy7in) | 2:54 | 2022-01-07 | 2022-07-28 |
 | [Gigabot](https://open.spotify.com/track/7CA84GteV8749lfiJ1i3FI) | [Waveshaper](https://open.spotify.com/artist/4N55TE3vFODMR4BX5B9fnM) | [Gigabot](https://open.spotify.com/album/2BSo2GQidiY846ka6OrtDF) | 3:48 | 2022-02-11 | 2022-07-21 |
+| [give it back \(micoon remix\)](https://open.spotify.com/track/5dqJAREYns7ByfeDaT9eAX) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5), [micoon](https://open.spotify.com/artist/0YAyoWDiYwAdGMTWYkNWLa) | [give it back \(micoon remix\)](https://open.spotify.com/album/3tLHMLZHm9M2qXAiQnwsLI) | 2:33 | 2022-08-12 |  |
 | [Golden](https://open.spotify.com/track/3ElMR5XDv1fTtyfUTnVJ6s) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Golden](https://open.spotify.com/album/6RQpmUWs0RRvasXHuNCZl1) | 4:09 | 2022-02-25 | 2022-04-20 |
 | [Golden](https://open.spotify.com/track/5qtyotxUJIumSIkklcJL50) | [Outwild](https://open.spotify.com/artist/0GABmJRgNaIyOYzpslzG2W), [She Is Jules](https://open.spotify.com/artist/4XZ25UyxKA59Pi3d8WV379) | [Golden](https://open.spotify.com/album/5Q1NY8Nt7coum6LqO4dEcd) | 4:09 | 2022-08-05 |  |
 | [Good 4 Me](https://open.spotify.com/track/5dkTQlAVdA49mAXQSS5P9t) | [Vindata](https://open.spotify.com/artist/1Vxf1UfzcxqzqItoOA0DDT) | [Good 4 Me / Union](https://open.spotify.com/album/2ju23lWpH7709bmoNUewp4) | 3:24 | 2022-01-07 |  |

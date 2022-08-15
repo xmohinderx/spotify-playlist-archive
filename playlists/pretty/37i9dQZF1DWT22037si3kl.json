@@ -1,12 +1,12 @@
 {
   "description": "Chique e confort\u00e1vel como a realeza do Trap. Foto: Salaga, Clara Lima",
-  "num_followers": 52322,
+  "num_followers": 52456,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDc2YjI5MmFmNjZmNzMzOGE3ZDRjNTU4OTAzMGY2Y2Nh",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDBiYmZjZWQ2YTQ5Nzg3MzlkNzJjOWE0NThlYWMyNTVj",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Vestido da Fendi",
+        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        }
+      ],
+      "duration_ms": 164203,
+      "name": "Vestido da Fendi",
+      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Jovens do Reggae",
         "url": "https://open.spotify.com/album/1GJLb6DW0nVTH9rcaCzKgp"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 183652,
       "name": "Jovens do Reggae",
       "url": "https://open.spotify.com/track/3HdEOUNuFuoWj06rXpQQ4o"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Vestido da Fendi",
-        "url": "https://open.spotify.com/album/70bR7r6giSSPpnJeEzVP8Y"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        }
-      ],
-      "duration_ms": 164203,
-      "name": "Vestido da Fendi",
-      "url": "https://open.spotify.com/track/0pZIBIJ253pH9gJtXE0Ouf"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -615,6 +615,42 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Gest\u00e3o Inteligente",
+        "url": "https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ"
+      },
+      "artists": [
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        },
+        {
+          "name": "Pedro Lotto",
+          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "Gest\u00e3o Inteligente",
+      "url": "https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Desce A\u00ed (Flow Drake)",
+        "url": "https://open.spotify.com/album/2aYuVO6GqSpFokJTuWoSiI"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 210485,
+      "name": "Desce A\u00ed (Flow Drake)",
+      "url": "https://open.spotify.com/track/2oRqU8CVBhp8ZAwaikwoCW"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Royal Salute",
         "url": "https://open.spotify.com/album/4ytptXvi8DRm1jbXwoklwH"
       },
@@ -639,42 +675,6 @@
       "duration_ms": 279130,
       "name": "Royal Salute",
       "url": "https://open.spotify.com/track/3v9Pr9ha7UezSYZAlpOx8o"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Desce A\u00ed (Flow Drake)",
-        "url": "https://open.spotify.com/album/2aYuVO6GqSpFokJTuWoSiI"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 210485,
-      "name": "Desce A\u00ed (Flow Drake)",
-      "url": "https://open.spotify.com/track/2oRqU8CVBhp8ZAwaikwoCW"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Gest\u00e3o Inteligente",
-        "url": "https://open.spotify.com/album/0vVSwwO55in8qT3PimHJtJ"
-      },
-      "artists": [
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        },
-        {
-          "name": "Pedro Lotto",
-          "url": "https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm"
-        }
-      ],
-      "duration_ms": 118000,
-      "name": "Gest\u00e3o Inteligente",
-      "url": "https://open.spotify.com/track/7hqoLCS3rhWYoWUBOgakaU"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -799,30 +799,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Melhor Gest\u00e3o",
-        "url": "https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT"
-      },
-      "artists": [
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "\u00e9oTGL",
-          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
-        }
-      ],
-      "duration_ms": 206281,
-      "name": "Melhor Gest\u00e3o",
-      "url": "https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Intoc\u00e1vel",
         "url": "https://open.spotify.com/album/0tPRn8Y8Xmj6xErQPnuExw"
       },
@@ -843,6 +819,30 @@
       "duration_ms": 174303,
       "name": "Contando Dinheiro",
       "url": "https://open.spotify.com/track/1jeg6gX21ljllOryvi9SJh"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Melhor Gest\u00e3o",
+        "url": "https://open.spotify.com/album/7cEPHEZOTSlTztMevEMXRT"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "\u00e9oTGL",
+          "url": "https://open.spotify.com/artist/5h32OOrRYLBSUfE7COLjfx"
+        }
+      ],
+      "duration_ms": 206281,
+      "name": "Melhor Gest\u00e3o",
+      "url": "https://open.spotify.com/track/22yszoADkRxUuvJosP9hNg"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -871,6 +871,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Bandido N\u00e3o Dan\u00e7a BB",
+        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
+      },
+      "artists": [
+        {
+          "name": "OG BEBEL",
+          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
+        },
+        {
+          "name": "Young World",
+          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "Bandido N\u00e3o Dan\u00e7a BB",
+      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Nova Fase",
         "url": "https://open.spotify.com/album/5CcnLJwMVyZBlDRxUzffWo"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 212728,
       "name": "Nova Fase",
       "url": "https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Bandido N\u00e3o Dan\u00e7a BB",
-        "url": "https://open.spotify.com/album/4BHeptNqGFzDkXnwDHU1LC"
-      },
-      "artists": [
-        {
-          "name": "OG BEBEL",
-          "url": "https://open.spotify.com/artist/00DTlsaKlzH3JrAjgU61Ha"
-        },
-        {
-          "name": "Young World",
-          "url": "https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY"
-        }
-      ],
-      "duration_ms": 133333,
-      "name": "Bandido N\u00e3o Dan\u00e7a BB",
-      "url": "https://open.spotify.com/track/2YRPuiScVNaKAyNRu03ste"
     },
     {
       "added_at": "2022-08-12 03:01:00",

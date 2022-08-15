@@ -1,12 +1,12 @@
 {
   "description": "Jam and remember the time with this collection of hits by the <a href=\"spotify:artist:3fMbdgg4jU18AjLCKBhRSm\">King of Pop</a>!",
-  "num_followers": 2313012,
+  "num_followers": 2313952,
   "original_name": "This Is Michael Jackson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA0MDQ3MywwMDAwMDAwMGI1NGUzYTNjNDRkZmJkZWVjMmZiZmVlNmI2N2RiOTY5",
+  "snapshot_id": "MTY2MDQ3MzQwMSwwMDAwMDAwMDRjOGU1MDUzZjU0YjE1YmEwNTU5MDUxMjZjZTQ2NDA4",
   "tracks": [
     {
       "added_at": "2022-08-03 07:04:33",
@@ -251,6 +251,22 @@
     {
       "added_at": "2022-08-03 07:04:33",
       "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 245560,
+      "name": "Human Nature",
+      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
+    },
+    {
+      "added_at": "2022-08-03 07:04:33",
+      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 246000,
       "name": "Off the Wall",
       "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W"
-    },
-    {
-      "added_at": "2022-08-03 07:04:33",
-      "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 245560,
-      "name": "Human Nature",
-      "url": "https://open.spotify.com/track/35lAjvsvS9k9HHuP1fjDT8"
     },
     {
       "added_at": "2022-08-03 07:04:33",
@@ -575,6 +575,22 @@
       "duration_ms": 167386,
       "name": "Ben - Single Version",
       "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
+    },
+    {
+      "added_at": "2022-08-14 10:36:41",
+      "album": {
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 260186,
+      "name": "Baby Be Mine",
+      "url": "https://open.spotify.com/track/3bMveJpCPytU79V5A61Bb7"
     },
     {
       "added_at": "2022-08-03 07:04:33",
@@ -949,6 +965,22 @@
       "url": "https://open.spotify.com/track/35SI5zFEhOeo4XDBMwS41S"
     },
     {
+      "added_at": "2022-08-14 10:36:41",
+      "album": {
+        "name": "Off the Wall",
+        "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "It's the Falling in Love",
+      "url": "https://open.spotify.com/track/0CeE7kE8zAnfKIVpdmOaJl"
+    },
+    {
       "added_at": "2022-08-03 07:04:33",
       "album": {
         "name": "Dangerous",
@@ -1031,6 +1063,22 @@
       "duration_ms": 161813,
       "name": "Dancing Machine",
       "url": "https://open.spotify.com/track/0xqb2Euq1PAxKHBA36NUnx"
+    },
+    {
+      "added_at": "2022-08-14 10:36:41",
+      "album": {
+        "name": "Scream",
+        "url": "https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 313200,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/2JzcEEYul9ngmGGPzvFVNL"
     },
     {
       "added_at": "2022-08-03 07:04:33",

@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 280075,
+  "num_followers": 280226,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDQxOTYyY2UxMjkzMDU5Y2I2NjM1OGE3MmFkMTJkYTc3",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDdkNjk2ZTRlZTkwYzJlNGQ4ZTE0MjMzNzQ3Y2RlZDM1",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -783,6 +783,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Let Go",
+        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
+      },
+      "artists": [
+        {
+          "name": "Girls of the Internet",
+          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
+        }
+      ],
+      "duration_ms": 248134,
+      "name": "Let Go",
+      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "We Are",
         "url": "https://open.spotify.com/album/1HXbty0Qf4fnZR4l72UqnR"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 163973,
       "name": "Debold",
       "url": "https://open.spotify.com/track/6TNBx9lvDcqLq1GQCPNJqH"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Let Go",
-        "url": "https://open.spotify.com/album/6nakTZabIppD5sxbHZNIYK"
-      },
-      "artists": [
-        {
-          "name": "Girls of the Internet",
-          "url": "https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE"
-        }
-      ],
-      "duration_ms": 248134,
-      "name": "Let Go",
-      "url": "https://open.spotify.com/track/1d3bEVe13VwmXu1l7ALKJa"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Hot In Herre",
+        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Hot In Herre",
+      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Believe (feat. Fredwave & Jeshi)",
         "url": "https://open.spotify.com/album/0u1IdlsVv5D33d3aPKEZrL"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 208439,
       "name": "Believe (feat. Fredwave & Jeshi)",
       "url": "https://open.spotify.com/track/2DLxohwNmcbWktWGVG0dN7"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Hot In Herre",
-        "url": "https://open.spotify.com/album/3nh64W0WwLqiG8eCHBJWXW"
-      },
-      "artists": [
-        {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
-        }
-      ],
-      "duration_ms": 185786,
-      "name": "Hot In Herre",
-      "url": "https://open.spotify.com/track/6YjRsyEcSOLKYIT5MIkKYT"
     },
     {
       "added_at": "2022-06-20 14:19:42",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
-        "name": "Raining Colours",
-        "url": "https://open.spotify.com/album/0npVoozR4fmwTB9JkE16pN"
+        "name": "When We Stay Alive",
+        "url": "https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT"
       },
       "artists": [
         {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+          "name": "POLI\u00c7A",
+          "url": "https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ"
         }
       ],
-      "duration_ms": 192703,
-      "name": "Raining Colours",
-      "url": "https://open.spotify.com/track/4Dv5Nf2EWuiXS4wbrz5XhP"
+      "duration_ms": 180133,
+      "name": "Sea Without Blue",
+      "url": "https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96"
     }
   ],
   "unique_name": "Soultronic",

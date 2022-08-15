@@ -4,7 +4,7 @@
 
 > That summer in the city feeling, any day of the week.
 
-136 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
+137 songs - 12 hr 31 min - [published](https://open.spotify.com/playlist/3WIgMYDQC96eGhgOWOnDY8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [Look Up](https://open.spotify.com/track/1TuhCnvcHo3mjyDfrNrpXO) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Posh](https://open.spotify.com/album/5wtxJ5FUWZKLwRLMH7ftya) | 3:41 | 2021-09-01 | 2022-07-01 |
 | [Love Endeavor \(Maurice Fulton Remix\) \- Mixed](https://open.spotify.com/track/0oGM4LIuCrXG5aYOAu6ANJ) | [Alice Smith](https://open.spotify.com/artist/4srikj7R58tanh2S0FpoVw), [Maurice Fulton](https://open.spotify.com/artist/4T6l995AHz8HCY7TCfQorD) | [Weekends and Beginnings](https://open.spotify.com/album/4TyJKOcgM9gQlbzAGoOy3C) | 5:32 | 2021-09-01 |  |
 | [Love To The World](https://open.spotify.com/track/7M4L1kiKMhtQZmpyO78DKd) | [L.T.D.](https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ), [Jeffrey Osborne](https://open.spotify.com/artist/5qUHCOUsvVKUpVrMMmztMK) | [Love To The World](https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0) | 5:03 | 2021-09-01 | 2022-05-08 |
-| [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-09-01 |  |
+| [Lurk](https://open.spotify.com/track/18uMuvNai5GtXxw4q8qjKR) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Casey MQ](https://open.spotify.com/artist/2LCeCCDzbmCOqnV33eB3q8) | [For the Beasts](https://open.spotify.com/album/7thl8MxQ3IyU91WpifnEZH) | 2:33 | 2021-09-01 | 2022-08-15 |
 | [Ma quale idea](https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [...Balla!](https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE) | 4:22 | 2021-09-01 |  |
 | [Manhattan Skyline \- JN Spirit of '77 Extended Mix](https://open.spotify.com/track/7i6jzIErXC8cnYhgpCt7b9) | [AC Soul Symphony](https://open.spotify.com/artist/5DsFurQjk8iOOLwG3uj4wQ), [Dave Lee](https://open.spotify.com/artist/5cWh5zsmOIFhuPL0Ay1e7f) | [Manhattan Skyline](https://open.spotify.com/album/4YHDGOswqmUbLbPjmDA5lb) | 11:06 | 2021-09-01 | 2022-07-29 |
 | [Mars 500](https://open.spotify.com/track/7KU1k3MVP8eFj81U3L85i8) | [Chloé \(Thévenin\)](https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq) | [Mars 500](https://open.spotify.com/album/7lfXilxttazWRwNcThahfc) | 6:52 | 2021-09-01 |  |
@@ -91,6 +91,7 @@
 | [Okay Okay \- Remastered](https://open.spotify.com/track/69JFdPriXT7hcR9flVt9U6) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6) | [Okay Okay / Hey Ciao Tu](https://open.spotify.com/album/5xafnQUhXG38lGXHgUgjJ8) | 4:18 | 2021-09-01 |  |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/0gyO07e0f66Qaib1x3m5I7) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Purple Disco Machine Remix\)](https://open.spotify.com/album/2gNUrWdNTwimKCUF8s5euX) | 4:23 | 2021-09-01 | 2022-07-29 |
 | [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/64weGLgl76gsui1qXQatNa) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [On My Mind \(Remixes\)](https://open.spotify.com/album/4xYKqAYxXRQiCS8cICKq9S) | 4:23 | 2021-09-01 | 2022-08-11 |
+| [On My Mind \- Purple Disco Machine Remix](https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Diplo \(Deluxe\)](https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7) | 4:23 | 2021-09-01 |  |
 | [Only the Strong Survive](https://open.spotify.com/track/1TEDAg7S7iClCBtpvaQQGA) | [Billy Paul](https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE) | [Only The Strong Survive](https://open.spotify.com/album/2y65dMRuOLFi9YhGGJ0Jbd) | 5:35 | 2021-09-01 |  |
 | [Peaches & Prunes](https://open.spotify.com/track/3pn3x8rAgZlxmZf3bgsOc7) | [Nightlife Unlimited](https://open.spotify.com/artist/7d6TGYTJoO5XAaVnS5obx6) | [Let's Do It Again](https://open.spotify.com/album/3eUxhAFsXxEQpNjJnb1icD) | 5:06 | 2021-09-01 |  |
 | [People Are All That We Have](https://open.spotify.com/track/6wysLEBaxlsaHvL0FyvD1u) | [Eamon Harkin](https://open.spotify.com/artist/2Vjxc2icvsiPPgzPz9nQQC) | [People Are All That We Have](https://open.spotify.com/album/05ymzuHJPM2fbhnExw0K4N) | 8:53 | 2021-09-01 | 2022-07-29 |

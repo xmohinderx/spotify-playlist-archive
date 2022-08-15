@@ -630,6 +630,24 @@
     },
     {
       "album": {
+        "name": "Ascend",
+        "url": "https://open.spotify.com/album/1eOd6pPjaUdoKqY39dhxch"
+      },
+      "artists": [
+        {
+          "name": "Orjan Nilsen",
+          "url": "https://open.spotify.com/artist/1YuNQvsvOsMBm0ahbxB8qM"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169624,
+      "name": "Ascend",
+      "url": "https://open.spotify.com/track/6MGTRiIoovwhas2yLFv1NE"
+    },
+    {
+      "album": {
         "name": "Euphoria",
         "url": "https://open.spotify.com/album/7Et9aUqQ8jnwIiZ49ka1ck"
       },
@@ -3171,7 +3189,7 @@
       ],
       "date_added": "2022-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 256699,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/0WU0YiTidd4MBZm8k41B92"
@@ -6675,7 +6693,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 216956,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/581wJ8JYtVBZ88fHp2nXe8"
@@ -7709,6 +7727,32 @@
       "duration_ms": 239076,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/5pf8zUt6GraBLaUMm5CYE2"
+    },
+    {
+      "album": {
+        "name": "Sunrise (Rank 1 Remix)",
+        "url": "https://open.spotify.com/album/3eCxBMRubbCTXKTsFal0Ig"
+      },
+      "artists": [
+        {
+          "name": "Aly & Fila",
+          "url": "https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h"
+        },
+        {
+          "name": "JES",
+          "url": "https://open.spotify.com/artist/6UAyCjS0OPMd1Ham8bvs9g"
+        },
+        {
+          "name": "Rank 1",
+          "url": "https://open.spotify.com/artist/1eQe86RbDKRIiGZk08r9YJ"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179538,
+      "name": "Sunrise - Rank 1 Remix",
+      "url": "https://open.spotify.com/track/2gx2VAaBTcp75ksCqo4grN"
     },
     {
       "album": {

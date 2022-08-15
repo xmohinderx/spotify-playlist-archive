@@ -4,7 +4,7 @@
 
 > Los próceres de la historia del rock nacional\. Zoé en portada.
 
-199 songs - 13 hr 5 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
+200 songs - 13 hr 9 min - [published](https://open.spotify.com/playlist/2UMRgZlvzwOWUgThpBtpYG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Brillas](https://open.spotify.com/track/6VuUMo1TusnqBxLTnr3hOI) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/6XMk5rlnvEtbOUhUlIGl0R) | 3:46 | 2022-01-28 | 2022-07-29 |
 | [Cada Vez Que Me Voy](https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q) | [Jumbo](https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB) | [D.D\. Y Ponle Play](https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW) | 2:54 | 2022-01-28 |  |
 | [Camila](https://open.spotify.com/track/5vz03N0LL3TcQZPUs32CDf) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Recupera tus Clásicos \- Fobia](https://open.spotify.com/album/39wqLGypRpdofU9MEM9bl1) | 3:51 | 2022-01-28 | 2022-07-18 |
-| [Camila](https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:51 | 2022-01-28 |  |
+| [Camila](https://open.spotify.com/track/7kdpwk3Y1LbE592bwtpgwj) | [Fobia](https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS) | [Mundo Feliz](https://open.spotify.com/album/0K1gJZEM3OPo9hnxUDZBW6) | 3:51 | 2022-01-28 | 2022-08-15 |
 | [Caminar Sola](https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Caminar Sola](https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2) | 3:18 | 2022-06-30 |  |
 | [Cara de Pizza](https://open.spotify.com/track/0fi9me5TJ12ZibhcY9dxiU) | [Cuca](https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk) | [Rock En Español \- Lo Mejor De Cuca](https://open.spotify.com/album/08zGkegYfFHnM4trm489QN) | 3:35 | 2022-01-28 | 2022-07-07 |
 | [Carretera](https://open.spotify.com/track/4pKR2c4mbEhez3prGd8pJ3) | [Cecilia Toussaint](https://open.spotify.com/artist/7a2z7CIBSPqXtuN6NzSpGb) | [En Esta Ciudad](https://open.spotify.com/album/4zFowI60PGLkWQ9VGNAQnk) | 3:27 | 2022-01-28 | 2022-05-11 |
@@ -139,6 +139,7 @@
 | [No Dejes Que...](https://open.spotify.com/track/1W4eq1XFSjt2LHngDUNr7s) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [Rock Latino](https://open.spotify.com/album/4dD4C9MoS87UAk3LYGLXGK) | 4:39 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/6akss3xIbiQipDjD0i8oYk) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/0TifYmTx6B0YqFrCIOyyFc) | 3:48 | 2022-01-28 | 2022-07-29 |
 | [No Es Que No Te Quiera](https://open.spotify.com/track/2MZ8QFHGiHa5oQcF6nX8fX) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Arunima](https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT) | 3:48 | 2022-01-28 |  |
+| [No Huyas De Mi](https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [Rolotas Veraniegas Vol\. 4](https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf) | 3:47 | 2022-01-28 |  |
 | [No Huyas de Mi \(Roto el Corazón\)](https://open.spotify.com/track/1NRU3h0LirQ079gXxndVOI) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [No Huyas de Mi](https://open.spotify.com/album/5L7cSDI7XtcS4CK3mzLA1x) | 3:52 | 2022-01-28 | 2022-07-29 |
 | [Noreste Caliente](https://open.spotify.com/track/5B9WGojCJWwMhAcTtYhdyJ) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [The Pre End of the World Soundtrack](https://open.spotify.com/album/7LP1CEBNhr3BZ2PXtcOlt3) | 3:14 | 2022-01-28 | 2022-07-29 |
 | [Noreste Caliente](https://open.spotify.com/track/4aiLaYiRbM0JNJl0O1zPyy) | [Jonaz](https://open.spotify.com/artist/3Qldsib1smRXVBihCbSKrV) | [The Pre End Of The World Soundtrack](https://open.spotify.com/album/0HpNgsg7utVVrCH3hzj9fd) | 3:14 | 2022-01-28 |  |

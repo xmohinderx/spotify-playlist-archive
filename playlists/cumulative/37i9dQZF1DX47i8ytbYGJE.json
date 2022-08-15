@@ -4398,6 +4398,24 @@
     },
     {
       "album": {
+        "name": "Presenting Roy Hall",
+        "url": "https://open.spotify.com/album/3QRMRAUWOZ1hCBSj95nAIS"
+      },
+      "artists": [
+        {
+          "name": "Roy Hall",
+          "url": "https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO"
+        }
+      ],
+      "date_added": "2020-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148600,
+      "name": "Three Alley Cats",
+      "url": "https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a"
+    },
+    {
+      "album": {
         "name": "Hot Rock - A Full-Throttle Rockabilly Anthology",
         "url": "https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM"
       },
@@ -4409,7 +4427,7 @@
       ],
       "date_added": "2020-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 148933,
       "name": "Three Alley Cats",
       "url": "https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK"

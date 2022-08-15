@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 
 > The magical world map! Play it in shuffle ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,773 likes - 1,133 songs - 3 day 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,861 likes - 1,133 songs - 3 day 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -359,7 +359,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 349 | [You've Got a Woman](https://open.spotify.com/track/6G6mulVvHFpJsnoKASUPYP) | [Lion](https://open.spotify.com/artist/37UBXFAuwG66gXZSVL4Qnk) | [You've Got a Woman](https://open.spotify.com/album/2RfURH6OZDRc4sHloLYC3D) | 3:25 |
 | 350 | [Lgira](https://open.spotify.com/track/5mSa3dauBkY7HUuq36JNCJ) | [Majid Soula](https://open.spotify.com/artist/3ZSwzyUGtKBQtr1RFmqyiY) | [Chant Amazigh \(Habibi Funk 017\)](https://open.spotify.com/album/6wR1PTOSJRYZeo7zdWWWgD) | 5:55 |
 | 351 | [El Sofá](https://open.spotify.com/track/2ayZhIuBT2GCqP6LO3x8EX) | [Daniel Santos](https://open.spotify.com/artist/6ZBL7tzXJCtsYfHVHozmM2), [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD) | [Éxitos De Oro](https://open.spotify.com/album/42E9an12E6T1nvEX1mRqem) | 3:12 |
-| 352 | [La Pastorcita](https://open.spotify.com/track/7C6GTp0DjWK435LPUGdh1R) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 2:51 |
+| 352 | [La Pastorcita](https://open.spotify.com/track/6Kh547PrBuJKYyBqtTeG9A) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [El Millón de los Destellos](https://open.spotify.com/album/67nMH31vYYHvOeJ6wI9gN4) | 2:51 |
 | 353 | [Talagh](https://open.spotify.com/track/0Khekj2ZgnHQaL6Q3K825M) | [Googoosh](https://open.spotify.com/artist/07L6XZ7QaTsZLP8jwLoFgY) | [40 Golden Hits Of Googoosh](https://open.spotify.com/album/3XPnOwdFm6LmNY8pndc6i9) | 4:46 |
 | 354 | [Longa 79](https://open.spotify.com/track/0toK7sDp952XXK5iqmZENF) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:31 |
 | 355 | [Ominira](https://open.spotify.com/track/5ylffq5ppAHSXPyWQx6qta) | [West African Rhythm Brothers](https://open.spotify.com/artist/6eHx0IIRZoz1ja4upKwXNj) | [London Is the Place for Me 2](https://open.spotify.com/album/17wJJfHgD2HJmM8YextErD) | 3:12 |
@@ -1142,4 +1142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjv2J1ebzlh.md) - [plain]
 | 1132 | [María del Carmen](https://open.spotify.com/track/4wwLkoEEtiWSVy0EVVMiy1) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Cumbias y Más Cumbias](https://open.spotify.com/album/4pD1vtjlFm2ftlWQPZCQJd) | 4:16 |
 | 1133 | [Quem Não Faz Filhos](https://open.spotify.com/track/3GEYdZGGJthGoLjPk9E7Kd) | [Os Kiezos](https://open.spotify.com/artist/5y4KGcTAhFsxkLXQiE8cZf) | [Angola Anos d'Ouro: Reviver Os Kiezos](https://open.spotify.com/album/4yMv047txxleA3j7dtOBBb) | 4:11 |
 
-Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMGM3ZDY0OTgwYzI3ZmY3NzE2YmJmZjAxZmFjMWM4ZDUx`
+Snapshot ID: `MTY1ODkxNzgwMCwwMDAwMDAwMDE0MmFiZWYzODlmNjQ3MGRmMmI1NmI1OTFjMTM2MmIw`

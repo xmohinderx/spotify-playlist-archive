@@ -4,7 +4,7 @@
 
 > No rules\. No boundaries\. Just cool music you need to hear\. Cover: Vundabar
 
-470 songs - 1 day 0 hr 55 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
+471 songs - 1 day 0 hr 58 min - [published](https://open.spotify.com/playlist/4nMPQOlCNMSE5OFGV7xGWt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,8 +96,9 @@
 | [Cutie](https://open.spotify.com/track/4nLTOnpSCBwRlul92HLIyW) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE) | [Cutie](https://open.spotify.com/album/5bn7iiPpq2Za6KX1PekKD2) | 3:04 | 2022-01-28 | 2022-03-12 |
 | [Cyn City 2000](https://open.spotify.com/track/2m64asGcr8QweCVjTDpPJw) | [Joywave](https://open.spotify.com/artist/1UfzhwcOR4yfX7yHTPfC9m) | [Cyn City 2000](https://open.spotify.com/album/2fRtsVqmrgOU6RcL3Ut4c8) | 3:11 | 2021-11-26 | 2022-01-15 |
 | [Dance With My Demons \(feat\. The Score\)](https://open.spotify.com/track/0sHK5UJRZhUKWbcSeLZPha) | [Blame My Youth](https://open.spotify.com/artist/48sKVtcDwCMxPbqCzAQMbP), [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Dance With My Demons EP](https://open.spotify.com/album/1wiN698F4pEAtQv8ZkvZX1) | 3:49 | 2022-02-04 | 2022-04-29 |
-| [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-07-22 |  |
+| [Dangerous](https://open.spotify.com/track/4CDLJLXueLWgcPsCSSF9fS) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/3OsnKTR0MxFIdLAnhmtMOJ) | 3:07 | 2022-07-22 | 2022-08-15 |
 | [Dangerous](https://open.spotify.com/track/4gIGsI98cnPqRDVXvXquj5) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Dangerous](https://open.spotify.com/album/2DleYTBfwSskKiMi0vkuuh) | 3:07 | 2022-06-17 | 2022-07-29 |
+| [Dangerous](https://open.spotify.com/track/5vzoKsGX13FCKJShncIxz2) | [Welshly Arms](https://open.spotify.com/artist/1xKrH6GSh9CJh8nYwbqW7B) | [Legendary \(Stripped\)](https://open.spotify.com/album/16MbBJJa2B8HjCdTL14y7Y) | 3:07 | 2022-08-12 |  |
 | [debbie downer](https://open.spotify.com/track/6VTzauIrG2hjKtKFYFJfMT) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [debbie downer](https://open.spotify.com/album/4jxtbLNDuxXJwXk8D9EhS6) | 2:39 | 2022-02-11 | 2022-04-29 |
 | [DEEP CUTS](https://open.spotify.com/track/2ZTp176VMqvwwcQ62AQuCk) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [DEEP CUTS](https://open.spotify.com/album/2HbkSg3fAswxdCk5Bj23LO) | 4:14 | 2022-07-22 |  |
 | [Demons](https://open.spotify.com/track/1svBusMnaBYZBvab7smEPv) | [Beauty School Dropout](https://open.spotify.com/artist/2MJMW3WtQnDq7DKezFn5jO) | [Demons](https://open.spotify.com/album/32IzWnzWKFtYeQXhnqApVo) | 3:01 | 2021-11-26 | 2022-01-15 |

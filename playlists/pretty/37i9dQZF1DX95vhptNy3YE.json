@@ -1,12 +1,12 @@
 {
   "description": "Mc Poze do Rodo e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 139393,
+  "num_followers": 139611,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDc1NzkxM2FlZGExOTQ3MWJkN2ZiNjQ2ZjQwMDU3N2Vk",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDQ0ZTk5ODBmOGI5ZDhmNWVhODliYmQzOWRjODVmNTBh",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "F\u00e9",
-        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
-      },
-      "artists": [
-        {
-          "name": "IZA",
-          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
-        }
-      ],
-      "duration_ms": 185400,
-      "name": "F\u00e9",
-      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 306141,
       "name": "Viz\u00e3o de Cria 2",
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "F\u00e9",
+        "url": "https://open.spotify.com/album/1zY9fsTzRpo14orML00h25"
+      },
+      "artists": [
+        {
+          "name": "IZA",
+          "url": "https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes"
+        }
+      ],
+      "duration_ms": 185400,
+      "name": "F\u00e9",
+      "url": "https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -791,6 +791,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "ZIMA",
+        "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        }
+      ],
+      "duration_ms": 150932,
+      "name": "Rom\u00e2ntico 2",
+      "url": "https://open.spotify.com/track/6OPqR2PJZpPlWVZ4IOyljf"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Grau & Corte",
         "url": "https://open.spotify.com/album/1rGGyHnu4byllHhKYc59j2"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "ZIMA",
-        "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        }
-      ],
-      "duration_ms": 150932,
-      "name": "Rom\u00e2ntico 2",
-      "url": "https://open.spotify.com/track/6OPqR2PJZpPlWVZ4IOyljf"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "WILLY",
         "url": "https://open.spotify.com/album/5voxHC8bWiqFAw4toUcsZs"
       },
@@ -855,6 +855,54 @@
       "duration_ms": 165000,
       "name": "WILLY",
       "url": "https://open.spotify.com/track/2nmfojpIbGRmDa2UCfddYW"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Outfit Valioso 3",
+        "url": "https://open.spotify.com/album/6ROz4nAk6ctWHjEiBdyQFu"
+      },
+      "artists": [
+        {
+          "name": "MC Cebezinho",
+          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc PP da VS",
+          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
+        },
+        {
+          "name": "Dj Victor",
+          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
+        }
+      ],
+      "duration_ms": 544000,
+      "name": "Outfit Valioso 3",
+      "url": "https://open.spotify.com/track/0I3wALFTuZBvMuZbmHvG45"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -907,54 +955,6 @@
       "duration_ms": 212728,
       "name": "Nova Fase",
       "url": "https://open.spotify.com/track/2V4uzJ0zujKhwlhVQ0NAQH"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Outfit Valioso 3",
-        "url": "https://open.spotify.com/album/6ROz4nAk6ctWHjEiBdyQFu"
-      },
-      "artists": [
-        {
-          "name": "MC Cebezinho",
-          "url": "https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC GP",
-          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Salvador Da Rima",
-          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
-        },
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "Mc PP da VS",
-          "url": "https://open.spotify.com/artist/2z8FuS3crq9QwDVKlR31hP"
-        },
-        {
-          "name": "Dj Victor",
-          "url": "https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC"
-        }
-      ],
-      "duration_ms": 544000,
-      "name": "Outfit Valioso 3",
-      "url": "https://open.spotify.com/track/0I3wALFTuZBvMuZbmHvG45"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "De Onde Eu Venho (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6ORiwb028kOT7s5ZfkP4Fa"
+      },
+      "artists": [
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        }
+      ],
+      "duration_ms": 228949,
+      "name": "De Onde Eu Venho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5sBrPQKMisZePolGEXuGno"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "ONNiKA",
         "url": "https://open.spotify.com/album/6KTGjKqOhXcHTUKb1EqeLd"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 139241,
       "name": "T SHIRT (feat. J\u00e9 Santiago)",
       "url": "https://open.spotify.com/track/4yx4UxUQwBkRtSWkM854aS"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "De Onde Eu Venho (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6ORiwb028kOT7s5ZfkP4Fa"
-      },
-      "artists": [
-        {
-          "name": "Thiago Soares",
-          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
-        }
-      ],
-      "duration_ms": 228949,
-      "name": "De Onde Eu Venho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5sBrPQKMisZePolGEXuGno"
     },
     {
       "added_at": "2022-08-12 03:01:00",

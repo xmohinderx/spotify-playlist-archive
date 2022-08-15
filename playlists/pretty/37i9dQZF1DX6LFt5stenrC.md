@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 
 > Songs from your family's favorite TV shows.
 
-[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 50 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 50 songs - 1 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6LFt5stenrC.md) - [plain]
 | 39 | [Warriors \(She\-Ra and the Princesses of Power\)](https://open.spotify.com/track/1VQTA3jeKZ9ul94xroHmbz) | [AJ Michalka](https://open.spotify.com/artist/30HtguQmog7sTEvDJowVEC) | [The Music of She\-Ra and the Princesses of Power](https://open.spotify.com/album/6S2nR6z4kPQI7WT798Tl1U) | 3:30 |
 | 40 | [Mickey Mouse Funhouse Main Title Theme](https://open.spotify.com/track/2BBv4eQW0UwyQdIyoP0NiR) | [Mickey Mouse](https://open.spotify.com/artist/6w6OUqDUOPDvEHY85kbJRE), [Mickey Mouse Funhouse \- Cast](https://open.spotify.com/artist/1Vn7zu8r6zi4pYbSq0XWIS) | [Disney Junior Music: Mickey Mouse Funhouse Vol\. 1](https://open.spotify.com/album/4WAOBwmnOk4t3aZ7a4z7ZX) | 1:55 |
 | 41 | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/track/73iysPDdIf3M505nHzfflY) | [Backhouse Mike](https://open.spotify.com/artist/1ln7aue0Yjz4QOqcf2gtUL) | [Just Fine \(Sam & Cat Theme Song\)](https://open.spotify.com/album/3KrKRIL5UXe4ozYXrEfLOO) | 2:37 |
-| 42 | [Alexa & Katie Main Title Theme \- A Netflix Original Series](https://open.spotify.com/track/5iLwDu3hzut3oj4MIfFL6j) | [Paris Berelc](https://open.spotify.com/artist/6O4Tnp9X3FIOor5qZrBT2Q) | [Alexa & Katie Main Title Theme \(A Netflix Original Series\)](https://open.spotify.com/album/5gkrODtW8NqeCa9fZiGe0x) | 0:31 |
-| 43 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 |
+| 42 | [Make Your Move](https://open.spotify.com/track/2q49j6l5dy3BmNiI36iz8x) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Make Your Move](https://open.spotify.com/album/2nyp8Xkf7tpMADBQ6Xo8vI) | 1:41 |
+| 43 | [Alexa & Katie Main Title Theme \- A Netflix Original Series](https://open.spotify.com/track/5iLwDu3hzut3oj4MIfFL6j) | [Paris Berelc](https://open.spotify.com/artist/6O4Tnp9X3FIOor5qZrBT2Q) | [Alexa & Katie Main Title Theme \(A Netflix Original Series\)](https://open.spotify.com/album/5gkrODtW8NqeCa9fZiGe0x) | 0:31 |
 | 44 | [Bacon Pancakes \(feat\. John DiMaggio\)](https://open.spotify.com/track/3CT99LPgxJ52AQse2LPi2U) | [Adventure Time](https://open.spotify.com/artist/3Op7D6tFVJCOHW6EAV0ck1), [John DiMaggio](https://open.spotify.com/artist/04jyrvfZFrbSjUlEXwsA53) | [Adventure Time, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/7irFTapPhttGWfJxgaH9pW) | 0:33 |
 | 45 | [Butterbean’s Café Theme Song](https://open.spotify.com/track/1Hlxa7ovZajhyd6ClPFzdV) | [Butterbean’s Cafe](https://open.spotify.com/artist/60I3eGhWjudFPD2aGoFU7D) | [Butterbean's Fairy Best Songs](https://open.spotify.com/album/2jjc0iu6j4tfpOgXxDtRLQ) | 0:33 |
 | 46 | [Tomorrow](https://open.spotify.com/track/36q9e2bci1iIm9e1zlJ8y0) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Tomorrow](https://open.spotify.com/album/32J3TIXdYC4fQpK8IFhTDX) | 2:43 |
 | 47 | [The Casagrandes Theme Song](https://open.spotify.com/track/6wvT81yLxtGnRlWfAKzYwb) | [The Casagrandes](https://open.spotify.com/artist/6mZmc5IDtEr4QLHFDdV9pa), [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [The Casagrandes Theme Song](https://open.spotify.com/album/4n3HX545ECl7YtcGJf6BCb) | 1:22 |
 | 48 | [That's So Raven \(Theme Song\)](https://open.spotify.com/track/02sVnwa4wVikUfBh6PN8u7) | [Raven\-Symoné](https://open.spotify.com/artist/6kUQJlewgd3UFKVYrrmILh) | [Songs from That's So Raven](https://open.spotify.com/album/6d2GhUjA9Ce6dRsMDOkmRu) | 0:50 |
 | 49 | [We're on the Case](https://open.spotify.com/track/7zrf9DSawhAV7TizF05P26) | [Mira, Royal Detective \- Cast](https://open.spotify.com/artist/4wz6QHgIkdmvQwhEmzwWZj) | [Disney Junior Music: Mira, Royal Detective](https://open.spotify.com/album/0bbffEsQXm7Z16d0iC3W2k) | 0:34 |
-| 50 | [Opening Titles \- Remix](https://open.spotify.com/track/5uPxKN5VhekSg2mU5jK09Z) | [My Little Pony](https://open.spotify.com/artist/5mM9eNte0aWttOiMhPb2dM) | [Equestria Girls \- EP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4tGnJMBAttq0rIAzDAMHt0) | 1:31 |
+| 50 | [PJ Masks Are Feeling Great](https://open.spotify.com/track/2tOQWE0pK4uXeVFrjOELAW) | [PJ Masks](https://open.spotify.com/artist/1VBbewnHtegBSEB7kRXDzQ) | [Here We Come](https://open.spotify.com/album/5EMXt35wUlhAYTpQHiuSsR) | 1:01 |
 
-Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDFmMmJjMzAzYWJkZGI4YzA0ZjU3NDU1NTM0NGE3ZTZk`
+Snapshot ID: `MTY1MDI5Mzg1NSwwMDAwMDAwMDViY2I0ZTM1NDk5ZWYyZGU0MzRhZTc4NzczYzRhZmEz`

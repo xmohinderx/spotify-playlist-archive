@@ -4,7 +4,7 @@
 
 > Release The Bats! Cover: Siouxsie and the Banshees
 
-248 songs - 18 hr 56 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
+249 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/4KApc26ZEN8ii4rvfEh5sM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Pictures Of You \- Remastered](https://open.spotify.com/track/2o49Twc3qrNMOt8gq9W06L) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 7:28 | 2021-10-15 | 2022-07-29 |
 | [Plainsong \- Remastered](https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Disintegration \(Deluxe Edition\)](https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy) | 5:17 | 2021-10-15 | 2022-07-29 |
 | [Play For Today](https://open.spotify.com/track/77HYwsktlwB37zyEH9dgYY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/6hmiQJ6FbPEQIDeKEIKSck) | 3:38 | 2021-10-15 | 2022-07-29 |
+| [Play for Today \- 2006 Remaster](https://open.spotify.com/track/1PnQ1sK77wMXagGDhwfBdY) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds](https://open.spotify.com/album/2KWHRfKSRpgsxNGIl2nQva) | 3:40 | 2021-10-15 |  |
 | [Polycephaly](https://open.spotify.com/track/5YCKCKyCDg4HBZxYBVlbUt) | [Doon Kanda](https://open.spotify.com/artist/6w7wqJo8dY6Q7BWIRFBFX3) | [Polycephaly](https://open.spotify.com/album/1pR81489phHIt86Z4Q5IfQ) | 3:11 | 2021-10-15 | 2022-04-21 |
 | [Prayer From Nowhere](https://open.spotify.com/track/0NraHcNqLpGi934K0KG7vh) | [Cold Cave](https://open.spotify.com/artist/1ssulsHf3JrWakLxa8yFad) | [Prayer from Nowhere](https://open.spotify.com/album/7GKyuDirKyXIf6MEVYz6vj) | 5:03 | 2021-10-15 | 2022-07-29 |
 | [Promised Land](https://open.spotify.com/track/6iqQCvQ33Ss0SiAgl6MRnz) | [Skeletal Family](https://open.spotify.com/artist/78OgxRnIdBCdFBmKhP2Fz2) | [Best Of...](https://open.spotify.com/album/6uiuucKurNcbu19yszkAaO) | 4:51 | 2021-10-15 | 2022-07-29 |
@@ -217,7 +218,7 @@
 | [The Hunt \- 2005 Remaster](https://open.spotify.com/track/4yDqmEnm98SIAvWG9qkzUP) | [New Model Army](https://open.spotify.com/artist/7n1EM42Fseebd9H2p8eWWS) | [The Ghost Of Cain \(Bonus Content\)](https://open.spotify.com/album/3c7VsK9Ah0eX7kDWOWtjV1) | 4:12 | 2021-10-15 | 2022-07-28 |
 | [The Interimlovers](https://open.spotify.com/track/6IfWLGF3IOFJN836q5ATlV) | [Einstürzende Neubauten](https://open.spotify.com/artist/7KomCxZv6D5qCVvefwMnwB) | [Tabula Rasa](https://open.spotify.com/album/0IOEITeE0fxoObsnTFI2Kr) | 4:13 | 2021-10-15 | 2022-07-27 |
 | [The Killing Moon](https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Songs to Learn & Sing](https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb) | 5:46 | 2021-10-15 |  |
-| [The Lovecats](https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 | 2021-10-15 |  |
+| [The Lovecats](https://open.spotify.com/track/5GHwCpwEos0FzYe55slXEp) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Greatest Hits](https://open.spotify.com/album/34ozkv3AkFksZD8srOmOrX) | 3:40 | 2021-10-15 | 2022-08-15 |
 | [The Lovecats](https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Japanese Whispers](https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN) | 3:40 | 2021-10-15 | 2022-07-29 |
 | [The Passion of Lovers](https://open.spotify.com/track/0Ha6Oee9KzRwNxAbfznzYJ) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/6Cj5mXjHSi8eJ5jOAI8tsV) | 3:51 | 2021-10-15 |  |
 | [The Passion of Lovers](https://open.spotify.com/track/3BnW7igjh4qezy645pckgX) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [Mask](https://open.spotify.com/album/378ahhobt690RQEsyD8DaK) | 3:52 | 2021-10-15 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Las mejores nuevas canciones cristianas.  Foto: Living",
-  "num_followers": 103856,
+  "num_followers": 103923,
   "original_name": "Novedades Cristianas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MzU4NCwwMDAwMDAwMDEzMjM3NjdhZDc1OWJiZjNlNzkwNDYzZTgwZGE1NmE5",
+  "snapshot_id": "MTY2MDI4MzU4NCwwMDAwMDAwMGI3NmQwMmJlYWJlYThlZDQxNDY2MDFjOTQyZWE5MDQ2",
   "tracks": [
     {
       "added_at": "2022-08-12 05:53:04",
@@ -523,6 +523,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Alumbras Mi Vida",
+        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
+      },
+      "artists": [
+        {
+          "name": "Rojo",
+          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "Lo Que T\u00fa Digas",
+      "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "Gozo",
         "url": "https://open.spotify.com/album/2i0mONvYiLsguOLI409PTj"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 225500,
       "name": "Gozo",
       "url": "https://open.spotify.com/track/6FGhI4d8FgLeAf1QG8k7Re"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Alumbras Mi Vida",
-        "url": "https://open.spotify.com/album/2ioiX3BKpvY8wj5uIGQbBH"
-      },
-      "artists": [
-        {
-          "name": "Rojo",
-          "url": "https://open.spotify.com/artist/5NvKO965JkIJanRuKQPVN6"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "Lo Que T\u00fa Digas",
-      "url": "https://open.spotify.com/track/1IsJQPN3ZYz6C3FbFXTDuN"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -599,22 +599,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Este Es Mi Tiempo",
-        "url": "https://open.spotify.com/album/2bjaQFCYh5qpzolSXvsFql"
+        "name": "Guiame",
+        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
       },
       "artists": [
         {
-          "name": "Hillary Benavidez",
-          "url": "https://open.spotify.com/artist/1qKvI22XmvAzbzUlc1FEOw"
-        },
-        {
-          "name": "Lucia Parker",
-          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+          "name": "Gabriel EMC",
+          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
         }
       ],
-      "duration_ms": 239063,
-      "name": "Este Es Mi Tiempo",
-      "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
+      "duration_ms": 200963,
+      "name": "Gu\u00edame",
+      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -647,22 +643,6 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Guiame",
-        "url": "https://open.spotify.com/album/3SSB5daodrYRnJKWW4LeIu"
-      },
-      "artists": [
-        {
-          "name": "Gabriel EMC",
-          "url": "https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH"
-        }
-      ],
-      "duration_ms": 200963,
-      "name": "Gu\u00edame",
-      "url": "https://open.spotify.com/track/4c4LbMkJxQ7o9UBdJxVzqn"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
         "name": "Tu Casa Se Llena de Paz",
         "url": "https://open.spotify.com/album/5zedYQbSbBuAdGX4yj2uLQ"
       },
@@ -675,6 +655,26 @@
       "duration_ms": 300999,
       "name": "A Dios Sea la Gloria",
       "url": "https://open.spotify.com/track/1UNIH3HEljFd6PsP8lViVD"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Este Es Mi Tiempo",
+        "url": "https://open.spotify.com/album/2bjaQFCYh5qpzolSXvsFql"
+      },
+      "artists": [
+        {
+          "name": "Hillary Benavidez",
+          "url": "https://open.spotify.com/artist/1qKvI22XmvAzbzUlc1FEOw"
+        },
+        {
+          "name": "Lucia Parker",
+          "url": "https://open.spotify.com/artist/182rLxt7agQBKxEQ463u1G"
+        }
+      ],
+      "duration_ms": 239063,
+      "name": "Este Es Mi Tiempo",
+      "url": "https://open.spotify.com/track/3Sge1EEIo3YeYa3SsgNXrw"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -695,6 +695,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Aqu\u00ed Hay un Muchacho",
+        "url": "https://open.spotify.com/album/2sTfofXsEqZx6J6Wy9zMmS"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9sed",
+          "url": "https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Aqu\u00ed Hay un Muchacho",
+      "url": "https://open.spotify.com/track/6kHUp9rwMGcSG2xVclc2kB"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "DULCE",
         "url": "https://open.spotify.com/album/73vUB3SE8B4k7DuKxUx3Bw"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 172000,
       "name": "DULCE",
       "url": "https://open.spotify.com/track/2TGT7kT5bWHOr19j58bjwl"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Aqu\u00ed Hay un Muchacho",
-        "url": "https://open.spotify.com/album/2sTfofXsEqZx6J6Wy9zMmS"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9sed",
-          "url": "https://open.spotify.com/artist/3TXp4wMgvRheVQPf1PEV2P"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Aqu\u00ed Hay un Muchacho",
-      "url": "https://open.spotify.com/track/6kHUp9rwMGcSG2xVclc2kB"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -771,22 +771,6 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Por Su Esp\u00edritu",
-        "url": "https://open.spotify.com/album/6X5kP1SBihGi99Z7mR1GlT"
-      },
-      "artists": [
-        {
-          "name": "M\u00fasica M\u00e1s Vida",
-          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
-        }
-      ],
-      "duration_ms": 315163,
-      "name": "Por Su Esp\u00edritu",
-      "url": "https://open.spotify.com/track/0BRzZYB9McVQJc5XlXOt2g"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
         "name": "En Ti Esperamos",
         "url": "https://open.spotify.com/album/4q0sY1u8JRyXTnXIoWXroG"
       },
@@ -803,6 +787,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Por Su Esp\u00edritu",
+        "url": "https://open.spotify.com/album/6X5kP1SBihGi99Z7mR1GlT"
+      },
+      "artists": [
+        {
+          "name": "M\u00fasica M\u00e1s Vida",
+          "url": "https://open.spotify.com/artist/6UhhJKLSxxAPmFQ6j8wY1c"
+        }
+      ],
+      "duration_ms": 315163,
+      "name": "Por Su Esp\u00edritu",
+      "url": "https://open.spotify.com/track/0BRzZYB9McVQJc5XlXOt2g"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "Corro Ante Ti",
         "url": "https://open.spotify.com/album/3GM0rKIyYeIizZ06WBsaHZ"
       },
@@ -815,26 +815,6 @@
       "duration_ms": 252134,
       "name": "Corro Ante Ti",
       "url": "https://open.spotify.com/track/7i0LfXbTNpFVu4gE9TIh6o"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Firme Y Enfocado",
-        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
-      },
-      "artists": [
-        {
-          "name": "Manny Montes",
-          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
-        },
-        {
-          "name": "Pr\u00e1ctiko",
-          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
-        }
-      ],
-      "duration_ms": 231627,
-      "name": "Firme Y Enfocado",
-      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -859,22 +839,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Vuelo",
-        "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
+        "name": "Firme Y Enfocado",
+        "url": "https://open.spotify.com/album/5ZE3KBdyEiI41sXiw1BUZx"
       },
       "artists": [
         {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+          "name": "Manny Montes",
+          "url": "https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd"
         },
         {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+          "name": "Pr\u00e1ctiko",
+          "url": "https://open.spotify.com/artist/6ynr4n6tj5GrNjiZudUjWA"
         }
       ],
-      "duration_ms": 125714,
-      "name": "Vuelo",
-      "url": "https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep"
+      "duration_ms": 231627,
+      "name": "Firme Y Enfocado",
+      "url": "https://open.spotify.com/track/3pFyebmyBd2tQzQKx3HsGr"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -891,6 +871,26 @@
       "duration_ms": 180173,
       "name": "Nada",
       "url": "https://open.spotify.com/track/3P09VuL6OIqf52ddF9KRWG"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Vuelo",
+        "url": "https://open.spotify.com/album/5vdIbqun6cWgFXRl5GEobV"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+        }
+      ],
+      "duration_ms": 125714,
+      "name": "Vuelo",
+      "url": "https://open.spotify.com/track/5Fkqabb3R8drUNbWRZ0zep"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z"
-      },
-      "artists": [
-        {
-          "name": "El Leo Pa\u00b4",
-          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
-        }
-      ],
-      "duration_ms": 244793,
-      "name": "Indestructible",
-      "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
         "name": "Sobre La Roca",
         "url": "https://open.spotify.com/album/2b8BeXIEru1tgbGnOFMAYR"
       },
@@ -987,46 +971,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Me Has Cambiado",
-        "url": "https://open.spotify.com/album/6pTATPNGGnPjf3s9nbBcuP"
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/4aGdIqQXhaVflnLZjYDL6Z"
       },
       "artists": [
         {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "River",
-          "url": "https://open.spotify.com/artist/0m0a8tOXrM3wJD6IrCuPtg"
-        },
-        {
-          "name": "Reuben Van Lierop",
-          "url": "https://open.spotify.com/artist/2qWla13Grfc74uuLk08d1R"
+          "name": "El Leo Pa\u00b4",
+          "url": "https://open.spotify.com/artist/67SzMFfffYwYnlQhxPGsOt"
         }
       ],
-      "duration_ms": 156190,
-      "name": "Me Has Cambiado",
-      "url": "https://open.spotify.com/track/0NSKiywwGZyL8dvvljO4Vi"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Bandera Blanca",
-        "url": "https://open.spotify.com/album/2szXozV47NGFejMLMvzyzd"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        },
-        {
-          "name": "Angel Brown",
-          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
-        }
-      ],
-      "duration_ms": 217600,
-      "name": "Bandera Blanca",
-      "url": "https://open.spotify.com/track/1jfaSCIrj7sZ9RlmeCdOLT"
+      "duration_ms": 244793,
+      "name": "Indestructible",
+      "url": "https://open.spotify.com/track/6pSAPtBPK6YlfOQ0DxqIQw"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1067,6 +1023,50 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Bandera Blanca",
+        "url": "https://open.spotify.com/album/2szXozV47NGFejMLMvzyzd"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        },
+        {
+          "name": "Angel Brown",
+          "url": "https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0"
+        }
+      ],
+      "duration_ms": 217600,
+      "name": "Bandera Blanca",
+      "url": "https://open.spotify.com/track/1jfaSCIrj7sZ9RlmeCdOLT"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Me Has Cambiado",
+        "url": "https://open.spotify.com/album/6pTATPNGGnPjf3s9nbBcuP"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "River",
+          "url": "https://open.spotify.com/artist/0m0a8tOXrM3wJD6IrCuPtg"
+        },
+        {
+          "name": "Reuben Van Lierop",
+          "url": "https://open.spotify.com/artist/2qWla13Grfc74uuLk08d1R"
+        }
+      ],
+      "duration_ms": 156190,
+      "name": "Me Has Cambiado",
+      "url": "https://open.spotify.com/track/0NSKiywwGZyL8dvvljO4Vi"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "Lo Volver\u00e1s a Hacer",
         "url": "https://open.spotify.com/album/7uLEeDyg4eehLd5qLh73Iq"
       },
@@ -1083,6 +1083,22 @@
       "duration_ms": 348074,
       "name": "Lo Volver\u00e1s a Hacer",
       "url": "https://open.spotify.com/track/5MCSuE4VwYj7aOOcfnqiWJ"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Mi Sanador (The Healing)",
+        "url": "https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt"
+      },
+      "artists": [
+        {
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+        }
+      ],
+      "duration_ms": 197333,
+      "name": "Mi Sanador (The Healing)",
+      "url": "https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1107,22 +1123,6 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Mi Sanador (The Healing)",
-        "url": "https://open.spotify.com/album/2HYp66kwn5xrOaTolFbrUt"
-      },
-      "artists": [
-        {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Mi Sanador (The Healing)",
-      "url": "https://open.spotify.com/track/7gPP82EsbzEyHmCQ2tnNko"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
         "name": "El rollo y el Cordero",
         "url": "https://open.spotify.com/album/2z0FfU7JteYH3TDUkqgwr9"
       },
@@ -1139,26 +1139,6 @@
       "duration_ms": 537226,
       "name": "El rollo y el Cordero",
       "url": "https://open.spotify.com/track/7azBBVR9SOOiEjH4uH6wCW"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
-      },
-      "artists": [
-        {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
-        },
-        {
-          "name": "Belu Rodriguez Kuhn",
-          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1195,22 +1175,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Am\u00e9n Am\u00e9n (En Vivo)",
-        "url": "https://open.spotify.com/album/0VlS3rEeQngjJGdmNg7yeY"
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/4a7I2zC17cptqkC2cu5MHl"
       },
       "artists": [
         {
-          "name": "Edward Rivera",
-          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
         },
         {
-          "name": "Aaron Moses",
-          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
+          "name": "Belu Rodriguez Kuhn",
+          "url": "https://open.spotify.com/artist/4bl02S6pPimhORndqVx5bN"
         }
       ],
-      "duration_ms": 504273,
-      "name": "Am\u00e9n Am\u00e9n - En Vivo",
-      "url": "https://open.spotify.com/track/6V5WPbMnKSSKgr3gaZ2GiD"
+      "duration_ms": 181266,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/1HRxYEsZog4p6x8gRbrFqG"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1231,18 +1211,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Fuiste La Cura",
-        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
+        "name": "Am\u00e9n Am\u00e9n (En Vivo)",
+        "url": "https://open.spotify.com/album/0VlS3rEeQngjJGdmNg7yeY"
       },
       "artists": [
         {
-          "name": "MAJU",
-          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
+          "name": "Edward Rivera",
+          "url": "https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv"
+        },
+        {
+          "name": "Aaron Moses",
+          "url": "https://open.spotify.com/artist/4QzrhxZWtXfuW6rZATPTE7"
         }
       ],
-      "duration_ms": 191040,
-      "name": "Fuiste La Cura",
-      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
+      "duration_ms": 504273,
+      "name": "Am\u00e9n Am\u00e9n - En Vivo",
+      "url": "https://open.spotify.com/track/6V5WPbMnKSSKgr3gaZ2GiD"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1259,6 +1243,22 @@
       "duration_ms": 242497,
       "name": "Somos Las Voces",
       "url": "https://open.spotify.com/track/5R4hkWGbAiuKFkZaaykViK"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Fuiste La Cura",
+        "url": "https://open.spotify.com/album/0kx8L6MKRRhRnRnuB0lcKY"
+      },
+      "artists": [
+        {
+          "name": "MAJU",
+          "url": "https://open.spotify.com/artist/0AhvXXcXDmqGRkqKGA2rXk"
+        }
+      ],
+      "duration_ms": 191040,
+      "name": "Fuiste La Cura",
+      "url": "https://open.spotify.com/track/4MnCQpCCDroSRDczGV0eqB"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1283,18 +1283,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Tengo Un Padre",
-        "url": "https://open.spotify.com/album/1dyCh2iDBk0npbZd2pMZ8S"
+        "name": "This is What We Came For",
+        "url": "https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii"
       },
       "artists": [
         {
-          "name": "Kyrios",
-          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
+          "name": "Shealy Worship",
+          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
+        },
+        {
+          "name": "Nick Gaggero",
+          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
         }
       ],
-      "duration_ms": 255441,
-      "name": "Tengo Un Padre",
-      "url": "https://open.spotify.com/track/3ZXsaKPDp9R3GiHlb06HyJ"
+      "duration_ms": 236571,
+      "name": "Vine A Buscarte",
+      "url": "https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1319,22 +1323,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "This is What We Came For",
-        "url": "https://open.spotify.com/album/1pSBztmBA4hsDbnClXY6ii"
+        "name": "Tengo Un Padre",
+        "url": "https://open.spotify.com/album/1dyCh2iDBk0npbZd2pMZ8S"
       },
       "artists": [
         {
-          "name": "Shealy Worship",
-          "url": "https://open.spotify.com/artist/2cqXAPVTZTXVfBsoFjsZ61"
-        },
-        {
-          "name": "Nick Gaggero",
-          "url": "https://open.spotify.com/artist/1xsQ2zLHCOGgc5bWaYTk0S"
+          "name": "Kyrios",
+          "url": "https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Vine A Buscarte",
-      "url": "https://open.spotify.com/track/24dWgvBSis3etl6ieapzZG"
+      "duration_ms": 255441,
+      "name": "Tengo Un Padre",
+      "url": "https://open.spotify.com/track/3ZXsaKPDp9R3GiHlb06HyJ"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1351,6 +1351,26 @@
       "duration_ms": 704231,
       "name": "Haz Lo Que Quieras",
       "url": "https://open.spotify.com/track/02cqzD0CXc9YYRPRWg9YEe"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
+        "name": "Ando Buscando",
+        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+      },
+      "artists": [
+        {
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+        },
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "duration_ms": 160979,
+      "name": "Ando Buscando",
+      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1391,22 +1411,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Ando Buscando",
-        "url": "https://open.spotify.com/album/15lgAi4rF8nNEwMQwjzBAU"
+        "name": "ROMPE EL CIELO",
+        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
-        },
-        {
-          "name": "Oveja Cosmica",
-          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+          "name": "Nancy Amancio",
+          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
         }
       ],
-      "duration_ms": 160979,
-      "name": "Ando Buscando",
-      "url": "https://open.spotify.com/track/4CtrV2YrWF6AeaFmIPzP1j"
+      "duration_ms": 210818,
+      "name": "La Prueba De Tu Amor",
+      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1427,22 +1443,6 @@
       "duration_ms": 228150,
       "name": "El Se\u00f1or es mi Rey",
       "url": "https://open.spotify.com/track/1Q1wdUTQhCbngy0yq1KM1E"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "ROMPE EL CIELO",
-        "url": "https://open.spotify.com/album/5XDIK7qq5CxkSHS99Ryrgq"
-      },
-      "artists": [
-        {
-          "name": "Nancy Amancio",
-          "url": "https://open.spotify.com/artist/4225vUKDHwHhcYY9IRWwX0"
-        }
-      ],
-      "duration_ms": 210818,
-      "name": "La Prueba De Tu Amor",
-      "url": "https://open.spotify.com/track/69TqrxFChYFaQKQuFFi3Xt"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "Mi Eterno Destino (Live Session From Los Angeles)",
-        "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
+        "name": "LONELY / TODO VA A ESTAR BIEN",
+        "url": "https://open.spotify.com/album/077jVLL1if640bZBILlRpC"
       },
       "artists": [
         {
-          "name": "Estaci\u00f3n Cero",
-          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+          "name": "Edson Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
         }
       ],
-      "duration_ms": 219878,
-      "name": "Mi Eterno Destino - Live Session From Los Angeles",
-      "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
+      "duration_ms": 197820,
+      "name": "LONELY / TODO VA A ESTAR BIEN",
+      "url": "https://open.spotify.com/track/0XRyf4oID1DVbLCheNnki4"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Mi Eterno Destino (Live Session From Los Angeles)",
+        "url": "https://open.spotify.com/album/4ZNs1mvGqLfSbHr86jynKy"
+      },
+      "artists": [
+        {
+          "name": "Estaci\u00f3n Cero",
+          "url": "https://open.spotify.com/artist/0ICDrTxXsdPG2nopFWSRyI"
+        }
+      ],
+      "duration_ms": 219878,
+      "name": "Mi Eterno Destino - Live Session From Los Angeles",
+      "url": "https://open.spotify.com/track/0R76qZVB37v5LpuwRNZgkB"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "Vamo' a Celebrar",
         "url": "https://open.spotify.com/album/2EAZ76xgfVUAEk8lz0EoGJ"
       },
@@ -1555,18 +1571,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "LONELY / TODO VA A ESTAR BIEN",
-        "url": "https://open.spotify.com/album/077jVLL1if640bZBILlRpC"
+        "name": "100K",
+        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
       },
       "artists": [
         {
-          "name": "Edson Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/3dBVADVw0S1wdv0PKbDaMT"
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
         }
       ],
-      "duration_ms": 197820,
-      "name": "LONELY / TODO VA A ESTAR BIEN",
-      "url": "https://open.spotify.com/track/0XRyf4oID1DVbLCheNnki4"
+      "duration_ms": 316361,
+      "name": "100K",
+      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1587,22 +1603,6 @@
       "duration_ms": 261957,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5jiXeesCYXiW25zH95Mg9Q"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "100K",
-        "url": "https://open.spotify.com/album/1vMr6e1dQhD9RDV0oJ29P8"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 316361,
-      "name": "100K",
-      "url": "https://open.spotify.com/track/5FUuxaewWzBrQSjnN5JG7A"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "...y Continuamos",
+        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        }
+      ],
+      "duration_ms": 223285,
+      "name": "No Pierdas la Fe",
+      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "Tu Gracia",
         "url": "https://open.spotify.com/album/5ySfORGt7VVyZYX8SL8YqB"
       },
@@ -1695,18 +1711,18 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
-        "name": "...y Continuamos",
-        "url": "https://open.spotify.com/album/6cBviCYJc1U741HDe3kDdE"
+        "name": "Yo Te Creo",
+        "url": "https://open.spotify.com/album/2bgEZbK4J7CwbJx0odt0dW"
       },
       "artists": [
         {
-          "name": "Mariannah y Diego",
-          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+          "name": "Patty Gleason",
+          "url": "https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ"
         }
       ],
-      "duration_ms": 223285,
-      "name": "No Pierdas la Fe",
-      "url": "https://open.spotify.com/track/3YcFkhYxJCPYWkCTowWdbu"
+      "duration_ms": 258995,
+      "name": "Yo Te Creo",
+      "url": "https://open.spotify.com/track/2xa0d6PSdSngPH4Xl4OaFz"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1723,22 +1739,6 @@
       "duration_ms": 284655,
       "name": "Coraz\u00f3n Nuevo",
       "url": "https://open.spotify.com/track/0nWUgFor2mZtmtg4c6jbwv"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Yo Te Creo",
-        "url": "https://open.spotify.com/album/2bgEZbK4J7CwbJx0odt0dW"
-      },
-      "artists": [
-        {
-          "name": "Patty Gleason",
-          "url": "https://open.spotify.com/artist/2vLptSd6u5kZKCGBkXIJBJ"
-        }
-      ],
-      "duration_ms": 258995,
-      "name": "Yo Te Creo",
-      "url": "https://open.spotify.com/track/2xa0d6PSdSngPH4Xl4OaFz"
     },
     {
       "added_at": "2022-08-12 05:53:04",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-08-12 05:53:04",
       "album": {
+        "name": "Que Rico Es",
+        "url": "https://open.spotify.com/album/5xDDrfOpPsoNqAJMKivsVk"
+      },
+      "artists": [
+        {
+          "name": "JonCarlos + Gabriella",
+          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Que Rico Es",
+      "url": "https://open.spotify.com/track/0RjHLh4GPa1S2WFY6l3XcC"
+    },
+    {
+      "added_at": "2022-08-12 05:53:04",
+      "album": {
         "name": "En \u00d3rbita",
         "url": "https://open.spotify.com/album/7BfsvNU8oyMaLyTI3AMwkL"
       },
@@ -1795,22 +1811,6 @@
       "duration_ms": 374648,
       "name": "Tu Gloria es Pesada",
       "url": "https://open.spotify.com/track/2ug35bv1APzhja7ha6suOS"
-    },
-    {
-      "added_at": "2022-08-12 05:53:04",
-      "album": {
-        "name": "Que Rico Es",
-        "url": "https://open.spotify.com/album/5xDDrfOpPsoNqAJMKivsVk"
-      },
-      "artists": [
-        {
-          "name": "JonCarlos + Gabriella",
-          "url": "https://open.spotify.com/artist/6QluT3zLHLfjZZNcWvpL47"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Que Rico Es",
-      "url": "https://open.spotify.com/track/0RjHLh4GPa1S2WFY6l3XcC"
     },
     {
       "added_at": "2022-08-12 05:53:04",

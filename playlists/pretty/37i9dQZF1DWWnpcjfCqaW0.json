@@ -1,12 +1,12 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 221598,
+  "num_followers": 221760,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDgwMDAyZWE5NmE1NTE5NWVkNTFmYmVlZjU5NGU3NDdk",
+  "snapshot_id": "MTY1ODY5MzczNSwwMDAwMDAwMDBiNWU3N2VjMzdjOGFjNTliZGYwZmQzZTE0NTlkNDky",
   "tracks": [
     {
       "added_at": "2022-07-24 20:15:35",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "Letters from Nashville",
+        "url": "https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq"
+      },
+      "artists": [
+        {
+          "name": "Leroy Van Dyke",
+          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
+        }
+      ],
+      "duration_ms": 167622,
+      "name": "The Auctioneer",
+      "url": "https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "The Very Best Of Slim Whitman",
         "url": "https://open.spotify.com/album/16smaj9yNDCAPVviKp5FFl"
       },
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
-        "name": "16 All Time Favorite Songs",
-        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
-      },
-      "artists": [
-        {
-          "name": "The Delmore Brothers",
-          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Blues, Stay Away From Me",
-      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
         "name": "The Essential Don Gibson",
         "url": "https://open.spotify.com/album/7qeAtACDVHBuMvxj9e79WH"
       },
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-07-24 20:15:35",
       "album": {
+        "name": "16 All Time Favorite Songs",
+        "url": "https://open.spotify.com/album/49gjtUiOVrN6nQXLbOX4pi"
+      },
+      "artists": [
+        {
+          "name": "The Delmore Brothers",
+          "url": "https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "Blues, Stay Away From Me",
+      "url": "https://open.spotify.com/track/7xVj55oXJ9eesE9f2XVHKe"
+    },
+    {
+      "added_at": "2022-07-24 20:15:35",
+      "album": {
         "name": "The Country Music Hall Of Fame",
         "url": "https://open.spotify.com/album/4nyc58AKKAPIDSuybSUfgQ"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 192960,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/5KemrO66yxhWCx9r1SBZXP"
-    },
-    {
-      "added_at": "2022-07-24 20:15:35",
-      "album": {
-        "name": "Letters from Nashville",
-        "url": "https://open.spotify.com/album/1WzFdtE7vnLLiErB5Xk6rq"
-      },
-      "artists": [
-        {
-          "name": "Leroy Van Dyke",
-          "url": "https://open.spotify.com/artist/6fU4BXH81Y9lMOopk9ida3"
-        }
-      ],
-      "duration_ms": 167622,
-      "name": "The Auctioneer",
-      "url": "https://open.spotify.com/track/2asm7rApXW7iIXp5CvMtIt"
     }
   ],
   "unique_name": "50s Country",

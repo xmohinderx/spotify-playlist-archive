@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,128 likes - 62 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,133 likes - 62 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 31 | [Shirley Lee](https://open.spotify.com/track/22J2v0T6yxFbpM5HMAmToY) | [Bobby Lee Trammell](https://open.spotify.com/artist/0TJ6UwA2LLLk3u9WjPFYLW) | [Rockabilly Pioneers: The Origins of Rockabilly](https://open.spotify.com/album/3LFHxKzfoMceMqhIKRQ2LU) | 1:47 |
 | 32 | [Rock & Roll Ruby](https://open.spotify.com/track/6xaCoxc3yqOEwqrHW7A3qT) | [Warren Smith](https://open.spotify.com/artist/3EPmCVUm7QNc1fSrLsXGq5) | [The Originals \- Classic Hits from the 50's & 60's](https://open.spotify.com/album/05wRON6KWMYqj8Mu2hcsFb) | 2:55 |
 | 33 | [Guess Things Happen That Way \- 1958 Single Version](https://open.spotify.com/track/6RPUXnHn2nA65anY9XoVz2) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY) | 1:50 |
-| 34 | [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 |
+| 34 | [Three Alley Cats](https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Presenting Roy Hall](https://open.spotify.com/album/3QRMRAUWOZ1hCBSj95nAIS) | 2:28 |
 | 35 | [Everybody's Trying to Be My Baby](https://open.spotify.com/track/75MzeS5tyJDX7a5ZytcqS8) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The Dance Album](https://open.spotify.com/album/2mDKmUu61YwkVAJfvD81HK) | 2:13 |
 | 36 | [Rakin and Scrapin](https://open.spotify.com/track/3U8Nh3jit6HA94UcVdc5zS) | [Dean Beard](https://open.spotify.com/artist/4dzwpcq6tAVSgWZaGchyN5) | [Rockabilly Treasures](https://open.spotify.com/album/0pHKNl3zeoigkdKd5Q5bCj) | 2:20 |
 | 37 | [Poor Little Fool \- Remastered](https://open.spotify.com/track/5ayybTSXNwcarDtxQKqvWX) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:33 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUB167twpvS4.md) - [plain]
 | 61 | [One Hand Loose](https://open.spotify.com/track/1uYlKhktrgikytcB1UQZYs) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [His Complete King Recordings](https://open.spotify.com/album/15IZgzHg7L0LNSglHIC3tC) | 2:24 |
 | 62 | [Home of the Blues](https://open.spotify.com/track/5E2Qj36FIrvGtOUl7XGBAe) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Johnny Cash at Sun](https://open.spotify.com/album/2Uu2hccRmXc9NyUNzwRpXT) | 2:38 |
 
-Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMGRjYjIzZTM1MDIwNDUwZWU3ZmI1NzU3YTQzMjI0NmFm`
+Snapshot ID: `MTYwMjQzNzcwNiwwMDAwMDAwMDljZWM5OGUzMGZhOGE1YWQzYjhmODgwMDIwM2VkMDYy`

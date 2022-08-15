@@ -4,7 +4,7 @@
 
 > 100% good vibes.
 
-394 songs - 1 day 3 hr 18 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
+395 songs - 1 day 3 hr 21 min - [published](https://open.spotify.com/playlist/2WPgm1aPptS8Ttm3dYBYj9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Give Me Night](https://open.spotify.com/track/4fF5HxauEt54IYSKW1rEMt) | [BCBC](https://open.spotify.com/artist/0zz7GJ7SZyi4XV3TJsg3YN), [LYAM](https://open.spotify.com/artist/7zJlKmeDV4KKcNPq8azdve) | [Give Me Night](https://open.spotify.com/album/4OM6g573k9ww2iJlRN7Thn) | 3:12 | 2022-04-06 | 2022-04-16 |
 | [Give u](https://open.spotify.com/track/2PXEL9hT8aNfzQuU12yVo7) | [Banditt](https://open.spotify.com/artist/4uoxnYSZK48iKLjfbjRi6A), [Sempra](https://open.spotify.com/artist/76YrQ1DtiiJ5MFbIIWLOSq) | [Give u](https://open.spotify.com/album/6UEUTJ7p3ydXkISSwLqzet) | 3:25 | 2022-01-11 | 2022-07-12 |
 | [Give You Up](https://open.spotify.com/track/54mgp55eYtG2n1rClelVwy) | [Bantum](https://open.spotify.com/artist/3PcfymOgMHBSp3T5YvSDiS) | [New Leaf](https://open.spotify.com/album/1pFGvzLqXa50s6svabO6Wv) | 4:43 | 2021-12-03 | 2022-07-23 |
-| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 |  |
+| [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 | 2021-12-03 | 2022-08-15 |
 | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/track/3dBUKgLv3oFrE9kYhboIXm) | [Hablot Brown](https://open.spotify.com/artist/6LtgEnShwvrqAaKohg7skM), [Dam Swindle](https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU) | [GO \(Detroit Swindle Remix\)](https://open.spotify.com/album/4urNMxGsd4R05fKiScM3s8) | 4:39 | 2021-12-03 | 2022-07-29 |
 | [Gold](https://open.spotify.com/track/1I6bPYYk5jQL6EXAozh6FJ) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [Gold](https://open.spotify.com/album/1LuxQutCoGUjNXVHKFiVnA) | 3:19 | 2022-04-06 | 2022-04-12 |
 | [Gold](https://open.spotify.com/track/1k8qa4QpBKNEvOrcq7Yy8z) | [Soda State](https://open.spotify.com/artist/7kGtb0FtMVu0YfEFwLjTBH) | [Portal EP](https://open.spotify.com/album/78qRrrutMoz2NzbujZ2AFj) | 2:41 | 2022-04-06 | 2022-04-15 |
@@ -239,6 +239,7 @@
 | [Maybe Tomorrow](https://open.spotify.com/track/1tXOHminAM6mmFsEsosfb5) | [Moomin](https://open.spotify.com/artist/5GyUtaUuEnR7uhRF3jDj4s) | [Yesterday's Tomorrows](https://open.spotify.com/album/2ogV0dBdQ7DyXectdz8IFf) | 5:15 | 2022-04-06 | 2022-04-21 |
 | [Melody of Love](https://open.spotify.com/track/48q7Pc3Zm2nPPVJPsfG30B) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [A Bath Full of Ecstasy](https://open.spotify.com/album/6lkUImwpLYQnkiygVaMoAJ) | 4:18 | 2022-04-06 | 2022-04-13 |
 | [Missing \(feat\. Andreya Triana & Ben Westbeech\)](https://open.spotify.com/track/5tBKJQuTSZcT50MXdJ5HYu) | [The Vision](https://open.spotify.com/artist/33nwA09TKiO0nWmUrI3E1I), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Missing \(feat\. Andreya Triana & Ben Westbeech\)](https://open.spotify.com/album/3Ep5tB0DvvcSD7ixPVjA1n) | 4:41 | 2021-12-03 | 2022-07-27 |
+| [Mixer](https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer](https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn) | 3:12 | 2022-08-01 |  |
 | [Mixer \- Preditah Remix](https://open.spotify.com/track/45unoeMLynJT6gKXRma5IO) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu), [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD) | [Mixer \(Preditah Remix\)](https://open.spotify.com/album/1oZki0wLUGwTv1itJx04xo) | 4:12 | 2022-04-06 | 2022-04-09 |
 | [Mogeri](https://open.spotify.com/track/0LaJkmbVmWVihw9Zbr0dFC) | [Dan Kye](https://open.spotify.com/artist/05YrP00agTrYezUyAsukKf) | [Small Moments](https://open.spotify.com/album/4iWfNxkqoDI2E1FOhnQnvg) | 6:11 | 2022-04-06 | 2022-04-18 |
 | [More Than A Woman \- SG's Paradise Edit](https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J) | [Bee Gees](https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [More Than A Woman \(SG's Paradise Edit\)](https://open.spotify.com/album/2iTmTEm55PIjLdYjDCKh96) | 5:57 | 2021-12-03 |  |

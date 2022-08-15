@@ -4,7 +4,7 @@
 
 > Buon Appetito!
 
-65 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
+66 songs - 3 hr 20 min - [published](https://open.spotify.com/playlist/3DcUKWxUB3c5563KSQxozA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,7 +59,8 @@
 | [Sott'er celo de Roma](https://open.spotify.com/track/4aoGVSGI98wtrol55ppThj) | [Teddy Reno](https://open.spotify.com/artist/6bobviRFkmyCKCIxqMluuv) | [Pezzi da...90](https://open.spotify.com/album/6Ie5uPiaaDhJRbssFBAkZf) | 3:13 | 2019-03-18 |  |
 | [Stasera..\. Che Sera! \- 1991 \- Remaster](https://open.spotify.com/track/1uz6If8Tcbjm3xyxQ48IjV) | [Matia Bazar](https://open.spotify.com/artist/449mAbddAC2PAgNM3TLyc5) | [Matia Bazar 1 \(1991 Remaster\)](https://open.spotify.com/album/3XMyhCHEqTIQsEVz3lgzkB) | 3:26 | 2022-02-18 |  |
 | [Summertime in Venice](https://open.spotify.com/track/48ivErtRGxqq7c7McvCrLu) | [Buddy Greco](https://open.spotify.com/artist/0tncOz6MVpy67IphfE6VHZ) | [My Last Night in Rome](https://open.spotify.com/album/5M0nS1p261Pba8ETac6qtv) | 2:14 | 2019-03-18 |  |
-| [Take My Heart](https://open.spotify.com/track/28pzAaErWyNUHOo4Kazp75) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Capitol Collectors Series](https://open.spotify.com/album/5WKxit4CEpmFmM8bErbCek) | 3:08 | 2019-03-18 |  |
+| [Take My Heart](https://open.spotify.com/track/28pzAaErWyNUHOo4Kazp75) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Capitol Collectors Series](https://open.spotify.com/album/5WKxit4CEpmFmM8bErbCek) | 3:08 | 2019-03-18 | 2022-08-15 |
+| [Take My Heart](https://open.spotify.com/track/17mHf9wIBpntdSqDfD8c2g) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [The Ultimate Al Martino](https://open.spotify.com/album/5ZWGb9xTcmxXAjVNnbqELV) | 3:10 | 2019-03-18 |  |
 | [Take My Heart \- Remastered](https://open.spotify.com/track/5tg20ochJcAlpj25GM5ZWx) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [Crooner \(Remastered\)](https://open.spotify.com/album/7pgcJ7XAmi0a41S0l7LKdL) | 3:09 | 2019-03-18 | 2022-07-29 |
 | [Tarantella](https://open.spotify.com/track/5CVSC6Ehnko15JmOuGYFwA) | [Italian Mandolin Torna A Surriento](https://open.spotify.com/artist/6B1qY6diGzu9FFbGOG7fSk) | [Italian Music, Tarantella, Come Back to Sorrento](https://open.spotify.com/album/191xZsXIZWwYcKshzfEJbg) | 2:16 | 2022-02-18 |  |
 | [That's Amore](https://open.spotify.com/track/4I4aQGNJ2HufloNtB65nxR) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9), [Dick Stabile And His Orchestra](https://open.spotify.com/artist/0liyb0PPDyu3pfG7WZtsxO) | [Dean Martin: The Capitol Recordings, Vol\. 4 \(1952\-1954\)](https://open.spotify.com/album/5jQlSnsavt8afiXBFDNE8I) | 3:10 | 2019-03-18 |  |

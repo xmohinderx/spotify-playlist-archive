@@ -237,7 +237,7 @@
     {
       "album": {
         "name": "Different",
-        "url": "https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE"
+        "url": "https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB"
       },
       "artists": [
         {
@@ -248,6 +248,24 @@
       "date_added": "2018-04-30",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 197946,
+      "name": "Different",
+      "url": "https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp"
+    },
+    {
+      "album": {
+        "name": "Different",
+        "url": "https://open.spotify.com/album/5LsV4IGh2PIaTlsNNFeBAE"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2018-04-30",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-15",
       "duration_ms": 197946,
       "name": "Different",
       "url": "https://open.spotify.com/track/3wfoaC3ApX2Yf30b7Q7P2q"

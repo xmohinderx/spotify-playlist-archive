@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,722 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,749 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 24 | [Raising Hell](https://open.spotify.com/track/5q9F2CNzrrNQMM7l62S2c6) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Salvador](https://open.spotify.com/album/7sutGPUG2T56ubUjlhSaE9) | 4:10 |
 | 25 | [Acceleration](https://open.spotify.com/track/7IKUcmgtqaD9m6k8Du7lWv) | [RUI HO](https://open.spotify.com/artist/2sTDVUq42SO6yVfD7c9r0J) | [In Pursuit of the Sun 逐日](https://open.spotify.com/album/2BEcYdcJqUITFJkDGFUOzP) | 4:05 |
 | 26 | [Hellraiser XXX](https://open.spotify.com/track/6upzVdL5cvkIpJBveed0NJ) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B) | [Hellraiser XXX](https://open.spotify.com/album/0J7VDGjrQi9tIQAMq2ySIH) | 4:03 |
-| 27 | [Oxygenesis](https://open.spotify.com/track/6qVugF64yHpE9R535iRzkp) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/6WBQWFCQo0z9MLNIsH0hIB) | 2:48 |
+| 27 | [Oxygenesis](https://open.spotify.com/track/6nUjywA9WxzdtSJEkkUg0r) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/1YUGatFxMZCGLDO611dDXL) | 2:48 |
 | 28 | [Blaze Away \- Throwing Snow Remix](https://open.spotify.com/track/2Yp7Ulnqr80EqEla4GRx2G) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd), [Throwing Snow](https://open.spotify.com/artist/0Qur5LqqAVVunjY2PnjhUp) | [Blaze Away \(Throwing Snow Remix\)](https://open.spotify.com/album/2M903dUWZcuXCDxvahm07N) | 3:23 |
 | 29 | [ECSTASY OF ST\. TERESA](https://open.spotify.com/track/7GYlqodPA2sXLI11yE44NZ) | [Object Blue](https://open.spotify.com/artist/51rzklJj6mqBOEXOiOPqY7) | [FIGURE BESIDE ME](https://open.spotify.com/album/1ua3QVWei0VVsllQKUtFxB) | 6:40 |
 | 30 | [KYOKAI](https://open.spotify.com/track/7Eve0LgYwsaCKsQnRpPHzi) | [Slikback](https://open.spotify.com/artist/0NwRAG9DawUqqgur9925fA) | [Tomo](https://open.spotify.com/album/38CmagnFPEGJMwZHpjGPCr) | 2:28 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ilnsFNjAAc.md) - [plain]
 | 59 | [Harbinger](https://open.spotify.com/track/3smLcr5e84zq10h2LXByED) | [Alec Ness](https://open.spotify.com/artist/3qIOkb1528LbR4UIwJefsr) | [Temporary Awareness of Passing](https://open.spotify.com/album/1Or89jf0Su8WpBINgkvVLI) | 3:07 |
 | 60 | [Alucard](https://open.spotify.com/track/2ibgB5zU0EGIh1x7JM8AMD) | [Swan Meat](https://open.spotify.com/artist/20GBDDzRPgnhVRuIjkrSd6) | [Alucard](https://open.spotify.com/album/0KlEXfI6QhODTsxKdSjrl4) | 5:12 |
 
-Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMDVhZDQyOWEwY2IxYTg1NjA1ZTVhNDc3OTBiMDVjODcw`
+Snapshot ID: `MTYxMzc1Nzc2MCwwMDAwMDAwMGNkNzMyMmNiZmFjZmQ4YTY0MjE1Y2EwYTljZjI1OTMx`

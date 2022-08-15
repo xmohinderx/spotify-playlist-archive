@@ -1,12 +1,12 @@
 {
   "description": "Strut to electronic tracks that grace the runways everywhere.",
-  "num_followers": 51317,
+  "num_followers": 51363,
   "original_name": "Runway",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDA3NjIxMTUzMjBkMDk0ZTY3NGI4ZmYxMGIwMGFmMTgy",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDFmZDliOTc2MDRmYmYwYjgyYmE4NDllODEzOGRjZGMy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -395,22 +395,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "VSOD (Velvet Sky of Dreams)",
-        "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
+        "name": "Caution",
+        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
       },
       "artists": [
         {
-          "name": "Tiga",
-          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
-        },
-        {
-          "name": "Hudson Mohawke",
-          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 342000,
-      "name": "VSOD - Velvet Sky of Dreams",
-      "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
+      "duration_ms": 155758,
+      "name": "Caution",
+      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -431,22 +427,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Caution",
-        "url": "https://open.spotify.com/album/4JOlhEazXmlErhrnmABjYZ"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        }
-      ],
-      "duration_ms": 155758,
-      "name": "Caution",
-      "url": "https://open.spotify.com/track/2mykLbf6YfpFmZwUWowZv3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "BLACK MAGIC",
         "url": "https://open.spotify.com/album/6ROB2tyKtYqao9nbX7XdtY"
       },
@@ -459,6 +439,26 @@
       "duration_ms": 245624,
       "name": "BLACK MAGIC",
       "url": "https://open.spotify.com/track/2aCG0g9uxi8nK1OUZ7A65j"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "VSOD (Velvet Sky of Dreams)",
+        "url": "https://open.spotify.com/album/1QDtmg8XzUxVFEW9v3tWbK"
+      },
+      "artists": [
+        {
+          "name": "Tiga",
+          "url": "https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC"
+        },
+        {
+          "name": "Hudson Mohawke",
+          "url": "https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb"
+        }
+      ],
+      "duration_ms": 342000,
+      "name": "VSOD - Velvet Sky of Dreams",
+      "url": "https://open.spotify.com/track/7D0e3LOMtsHW6Xalv2Tvln"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Starz",
-        "url": "https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M"
-      },
-      "artists": [
-        {
-          "name": "Yung Lean",
-          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
-        }
-      ],
-      "duration_ms": 216360,
-      "name": "Boylife in EU",
-      "url": "https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "DANCEHALL",
         "url": "https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 214826,
       "name": "PLACES",
       "url": "https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Starz",
+        "url": "https://open.spotify.com/album/0U8kr1FIR4vhDRqKomi62M"
+      },
+      "artists": [
+        {
+          "name": "Yung Lean",
+          "url": "https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3"
+        }
+      ],
+      "duration_ms": 216360,
+      "name": "Boylife in EU",
+      "url": "https://open.spotify.com/track/1WA5dWFBwokGf1dIRLYwVD"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
-      },
-      "artists": [
-        {
-          "name": "Laurent Garnier",
-          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
-        }
-      ],
-      "duration_ms": 352093,
-      "name": "Crispy Bacon",
-      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Umami",
         "url": "https://open.spotify.com/album/6om5wLwMEeQcY1Uwlh7Oel"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 495872,
       "name": "Ivoire (feat. Kio Amachree)",
       "url": "https://open.spotify.com/track/6BlQZAp3rGiVJbSSjJ6LEJ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "30",
+        "url": "https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn"
+      },
+      "artists": [
+        {
+          "name": "Laurent Garnier",
+          "url": "https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ"
+        }
+      ],
+      "duration_ms": 352093,
+      "name": "Crispy Bacon",
+      "url": "https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1307,6 +1307,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Play In The Dark",
+        "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
+      },
+      "artists": [
+        {
+          "name": "Seth Troxler",
+          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
+        },
+        {
+          "name": "The Martinez Brothers",
+          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
+        }
+      ],
+      "duration_ms": 295831,
+      "name": "Play In The Dark",
+      "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "U. (Junior Sanchez Remix)",
         "url": "https://open.spotify.com/album/6LPE0OjnmnzfNNQcU2D4E8"
       },
@@ -1327,26 +1347,6 @@
       "duration_ms": 164000,
       "name": "U. - Junior Sanchez Remix",
       "url": "https://open.spotify.com/track/78K3N4N9BLS9nKUxINO3Zg"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Play In The Dark",
-        "url": "https://open.spotify.com/album/4hU3TVtRDIPFugFjCGMKEC"
-      },
-      "artists": [
-        {
-          "name": "Seth Troxler",
-          "url": "https://open.spotify.com/artist/3JkLFcTej6tdwZoQT6Nx4B"
-        },
-        {
-          "name": "The Martinez Brothers",
-          "url": "https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU"
-        }
-      ],
-      "duration_ms": 295831,
-      "name": "Play In The Dark",
-      "url": "https://open.spotify.com/track/4ND92kpiHy3mxvLVgFSowz"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cataclysmic",
-        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
-      },
-      "artists": [
-        {
-          "name": "Jordan Gill",
-          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
-        }
-      ],
-      "duration_ms": 491652,
-      "name": "White Lights",
-      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "The Volume / The Music Is Mine",
         "url": "https://open.spotify.com/album/4SXYCaVobyGrNJHkX6ekVN"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Cataclysmic",
+        "url": "https://open.spotify.com/album/4eXNPTKfQUhbT6JgENZeY4"
+      },
+      "artists": [
+        {
+          "name": "Jordan Gill",
+          "url": "https://open.spotify.com/artist/4SMjBNhuUVL2dqIk67vsKx"
+        }
+      ],
+      "duration_ms": 491652,
+      "name": "White Lights",
+      "url": "https://open.spotify.com/track/3beMeoozbBTrATGW5u4Emz"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "WANT IT",
         "url": "https://open.spotify.com/album/6PFzPtvG8XCphoflSlhSx6"
       },
@@ -1599,6 +1599,26 @@
       "duration_ms": 213781,
       "name": "WANT IT",
       "url": "https://open.spotify.com/track/60qV9FIYSzMB5af9CURSOJ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Mobilee Back to Back Vol. 2 - Presented By Gummihz",
+        "url": "https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Cardini",
+          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
+        },
+        {
+          "name": "Shonky",
+          "url": "https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14"
+        }
+      ],
+      "duration_ms": 516533,
+      "name": "August in Paris",
+      "url": "https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1627,42 +1647,6 @@
       "duration_ms": 200000,
       "name": "We All Move Together - Kevin Saunderson x Latroit Remix",
       "url": "https://open.spotify.com/track/2REuKIENtXdluRdxVFYG17"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Mobilee Back to Back Vol. 2 - Presented By Gummihz",
-        "url": "https://open.spotify.com/album/3qgEzuYMF3B0n2IcDm37yQ"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Cardini",
-          "url": "https://open.spotify.com/artist/3AN049igIAaoX0fjTCkpnf"
-        },
-        {
-          "name": "Shonky",
-          "url": "https://open.spotify.com/artist/1waWwt8cVCJgqLItlQJz14"
-        }
-      ],
-      "duration_ms": 516533,
-      "name": "August in Paris",
-      "url": "https://open.spotify.com/track/3ZqbN38TDR0e0AEAthNZ3Y"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Price of Highest Consciousness",
-        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
-      },
-      "artists": [
-        {
-          "name": "rRoxymore",
-          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
-        }
-      ],
-      "duration_ms": 368404,
-      "name": "Price of Highest Consciousness",
-      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1699,6 +1683,22 @@
       "duration_ms": 187593,
       "name": "Sol",
       "url": "https://open.spotify.com/track/22ow8393DBKJmpfvg56EAD"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Price of Highest Consciousness",
+        "url": "https://open.spotify.com/album/2gxXbHgqSqxqzNY1SEPdul"
+      },
+      "artists": [
+        {
+          "name": "rRoxymore",
+          "url": "https://open.spotify.com/artist/559oW3wcVAW5tcL1DQniyf"
+        }
+      ],
+      "duration_ms": 368404,
+      "name": "Price of Highest Consciousness",
+      "url": "https://open.spotify.com/track/6TGnrFavxJIpTh3KUqEiDO"
     },
     {
       "added_at": "2022-08-12 04:00:00",

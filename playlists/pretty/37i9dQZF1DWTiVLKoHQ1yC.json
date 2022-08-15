@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 115892,
+  "num_followers": 116005,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDUzZTAxMWVhY2RlY2UyOGU5NGIxMjhlOTMyMTViZDEy",
+  "snapshot_id": "MTY0MjE1NzQwNSwwMDAwMDAwMDMwMmMyY2E4NWIxYmI0Y2UzMzYwZTRjNmI0OWE4M2Vl",
   "tracks": [
     {
       "added_at": "2022-01-14 10:50:05",
@@ -479,22 +479,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "LNOE Introducing Vol. 1",
-        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 322058,
-      "name": "Monolith",
-      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Floral Decor",
         "url": "https://open.spotify.com/album/1BBSHiWKFxZaUlIBCWBSVX"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 248000,
       "name": "Floral Decor",
       "url": "https://open.spotify.com/track/2CrKPgTinZordfA9xfhjQC"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "LNOE Introducing Vol. 1",
+        "url": "https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 322058,
+      "name": "Monolith",
+      "url": "https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -643,34 +643,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Face The Sun",
-        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
       },
       "artists": [
         {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 439437,
-      "name": "Face The Sun",
-      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "I Saw Good",
-        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
-      },
-      "artists": [
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        },
         {
-          "name": "Above & Beyond",
-          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
         }
       ],
-      "duration_ms": 187500,
-      "name": "I Saw Good",
-      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+      "duration_ms": 431162,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -691,22 +679,34 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
+        "name": "I Saw Good",
+        "url": "https://open.spotify.com/album/6LTbiiZ7tfWtDTVxsDzWKU"
       },
       "artists": [
         {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
         }
       ],
-      "duration_ms": 431162,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
+      "duration_ms": 187500,
+      "name": "I Saw Good",
+      "url": "https://open.spotify.com/track/58R30o2zynpgdvG5Nxfur8"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Face The Sun",
+        "url": "https://open.spotify.com/album/7AY9Y7FUFNwFVQYxVn2h9B"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 439437,
+      "name": "Face The Sun",
+      "url": "https://open.spotify.com/track/5HexTiFznk9l0KMEJq54AI"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
+        "name": "Unite",
+        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
+      },
+      "artists": [
+        {
+          "name": "Yeadon",
+          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
+        }
+      ],
+      "duration_ms": 188157,
+      "name": "Unite",
+      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
         "name": "Lager Beers EP",
         "url": "https://open.spotify.com/album/5izcjEZQUvnhfeLWM67n72"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 183750,
       "name": "Poison (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
-        "name": "Unite",
-        "url": "https://open.spotify.com/album/6Bpgmzi5nD2JMTFVCvdFBd"
-      },
-      "artists": [
-        {
-          "name": "Yeadon",
-          "url": "https://open.spotify.com/artist/3I2GYH3sJaBakVf5tydDbn"
-        }
-      ],
-      "duration_ms": 188157,
-      "name": "Unite",
-      "url": "https://open.spotify.com/track/6jIC6IkCjNSyItQXPSkx1H"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Yahyel",
-        "url": "https://open.spotify.com/album/4maPel4EpTQkzT751qiw72"
-      },
-      "artists": [
-        {
-          "name": "Morttagua",
-          "url": "https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv"
-        }
-      ],
-      "duration_ms": 503414,
-      "name": "Yahyel",
-      "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "Fallen",
         "url": "https://open.spotify.com/album/66M5YSekgQPGWLhU2cdVOA"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 205117,
       "name": "Fallen",
       "url": "https://open.spotify.com/track/6I0i1jsugzmfYHbRRLfAXY"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Yahyel",
+        "url": "https://open.spotify.com/album/4maPel4EpTQkzT751qiw72"
+      },
+      "artists": [
+        {
+          "name": "Morttagua",
+          "url": "https://open.spotify.com/artist/1XVL802tNy6tucST8spKOv"
+        }
+      ],
+      "duration_ms": 503414,
+      "name": "Yahyel",
+      "url": "https://open.spotify.com/track/1s3NSenCMyJLNmveE2TGpI"
     },
     {
       "added_at": "2022-01-14 10:50:05",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2022-01-14 10:50:05",
       "album": {
-        "name": "Vaia (PVSHL Remix)",
-        "url": "https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS"
-      },
-      "artists": [
-        {
-          "name": "Troste",
-          "url": "https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz"
-        },
-        {
-          "name": "PVSHL",
-          "url": "https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF"
-        }
-      ],
-      "duration_ms": 276190,
-      "name": "Vaia - PVSHL Remix Edit",
-      "url": "https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv"
-    },
-    {
-      "added_at": "2022-01-14 10:50:05",
-      "album": {
         "name": "2 Late 4 Love (Danny Howard Remix)",
         "url": "https://open.spotify.com/album/6obT6ywNJQDjidvpo4BDLK"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 219625,
       "name": "2 Late 4 Love - Danny Howard Remix",
       "url": "https://open.spotify.com/track/6cCZK1uozaX1RUnUmfXloJ"
+    },
+    {
+      "added_at": "2022-01-14 10:50:05",
+      "album": {
+        "name": "Vaia (PVSHL Remix)",
+        "url": "https://open.spotify.com/album/5OjkZdKhWx7qa21SRTFMrS"
+      },
+      "artists": [
+        {
+          "name": "Troste",
+          "url": "https://open.spotify.com/artist/0ugRi4v3utREAUASuPhlJz"
+        },
+        {
+          "name": "PVSHL",
+          "url": "https://open.spotify.com/artist/1DgG7X6SdsC8JD3No1A4HF"
+        }
+      ],
+      "duration_ms": 276190,
+      "name": "Vaia - PVSHL Remix Edit",
+      "url": "https://open.spotify.com/track/408BmVj8nMa1kifXsaDfUv"
     },
     {
       "added_at": "2022-01-14 10:50:05",

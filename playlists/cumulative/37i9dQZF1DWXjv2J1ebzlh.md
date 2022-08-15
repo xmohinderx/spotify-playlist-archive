@@ -4,7 +4,7 @@
 
 > The magical world map! Play it in shuffle ☀️
 
-1,575 songs - 4 day 9 hr 54 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
+1,576 songs - 4 day 9 hr 57 min - [published](https://open.spotify.com/playlist/0iDVwvtzO5q5icbp8vjmdq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,7 +838,8 @@
 | [La Niña De Fuego](https://open.spotify.com/track/3O1NzJtNUdZXjj2j8sg43Q) | [Lolita Torres](https://open.spotify.com/artist/0fhBxe30C0J8XkxJyTFGsY) | [Serie De Oro](https://open.spotify.com/album/4s8wfZNNPjsOLblOSHBAYq) | 2:23 | 2022-07-12 | 2022-07-29 |
 | [La Niña de Fuego](https://open.spotify.com/track/08IDshmxLocyRlWQybyrGl) | [Lolita Torres](https://open.spotify.com/artist/0fhBxe30C0J8XkxJyTFGsY) | [Cantando Soy Española](https://open.spotify.com/album/3FjRFp7Xa9UJtUIxVIVM2k) | 2:25 | 2022-07-27 |  |
 | [La Paloma](https://open.spotify.com/track/6gl6D9YPBbLE56z4DB7DnN) | [Paco de Lucía](https://open.spotify.com/artist/3h8OjAdgYXVRoMZ8jFd6Uw), [Ramón Algeciras](https://open.spotify.com/artist/5W2znB5Fy0hGEMuxZPKJm7) | [Paco De Lucia / Ramon De Algeciras En Hispanoamerica](https://open.spotify.com/album/5aurE9OXVf5rwJvAjHEEO8) | 2:15 | 2022-07-12 |  |
-| [La Pastorcita](https://open.spotify.com/track/7C6GTp0DjWK435LPUGdh1R) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 2:51 | 2022-07-12 |  |
+| [La Pastorcita](https://open.spotify.com/track/6Kh547PrBuJKYyBqtTeG9A) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [El Millón de los Destellos](https://open.spotify.com/album/67nMH31vYYHvOeJ6wI9gN4) | 2:51 | 2022-07-27 |  |
+| [La Pastorcita](https://open.spotify.com/track/7C6GTp0DjWK435LPUGdh1R) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf), [Enrique Delgado](https://open.spotify.com/artist/0FY3Ky0gOI9CatbVuQ5Anx) | [Para Todo el Mundo, Vol\. 2](https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2) | 2:51 | 2022-07-12 | 2022-08-15 |
 | [La Pava Congona](https://open.spotify.com/track/0HceRYOs31IFICIrELU5Ei) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [Grandes Hits: Andrés Landero](https://open.spotify.com/album/5VrvPC5Or7FetzXvyk0MTM) | 3:09 | 2022-06-09 | 2022-07-29 |
 | [La Pava Congona](https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [La Fiebre](https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA) | 3:09 | 2022-07-27 |  |
 | [La Piojosa](https://open.spotify.com/track/0WLZ4Ld5myuUWegj8lPn4Y) | [La Sonora Cienaguera](https://open.spotify.com/artist/6K3zhZGG3obiWmkbIdhscY) | [Cumbia Cumbia 1 & 2](https://open.spotify.com/album/3JoaLNavAXOlnbp0FUVF9b) | 2:58 | 2022-07-27 |  |

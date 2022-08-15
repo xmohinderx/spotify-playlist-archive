@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Mastodon
 
-558 songs - 1 day 17 hr 45 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+560 songs - 1 day 17 hr 50 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [COLD BLOOD](https://open.spotify.com/track/50iNloLV9uEyEvVzuwl6kz) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [DISCO4 :: PART II](https://open.spotify.com/album/4pk3IXbfaU0cK7oHuEdbEJ) | 5:26 | 2022-07-08 |  |
 | [Come This Way](https://open.spotify.com/track/69jJQ8mDrZsDn4umAL23kb) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Come This Way](https://open.spotify.com/album/4BvMDuV6JNfNhIH6SsKVMQ) | 3:39 | 2022-01-28 | 2022-07-06 |
 | [Conductor \(Redux\)](https://open.spotify.com/track/6FPYB4S5wawOFERTxlVCA6) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [Conductor \(Redux\)](https://open.spotify.com/album/0jaLIvRyOlq3dddmylT8rb) | 4:09 | 2021-12-17 | 2022-07-20 |
-| [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-17 |  |
+| [Construction of Souls](https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8) | [Avatar](https://open.spotify.com/artist/4jpaXieuls7LVzG1uma5Rs) | [Construction of Souls](https://open.spotify.com/album/5i3zw5JKy4KhPWDbfUHmmk) | 4:52 | 2021-12-17 | 2022-08-15 |
 | [Crazy Train](https://open.spotify.com/track/7ACxUo21jtTHzy7ZEV56vU) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 4:53 | 2022-07-29 |  |
 | [Creatures Of The Dark Realm](https://open.spotify.com/track/3pKt0cqu9kyUzftP41AXXh) | [Bloodbound](https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6) | [Creatures Of The Dark Realm \(Japan Edition\)](https://open.spotify.com/album/1yETM7Cx0FFPiDAAcSOeAQ) | 4:08 | 2021-12-17 | 2022-07-29 |
 | [Crimson Skies](https://open.spotify.com/track/0kAeOySijs6f5J97cEP5uq) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Crimson Skies](https://open.spotify.com/album/0SsMZzgebkTGO5mduRB7ji) | 4:09 | 2022-07-13 |  |
@@ -175,7 +175,8 @@
 | [Fever Dreams](https://open.spotify.com/track/2Ei1eAAU4ME4ld72p9wCbW) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Magica](https://open.spotify.com/album/2E457EiUG9l2rD1EaWcRM4) | 4:37 | 2021-12-17 |  |
 | [Fight](https://open.spotify.com/track/0eQLg5pGbPIxV04WgAgmma) | [Warkings](https://open.spotify.com/artist/7DXUeaMULtMVFmmaKFzH3E) | [Fight](https://open.spotify.com/album/7cIOcTijBJW1ubfDCfMDLm) | 3:59 | 2021-12-17 | 2022-07-25 |
 | [Fight Them All](https://open.spotify.com/track/6NslnbAPjAZ5NuCHo1cGLX) | [Rising Steel](https://open.spotify.com/artist/0R7Gm5z32NOYcpwScO1JSh) | [Fight Them All](https://open.spotify.com/album/3EYHF9ccxJhdPz5kV1ZL9g) | 4:33 | 2022-03-22 | 2022-04-02 |
-| [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 |  |
+| [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 | 2022-07-08 |  |
+| [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-15 |
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2022-01-07 | 2022-04-20 |
 | [For All](https://open.spotify.com/track/1vcY5TSpuiiEPWArqn7wIQ) | [Ember Falls](https://open.spotify.com/artist/6RbFulf0Q38msfpcgh8e0m) | [For All](https://open.spotify.com/album/2hkCeycrUERP2LabySZ1Hj) | 5:23 | 2021-12-17 | 2022-07-29 |
 | [For No Reason](https://open.spotify.com/track/03vyanFcfUmZAwsZC5Ni1S) | [Metal Church](https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP) | [For No Reason](https://open.spotify.com/album/6a2JPdIQjb9egT8EI492OO) | 4:44 | 2021-12-17 | 2022-07-13 |
@@ -258,6 +259,7 @@
 | [Kill Me Till I'm Dead](https://open.spotify.com/track/0fsVq8CgEgcVATyEKJwOxN) | [Tokyo Blade](https://open.spotify.com/artist/6F9tjDKhGtXlm9M4s30KD5) | [Kill Me Till I'm Dead](https://open.spotify.com/album/4tELj8Cvho2HUYFx4pzoVE) | 5:10 | 2021-12-29 | 2022-04-20 |
 | [Kill the Pain](https://open.spotify.com/track/3GgRiZAItMKP1ILzi4ErrY) | [Night Demon](https://open.spotify.com/artist/5klvF93hycKWPsqssBXY9A) | [Kill The Pain](https://open.spotify.com/album/6MCmWU6Q5xheH4ARXbtJfs) | 4:18 | 2021-12-17 | 2022-07-26 |
 | [King Of The Kings](https://open.spotify.com/track/58Jv0IEayRVpeeSMilqdvD) | [Grave Digger](https://open.spotify.com/artist/6mfghV4I1CD17FOhDKq7cJ) | [King Of The Kings](https://open.spotify.com/album/2iCtJGkOgqbMGQg9qHuT0M) | 4:43 | 2022-07-08 | 2022-07-16 |
+| [Kings & Queens](https://open.spotify.com/track/1QwYnABTbwD6ahOwDrzO6T) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Your Highness](https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef) | 3:02 | 2022-07-08 |  |
 | [Kings & Queens](https://open.spotify.com/track/5q9odCy98qQpGOifzN5bd4) | [Bloodred Hourglass](https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b) | [Kings & Queens](https://open.spotify.com/album/4GTkQiW0rIDDIQYazg0SYR) | 3:02 | 2021-12-17 | 2022-07-22 |
 | [Kiss of Death](https://open.spotify.com/track/4jpfnPGV4WE882Y8oJKcOF) | [Enforcer](https://open.spotify.com/artist/6nQ7NZbr43lnKpLYBvLf7A) | [Kiss of Death](https://open.spotify.com/album/1CfsSbvIOWm3w0D6CPuUJp) | 3:26 | 2021-12-17 | 2022-04-21 |
 | [Knives](https://open.spotify.com/track/7zgIdPmFuTRPj7MsAKV0lH) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Knives](https://open.spotify.com/album/46fenR6yH4MASF1fkHgcWq) | 4:16 | 2022-07-13 |  |

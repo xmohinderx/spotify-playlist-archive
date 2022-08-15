@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Anitta, Maluma.
 
-[Spotify](https://open.spotify.com/user/spotify) - 508,277 likes - 58 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 508,517 likes - 58 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 48 | [Bipolar](https://open.spotify.com/track/0mOMAF5ArvDri83LEef1Tj) | [Juan Palau](https://open.spotify.com/artist/3fu1SiB0Q7nAH7Oy12jiT9) | [Bipolar](https://open.spotify.com/album/7rZ1ypbQw3kPE8IB1gK7q7) | 2:21 |
 | 49 | [PERRO](https://open.spotify.com/track/28RwLNDRfrM9mDKJcFShkB) | [Oriana](https://open.spotify.com/artist/25Q4MN2O9yy7qzIY6HTgO3) | [PERRO](https://open.spotify.com/album/33CvcVxIOaao992bi1H8UL) | 2:10 |
 | 50 | [TE EXCITÓ](https://open.spotify.com/track/5mckOgQpLWXGKDL7JkhinL) | [MKY](https://open.spotify.com/artist/1PqHnWEPEpvvqbNYgMPcxX) | [TE EXCITÓ](https://open.spotify.com/album/39gMLm6ooahFbaF0EDOsdZ) | 3:00 |
-| 51 | [Desde arriba](https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [Desde arriba](https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX) | 4:44 |
+| 51 | [desde arriba](https://open.spotify.com/track/1vcN4qmLq4loYfEopGLGap) | [SWÏSSA](https://open.spotify.com/artist/1FrfvYtYgNnkVnwVAB9cCC), [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [desde arriba](https://open.spotify.com/album/4uxf2klmTRNeveJn7zX5jX) | 4:44 |
 | 52 | [Por Tu Zona](https://open.spotify.com/track/47nNONWALlAswkbVw1Trz3) | [Dare El Anunnaki](https://open.spotify.com/artist/35J41sj5meFpXTFC42ueWA), [Dollar Baby](https://open.spotify.com/artist/4GYf5z6XmcUYvuX61r2SlI) | [Por Tu Zona](https://open.spotify.com/album/48NOCr9DyA2X5UGKbEbQre) | 3:16 |
 | 53 | [Bad Girls](https://open.spotify.com/track/4R2DZP110TCtZcdMNd2qBj) | [Vikina](https://open.spotify.com/artist/0acSKGMIRsorWH3cQd5JrE), [11APE](https://open.spotify.com/artist/0HvuKzbHiRTdURxQqfo7EO) | [Bad Girls](https://open.spotify.com/album/2zLvSWPN7u4FTeCr5bQNBt) | 2:15 |
 | 54 | [Get It](https://open.spotify.com/track/1orfEyWXV8gBn5815aXCgd) | [Jona Camacho](https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP) | [Get It](https://open.spotify.com/album/3PpMTkpkTYGzUuV102nh6R) | 2:54 |

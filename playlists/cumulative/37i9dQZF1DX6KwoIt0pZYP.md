@@ -4,7 +4,7 @@
 
 > soft, chewy & good for the soul\. uwu
 
-328 songs - 18 hr 19 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
+329 songs - 18 hr 22 min - [published](https://open.spotify.com/playlist/7moHOuo8YGkhu2acqCiqv9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Black & Blue](https://open.spotify.com/track/0nG9UdOvcxq16buOenF8a0) | [Cupnoodle](https://open.spotify.com/artist/2oxmVxoozyLgoIlPpz1QS2) | [Black & Blue](https://open.spotify.com/album/0GU8nszlbBQiyt1GLmKCQZ) | 3:17 | 2022-08-12 |  |
 | [blame on you](https://open.spotify.com/track/5dGUfQBSrgMA5SQ2H4Bx1Y) | [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc), [Sweet The Kid](https://open.spotify.com/artist/4qaGGZulMdVRK7uDgGAaNq) | [The Good Days Boys Vol.5](https://open.spotify.com/album/2OGD6TvczAOm8AJk0V21cU) | 2:44 | 2022-03-29 | 2022-04-17 |
 | [blink](https://open.spotify.com/track/2Wj8VlQtwHfuUUh5qwoNuG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [blink](https://open.spotify.com/album/6EpnJOCAvRUvXg66j1a0IJ) | 3:48 | 2022-01-28 | 2022-07-29 |
-| [Blossom](https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:46 | 2022-01-28 |  |
+| [Blossom](https://open.spotify.com/track/0nPpDVxWDSWdSIrd26Taja) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Nurture](https://open.spotify.com/album/4Hjqdhj5rh816i1dfcUEaM) | 3:46 | 2022-01-28 | 2022-08-15 |
 | [Blue Sky](https://open.spotify.com/track/7mZ4AjY7tkBLPAL85YU2jb) | [Wimas Putri](https://open.spotify.com/artist/7jwF8QbhmbET3DDDBo9C7L) | [Blue Sky](https://open.spotify.com/album/0sHfP8xjH0WBDWbSzm6eQt) | 4:09 | 2022-03-29 | 2022-06-01 |
 | [Blur](https://open.spotify.com/track/15IfeWfzxJtcKBgx6oDHvl) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Blur](https://open.spotify.com/album/0oQLzvDrvXSwmUfXlnCwc8) | 3:40 | 2022-06-24 |  |
 | [Breadcrumbs](https://open.spotify.com/track/5uZmsnmHHR1UXqTw8a2urG) | [Serena Sun](https://open.spotify.com/artist/6QE08doGmrNOROa5TWnVnG) | [Breadcrumbs](https://open.spotify.com/album/7MBhogvbQ50jmLjSFmuMW2) | 3:25 | 2022-04-24 | 2022-05-10 |
@@ -89,6 +89,7 @@
 | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/track/5AUMjaFnLEWzriTPTOEI56) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB), [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [everything sucks \(feat\. Eric Nam\)](https://open.spotify.com/album/3mx2H1xWJmafdZAH06TEHI) | 1:59 | 2022-01-28 |  |
 | [Faith](https://open.spotify.com/track/3Eyxdb616hFs6RvXSMijws) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [Faith](https://open.spotify.com/album/39F1cSVHjpRIB5cCfOR2ou) | 3:08 | 2022-01-28 | 2022-07-23 |
 | [Fallin'](https://open.spotify.com/track/0LA7XyhWglv7vHExijgDrG) | [Lrud](https://open.spotify.com/artist/1O65EnuGsrQ99GOb6VqFXj) | [Fallin'](https://open.spotify.com/album/4ryuxbVRInCXKFVIrxaGWk) | 3:24 | 2022-03-29 | 2022-04-20 |
+| [Falling Behind](https://open.spotify.com/track/38EDrbRyjeIFaAw0XPNX6e) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Falling Behind](https://open.spotify.com/album/47ikRYlLNytQQxCBXzCQrQ) | 2:53 | 2022-08-12 |  |
 | [Fantasy](https://open.spotify.com/track/0QMCxc6dP8ObzoJExJd5oc) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Summer Is Like a Dream](https://open.spotify.com/album/1G3b6b8cpsmT4JRQCz49md) | 2:50 | 2022-01-28 |  |
 | [Far Away](https://open.spotify.com/track/567AU1vnmc6VP5uCdAizzU) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Far Away](https://open.spotify.com/album/5sNO9BM1cxaqk5ZuHnNwyb) | 3:39 | 2022-03-11 | 2022-04-18 |
 | [Favorite](https://open.spotify.com/track/5sIuWppHRdZjvvc7qssyz5) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [Favorite](https://open.spotify.com/album/5rrntYKYrTBlAKTT310sDE) | 3:25 | 2022-02-11 | 2022-07-10 |

@@ -1493,7 +1493,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 271215,
       "name": "Kolo Rah",
       "url": "https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7"
@@ -2643,10 +2643,28 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 228750,
       "name": "\u0628\u064a\u0639\u062f\u064a \u0642\u0635\u0627\u062f\u064a",
       "url": "https://open.spotify.com/track/7ne1OIdQoG7jwdupoKxyZ7"
+    },
+    {
+      "album": {
+        "name": "\u062a\u0632\u0627\u0648\u0644\u0646\u064a",
+        "url": "https://open.spotify.com/album/039TjaVLxH7Ot1b497aldY"
+      },
+      "artists": [
+        {
+          "name": "Hakim",
+          "url": "https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183750,
+      "name": "\u062a\u0632\u0627\u0648\u0644\u0646\u064a",
+      "url": "https://open.spotify.com/track/1FWUaGQxe1OOvuN5jSFKak"
     },
     {
       "album": {
@@ -3329,7 +3347,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 313775,
       "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
       "url": "https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu"

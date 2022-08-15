@@ -1,12 +1,12 @@
 {
   "description": "The freshest smooth jazz. Cover: Nick Colionne",
-  "num_followers": 35351,
+  "num_followers": 35352,
   "original_name": "Nu-Smooth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGQ4MGQzNWZlNzJmMDI1NzEzYzliYzVkOTVjNTM1Nzlh",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDMzNDU2M2I2NGIyMzg5ZjQwMzBhZDU2MmZmMTJlMGY5",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -81,22 +81,6 @@
       "url": "https://open.spotify.com/track/1K0U3DzDQ3bohci5WRgmkd"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Jazz Party",
-        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
-      },
-      "artists": [
-        {
-          "name": "Jeffery Smith",
-          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
-        }
-      ],
-      "duration_ms": 287040,
-      "name": "Jazz Party",
-      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
-    },
-    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "In His Vision",
@@ -111,6 +95,22 @@
       "duration_ms": 231509,
       "name": "In His Vision",
       "url": "https://open.spotify.com/track/5Db5oB7ScEzWsmkr8nH5Pb"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Jazz Party",
+        "url": "https://open.spotify.com/album/7DkiZVxaCmT7n7qM3R7XcL"
+      },
+      "artists": [
+        {
+          "name": "Jeffery Smith",
+          "url": "https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2"
+        }
+      ],
+      "duration_ms": 287040,
+      "name": "Jazz Party",
+      "url": "https://open.spotify.com/track/03Q8Pb6MgxqfjyA78VWWTr"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -165,6 +165,22 @@
       "url": "https://open.spotify.com/track/60fLe1NP8QEIAbMc9V4SPq"
     },
     {
+      "added_at": "2021-06-18 04:01:00",
+      "album": {
+        "name": "So Many Ways",
+        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "So Many Ways",
+      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
+    },
+    {
       "added_at": "2022-05-06 04:02:00",
       "album": {
         "name": "Sweet Talk",
@@ -179,22 +195,6 @@
       "duration_ms": 244440,
       "name": "Sweet Talk",
       "url": "https://open.spotify.com/track/1qSDVsYoVR0XCx3xINyqi4"
-    },
-    {
-      "added_at": "2021-09-17 04:02:00",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/5JUjW1QvuVEdeBCtzsujXk"
-      },
-      "artists": [
-        {
-          "name": "Lawson Rollins",
-          "url": "https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv"
-        }
-      ],
-      "duration_ms": 298203,
-      "name": "Free to Fly",
-      "url": "https://open.spotify.com/track/5ZLSme3rKR8GP11yElvQPh"
     },
     {
       "added_at": "2022-03-04 05:01:00",
@@ -213,20 +213,20 @@
       "url": "https://open.spotify.com/track/3AiFaW6A7PTMAJoekZ85qq"
     },
     {
-      "added_at": "2022-07-15 04:02:00",
+      "added_at": "2021-09-17 04:02:00",
       "album": {
-        "name": "Promised Land",
-        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/5JUjW1QvuVEdeBCtzsujXk"
       },
       "artists": [
         {
-          "name": "Paul Brown",
-          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
+          "name": "Lawson Rollins",
+          "url": "https://open.spotify.com/artist/3blOsom4oRo6dAN4TB7xpv"
         }
       ],
-      "duration_ms": 240640,
-      "name": "Secret Sauce",
-      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
+      "duration_ms": 298203,
+      "name": "Free to Fly",
+      "url": "https://open.spotify.com/track/5ZLSme3rKR8GP11yElvQPh"
     },
     {
       "added_at": "2022-05-06 04:02:00",
@@ -245,20 +245,20 @@
       "url": "https://open.spotify.com/track/5EEMl2lyiz0WGpVJbTKgHX"
     },
     {
-      "added_at": "2021-06-18 04:01:00",
+      "added_at": "2022-07-15 04:02:00",
       "album": {
-        "name": "So Many Ways",
-        "url": "https://open.spotify.com/album/7EHcHWVRicIXU9blexwPSw"
+        "name": "Promised Land",
+        "url": "https://open.spotify.com/album/7ctpJMlFR5SQamyhoAyeEM"
       },
       "artists": [
         {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+          "name": "Paul Brown",
+          "url": "https://open.spotify.com/artist/4Hisv12GBxgMUsB2eBW5jy"
         }
       ],
-      "duration_ms": 247440,
-      "name": "So Many Ways",
-      "url": "https://open.spotify.com/track/5M4hx3dAvctkZhArX9SWrh"
+      "duration_ms": 240640,
+      "name": "Secret Sauce",
+      "url": "https://open.spotify.com/track/3A7ltXDaw2o8kdXttc9rXp"
     },
     {
       "added_at": "2022-05-13 04:02:00",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/6bGtyIx8T1Ju65CTrcawwl"
     },
     {
-      "added_at": "2021-08-13 04:01:00",
-      "album": {
-        "name": "On The Move",
-        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
-      },
-      "artists": [
-        {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
-        }
-      ],
-      "duration_ms": 250093,
-      "name": "On The Move",
-      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
-    },
-    {
       "added_at": "2022-02-25 05:02:00",
       "album": {
         "name": "Business As Usual",
@@ -359,6 +343,22 @@
       "duration_ms": 216129,
       "name": "Business As Usual",
       "url": "https://open.spotify.com/track/3Wxtwc8fYISyUwqIRONuzc"
+    },
+    {
+      "added_at": "2021-08-13 04:01:00",
+      "album": {
+        "name": "On The Move",
+        "url": "https://open.spotify.com/album/4pBNj3JonyIgHr9VBzjUUS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 250093,
+      "name": "On The Move",
+      "url": "https://open.spotify.com/track/2Q6XPRLwgglQSYVAoCRaEI"
     },
     {
       "added_at": "2022-04-15 04:02:00",
@@ -417,42 +417,6 @@
       "url": "https://open.spotify.com/track/6v8AwEkXA8IvgVz00otrNT"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Cruising the Boulevard",
-        "url": "https://open.spotify.com/album/6eJ8dlpqTqwZ63S3iuIw5w"
-      },
-      "artists": [
-        {
-          "name": "Dreaming in Colour",
-          "url": "https://open.spotify.com/artist/5CpsCuEhGHwGM0sQTGX5NF"
-        },
-        {
-          "name": "Nelson Rangell",
-          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
-        }
-      ],
-      "duration_ms": 259146,
-      "name": "Cruising the Boulevard",
-      "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
-    },
-    {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "The Goddess",
-        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
-      },
-      "artists": [
-        {
-          "name": "Will Donato",
-          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
-        }
-      ],
-      "duration_ms": 246458,
-      "name": "The Goddess",
-      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Lavish",
@@ -471,6 +435,42 @@
       "duration_ms": 257410,
       "name": "Lavish",
       "url": "https://open.spotify.com/track/7HWcoYr38NGhW8yIXcTLib"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "The Goddess",
+        "url": "https://open.spotify.com/album/0cTkdfXKNIzFDW6uRs5xMO"
+      },
+      "artists": [
+        {
+          "name": "Will Donato",
+          "url": "https://open.spotify.com/artist/0m8061Uhsuwz9fv6AJGOs9"
+        }
+      ],
+      "duration_ms": 246458,
+      "name": "The Goddess",
+      "url": "https://open.spotify.com/track/30gMOvwtvkEpSDyQmEKdN2"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Cruising the Boulevard",
+        "url": "https://open.spotify.com/album/6eJ8dlpqTqwZ63S3iuIw5w"
+      },
+      "artists": [
+        {
+          "name": "Dreaming in Colour",
+          "url": "https://open.spotify.com/artist/5CpsCuEhGHwGM0sQTGX5NF"
+        },
+        {
+          "name": "Nelson Rangell",
+          "url": "https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88"
+        }
+      ],
+      "duration_ms": 259146,
+      "name": "Cruising the Boulevard",
+      "url": "https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r"
     },
     {
       "added_at": "2021-09-24 04:02:00",
@@ -541,6 +541,22 @@
       "url": "https://open.spotify.com/track/2RUCKGzg42LaoDUdloxiIA"
     },
     {
+      "added_at": "2021-08-20 04:02:00",
+      "album": {
+        "name": "GroovySax",
+        "url": "https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3"
+      },
+      "artists": [
+        {
+          "name": "Dean James",
+          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+        }
+      ],
+      "duration_ms": 251621,
+      "name": "Planet Smooth",
+      "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
+    },
+    {
       "added_at": "2021-08-13 04:01:00",
       "album": {
         "name": "Feels So Right (Radio Edit)",
@@ -605,20 +621,20 @@
       "url": "https://open.spotify.com/track/4zSQTxz4zeplcTGeJHDueh"
     },
     {
-      "added_at": "2021-08-20 04:02:00",
+      "added_at": "2021-10-15 04:01:00",
       "album": {
-        "name": "GroovySax",
-        "url": "https://open.spotify.com/album/5iq65xFLZsMa8GcjXN1UC3"
+        "name": "Slingshot",
+        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
       },
       "artists": [
         {
-          "name": "Dean James",
-          "url": "https://open.spotify.com/artist/31xSrTUCyFSh7BaN6eZIgu"
+          "name": "Steve Oliver",
+          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
         }
       ],
-      "duration_ms": 251621,
-      "name": "Planet Smooth",
-      "url": "https://open.spotify.com/track/4DNJiQa3gRSzItuC5vdR4Z"
+      "duration_ms": 232719,
+      "name": "Slingshot",
+      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
       "added_at": "2022-05-20 04:02:00",
@@ -635,22 +651,6 @@
       "duration_ms": 210179,
       "name": "Summertime in Nyc (Instrumental Mix)",
       "url": "https://open.spotify.com/track/2noLzEHQMcnY5IPSfAruFZ"
-    },
-    {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "Slingshot",
-        "url": "https://open.spotify.com/album/0YocPxGvt5sccdAsZKqvgX"
-      },
-      "artists": [
-        {
-          "name": "Steve Oliver",
-          "url": "https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL"
-        }
-      ],
-      "duration_ms": 232719,
-      "name": "Slingshot",
-      "url": "https://open.spotify.com/track/4nEwNR21Iycvix4l5opfmM"
     },
     {
       "added_at": "2022-04-08 04:02:00",
@@ -781,22 +781,6 @@
       "url": "https://open.spotify.com/track/3N80JYpUbyZd90H5a4F9Zk"
     },
     {
-      "added_at": "2022-05-20 04:02:00",
-      "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
-      },
-      "artists": [
-        {
-          "name": "Chris Standring",
-          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
-        }
-      ],
-      "duration_ms": 224237,
-      "name": "Change the World",
-      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "Summer in Blue",
@@ -811,6 +795,22 @@
       "duration_ms": 269129,
       "name": "Summer In Blue",
       "url": "https://open.spotify.com/track/24qM1vAqWgIv9CzasSy9nn"
+    },
+    {
+      "added_at": "2022-05-20 04:02:00",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/5johDkRr09Mayqa0V7Ik8X"
+      },
+      "artists": [
+        {
+          "name": "Chris Standring",
+          "url": "https://open.spotify.com/artist/1XeMzpgjVKU2dR5xXaZLut"
+        }
+      ],
+      "duration_ms": 224237,
+      "name": "Change the World",
+      "url": "https://open.spotify.com/track/4AOWSlCyRoSKG0psP8U3ak"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -829,22 +829,6 @@
       "url": "https://open.spotify.com/track/0djHbjE04WJUI2Mo4vA4Zr"
     },
     {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN"
-      },
-      "artists": [
-        {
-          "name": "Brian Simpson",
-          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk"
-    },
-    {
       "added_at": "2021-10-08 04:02:00",
       "album": {
         "name": "No Shade",
@@ -859,6 +843,22 @@
       "duration_ms": 248472,
       "name": "No Shade",
       "url": "https://open.spotify.com/track/6E94ZUOgN9UazkFmGxEu5q"
+    },
+    {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/4EhyShIfNF7T6WKym6BzXN"
+      },
+      "artists": [
+        {
+          "name": "Brian Simpson",
+          "url": "https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/2ZNUhtOKwuwK7Ec138C9Dk"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/46D1DkTFAG8l1LDQgoeKDz"
     },
     {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "A to Z",
+        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Neu",
+          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
+        },
+        {
+          "name": "Rob Zinn",
+          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "A to Z",
+      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
+    },
+    {
       "added_at": "2022-06-17 04:02:00",
       "album": {
         "name": "Drive",
@@ -907,6 +927,22 @@
       "duration_ms": 261562,
       "name": "Drive",
       "url": "https://open.spotify.com/track/5X2j0GGlmibh2OK99qRzGO"
+    },
+    {
+      "added_at": "2021-09-17 04:02:00",
+      "album": {
+        "name": "Fire & Desire",
+        "url": "https://open.spotify.com/album/3KsUVC1pvahGedfqRHRAVn"
+      },
+      "artists": [
+        {
+          "name": "Vincent Ingala",
+          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+        }
+      ],
+      "duration_ms": 266840,
+      "name": "Fire And Desire",
+      "url": "https://open.spotify.com/track/2LU8lEAdWosx7exPk4WKjs"
     },
     {
       "added_at": "2021-07-02 04:01:00",
@@ -929,40 +965,20 @@
       "url": "https://open.spotify.com/track/2MZPzcULtHa17kQaM0OGmT"
     },
     {
-      "added_at": "2021-09-17 04:02:00",
+      "added_at": "2022-01-28 05:02:00",
       "album": {
-        "name": "Fire & Desire",
-        "url": "https://open.spotify.com/album/3KsUVC1pvahGedfqRHRAVn"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
       },
       "artists": [
         {
-          "name": "Vincent Ingala",
-          "url": "https://open.spotify.com/artist/1tPdDNZNPVa7NOQ6S0A5x7"
+          "name": "Christophe Goze",
+          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
         }
       ],
-      "duration_ms": 266840,
-      "name": "Fire And Desire",
-      "url": "https://open.spotify.com/track/2LU8lEAdWosx7exPk4WKjs"
-    },
-    {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "A to Z",
-        "url": "https://open.spotify.com/album/0bZqdeW8LqD3GTNnYuxGzB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Neu",
-          "url": "https://open.spotify.com/artist/2UvENYRkDPxhXmp92vkzhF"
-        },
-        {
-          "name": "Rob Zinn",
-          "url": "https://open.spotify.com/artist/6I8oFZvFlvaEXz6ZYhEB65"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "A to Z",
-      "url": "https://open.spotify.com/track/6sJwnAnUD18u9MysrfzY0g"
+      "duration_ms": 228102,
+      "name": "Soul to Soul - 2022 Version",
+      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
     },
     {
       "added_at": "2022-01-14 05:01:00",
@@ -979,22 +995,6 @@
       "duration_ms": 240906,
       "name": "Feet First",
       "url": "https://open.spotify.com/track/2tkh6CxhyZKv9Jio6Ow77W"
-    },
-    {
-      "added_at": "2022-01-28 05:02:00",
-      "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2FSxMIU0mbvZKmTBAZ99WJ"
-      },
-      "artists": [
-        {
-          "name": "Christophe Goze",
-          "url": "https://open.spotify.com/artist/5RzGiZsH8BHkjjrvANvk4H"
-        }
-      ],
-      "duration_ms": 228102,
-      "name": "Soul to Soul - 2022 Version",
-      "url": "https://open.spotify.com/track/78y37Rtf5UXolH7LqUNjF7"
     },
     {
       "added_at": "2021-06-25 04:02:00",
@@ -1061,22 +1061,6 @@
       "url": "https://open.spotify.com/track/4cxZb1OMmlLdGoZYTJegDL"
     },
     {
-      "added_at": "2022-02-25 05:02:00",
-      "album": {
-        "name": "Simply Worship",
-        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
-      },
-      "artists": [
-        {
-          "name": "Uriel Vega",
-          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
-        }
-      ],
-      "duration_ms": 249720,
-      "name": "Way Maker",
-      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
-    },
-    {
       "added_at": "2022-01-14 05:01:00",
       "album": {
         "name": "Run Through the Urban City",
@@ -1099,6 +1083,22 @@
       "duration_ms": 369000,
       "name": "Run Through the Urban City",
       "url": "https://open.spotify.com/track/5gOXsqoOraGd2mqEMj0LIw"
+    },
+    {
+      "added_at": "2022-02-25 05:02:00",
+      "album": {
+        "name": "Simply Worship",
+        "url": "https://open.spotify.com/album/7o99jciAk5Pr2myTCnMWh9"
+      },
+      "artists": [
+        {
+          "name": "Uriel Vega",
+          "url": "https://open.spotify.com/artist/1m9G79dw6i91jo4o5k6AEg"
+        }
+      ],
+      "duration_ms": 249720,
+      "name": "Way Maker",
+      "url": "https://open.spotify.com/track/5mwRmYIiy0rISoe74f1Hol"
     },
     {
       "added_at": "2021-08-13 04:01:00",
@@ -1305,22 +1305,6 @@
       "url": "https://open.spotify.com/track/6QZdkQEGmJp4LTpLCIf80U"
     },
     {
-      "added_at": "2022-03-18 05:00:00",
-      "album": {
-        "name": "Chicago Morning",
-        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
-      },
-      "artists": [
-        {
-          "name": "Spontaneous Groovin' Combustion",
-          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
-        }
-      ],
-      "duration_ms": 260398,
-      "name": "Chicago Morning",
-      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
-    },
-    {
       "added_at": "2022-04-01 04:02:00",
       "album": {
         "name": "SOLO",
@@ -1339,6 +1323,22 @@
       "duration_ms": 274096,
       "name": "Busta Move",
       "url": "https://open.spotify.com/track/4SHv5Chn9bYy55YtUzwmqF"
+    },
+    {
+      "added_at": "2022-03-18 05:00:00",
+      "album": {
+        "name": "Chicago Morning",
+        "url": "https://open.spotify.com/album/32yiS9sXWBCJvOvCLU276N"
+      },
+      "artists": [
+        {
+          "name": "Spontaneous Groovin' Combustion",
+          "url": "https://open.spotify.com/artist/48jWgkXNkHqn6SVQZniYe5"
+        }
+      ],
+      "duration_ms": 260398,
+      "name": "Chicago Morning",
+      "url": "https://open.spotify.com/track/2E6pU3PbdItkREHN9IYCJb"
     },
     {
       "added_at": "2022-04-15 04:02:00",

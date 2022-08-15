@@ -3333,7 +3333,7 @@
       ],
       "date_added": "2022-07-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-07",
+      "date_removed": null,
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
@@ -3967,7 +3967,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 97392,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
@@ -14941,7 +14941,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 158769,
       "name": "Tornado",
       "url": "https://open.spotify.com/track/2uBDn9E9bXPPDucVx12dRc"
@@ -16231,6 +16231,28 @@
       "duration_ms": 198413,
       "name": "Z kopyta kulig rwie",
       "url": "https://open.spotify.com/track/2g59LWL5y0BuPsyJZQTubb"
+    },
+    {
+      "album": {
+        "name": "Z\u0142ote Bloki",
+        "url": "https://open.spotify.com/album/2RQlDuzLfDzU4CmfJQRyDR"
+      },
+      "artists": [
+        {
+          "name": "Mrozu",
+          "url": "https://open.spotify.com/artist/5QWz0kPELXKHSiINe7mFjX"
+        },
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191946,
+      "name": "Za Daleko",
+      "url": "https://open.spotify.com/track/6xOZxa5aOEdLvXSTMwDCjm"
     },
     {
       "album": {

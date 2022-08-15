@@ -26,6 +26,24 @@
     },
     {
       "album": {
+        "name": "De regreso al colegio",
+        "url": "https://open.spotify.com/album/5LTozJDLwFaF6eK46YIeVa"
+      },
+      "artists": [
+        {
+          "name": "Cooltime Kids",
+          "url": "https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106706,
+      "name": "Alphabet Song",
+      "url": "https://open.spotify.com/track/48J2LOgzd87JK4SUfdu38H"
+    },
+    {
+      "album": {
         "name": "EVVIVA Canzoni per Bambini",
         "url": "https://open.spotify.com/album/1zmp6rEy0zlInq8O5jHkfQ"
       },
@@ -37,7 +55,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 106706,
       "name": "Alphabet Song",
       "url": "https://open.spotify.com/track/5ddiqtnKYhGULuJATEAJsM"

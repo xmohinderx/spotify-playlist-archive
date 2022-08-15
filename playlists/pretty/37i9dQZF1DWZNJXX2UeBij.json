@@ -1,12 +1,12 @@
 {
   "description": "Top Bollywood songs from 2000s till 2010",
-  "num_followers": 353962,
+  "num_followers": 354439,
   "original_name": "All Out 00s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU5OTE3MiwwMDAwMDAwMDQ2OGU4NjdkMjk0YzY2ODZhMmI1ODNiMzg0NzgyOTA0",
+  "snapshot_id": "MTY1NzU5OTE3MiwwMDAwMDAwMGFlMGYwZjk1OGNhNGM3NmI2N2UzNGNmNjE3Y2JiN2Iw",
   "tracks": [
     {
       "added_at": "2022-07-12 04:12:52",
@@ -223,22 +223,26 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "3 Idiots (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6JzPRHDXP5soq9zjamRB3f"
+        "name": "Veer - Zaara",
+        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
       },
       "artists": [
         {
-          "name": "Suraj Jagan",
-          "url": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
+          "name": "Madan Mohan",
+          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
         },
         {
-          "name": "Sharman Joshi",
-          "url": "https://open.spotify.com/artist/1OZ5QftREjOSgdIjdzm03I"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Javed Akhtar",
+          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
         }
       ],
-      "duration_ms": 247346,
-      "name": "Give Me Some Sunshine",
-      "url": "https://open.spotify.com/track/4gBQbegBZlPhMgaWVzCCY5"
+      "duration_ms": 295157,
+      "name": "Main Yahaan Hoon",
+      "url": "https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -263,26 +267,22 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Veer - Zaara",
-        "url": "https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6"
+        "name": "3 Idiots (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6JzPRHDXP5soq9zjamRB3f"
       },
       "artists": [
         {
-          "name": "Madan Mohan",
-          "url": "https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu"
+          "name": "Suraj Jagan",
+          "url": "https://open.spotify.com/artist/6eMFGgGDh5iXU1POAK0cpe"
         },
         {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        },
-        {
-          "name": "Javed Akhtar",
-          "url": "https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014"
+          "name": "Sharman Joshi",
+          "url": "https://open.spotify.com/artist/1OZ5QftREjOSgdIjdzm03I"
         }
       ],
-      "duration_ms": 295157,
-      "name": "Main Yahaan Hoon",
-      "url": "https://open.spotify.com/track/3OAFzjwWionh8OfM4kgf2R"
+      "duration_ms": 247346,
+      "name": "Give Me Some Sunshine",
+      "url": "https://open.spotify.com/track/4gBQbegBZlPhMgaWVzCCY5"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -775,22 +775,38 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "The Train",
-        "url": "https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP"
+        "name": "Bunty Aur Babli",
+        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
       },
       "artists": [
         {
-          "name": "Mithoon",
-          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+          "name": "Shankar",
+          "url": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+          "name": "Ehsaan",
+          "url": "https://open.spotify.com/artist/2TtFAgogwuEBvXe7DecRzq"
+        },
+        {
+          "name": "Loy",
+          "url": "https://open.spotify.com/artist/6MRzB5b9YzkH4u301606hl"
+        },
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
         }
       ],
-      "duration_ms": 302710,
-      "name": "Wo Ajnabee",
-      "url": "https://open.spotify.com/track/0ZNg3I2kga2XnqKp1Y9PeZ"
+      "duration_ms": 482586,
+      "name": "Kajra Re",
+      "url": "https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -851,38 +867,22 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Bunty Aur Babli",
-        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
+        "name": "The Train",
+        "url": "https://open.spotify.com/album/1GFvChouNq6BNSjhSi6XKP"
       },
       "artists": [
         {
-          "name": "Shankar",
-          "url": "https://open.spotify.com/artist/6DmKvvaXUkECvkUozzpuQb"
+          "name": "Mithoon",
+          "url": "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
         },
         {
-          "name": "Ehsaan",
-          "url": "https://open.spotify.com/artist/2TtFAgogwuEBvXe7DecRzq"
-        },
-        {
-          "name": "Loy",
-          "url": "https://open.spotify.com/artist/6MRzB5b9YzkH4u301606hl"
-        },
-        {
-          "name": "Alisha Chinai",
-          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
-        },
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Gulzar",
-          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
         }
       ],
-      "duration_ms": 482586,
-      "name": "Kajra Re",
-      "url": "https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT"
+      "duration_ms": 302710,
+      "name": "Wo Ajnabee",
+      "url": "https://open.spotify.com/track/0ZNg3I2kga2XnqKp1Y9PeZ"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Bas Ek Pal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4G3queIFPEE6oca32RkHdT"
-      },
-      "artists": [
-        {
-          "name": "Atif Aslam",
-          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
-        }
-      ],
-      "duration_ms": 275986,
-      "name": "Tere Bin",
-      "url": "https://open.spotify.com/track/3DpedytYku64Hjf51064vO"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "Chak De India",
         "url": "https://open.spotify.com/album/5KXiMrupdPZf2sR6WrZTvh"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 283951,
       "name": "Chak De India",
       "url": "https://open.spotify.com/track/6D3vmtskO4RbZP3bBIDY3X"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Bas Ek Pal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4G3queIFPEE6oca32RkHdT"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 275986,
+      "name": "Tere Bin",
+      "url": "https://open.spotify.com/track/3DpedytYku64Hjf51064vO"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1439,6 +1439,30 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
+        "name": "De Dana Dan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1ntxc2fLSmC8ZuuxyFDONG"
+      },
+      "artists": [
+        {
+          "name": "Manak-E",
+          "url": "https://open.spotify.com/artist/7Bo2dGFMSkPVyx4S9oZnlG"
+        },
+        {
+          "name": "Selina",
+          "url": "https://open.spotify.com/artist/0EJbLQbOGlc2zdJcG3tyFN"
+        },
+        {
+          "name": "R.D.B.",
+          "url": "https://open.spotify.com/artist/5FUVk1yU9n4YWUf4dWBkxD"
+        }
+      ],
+      "duration_ms": 234386,
+      "name": "Paisa",
+      "url": "https://open.spotify.com/track/5waPZcxgliOcZxCjswryDb"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
         "name": "Jism 2",
         "url": "https://open.spotify.com/album/0jnPWcGep7AperEjb23Ors"
       },
@@ -1455,22 +1479,6 @@
       "duration_ms": 342703,
       "name": "Abhi Abhi",
       "url": "https://open.spotify.com/track/46wPnU9FUjYEm8vYLujq4i"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v"
-      },
-      "artists": [
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 315013,
-      "name": "Ajj Din Chadheya",
-      "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1527,26 +1535,18 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "De Dana Dan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1ntxc2fLSmC8ZuuxyFDONG"
+        "name": "Love Aaj Kal (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7CIIJ9TXRdX5bMrvO0vC3v"
       },
       "artists": [
         {
-          "name": "Manak-E",
-          "url": "https://open.spotify.com/artist/7Bo2dGFMSkPVyx4S9oZnlG"
-        },
-        {
-          "name": "Selina",
-          "url": "https://open.spotify.com/artist/0EJbLQbOGlc2zdJcG3tyFN"
-        },
-        {
-          "name": "R.D.B.",
-          "url": "https://open.spotify.com/artist/5FUVk1yU9n4YWUf4dWBkxD"
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
         }
       ],
-      "duration_ms": 234386,
-      "name": "Paisa",
-      "url": "https://open.spotify.com/track/5waPZcxgliOcZxCjswryDb"
+      "duration_ms": 315013,
+      "name": "Ajj Din Chadheya",
+      "url": "https://open.spotify.com/track/7N30pzJGFwnYU8iuzxWS7l"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
+        "name": "Gangster (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh"
+      },
+      "artists": [
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        }
+      ],
+      "duration_ms": 389693,
+      "name": "Tu Hi Meri Shab Hai, Pt. 1",
+      "url": "https://open.spotify.com/track/1pNIbZ1F7CJmk60h6UJaVg"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
         "name": "Dev D",
         "url": "https://open.spotify.com/album/4NQFGqfjIeZR4lJi9bqdYT"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 238004,
       "name": "Emosanal Attyachaar (Brass Band Version)",
       "url": "https://open.spotify.com/track/7iW9pTNgp2HtlRJinoYuiA"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
-        "name": "Gangster (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/58KM0sPteBvwVW6skGRHFh"
-      },
-      "artists": [
-        {
-          "name": "KK",
-          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
-        }
-      ],
-      "duration_ms": 389693,
-      "name": "Tu Hi Meri Shab Hai, Pt. 1",
-      "url": "https://open.spotify.com/track/1pNIbZ1F7CJmk60h6UJaVg"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -2015,22 +2015,6 @@
     {
       "added_at": "2022-07-12 04:12:52",
       "album": {
-        "name": "Murder (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/24oa4TLK632hnlXamYI2nC"
-      },
-      "artists": [
-        {
-          "name": "Kunal Ganjawala",
-          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
-        }
-      ],
-      "duration_ms": 274466,
-      "name": "Bheegey Hont",
-      "url": "https://open.spotify.com/track/4EZEgKPv49bc8pnf47ziMo"
-    },
-    {
-      "added_at": "2022-07-12 04:12:52",
-      "album": {
         "name": "Kaante",
         "url": "https://open.spotify.com/album/0xH5BDNp1Yoxzbxy3wO20n"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 321410,
       "name": "Ishq Samundar",
       "url": "https://open.spotify.com/track/26AwzkDNxx9D0KXmBhY0Gd"
+    },
+    {
+      "added_at": "2022-07-12 04:12:52",
+      "album": {
+        "name": "Murder (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/24oa4TLK632hnlXamYI2nC"
+      },
+      "artists": [
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        }
+      ],
+      "duration_ms": 274466,
+      "name": "Bheegey Hont",
+      "url": "https://open.spotify.com/track/4EZEgKPv49bc8pnf47ziMo"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -2132,13 +2132,13 @@
       },
       "artists": [
         {
-          "name": "Bonnie Chakraborty",
-          "url": "https://open.spotify.com/artist/6FYbbAEjKyhebS2mAMdjo2"
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
         }
       ],
-      "duration_ms": 239537,
-      "name": "Emotional Attyachaar (Rock Version)",
-      "url": "https://open.spotify.com/track/789ypzLVZugyrUn57A6CWp"
+      "duration_ms": 352896,
+      "name": "Paayaliya",
+      "url": "https://open.spotify.com/track/4REr6h0i1I7LSR8pfJee8G"
     },
     {
       "added_at": "2022-07-12 04:12:52",
@@ -2148,13 +2148,13 @@
       },
       "artists": [
         {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+          "name": "Bonnie Chakraborty",
+          "url": "https://open.spotify.com/artist/6FYbbAEjKyhebS2mAMdjo2"
         }
       ],
-      "duration_ms": 352896,
-      "name": "Paayaliya",
-      "url": "https://open.spotify.com/track/4REr6h0i1I7LSR8pfJee8G"
+      "duration_ms": 239537,
+      "name": "Emotional Attyachaar (Rock Version)",
+      "url": "https://open.spotify.com/track/789ypzLVZugyrUn57A6CWp"
     },
     {
       "added_at": "2022-07-12 04:12:52",

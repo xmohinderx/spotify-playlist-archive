@@ -1,12 +1,12 @@
 {
   "description": "feel it all. Cover: My Chemical Romance",
-  "num_followers": 1327508,
+  "num_followers": 1328214,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODg3NywwMDAwMDAwMDYzODQzZTY4ZjY4YzYwMGI1ZWE4NTAyMjRiMDE1MGNj",
+  "snapshot_id": "MTY2MDMyODg3NywwMDAwMDAwMGJiNTgwZTIyMGZmMWE1MDgyMTMwZDhjMDMxM2NhMDlk",
   "tracks": [
     {
       "added_at": "2022-08-02 18:47:58",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-02 18:47:58",
       "album": {
-        "name": "Picture Perfect",
-        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
-      },
-      "artists": [
-        {
-          "name": "Every Avenue",
-          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Tell Me I'm A Wreck",
-      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
-    },
-    {
-      "added_at": "2022-08-02 18:47:58",
-      "album": {
         "name": "Now You See Inside",
         "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 167200,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
+    },
+    {
+      "added_at": "2022-08-02 18:47:58",
+      "album": {
+        "name": "Picture Perfect",
+        "url": "https://open.spotify.com/album/0MgL5MkrqC9wqDuiSedJ14"
+      },
+      "artists": [
+        {
+          "name": "Every Avenue",
+          "url": "https://open.spotify.com/artist/1IpSmgcN9F3KNa7j9JtAE4"
+        }
+      ],
+      "duration_ms": 219973,
+      "name": "Tell Me I'm A Wreck",
+      "url": "https://open.spotify.com/track/203zTFd1zbfG0fiOG9OREv"
     },
     {
       "added_at": "2022-08-02 18:47:58",

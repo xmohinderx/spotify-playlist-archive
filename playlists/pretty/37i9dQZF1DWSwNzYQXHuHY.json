@@ -1,12 +1,12 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694.",
-  "num_followers": 3424,
+  "num_followers": 3445,
   "original_name": "\uc378",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDEzMiwwMDAwMDAwMDM3MzU2OTI4NWFlMjMyMzU4NmNhYjRkYmM3ZDNkNzRh",
+  "snapshot_id": "MTY2MDMzMDEzMiwwMDAwMDAwMDg5NDc5YmZjMTFlYmJhZjM3ZjlmZjIyZmNhY2Q2NDU1",
   "tracks": [
     {
       "added_at": "2022-08-12 18:48:52",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
+        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
+        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
+      },
+      "artists": [
+        {
+          "name": "KIHYUN",
+          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
+        }
+      ],
+      "duration_ms": 204013,
+      "name": "IS THIS LOVE",
+      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
+    },
+    {
+      "added_at": "2022-08-12 18:48:52",
+      "album": {
         "name": "Q",
         "url": "https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr"
       },
@@ -519,22 +535,6 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "After School Lessons for Unripe Apples (Original Webcomic Soundtrack) Pt.2",
-        "url": "https://open.spotify.com/album/6y8QtlbcnxTnBt1Sd4S4bS"
-      },
-      "artists": [
-        {
-          "name": "KIHYUN",
-          "url": "https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS"
-        }
-      ],
-      "duration_ms": 204013,
-      "name": "IS THIS LOVE",
-      "url": "https://open.spotify.com/track/7ssHGorhA1RFETKIufBFht"
-    },
-    {
-      "added_at": "2022-08-12 18:48:52",
-      "album": {
         "name": "Kakao Webtoon \u3008Since I Met You\u3009 OST Part.1",
         "url": "https://open.spotify.com/album/5vv6Uiok957CzhUKPjMWj7"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 212493,
       "name": "Dive into you",
       "url": "https://open.spotify.com/track/1N81YOCHPvDFQfndFc6vT4"
-    },
-    {
-      "added_at": "2022-08-12 18:48:52",
-      "album": {
-        "name": "Oh My Boy",
-        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
-      },
-      "artists": [
-        {
-          "name": "KWON EUN BI",
-          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
-        }
-      ],
-      "duration_ms": 183853,
-      "name": "Oh My Boy",
-      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
     },
     {
       "added_at": "2022-08-12 18:48:52",
@@ -583,6 +567,22 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
+        "name": "Oh My Boy",
+        "url": "https://open.spotify.com/album/3wB6o7osE6fIGUBNG4dk1F"
+      },
+      "artists": [
+        {
+          "name": "KWON EUN BI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "duration_ms": 183853,
+      "name": "Oh My Boy",
+      "url": "https://open.spotify.com/track/3qsxjwVRHAu69j7LoglBEz"
+    },
+    {
+      "added_at": "2022-08-12 18:48:52",
+      "album": {
         "name": "The One and Only, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/53JUFGKYYyfhlHXMRirdIB"
       },
@@ -599,18 +599,18 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "Pong Dang",
-        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
+        "name": "3rd Digital Single 'Not In Public'",
+        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
       },
       "artists": [
         {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+          "name": "SUMMER CAKE",
+          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
         }
       ],
-      "duration_ms": 233026,
-      "name": "Pong Dang",
-      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
+      "duration_ms": 171560,
+      "name": "Not In Public",
+      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
     },
     {
       "added_at": "2022-08-12 18:48:52",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "3rd Digital Single 'Not In Public'",
-        "url": "https://open.spotify.com/album/4LX6PAK8lwgaKtC00wFGcy"
+        "name": "Pong Dang",
+        "url": "https://open.spotify.com/album/1pFgxq13Tw9ZU7owb3BTP2"
       },
       "artists": [
         {
-          "name": "SUMMER CAKE",
-          "url": "https://open.spotify.com/artist/00tfbtz9VWPIzJmHPojKgm"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
         }
       ],
-      "duration_ms": 171560,
-      "name": "Not In Public",
-      "url": "https://open.spotify.com/track/6WQE9m9BhyKcsXZXWeGBqD"
+      "duration_ms": 233026,
+      "name": "Pong Dang",
+      "url": "https://open.spotify.com/track/1z4RuGHHajj2eRK8IMbxMw"
     },
     {
       "added_at": "2022-08-12 18:48:52",
@@ -687,26 +687,18 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "Weekday is long, Weekend is gone",
-        "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
+        "name": "NDGGA",
+        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
       },
       "artists": [
         {
-          "name": "merrymerryseoul",
-          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
-        },
-        {
-          "name": "amin",
-          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
-        },
-        {
-          "name": "H!",
-          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
+          "name": "meenoi",
+          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
         }
       ],
-      "duration_ms": 175192,
-      "name": "Stupid (feat. Amin & H!)",
-      "url": "https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r"
+      "duration_ms": 175412,
+      "name": "NDGGA",
+      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
     },
     {
       "added_at": "2022-08-12 18:48:52",
@@ -727,18 +719,26 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "NDGGA",
-        "url": "https://open.spotify.com/album/3UZvC0lIUCeLscHzuIojxg"
+        "name": "Weekday is long, Weekend is gone",
+        "url": "https://open.spotify.com/album/2P4txqRH8hlDQLBoMnXlIl"
       },
       "artists": [
         {
-          "name": "meenoi",
-          "url": "https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH"
+          "name": "merrymerryseoul",
+          "url": "https://open.spotify.com/artist/5vePfIx5trgioIznzp2cuy"
+        },
+        {
+          "name": "amin",
+          "url": "https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N"
+        },
+        {
+          "name": "H!",
+          "url": "https://open.spotify.com/artist/3gVpUJcNNDu43pV4xlzmyJ"
         }
       ],
-      "duration_ms": 175412,
-      "name": "NDGGA",
-      "url": "https://open.spotify.com/track/15beUhJeOn4YdMOYW34AVJ"
+      "duration_ms": 175192,
+      "name": "Stupid (feat. Amin & H!)",
+      "url": "https://open.spotify.com/track/6tgPZHN5aSPU3IFxcG7V6r"
     },
     {
       "added_at": "2022-08-12 18:48:52",
@@ -791,6 +791,22 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/1rzf2NYL9t1iA9HE6MYYvs"
+      },
+      "artists": [
+        {
+          "name": "JO YURI",
+          "url": "https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz"
+        }
+      ],
+      "duration_ms": 221333,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/4PoMMt1P8TAIRbeAcY8PN3"
+    },
+    {
+      "added_at": "2022-08-12 18:48:52",
+      "album": {
         "name": "My First June",
         "url": "https://open.spotify.com/album/7DeVjzaqs8JcuHetuERgE7"
       },
@@ -811,6 +827,22 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
+        "name": "Minamdang (Original Television Soundtrack, Pt. 6)",
+        "url": "https://open.spotify.com/album/2zIS0T0Kegw9sOh0YQXxqF"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/0X5xuP3hkIMo86LpTCFGdb"
+    },
+    {
+      "added_at": "2022-08-12 18:48:52",
+      "album": {
         "name": "Woori The Virgin, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii"
       },
@@ -827,22 +859,6 @@
     {
       "added_at": "2022-08-12 18:48:52",
       "album": {
-        "name": "Forecasting Love and Weather (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 209866,
-      "name": "Something Precious",
-      "url": "https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO"
-    },
-    {
-      "added_at": "2022-08-12 18:48:52",
-      "album": {
         "name": "Farmers (Original Soundtrack)",
         "url": "https://open.spotify.com/album/4imnAiy9VXoGhPYoqdns9j"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 157386,
       "name": "Strawberry Smoothie",
       "url": "https://open.spotify.com/track/4Fa5yirnUwGuELJ3t054mz"
-    },
-    {
-      "added_at": "2022-08-12 18:48:52",
-      "album": {
-        "name": "Secret (From \"Going to You at a Speed of 493km\" [Original Soundtrack]), Pt.2",
-        "url": "https://open.spotify.com/album/6uRabEcyPLuf8uj5CtwpF2"
-      },
-      "artists": [
-        {
-          "name": "Yun DDanDDan",
-          "url": "https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt"
-        }
-      ],
-      "duration_ms": 191625,
-      "name": "Secret",
-      "url": "https://open.spotify.com/track/1yz9rPrCtMTlRtVxdmiig0"
     }
   ],
   "unique_name": "\uc378",

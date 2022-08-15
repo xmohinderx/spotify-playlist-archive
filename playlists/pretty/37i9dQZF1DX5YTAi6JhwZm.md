@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5YTAi6JhwZm.md) - [plain]
 
 > Uplifting and happy jazz to get you in a good mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,969 likes - 104 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,037 likes - 104 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

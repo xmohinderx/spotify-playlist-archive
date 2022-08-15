@@ -4,7 +4,7 @@
 
 > Raw dance beats pushing club culture forwards\. Cover: Shygirl
 
-88 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
+89 songs - 5 hr 43 min - [published](https://open.spotify.com/playlist/6c2DXccUunEn5VXDoEgAbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,8 @@
 | [NOBODY](https://open.spotify.com/track/3YoXksESEwIkPsH1gZBq4r) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/0QkYU5KB8lMH9XOj5kUiRe) | 1:56 | 2021-02-19 |  |
 | [NOBODY](https://open.spotify.com/track/7H06sYnrGsMbWzAR377J8s) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [NOBODY](https://open.spotify.com/album/4Ukx5wyPQ367NvdLtQSkCp) | 1:56 | 2021-02-19 | 2022-07-29 |
 | [Off Road](https://open.spotify.com/track/2wjU2LuGr2stO5pB4X9eML) | [Yayoyanoh](https://open.spotify.com/artist/0fzgjxZTQn4E7y3MGPI3AC), [Organ Tapes](https://open.spotify.com/artist/2dSa2lW4FLaQcPlzAcZOTS) | [Yayoyanoh Ep001](https://open.spotify.com/album/2rOJhywSlonMAXuC7VR6Wk) | 3:04 | 2021-02-19 |  |
-| [Oxygenesis](https://open.spotify.com/track/6qVugF64yHpE9R535iRzkp) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/6WBQWFCQo0z9MLNIsH0hIB) | 2:48 | 2021-02-19 |  |
+| [Oxygenesis](https://open.spotify.com/track/6nUjywA9WxzdtSJEkkUg0r) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/1YUGatFxMZCGLDO611dDXL) | 2:48 | 2021-02-19 |  |
+| [Oxygenesis](https://open.spotify.com/track/6qVugF64yHpE9R535iRzkp) | [Dark0](https://open.spotify.com/artist/1Jehpab4kMvjrpsHcBtYHR) | [ZERO2](https://open.spotify.com/album/6WBQWFCQo0z9MLNIsH0hIB) | 2:48 | 2021-02-19 | 2022-08-15 |
 | [Pandaemonium](https://open.spotify.com/track/5me2adkCbJjK6f7VrdUlL0) | [Giant Swan](https://open.spotify.com/artist/0Pb1JB8ps5wlHniYSgRnum) | [Pandaemonium](https://open.spotify.com/album/3FQpDZp9dl3lhCSqaAJSFH) | 4:58 | 2021-02-19 |  |
 | [Pounce](https://open.spotify.com/track/1O2rjHOLrlqrVuiBnvtMhk) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/0jCZQwU8ez3ozZVjNvW9um) | 3:24 | 2021-02-19 | 2022-07-29 |
 | [Pounce](https://open.spotify.com/track/3SrEARFQQeB1jPvcdY0TzR) | [FLOHIO](https://open.spotify.com/artist/7qffELscxpltKCso3ByH67), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Cadenza](https://open.spotify.com/artist/2pSxft78wxISNLTbjFThTk) | [Pounce](https://open.spotify.com/album/6Okmbkojhxqf64W25s2N88) | 3:24 | 2021-02-19 |  |

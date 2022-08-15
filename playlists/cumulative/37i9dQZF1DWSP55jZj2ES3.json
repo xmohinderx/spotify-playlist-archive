@@ -1683,7 +1683,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 209868,
       "name": "Kompany",
       "url": "https://open.spotify.com/track/3c92PetFi2et11Yz5NikgP"
@@ -3449,6 +3449,24 @@
       "duration_ms": 255465,
       "name": "Warm (feat. Mia)",
       "url": "https://open.spotify.com/track/3kBofOTKMUZ62a311eUwvx"
+    },
+    {
+      "album": {
+        "name": "Wasted",
+        "url": "https://open.spotify.com/album/7DQCcFWk5VzoSCLBJ7ZsUU"
+      },
+      "artists": [
+        {
+          "name": "TeaMarrr",
+          "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155913,
+      "name": "Wasted",
+      "url": "https://open.spotify.com/track/01NxZVzbRZrRNzpoBJLh5p"
     },
     {
       "album": {

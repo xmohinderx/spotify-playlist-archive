@@ -1,12 +1,12 @@
 {
   "description": "Post-hardcore. Post-punk. Post-rock. Post-everything. Cover: Metz",
-  "num_followers": 15405,
+  "num_followers": 15477,
   "original_name": "All Things Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDJhM2EyMmJiNzAwNzAzZmIwYWQ0MmFhNDA2MTE1MTU1",
+  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMDJkNzMyMjk1MGRmZmEzMjAyZWVlNmFiZmY1ZDFkYjZl",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Wolves in the Dark",
-        "url": "https://open.spotify.com/album/1Nie2cbGfLzmqavCGXZjRH"
-      },
-      "artists": [
-        {
-          "name": "Throw The Fight",
-          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
-        }
-      ],
-      "duration_ms": 214764,
-      "name": "Wolves in the Dark",
-      "url": "https://open.spotify.com/track/4EPqLny9OKeJU62kBVg4Fh"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Astro Coast",
         "url": "https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 234496,
       "name": "Floating Vibes",
       "url": "https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Wolves in the Dark",
+        "url": "https://open.spotify.com/album/1Nie2cbGfLzmqavCGXZjRH"
+      },
+      "artists": [
+        {
+          "name": "Throw The Fight",
+          "url": "https://open.spotify.com/artist/1nRfyHvAh1foLjOCa3hbv7"
+        }
+      ],
+      "duration_ms": 214764,
+      "name": "Wolves in the Dark",
+      "url": "https://open.spotify.com/track/4EPqLny9OKeJU62kBVg4Fh"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Familiar Drugs",
-        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
-      },
-      "artists": [
-        {
-          "name": "Alexisonfire",
-          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
-        }
-      ],
-      "duration_ms": 258718,
-      "name": "Familiar Drugs",
-      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Cave In",
         "url": "https://open.spotify.com/album/62qer7kVON5XSwZ3wd8W7B"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 207905,
       "name": "Cave In",
       "url": "https://open.spotify.com/track/7foB3FgACotzkH5hkWOOAS"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Familiar Drugs",
+        "url": "https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B"
+      },
+      "artists": [
+        {
+          "name": "Alexisonfire",
+          "url": "https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2"
+        }
+      ],
+      "duration_ms": 258718,
+      "name": "Familiar Drugs",
+      "url": "https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "The Amulet (Deluxe)",
-        "url": "https://open.spotify.com/album/3mob5aLXsW82iZpISPK6OW"
-      },
-      "artists": [
-        {
-          "name": "Circa Survive",
-          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
-        }
-      ],
-      "duration_ms": 333160,
-      "name": "Lustration",
-      "url": "https://open.spotify.com/track/7DFLwJ9iTCE9gOtWbnQSxq"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "All Hail Bright Futures (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0Gsm99gxGRwEoEfdzZTDfq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 231653,
       "name": "Big Thinks Do Remarkable",
       "url": "https://open.spotify.com/track/0NNcqfgzO4ivslX7ALoz17"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "The Amulet (Deluxe)",
+        "url": "https://open.spotify.com/album/3mob5aLXsW82iZpISPK6OW"
+      },
+      "artists": [
+        {
+          "name": "Circa Survive",
+          "url": "https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT"
+        }
+      ],
+      "duration_ms": 333160,
+      "name": "Lustration",
+      "url": "https://open.spotify.com/track/7DFLwJ9iTCE9gOtWbnQSxq"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Disease (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 237202,
-      "name": "Threat to Society",
-      "url": "https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Manticore",
         "url": "https://open.spotify.com/album/3LCtriKbXKi5rp2604MqhM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 204000,
       "name": "Manticore",
       "url": "https://open.spotify.com/track/5U4TMT28sQlLxiwAbCcgJM"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Disease (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 237202,
+      "name": "Threat to Society",
+      "url": "https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "The Monitor",
+        "url": "https://open.spotify.com/album/4U9WLOC31iDcQ4gg5yUUEp"
+      },
+      "artists": [
+        {
+          "name": "Titus Andronicus",
+          "url": "https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1"
+        }
+      ],
+      "duration_ms": 429586,
+      "name": "A More Perfect Union",
+      "url": "https://open.spotify.com/track/2FErbkHZbZfibnbJGpf4yc"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Nine Lives",
         "url": "https://open.spotify.com/album/0DO2NuNQplgtc2DVyCUdgA"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 184087,
       "name": "Nine Lives",
       "url": "https://open.spotify.com/track/7uv7lkQBgkhqHezQam0fQ6"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "The Monitor",
-        "url": "https://open.spotify.com/album/4U9WLOC31iDcQ4gg5yUUEp"
-      },
-      "artists": [
-        {
-          "name": "Titus Andronicus",
-          "url": "https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1"
-        }
-      ],
-      "duration_ms": 429586,
-      "name": "A More Perfect Union",
-      "url": "https://open.spotify.com/track/2FErbkHZbZfibnbJGpf4yc"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
-      },
-      "artists": [
-        {
-          "name": "Introvert",
-          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
-        }
-      ],
-      "duration_ms": 186535,
-      "name": "December",
-      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Sick, Sad Heart",
         "url": "https://open.spotify.com/album/5yng3kreZeoPZzI8mZsG6q"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 279000,
       "name": "Sick, Sad Heart",
       "url": "https://open.spotify.com/track/2bYy5LSFiCm8kA1TdrozRv"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
+      },
+      "artists": [
+        {
+          "name": "Introvert",
+          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
+        }
+      ],
+      "duration_ms": 186535,
+      "name": "December",
+      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Would It Kill You?",
-        "url": "https://open.spotify.com/album/516klARf2DcEVPRXtoTPAr"
-      },
-      "artists": [
-        {
-          "name": "Dead To Me",
-          "url": "https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL"
-        }
-      ],
-      "duration_ms": 270104,
-      "name": "Would It Kill You",
-      "url": "https://open.spotify.com/track/0HbTKa82jEaiQkW0eIeMHx"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Viet Cong",
         "url": "https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 252411,
       "name": "Silhouettes",
       "url": "https://open.spotify.com/track/6B5EAs1ytaHJNu9SQwfFNa"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Would It Kill You?",
+        "url": "https://open.spotify.com/album/516klARf2DcEVPRXtoTPAr"
+      },
+      "artists": [
+        {
+          "name": "Dead To Me",
+          "url": "https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL"
+        }
+      ],
+      "duration_ms": 270104,
+      "name": "Would It Kill You",
+      "url": "https://open.spotify.com/track/0HbTKa82jEaiQkW0eIeMHx"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1399,22 +1399,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Fluorescent",
-        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+        "name": "California Hotel",
+        "url": "https://open.spotify.com/album/3zMGSCuomcDFApAIwtO2af"
       },
       "artists": [
         {
-          "name": "Life Awaits",
-          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
-        },
-        {
-          "name": "\u963f\u514b\u6c5f",
-          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+          "name": "Trans Am",
+          "url": "https://open.spotify.com/artist/1YFIyRFTa7povIpq08DcCA"
         }
       ],
-      "duration_ms": 228728,
-      "name": "Everlast",
-      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
+      "duration_ms": 226139,
+      "name": "I Hear Fake Voices",
+      "url": "https://open.spotify.com/track/4mnaS8Tk6XCwliSyJGIv8d"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1451,22 +1447,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "California Hotel",
-        "url": "https://open.spotify.com/album/3zMGSCuomcDFApAIwtO2af"
-      },
-      "artists": [
-        {
-          "name": "Trans Am",
-          "url": "https://open.spotify.com/artist/1YFIyRFTa7povIpq08DcCA"
-        }
-      ],
-      "duration_ms": 226139,
-      "name": "I Hear Fake Voices",
-      "url": "https://open.spotify.com/track/4mnaS8Tk6XCwliSyJGIv8d"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Is Survived By",
         "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 210173,
       "name": "Is Survived By",
       "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Fluorescent",
+        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+      },
+      "artists": [
+        {
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "\u963f\u514b\u6c5f",
+          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+        }
+      ],
+      "duration_ms": 228728,
+      "name": "Everlast",
+      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Burn, Piano Island, Burn (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/2W2cfsT8a83t9tHgeGrLXU"
+      },
+      "artists": [
+        {
+          "name": "The Blood Brothers",
+          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Ambulance vs. Ambulance",
+      "url": "https://open.spotify.com/track/2ixtfTdLKJxZiDEPk7ykHt"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Colours of You",
         "url": "https://open.spotify.com/album/2h4he2Vhja9D51uRGvxd3S"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 295620,
       "name": "Worthless Chorus",
       "url": "https://open.spotify.com/track/7CzZenfZUHH2nHp2mgcUca"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Burn, Piano Island, Burn (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/2W2cfsT8a83t9tHgeGrLXU"
-      },
-      "artists": [
-        {
-          "name": "The Blood Brothers",
-          "url": "https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Ambulance vs. Ambulance",
-      "url": "https://open.spotify.com/track/2ixtfTdLKJxZiDEPk7ykHt"
     },
     {
       "added_at": "2021-09-02 23:00:00",

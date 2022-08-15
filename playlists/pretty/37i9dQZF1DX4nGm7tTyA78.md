@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,060 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,074 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nGm7tTyA78.md) - [plain]
 | 43 | [No Lo Merezco](https://open.spotify.com/track/3DJddrqSt1EQQjtczYYypv) | [MR\. Yeison](https://open.spotify.com/artist/4ieXJFMJnmtKA88Mu4wuy6), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz) | [No Lo Merezco](https://open.spotify.com/album/15txV8kXDdNfE9yuE6CEb6) | 4:05 |
 | 44 | [Quieren Parame \- Remix](https://open.spotify.com/track/3f105nHZdOZQEqSCasqM9v) | [Uptimo](https://open.spotify.com/artist/6RvRrpIIvNlUNTpH5M6KmI), [Villa\-Nova](https://open.spotify.com/artist/3xpLm61g4deDK3mXSyr6AM), [Feliton](https://open.spotify.com/artist/2viSfGPo6a6fwfV4PuzPPY), [Super Samy](https://open.spotify.com/artist/5q4cA2u5bqGanXcqIINJZM), [Yerkis La Esencia](https://open.spotify.com/artist/6jVEPqB0kcWTh1mu81CYDz), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0), [Romy Ram](https://open.spotify.com/artist/5LWrWUgBewPv4FbDmy1svs) | [Quieren Parame \(Remix\)](https://open.spotify.com/album/0X7SB89lgl6ubjeWGGshui) | 6:48 |
 | 45 | [Coronao \(Remix\)](https://open.spotify.com/track/1jb58dibwlo7eOjZGrgiNP) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [R.M.S Rap Misión Santa](https://open.spotify.com/artist/2eIhYvGR0I7QPqFsfE5U1r), [Clerigo RMS](https://open.spotify.com/artist/7GKxQpXcJdUmybVwEuSMub) | [Coronao \(Remix\)](https://open.spotify.com/album/6jycVRgtJn36bLrbDaigrs) | 4:42 |
-| 46 | [Diferente](https://open.spotify.com/track/2HJcnTFoaQqTZOcaFWlPYo) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/4XvNbydsm2MvX8n0bjSzHi) | 3:28 |
+| 46 | [Diferente](https://open.spotify.com/track/4tPuJhmpqqP3RWs0EvFGIn) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/3zYPSMQ6gQ0ASbakZmvZBR) | 3:29 |
 | 47 | [Esto Es para Ti](https://open.spotify.com/track/6gcgEWSCE4h3LP4IUP4Yid) | [Lizzy Parra](https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH) | [Esto Es para Ti](https://open.spotify.com/album/0iyJE8lY5dfEwArWxiYSGF) | 4:20 |
 | 48 | [Trapstyle](https://open.spotify.com/track/0ODdK4tZVF15KpFJCUeuKq) | [Optimo](https://open.spotify.com/artist/0GlNefxv0mkMduqWE2hrOj), [Angel Brown](https://open.spotify.com/artist/4Hpy6w9oVzugC0RBvEO1D0) | [Trapstyle](https://open.spotify.com/album/221JqG9ztiYR6X2OWduUU1) | 2:48 |
 | 49 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 |
 | 50 | [La Cuerda Floja](https://open.spotify.com/track/4RrEOgcIjTrcOeLzdHdMOn) | [Zoprano](https://open.spotify.com/artist/2mdcXhVmknCqnJU4M5ofyl), [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd) | [La Cuerda Floja](https://open.spotify.com/album/7ztgUSvjFg8vQB9YGXoqWk) | 3:53 |
 
-Snapshot ID: `MTU5ODU5NDUyMCwwMDAwMDAwMGMwZTQ4ZTMwMDRkYzJiM2I5ZGVkMWYxZmYzMTJkZGUy`
+Snapshot ID: `MTU5ODU5NDUyMCwwMDAwMDAwMGViYWZmNjEwNGI2YWNiMWQ0YmY2NmQyN2RhM2UxMzky`

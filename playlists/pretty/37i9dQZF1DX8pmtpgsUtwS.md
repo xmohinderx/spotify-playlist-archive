@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 
 > Weaving magic with their music, Indian Classical style\. Cover\- Shadow and Light
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,540 likes - 65 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,548 likes - 64 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pmtpgsUtwS.md) - [plain]
 | 60 | [Darbari](https://open.spotify.com/track/20bzZEYSjIxfyUUW1McxNC) | [Mekaal Hasan Band](https://open.spotify.com/artist/2uU2C4SNKcHqBzPjRrBvVy) | [Sampooran](https://open.spotify.com/album/21MMf1Nv9iD4XVkLf91TQl) | 5:16 |
 | 61 | [Sakhi Tore Naina](https://open.spotify.com/track/2lY5KsyD4zAHE0c3VjQx1o) | [Alchemy](https://open.spotify.com/artist/3wtbgKMLTqcBw9vDjbyDLP) | [Izhaar](https://open.spotify.com/album/2zJyzV6ipeDC3ljFOWmYND) | 4:37 |
 | 62 | [Jogi](https://open.spotify.com/track/0h0gWburhWxIhV9h7kyX3l) | [Swastik The Band](https://open.spotify.com/artist/740SYcL7Hl2TatDM2wYV8V) | [Avasa](https://open.spotify.com/album/07iHCQyQ69gc8c13fdmqhh) | 6:16 |
-| 63 | [Malhar Jam](https://open.spotify.com/track/3r3CObkpZZZdE3ku4cAETG) | [Harish Sivaramakrishnan](https://open.spotify.com/artist/3B3pVT24J4ROpfNDEqmEt2) | [Best of Coke Studio @ MTV Season, 2](https://open.spotify.com/album/1GIBAN61IL1pabms1VRRHK) | 6:08 |
-| 64 | [Luki \- Live](https://open.spotify.com/track/6ZtmKFdnEqyRaOcMKwWRsA) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Remember Shakti: Saturday Night In Bombay](https://open.spotify.com/album/6qD0dBDPOasER1sWmfLjuZ) | 5:38 |
-| 65 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
+| 63 | [Luki \- Live](https://open.spotify.com/track/6ZtmKFdnEqyRaOcMKwWRsA) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [John McLaughlin](https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY) | [Remember Shakti: Saturday Night In Bombay](https://open.spotify.com/album/6qD0dBDPOasER1sWmfLjuZ) | 5:38 |
+| 64 | [The Celestial Nymph \(Manassi Dussaham\)](https://open.spotify.com/track/3oN3Ko3rSGszXL8VCYAS5p) | [Agam](https://open.spotify.com/artist/4DHXXUP4qza7DacDKVT23G) | [The Celestial Nymph \(Manassi Dussaham\) \- Single](https://open.spotify.com/album/0QIlgq2GR8jTthBkdsGDft) | 8:31 |
 
-Snapshot ID: `MTY1ODI5ODQyNCwwMDAwMDAwMGVmNzJjM2MzYmY2ZGRiMDcwMWFmMjlkZjAzMDU3MTdj`
+Snapshot ID: `MTY1ODI5ODQyNCwwMDAwMDAwMGMxOWIzZTE5OWJlYTJiY2QyNTE3NWQ4ZWRkNTIwM2Y2`

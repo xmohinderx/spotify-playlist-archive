@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 
 > Entre os versos e beats, a palavra do Senhor\. Foto: Asaph, BIG THE KIID
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,818 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,849 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 14 | [Já Agradeço](https://open.spotify.com/track/6uPPNDcBGCQoeThIEdtJsL) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Já Agradeço](https://open.spotify.com/album/0Lxd7fr37TkujRxiMBE4LQ) | 3:20 |
 | 15 | [Diamante na Lama](https://open.spotify.com/track/7nwxUkKjvGBICXZxg4hXFY) | [Samuel Shikoba](https://open.spotify.com/artist/4GODihF5IXcVquZ5qq5S5r), [Franco Trapboy](https://open.spotify.com/artist/1lEF3mYcI4rXGRlPXx8ScU), [Mollina](https://open.spotify.com/artist/3MGVz8UR64lAnmMRf1AIsV) | [Diamante na Lama](https://open.spotify.com/album/0D5Yz9YNHe2DVSLjXfGD7o) | 2:46 |
 | 16 | [Você Acredita?](https://open.spotify.com/track/1HJ0nfxiaOGKewT5banSjb) | [Clovis](https://open.spotify.com/artist/703PFYg5UbYSaUKry9NWhF) | [Você Acredita?](https://open.spotify.com/album/2iYsPUuXs2GPQwUksocbBa) | 3:14 |
-| 17 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
+| 17 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 |
 | 18 | [Montanha](https://open.spotify.com/track/4KnjB9F6E9TKv7fYh3GpkP) | [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Montanha](https://open.spotify.com/album/6DgOXKXNHH3UPQghDRfRYK) | 3:13 |
 | 19 | [Tudo É Vaidade](https://open.spotify.com/track/6nnDsAsZLFLrAja13FlHbk) | [Arthur Pompeo](https://open.spotify.com/artist/6BeBYkKRsxy3Kw6iYTKoPP), [Cefas Music](https://open.spotify.com/artist/1npL9RAyQ9lqL9CSKGZuUg) | [Tudo É Vaidade](https://open.spotify.com/album/3HUEAsnvTveLPcRPIEaWCm) | 3:25 |
-| 20 | [Marionete](https://open.spotify.com/track/7gSXvricIaaFGw1MyklcBl) | [Lookas](https://open.spotify.com/artist/1B69FOxKwE4ntA7GrCWIrF), [SAMUÉU](https://open.spotify.com/artist/06UYOp2JUCM93i9iuhNzA7) | [Marionete](https://open.spotify.com/album/1fCcpZjzGQLqjheVLLHhWE) | 3:06 |
+| 20 | [Vai Ficar Tudo Bem](https://open.spotify.com/track/7D1Sc9XjcplWMT7HPQO5SH) | [Caíque Ribeiro](https://open.spotify.com/artist/3XRzjSyK7fRmM1umTq2vE7), [Asaph](https://open.spotify.com/artist/2L5qzS8AVHdTtphFpjFYjI), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Vai Ficar Tudo Bem](https://open.spotify.com/album/0u49iES3BW0ClvE1QdvhSS) | 3:40 |
 | 21 | [Rei](https://open.spotify.com/track/73A6lsbv8K7b3gAK1jSxMD) | [Orelhv](https://open.spotify.com/artist/6sCjbCt0FcFAHt9IufuTOS), [Sensei Songs](https://open.spotify.com/artist/0dNbYU1ZVpO0Q11IFaQsfb) | [Rei](https://open.spotify.com/album/3toB0Hw7MjPeTk5JdSLpua) | 2:23 |
 | 22 | [Prazer Jesus](https://open.spotify.com/track/2x5SsYLKlvQdlq7ozUdfJn) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Prazer Jesus](https://open.spotify.com/album/5gU6lA3GaggUCta2Jottgt) | 2:38 |
 | 23 | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/track/1lumFVKdKI1ry8laEH1WET) | [OnSet](https://open.spotify.com/artist/486ZJwd4t1GNxDMDzGQqwI), [Ago de Souza](https://open.spotify.com/artist/3GFtfrjtBet1N3RIN9Fmqk), [Stella Yeshua](https://open.spotify.com/artist/2X2BJy2XLWgvdeAdKFkrfW), [Dablyo](https://open.spotify.com/artist/4ojsT7JOFibDg7ZjW8Ormz), [Jana Baps](https://open.spotify.com/artist/0QJVszKiVI4rciiKkjWpcj) | [Acústico OnSet \#1 \- Siga Adiante](https://open.spotify.com/album/2XsKcTiMnXeRKhVA8BE63Q) | 3:37 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6PRIxq2w5v.md) - [plain]
 | 64 | [Gospel Playground](https://open.spotify.com/track/0Yq4ih2o7CdgP40g5Sqdic) | [Azorap](https://open.spotify.com/artist/6GGonHdpnl32PMkGKpV4mE), [AfroRagga](https://open.spotify.com/artist/3rA5mfURBk7U3O4bjt3kV0) | [Gospel Playground](https://open.spotify.com/album/75Vtuqs4tWoYRQ5mUDZKtZ) | 3:44 |
 | 65 | [Impostor](https://open.spotify.com/track/3G4WJPxXdI7EB4UR3H3OZV) | [Christian Beaver](https://open.spotify.com/artist/2CyK0BBUAT5zi2ITLK5xPB), [MN MC](https://open.spotify.com/artist/5fdttSgrBEG0cGc93QlrZV) | [Impostor](https://open.spotify.com/album/5O81T9io3EMHKyUSt2pYTC) | 2:29 |
 
-Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMDI3YTQ5YmQ1ZjgzYjc0ZGQ3MjJlZDhmNGY2ZDgwM2Vl`
+Snapshot ID: `MTY1NjY0ODgzMSwwMDAwMDAwMGM3NzUwYjdjYzZhOTJlYzEyYjAyMWU5NTgzMGFkMTIw`

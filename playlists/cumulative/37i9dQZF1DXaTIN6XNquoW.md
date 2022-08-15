@@ -4,7 +4,7 @@
 
 > Jam and remember the time with this collection of hits by the <a href="spotify:artist:3fMbdgg4jU18AjLCKBhRSm">King of Pop</a>!
 
-74 songs - 5 hr 20 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
+77 songs - 5 hr 33 min - [published](https://open.spotify.com/playlist/36u71nhzxRama4yUmAOs97)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Ain't No Sunshine](https://open.spotify.com/track/6ac4lvV0LKQlbHYXJ7vTDb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Anthology: The Best Of Michael Jackson](https://open.spotify.com/album/36K3cD4i4TK0JkU1sU2wOD) | 4:11 | 2019-01-14 |  |
 | [All I Do Is Think Of You](https://open.spotify.com/track/5GoheMjTcV8xbbUUWchvjl) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Moving Violation](https://open.spotify.com/album/188ahHnUfbFoFoBfEmqs1i) | 3:12 | 2019-01-14 |  |
 | [Another Part of Me \- 2012 Remaster](https://open.spotify.com/track/21VCYxPZ8A2XpSNUyQCT3B) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 3:54 | 2019-01-14 |  |
+| [Baby Be Mine](https://open.spotify.com/track/3bMveJpCPytU79V5A61Bb7) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:20 | 2022-08-14 |  |
 | [Bad \- 2012 Remaster](https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:07 | 2019-01-14 |  |
 | [Beat It](https://open.spotify.com/track/1OOtq8tRnDM8kG2gqUPjAj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller 25 Super Deluxe Edition](https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a) | 4:18 | 2019-01-14 |  |
 | [Ben \- Single Version](https://open.spotify.com/track/2x1sYWAXomiTwWWwd6yQPb) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 2:46 | 2019-01-14 | 2022-07-29 |
@@ -30,6 +31,7 @@
 | [Don't Stop 'Til You Get Enough](https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 6:05 | 2019-01-14 |  |
 | [Earth Song](https://open.spotify.com/track/4GCGH6TJ69neckwITeBFXK) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [HIStory \- PAST, PRESENT AND FUTURE \- BOOK I](https://open.spotify.com/album/3OBhnTLrvkoEEETjFA3Qfk) | 6:46 | 2019-01-14 |  |
 | [Enjoy Yourself](https://open.spotify.com/track/3D97kRhZprR6RumFhDFIr4) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:21 | 2019-01-14 |  |
+| [Ghosts](https://open.spotify.com/track/2JzcEEYul9ngmGGPzvFVNL) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 5:13 | 2022-08-14 |  |
 | [Give In to Me](https://open.spotify.com/track/1euDTbMNRPNfKd8zZz4zTT) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 5:28 | 2019-01-14 |  |
 | [Gone Too Soon](https://open.spotify.com/track/66mXHPRfAwbnNKnTCNpytj) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 3:21 | 2019-01-14 |  |
 | [Got To Be There](https://open.spotify.com/track/0fVnrbJVoP8CFPSOByBnK9) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [20th Century Masters: The Millennium Collection: Best of Michael Jackson](https://open.spotify.com/album/5cKwhK6ChXbJE77TKnOx30) | 3:25 | 2019-01-14 |  |
@@ -44,6 +46,7 @@
 | [I Want You Back](https://open.spotify.com/track/5YhcTlesFVSpTgXXnUBkiU) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [The Very Best Of Michael Jackson With The Jackson 5](https://open.spotify.com/album/119TC8Ww6LYJm8uarhzvgQ) | 3:01 | 2019-01-14 | 2022-07-29 |
 | [I'll Be There](https://open.spotify.com/track/5RdhBLmB4DyFHLglRrfx63) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Third Album](https://open.spotify.com/album/5d6X8oegJmu9XKn9UBAswG) | 3:57 | 2019-01-14 |  |
 | [In the Closet](https://open.spotify.com/track/5Fy40smNxk0j5OpFMtvfaU) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 6:30 | 2019-01-14 |  |
+| [It's the Falling in Love](https://open.spotify.com/track/0CeE7kE8zAnfKIVpdmOaJl) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 3:47 | 2022-08-14 |  |
 | [Jam](https://open.spotify.com/track/2EI8uljBPaI23VUr2tv4eS) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Dangerous](https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg) | 5:38 | 2019-01-14 |  |
 | [Leave Me Alone \- 2012 Remaster](https://open.spotify.com/track/7zILPDxYcUt7AFslua0mc5) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Scream](https://open.spotify.com/album/2X8UOIkZQdcz2Hi5Ynt2uk) | 4:39 | 2019-01-14 |  |
 | [Leave Me Alone \- 2012 Remaster](https://open.spotify.com/track/2jQfozDpitT8lVEYoOjmeR) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:40 | 2019-01-14 | 2022-05-27 |

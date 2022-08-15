@@ -2,7 +2,7 @@
 
 ### [Texas Country Now](https://open.spotify.com/playlist/37i9dQZF1DX3Ee0ngF5ZVQ)
 
-> From the Dance Halls and Honky Tonks across America to the World! Cover: Wade Bowen
+> New and trending tracks from Texas Country icons and rising stars.
 
 336 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 

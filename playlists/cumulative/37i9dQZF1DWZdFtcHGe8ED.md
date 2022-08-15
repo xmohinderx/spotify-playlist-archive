@@ -4,7 +4,7 @@
 
 > All the greatest Thrash tunes \- from classics to the best new tracks\. Cover: Slayer
 
-340 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
+342 songs - 1 day 0 hr 23 min - [published](https://open.spotify.com/playlist/3zOnYu9mXXc9Jrakbf4dFr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,8 @@
 | [Fear Campaign](https://open.spotify.com/track/0WSImTNa6ISr9GrONB9t5D) | [Havok](https://open.spotify.com/artist/2jw4wgixxa20jls9N3Bdpq) | [Fear Campaign](https://open.spotify.com/album/7cxb2UhwQ7Kk4ikq6bsgDS) | 3:57 | 2021-12-17 | 2022-07-29 |
 | [Feast of Flesh](https://open.spotify.com/track/5vTuSUoJfY9koIoslz26bO) | [Exmortus](https://open.spotify.com/artist/3jxlXqh6SD2hMUgYEHUNwG) | [The Sound of Steel](https://open.spotify.com/album/7dn6QFOmR37W4DYczYCjFl) | 3:41 | 2021-12-17 | 2022-07-29 |
 | [Fight Fire With Fire \(Remastered\)](https://open.spotify.com/track/0WSRrGVg1gO33MKIBPgBV2) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe Remaster\)](https://open.spotify.com/album/2omIeSJEGQeKHPOpiXgfkr) | 4:44 | 2022-07-13 |  |
-| [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 |  |
+| [Filth Upon Filth](https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 2:53 | 2022-07-13 |  |
+| [Filth Upon Filth](https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Filth Upon Filth](https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF) | 2:53 | 2022-07-08 | 2022-08-15 |
 | [Fire in the Hole](https://open.spotify.com/track/5Sr2sWiF4R8WsL9EiGxW4f) | [Laaz Rockit](https://open.spotify.com/artist/72M83rfnDyqavWqiFGuYUR) | [Annihilation Principle](https://open.spotify.com/album/6vQJnE6wsh4fc4wvy2fr9O) | 3:50 | 2022-07-13 |  |
 | [First World Solutions](https://open.spotify.com/track/2BKaYacYK33sCj0wQmelzs) | [Harlott](https://open.spotify.com/artist/55P952flfiJs68ellyqFHU) | [Extinction](https://open.spotify.com/album/4v1qcY67EgCYu2xbUkUWPp) | 3:55 | 2021-12-17 | 2022-07-28 |
 | [Flames of Death](https://open.spotify.com/track/6tVBNgAnRuMzeptqFFlwFs) | [Gomorra](https://open.spotify.com/artist/4pR239AgGpMKJosbKZXsLv) | [Flames of Death](https://open.spotify.com/album/44Sf0IWt8DVpa0iuhe883w) | 4:31 | 2021-12-17 | 2022-07-19 |
@@ -279,7 +280,8 @@
 | [Strike of the Beast](https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu) | [Exodus](https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH) | [Bonded by Blood](https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD) | 3:57 | 2022-07-13 |  |
 | [Strongest Of The Strong](https://open.spotify.com/track/6hPlZWKfEk8bEF4SA71XMt) | [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [Strongest Of The Strong](https://open.spotify.com/album/7q1DYUCkUOjVSMKGf0MWAC) | 4:01 | 2022-04-08 | 2022-05-07 |
 | [Suit Murderer](https://open.spotify.com/track/34U3BxVvGWuqT2Lg93v6M9) | [Bonded](https://open.spotify.com/artist/7IqK0RqRcaTDtVJtblZ0HQ) | [Suit Murderer](https://open.spotify.com/album/5X6D0DfiUNDoFQmKMTSCeJ) | 4:12 | 2021-12-17 | 2022-07-27 |
-| [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 |  |
+| [Superstition](https://open.spotify.com/track/5VwwTHDa25f8oC9kkBdObh) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Totem](https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i) | 3:14 | 2022-07-13 |  |
+| [Superstition](https://open.spotify.com/track/6cpzmH6s1EV9ImMh4s6tr5) | [Soulfly](https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc) | [Superstition](https://open.spotify.com/album/5g4WCIUGBX79fi37rRxZwj) | 3:14 | 2022-05-06 | 2022-08-15 |
 | [Surf Nicaragua](https://open.spotify.com/track/0cjd7hXm53E1xAJsIYcSJN) | [Sacred Reich](https://open.spotify.com/artist/0UeVJTdCWGEFSSO9Tg9tiH) | [Ignorance & Surf Nicaragua](https://open.spotify.com/album/6oIYHgssDkhfR0RgUoOyX0) | 4:40 | 2022-07-13 |  |
 | [Synchro Anarchy](https://open.spotify.com/track/7jQ8PxjIR2o4y4nndfEvh1) | [Voivod](https://open.spotify.com/artist/0lFiKrJUofJpnrAJnMsnQ3) | [Synchro Anarchy](https://open.spotify.com/album/1k9JH2nPsI1Lb9ny0rFVpj) | 4:25 | 2022-01-28 | 2022-02-11 |
 | [Tetrastructural Minds](https://open.spotify.com/track/7vuI7MKPrRX3vPbsft78qz) | [Vektor](https://open.spotify.com/artist/09mNj9XgCqgg6usfeXOoBg) | [Outer Isolation](https://open.spotify.com/album/1KzsSFzRO8903u1XTyEi8U) | 5:21 | 2021-12-17 |  |

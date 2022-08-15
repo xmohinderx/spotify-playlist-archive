@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف: حكيم
 
-182 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
+183 songs - 14 hr 13 min - [published](https://open.spotify.com/playlist/4fMtwH9irxUnSlxVB6fU16)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Kol Youm](https://open.spotify.com/track/3iWRuqeYt3ezyPOSdVo9Hz) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Kol Youm](https://open.spotify.com/album/425JKkR2C6PwmFgeriOlwm) | 3:25 | 2021-12-16 |  |
 | [Kolak Agebny](https://open.spotify.com/track/1mBQMkL8NOQ0akkTr8kqba) | [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [Kolak Agebny](https://open.spotify.com/album/7bDP2wd3ijXZIARnkpOWMm) | 6:24 | 2021-12-16 |  |
 | [Kollo Shmal](https://open.spotify.com/track/0Y1xET6NicWkYTnrKtFv4v) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Wagih Elaspany](https://open.spotify.com/artist/0AJIecs3dW9ALRevRVAPfs) | [Kollo Shmal](https://open.spotify.com/album/72OIxMzGUrFbsxzhC655QW) | 3:51 | 2021-12-16 | 2022-07-27 |
-| [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 |  |
+| [Kolo Rah](https://open.spotify.com/track/6C5DOnAWpXh3do5wpXyGg7) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [Kolo Rah](https://open.spotify.com/album/4OzNGm3meIPIHdvfPwYmER) | 4:31 | 2022-02-10 | 2022-08-15 |
 | [Ma Tefrahoush](https://open.spotify.com/track/3v2n89Farb1ft281eNbAsY) | [Saad El Soghayar](https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP) | [Had Yeshtery Alb](https://open.spotify.com/album/6Psz3Qbb1dxxNDaWITkMWf) | 5:40 | 2021-12-16 | 2021-12-30 |
 | [Makany Mesh Hena](https://open.spotify.com/track/4EEDnIppGuHF0Z2iRc2Jjk) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Makany Mesh Hena](https://open.spotify.com/album/7y3MOSdl3YEghIHel9lVCE) | 3:43 | 2021-12-30 |  |
 | [Malkshy Makan](https://open.spotify.com/track/7kCPZBztxoo8QbmiWs5fku) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malkshy Makan](https://open.spotify.com/album/3z3BGgBDfwipeklotS0L1A) | 4:04 | 2021-12-16 |  |
@@ -146,7 +146,8 @@
 | [بسعر السوق](https://open.spotify.com/track/7Liqk0rt77WZxZasO7ITlV) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN), [احمد موزه](https://open.spotify.com/artist/7rXpNIZpdGCQIENvuY5jJx) | [بسعر السوق](https://open.spotify.com/album/100LzmTOYcUYhPVOVxnyL3) | 3:48 | 2022-07-14 |  |
 | [بشويش عليا](https://open.spotify.com/track/1e41x6mKFcFNCWx4jolBuB) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [أغانى فيلم ولاد البلد](https://open.spotify.com/album/61XCudIdITOYqycdnHI34j) | 4:29 | 2021-12-16 |  |
 | [بيعدي قصادي](https://open.spotify.com/track/6KzOqxXrTkjeJSwusYA9mn) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k) | [بيعدي قصادي](https://open.spotify.com/album/0ELriZnz6d9F4uMbzXodmf) | 3:48 | 2021-12-16 | 2022-07-28 |
-| [بيعدي قصادي](https://open.spotify.com/track/7ne1OIdQoG7jwdupoKxyZ7) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k) | [بيعدي قصادي](https://open.spotify.com/album/0FCUiGppzbGdXdvhsdS0Hu) | 3:48 | 2022-07-14 | 2022-08-11 |
+| [بيعدي قصادي](https://open.spotify.com/track/7ne1OIdQoG7jwdupoKxyZ7) | [Ahmed Abdo](https://open.spotify.com/artist/3wBceLeEWRgOJOM8uRxG7k) | [بيعدي قصادي](https://open.spotify.com/album/0FCUiGppzbGdXdvhsdS0Hu) | 3:48 | 2022-07-14 |  |
+| [تزاولني](https://open.spotify.com/track/1FWUaGQxe1OOvuN5jSFKak) | [Hakim](https://open.spotify.com/artist/1xCRJ0XrcQKEkjk50ILWbt) | [تزاولني](https://open.spotify.com/album/039TjaVLxH7Ot1b497aldY) | 3:03 | 2022-08-04 |  |
 | [تعظيم سلام للمخلصين](https://open.spotify.com/track/3A6N9LeHE8oSAxSkhDlotG) | [Moustafa Hagag](https://open.spotify.com/artist/5jii08sWD8V92EdOofQo52), [Sadat](https://open.spotify.com/artist/6XvZkxVvGXWhlDFTR6Q4sj) | [تعظيم سلام للمخلصين](https://open.spotify.com/album/1O28r0lNMQb8AUH2yc0eSd) | 3:20 | 2021-12-16 | 2022-07-28 |
 | [توب الرجولة](https://open.spotify.com/track/2gGVpfE6TxFKUrLIHIAU8V) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [توب الرجولة](https://open.spotify.com/album/40UKx5x4x2nk2fw07QOliq) | 5:08 | 2021-12-16 | 2022-04-24 |
 | [جامده \- هدى](https://open.spotify.com/track/14GniDplO0FbXvk9MgYOT6) | [Hoda](https://open.spotify.com/artist/7pzIBGIsX1puhih75jGnX3) | [جامده \(هدى\)](https://open.spotify.com/album/5OxqnvljU74DCJfHDL3UgY) | 3:06 | 2021-12-16 |  |
@@ -183,7 +184,7 @@
 | [كلام مبتكلمش](https://open.spotify.com/track/1JdiJ4wAMKhPsXGL6iTwoK) | [محمد سلطان](https://open.spotify.com/artist/1J0l2xsM7AHAZIT9EhcOeq) | [كلام مبتكلمش](https://open.spotify.com/album/1kwZYe92wXq7AsP5xIepWm) | 3:39 | 2021-12-16 | 2022-04-23 |
 | [ما تاكلش مال الناس](https://open.spotify.com/track/4E9eVFJ6ZQWFg6WYGusxYh) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc), [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe) | [ما تاكلش مال الناس](https://open.spotify.com/album/58lOZluuLZoQVRVb8bqSJT) | 3:27 | 2022-07-14 |  |
 | [مبحبش الكراسى](https://open.spotify.com/track/5ovYok6lObaJ9bdQJmQ1Ct) | [Shaaban Abdel Rahim](https://open.spotify.com/artist/02f6OKV3ImIJrm3UoW3Oue) | [اللى خايف يروح](https://open.spotify.com/album/0fxmcv1YPIu1smUGbjfvhT) | 6:09 | 2021-12-16 |  |
-| [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 |  |
+| [ناس رخاص](https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu) | [Ahmad Amer](https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ) | [ناس رخاص](https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0) | 5:13 | 2021-12-16 | 2022-08-15 |
 | [وقت المصلحة](https://open.spotify.com/track/1AJpQusk0FD6jPj9fjyMPC) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5gFFD93W7eXAX5AR6LZnQW) | 3:44 | 2021-12-16 | 2022-07-29 |
 | [وقت المصلحة](https://open.spotify.com/track/5M0tLy6AaUbSyb87kNBSj4) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [وقت المصلحة](https://open.spotify.com/album/5g9lc6VOkWss2QwOvd0YFG) | 3:44 | 2022-07-14 |  |
 | [ولا اتخلق](https://open.spotify.com/track/5UxLwU9gVpev53BUhkB0Rz) | [امير قاسم](https://open.spotify.com/artist/4J3yHkMnoSQr7gJTeFhydd) | [ولا اتخلق](https://open.spotify.com/album/2RQ1woXbZSbxVhfBPIAQy9) | 5:35 | 2021-12-16 | 2022-07-29 |

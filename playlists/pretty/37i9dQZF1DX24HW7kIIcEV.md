@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 
 > T as in Troy? No Gabriella, T as in Time to relive your greatest childhood memories.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,922 likes - 85 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,252 likes - 85 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX24HW7kIIcEV.md) - [plain]
 | 3 | [Falling for Ya](https://open.spotify.com/track/5hK2Ks25jW6aMmUAHpAN3F) | [Grace Phipps](https://open.spotify.com/artist/2k8LSCieAnywX4Ku6k3X4m) | [Teen Beach Movie](https://open.spotify.com/album/5ANe5AfOnYydm3lXELfiHF) | 3:12 |
 | 4 | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/track/7CMIy0uwXyeBv2MvaEUJM1) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp), [Drake Bell](https://open.spotify.com/artist/03ilIKH0i08IxmjKcn63ne) | [Leave It All To Me \(Theme from iCarly\) \(feat\. Drake Bell\)](https://open.spotify.com/album/5sqQDRCog2FN2BOjCfcO4O) | 2:38 |
 | 5 | [Gonna Get This](https://open.spotify.com/track/1y6Y28gA3mNHSs7RDLrDKs) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc), [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Hannah Montana Forever](https://open.spotify.com/album/6FUFS9PRGUTyVrsltg1xji) | 3:16 |
-| 6 | [Take A Hint](https://open.spotify.com/track/1T20tqHKrePjszGOdbFOEd) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Elizabeth Gillies](https://open.spotify.com/artist/0tnLXvm7c6ozq46x6qzgvL) | [Victorious 2.0: More Music From The Hit TV Show](https://open.spotify.com/album/5wfCTE4O3jyFQPmfSpaWz0) | 2:34 |
+| 6 | [Take A Hint \(feat\. Victoria Justice & Elizabeth Gillies\)](https://open.spotify.com/track/1T20tqHKrePjszGOdbFOEd) | [Victorious Cast](https://open.spotify.com/artist/1KYszkVzlhV3rAqmAcYIgd), [Victoria Justice](https://open.spotify.com/artist/2OTfr6S2kuHRYStjt1IkY6), [Elizabeth Gillies](https://open.spotify.com/artist/0tnLXvm7c6ozq46x6qzgvL) | [Victorious 2.0: More Music From The Hit TV Show \(feat\. Victoria Justice\)](https://open.spotify.com/album/5wfCTE4O3jyFQPmfSpaWz0) | 2:34 |
 | 7 | [Big Time Rush](https://open.spotify.com/track/5lEsM6qpuzuZwij6jIZPvP) | [Big Time Rush](https://open.spotify.com/artist/0GWCNkPi54upO9WLlwjAHd) | [BTR](https://open.spotify.com/album/2RjFzASjHZG1lUbCKqUahx) | 3:17 |
 | 8 | [Year 3000](https://open.spotify.com/track/7BbyWKteSctTKe696qf7fw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [It's About Time](https://open.spotify.com/album/3tnBL4yVKSTaUtjeypEwCe) | 3:21 |
 | 9 | [Tell Me Something I Don't Know \- Soundtrack](https://open.spotify.com/track/1UXBbmjIrxjckrbv5EfSVT) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Another Cinderella Story \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6Jv7Yo0ihit4JyxvjQLUhb) | 3:21 |

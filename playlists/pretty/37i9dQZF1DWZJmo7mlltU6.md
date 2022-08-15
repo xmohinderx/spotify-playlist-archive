@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZJmo7mlltU6.md) - [plain]
 
 > Beyond genre, beyond language, beyond borders\. Cover: beabadoobee
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,891 likes - 107 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,054 likes - 107 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

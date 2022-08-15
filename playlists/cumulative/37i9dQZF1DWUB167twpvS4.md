@@ -4,7 +4,7 @@
 
 > Be an ear\-witness to the music that gave birth to Country, Pop and Rock.
 
-82 songs - 3 hr 14 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
+83 songs - 3 hr 17 min - [published](https://open.spotify.com/playlist/49TY9RElDGcRdKuxPFwwYQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,8 @@
 | [The Fool](https://open.spotify.com/track/0JcE8h38d6tTuse4IkPLXn) | [Sanford Clark](https://open.spotify.com/artist/3REqunOj76TSpw9f6eKON2) | [Presenting Sandford Clark](https://open.spotify.com/album/5QCtTTUmVu4BaPOlupFecs) | 2:47 | 2020-10-11 |  |
 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 | 2020-10-11 |  |
 | [Three Alley Cats](https://open.spotify.com/track/07LxAEsqCqaTUfsqqD0Vzx) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [All We Wanna Do Is Rock](https://open.spotify.com/album/1NBf7LY3ClyC7F4rww7KzA) | 2:28 | 2020-10-11 | 2022-07-29 |
-| [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 | 2020-10-11 |  |
+| [Three Alley Cats](https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Presenting Roy Hall](https://open.spotify.com/album/3QRMRAUWOZ1hCBSj95nAIS) | 2:28 | 2020-10-11 |  |
+| [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 | 2020-10-11 | 2022-08-15 |
 | [Wake up Little Susie](https://open.spotify.com/track/11fNLqDB47gMKj7BHhR2Qr) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:03 | 2020-10-11 |  |
 | [Who Slapped John?](https://open.spotify.com/track/081t37hdBbQVjWGuBd42z6) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Blue Jean Bop](https://open.spotify.com/album/28VDX5GZcFakGBuh2Uf5En) | 1:58 | 2020-10-11 |  |
 | [Whole Lot Of Shakin' Going On \- Single Version](https://open.spotify.com/track/7Fyo9lTrk6pjT1rVW3GlBG) | [Jerry Lee Lewis](https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo) | [Original Golden Hits \- Volume 1 \(Vol\. 1\)](https://open.spotify.com/album/22cLZV8YJhDZzJ7lvJQXZj) | 2:53 | 2020-10-11 |  |

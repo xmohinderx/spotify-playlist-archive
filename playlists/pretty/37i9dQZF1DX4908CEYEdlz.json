@@ -1,12 +1,12 @@
 {
   "description": "Aumente o volume e ou\u00e7a as bandas que est\u00e3o com tudo no rock! Foto: Slipknot",
-  "num_followers": 702817,
+  "num_followers": 702877,
   "original_name": "Volume M\u00e1ximo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNzM1OCwwMDAwMDAwMDExZWU0NmE0MGY4MzJiMTgyYWM4ZTQ2Yjg0MzA3MmM0",
+  "snapshot_id": "MTY2MDMwNzM1OCwwMDAwMDAwMGVlYzZkNTAyYzQxY2Q0YzMzYTgzNWI4YTcyODM3MmZl",
   "tracks": [
     {
       "added_at": "2022-08-12 12:29:18",
@@ -651,6 +651,22 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
+        "name": "Hotel Kalifornia",
+        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 163752,
+      "name": "Hourglass",
+      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
+    },
+    {
+      "added_at": "2022-08-12 12:29:18",
+      "album": {
         "name": "Limbo",
         "url": "https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE"
       },
@@ -731,6 +747,38 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
+        "name": "Typhoons",
+        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 236933,
+      "name": "Typhoons",
+      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
+    },
+    {
+      "added_at": "2022-08-12 12:29:18",
+      "album": {
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Soldier On!",
+      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
+    },
+    {
+      "added_at": "2022-08-12 12:29:18",
+      "album": {
         "name": "Nevermore",
         "url": "https://open.spotify.com/album/5p1LbatHrPZWLggtFukn75"
       },
@@ -763,22 +811,6 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
-        "name": "Typhoons",
-        "url": "https://open.spotify.com/album/547UjN7nCN4L5rQgolzHQn"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 236933,
-      "name": "Typhoons",
-      "url": "https://open.spotify.com/track/6BsZx9FarJrLddTNu2k6pU"
-    },
-    {
-      "added_at": "2022-08-12 12:29:18",
-      "album": {
         "name": "Cut The Line",
         "url": "https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw"
       },
@@ -791,22 +823,6 @@
       "duration_ms": 209664,
       "name": "Cut The Line",
       "url": "https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO"
-    },
-    {
-      "added_at": "2022-08-12 12:29:18",
-      "album": {
-        "name": "Hotel Kalifornia",
-        "url": "https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 163752,
-      "name": "Hourglass",
-      "url": "https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352"
     },
     {
       "added_at": "2022-08-12 12:29:18",
@@ -859,22 +875,6 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
-        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
-        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Soldier On!",
-      "url": "https://open.spotify.com/track/7spRyvnK00GrJ3f4iJrkvt"
-    },
-    {
-      "added_at": "2022-08-12 12:29:18",
-      "album": {
         "name": "Boilermaker",
         "url": "https://open.spotify.com/album/0PNu9d50xKqwQbEwq9vqd7"
       },
@@ -891,18 +891,18 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
-        "name": "BURIED ALIVE",
-        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
+        "name": "Chaos In Bloom",
+        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
       },
       "artists": [
         {
-          "name": "Our Last Night",
-          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
         }
       ],
-      "duration_ms": 213774,
-      "name": "BURIED ALIVE",
-      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
+      "duration_ms": 238720,
+      "name": "Going Crazy",
+      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
     },
     {
       "added_at": "2022-08-12 12:29:18",
@@ -943,6 +943,22 @@
       "duration_ms": 142065,
       "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
+    },
+    {
+      "added_at": "2022-08-12 12:29:18",
+      "album": {
+        "name": "BURIED ALIVE",
+        "url": "https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL"
+      },
+      "artists": [
+        {
+          "name": "Our Last Night",
+          "url": "https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "BURIED ALIVE",
+      "url": "https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl"
     },
     {
       "added_at": "2022-08-12 12:29:18",
@@ -1039,18 +1055,18 @@
     {
       "added_at": "2022-08-12 12:29:18",
       "album": {
-        "name": "Chaos In Bloom",
-        "url": "https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T"
+        "name": "Torch",
+        "url": "https://open.spotify.com/album/5IDOB0Ms2VjRPc5qGudrmM"
       },
       "artists": [
         {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
         }
       ],
-      "duration_ms": 238720,
-      "name": "Going Crazy",
-      "url": "https://open.spotify.com/track/4roPy7UCHujegMBkutBawy"
+      "duration_ms": 217630,
+      "name": "Torch",
+      "url": "https://open.spotify.com/track/2ParPfrvK9Ld1cIsLOKVNC"
     },
     {
       "added_at": "2022-08-12 12:29:18",
@@ -1067,22 +1083,6 @@
       "duration_ms": 170710,
       "name": "Valley of Vision",
       "url": "https://open.spotify.com/track/6jse2wNXoAE1zxk9lvZzIB"
-    },
-    {
-      "added_at": "2022-08-12 12:29:18",
-      "album": {
-        "name": "Torch",
-        "url": "https://open.spotify.com/album/5IDOB0Ms2VjRPc5qGudrmM"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 217630,
-      "name": "Torch",
-      "url": "https://open.spotify.com/track/2ParPfrvK9Ld1cIsLOKVNC"
     },
     {
       "added_at": "2022-08-12 12:29:18",

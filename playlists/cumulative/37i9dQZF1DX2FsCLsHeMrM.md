@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-231 songs - 15 hr 11 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+232 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Ascension \(Don't Ever Wonder\) \- Remastered 2021](https://open.spotify.com/track/6l4TNbfPtNAOOlGIfceSaO) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 5:45 | 2021-11-10 |  |
 | [B.N.D](https://open.spotify.com/track/2WJqKEJ5TGjK2DojGrRo9K) | [Thaïs Lona](https://open.spotify.com/artist/4p4EZdDlVzZsBwyt8NfX9S) | [CUBE](https://open.spotify.com/album/7g8SnE1LmkwBtOaDXpFV3E) | 4:17 | 2022-05-30 | 2022-07-29 |
 | [BabyBaby](https://open.spotify.com/track/6YVSeg5QNCD88j2ifbJQT0) | [Louam](https://open.spotify.com/artist/5clpSPFnVCUghQIGEXgzcE) | [BabyBaby](https://open.spotify.com/album/6pbETnxdyYcThPadKBVzUr) | 4:14 | 2021-11-10 | 2022-07-29 |
-| [BabyBaby](https://open.spotify.com/track/7ipPRqPn0cZlw64xJYGcup) | [Louam](https://open.spotify.com/artist/5clpSPFnVCUghQIGEXgzcE) | [BabyBaby](https://open.spotify.com/album/4TPx0eMa8byEuIQ1p0y4MQ) | 4:14 | 2022-06-03 |  |
+| [BabyBaby](https://open.spotify.com/track/7ipPRqPn0cZlw64xJYGcup) | [Louam](https://open.spotify.com/artist/5clpSPFnVCUghQIGEXgzcE) | [BabyBaby](https://open.spotify.com/album/4TPx0eMa8byEuIQ1p0y4MQ) | 4:14 | 2022-06-03 | 2022-08-15 |
 | [Bad Bad News](https://open.spotify.com/track/5CDrDzan4wRW3Dj4LD6meH) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Bet Ain't Worth the Hand / Bad Bad News](https://open.spotify.com/album/7Csuf8rJjBOP4GK11pPCw7) | 3:27 | 2021-11-10 | 2022-07-29 |
 | [Bad Bad News](https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 3:27 | 2022-06-03 |  |
 | [Bad News](https://open.spotify.com/track/3uRggMbe2X8gD5KdwTlKrw) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Introducing...](https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ) | 3:48 | 2022-06-03 |  |
@@ -78,6 +78,7 @@
 | [Free Me](https://open.spotify.com/track/3Xt1rww1XMkh0qrUieRF1I) | [Joss Stone](https://open.spotify.com/artist/7bvcQXJHkFiN1ppIN3q4fi) | [The Best Of Joss Stone 2003 \- 2009](https://open.spotify.com/album/6Z8HL0drVRDIGrqIrSM1Ad) | 3:53 | 2022-06-03 |  |
 | [Georgy Porgy \(feat\. Faith Evans\)](https://open.spotify.com/track/5AIA8TpGhuilLpHbA6c1bq) | [Eric Benét](https://open.spotify.com/artist/1kjO72M26jZkv0aaGxJaov), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kevin "K.D." Davis](https://open.spotify.com/artist/20ZzK04IeD9EcQE12i2uRa) | [A Day in the Life](https://open.spotify.com/album/4jUwgH0Zd9DtgKiXFcBuHB) | 4:40 | 2021-11-10 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/0awG4a7t5UrmZZ4PZVNav3) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [Disco Essentials](https://open.spotify.com/album/5aVya3XGTKxxuOA4LT5Ayz) | 4:01 | 2022-06-03 | 2022-08-11 |
+| [Get Down Saturday Night](https://open.spotify.com/track/41vvfczE6ztmTNroUU8kfS) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [80s Summer Hits](https://open.spotify.com/album/3FkmAdgCpCzxHgo3lfhnGi) | 4:01 | 2022-08-02 |  |
 | [Get Down Saturday Night](https://open.spotify.com/track/2NHyfIeUIRucBcHhErA3pN) | [Oliver Cheatham](https://open.spotify.com/artist/25MNkA39C5jjxApUl812ic) | [True Soul 3 CD Set](https://open.spotify.com/album/1MEa8G0PhyDJrwRrcJ5WQo) | 4:02 | 2021-11-10 | 2022-07-29 |
 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 | 2021-11-10 |  |
 | [Give Me the Night \- Edit](https://open.spotify.com/track/7IQMKJNcppgahjNWVPmxkl) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [The Best of George Benson](https://open.spotify.com/album/6MOO5U9nQ6tuGuvyOnFNfm) | 3:39 | 2021-11-10 |  |

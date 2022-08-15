@@ -2,7 +2,9 @@
   "date_first_scraped": "2022-08-13",
   "description": "Country tracks to pump up your gaming.",
   "name": "Country Gaming",
-  "published_playlist_ids": [],
+  "published_playlist_ids": [
+    "61BrKcCm67FF5LnuWRLfG5"
+  ],
   "tracks": [
     {
       "album": {
@@ -289,6 +291,28 @@
       "duration_ms": 229400,
       "name": "Dirt Road Anthem",
       "url": "https://open.spotify.com/track/2qYsSHsYkihWx043HVJQRV"
+    },
+    {
+      "album": {
+        "name": "What You See Is What You Get",
+        "url": "https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        },
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223320,
+      "name": "Does To Me (feat. Eric Church)",
+      "url": "https://open.spotify.com/track/0nGXi46VcQQ56ZJR428MKS"
     },
     {
       "album": {
@@ -1163,7 +1187,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 185280,
       "name": "This Bar",
       "url": "https://open.spotify.com/track/075qcpR3BnxD5CWUIx1HTr"

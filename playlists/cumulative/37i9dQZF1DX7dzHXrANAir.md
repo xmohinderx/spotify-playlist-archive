@@ -4,7 +4,7 @@
 
 > The genre\-defying artists inspired by classical music\. Photo: Nils Frahm.
 
-200 songs - 14 hr 28 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
+201 songs - 14 hr 34 min - [published](https://open.spotify.com/playlist/2iy6j9LlPViguwqLQQko18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [A Light Without Flame](https://open.spotify.com/track/7iFOhRAni6M6bPyfsmvapG) | [Slow Meadow](https://open.spotify.com/artist/1X93CiijNCFQa4o17hLwI3) | [A Light Without Flame](https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK) | 3:23 | 2021-12-10 |  |
 | [A Phantasm at the End of the Tunnel](https://open.spotify.com/track/4UNxmX6uhGVlZELVVJmszt) | [What After This?](https://open.spotify.com/artist/2EOmCCwdMcNXiYOzQ4GtmM) | [A Phantasm at the End of the Tunnel](https://open.spotify.com/album/5ZV67dLiioz98qZpeqDl2o) | 5:21 | 2022-02-04 | 2022-07-24 |
 | [Abandoned Places](https://open.spotify.com/track/3zP5jZNeK9VgCkd4tNPKib) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Abandoned Places](https://open.spotify.com/album/7J6pXQPzUoFW2GozOiD6fq) | 5:43 | 2022-02-11 | 2022-07-29 |
-| [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-22 |  |
+| [Abandoned Places](https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB) | [Teodor Wolgers](https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr) | [Our True Nature](https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7) | 5:43 | 2022-07-22 | 2022-08-15 |
 | [Abu Simbel \- Hania Rani Invalides Version](https://open.spotify.com/track/1A3K44xa9pVPWdsCnfdHim) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM) | [Abu Simbel \(Hania Rani Invalides Version\)](https://open.spotify.com/album/7N41MiqOp7BbYOZmSxt900) | 5:39 | 2022-07-22 |  |
 | [amour](https://open.spotify.com/track/47kA4ykK0Rlwjf8oV2HMo7) | [Jean\-Michel Blais](https://open.spotify.com/artist/2uHlq6ERoXk8dqRZmq2OEr) | [aubades](https://open.spotify.com/album/5QkK4w2gdXZUMoqpKNP5bo) | 4:37 | 2022-02-04 |  |
 | [And Then It Rained](https://open.spotify.com/track/6uXVIBmojLA2TiNLp9tLjm) | [Bing & Ruth](https://open.spotify.com/artist/0grPfzk6cTnzfQpxjLDPs0) | [City Lake](https://open.spotify.com/album/1YXP2GYpNBLrXBWD5j9iM1) | 4:52 | 2022-03-25 | 2022-04-02 |
@@ -132,6 +132,7 @@
 | [Moving Slowly](https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Moving Slowly](https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W) | 3:17 | 2022-05-06 |  |
 | [Murmuration \- Adrien Pallot Remix](https://open.spotify.com/track/1n5V5SweNM2nQTXqx9nXmL) | [Saycet](https://open.spotify.com/artist/0AKlaf8M1k8NjJp1uCOlTA), [Joseph Schiano di Lombo](https://open.spotify.com/artist/3vuAmEyxhCFWETyJu69HIC), [Adrien Pallot](https://open.spotify.com/artist/6XeF93dpxLYgGgLWPeeq9L) | [Murmuration \(Adrien Pallot Remix\)](https://open.spotify.com/album/0wJrDZCq5WnojDT1zD0BjW) | 9:09 | 2022-06-24 | 2022-07-10 |
 | [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/0iMFw7AbmYbQS1KwdeFHgW) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/0L51mBkDmhgzIUvRtogtGw) | 5:34 | 2022-06-03 | 2022-08-11 |
+| [Music For Growing Flowers \- Pt\. 4](https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy) | [Erland Cooper](https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa) | [Music For Growing Flowers](https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE) | 5:34 | 2022-07-22 |  |
 | [My Perception of Love](https://open.spotify.com/track/2DmRw6o0JSOvznQe9UGuiD) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [12.95 \- A Shortstory](https://open.spotify.com/album/2ObSe5nRNskTL9NhNVjWCD) | 3:59 | 2022-03-25 | 2022-04-02 |
 | [Newborn](https://open.spotify.com/track/3EB0OXYpu65N019rD3hLh7) | [Stimming x Lambert](https://open.spotify.com/artist/1TTO5SuWJWgnOOGMdwVvD5) | [Newborn](https://open.spotify.com/album/3sjsBHfPPgzwsF9PR8qR8i) | 4:21 | 2021-12-10 | 2022-04-02 |
 | [Next Winter](https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM) | [Mark Slater](https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF) | [Next Winter](https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P) | 3:54 | 2021-12-10 |  |

@@ -2586,7 +2586,7 @@
     },
     {
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis)",
+        "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
       "artists": [
@@ -2603,7 +2603,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis)",
+      "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
@@ -3822,6 +3822,28 @@
     },
     {
       "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/2EbGQOhrYnc6oAOIKh4mUl"
       },
@@ -3885,7 +3907,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 196021,
       "name": "The Fall",
       "url": "https://open.spotify.com/track/5T5q3aHSVzT1UUc5cRCQni"

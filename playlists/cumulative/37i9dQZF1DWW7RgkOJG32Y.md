@@ -4,7 +4,7 @@
 
 > Top trending new and recent tracks from the last few months\. Cover: Muscadine Bloodline
 
-210 songs - 11 hr 8 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
+211 songs - 11 hr 11 min - [published](https://open.spotify.com/playlist/3oudbJWMXta4beE8xnLWw8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,8 +178,9 @@
 | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/track/0tXjb5mxi1ALIaagFuWxkb) | [Shawn Austin](https://open.spotify.com/artist/72iCV78mmAfr5s4A5dhjYg), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Tailgate To Heaven \(feat\. Chris Lane\)](https://open.spotify.com/album/0L93smV9MjarVHPfB6vZia) | 3:05 | 2021-12-24 | 2022-06-04 |
 | [Take It Slow](https://open.spotify.com/track/3CC2sCo30DhwOwGI4NN30I) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Take It Slow](https://open.spotify.com/album/7pZWY6EqOlAZnYNW949KbJ) | 2:42 | 2021-12-17 | 2022-07-08 |
 | [TAKE ONLY WHAT YOU NEED](https://open.spotify.com/track/1WlnYflBTcXj2er9qe1svq) | [Caitlin Quisenberry](https://open.spotify.com/artist/2yLeptGRMWP64GReoRj85U) | [TAKE ONLY WHAT YOU NEED](https://open.spotify.com/album/3NUnsXehARg3ABsFq0LqCG) | 3:46 | 2022-01-07 | 2022-07-30 |
-| [Talk About](https://open.spotify.com/track/5KQnhh9IUGf3Xa0g6iJIGa) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/6Lw5Eps3vN86YqNdQtfu9o) | 3:15 | 2022-07-22 |  |
+| [Talk About](https://open.spotify.com/track/5KQnhh9IUGf3Xa0g6iJIGa) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/6Lw5Eps3vN86YqNdQtfu9o) | 3:15 | 2022-07-22 | 2022-08-15 |
 | [Talk About](https://open.spotify.com/track/5eruZy4m1S2YGaE1oKhI60) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Talk About](https://open.spotify.com/album/7IBeNpSb9G6TU19iPMzxAD) | 3:15 | 2022-02-11 | 2022-07-29 |
+| [Talk About](https://open.spotify.com/track/75eGq7M9P5pFrEeJHb4AwH) | [Hannah May Allison](https://open.spotify.com/artist/75e41tQrYZ8vXnAoeIG9zd) | [Thank God For All The Boys](https://open.spotify.com/album/6XEhHN6bknsDNn0Y8OCP0Z) | 3:15 | 2022-08-12 |  |
 | [Tequila Talkin'](https://open.spotify.com/track/2aQp76uccAVLEM9jUlvPap) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Tequila Talkin'](https://open.spotify.com/album/3mFgRtQQYZ4lTVayUqHgqs) | 3:21 | 2021-12-17 | 2022-03-26 |
 | [That Was Us](https://open.spotify.com/track/10Aj75ID8Rkuq62hUmEsZy) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb), [Jessi Alexander](https://open.spotify.com/artist/0reoezffSStQ3LSDaF15AS) | [Behind The Bar](https://open.spotify.com/album/5okzhzPKByC8n0NxBYD2e5) | 3:28 | 2021-12-17 | 2022-02-05 |
 | [That's Why](https://open.spotify.com/track/2kUoYqpl9wG3VNwxDuHhXQ) | [Troy Cartwright](https://open.spotify.com/artist/24I45QsPZf5Gr7aVlVmTfr) | [That's Why](https://open.spotify.com/album/5cEt8pYzHBDPp9UeFEg3d5) | 3:01 | 2022-04-01 |  |

@@ -4,7 +4,7 @@
 
 > Aerial post\-rock sounds to take you somewhere else.
 
-79 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
+80 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/2vUbCCQUSY5J25PxfmpGKN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [The World Is Our \_\_\_](https://open.spotify.com/track/1EKk6Xvei9N9scaQcrax2S) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Young Mountain](https://open.spotify.com/album/4In2V4QylBdWT8HJ0dLDw5) | 7:12 | 2020-10-20\* |  |
 | [They Move on Tracks of Never\-Ending Light](https://open.spotify.com/track/3cIG78oBauowzEbkBwWADN) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 6:56 | 2021-06-09 |  |
 | [Threads](https://open.spotify.com/track/1kZvOyo7g6k01Au6DuXY4Y) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [S/T](https://open.spotify.com/album/72vAmnfrNfzORX6gG7p8Jf) | 5:39 | 2020-10-20\* |  |
-| [Troglodyte](https://open.spotify.com/track/08YHJKv8MRmdNapqgcBwoM) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 4:57 | 2021-06-09 |  |
+| [Troglodyte](https://open.spotify.com/track/08YHJKv8MRmdNapqgcBwoM) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/5acWZQPiULxgupTkAIdWbw) | 4:57 | 2021-06-09 | 2022-08-15 |
+| [Troglodyte](https://open.spotify.com/track/2eUvRQF5eZtSkwuz0NwzMZ) | [Man Is Not a Bird](https://open.spotify.com/artist/4w6LG6OA4SclkXqtujITEw) | [Survived the Great Flood](https://open.spotify.com/album/4mdYlF5OcDdolPcrEuG8T4) | 4:57 | 2022-01-17 |  |
 | [Twentytwofourteen](https://open.spotify.com/track/6PSgBb1yQZe99yIjn0eUgp) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In A Safe Place](https://open.spotify.com/album/1sHRD82NYs8RKZtlXatlkC) | 5:40 | 2020-10-20\* | 2022-07-29 |
 | [Twentytwofourteen](https://open.spotify.com/track/5pie01PYzPuRexCyFilLGU) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [In a Safe Place](https://open.spotify.com/album/1sZjWlyc9yL13U5q1nTQ8a) | 5:40 | 2022-01-17 |  |
 | [Unmake the Wild Light](https://open.spotify.com/track/7EmaLbhPGnQuw4riUkvlkp) | [65daysofstatic](https://open.spotify.com/artist/6DVVsQAnpHdJjb1nYuOQ6g) | [Wild Light](https://open.spotify.com/album/3a68UJXba5ejXgM5K8BUVF) | 6:23 | 2021-06-09 |  |

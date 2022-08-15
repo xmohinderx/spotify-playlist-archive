@@ -1637,6 +1637,24 @@
     {
       "album": {
         "name": "Crosby & Nash",
+        "url": "https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd"
+      },
+      "artists": [
+        {
+          "name": "Crosby & Nash",
+          "url": "https://open.spotify.com/artist/2mDlls63YpRsMjgpyXxyu6"
+        }
+      ],
+      "date_added": "2022-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102146,
+      "name": "My Country Tis of Thee",
+      "url": "https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N"
+    },
+    {
+      "album": {
+        "name": "Crosby & Nash",
         "url": "https://open.spotify.com/album/03QD54RAeTky8OoxIUxHxs"
       },
       "artists": [
@@ -1651,28 +1669,6 @@
       "duration_ms": 102146,
       "name": "My Country Tis of Thee",
       "url": "https://open.spotify.com/track/7I8OOfdIvHnvLUJ09BQBU3"
-    },
-    {
-      "album": {
-        "name": "Crosby & Nash",
-        "url": "https://open.spotify.com/album/79ZjC6bM9LX2brEnqhraVd"
-      },
-      "artists": [
-        {
-          "name": "David Crosby",
-          "url": "https://open.spotify.com/artist/59zdhVoWxSoHMc74n098Re"
-        },
-        {
-          "name": "Graham Nash",
-          "url": "https://open.spotify.com/artist/2E6Roj0oQnJIm2BeXwDica"
-        }
-      ],
-      "date_added": "2022-04-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 102146,
-      "name": "My Country Tis of Thee",
-      "url": "https://open.spotify.com/track/6b00M2aFkwisrX6GEZAg7N"
     },
     {
       "album": {

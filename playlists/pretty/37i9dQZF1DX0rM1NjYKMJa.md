@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0rM1NjYKMJa.md) - [plain]
 
 > The biggest & baddest tunes to get you ready for Carnival 2022 \- curated by Nino Brown & Young Teesh.
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,946 likes - 56 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,013 likes - 56 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

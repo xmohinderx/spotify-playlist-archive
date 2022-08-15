@@ -1,12 +1,12 @@
 {
   "description": "The best metal songs of the 2010s. Cover: Avenged Sevenfold",
-  "num_followers": 313274,
+  "num_followers": 313475,
   "original_name": "10s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI0NjQzMSwwMDAwMDAwMGQzNzNkZTdlOGYxNTUxZjY2NWIwMWJlZmMzYWM2Zjk2",
+  "snapshot_id": "MTY2MDI0NjQzMSwwMDAwMDAwMDEzYzZjYWMyYWJlY2UxODFiY2Q3M2Y1ZmU0YWVjMjk2",
   "tracks": [
     {
       "added_at": "2022-07-25 22:20:28",
@@ -411,22 +411,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Is There Anybody Out There?",
-        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 272665,
-      "name": "Is There Anybody Out There?",
-      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "All Out Life",
         "url": "https://open.spotify.com/album/65QFxYBGGQGGvAcW0YNMXa"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 340132,
       "name": "All Out Life",
       "url": "https://open.spotify.com/track/6vAQtUlYrzolE6SS9QCTs5"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Is There Anybody Out There?",
+        "url": "https://open.spotify.com/album/07lqIOrFHB6XAKq1rrIe8G"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 272665,
+      "name": "Is There Anybody Out There?",
+      "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 255230,
-      "name": "Prey",
-      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 188266,
       "name": "Diamond Eyes",
       "url": "https://open.spotify.com/track/6nmDEbjMZru5j55HIkX2yZ"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 255230,
+      "name": "Prey",
+      "url": "https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 248880,
-      "name": "Doomsday",
-      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Meliora",
         "url": "https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 362093,
       "name": "Cirice",
       "url": "https://open.spotify.com/track/3ZXZ9RMsznqgyHnyq0K5FL"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 248880,
+      "name": "Doomsday",
+      "url": "https://open.spotify.com/track/75R95k0ICuZBFVEjBauOtt"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "1000hp",
-        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
+        "name": "Hate",
+        "url": "https://open.spotify.com/album/1n3MBUKni0VloPhNhZPMZg"
       },
       "artists": [
         {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+          "name": "Thy Art Is Murder",
+          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
         }
       ],
-      "duration_ms": 226466,
-      "name": "1000hp",
-      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
+      "duration_ms": 215226,
+      "name": "Reign of Darkness",
+      "url": "https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Hate",
-        "url": "https://open.spotify.com/album/1n3MBUKni0VloPhNhZPMZg"
+        "name": "1000hp",
+        "url": "https://open.spotify.com/album/23nOachDR5dUA2iLlvvwT3"
       },
       "artists": [
         {
-          "name": "Thy Art Is Murder",
-          "url": "https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM"
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
         }
       ],
-      "duration_ms": 215226,
-      "name": "Reign of Darkness",
-      "url": "https://open.spotify.com/track/7eDtl2KToh99gXNRRfuY9l"
+      "duration_ms": 226466,
+      "name": "1000hp",
+      "url": "https://open.spotify.com/track/2DpLoT8qfJdZhsLGFg413r"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Day One (Deluxe)",
-        "url": "https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 213052,
-      "name": "Through It All",
-      "url": "https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Imaginaerum",
         "url": "https://open.spotify.com/album/7lUxbRgHGomu4raRe59qTK"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 322280,
       "name": "Storytime",
       "url": "https://open.spotify.com/track/5IhtaTempjlVlPmSgI0FQS"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Day One (Deluxe)",
+        "url": "https://open.spotify.com/album/1RiSdYoSP9FX5CKG7JYYbr"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 213052,
+      "name": "Through It All",
+      "url": "https://open.spotify.com/track/4Vai27xbSu7N9K7RNxVmG8"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2022-04-24 22:00:00",
       "album": {
-        "name": "Unto The Locust",
-        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
-      },
-      "artists": [
-        {
-          "name": "Machine Head",
-          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
-        }
-      ],
-      "duration_ms": 456312,
-      "name": "Locust",
-      "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
         "name": "Incarnate",
         "url": "https://open.spotify.com/album/1zcMqDzxecHx6JQvi7oFmH"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 226786,
       "name": "Hate by Design",
       "url": "https://open.spotify.com/track/6xXIMiJeAHZZcoReecFZwD"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "Unto The Locust",
+        "url": "https://open.spotify.com/album/4tzHN0jj11imsGYK9GdpF3"
+      },
+      "artists": [
+        {
+          "name": "Machine Head",
+          "url": "https://open.spotify.com/artist/0lVlNsuGaOr9vMHCZIAKMt"
+        }
+      ],
+      "duration_ms": 456312,
+      "name": "Locust",
+      "url": "https://open.spotify.com/track/2A9BLDVuT6lfbRK3ZKBCFz"
     },
     {
       "added_at": "2022-07-13 14:26:52",
@@ -2273,22 +2273,6 @@
       "url": "https://open.spotify.com/track/27ce3PuoDdndLsktG0RvfV"
     },
     {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
-        "name": "Holy Hell",
-        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 253973,
-      "name": "Holy Hell",
-      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
-    },
-    {
       "added_at": "2022-04-24 22:00:00",
       "album": {
         "name": "Madness",
@@ -2303,6 +2287,22 @@
       "duration_ms": 203800,
       "name": "Madness",
       "url": "https://open.spotify.com/track/3oGBi4YADwMYDtnRfYurnz"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
+        "name": "Holy Hell",
+        "url": "https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 253973,
+      "name": "Holy Hell",
+      "url": "https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG"
     },
     {
       "added_at": "2022-04-24 22:00:00",
@@ -2355,38 +2355,6 @@
     {
       "added_at": "2022-07-13 14:26:52",
       "album": {
-        "name": "BABYMETAL",
-        "url": "https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI"
-      },
-      "artists": [
-        {
-          "name": "BABYMETAL",
-          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
-        }
-      ],
-      "duration_ms": 318026,
-      "name": "Road of Resistance",
-      "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
-    },
-    {
-      "added_at": "2022-04-24 22:00:00",
-      "album": {
-        "name": "The Legacy of Shi",
-        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
-      },
-      "artists": [
-        {
-          "name": "Rise Of The Northstar",
-          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
-        }
-      ],
-      "duration_ms": 251560,
-      "name": "Here Comes The Boom",
-      "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
-    },
-    {
-      "added_at": "2022-07-13 14:26:52",
-      "album": {
         "name": "Gods of Violence",
         "url": "https://open.spotify.com/album/6Q0KiThTf1dwHWWsqXjngL"
       },
@@ -2403,6 +2371,22 @@
     {
       "added_at": "2022-07-13 14:26:52",
       "album": {
+        "name": "BABYMETAL",
+        "url": "https://open.spotify.com/album/6Eepi724OOt38pTaUrZErI"
+      },
+      "artists": [
+        {
+          "name": "BABYMETAL",
+          "url": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
+        }
+      ],
+      "duration_ms": 318026,
+      "name": "Road of Resistance",
+      "url": "https://open.spotify.com/track/4f5Glh6TkdXN2osSIpVBNI"
+    },
+    {
+      "added_at": "2022-07-13 14:26:52",
+      "album": {
         "name": "For We Are Many",
         "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 177053,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao"
+    },
+    {
+      "added_at": "2022-04-24 22:00:00",
+      "album": {
+        "name": "The Legacy of Shi",
+        "url": "https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ"
+      },
+      "artists": [
+        {
+          "name": "Rise Of The Northstar",
+          "url": "https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K"
+        }
+      ],
+      "duration_ms": 251560,
+      "name": "Here Comes The Boom",
+      "url": "https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4"
     },
     {
       "added_at": "2022-07-13 14:26:52",

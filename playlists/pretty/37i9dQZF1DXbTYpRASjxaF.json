@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Menor MC, DJ Matt D",
-  "num_followers": 73642,
+  "num_followers": 73737,
   "original_name": "Cop\u00e3o na m\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGU1MDJhMDUzZTdmMDE1OWIxNjUyODY0ZTdjODRiZTM2",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDJlYmY4ZjkyMzhjYjAxOGM3MWJiYWYwOGI4MGJiODky",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -971,6 +971,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Ro\u00e7a Trap Toco a Xota Dela",
+        "url": "https://open.spotify.com/album/2TBIqyMl408tsPZP0ZWe34"
+      },
+      "artists": [
+        {
+          "name": "Omni Black",
+          "url": "https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S"
+        },
+        {
+          "name": "JayA Luuck",
+          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
+        },
+        {
+          "name": "B.I.G Carter",
+          "url": "https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70"
+        }
+      ],
+      "duration_ms": 180105,
+      "name": "Ro\u00e7a Trap Toco a Xota Dela",
+      "url": "https://open.spotify.com/track/2uaVR9QxDvQjDh1yptbLrF"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -995,30 +1019,6 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Ro\u00e7a Trap Toco a Xota Dela",
-        "url": "https://open.spotify.com/album/2TBIqyMl408tsPZP0ZWe34"
-      },
-      "artists": [
-        {
-          "name": "Omni Black",
-          "url": "https://open.spotify.com/artist/38JfrdJwSQMp4l0mpg7K8S"
-        },
-        {
-          "name": "JayA Luuck",
-          "url": "https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp"
-        },
-        {
-          "name": "B.I.G Carter",
-          "url": "https://open.spotify.com/artist/4FfTbOUdugEh4aAUj2vM70"
-        }
-      ],
-      "duration_ms": 180105,
-      "name": "Ro\u00e7a Trap Toco a Xota Dela",
-      "url": "https://open.spotify.com/track/2uaVR9QxDvQjDh1yptbLrF"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Scarface",
-        "url": "https://open.spotify.com/album/4lxtG6f6ujBhJYA2Lrc3Uo"
-      },
-      "artists": [
-        {
-          "name": "tchelo rodrigues",
-          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
-        },
-        {
-          "name": "retroboy",
-          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
-        }
-      ],
-      "duration_ms": 142226,
-      "name": "Scarface",
-      "url": "https://open.spotify.com/track/5ILgbfXuQQ7NAItle6ACtj"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "A Noite",
         "url": "https://open.spotify.com/album/7KVMxEXWpwjtM0tDXW6vbe"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 202105,
       "name": "A Noite",
       "url": "https://open.spotify.com/track/2mcw9Bzsc9FXgZJdXZsrSg"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Scarface",
+        "url": "https://open.spotify.com/album/4lxtG6f6ujBhJYA2Lrc3Uo"
+      },
+      "artists": [
+        {
+          "name": "tchelo rodrigues",
+          "url": "https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY"
+        },
+        {
+          "name": "retroboy",
+          "url": "https://open.spotify.com/artist/4R7j2XUkuutFO0MePvfASY"
+        }
+      ],
+      "duration_ms": 142226,
+      "name": "Scarface",
+      "url": "https://open.spotify.com/track/5ILgbfXuQQ7NAItle6ACtj"
     },
     {
       "added_at": "2022-08-12 03:01:00",

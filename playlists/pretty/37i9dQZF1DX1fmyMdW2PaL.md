@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 
 > Heavy, intense and aggressive tracks\. Chaotic in all the good ways\. Cover: Underoath
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,679 likes - 100 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,813 likes - 100 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 20 | [Instinctive \(Slaughterlust\)](https://open.spotify.com/track/6XV2s0jov1VZqfOPySIIiA) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Weight of the False Self](https://open.spotify.com/album/2VU4wvsO2Uxwaehnvl3tko) | 2:52 |
 | 21 | [Yenta](https://open.spotify.com/track/5xI05mj56keeBC5j8sAewg) | [ten56.](https://open.spotify.com/artist/28dpy0DQotTkBXcTlniQii) | [Yenta](https://open.spotify.com/album/75Mk7bCKer2jIafSsYHjGl) | 3:09 |
 | 22 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
-| 23 | [Planet Shit](https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:56 |
+| 23 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
 | 24 | [LOUD \(feat\. Jason Aalon from FEVER 333\)](https://open.spotify.com/track/7aIG8lh4xZmWqOoASAifHf) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Jason Aalon Butler](https://open.spotify.com/artist/7fvTBshis8LPl6TrjnfOsl) | [LOUD](https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf) | 3:28 |
-| 25 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
+| 25 | [Planet Shit](https://open.spotify.com/track/7GLg6mpa868wvquWv4O3ja) | [Every Time I Die](https://open.spotify.com/artist/0o7WWONtleH6PWLn5GIoCM) | [Radical](https://open.spotify.com/album/6SUMl8L4l91N2igInZsGMO) | 3:56 |
 | 26 | [Stay](https://open.spotify.com/track/6xoWFSJYtBP9wemRCXbnFg) | [Belmont](https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp) | [Stay](https://open.spotify.com/album/4oNC3ZIGRHUP4Jhj3szhGh) | 2:18 |
 | 27 | [Forever](https://open.spotify.com/track/1G6czdqgskwJ4cBgx9CDAJ) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [Forever](https://open.spotify.com/album/2V7axnEU5HQoN9Tu5JVl4S) | 3:07 |
 | 28 | [Ghost](https://open.spotify.com/track/4UfJEKd1mJlHawZD35wJYo) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Heaven in Hiding](https://open.spotify.com/album/39AMnevcJVGYVhCALp1kvQ) | 4:15 |
@@ -55,16 +55,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 45 | [Become a Machine](https://open.spotify.com/track/6Xt6hMb6cxdZ29ULtdQIFl) | [Harms Way](https://open.spotify.com/artist/4ZycjRroJpEHjKMxs8zsek) | [Posthuman](https://open.spotify.com/album/1RIr3dLd64m8fh23p2gm9L) | 3:12 |
 | 46 | [Rev\. Up](https://open.spotify.com/track/7splB6KZq3eDtRTgDfMRyj) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 2:20 |
 | 47 | [In Darkness](https://open.spotify.com/track/0Y7kbZ3s7AYKGc0N8BJngA) | [Varials](https://open.spotify.com/artist/6EFV3PmaXblKwNbvpkGv9l) | [In Darkness](https://open.spotify.com/album/1OKhPR0IeOTmyM5dqxSpMD) | 2:37 |
-| 48 | [Negative Noise](https://open.spotify.com/track/4YhnbmXKKV2dlOcwIJnUNB) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 4:07 |
-| 49 | [Monument](https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Private Room](https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk) | 1:50 |
+| 48 | [Monument](https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy) | [Counterparts](https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z) | [Private Room](https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk) | 1:50 |
+| 49 | [Negative Noise](https://open.spotify.com/track/4YhnbmXKKV2dlOcwIJnUNB) | [Tetrarch](https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2) | [Unstable](https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz) | 4:07 |
 | 50 | [Green](https://open.spotify.com/track/7Elxs3hCKEiHfOv7rb6F70) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Deflector](https://open.spotify.com/album/093ZXKn597MVIth3gvqcKh) | 3:02 |
 | 51 | [Closer](https://open.spotify.com/track/2DFE90Gljmrj9KD48gffiY) | [VRSTY](https://open.spotify.com/artist/4U4B34pc1P8n76w4G7Uwle) | [Closer](https://open.spotify.com/album/0eVfbvB9HvdiUdG917HYc9) | 3:19 |
 | 52 | [A Villain's Monologue](https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP) | [Blood Command](https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f) | [A Villain's Monologue](https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU) | 3:30 |
 | 53 | [Crossed](https://open.spotify.com/track/3YOT9X8PtcVZsgGzmOKvzN) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN), [Joe Duplantier](https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:00 |
 | 54 | [Venomous](https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Anthems](https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu) | 2:41 |
 | 55 | [fast forward](https://open.spotify.com/track/69ohjiZNbPd0SjJFV0FwgU) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [fast forward](https://open.spotify.com/album/1emDcZj0GpkjOnJJRpgHXn) | 2:00 |
-| 56 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
-| 57 | [Unexplainabletitlesleavingyouwonderingwhy \(Welcome In\)](https://open.spotify.com/track/47qjXoKOXDiIZT5jSoydD2) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 1:45 |
+| 56 | [Unexplainabletitlesleavingyouwonderingwhy \(Welcome In\)](https://open.spotify.com/track/47qjXoKOXDiIZT5jSoydD2) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [Rouge Carpet Disaster](https://open.spotify.com/album/1mIKtxf39TuoDhurzIijt3) | 1:45 |
+| 57 | [Smile Now Pay Later](https://open.spotify.com/track/2qubO22BwvgFwR0Rw5G0be) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [For the Cause](https://open.spotify.com/album/4LBgCtcdVp8hBBRDdwJaZk) | 3:31 |
 | 58 | [Fed Up](https://open.spotify.com/track/4I5pSHolmUZVGEs0uKYQxg) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Fed Up](https://open.spotify.com/album/00w2FrAMwLPaYSJe7Pqx4i) | 3:21 |
 | 59 | [Good Riddance](https://open.spotify.com/track/0kNPO6bdi3vMlVPhXTQA2T) | [Kharma](https://open.spotify.com/artist/2jKVfdJBclXOpymp2JljJL) | [Moment Of Violence](https://open.spotify.com/album/50f1iQiiAIznNY2lttY2lT) | 2:15 |
 | 60 | [Face the Fire](https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Heavy Steps](https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm) | 3:17 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fmyMdW2PaL.md) - [plain]
 | 95 | [Rules of Conviction](https://open.spotify.com/track/4g78phWmF0XGoJvoDrt2pf) | [First Blood](https://open.spotify.com/artist/4z2rZXnFuTCl75Vpb26Eg0) | [Rules](https://open.spotify.com/album/7FH1a9pkDnGALu3wUpURs3) | 3:42 |
 | 96 | [Self\-Destruct](https://open.spotify.com/track/3x8dXVhkdHZQ1LbcoHxDkS) | [Kublai Khan TX](https://open.spotify.com/artist/5BIOo2mCAokFcLHXO2Llb4) | [Self\-Destruct](https://open.spotify.com/album/48ZtLRQkOxnTJ0o05QHCXi) | 2:19 |
 | 97 | [Party’s Over](https://open.spotify.com/track/0cYhDSEGwA0pUtuXf6hGDk) | [Employed To Serve](https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64) | [Party’s Over](https://open.spotify.com/album/1Rkng3v3oITAzhBfXlKYTI) | 3:49 |
-| 98 | [Toxic Freedom](https://open.spotify.com/track/48A4o6Jur5DODfkCBegHwb) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Go Ahead and Die](https://open.spotify.com/album/44yTZ3cCjCDUsdYQgUasFV) | 3:25 |
-| 99 | [Apertures \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/7wqdCyWXeizsSwiGJnp8Pk) | [Glass Houses](https://open.spotify.com/artist/0tNvtwm13Tvrx9k3ZSbIJx), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Apertures \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/5cgOPvQim5IoqbU4ZdnIeL) | 3:43 |
+| 98 | [Apertures \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/7wqdCyWXeizsSwiGJnp8Pk) | [Glass Houses](https://open.spotify.com/artist/0tNvtwm13Tvrx9k3ZSbIJx), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Apertures \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/5cgOPvQim5IoqbU4ZdnIeL) | 3:43 |
+| 99 | [Toxic Freedom](https://open.spotify.com/track/48A4o6Jur5DODfkCBegHwb) | [Go Ahead And Die](https://open.spotify.com/artist/3VvvNtwzaS0dyqr13Pa113) | [Go Ahead and Die](https://open.spotify.com/album/44yTZ3cCjCDUsdYQgUasFV) | 3:25 |
 | 100 | [Cold Summer](https://open.spotify.com/track/5rN43Tez5JnMdB6oC4YTcM) | [Obey The Brave](https://open.spotify.com/artist/5heEwugc3JGxjIIivDEAg3) | [Balance](https://open.spotify.com/album/7bi6J2cnEXwrWJbuuzDQ9J) | 3:19 |
 
-Snapshot ID: `MTY1NzgwOTE0NCwwMDAwMDAwMDRlYzg0ODgxMDZjMjA3NzM3OWYxMTFiMDIzMWZjMTBj`
+Snapshot ID: `MTY1NzgwOTE0NCwwMDAwMDAwMGI1YTVlYjNkZjNkMGRkZjM0ZTAzYjBkOTBjMzQ4MWVj`

@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95063,
+  "num_followers": 95071,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGIwOWU0MDFhNDU0Y2QwMTJhYWJmMGNkYTIyM2RjYzU4",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDU5MjlmMWNlZDI0ZDk5OTFiOTdjZTBiM2M1N2FiYjdj",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -719,30 +719,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Turning Me Up (Hadal Ahbek)",
-        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
-      },
-      "artists": [
-        {
-          "name": "Issam Alnajjar",
-          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
-        },
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Turning Me Up (Hadal Ahbek)",
-      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Blink 2022",
         "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
       },
@@ -763,6 +739,30 @@
       "duration_ms": 206769,
       "name": "Blink 2022",
       "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Turning Me Up (Hadal Ahbek)",
+        "url": "https://open.spotify.com/album/4iVUZYC6NjKXt4jOh14dTb"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Turning Me Up (Hadal Ahbek)",
+      "url": "https://open.spotify.com/track/4sofJiicQwKsRo3S1vpt39"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "In My Feelings",
-        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Deniz Koyu",
-          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
-        }
-      ],
-      "duration_ms": 174360,
-      "name": "In My Feelings",
-      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Boom Boom Pow",
         "url": "https://open.spotify.com/album/3UTRfRr2s6XLj3It38Vw8d"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 185413,
       "name": "Boom Boom Pow",
       "url": "https://open.spotify.com/track/4S2qrsdY4BF0T5UFQLtqoU"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "In My Feelings",
+        "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Deniz Koyu",
+          "url": "https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6"
+        }
+      ],
+      "duration_ms": 174360,
+      "name": "In My Feelings",
+      "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "GOOD PUSS",
+        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
+      },
+      "artists": [
+        {
+          "name": "COBRAH",
+          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
+        }
+      ],
+      "duration_ms": 220223,
+      "name": "GOOD PUSS",
+      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Deep End",
         "url": "https://open.spotify.com/album/3eC6ruJ9HUWNOoozy1GTC1"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 164761,
       "name": "Deep End",
       "url": "https://open.spotify.com/track/3zKAZWa3KinlGdhm41IG5A"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "GOOD PUSS",
-        "url": "https://open.spotify.com/album/0zSUWQsif1LSIyMYuQ4utn"
-      },
-      "artists": [
-        {
-          "name": "COBRAH",
-          "url": "https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne"
-        }
-      ],
-      "duration_ms": 220223,
-      "name": "GOOD PUSS",
-      "url": "https://open.spotify.com/track/26WSeuKeWZNwKARvZNIrUc"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Survivors",
-        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
+        "name": "SKOGSREJV",
+        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 164400,
-      "name": "Survivors",
-      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
+      "duration_ms": 180588,
+      "name": "SKOGSREJV",
+      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "SKOGSREJV",
-        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
+        "name": "Survivors",
+        "url": "https://open.spotify.com/album/558HXvtCoHCsxRpPoAIb5H"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         }
       ],
-      "duration_ms": 180588,
-      "name": "SKOGSREJV",
-      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
+      "duration_ms": 164400,
+      "name": "Survivors",
+      "url": "https://open.spotify.com/track/2HvGzbTKJTP8WuKU1EClIw"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1427,6 +1427,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
+      },
+      "artists": [
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Trombone",
         "url": "https://open.spotify.com/album/6VPECzab2eRuuUBRtBmvUT"
       },
@@ -1463,30 +1487,6 @@
       "duration_ms": 161904,
       "name": "Stars Align (with Jolin Tsai)",
       "url": "https://open.spotify.com/track/2RQYvKXf2WG4bqN6hPRNq6"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
-      },
-      "artists": [
-        {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1619,50 +1619,54 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "California Sun",
-        "url": "https://open.spotify.com/album/4ktYp7QtLH9jMvpo1Tz4SN"
+        "name": "World in Your Eyes",
+        "url": "https://open.spotify.com/album/7hlG0h8cXqlLjF8rVCE92E"
       },
       "artists": [
         {
-          "name": "AronChupa",
-          "url": "https://open.spotify.com/artist/5vCOdeiQt9LyzdI87kt5Sh"
+          "name": "Neptunica",
+          "url": "https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL"
         },
         {
-          "name": "Little Sis Nora",
-          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+          "name": "Pule",
+          "url": "https://open.spotify.com/artist/4ZRiZlB8TEZwhXqwLr0U9R"
         },
         {
-          "name": "Jungle Jonsson",
-          "url": "https://open.spotify.com/artist/6DuzYGNQcx6sJNgi36tr7Z"
+          "name": "Crystal Rock",
+          "url": "https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e"
+        },
+        {
+          "name": "Heleen",
+          "url": "https://open.spotify.com/artist/71GRU9wS94BTdNwQWRMJV6"
         }
       ],
-      "duration_ms": 151265,
-      "name": "California Sun",
-      "url": "https://open.spotify.com/track/2SHWi8NdPvjeyRKA3sW3ab"
+      "duration_ms": 131142,
+      "name": "World in Your Eyes",
+      "url": "https://open.spotify.com/track/5ma7yZhAlSKgFYYEqYHOD9"
     },
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "I like to move it",
-        "url": "https://open.spotify.com/album/6EonmeQCputEtgBPyfxx1X"
+        "name": "Distant Memory (with Timmy Trumpet x W&W)",
+        "url": "https://open.spotify.com/album/4Hx4oAboWyR4hI1UeEHRLR"
       },
       "artists": [
         {
-          "name": "Alfons",
-          "url": "https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         },
         {
-          "name": "Mert Can",
-          "url": "https://open.spotify.com/artist/049qisXXHEXKQSQqzbr14Q"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         },
         {
-          "name": "Tony Koma",
-          "url": "https://open.spotify.com/artist/0uGfoFBGwR75SE04cR5chh"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
         }
       ],
-      "duration_ms": 114377,
-      "name": "I like to move it",
-      "url": "https://open.spotify.com/track/14u71NkqEHOB9QbhXoabkz"
+      "duration_ms": 150468,
+      "name": "Distant Memory (with Timmy Trumpet x W&W)",
+      "url": "https://open.spotify.com/track/50Q24gRvLy128dfU2DDoao"
     }
   ],
   "unique_name": "Det blir kaoz!",

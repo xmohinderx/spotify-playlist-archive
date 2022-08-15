@@ -1771,7 +1771,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 292735,
       "name": "Construction of Souls",
       "url": "https://open.spotify.com/track/01tykAEjuZsAX5I1y0FLf8"
@@ -3074,6 +3074,24 @@
     },
     {
       "album": {
+        "name": "Totem",
+        "url": "https://open.spotify.com/album/7tWpDZxWUhFEqwIhHSy00i"
+      },
+      "artists": [
+        {
+          "name": "Soulfly",
+          "url": "https://open.spotify.com/artist/6159IBm5gLPwG4BcJXseXc"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173187,
+      "name": "Filth Upon Filth",
+      "url": "https://open.spotify.com/track/22i0SAC2wv9bbgNQdublCr"
+    },
+    {
+      "album": {
         "name": "Filth Upon Filth",
         "url": "https://open.spotify.com/album/1Ed8tYC0MNI1P9TA88kFlF"
       },
@@ -3085,7 +3103,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 173187,
       "name": "Filth Upon Filth",
       "url": "https://open.spotify.com/track/718mw16SXeGzuvPTVJLcpN"
@@ -4585,6 +4603,24 @@
       "duration_ms": 283546,
       "name": "King Of The Kings",
       "url": "https://open.spotify.com/track/58Jv0IEayRVpeeSMilqdvD"
+    },
+    {
+      "album": {
+        "name": "Your Highness",
+        "url": "https://open.spotify.com/album/66vEDEG2g4qndscuuaR0ef"
+      },
+      "artists": [
+        {
+          "name": "Bloodred Hourglass",
+          "url": "https://open.spotify.com/artist/5LDGgIxaWuRV4KlY6oob6b"
+        }
+      ],
+      "date_added": "2022-07-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182410,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/1QwYnABTbwD6ahOwDrzO6T"
     },
     {
       "album": {

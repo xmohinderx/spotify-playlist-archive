@@ -4,7 +4,7 @@
 
 > Acuérdate de estas canciones clásicas\. Foto: Wisin & Yandel, el Dúo de la Historia.
 
-335 songs - 20 hr 17 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
+336 songs - 20 hr 20 min - [published](https://open.spotify.com/playlist/5SgU8PR0wDw30k07Az00VU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -113,6 +113,7 @@
 | [Eso Ehh..!!!](https://open.spotify.com/track/7uCZiUZqnKSGBnr3YZTcxA) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA) | [The Pitbulls](https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH) | 3:15 | 2021-12-17 | 2022-01-11 |
 | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/track/3AiSzVa7e1thtKKnJfs03I) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Eso En 4 No Se Ve \(feat\. Nejo Y Dalmata & Luigi 21 Plus\)](https://open.spotify.com/album/5h67fwP7oqhvvPkSWKv9g3) | 4:31 | 2021-12-17 |  |
 | [Estar Enamorado](https://open.spotify.com/track/2RFDO2apMKOOytAWsNHmyH) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Mas Lunaticos](https://open.spotify.com/album/7EI3hMAmYWir6aVZtSxW5J) | 3:40 | 2021-12-17 | 2022-08-13 |
+| [Estar Enamorado](https://open.spotify.com/track/5WhH88hPbiOk95Vz4rcbbQ) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj) | [Más Lunáticos](https://open.spotify.com/album/27PjrmYvDUsl1MdTHvZsUR) | 3:41 | 2022-08-09 |  |
 | [Fantasma](https://open.spotify.com/track/0qtmSv1LAqAD63ApakCUuz) | [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu) | [The Perfect Melody](https://open.spotify.com/album/5YQYegKc5aoF6xNnGwVU2v) | 3:55 | 2021-12-17 |  |
 | [Felina](https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt) | [Hector & Tito](https://open.spotify.com/artist/5aB4SpKYteOJ8pAleoKkg7) | [A La Reconquista](https://open.spotify.com/album/1XVsXN3JiO0pM3CeiYSNTv) | 3:36 | 2021-12-17 |  |
 | [Flow Natural](https://open.spotify.com/track/2oeyvFG0mFFDHUxhPVObNk) | [Tito "El Bambino"](https://open.spotify.com/artist/5fJsY7afrbsyzJj9wdzJMh), [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Deevani](https://open.spotify.com/artist/0vLywSuTQGaeNiq9pN8sD0) | [Top Of The Line](https://open.spotify.com/album/0GERlfOuy87BuTAcwuO5Kb) | 2:53 | 2021-12-17 |  |
@@ -158,7 +159,7 @@
 | [Luna](https://open.spotify.com/track/6l1DuBpGWcDqj3tl80MfVQ) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Luna](https://open.spotify.com/album/2GAMP9XG7wUrnlRs8LLLsE) | 3:39 | 2021-12-17 | 2022-07-29 |
 | [Machete](https://open.spotify.com/track/1n378okiaJGDR06by3YM2U) | [Héctor "El Father"](https://open.spotify.com/artist/2TjgzYcbTdsZjbT9OItIeB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Los Anormales](https://open.spotify.com/album/1g2W7SvrDcsxpRnGpGy6K0) | 3:02 | 2021-12-17 |  |
 | [Mala Conducta \(feat\. Franco El Gorila\)](https://open.spotify.com/track/3tI4duDhHmmz1Sp7RX0Jbq) | [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Franco "El Gorilla"](https://open.spotify.com/artist/2biH2I1TvZlIIIc5W14oIJ) | [Perreología](https://open.spotify.com/album/4qXNRlaRSR6ps3oyeEcvVk) | 4:17 | 2021-12-17 |  |
-| [Maniatica](https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Megahitz Volumen Uno](https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U) | 4:22 | 2022-05-13 |  |
+| [Maniatica](https://open.spotify.com/track/2FxV7yyyfkByIGmUp1o1dY) | [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Megahitz Volumen Uno](https://open.spotify.com/album/3KUOR2fvyW563YjY7byQ5U) | 4:22 | 2022-05-13 | 2022-08-15 |
 | [Matador \- Official Remix](https://open.spotify.com/track/27ALar3f8xkLfXOrKAzDkg) | [Nova y Jory](https://open.spotify.com/artist/6ZK8loFAzWKSFe3b7Lrq4V), [Alexis y Fido](https://open.spotify.com/artist/7tU1VKOuxiNZwBZC6RHidA), [Jo\-Well](https://open.spotify.com/artist/5XEOUCB6Jv1UGIbpJYIsVr), [Voltio](https://open.spotify.com/artist/3Okcq0dqLVlEFHRZ5t22bA), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Matador \(Official Remix\)](https://open.spotify.com/album/2mL69LoCsroXQIDdNHYPsq) | 4:32 | 2021-12-17 |  |
 | [Maulla](https://open.spotify.com/track/1ITZAfqLxTVmc8873wdWUG) | [Yaga & Mackie](https://open.spotify.com/artist/16Juw2gfa9IxEL3Vu69cH7) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-17 | 2022-03-09 |
 | [Mayor que yo](https://open.spotify.com/track/4n4CBlQVxxnU0MHGO5Mqv3) | [Tonny Tun Tun](https://open.spotify.com/artist/4a0UP5sUQGKcn2QJnqMT0t), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Infinite summer](https://open.spotify.com/album/5jAs6j5Dbpqo1Zr7QcZAoP) | 4:09 | 2021-12-17 | 2022-07-29 |

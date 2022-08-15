@@ -1,12 +1,12 @@
 {
   "description": "Les hits Maghr\u00e9bins du moment sont ici. Cover : Manal.",
-  "num_followers": 189243,
+  "num_followers": 189615,
   "original_name": "Hot Hits Maghreb",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyNjg5OSwwMDAwMDAwMDM1YzY0MmE2MTA3MzZkZjQ1NTQ4OWE4MzNlYmRhNDYw",
+  "snapshot_id": "MTY2MDIyNjg5OSwwMDAwMDAwMDczMWMwZmRjOWVhMjNlMmJkYzM2MjNmOGRlMmZiOWZk",
   "tracks": [
     {
       "added_at": "2022-08-11 14:08:19",
@@ -187,6 +187,26 @@
       "duration_ms": 159357,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
+    },
+    {
+      "added_at": "2022-08-11 14:08:19",
+      "album": {
+        "name": "Hiya Hiya",
+        "url": "https://open.spotify.com/album/4huoXKTPj0UF1x3GchIe0H"
+      },
+      "artists": [
+        {
+          "name": "Eljoee",
+          "url": "https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7"
+        },
+        {
+          "name": "CHAAMA",
+          "url": "https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL"
+        }
+      ],
+      "duration_ms": 217021,
+      "name": "Hiya Hiya",
+      "url": "https://open.spotify.com/track/24vfdXHFUYbUisMutVNjDQ"
     },
     {
       "added_at": "2022-08-11 14:08:19",

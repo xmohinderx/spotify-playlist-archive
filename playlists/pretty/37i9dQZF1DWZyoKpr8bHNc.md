@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyoKpr8bHNc.md) - [plain]
 
 > Classici Ya Habibi! This is why Tata always says, "fish ba'ed ayam zamaan."
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,180 likes - 50 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,270 likes - 50 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

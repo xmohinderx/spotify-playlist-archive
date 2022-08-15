@@ -1,12 +1,12 @@
 {
   "description": "Get the party started with some upbeat party jazz.",
-  "num_followers": 10526,
+  "num_followers": 10576,
   "original_name": "Party Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4NTY2MiwwMDAwMDAwMDdlNThiMmE2MDE1ODJiOGRhZGFjMjU4ZmQ3NmE0YTgz",
+  "snapshot_id": "MTY2MDI4NTY2MiwwMDAwMDAwMDYxMTU0NzE3OTVmMmJiMjFiNWM4ODAxMWZmZGQ4MDlh",
   "tracks": [
     {
       "added_at": "2022-08-12 06:27:42",
@@ -163,22 +163,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Boss Horn (Remastered)",
-        "url": "https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk"
-      },
-      "artists": [
-        {
-          "name": "Blue Mitchell",
-          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
-        }
-      ],
-      "duration_ms": 381893,
-      "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
-      "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "Additions To Further Definitions",
         "url": "https://open.spotify.com/album/7xZfgQPKxnmAAt6mLTTSVb"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 331386,
       "name": "Doozy - 1966 Album Version",
       "url": "https://open.spotify.com/track/0iZFlr1KifqE2h5jM8g5pF"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "Boss Horn (Remastered)",
+        "url": "https://open.spotify.com/album/1Zg5gkaCMGezneA4Aq9yXk"
+      },
+      "artists": [
+        {
+          "name": "Blue Mitchell",
+          "url": "https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW"
+        }
+      ],
+      "duration_ms": 381893,
+      "name": "Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster",
+      "url": "https://open.spotify.com/track/4lQGjcuX6xblZPrVbsga6l"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -331,18 +331,18 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
+        "name": "Blue Train",
+        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
       },
       "artists": [
         {
-          "name": "Horace Silver Quintet",
-          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
         }
       ],
-      "duration_ms": 294173,
-      "name": "Cookin' At The Continental - Rudy Van Gelder Edition / Remastered",
-      "url": "https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq"
+      "duration_ms": 434624,
+      "name": "Locomotion - Remastered",
+      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -363,18 +363,18 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Blue Train",
-        "url": "https://open.spotify.com/album/2Z11cXWEa2qqYQBGkJrCga"
+        "name": "Finger Poppin' (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/3buPlC7VvOytPdHoobl8on"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+          "name": "Horace Silver Quintet",
+          "url": "https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y"
         }
       ],
-      "duration_ms": 434624,
-      "name": "Locomotion - Remastered",
-      "url": "https://open.spotify.com/track/4R8sx3JYPAEyOAwpOxnALk"
+      "duration_ms": 294173,
+      "name": "Cookin' At The Continental - Rudy Van Gelder Edition / Remastered",
+      "url": "https://open.spotify.com/track/1DU2qdtCoFsonRs7UjHnWq"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "'S Make It",
-        "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey",
-          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "Jutta Hipp With Zoot Sims (Expanded Edition)",
         "url": "https://open.spotify.com/album/3Caef1zBtNTPEIg5C3XZI2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 403000,
       "name": "Down Home",
       "url": "https://open.spotify.com/track/4bSS0sl1sSGTpR79V11EWW"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "'S Make It",
+        "url": "https://open.spotify.com/album/7tKo11GyBLe0Zbbi72pFFU"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey",
+          "url": "https://open.spotify.com/artist/6QQuESLtKhAOcLW2TeWC2t"
+        }
+      ],
+      "duration_ms": 223493,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/32MKpR61rfKGivn5K7V7wG"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
-      },
-      "artists": [
-        {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
-        }
-      ],
-      "duration_ms": 281040,
-      "name": "Three Little Words",
-      "url": "https://open.spotify.com/track/15NISV4mN1WTF1vHxdRrAD"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
+      },
+      "artists": [
+        {
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+        }
+      ],
+      "duration_ms": 281040,
+      "name": "Three Little Words",
+      "url": "https://open.spotify.com/track/15NISV4mN1WTF1vHxdRrAD"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
+        "name": "Jazz Impressions Of Japan",
+        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 128040,
+      "name": "Toki's Theme",
+      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
         "name": "Caravan [Keepnews Collection]",
         "url": "https://open.spotify.com/album/35Ml0uRskKkYOFi8nBiGzq"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 617487,
       "name": "Blue Minor - Remastered",
       "url": "https://open.spotify.com/track/6xdHoeioMerdgJ5fNDDcYy"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
-        "name": "Jazz Impressions Of Japan",
-        "url": "https://open.spotify.com/album/7tOQ0wZyrxr2fqWTO6n8M7"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 128040,
-      "name": "Toki's Theme",
-      "url": "https://open.spotify.com/track/4Xlq6iQXgx3hLgyqavhWXx"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Benny Golson And The Philadelphians",
-        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
+        "name": "Pre-Bird",
+        "url": "https://open.spotify.com/album/3oTtQ6wQHUZwvHObLuh8sq"
       },
       "artists": [
         {
-          "name": "Benny Golson",
-          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
+          "name": "Charles Mingus",
+          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
         }
       ],
-      "duration_ms": 245146,
-      "name": "Blues March",
-      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
+      "duration_ms": 219066,
+      "name": "Take The \"A\" Train",
+      "url": "https://open.spotify.com/track/72AW6z1g3zGKcCOjQzToV9"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1067,34 +1067,34 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Pre-Bird",
-        "url": "https://open.spotify.com/album/3oTtQ6wQHUZwvHObLuh8sq"
+        "name": "Benny Golson And The Philadelphians",
+        "url": "https://open.spotify.com/album/7JqSmqGSI3bvPAh7XKBr7h"
       },
       "artists": [
         {
-          "name": "Charles Mingus",
-          "url": "https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H"
+          "name": "Benny Golson",
+          "url": "https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG"
         }
       ],
-      "duration_ms": 219066,
-      "name": "Take The \"A\" Train",
-      "url": "https://open.spotify.com/track/72AW6z1g3zGKcCOjQzToV9"
+      "duration_ms": 245146,
+      "name": "Blues March",
+      "url": "https://open.spotify.com/track/3z6vI20hNUo15h3fCduRQm"
     },
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Look Out! (Remastered)",
-        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
+        "name": "Chris Connor Sings the George Gershwin Almanac Of Song",
+        "url": "https://open.spotify.com/album/6kebEq4pm5COztcs9YGzgN"
       },
       "artists": [
         {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
         }
       ],
-      "duration_ms": 376800,
-      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
+      "duration_ms": 127533,
+      "name": "I Got Rhythm",
+      "url": "https://open.spotify.com/track/7MeRVhOwztVIpbfD8zO5ji"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Chris Connor Sings the George Gershwin Almanac Of Song",
-        "url": "https://open.spotify.com/album/6kebEq4pm5COztcs9YGzgN"
+        "name": "Look Out! (Remastered)",
+        "url": "https://open.spotify.com/album/21YbbJrVCRQIxB5W2EKIbr"
       },
       "artists": [
         {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
         }
       ],
-      "duration_ms": 127533,
-      "name": "I Got Rhythm",
-      "url": "https://open.spotify.com/track/7MeRVhOwztVIpbfD8zO5ji"
+      "duration_ms": 376800,
+      "name": "Tin Tin Deo - 2007 Digital Remaster/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/1ppOQ5KApUrYgFzc9kAENZ"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Jubilee Shout!!!",
-        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
-      },
-      "artists": [
-        {
-          "name": "Stanley Turrentine",
-          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
-        }
-      ],
-      "duration_ms": 332386,
-      "name": "You Said It",
-      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "More Power!",
         "url": "https://open.spotify.com/album/74oqfUcHs1GGlR8zeUTU0D"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 581026,
       "name": "The Way You Look Tonight - Remastered 2009",
       "url": "https://open.spotify.com/track/48LBp3r6onaYB7UDGOPXgI"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "Jubilee Shout!!!",
+        "url": "https://open.spotify.com/album/2CGSc6ZbHcGWjWYl07KCd4"
+      },
+      "artists": [
+        {
+          "name": "Stanley Turrentine",
+          "url": "https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP"
+        }
+      ],
+      "duration_ms": 332386,
+      "name": "You Said It",
+      "url": "https://open.spotify.com/track/4W38vgh0XfXD19ZCfB9t6J"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Minor Move (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH"
-      },
-      "artists": [
-        {
-          "name": "Tina Brooks",
-          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
-        }
-      ],
-      "duration_ms": 400560,
-      "name": "Minor Move",
-      "url": "https://open.spotify.com/track/2lCrTvF3Ei0UJ8Zefg42iU"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "The New Boss Guitar",
         "url": "https://open.spotify.com/album/2QXUodUhkZtTbIrN4FNmB5"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 277173,
       "name": "The Sweet Alice Blues",
       "url": "https://open.spotify.com/track/5ln0JF17xZud7mxqoFOrY9"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "Minor Move (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5g0JJixBHg3QsqxW9tVJjH"
+      },
+      "artists": [
+        {
+          "name": "Tina Brooks",
+          "url": "https://open.spotify.com/artist/4JgvfZeCWGzEPGR6yVaXuX"
+        }
+      ],
+      "duration_ms": 400560,
+      "name": "Minor Move",
+      "url": "https://open.spotify.com/track/2lCrTvF3Ei0UJ8Zefg42iU"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "Business Meetin'",
-        "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
+        "name": "The Congregation (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
       },
       "artists": [
         {
-          "name": "Carmell Jones",
-          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
         }
       ],
-      "duration_ms": 325666,
-      "name": "Hip Trolley",
-      "url": "https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj"
+      "duration_ms": 387653,
+      "name": "Latin Quarter - 2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1635,38 +1635,6 @@
     {
       "added_at": "2022-08-12 06:27:42",
       "album": {
-        "name": "The Congregation (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 387653,
-      "name": "Latin Quarter - 2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/7L83qErlLHeb6n1CR9lqXk"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
-        "name": "Byrd In Hand",
-        "url": "https://open.spotify.com/album/1hU1LRBWzIGkktFqskyI0a"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 341146,
-      "name": "Clarion Calls - Rudy Van Gelder Edition/Remastered 2003",
-      "url": "https://open.spotify.com/track/4JgQnOv9Hj8h2Lfx8yLbBB"
-    },
-    {
-      "added_at": "2022-08-12 06:27:42",
-      "album": {
         "name": "A.T.'s Delight (Remastered 2006 / Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/14KxFrOkUcLKGqP1BGF5KA"
       },
@@ -1679,6 +1647,22 @@
       "duration_ms": 344013,
       "name": "Move - Remastered 2006 / Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/2R7C1RjOxwXW7gI4QQPZEA"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "Business Meetin'",
+        "url": "https://open.spotify.com/album/12mokBkX13WcFkEly5Hg9m"
+      },
+      "artists": [
+        {
+          "name": "Carmell Jones",
+          "url": "https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx"
+        }
+      ],
+      "duration_ms": 325666,
+      "name": "Hip Trolley",
+      "url": "https://open.spotify.com/track/45ePywU8XC3cgimQXcmFjj"
     },
     {
       "added_at": "2022-08-12 06:27:42",
@@ -1699,6 +1683,22 @@
       "duration_ms": 411733,
       "name": "Ow!",
       "url": "https://open.spotify.com/track/1Ju0Tsue7GTzlcx0y2kN2C"
+    },
+    {
+      "added_at": "2022-08-12 06:27:42",
+      "album": {
+        "name": "The Opener (Remastered)",
+        "url": "https://open.spotify.com/album/3eva44waMaCOJMWbbarsuH"
+      },
+      "artists": [
+        {
+          "name": "Curtis Fuller",
+          "url": "https://open.spotify.com/artist/2Ma7hbsouPDXerzHHcfnVK"
+        }
+      ],
+      "duration_ms": 324466,
+      "name": "Lizzy's Bounce",
+      "url": "https://open.spotify.com/track/6DXYegZOJPvQ07OhKgDlHM"
     },
     {
       "added_at": "2022-08-12 06:27:42",

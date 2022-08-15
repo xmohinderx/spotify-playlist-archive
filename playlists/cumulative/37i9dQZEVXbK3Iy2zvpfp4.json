@@ -599,7 +599,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 146470,
       "name": "Betty (Get Money)",
       "url": "https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW"
@@ -3147,7 +3147,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 153800,
       "name": "Paro - Speed Up",
       "url": "https://open.spotify.com/track/5NyBRRP1S6g9wTt4nR2448"
@@ -3369,6 +3369,24 @@
       "duration_ms": 169245,
       "name": "RAVE",
       "url": "https://open.spotify.com/track/01kfSdF9zfcDLri5sSWEoL"
+    },
+    {
+      "album": {
+        "name": "Napf\u00e9ny kell a vil\u00e1gnak - Tegnap \u00e9s ma",
+        "url": "https://open.spotify.com/album/2LWJ11EiGfbYTN1n4NMA5I"
+      },
+      "artists": [
+        {
+          "name": "Gy\u00f6rgy Korda",
+          "url": "https://open.spotify.com/artist/1PXk0bxaXI8afcSConDJNh"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249866,
+      "name": "Rept\u00e9r",
+      "url": "https://open.spotify.com/track/7kpbpRnTHMwuSORe4iyG07"
     },
     {
       "album": {
@@ -3771,7 +3789,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 135902,
       "name": "SNAP - High and Fast",
       "url": "https://open.spotify.com/track/3TWHd23YOrfxx3yDYCE1WC"

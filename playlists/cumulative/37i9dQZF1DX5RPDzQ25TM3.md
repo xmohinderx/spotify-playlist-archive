@@ -4,7 +4,7 @@
 
 > Make like it's 2009 \#SpotifyTBT
 
-68 songs - 4 hr 27 min - [published](https://open.spotify.com/playlist/4FcT5R3jukWGTpwlxw1INW)
+69 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/4FcT5R3jukWGTpwlxw1INW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,8 +59,9 @@
 | [Single Ladies \(Put a Ring on It\)](https://open.spotify.com/track/4za3cYXGP5ucaA6LqWMPad) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Single Ladies \(Put A Ring On It\) \- Dance Remixes](https://open.spotify.com/album/4zOrfDLtKoYFeUAc00lLCT) | 3:13 | 2021-11-23 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/7f2YrnkCsVAmsTgLf7GFAy) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Greatest Hits...So Far!!!](https://open.spotify.com/album/3nR5vEcIp8UzOJgkw8G8yX) | 4:11 | 2021-11-23 | 2022-07-29 |
 | [Sober](https://open.spotify.com/track/733ncRLzZQT5UtSPg1QmPc) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Funhouse \(Expanded Edition\)](https://open.spotify.com/album/1LOJfNDxQhbpssKx7oM7at) | 4:11 | 2021-11-23 |  |
-| [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 | 2021-11-23 |  |
+| [The Climb](https://open.spotify.com/track/0V8FYVlBFuXXTIvRnMbZyS) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/1fc8tPf36cZhNYpNFrWh7o) | 3:56 | 2021-11-23 | 2022-08-15 |
 | [The Climb](https://open.spotify.com/track/0e9yNhxYfJul6sQ8Cizr1B) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Hannah Montana The Movie](https://open.spotify.com/album/2A9353p2TeAkc5PwX900gz) | 3:57 | 2021-11-23 | 2022-07-29 |
+| [The Climb \- Stripped](https://open.spotify.com/track/6BIS6j6lGGgdSbnuz3HilI) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Top Pop Summer](https://open.spotify.com/album/76vW21n0j695ExWxA4HfH9) | 3:56 | 2021-11-23 |  |
 | [Use Somebody](https://open.spotify.com/track/2TYC9SaRhYypUQzB1ZVTG2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/3DxR2xJJfAGJlbArx7wAgm) | 3:50 | 2021-11-23 | 2022-07-29 |
 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 | 2021-11-23 |  |
 | [Viva La Vida](https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Viva La Vida or Death and All His Friends](https://open.spotify.com/album/1CEODgTmTwLyabvwd7HBty) | 4:02 | 2021-11-23 |  |

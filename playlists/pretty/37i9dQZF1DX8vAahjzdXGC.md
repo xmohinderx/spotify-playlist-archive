@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,380 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,398 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 65 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
 | 66 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 |
 | 67 | [1, 2, 3 \(Feat\. BIG Naughty\)](https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK) | [GEMINI](https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [1, 2, 3](https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz) | 2:59 |
-| 68 | [Serunya Indonesia](https://open.spotify.com/track/21b3bMJHyivXnPqKN9nD9p) | [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tiffani](https://open.spotify.com/artist/0ky68Re5HrigWmuYfNhu0t), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4) | [Serunya Indonesia](https://open.spotify.com/album/0iNi9CFhlc9OzIgScjYkCT) | 3:02 |
+| 68 | [Serunya Indonesia](https://open.spotify.com/track/21b3bMJHyivXnPqKN9nD9p) | [ABRAM](https://open.spotify.com/artist/0pBr6pYsK2cI90frSj9VgL), [Tiffani](https://open.spotify.com/artist/0ky68Re5HrigWmuYfNhu0t), [Pieter anroputra](https://open.spotify.com/artist/5iKnmuPSMDkd6Ubm3XYEf4) | [Serunya Indonesia](https://open.spotify.com/album/0iNi9CFhlc9OzIgScjYkCT) | 3:03 |
 | 69 | [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 |
 | 70 | [POSE](https://open.spotify.com/track/68uh5xnLjXyA9WWs4NmcK0) | [Kino](https://open.spotify.com/artist/5cxj1DT5cqB6uSkq3Kl4IL) | [POSE](https://open.spotify.com/album/1qYWzICAQInecG2BzT5Qkf) | 2:59 |
 | 71 | [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 |

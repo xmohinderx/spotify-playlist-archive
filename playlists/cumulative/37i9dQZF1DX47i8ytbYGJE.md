@@ -4,7 +4,7 @@
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-269 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
+270 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/3GVV7z7IlOsMQHBFeVAJAv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,8 @@
 | [There Stands The Glass](https://open.spotify.com/track/0VxX3RBKO46Ky6XgvN0bME) | [Webb Pierce](https://open.spotify.com/artist/1ARZrF9nU4zgdDHuBIfqMq) | [20th Century Masters: The Millennium Collection: Best Of Webb Pierce](https://open.spotify.com/album/6LlsOhQeU1WQQbGaaFANSy) | 2:26 | 2020-10-11 |  |
 | [There's A Party Goin' On](https://open.spotify.com/track/5Aqaqk643o13mVm4UFhLYp) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [20 Rock 'N' Roll Hits](https://open.spotify.com/album/12uadrsBO9OStSXlXLV6cW) | 2:06 | 2020-10-11 |  |
 | [Three Alley Cats](https://open.spotify.com/track/07LxAEsqCqaTUfsqqD0Vzx) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [All We Wanna Do Is Rock](https://open.spotify.com/album/1NBf7LY3ClyC7F4rww7KzA) | 2:28 | 2020-10-11 | 2022-07-29 |
-| [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 | 2020-10-11 |  |
+| [Three Alley Cats](https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Presenting Roy Hall](https://open.spotify.com/album/3QRMRAUWOZ1hCBSj95nAIS) | 2:28 | 2020-10-11 |  |
+| [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 | 2020-10-11 | 2022-08-15 |
 | [Ting\-A\-Ling](https://open.spotify.com/track/0a38eJwQI2WSs2u4j9XwpQ) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [Gold](https://open.spotify.com/album/5Okmxm0sMbAifTrTd2dTy2) | 2:40 | 2020-10-11 | 2022-07-29 |
 | [Ting\-A\-Ling](https://open.spotify.com/track/3xYpfBGYFStEey5zBCGO2Y) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:43 | 2020-10-11 |  |
 | [Tongue\-Tied Jill](https://open.spotify.com/track/59t9IJpB1WH537Ve9dF5zY) | [Charlie Feathers](https://open.spotify.com/artist/2EcNV0nlF6f6ZDtJJG2vKN) | [Wild Wild Party 1955\-1962](https://open.spotify.com/album/76T1ML3wHG6UlDCNQflmda) | 1:56 | 2020-10-11 |  |

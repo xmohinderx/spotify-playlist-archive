@@ -1,12 +1,12 @@
 {
   "description": "De playlist voor magic, motion en summer vibes! Cover: Rotjoch",
-  "num_followers": 302008,
+  "num_followers": 302072,
   "original_name": "La Vida Loca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMGIxYWU2NDgyOTVhZWM1OTk0ZDU2NWU2MWRjMGM2YmFh",
+  "snapshot_id": "MTY2MDQ3MjU5MCwwMDAwMDAwMGU3NWQ3MGI1OWY3ZDA5MzkwMDhiZDFhYTc5YjIzMDhk",
   "tracks": [
     {
       "added_at": "2022-08-11 22:00:00",
@@ -43,54 +43,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Flexxen",
-        "url": "https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj"
+        "name": "Van Mij Zijn",
+        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
       },
       "artists": [
         {
-          "name": "Boef",
-          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
-        },
-        {
-          "name": "Numidia",
-          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
-        },
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "Diquenza",
-          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
         }
       ],
-      "duration_ms": 137451,
-      "name": "Flexxen",
-      "url": "https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Doe Het Nou Gewoon",
-        "url": "https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1"
-      },
-      "artists": [
-        {
-          "name": "Bokoesam",
-          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
-        },
-        {
-          "name": "Dopebwoy",
-          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
-        },
-        {
-          "name": "Murda",
-          "url": "https://open.spotify.com/artist/06HUwOHnsgjtP7F2CidMlq"
-        }
-      ],
-      "duration_ms": 188033,
-      "name": "ICE (feat. Dopebwoy & Murda)",
-      "url": "https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU"
+      "duration_ms": 166911,
+      "name": "Van Mij Zijn",
+      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -119,6 +83,34 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Flexxen",
+        "url": "https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj"
+      },
+      "artists": [
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        },
+        {
+          "name": "Numidia",
+          "url": "https://open.spotify.com/artist/3OMZaRPVE5OI1IkDbZFBFU"
+        },
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "Diquenza",
+          "url": "https://open.spotify.com/artist/3DIhZ8xOvMa1KpXPV6BZXV"
+        }
+      ],
+      "duration_ms": 137451,
+      "name": "Flexxen",
+      "url": "https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "Yoga",
         "url": "https://open.spotify.com/album/3ZLui3PucbtRIc8oRiv6K5"
       },
@@ -135,6 +127,30 @@
       "duration_ms": 150588,
       "name": "Yoga",
       "url": "https://open.spotify.com/track/6o8XenxD6Tu9QrJQVfAEpr"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Doe Het Nou Gewoon",
+        "url": "https://open.spotify.com/album/6wn3ieYWJTHLV4qNhfewt1"
+      },
+      "artists": [
+        {
+          "name": "Bokoesam",
+          "url": "https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI"
+        },
+        {
+          "name": "Dopebwoy",
+          "url": "https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr"
+        },
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/06HUwOHnsgjtP7F2CidMlq"
+        }
+      ],
+      "duration_ms": 188033,
+      "name": "ICE (feat. Dopebwoy & Murda)",
+      "url": "https://open.spotify.com/track/2Drq3S61mlk0IJFWtQktyU"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -271,22 +287,6 @@
       "duration_ms": 127058,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/1im4wgqQFi8IQpmpyaUyp9"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Van Mij Zijn",
-        "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
-      },
-      "artists": [
-        {
-          "name": "KATNUF",
-          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
-        }
-      ],
-      "duration_ms": 166911,
-      "name": "Van Mij Zijn",
-      "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
       "added_at": "2022-08-11 22:00:00",

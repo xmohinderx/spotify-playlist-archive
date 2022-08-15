@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4If4OqUyC8k.md) - [plain]
 | 38 | [I Love Nature \- Original Demo](https://open.spotify.com/track/7BVmOq6ejw9IH0PSYtVGAl) | [The Lorax Singers](https://open.spotify.com/artist/7cxXeGqb1uIhoiSXQ6kejX) | [Dr\. Seuss' The Lorax \- Original Songs From The Motion Picture](https://open.spotify.com/album/598g2DLLnd5tIJyVeizTx5) | 2:43 |
 | 39 | [Rule of thumb](https://open.spotify.com/track/2J9DJJB8zL9MCHXaXHHuIB) | [Waste Free Wanda](https://open.spotify.com/artist/5O1m5LMiBDa7xvPLkzeO2o), [Anna van Riel](https://open.spotify.com/artist/4V7CkMSBBEDqjVnuLvSHQt) | [Waste Free Wanda \(Workin' On A Waste Free World\)](https://open.spotify.com/album/5D54cZoik8QKB2G8ZrYzmd) | 2:44 |
 
-Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwODAwMDAwMTgwMmMzYzcwNjEwMDAwMDE3ZDgwZmNmNjdl`
+Snapshot ID: `MTY1MDAwOTYwMCwwMDAwMDAwMGU5ZGQyYzI2OGMyMGQxNWY3MGJmNmY1ZjNmYjcwMmU0`

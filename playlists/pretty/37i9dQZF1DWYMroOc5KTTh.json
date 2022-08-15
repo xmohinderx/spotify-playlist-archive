@@ -1,12 +1,12 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 359090,
+  "num_followers": 359167,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0NjE1OSwwMDAwMDAwMDU2ODA0ZTFmM2E5NjYwNTgxODJhMmIzNWQ5Y2I3ZTQx",
+  "snapshot_id": "MTY1OTM0NjE1OSwwMDAwMDAwMDBlMzUxODg3ZmU2YjY3MmJlMGE0YzgwZTIyMWRmYmQz",
   "tracks": [
     {
       "added_at": "2022-08-01 09:29:19",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-01 09:29:19",
       "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 243945,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa"
-    },
-    {
-      "added_at": "2022-08-01 09:29:19",
-      "album": {
         "name": "Don't Hurt Me Baby",
         "url": "https://open.spotify.com/album/1N7dPvx7bzIGyD7XSwejT8"
       },
@@ -891,18 +875,34 @@
     {
       "added_at": "2022-08-01 09:29:19",
       "album": {
-        "name": "GLY",
-        "url": "https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB"
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/5478vb7E5nJWOXs9JcAxRt"
       },
       "artists": [
         {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 220623,
-      "name": "GLY",
-      "url": "https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH"
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4sFyLyuJOUVMDcaSg1oHEa"
+    },
+    {
+      "added_at": "2022-08-01 09:29:19",
+      "album": {
+        "name": "Mixer",
+        "url": "https://open.spotify.com/album/6xPqva9kzYP8usdKOUiHdn"
+      },
+      "artists": [
+        {
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
+        }
+      ],
+      "duration_ms": 192823,
+      "name": "Mixer",
+      "url": "https://open.spotify.com/track/58pJZsMEPXmYX8gvXWyt3V"
     }
   ],
   "unique_name": "Serotonin",

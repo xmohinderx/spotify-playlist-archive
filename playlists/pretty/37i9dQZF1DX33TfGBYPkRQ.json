@@ -1,12 +1,12 @@
 {
   "description": "That feeling of being punched in the gut by a song.",
-  "num_followers": 87208,
+  "num_followers": 87362,
   "original_name": "Devastating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDQzNzk1ZjIyODk2M2JlNzA4YjMxZTJjNTRlYjA4MjY5",
+  "snapshot_id": "MTYxOTgwMzc4NywwMDAwMDAwMDY0N2RhZmUwNmQ4MTViMmU5NGZhYzVjYTg4YjVhNTI0",
   "tracks": [
     {
       "added_at": "2021-04-30 17:29:47",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Cry Forever",
-        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
-      },
-      "artists": [
-        {
-          "name": "Amy Shark",
-          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
-        }
-      ],
-      "duration_ms": 181213,
-      "name": "Worst Day of My Life",
-      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Covered up with Flowers",
         "url": "https://open.spotify.com/album/3BGlVmlsbBQXNTAdTP72Us"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 214173,
       "name": "Go Your Own Way",
       "url": "https://open.spotify.com/track/2zi6avisctlzNHw7HjK7KM"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Cry Forever",
+        "url": "https://open.spotify.com/album/3pb256CZQ5vf8kbDlguYhD"
+      },
+      "artists": [
+        {
+          "name": "Amy Shark",
+          "url": "https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT"
+        }
+      ],
+      "duration_ms": 181213,
+      "name": "Worst Day of My Life",
+      "url": "https://open.spotify.com/track/2xRUyAQeYVYCohZrEBpbiu"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 195240,
+      "name": "Heal",
+      "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 272033,
       "name": "Dominos",
       "url": "https://open.spotify.com/track/5JquknF5yqKV2lZFeffMIQ"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/3oEqMQVxXfn2jGRaauU2iv"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 195240,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/1xVF9wZZ87uAz0bw6jT4sH"
     },
     {
       "added_at": "2021-04-30 17:29:47",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2021-04-30 17:29:47",
       "album": {
-        "name": "Think Twice",
-        "url": "https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP"
-      },
-      "artists": [
-        {
-          "name": "Nick Wilson",
-          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
-        }
-      ],
-      "duration_ms": 211770,
-      "name": "Think Twice",
-      "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
-    },
-    {
-      "added_at": "2021-04-30 17:29:47",
-      "album": {
         "name": "Historian",
         "url": "https://open.spotify.com/album/0LqhbUfmHsxovfSirhEIGu"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 236482,
       "name": "Historians",
       "url": "https://open.spotify.com/track/6OYOfYGfaAe8A9T1lhC13b"
+    },
+    {
+      "added_at": "2021-04-30 17:29:47",
+      "album": {
+        "name": "Think Twice",
+        "url": "https://open.spotify.com/album/5MfzmKy0kDnz0KntikIFxP"
+      },
+      "artists": [
+        {
+          "name": "Nick Wilson",
+          "url": "https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF"
+        }
+      ],
+      "duration_ms": 211770,
+      "name": "Think Twice",
+      "url": "https://open.spotify.com/track/3AUUytODwlkGAeQa7yfkfr"
     },
     {
       "added_at": "2021-04-30 17:29:47",

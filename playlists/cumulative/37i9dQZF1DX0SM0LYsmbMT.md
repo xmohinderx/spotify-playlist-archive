@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-2,972 songs - 4 day 19 hr 13 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
+2,973 songs - 4 day 19 hr 16 min - [published](https://open.spotify.com/playlist/4FZOsh0k87PdUUgkQvLPTB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -559,6 +559,7 @@
 | [cornern](https://open.spotify.com/track/6zw41lIJBVge6QrmDXSLSg) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [cornern](https://open.spotify.com/album/4sOy24MrvRUXCrKOTdIMbw) | 1:41 | 2022-03-17 |  |
 | [Cosmic](https://open.spotify.com/track/5rc0u4BTW7VjzKshxjpxTL) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn) | [Cosmic](https://open.spotify.com/album/1p4QOCEGG1sF4w5tYkBUAR) | 2:19 | 2022-02-17 | 2022-03-18 |
 | [Cosmic](https://open.spotify.com/track/3ESJIVVpwOAK9fK5sktDl7) | [Strehlow](https://open.spotify.com/artist/1pUWzVmu8ACMnIAu9BsOHm), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh), [TyLuv.](https://open.spotify.com/artist/6ay740FQIPgTMahZqP9Opx) | [Cosmic](https://open.spotify.com/album/0Q413u4gUUGs8EKDe13hzs) | 1:34 | 2021-06-13 | 2021-09-10 |
+| [Cosmic Dust](https://open.spotify.com/track/1m9wPQmEPOVK0gvZeGbzNv) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA) | [Cosmic Dust](https://open.spotify.com/album/3BolYLNyoFoLglrD1p185b) | 2:55 | 2022-08-11 |  |
 | [Costa Bonita](https://open.spotify.com/track/0OJqVKVO6UXQNnTV6lmwe5) | [Guidolain beats](https://open.spotify.com/artist/5ORspEJvAWz3OgMR8gOqcP) | [Costa Bonita](https://open.spotify.com/album/25el4qQ9ealGczW4nNPcuX) | 1:56 | 2022-07-21 |  |
 | [Cotton Candy Grapes](https://open.spotify.com/track/6PEnG40RdJWeFZFU0gw7ca) | [Burrito Brown](https://open.spotify.com/artist/48kJefJWRoWhRyoZ6GWwlc), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Cotton Candy Grapes](https://open.spotify.com/album/2ge0Hoc49hYbtTcqeiq9Vx) | 2:40 | 2021-02-26 | 2021-05-14 |
 | [Couchsurfing](https://open.spotify.com/track/13NvnWv5Fs7BrEMAFtE1YI) | [.Sinh](https://open.spotify.com/artist/0qRgQLC8mPlcJ5Zo6mlcuG), [Cantsleep](https://open.spotify.com/artist/3NnWw90HvNCWgNi7vtKg4C), [Massaman](https://open.spotify.com/artist/1PmYWFfzWs4mfVBHxEUut9) | [Couchsurfing](https://open.spotify.com/album/5VqZ1i41HBl7rzMVchfteu) | 1:18 | 2019-07-26 | 2019-12-20 |
@@ -1073,7 +1074,7 @@
 | [Heat Wave](https://open.spotify.com/track/6U9DTUc1C5aPuSrhIm2cBM) | [Board\-Man](https://open.spotify.com/artist/1w9k3VBVzpKs0LsauO5jBd) | [Heat Wave](https://open.spotify.com/album/1htEu6Zmx7ns1lrRqh649n) | 2:01 | 2020-08-07 | 2021-01-04 |
 | [Heesy](https://open.spotify.com/track/445V0ErBO4Wx1k1QKWsnNi) | [Carl Aqua](https://open.spotify.com/artist/1QLXln25GndxujJYyrm9h2) | [Space Cocoon](https://open.spotify.com/album/5gCwArXfcmbLKKJe2x0xYd) | 2:35 | 2019-05-26\* | 2019-06-28 |
 | [Helio](https://open.spotify.com/track/6bzFY1QEfGqKI0d1XSmMCP) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE), [Hubert Daviz](https://open.spotify.com/artist/5q0zWFDxHYStTxfgjGHgW7) | [Helio](https://open.spotify.com/album/7FzHO6gLuNVsKiFUNVoCRs) | 1:50 | 2020-02-21 | 2020-05-01 |
-| [Helio Travellers](https://open.spotify.com/track/14zUcAAPpRi3GXmjDG7geV) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Helio Travellers](https://open.spotify.com/album/7JMZ93kajyh5NFBS55BzhY) | 1:14 | 2022-08-11 |  |
+| [Helio Travellers](https://open.spotify.com/track/14zUcAAPpRi3GXmjDG7geV) | [Skeptika](https://open.spotify.com/artist/34yxdeDhSnUVmM0DZcExpT), [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM) | [Helio Travellers](https://open.spotify.com/album/7JMZ93kajyh5NFBS55BzhY) | 1:14 | 2022-08-11 | 2022-08-15 |
 | [Helix](https://open.spotify.com/track/2Qqf9Qn3ScZOEPNTuNhnDx) | [Hans Hu$tle](https://open.spotify.com/artist/1PwlJoSttX1ML8TPVnRpra), [KOMOREBI](https://open.spotify.com/artist/6izk2AxfY5QGz8SULMzdLI) | [Helix](https://open.spotify.com/album/70HZihaWyquRCMI6SVXoVb) | 2:13 | 2021-10-29 | 2021-12-29 |
 | [Hello](https://open.spotify.com/track/4ZiuK6Y2WGVi0UajR3aIUD) | [Peter Kind](https://open.spotify.com/artist/1xMxQQ71TIGQgzH4NY0ECM) | [Hello](https://open.spotify.com/album/5gxUAHV9Zt1DXK8F2JN67b) | 2:04 | 2020-07-01 | 2020-08-25 |
 | [Hendrix](https://open.spotify.com/track/0nsgb3Cogn8vNJGQXW2UbU) | [Pacific](https://open.spotify.com/artist/5WLsGgfxV206tL7KD41Ft1) | [Hendrix](https://open.spotify.com/album/6cRLO9rJG1eFsAQVEUifRa) | 2:46 | 2022-02-11 | 2022-03-11 |

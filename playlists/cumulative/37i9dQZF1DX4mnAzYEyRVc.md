@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: The Interrupters
 
-451 songs - 1 day 2 hr 6 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
+452 songs - 1 day 2 hr 9 min - [published](https://open.spotify.com/playlist/7KNWXVoqADrCiHYxopnpHa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,7 +306,7 @@
 | [Recuerdos](https://open.spotify.com/track/4mQ7XHNUwNGZkBN5vUXiik) | [Brixton Sounds](https://open.spotify.com/artist/7LqzPFLL2aPMtoI9oRE37C) | [Fiebre, Locura y Pasión](https://open.spotify.com/album/44ndcBxhMIRu43dh5vtGrW) | 3:48 | 2021-12-06 | 2022-07-28 |
 | [Reggae & Ska](https://open.spotify.com/track/0l7Wmyq4F0XAlIIYSasJ8Q) | [Judge Dread](https://open.spotify.com/artist/2Mn4nQqUerOfqG1CQt9mhY) | [Reggae & Ska \(Original\)](https://open.spotify.com/album/4rAD1AviiP0myOeRPuwsVm) | 2:30 | 2021-12-06 | 2022-07-27 |
 | [Relajación](https://open.spotify.com/track/4FnyZuFPctSWYVpWb7pmV1) | [Mojiganga](https://open.spotify.com/artist/3im9cAywLKqaZcF8V6PEGT) | [Todo Tiempo Pasado Fue Peor \(Estúpidas guerras\) \[Señalados\]](https://open.spotify.com/album/72AOxklWXO9lXRyfEUpecn) | 2:50 | 2021-12-06 | 2022-07-27 |
-| [Ribbon](https://open.spotify.com/track/6XuTr7IAJzqeYRGpH921as) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [SKA=ALMIGHTY](https://open.spotify.com/album/29JIgqdr03TsrbOs9CvObS) | 3:57 | 2021-12-06 |  |
+| [Ribbon](https://open.spotify.com/track/6XuTr7IAJzqeYRGpH921as) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Moral Distraida](https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv) | [SKA=ALMIGHTY](https://open.spotify.com/album/29JIgqdr03TsrbOs9CvObS) | 3:57 | 2021-12-06 | 2022-08-15 |
 | [Robbery](https://open.spotify.com/track/2o7IXJqbrRESHwtGmzUq1Q) | [See Spot](https://open.spotify.com/artist/2CVMOauC3N3KcThvN98zGE) | [The Robbery](https://open.spotify.com/album/5eM8QBWNBvaJ9ZlOglexdF) | 2:51 | 2021-12-06 | 2022-07-29 |
 | [Rolled Up](https://open.spotify.com/track/6K8hK9VfSqlOWby6v4O0a8) | [Long Beach Dub Allstars](https://open.spotify.com/artist/3zAxGWQqKmDnAsCY57ihKR) | [Wonders Of The World](https://open.spotify.com/album/1mL3ujun8jq6Jd8Mp24kp6) | 3:14 | 2021-12-06 |  |
 | [Rude Boy \(Vocal\)](https://open.spotify.com/track/1jym8HW0dg5yKiEqKCwgLY) | [The OzSkas](https://open.spotify.com/artist/1ZL59Ge0pF8ZsooC2vEnsr) | [Rude Boy](https://open.spotify.com/album/3r8bAbEVhzERSA197cd5dq) | 3:34 | 2021-12-06 | 2022-07-16 |
@@ -434,6 +434,7 @@
 | [Unity](https://open.spotify.com/track/3fDnHZgEcqtqtz8NDbzoCY) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy](https://open.spotify.com/album/4qpRn6UJpBmbfRSsXzzI3e) | 2:13 | 2021-12-06 | 2022-07-29 |
 | [Unity \- 2007 Remaster](https://open.spotify.com/track/2TncdAnbeRHID1yNR8YJC9) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:13 | 2021-12-06 |  |
 | [Uptown Top Ranking](https://open.spotify.com/track/1k1Esg0K4Yinvhkk86s7YM) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Reggae Anthology: Joe Gibbs \- Scorchers From The Mighty Two](https://open.spotify.com/album/5x9vcngxMjklHd0DOhvml9) | 3:49 | 2021-12-06 | 2022-08-12 |
+| [Uptown Top Ranking \- Remastered 2001](https://open.spotify.com/track/23d9yhuGmp2AbAJzFVBwUv) | [Althea And Donna](https://open.spotify.com/artist/5E8FbSTegbOlYAH4b2rZj2) | [Pasa el moño](https://open.spotify.com/album/3JSLQdRVvBJgdIoq4cSWsx) | 3:49 | 2021-12-06 |  |
 | [Vendedora de Caricias](https://open.spotify.com/track/4jikVslCvDrDysc3p4tFHM) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Panteón Rococó](https://open.spotify.com/album/1mTglsLyY3nJ3Qj7vPtbpg) | 3:45 | 2021-12-06 |  |
 | [Via con me](https://open.spotify.com/track/6JXU6uQSOYHk0Jj5yvbwTs) | [NITROPHOSKA](https://open.spotify.com/artist/4xSalZrW2TA9wRDVzC5FkP) | [La banda](https://open.spotify.com/album/3vG8YPc5g2vUopPqNvOZ8B) | 3:14 | 2021-12-06 | 2022-07-28 |
 | [Wake Up](https://open.spotify.com/track/1CnU1qewM7glU79O4VSlWX) | [Tim Armstrong](https://open.spotify.com/artist/7v3ZMFl1E6X4isdEaOSnk3) | [A Poets Life](https://open.spotify.com/album/2KapAjnwtdsvFWtMwgiWBI) | 3:01 | 2021-12-06 |  |

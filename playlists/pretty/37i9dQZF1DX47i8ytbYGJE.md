@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 
 > Hillbilly and Rock music fusing together called Rockabilly!  Thankyouverymuch...
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,007 likes - 200 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,065 likes - 200 songs - 7 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 56 | [Not Fade Away](https://open.spotify.com/track/0RbdQUJ42v3ngVYfsMIksL) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 2:20 |
 | 57 | [Hot Dog! That Made Him Mad \- Remastered](https://open.spotify.com/track/1r0qsbI9hQu5v5aSCTTqJR) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Rockin' With Wanda](https://open.spotify.com/album/1tRcetV95YbV88bAtT3Jca) | 2:40 |
 | 58 | [Grandaddy's Rockin'](https://open.spotify.com/track/5XTKNlsQKuozZ44degiPhc) | [Mac Curtis](https://open.spotify.com/artist/4Ey70byCWxRScdGvCVgNJs) | [Blue Jean Heart](https://open.spotify.com/album/1YDTA3tRPAABZbLlas52tu) | 2:05 |
-| 59 | [Three Alley Cats](https://open.spotify.com/track/1noc7sndwpn5ux9zgLibWK) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Hot Rock \- A Full\-Throttle Rockabilly Anthology](https://open.spotify.com/album/7cQs3ix5kgvQwp6g9AuvCM) | 2:28 |
+| 59 | [Three Alley Cats](https://open.spotify.com/track/0F5y2kUM1sHixExHp7IK4a) | [Roy Hall](https://open.spotify.com/artist/2v9Vcnfs4nMntDbovgRrlO) | [Presenting Roy Hall](https://open.spotify.com/album/3QRMRAUWOZ1hCBSj95nAIS) | 2:28 |
 | 60 | [Red Headed Woman](https://open.spotify.com/track/25WJq089zZfqxfzHRbwkZq) | [Sonny Burgess](https://open.spotify.com/artist/0wYcRO9uOuCpQZ8qrQ1uRT) | [The Legendary Sun Classics](https://open.spotify.com/album/0E8tCnwPe4rOHSRMzyIVpq) | 2:09 |
 | 61 | [Black Slacks](https://open.spotify.com/track/5g9jlZ27Kff9JuhO0MnXEZ) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [Rockabilly Riot On Sunset Strip](https://open.spotify.com/album/5f4ptY7cp2fqzcKBqtSeGE) | 2:06 |
 | 62 | [You Told A Fib](https://open.spotify.com/track/7aOLJZ7DR8u7WmOMhHE4b3) | [Gene Vincent & His Blue Caps](https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq) | [Gene Vincent And The Blue Caps](https://open.spotify.com/album/0hiKWm7WLBpTtzIlnwTnrk) | 2:21 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47i8ytbYGJE.md) - [plain]
 | 199 | [I'm Lookin' For Someone To Love](https://open.spotify.com/track/7oC0KDOtMskJWCoTCR0wZC) | [Buddy Holly & The Crickets](https://open.spotify.com/artist/15jBNfRUPUgdZOTSaNoF5l) | [The Definitive Collection](https://open.spotify.com/album/1tTTDe47X0rTO4q7RidIan) | 1:56 |
 | 200 | [Rock Around With Ollie Vee \- Alternate Version](https://open.spotify.com/track/5b0KMebx2ZOPv91U42xOSv) | [Buddy Holly](https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D) | [That'll Be The Day](https://open.spotify.com/album/0KHc3cD7pAOAieo9lPWXkY) | 2:18 |
 
-Snapshot ID: `MTYwMjQzODU4NCwwMDAwMDAwMDUxNzI1MWQwOWRlOGM4NTAyOTEzYTZjZTk4ZDEwODJk`
+Snapshot ID: `MTYwMjQzODU4NCwwMDAwMDAwMDA1N2JmZjZkMDljYWYxYTkwYzExOGMwZWJiNjYxMjc3`

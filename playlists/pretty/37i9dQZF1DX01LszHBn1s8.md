@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > super freaky girl friday 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,092 likes - 527 songs - 1 day 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,001 likes - 527 songs - 1 day 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 427132,
+  "num_followers": 427376,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNTYwMCwwMDAwMDAwMGUzZDQ4YzliMWZjZmUxZTlmYmY1YzQ5MGRlYmY2MDZh",
+  "snapshot_id": "MTY2MDMwNTYwMCwwMDAwMDAwMGE1ODE3OGM1NGE2NTZmZWM4Njk5NDcwNzA3YWUxNjUz",
   "tracks": [
     {
       "added_at": "2022-08-12 12:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Please Keep Loving Me",
-        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
-      },
-      "artists": [
-        {
-          "name": "James TW",
-          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
-        }
-      ],
-      "duration_ms": 195920,
-      "name": "Please Keep Loving Me",
-      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193146,
       "name": "Adorn",
       "url": "https://open.spotify.com/track/25cUhiAod71TIQSNicOaW3"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Please Keep Loving Me",
+        "url": "https://open.spotify.com/album/53ZfIHyk0AhUHeVRBCIl64"
+      },
+      "artists": [
+        {
+          "name": "James TW",
+          "url": "https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v"
+        }
+      ],
+      "duration_ms": 195920,
+      "name": "Please Keep Loving Me",
+      "url": "https://open.spotify.com/track/78zUxUPvONPgMIt46q5be6"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Once In a While (Acoustic)",
-        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
-      },
-      "artists": [
-        {
-          "name": "Timeflies",
-          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
-        }
-      ],
-      "duration_ms": 231582,
-      "name": "Once In a While - Acoustic",
-      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Once In a While (Acoustic)",
+        "url": "https://open.spotify.com/album/2Hd0yZLIGOSm99clpEv5JQ"
+      },
+      "artists": [
+        {
+          "name": "Timeflies",
+          "url": "https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p"
+        }
+      ],
+      "duration_ms": 231582,
+      "name": "Once In a While - Acoustic",
+      "url": "https://open.spotify.com/track/78loPG2VNA0Lg0vjumMfeD"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Glasshouse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
-      },
-      "artists": [
-        {
-          "name": "Jessie Ware",
-          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
-        }
-      ],
-      "duration_ms": 216866,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Put D'Angelo On",
         "url": "https://open.spotify.com/album/1bzYIO6OIHcokJvgbAZj4s"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 187438,
       "name": "Put D'Angelo On",
       "url": "https://open.spotify.com/track/1QJp8dIzUSg9c1pXLmqGNB"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Glasshouse (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6mPNjjOl2GHbP4E90l7bJe"
+      },
+      "artists": [
+        {
+          "name": "Jessie Ware",
+          "url": "https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc"
+        }
+      ],
+      "duration_ms": 216866,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/0iOZD91DEQm3nuTEk5Bt8k"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "High Tide",
-        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
-      },
-      "artists": [
-        {
-          "name": "Nick Yoon",
-          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "High Tide",
-      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Heights",
         "url": "https://open.spotify.com/album/6mfFBO0ksZJTg3mNc4wfjf"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 226750,
       "name": "Heights",
       "url": "https://open.spotify.com/track/4HhiuiQftydGvLIIzM8tn5"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "High Tide",
+        "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
+      },
+      "artists": [
+        {
+          "name": "Nick Yoon",
+          "url": "https://open.spotify.com/artist/0RFlTR5N3zJ9tmEvBn6Af2"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "High Tide",
+      "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
     },
     {
       "added_at": "2022-08-12 12:00:00",

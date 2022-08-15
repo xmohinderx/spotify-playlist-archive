@@ -4,7 +4,7 @@
 
 > Indie folk songs to help your worries get lost in the woods.
 
-108 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
+109 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/12qj7nmKMmqOvYGEIlOdxB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [A Prayer Of My Own](https://open.spotify.com/track/4T9huHkcSekxse5hkJA8UD) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [A Prayer Of My Own](https://open.spotify.com/album/5nPBWxyJ7Ro4DbbdkGoVyO) | 4:33 | 2022-04-08 |  |
 | [A Rock](https://open.spotify.com/track/7bTfKo4Uz6ZDdDAu8s5hUm) | [S\. T\. Manville](https://open.spotify.com/artist/4tKt9PfIUo7Src0Nmz1sSr) | [A Rock](https://open.spotify.com/album/6Jrv2HApm3RAjDjlMnOqD9) | 3:18 | 2022-04-08 |  |
 | [Absence](https://open.spotify.com/track/1oXNjzF8RrQdo8hxqdKMhK) | [Jake Whiskin](https://open.spotify.com/artist/5OvCTHhlz7qB2JAzc5b0Dq) | [Absence](https://open.spotify.com/album/2oFNbvHPWWaEIAzYJliGfW) | 2:56 | 2022-04-08 |  |
-| [Alive Again](https://open.spotify.com/track/148fQv3KkXtjXPZrc3h6m5) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/2zG6uB7tN0f2TD9NWACGnq) | 2:08 | 2022-07-01 |  |
+| [Alive Again](https://open.spotify.com/track/148fQv3KkXtjXPZrc3h6m5) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/2zG6uB7tN0f2TD9NWACGnq) | 2:08 | 2022-07-01 | 2022-08-15 |
 | [Alive Again](https://open.spotify.com/track/1ZtSmb2seJ5DbHTIC5kCHP) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [Alive Again](https://open.spotify.com/album/0ZVgEQTyxyVHz2OVdnFJSk) | 2:08 | 2022-04-08 | 2022-07-29 |
+| [Alive Again](https://open.spotify.com/track/7cMRVNlOuqlkPmd9E5sacW) | [Marti West](https://open.spotify.com/artist/6CQ7EYVHudzCArbeXZYV4e) | [The Way Back Home](https://open.spotify.com/album/6qN25gVpE9nWvfQUanNfi8) | 2:08 | 2022-07-01 |  |
 | [Alpine Green](https://open.spotify.com/track/08uGjY2kDm5kGVzmQs9k8D) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Still](https://open.spotify.com/album/1fmLDpX9M3qrvbz6e9LS3g) | 2:30 | 2022-04-08 | 2022-07-29 |
 | [Alpine Green](https://open.spotify.com/track/1xsPUCsAv5Z7nngtLN5iqD) | [Jolé](https://open.spotify.com/artist/293DzAwiQQs4mkeOzQ6lOu) | [Alpine Green](https://open.spotify.com/album/2pvUSmFKGwaPPtN4kEhymT) | 2:30 | 2022-07-01 |  |
 | [Another Day](https://open.spotify.com/track/4rlXhOtWRzGhxjgr9FRKF0) | [Ben Stafford](https://open.spotify.com/artist/3pWZ3BMPDAaoNd1DciVMyd) | [Beudy Penlan](https://open.spotify.com/album/1RA5ryginKxtFUqkFfaNT2) | 2:58 | 2022-04-08 |  |

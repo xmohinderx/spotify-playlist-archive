@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXzA48d9shL.md) - [plain]
 
 > Sing Me a Lullaby, My Sweet Temptation, the latest album by the $uicideboy$.
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,977 likes - 75 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,279 likes - 75 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

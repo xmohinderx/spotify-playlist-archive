@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 
 > This is Terry Riley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 572 likes - 50 songs - 10 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 575 likes - 50 songs - 10 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wmvjq.md) - [plain]
 | 34 | [Skylar Saunders](https://open.spotify.com/track/13KF8bVEeQdZ0QRJOPoIZx) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Skylar Saunders](https://open.spotify.com/album/51UnJiGrQ7V8GaUeZ3ik6h) | 0:41 |
 | 35 | [Marley Bell](https://open.spotify.com/track/5ZrMqkKKpgJKwe8EQU48Nn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Marley Bell](https://open.spotify.com/album/54M5KG5jozhKKSW73EFJ30) | 0:43 |
 | 36 | [Havana Man](https://open.spotify.com/track/7KIaxcmI9QG7veesnjLYyZ) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Lisbon Concert](https://open.spotify.com/album/1YiDXOCXadDErfdqbMuKtI) | 6:25 |
-| 37 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 |
-| 38 | [Ides of March](https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 11:03 |
-| 39 | [Slow Melody In Bhairavi](https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 3:16 |
+| 37 | [Ides of March](https://open.spotify.com/track/27X9O6v1wej9EIRmHgwVwB) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 11:03 |
+| 38 | [Slow Melody In Bhairavi](https://open.spotify.com/track/0ZOJ0j9G12zCG4dSGKNgOp) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 3:16 |
+| 39 | [The Pipes Of Medb](https://open.spotify.com/track/7llIs9Vk75pI5HsDXPg75x) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Chanting The Light Of Foresight](https://open.spotify.com/album/2nqvQX2JMumuvwVvA0WPqp) | 7:06 |
 | 40 | [The Harp of New Albion: II\. The Orchestra of Tao](https://open.spotify.com/track/1gAbvmBVt6teejZiTiOtxM) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 15:30 |
 | 41 | [St\. Francis and the Birds](https://open.spotify.com/track/2w12QnKw0mWjxxwRuyGef2) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [For the Birds: The Birdsong Project, Vol\. I](https://open.spotify.com/album/6c8aHa89kWTsrcz0iw7fgS) | 4:49 |
 | 42 | [Chorale of the Blessed Day](https://open.spotify.com/track/4D7PdsN9vnlJTKVhg7m7dg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: Songs for the 10 Voices of the 2 Prophets](https://open.spotify.com/album/1rUKtbAhqtIv9dQmFZ5V6g) | 11:26 |
 | 43 | [Happy Ending](https://open.spotify.com/track/1ANtwKTLblLWqpDSG5W5CV) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 18:26 |
 | 44 | [Emerald Runner](https://open.spotify.com/track/1MaSYb6iRmbCOdWfphWMcX) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Atlantis Nath](https://open.spotify.com/album/1vCxgu86Frc5uI0frOHilH) | 13:22 |
 | 45 | [You're Nogood](https://open.spotify.com/track/5hViDivhqQcDso9cFahbnw) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [You're Nogood](https://open.spotify.com/album/45yDhxNW3kC8ezn2iN9KGZ) | 20:30 |
-| 46 | [Music for the Gift: Part 1](https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:44 |
+| 46 | [The Hall of Mirrors In the Palace of Versailles](https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 8:01 |
 | 47 | [In The Summer](https://open.spotify.com/track/4EgfQetPMfcNqM80X9VWRi) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Les Yeux Fermés / Lifespan](https://open.spotify.com/album/3JMYXrcw40IHdrD2HJOe9r) | 6:40 |
-| 48 | [The Hall of Mirrors In the Palace of Versailles](https://open.spotify.com/track/6YWHrK0BRdcoyqEsf6CLpn) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 8:01 |
-| 49 | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Stefano Scodanibbio](https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3) | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs) | 5:52 |
-| 50 | [The Harp of New Albion: III\. Riding the Westerleys](https://open.spotify.com/track/5Wk6E15Rgb1MDIeLneuwK4) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Riley: The Harp of New Albion](https://open.spotify.com/album/1lxiGF9YiCweckLtgNfgVj) | 16:40 |
+| 48 | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/track/11OopoutzfE1yieQAe5KX3) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [Stefano Scodanibbio](https://open.spotify.com/artist/6UDoms7Gb8Ej8prwwGBAl3) | [Lazy Afternoon Among the Crocodiles](https://open.spotify.com/album/44v2lLaQf819TbPzYRpPgs) | 5:52 |
+| 49 | [Music for the Gift: Part 1](https://open.spotify.com/track/01IsLx4pZcpD9nuRgFeQLg) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r) | [Music for the Gift](https://open.spotify.com/album/7hc1PhGU3ZeMb9xkAHH9Su) | 5:44 |
+| 50 | [The Protege](https://open.spotify.com/track/0yM0Trf4Vm4D3YoCHp8Br5) | [Terry Riley](https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r), [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Church of Anthrax](https://open.spotify.com/album/3vox1ojhWG3luVFJn5P5L9) | 2:54 |
 
-Snapshot ID: `Mjc2NzMzMTksMDAwMDAwMDAwZjgyYWE2N2Y4NGY4NzM3NzEzMTBjZjBkOTY5NjBjNg==`
+Snapshot ID: `Mjc2NzQ3MDcsMDAwMDAwMDA0NTY1Mzk2ZWM4ZDk0MTMwYTE5YWVmYzE2OTEyYzNlOA==`

@@ -4,7 +4,7 @@
 
 > Trap latino que alimenta tu espíritu\. Cover: Redimi2
 
-68 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
+69 songs - 4 hr 34 min - [published](https://open.spotify.com/playlist/4QTolJARsiGXtNoXJeFdWi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,8 +26,9 @@
 | [Coronando](https://open.spotify.com/track/2ZOo4S1nhgSzmmKqJFkbAu) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Coronando](https://open.spotify.com/album/0AMXPaVIqLuWmDTmAyXkfv) | 3:43 | 2020-08-28 |  |
 | [Coronao \(Remix\)](https://open.spotify.com/track/1jb58dibwlo7eOjZGrgiNP) | [Alex Linares](https://open.spotify.com/artist/35DcV9GrbHnpHMpTxqO7aT), [Jeiby](https://open.spotify.com/artist/4CdUTFLGuzjwMGFHpziPBj), [Ander Bock](https://open.spotify.com/artist/3ARwD7QJqYlDmcFeB6oPQM), [R.M.S Rap Misión Santa](https://open.spotify.com/artist/2eIhYvGR0I7QPqFsfE5U1r), [Clerigo RMS](https://open.spotify.com/artist/7GKxQpXcJdUmybVwEuSMub) | [Coronao \(Remix\)](https://open.spotify.com/album/6jycVRgtJn36bLrbDaigrs) | 4:42 | 2020-08-28 |  |
 | [Da'Corner](https://open.spotify.com/track/5LwNC2DrJ0UjdD13Ub8Mad) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Da'Corner](https://open.spotify.com/album/3CneL0S5CG89mc2ZC0aUEA) | 3:44 | 2020-08-28 |  |
-| [Diferente](https://open.spotify.com/track/2HJcnTFoaQqTZOcaFWlPYo) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/4XvNbydsm2MvX8n0bjSzHi) | 3:28 | 2020-08-28 |  |
+| [Diferente](https://open.spotify.com/track/2HJcnTFoaQqTZOcaFWlPYo) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/4XvNbydsm2MvX8n0bjSzHi) | 3:28 | 2020-08-28 | 2022-08-15 |
 | [Diferente](https://open.spotify.com/track/5qDyHTcUe7E8ZyIZLYS1I2) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/39iWjXx8jFQ0TTzfOIlFJ7) | 3:29 | 2020-08-28 | 2022-07-29 |
+| [Diferente](https://open.spotify.com/track/4tPuJhmpqqP3RWs0EvFGIn) | [Defra](https://open.spotify.com/artist/5BCCPy699VbWCRgI3Zr0xq) | [Diferente](https://open.spotify.com/album/3zYPSMQ6gQ0ASbakZmvZBR) | 3:29 | 2020-08-28 |  |
 | [Dile Que No](https://open.spotify.com/track/6AGh6iGWH5fsDKkVlE59Uh) | [Madiel Lara](https://open.spotify.com/artist/6n6D2g1FuTmnFiMDD4RT42) | [Values](https://open.spotify.com/album/6IXTSDUaSGqqqA8eCzaQ4H) | 4:05 | 2020-08-28 |  |
 | [Estamos Al Dia](https://open.spotify.com/track/6HqjlnJHt5S7DHA1SPNVAq) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Dr\. P](https://open.spotify.com/artist/265ocUsmLZ1lY7CHNwVgCp) | [Estamos Al Dia](https://open.spotify.com/album/7dRrykg8AGKvveG2ikLoRw) | 3:24 | 2020-08-28 |  |
 | [Estamos Al Dia \(Remix\)](https://open.spotify.com/track/6pQlS7sD1ImR1SPh2KwGho) | [Micky Medina](https://open.spotify.com/artist/7os2zbfBHSRid4kmvX3h78), [Eliud L'voices](https://open.spotify.com/artist/3DdifZ1wsTopflKfF6WFYj), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [CSHALOM](https://open.spotify.com/artist/5SnxvQmYVN1duOHPQpequL) | [Estamos Al Dia \(Remix\)](https://open.spotify.com/album/1eKDgyIpeTFEyYtRzxoxi3) | 4:49 | 2020-08-28 |  |

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 168492,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 210626,
       "name": "Change My Way - Single Version",
       "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 142240,
       "name": "Crazy About You Baby",
       "url": "https://open.spotify.com/track/4hQ74VP4dSVkwuAWlrJiJ4"
@@ -261,7 +261,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 154973,
       "name": "Down In The Bottom - Single Version",
       "url": "https://open.spotify.com/track/69YOG1vMCc64JBwhfg1OUg"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 173706,
       "name": "Evil (Is Going On)",
       "url": "https://open.spotify.com/track/7LdbDjg6esKNAsnFElpFnB"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 170000,
       "name": "Forty Four",
       "url": "https://open.spotify.com/track/02Ub2Xv4Vs3UEthDciGPvq"
@@ -333,7 +333,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 157570,
       "name": "Gettin' Old And Grey",
       "url": "https://open.spotify.com/track/0GqKvKRfaMiBB8TnNZS2D3"
@@ -377,7 +377,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 159373,
       "name": "Going Back Home",
       "url": "https://open.spotify.com/track/2I48KvJxmIXeIZJjmrJxHW"
@@ -451,7 +451,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 163026,
       "name": "How Many More Years",
       "url": "https://open.spotify.com/track/0MkINaEoNBJfG9G6ewd4xM"
@@ -469,7 +469,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 164693,
       "name": "Howlin' Blues - Single Version",
       "url": "https://open.spotify.com/track/3jo7vTw7utjbSkSKVMBhpn"
@@ -564,6 +564,24 @@
     },
     {
       "album": {
+        "name": "The Sun Records Sound of Howlin' Wolf & Little Junior's Blue Flames (25 Blues Originals)",
+        "url": "https://open.spotify.com/album/70rgBNdvHgonVe6J66LNEM"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203781,
+      "name": "I Got A Woman",
+      "url": "https://open.spotify.com/track/7n5v9vXPBb9CLg23gyC6sI"
+    },
+    {
+      "album": {
         "name": "More Real Folk Blues",
         "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
       },
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 154533,
       "name": "I Have A Little Girl - Single Version",
       "url": "https://open.spotify.com/track/1CDPjRMffgPz67MgGySoRy"
@@ -615,6 +633,24 @@
       "duration_ms": 135493,
       "name": "I've Been Abused",
       "url": "https://open.spotify.com/track/6apZLoGfbuo6XSzy6zlIoS"
+    },
+    {
+      "album": {
+        "name": "More Real Folk Blues",
+        "url": "https://open.spotify.com/album/0VhNNQHnR3ZVTgeEGBTAYS"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176760,
+      "name": "I've Got A Woman",
+      "url": "https://open.spotify.com/track/7tbIZ55VvZlo27zgPrQ61Q"
     },
     {
       "album": {
@@ -763,7 +799,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 176573,
       "name": "Moanin' At Midnight",
       "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
@@ -803,6 +839,24 @@
       "duration_ms": 167853,
       "name": "Moving",
       "url": "https://open.spotify.com/track/4IyT52kGjY8nc9eyXa5eBn"
+    },
+    {
+      "album": {
+        "name": "Change My Way",
+        "url": "https://open.spotify.com/album/3hiph4Eva4CueYfapJb312"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163226,
+      "name": "Mr. Airplane Man - Single Version",
+      "url": "https://open.spotify.com/track/1MzF23RMnLlJQBkYM5JiJh"
     },
     {
       "album": {
@@ -951,7 +1005,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 156733,
       "name": "Poor Boy",
       "url": "https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd"
@@ -1041,7 +1095,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
@@ -1121,7 +1175,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 168106,
       "name": "Tell Me What I've Done",
       "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
@@ -1201,7 +1255,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 147400,
       "name": "Wang Dang Doodle",
       "url": "https://open.spotify.com/track/1TrOTKixl3cYx8FICICXzK"
@@ -1349,7 +1403,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"

@@ -1,12 +1,12 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 59123,
+  "num_followers": 59182,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDNiZWNlZDhiNDBjZTlhMDNhZmZjMDUyNTk4MTM0MGQz",
+  "snapshot_id": "MTYxOTIxOTY3MywwMDAwMDAwMDE5N2QwZDc1YTNlOWM0NThiODg0OWZjMGU3N2U0YzI3",
   "tracks": [
     {
       "added_at": "2021-04-23 23:14:33",
@@ -911,26 +911,6 @@
     {
       "added_at": "2021-04-23 23:14:33",
       "album": {
-        "name": "Hold My Hand",
-        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
-      },
-      "artists": [
-        {
-          "name": "Maciel",
-          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
-        },
-        {
-          "name": "Delove",
-          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
-    },
-    {
-      "added_at": "2021-04-23 23:14:33",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 142612,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto"
+    },
+    {
+      "added_at": "2021-04-23 23:14:33",
+      "album": {
+        "name": "Hold My Hand",
+        "url": "https://open.spotify.com/album/5DA84BeSN1TYtyk9poJ24C"
+      },
+      "artists": [
+        {
+          "name": "Maciel",
+          "url": "https://open.spotify.com/artist/18EPLdbAm32pw1FUJUFMN0"
+        },
+        {
+          "name": "Delove",
+          "url": "https://open.spotify.com/artist/70UpusffkLbUh9zPyOgvZt"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/0Qi4Xlh524Bj3EPmhwyDux"
     },
     {
       "added_at": "2021-04-23 23:14:33",

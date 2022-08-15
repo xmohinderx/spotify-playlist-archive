@@ -1,12 +1,12 @@
 {
   "description": "Late night cool and the sound of smooth blues.",
-  "num_followers": 46298,
+  "num_followers": 46439,
   "original_name": "Midnight Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMDVkMGIxYzM1ZmEwYzZjMjIyM2Q2ODY1OTU1YWI3NDNi",
+  "snapshot_id": "MTY1OTEwNTU4MCwwMDAwMDAwMDZhMmE3MzNlOTc3MzRlMjQ1NWFlZjJlOGQxNjViZTdj",
   "tracks": [
     {
       "added_at": "2022-07-29 14:39:40",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2022-07-29 14:39:40",
+      "album": {
         "name": "Hoodoo Man Blues",
         "url": "https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4"
       },
@@ -507,22 +523,6 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
-      },
-      "artists": [
-        {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
-        }
-      ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
-    },
-    {
-      "added_at": "2022-07-29 14:39:40",
-      "album": {
         "name": "I Hear Some Blues Downstairs",
         "url": "https://open.spotify.com/album/7CkWl64PEkQmkzr04Nnda3"
       },
@@ -539,22 +539,18 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Track Record",
-        "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
+        "name": "Someday You'll Have These Blues",
+        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
       },
       "artists": [
         {
-          "name": "Thorbj\u00f8rn Risager",
-          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
-        },
-        {
-          "name": "The Black Tornado",
-          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
+          "name": "Phillip Walker",
+          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
         }
       ],
-      "duration_ms": 226840,
-      "name": "RHYTHMS OF THE NIGHT",
-      "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
+      "duration_ms": 247040,
+      "name": "Beaumont Blues",
+      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
     },
     {
       "added_at": "2022-07-29 14:39:40",
@@ -575,18 +571,22 @@
     {
       "added_at": "2022-07-29 14:39:40",
       "album": {
-        "name": "Someday You'll Have These Blues",
-        "url": "https://open.spotify.com/album/5LR8uHBua2uDt0D8V4HQxz"
+        "name": "Track Record",
+        "url": "https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR"
       },
       "artists": [
         {
-          "name": "Phillip Walker",
-          "url": "https://open.spotify.com/artist/2T268Ip7LMzPgTsWQsFXwo"
+          "name": "Thorbj\u00f8rn Risager",
+          "url": "https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT"
+        },
+        {
+          "name": "The Black Tornado",
+          "url": "https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD"
         }
       ],
-      "duration_ms": 247040,
-      "name": "Beaumont Blues",
-      "url": "https://open.spotify.com/track/2lWTmgOTlemZ0RJyKKhr0s"
+      "duration_ms": 226840,
+      "name": "RHYTHMS OF THE NIGHT",
+      "url": "https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf"
     },
     {
       "added_at": "2022-07-29 14:39:40",

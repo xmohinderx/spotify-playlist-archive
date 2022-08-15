@@ -4,7 +4,7 @@
 
 > Everything Broadway\-adjacent\. Cover: Alec Benjamin
 
-80 songs - 4 hr 59 min - not published yet
+80 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/3a6QDi9Fpx4195yiMPoXKx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

@@ -399,6 +399,24 @@
     {
       "album": {
         "name": "Cu\u00e1nto Tiempo Sin Verte",
+        "url": "https://open.spotify.com/album/5pr1wEmMoyPLs3Opk1YcY6"
+      },
+      "artists": [
+        {
+          "name": "Erich",
+          "url": "https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU"
+        }
+      ],
+      "date_added": "2022-06-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Cu\u00e1nto Tiempo Sin Verte",
+      "url": "https://open.spotify.com/track/3J9NSlmfJI6jQMEs7pBtc0"
+    },
+    {
+      "album": {
+        "name": "Cu\u00e1nto Tiempo Sin Verte",
         "url": "https://open.spotify.com/album/0tsKYJ93msFYW1F4yYBxm5"
       },
       "artists": [
@@ -409,7 +427,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 178000,
       "name": "Cu\u00e1nto Tiempo Sin Verte",
       "url": "https://open.spotify.com/track/6jjQY90GmwJoQtxl7GOkIM"

@@ -1,12 +1,12 @@
 {
   "description": "A collection of the biggest Metal classics of the 90s.",
-  "num_followers": 661404,
+  "num_followers": 661733,
   "original_name": "90s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMDRiYTIzMDkwNGExYTIxZGQxZDcxYmQ2ZGJmOGE5MjY0",
+  "snapshot_id": "MTY1NzgyOTAxNCwwMDAwMDAwMDIwYmQxODIxNmYwYWE2NjI2YTJjYTA0ODMxMmJiNzZk",
   "tracks": [
     {
       "added_at": "2021-09-09 22:02:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 222826,
       "name": "Dragula",
       "url": "https://open.spotify.com/track/6Nm8h73ycDG2saCnZV8poF"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2022-02-22 20:15:32",
@@ -459,22 +459,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "Painkiller",
-        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
-      },
-      "artists": [
-        {
-          "name": "Judas Priest",
-          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
-        }
-      ],
-      "duration_ms": 365826,
-      "name": "Painkiller",
-      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Hellbilly Deluxe",
         "url": "https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 201400,
       "name": "Living Dead Girl",
       "url": "https://open.spotify.com/track/10V8XpuyMoEcSMfM79WDET"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Painkiller",
+        "url": "https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t"
+      },
+      "artists": [
+        {
+          "name": "Judas Priest",
+          "url": "https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I"
+        }
+      ],
+      "duration_ms": 365826,
+      "name": "Painkiller",
+      "url": "https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08"
     },
     {
       "added_at": "2021-09-09 22:02:00",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
-        "name": "The Ritual",
-        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
-      },
-      "artists": [
-        {
-          "name": "Testament",
-          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Electric Crown",
-      "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
         "name": "Blind",
         "url": "https://open.spotify.com/album/7kLqk3fireCdZxAZmCud3k"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 205506,
       "name": "Vote with a Bullet",
       "url": "https://open.spotify.com/track/5Z7U8TRHAlX2uL2lVYv5Wa"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "The Ritual",
+        "url": "https://open.spotify.com/album/6YXf0vbjFhURCPUewYhVWE"
+      },
+      "artists": [
+        {
+          "name": "Testament",
+          "url": "https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Electric Crown",
+      "url": "https://open.spotify.com/track/5gnjaZqOaqE5GZKjby8KoT"
     },
     {
       "added_at": "2022-02-22 20:15:32",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "Colony",
+        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
+      },
+      "artists": [
+        {
+          "name": "In Flames",
+          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
+        }
+      ],
+      "duration_ms": 256266,
+      "name": "Ordinary Story",
+      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "Louder Than Hell",
         "url": "https://open.spotify.com/album/4IoELctFmN7HWHSnb1hgFQ"
       },
@@ -1947,22 +1963,6 @@
       "duration_ms": 202493,
       "name": "Souls of Black",
       "url": "https://open.spotify.com/track/5zAN2OQJsmcBVG1oO5QroD"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Colony",
-        "url": "https://open.spotify.com/album/4Z9xOX9pfFdYLR6Yzqrn1l"
-      },
-      "artists": [
-        {
-          "name": "In Flames",
-          "url": "https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs"
-        }
-      ],
-      "duration_ms": 256266,
-      "name": "Ordinary Story",
-      "url": "https://open.spotify.com/track/6ULAF7fV7JPQPPHz1aP3vc"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2021-09-09 22:02:00",
       "album": {
+        "name": "Wolverine Blues",
+        "url": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
+      },
+      "artists": [
+        {
+          "name": "Entombed",
+          "url": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
+        }
+      ],
+      "duration_ms": 133066,
+      "name": "Wolverine Blues",
+      "url": "https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
         "name": "The Downward Spiral",
         "url": "https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 242026,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/4YhqUU66bIqBapat2XD1Cg"
-    },
-    {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Wolverine Blues",
-        "url": "https://open.spotify.com/album/1CZwyjL96gGx4PryOIFNYn"
-      },
-      "artists": [
-        {
-          "name": "Entombed",
-          "url": "https://open.spotify.com/artist/2pnezMcaiTHfGmgmGQjLsB"
-        }
-      ],
-      "duration_ms": 133066,
-      "name": "Wolverine Blues",
-      "url": "https://open.spotify.com/track/6WBdwdLLif4kuG3s6ot8uB"
     },
     {
       "added_at": "2022-07-13 14:14:39",
@@ -2221,22 +2221,6 @@
       "url": "https://open.spotify.com/track/4pVGf7BJe4i2qbPsrtbmga"
     },
     {
-      "added_at": "2021-09-09 22:02:00",
-      "album": {
-        "name": "Still Life (Remastered)",
-        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
-      },
-      "artists": [
-        {
-          "name": "Opeth",
-          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
-        }
-      ],
-      "duration_ms": 478933,
-      "name": "Face Of Melinda (Remastered)",
-      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
-    },
-    {
       "added_at": "2022-07-13 14:14:39",
       "album": {
         "name": "Lights...Camera...Revolution",
@@ -2251,6 +2235,22 @@
       "duration_ms": 202160,
       "name": "Send Me Your Money",
       "url": "https://open.spotify.com/track/0JoHFDx1gp0JjBxEIPutNK"
+    },
+    {
+      "added_at": "2021-09-09 22:02:00",
+      "album": {
+        "name": "Still Life (Remastered)",
+        "url": "https://open.spotify.com/album/5iA9ECcGKLN2BSxikuENma"
+      },
+      "artists": [
+        {
+          "name": "Opeth",
+          "url": "https://open.spotify.com/artist/0ybFZ2Ab08V8hueghSXm6E"
+        }
+      ],
+      "duration_ms": 478933,
+      "name": "Face Of Melinda (Remastered)",
+      "url": "https://open.spotify.com/track/4lPvQJ48sGao1zQPfnGDPj"
     },
     {
       "added_at": "2022-07-13 14:14:39",

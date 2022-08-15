@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance music</a> for the heart <3",
-  "num_followers": 1080304,
+  "num_followers": 1080771,
   "original_name": "Heart Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDBjNDQzOGRlN2EyNGNjOTZmNWIxYThkMjI4YmNjMDA5",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDEyNjI1NTM1YzBiNGZlNDY4NGE0MDE1YWIxM2E5ODBh",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "The Last Goodbye",
-        "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 208017,
-      "name": "Forgive Me (feat. Izzy Bizu)",
-      "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Waterfall",
         "url": "https://open.spotify.com/album/5lLpdj3vBItlhNW9BxY2TK"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 232120,
       "name": "Waterfall",
       "url": "https://open.spotify.com/track/72EaWichAXl7tTulGwxCKO"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "The Last Goodbye",
+        "url": "https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 208017,
+      "name": "Forgive Me (feat. Izzy Bizu)",
+      "url": "https://open.spotify.com/track/3IUiA6msgyFl3f8kzbdgQP"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Burning My Bridges",
+        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
+      },
+      "artists": [
+        {
+          "name": "CLMD",
+          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Burning My Bridges",
+      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Wide Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1rlw3RxmnxQEx8g0uk1tG1"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 142334,
       "name": "Be My One",
       "url": "https://open.spotify.com/track/2KN5wY5R4gXbka8wB2kXh8"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Burning My Bridges",
-        "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
-      },
-      "artists": [
-        {
-          "name": "CLMD",
-          "url": "https://open.spotify.com/artist/7LiVklVR1325BIOqD9kykr"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Burning My Bridges",
-      "url": "https://open.spotify.com/track/1gRBmiwyf7vRj2MNRvngqQ"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Summer Nights",
-        "url": "https://open.spotify.com/album/04NJXwtxjX0mAitFmXHT7O"
-      },
-      "artists": [
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        },
-        {
-          "name": "Brandyn Burnette",
-          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
-        }
-      ],
-      "duration_ms": 156580,
-      "name": "Summer Nights",
-      "url": "https://open.spotify.com/track/0MH5FOAb8S35Lqdt6Jjrly"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "UNSOUND EP",
         "url": "https://open.spotify.com/album/5OntSYDFZdSm4byHGNiUOj"
       },
@@ -1491,6 +1471,26 @@
       "duration_ms": 208421,
       "name": "Sweetest Thing",
       "url": "https://open.spotify.com/track/4BCda1bJa57fTMB2laaOeX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/04NJXwtxjX0mAitFmXHT7O"
+      },
+      "artists": [
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        },
+        {
+          "name": "Brandyn Burnette",
+          "url": "https://open.spotify.com/artist/14mErTJ0ubFVjx2zBAwjkE"
+        }
+      ],
+      "duration_ms": 156580,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/0MH5FOAb8S35Lqdt6Jjrly"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1603,6 +1603,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Wild Feelings",
+        "url": "https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ"
+      },
+      "artists": [
+        {
+          "name": "Andrew Rayel",
+          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
+        },
+        {
+          "name": "Sam Gray",
+          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
+        }
+      ],
+      "duration_ms": 161634,
+      "name": "Wild Feelings",
+      "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Waiting For A Lifetime",
         "url": "https://open.spotify.com/album/31x7YGZaSAiRhSBzh0uVZA"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 201392,
       "name": "Heatwave (feat. Robbie Jay)",
       "url": "https://open.spotify.com/track/5mi9BFrugew7j9HzUpgPEI"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Wild Feelings",
-        "url": "https://open.spotify.com/album/6nOuDvGazEOQ7Oa6Br1dKJ"
-      },
-      "artists": [
-        {
-          "name": "Andrew Rayel",
-          "url": "https://open.spotify.com/artist/1UtBjqMZBAmqIPlDrKu7Tr"
-        },
-        {
-          "name": "Sam Gray",
-          "url": "https://open.spotify.com/artist/4sW5R5XKTge9Vwv44p9p18"
-        }
-      ],
-      "duration_ms": 161634,
-      "name": "Wild Feelings",
-      "url": "https://open.spotify.com/track/4s4odJtCP8YlXssj1VYrp6"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1773,30 +1773,6 @@
       "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Getting Late (feat. Danni Carra)",
-        "url": "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "Danni Carra",
-          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
-        }
-      ],
-      "duration_ms": 231750,
-      "name": "Getting Late (feat. Danni Carra)",
-      "url": "https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb"
-    },
-    {
       "added_at": "2022-08-12 04:02:00",
       "album": {
         "name": "Thousand Lives",
@@ -1823,6 +1799,30 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Getting Late (feat. Danni Carra)",
+        "url": "https://open.spotify.com/album/1U1KPw61pnyjLktp0nCiPj"
+      },
+      "artists": [
+        {
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
+        },
+        {
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "Danni Carra",
+          "url": "https://open.spotify.com/artist/1y2nMsmj0osjLiXHri15M1"
+        }
+      ],
+      "duration_ms": 231750,
+      "name": "Getting Late (feat. Danni Carra)",
+      "url": "https://open.spotify.com/track/2wG7MgpfXMCzQcTPCt78Tb"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "22 Love",
         "url": "https://open.spotify.com/album/5Y5KPWlPEZnNghuf1bQtMD"
       },
@@ -1835,6 +1835,26 @@
       "duration_ms": 137443,
       "name": "22 Love",
       "url": "https://open.spotify.com/track/64S5EzF4dYoRWpwbkWLE0R"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Us",
+        "url": "https://open.spotify.com/album/4Xp28y7F7RyIOjwp4v9IgZ"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "ayokay",
+          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
+        }
+      ],
+      "duration_ms": 182457,
+      "name": "Us",
+      "url": "https://open.spotify.com/track/0reR3yfMTisKWQUnOmjxkN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1859,6 +1879,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "IN TOO DEEP",
+        "url": "https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt"
+      },
+      "artists": [
+        {
+          "name": "BONNIE X CLYDE",
+          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "IN TOO DEEP",
+      "url": "https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Satellites (feat. Joe Jury)",
         "url": "https://open.spotify.com/album/5KHpJlXPPwUqiyMAureubo"
       },
@@ -1875,22 +1911,6 @@
       "duration_ms": 176078,
       "name": "Satellites (feat. Joe Jury)",
       "url": "https://open.spotify.com/track/18UrmI8xBwVWgVsPxYVL7w"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "IN TOO DEEP",
-        "url": "https://open.spotify.com/album/2uIDS0BENME252QVzy7vQt"
-      },
-      "artists": [
-        {
-          "name": "BONNIE X CLYDE",
-          "url": "https://open.spotify.com/artist/74xeHqz5Ap8ZHq69TkxI0r"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "IN TOO DEEP",
-      "url": "https://open.spotify.com/track/6X4Xy1lGpei1QwmH0jP8Xu"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1935,26 +1955,6 @@
       "duration_ms": 227384,
       "name": "Lay It All On Me",
       "url": "https://open.spotify.com/track/1MPfyPFjBE0e9GGWImKlXf"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Us",
-        "url": "https://open.spotify.com/album/4Xp28y7F7RyIOjwp4v9IgZ"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        },
-        {
-          "name": "ayokay",
-          "url": "https://open.spotify.com/artist/4BzCdhJTyTS3gumq9xmymb"
-        }
-      ],
-      "duration_ms": 182457,
-      "name": "Us",
-      "url": "https://open.spotify.com/track/0reR3yfMTisKWQUnOmjxkN"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2015,6 +2015,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Your Love",
+        "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        }
+      ],
+      "duration_ms": 249984,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Drive You Crazy",
         "url": "https://open.spotify.com/album/1zetX8KIFc1L4WmDm23uxb"
       },
@@ -2031,22 +2047,6 @@
       "duration_ms": 178285,
       "name": "Drive You Crazy",
       "url": "https://open.spotify.com/track/5XY6DN8SXjHtj55e7CkZpH"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Your Love",
-        "url": "https://open.spotify.com/album/2qlU5QR86qqrdWDG3UvGTT"
-      },
-      "artists": [
-        {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
-        }
-      ],
-      "duration_ms": 249984,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/6dOLWS1ee89ZezU4aRnpaX"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Love Boy",
+        "url": "https://open.spotify.com/album/5K10OD7TcEOx3ZmkSLHaHt"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        }
+      ],
+      "duration_ms": 156895,
+      "name": "Love Boy",
+      "url": "https://open.spotify.com/track/6ZqWXWIh6yy2tfJwX0xnO3"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Lullaby",
         "url": "https://open.spotify.com/album/5O2uZU8F0jiMbUvWnXap9Q"
       },
@@ -2179,22 +2195,6 @@
       "duration_ms": 296567,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/2c4dLyo3OqHdaej5tafhfR"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
-        "name": "Love Boy",
-        "url": "https://open.spotify.com/album/5K10OD7TcEOx3ZmkSLHaHt"
-      },
-      "artists": [
-        {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        }
-      ],
-      "duration_ms": 156895,
-      "name": "Love Boy",
-      "url": "https://open.spotify.com/track/6ZqWXWIh6yy2tfJwX0xnO3"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2259,6 +2259,26 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Herr",
+          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
+        },
+        {
+          "name": "TWERL",
+          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
+        }
+      ],
+      "duration_ms": 164609,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
         "name": "Watercolor",
         "url": "https://open.spotify.com/album/3DkCczN0suDVGt6TAM9oGi"
       },
@@ -2311,26 +2331,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/0iaxJy9W6DrkrnvwKgdyjf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Herr",
-          "url": "https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf"
-        },
-        {
-          "name": "TWERL",
-          "url": "https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko"
-        }
-      ],
-      "duration_ms": 164609,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/5tOq0CP7E8025oB6l9eghz"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Lost At Midnight",
         "url": "https://open.spotify.com/album/2ipEAI9zGgsbf0CSkYBVS6"
       },
@@ -2351,26 +2351,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Hate This Kind of Love (feat. HOLT)",
-        "url": "https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8"
-      },
-      "artists": [
-        {
-          "name": "Jason Ross",
-          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
-        },
-        {
-          "name": "HOLT",
-          "url": "https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis"
-        }
-      ],
-      "duration_ms": 226857,
-      "name": "Hate This Kind of Love (feat. HOLT)",
-      "url": "https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Think Of Me (feat. SOUNDR)",
         "url": "https://open.spotify.com/album/23c9KX69PSfZIDaeVPvq9O"
       },
@@ -2387,6 +2367,26 @@
       "duration_ms": 232000,
       "name": "Think Of Me (feat. SOUNDR)",
       "url": "https://open.spotify.com/track/1AJ4HIL7Aj9hXjl1plAkJk"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Hate This Kind of Love (feat. HOLT)",
+        "url": "https://open.spotify.com/album/7tWS1OfcBKgvupJiebvvu8"
+      },
+      "artists": [
+        {
+          "name": "Jason Ross",
+          "url": "https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150"
+        },
+        {
+          "name": "HOLT",
+          "url": "https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis"
+        }
+      ],
+      "duration_ms": 226857,
+      "name": "Hate This Kind of Love (feat. HOLT)",
+      "url": "https://open.spotify.com/track/0bMzCNqq4U5pQakqcyfJHR"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2453,6 +2453,26 @@
       "url": "https://open.spotify.com/track/53HvRc4rqJa8YmssjH5GKp"
     },
     {
+      "added_at": "2022-08-05 04:01:00",
+      "album": {
+        "name": "Half As Much",
+        "url": "https://open.spotify.com/album/14egSyw9YbhRfXXrcCjYdf"
+      },
+      "artists": [
+        {
+          "name": "Deerock",
+          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
+        },
+        {
+          "name": "Viiq",
+          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
+        }
+      ],
+      "duration_ms": 141904,
+      "name": "Half As Much",
+      "url": "https://open.spotify.com/track/0oZDHKtqVllajHTo94iNUv"
+    },
+    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "All My Loving (Madism Remix)",
@@ -2495,26 +2515,6 @@
       "duration_ms": 133220,
       "name": "Holding Out",
       "url": "https://open.spotify.com/track/0dPCSrtlGF3u1ZmsCAypyA"
-    },
-    {
-      "added_at": "2022-08-05 04:01:00",
-      "album": {
-        "name": "Half As Much",
-        "url": "https://open.spotify.com/album/14egSyw9YbhRfXXrcCjYdf"
-      },
-      "artists": [
-        {
-          "name": "Deerock",
-          "url": "https://open.spotify.com/artist/3BCouSmFlw2lHBmJmi1umh"
-        },
-        {
-          "name": "Viiq",
-          "url": "https://open.spotify.com/artist/4hHvJgsm5erOOP97SBJ8uQ"
-        }
-      ],
-      "duration_ms": 141904,
-      "name": "Half As Much",
-      "url": "https://open.spotify.com/track/0oZDHKtqVllajHTo94iNUv"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2591,6 +2591,26 @@
       "duration_ms": 219870,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/67k9neQm9nlnMnejMpRXSN"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Closer Together (feat. Jason Walker)",
+        "url": "https://open.spotify.com/album/68NEuE4kCTqAq46lY1I0J2"
+      },
+      "artists": [
+        {
+          "name": "Sick Individuals",
+          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
+        },
+        {
+          "name": "Jason Walker",
+          "url": "https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U"
+        }
+      ],
+      "duration_ms": 224767,
+      "name": "Closer Together",
+      "url": "https://open.spotify.com/track/4It1IKc6rUfiu2xOXdQ0iI"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2687,22 +2707,6 @@
     {
       "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV"
-      },
-      "artists": [
-        {
-          "name": "R\u00eave",
-          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
-        }
-      ],
-      "duration_ms": 203641,
-      "name": "Layover",
-      "url": "https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o"
-    },
-    {
-      "added_at": "2022-07-29 04:01:00",
-      "album": {
         "name": "Stay With Me",
         "url": "https://open.spotify.com/album/1XW9wkKo2iVyxNAzijTLI2"
       },
@@ -2719,6 +2723,42 @@
       "duration_ms": 210731,
       "name": "Stay With Me",
       "url": "https://open.spotify.com/track/5fzSnfMrh4x6HPjJKgXkjj"
+    },
+    {
+      "added_at": "2022-07-29 04:01:00",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/0uj9R1NJH5P9WEPUr75fEV"
+      },
+      "artists": [
+        {
+          "name": "R\u00eave",
+          "url": "https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx"
+        }
+      ],
+      "duration_ms": 203641,
+      "name": "Layover",
+      "url": "https://open.spotify.com/track/0xFuZlwE5hugBECRF5ZI5o"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "WAIT (feat. Bipolar Sunshine)",
+        "url": "https://open.spotify.com/album/6agHtwWDfbzFvPJRALB4yh"
+      },
+      "artists": [
+        {
+          "name": "MILKBLOOD",
+          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "duration_ms": 223542,
+      "name": "WAIT (feat. Bipolar Sunshine)",
+      "url": "https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -2821,26 +2861,6 @@
       "url": "https://open.spotify.com/track/18Nb7k9gprZ6r17bbaiUQZ"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Closer Together (feat. Jason Walker)",
-        "url": "https://open.spotify.com/album/68NEuE4kCTqAq46lY1I0J2"
-      },
-      "artists": [
-        {
-          "name": "Sick Individuals",
-          "url": "https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR"
-        },
-        {
-          "name": "Jason Walker",
-          "url": "https://open.spotify.com/artist/3XBxSfCwYIMBzWmJL7ZJ4U"
-        }
-      ],
-      "duration_ms": 224767,
-      "name": "Closer Together",
-      "url": "https://open.spotify.com/track/4It1IKc6rUfiu2xOXdQ0iI"
-    },
-    {
       "added_at": "2022-07-29 04:01:00",
       "album": {
         "name": "More Than A Feeling (feat. Grace Tither)",
@@ -2939,26 +2959,6 @@
       "duration_ms": 163809,
       "name": "Ringtone",
       "url": "https://open.spotify.com/track/5HL1Kr58jrionQOMotcLem"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "WAIT (feat. Bipolar Sunshine)",
-        "url": "https://open.spotify.com/album/6agHtwWDfbzFvPJRALB4yh"
-      },
-      "artists": [
-        {
-          "name": "MILKBLOOD",
-          "url": "https://open.spotify.com/artist/7sLejq7H0gfGlhiLUTs4ME"
-        },
-        {
-          "name": "Bipolar Sunshine",
-          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
-        }
-      ],
-      "duration_ms": 223542,
-      "name": "WAIT (feat. Bipolar Sunshine)",
-      "url": "https://open.spotify.com/track/06ZFfsiywuaqGnYQiUfbyn"
     },
     {
       "added_at": "2022-07-29 04:01:00",

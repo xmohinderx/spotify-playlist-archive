@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F09JR.md) - [plain]
 | 29 | [BATTICUORE](https://open.spotify.com/track/3mg0MOrXktHGEKhnNOT4h2) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:15 |
 | 30 | [Resist and Protect](https://open.spotify.com/track/2BQWKfwYxK27HYmmcXQVTf) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:39 |
 
-Snapshot ID: `Mjc2NzMzMTksMDAwMDAwMDAyMDc0YWU2NGM1YTdhOTAxZGNhNzI2Njg5M2E3OThmOQ==`
+Snapshot ID: `Mjc2NzQ3MDcsMDAwMDAwMDA1ZThhZjM4OWRiMjYxZjA1MDliOGRjZTU3ODhkZmU2Yw==`

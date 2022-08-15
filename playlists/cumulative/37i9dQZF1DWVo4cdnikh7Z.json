@@ -755,7 +755,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 226838,
       "name": "Chellamey - From \"Poikkal Kuthirai\"",
       "url": "https://open.spotify.com/track/5hAuHGTReizi2XhoAkQX80"
@@ -995,7 +995,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 240095,
       "name": "Dance Anthem (From \"Dancing Devils\")",
       "url": "https://open.spotify.com/track/2ftmSOl40tRI11fbj2FDpw"
@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 188637,
       "name": "Inner Peace (From \"Gulu Gulu\")",
       "url": "https://open.spotify.com/track/6Nvjh7Y3mMNo7PgjnrAtYW"
@@ -1875,7 +1875,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 300181,
       "name": "Kahani (From \"Laal Singh Chaddha\") [TAMIL]",
       "url": "https://open.spotify.com/track/65rhFyrg6yPtklJFrd6ktP"
@@ -2684,6 +2684,28 @@
     },
     {
       "album": {
+        "name": "Marakkuma Nenjam (From \"Vendhu Thanindhathu Kaadu\")",
+        "url": "https://open.spotify.com/album/27abynwxVqQdw5HxC54tHJ"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Thamarai",
+          "url": "https://open.spotify.com/artist/6z3KmBBSYseegqLrRZXZxe"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258319,
+      "name": "Marakkuma Nenjam - From \"Vendhu Thanindhathu Kaadu\"",
+      "url": "https://open.spotify.com/track/4Jr0O3zgoKEk71sIlABkLp"
+    },
+    {
+      "album": {
         "name": "Marudhanayagam Title Track (From \"Marudhanayagam\")",
         "url": "https://open.spotify.com/album/2FzSieA7ynF0lNs32NwMyt"
       },
@@ -3226,6 +3248,32 @@
     },
     {
       "album": {
+        "name": "Neerkumizho (From \"Kolai\")",
+        "url": "https://open.spotify.com/album/7hqOfumgIlZPC820TTLvjw"
+      },
+      "artists": [
+        {
+          "name": "Girishh G",
+          "url": "https://open.spotify.com/artist/5VvulDYNoxmP3ey1yGddvB"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2022-08-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259174,
+      "name": "Neerkumizho - From \"Kolai\"",
+      "url": "https://open.spotify.com/track/4SEIbX57gWT54RxF0Iw2sz"
+    },
+    {
+      "album": {
         "name": "Ninaithaale (From \"James - Tamil\")",
         "url": "https://open.spotify.com/album/3O44Bwu7DRoL3YyAwz2ypC"
       },
@@ -3263,7 +3311,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 267217,
       "name": "Ninaivugal - From \"Captain\"",
       "url": "https://open.spotify.com/track/3fPatK41gSRwXBTl9VZywb"
@@ -3949,7 +3997,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
@@ -3997,7 +4045,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 207694,
       "name": "Singleu Naa Singleu",
       "url": "https://open.spotify.com/track/4Y8CiH5342hOyQWxxwZX5B"
@@ -4731,7 +4779,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 229080,
       "name": "Vaa Baava (From \"Thudikkum Karangal\")",
       "url": "https://open.spotify.com/track/20oZQmKStmn9b7UvMvWdXq"
@@ -4749,7 +4797,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 208127,
       "name": "Vaada Vaada",
       "url": "https://open.spotify.com/track/0ScAD6bOoCqZyssA5vjKeL"
@@ -5007,7 +5055,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 206550,
       "name": "Vazhi Ithuthaano",
       "url": "https://open.spotify.com/track/7l9tPIPkWFn8wji09fTrAx"
@@ -5105,7 +5153,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-15",
       "duration_ms": 202605,
       "name": "Whistle Song",
       "url": "https://open.spotify.com/track/23twnOHFOjwwvLP6PGXamk"

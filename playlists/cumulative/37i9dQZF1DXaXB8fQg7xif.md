@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Move</a> your feet!
 
-759 songs - 1 day 18 hr 9 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
+760 songs - 1 day 18 hr 12 min - [published](https://open.spotify.com/playlist/5z9ZuI1502UpVCeJqJstIk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Badman](https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE) | [Nostalgix](https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz) | [Badman](https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot) | 2:39 | 2022-04-01 | 2022-04-21 |
 | [Baianá](https://open.spotify.com/track/7MUazB4rGIqFFIkjT95rCO) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Baianá](https://open.spotify.com/album/7ImQIxwDqi9OKS93QMsKQN) | 3:00 | 2020-05-22\* | 2022-04-21 |
 | [Baianá \- Jack Back Remix](https://open.spotify.com/track/69yJsOLPFJXRoBkJxrsDRJ) | [Barbatuques](https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD), [Jack Back](https://open.spotify.com/artist/4bXUaTjc7TQTvLqqCAlfYt) | [Baianá \(Jack Back Remix\)](https://open.spotify.com/album/1dKPOW4dPo3mc7cKHSSoSx) | 2:40 | 2020-05-22\* | 2020-10-21 |
+| [Baila Conmigo](https://open.spotify.com/track/3KruoUtSkm84Az0bJunnxl) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Baila Conmigo](https://open.spotify.com/album/00RgZ3hZH9WpvBksu2hx5G) | 2:26 | 2022-08-12 |  |
 | [Bailar Riddim](https://open.spotify.com/track/4jvCYgzFijnYGxqQcJgRnu) | [Simon Fava](https://open.spotify.com/artist/3tVEEXCoTAVMHyZqQ5kTyc), [Yvvan Back](https://open.spotify.com/artist/68fI3XKiTlRMJBYuxKJFU3) | [Bailar Riddim](https://open.spotify.com/album/3L07N9QtjRLysBgtx8aesx) | 3:31 | 2021-04-22 | 2022-05-29 |
 | [Ball & Chain \(JJ Tribute\) \- LP Giobbi Remix](https://open.spotify.com/track/35iWp4gjhDm0zNmnx2YViL) | [ASHA](https://open.spotify.com/artist/0ZoVuMISHF4LvwHAH7Qvzo), [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Ball & Chain \(JJ Tribute\) \[LP Giobbi Remix\]](https://open.spotify.com/album/7whaYP9qPpI2UpLXB1vgpZ) | 4:24 | 2021-10-10 | 2022-04-21 |
 | [Ballie \(feat\. Kah\-Lo\) \- Destructo Remix](https://open.spotify.com/track/24mAiaFiKP55r6IITNB2As) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3), [Destructo](https://open.spotify.com/artist/0BEYTctVmnYa5yStp4Jpab) | [Ballie \(feat\. Kah\-Lo\) \[Destructo Remix\]](https://open.spotify.com/album/4KPLKJL2s9CIYXDA7gIM92) | 4:26 | 2020-05-22\* | 2022-04-20 |
@@ -591,7 +592,7 @@
 | [San Frandisco](https://open.spotify.com/track/3T00mhdOYUuM5yiuPs3xhs) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/1yvc0dwbzh1nGEBk6rOZoc) | 3:05 | 2022-07-14 |  |
 | [San Frandisco](https://open.spotify.com/track/4KrATQEoEbKAAY7j0kMDBl) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m) | [San Frandisco](https://open.spotify.com/album/66IfXKLEgsVPqwElkk8aeP) | 3:05 | 2020-05-22\* | 2022-07-29 |
 | [Saturation](https://open.spotify.com/track/1B8mCijpw9ItgJcOqWn2Dq) | [Amine Edge & DANCE](https://open.spotify.com/artist/7si9pFZZlPdZPeOclH9vgm), [Clyde P](https://open.spotify.com/artist/7r5J2cZ7ufmOCgh9Vg7kD1) | [Saturation EP](https://open.spotify.com/album/5N07AHUNsDWtPEoVLbFXBb) | 2:53 | 2020-12-27 | 2021-03-23 |
-| [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 |  |
+| [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2022-05-13 | 2022-08-15 |
 | [Save the Rave](https://open.spotify.com/track/0mxjKriHsdi8zKiBTWIOrT) | [Tommie Sunshine](https://open.spotify.com/artist/42tlZWSz1V6Rsqds29GcRo), [MureKian](https://open.spotify.com/artist/4UhhnJQyqAsw82qwRNCU7R), [Sabrina Signs](https://open.spotify.com/artist/30XgRdKEsS1c8RkOYYiTbu) | [Save the Rave](https://open.spotify.com/album/5M5Rx6ZeoZgX1jpJ62d6t6) | 3:37 | 2020-05-22\* | 2021-12-21 |
 | [Sax In The City](https://open.spotify.com/track/7hBW4xLLxjcg6cEPFCznD8) | [King Topher](https://open.spotify.com/artist/2qPxiZiD34NtmokWN6RoP2), [Dot N Life](https://open.spotify.com/artist/38aKknRSzI7luo0LJWDwDS) | [Sax In The City](https://open.spotify.com/album/7x5gVB98UKkoG2hceZL8a9) | 2:52 | 2020-11-03 | 2021-12-03 |
 | [Say A Little Prayer](https://open.spotify.com/track/5dYZ382ddDN8xBdJLx7d9e) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Amazonian Rockstar](https://open.spotify.com/artist/3xlmQmCJ52Ip0bktQWPUG4) | [Say A Little Prayer](https://open.spotify.com/album/24R2FgklbS0E9JTpNQiZrf) | 3:29 | 2022-04-01 |  |

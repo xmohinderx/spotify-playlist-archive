@@ -1,12 +1,12 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 26619,
+  "num_followers": 26681,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDRiYzhiM2RjOTc2NjdkNDc0YjRjMTRkYmI2MjdmZjIx",
+  "snapshot_id": "MTY1Nzg2MDAxNCwwMDAwMDAwMDE0MzM2MGE0OGUyNTU2NjIwODY0ZDA3NWIyZWI2YjIz",
   "tracks": [
     {
       "added_at": "2022-07-15 04:40:14",
@@ -559,22 +559,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Come to Me",
-        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
-      },
-      "artists": [
-        {
-          "name": "France Joli",
-          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
-        }
-      ],
-      "duration_ms": 590986,
-      "name": "Come to Me",
-      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "People... Hold On",
         "url": "https://open.spotify.com/album/56H0s8mDvyhVZOWn3vEBgS"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 160906,
       "name": "Date With The Rain",
       "url": "https://open.spotify.com/track/4fN44oV5yhUEt6NDSDCLBS"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Come to Me",
+        "url": "https://open.spotify.com/album/36xBZHKGsbSbWNZkSy6TH1"
+      },
+      "artists": [
+        {
+          "name": "France Joli",
+          "url": "https://open.spotify.com/artist/10yNnmMFF3U0MW7oeG3bFr"
+        }
+      ],
+      "duration_ms": 590986,
+      "name": "Come to Me",
+      "url": "https://open.spotify.com/track/5wmVHVCMNO6TfCBcXU0cCk"
     },
     {
       "added_at": "2022-07-15 04:40:14",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-07-15 04:40:14",
       "album": {
-        "name": "Instant Replay (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
-      },
-      "artists": [
-        {
-          "name": "Dan Hartman",
-          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
-        }
-      ],
-      "duration_ms": 320480,
-      "name": "Instant Replay",
-      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
-    },
-    {
-      "added_at": "2022-07-15 04:40:14",
-      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 235293,
       "name": "Saturday Night, Sunday Morning",
       "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
+    },
+    {
+      "added_at": "2022-07-15 04:40:14",
+      "album": {
+        "name": "Instant Replay (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
+      },
+      "artists": [
+        {
+          "name": "Dan Hartman",
+          "url": "https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr"
+        }
+      ],
+      "duration_ms": 320480,
+      "name": "Instant Replay",
+      "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
     },
     {
       "added_at": "2022-07-15 04:40:14",

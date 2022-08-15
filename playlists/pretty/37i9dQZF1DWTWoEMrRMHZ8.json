@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Djavan",
-  "num_followers": 320636,
+  "num_followers": 320715,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzQ3NSwwMDAwMDAwMDA5NzgxNmVlMjU3NDhlMzc1MTVlMThiOTk3ZGMyNjJm",
+  "snapshot_id": "MTY2MDI3MzQ3NSwwMDAwMDAwMDhmNjA5ZDRhNmZiZjdiZGZiZjRmYTBmMTMxMjRlY2Uz",
   "tracks": [
     {
       "added_at": "2022-08-12 03:04:35",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Em Casa Com os Gil",
-        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Gil",
-          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
-        }
-      ],
-      "duration_ms": 234570,
-      "name": "Barato Total",
-      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Rivo III e a F\u00e9",
         "url": "https://open.spotify.com/album/3aYj6prEkcGW6BnQ5d4bgf"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 253173,
       "name": "Piquete",
       "url": "https://open.spotify.com/track/35hMrqAbOVOahAHMH4Z4NH"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Em Casa Com os Gil",
+        "url": "https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Gil",
+          "url": "https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr"
+        }
+      ],
+      "duration_ms": 234570,
+      "name": "Barato Total",
+      "url": "https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -495,6 +495,26 @@
       "duration_ms": 202892,
       "name": "Real",
       "url": "https://open.spotify.com/track/3KG82gCnam0YCY22Af3Ma7"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "No Escuro",
+        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriela",
+          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+        },
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 238384,
+      "name": "No Escuro",
+      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -607,26 +627,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Portas",
         "url": "https://open.spotify.com/album/3Aa9vN06FcpjOlytlAQP3A"
       },
@@ -643,22 +643,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "No Escuro",
-        "url": "https://open.spotify.com/album/5cPLhv2TI5JgIX3Gmfq9bI"
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
       "artists": [
         {
-          "name": "Ana Gabriela",
-          "url": "https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD"
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         },
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 238384,
-      "name": "No Escuro",
-      "url": "https://open.spotify.com/track/2pWMc34naG2miGcu5R4kYY"
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -683,22 +683,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Dr\u00e3o (Remasterizado)",
-        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 311745,
-      "name": "Dr\u00e3o - Remasterizado",
-      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Nu Com a Minha M\u00fasica (EP)",
         "url": "https://open.spotify.com/album/576YsQ9t7f2WGkne7NL6Gw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 283557,
       "name": "Nu Com a Minha M\u00fasica",
       "url": "https://open.spotify.com/track/2RS04SWRKIpffQMPkNszil"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Dr\u00e3o (Remasterizado)",
+        "url": "https://open.spotify.com/album/06uHD8Dw3dJ6iZ0l3imaUr"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 311745,
+      "name": "Dr\u00e3o - Remasterizado",
+      "url": "https://open.spotify.com/track/2XBq0fuEgwMyP4BV8TPBwS"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -795,22 +795,18 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Dia Branco",
-        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+        "name": "Nu Com a Minha M\u00fasica",
+        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
       },
       "artists": [
         {
-          "name": "Geraldo Azevedo",
-          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
         }
       ],
-      "duration_ms": 147899,
-      "name": "Dia Branco",
-      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
+      "duration_ms": 216933,
+      "name": "Quase um Segundo",
+      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -827,6 +823,26 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Dia Branco",
+        "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
+      },
+      "artists": [
+        {
+          "name": "Geraldo Azevedo",
+          "url": "https://open.spotify.com/artist/65TbyndeGrDlFd4IkZNfbN"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 147899,
+      "name": "Dia Branco",
+      "url": "https://open.spotify.com/track/1BRJxe2ozG73rxff5jyvjv"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -871,22 +887,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Nu Com a Minha M\u00fasica",
-        "url": "https://open.spotify.com/album/5QD7kCLT9EwJ5ifCdlxFkc"
-      },
-      "artists": [
-        {
-          "name": "Ney Matogrosso",
-          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Quase um Segundo",
-      "url": "https://open.spotify.com/track/6uZF39sCk7ZhqO2GLfu3pj"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Ao Vivo no Montreux Jazz Festival 1997",
         "url": "https://open.spotify.com/album/6TUhbe62fmri26xrurl58M"
       },
@@ -919,6 +919,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Choro Sim",
         "url": "https://open.spotify.com/album/0SSYpwr8nf4ZWFNbNaW31P"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 204214,
       "name": "Choro Sim",
       "url": "https://open.spotify.com/track/7c9dHMvFEGcAy8293IsYp5"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Mil Coisas Invis\u00edveis",
-        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
-      },
-      "artists": [
-        {
-          "name": "Tim Bernardes",
-          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
-        }
-      ],
-      "duration_ms": 166706,
-      "name": "BB (Garupa de Moto Amarela)",
-      "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Marquinha",
         "url": "https://open.spotify.com/album/5QXuAZEYobRrUP5oQvtGZZ"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 137363,
       "name": "Marquinha",
       "url": "https://open.spotify.com/track/02rjxgJbgFFC8tkjG2IkF2"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Mil Coisas Invis\u00edveis",
+        "url": "https://open.spotify.com/album/1I74KuYarc1dMEgZ0io50Y"
+      },
+      "artists": [
+        {
+          "name": "Tim Bernardes",
+          "url": "https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4"
+        }
+      ],
+      "duration_ms": 166706,
+      "name": "BB (Garupa de Moto Amarela)",
+      "url": "https://open.spotify.com/track/3e8kgXoSaW5MQkpjSw9nYk"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Duetos 2",
-        "url": "https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC"
-      },
-      "artists": [
-        {
-          "name": "Beth Carvalho e Gilberto Gil",
-          "url": "https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM"
-        }
-      ],
-      "duration_ms": 172774,
-      "name": "Mancada",
-      "url": "https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Morena do Beijo Bom",
         "url": "https://open.spotify.com/album/0ASoQ3MjUwDxyiE71xWwUV"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 168063,
       "name": "Morena do Beijo Bom",
       "url": "https://open.spotify.com/track/4UlRcLB10iV4hkVXCYLPpp"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Duetos 2",
+        "url": "https://open.spotify.com/album/6JMpvYFnqxgR9uVyLZScOC"
+      },
+      "artists": [
+        {
+          "name": "Beth Carvalho e Gilberto Gil",
+          "url": "https://open.spotify.com/artist/6DBMcYIUG1KWXOOvzcw3rM"
+        }
+      ],
+      "duration_ms": 172774,
+      "name": "Mancada",
+      "url": "https://open.spotify.com/track/1kgSCkMFBs4yVeuR6Eoh0n"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1391,6 +1391,34 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF"
+      },
+      "artists": [
+        {
+          "name": "Marcos Almeida",
+          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
+        },
+        {
+          "name": "Paulo Nazareth",
+          "url": "https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40"
+        },
+        {
+          "name": "Ded\u00ea Silva",
+          "url": "https://open.spotify.com/artist/5UpZtcbGmLEhU8fFayr4Iq"
+        },
+        {
+          "name": "Estev\u00e3o Queiroga",
+          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
+        }
+      ],
+      "duration_ms": 237301,
+      "name": "Paisagem",
+      "url": "https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "O Que Meus Calos Dizem Sobre Mim",
         "url": "https://open.spotify.com/album/1mZz7LZ96XNlj4XTvLVNoy"
       },
@@ -1423,26 +1451,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Chico Chico Ao Vivo na Macaco Gordo",
-        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
-      },
-      "artists": [
-        {
-          "name": "Chico Chico",
-          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
-        },
-        {
-          "name": "Macaco Gordo",
-          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
-        }
-      ],
-      "duration_ms": 226949,
-      "name": "Ribanceira - Ao Vivo",
-      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Nada Tropical",
         "url": "https://open.spotify.com/album/1EboAICOrhUiIE9Vz1OfPn"
       },
@@ -1463,34 +1471,22 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Alagados",
-        "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
+        "name": "Chico Chico Ao Vivo na Macaco Gordo",
+        "url": "https://open.spotify.com/album/6j6DYeSZoHiyBkuxabhNq5"
       },
       "artists": [
         {
-          "name": "Alfredo, Jo\u00e3o, Moyseis, Pedro",
-          "url": "https://open.spotify.com/artist/3jcMfrnlAKiPuU0T0Y48SK"
+          "name": "Chico Chico",
+          "url": "https://open.spotify.com/artist/3mVWRyXgs9GEWLsgknbh9s"
         },
         {
-          "name": "Alfredo del Penho",
-          "url": "https://open.spotify.com/artist/70WkdyEzA7a0fBuy3bZleU"
-        },
-        {
-          "name": "Jo\u00e3o Cavalcanti",
-          "url": "https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK"
-        },
-        {
-          "name": "Moyseis Marques",
-          "url": "https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb"
-        },
-        {
-          "name": "Pedro Miranda",
-          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
+          "name": "Macaco Gordo",
+          "url": "https://open.spotify.com/artist/2MeRUZA62b85P4U5DcdzZ9"
         }
       ],
-      "duration_ms": 196614,
-      "name": "Alagados",
-      "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
+      "duration_ms": 226949,
+      "name": "Ribanceira - Ao Vivo",
+      "url": "https://open.spotify.com/track/5K47N9oaaYfC3k5zDPc9X5"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1535,22 +1531,34 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
+        "name": "Alagados",
+        "url": "https://open.spotify.com/album/3Mdko7tfSEfTdTaukgzAst"
       },
       "artists": [
         {
-          "name": "Baby Do Brasil",
-          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+          "name": "Alfredo, Jo\u00e3o, Moyseis, Pedro",
+          "url": "https://open.spotify.com/artist/3jcMfrnlAKiPuU0T0Y48SK"
         },
         {
-          "name": "Pepeu Gomes",
-          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+          "name": "Alfredo del Penho",
+          "url": "https://open.spotify.com/artist/70WkdyEzA7a0fBuy3bZleU"
+        },
+        {
+          "name": "Jo\u00e3o Cavalcanti",
+          "url": "https://open.spotify.com/artist/746fEpKVwkqLnRi6g7qubK"
+        },
+        {
+          "name": "Moyseis Marques",
+          "url": "https://open.spotify.com/artist/6rgLniT11DFKI7zIYsFLyb"
+        },
+        {
+          "name": "Pedro Miranda",
+          "url": "https://open.spotify.com/artist/32ChsjOKXXZrpDI6aAPo5l"
         }
       ],
-      "duration_ms": 247266,
-      "name": "Sem Pecado e Sem Ju\u00edzo - Ao Vivo",
-      "url": "https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv"
+      "duration_ms": 196614,
+      "name": "Alagados",
+      "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1567,6 +1575,26 @@
       "duration_ms": 185756,
       "name": "Vinte Vinte - Adeus Brasil",
       "url": "https://open.spotify.com/track/5To7O0SazLAevNU9mcVLPt"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Sem Pecado e Sem Ju\u00edzo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/25Lea4PaLVhwd2qh9ZPRVh"
+      },
+      "artists": [
+        {
+          "name": "Baby Do Brasil",
+          "url": "https://open.spotify.com/artist/2K5llYyoLmzpOcbVuOY1ls"
+        },
+        {
+          "name": "Pepeu Gomes",
+          "url": "https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "Sem Pecado e Sem Ju\u00edzo - Ao Vivo",
+      "url": "https://open.spotify.com/track/4urMYD4WHWZqnCD9YuUiOv"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1591,26 +1619,6 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "SambadorA",
-        "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
-      },
-      "artists": [
-        {
-          "name": "Ver\u00f4nica Ferriani",
-          "url": "https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA"
-        },
-        {
-          "name": "Gian Correa",
-          "url": "https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc"
-        }
-      ],
-      "duration_ms": 228169,
-      "name": "Folia",
-      "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
         "name": "Vai Passar",
         "url": "https://open.spotify.com/album/5oHnMyqvoI6wpgXs8bwIUk"
       },
@@ -1631,6 +1639,26 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
+        "name": "SambadorA",
+        "url": "https://open.spotify.com/album/7gaN0jN1DMDqu4HcrO1THK"
+      },
+      "artists": [
+        {
+          "name": "Ver\u00f4nica Ferriani",
+          "url": "https://open.spotify.com/artist/4VrFWmVoU4k6pJzLSe82WA"
+        },
+        {
+          "name": "Gian Correa",
+          "url": "https://open.spotify.com/artist/3AU1eNnX4ndJA0m73d9qCc"
+        }
+      ],
+      "duration_ms": 228169,
+      "name": "Folia",
+      "url": "https://open.spotify.com/track/6j6yrIDSsci3JYiVNgwGLf"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
         "name": "Jo\u00e3o Bosco e Orquestra Ouro Preto: G\u00eanesis",
         "url": "https://open.spotify.com/album/7u5u9iacVfaJLU5BTQqD7C"
       },
@@ -1647,6 +1675,22 @@
       "duration_ms": 319000,
       "name": "Papel Mach\u00ea",
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2022-08-12 03:04:35",
+      "album": {
+        "name": "Feiti\u00e7o",
+        "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
+      },
+      "artists": [
+        {
+          "name": "Samuca e a Selva",
+          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
+        }
+      ],
+      "duration_ms": 262425,
+      "name": "Feiti\u00e7o",
+      "url": "https://open.spotify.com/track/04Y5KWj5JKfr4IaMoPlQP3"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1703,50 +1747,6 @@
       "duration_ms": 204521,
       "name": "Caso Perdido",
       "url": "https://open.spotify.com/track/25ADV54r5NaD6yM7JZtUmO"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/4knGeJAqB8IMwNKQc6JHNF"
-      },
-      "artists": [
-        {
-          "name": "Marcos Almeida",
-          "url": "https://open.spotify.com/artist/5PmlW3MANz3vrh2hrDnbhR"
-        },
-        {
-          "name": "Paulo Nazareth",
-          "url": "https://open.spotify.com/artist/7n7vXH3wFK9kCqV0m5KA40"
-        },
-        {
-          "name": "Ded\u00ea Silva",
-          "url": "https://open.spotify.com/artist/5UpZtcbGmLEhU8fFayr4Iq"
-        },
-        {
-          "name": "Estev\u00e3o Queiroga",
-          "url": "https://open.spotify.com/artist/1nQaNbf287f5x9oe2R3faK"
-        }
-      ],
-      "duration_ms": 237301,
-      "name": "Paisagem",
-      "url": "https://open.spotify.com/track/0rGvp4ODxl78g6BYnU54sq"
-    },
-    {
-      "added_at": "2022-08-12 03:04:35",
-      "album": {
-        "name": "Feiti\u00e7o",
-        "url": "https://open.spotify.com/album/2U1ngEfcXGXQdAmaPcpnMD"
-      },
-      "artists": [
-        {
-          "name": "Samuca e a Selva",
-          "url": "https://open.spotify.com/artist/3xRsjZtEO4W7Y4Wgr4wSLD"
-        }
-      ],
-      "duration_ms": 262425,
-      "name": "Feiti\u00e7o",
-      "url": "https://open.spotify.com/track/04Y5KWj5JKfr4IaMoPlQP3"
     },
     {
       "added_at": "2022-08-12 03:04:35",
@@ -1879,30 +1879,18 @@
     {
       "added_at": "2022-08-12 03:04:35",
       "album": {
-        "name": "Clarice Clar\u00e3o",
-        "url": "https://open.spotify.com/album/3XIPcBQshFIDjYT02ruvEY"
+        "name": "cantar (ao vivo no bona)",
+        "url": "https://open.spotify.com/album/4cxTrMMLnNp0x1kW3GkVge"
       },
       "artists": [
         {
-          "name": "Beatriz Azevedo",
-          "url": "https://open.spotify.com/artist/4fIGoIA5oaJn3HorAEQFNG"
-        },
-        {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
-        },
-        {
-          "name": "Jaques Morelenbaum",
-          "url": "https://open.spotify.com/artist/5QdS83aNvQzKgj43VTdY8d"
-        },
-        {
-          "name": "Marcelo Costa",
-          "url": "https://open.spotify.com/artist/1tTqJwIDhSkWuFsME8jaro"
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
         }
       ],
-      "duration_ms": 200095,
-      "name": "Circo",
-      "url": "https://open.spotify.com/track/2H2EVcoUH7keVApyE5plx8"
+      "duration_ms": 266093,
+      "name": "cantar - ao vivo no bona",
+      "url": "https://open.spotify.com/track/46FwFi4komf0g3p80RTjBv"
     }
   ],
   "unique_name": "Divina MPB",

@@ -4,7 +4,7 @@
 
 > Folk tan dulce como la miel.
 
-86 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
+87 songs - 4 hr 56 min - [published](https://open.spotify.com/playlist/51PGtygMYuoHpiALaPK8vx)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,8 @@
 | [contigo va a estar bien](https://open.spotify.com/track/3II1gxMk8QeElZoimHOEQ7) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [contigo va a estar bien](https://open.spotify.com/album/7aitspSO60ab2xeVN2b33K) | 3:05 | 2022-04-20 |  |
 | [Corrido Será](https://open.spotify.com/track/7Go6T2SYkl9yo0z47S3pYy) | [Pablo Bandera](https://open.spotify.com/artist/7oLM8EDFTJsCWDWJE7jlrm) | [Corrido Será](https://open.spotify.com/album/5L9FBfsRy92FnKP34ZCHiS) | 3:17 | 2022-04-20 |  |
 | [Cuando salga el sol](https://open.spotify.com/track/5kR3d959InuG8hA5EDXE2k) | [Alan Troy](https://open.spotify.com/artist/2AAtJ9SZMYanKsVF87wxGU) | [Cuando salga el sol](https://open.spotify.com/album/0DXHs3FAp1n74c9DRFykqv) | 3:21 | 2022-04-20 |  |
-| [Cuánto Tiempo Sin Verte](https://open.spotify.com/track/6jjQY90GmwJoQtxl7GOkIM) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Cuánto Tiempo Sin Verte](https://open.spotify.com/album/0tsKYJ93msFYW1F4yYBxm5) | 2:58 | 2022-04-20 |  |
+| [Cuánto Tiempo Sin Verte](https://open.spotify.com/track/3J9NSlmfJI6jQMEs7pBtc0) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Cuánto Tiempo Sin Verte](https://open.spotify.com/album/5pr1wEmMoyPLs3Opk1YcY6) | 2:58 | 2022-06-27 |  |
+| [Cuánto Tiempo Sin Verte](https://open.spotify.com/track/6jjQY90GmwJoQtxl7GOkIM) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [Cuánto Tiempo Sin Verte](https://open.spotify.com/album/0tsKYJ93msFYW1F4yYBxm5) | 2:58 | 2022-04-20 | 2022-08-15 |
 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 | 2022-06-27 |  |
 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 | 2022-04-20 |  |
 | [Dulce Veneno \- Sigues Aquí](https://open.spotify.com/track/2u0bUWgV8Ac8O3gnnA5xI0) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [De Todo un Poco](https://open.spotify.com/album/28FDFSEkA2zhVB5q6GL6CS) | 4:18 | 2022-06-27 |  |

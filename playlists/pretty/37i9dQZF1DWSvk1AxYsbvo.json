@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5582,
+  "num_followers": 5579,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTE3NCwwMDAwMDAwMDhmNGRiZDY5NmFlYmRkMjc1YTc2ZDNiOGM5NDljZGRm",
+  "snapshot_id": "MTY2MDMyOTE3NCwwMDAwMDAwMDdhZGZkYjEwYzkyYTY0ZGM0NDAyNmQ4YzUyMTU2ODEz",
   "tracks": [
     {
       "added_at": "2022-08-12 18:32:54",
@@ -219,6 +219,22 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
+        "name": "Seoul Check-in OST Part 8",
+        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "Don't Ever Leave Me",
+      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
         "name": "Sweet Kiss Like Coffee",
         "url": "https://open.spotify.com/album/2UShff7ibk9SW5BuaMsXE5"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 234705,
       "name": "Sweet Kiss Like Coffee",
       "url": "https://open.spotify.com/track/2M0c6RddlHFOHPKwxfqMlW"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Seoul Check-in OST Part 8",
-        "url": "https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "Don't Ever Leave Me",
-      "url": "https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -319,6 +319,22 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+      },
+      "artists": [
+        {
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
         "name": "Night Swimming",
         "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
       },
@@ -351,34 +367,18 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
+        "name": "Deep in the night, you and me",
+        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
       },
       "artists": [
         {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
+          "name": "109",
+          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
         }
       ],
-      "duration_ms": 254000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Tropical night",
-        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
-      },
-      "artists": [
-        {
-          "name": "\uc5ec\ub3d9\uc0dd",
-          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
-        }
-      ],
-      "duration_ms": 311797,
-      "name": "Tropical night",
-      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
+      "duration_ms": 167480,
+      "name": "Deep in the night, you and me",
+      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -399,18 +399,18 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Deep in the night, you and me",
-        "url": "https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ"
+        "name": "Tropical night",
+        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
       },
       "artists": [
         {
-          "name": "109",
-          "url": "https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh"
+          "name": "\uc5ec\ub3d9\uc0dd",
+          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
         }
       ],
-      "duration_ms": 167480,
-      "name": "Deep in the night, you and me",
-      "url": "https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY"
+      "duration_ms": 311797,
+      "name": "Tropical night",
+      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
-      },
-      "artists": [
-        {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
-        }
-      ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
         "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
         "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 182906,
       "name": "DANDELION",
       "url": "https://open.spotify.com/track/5erdZRi65gQvc4m7znELQp"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Losing Myself",
-        "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
-      },
-      "artists": [
-        {
-          "name": "Gogang",
-          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "Losing Myself",
-      "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
         "name": "Greeting",
         "url": "https://open.spotify.com/album/3nsi8ersP7BvMbA7Qrh5m6"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 400871,
       "name": "Bye (feat. LeeHi)",
       "url": "https://open.spotify.com/track/4DnMtsF3UfkGys5DwjU3BH"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Losing Myself",
+        "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
+      },
+      "artists": [
+        {
+          "name": "Gogang",
+          "url": "https://open.spotify.com/artist/2ZIVYoGzw18q8IDsLny9UU"
+        }
+      ],
+      "duration_ms": 176373,
+      "name": "Losing Myself",
+      "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
     },
     {
       "added_at": "2022-08-12 18:32:54",

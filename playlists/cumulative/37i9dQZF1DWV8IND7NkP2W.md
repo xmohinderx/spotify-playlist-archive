@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-492 songs - 21 hr 58 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
+493 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/6G1POdc4fbQZ6aBIV9rUMB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,7 +419,8 @@
 | [Sudachi](https://open.spotify.com/track/4Ba5yNZnLdgZTpcMe1af9H) | [yuhei miura](https://open.spotify.com/artist/6p9EJBuYNleKnGIll5vHA5), [Koza](https://open.spotify.com/artist/4YH2JxUSsaFYrJXPva13gd), [Etymology Records](https://open.spotify.com/artist/6sHwGhhYxjbUEiT06hnt20) | [Sudachi](https://open.spotify.com/album/3loyhogYQD9GMco9mhlKEn) | 2:18 | 2021-12-23 |  |
 | [Summer Ghost \- Ghost Dub](https://open.spotify.com/track/5qf76gCob1UikX7JUIc3oh) | [TAMTAM](https://open.spotify.com/artist/3McQeN9sXTIvZHACTtsutN) | [Summer Ghost](https://open.spotify.com/album/28f4s5ScoFbIedA2yfOt2u) | 3:50 | 2022-03-24 | 2022-04-21 |
 | [Summer Morn](https://open.spotify.com/track/49JWJhkmD7pMIWQzgdAosk) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/0v3QRpAjXCkiKco1MRZOwr) | 3:36 | 2022-07-21 | 2022-07-29 |
-| [Summer Morn](https://open.spotify.com/track/7FNnbLEFdObnPN5vW11Q7E) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/3UbJPbRqqM5XGKctV48qsG) | 3:36 | 2022-07-28 |  |
+| [Summer Morn](https://open.spotify.com/track/7FNnbLEFdObnPN5vW11Q7E) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Summer Morn](https://open.spotify.com/album/3UbJPbRqqM5XGKctV48qsG) | 3:36 | 2022-07-28 | 2022-08-15 |
+| [Summer Morn](https://open.spotify.com/track/7txY6OM6LrIkZCwN6cJjgt) | [PrinceDo](https://open.spotify.com/artist/1vwo07wGObMfmEOutuBh05) | [Unsophisticated Beats Vol.1](https://open.spotify.com/album/4ufn7k60NGy1IvKwwoEHEL) | 3:36 | 2022-08-11 |  |
 | [Summer Nights](https://open.spotify.com/track/3RjwaQ4EAO7NGk3azXH4aT) | [Akimitsu](https://open.spotify.com/artist/3Clf0gHl3UQ2r5rFlTrfku) | [Summer Nights](https://open.spotify.com/album/0nWPCL5l3mDoMdKCJwABaF) | 1:48 | 2022-03-24 | 2022-04-21 |
 | [Sun Drop](https://open.spotify.com/track/6rITQQhavaBXV2AwZPqMwa) | [Yugo Ease](https://open.spotify.com/artist/3lm53S8BFfxuEVL7Nxn7FJ), [Ill Sugi](https://open.spotify.com/artist/2qGrUQLbdfzBFpSwz53Y0c) | [Dusk Till Dawn](https://open.spotify.com/album/6jAndBmWe4DdxiWLQAlURr) | 2:37 | 2022-03-24 | 2022-04-13 |
 | [Sun Shower](https://open.spotify.com/track/51bpkKHVzbH70ATH18AZ5M) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Sun Shower](https://open.spotify.com/album/5fT54xmeW7hkwF8qwUcfd9) | 2:40 | 2022-01-06 | 2022-07-25 |

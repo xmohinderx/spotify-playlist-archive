@@ -1,12 +1,12 @@
 {
   "description": "High energy Techno to boost your workout.",
-  "num_followers": 17803,
+  "num_followers": 18238,
   "original_name": "Techno Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMGNlMGYxZTk0NzBlYTlkNzU4YmQ3MWQ3MzM4ZmI5NGIx",
+  "snapshot_id": "MTY1OTA3NTg4OCwwMDAwMDAwMDE0NjkzZjI2MzZmZTY2M2U5NDI3Y2NlNmJiMmNjMmIz",
   "tracks": [
     {
       "added_at": "2022-07-29 06:24:48",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Zulu",
+        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
+      },
+      "artists": [
+        {
+          "name": "A.D.H.S.",
+          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
+        }
+      ],
+      "duration_ms": 298181,
+      "name": "Zulu",
+      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "ME/AN",
         "url": "https://open.spotify.com/album/501Goc9jbp4cFU1PN7HRVR"
       },
@@ -295,22 +311,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Zulu",
-        "url": "https://open.spotify.com/album/49qQ08O2n3E1QqH9hRBEgF"
-      },
-      "artists": [
-        {
-          "name": "A.D.H.S.",
-          "url": "https://open.spotify.com/artist/7t6VUymL8RQKVqKQW9VTLl"
-        }
-      ],
-      "duration_ms": 298181,
-      "name": "Zulu",
-      "url": "https://open.spotify.com/track/2N0F739pJcD6b4uQe6NxDr"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "MNML",
         "url": "https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8"
       },
@@ -323,6 +323,26 @@
       "duration_ms": 390447,
       "name": "Minimal",
       "url": "https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Elysium",
+        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Patrick Scuro",
+          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
+        }
+      ],
+      "duration_ms": 253242,
+      "name": "Elysium",
+      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -347,26 +367,6 @@
       "duration_ms": 261230,
       "name": "String Theory",
       "url": "https://open.spotify.com/track/50mVZbBcr6rYdt45OEPYlN"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Elysium",
-        "url": "https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Patrick Scuro",
-          "url": "https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB"
-        }
-      ],
-      "duration_ms": 253242,
-      "name": "Elysium",
-      "url": "https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Together One Time",
-        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
-      },
-      "artists": [
-        {
-          "name": "Kaiserdisco",
-          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
-        }
-      ],
-      "duration_ms": 288671,
-      "name": "Together One Time",
-      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "A-Sides, Vol. 6",
         "url": "https://open.spotify.com/album/0xBuVXgWQWrqqOdCSWYTkh"
       },
@@ -491,6 +475,22 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Together One Time",
+        "url": "https://open.spotify.com/album/3lj2pp5dJlBCLS1rHD2MHM"
+      },
+      "artists": [
+        {
+          "name": "Kaiserdisco",
+          "url": "https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i"
+        }
+      ],
+      "duration_ms": 288671,
+      "name": "Together One Time",
+      "url": "https://open.spotify.com/track/5J7b7SmcTkhmO31mF0tEja"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Tribal Space",
         "url": "https://open.spotify.com/album/4UeZWgfQSO0fsHpCDudHzs"
       },
@@ -503,6 +503,26 @@
       "duration_ms": 359250,
       "name": "Tribal Space",
       "url": "https://open.spotify.com/track/4VfF4RBRiKKV969cXUX8or"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Sentinel",
+        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
+      },
+      "artists": [
+        {
+          "name": "Clap Codex",
+          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
+        },
+        {
+          "name": "Julien Riess",
+          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
+        }
+      ],
+      "duration_ms": 388500,
+      "name": "Sentinel - Original Mix",
+      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -527,26 +547,6 @@
       "duration_ms": 272221,
       "name": "Saw of Olympus",
       "url": "https://open.spotify.com/track/0VnV4QbuGplPbXsFBJpX8y"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Sentinel",
-        "url": "https://open.spotify.com/album/6NW9OxkPQGEJxMeOXOwWDC"
-      },
-      "artists": [
-        {
-          "name": "Clap Codex",
-          "url": "https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj"
-        },
-        {
-          "name": "Julien Riess",
-          "url": "https://open.spotify.com/artist/2qmoexIy9YzYFb0xmjzh4N"
-        }
-      ],
-      "duration_ms": 388500,
-      "name": "Sentinel - Original Mix",
-      "url": "https://open.spotify.com/track/4aWmC3OCOyPqm6JzqF2LYf"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -611,54 +611,6 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
-      },
-      "artists": [
-        {
-          "name": "Daniel Levak",
-          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
-        }
-      ],
-      "duration_ms": 384000,
-      "name": "Portal",
-      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Obsession",
-        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
-      },
-      "artists": [
-        {
-          "name": "Felix Kr\u00f6cher",
-          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
-        }
-      ],
-      "duration_ms": 382045,
-      "name": "Obsession",
-      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "1981",
-        "url": "https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ"
-      },
-      "artists": [
-        {
-          "name": "Simina Grigoriu",
-          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
-        }
-      ],
-      "duration_ms": 371134,
-      "name": "1981",
-      "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
         "name": "In Trance",
         "url": "https://open.spotify.com/album/2kbVZWawvUewEVkbuNhri7"
       },
@@ -671,38 +623,6 @@
       "duration_ms": 357305,
       "name": "In Trance",
       "url": "https://open.spotify.com/track/3YcuaBQ6HJGwPPmiJ2UEiL"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Vision of Thermodynamics, Pt. 2",
-        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
-      },
-      "artists": [
-        {
-          "name": "NoNameLeft",
-          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
-        }
-      ],
-      "duration_ms": 380625,
-      "name": "The Second Law of Thermodynamics",
-      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Back for Rave",
-        "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
-      },
-      "artists": [
-        {
-          "name": "Teenage Mutants",
-          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
-        }
-      ],
-      "duration_ms": 438790,
-      "name": "Back for Rave - Original Mix",
-      "url": "https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -723,6 +643,54 @@
     {
       "added_at": "2022-07-29 06:24:48",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/6T5CoNOEybQMMYcbQhJl3G"
+      },
+      "artists": [
+        {
+          "name": "Daniel Levak",
+          "url": "https://open.spotify.com/artist/0M9vCRnHAMGWUi9i89LLeh"
+        }
+      ],
+      "duration_ms": 384000,
+      "name": "Portal",
+      "url": "https://open.spotify.com/track/1TcRzgi5McBcFnvCmO5tTd"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "1981",
+        "url": "https://open.spotify.com/album/4XJv3sgIdEP3vCaaZeDReQ"
+      },
+      "artists": [
+        {
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
+        }
+      ],
+      "duration_ms": 371134,
+      "name": "1981",
+      "url": "https://open.spotify.com/track/63iBv67DSrEao8sDW3byIe"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Back for Rave",
+        "url": "https://open.spotify.com/album/4UrzT4RqWT6yLzcy66yHGE"
+      },
+      "artists": [
+        {
+          "name": "Teenage Mutants",
+          "url": "https://open.spotify.com/artist/3IFgjVPT8yeB4UnJCWOpZA"
+        }
+      ],
+      "duration_ms": 438790,
+      "name": "Back for Rave - Original Mix",
+      "url": "https://open.spotify.com/track/3XZOviqLQTQdVrLlCOH8Ji"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
         "name": "Hela",
         "url": "https://open.spotify.com/album/0adQoVV6Qbg358KdIy0Yqn"
       },
@@ -735,6 +703,54 @@
       "duration_ms": 305538,
       "name": "Hela",
       "url": "https://open.spotify.com/track/74BcMAMioDrbrdbAXYIrbk"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Obsession",
+        "url": "https://open.spotify.com/album/4srFUnzoyoRcBQl4mk9wXp"
+      },
+      "artists": [
+        {
+          "name": "Felix Kr\u00f6cher",
+          "url": "https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ"
+        }
+      ],
+      "duration_ms": 382045,
+      "name": "Obsession",
+      "url": "https://open.spotify.com/track/2FhFPJLuYfN1WAxseZf9qV"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Vision of Thermodynamics, Pt. 2",
+        "url": "https://open.spotify.com/album/3XxDvy4NvoAEjaPKMXi3Lo"
+      },
+      "artists": [
+        {
+          "name": "NoNameLeft",
+          "url": "https://open.spotify.com/artist/7dOFFyV8UVZqmapj8yUDRT"
+        }
+      ],
+      "duration_ms": 380625,
+      "name": "The Second Law of Thermodynamics",
+      "url": "https://open.spotify.com/track/6RLQjhD5qpNkFbh3zd7KyK"
+    },
+    {
+      "added_at": "2022-07-29 06:24:48",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
+      },
+      "artists": [
+        {
+          "name": "Kaspar",
+          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
+        }
+      ],
+      "duration_ms": 376615,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
     },
     {
       "added_at": "2022-07-29 06:24:48",
@@ -755,22 +771,6 @@
       "duration_ms": 360007,
       "name": "Driving Mad",
       "url": "https://open.spotify.com/track/6MZ7wWLT1jd2oF21p3TPKl"
-    },
-    {
-      "added_at": "2022-07-29 06:24:48",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/5KtMtbhmpG2mqjJepSttRA"
-      },
-      "artists": [
-        {
-          "name": "Kaspar",
-          "url": "https://open.spotify.com/artist/679xKCdF1dBRH0gGgZfcCC"
-        }
-      ],
-      "duration_ms": 376615,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/46XykrGmCyHaw4ZpEF8PnX"
     },
     {
       "added_at": "2022-07-29 06:24:48",

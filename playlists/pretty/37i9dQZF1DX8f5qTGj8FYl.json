@@ -1,12 +1,12 @@
 {
   "description": "When the funk is just too funky for words to keep up.",
-  "num_followers": 300829,
+  "num_followers": 300952,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDM5NjM2MDg4ZGE1MzdhMzhjODU2ZDE1ODk0NTJiOGQx",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDczMDU1M2Q5MWYxZjQ3ODM1NGNjZjhmZDIxNDI3NmY1",
   "tracks": [
     {
       "added_at": "2020-11-13 05:02:00",
@@ -621,26 +621,6 @@
       "url": "https://open.spotify.com/track/5ur3UjZLVElyCs5TokjfCd"
     },
     {
-      "added_at": "2021-06-11 04:01:00",
-      "album": {
-        "name": "The Golden Hour",
-        "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
-      },
-      "artists": [
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
-        }
-      ],
-      "duration_ms": 223672,
-      "name": "Junkyard Dunebuggy",
-      "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
-    },
-    {
       "added_at": "2020-11-13 05:02:00",
       "album": {
         "name": "Resonate",
@@ -671,6 +651,26 @@
       "duration_ms": 249933,
       "name": "Montuno Funk",
       "url": "https://open.spotify.com/track/1HwXgiTt6K0MtxxBriAQEl"
+    },
+    {
+      "added_at": "2021-06-11 04:01:00",
+      "album": {
+        "name": "The Golden Hour",
+        "url": "https://open.spotify.com/album/60IyGGYt7i028SO7QQdSb1"
+      },
+      "artists": [
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "duration_ms": 223672,
+      "name": "Junkyard Dunebuggy",
+      "url": "https://open.spotify.com/track/7hePUwn6gsIUe6KC4ACdXB"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -969,24 +969,20 @@
       "url": "https://open.spotify.com/track/7zLbAUkKTTQmNj0kPs55LH"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
+      "added_at": "2021-04-16 04:00:00",
       "album": {
-        "name": "Saturday Morning",
-        "url": "https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud"
+        "name": "Moonshadows",
+        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
       },
       "artists": [
         {
-          "name": "Funkwrench Blues",
-          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
-        },
-        {
-          "name": "David D.R. Robbins",
-          "url": "https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc"
+          "name": "Orgone",
+          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
         }
       ],
-      "duration_ms": 149059,
-      "name": "Saturday Morning",
-      "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
+      "duration_ms": 186746,
+      "name": "Get With It",
+      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1005,20 +1001,24 @@
       "url": "https://open.spotify.com/track/60UQSMnnVZvTGkvx2BlTH0"
     },
     {
-      "added_at": "2021-04-16 04:00:00",
+      "added_at": "2022-04-29 04:02:00",
       "album": {
-        "name": "Moonshadows",
-        "url": "https://open.spotify.com/album/3FJHBeJz2ImwMQEBXSGlGh"
+        "name": "Saturday Morning",
+        "url": "https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud"
       },
       "artists": [
         {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
+          "name": "Funkwrench Blues",
+          "url": "https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs"
+        },
+        {
+          "name": "David D.R. Robbins",
+          "url": "https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc"
         }
       ],
-      "duration_ms": 186746,
-      "name": "Get With It",
-      "url": "https://open.spotify.com/track/5poYqonWICaAZaQCZIPMcu"
+      "duration_ms": 149059,
+      "name": "Saturday Morning",
+      "url": "https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Soto",
-          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
-        }
-      ],
-      "duration_ms": 255093,
-      "name": "Make It Happen",
-      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/6dZ7KjlmWXhY5MfVqclrIc"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 184634,
       "name": "Permission to Land - 45",
       "url": "https://open.spotify.com/track/3TNH0Ae83rW4hNM0LfKxFi"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Soto",
+          "url": "https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me"
+        }
+      ],
+      "duration_ms": 255093,
+      "name": "Make It Happen",
+      "url": "https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9"
     },
     {
       "added_at": "2020-11-13 05:02:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "Elevate",
-        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
-      },
-      "artists": [
-        {
-          "name": "Lettuce",
-          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
-        }
-      ],
-      "duration_ms": 324078,
-      "name": "Royal Highness",
-      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Baked, Broiled & Fried",
         "url": "https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 210560,
       "name": "Keb's Bucket",
       "url": "https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf"
+      },
+      "artists": [
+        {
+          "name": "Lettuce",
+          "url": "https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8"
+        }
+      ],
+      "duration_ms": 324078,
+      "name": "Royal Highness",
+      "url": "https://open.spotify.com/track/42y27OIathcePEZFs5bYSk"
     },
     {
       "added_at": "2021-01-22 05:01:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-11-13 05:02:00",
       "album": {
-        "name": "The Fun Ones",
-        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
-      },
-      "artists": [
-        {
-          "name": "RJD2",
-          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
-        }
-      ],
-      "duration_ms": 281805,
-      "name": "Indoor S'mores",
-      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
-    },
-    {
-      "added_at": "2020-11-13 05:02:00",
-      "album": {
         "name": "Du-Vibrations",
         "url": "https://open.spotify.com/album/6tg0wj5eMhCIAP67kQZ7Q2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 175537,
       "name": "Du-Vibrations",
       "url": "https://open.spotify.com/track/0uv5Ypi8uZeQAljcUkUhhn"
+    },
+    {
+      "added_at": "2020-11-13 05:02:00",
+      "album": {
+        "name": "The Fun Ones",
+        "url": "https://open.spotify.com/album/4xTGDldacEINrMyVRXUfVH"
+      },
+      "artists": [
+        {
+          "name": "RJD2",
+          "url": "https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn"
+        }
+      ],
+      "duration_ms": 281805,
+      "name": "Indoor S'mores",
+      "url": "https://open.spotify.com/track/2bzch1uNsKXSXE1zoctEag"
     },
     {
       "added_at": "2021-05-14 04:01:00",

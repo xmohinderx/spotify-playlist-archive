@@ -1,12 +1,12 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover:  Naomi Raine",
-  "num_followers": 19256,
+  "num_followers": 19357,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMDJjNGFmYmVjN2U3ZmZmNDg5ZDg4MGZkNmRkZDQ0MDBm",
+  "snapshot_id": "MTY1ODAzNzk5NiwwMDAwMDAwMDIwMTlkMjE0YzQ4YzEzM2M0NzNiNDYzZjBmZDc3ZDQ0",
   "tracks": [
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
+        "name": "I Get",
+        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 210124,
+      "name": "I Get",
+      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
         "name": "Backslide",
         "url": "https://open.spotify.com/album/22XnIqlTbgEse4XimFOS3F"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 289134,
       "name": "Enemies and Foes",
       "url": "https://open.spotify.com/track/3oEedh41qZHd3dgjHnU158"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
-        "name": "I Get",
-        "url": "https://open.spotify.com/album/0FCJvjYANyoBjwPB1pTkGm"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 210124,
-      "name": "I Get",
-      "url": "https://open.spotify.com/track/4dDdzGf7c5Yv02BgGgl1pI"
     },
     {
       "added_at": "2022-07-17 06:04:21",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-07-17 06:04:21",
       "album": {
-        "name": "I Was Loved",
-        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
-      },
-      "artists": [
-        {
-          "name": "Davy Flowers",
-          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "I Was Loved",
-      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
-    },
-    {
-      "added_at": "2022-07-17 06:04:21",
-      "album": {
         "name": "The Garden (Acoustic)",
         "url": "https://open.spotify.com/album/7rP5slB9wIgFH02TW5TTo9"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 253589,
       "name": "Culture of Love - Acoustic",
       "url": "https://open.spotify.com/track/0j23kPgV9SS33uryzFjUnN"
+    },
+    {
+      "added_at": "2022-07-17 06:04:21",
+      "album": {
+        "name": "I Was Loved",
+        "url": "https://open.spotify.com/album/6vky6IC6laXzH5ZViLAJ68"
+      },
+      "artists": [
+        {
+          "name": "Davy Flowers",
+          "url": "https://open.spotify.com/artist/36Jk5sBdoGWR9iP4GX49EU"
+        }
+      ],
+      "duration_ms": 281880,
+      "name": "I Was Loved",
+      "url": "https://open.spotify.com/track/1bVIWSmlFhGU5pAjY7weXM"
     },
     {
       "added_at": "2022-07-17 06:04:21",

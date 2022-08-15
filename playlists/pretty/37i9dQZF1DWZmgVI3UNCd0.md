@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZmgVI3UNCd0.md) - [plain]
 
 > Dastaangoi dedicates this playlist to tender moments South Asian parents shared growing up\. Songs that are deeply embedded in their memories celebrating moments of life, love and friendship\. Cover: Musarrat Nazir
 
-[Spotify](https://open.spotify.com/user/spotify) - 386 likes - 33 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 391 likes - 33 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

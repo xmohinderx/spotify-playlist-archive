@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-250 songs - 15 hr 37 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+251 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Criminals](https://open.spotify.com/track/3VXYFcGHEIw5ywsr5Iv2fR) | [HuskyMe](https://open.spotify.com/artist/5VVQUfkqJpxSOZI8xiBksM) | [Criminals](https://open.spotify.com/album/3HWhIQCFFhGypEYwbmnGMb) | 5:04 | 2021-12-09 | 2022-01-04 |
 | [Crow](https://open.spotify.com/track/5OdRwXb4YC9oKbEkPWqL0w) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Crow](https://open.spotify.com/album/2yc0lc7HfDkZmOVzOITwhZ) | 4:56 | 2021-12-09 | 2022-07-29 |
 | [Curls](https://open.spotify.com/track/3NLm801woJocONz1NmPJZR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Curls](https://open.spotify.com/album/1cAlKAmWKhORglznBK7sup) | 3:17 | 2021-12-09 |  |
-| [Deep End](https://open.spotify.com/track/7nowvvvfEDoXCYbTq6EgOA) | [hapi](https://open.spotify.com/artist/6rfgYxT7DtOiLwmRPUMVVX), [jules](https://open.spotify.com/artist/4tCgNfO9mxqSrSPUWBDrGP), [Cellar Door](https://open.spotify.com/artist/6Mgh8mpQeGs7Ro3j6D4Ge2) | [Luv Trip](https://open.spotify.com/album/3Hw9Dw7O9si8TnLXqLaWQ5) | 3:08 | 2022-04-14 |  |
+| [Deep End](https://open.spotify.com/track/7nowvvvfEDoXCYbTq6EgOA) | [hapi](https://open.spotify.com/artist/6rfgYxT7DtOiLwmRPUMVVX), [jules](https://open.spotify.com/artist/4tCgNfO9mxqSrSPUWBDrGP), [Cellar Door](https://open.spotify.com/artist/6Mgh8mpQeGs7Ro3j6D4Ge2) | [Luv Trip](https://open.spotify.com/album/3Hw9Dw7O9si8TnLXqLaWQ5) | 3:08 | 2022-04-14 | 2022-08-15 |
 | [Devil's Sweetheart](https://open.spotify.com/track/0vd4xi49P5nE2CKsDPHmkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX), [Olmo](https://open.spotify.com/artist/1eeXVA2sTpR51UoCDfjzOW) | [Devil's Sweetheart](https://open.spotify.com/album/2FhvMcP1mm2SSp3q5htGtp) | 4:32 | 2022-04-14 | 2022-04-21 |
 | [Devils, Pt\. 1](https://open.spotify.com/track/5nMCoSHD7BaCWJxqvyKfWe) | [O'SULLIVAN](https://open.spotify.com/artist/7HsLh1ehOq28zgMBpKBcVT) | [Devils, Pt\. 1](https://open.spotify.com/album/0avc69eE3Y2ten0YW9L817) | 3:01 | 2022-06-30 | 2022-07-06 |
 | [Distant Drone](https://open.spotify.com/track/5IGlEBSdxXplHHeaU4XaIC) | [Alas The Sun](https://open.spotify.com/artist/52QvykWrycjsveZSRxtw7a) | [Distant Drone](https://open.spotify.com/album/6QSDE7pccOxejk0ukKxWwt) | 3:50 | 2022-05-26 | 2022-07-26 |
@@ -212,6 +212,7 @@
 | [Speaking of the End](https://open.spotify.com/track/05WcicrMesButARnfWkrJe) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Speaking of the End](https://open.spotify.com/album/4a5PcKfE79MAbm89YNtEVN) | 3:08 | 2021-12-09 | 2022-07-28 |
 | [Speaking of the End](https://open.spotify.com/track/0VgTi18CjUoI1frSMsNXWT) | [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Through Water](https://open.spotify.com/album/4U7KMGWUL0FQtYCVxVy1Za) | 3:08 | 2022-07-21 |  |
 | [Spiders](https://open.spotify.com/track/08QzqlCCkyKhL0OpLvfDNC) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Spiders](https://open.spotify.com/album/75Qwc3d50bgNBmzleMEWJK) | 3:48 | 2022-01-21 | 2022-08-13 |
+| [Spiders](https://open.spotify.com/track/416r5CNwByClIGHhs2U5PO) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 3:48 | 2022-08-11 |  |
 | [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2021-12-09 |  |
 | [Stay High](https://open.spotify.com/track/3fDqdR9QqcsgFTRFqy14Ki) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Stay High](https://open.spotify.com/album/4gb0j034W6vgCDwRO2N88c) | 3:11 | 2022-04-14 | 2022-04-20 |
 | [Stay High](https://open.spotify.com/track/5zFaNeTwCtsBbMc72FtXVo) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:11 | 2022-07-21 |  |
