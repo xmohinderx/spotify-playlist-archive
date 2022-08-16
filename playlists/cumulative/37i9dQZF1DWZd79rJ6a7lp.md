@@ -4,7 +4,7 @@
 
 > Gentle ambient piano to help you fall asleep.
 
-644 songs - 1 day 8 hr 52 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
+647 songs - 1 day 9 hr 0 min - [published](https://open.spotify.com/playlist/6Os0B0cFHuLYh517afaioq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,7 +15,7 @@
 | [A l'aube](https://open.spotify.com/track/4kyq9I3MUOK4UCt9KojulV) | [Charmaine D'Avis](https://open.spotify.com/artist/62nJsaKqTjBj5aHPE1RyqZ) | [A l'aube](https://open.spotify.com/album/2PiAhpMBDjNqN85uHRf60G) | 3:24 | 2020-10-20\* | 2020-12-12 |
 | [A Moment](https://open.spotify.com/track/0OAe3X4UFaUJoThyNE88Ah) | [Baimine](https://open.spotify.com/artist/44h6Gl9hvuL0OUFdxYhmU2) | [A Moment](https://open.spotify.com/album/3f5viWsZmXNgKUUVayDeN6) | 2:10 | 2022-03-15 |  |
 | [A New Day](https://open.spotify.com/track/2YmHA1zfrkam6TaO5mkQgZ) | [Cooper Sams](https://open.spotify.com/artist/5dQtzw5YaP9ZCMv0GWymws) | [A New Day](https://open.spotify.com/album/0yfSVnunzAXRjdc89P502Q) | 4:15 | 2020-10-20\* | 2021-03-14 |
-| [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-05-04 |  |
+| [A New Tomorrow](https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW) | [Dormantia](https://open.spotify.com/artist/12FwCUGACuerxilzPp3UgN) | [A New Tomorrow](https://open.spotify.com/album/4nEYU3MjOoJ360A2ovMH6r) | 2:52 | 2021-05-04 | 2022-08-16 |
 | [A Night In Spring](https://open.spotify.com/track/6j6wtwEtxK5ZAXzRK47WED) | [Ardah](https://open.spotify.com/artist/6mQg8hTrGBvS36Jjl7Ajr2) | [A Night In Spring](https://open.spotify.com/album/7iLqhJMN4MlHHsp0JGbtJ6) | 2:31 | 2022-03-15 |  |
 | [A Solid State](https://open.spotify.com/track/0j7itsX7DkAsHJQQGL4XJe) | [Paradise Sunset](https://open.spotify.com/artist/0YvhzvrLHLXVPLQddmDj3m) | [A Solid State](https://open.spotify.com/album/31b43Zr4Eb7nNEnsX6GywM) | 2:53 | 2021-10-30 | 2022-01-29 |
 | [Above The Sky](https://open.spotify.com/track/1HyF8oeszW3S6jH06da7kc) | [Indecent Sound](https://open.spotify.com/artist/32Ha8UYomRzgQyLqzYvOu7) | [Above The Sky](https://open.spotify.com/album/6UUZM30QvIYy5ocP6AMb5N) | 3:10 | 2020-10-20\* | 2021-05-04 |
@@ -227,6 +227,7 @@
 | [Faith](https://open.spotify.com/track/0tlaXq5Jk0rYFogY2LGpnX) | [Jiao Ch'ien](https://open.spotify.com/artist/6cz6KGJs1Q28j0nknp9sck) | [Faith](https://open.spotify.com/album/2y0YzytMEQu4AuClxclIYg) | 2:49 | 2020-10-20\* | 2021-05-04 |
 | [Falling Stars](https://open.spotify.com/track/6nx6oC4HgnZOxC4dgsPiIU) | [Delle Alpi](https://open.spotify.com/artist/6F3AbMb1nVGlPROQ0nQBqU) | [Falling Stars](https://open.spotify.com/album/54v5ne5y23CTRYnaU2yyQS) | 2:38 | 2020-10-20\* | 2021-03-14 |
 | [Fermez vos yeux](https://open.spotify.com/track/7fjl8fmaUdRWNstdzGHCeF) | [Matilda Charpie](https://open.spotify.com/artist/5W0bcXKJ4xnO3q0ViObq0N) | [Fermez vos yeux](https://open.spotify.com/album/1uUObEiPqN0i7YzA3MR7RL) | 2:34 | 2020-10-20\* | 2021-03-14 |
+| [Feuilleter](https://open.spotify.com/track/3ns1BYQtxuSyxk6SlTU0d8) | [Darcel Gau](https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo) | [Feuilleter](https://open.spotify.com/album/4ASoerHbEoOQBDYKoFO4CQ) | 2:50 | 2022-08-15 |  |
 | [Filaments In The Dark](https://open.spotify.com/track/6ydoT7msnxWSz7jhMxC539) | [Into A Dream](https://open.spotify.com/artist/4V3QwXoUMFmSF1aJ934nbS) | [The Silent Mind](https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H) | 3:21 | 2020-10-20\* | 2021-02-06 |
 | [Fill You In](https://open.spotify.com/track/3PWJLmavjdgyN1PgNc2g8y) | [Nea Thomas](https://open.spotify.com/artist/28tnxZs2E0Gs4r8xGcgG8J) | [Fill You In](https://open.spotify.com/album/0S6vKISn4KY3C9dKfJLpQF) | 3:01 | 2022-01-21 |  |
 | [Finalement](https://open.spotify.com/track/0X1yIZPqq7RJv3QtSy2W83) | [Nuit Pluie](https://open.spotify.com/artist/6fPF7rV8SX0fysuJVs7mZb) | [Finalement](https://open.spotify.com/album/7smRBKywYWDRKGrLQx5p4H) | 2:56 | 2020-10-20\* | 2021-06-16 |
@@ -405,6 +406,7 @@
 | [Oko marries Eb](https://open.spotify.com/track/2RU8cVyW2Js19dwySkLdFb) | [Rim\-Shaz](https://open.spotify.com/artist/5n4T8k6ARS41dwOCoWEcIg), [Shibb](https://open.spotify.com/artist/3S9OW04ZfXbQUjzGvjAlPZ), [Mihail Holland](https://open.spotify.com/artist/0sZ56cw6KfDxiDmNR76eHC) | [Oko Marries Eb](https://open.spotify.com/album/2KD6oJxMadbwqdHndNSxK1) | 3:25 | 2021-03-14 | 2021-09-03 |
 | [Old Station Atmos](https://open.spotify.com/track/02uEjuRG2GnzUVvyL0KWro) | [Xavier Ortando](https://open.spotify.com/artist/5DUWKbIv5XlkqcmXNqZYme) | [Old Station Atmos](https://open.spotify.com/album/75tGA9NBEDDoidb2YJbfUv) | 3:31 | 2021-03-14 | 2021-09-03 |
 | [Omniscient](https://open.spotify.com/track/3MG6fFcoFduAh2sjRmIYZg) | [Geneviève Corin](https://open.spotify.com/artist/2OZcj5SwwY93YZWnNdzD38) | [Omniscient](https://open.spotify.com/album/4nyurPRXDeFSQl7VYAl979) | 2:37 | 2022-05-19 |  |
+| [One And The Same](https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [One And The Same](https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2) | 2:37 | 2022-08-15 |  |
 | [One More Star](https://open.spotify.com/track/63MzmVZAxZ0iPrm9NPHUxj) | [Monorie](https://open.spotify.com/artist/1JZno0x00fpuTL7Kw6uUMD) | [One More Star](https://open.spotify.com/album/2eC7jLyOVw6Xec0JqGbLkA) | 2:54 | 2020-10-20\* | 2020-12-12 |
 | [Ons](https://open.spotify.com/track/07UDTaRYJAsIhUZTyZSUzM) | [Huma](https://open.spotify.com/artist/518pvehpCn4yp3oJJbr6zA) | [Ons](https://open.spotify.com/album/2cdvRClGJPAHpK0ACSFSfu) | 3:13 | 2021-10-30 |  |
 | [Orbit](https://open.spotify.com/track/0k2baNK3JldkN4gBfIJUOo) | [Epic Centre](https://open.spotify.com/artist/1LKqgLACkIlBWmt3nbm7iX) | [Orbit](https://open.spotify.com/album/3l95szTHiJot7IHB5luSS8) | 2:04 | 2020-10-20\* | 2021-02-06 |
@@ -561,6 +563,7 @@
 | [Sunrise Glory](https://open.spotify.com/track/4BOCx4hnSq0xWO3lcEbibQ) | [Naturally Recurring](https://open.spotify.com/artist/2iZyGXzGD6s9U9QkirdcbF) | [Light of The Moon](https://open.spotify.com/album/6ZZDP2jaqUAS54oJUjZ9jV) | 4:09 | 2020-10-20\* | 2021-03-14 |
 | [Surrendering](https://open.spotify.com/track/57sxeemF1LxEGqZ9w4HQvi) | [Dreamscaper](https://open.spotify.com/artist/1TGL84E8oiiO2ygE0a2Ml6) | [Insomnia Curator](https://open.spotify.com/album/5vnD6fdKYuCfbl2Fjj1BUK) | 4:20 | 2020-10-20\* | 2020-12-12 |
 | [Swallows at Dawn](https://open.spotify.com/track/1kBCGoGY3CSDCECitxm8an) | [Tiko Lapé](https://open.spotify.com/artist/4AU0q36eFVeu6YMkFiY6UG) | [Swallows at Dawn](https://open.spotify.com/album/7yYHaRkdy78NVOXkDV276M) | 2:48 | 2021-07-07 |  |
+| [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |
 | [Sömn](https://open.spotify.com/track/0RVsJTnSwdLQ6F8ruukszk) | [Sanja Göransson](https://open.spotify.com/artist/1bMBJo82A2IeRahsh3JsQn) | [Sömn](https://open.spotify.com/album/6f6D9XxUpFpCbBmeTpzKRL) | 2:48 | 2020-10-20\* |  |
 | [Ta chaleur](https://open.spotify.com/track/1svn4a7lSTz623VTmqZKSi) | [Cara Bergé](https://open.spotify.com/artist/0Fgwr7BVpbWeMTLwV973mw) | [Ta chaleur](https://open.spotify.com/album/4ubcU6RHfY7adsUB4xED4O) | 3:00 | 2021-09-22 |  |
 | [Taivas](https://open.spotify.com/track/7lKhxWhv5sPG9MBaDfdJL7) | [Lumi Couri](https://open.spotify.com/artist/3lxrrGQ5yyzG43gu1ttAfP) | [Taivas](https://open.spotify.com/album/4eZo8y8cM7ZGqaUJoaooZ9) | 2:24 | 2021-05-04 |  |

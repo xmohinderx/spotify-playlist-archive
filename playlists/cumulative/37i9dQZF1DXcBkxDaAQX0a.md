@@ -4,7 +4,7 @@
 
 > Take a break from distorted guitars and enjoy punk's mellow side\. Cover: Avril Lavigne
 
-249 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
+250 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/2gYz3qj1b5UVMrGVG0Oipm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,8 +15,9 @@
 | [A Decade Under The Influence \- Acoustic](https://open.spotify.com/track/6c6vG7r3RWpiuIrawHNpd7) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Punk Goes Acoustic, Vol\. 3](https://open.spotify.com/album/51ltci877NFn74Zi9NCVy6) | 4:12 | 2021-02-08 |  |
 | [A Dog Named Fletcher](https://open.spotify.com/track/2SqUavFkcpnddrJL3Uqdfy) | [Atlantic Wasteland](https://open.spotify.com/artist/4qypZ10TKGdQI9LMO3Wot7) | [You'll Never See the Bigger Picture If You're Standing That Close](https://open.spotify.com/album/1CYuzHI69dDkpLr2qA9b0H) | 4:54 | 2021-02-08 | 2022-07-29 |
 | [A Long Goodbye](https://open.spotify.com/track/5CW7uKVlnpiVGk3xP6FBgX) | [Bogues](https://open.spotify.com/artist/3JDpR3motc4EQEe444LhBy) | [A Long Goodbye](https://open.spotify.com/album/0YRGdSy8cvho9gq08iiQ89) | 4:16 | 2021-02-08 | 2022-06-28 |
-| [A Part of Me](https://open.spotify.com/track/65LjCuIAEUX2AmWUjD9tA3) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH), [Laura Whiteside](https://open.spotify.com/artist/4tz0kHgeHJbLIKEwwPTD7k) | [Rain in July](https://open.spotify.com/album/0Xm0sR7pFW595z93S13oJL) | 3:09 | 2022-04-04 |  |
+| [A Part of Me](https://open.spotify.com/track/65LjCuIAEUX2AmWUjD9tA3) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH), [Laura Whiteside](https://open.spotify.com/artist/4tz0kHgeHJbLIKEwwPTD7k) | [Rain in July](https://open.spotify.com/album/0Xm0sR7pFW595z93S13oJL) | 3:09 | 2022-04-04 | 2022-08-16 |
 | [A Part Of Me \(feat\. Laura Whiteside\)](https://open.spotify.com/track/006hfStQk9L7MVT9RcDeva) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July / A History Of Bad Decisions](https://open.spotify.com/album/3s8glGKcCu04kfjlIG9wgl) | 3:09 | 2021-02-08 | 2022-07-29 |
+| [A Part Of Me \(feat\. Laura Whiteside\)](https://open.spotify.com/track/1tQsbO9e25DNPCmZhbCB26) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Rain In July](https://open.spotify.com/album/13C2WGkljqaE62wJjsvENT) | 3:09 | 2022-04-04 |  |
 | [A Spot on the Wall \- Acoustic](https://open.spotify.com/track/1MO50WyxNLzm2IId68yMcp) | [Overgrow](https://open.spotify.com/artist/0JF3phIHeUwu0WwMBGvegA) | [A Spot on the Wall \(Acoustic\)](https://open.spotify.com/album/5TwBOiGfawfH7m3U5xCfIM) | 4:40 | 2021-02-08 | 2022-06-14 |
 | [A Wasted Hymn \- Acoustic](https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [A Wasted Hymn \(Acoustic\)](https://open.spotify.com/album/7KRlYg5KtNGgxtOlFmtmFg) | 4:05 | 2022-04-04 |  |
 | [Ache](https://open.spotify.com/track/19QanLbRIRwDnOGmH4u8Ny) | [Youth Fountain](https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD) | [Letters to Our Former Selves](https://open.spotify.com/album/20136PdgjDFuN5yAt1F8sj) | 1:53 | 2021-02-08 | 2022-06-10 |

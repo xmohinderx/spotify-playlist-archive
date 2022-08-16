@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa71eg5j9dKZ.md) - [plain]
 
 > Altar is going live at Printworks this September\. <a href="https://go.kaboodle.co.uk/altar">Get tickets here</a> and celebrate with a unique edition of the playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 403,884 likes - 120 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 403,977 likes - 120 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

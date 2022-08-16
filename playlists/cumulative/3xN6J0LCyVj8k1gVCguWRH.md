@@ -4,7 +4,7 @@
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-1,596 songs - 3 day 21 hr 10 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
+1,597 songs - 3 day 21 hr 14 min - [published](https://open.spotify.com/playlist/1AcLeLszzRGwJ7MbajlpFn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -624,6 +624,7 @@
 | [HER \(Feat\. Sonny Zero\)](https://open.spotify.com/track/7FxWATwVZTCoI27cHecoh6) | [XAXA](https://open.spotify.com/artist/2Rtn7OFpkjyS5OXGaKzwW1), [Sonny Zero](https://open.spotify.com/artist/40X7tXw4Tk4m5WFDfGJnZe) | [HER](https://open.spotify.com/album/10rKqG1BP7wUSzT8VupqqF) | 3:26 | 2022-03-17 | 2022-04-06 |
 | [Here](https://open.spotify.com/track/1ol3jyBHKivNGfv3Yoiw5B) | [Grace Kay](https://open.spotify.com/artist/5XUKBYaVDPMDlKVTS3hSlT) | [Here](https://open.spotify.com/album/4iKgNZBmlBDDi8hXfJq9Q5) | 3:50 | 2021-11-13 | 2021-12-05 |
 | [Here](https://open.spotify.com/track/0u30fnLtlD0lSWKdPd8P7T) | [SILKIN](https://open.spotify.com/artist/0BHnU3S7yoIJvmMzi4IxMt) | [Here](https://open.spotify.com/album/4heIQ4yNXoV8eqA3VADW7p) | 2:20 | 2020-03-28 | 2020-04-07 |
+| [Here by Your Side](https://open.spotify.com/track/1lcnkpkUDHYKviq5RglST3) | [Gavriel](https://open.spotify.com/artist/4uZYkecG20FolZDNjrB2US), [Atli](https://open.spotify.com/artist/3K075m0ezXFrAdGtZUawkB) | [Here by Your Side](https://open.spotify.com/album/0OG967M8Has8Df0Xh1ODc4) | 3:41 | 2022-08-15 |  |
 | [Hey!](https://open.spotify.com/track/2JLmWnsbcCWVLxHdWe3GVw) | [Vectralux](https://open.spotify.com/artist/00dlRHUJ1mitMDJ1NAVMAa) | [Each Morning and the Morning Thereafter](https://open.spotify.com/album/1DaayVwmX98LMOuA96LOaZ) | 1:51 | 2021-11-20 | 2021-12-05 |
 | [Hiding From Time](https://open.spotify.com/track/5bjKCoPVkFlGrisTf2tsUU) | [Jules](https://open.spotify.com/artist/1qqiy3nqkm9KojCzfmp6Ea) | [Hiding From Time](https://open.spotify.com/album/3uViIT6QAdGOGa9XDNqXvw) | 4:14 | 2022-02-22 | 2022-03-12 |
 | [High](https://open.spotify.com/track/5gLhzK8Kw9KLF8KsJsrMrd) | [BVRRN](https://open.spotify.com/artist/7Ej3lUk6zjH7k9dUCoKrOO) | [High](https://open.spotify.com/album/3Pjufswnv1AjfTfc7eyL6M) | 3:23 | 2021-04-24 | 2021-05-09 |

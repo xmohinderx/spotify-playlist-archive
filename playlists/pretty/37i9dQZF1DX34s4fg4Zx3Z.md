@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,329 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,337 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sao Em Không Rep?](https://open.spotify.com/track/2IyaEEU6uYI20qnYpfBxeP) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [Sao Em Không Rep?](https://open.spotify.com/album/5PAvmwRrUuTWwf3ImHeYJq) | 3:11 |
 | 100 | [Mai Về](https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Myhai](https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ) | [Mai Về](https://open.spotify.com/album/1e2eM8MOgpmvsaSoa1gqi2) | 5:00 |
 
-Snapshot ID: `MTY2MDQxMDAwMCwwMDAwMDAwMDM4NjNiNTA3Y2E3MDU1ODU3NmQyOWI5NDhkMjJkNWVm`
+Snapshot ID: `MTY2MDYxMjMzMSwwMDAwMDAwMDU0MGNlZGY2ZjA5OWYwYWM3NDRjYWI2YThhNDJhODI1`

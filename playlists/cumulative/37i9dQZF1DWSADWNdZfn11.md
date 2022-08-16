@@ -4,7 +4,7 @@
 
 > Relax and unwind with gentle piano covers.
 
-85 songs - 4 hr 41 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
+86 songs - 4 hr 46 min - [published](https://open.spotify.com/playlist/6TQH1ddWIcxWjiiu5iMjvS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Diamonds and Pearls](https://open.spotify.com/track/3WKpflEjBgrePheA5AzsU1) | [Simon Westman](https://open.spotify.com/artist/5BfaOl251rYEVEU1RCwzSW) | [Diamonds and Pearls](https://open.spotify.com/album/7IBC5tXIczTPEPbSIlUGd1) | 2:57 | 2022-08-01 |  |
 | [Don't Know Why](https://open.spotify.com/track/12XFOelqiJscv38MPyMqjf) | [Giorgia Montagner](https://open.spotify.com/artist/5TIL6KAyK9cmkOqiHwj7Yu) | [Don't Know Why](https://open.spotify.com/album/3Ps2GzZx1pI6WgBaEaILrL) | 2:43 | 2022-08-01 |  |
 | [Dreams](https://open.spotify.com/track/7pdumwOPFHj0SvHNNShtxc) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Hans Mölle](https://open.spotify.com/album/0uneLltOy1UqoLrXpmYb4D) | 4:37 | 2022-08-01 |  |
+| [Drivers License](https://open.spotify.com/track/1PgXOzu9gBTlDwuHBrS4gR) | [Minnz Piano](https://open.spotify.com/artist/0IqjJsWlAPR2IafHTtnjPQ) | [Sour: Piano Instrumentals](https://open.spotify.com/album/7Gz4bLngGOjRyrkygaDL1O) | 4:20 | 2022-08-15 |  |
 | [Every Breath You Take](https://open.spotify.com/track/3qLlQ4RLl3B8PaEdIG6H0d) | [Tomas Lee](https://open.spotify.com/artist/4gAbYtySCDOGOXHEUjrQVe) | [Every Breath You Take](https://open.spotify.com/album/2OhAmXifsCYytlfNT5hRKB) | 3:47 | 2022-08-01 |  |
 | [Faded \- Piano Version](https://open.spotify.com/track/0I0aKos7NfcwAKOZf49etE) | [Daniele Leoni](https://open.spotify.com/artist/22SXqNAFCWyVYuUfvUo6zj) | [Pop Pianology, Vol\. 3](https://open.spotify.com/album/2WDlp0qPSo6uE0CpwfdXKh) | 2:01 | 2022-08-01 |  |
 | [Fields of gold](https://open.spotify.com/track/0XQKhaXCmkXURkz92za8pX) | [Mio Camara](https://open.spotify.com/artist/3IxsGUuQ0znzQTqASdftJq) | [Fields of gold](https://open.spotify.com/album/5rhWv8xXKNsfXKkTOOIhlv) | 3:33 | 2022-08-01 |  |

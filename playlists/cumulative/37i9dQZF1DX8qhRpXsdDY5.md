@@ -2,7 +2,7 @@
 
 ### [Latin Christmas](https://open.spotify.com/playlist/37i9dQZF1DX8qhRpXsdDY5)
 
-> The perfect Latin tunes to get in the Christmas spirit\. Cover: El Alfa
+> The perfect Latin tunes to get in the Christmas spirit\. Cover: Luis Miguel
 
 122 songs - 7 hr 22 min - [published](https://open.spotify.com/playlist/3HjIJ3sXLe73tAroOhDnrQ)
 

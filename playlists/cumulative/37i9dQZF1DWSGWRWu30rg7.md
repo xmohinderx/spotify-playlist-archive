@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Kemal Dave\. Artwork: Isu Kim.
 
-925 songs - 2 day 8 hr 41 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
+926 songs - 2 day 8 hr 44 min - [published](https://open.spotify.com/playlist/56sjum0leqDJVjHk9gB1Ns)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -393,6 +393,7 @@
 | [Jangan Ragu](https://open.spotify.com/track/6vLgxZ2b3ytca4pgNyO26v) | [Alvons Freedom](https://open.spotify.com/artist/5JiWhinNO2kXOVJkoIK1NH) | [Jangan Ragu](https://open.spotify.com/album/4TRPlyFUMZc7bQU7JaNfPd) | 3:44 | 2022-06-09 | 2022-07-01 |
 | [Jarak](https://open.spotify.com/track/4CnrJ7HvyZPlAMn5CquxjP) | [Teras Manusia](https://open.spotify.com/artist/1sFGLCgcHKBJntKLgjHT4W) | [Jarak](https://open.spotify.com/album/2QvkQrmZD8M5ZhTw2tQGh8) | 2:23 | 2022-03-04 | 2022-03-18 |
 | [Jatuh Cinta](https://open.spotify.com/track/1G7zCTWeJHZyv8De4twDnD) | [Rashilla Diva](https://open.spotify.com/artist/0DI2UfjlLsWF5pjDh4oYas) | [Jatuh Cinta](https://open.spotify.com/album/7HpSygCA4zEZWSEvNdemnm) | 4:04 | 2022-05-19 | 2022-06-03 |
+| [Jealousy](https://open.spotify.com/track/17gZ1nv5IsPUNiCya1Xm8M) | [Dreane](https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa) | [Jealousy](https://open.spotify.com/album/5LA2KHoFqxhx7AEsgiAo8j) | 3:17 | 2022-08-15 |  |
 | [Jendela Kereta](https://open.spotify.com/track/4LOc1VxhMQL93Ywws0AQrN) | [Ichal Key](https://open.spotify.com/artist/5IRp12GzKH645d1n28dm6l) | [Jendela Kereta](https://open.spotify.com/album/4iBYnncekOts1gBwEnXFS5) | 3:25 | 2022-02-10 | 2022-02-25 |
 | [Jerat Rasa](https://open.spotify.com/track/6T8rc5A9zyzVz1IiClZiqH) | [Teressa Deandra](https://open.spotify.com/artist/5sX4FgCdqLUpFcaq3Bsa0e) | [Jerat Rasa](https://open.spotify.com/album/1y6dFdVAA2F0KdKmRtrQix) | 4:33 | 2022-01-06 | 2022-01-14 |
 | [Jerih](https://open.spotify.com/track/43JcPdcyAGT67I1jyuY2aF) | [Umar Haen](https://open.spotify.com/artist/2eAzBWJlcjAqd4RUlu3xeb) | [Jerih](https://open.spotify.com/album/6iIcYet2JqB2oYEvRt7r9z) | 4:43 | 2022-04-14 | 2022-04-29 |

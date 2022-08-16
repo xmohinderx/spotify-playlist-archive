@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 
 > Entre clásicos y nuevos intérpretes, puro Chamamé.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,251 likes - 90 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,274 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 21 | [Sargento Sapo](https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO) | [Los Criollos del Chamamé](https://open.spotify.com/artist/36f2CIEqFhCCBwCe68juJu) | [Festejando los 30 Años](https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY) | 2:22 |
 | 22 | [No Cualquiera Es Correntino](https://open.spotify.com/track/1IMq2t2VTsidbZZoMyC5Hz) | [Los de Mailin](https://open.spotify.com/artist/3dOc8TrWBy34iRv0TaXolB) | [20 Grandes Exitos](https://open.spotify.com/album/0KsDfdfztZFSAcwne4wBnx) | 2:13 |
 | 23 | [Mi Caballo Bayo](https://open.spotify.com/track/3iCMhCbsCPA91D1NQDZaNg) | [Conjunto Ivoti](https://open.spotify.com/artist/1hwojP1Bi7ipcn0qFbe8tP), [J\. C\. Mansilla](https://open.spotify.com/artist/2ZiY6mXjKkE7do2nMZ7R6b) | [30 Años Después](https://open.spotify.com/album/29qdVczira2f72fAfz51fB) | 2:57 |
-| 24 | [Caña Doble para Mi Padre](https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:01 |
-| 25 | [Entre Amigos Y Chamamé](https://open.spotify.com/track/68lfXFiREjevJ2Xm05cp0S) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx) | [10 Años Unidos Por El Chamamé](https://open.spotify.com/album/5BSGqrWI8EBtBiwHm87fyf) | 2:53 |
-| 26 | [Nazareno](https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY) | 4:35 |
-| 27 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
+| 24 | [Entre Amigos Y Chamamé](https://open.spotify.com/track/68lfXFiREjevJ2Xm05cp0S) | [Los Chaque\-Che](https://open.spotify.com/artist/4uo92PaMFbm6uMRsO48vBx) | [10 Años Unidos Por El Chamamé](https://open.spotify.com/album/5BSGqrWI8EBtBiwHm87fyf) | 2:53 |
+| 25 | [Nazareno](https://open.spotify.com/track/2FbrtqmmC0Y6iOyxU9KmMF) | [Chango Spasiuk](https://open.spotify.com/artist/0qGRkfnUqWeG49vbCv6rMY) | [Otras Músicas](https://open.spotify.com/album/0JJuFYrBjBOrE9WlmVHgIY) | 4:35 |
+| 26 | [Mi Zaino Colorado / Al Pago de Federal / Tirador Sin Flecos \- En Vivo](https://open.spotify.com/track/0HeZU11H9gPbOipWUD81E5) | [Los Majestuosos Del Chamamé](https://open.spotify.com/artist/6P7mWyfrVRNgrd5DWjgkAp) | [Enganchados en Vivo Desde San José Feliciano / Nacional, Vol\. 2](https://open.spotify.com/album/3WT6s7UYfNlfID6p6N5BWZ) | 7:35 |
+| 27 | [Caña Doble para Mi Padre](https://open.spotify.com/track/6qZJ0iNA42Lp3KQ8r3Ya1K) | [Los Capos del Chamamé](https://open.spotify.com/artist/2fraDBQHUglHA6DqEPQttn) | [El Guachito](https://open.spotify.com/album/16W5MBEtLcVbqZbcMRJfhM) | 3:01 |
 | 28 | [Adiós Ciudad de Mercedes](https://open.spotify.com/track/3eQ8GfylQvontB06g9xn1Z) | [Los Sena](https://open.spotify.com/artist/3LIzi17zLwhW3k76I8DXcv) | [Reyes de la Alegría](https://open.spotify.com/album/5CKefLt3bYXbScxQNXHWvQ) | 2:10 |
 | 29 | [La Calandria](https://open.spotify.com/track/1r5cTK6CzYEIhDS1p81OS2) | [Raul Barboza](https://open.spotify.com/artist/50G8Md24RBllYioL9BeZ1s) | [Dos Orillas](https://open.spotify.com/album/0CsQeb1UcHckmnqmUB00Uz) | 3:16 |
 | 30 | [Kilometro 11](https://open.spotify.com/track/5UG0ZmLwcEkLfIXFThE3jP) | [Eduardo Miño](https://open.spotify.com/artist/6UhTcKovuQgaTKhyCaASTu) | [Eduardo Miño y Ruben Miño](https://open.spotify.com/album/7CX1bw7JINMo7W4MP2MFCR) | 2:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxOYf3Bkbam.md) - [plain]
 | 89 | [Pasion oculta](https://open.spotify.com/track/2lpjvCJ74NTch6KHCu2E73) | [Coquimarola](https://open.spotify.com/artist/51yXBBLIlRMDgnXVuDNHmy) | [Chamame los 100 mejores temas Vol 3](https://open.spotify.com/album/3qmelD4s5i1bfMfYyjKtJc) | 2:25 |
 | 90 | [No Hay Mal Que por Bien No Venga](https://open.spotify.com/track/7JqeiuKfK2BQkiRH3Py7UV) | [La Nueva Fuerza del Chamamé](https://open.spotify.com/artist/2ghm4hJmxW9aPNPaDtoHji) | [Sencillito Nomás](https://open.spotify.com/album/1zEMY4fiTvJsk6O77i6mJL) | 3:02 |
 
-Snapshot ID: `MTY1NzAzMDI5NiwwMDAwMDAwMGE3OTcxYzYxOTE3OTk5ODMzNGRhZmJlNDUxNTVmOGU3`
+Snapshot ID: `MTY1NzAzMDI5NiwwMDAwMDAwMDQxMTVmOTRlZjg1NTliZTVkNDEyMDI3NWVhMjNkYzYy`

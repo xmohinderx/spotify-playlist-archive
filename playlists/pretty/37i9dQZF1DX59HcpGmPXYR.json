@@ -1,12 +1,12 @@
 {
   "description": "The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride. Cover: Lady Gaga & Ariana Grande",
-  "num_followers": 629198,
+  "num_followers": 629190,
   "original_name": "Pride Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMDU2M2QwYmM5MTlhZjFhOGZjYWRlMjZjN2VjYzdhYzkx",
+  "snapshot_id": "MTY1ODk0OTcxMywwMDAwMDAwMDI4ZTA4MzVkNzExNmU2OTZiZDVlZTdhMGVhYmI5ODUz",
   "tracks": [
     {
       "added_at": "2022-06-01 06:00:00",
@@ -921,26 +921,6 @@
       "url": "https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh"
     },
     {
-      "added_at": "2022-06-01 06:00:00",
-      "album": {
-        "name": "I\u2019m Ready (with Demi Lovato)",
-        "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 200838,
-      "name": "I\u2019m Ready (with Demi Lovato)",
-      "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
-    },
-    {
       "added_at": "2021-06-01 06:00:00",
       "album": {
         "name": "Rhino Hi-Five: Deee-Lite",
@@ -1003,6 +983,26 @@
       "duration_ms": 185106,
       "name": "That's the Way (I Like It) - 2004 Remaster",
       "url": "https://open.spotify.com/track/1qiQduM84A0VeH8Y2uAbqi"
+    },
+    {
+      "added_at": "2022-06-01 06:00:00",
+      "album": {
+        "name": "I\u2019m Ready (with Demi Lovato)",
+        "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 200838,
+      "name": "I\u2019m Ready (with Demi Lovato)",
+      "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
     }
   ],
   "unique_name": "Pride Party",

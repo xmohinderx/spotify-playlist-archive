@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 
 > Piérdete en el misterio del bosque y sus poderes sanadores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,031 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,082 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 | 79 | [Immovable As The Mountain](https://open.spotify.com/track/54vCcg45Q7sXHnZ2V07Ad6) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [A True Master](https://open.spotify.com/album/3rkcHBayORKTNjpUyIY0Rw) | 2:08 |
 | 80 | [gayā](https://open.spotify.com/track/0qh1hvvSPTchiWltyuKG94) | [Alexandro Sanchez](https://open.spotify.com/artist/7MykLx9v0X71idSe7pc87a) | [Relajar](https://open.spotify.com/album/283nJ3zv17KPWNpzGetwvS) | 2:44 |
 | 81 | [Cuckoo](https://open.spotify.com/track/2BwiTu8QrHm09soMmegJbu) | [Cosmo Sheldrake](https://open.spotify.com/artist/6hV6oxGLeLFw17DGjIPkYD) | [Wake up Calls](https://open.spotify.com/album/6zZr0Y6Z6khPwf2LuZTK4K) | 2:25 |
-| 82 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 |
-| 83 | [Carousel](https://open.spotify.com/track/30ykZqam6zAwBhE2gz0kxB) | [Peppermoth](https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih) | [Glimmer Tide](https://open.spotify.com/album/4G2srZ65v02HfzENrB9wdr) | 4:10 |
+| 82 | [Carousel](https://open.spotify.com/track/30ykZqam6zAwBhE2gz0kxB) | [Peppermoth](https://open.spotify.com/artist/3m1iwGUxL5xcMHl1a0WTih) | [Glimmer Tide](https://open.spotify.com/album/4G2srZ65v02HfzENrB9wdr) | 4:10 |
+| 83 | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/track/1E5DCumnwDMoZm6DGhUo4V) | [The Golden Islands](https://open.spotify.com/artist/63zpgua95FrMeht9L50MZf) | [The Sapphire Waters of East Kalimantan](https://open.spotify.com/album/1gaKUiWdoNRRC7B3w5rCuv) | 2:40 |
 | 84 | [Palais Glide](https://open.spotify.com/track/54wW2YP4R8WrwUKW0ZGOgH) | [The Boats](https://open.spotify.com/artist/12LR7O3LG2tezoEBx1yhRa) | [Sleepy Insect Music](https://open.spotify.com/album/1RSl923cV9vOzKkPBzssDt) | 2:26 |
 | 85 | [Snow In June](https://open.spotify.com/track/4Z5VcxqmvvcECo7uWJF86v) | [Martin Landh](https://open.spotify.com/artist/3h6h9sKnuag3EateK306Ew) | [Penumbra](https://open.spotify.com/album/1QKIFdGbgz7yenrQiKWp2J) | 2:38 |
 | 86 | [Senseful](https://open.spotify.com/track/4ManKtJrC9Ry4yGXWfSJ9A) | [Eternal Ocean](https://open.spotify.com/artist/4o9SdUqz20DIjiXmxKbE3f) | [Miracle](https://open.spotify.com/album/7aAIykm8uOZg51FkNKMUNS) | 2:53 |
@@ -108,8 +108,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 | 98 | [Dim Lights](https://open.spotify.com/track/6mJK355PtWnKdKjtpGL80W) | [Sleeping Clouds](https://open.spotify.com/artist/2elRG1ncdGvrubFrws2U8K) | [Dim Lights](https://open.spotify.com/album/79Yp8TckAsyRc3xLTeg6HE) | 3:00 |
 | 99 | [Forest Hymn](https://open.spotify.com/track/1mdSp7m71uz8wi3o4y9HIu) | [Poemme](https://open.spotify.com/artist/4Uqu4U6hhDMODyzSCtNDzG) | [Moments in Golden Light](https://open.spotify.com/album/3GRbvsjOmWtfdngQBTf4a1) | 6:18 |
 | 100 | [Momentum](https://open.spotify.com/track/7DZzB8uRRpeGE9eHpnNUXs) | [Magnetic Dreams](https://open.spotify.com/artist/5DsqLNucfAOaAj3yEWefJc) | [Momentum](https://open.spotify.com/album/68YLbrQkvw2hUEYJGg33bm) | 2:27 |
-| 101 | [In the Landscapes of Baertling](https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [In the Landscapes of Baertling](https://open.spotify.com/album/7q68B1RkYD3MVoGn03pmFB) | 3:18 |
-| 102 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 |
+| 101 | [Morning Air](https://open.spotify.com/track/0Y6FUMPHer4pRCELNSLFx3) | [Wind Speaks](https://open.spotify.com/artist/06S55ZKieUgI9zFKhJVKsY) | [Morning Air](https://open.spotify.com/album/02yUGBp8deAAU2DPXYs2yZ) | 2:38 |
+| 102 | [In the Landscapes of Baertling](https://open.spotify.com/track/5jfwHrlDCV7skr3W3rhib0) | [Akureyri](https://open.spotify.com/artist/3kWtgQ5akmWPNq4OCzOyc6) | [In the Landscapes of Baertling](https://open.spotify.com/album/7q68B1RkYD3MVoGn03pmFB) | 3:18 |
 | 103 | [Tranquillity](https://open.spotify.com/track/34tN9XGSKpJwaP5NM96UTW) | [My Wondrous Dream](https://open.spotify.com/artist/5SGJUpo1V3rwKSsVdZG72Q) | [Tranquillity](https://open.spotify.com/album/0Idd7AHuBso3AghHoahMBs) | 3:21 |
 | 104 | [Molecular Beauty](https://open.spotify.com/track/2AorwcM25R5qsP3MLeOJcA) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Our Living Universe](https://open.spotify.com/album/41UjWVgWP1Se9Pbov22EvX) | 4:38 |
 | 105 | [Sunrise.](https://open.spotify.com/track/2zRxmGsKamvD64hOBCsl7x) | [LFO Waves](https://open.spotify.com/artist/1JjFLJxtZ8Es5nRpz4146Z) | [Sunrise.](https://open.spotify.com/album/4OkpHMa6TXAV8iZPDpBPah) | 2:58 |
@@ -122,10 +122,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 | 112 | [Sweet Iris](https://open.spotify.com/track/3irGdDT3AonsGCNgpx7eAt) | [Lukkii and The Whale](https://open.spotify.com/artist/4UeyQjMmoBKj8AhXpDAiwj) | [Pink Lotus](https://open.spotify.com/album/6s6WQ9eCaArieGMCsoe5vP) | 3:36 |
 | 113 | [Aura](https://open.spotify.com/track/04zmw3VLwbZjsICoFGEjmv) | [Paul Martinson](https://open.spotify.com/artist/3bRs4tOeVr1K0EVWi1BKkj) | [Aura](https://open.spotify.com/album/2Kot6ahBfFBvdWy58CZiXU) | 3:13 |
 | 114 | [Autosuggestion](https://open.spotify.com/track/37BKMGpfNWMjdFbcqPc4wW) | [London Pavilion](https://open.spotify.com/artist/5VJzruQsgylyykWVnsA22t) | [Autosuggestion](https://open.spotify.com/album/7vqqhdG1W0WOnoVYuItNWu) | 3:28 |
-| 115 | [Lakeside View](https://open.spotify.com/track/4QBJvsefzOa8mZHUB1SDyo) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Lakeside View](https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK) | 2:50 |
-| 116 | [II Cosmos](https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q) | [PRjDicE](https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3) | [II Cosmos](https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G) | 3:23 |
-| 117 | [Loch and Key](https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 4:33 |
-| 118 | [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 |
+| 115 | [II Cosmos](https://open.spotify.com/track/2PNTsWqG8rgimiZ4190F0q) | [PRjDicE](https://open.spotify.com/artist/13iWGIdIsnTGM5NcDFYGf3) | [II Cosmos](https://open.spotify.com/album/0tvGR9nX3vgOVXtgzgmQ4G) | 3:23 |
+| 116 | [Loch and Key](https://open.spotify.com/track/5gU60TmSgZKji4azlVXPVq) | [Wilson Tanner](https://open.spotify.com/artist/1SSQKcEQdGmpu9MQRXcJ9i) | [II](https://open.spotify.com/album/6TWWXuC6WOvznLVPvDqTFI) | 4:33 |
+| 117 | [Open Glade](https://open.spotify.com/track/1FOoBkU22JS0C6HyTTnyTP) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Inhale Exhale](https://open.spotify.com/album/3CfSVYL9R08NRekGYvzE1W) | 3:29 |
+| 118 | [Lakeside View](https://open.spotify.com/track/4QBJvsefzOa8mZHUB1SDyo) | [Transcendental Youth](https://open.spotify.com/artist/0Wi7kNoJNUp6OyURGJIRIr) | [Lakeside View](https://open.spotify.com/album/61APp6PMdds2CbV7LpGKPK) | 2:50 |
 | 119 | [Shimmer](https://open.spotify.com/track/7KX27IbaUuApRmJ8Q4zlWE) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Shimmer](https://open.spotify.com/album/26ueVkACHkCYBJnspwyLvv) | 2:09 |
 | 120 | [Wonders](https://open.spotify.com/track/5DJ8bf7jqxzS5tTE1PAavw) | [Endless Horizons](https://open.spotify.com/artist/2IGUJpalup0MTb59NIKFiT) | [Wonders](https://open.spotify.com/album/1nnJ6oJQTDDP9kDvUV8fOE) | 2:53 |
 | 121 | [Frozen Tears](https://open.spotify.com/track/3z6tVpfZgPB90WcijPncBQ) | [Calm Shores](https://open.spotify.com/artist/1RY93GxZnarHejky7O46dB) | [Travels Of A Snowflake](https://open.spotify.com/album/0o9UDy0hPkNgW8ZP0PYxGt) | 4:07 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GSGPU4E3Sq.md) - [plain]
 | 149 | [A3](https://open.spotify.com/track/1Jcqa7zjW20XYBw5MqUli1) | [ADAM TK](https://open.spotify.com/artist/7hauEwIlR9Ca94YCGOCmP1) | [A3](https://open.spotify.com/album/2B0YCjyV5FA8oaFea1Gvg3) | 3:02 |
 | 150 | [Dazed](https://open.spotify.com/track/0YxoUJRSiiVaL7hQMsegQa) | [Diskret](https://open.spotify.com/artist/7JxiGkTUF8p8R1Ki5CNJNH) | [Dazed](https://open.spotify.com/album/1PN0oulE1xHGUsJLnIe0gO) | 3:30 |
 
-Snapshot ID: `MTY1ODIzNzc0MiwwMDAwMDAwMDA5MTExZjdiZmJhMGY5NTZhMTNhNzU3YTliOTc5ZmYy`
+Snapshot ID: `MTY1ODIzNzc0MiwwMDAwMDAwMDhlNDliZjE2MWVmZmQxNzAxZmQxODNhNWZjMmI0NWQx`

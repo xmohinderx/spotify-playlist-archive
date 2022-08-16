@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 
 > get lost in the  a e s t h e t i c
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,014 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,269 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 28 | [SUMMER NEVER ENDS](https://open.spotify.com/track/4ZmX61pdJ79jgGL6z5jFXd) | [architecture in tokyo](https://open.spotify.com/artist/6hQx28f86hT8QSpaKammmZ) | [Summer Paradise](https://open.spotify.com/album/3m3FAl1OVyOAuH5zyTFZjW) | 1:49 |
 | 29 | [Self\-Isolation Boogie](https://open.spotify.com/track/5R6l0pIwuRyF4AiYZ9Rdpv) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [CoronaWave: コロナウイルス](https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz) | 1:43 |
 | 30 | [This Will Pass](https://open.spotify.com/track/2lIznpONVW6XaK7z0wX7qs) | [Home](https://open.spotify.com/artist/2exebQUDoIoT0dXA8BcN1P) | [Falling into Place](https://open.spotify.com/album/37SWbswE3jEairzfGWBHgH) | 3:21 |
-| 31 | [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx) | [ESPRIT 空想](https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Virtua.Zip](https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za) | 3:30 |
-| 32 | [SNAKE WAY](https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:07 |
-| 33 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 |
+| 31 | [SNAKE WAY](https://open.spotify.com/track/7IZJ2wCNkvhwhsLgrMpuZn) | [Maitro](https://open.spotify.com/artist/4pG6hTUl9HhyftfJQQI7np) | [Dragonball Wave](https://open.spotify.com/album/1N5tmxgeQve2CcAZqU5w00) | 3:07 |
+| 32 | [City Lights](https://open.spotify.com/track/0LiyqVSNN07YMBKdnPhI8A) | [FM Attack](https://open.spotify.com/artist/6nPggL1KGOD5Ba0yK0cxmb) | [City Lights](https://open.spotify.com/album/3mw1X0nqWBSSWlGrbBYkCc) | 3:20 |
+| 33 | [Esprit.Wav](https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx) | [ESPRIT 空想](https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI), [George Clanton](https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr) | [Virtua.Zip](https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za) | 3:30 |
 | 34 | [Misty Reflections](https://open.spotify.com/track/3cBtHwcoJm3GTKEkkwTLO3) | [Tupperwave](https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO) | [VaporLoops, Vol\. 1](https://open.spotify.com/album/5AUO9iVgc0azZXcpvpg4Rc) | 3:49 |
 | 35 | [By the River](https://open.spotify.com/track/231J1yvJV2cFXOvtmhXQ7f) | [Trushinitas](https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI) | [Ocean Breeze](https://open.spotify.com/album/6NzptI3rtodybXwrXhiPIt) | 2:26 |
 | 36 | [stay](https://open.spotify.com/track/0qt56ARoFkrdsc5jPgmpz8) | [datfootdive](https://open.spotify.com/artist/18vetuyfF5U3hdFX1TA0nI) | [Mother](https://open.spotify.com/album/3KToJ1crqxFB4LCdRvz518) | 1:12 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 62 | [Don't Kiss Me While I'm Swimming](https://open.spotify.com/track/0F5eixGJ2CASTBwqBlM7yD) | [Phil Gerus](https://open.spotify.com/artist/1q4zY8qzOsCqIypqC5iQnd) | [Based On Misunderstandings 05](https://open.spotify.com/album/71xlJoKwGWihm3biLx13pn) | 3:11 |
 | 63 | [新しい時代, Yes!](https://open.spotify.com/track/4UGeYxP5W5sVf0UUblKahK) | [VANITAS命死](https://open.spotify.com/artist/3626h020F6R0HEQdaRTTWI) | [新しい時代, Yes!](https://open.spotify.com/album/03lEQrnYK2LkWnADa0DqhP) | 4:37 |
 | 64 | [W U H A N](https://open.spotify.com/track/0Cqo3oUVrNVDOMTZFv83uY) | [ぬいぐるみクレヨン Lush Crayon](https://open.spotify.com/artist/62v3nR2gE0z1AFSFHxKepe) | [CoronaWave: コロナウイルス](https://open.spotify.com/album/36TxAJXg1qqM2ALaO9FJjz) | 1:52 |
-| 65 | [都 市 フ ォ ー ラ ム Consumer \[kahvi\]](https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [シ ョ ッ プ @ ヘ ル シ ン キ](https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl) | 5:54 |
-| 66 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
+| 65 | [Edenic Green Plus](https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i), [Gavriel](https://open.spotify.com/artist/53wGx0J5eu3GdlChMeO8RJ) | [Empty Hiding World](https://open.spotify.com/album/7B9eJo7vRYl1ztGxTOeK4R) | 4:01 |
+| 66 | [都 市 フ ォ ー ラ ム Consumer \[kahvi\]](https://open.spotify.com/track/7jkJ9qQ9i3zc2Z6FFkyaxG) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [シ ョ ッ プ @ ヘ ル シ ン キ](https://open.spotify.com/album/6jIBTgmApxxRoUZAWJJojl) | 5:54 |
 | 67 | [Liberty](https://open.spotify.com/track/7e3wRk18PN3K5quuGkz00d) | [Lost Traveler ロスト](https://open.spotify.com/artist/0zUh7z3wJlLWbWFoyrdOxD) | [The New Beginning](https://open.spotify.com/album/6ocanOmHYJ0PucHvWjIpzA) | 3:25 |
 | 68 | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH) | [FM Skyline](https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf), [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [mirror gallery \(Windows 96 Remix\)](https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2) | 2:43 |
 | 69 | [Follow Him, For He Is the One](https://open.spotify.com/track/7zwEj3hEiAfRrwjFyIy3jQ) | [desert sand feels warm at night](https://open.spotify.com/artist/31krAdMGlK6qGv5TCF7e9P) | [New World Disciples](https://open.spotify.com/album/0UtwaoRlgRvcsP6srTnNxK) | 6:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU4EQPjP9ZpS.md) - [plain]
 | 99 | [Glass Prism](https://open.spotify.com/track/2hxmNgtk3qIqZKTKjeoDpd) | [Windows 96](https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i) | [Glass Prism](https://open.spotify.com/album/2LCpdfkxAhbDMLlQvb6NlA) | 3:30 |
 | 100 | [Flash](https://open.spotify.com/track/3oG6lhEpzL1Pq4pExi0nnJ) | [Neon95](https://open.spotify.com/artist/6KOSqunMD2lrpkv2QQThsb) | [Pokéwave III](https://open.spotify.com/album/3hqmECDWWCG6fImy3IPJjw) | 3:13 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDhhODdiZGViMGZjMDEwNmE5NTZkYmYyM2JiZTIxZTE1`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDNjNTRiZWU2ZDk0MTQ1MmM1YWMzYTM1YmRlMDVmOGIz`

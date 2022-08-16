@@ -1,13 +1,33 @@
 {
   "description": "Pacific Northwest music breaking waves. Cover, TeZATalks",
-  "num_followers": 1458,
+  "num_followers": 1463,
   "original_name": "Ripple Effect: PNW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTk2NjI0MSwwMDAwMDAwMGU5YmY0Zjk3MzczMjA3ZWZmZDk3NjEwNmEwM2IwMzYx",
+  "snapshot_id": "MTY2MDU5ODk5NiwwMDAwMDAwMDhlM2RiN2FmOGI1ZmUyZTg0ZTVmMzUyZGFjYTJmNzg3",
   "tracks": [
+    {
+      "added_at": "2022-07-29 20:41:19",
+      "album": {
+        "name": "Let It Go",
+        "url": "https://open.spotify.com/album/0YYuQRFPk6iM99GLXYoVEt"
+      },
+      "artists": [
+        {
+          "name": "Livt",
+          "url": "https://open.spotify.com/artist/0y55D5fL0ywYdEpIQPbwJC"
+        },
+        {
+          "name": "Dave B.",
+          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+        }
+      ],
+      "duration_ms": 166101,
+      "name": "Let It Go",
+      "url": "https://open.spotify.com/track/41CadRi4aZhMsFYbBob04v"
+    },
     {
       "added_at": "2022-07-29 20:41:19",
       "album": {
@@ -233,24 +253,32 @@
       "url": "https://open.spotify.com/track/7JsckAY0XjtXq3omyJOgOD"
     },
     {
-      "added_at": "2022-07-29 20:41:19",
+      "added_at": "2022-08-15 21:29:56",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/0YYuQRFPk6iM99GLXYoVEt"
+        "name": "SHAWNEE",
+        "url": "https://open.spotify.com/album/2RDuoPS8nCmNsDpfeP03KT"
       },
       "artists": [
         {
-          "name": "Livt",
-          "url": "https://open.spotify.com/artist/0y55D5fL0ywYdEpIQPbwJC"
+          "name": "Blake Anthony",
+          "url": "https://open.spotify.com/artist/79GLPoynz70rIoWB4ErgBb"
         },
         {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
+          "name": "Misha",
+          "url": "https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7"
+        },
+        {
+          "name": "F R E S H",
+          "url": "https://open.spotify.com/artist/0PZ1lOO0m0EYVFyv6fQA3k"
+        },
+        {
+          "name": "Sheria R. Croutch",
+          "url": "https://open.spotify.com/artist/2eSSBlIXGXyKfSQlsV9tWL"
         }
       ],
-      "duration_ms": 166101,
-      "name": "Let It Go",
-      "url": "https://open.spotify.com/track/41CadRi4aZhMsFYbBob04v"
+      "duration_ms": 214482,
+      "name": "SHAWNEE",
+      "url": "https://open.spotify.com/track/0KgVAhlPPdjeznoH1C01By"
     },
     {
       "added_at": "2022-08-08 13:44:01",
@@ -357,6 +385,22 @@
       "url": "https://open.spotify.com/track/5J4F79SLhKnv5Q5iu0MwCJ"
     },
     {
+      "added_at": "2022-08-15 21:29:56",
+      "album": {
+        "name": "WONDERLAND",
+        "url": "https://open.spotify.com/album/43RTm7LMLRwKjWEIL9dHOs"
+      },
+      "artists": [
+        {
+          "name": "Zay Wonder",
+          "url": "https://open.spotify.com/artist/70cjBubd83Tl2ZbAElgC1s"
+        }
+      ],
+      "duration_ms": 225140,
+      "name": "FIFTH & GOLDMAN",
+      "url": "https://open.spotify.com/track/08qOdAEhwPlHBDflrNdnWE"
+    },
+    {
       "added_at": "2022-07-22 20:01:36",
       "album": {
         "name": "Hatin Ass",
@@ -401,31 +445,7 @@
       "url": "https://open.spotify.com/track/1sAd3EqraFf2F9V6AJoRCT"
     },
     {
-      "added_at": "2022-07-18 21:44:16",
-      "album": {
-        "name": "Way Up",
-        "url": "https://open.spotify.com/album/4iIqih6YskJgZYOyG2zuHO"
-      },
-      "artists": [
-        {
-          "name": "Dave B.",
-          "url": "https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ"
-        },
-        {
-          "name": "Masked Man",
-          "url": "https://open.spotify.com/artist/4au9pcYGXtv2fPYbMa6wg5"
-        },
-        {
-          "name": "Garrett.",
-          "url": "https://open.spotify.com/artist/1OgLpkhh88FmT6Jyx7eDHY"
-        }
-      ],
-      "duration_ms": 162331,
-      "name": "Way Up",
-      "url": "https://open.spotify.com/track/0mBg7Q5CuXxN7qyWOWm7f2"
-    },
-    {
-      "added_at": "2022-07-29 20:41:19",
+      "added_at": "2022-08-15 21:29:56",
       "album": {
         "name": "ICE PACK",
         "url": "https://open.spotify.com/album/7K1MmDcGWPGO4hFSulZjbc"
@@ -436,9 +456,9 @@
           "url": "https://open.spotify.com/artist/7e2dIr2GwZgilIk9CrtUUU"
         }
       ],
-      "duration_ms": 142040,
-      "name": "COLD SUMMER",
-      "url": "https://open.spotify.com/track/3MPyvW97o4vkYfaocGm1Qf"
+      "duration_ms": 159720,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/49onIbflXO0PvP1A2uRU4V"
     },
     {
       "added_at": "2022-07-29 20:41:19",
@@ -519,22 +539,6 @@
       "duration_ms": 177655,
       "name": "Performance",
       "url": "https://open.spotify.com/track/0J4u9FztKLtQVKdNjwMLiH"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Self Refelection",
-        "url": "https://open.spotify.com/album/4pb5ZsE1Zod8lCmnE4XLAw"
-      },
-      "artists": [
-        {
-          "name": "Tavian Maalik",
-          "url": "https://open.spotify.com/artist/0gpTr2hYnkYKOpowpzV0YA"
-        }
-      ],
-      "duration_ms": 154181,
-      "name": "Hidden Agenda",
-      "url": "https://open.spotify.com/track/472VKEKSkfqjFcdVvv85g9"
     },
     {
       "added_at": "2022-07-18 21:44:16",
@@ -625,20 +629,24 @@
       "url": "https://open.spotify.com/track/6gnRelRGphwICUQP2kF3if"
     },
     {
-      "added_at": "2022-07-18 21:44:16",
+      "added_at": "2022-08-15 21:29:56",
       "album": {
-        "name": "Marble Notebook",
-        "url": "https://open.spotify.com/album/3yejH64Ofken9zTwLQ9c7X"
+        "name": "Plush",
+        "url": "https://open.spotify.com/album/3ihHNGmcuER1IRUlknOiIE"
       },
       "artists": [
         {
-          "name": "Connect Zero",
-          "url": "https://open.spotify.com/artist/3k8lBDenIm90lWaSpAYQeH"
+          "name": "KahlilKhalil",
+          "url": "https://open.spotify.com/artist/2WkidHSqwRQm7EZ3ostStU"
+        },
+        {
+          "name": "Majik9",
+          "url": "https://open.spotify.com/artist/13iLsHLvOmOCA21NJ8s3LH"
         }
       ],
-      "duration_ms": 133565,
-      "name": "Juan Oh Juan",
-      "url": "https://open.spotify.com/track/23LBgdkHcc1QAGgkR3Ykii"
+      "duration_ms": 183394,
+      "name": "Plush",
+      "url": "https://open.spotify.com/track/29fvmWHsatRGAq8HJYnmAp"
     },
     {
       "added_at": "2022-07-22 20:01:36",
@@ -661,6 +669,26 @@
       "url": "https://open.spotify.com/track/0s0O8vvXFCCqetUstyxR0I"
     },
     {
+      "added_at": "2022-08-15 21:29:56",
+      "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/0MdXd5NAg7RIWh3EI2imXC"
+      },
+      "artists": [
+        {
+          "name": "Lil Boof",
+          "url": "https://open.spotify.com/artist/5F0TXqGLk4v8EAe0TZq0XC"
+        },
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "duration_ms": 151631,
+      "name": "Great Lakes",
+      "url": "https://open.spotify.com/track/1HizyHnvUbPRFJF6miBCop"
+    },
+    {
       "added_at": "2022-07-29 20:41:19",
       "album": {
         "name": "The Oscars",
@@ -675,22 +703,6 @@
       "duration_ms": 103549,
       "name": "The Oscars",
       "url": "https://open.spotify.com/track/72R4sofcAUU1IGctmDdc4y"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Breathin Again",
-        "url": "https://open.spotify.com/album/48GsGBmW86j7CgeqGWGUAg"
-      },
-      "artists": [
-        {
-          "name": "Lil Mosey",
-          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
-        }
-      ],
-      "duration_ms": 143105,
-      "name": "Breathin Again",
-      "url": "https://open.spotify.com/track/16uowkIsA1n67JEARfNPLG"
     },
     {
       "added_at": "2022-07-22 20:01:36",
@@ -829,20 +841,24 @@
       "url": "https://open.spotify.com/track/4h0tUPK7QdiCnik9Tu2xjW"
     },
     {
-      "added_at": "2022-07-22 20:01:36",
+      "added_at": "2022-08-15 21:29:56",
       "album": {
-        "name": "Shit Preacher",
-        "url": "https://open.spotify.com/album/0GRVxth7I6J8DQ1fEe0dNi"
+        "name": "Same Block",
+        "url": "https://open.spotify.com/album/3w7iI0sLzSS1HaOgtIRnhS"
       },
       "artists": [
+        {
+          "name": "5iveDeuce",
+          "url": "https://open.spotify.com/artist/1w3QZmtdiPtcC8yMKfN9Nk"
+        },
         {
           "name": "Dmann",
           "url": "https://open.spotify.com/artist/2nCBL8gOThAAnLFlVVeVlH"
         }
       ],
-      "duration_ms": 108000,
-      "name": "I'm from seattle",
-      "url": "https://open.spotify.com/track/2mXf18jT3lS1cqBBpYPCdP"
+      "duration_ms": 135765,
+      "name": "Same Block",
+      "url": "https://open.spotify.com/track/3LwrY11QVHWCjDne8noMNH"
     },
     {
       "added_at": "2022-08-08 13:44:01",
@@ -861,52 +877,20 @@
       "url": "https://open.spotify.com/track/4TU3PngLm1I7GuuIV0lVRN"
     },
     {
-      "added_at": "2022-07-01 04:00:00",
+      "added_at": "2022-08-15 21:29:56",
       "album": {
-        "name": "BROADMOOR",
-        "url": "https://open.spotify.com/album/6T8RG5BsiAQiTjsceBfZgW"
+        "name": "Canitalktoyou?",
+        "url": "https://open.spotify.com/album/62YbfMYXIwBq1HmQNN4E8d"
       },
       "artists": [
         {
-          "name": "Zay Wonder",
-          "url": "https://open.spotify.com/artist/70cjBubd83Tl2ZbAElgC1s"
+          "name": "Hunnidkbaby",
+          "url": "https://open.spotify.com/artist/6gj2nfDNUqOjbVGzYdzSFQ"
         }
       ],
-      "duration_ms": 172820,
-      "name": "BROADMOOR",
-      "url": "https://open.spotify.com/track/4OniLKmNiNiFHJbqd3tPe5"
-    },
-    {
-      "added_at": "2022-05-27 04:10:37",
-      "album": {
-        "name": "My woah",
-        "url": "https://open.spotify.com/album/3SCIBaQk0NzyppwAAvzLbs"
-      },
-      "artists": [
-        {
-          "name": "Mr. Nicenice",
-          "url": "https://open.spotify.com/artist/48AUU9vzI5JFzr6vVL1P9v"
-        }
-      ],
-      "duration_ms": 150858,
-      "name": "My woah",
-      "url": "https://open.spotify.com/track/2z6M2SBWc10nDLDBwgC6QV"
-    },
-    {
-      "added_at": "2022-07-22 20:01:36",
-      "album": {
-        "name": "Jewelry",
-        "url": "https://open.spotify.com/album/4RRrr37kwq0813Z6Pm2hUU"
-      },
-      "artists": [
-        {
-          "name": "Lewie",
-          "url": "https://open.spotify.com/artist/7tvCXmeh7MlNtmfKMN2H8Q"
-        }
-      ],
-      "duration_ms": 202788,
-      "name": "Jewelry",
-      "url": "https://open.spotify.com/track/28VcLhWvQFgR3YteVzrLzK"
+      "duration_ms": 84736,
+      "name": "Canitalktoyou?",
+      "url": "https://open.spotify.com/track/6vhgJra2wYwNVNbD9C7kPB"
     },
     {
       "added_at": "2022-07-01 04:00:00",

@@ -189,7 +189,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 322242,
       "name": "Art Throb",
       "url": "https://open.spotify.com/track/1MhjQ9xwGP7JZMScT8VILb"
@@ -1160,6 +1160,28 @@
     },
     {
       "album": {
+        "name": "I've Felt Better (Daniel Avery Remix)",
+        "url": "https://open.spotify.com/album/6v0NEvA792ns4sxahYn8iB"
+      },
+      "artists": [
+        {
+          "name": "Gold Panda",
+          "url": "https://open.spotify.com/artist/6xS3zemJD9h94iueQvGqVk"
+        },
+        {
+          "name": "Daniel Avery",
+          "url": "https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312700,
+      "name": "I've Felt Better - Daniel Avery Remix",
+      "url": "https://open.spotify.com/track/776c1GM41sF4ZbWeWiUEgr"
+    },
+    {
+      "album": {
         "name": "Ice Hockey",
         "url": "https://open.spotify.com/album/1DCyBW3JXPqtFlQ8lznmnN"
       },
@@ -1613,7 +1635,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 366000,
       "name": "Lucid Dreaming",
       "url": "https://open.spotify.com/track/5ZzzD53hcv2FOeOeiogbFA"
@@ -1819,6 +1841,24 @@
       "duration_ms": 383899,
       "name": "Music To Heal To",
       "url": "https://open.spotify.com/track/2KvkzuYVnHaGEYbY5gfF8R"
+    },
+    {
+      "album": {
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/1RclAlfbZu5BY5ZzYxPw44"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Loveless",
+          "url": "https://open.spotify.com/artist/2Vsiki0qM11ADccRwwvS1c"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351624,
+      "name": "Muzik",
+      "url": "https://open.spotify.com/track/6E6WyW3tLlJHwfmKPaHrNo"
     },
     {
       "album": {

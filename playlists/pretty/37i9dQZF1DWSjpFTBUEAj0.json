@@ -1,12 +1,12 @@
 {
   "description": "A total apocalypse of the heart. ",
-  "num_followers": 33258,
+  "num_followers": 33304,
   "original_name": "Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMDZlNGZmYjRhZmI5ZWE4ZTUyZWI5NzQ4NGJmZGUwYzUw",
+  "snapshot_id": "MTY1OTEwNTkyNywwMDAwMDAwMDA3NzI0NDUwZjRhZTE0MTVkNzgyYmMwOTNiNGEwNzhl",
   "tracks": [
     {
       "added_at": "2022-07-29 14:45:27",
@@ -763,6 +763,22 @@
     {
       "added_at": "2022-07-29 14:45:27",
       "album": {
+        "name": "PURGE",
+        "url": "https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft"
+      },
+      "artists": [
+        {
+          "name": "Dis Fig",
+          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
+        }
+      ],
+      "duration_ms": 168326,
+      "name": "Drum Fife Bugle",
+      "url": "https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW"
+    },
+    {
+      "added_at": "2022-07-29 14:45:27",
+      "album": {
         "name": "Demands of Ordinary Devotion",
         "url": "https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 211381,
       "name": "Demands of Ordinary Devotion",
       "url": "https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM"
-    },
-    {
-      "added_at": "2022-07-29 14:45:27",
-      "album": {
-        "name": "PURGE",
-        "url": "https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft"
-      },
-      "artists": [
-        {
-          "name": "Dis Fig",
-          "url": "https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC"
-        }
-      ],
-      "duration_ms": 168326,
-      "name": "Drum Fife Bugle",
-      "url": "https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW"
     },
     {
       "added_at": "2022-07-29 14:45:27",

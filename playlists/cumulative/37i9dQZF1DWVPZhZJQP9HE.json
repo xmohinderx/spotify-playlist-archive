@@ -426,6 +426,28 @@
     },
     {
       "album": {
+        "name": "Chinna Paiyan",
+        "url": "https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202945,
+      "name": "Chinna Paiyan",
+      "url": "https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7"
+    },
+    {
+      "album": {
         "name": "Chippi Kooptan",
         "url": "https://open.spotify.com/album/2IH9QWV8YToJW4NBXAgRP9"
       },
@@ -1359,7 +1381,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 224640,
       "name": "Love Loop",
       "url": "https://open.spotify.com/track/7ELwPXWWDZExDD29QpMKdL"
@@ -1541,7 +1563,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 465230,
       "name": "Mangini Mannan",
       "url": "https://open.spotify.com/track/72dBYfdf0xpBv9xbpm0q7h"

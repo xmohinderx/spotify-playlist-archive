@@ -4,7 +4,7 @@
 
 > '80s New Wave, New Romantic and Post\-punk.
 
-393 songs - 1 day 3 hr 46 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
+394 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/7s9ComSaLKzt9AMKgawOKB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/0kA5scXMiaO5Ms2GQ4pRWa) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2011 Remaster\)](https://open.spotify.com/album/6t4LdKTNWIOr2PZIB8tiZF) | 3:55 | 2018-12-12 | 2022-07-29 |
 | [Suedehead \- 2011 Remaster](https://open.spotify.com/track/76HJoPhDFxD7rizsbCmZND) | [Morrissey](https://open.spotify.com/artist/3iTsJGG39nMg9YiolUgLMQ) | [Viva Hate \(2014 Remaster\)](https://open.spotify.com/album/0s5wo4mTZ5bJAgqiPBO3ou) | 3:55 | 2018-12-12 |  |
 | [Surrender](https://open.spotify.com/track/4QRO73C82pI3OCHo0njVlS) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [A Way of Life](https://open.spotify.com/album/26PJUy6j7JJYwNMQ2M5XQh) | 3:48 | 2018-12-12 | 2022-04-21 |
+| [Surrender \- 2022 \- Remaster](https://open.spotify.com/track/21DRFiBq9G12EAq9RoW6iw) | [Suicide](https://open.spotify.com/artist/6uVeWolwyRDrT84lLsaZyW) | [Surrender](https://open.spotify.com/album/7l5I3C9sBNZfNG0BiECU2X) | 3:46 | 2018-12-12 |  |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2018-12-12 |  |
 | [Tainted Love / Where Did Our Love Go \- Extended Version / Medley](https://open.spotify.com/track/5fkfdFPtgeYGvpGYblD7l1) | [Soft Cell](https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc) | [Non Stop Erotic Cabaret \(Deluxe Edition\)](https://open.spotify.com/album/1xza4j8vMQdGqqQdHa30lI) | 9:02 | 2019-08-01 | 2022-07-29 |
 | [Talk Talk Talk](https://open.spotify.com/track/2YhXd0kSez8zBR1xssRK2Q) | [Blue Murder](https://open.spotify.com/artist/14O4ikLGE6ytLKNUFtdde9) | [La la Love](https://open.spotify.com/album/07JbMCRb6znM52iFIofwEB) | 3:00 | 2019-08-02 | 2022-04-21 |
@@ -330,7 +331,7 @@
 | [The Magnificent Seven \- Remastered](https://open.spotify.com/track/1W8Jl9KaSSt23ihF1Mej17) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 5:32 | 2019-08-01 | 2022-07-29 |
 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 | 2018-12-12 |  |
 | [The More You Live, The More You Love](https://open.spotify.com/track/1BhXNODTubCtpeZQ1Dj5xh) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [Radio 10 Gold Top 4000 \- box](https://open.spotify.com/album/4SspVa2UBJp5F4niRSRGuw) | 4:05 | 2019-08-02 | 2022-07-21 |
-| [The More You Live, The More You Love](https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [We Are The '80s](https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV) | 4:09 | 2019-08-02 |  |
+| [The More You Live, The More You Love](https://open.spotify.com/track/1lNn0udm3EHKFRCGpNKZxn) | [A Flock Of Seagulls](https://open.spotify.com/artist/0uAjBatvB4ubpd4kCfjmNt) | [We Are The '80s](https://open.spotify.com/album/48ajNqhmdKrGVwJo0UGMiV) | 4:09 | 2019-08-02 | 2022-08-16 |
 | [The One I Love \- Remastered 2012](https://open.spotify.com/track/2fdfsGuqb6SBX5ocoBWHUd) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Document \- 25th Anniversary Edition](https://open.spotify.com/album/65kIVEdb93smbnC7k4aie7) | 3:17 | 2019-08-02 |  |
 | [The Pan Within \- 2004 Remaster](https://open.spotify.com/track/0WbrOgZJb6yHPumYXEbs5U) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [This Is the Sea \(Deluxe Version\)](https://open.spotify.com/album/7n5u9Q5G1j1LMHEzW4aZbg) | 6:12 | 2019-08-02 | 2022-07-14 |
 | [The Right Side Won](https://open.spotify.com/track/11kQekR2aajih2wNmE6mI9) | [What Fun!](https://open.spotify.com/artist/1ErsjAAijzAXVpO4W8YTh7) | [Having Fun? \(The Expanded Edition\)](https://open.spotify.com/album/5AfqRMKpHj7MLGUMnstaWd) | 3:47 | 2019-08-02 | 2022-04-21 |

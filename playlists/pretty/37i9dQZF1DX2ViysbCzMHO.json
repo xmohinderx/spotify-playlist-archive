@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 108720,
+  "num_followers": 108750,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDYzYzMyY2RmNjMyNDc1YzNkYWZlMDcwZGU4ZjVkMDBl",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDNmODUyYWQxYjk1ODk5NzdmOTg5ZTA4NDk0ZDk3ZDQy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -291,6 +291,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Rock and A Hard Place (Acoustic)",
+        "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 207540,
+      "name": "Rock and A Hard Place - Acoustic",
+      "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Under My Skin (Stripped)",
         "url": "https://open.spotify.com/album/72w6lUDxPr3zwZTqaJsDpD"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 194837,
       "name": "This City Remix (feat. Kane Brown)",
       "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Rock and A Hard Place (Acoustic)",
-        "url": "https://open.spotify.com/album/1jp5itCaZpsTO6aK9KQH4R"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 207540,
-      "name": "Rock and A Hard Place - Acoustic",
-      "url": "https://open.spotify.com/track/1QLMOpJ9hjifk5pEiJdXMN"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1515,6 +1515,26 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Thought This Through",
+        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
+      },
+      "artists": [
+        {
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
+        {
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+        }
+      ],
+      "duration_ms": 172663,
+      "name": "Thought This Through",
+      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Break My Heart Again (Live Acoustic)",
         "url": "https://open.spotify.com/album/6rZaUXqZcFlR9IiYP80bby"
       },
@@ -1559,26 +1579,6 @@
       "duration_ms": 263923,
       "name": "Hard Things",
       "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Thought This Through",
-        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
-      },
-      "artists": [
-        {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
-        }
-      ],
-      "duration_ms": 172663,
-      "name": "Thought This Through",
-      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
     },
     {
       "added_at": "2022-08-12 04:02:00",

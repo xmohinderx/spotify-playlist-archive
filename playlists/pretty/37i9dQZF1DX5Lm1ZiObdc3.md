@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 
 > Classical tunes to make you feel good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,845 likes - 42 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,951 likes - 42 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Lm1ZiObdc3.md) - [plain]
 | 41 | [Les Beautés Du Diable](https://open.spotify.com/track/3lQqKbNGT0tmrzfCAmjPOd) | [François Dompierre](https://open.spotify.com/artist/2uWe5rPyeH6MtgtSGA13yX), [Angèle Dubeau](https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq) | [Infernal Violins](https://open.spotify.com/album/2v85F1IkOIWKoIjsJ6DrB4) | 3:15 |
 | 42 | [Violin Concerto in B\-Flat Major, Op\. 10 No\. 1: I\. Allegro](https://open.spotify.com/track/3bN2YUUhmGlZaOVlysacUN) | [Jean\-Marie Leclair](https://open.spotify.com/artist/6DJC9GGdjEH4CiaAeqAysE), [Leila Schayegh](https://open.spotify.com/artist/0hrfpDvoTYp0b2twzElWy1), [La Cetra Barockorchester Basel](https://open.spotify.com/artist/3SBobIYWVxMS0WKKyWcSY1) | [Leclair: Violin Concertos, Vol\. 2](https://open.spotify.com/album/46J0BMxREy9dKSv37jp7Wx) | 4:59 |
 
-Snapshot ID: `MTY1NDgzMzY2MCwwMDAwMDAwMDRmMmVkYWUyYWJkMzhkNjQyMDc5ZjAxODllYzg2YzJh`
+Snapshot ID: `MTY2MDU1Njg5MywwMDAwMDAwMDIwZGVjYmRkZTU5YWU3ZWVlNDc1ZjE2YTI1YTI3Zjlm`

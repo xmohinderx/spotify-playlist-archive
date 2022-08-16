@@ -4,7 +4,7 @@
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: UNIIQU3.
 
-165 songs - 6 hr 32 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
+166 songs - 6 hr 35 min - [published](https://open.spotify.com/playlist/4ILVMe10Lfw8QYUgZ8QkTU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Fast \(Motion\) \- Jersey Club Remix](https://open.spotify.com/track/1KoZiwfdNggROUfXCaf8Tz) | [DJ Get Bizzy](https://open.spotify.com/artist/5wiQ2svVeIsYb8cF82DLqh), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Fast \(Motion\) \[Jersey Club Remix\]](https://open.spotify.com/album/26QXxyTXCOa67EorAPwDEH) | 1:39 | 2022-02-11 |  |
 | [Feel The Burn](https://open.spotify.com/track/30HH5fUlLuu8Dxw7sLi93z) | [Dj Dru](https://open.spotify.com/artist/2IwJjE1jYSxMvSVpdUWpnV) | [The Jersey Club Workout](https://open.spotify.com/album/4b3EbKPFYiAxrglky3Cv9z) | 2:38 | 2022-02-11 |  |
 | [For You](https://open.spotify.com/track/39Bldk4gCwPsUQmJTfV3EP) | [LilC4](https://open.spotify.com/artist/7pWlsOONCcf8KRBQkmBC3W) | [XENOWRLD](https://open.spotify.com/album/1oSdTnkmNC9nUsDANQONPd) | 1:58 | 2022-02-11 |  |
-| [For You \- DJ Taj Jersey Mix](https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [5th Element Jersey Club Remixes](https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ) | 2:01 | 2022-02-11 |  |
+| [For You \- DJ Taj Jersey Mix](https://open.spotify.com/track/0EWOt9lZ1yvpGCWTeIjwsp) | [IV JAY](https://open.spotify.com/artist/0S63sOasTLdgPXIycsCsMX), [DJ Taj](https://open.spotify.com/artist/0QOP5VL6UOJIz4GlbWL3rk) | [5th Element Jersey Club Remixes](https://open.spotify.com/album/3RWldjbDfsE9DUalUXLACQ) | 2:01 | 2022-02-11 | 2022-08-16 |
 | [Free Me](https://open.spotify.com/track/6icjYa5MypaFUEmRx7P1uK) | [YK ACE](https://open.spotify.com/artist/1UnCAUGx1MRYmpiH0vCgCx) | [Jersey Vs The World](https://open.spotify.com/album/3R2D8w6ZlGzNTgJlUOFdfP) | 2:50 | 2022-04-01 |  |
 | [Fuck It up Challenge](https://open.spotify.com/track/0v2POEELhkbrIWVVrLKXft) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/5WA4Jt72UF7MclAaCZBFXu) | 1:35 | 2022-02-11 | 2022-07-29 |
 | [Fuck It up Challenge](https://open.spotify.com/track/1JWskKHxYTXSUEKPsv6hje) | [DJ Telly Tellz](https://open.spotify.com/artist/6ifY5vVp7V2s5orUSQufNM) | [Jersey Khan](https://open.spotify.com/album/4Vmds5n2MHBb6HXEs4aY9Z) | 1:35 | 2022-07-22 |  |
@@ -120,6 +120,7 @@
 | [My Humps \- JBroadway Remix](https://open.spotify.com/track/3jCMS72hCFNF1NESsL6L9m) | [JBroadway](https://open.spotify.com/artist/6WdccSPsTJcEHFoSdWpYvh), [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [My Humps \(JBroadway Remix\)](https://open.spotify.com/album/2YFV7FShMxZW4zUMF0KnXw) | 2:15 | 2022-02-11 |  |
 | [MY Shit GET Back](https://open.spotify.com/track/3xpuCJ8deChOE5O5pILJoa) | [DJNeptune973](https://open.spotify.com/artist/4mQASoKLwVS6pG0zZIbBwk), [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1) | [MY Shit GET Back](https://open.spotify.com/album/5WwtFUuAvxhWaFH8BOgyFv) | 1:41 | 2022-02-11 |  |
 | [nasty](https://open.spotify.com/track/3mD5eYWsXfGJOeBA9cSWMa) | [Princesa Alba](https://open.spotify.com/artist/3hvDAraTidCTjQHIc4m8P3), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [nasty](https://open.spotify.com/album/40wjGbffx3oRJRRhbvDyYN) | 2:55 | 2022-02-11 |  |
+| [need](https://open.spotify.com/track/2Tsz0PAbba4ZxXi9Erfm6F) | [keltiey](https://open.spotify.com/artist/6ffRXY5wKedZhPTMa6WGys) | [need](https://open.spotify.com/album/5At9VxGKV9SzCLwpRrzVRy) | 2:38 | 2022-08-15 |  |
 | [Nobody's Perfect \- Original Mix](https://open.spotify.com/track/5ZFheNvDDESgtsGCmiJt7A) | [DJ Tray](https://open.spotify.com/artist/6Yakyed4COpN5BydwyHOPg) | [New Jersey Club EP](https://open.spotify.com/album/7yYuQp4Tc1dbFnIHPb9pJ4) | 1:38 | 2022-02-11 |  |
 | [Nxwxrk \- Dj Sliink Remix](https://open.spotify.com/track/3vYd0cHIpVfOj86097PwZZ) | [Nadus](https://open.spotify.com/artist/59myknL407PNXcExTEeUpU), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Broke City \(Deluxe\)](https://open.spotify.com/album/6WBDzqrCcXti6p8sfRh3QL) | 4:24 | 2022-02-11 | 2022-07-29 |
 | [Orange Soda \- Jersey Club Remix](https://open.spotify.com/track/6Pj3meDGkdOCufJoDO9sDJ) | [Sjayy](https://open.spotify.com/artist/0X0hwDJnBd4NjGLDsCcNSc) | [Orange Soda \(Jersey Club Remix\)](https://open.spotify.com/album/1bB4TDuBMLrSIRBR6Yyn9O) | 1:51 | 2022-02-11 |  |

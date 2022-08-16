@@ -152,6 +152,24 @@
     },
     {
       "album": {
+        "name": "At Day's End",
+        "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
+      },
+      "artists": [
+        {
+          "name": "Rebekah Bolton",
+          "url": "https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173558,
+      "name": "At Day's End",
+      "url": "https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T"
+    },
+    {
+      "album": {
         "name": "Aurora Borealis",
         "url": "https://open.spotify.com/album/2FKrLUaFsF2jWj1f0QEhGg"
       },
@@ -275,6 +293,24 @@
       "duration_ms": 161862,
       "name": "Bring You Home",
       "url": "https://open.spotify.com/track/3MbGpD2sYDlLhuLPoB6JXg"
+    },
+    {
+      "album": {
+        "name": "By Midnight",
+        "url": "https://open.spotify.com/album/0WcxDmPWwofsGWR9o08WZx"
+      },
+      "artists": [
+        {
+          "name": "Jon Stefans",
+          "url": "https://open.spotify.com/artist/6sZVV2BKsU8SF4x9Bj9Ypa"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140416,
+      "name": "By Midnight",
+      "url": "https://open.spotify.com/track/5D8YiJqd8vNkBGO1ZSatnG"
     },
     {
       "album": {

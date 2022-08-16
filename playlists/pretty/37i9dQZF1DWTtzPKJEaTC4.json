@@ -1,454 +1,286 @@
 {
-  "description": " <a href=\"spotify:artist:4UpA1KitN1RgIZVyWDbZ0U\">DOMi & JD BECK</a> collaborates with Spotify on this playlist to share their jazz favorites ",
-  "num_followers": 72183,
-  "original_name": "DOMi & JD BECK digs Jazz",
+  "description": " <a href=\"spotify:artist:5FnpXrrMdJVZCK54oHWqUa\">Makaya McCraven</a> shares his jazz favorites",
+  "num_followers": 72121,
+  "original_name": "Makaya McCraven Digs Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5NDQwMiwwMDAwMDAwMDc3NGE5Njc1MjZkZTE2Y2U3ZDVjN2FkMjA2MmUxMGQ1",
+  "snapshot_id": "MTY2MDUzNjAwMCwwMDAwMDAwMGQyZGFkNDVhOWY0OTZlY2QzZmJkZDZlNTVjOTczNjM1",
   "tracks": [
     {
-      "added_at": "2022-07-08 15:33:22",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-        "url": "https://open.spotify.com/album/0ul8b1Rp5B7e8iZKSdvSlm"
+        "name": "Dream Another",
+        "url": "https://open.spotify.com/album/6QXvKWIg9KSRqLjm7yqqUE"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 264412,
-      "name": "TAKE A CHANCE (feat. Anderson .Paak)",
-      "url": "https://open.spotify.com/track/3Fo54IlOlnwzMwGjjEqCzN"
+      "duration_ms": 192937,
+      "name": "Dream Another",
+      "url": "https://open.spotify.com/track/6O5WxhFGEdNVRJw7vnwhiy"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Kenny Kirkland",
-        "url": "https://open.spotify.com/album/4pnLL6l6ji6bvsb3JIOG0g"
+        "name": "Birds Of Fire",
+        "url": "https://open.spotify.com/album/6SLknspfGod3v3TyWawl8J"
       },
       "artists": [
         {
-          "name": "Kenny Kirkland",
-          "url": "https://open.spotify.com/artist/3fvBGGCTOjiCsIqL3MFU6l"
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
         }
       ],
-      "duration_ms": 361226,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/425c5CCcmJQgoKNJYISxNH"
+      "duration_ms": 342800,
+      "name": "Birds of Fire",
+      "url": "https://open.spotify.com/track/0dCbhZ6jVeSLJ0of5wf2hm"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
+        "name": "Upchurch",
+        "url": "https://open.spotify.com/album/7qMf3VdXtacFmPkHVYDM99"
       },
       "artists": [
         {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+          "name": "Phil Upchurch",
+          "url": "https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK"
         }
       ],
-      "duration_ms": 830000,
-      "name": "Steps-What Was - Digitally Remastered",
-      "url": "https://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF"
+      "duration_ms": 256853,
+      "name": "Black Gold",
+      "url": "https://open.spotify.com/track/5A9631OUs76xh7s5BsxUD4"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Mr. Hands",
-        "url": "https://open.spotify.com/album/0ZzOJ3XuyVDBIWxrA17YE5"
+        "name": "Seventh String",
+        "url": "https://open.spotify.com/album/3hPRa2htWPnkW3SsmCox70"
       },
       "artists": [
         {
-          "name": "Herbie Hancock",
-          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 398040,
-      "name": "Textures",
-      "url": "https://open.spotify.com/track/6wyjGiFFJMNxFyY4h0ttYY"
+      "duration_ms": 185191,
+      "name": "Seventh String",
+      "url": "https://open.spotify.com/track/694Le3rzOKOJCT7QASn57H"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Pat Metheny Group",
-        "url": "https://open.spotify.com/album/4TC69U5HGclykFldzvsIao"
+        "name": "Whistle Stop (Remastered 2014)",
+        "url": "https://open.spotify.com/album/7dHPKWU9VSx7rQIUa5C4iO"
       },
       "artists": [
         {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+          "name": "Kenny Dorham",
+          "url": "https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er"
         }
       ],
-      "duration_ms": 499133,
-      "name": "Phase Dance",
-      "url": "https://open.spotify.com/track/75tXyjhbgpo3HEy6Cjsviy"
+      "duration_ms": 459200,
+      "name": "Buffalo - Remastered 2014",
+      "url": "https://open.spotify.com/track/2hGIDieedPk4oXpLtb7gPr"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Frank Zappa Meets The Mothers Of Prevention",
-        "url": "https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr"
+        "name": "Suite for Max Brown",
+        "url": "https://open.spotify.com/album/2t6aF3BwIOKKQSpuHKGDAW"
       },
       "artists": [
         {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
+          "name": "Jeff Parker",
+          "url": "https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt"
         }
       ],
-      "duration_ms": 319973,
-      "name": "What's New In Baltimore?",
-      "url": "https://open.spotify.com/track/0dW2aSS9ccD9vYJAENTkQh"
+      "duration_ms": 636250,
+      "name": "Max Brown",
+      "url": "https://open.spotify.com/track/2rTdMqebwT5PMMjl7aWIUH"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "WHATUP",
-        "url": "https://open.spotify.com/album/6mPWY9kVPFlpXTtxdwFUuO"
+        "name": "Power To The People [Keepnews Collection] (Remastered)",
+        "url": "https://open.spotify.com/album/4ZlES861bCGKTdlHUto1Gv"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
         }
       ],
-      "duration_ms": 148108,
-      "name": "WHATUP",
-      "url": "https://open.spotify.com/track/7vr9frLcyCM4m6A4KS1sex"
+      "duration_ms": 524000,
+      "name": "Power To The People",
+      "url": "https://open.spotify.com/track/1iRHLY0nRyrLZNE3zZ4GLH"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Inception",
-        "url": "https://open.spotify.com/album/28mQLO6qcMbaKfQB3qzCQK"
-      },
-      "artists": [
-        {
-          "name": "McCoy Tyner Trio",
-          "url": "https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p"
-        }
-      ],
-      "duration_ms": 268626,
-      "name": "Inception",
-      "url": "https://open.spotify.com/track/1Dy1zTcsjdsd6JUVNBLC3R"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Brasileiro",
-        "url": "https://open.spotify.com/album/09HBh8LHnAjxwMPWmIWgDb"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 280333,
-      "name": "Senhoras Do Amazonas",
-      "url": "https://open.spotify.com/track/2VOrmfKu0TnhiZh5AeLseC"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Frank Zappa Meets The Mothers Of Prevention",
-        "url": "https://open.spotify.com/album/1NVnPUNo6DOhvp11vYl7pr"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 250746,
-      "name": "Alien Orifice",
-      "url": "https://open.spotify.com/track/0skWyK2HW9kbD62et9oSxR"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Atlantis",
-        "url": "https://open.spotify.com/album/1NM09Xma6x8N9sb2H2ZJEc"
+        "name": "Night Dreamer",
+        "url": "https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6"
       },
       "artists": [
         {
           "name": "Wayne Shorter",
           "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+        },
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        },
+        {
+          "name": "Reginald Workman",
+          "url": "https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ"
+        },
+        {
+          "name": "Elvin Jones",
+          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
         }
       ],
-      "duration_ms": 287093,
-      "name": "Endangered Species",
-      "url": "https://open.spotify.com/track/0npvCDdj6yUw83ALCBniLM"
+      "duration_ms": 410706,
+      "name": "Oriental Folk Song - Remastered",
+      "url": "https://open.spotify.com/track/4H7Dj5xRUOyoGu1Uz9A1H4"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Still Casual",
-        "url": "https://open.spotify.com/album/3gcxm67F1CudCIxqIxbJsy"
+        "name": "In the Moment",
+        "url": "https://open.spotify.com/album/1S3Z7Vy1q3JxPMExQF1Pil"
       },
       "artists": [
         {
-          "name": "Walter Smith III",
-          "url": "https://open.spotify.com/artist/26XwWqwNq8FMgZEKqqdU9b"
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
         }
       ],
-      "duration_ms": 248739,
-      "name": "About 360",
-      "url": "https://open.spotify.com/track/6hpF2l92QotSQaY7ssgue0"
+      "duration_ms": 185108,
+      "name": "Slightest Right",
+      "url": "https://open.spotify.com/track/4rhANcb2MlC5avd0kgDfUc"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Bright Size Life",
-        "url": "https://open.spotify.com/album/1wyaHGxXkIGaLGSQTTgKzw"
+        "name": "Fuchsia Swing Song",
+        "url": "https://open.spotify.com/album/0tsowrhCb9ezNEbhG7Xy0W"
       },
       "artists": [
         {
-          "name": "Pat Metheny",
-          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+          "name": "Sam Rivers",
+          "url": "https://open.spotify.com/artist/0DNuWm5ZBKuCIXLNmrzuk5"
         }
       ],
-      "duration_ms": 258160,
-      "name": "Omaha Celebration",
-      "url": "https://open.spotify.com/track/337Brv18iAflSpzXOD60DY"
+      "duration_ms": 416880,
+      "name": "Cyclic Episode",
+      "url": "https://open.spotify.com/track/7wjUhYlLAO3B1e3nLEmN6r"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "SMiLE",
-        "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
+        "name": "Bill Frisell (with Dave Holland and Elvin Jones)",
+        "url": "https://open.spotify.com/album/5nHaGUyP3XFR9MwebTFESQ"
       },
       "artists": [
         {
-          "name": "DOMi & JD BECK",
-          "url": "https://open.spotify.com/artist/4UpA1KitN1RgIZVyWDbZ0U"
+          "name": "Bill Frisell",
+          "url": "https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5"
         }
       ],
-      "duration_ms": 191361,
-      "name": "SMiLE",
-      "url": "https://open.spotify.com/track/5Pldw6q3Qa9tfWqXFWRSGY"
+      "duration_ms": 195400,
+      "name": "Twenty Years",
+      "url": "https://open.spotify.com/track/02BzvrBbGBEECJttzSRkOj"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/3Ul5Q5UrTwjEc0DI0klsNl"
+        "name": "Black Ballads",
+        "url": "https://open.spotify.com/album/2zy9mYH4owLi9JhgsvNG3X"
       },
       "artists": [
         {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
         }
       ],
-      "duration_ms": 508826,
-      "name": "The 4.15 Bradford Executive",
-      "url": "https://open.spotify.com/track/1PLlAyqIJ7wn0w4QQ64usg"
+      "duration_ms": 517400,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/7nER9rcsl3MqjVsG1jZ5GY"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "The Art of the Trio, Vol. 4: Back at the Vanguard",
-        "url": "https://open.spotify.com/album/0c1xfh8IwwwxK0f5yiMt6o"
+        "name": "Yusef Lateef's Detroit Latitude 42\u00ba 30\u00ba Longitude 83\u00ba",
+        "url": "https://open.spotify.com/album/4GHQT6CdLGyaf3VDJZuTur"
       },
       "artists": [
         {
-          "name": "Brad Mehldau",
-          "url": "https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq"
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
         }
       ],
-      "duration_ms": 457800,
-      "name": "London Blues - Live",
-      "url": "https://open.spotify.com/track/6f6MqGqNva8WCyM0Ym94OK"
+      "duration_ms": 259399,
+      "name": "Eastern Market",
+      "url": "https://open.spotify.com/track/1K2GCXMxKZeBzqXR8zYQem"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Flat Tire (Music for a Non-Existing Movie) [Remastered]",
-        "url": "https://open.spotify.com/album/6syZrckuzLfmrFbIiXK0HZ"
+        "name": "Earfood",
+        "url": "https://open.spotify.com/album/4vuijqNCK71JTiACBmdCTo"
       },
       "artists": [
         {
-          "name": "Allan Holdsworth",
-          "url": "https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG"
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
         }
       ],
-      "duration_ms": 484381,
-      "name": "Snow Moon - Remastered",
-      "url": "https://open.spotify.com/track/3KIZHkkfjed3y0MDTED78G"
+      "duration_ms": 351680,
+      "name": "Mr.Clean",
+      "url": "https://open.spotify.com/track/11dnth0IXdEgXs6W6dJkoJ"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "I Wanna Be Loved",
-        "url": "https://open.spotify.com/album/2C49E8kj9fymqSWRJ3PbRO"
+        "name": "The Complete On The Corner Sessions",
+        "url": "https://open.spotify.com/album/4ORrWT9p5FH1jhTCATKEcj"
       },
       "artists": [
         {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
         }
       ],
-      "duration_ms": 163760,
-      "name": "I Wanna Be Loved",
-      "url": "https://open.spotify.com/track/0XTwZcawE3Nrre8y6Heinl"
+      "duration_ms": 891826,
+      "name": "Maiysha",
+      "url": "https://open.spotify.com/track/1rJ4BA5PEgWVRhrDxvahjN"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Mysterious Traveller",
-        "url": "https://open.spotify.com/album/2JARH6A2TX28OzcPwJnD1p"
+        "name": "The Awakening",
+        "url": "https://open.spotify.com/album/5oSVYKZLKGCmwYqmJ7AZnO"
       },
       "artists": [
         {
-          "name": "Weather Report",
-          "url": "https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b"
+          "name": "Ahmad Jamal Trio",
+          "url": "https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7"
         }
       ],
-      "duration_ms": 639026,
-      "name": "Nubian Sundance - Live",
-      "url": "https://open.spotify.com/track/4EDEh1zQ7oYo0I9GFzYpuP"
+      "duration_ms": 442440,
+      "name": "I Love Music",
+      "url": "https://open.spotify.com/track/4MIPpjKWw1lLVwS6tLhis1"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Emergency!",
-        "url": "https://open.spotify.com/album/1waasXN8fMNbWh4xq7Akeg"
-      },
-      "artists": [
-        {
-          "name": "The Tony Williams Lifetime",
-          "url": "https://open.spotify.com/artist/056ewKKC7ayMJeL7y5h2cb"
-        }
-      ],
-      "duration_ms": 531573,
-      "name": "Spectrum",
-      "url": "https://open.spotify.com/track/7qbSVmCBNqbMrUSDYKrCKs"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Star of Jupiter",
-        "url": "https://open.spotify.com/album/7APtR02ltX46hAC5jZ8Kwx"
-      },
-      "artists": [
-        {
-          "name": "Kurt Rosenwinkel",
-          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
-        }
-      ],
-      "duration_ms": 359080,
-      "name": "A Shifting Design",
-      "url": "https://open.spotify.com/track/6LdDhxHQOsudyypBd5xBFa"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "L\u00c4THER",
-        "url": "https://open.spotify.com/album/3o1ccFPWBiGFbflfAWQ8L5"
-      },
-      "artists": [
-        {
-          "name": "Frank Zappa",
-          "url": "https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN"
-        }
-      ],
-      "duration_ms": 117533,
-      "name": "The Black Page #1",
-      "url": "https://open.spotify.com/track/4A8ERk42FbZrmUDDeewfco"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Drunk",
-        "url": "https://open.spotify.com/album/7vHBQDqwzB7uDvoE5bncMM"
-      },
-      "artists": [
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 119760,
-      "name": "Blackkk",
-      "url": "https://open.spotify.com/track/2YzOFeQ8ZtgZG6pHDXPMQi"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Zappa Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/391z2l9eAfCttmdvE4O5LP"
-      },
-      "artists": [
-        {
-          "name": "The Mothers Of Invention",
-          "url": "https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL"
-        }
-      ],
-      "duration_ms": 105453,
-      "name": "Oh No",
-      "url": "https://open.spotify.com/track/156dhtf7IUH1Eu9lS4AtlO"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Come To Daddy",
-        "url": "https://open.spotify.com/album/0ofaIVDxemaYYQipgWRYKp"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 177093,
-      "name": "Flim",
-      "url": "https://open.spotify.com/track/4q650OiSDQIwccxDFpuuBm"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Piano Interpretations",
-        "url": "https://open.spotify.com/album/5lhA0QNprEfnDsH15udB9R"
-      },
-      "artists": [
-        {
-          "name": "Bud Powell",
-          "url": "https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "Conception",
-      "url": "https://open.spotify.com/track/1LKQbtkCbtjcIm2BwsHf1Q"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Now He Sings, Now He Sobs",
-        "url": "https://open.spotify.com/album/7wKVcBB5SgqVX3Cj3LPllE"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        }
-      ],
-      "duration_ms": 192106,
-      "name": "Windows",
-      "url": "https://open.spotify.com/track/0f6Fb3g0DRpCIbhljotYwO"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Lifetime: The Collection",
-        "url": "https://open.spotify.com/album/0s5AIVzIpjmtKnuYgohnza"
+        "name": "Spectrum: The Anthology",
+        "url": "https://open.spotify.com/album/5Ad2H6m68dMOtax6il4uoU"
       },
       "artists": [
         {
@@ -456,95 +288,507 @@
           "url": "https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe"
         }
       ],
-      "duration_ms": 404533,
-      "name": "Fred",
-      "url": "https://open.spotify.com/track/3qfLV015NcpofyPCwAn9oJ"
+      "duration_ms": 361426,
+      "name": "There Comes A Time",
+      "url": "https://open.spotify.com/track/2v0FO2IUcQStcO6cNJ1UtC"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "On the Mountain",
-        "url": "https://open.spotify.com/album/7DwNg5AkuHEk4Of10oxrkZ"
+        "name": "The Golden Age of Apocalypse",
+        "url": "https://open.spotify.com/album/6pCLvgEb0INbO0WaN2Byyw"
       },
       "artists": [
         {
-          "name": "Elvin Jones",
-          "url": "https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF"
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
         }
       ],
-      "duration_ms": 308666,
-      "name": "Thorn of a White Rose",
-      "url": "https://open.spotify.com/track/2GoAuJqkAA4wZvsUnV8Cn2"
+      "duration_ms": 213582,
+      "name": "It Really Doesn't Matter to You",
+      "url": "https://open.spotify.com/track/3dK1zSqr8ESEQyDeXpJTu2"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "I Love the Blues, She Heard Me Cry",
-        "url": "https://open.spotify.com/album/2eCcLfCpWbWC51xhUfA9JI"
+        "name": "Canvas",
+        "url": "https://open.spotify.com/album/4kHHWOwd6G2RHJiGDzkfIK"
       },
       "artists": [
         {
-          "name": "George Duke",
-          "url": "https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl"
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
         }
       ],
-      "duration_ms": 160079,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/4mYEnfMk7terk3JtLtPUVy"
+      "duration_ms": 459600,
+      "name": "Rise And Shine",
+      "url": "https://open.spotify.com/track/599soHbRxWxvprY2tE5iQV"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "Charlie Parker With Strings (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DPRDrZgfU3rAo2SL4GrZw"
+        "name": "Like Minds",
+        "url": "https://open.spotify.com/album/2es5VG5ZUq4Z6WPTNyTrKf"
       },
       "artists": [
         {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 212600,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/3c57iTv78QOwBrJ0t7yKjE"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Nat King Cole Sings George Shearing Plays",
-        "url": "https://open.spotify.com/album/4jBiAQDfhcRFyH52ry6rZr"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Gary Burton",
+          "url": "https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX"
         },
         {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Pat Metheny",
+          "url": "https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA"
+        },
+        {
+          "name": "Roy Haynes",
+          "url": "https://open.spotify.com/artist/1tGINpEJVUsQXssRC28ugo"
+        },
+        {
+          "name": "Dave Holland",
+          "url": "https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH"
         }
       ],
-      "duration_ms": 191560,
-      "name": "Pick Yourself Up",
-      "url": "https://open.spotify.com/track/14gEDPQtsTcbZOWs7EXg4V"
+      "duration_ms": 383000,
+      "name": "Question And Answer",
+      "url": "https://open.spotify.com/track/0kC2pQf3a4Cdvs16KTbWCC"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2022-08-15 04:00:00",
       "album": {
-        "name": "The Road to You",
-        "url": "https://open.spotify.com/album/6zhcd9npDiEUGn66l1lzSU"
+        "name": "Stretch Music (Introducing Elena Pinderhughes)",
+        "url": "https://open.spotify.com/album/0NBZ0oEunIEI12OElBO0fc"
       },
       "artists": [
         {
-          "name": "Pat Metheny Group",
-          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+          "name": "Christian Scott aTunde Adjuah",
+          "url": "https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn"
+        },
+        {
+          "name": "Elena Pinderhughes",
+          "url": "https://open.spotify.com/artist/1djeOKOhlMmpiF6gyGVUcu"
         }
       ],
-      "duration_ms": 407600,
-      "name": "Have You Heard - Live Version",
-      "url": "https://open.spotify.com/track/7KfUZiQgcaUxoabDoF3vfy"
+      "duration_ms": 304237,
+      "name": "Sunrise in Beijing",
+      "url": "https://open.spotify.com/track/689GuVzHuQ2gJwMPuPbCLQ"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Elastic",
+        "url": "https://open.spotify.com/album/0Im2cH3mUaIEIsVzMeV7un"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        }
+      ],
+      "duration_ms": 403640,
+      "name": "Jazz Crimes",
+      "url": "https://open.spotify.com/track/4fpOXKIU9yRBoYkMhgJ24k"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "The Mad Hatter",
+        "url": "https://open.spotify.com/album/6YJhCssdm3tNhUR6gR1RW6"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        }
+      ],
+      "duration_ms": 390200,
+      "name": "Humpty Dumpty",
+      "url": "https://open.spotify.com/track/3Px1mI852AU6ZQbZFkeRmC"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Horace - Scope",
+        "url": "https://open.spotify.com/album/5fy4rxCz9rIRVuU3HZgK5B"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 283306,
+      "name": "Horace-Scope - Remastered",
+      "url": "https://open.spotify.com/track/478mXYHEun0NQqzNAEauBr"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Unrest",
+        "url": "https://open.spotify.com/album/6QaENtltIJqJg14EvwvtfO"
+      },
+      "artists": [
+        {
+          "name": "Brandee Younger",
+          "url": "https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB"
+        }
+      ],
+      "duration_ms": 248562,
+      "name": "Unrest II",
+      "url": "https://open.spotify.com/track/5n2ungarkfmrpDS5VhKja6"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Ism",
+        "url": "https://open.spotify.com/album/5Xzt2fPrDpUPKVUUrH0VdH"
+      },
+      "artists": [
+        {
+          "name": "Junius Paul",
+          "url": "https://open.spotify.com/artist/7uYN2Nicm0iB7fMHiQFS4j"
+        }
+      ],
+      "duration_ms": 252360,
+      "name": "Twelve Eighteen West",
+      "url": "https://open.spotify.com/track/504mzE2GYkISX30Av802MX"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Afro-Harping",
+        "url": "https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Ashby",
+          "url": "https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt"
+        }
+      ],
+      "duration_ms": 200053,
+      "name": "Soul Vibrations",
+      "url": "https://open.spotify.com/track/2EYLIdBeJZrQqFA0xkzQnu"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "The Jazz Messengers",
+        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 387440,
+      "name": "Deciphering the Message",
+      "url": "https://open.spotify.com/track/2bsP9KCIRT4krLc9VfWYgq"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Impulse Records: Music, Message and the Moment",
+        "url": "https://open.spotify.com/album/7BLYn4rNawMm9RF415dH4F"
+      },
+      "artists": [
+        {
+          "name": "Max Roach",
+          "url": "https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g"
+        },
+        {
+          "name": "Carlos Valdes",
+          "url": "https://open.spotify.com/artist/0SVwY1wz7nbKqR3wHlSB5c"
+        },
+        {
+          "name": "Carlos \"Totico\" Eugenio",
+          "url": "https://open.spotify.com/artist/1pGmNKLeYlx4Oq7HYCxglC"
+        },
+        {
+          "name": "Abbey Lincoln",
+          "url": "https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F"
+        }
+      ],
+      "duration_ms": 473638,
+      "name": "Garvey's Ghost",
+      "url": "https://open.spotify.com/track/0Tnzeub99Y8FP3prRBgEjI"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "These Are The Vistas",
+        "url": "https://open.spotify.com/album/3iVI9khuzGp8ohGEJLUi6Q"
+      },
+      "artists": [
+        {
+          "name": "The Bad Plus",
+          "url": "https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6"
+        }
+      ],
+      "duration_ms": 244573,
+      "name": "Flim",
+      "url": "https://open.spotify.com/track/73dk1Hmi0bDX9IMYISFuac"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Spectrum",
+        "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
+      },
+      "artists": [
+        {
+          "name": "Billy Cobham",
+          "url": "https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j"
+        }
+      ],
+      "duration_ms": 396666,
+      "name": "Red Baron",
+      "url": "https://open.spotify.com/track/6ipO2COc25UhJu9tKCkNsd"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Montara",
+        "url": "https://open.spotify.com/album/01GsxvwlAXZineSgxQXWR1"
+      },
+      "artists": [
+        {
+          "name": "Bobby Hutcherson",
+          "url": "https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5"
+        }
+      ],
+      "duration_ms": 298373,
+      "name": "Montara",
+      "url": "https://open.spotify.com/track/46qrqcOlSXd70Sa0tuSYtv"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Inventions And Dimensions (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6uxqHM6i0as9PVB5S0TcUP"
+      },
+      "artists": [
+        {
+          "name": "Herbie Hancock",
+          "url": "https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW"
+        }
+      ],
+      "duration_ms": 460920,
+      "name": "Succotash - Remastered",
+      "url": "https://open.spotify.com/track/7asJDWkIZl6r0Nc12JyrAS"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "The Gentle Side Of John Coltrane",
+        "url": "https://open.spotify.com/album/0hc0DLxQyod6p5UdCjNOJS"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 147133,
+      "name": "Alabama",
+      "url": "https://open.spotify.com/track/1mAVRpH4hosuvj1r976L4F"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "The New Emancipation",
+        "url": "https://open.spotify.com/album/23Y7tZmMHXn449WmmR3xzh"
+      },
+      "artists": [
+        {
+          "name": "Soweto Kinch",
+          "url": "https://open.spotify.com/artist/6Z37ofcWV3ZDEMbevEtoSk"
+        }
+      ],
+      "duration_ms": 627813,
+      "name": "Never Ending",
+      "url": "https://open.spotify.com/track/6uIvbo2OTdEddLfUforTKW"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Alone Together",
+        "url": "https://open.spotify.com/album/3Z295aI1J54wiMXVkj21wu"
+      },
+      "artists": [
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        }
+      ],
+      "duration_ms": 116946,
+      "name": "Double Trouble",
+      "url": "https://open.spotify.com/track/1mlmcN5lG135sbXdK0V1X7"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "The Unseen",
+        "url": "https://open.spotify.com/album/0dCxrv92J8gKDh4zObd2ZZ"
+      },
+      "artists": [
+        {
+          "name": "Quasimoto",
+          "url": "https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G"
+        }
+      ],
+      "duration_ms": 163280,
+      "name": "Jazz Cats Pt. 1",
+      "url": "https://open.spotify.com/track/1tflnWZ9EgY5TSu8f6HD6i"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Broken Flowers",
+        "url": "https://open.spotify.com/album/4jxeQxmWGy5AyDUl72M3tH"
+      },
+      "artists": [
+        {
+          "name": "Mulatu Astatke",
+          "url": "https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv"
+        }
+      ],
+      "duration_ms": 240093,
+      "name": "Yekermo Sew",
+      "url": "https://open.spotify.com/track/2FkcW6TcRcN0d6uiBaeOM2"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "LOVE QUANTUM",
+        "url": "https://open.spotify.com/album/0PdocBlAIGi3jougS8fNiB"
+      },
+      "artists": [
+        {
+          "name": "Theo Croker",
+          "url": "https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm"
+        },
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        },
+        {
+          "name": "Kassa Overall",
+          "url": "https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf"
+        }
+      ],
+      "duration_ms": 307240,
+      "name": "JAZZ IS DEAD (feat. Gary Bartz & Kassa Overall)",
+      "url": "https://open.spotify.com/track/2dEycc56bOSRFA2bNT17BQ"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Music Is The Healing Force Of The Universe",
+        "url": "https://open.spotify.com/album/5RIcXPAIKjAmBrAowYAtKP"
+      },
+      "artists": [
+        {
+          "name": "Albert Ayler",
+          "url": "https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6"
+        }
+      ],
+      "duration_ms": 275493,
+      "name": "A Man Is Like A Tree",
+      "url": "https://open.spotify.com/track/5N1GOZKxq4GwfjoESdkP52"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Autophysiopsychic",
+        "url": "https://open.spotify.com/album/5GI3MaRApnGun6NSEOHEKv"
+      },
+      "artists": [
+        {
+          "name": "Yusef Lateef",
+          "url": "https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq"
+        }
+      ],
+      "duration_ms": 606733,
+      "name": "Sister Mamie",
+      "url": "https://open.spotify.com/track/2dt10WfPb9cY79LHIVsk1G"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Three For Shepp",
+        "url": "https://open.spotify.com/album/6Xwd4KAqHIFUeExfi2kc6T"
+      },
+      "artists": [
+        {
+          "name": "Marion Brown",
+          "url": "https://open.spotify.com/artist/5OKhN5AURco1pBqba3CbnS"
+        }
+      ],
+      "duration_ms": 308240,
+      "name": "New Blue",
+      "url": "https://open.spotify.com/track/6R6McLHMnYDsEyDk0Hsew1"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "I've Known Rivers And Other Bodies",
+        "url": "https://open.spotify.com/album/7Kh9IHrRaVSAFLY2X6b2kP"
+      },
+      "artists": [
+        {
+          "name": "Gary Bartz",
+          "url": "https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ"
+        }
+      ],
+      "duration_ms": 139426,
+      "name": "Uhuru Sasa",
+      "url": "https://open.spotify.com/track/5v0s574j8eOgHhwaLenHY0"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Rotary Connection",
+        "url": "https://open.spotify.com/album/0tmL5zXFzItTcsBeH70uZ4"
+      },
+      "artists": [
+        {
+          "name": "Rotary Connection",
+          "url": "https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va"
+        }
+      ],
+      "duration_ms": 200440,
+      "name": "Memory Band",
+      "url": "https://open.spotify.com/track/1FRdZFdPus9rlIogtGg2yW"
+    },
+    {
+      "added_at": "2022-08-15 04:00:00",
+      "album": {
+        "name": "Greg Ward's Phonic Juggernaut",
+        "url": "https://open.spotify.com/album/29Ds6BcvfHcIz1EXya3xiJ"
+      },
+      "artists": [
+        {
+          "name": "Greg Ward",
+          "url": "https://open.spotify.com/artist/2vYLQXmN5AbV4lhGGx4qCZ"
+        },
+        {
+          "name": "Damion Reid",
+          "url": "https://open.spotify.com/artist/7DhCIZU1rryHTDoUGj3VdI"
+        },
+        {
+          "name": "Joe Sanders",
+          "url": "https://open.spotify.com/artist/37FavLKAfuARIuUxBOyyY7"
+        }
+      ],
+      "duration_ms": 590306,
+      "name": "Leanin' In",
+      "url": "https://open.spotify.com/track/3DUR5nOKA5er0KDnBJK2bA"
     }
   ],
-  "unique_name": "DOMi & JD BECK digs Jazz",
+  "unique_name": "Makaya McCraven Digs Jazz",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWTtzPKJEaTC4"
 }

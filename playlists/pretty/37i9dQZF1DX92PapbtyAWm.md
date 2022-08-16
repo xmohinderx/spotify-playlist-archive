@@ -2,12 +2,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 
 ### [MOTi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX92PapbtyAWm)
 
-> <a href ="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favourite bangers in his DJ mix.
+> <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,047 likes - 1 song - 2 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,054 likes - 1 song - 2 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [In My Head \(On My Mind\) \- Mixed](https://open.spotify.com/track/1EiDdfA6PZmaVAEN8RgeSa) | [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [In My Head \(On My Mind\)](https://open.spotify.com/album/6rqmkoGeFkxESqTSKtzfcu) | 2:26 |
 
-Snapshot ID: `MTY1MjQ1MzY1OCwwMDAwMDAwMDJhNGZlNTA4ODY1ODFjZGMxYTJjOGJhMmI0Y2ZiOTVm`
+Snapshot ID: `MTY2MDU4MDIzMCwwMDAwMDAwMDU1MGNmMmJkZjM5NDEwNjJhZTRjY2U0MDBkZmM2NWYy`

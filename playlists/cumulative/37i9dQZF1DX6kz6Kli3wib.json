@@ -98,6 +98,24 @@
     },
     {
       "album": {
+        "name": "Another Shot",
+        "url": "https://open.spotify.com/album/5g208I1FL14xlhlnzR4mb5"
+      },
+      "artists": [
+        {
+          "name": "Twin Iguana",
+          "url": "https://open.spotify.com/artist/59OJzu5UZA6OrK4dGT4GZi"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197727,
+      "name": "Another Shot",
+      "url": "https://open.spotify.com/track/1Uc5EFttqhNXqiJsH2vfIs"
+    },
+    {
+      "album": {
         "name": "Art Nomad",
         "url": "https://open.spotify.com/album/3k5ChCpkVEfV93uIcfhQ1e"
       },
@@ -1175,6 +1193,24 @@
       "duration_ms": 194181,
       "name": "Five Points",
       "url": "https://open.spotify.com/track/1gJZCp9PiRv0oyzmiomMlo"
+    },
+    {
+      "album": {
+        "name": "Fives",
+        "url": "https://open.spotify.com/album/0lr9HrEbGPxh0JSllsGsMM"
+      },
+      "artists": [
+        {
+          "name": "Chimi Berry",
+          "url": "https://open.spotify.com/artist/33n8Oo5k1zPw2yQ5CkJPSc"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118972,
+      "name": "Fives",
+      "url": "https://open.spotify.com/track/13UEDh7Imgd0BTOY0n4wnr"
     },
     {
       "album": {

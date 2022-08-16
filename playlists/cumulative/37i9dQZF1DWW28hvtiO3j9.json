@@ -475,6 +475,24 @@
     {
       "album": {
         "name": "LIGHT'N UP",
+        "url": "https://open.spotify.com/album/1HkD7anWh1N7oUqQvbHQa7"
+      },
+      "artists": [
+        {
+          "name": "Minako Yoshida",
+          "url": "https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi"
+        }
+      ],
+      "date_added": "2022-06-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348240,
+      "name": "Light'n Up",
+      "url": "https://open.spotify.com/track/2zelDSKrMkJzWNjgfRrQDi"
+    },
+    {
+      "album": {
+        "name": "LIGHT'N UP",
         "url": "https://open.spotify.com/album/6YpIG863jjqUIXtBj5wizz"
       },
       "artists": [
@@ -1339,7 +1357,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 291573,
       "name": "\u30b9\u30ce\u30c3\u30d6\u306a\u591c\u3078",
       "url": "https://open.spotify.com/track/1ToZZMWUQUXiicl6n2O6P2"

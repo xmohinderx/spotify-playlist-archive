@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "De Tijuana a Tierra del Fuego, aqu\u00ed los que dominan el\u00a0juego. Foto: Santa Fe Klan",
+  "description": "De Tijuana a Tierra del Fuego, aqu\u00ed los que dominan el\u00a0juego. Foto: Gera MX, Nanpa B\u00e1sico",
   "name": "Rap en Espa\u00f1ol",
   "published_playlist_ids": [
     "1FI4Y6oYusBHTp00FAfqcv"
@@ -1154,6 +1154,28 @@
     },
     {
       "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220318,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW"
+    },
+    {
+      "album": {
         "name": "Lejos del 2",
         "url": "https://open.spotify.com/album/0ZZlgtb4U35vMmeJ46jBTh"
       },
@@ -1231,6 +1253,28 @@
       "duration_ms": 220222,
       "name": "LLENO DE ZAFIROS",
       "url": "https://open.spotify.com/track/3HJ9wlvw5PcxTDEUSVcSxY"
+    },
+    {
+      "album": {
+        "name": "Mundo",
+        "url": "https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181765,
+      "name": "Ll\u00e9vame",
+      "url": "https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY"
     },
     {
       "album": {
@@ -1615,7 +1659,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 168000,
       "name": "Nunca Imagin\u00e9",
       "url": "https://open.spotify.com/track/07XudW9mstFnVTESabbOUu"
@@ -2003,7 +2047,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 189149,
       "name": "Soy",
       "url": "https://open.spotify.com/track/47o7j4LL3wM9mCOiAAKD65"

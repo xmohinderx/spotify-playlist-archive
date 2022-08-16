@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajUwYhWkg4J.md) - [plain]
 
 > Top Sufi tracks of Coke Studio Pakistan\. Cover: Rahat Fateh Ali Khan
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,820 likes - 45 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,856 likes - 45 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

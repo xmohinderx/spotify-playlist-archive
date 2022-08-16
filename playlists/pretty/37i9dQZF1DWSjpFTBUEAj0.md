@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 
 > A total apocalypse of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,258 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,304 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjpFTBUEAj0.md) - [plain]
 | 42 | [Walking on Moirai](https://open.spotify.com/track/3RtZhkiOfACxmALcWjQXjB) | [Wanton Witch](https://open.spotify.com/artist/1orDjK2DFVng0Zr5jl5L9g) | [Wanton Witch LP](https://open.spotify.com/album/5wQnEBwnzAXjbC00O9n3nA) | 4:36 |
 | 43 | [Scarred](https://open.spotify.com/track/1FDhKdUxKpwM92vTiWSz9d) | [2nd Gen](https://open.spotify.com/artist/3a81Q4yNe9BIwJ5AZ2dIf2) | [Irony Is](https://open.spotify.com/album/5mTzFYJk9IzcjBeSiR764e) | 2:31 |
 | 44 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 |
-| 45 | [Demands of Ordinary Devotion](https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Demands of Ordinary Devotion](https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi) | 3:31 |
-| 46 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
+| 45 | [Drum Fife Bugle](https://open.spotify.com/track/5X9elLdEBKkgHdTzcWOHdW) | [Dis Fig](https://open.spotify.com/artist/7EeS5UL1zSLdOxbIDulIKC) | [PURGE](https://open.spotify.com/album/52Un5YhkbRyt1POIsrqaft) | 2:48 |
+| 46 | [Demands of Ordinary Devotion](https://open.spotify.com/track/4QC6ChCRikZUr6ppHQVNsM) | [Aaron Dilloway](https://open.spotify.com/artist/1iA1G6TFhNc3GerD6e5XNm), [Lucrecia Dalt](https://open.spotify.com/artist/4LC4vkseYrSEDd6MjZvOO9) | [Demands of Ordinary Devotion](https://open.spotify.com/album/3Z09g2HZyHjxxdUhCyyTSi) | 3:31 |
 | 47 | [Final Head \(No.31\)](https://open.spotify.com/track/3SpHBVLudhv7kAmwgZBaAZ) | [Mirroreyes](https://open.spotify.com/artist/3YGdGNj1uzAXC7bhxMq3Xw) | [Final Head \(No.31\)](https://open.spotify.com/album/360yAVVVL9ydNiDJF7rBRz) | 5:18 |
 | 48 | [Floodwaters](https://open.spotify.com/track/3lWqhO8VCqq3eynbHdWusx) | [Rites of Fall](https://open.spotify.com/artist/0lmo0WuKgZFuma8hHrI4So) | [Floodwaters](https://open.spotify.com/album/7tBGivhA5lzGPKsNeWPdKF) | 10:33 |
 | 49 | [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 |
 | 50 | [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 |
 
-Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMDZlNGZmYjRhZmI5ZWE4ZTUyZWI5NzQ4NGJmZGUwYzUw`
+Snapshot ID: `MTY1OTEwNTkyNywwMDAwMDAwMDA3NzI0NDUwZjRhZTE0MTVkNzgyYmMwOTNiNGEwNzhl`

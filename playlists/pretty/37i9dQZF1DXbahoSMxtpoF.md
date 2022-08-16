@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbahoSMxtpoF.md) - [plain]
 
 > Honoring the life and music of the <a href="spotify:artist:5xLSa7l4IV1gsQfhAMvl0U">blues giant</a>, 1925–2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,571 likes - 24 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,666 likes - 24 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Beautiful proudly South African gems made for the entire family\. Cover: <a href="https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan?si=fzYSGg0qR3OZpf06fSNyQQ">Nomfundo Moh</a>
 
-218 songs - 15 hr 29 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
+219 songs - 15 hr 33 min - [published](https://open.spotify.com/playlist/6BghGTymCVTsnBj72SFGI9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [30minutes to Soweto](https://open.spotify.com/track/6jfdGlzKaFgaSZESel9EQy) | [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz) | [30minutes to Soweto](https://open.spotify.com/album/1eb8a1HGutT2c8EkJB92Oo) | 4:06 | 2022-07-28 | 2022-08-05 |
 | [Abelungu](https://open.spotify.com/track/1rN3hYaB9H4UcYOuSep8i7) | [Diezel Smoke](https://open.spotify.com/artist/0hQEcRSi3aKAYzRuOo7ZF5), [Chad Da Don](https://open.spotify.com/artist/1RB5sQBUeyxeWQefDmdW3k) | [Abelungu](https://open.spotify.com/album/2VIQm1GmXG8iZUXytiydxJ) | 4:24 | 2022-07-25 |  |
 | [Adventure](https://open.spotify.com/track/6avNkwMgoh3eZ61sgdT0YH) | [DJ Catzico](https://open.spotify.com/artist/3ZpL7nb7gMxYkxULtkr7sM), [Vista](https://open.spotify.com/artist/6tEP3lV5Jk2HhFqVr9jmbT), [Nkosazana Daughter](https://open.spotify.com/artist/4AnNB3lPD0Sv7ziKVHqI66), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [DJ Magic Flowz](https://open.spotify.com/artist/74GSaT35V6KBOupswXvvhn) | [Adventure](https://open.spotify.com/album/1YPeNURVXYx2D0h0zjJeJn) | 5:00 | 2022-08-04 |  |
+| [Alusafani](https://open.spotify.com/track/1BXfrEUZFDhrVahuVT3PMK) | [Q Twins](https://open.spotify.com/artist/2krUPP3nMYoF1C5WX3yB7J), [Xowla](https://open.spotify.com/artist/08ejcjfMzbGwiK9MVslxc5), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [Alusafani](https://open.spotify.com/album/4u56tBvuMwxuyvgE4VsnXn) | 3:44 | 2022-08-15 |  |
 | [Amagama \- Outro](https://open.spotify.com/track/5svm683IVMIlIsUbnh09gP) | [Nomfundo Moh](https://open.spotify.com/artist/6brKi6i5SusNnoKcSlKAan) | [Amagama \(Outro\)](https://open.spotify.com/album/4qoViDJuin6g4MihSrGxf6) | 2:37 | 2022-01-06 | 2022-07-29 |
 | [Amagents](https://open.spotify.com/track/5dVd3tBZQhOctXiq2jwrhD) | [Samthing Soweto](https://open.spotify.com/artist/6HwxMgE895sejjGFin9Gvm) | [Amagents](https://open.spotify.com/album/0rgt2gSlZTttcQTg2xsvGK) | 3:43 | 2022-06-27 |  |
 | [Amanxeba Othando \(feat\. Mduduzi Ncube\)](https://open.spotify.com/track/0NH6wxjDcflP9Ymw8UQu4b) | [Bekezela](https://open.spotify.com/artist/4iZu4DzXizc1qAOSpa3qCX), [Mduduzi Ncube](https://open.spotify.com/artist/5jvlsVxfcbRVuHJ2Uv8WOh) | [Asiwine](https://open.spotify.com/album/0Ug7YS6FRnN7QVH4HbAxKr) | 3:20 | 2022-08-04 |  |
@@ -48,7 +49,7 @@
 | [Ezeyeza](https://open.spotify.com/track/5hBD67zSFjTMFNYKeT93S7) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Ezeyeza](https://open.spotify.com/album/0wqRzLuTbx8Kz6FBENyxIu) | 6:20 | 2022-05-26 | 2022-06-24 |
 | [Faith](https://open.spotify.com/track/2BdVXGDBqMBLF8PCEqfYrL) | [Viwe](https://open.spotify.com/artist/3Q0MK38M8FGQrpZ1dnh6k1) | [Ngoku](https://open.spotify.com/album/5EFVPzXx88teAhccDWYkWc) | 2:07 | 2022-02-03 | 2022-02-11 |
 | [Falling Down](https://open.spotify.com/track/0bcBHB3JTd529JBubx2ZLr) | [LAE](https://open.spotify.com/artist/5tEuaS1APkI90VOicB8UR6) | [Falling Down](https://open.spotify.com/album/2IkncK5hJ3uwUEjEnkwS3b) | 4:19 | 2022-07-14 |  |
-| [Fetch Your Life II](https://open.spotify.com/track/2sNGPTctQVNBxHNXWdZSIR) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Fetch Your Life II](https://open.spotify.com/album/5OYCS95I7uk5MzjxbqRDgJ) | 5:07 | 2021-10-21 |  |
+| [Fetch Your Life II](https://open.spotify.com/track/2sNGPTctQVNBxHNXWdZSIR) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Fetch Your Life II](https://open.spotify.com/album/5OYCS95I7uk5MzjxbqRDgJ) | 5:07 | 2021-10-21 | 2022-08-16 |
 | [Forever Yours](https://open.spotify.com/track/1JhdsJnSPVmzjilbLympm7) | [Hunter Rose](https://open.spotify.com/artist/2G6bNldbTZU1viUkX5Myuq) | [Forever Yours](https://open.spotify.com/album/5LlImAZTpN0uC56a2pI5jt) | 4:00 | 2022-03-10 | 2022-05-20 |
 | [Get over U](https://open.spotify.com/track/0lFbOOZNpNi8TewfBei8qp) | [Zinah](https://open.spotify.com/artist/6gsa5KYo245MjohqCFGwQw) | [Rose Garden](https://open.spotify.com/album/4rAar6jaEScMXlVOdhP820) | 3:15 | 2022-02-24 | 2022-05-06 |
 | [Ghanama](https://open.spotify.com/track/0AZxr9dlswnn6TNxIMyijH) | [Makhadzi](https://open.spotify.com/artist/2aIcnnHTA16VbmhNJGLrGs), [Prince Benza](https://open.spotify.com/artist/5jCHpUIjSnOXUzVaxwBA2k) | [African Queen](https://open.spotify.com/album/72qVzkEjhc6ZlSh5QxEo4s) | 4:53 | 2021-07-12 | 2022-08-12 |

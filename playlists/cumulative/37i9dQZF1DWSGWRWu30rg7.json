@@ -7210,6 +7210,24 @@
     },
     {
       "album": {
+        "name": "Jealousy",
+        "url": "https://open.spotify.com/album/5LA2KHoFqxhx7AEsgiAo8j"
+      },
+      "artists": [
+        {
+          "name": "Dreane",
+          "url": "https://open.spotify.com/artist/3jGBrkfigCO8a21DpyiOMa"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197316,
+      "name": "Jealousy",
+      "url": "https://open.spotify.com/track/17gZ1nv5IsPUNiCya1Xm8M"
+    },
+    {
+      "album": {
         "name": "Jendela Kereta",
         "url": "https://open.spotify.com/album/4iBYnncekOts1gBwEnXFS5"
       },

@@ -4,7 +4,7 @@
 
 > The best Hip Hop coming out of Australia\. Cover: Day1
 
-215 songs - 10 hr 31 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
+216 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/4Dkoxwgg3cIjwa7yuFFJFE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Pray For Me, Pt\. 1](https://open.spotify.com/track/4Hrxf3NF0NrobCV1000xgH) | [Levine Lale](https://open.spotify.com/artist/2qgQuxHp5MEISrfNMPnKu3), [Billz 90](https://open.spotify.com/artist/2GAkIQ6pAg0O22r0KlVOh7), [Bronson 5th](https://open.spotify.com/artist/7b8i9gxs8PGgajk4N1hVey), [Imperial Collective](https://open.spotify.com/artist/0d2VYzQHpvclvMtj0iPjNf) | [Pray For Me, Pt\. 1](https://open.spotify.com/album/6Mb1LMw4dVZFQ6SxT9Qru3) | 3:16 | 2022-03-24 | 2022-05-27 |
 | [Pray For More feat\. Lisi and Mikey Dam](https://open.spotify.com/track/4NVlydgjPhygEBpagUquGK) | [MELODOWNZ](https://open.spotify.com/artist/0tkEKBrgdMZXjZylYRoN7H), [Lisi](https://open.spotify.com/artist/01Gj5Tpdz9igIh1uqH8bvu), [Mikey Dam](https://open.spotify.com/artist/6U5CUX0APXFzqcfpoXxEyb) | [Pray For More feat\. Lisi and Mikey Dam](https://open.spotify.com/album/2OOkgshtZngMZ8kcJYOhTZ) | 3:09 | 2022-04-07 | 2022-06-17 |
 | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/track/3GRKDBSiMwmcJd7welX7nb) | [NASA NOVA](https://open.spotify.com/artist/06QjJe1vLugKmPVdMKVCUR), [Ay Huncho](https://open.spotify.com/artist/3HKD4MjCgkSrWjhebSa1Np) | [Proper60 \(feat\. Ay Huncho\)](https://open.spotify.com/album/208Yu2Go1bkO92PdCCqrvO) | 3:09 | 2022-03-21 | 2022-05-13 |
+| [PULL'D UP \(11PM\)](https://open.spotify.com/track/7BqPLWIlvzDBbXAYjIWVWF) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92) | [PULL'D UP \(11PM\)](https://open.spotify.com/album/7lm8mKJ8kOnAdrZ4BJsq4u) | 2:22 | 2022-08-15 |  |
 | [Quarantine](https://open.spotify.com/track/6JekNdh8yb0jig33CgUnxN) | [Double S Dons](https://open.spotify.com/artist/1oLymuSNo4PajYWdp9LmxR) | [Quarantine](https://open.spotify.com/album/3HNqt782tj0CEoDnCvuYCc) | 3:27 | 2022-03-21 | 2022-03-25 |
 | [Question Mark](https://open.spotify.com/track/3PxCtJpgauXfrVh3iCwf4o) | [Sophiegrophy](https://open.spotify.com/artist/4VbLknkcJMhSninTvMZbfE) | [Question Mark](https://open.spotify.com/album/68gwLJUCRoYXU0UajxnZ7c) | 2:58 | 2022-06-09 |  |
 | [Ready To Ride](https://open.spotify.com/track/2UwIUkE4rQk7dup2dOWgSY) | [Nokz78](https://open.spotify.com/artist/4YpUneet1k2jaCfvCfUnZy) | [Ready To Ride](https://open.spotify.com/album/20tq1b7LGyKv0ZdvkqOyyn) | 3:05 | 2022-05-12 |  |
@@ -199,7 +200,7 @@
 | [Tough Love](https://open.spotify.com/track/580M6DAWUqbm8Xen9hFzen) | [B Wise](https://open.spotify.com/artist/0NgUGQAd79J00Nf7o2tgkg), [BBGB](https://open.spotify.com/artist/24WPoEQFxZRu8ITQ7QPxpW), [Kwame](https://open.spotify.com/artist/5ywIxMaX80lDjSzzj7wqto), [Manu Crooks](https://open.spotify.com/artist/1nL98XHH55na3zeMnrYMXh), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq), [Lil Spacely](https://open.spotify.com/artist/1CAaxKxpPMiWEUX2bG7S7n) | [Tough Love](https://open.spotify.com/album/2oDAt5ppCdmPxX2FgDEO2Y) | 2:02 | 2022-07-14 |  |
 | [Toxic](https://open.spotify.com/track/1EJGuZXvY7uy4o1mdzjZPq) | [Huskii](https://open.spotify.com/artist/7uXoqYYwYwTUMF2zSF9Fwl) | [Antihero](https://open.spotify.com/album/6WM5kbNyUzZ2UWl4GbS0rV) | 3:52 | 2022-03-21 | 2022-07-05 |
 | [Tracy Grimshaw](https://open.spotify.com/track/3dMGnKVcJVBa7CxXSp8Yya) | [Mulalo](https://open.spotify.com/artist/5gUm9HBoHkyMtwmPyDJfNn) | [Tracy Grimshaw](https://open.spotify.com/album/5X32vW9f2LmO5Akf20fXC3) | 2:42 | 2022-08-11 |  |
-| [TRAP DREAMS](https://open.spotify.com/track/52BylVuxNpng56UeZYUEnA) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [TRAP DREAMS](https://open.spotify.com/album/6Sj7aGHquIVAQtM8HEnPjZ) | 2:23 | 2022-03-21 |  |
+| [TRAP DREAMS](https://open.spotify.com/track/52BylVuxNpng56UeZYUEnA) | [DOU T](https://open.spotify.com/artist/4CbMyLAbcoQyZzLZozpK92), [LELI SK](https://open.spotify.com/artist/45UPG7pWDca9zxljdJwjhl) | [TRAP DREAMS](https://open.spotify.com/album/6Sj7aGHquIVAQtM8HEnPjZ) | 2:23 | 2022-03-21 | 2022-08-16 |
 | [Trap Talk](https://open.spotify.com/track/2vNvy7NbrgsopoZ1VFjgd9) | [Kapulet](https://open.spotify.com/artist/1ViLuYdL1yATbOu4NDKedh), [CG](https://open.spotify.com/artist/7emez5lGlXnCUAkL2qgt4z) | [Trap Talk](https://open.spotify.com/album/3YdTjt5JpHKyHF16NaDbEK) | 3:14 | 2022-06-02 |  |
 | [Treble](https://open.spotify.com/track/79IieVaTMmfD79WBUODypS) | [Jteazy](https://open.spotify.com/artist/7i1xIKvHS7CGozfyGZEDlW) | [Treble](https://open.spotify.com/album/2oRToYRNaQsvPWvliGxgYU) | 2:47 | 2022-03-24 | 2022-06-17 |
 | [TRIALS](https://open.spotify.com/track/4rIxN5z79tqoECKb6ua8NP) | [MRVZ](https://open.spotify.com/artist/2dsVQfTfxS9vGeKk1guzgK) | [TRIALS](https://open.spotify.com/album/5uPWPAsk933wAWY7485xC0) | 3:05 | 2022-06-30 | 2022-08-05 |

@@ -4,7 +4,7 @@
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-237 songs - 13 hr 15 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
+238 songs - 13 hr 20 min - [published](https://open.spotify.com/playlist/3oxhssgEhBCb78sRSB2lyV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Avalanche](https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj) | [reggie](https://open.spotify.com/artist/2kAP2prnGAq7s3DwRT6s16), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Avalanche](https://open.spotify.com/album/3wLd71P517DbiJYR3swVq1) | 2:28 | 2021-09-24 | 2022-05-20 |
 | [Ballin in Newport \(with Omen\)](https://open.spotify.com/track/1KsHmftDAysEtLpDK1o6Y9) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Omen](https://open.spotify.com/artist/5j1BNsC9xeWGfBVCzzg6fc) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 3:32 | 2022-04-01 |  |
 | [Baxter Avenue](https://open.spotify.com/track/0Gvl1luZaeTgCbVSI2z23D) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 3:27 | 2021-10-07\* | 2021-12-04 |
+| [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/1pRkGgpQGX6nr8PrO1NMIs) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Cheat Codes](https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy) | 4:41 | 2022-08-15 |  |
 | [Bed\-Stuy is Burning](https://open.spotify.com/track/25m9STwUOibOP20tzgW646) | [Skyzoo](https://open.spotify.com/artist/0qHfqHyHZnxvv1lfkJraQc), [Hypnotic Brass Ensemble](https://open.spotify.com/artist/4wvPcMJk7L9Rbw9Qh4kBeH) | [Bed\-Stuy is Burning](https://open.spotify.com/album/2QjFWqdudxOO6tuYKgmcN8) | 5:07 | 2021-05-21 | 2022-03-26 |
 | [Been a Star](https://open.spotify.com/track/6iq11iEXQpsv6Luq7oNvv9) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [2022 the EP](https://open.spotify.com/album/3tnN1rF99kxjz5UfMUGj0U) | 3:26 | 2022-02-25 | 2022-07-23 |
 | [better](https://open.spotify.com/track/3SSYNtpoHkaGs4TYux2KGH) | [redveil](https://open.spotify.com/artist/5BwsX8bXOFC1YnqSlyfOKM), [Sam Truth](https://open.spotify.com/artist/6vyaBinA0tnzsoiX4GEboa) | [better](https://open.spotify.com/album/40OQM1Zf8VuYdx61uuxxeO) | 3:10 | 2022-04-01 |  |

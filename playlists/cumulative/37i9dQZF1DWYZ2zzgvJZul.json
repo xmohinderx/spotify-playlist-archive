@@ -793,10 +793,28 @@
       ],
       "date_added": "2022-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 173745,
       "name": "La Cima",
       "url": "https://open.spotify.com/track/3LJIeuhVmz6FKfm24m0Zu7"
+    },
+    {
+      "album": {
+        "name": "Hasta Arriba",
+        "url": "https://open.spotify.com/album/2mLsNvZvyNm0HTBlpqUHd7"
+      },
+      "artists": [
+        {
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173745,
+      "name": "La Cima",
+      "url": "https://open.spotify.com/track/5wBpXZG43u7flHH97cnGBk"
     },
     {
       "album": {

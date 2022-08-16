@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Avril Lavigne
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,828 likes - 189 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,940 likes - 189 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

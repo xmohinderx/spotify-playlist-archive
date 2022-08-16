@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: Issa Rae, Kamillion, Aida Osman & Jonica Booth #RapSh!t",
-  "num_followers": 214141,
+  "num_followers": 214283,
   "original_name": "Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2ODY1NiwwMDAwMDAwMGYwMTY2ZWQ4ZTBjMWI3MWFkYjBiMzFiNTVjMDM5ZDcx",
+  "snapshot_id": "MTY2MDA2ODY1NiwwMDAwMDAwMDllYTY0MThjZmRkNTg2YTQwMzk1ODEwYzlkOWNhNDcw",
   "tracks": [
     {
       "added_at": "2022-08-01 04:00:00",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-08-01 04:00:00",
       "album": {
-        "name": "Invasion of Privacy",
-        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 223712,
-      "name": "Bodak Yellow",
-      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
-    },
-    {
-      "added_at": "2022-08-01 04:00:00",
-      "album": {
         "name": "Girl Code",
         "url": "https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 158332,
       "name": "Act Up",
       "url": "https://open.spotify.com/track/3A2yGHWIzmGEIolwonU69h"
+    },
+    {
+      "added_at": "2022-08-01 04:00:00",
+      "album": {
+        "name": "Invasion of Privacy",
+        "url": "https://open.spotify.com/album/4KdtEKjY3Gi0mKiSdy96ML"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 223712,
+      "name": "Bodak Yellow",
+      "url": "https://open.spotify.com/track/6KBYefIoo7KydImq1uUQlL"
     },
     {
       "added_at": "2022-08-01 04:00:00",

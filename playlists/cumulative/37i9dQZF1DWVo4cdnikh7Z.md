@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Ponniyin Selvan
 
-225 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
+226 songs - 14 hr 11 min - [published](https://open.spotify.com/playlist/3lJTsYcdZXxaz1Tx9gEyN0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Chellamey \- From "Poikkal Kuthirai"](https://open.spotify.com/track/5hAuHGTReizi2XhoAkQX80) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7), [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0) | [Chellamey \(From "Poikkal Kuthirai"\)](https://open.spotify.com/album/4xUw9Wdnhin8pF6ssYnpgx) | 3:46 | 2022-08-01 | 2022-08-15 |
 | [Cheranaadu](https://open.spotify.com/track/2jAGtM4p7cAvCO98nDW43Y) | [Simon K\. King](https://open.spotify.com/artist/1IlhogUcs6tZ7vd9iOVxUF), [Ramya Nambessan](https://open.spotify.com/artist/2jLNoI1JBkPjnIa0qCWLVa) | [Paper Rocket \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3lwB5hBZ2xVKPPxeDC3kVT) | 3:45 | 2022-07-19 | 2022-07-27 |
 | [Chinna Maamiye](https://open.spotify.com/track/1oLJIeFTazH63VenzlRR2C) | [Nithi Kanagaratnam](https://open.spotify.com/artist/4EO7knyiy9ZAKJLHGVDShr), [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB) | [Gargi \(Tamil\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/2XETbDv6zAdtX4Bj0XNGzC) | 2:39 | 2022-07-15 | 2022-07-22 |
+| [Chinna Paiyan](https://open.spotify.com/track/1s9tOQi4m09oUYrFe4NHq7) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q), [vaisagh](https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp) | [Chinna Paiyan](https://open.spotify.com/album/2qM9ehonwr9k0gp3P9pd1N) | 3:22 | 2022-08-15 |  |
 | [Chinna Ponnu](https://open.spotify.com/track/3eJbi3PhkOcy4Izv6ioqt0) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD), [Harshika Devanath](https://open.spotify.com/artist/5PKcHZjlcaKjI9L1eDga3S) | [Vikrant Rona \(TAMIL\)](https://open.spotify.com/album/4clQks1A41Mjgq1vX00aza) | 3:30 | 2022-08-01 | 2022-08-08 |
 | [Coka 2.0 \(From "Liger \(Tamil\)"\)](https://open.spotify.com/track/4lituJ6esaW8CHNJ30UTSW) | [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Lijo George\-Dj Chetas](https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP), [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Coka 2.0 \[From "Liger \(Tamil\)"\]](https://open.spotify.com/album/6WoGzYPpVj1NpPcBrc8O1R) | 2:46 | 2022-08-12 |  |
 | [Colours Song](https://open.spotify.com/track/76sAeBXdramwGXm5PQTt0B) | [Nakul Abhyankar](https://open.spotify.com/artist/45dUPHFa2AoC4lqFTcPmiD), [Haripriya](https://open.spotify.com/artist/1CUAEnzS0hidDnH66AUS3h) | [The Warriorr \(Tamil\)](https://open.spotify.com/album/2txCsmXnCRRyiAlLdndu0S) | 3:59 | 2022-07-07 | 2022-07-18 |

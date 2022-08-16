@@ -2,7 +2,7 @@
 
 ### [RADAR Brasil](https://open.spotify.com/playlist/37i9dQZF1DWTVE8ZCcLQ5Q)
 
-> Descubra Veigh e novos talentos brasileiros no horizonte.
+> Descubra Mac Júlia e novos talentos brasileiros no horizonte.
 
 268 songs - 13 hr 39 min - [published](https://open.spotify.com/playlist/62Z0vZErIH6g7RB9Wn42Q7)
 

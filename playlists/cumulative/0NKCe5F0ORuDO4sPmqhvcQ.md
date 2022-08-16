@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-287 songs - 15 hr 56 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+288 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Like That](https://open.spotify.com/track/5qqVN5D69aOkN0lf8OIQ2b) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [Pell](https://open.spotify.com/artist/2O2dI9lY9PnWtAa4OlrgMi), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Like That](https://open.spotify.com/album/4FQ3HXhwVOTaMKVdDhYxER) | 2:30 | 2022-07-15 |  |
 | [Liminal Spaces](https://open.spotify.com/track/4o46hDiC5c1ZLJ8vh9Wjee) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 1:52 | 2022-07-21 | 2022-07-23 |
 | [Little League](https://open.spotify.com/track/3yJ6oOCpjC1KbGO4uqebRu) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Little League](https://open.spotify.com/album/26WqHeLHlv0Dde7RPYVw9G) | 2:49 | 2022-02-28 | 2022-03-31 |
+| [Long Way Down](https://open.spotify.com/track/2ZPgXDbzIozq6pprS2FWrw) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:36 | 2022-08-15 |  |
 | [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-01 |  |
 | [Love Lost \- AOBeats Remix](https://open.spotify.com/track/1IFJGpC89M9bc2KUaFMNBt) | [Dugong Jr](https://open.spotify.com/artist/5CJyoIE9kMfWbFbdVk721i), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw), [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [Love Lost \(AOBeats Remix\)](https://open.spotify.com/album/4AfOj41E8CImDcEv3iwaDL) | 2:41 | 2021-10-11 | 2022-02-05 |
 | [love ya](https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [love ya](https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv) | 3:07 | 2022-08-12 |  |

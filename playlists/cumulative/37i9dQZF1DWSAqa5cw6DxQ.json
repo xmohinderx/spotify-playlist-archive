@@ -1038,6 +1038,24 @@
     },
     {
       "album": {
+        "name": "Obion Pulse",
+        "url": "https://open.spotify.com/album/0LnDW7jS8XsJ2QwegTlAHo"
+      },
+      "artists": [
+        {
+          "name": "Polarsken",
+          "url": "https://open.spotify.com/artist/776CEyHtewX4OuzP3zDVjH"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284656,
+      "name": "Obion Pulse",
+      "url": "https://open.spotify.com/track/0zSRxrBb1PJ9Zlliu5PYtn"
+    },
+    {
+      "album": {
         "name": "On A Bed Of Peace",
         "url": "https://open.spotify.com/album/1HOEnUoODyeJV6bgW45s02"
       },

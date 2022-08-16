@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 
 > This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,794 likes - 60 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,117 likes - 60 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 27 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
 | 28 | [Nterini \- Sparrow & Barbossa Remix](https://open.spotify.com/track/6ZD6KxJrALrxyx0E01Rkgf) | [Fatoumata Diawara](https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC), [Sparrow & Barbossa](https://open.spotify.com/artist/3c1sTwL4HuWkrciiKHpnmx) | [Nterini \(Sparrow & Barbossa Remix\)](https://open.spotify.com/album/3WdD0er2Bbwk3xy6hUnVNm) | 6:03 |
 | 29 | [Osuga](https://open.spotify.com/track/2IiYV4muGj5HVGPRASTRpJ) | [Djuma Soundsystem](https://open.spotify.com/artist/5PcCFmsEQz3wWeZ8q5amGF), [Emok](https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg), [Olith](https://open.spotify.com/artist/7rTJ2pDF04GHYdGMU3mYAf) | [Sagas of Iziki \| Chapter 2](https://open.spotify.com/album/32Ojr7lP5QCCSKp3uXdKES) | 9:04 |
-| 30 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
-| 31 | [Forlorn Hope](https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Forlorn Hope](https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx) | 8:40 |
+| 30 | [Forlorn Hope](https://open.spotify.com/track/1Xs3LqFit5BSZPrGyxJBYw) | [Oceanvs Orientalis](https://open.spotify.com/artist/3gNEIgLeknpwkNViU8WAhg) | [Forlorn Hope](https://open.spotify.com/album/4HsVqD7Kd3nWAmeXFDHWTx) | 8:40 |
+| 31 | [The Oracle](https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz) | [Mollono.Bass](https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF) | [Woods, Tales & Friends](https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4) | 4:42 |
 | 32 | [Monterrey Paris Texas](https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7) | [Superpitcher](https://open.spotify.com/artist/55BdmUTmTmoUNOFQxm54k5), [Daniel Maloso](https://open.spotify.com/artist/7j5SLy2KUc3LVi3r7xKqIe) | [Velvet Desert Music Vol\. 2](https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW) | 7:33 |
 | 33 | [Star Tripper](https://open.spotify.com/track/17httCRML11JQcFn0ng40I) | [Depart](https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy) | [Star Tripper](https://open.spotify.com/album/4bil9t1emZ5tMxChSU364V) | 4:53 |
 | 34 | [Aguacero](https://open.spotify.com/track/3WZIbQjUkhGXVjWqPjMNvs) | [Sebjak](https://open.spotify.com/artist/4WaTBVJBxGQ71Ch0swa8DA) | [Aguacero](https://open.spotify.com/album/4hTAp0JOofvwTrfwmWLSVD) | 6:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2pprEpa9URZ.md) - [plain]
 | 59 | [Eliso Lyamu Katata](https://open.spotify.com/track/4sAXWtXJa4XO3oFt9Bhrk0) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [Eliso](https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD) | 2:56 |
 | 60 | [Take Me Back](https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY) | [Marcel Vogel](https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D), [Tim Jules](https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk) | [Take Me Back](https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y) | 4:46 |
 
-Snapshot ID: `MTY2MDMxMzkyMiwwMDAwMDAwMGQzNjM0ZjM0MzczNzk5YmIyNjU4MWY1MGY5YTdmOWU5`
+Snapshot ID: `MTY2MDMxMzkyMiwwMDAwMDAwMGJkOGM3YmQ0N2MwOTIwNTJiYjE3NTU0MWE0NThiMDlk`

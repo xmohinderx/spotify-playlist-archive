@@ -1,12 +1,12 @@
 {
   "description": "Like the old school sound of metal? Then you'll love this playlist! Cover: Megadeth",
-  "num_followers": 2291711,
+  "num_followers": 2292827,
   "original_name": "Old School Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzc1NjgwMCwwMDAwMDAwMGUzOGQ4OTM0NWRhOGUwMTJhYmZlMTMwZTNiNjE0OTM2",
+  "snapshot_id": "MTY1Nzc1NjgwMCwwMDAwMDAwMDUyY2Q5ZTgxZTY1ZDgwNGMzZjVjMTBiZTFiNzI2MjY2",
   "tracks": [
     {
       "added_at": "2022-07-14 00:00:00",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Highway to Hell",
+        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 208400,
+      "name": "Highway to Hell",
+      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "Dr. Feelgood",
         "url": "https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD"
       },
@@ -155,6 +171,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Dressed To Kill",
+        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 168840,
+      "name": "Rock And Roll All Nite",
+      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "Danzig",
         "url": "https://open.spotify.com/album/3elIDlrTtrgKfbxYVgp3uW"
       },
@@ -171,8 +203,8 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Highway to Hell",
-        "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
+        "name": "The Razors Edge",
+        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
       },
       "artists": [
         {
@@ -180,25 +212,9 @@
           "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
         }
       ],
-      "duration_ms": 208400,
-      "name": "Highway to Hell",
-      "url": "https://open.spotify.com/track/2zYzyRzz6pRmhPzyfMEC8s"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Dressed To Kill",
-        "url": "https://open.spotify.com/album/1YCC4oZXg2zGn7pVSKVlGF"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 168840,
-      "name": "Rock And Roll All Nite",
-      "url": "https://open.spotify.com/track/6KTv0Z8BmVqM7DPxbGzpVC"
+      "duration_ms": 292880,
+      "name": "Thunderstruck",
+      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -283,38 +299,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "I Wanna Rock",
-      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "The Razors Edge",
-        "url": "https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy"
-      },
-      "artists": [
-        {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
-        }
-      ],
-      "duration_ms": 292880,
-      "name": "Thunderstruck",
-      "url": "https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Girls, Girls, Girls",
         "url": "https://open.spotify.com/album/2KT9tWALjIRjnaGYDYPg3k"
       },
@@ -343,6 +327,38 @@
       "duration_ms": 309973,
       "name": "For Whom The Bell Tolls (Remastered)",
       "url": "https://open.spotify.com/track/51YZAJhOwIC5Gg3jMbAmhZ"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "I Wanna Rock",
+      "url": "https://open.spotify.com/track/70Z9t1qhytWtG4cCmmi7mU"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Back In Black",
+        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+      },
+      "artists": [
+        {
+          "name": "AC/DC",
+          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+        }
+      ],
+      "duration_ms": 210173,
+      "name": "You Shook Me All Night Long",
+      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -395,18 +411,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Back In Black",
-        "url": "https://open.spotify.com/album/6mUdeDZCsExyJLMdAfDuwh"
+        "name": "...And Justice for All (Remastered Deluxe Box Set)",
+        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
       },
       "artists": [
         {
-          "name": "AC/DC",
-          "url": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 210173,
-      "name": "You Shook Me All Night Long",
-      "url": "https://open.spotify.com/track/2SiXAy7TuUkycRVbbWDEpo"
+      "duration_ms": 446145,
+      "name": "One (Remastered)",
+      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -423,22 +439,6 @@
       "duration_ms": 214960,
       "name": "Runnin' with the Devil - 2015 Remaster",
       "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "...And Justice for All (Remastered Deluxe Box Set)",
-        "url": "https://open.spotify.com/album/2XbWaerVk9fjhEiGSrd6TF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 446145,
-      "name": "One (Remastered)",
-      "url": "https://open.spotify.com/track/0LAcM6I7ijW4VVW0aytl1t"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -475,38 +475,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Down To Earth",
-        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
-      },
-      "artists": [
-        {
-          "name": "Rainbow",
-          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Since You Been Gone",
-      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "No More Tears (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 443240,
-      "name": "No More Tears",
-      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "High Voltage",
         "url": "https://open.spotify.com/album/19AUoKWRAaQYrggVvdQnqq"
       },
@@ -523,6 +491,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Down To Earth",
+        "url": "https://open.spotify.com/album/1xlTRhgWQSEvu9DPHVn8uJ"
+      },
+      "artists": [
+        {
+          "name": "Rainbow",
+          "url": "https://open.spotify.com/artist/6SLAMfhOi7UJI0fMztaK0m"
+        }
+      ],
+      "duration_ms": 197160,
+      "name": "Since You Been Gone",
+      "url": "https://open.spotify.com/track/6xq5DxZWGgdStAxGAil0yw"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 282746,
       "name": "Hot for Teacher - 2015 Remaster",
       "url": "https://open.spotify.com/track/6QDbGdbJ57Mtkflsg42WV5"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "No More Tears (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6eh82ojicL8RSJF7GkYTh7"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 443240,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/7w6PJe5KBPyvuRYxFkPssC"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Bark At The Moon (Expanded Edition)",
-        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "Bark at the Moon",
-      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Paranoid (Remaster)",
         "url": "https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 247828,
       "name": "Rock Of Ages",
       "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Bark At The Moon (Expanded Edition)",
+        "url": "https://open.spotify.com/album/537qKeG5gbEvKJpQ4Qmszn"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 257120,
+      "name": "Bark at the Moon",
+      "url": "https://open.spotify.com/track/2E7W1X4maFFcjHrVrFA7Vs"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Shout At The Devil",
-        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 247840,
-      "name": "Looks That Kill",
-      "url": "https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "British Steel",
         "url": "https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+        "name": "Shout At The Devil",
+        "url": "https://open.spotify.com/album/7xuz2r1QalMeEVkYuDfPgY"
       },
       "artists": [
         {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
         }
       ],
-      "duration_ms": 414720,
-      "name": "Seek & Destroy (Remastered)",
-      "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
+      "duration_ms": 247840,
+      "name": "Looks That Kill",
+      "url": "https://open.spotify.com/track/74BDVL4TC3P8wyrYViuVjO"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -791,6 +775,22 @@
       "duration_ms": 302647,
       "name": "Mr. Crowley",
       "url": "https://open.spotify.com/track/2ov8L95QD25TLpZAZPYWXL"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/0vNBQof86Lv5gLuf26ML7o"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 414720,
+      "name": "Seek & Destroy (Remastered)",
+      "url": "https://open.spotify.com/track/5DrNFzZZZVfXaEZCaceKnp"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "The Ultimate Sin",
-        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
-      },
-      "artists": [
-        {
-          "name": "Ozzy Osbourne",
-          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Shot in the Dark",
-      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Holy Diver",
         "url": "https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3"
       },
@@ -907,22 +891,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "W.A.S.P.",
-        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
-      },
-      "artists": [
-        {
-          "name": "W.A.S.P.",
-          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "I Wanna Be Somebody",
-      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "South Of Heaven",
         "url": "https://open.spotify.com/album/2UqJjz5eMYRzbbKToD3Peh"
       },
@@ -935,6 +903,38 @@
       "duration_ms": 298533,
       "name": "South Of Heaven",
       "url": "https://open.spotify.com/track/3U9gogDStAfWxSm91PJuxb"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "The Ultimate Sin",
+        "url": "https://open.spotify.com/album/2IPIumpbhrtBvjyzIgGE9j"
+      },
+      "artists": [
+        {
+          "name": "Ozzy Osbourne",
+          "url": "https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Shot in the Dark",
+      "url": "https://open.spotify.com/track/31dqpLUModJWNbxrXu6TWd"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "W.A.S.P.",
+        "url": "https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog"
+      },
+      "artists": [
+        {
+          "name": "W.A.S.P.",
+          "url": "https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "I Wanna Be Somebody",
+      "url": "https://open.spotify.com/track/6w8dBm5KlXxWejYrbGS1EJ"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1307,38 +1307,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Breaking the Chains",
-        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Breaking the Chains",
-      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Powerslave (2015 - Remaster)",
-        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
-      },
-      "artists": [
-        {
-          "name": "Iron Maiden",
-          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
-        }
-      ],
-      "duration_ms": 363586,
-      "name": "2 Minutes to Midnight - 2015 Remaster",
-      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "Stained Class",
         "url": "https://open.spotify.com/album/0v6FGuCgvRotTNL1KoX297"
       },
@@ -1351,22 +1319,6 @@
       "duration_ms": 409800,
       "name": "Beyond the Realms of Death",
       "url": "https://open.spotify.com/track/3Rtv6zRNKpeSygXoaF9kCm"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Fighting the World",
-        "url": "https://open.spotify.com/album/2Bju49iO98LXuJsY2vKEqg"
-      },
-      "artists": [
-        {
-          "name": "Manowar",
-          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Fighting the World",
-      "url": "https://open.spotify.com/track/2tjb6V24kf6sDUdEFNf3m9"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1403,6 +1355,38 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Breaking the Chains",
+        "url": "https://open.spotify.com/album/7f89NbaCH568pUcYy6mqBq"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Breaking the Chains",
+      "url": "https://open.spotify.com/track/2W7CvGjipq3EmHqNGN7lN9"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Powerslave (2015 - Remaster)",
+        "url": "https://open.spotify.com/album/2HPWTaRPYl0Iu3lJrI5V2z"
+      },
+      "artists": [
+        {
+          "name": "Iron Maiden",
+          "url": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao"
+        }
+      ],
+      "duration_ms": 363586,
+      "name": "2 Minutes to Midnight - 2015 Remaster",
+      "url": "https://open.spotify.com/track/4sAjWbPq6iSI6I0Ovr9CkY"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "The Last in Line",
         "url": "https://open.spotify.com/album/4XAy5hk5sgMdDlORiNrVM9"
       },
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Fighting the World",
+        "url": "https://open.spotify.com/album/2Bju49iO98LXuJsY2vKEqg"
+      },
+      "artists": [
+        {
+          "name": "Manowar",
+          "url": "https://open.spotify.com/artist/4CzUzn54Cp9TQr6a7JIlMZ"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Fighting the World",
+      "url": "https://open.spotify.com/track/2tjb6V24kf6sDUdEFNf3m9"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "Visions",
         "url": "https://open.spotify.com/album/55qNkmFdL2xRZ728GIQcc1"
       },
@@ -1447,38 +1447,6 @@
       "duration_ms": 340240,
       "name": "Black Diamond",
       "url": "https://open.spotify.com/track/1EoN7hqAsyuTUrBjJPzWJF"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Fabulous Disaster",
-        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 290280,
-      "name": "The Toxic Waltz",
-      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Wheels of Steel (2009 Remastered Version)",
-        "url": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
-      },
-      "artists": [
-        {
-          "name": "Saxon",
-          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
-        }
-      ],
-      "duration_ms": 358698,
-      "name": "Wheels of Steel - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1511,6 +1479,38 @@
       "duration_ms": 300093,
       "name": "Caught In A Mosh",
       "url": "https://open.spotify.com/track/0c6p9QomOhNU9uzujLjtsD"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Fabulous Disaster",
+        "url": "https://open.spotify.com/album/0bhhJIaAGRxXAyBSsxVRiy"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 290280,
+      "name": "The Toxic Waltz",
+      "url": "https://open.spotify.com/track/5ZOOjqoCaUydmo8bxSdosj"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Wheels of Steel (2009 Remastered Version)",
+        "url": "https://open.spotify.com/album/6EGEGr4oY0PsV6yGBxeQ8J"
+      },
+      "artists": [
+        {
+          "name": "Saxon",
+          "url": "https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU"
+        }
+      ],
+      "duration_ms": 358698,
+      "name": "Wheels of Steel - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/4ie42LCUKcp68EnZOMw9PG"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Melissa",
-        "url": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
-      },
-      "artists": [
-        {
-          "name": "Mercyful Fate",
-          "url": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
-        }
-      ],
-      "duration_ms": 237106,
-      "name": "Curse of the Pharaohs",
-      "url": "https://open.spotify.com/track/0mobywrA15c3nHS5qzarlu"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
         "name": "March Of The Saint",
         "url": "https://open.spotify.com/album/0VkxN0pWwuaPeZuLq2aLx1"
       },
@@ -1803,34 +1787,18 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
-        "name": "Restless And Wild",
-        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
+        "name": "Melissa",
+        "url": "https://open.spotify.com/album/1hxG9oE767xQ4MLsEU5u58"
       },
       "artists": [
         {
-          "name": "Accept",
-          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+          "name": "Mercyful Fate",
+          "url": "https://open.spotify.com/artist/0W8edGiwAsv6HXF0Kyc2V9"
         }
       ],
-      "duration_ms": 375466,
-      "name": "Princess of the Dawn",
-      "url": "https://open.spotify.com/track/2CgXyaryyuxl35iMlvanD8"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Under Jolly Roger",
-        "url": "https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P"
-      },
-      "artists": [
-        {
-          "name": "Running Wild",
-          "url": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
-        }
-      ],
-      "duration_ms": 282560,
-      "name": "Under Jolly Roger",
-      "url": "https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf"
+      "duration_ms": 237106,
+      "name": "Curse of the Pharaohs",
+      "url": "https://open.spotify.com/track/0mobywrA15c3nHS5qzarlu"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1851,6 +1819,22 @@
     {
       "added_at": "2022-07-14 00:00:00",
       "album": {
+        "name": "Restless And Wild",
+        "url": "https://open.spotify.com/album/0xym0raBJhG64y1Oc179TX"
+      },
+      "artists": [
+        {
+          "name": "Accept",
+          "url": "https://open.spotify.com/artist/3JDIAtVrJdQ7GFOX26LYpv"
+        }
+      ],
+      "duration_ms": 375466,
+      "name": "Princess of the Dawn",
+      "url": "https://open.spotify.com/track/2CgXyaryyuxl35iMlvanD8"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
         "name": "Into the Pandemonium (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/5QkTU95FB9uqGrRea5j3LR"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 209000,
       "name": "Mexican Radio",
       "url": "https://open.spotify.com/track/2ksadH0rmJCMAQ8r3Najnt"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Under Jolly Roger",
+        "url": "https://open.spotify.com/album/1PgXFAY89grykiyk18pB2P"
+      },
+      "artists": [
+        {
+          "name": "Running Wild",
+          "url": "https://open.spotify.com/artist/7954VFaZClkL503srfV5PE"
+        }
+      ],
+      "duration_ms": 282560,
+      "name": "Under Jolly Roger",
+      "url": "https://open.spotify.com/track/25qe3Wf24HVQBBiQeb9Cdf"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1895,6 +1895,22 @@
       "duration_ms": 248546,
       "name": "Fool for Your Loving - 2009 Remaster",
       "url": "https://open.spotify.com/track/0BdTZNyYnSIDmkqjxSB0ef"
+    },
+    {
+      "added_at": "2022-07-14 00:00:00",
+      "album": {
+        "name": "Thundersteel",
+        "url": "https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM"
+      },
+      "artists": [
+        {
+          "name": "Riot",
+          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "Thundersteel",
+      "url": "https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi"
     },
     {
       "added_at": "2022-07-14 00:00:00",
@@ -1943,22 +1959,6 @@
       "duration_ms": 323666,
       "name": "Metal Heart",
       "url": "https://open.spotify.com/track/4f73ikIdf3E1r89cRzo7e6"
-    },
-    {
-      "added_at": "2022-07-14 00:00:00",
-      "album": {
-        "name": "Thundersteel",
-        "url": "https://open.spotify.com/album/0zmiGhL8QcuAY5cbet7XbM"
-      },
-      "artists": [
-        {
-          "name": "Riot",
-          "url": "https://open.spotify.com/artist/2TTfkn3oA5dSvqmvVxjUxR"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "Thundersteel",
-      "url": "https://open.spotify.com/track/3PtoySboyS2gTmvFPy6iDi"
     },
     {
       "added_at": "2022-07-14 00:00:00",

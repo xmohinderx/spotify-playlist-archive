@@ -1,12 +1,12 @@
 {
   "description": "Heavy, intense and aggressive tracks. Chaotic in all the good ways. Cover: Underoath",
-  "num_followers": 4813,
+  "num_followers": 4970,
   "original_name": "Complete Chaos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMGI1YTVlYjNkZjNkMGRkZjM0ZTAzYjBkOTBjMzQ4MWVj",
+  "snapshot_id": "MTY1NzgwOTE0NCwwMDAwMDAwMDgxZTQ4NmI1MWVhNjAyZTAxMDI0YTMzNTRmM2M3MDA2",
   "tracks": [
     {
       "added_at": "2022-04-01 16:27:04",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "A Different Shade of Blue",
-        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
-      },
-      "artists": [
-        {
-          "name": "Knocked Loose",
-          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
-        }
-      ],
-      "duration_ms": 222006,
-      "name": "...And Still I Wander South",
-      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "When the Blade Drops",
         "url": "https://open.spotify.com/album/1oDKZmaoLbk456SzkJsJIm"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 181153,
       "name": "Front Toward Enemy",
       "url": "https://open.spotify.com/track/77NH6TwtmdF7R8jSrn3ivH"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "A Different Shade of Blue",
+        "url": "https://open.spotify.com/album/0H8pB7p68Ynf3w9AxjQW9H"
+      },
+      "artists": [
+        {
+          "name": "Knocked Loose",
+          "url": "https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw"
+        }
+      ],
+      "duration_ms": 222006,
+      "name": "...And Still I Wander South",
+      "url": "https://open.spotify.com/track/4UADTNRQNw9PrzUbJe045m"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Private Room",
-        "url": "https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk"
-      },
-      "artists": [
-        {
-          "name": "Counterparts",
-          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
-        }
-      ],
-      "duration_ms": 110811,
-      "name": "Monument",
-      "url": "https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Unstable",
         "url": "https://open.spotify.com/album/5CeWYs97NFdLiydGVFBtFz"
       },
@@ -831,6 +815,58 @@
       "duration_ms": 247370,
       "name": "Negative Noise",
       "url": "https://open.spotify.com/track/4YhnbmXKKV2dlOcwIJnUNB"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Heavy Steps",
+        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        },
+        {
+          "name": "Joe Duplantier",
+          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Crossed",
+      "url": "https://open.spotify.com/track/3YOT9X8PtcVZsgGzmOKvzN"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Anthems",
+        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
+      },
+      "artists": [
+        {
+          "name": "Raised Fist",
+          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
+        }
+      ],
+      "duration_ms": 161540,
+      "name": "Venomous",
+      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Private Room",
+        "url": "https://open.spotify.com/album/7vRLQapPrGyF7H6Wfkp7wk"
+      },
+      "artists": [
+        {
+          "name": "Counterparts",
+          "url": "https://open.spotify.com/artist/5LyRnL0rysObxDRxzSfV1z"
+        }
+      ],
+      "duration_ms": 110811,
+      "name": "Monument",
+      "url": "https://open.spotify.com/track/3wAvZs9WFYK8elxJmt1CVy"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -883,26 +919,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Heavy Steps",
-        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
-      },
-      "artists": [
-        {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
-        },
-        {
-          "name": "Joe Duplantier",
-          "url": "https://open.spotify.com/artist/3Yk4ixU1hH9kceY1mRTD2C"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Crossed",
-      "url": "https://open.spotify.com/track/3YOT9X8PtcVZsgGzmOKvzN"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Anthems",
         "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
       },
@@ -912,9 +928,25 @@
           "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
         }
       ],
-      "duration_ms": 161540,
-      "name": "Venomous",
-      "url": "https://open.spotify.com/track/2qTyInGP9V30gDQgvjHcGT"
+      "duration_ms": 213992,
+      "name": "Into This World",
+      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "Heavy Steps",
+        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
+      },
+      "artists": [
+        {
+          "name": "Comeback Kid",
+          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Face the Fire",
+      "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
     },
     {
       "added_at": "2022-04-01 16:27:04",
@@ -999,38 +1031,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "Heavy Steps",
-        "url": "https://open.spotify.com/album/4onFuBSmTMwtS17L0U8tEm"
-      },
-      "artists": [
-        {
-          "name": "Comeback Kid",
-          "url": "https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN"
-        }
-      ],
-      "duration_ms": 197213,
-      "name": "Face the Fire",
-      "url": "https://open.spotify.com/track/4kpKtTu9ZpEb5ENZD0emKH"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
-        "name": "Anthems",
-        "url": "https://open.spotify.com/album/1mQjCpOrFnyZSu1IuCGGAu"
-      },
-      "artists": [
-        {
-          "name": "Raised Fist",
-          "url": "https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm"
-        }
-      ],
-      "duration_ms": 213992,
-      "name": "Into This World",
-      "url": "https://open.spotify.com/track/7ybc7JwVUpdAStRIMWZMSu"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "Expect the Worst",
         "url": "https://open.spotify.com/album/4JMgtcJ3xVe7zwqlzbu8pQ"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-04-01 16:27:04",
       "album": {
-        "name": "I'm Sorry Mr. Salesman",
-        "url": "https://open.spotify.com/album/6omJhzmBxjnH4JpFVc7Lvn"
-      },
-      "artists": [
-        {
-          "name": "MouthBreather",
-          "url": "https://open.spotify.com/artist/7m6SeA1czZq8q7tkzRa20m"
-        }
-      ],
-      "duration_ms": 129873,
-      "name": "Cotton Shot",
-      "url": "https://open.spotify.com/track/4daCEx8HgBFwVLaeB4W1Y4"
-    },
-    {
-      "added_at": "2022-04-01 16:27:04",
-      "album": {
         "name": "grayout",
         "url": "https://open.spotify.com/album/00hXhNL6H4a1HJSQg9AmBS"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 120155,
       "name": "grayout",
       "url": "https://open.spotify.com/track/6IZ7Pg6C3vduV2gQsycrYS"
+    },
+    {
+      "added_at": "2022-04-01 16:27:04",
+      "album": {
+        "name": "I'm Sorry Mr. Salesman",
+        "url": "https://open.spotify.com/album/6omJhzmBxjnH4JpFVc7Lvn"
+      },
+      "artists": [
+        {
+          "name": "MouthBreather",
+          "url": "https://open.spotify.com/artist/7m6SeA1czZq8q7tkzRa20m"
+        }
+      ],
+      "duration_ms": 129873,
+      "name": "Cotton Shot",
+      "url": "https://open.spotify.com/track/4daCEx8HgBFwVLaeB4W1Y4"
     },
     {
       "added_at": "2022-04-01 16:27:04",

@@ -2,7 +2,7 @@
 
 ### [Gold Beats](https://open.spotify.com/playlist/37i9dQZF1DXcPGEMJEYxNg)
 
-> In partnership with <a href ="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
+> In partnership with <a href="https://goldhouse.org/">Gold House</a>, we are excited to announce our first Gold House Future Music Guild artists: Anik Khan, Ruby Ibarra & thuy.
 
 108 songs - 5 hr 51 min - [published](https://open.spotify.com/playlist/2n58AkW0NzesqkPrbAAmqS)
 

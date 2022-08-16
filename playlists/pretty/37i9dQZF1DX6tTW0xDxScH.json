@@ -1,12 +1,12 @@
 {
   "description": "Where everything is lovely and snuggly <3 ",
-  "num_followers": 592472,
+  "num_followers": 592610,
   "original_name": "Stay in Bed",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMDA5ZDFlZGEzMjg4OGM3ZTFhMzFlMWMxMWU0MDhlM2Q4",
+  "snapshot_id": "MTY1NTEzMTQ2MiwwMDAwMDAwMGE3ZTY5NjFkMDJkYzNlMjA3Yjk0ZmNiMTVhMWJjNjY2",
   "tracks": [
     {
       "added_at": "2022-04-27 00:01:15",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2022-04-27 00:01:15",
       "album": {
-        "name": "Victim of Love",
-        "url": "https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb"
-      },
-      "artists": [
-        {
-          "name": "Charles Bradley",
-          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
-        },
-        {
-          "name": "Menahan Street Band",
-          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
-        }
-      ],
-      "duration_ms": 210887,
-      "name": "Victim of Love",
-      "url": "https://open.spotify.com/track/2qcPsPqgTpl1KYgVptu3Oc"
-    },
-    {
-      "added_at": "2022-04-27 00:01:15",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 185800,
       "name": "Let's Move To The Country",
       "url": "https://open.spotify.com/track/3S9tVm9EGET8wSVLyOWgq7"
+    },
+    {
+      "added_at": "2022-04-27 00:01:15",
+      "album": {
+        "name": "Victim of Love",
+        "url": "https://open.spotify.com/album/3rimYQyKq7BatxuUoPIBrb"
+      },
+      "artists": [
+        {
+          "name": "Charles Bradley",
+          "url": "https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf"
+        },
+        {
+          "name": "Menahan Street Band",
+          "url": "https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp"
+        }
+      ],
+      "duration_ms": 210887,
+      "name": "Victim of Love",
+      "url": "https://open.spotify.com/track/2qcPsPqgTpl1KYgVptu3Oc"
     },
     {
       "added_at": "2022-04-27 00:01:15",

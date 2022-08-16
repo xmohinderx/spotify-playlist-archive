@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: VaVa (\u6bdb\u884d\u4e03)",
+  "description": "From Taiwan to all the mandarin-speaking regions, young generation is looking to hip-hop for expression. Cover: Psy.P",
   "name": "Mandarin Hip Hop Stars",
   "published_playlist_ids": [
     "291lRyJLRS6L2qu4DuC54F"
@@ -1589,7 +1589,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 202926,
       "name": "Love is Love",
       "url": "https://open.spotify.com/track/2eXB0rZTY7FenvsmrY9Qb4"
@@ -2749,7 +2749,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 137752,
       "name": "X MAN",
       "url": "https://open.spotify.com/track/5nLJRPDmRYHLXSH6O3EmPS"
@@ -2869,10 +2869,28 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 144000,
       "name": "\u4e00\u6280\u8f38\u8d0f (\u7b2c52\u5c46\u5168\u570b\u6280\u80fd\u7af6\u8cfd\u4e3b\u984c\u66f2)",
       "url": "https://open.spotify.com/track/1ZRZjMywO6n5A8jUUvzogX"
+    },
+    {
+      "album": {
+        "name": "\u4e09\u6b72\u5c0f\u5b69",
+        "url": "https://open.spotify.com/album/51f9jyClq1EqAX3AXEe6F5"
+      },
+      "artists": [
+        {
+          "name": "\u81ed\u5c41\u5b30\u4ed4",
+          "url": "https://open.spotify.com/artist/48ok10ikwXYpydM8yhx9Aa"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231800,
+      "name": "\u4e09\u6b72\u5c0f\u5b69",
+      "url": "https://open.spotify.com/track/76ZLjLWSySdGezRheoivhQ"
     },
     {
       "album": {
@@ -4079,7 +4097,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 193846,
       "name": "\u6d3e\u5c0d\u9b3c",
       "url": "https://open.spotify.com/track/2chngUs3D5w1RBmCJBJrN9"
@@ -4518,6 +4536,28 @@
     },
     {
       "album": {
+        "name": "\u7ffb\u8eab\u4ed7",
+        "url": "https://open.spotify.com/album/2PC4Y9q0ZdEPDBJG3nFFRj"
+      },
+      "artists": [
+        {
+          "name": "\u694a\u548c\u8607KeyNG",
+          "url": "https://open.spotify.com/artist/49CtkDvDlgQjW3ZoUySsMQ"
+        },
+        {
+          "name": "\u65e9\u5b89",
+          "url": "https://open.spotify.com/artist/5RTqth5xB5GfvdGszLE9YF"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201101,
+      "name": "\u7ffb\u8eab\u4ed7",
+      "url": "https://open.spotify.com/track/6OjSqnkZlMNHpoA2xiAMfJ"
+    },
+    {
+      "album": {
         "name": "\u7ffc",
         "url": "https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w"
       },
@@ -4533,6 +4573,24 @@
       "duration_ms": 167344,
       "name": "\u7ffc",
       "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"
+    },
+    {
+      "album": {
+        "name": "\u800d\u500b\u5e25",
+        "url": "https://open.spotify.com/album/1Xglh4BiZixblpejrREk6O"
+      },
+      "artists": [
+        {
+          "name": "Psy.P",
+          "url": "https://open.spotify.com/artist/2ADDS7CJUaPg2USWT6djqR"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187176,
+      "name": "\u800d\u500b\u5e25",
+      "url": "https://open.spotify.com/track/2zaSi00WSlJ4EBoowslTYg"
     },
     {
       "album": {
@@ -5387,6 +5445,24 @@
       "duration_ms": 118400,
       "name": "\u9e2d\u5634\u5e3d",
       "url": "https://open.spotify.com/track/4ZKx2nl03hLd0Z3ySFRh7b"
+    },
+    {
+      "album": {
+        "name": "\u4e2d\u570b\u8aaa\u5531\u5dd4\u5cf0\u5c0d\u6c7a \u7b2c\u4e03\u671f",
+        "url": "https://open.spotify.com/album/44r3O7uc4EnGJDjlnM3AqC"
+      },
+      "artists": [
+        {
+          "name": "\u65e9\u5b89",
+          "url": "https://open.spotify.com/artist/5RTqth5xB5GfvdGszLE9YF"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188184,
+      "name": "\u9e92\u9e9f",
+      "url": "https://open.spotify.com/track/0qcnI3jQ8tiGSR8oXlblXg"
     },
     {
       "album": {

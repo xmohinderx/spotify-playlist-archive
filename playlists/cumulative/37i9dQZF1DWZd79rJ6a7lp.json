@@ -145,7 +145,7 @@
       ],
       "date_added": "2021-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 172196,
       "name": "A New Tomorrow",
       "url": "https://open.spotify.com/track/6iq4LVdxruZvsSt84aCCqW"
@@ -3966,6 +3966,24 @@
     },
     {
       "album": {
+        "name": "Feuilleter",
+        "url": "https://open.spotify.com/album/4ASoerHbEoOQBDYKoFO4CQ"
+      },
+      "artists": [
+        {
+          "name": "Darcel Gau",
+          "url": "https://open.spotify.com/artist/7DTzBBL4JizumnVd4vLCTo"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170846,
+      "name": "Feuilleter",
+      "url": "https://open.spotify.com/track/3ns1BYQtxuSyxk6SlTU0d8"
+    },
+    {
+      "album": {
         "name": "The Silent Mind",
         "url": "https://open.spotify.com/album/40YwLU6A5En5HNNUk27z8H"
       },
@@ -7178,6 +7196,24 @@
     },
     {
       "album": {
+        "name": "One And The Same",
+        "url": "https://open.spotify.com/album/1XE0fJg07FtFY562bz76w2"
+      },
+      "artists": [
+        {
+          "name": "Rouge Haven",
+          "url": "https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157484,
+      "name": "One And The Same",
+      "url": "https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r"
+    },
+    {
+      "album": {
         "name": "One More Star",
         "url": "https://open.spotify.com/album/2eC7jLyOVw6Xec0JqGbLkA"
       },
@@ -9983,6 +10019,24 @@
       "duration_ms": 168000,
       "name": "Swallows at Dawn",
       "url": "https://open.spotify.com/track/1kBCGoGY3CSDCECitxm8an"
+    },
+    {
+      "album": {
+        "name": "S\u00f3lestur",
+        "url": "https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN"
+      },
+      "artists": [
+        {
+          "name": "Elsa Gudmundsdottir",
+          "url": "https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129103,
+      "name": "S\u00f3lestur",
+      "url": "https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH"
     },
     {
       "album": {

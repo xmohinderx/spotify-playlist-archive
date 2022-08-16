@@ -1,12 +1,12 @@
 {
   "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
-  "num_followers": 99313,
+  "num_followers": 99336,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI2MTc3OSwwMDAwMDAwMDkyZDg3ZWQ1ZDUwNjEzNzIzMWUyOTQyYjUwOTJlNzM0",
+  "snapshot_id": "MTY2MDI2MTc3OSwwMDAwMDAwMDhlYWMyMjhjMzNkMDM1MzVmOWZiZThjZmU1MTYzNmZi",
   "tracks": [
     {
       "added_at": "2022-08-11 23:49:39",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
-        "name": "LA ISLA LP",
-        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 179066,
-      "name": "Me Olvid\u00e9 De Los 2",
-      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
-    },
-    {
-      "added_at": "2022-08-11 23:49:39",
-      "album": {
         "name": "Amor de red social",
         "url": "https://open.spotify.com/album/5o7YnXMx2NM6LtbnfiIIqz"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 230766,
       "name": "Amor de red social",
       "url": "https://open.spotify.com/track/5kMrgSeV3kYYyOyEAC7Ugf"
+    },
+    {
+      "added_at": "2022-08-11 23:49:39",
+      "album": {
+        "name": "LA ISLA LP",
+        "url": "https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Me Olvid\u00e9 De Los 2",
+      "url": "https://open.spotify.com/track/02qcrVQ61nS94wWvLaiXGf"
     },
     {
       "added_at": "2022-08-11 23:49:39",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
+        "name": "\u00c1mate",
+        "url": "https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 189762,
+      "name": "\u00c1mate",
+      "url": "https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc"
+    },
+    {
+      "added_at": "2022-08-11 23:49:39",
+      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 199280,
       "name": "DOLORES",
       "url": "https://open.spotify.com/track/1OOiw7ttMNKjp8BTeH2QaV"
-    },
-    {
-      "added_at": "2022-08-11 23:49:39",
-      "album": {
-        "name": "SUPERSTICIONES",
-        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 188890,
-      "name": "Supersticiones",
-      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2022-08-11 23:49:39",
@@ -307,18 +307,18 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
-        "name": "\u00c1mate",
-        "url": "https://open.spotify.com/album/5gnlVxxdWhPoGs63rKZtv3"
+        "name": "SUPERSTICIONES",
+        "url": "https://open.spotify.com/album/448b1zlK215QOb8UvFNzpu"
       },
       "artists": [
         {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
         }
       ],
-      "duration_ms": 189762,
-      "name": "\u00c1mate",
-      "url": "https://open.spotify.com/track/6yMDseBOe0gWib8CSr20Lc"
+      "duration_ms": 188890,
+      "name": "Supersticiones",
+      "url": "https://open.spotify.com/track/5JrnwgsC1FRz6uHyGFHpqZ"
     },
     {
       "added_at": "2022-08-11 23:49:39",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
+        "name": "Roxanne",
+        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
+      },
+      "artists": [
+        {
+          "name": "Sofia Thompson",
+          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
+        }
+      ],
+      "duration_ms": 213993,
+      "name": "A la Mitad (Suceso 1)",
+      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
+    },
+    {
+      "added_at": "2022-08-11 23:49:39",
+      "album": {
         "name": "Girasol",
         "url": "https://open.spotify.com/album/6QylIYKDZPDZmLR8ORYitd"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 204327,
       "name": "Girasol",
       "url": "https://open.spotify.com/track/78hbBz2TqsXCG1GfXOWGve"
-    },
-    {
-      "added_at": "2022-08-11 23:49:39",
-      "album": {
-        "name": "Roxanne",
-        "url": "https://open.spotify.com/album/0FG7jxl8cTYpORVr4d5MVo"
-      },
-      "artists": [
-        {
-          "name": "Sofia Thompson",
-          "url": "https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK"
-        }
-      ],
-      "duration_ms": 213993,
-      "name": "A la Mitad (Suceso 1)",
-      "url": "https://open.spotify.com/track/6nrLzFpL4xUclXvJfTaVgN"
     },
     {
       "added_at": "2022-08-11 23:49:39",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
+    },
+    {
+      "added_at": "2022-08-11 23:49:39",
+      "album": {
         "name": "Tu Boca",
         "url": "https://open.spotify.com/album/0RIIwcidaXFpZNg2cZu9D2"
       },
@@ -975,18 +991,18 @@
     {
       "added_at": "2022-08-11 23:49:39",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/7rpH53UlEhpHW5RCIvzJDr"
+        "name": "Diferente",
+        "url": "https://open.spotify.com/album/2cDwDzzvit1Aoy6x9iBYVD"
       },
       "artists": [
         {
-          "name": "Immasoul",
-          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+          "name": "Andre TG",
+          "url": "https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm"
         }
       ],
-      "duration_ms": 178500,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/3iQldE2oT6MqWpcWN8oInY"
+      "duration_ms": 173906,
+      "name": "Diferente",
+      "url": "https://open.spotify.com/track/1kjcjFtHnRkyMEbfhpw3bR"
     },
     {
       "added_at": "2022-08-11 23:49:39",
@@ -1007,22 +1023,6 @@
       "duration_ms": 156477,
       "name": "Sensualidad",
       "url": "https://open.spotify.com/track/69AsrqBlInVuFIpSnxmnn4"
-    },
-    {
-      "added_at": "2022-08-11 23:49:39",
-      "album": {
-        "name": "Diferente",
-        "url": "https://open.spotify.com/album/2cDwDzzvit1Aoy6x9iBYVD"
-      },
-      "artists": [
-        {
-          "name": "Andre TG",
-          "url": "https://open.spotify.com/artist/2OHDHtDUjiP1K0rUXDC3vm"
-        }
-      ],
-      "duration_ms": 173906,
-      "name": "Diferente",
-      "url": "https://open.spotify.com/track/1kjcjFtHnRkyMEbfhpw3bR"
     },
     {
       "added_at": "2022-08-11 23:49:39",

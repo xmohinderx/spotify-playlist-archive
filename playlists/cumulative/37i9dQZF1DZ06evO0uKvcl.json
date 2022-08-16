@@ -37,7 +37,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 173533,
       "name": "Back Door Man",
       "url": "https://open.spotify.com/track/10HdfEE0sausAJu8HJD3Dp"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 168492,
       "name": "Bluebird",
       "url": "https://open.spotify.com/track/1p69YUlzXrwWjxPu5nNQab"
@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 210626,
       "name": "Change My Way - Single Version",
       "url": "https://open.spotify.com/track/2gpHx8H04p8Va4ar8VJojx"
@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 142240,
       "name": "Crazy About You Baby",
       "url": "https://open.spotify.com/track/4hQ74VP4dSVkwuAWlrJiJ4"
@@ -366,6 +366,24 @@
     },
     {
       "album": {
+        "name": "Howlin' Wolf",
+        "url": "https://open.spotify.com/album/26TtzBrPdUkHMSTPSbctbl"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207333,
+      "name": "Goin' Down Slow",
+      "url": "https://open.spotify.com/track/4PI5yBLXgwdgRulNo4mQbt"
+    },
+    {
+      "album": {
         "name": "Smokestack Lightning /The Complete Chess Masters 1951-1960",
         "url": "https://open.spotify.com/album/0Oc3QMGeNj9JC7f0rBaP8Q"
       },
@@ -469,7 +487,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 164693,
       "name": "Howlin' Blues - Single Version",
       "url": "https://open.spotify.com/track/3jo7vTw7utjbSkSKVMBhpn"
@@ -487,7 +505,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 156960,
       "name": "Howlin' For My Darlin'",
       "url": "https://open.spotify.com/track/4LYZ56NfIsuIizQewrfEr9"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 158866,
       "name": "Howlin' Wolf Boogie - Single Version",
       "url": "https://open.spotify.com/track/2tQIv1nBXJChbiyA95NShQ"
@@ -557,7 +575,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "I Asked For Water",
       "url": "https://open.spotify.com/track/0aT9f7DKBo3SsYHSMrtOGD"
@@ -575,7 +593,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 203781,
       "name": "I Got A Woman",
       "url": "https://open.spotify.com/track/7n5v9vXPBb9CLg23gyC6sI"
@@ -611,7 +629,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 174093,
       "name": "I'm The Wolf",
       "url": "https://open.spotify.com/track/1q16Hi8bxSD1DGbMH01lUT"
@@ -629,7 +647,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 135493,
       "name": "I've Been Abused",
       "url": "https://open.spotify.com/track/6apZLoGfbuo6XSzy6zlIoS"
@@ -665,7 +683,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 177200,
       "name": "Just Like I Treat You - Single Version",
       "url": "https://open.spotify.com/track/2O0W9z1VyVxM3puXjU1L2c"
@@ -799,7 +817,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 176573,
       "name": "Moanin' At Midnight",
       "url": "https://open.spotify.com/track/0nWFmSvTZmgxGKFxodXgIq"
@@ -853,7 +871,7 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 163226,
       "name": "Mr. Airplane Man - Single Version",
       "url": "https://open.spotify.com/track/1MzF23RMnLlJQBkYM5JiJh"
@@ -871,7 +889,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 168200,
       "name": "Mr. Highway Man - Single Version",
       "url": "https://open.spotify.com/track/2VJrD7jk3zyJRQwMlF7U7N"
@@ -1095,7 +1113,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 188400,
       "name": "Smokestack Lightnin'",
       "url": "https://open.spotify.com/track/2HUZVffVPXvqnrml0gXggp"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 179400,
       "name": "Tail Dragger",
       "url": "https://open.spotify.com/track/4NOGASaEbMZftUAq3u8mVB"
@@ -1175,7 +1193,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 168106,
       "name": "Tell Me What I've Done",
       "url": "https://open.spotify.com/track/1dlYLGZSK8ONMQxJWxB04m"
@@ -1403,7 +1421,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 191640,
       "name": "You Can't Be Beat - Single Version",
       "url": "https://open.spotify.com/track/0ZkCiuzIOa8g63BbesjHNM"

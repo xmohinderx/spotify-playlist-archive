@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 189525,
       "name": "Birthmark",
       "url": "https://open.spotify.com/track/7COvUw2SjHzBsqbSqsx1On"
@@ -1609,6 +1609,24 @@
       "duration_ms": 211371,
       "name": "Variation",
       "url": "https://open.spotify.com/track/26ZFbwxjPlE04hOorbUWWk"
+    },
+    {
+      "album": {
+        "name": "Vi G\u00e5r Mot H\u00f6st",
+        "url": "https://open.spotify.com/album/7qqwp5hM1P5RrZUt3gYIIb"
+      },
+      "artists": [
+        {
+          "name": "Stillheten",
+          "url": "https://open.spotify.com/artist/2G0WSKy6gi5KNPbVVpze0W"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118587,
+      "name": "Vi G\u00e5r Mot H\u00f6st",
+      "url": "https://open.spotify.com/track/5n20UxoXkXC2lkTTay0Y75"
     },
     {
       "album": {

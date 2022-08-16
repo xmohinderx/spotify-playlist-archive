@@ -1,12 +1,12 @@
 {
   "description": "Soul, R'n'B all with a tinge of electronic goodness. Cover: Jitwam",
-  "num_followers": 280226,
+  "num_followers": 280374,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDdkNjk2ZTRlZTkwYzJlNGQ4ZTE0MjMzNzQ3Y2RlZDM1",
+  "snapshot_id": "MTY1NTczNDc4MiwwMDAwMDAwMDdhYmMxMTVkZDQwZTAxZDNlOTgwMTUwYjkwNzlkYTcy",
   "tracks": [
     {
       "added_at": "2022-06-20 14:19:42",
@@ -531,6 +531,22 @@
     {
       "added_at": "2022-06-20 14:19:42",
       "album": {
+        "name": "Mr. Sun (miss da sun)",
+        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
+      },
+      "artists": [
+        {
+          "name": "Greentea Peng",
+          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
+        }
+      ],
+      "duration_ms": 223533,
+      "name": "Mr. Sun (miss da sun)",
+      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
+    },
+    {
+      "added_at": "2022-06-20 14:19:42",
+      "album": {
         "name": "Rocks (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 264710,
       "name": "Young Love",
       "url": "https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn"
-    },
-    {
-      "added_at": "2022-06-20 14:19:42",
-      "album": {
-        "name": "Mr. Sun (miss da sun)",
-        "url": "https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS"
-      },
-      "artists": [
-        {
-          "name": "Greentea Peng",
-          "url": "https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K"
-        }
-      ],
-      "duration_ms": 223533,
-      "name": "Mr. Sun (miss da sun)",
-      "url": "https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y"
     },
     {
       "added_at": "2022-06-20 14:19:42",

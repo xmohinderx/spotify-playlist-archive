@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new experimental music by independent artists and labels\. Updates every Wednesday\. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,920 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,964 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 39 | [GHK](https://open.spotify.com/track/3tm8TAxIBc4mD7zvvPJP1S) | [Waon\-P](https://open.spotify.com/artist/2QYExcHuchet2ypxwArkkv) | [Air Texture VIII Anthony Naples + DJ Python](https://open.spotify.com/album/6Vj1Pi89N2wqNqHFhEw4cB) | 6:00 |
 | 40 | [Humility's Disease](https://open.spotify.com/track/1ir7kLRvEi63OWW8Hki0wP) | [Jennifer Vanilla](https://open.spotify.com/artist/2Itr8TQK5dkOjUpreaamWP) | [Humility's Disease](https://open.spotify.com/album/40ZsFHJm86eOxuS0bfOfNM) | 4:13 |
 | 41 | [iota](https://open.spotify.com/track/2KVPY8lROge3Bgjpxk2vri) | [DJH](https://open.spotify.com/artist/3WgUHWrtChAtmsFqAIgkiF), [sv1](https://open.spotify.com/artist/5psozSf1zuTfnj2vAy5ElH) | [voids](https://open.spotify.com/album/24wI5QIqAVS0aibSdRZ7QB) | 2:20 |
-| 42 | [Genesis, To Overcome \(Messiah\)](https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [The Leibowitz Files](https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i) | 5:06 |
-| 43 | [all thanks to you.](https://open.spotify.com/track/1eZl3uZnDLa8UCgEi0FjDw) | [Kosu.](https://open.spotify.com/artist/6EIw1aNMBmlu8HpLNvADij) | [all thanks to you.](https://open.spotify.com/album/25ZZibZOM8rPgiqCyl6RAo) | 3:03 |
+| 42 | [all thanks to you.](https://open.spotify.com/track/1eZl3uZnDLa8UCgEi0FjDw) | [Kosu.](https://open.spotify.com/artist/6EIw1aNMBmlu8HpLNvADij) | [all thanks to you.](https://open.spotify.com/album/25ZZibZOM8rPgiqCyl6RAo) | 3:03 |
+| 43 | [Genesis, To Overcome \(Messiah\)](https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq) | [Autarkic](https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ) | [The Leibowitz Files](https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i) | 5:06 |
 | 44 | [Bury the Bell](https://open.spotify.com/track/4E1wcuswSq8jlUbrmfhN28) | [Revelators Sound System](https://open.spotify.com/artist/5A7azcpAatRKVxlQ2CXtkx) | [Revelators](https://open.spotify.com/album/1t3ObWqTugXrIvvpC5qbk7) | 10:39 |
 | 45 | [Enfold](https://open.spotify.com/track/6reyLjdfZsrsi1hfVpFh4C) | [Madeleine Cocolas](https://open.spotify.com/artist/6LjkHRMDTc02BAIEsSK0ZB) | [Spectral](https://open.spotify.com/album/1vzFeKo5bRH9WT6yu1Xclt) | 4:11 |
 | 46 | [A Cry](https://open.spotify.com/track/3pnVNfUWS1qAiulCmtmepT) | [Medicine Singers](https://open.spotify.com/artist/22i4604ZzdUDxd18tYogXv) | [Medicine Singers](https://open.spotify.com/album/5ACa1glpm4tt7Eb97hyYs1) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 99 | [Emptiness Follows \(Dreams of Our Love\)](https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Emptiness Follows](https://open.spotify.com/album/7BjL3EfbYyA0x88w5uPXr7) | 4:28 |
 | 100 | [Todos Mis Labios](https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97) | [Fenna Frei](https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw) | [Todos Mis Labios](https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB) | 3:49 |
 
-Snapshot ID: `MTY2MDEwNDAwMCwwMDAwMDAwMDhjNzllZGFlMzFjYzg2NTI2YTU2YzcxODQzZmQzNGM4`
+Snapshot ID: `MTY2MDEwNDAwMCwwMDAwMDAwMGI2MWViYjdiYmQ2ZDg0Y2M5ZmE4Nzc0N2YzM2MwMWM0`

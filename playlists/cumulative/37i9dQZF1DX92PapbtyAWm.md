@@ -2,7 +2,7 @@
 
 ### [MOTi's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX92PapbtyAWm)
 
-> <a href ="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favourite bangers in his DJ mix.
+> <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
 20 songs - 1 hr 3 min - [published](https://open.spotify.com/playlist/4Bn8UTRHEfiy2KpyqfKCBv)
 

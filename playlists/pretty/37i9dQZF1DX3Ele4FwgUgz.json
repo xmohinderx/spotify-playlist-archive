@@ -1,12 +1,12 @@
 {
   "description": "Music from \"Love Live! Nijigasaki High School Idol Club\" \u300c\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a\u300d\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002\n\u00a92022 \u30d7\u30ed\u30b8\u30a7\u30af\u30c8\u30e9\u30d6\u30e9\u30a4\u30d6\uff01\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-  "num_followers": 3372,
+  "num_followers": 3409,
   "original_name": "Love Live! Nijigasaki High School Idol Club \u30e9\u30d6\u30e9\u30a4\u30d6!\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1MjUzNiwwMDAwMDAwMDczMjk4NTE2NzE3MTliODcxZDE1M2E1YTRmM2NmOThh",
+  "snapshot_id": "MTY1ODg1MjUzNiwwMDAwMDAwMDk3NzRlODJmZTRkYTY4NTUwOGJjODNjMzc1ZjIwMDY4",
   "tracks": [
     {
       "added_at": "2022-07-26 16:22:16",
@@ -123,6 +123,22 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
+        "name": "Colorful Dreams! Colorful Smiles!",
+        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 264733,
+      "name": "Colorful Dreams! Colorful Smiles!",
+      "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
         "name": "ENJOY IT!",
         "url": "https://open.spotify.com/album/2iVFzFSdX4eEyOVVvXI7SN"
       },
@@ -151,22 +167,6 @@
       "duration_ms": 216306,
       "name": "Butterfly",
       "url": "https://open.spotify.com/track/0CmpgRM57Uq8KOQAzKOxrq"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "Colorful Dreams! Colorful Smiles!",
-        "url": "https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO"
-      },
-      "artists": [
-        {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 264733,
-      "name": "Colorful Dreams! Colorful Smiles!",
-      "url": "https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -203,18 +203,18 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "MONSTER GIRLS",
-        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
+        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
       },
       "artists": [
         {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
         }
       ],
-      "duration_ms": 239013,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
+      "duration_ms": 241920,
+      "name": "\u7e5a\u4e71!\u30d2\u3099\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c8\u3099",
+      "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -240,6 +240,22 @@
       },
       "artists": [
         {
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "duration_ms": 239013,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "MONSTER GIRLS",
+        "url": "https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar"
+      },
+      "artists": [
+        {
           "name": "R3BIRTH",
           "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
         }
@@ -247,38 +263,6 @@
       "duration_ms": 236746,
       "name": "MONSTER GIRLS",
       "url": "https://open.spotify.com/track/6ZGnmaySGGk2pcprMoBX73"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
-      },
-      "artists": [
-        {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
-        }
-      ],
-      "duration_ms": 244653,
-      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
-      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "\u5922\u304c\u50d5\u3089\u306e\u592a\u967d\u3055",
-        "url": "https://open.spotify.com/album/5Bw9Vtcymu9iUzf6y0iH6T"
-      },
-      "artists": [
-        {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "\u7e5a\u4e71!\u30d2\u3099\u30af\u30c8\u30ea\u30fc\u30ed\u30fc\u30c8\u3099",
-      "url": "https://open.spotify.com/track/2WdwcYfaJ73rGKWg4Jyr1j"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -299,6 +283,22 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
+        "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+        "url": "https://open.spotify.com/album/4hYX05KykZ4kLoVJXJKMHn"
+      },
+      "artists": [
+        {
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "duration_ms": 244653,
+      "name": "\u7121\u6575\u7d1a*\u30d3\u30ea\u30fc\u30d0\u30fc",
+      "url": "https://open.spotify.com/track/4fwvtGCkTjHfgFvati4kJu"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
         "name": "Butterfly / Solitude Rain / VIVID WORLD (\u685c\u5742\u3057\u305a\u304f\u76e4)",
         "url": "https://open.spotify.com/album/6HizYtJPlqdsGd9AaVep4T"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 246733,
       "name": "Solitude Rain",
       "url": "https://open.spotify.com/track/7pTGAjgAD6mojP2oRwiXX5"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "\u8679\u8272Passions!",
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+      },
+      "artists": [
+        {
+          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "duration_ms": 255053,
+      "name": "\u8679\u8272Passions!",
+      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -347,18 +363,18 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "L!L!L! (Love the Life We Live)",
-        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
-          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 221613,
-      "name": "\u591c\u660e\u73e0",
-      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
+      "duration_ms": 281920,
+      "name": "Sing & Smile!!",
+      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -379,18 +395,34 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
+        "name": "L!L!L! (Love the Life We Live)",
+        "url": "https://open.spotify.com/album/2tRZdkV51396Uh03hrSOX9"
       },
       "artists": [
         {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+          "name": "\u9418 \u5d50\u73e0 (CV.\u6cd5\u5143\u660e\u83dc)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
         }
       ],
-      "duration_ms": 281920,
-      "name": "Sing & Smile!!",
-      "url": "https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw"
+      "duration_ms": 221613,
+      "name": "\u591c\u660e\u73e0",
+      "url": "https://open.spotify.com/track/7oSb75m9a29yoyHTzgMmu8"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
+        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 243480,
+      "name": "DIVE!",
+      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -427,34 +459,18 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "\u8679\u8272Passions!",
-        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl"
+        "name": "Sing & Smile!!",
+        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
       },
       "artists": [
         {
-          "name": "\u8679\u30f6\u54b2\u5b66\u5712\u30b9\u30af\u30fc\u30eb\u30a2\u30a4\u30c9\u30eb\u540c\u597d\u4f1a",
-          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
         }
       ],
-      "duration_ms": 255053,
-      "name": "\u8679\u8272Passions!",
-      "url": "https://open.spotify.com/track/02pLFicJc11BISyxKv8UcC"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "Dream with You / Poppin' Up! / DIVE! (\u512a\u6728\u305b\u3064\u83dc\u76e4)",
-        "url": "https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 243480,
-      "name": "DIVE!",
-      "url": "https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90"
+      "duration_ms": 238560,
+      "name": "Beautiful Moonlight",
+      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -471,22 +487,6 @@
       "duration_ms": 288973,
       "name": "\u3081\u3063\u3061\u3083Going!!",
       "url": "https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
-        "name": "Sing & Smile!!",
-        "url": "https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW"
-      },
-      "artists": [
-        {
-          "name": "QU4RTZ",
-          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
-        }
-      ],
-      "duration_ms": 238560,
-      "name": "Beautiful Moonlight",
-      "url": "https://open.spotify.com/track/7Ld5pHKOgTWFAwmAx525Lv"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "Just Believe!!!",
-        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
-      },
-      "artists": [
-        {
-          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
-          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "LIKE IT!LOVE IT!",
-      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
         "name": "TOKIMEKI Runners",
         "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 224720,
       "name": "Starlight",
       "url": "https://open.spotify.com/track/2H8qziW7IGOPO3yXAhk9o4"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "Just Believe!!!",
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
+      },
+      "artists": [
+        {
+          "name": "\u512a\u6728\u305b\u3064\u83dc (CV.\u6960\u6728\u3068\u3082\u308a)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "duration_ms": 261013,
+      "name": "LIKE IT!LOVE IT!",
+      "url": "https://open.spotify.com/track/4PeeXkEdUeIucB7kbcp2u9"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-07-26 16:22:16",
       "album": {
-        "name": "Eternal Light",
-        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
-      },
-      "artists": [
-        {
-          "name": "DiverDiva",
-          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
-        }
-      ],
-      "duration_ms": 228213,
-      "name": "\u604b\u3059\u308bMagic!!",
-      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
-    },
-    {
-      "added_at": "2022-07-26 16:22:16",
-      "album": {
         "name": "Just Believe!!!",
         "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 251386,
       "name": "Toy Doll",
       "url": "https://open.spotify.com/track/7BOoQpM5Ud8zRkDwMDWqOz"
+    },
+    {
+      "added_at": "2022-07-26 16:22:16",
+      "album": {
+        "name": "Eternal Light",
+        "url": "https://open.spotify.com/album/5zkPtKjefIE5nBluB7N9vm"
+      },
+      "artists": [
+        {
+          "name": "DiverDiva",
+          "url": "https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd"
+        }
+      ],
+      "duration_ms": 228213,
+      "name": "\u604b\u3059\u308bMagic!!",
+      "url": "https://open.spotify.com/track/6XhJEnIFAqMQxoiLSlelgn"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -768,13 +768,13 @@
       },
       "artists": [
         {
-          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
-          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
         }
       ],
-      "duration_ms": 233720,
-      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
-      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
+      "duration_ms": 295800,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
     },
     {
       "added_at": "2022-07-26 16:22:16",
@@ -784,13 +784,13 @@
       },
       "artists": [
         {
-          "name": "\u30a8\u30de\u30fb\u30f4\u30a7\u30eb\u30c7 (CV.\u6307\u51fa\u6bec\u4e9c)",
-          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+          "name": "\u4e2d\u9808\u304b\u3059\u307f (CV.\u76f8\u826f\u8309\u512a)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
         }
       ],
-      "duration_ms": 295800,
-      "name": "Evergreen",
-      "url": "https://open.spotify.com/track/6IR8MKTOD0skW9FKZKl3kH"
+      "duration_ms": 233720,
+      "name": "\u30c0\u30a4\u30a2\u30e2\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0UAqHawQbQjCvDCYonrZzc"
     },
     {
       "added_at": "2022-07-26 16:22:16",

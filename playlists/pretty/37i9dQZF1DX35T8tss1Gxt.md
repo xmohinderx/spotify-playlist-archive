@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 
 > Experience music from some of your favorite Gospel artists and those they've influenced\.  Cover: Naomi Raine
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,722 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,754 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 42 | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/track/5prMdiyfZQz4mpusWW8HNy) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Ryan Avery](https://open.spotify.com/artist/4auBKSXLD4GLUiA9zh1vFS) | [World On Fire \(feat\. Ryan Avery\)](https://open.spotify.com/album/2xWbI2DYwO25IrmsJf7LDu) | 3:03 |
 | 43 | [NO WORRIES](https://open.spotify.com/track/6N31WvpFQtkLeZDl89XQbm) | [RED Hands](https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4), [Jermaine Dolly](https://open.spotify.com/artist/14ROZ4kCrD8abznyzgs530) | [NO WORRIES](https://open.spotify.com/album/1cym63PD3pw0DbuMIpCdiJ) | 3:32 |
 | 44 | [Has anyone ever left you high and dry?](https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed) | [ELEVATION RHYTHM](https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8), [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [Growing Pains](https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG) | 2:27 |
-| 45 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 |
-| 46 | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh) | [Juan Winans](https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV) | 2:59 |
+| 45 | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/20VrIu8vQJIgcdcWbz1ISh) | [Juan Winans](https://open.spotify.com/artist/2juh4XiRRD0uC0zgdw8ZNR), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Tell That \(feat\. Mr\. Talkbox\)](https://open.spotify.com/album/2RczJovTuF0oVegnr2XNRV) | 2:59 |
+| 46 | [When We Get There](https://open.spotify.com/track/20NBUKWjWeWr6P3vNQL6d9) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Joy In The Morning](https://open.spotify.com/album/2JuThVAsMXmUJpTmAouFax) | 3:19 |
 | 47 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 |
 | 48 | [New Wine Flow](https://open.spotify.com/track/2xDpWnVhlAAsqjFWWYU80i) | [Ryan Ellis](https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C) | [New Wine Flow](https://open.spotify.com/album/3TXxV9TnRmAlzEZcrzRb0y) | 3:29 |
 | 49 | [Walk With You](https://open.spotify.com/track/1ccvFGOxax5zDNdt8fNZLg) | [Michael Bethany](https://open.spotify.com/artist/6leYBoSGoXZllPhCTjKtQe) | [Walk With You](https://open.spotify.com/album/189fRY2Ia2UVDcMnGW8hKV) | 6:22 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35T8tss1Gxt.md) - [plain]
 | 93 | [YOU](https://open.spotify.com/track/1d27EOdOzpEGWWT59hf1xm) | [Jor'dan Armstrong](https://open.spotify.com/artist/2s0Vf0XkLyHCQfyvFDnTi8) | [YOU](https://open.spotify.com/album/2lS3khKD2lhxL44NQbfxd4) | 3:08 |
 | 94 | [Temporary Tears](https://open.spotify.com/track/5eP7Mvhy9bQYA22ywsU3eP) | [JoJo Martin](https://open.spotify.com/artist/7gyT3c9PhZWtGgJ43adxKU) | [Temporary Tears](https://open.spotify.com/album/71Fcsf90J0tawEweNNUHia) | 2:38 |
 | 95 | [Win](https://open.spotify.com/track/7JgMB2xjZQ7yXG50DQFcpS) | [CANDIACE](https://open.spotify.com/artist/5JszSvXkRAk75bLoZDOHkP) | [Win](https://open.spotify.com/album/6Wo2MhAA70UrNXhVfI65rn) | 2:36 |
-| 96 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
-| 97 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
-| 98 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
+| 96 | [VANILLA](https://open.spotify.com/track/0VvBm20XZedf4wQhbUs3hb) | [Sarah Nathalié](https://open.spotify.com/artist/1O8Ex2yuddkMknV0uM2oni) | [VANILLA](https://open.spotify.com/album/6VuA0G64riGnjOxs5ArVNB) | 2:28 |
+| 97 | [You Won't Leave Us](https://open.spotify.com/track/2vwqf7ECS2Th0lHoN9LuUz) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [You Won't Leave Us](https://open.spotify.com/album/4wiAzOB2eT9e6XLWtsYLzQ) | 3:19 |
+| 98 | [No One's Gonna Save Me](https://open.spotify.com/track/2sKX02STKwRRUNqrwohWvV) | [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [No One's Gonna Save Me](https://open.spotify.com/album/4yP1cRV0rpwGqLnyj0Ye6i) | 2:39 |
 | 99 | [Thank You](https://open.spotify.com/track/3xPHSL8ciVL7fqIrcMQpLy) | [Kelechi](https://open.spotify.com/artist/7evBSxu0dtP6Hgjgo3RHO7) | [Thank You](https://open.spotify.com/album/58Rs0Hr1q87t7lsA0DFeLR) | 3:25 |
 | 100 | [more like you](https://open.spotify.com/track/039ZACDj8Cb8AA0jdKyQgT) | [Reed Deming](https://open.spotify.com/artist/1fKEt9S1A4iszlgL9rFjPR) | [more like you](https://open.spotify.com/album/7LXQLC9LcezYqo9wTWzj2J) | 3:17 |
 
-Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDZhMGNmY2VlNmI2NGQzMTc3YTNhYmMyNWRhMjBlNWEw`
+Snapshot ID: `MTY1ODAzNjMxMSwwMDAwMDAwMDBhMTQ2ZTVlMDk3ODQ1OGFmMDlmNWI4NThiZDVkYmY4`

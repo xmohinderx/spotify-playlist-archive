@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpLDJazDBum.md) - [plain]
 
 > Find your flow with these instrumental trap and lofi beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,825 likes - 106 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,857 likes - 106 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "Classic songs like you've never heard before. Cover: Shawn Mendes, Maddie & Tae, and John Legend. ",
-  "num_followers": 276321,
+  "num_followers": 276315,
   "original_name": "Spotify Singles: Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg0OTM2NSwwMDAwMDAwMDgwNjJhMmYzMzU2MDc1MDBhZTdhYjExZWU2OTIwZWQy",
+  "snapshot_id": "MTY1NTg0OTM2NSwwMDAwMDAwMDNiMTg3ZjI3Yjk0ZDllNzBmNDNmYmY4NWYyOTdkNjMz",
   "tracks": [
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-06-21 22:09:25",
       "album": {
+        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
+        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
+      },
+      "artists": [
+        {
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        }
+      ],
+      "duration_ms": 204290,
+      "name": "Maps - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 213173,
       "name": "IN THE END \u2013 Spotify Singles",
       "url": "https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
-        "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
-      },
-      "artists": [
-        {
-          "name": "Yeah Yeah Yeahs",
-          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
-        }
-      ],
-      "duration_ms": 204290,
-      "name": "Maps - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
     },
     {
       "added_at": "2022-06-21 22:09:25",

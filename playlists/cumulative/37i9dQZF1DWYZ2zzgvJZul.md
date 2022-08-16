@@ -4,7 +4,7 @@
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Leonardo de Lozanne
 
-119 songs - 7 hr 24 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
+120 songs - 7 hr 27 min - [published](https://open.spotify.com/playlist/0l9Wh8w43fBjYdr4AnAill)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Junto a Mi](https://open.spotify.com/track/2z5DpX4H04xbi4Bla8o66p) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Buscando Rebeldía](https://open.spotify.com/album/6a2378NiZoEA3wy8CGEuFE) | 2:39 | 2021-12-07 | 2022-03-21 |
 | [Karmadame](https://open.spotify.com/track/3Byvorn06uV1EebqziU3oF) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Karmadame](https://open.spotify.com/album/0SeEDHrW5xLRLcokv1IiBx) | 4:54 | 2021-12-07 | 2022-03-21 |
 | [La Cena](https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [La Cena](https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS) | 2:46 | 2022-03-19 |  |
-| [La Cima](https://open.spotify.com/track/3LJIeuhVmz6FKfm24m0Zu7) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hasta Arriba](https://open.spotify.com/album/1FL1DZ5Rv9p6BdvV1LoPjv) | 2:53 | 2022-03-19 |  |
+| [La Cima](https://open.spotify.com/track/3LJIeuhVmz6FKfm24m0Zu7) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hasta Arriba](https://open.spotify.com/album/1FL1DZ5Rv9p6BdvV1LoPjv) | 2:53 | 2022-03-19 | 2022-08-16 |
+| [La Cima](https://open.spotify.com/track/5wBpXZG43u7flHH97cnGBk) | [Kchiporros](https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ) | [Hasta Arriba](https://open.spotify.com/album/2mLsNvZvyNm0HTBlpqUHd7) | 2:53 | 2022-08-05 |  |
 | [La Ciudad Sin Alma](https://open.spotify.com/track/3sDI2suYX1N8IuszYbRmuZ) | [El Cuarteto De Nos](https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH) | [La Ciudad Sin Alma](https://open.spotify.com/album/5fKFrKFHXp0ZDaGSZ2YgQx) | 3:51 | 2022-02-18 |  |
 | [La Fuente](https://open.spotify.com/track/2c6niSBI2M7gqVK1tWwEhu) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [La Fuente](https://open.spotify.com/album/0oMlRNLt7gEZrftInylnmT) | 5:27 | 2022-03-19 |  |
 | [La Izquierda de la Noche](https://open.spotify.com/track/7ckFZJx6PYjb3P9mc8PNQl) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [La Izquierda de la Noche](https://open.spotify.com/album/5l2XPMJy6oB4BiRcYxEp8S) | 3:39 | 2021-12-07 |  |

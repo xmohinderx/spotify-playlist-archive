@@ -4,7 +4,7 @@
 
 > Check out these funky Tanglish Love Tracks!<br/>Cover : Don
 
-59 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/7xedrfD7XNjPN7rkUrccs6)
+60 songs - 4 hr 16 min - [published](https://open.spotify.com/playlist/7xedrfD7XNjPN7rkUrccs6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Pudhu Metro Rail](https://open.spotify.com/track/1agEYXNhamNXNnsUZVRd9c) | [Vikram](https://open.spotify.com/artist/1hP2OKkJ24oEkW8nNpQLX7), [Keerthy Suresh](https://open.spotify.com/artist/32ZzRl7e5UFtJnDO2URfGi) | [Saamy Square \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3oQgGFp6KmLOZa7HW6GP9l) | 4:18 | 2022-05-10 |  |
 | [Raati](https://open.spotify.com/track/0iZ70iS3InwGoVyH1WBIl2) | [Santhosh Dhayanidhi](https://open.spotify.com/artist/45W4EDnXayqLZPpJQJAKN3), [Bamba Bakya](https://open.spotify.com/artist/005ppBcDhgC9mj7CgRmv1D), [Swagatha](https://open.spotify.com/artist/3fX6I5TxaX7VusdmICwfy4) | [Partner \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ImbNeAxzmYKi5JtcAhVEQ) | 4:18 | 2022-05-10 |  |
 | [Rowdy Baby](https://open.spotify.com/track/0Tm5ER6IrGfmW0yZ5lkQli) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Dhanush](https://open.spotify.com/artist/2F3KtUVtrt2GLjcl6pB4cz), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Rowdy Baby \(From "Maari 2" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6OtXwT06jhIGwJdSUHYFjY) | 4:41 | 2022-05-10 |  |
+| [Saachitale \(From "Love Today"\)](https://open.spotify.com/track/1GtGDEADkaqavjo23YaSLl) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Saachitale \(From "Love Today"\)](https://open.spotify.com/album/30U9nwOMtDwQWY3I6cwR0H) | 3:58 | 2022-08-15 |  |
 | [Sakkarakatti](https://open.spotify.com/track/1PaxAUxLEVpi75l0nDtwu1) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Meesaya Murukku \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6huPBShibyH3IJg5pPv8Bl) | 3:09 | 2022-05-10 |  |
 | [Selfie Pulla \(From "Kaththi"\)](https://open.spotify.com/track/0NlKDGqNJ1is6V8eLBhj7S) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 4:51 | 2022-05-10 |  |
 | [Selfie Pulla \(From "Kaththi"\)](https://open.spotify.com/track/2sFMEMDRDoqnc0dJWZzkK8) | [Vijay](https://open.spotify.com/artist/1eBHjBxiNA3gyEWEN7oRxM), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 4:51 | 2022-05-10 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "The original chill instrumental beats playlist.",
-  "num_followers": 2086762,
+  "num_followers": 2087154,
   "original_name": "Jazz Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMDA0OGQzMjBkZTU5NWJiZDIxMmVjMDZhN2VmYWFkYzkz",
+  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMDk4NWNjNDg2MWExZjJlMDVjMWJhYjM1OTBmNGE0ZTkw",
   "tracks": [
     {
       "added_at": "2022-08-11 22:00:00",
@@ -219,26 +219,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Hydration",
-        "url": "https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ"
-      },
-      "artists": [
-        {
-          "name": "Birds Of The West",
-          "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
-        },
-        {
-          "name": "sloh rou",
-          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
-        }
-      ],
-      "duration_ms": 133793,
-      "name": "Hydration",
-      "url": "https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "1973",
         "url": "https://open.spotify.com/album/5I5QLxHhtAG4XZAMwrLECe"
       },
@@ -275,6 +255,26 @@
       "duration_ms": 178838,
       "name": "Mulberry",
       "url": "https://open.spotify.com/track/1Ty54xPt5arHKn6ecAF9M8"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Hydration",
+        "url": "https://open.spotify.com/album/35RHe0a6DBNCVFbV986sFJ"
+      },
+      "artists": [
+        {
+          "name": "Birds Of The West",
+          "url": "https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq"
+        },
+        {
+          "name": "sloh rou",
+          "url": "https://open.spotify.com/artist/0D4FGltctqk7z1BdC1088j"
+        }
+      ],
+      "duration_ms": 133793,
+      "name": "Hydration",
+      "url": "https://open.spotify.com/track/03DCmsx6VR45Z9qe6pgkYd"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -363,30 +363,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Solenidae",
-        "url": "https://open.spotify.com/album/3h3CpmKeJw6HOkkokWo5uV"
-      },
-      "artists": [
-        {
-          "name": "Phlocalyst",
-          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
-        },
-        {
-          "name": "LESKY",
-          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
-        },
-        {
-          "name": "S\u00e1tyr",
-          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
-        }
-      ],
-      "duration_ms": 135652,
-      "name": "Solenidae",
-      "url": "https://open.spotify.com/track/1YwwSHfSgYTNCx0EsvnVSv"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Suave Park / Mikasa",
         "url": "https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf"
       },
@@ -439,6 +415,30 @@
       "duration_ms": 141333,
       "name": "Mr. Green",
       "url": "https://open.spotify.com/track/699q07qi2oq0cKG2aMWqX0"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Solenidae",
+        "url": "https://open.spotify.com/album/3h3CpmKeJw6HOkkokWo5uV"
+      },
+      "artists": [
+        {
+          "name": "Phlocalyst",
+          "url": "https://open.spotify.com/artist/5xJ9q1lHwa8AShRof94oIt"
+        },
+        {
+          "name": "LESKY",
+          "url": "https://open.spotify.com/artist/7eMZ8gfgZq14cbSR52vBy6"
+        },
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        }
+      ],
+      "duration_ms": 135652,
+      "name": "Solenidae",
+      "url": "https://open.spotify.com/track/1YwwSHfSgYTNCx0EsvnVSv"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Tea Cosy",
-        "url": "https://open.spotify.com/album/0Vxe4WPILqTU3XfmeI3N6Y"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        }
-      ],
-      "duration_ms": 181999,
-      "name": "Tea Cosy",
-      "url": "https://open.spotify.com/track/6dc1pLuUuHHttonZuLd3wf"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Orion",
         "url": "https://open.spotify.com/album/7rLvvH75UhmaxS6AO1xrgr"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 146000,
       "name": "Orion",
       "url": "https://open.spotify.com/track/5FEGeOf65KXA6xXVZ6ImW0"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Tea Cosy",
+        "url": "https://open.spotify.com/album/0Vxe4WPILqTU3XfmeI3N6Y"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        }
+      ],
+      "duration_ms": 181999,
+      "name": "Tea Cosy",
+      "url": "https://open.spotify.com/track/6dc1pLuUuHHttonZuLd3wf"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Alpha",
-        "url": "https://open.spotify.com/album/22J8I9RclptwR54QbU5eKO"
-      },
-      "artists": [
-        {
-          "name": "Otis Neon",
-          "url": "https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5"
-        }
-      ],
-      "duration_ms": 113127,
-      "name": "Alpha",
-      "url": "https://open.spotify.com/track/7Hiblos98LjJwAoHn6vyiU"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Shibuya Station",
         "url": "https://open.spotify.com/album/2Li1FntMdbzK1qT57uL90w"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 135000,
       "name": "Shibuya Station",
       "url": "https://open.spotify.com/track/16mlaFRQkpfUxlrg1OWWZa"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Alpha",
+        "url": "https://open.spotify.com/album/22J8I9RclptwR54QbU5eKO"
+      },
+      "artists": [
+        {
+          "name": "Otis Neon",
+          "url": "https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5"
+        }
+      ],
+      "duration_ms": 113127,
+      "name": "Alpha",
+      "url": "https://open.spotify.com/track/7Hiblos98LjJwAoHn6vyiU"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -3655,6 +3655,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Actually Urgent",
+        "url": "https://open.spotify.com/album/5ifLueEAuHLdiaa48LXZEG"
+      },
+      "artists": [
+        {
+          "name": "JAY VANILLA",
+          "url": "https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV"
+        }
+      ],
+      "duration_ms": 100465,
+      "name": "Actually Urgent",
+      "url": "https://open.spotify.com/track/1eK24FCLgi5Z5zWWdVwfso"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "Willow Tree",
         "url": "https://open.spotify.com/album/2ejKkP2NPWAbULd6nfRF3M"
       },
@@ -3715,22 +3731,6 @@
       "duration_ms": 113071,
       "name": "Midnight Oil",
       "url": "https://open.spotify.com/track/1QvbfgUFrYBT9IuvELJw5x"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Actually Urgent",
-        "url": "https://open.spotify.com/album/5ifLueEAuHLdiaa48LXZEG"
-      },
-      "artists": [
-        {
-          "name": "JAY VANILLA",
-          "url": "https://open.spotify.com/artist/4Vk1NkBCNhg2qaR5RlCpZV"
-        }
-      ],
-      "duration_ms": 100465,
-      "name": "Actually Urgent",
-      "url": "https://open.spotify.com/track/1eK24FCLgi5Z5zWWdVwfso"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -4707,6 +4707,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Tessin",
+        "url": "https://open.spotify.com/album/7GbM9Bd7aaXzJVrEzCxmkQ"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 130399,
+      "name": "Tessin",
+      "url": "https://open.spotify.com/track/2cVSY76Kbh7lt6c4s3Dyl2"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "Lunar",
         "url": "https://open.spotify.com/album/4mihfwmsQ7UoN7V75B6LkU"
       },
@@ -4739,22 +4755,6 @@
       "duration_ms": 96666,
       "name": "Deep Down",
       "url": "https://open.spotify.com/track/59TBfOXD5YhMkWdX82QhBi"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Tessin",
-        "url": "https://open.spotify.com/album/7GbM9Bd7aaXzJVrEzCxmkQ"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 130399,
-      "name": "Tessin",
-      "url": "https://open.spotify.com/track/2cVSY76Kbh7lt6c4s3Dyl2"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -5055,6 +5055,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Cambrai",
+        "url": "https://open.spotify.com/album/2ZcK96UqUPEiJDXrgDwZ4q"
+      },
+      "artists": [
+        {
+          "name": "lorleaf",
+          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
+        }
+      ],
+      "duration_ms": 112000,
+      "name": "Cambrai",
+      "url": "https://open.spotify.com/track/22nmtSEfoLluVVHDmAaH98"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "L'eau",
         "url": "https://open.spotify.com/album/2tM4rEzdSNGcP34Xsy0fJY"
       },
@@ -5083,22 +5099,6 @@
       "duration_ms": 138576,
       "name": "Late Rain",
       "url": "https://open.spotify.com/track/6lAsOTYy9HNXccda1MuDuK"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Cambrai",
-        "url": "https://open.spotify.com/album/2ZcK96UqUPEiJDXrgDwZ4q"
-      },
-      "artists": [
-        {
-          "name": "lorleaf",
-          "url": "https://open.spotify.com/artist/4dIQxgH4s739dGAHaKAw0y"
-        }
-      ],
-      "duration_ms": 112000,
-      "name": "Cambrai",
-      "url": "https://open.spotify.com/track/22nmtSEfoLluVVHDmAaH98"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -5427,30 +5427,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Balconia",
-        "url": "https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L"
-      },
-      "artists": [
-        {
-          "name": "No Mic",
-          "url": "https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT"
-        },
-        {
-          "name": "SkiDs",
-          "url": "https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ"
-        },
-        {
-          "name": "Golden Ticket Tapes",
-          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
-        }
-      ],
-      "duration_ms": 106902,
-      "name": "Balconia",
-      "url": "https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Green Papaya",
         "url": "https://open.spotify.com/album/1VckGJVrcsetxNEZnIDRvG"
       },
@@ -5463,26 +5439,6 @@
       "duration_ms": 173773,
       "name": "Green Papaya",
       "url": "https://open.spotify.com/track/6Yxr92emQ8EtwDXmtmCjkc"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Ebony",
-        "url": "https://open.spotify.com/album/6bbGjDvLvrCQNPnTg66fjb"
-      },
-      "artists": [
-        {
-          "name": "Don Philippe",
-          "url": "https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU"
-        },
-        {
-          "name": "Rzuma",
-          "url": "https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8"
-        }
-      ],
-      "duration_ms": 112105,
-      "name": "Ebony",
-      "url": "https://open.spotify.com/track/197x2einuu4SBFlykVQAXS"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -5523,6 +5479,50 @@
       "duration_ms": 144878,
       "name": "Guanako",
       "url": "https://open.spotify.com/track/2dQtPhq5uiuRG2JaZ4DTiw"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Ebony",
+        "url": "https://open.spotify.com/album/6bbGjDvLvrCQNPnTg66fjb"
+      },
+      "artists": [
+        {
+          "name": "Don Philippe",
+          "url": "https://open.spotify.com/artist/0oer0EPMRrosfCF2tUt2jU"
+        },
+        {
+          "name": "Rzuma",
+          "url": "https://open.spotify.com/artist/0qOz7pDm5732P4fdEjHrI8"
+        }
+      ],
+      "duration_ms": 112105,
+      "name": "Ebony",
+      "url": "https://open.spotify.com/track/197x2einuu4SBFlykVQAXS"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Balconia",
+        "url": "https://open.spotify.com/album/2uOAfAGiPWVZwg63FTVs7L"
+      },
+      "artists": [
+        {
+          "name": "No Mic",
+          "url": "https://open.spotify.com/artist/1Y3A1PoGXSWW6nmI1DNMoT"
+        },
+        {
+          "name": "SkiDs",
+          "url": "https://open.spotify.com/artist/43FpyHh0x1EX3z9kAi2huJ"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
+        }
+      ],
+      "duration_ms": 106902,
+      "name": "Balconia",
+      "url": "https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc"
     },
     {
       "added_at": "2022-08-11 22:00:00",

@@ -2,7 +2,7 @@
 
 ### [Yung Bae's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX3VVyN3qcV0Q)
 
-> <a href ="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix this summer!
+> <a href="spotify:artist:30FDJPN3RtwJZ20g5YGCRX">Yung Bae</a> blesses us with a funky fun mix this summer!
 
 24 songs - 57 min 41 sec - [published](https://open.spotify.com/playlist/6bmULwlBHZns78X4uzO6Jh)
 

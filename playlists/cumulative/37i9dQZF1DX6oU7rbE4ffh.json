@@ -192,6 +192,24 @@
     },
     {
       "album": {
+        "name": "Another Galaxy",
+        "url": "https://open.spotify.com/album/38rOjQqBRymKUdYcBJsBzl"
+      },
+      "artists": [
+        {
+          "name": "Astro.Not",
+          "url": "https://open.spotify.com/artist/2iEiuAf6GeqHMGADH76YPS"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146966,
+      "name": "Another Galaxy",
+      "url": "https://open.spotify.com/track/09a8Ur35uRNugKT4X2Ia0W"
+    },
+    {
+      "album": {
         "name": "Anti-Clockwise Spiral Staircase",
         "url": "https://open.spotify.com/album/14wlLHVPkCezE2gwGu2v6f"
       },
@@ -481,6 +499,24 @@
       "duration_ms": 216000,
       "name": "Cardboard Gadgets",
       "url": "https://open.spotify.com/track/1GnzjRqS1QnHeA9O7bR5y0"
+    },
+    {
+      "album": {
+        "name": "Convergence",
+        "url": "https://open.spotify.com/album/1095m41z6UPcurOL35ybPa"
+      },
+      "artists": [
+        {
+          "name": "SleepTherapy",
+          "url": "https://open.spotify.com/artist/6lmrCOEWctZj9LghJ9wxuv"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Convergence",
+      "url": "https://open.spotify.com/track/6u6mjHCd8ULdqYYmkRJeeS"
     },
     {
       "album": {
@@ -1618,6 +1654,24 @@
     },
     {
       "album": {
+        "name": "Skymning",
+        "url": "https://open.spotify.com/album/2OBSjVmSk1vvXn98hgfo70"
+      },
+      "artists": [
+        {
+          "name": "Signe Golin",
+          "url": "https://open.spotify.com/artist/3CBETDmJHF7pJ4ENoSfs3Z"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154550,
+      "name": "Skymning",
+      "url": "https://open.spotify.com/track/6Ywas6l9JyqXWDS1PKmzj6"
+    },
+    {
+      "album": {
         "name": "Sleepy Journey",
         "url": "https://open.spotify.com/album/4bC20baAmTJVp6KLYsIkz3"
       },
@@ -1791,7 +1845,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 238573,
       "name": "Sown from Lulea\u030a",
       "url": "https://open.spotify.com/track/71koc8oGlklnEFA2WHrv6K"

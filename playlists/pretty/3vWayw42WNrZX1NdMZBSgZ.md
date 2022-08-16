@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Silvestre Dangond
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,851 likes - 264 songs - 14 hr 35 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 56,848 likes - 264 songs - 14 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

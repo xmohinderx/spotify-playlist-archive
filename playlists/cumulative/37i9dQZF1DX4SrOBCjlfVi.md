@@ -4,7 +4,7 @@
 
 > All the New Joints featuring Nicki Minaj, Megan Thee Stallion, and more\. Cover: Rod Wave
 
-1,230 songs - 2 day 9 hr 43 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
+1,231 songs - 2 day 9 hr 45 min - [published](https://open.spotify.com/playlist/1pXAF39Jhtc0ey1NUW44Ot)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [Put In Work \(feat\. Dusty Locane\)](https://open.spotify.com/track/2VOgN0UIoBnWahApbZvyhG) | [Badda TD](https://open.spotify.com/artist/57GHC729HxFYHl1vGe1qaX), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [The World Is Yours: Gangsta Grillz](https://open.spotify.com/album/2G7OtfI3kpgfQNvnH9Sq9h) | 2:26 | 2022-07-08 | 2022-07-16 |
 | [Put Me Under \(Wicked Pt\. 2\)](https://open.spotify.com/track/4dKBJ7HhKORxTgR2T0Qp1J) | [JMB Juvie](https://open.spotify.com/artist/25zUbJzU1WGRTN5Y0ajRzd) | [Put Me Under \(Wicked Pt\. 2\)](https://open.spotify.com/album/4BgZRyrb62pE1dddTSaELN) | 4:00 | 2022-06-17 | 2022-06-25 |
 | [Put You On](https://open.spotify.com/track/4dTsWY3ftctA0RKEQymnh1) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Big K.R.I.T.](https://open.spotify.com/artist/0CKa42Jqrc9fSFbDjePaXP), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr), [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd) | [Put You On](https://open.spotify.com/album/4lPqGGHawhkuGYQAZWsDbw) | 2:55 | 2022-03-11 | 2022-03-26 |
+| [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 | 2022-08-15 |  |
 | [Quicksand](https://open.spotify.com/track/5BdckqMqMlq3XWX3Pgr8WY) | [Cae Cartier](https://open.spotify.com/artist/1ynSbjcRtqlVYJwYwnE3KD) | [Quicksand](https://open.spotify.com/album/3lXXeDXAOGErPbuGwhZ3Of) | 2:10 | 2022-06-03 | 2022-06-11 |
 | [r u sure?](https://open.spotify.com/track/67T0noMCWvG3ugOr1CHvm9) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT) | [r u sure?](https://open.spotify.com/album/4tP5ydqkhyhPAGr81zjQje) | 3:16 | 2022-02-25 | 2022-03-12 |
 | [Rackz got më \(feat\. Gunna\)](https://open.spotify.com/track/0Pq8CSHDXInMK8atOkWSAv) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [2 Alivë](https://open.spotify.com/album/0d1BFY8z15vye3KjtLvF3u) | 3:01 | 2022-02-18 | 2022-02-26 |

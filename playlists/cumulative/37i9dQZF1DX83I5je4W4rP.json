@@ -918,6 +918,24 @@
     },
     {
       "album": {
+        "name": "Edge of the Ocean",
+        "url": "https://open.spotify.com/album/29TmBre90Vd3iE2pu8cDP1"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295867,
+      "name": "Edge of the Ocean",
+      "url": "https://open.spotify.com/track/0SctzStskP74wkmBBXlmEn"
+    },
+    {
+      "album": {
         "name": "Every Road I'm On",
         "url": "https://open.spotify.com/album/6gX9LgRThXGFkRMA0oCXWK"
       },
@@ -1665,7 +1683,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:1iwUuIOKYjV7SKIg27v4zi">Real Boston Richey</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,671,102 likes - 100 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,671,454 likes - 100 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 71 | [Aint No Fun](https://open.spotify.com/track/5LWAGw2GEbTHDWcV5coWyJ) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [Aint No Fun](https://open.spotify.com/album/2hcZSipx5KrhW4Rxp74BhC) | 2:08 |
 | 72 | [Only Us \(feat\. Babyface Ray\)](https://open.spotify.com/track/2ui0S7VkIT47mTGLlioGsw) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Only Us \(feat\. Babyface Ray\)](https://open.spotify.com/album/70JVltVkQblqp2cuoCfeMV) | 3:24 |
 | 73 | [Frozen](https://open.spotify.com/track/4TZxTK5bGS8dxjLTjcQsxx) | [Stunna Gambino](https://open.spotify.com/artist/15ZjD8Gus20Miqw3fdOaXX) | [Frozen](https://open.spotify.com/album/0Qql7tnjwxJ4Lpmy8H3Uwl) | 2:45 |
-| 74 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
+| 74 | [Rap Niggas](https://open.spotify.com/track/4LutKtVnLcOiZHO3SWaYZr) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Ro$ama](https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr) | [Rap Niggas](https://open.spotify.com/album/4eqIEeiyBrDTAFNNnncsgu) | 2:44 |
 | 75 | [Paris to Tokyo](https://open.spotify.com/track/5QvW5lK6mkfTegpAK9JOO7) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Paris to Tokyo](https://open.spotify.com/album/5BXl6r5L4zXQufLQjgkU6U) | 2:10 |
 | 76 | [Count Me Out](https://open.spotify.com/track/5uFJduSeHmCttOQzpaCgnu) | [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [B4PINK](https://open.spotify.com/album/0wgrKGnsLCq4tM0jIOBmkP) | 2:25 |
 | 77 | [Savages](https://open.spotify.com/track/4T7SSgpvgt0BfQz73sjAvM) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 2:34 |

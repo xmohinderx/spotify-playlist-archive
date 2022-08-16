@@ -1,12 +1,12 @@
 {
   "description": "Forget it and disappear with chill <a href=\"spotify:genre:edm_dance\">house</a>.",
-  "num_followers": 2422991,
+  "num_followers": 2423563,
   "original_name": "Deep House Relax",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTU5NjI1MSwwMDAwMDAwMDk0MmI5OGE0ODNmNDU4YTY0OGFjZWJlZTAzYzEyNGM2",
+  "snapshot_id": "MTY1MTU5NjI1MSwwMDAwMDAwMGNiYjdiYTdkY2ZhZDRkNTE3NTg3MmUwYWU4OGNiZThj",
   "tracks": [
     {
       "added_at": "2022-05-03 16:44:11",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-05-03 16:44:11",
       "album": {
+        "name": "Just",
+        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
+      },
+      "artists": [
+        {
+          "name": "Amtrac",
+          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+        }
+      ],
+      "duration_ms": 372000,
+      "name": "Just",
+      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
+    },
+    {
+      "added_at": "2022-05-03 16:44:11",
+      "album": {
         "name": "Reflections (il:lo Remix)",
         "url": "https://open.spotify.com/album/3laEe6ZobS5JDM95kfP7GV"
       },
@@ -515,18 +531,18 @@
     {
       "added_at": "2022-05-03 16:44:11",
       "album": {
-        "name": "Just",
-        "url": "https://open.spotify.com/album/0vYOAJM94XCdETxlSwFi7Y"
+        "name": "Lore EP",
+        "url": "https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB"
       },
       "artists": [
         {
-          "name": "Amtrac",
-          "url": "https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 372000,
-      "name": "Just",
-      "url": "https://open.spotify.com/track/2u9o4jlbtzqdy2bsBX9FYK"
+      "duration_ms": 209406,
+      "name": "Can\u2019t Quite Understand",
+      "url": "https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9"
     },
     {
       "added_at": "2022-05-03 16:44:11",
@@ -547,22 +563,6 @@
       "duration_ms": 253240,
       "name": "Erase",
       "url": "https://open.spotify.com/track/1BbXlbs8pWeYI2yGpGhuzA"
-    },
-    {
-      "added_at": "2022-05-03 16:44:11",
-      "album": {
-        "name": "Lore EP",
-        "url": "https://open.spotify.com/album/1DCXlz2JvEcTUOZqgn5tDB"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 209406,
-      "name": "Can\u2019t Quite Understand",
-      "url": "https://open.spotify.com/track/5cZhGl84mK2JzltfSzqJR9"
     },
     {
       "added_at": "2022-05-03 16:44:11",

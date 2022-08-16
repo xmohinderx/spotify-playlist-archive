@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 
 > Post\-hardcore\. Post\-punk\. Post\-rock\. Post\-everything\. Cover: Metz
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,477 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,579 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 4 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 |
 | 5 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 6 | [Uneasy Hearts Weigh The Most](https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Dance Gavin Dance](https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL) | 3:38 |
-| 7 | [Constant Headache](https://open.spotify.com/track/6baeAT0jVAxvnLn8rIN50X) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [S/T](https://open.spotify.com/album/13Q0AfGNq7GwUXGeUwWViH) | 3:04 |
-| 8 | [My Heroine](https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:27 |
-| 9 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
-| 10 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 |
-| 11 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 |
+| 7 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 |
+| 8 | [Constant Headache](https://open.spotify.com/track/6baeAT0jVAxvnLn8rIN50X) | [Joyce Manor](https://open.spotify.com/artist/7qbvNcfTfckhCNM8NiR8nN) | [S/T](https://open.spotify.com/album/13Q0AfGNq7GwUXGeUwWViH) | 3:04 |
+| 9 | [My Heroine](https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Discovering The Waterfront](https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ) | 3:27 |
+| 10 | [F.C.P.R.E.M.I.X.](https://open.spotify.com/track/4OsLDuaH0bWR6xM6nj66F8) | [The Fall of Troy](https://open.spotify.com/artist/5fuQrhMRYMtoO9uOlFad4P) | [Doppelganger](https://open.spotify.com/album/4yGGtM3VghcKn4dPYZ2xFE) | 3:57 |
+| 11 | [Kitty Sucker](https://open.spotify.com/track/457BpNlDPJnuf94rY1fuWw) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [End of Suffering](https://open.spotify.com/album/1KS8HJ4sPoHFnryujTqXIf) | 3:44 |
 | 12 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
 | 13 | [New Noise](https://open.spotify.com/track/35iLpqqQg4KrfYAzbvN1vH) | [Refused](https://open.spotify.com/artist/5sdxGvwxI1TkTA6Pu2jnTb) | [The Shape Of Punk To Come \(Deluxe Edition\)](https://open.spotify.com/album/2Us9qPHLvLoTl6HkYAPcz2) | 5:10 |
 | 14 | [One Armed Scissor](https://open.spotify.com/track/1lg8iruuIfdRL20TMmHRzJ) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [Relationship Of Command](https://open.spotify.com/album/0x6Y2eA8Boakdrq9x2agdF) | 4:20 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 42 | [It Was Fear of Myself That Made Me Odd](https://open.spotify.com/track/2UXB3a87WOVeQWmRsVwTQ0) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | ["Watch out!"](https://open.spotify.com/album/4ttDpnKRfaMdwCt6Zp9qJd) | 3:54 |
 | 43 | [Snow Day](https://open.spotify.com/track/5hYTN5GH1repxwA730JDk3) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Drunk Tank Pink \(Deluxe Edition\)](https://open.spotify.com/album/07FItTfHsxADQ4sLDxqgFA) | 5:22 |
 | 44 | [Manticore](https://open.spotify.com/track/5U4TMT28sQlLxiwAbCcgJM) | [find yourself](https://open.spotify.com/artist/5p57kSMLKMSCG7sk9EawnN), [Isaac Wilson](https://open.spotify.com/artist/1acEWn1axMgKZjnzAbVtno) | [Manticore](https://open.spotify.com/album/3LCtriKbXKi5rp2604MqhM) | 3:24 |
-| 45 | [Threat to Society](https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:57 |
-| 46 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
+| 45 | [Way Down](https://open.spotify.com/track/4x6kvhekWvDC4MeYjg6xgR) | [The Dangerous Summer](https://open.spotify.com/artist/0iMnpaEHXkgMT956CmP1kj) | [Mother Nature](https://open.spotify.com/album/1Mhtu4tZJg9mPPfS5STWWm) | 3:21 |
+| 46 | [Threat to Society](https://open.spotify.com/track/00zufsVHXnIuVcMeau4pOO) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:57 |
 | 47 | [Change with the Sun](https://open.spotify.com/track/1cUIk99uflLAjSqA2XSC9H) | [Soviet Soviet](https://open.spotify.com/artist/5BC3lvcEEOqVrqMaPjYrgu) | [Ghost](https://open.spotify.com/album/2FCb0YRvaLYsWJRKhpqj4a) | 4:06 |
 | 48 | [Lament](https://open.spotify.com/track/2W6o5dI0sfWRafsusPWZHJ) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Lament](https://open.spotify.com/album/6fA79mAHNeBhaUnuWBADwc) | 3:20 |
 | 49 | [Youth](https://open.spotify.com/track/6GgUYuCp1Gac8ECGODmL7R) | [Hundredth](https://open.spotify.com/artist/2rtsR8zno5naTxY0iJr7M0) | [RARE](https://open.spotify.com/album/7cO0T3BJ6xAkv0BX3TXFAp) | 3:30 |
@@ -90,13 +90,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 80 | [Silhouettes](https://open.spotify.com/track/6B5EAs1ytaHJNu9SQwfFNa) | [Preoccupations](https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3) | [Viet Cong](https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h) | 4:12 |
 | 81 | [Would It Kill You](https://open.spotify.com/track/0HbTKa82jEaiQkW0eIeMHx) | [Dead To Me](https://open.spotify.com/artist/0WwbVkYbderW7JeP79ApoL) | [Would It Kill You?](https://open.spotify.com/album/516klARf2DcEVPRXtoTPAr) | 4:30 |
 | 82 | [Creatures](https://open.spotify.com/track/3fSWvEVmsO5tzT2q8tWQEJ) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Creatures](https://open.spotify.com/album/4JoWs1XHwoZ2LFRQOG7YeX) | 3:32 |
-| 83 | [Fire](https://open.spotify.com/track/6wxFRaXLyQUALBg4M8ZVz9) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Fire](https://open.spotify.com/album/24iKaJJHxW48IvK02VVDKf) | 2:39 |
-| 84 | [Hall of the Sky](https://open.spotify.com/track/2UCM6Hm8olrSft0vB9nL3g) | [Hopesfall](https://open.spotify.com/artist/1FEgAMsvc3DM2OtT4dPn9i) | [Hall of the Sky](https://open.spotify.com/album/7vRAmY1FbSrxCWUyXP5XzW) | 8:44 |
-| 85 | [Celebration](https://open.spotify.com/track/2HAwnoXI9tIMFPjI8MQxxN) | [Hotel Books](https://open.spotify.com/artist/0PsTewblEJFN5oC1Qb7IwX) | [Equivalency](https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ) | 3:42 |
-| 86 | [VIEW FROM OUR BEDROOM WINDOW](https://open.spotify.com/track/0bEQxVpyN8oJjLTJoKQYZm) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Panorama](https://open.spotify.com/album/67emRwxtr7MSMpkUODvklY) | 4:05 |
+| 83 | [Such a Kind Stranger](https://open.spotify.com/track/7HDSZpItnbye4ZuDiUeVuy) | [Good Tiger](https://open.spotify.com/artist/4vIQLq68LtKcCjdvhobTYl) | [We Will All Be Gone](https://open.spotify.com/album/3s3TMBbNiBIEzASYKcgPgp) | 4:11 |
+| 84 | [Fire](https://open.spotify.com/track/6wxFRaXLyQUALBg4M8ZVz9) | [Frank Carter & The Rattlesnakes](https://open.spotify.com/artist/3r32a6mMdoPaSP1C7kYhMc) | [Fire](https://open.spotify.com/album/24iKaJJHxW48IvK02VVDKf) | 2:39 |
+| 85 | [Hall of the Sky](https://open.spotify.com/track/2UCM6Hm8olrSft0vB9nL3g) | [Hopesfall](https://open.spotify.com/artist/1FEgAMsvc3DM2OtT4dPn9i) | [Hall of the Sky](https://open.spotify.com/album/7vRAmY1FbSrxCWUyXP5XzW) | 8:44 |
+| 86 | [Celebration](https://open.spotify.com/track/2HAwnoXI9tIMFPjI8MQxxN) | [Hotel Books](https://open.spotify.com/artist/0PsTewblEJFN5oC1Qb7IwX) | [Equivalency](https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ) | 3:42 |
 | 87 | [I Hear Fake Voices](https://open.spotify.com/track/4mnaS8Tk6XCwliSyJGIv8d) | [Trans Am](https://open.spotify.com/artist/1YFIyRFTa7povIpq08DcCA) | [California Hotel](https://open.spotify.com/album/3zMGSCuomcDFApAIwtO2af) | 3:46 |
-| 88 | [Such a Kind Stranger](https://open.spotify.com/track/7HDSZpItnbye4ZuDiUeVuy) | [Good Tiger](https://open.spotify.com/artist/4vIQLq68LtKcCjdvhobTYl) | [We Will All Be Gone](https://open.spotify.com/album/3s3TMBbNiBIEzASYKcgPgp) | 4:11 |
-| 89 | [Ain't Nice](https://open.spotify.com/track/5p0PGpq1k7lEGSCmmHP8WG) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't Nice](https://open.spotify.com/album/1A8sXhfgBcSCR1jV59E6A4) | 3:32 |
+| 88 | [Ain't Nice](https://open.spotify.com/track/5p0PGpq1k7lEGSCmmHP8WG) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Ain't Nice](https://open.spotify.com/album/1A8sXhfgBcSCR1jV59E6A4) | 3:32 |
+| 89 | [VIEW FROM OUR BEDROOM WINDOW](https://open.spotify.com/track/0bEQxVpyN8oJjLTJoKQYZm) | [La Dispute](https://open.spotify.com/artist/7lQKE6HaKQcCsgLRMhsh5W) | [Panorama](https://open.spotify.com/album/67emRwxtr7MSMpkUODvklY) | 4:05 |
 | 90 | [Is Survived By](https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Is Survived By](https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj) | 3:30 |
 | 91 | [Everlast](https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF) | [Life Awaits](https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm), [阿克江](https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U) | [Fluorescent](https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV) | 3:48 |
 | 92 | [Illuminant](https://open.spotify.com/track/2rpJtmeLU52N5WbR7BLfUX) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Interiors](https://open.spotify.com/album/0kqHdaOSkbZePBPZPvIcqW) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Mqxt6NLTDY.md) - [plain]
 | 99 | [Strong Feelings](https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Strong Feelings](https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY) | 4:04 |
 | 100 | [Wheel of Fortune](https://open.spotify.com/track/7b8yk8Rnqvfxjr8kJmZqjS) | [Protomartyr](https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ), [Kelley Deal](https://open.spotify.com/artist/4LjYBgwWwlYIFlpqxVJZ2a) | [Consolation E.P.](https://open.spotify.com/album/5XOHZ0WQFA1ivHjHDfFqoN) | 5:15 |
 
-Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDJkNzMyMjk1MGRmZmEzMjAyZWVlNmFiZmY1ZDFkYjZl`
+Snapshot ID: `MTY0ODY4MjAyMiwwMDAwMDAwMDkzNGU2YTJhMGFkNDZmZGEzZGI2M2Q2MTU2OTY1NzNj`

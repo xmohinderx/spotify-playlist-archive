@@ -4,7 +4,7 @@
 
 > Håll det 100.
 
-509 songs - 22 hr 52 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
+510 songs - 22 hr 55 min - [published](https://open.spotify.com/playlist/1YkCPMAEafAvzqDRhr0Ocd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,7 +106,7 @@
 | [Chiquita](https://open.spotify.com/track/1Xjrr6nyl3Hzs7gZWUqGWG) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [Chiquita](https://open.spotify.com/album/6F7B5drT7HbTj1zrbSx4In) | 2:04 | 2022-05-20 | 2022-06-22 |
 | [CHIRAQ](https://open.spotify.com/track/0T4f6dxUx19Ij66XXJlYsP) | [SINAN](https://open.spotify.com/artist/3pvc2tagjnl9pGIi6BBfIS) | [CHIRAQ](https://open.spotify.com/album/5Ib80QIraXfyVkBygUfRj2) | 2:12 | 2021-12-16 | 2022-01-05 |
 | [Cirkel](https://open.spotify.com/track/7joU4tyNjJr0QUqAXQVkAX) | [Steph K](https://open.spotify.com/artist/4vmK9BYZz3j7jEWiHQJU6G) | [Cirkel](https://open.spotify.com/album/3X5YvPFQsyFmi6c6JxmQKw) | 2:23 | 2022-01-13 | 2022-02-04 |
-| [City](https://open.spotify.com/track/6fAUEo8PA6XrfZkU0pfnmK) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [City](https://open.spotify.com/album/5lgINLDSMBBIKqrSHDWYYq) | 2:22 | 2022-06-09 |  |
+| [City](https://open.spotify.com/track/6fAUEo8PA6XrfZkU0pfnmK) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [takenoelz](https://open.spotify.com/artist/16U51AjPH40zvPxDA8FjVT) | [City](https://open.spotify.com/album/5lgINLDSMBBIKqrSHDWYYq) | 2:22 | 2022-06-09 | 2022-08-16 |
 | [City \(feat\. A36\)](https://open.spotify.com/track/3o3L7pnXxyytOVPYJOm93W) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [City \(feat\. A36\)](https://open.spotify.com/album/1q1NTZmXxIkRSpH8y59Dy8) | 2:36 | 2022-04-07 | 2022-04-15 |
 | [Click Click Bang](https://open.spotify.com/track/3WUwiY32LFzlUoHXJrJWun) | [JEROME](https://open.spotify.com/artist/0gTkgbcvgLvUmoQhHKLE9B) | [MUTANT](https://open.spotify.com/album/2bdsmvlMY2eBdcxdHm9mD8) | 2:06 | 2022-06-09 | 2022-06-17 |
 | [Co co co co](https://open.spotify.com/track/0qQMy60bBgVqwInOTRuWfJ) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [Co co co co](https://open.spotify.com/album/1KHoZqSE8CaFq84pAxmAtM) | 2:38 | 2022-06-23 |  |
@@ -180,6 +180,7 @@
 | [GANGSHIT](https://open.spotify.com/track/05D3jh8aVFZUlPbx4mklmb) | [Rami](https://open.spotify.com/artist/1iAQ8OLfuXk1oOhZWUkvOR), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [GANGSHIT](https://open.spotify.com/album/4zJTchJtdb10QwXkeLpEvJ) | 1:51 | 2022-02-25 | 2022-04-29 |
 | [GASA](https://open.spotify.com/track/799ixSjmA6VzLFYMulJism) | [BABY MALA](https://open.spotify.com/artist/1JkJKyvOzlac6pPlHO8LUl) | [GASA](https://open.spotify.com/album/00735GXhLT8zQUWsyjY6IH) | 2:41 | 2022-02-25 | 2022-03-26 |
 | [Gatubarn](https://open.spotify.com/track/5Pr2zJZEXPE7PIMxsAiJfG) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU) | [Gatubarn](https://open.spotify.com/album/0NQS4zxWeOOCHzBiNJ6VdZ) | 3:04 | 2022-05-26 | 2022-06-17 |
+| [Gatubarnen](https://open.spotify.com/track/6W7QLX5jOhFYbueY9cYpxw) | [Jojo](https://open.spotify.com/artist/6VUBQzpUwDxhMeNs6wk88S) | [Gatubarnen](https://open.spotify.com/album/1J432uc4KGdZdKBKUA2ykm) | 2:44 | 2022-08-15 |  |
 | [Gelatin](https://open.spotify.com/track/1wOay2szDcifnT9fQOB1rL) | [Talé](https://open.spotify.com/artist/0lP9Mb11BH9rnSrFwf5x7f) | [Gelatin](https://open.spotify.com/album/0CvzVONcVBwmMV6mOS0HrG) | 3:00 | 2022-03-10 | 2022-03-25 |
 | [GET THE POINT](https://open.spotify.com/track/3CgP1CxtvZgIYomCNuP5jG) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [GET THE POINT](https://open.spotify.com/album/648H90bGSGPjRsxshE3AOx) | 2:58 | 2022-05-12 | 2022-08-12 |
 | [Go](https://open.spotify.com/track/4pfbgKqJhmEdS2c4m1P4XI) | [Sickan](https://open.spotify.com/artist/4Hyy3uZ9Y3RyNQKSBOdNFl) | [Go](https://open.spotify.com/album/3kKGQwZiuURqq8d4eNkPHV) | 2:14 | 2022-06-30 |  |

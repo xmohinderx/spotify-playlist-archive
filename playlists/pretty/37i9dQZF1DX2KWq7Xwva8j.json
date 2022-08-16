@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDYzZmFjYjZmY2EyM2QzNWE1MWI5MTRiOTYxMTBmZGUx",
+  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDZhM2IzZmMxY2MxOWVhMzBlMWE1MTgxYTc1NzYyMjRl",
   "tracks": [
     {
       "added_at": "2022-07-28 22:43:36",
@@ -183,22 +183,18 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Por Encima Del Dinero",
-        "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
+        "name": "Angelina",
+        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
       },
       "artists": [
         {
-          "name": "Cano",
-          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
-        },
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+          "name": "Cyril Kamer",
+          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
         }
       ],
-      "duration_ms": 134117,
-      "name": "Por Encima Del Dinero",
-      "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
+      "duration_ms": 166213,
+      "name": "Angelina",
+      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -235,38 +231,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "La Culpable",
-        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
+        "name": "Por Encima Del Dinero",
+        "url": "https://open.spotify.com/album/66iGloWgw25I54sLlRNEUf"
       },
       "artists": [
         {
-          "name": "Camin",
-          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+          "name": "Cano",
+          "url": "https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS"
         },
         {
-          "name": "David Marley",
-          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
         }
       ],
-      "duration_ms": 197052,
-      "name": "La Culpable",
-      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Angelina",
-        "url": "https://open.spotify.com/album/44JFYpj25UIPlZ7Ez0U3rX"
-      },
-      "artists": [
-        {
-          "name": "Cyril Kamer",
-          "url": "https://open.spotify.com/artist/3J1MhhyXLJRNRZVrx11Lbf"
-        }
-      ],
-      "duration_ms": 166213,
-      "name": "Angelina",
-      "url": "https://open.spotify.com/track/6FveHRXs0gcTE9GzFjnq6R"
+      "duration_ms": 134117,
+      "name": "Por Encima Del Dinero",
+      "url": "https://open.spotify.com/track/3yaO2ownmk75ykFH6wOPMc"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -287,6 +267,26 @@
       "duration_ms": 198000,
       "name": "Me lo kiero imaginar",
       "url": "https://open.spotify.com/track/155nd0V88H2vMmRXiXsaS9"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "La Culpable",
+        "url": "https://open.spotify.com/album/2Y6N9ppYwNo0abI6HYplWp"
+      },
+      "artists": [
+        {
+          "name": "Camin",
+          "url": "https://open.spotify.com/artist/3qndygm4Vx7bEW8tNyDKSY"
+        },
+        {
+          "name": "David Marley",
+          "url": "https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA"
+        }
+      ],
+      "duration_ms": 197052,
+      "name": "La Culpable",
+      "url": "https://open.spotify.com/track/4eFP7SuZV8imjCMWQIKRnU"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "cuando anochece",
+        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
+      },
+      "artists": [
+        {
+          "name": "Gala Nell",
+          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
+        }
+      ],
+      "duration_ms": 185553,
+      "name": "cuando anochece",
+      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "Estaba Claro",
         "url": "https://open.spotify.com/album/5m0uBpLcelWpmifp4LteUu"
       },
@@ -347,38 +363,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "cuando anochece",
-        "url": "https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH"
-      },
-      "artists": [
-        {
-          "name": "Gala Nell",
-          "url": "https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY"
-        }
-      ],
-      "duration_ms": 185553,
-      "name": "cuando anochece",
-      "url": "https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "me gustas mas que un bigmac",
-        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
-      },
-      "artists": [
-        {
-          "name": "Mafalda",
-          "url": "https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt"
-        }
-      ],
-      "duration_ms": 199537,
-      "name": "me gustas mas que un bigmac",
-      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "Lo Que No Te Cuentan",
         "url": "https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 141800,
       "name": "C\u00f3mo Me Voy A Olvidar",
       "url": "https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Piedad",
-        "url": "https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf"
-      },
-      "artists": [
-        {
-          "name": "Nickzzy",
-          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
-        }
-      ],
-      "duration_ms": 125390,
-      "name": "Piedad",
-      "url": "https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -427,6 +395,38 @@
       "duration_ms": 184152,
       "name": "3 AMIGAS TUYAS",
       "url": "https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "me gustas mas que un bigmac",
+        "url": "https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq"
+      },
+      "artists": [
+        {
+          "name": "Mafalda",
+          "url": "https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt"
+        }
+      ],
+      "duration_ms": 199537,
+      "name": "me gustas mas que un bigmac",
+      "url": "https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "Piedad",
+        "url": "https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf"
+      },
+      "artists": [
+        {
+          "name": "Nickzzy",
+          "url": "https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki"
+        }
+      ],
+      "duration_ms": 125390,
+      "name": "Piedad",
+      "url": "https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "un poco s\u00ed...",
-        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 179076,
-      "name": "un poco s\u00ed...",
-      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "La Lluvia",
         "url": "https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 154285,
       "name": "La Lluvia",
       "url": "https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "un poco s\u00ed...",
+        "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "duration_ms": 179076,
+      "name": "un poco s\u00ed...",
+      "url": "https://open.spotify.com/track/4kQqIsLQk19AIeuGdIeibl"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "100tas",
-        "url": "https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 148571,
-      "name": "100tas",
-      "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "De Cero",
         "url": "https://open.spotify.com/album/2wWpHMRFRLT2pYTqL8wcoJ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 171206,
       "name": "DESPREVEN\u00cdA",
       "url": "https://open.spotify.com/track/117jw2atHZ6kEseFXT627b"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "100tas",
+        "url": "https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W"
+      },
+      "artists": [
+        {
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
+        }
+      ],
+      "duration_ms": 148571,
+      "name": "100tas",
+      "url": "https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK"
     },
     {
       "added_at": "2022-07-28 22:43:36",

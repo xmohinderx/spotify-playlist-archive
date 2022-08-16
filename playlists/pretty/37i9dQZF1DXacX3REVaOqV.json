@@ -1,12 +1,12 @@
 {
   "description": "The best in house music",
-  "num_followers": 132455,
+  "num_followers": 132601,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMGJmNzk4ZTI4OTI3OTViZjk4NjQxOTRhMWM3MTRkZDg5",
+  "snapshot_id": "MTY1OTAzMjYwMCwwMDAwMDAwMGY1NjViZTUxYmZhOWY3ZDg2MDlkMjI0MzFhOTAxZWZk",
   "tracks": [
     {
       "added_at": "2022-07-28 18:23:20",
@@ -2647,26 +2647,6 @@
     {
       "added_at": "2022-07-28 18:23:20",
       "album": {
-        "name": "R U",
-        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
-      },
-      "artists": [
-        {
-          "name": "ATFC",
-          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
-        },
-        {
-          "name": "Gene Farris",
-          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
-        }
-      ],
-      "duration_ms": 214285,
-      "name": "R U",
-      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
-    },
-    {
-      "added_at": "2022-07-28 18:23:20",
-      "album": {
         "name": "Envision Remixes",
         "url": "https://open.spotify.com/album/6h5GzvE8M453rbfa8NKjwK"
       },
@@ -2723,6 +2703,26 @@
       "duration_ms": 281628,
       "name": "Savane Colour",
       "url": "https://open.spotify.com/track/5G21xDksGi4bc2Nfh4QvQW"
+    },
+    {
+      "added_at": "2022-07-28 18:23:20",
+      "album": {
+        "name": "R U",
+        "url": "https://open.spotify.com/album/2FYERtgM9kZqwShxZyHY5E"
+      },
+      "artists": [
+        {
+          "name": "ATFC",
+          "url": "https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs"
+        },
+        {
+          "name": "Gene Farris",
+          "url": "https://open.spotify.com/artist/49qOEODA3n8HiVUY4uwJbU"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "R U",
+      "url": "https://open.spotify.com/track/0YOgkVf88IfKjV5dbEnK15"
     },
     {
       "added_at": "2022-07-28 18:23:20",

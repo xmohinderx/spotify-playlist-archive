@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-425 songs - 19 hr 53 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+426 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -390,7 +390,7 @@
 | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3RceLAxBxCr8HihEVC24K9) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Too Hot \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/5tnkjUMLG42rKiRuvcllIp) | 3:36 | 2022-01-14 | 2022-05-28 |
 | [Toolie](https://open.spotify.com/track/05KKOI0SXutMpliFutgwOx) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Toolie](https://open.spotify.com/album/3ikkmlZKMLbi0JCPzRysJN) | 2:17 | 2021-10-29 | 2022-03-18 |
 | [Top Of The Key](https://open.spotify.com/track/3Xm5vrj7mIjXlnYavul1FV) | [Band Gang Masoe](https://open.spotify.com/artist/2gLPsLWmFGGtoKLTK3I3hB) | [Top Of The Key](https://open.spotify.com/album/0HQ1PqDqIHrwCnOoPiHPNT) | 2:25 | 2022-02-25 | 2022-06-11 |
-| [TOUGH SKIN](https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TOUGH SKIN](https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa) | 2:48 | 2022-08-12 |  |
+| [TOUGH SKIN](https://open.spotify.com/track/1KYxtEzzTOVHceP30W0QV7) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [TOUGH SKIN](https://open.spotify.com/album/0hbJNPVO0hMzpJcIf5lioa) | 2:48 | 2022-08-12 | 2022-08-16 |
 | [Trap God \(feat\. Gucci Mane\)](https://open.spotify.com/track/7o8roffebrizAsv0m0IetL) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Trap God \(feat\. Gucci Mane\)](https://open.spotify.com/album/6GRcZgVUWALGxdPQ5ENi27) | 2:32 | 2021-09-24 | 2022-03-05 |
 | [Trap Out Da Spot](https://open.spotify.com/track/3Gghq6fyVejQyvgnIQXGWo) | [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3), [Big Scarr](https://open.spotify.com/artist/579LsvZcRVKtToYjS0tkKz) | [Welcome To The Trap](https://open.spotify.com/album/0YtTlvxkbtWjmtGA5trfXQ) | 2:50 | 2022-01-14 | 2022-02-05 |
 | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/track/5dp9Sa9oF4joM4t0P2EGlh) | [BiC Fizzle](https://open.spotify.com/artist/55zZKMiLQNwu6unkKc8J4y), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Cootie](https://open.spotify.com/artist/7ECp9Ab69X334S1fo7jAp3) | [TrapMania \(feat\. Gucci Mane & Cootie\)](https://open.spotify.com/album/6CvqKeNcZzGoQIlrXet714) | 2:27 | 2021-09-03 | 2022-01-15 |
@@ -409,6 +409,7 @@
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-02-25 | 2022-03-26 |
 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 | 2022-03-25 | 2022-04-09 |
 | [Waddup \(feat\. Polo G\)](https://open.spotify.com/track/5teSgJfTCFK0ngDASJb99U) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Waddup \(feat\. Polo G\)](https://open.spotify.com/album/5n7rq7SXw2F014wwX6DlW9) | 3:01 | 2022-04-04 | 2022-05-28 |
+| [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-08-15 |  |
 | [Walk Em](https://open.spotify.com/track/7Fb1CXeHkU4axxhebmT7Io) | [26ar](https://open.spotify.com/artist/5Juzk12OF6455izbnUr10x) | [Walk Em](https://open.spotify.com/album/5SAkuoaJVtQkzNCeA7EN8L) | 2:01 | 2022-07-29 |  |
 | [Wannabe](https://open.spotify.com/track/0NE9DfkcMzoi7fdFaMGhVE) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Big Stepper](https://open.spotify.com/album/7lxkSTanJ7WJ7dilJ9QXEp) | 2:15 | 2022-07-08 | 2022-08-13 |
 | [War \(with Hunxho & Lil Darius\)](https://open.spotify.com/track/2NO9monMXdXurn8SwUjMhe) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br), [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn) | [War \(with Hunxho & Lil Darius\)](https://open.spotify.com/album/1Qdcwr6IyyTR3FkGG420zy) | 2:30 | 2022-07-29 | 2022-08-06 |

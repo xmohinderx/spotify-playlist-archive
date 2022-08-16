@@ -1,12 +1,12 @@
 {
   "description": "Mental strength begins here\u2014Dwayne Johnson\u2019s Iron Paradise Tour.",
-  "num_followers": 416833,
+  "num_followers": 416788,
   "original_name": "Dwayne Johnson's Iron Paradise Tour Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MTIzNTI1NywwMDAwMDAwMGFjOTZkNTg4NDJhNmYwMzA0ZjIwNGI0M2Y5YmY0ZWVh",
+  "snapshot_id": "MTY0MTIzNTI1NywwMDAwMDAwMGMwMzU4MTE0NDI2MjJiNWM4NzAwZjI4YTBmNzBmOTkz",
   "tracks": [
     {
       "added_at": "2021-10-08 18:13:49",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-05-06 04:31:31",
       "album": {
-        "name": "Evil Empire",
-        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
-      },
-      "artists": [
-        {
-          "name": "Rage Against The Machine",
-          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "Bulls On Parade",
-      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
-    },
-    {
-      "added_at": "2021-05-06 04:31:31",
-      "album": {
         "name": "The Gereg",
         "url": "https://open.spotify.com/album/6YIA45KnCATXRzPFOeA9S8"
       },
@@ -239,22 +223,6 @@
     {
       "added_at": "2021-05-06 04:31:31",
       "album": {
-        "name": "Tres Hombres (Expanded 2006 Remaster)",
-        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 210253,
-      "name": "Jesus Just Left Chicago - 2006 Remaster",
-      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
-    },
-    {
-      "added_at": "2021-05-06 04:31:31",
-      "album": {
         "name": "The Essential Stevie Ray Vaughan And Double Trouble",
         "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
@@ -267,6 +235,38 @@
       "duration_ms": 147200,
       "name": "Life by the Drop",
       "url": "https://open.spotify.com/track/4baw6m9OhZ1W8fPqWinZ3L"
+    },
+    {
+      "added_at": "2021-05-06 04:31:31",
+      "album": {
+        "name": "Evil Empire",
+        "url": "https://open.spotify.com/album/24E6rDvGDuYFjlGewp4ntF"
+      },
+      "artists": [
+        {
+          "name": "Rage Against The Machine",
+          "url": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "Bulls On Parade",
+      "url": "https://open.spotify.com/track/0tZ3mElWcr74OOhKEiNz1x"
+    },
+    {
+      "added_at": "2021-05-06 04:31:31",
+      "album": {
+        "name": "Tres Hombres (Expanded 2006 Remaster)",
+        "url": "https://open.spotify.com/album/0Em8m9kRctyH9S3MTXAHvY"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 210253,
+      "name": "Jesus Just Left Chicago - 2006 Remaster",
+      "url": "https://open.spotify.com/track/4tYjuquiKvx2Pq6usRTVWB"
     },
     {
       "added_at": "2021-05-06 04:31:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 
 > Classic songs like you've never heard before\. Cover: Shawn Mendes, Maddie & Tae, and John Legend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,321 likes - 115 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,315 likes - 115 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,11 +96,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 86 | [Sugar Man](https://open.spotify.com/track/1kteLmpKLQsLDy3h8V9aOX) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas \(Expanded Deluxe Edition\)](https://open.spotify.com/album/3dgyglN3wrQu131OIjkdh7) | 4:21 |
 | 87 | [Elvira \(feat\. The Oak Ridge Boys\) \- Recorded at Sound Stage Nashville](https://open.spotify.com/track/4XmLGH5lm3ofjbtZTI5dAm) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Spotify Singles](https://open.spotify.com/album/3G8anIKFdjaKHRGKUWESgY) | 3:33 |
 | 88 | [home/i want your love \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0Abdq8INymRlkYbgM9QnGe) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Spotify Singles](https://open.spotify.com/album/75bOa6MJhVgz1uzcZBUNhf) | 10:22 |
-| 89 | [No Expectations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/700jM06irgccsWBuP927pp) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8) | 4:12 |
-| 90 | [Be Kind To Me \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6jcPLlygnVZ4ZUfinbtVIn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Spotify Singles](https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB) | 3:17 |
-| 91 | [Walk Like An Egyptian](https://open.spotify.com/track/3HQKw5cvjH63e6fW2zeIcy) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:23 |
-| 92 | [IN THE END – Spotify Singles](https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [IN THE END – Spotify Singles](https://open.spotify.com/album/3ApfbSxxo8U8VGKQa0zVKi) | 3:33 |
-| 93 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 |
+| 89 | [Maps \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Spotify Singles \(Recorded At Spotify Studios NYC\)](https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY) | 3:24 |
+| 90 | [No Expectations \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/700jM06irgccsWBuP927pp) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Spotify Singles](https://open.spotify.com/album/2WYaBZWo157sNWHyKpXai8) | 4:12 |
+| 91 | [Be Kind To Me \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/6jcPLlygnVZ4ZUfinbtVIn) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy) | [Spotify Singles](https://open.spotify.com/album/0ARP1Ym2dGVPYACPJV52CB) | 3:17 |
+| 92 | [Walk Like An Egyptian](https://open.spotify.com/track/3HQKw5cvjH63e6fW2zeIcy) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Spotify Singles](https://open.spotify.com/album/1GtYk8YLg1YFHUf9g3AqT1) | 2:23 |
+| 93 | [IN THE END – Spotify Singles](https://open.spotify.com/track/43EOHZN9EnvsYuBIOj1T38) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [IN THE END – Spotify Singles](https://open.spotify.com/album/3ApfbSxxo8U8VGKQa0zVKi) | 3:33 |
 | 94 | [Yesterday \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/55BnnFc5P6bpgsZtzPXahA) | [Guordan Banks](https://open.spotify.com/artist/4lwPGsAG5qnfn1JOtESnYZ) | [Spotify Singles](https://open.spotify.com/album/1IUpkbo5AN4rZqzyPppbg7) | 4:07 |
 | 95 | [Song To The Siren \- Recorded at Spotify Studios London](https://open.spotify.com/track/5TVGGJZ1qxCBquTF2OUD3H) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Spotify Singles](https://open.spotify.com/album/5G3oIEkrH07sffZrAEJwGN) | 3:31 |
 | 96 | [Lovesong \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T) | [Welles](https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l) | [Spotify Singles](https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P) | 4:11 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4nb8GbLLOhT.md) - [plain]
 | 114 | [Everybody Wants To Be Famous \- Recorded at RAK Studios, London](https://open.spotify.com/track/2cfvcnasI4AbplUmYXTyjP) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 3:18 |
 | 115 | [Stolen Car \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/3HpVHymskHasjzZ13OdNPo) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Spotify Singles](https://open.spotify.com/album/032NDbaKcxfTZK6iz7wwPu) | 3:43 |
 
-Snapshot ID: `MTY1NTg0OTM2NSwwMDAwMDAwMDgwNjJhMmYzMzU2MDc1MDBhZTdhYjExZWU2OTIwZWQy`
+Snapshot ID: `MTY1NTg0OTM2NSwwMDAwMDAwMDNiMTg3ZjI3Yjk0ZDllNzBmNDNmYmY4NWYyOTdkNjMz`

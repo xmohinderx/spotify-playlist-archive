@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 
 > Spend some quality time with these romantic classical masterpieces.
 
-[Spotify](https://open.spotify.com/user/spotify) - 395,277 likes - 44 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 395,381 likes - 44 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4s3V2rTswzO.md) - [plain]
 | 43 | [String Quartet No\. 3, Op\. 44 No\. 1, MWV R30: II\. Menuetto\. Up poco allegretto](https://open.spotify.com/track/6tOJ0ShJiEx6XXUQ0NgbYj) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Doric String Quartet](https://open.spotify.com/artist/5eY6Yc7jVMpdIXgUI2spLr) | [Mendelssohn: String Quartets, Vol\. 2](https://open.spotify.com/album/0bCanBuTghKVuMhttLQZca) | 5:10 |
 | 44 | [Concerto grosso in G Minor, Op\. 6, No\. 8, "Fatto per la Notte di Natale": III\. Adagio \- Allegro \- Adagio](https://open.spotify.com/track/17gz8bmRy8HDUf6AZBnD5K) | [Arcangelo Corelli](https://open.spotify.com/artist/5dmMpIyAVaH6b9FLFgWPrF), [The English Concert](https://open.spotify.com/artist/2Oz3z7PPQUMU2KNYgcO1sA), [Trevor Pinnock](https://open.spotify.com/artist/25mbgceDJKxXGP8c5FmC83) | [Corelli: 6 Concertos Grosso Op.6](https://open.spotify.com/album/4IupMV6JRTh73Yww4prege) | 3:18 |
 
-Snapshot ID: `MTY1NzcyMzkyMSwwMDAwMDAwMDQ0ZWM0MDZjNDA3ZTY0NjNkNmIyN2M1ZjM2MzExYTBi`
+Snapshot ID: `MTY2MDU1OTA2NCwwMDAwMDAwMDBiMWRmOTFlMjM1ZDg3MmEzZTdjOTdlNDY0NTNiNmMw`

@@ -1,12 +1,12 @@
 {
   "description": "Electronic music with Mediterranean and Eastern influences.",
-  "num_followers": 196930,
+  "num_followers": 197179,
   "original_name": "mosaic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyOTcxOCwwMDAwMDAwMDkzNjMyYzEyNDBhOGFiYWI0MzA0NGNlZjBmOTc5OTZj",
+  "snapshot_id": "MTY1OTYyOTcxOCwwMDAwMDAwMDExNWUzMWViYTlmMTdiYjc5MWY4MWJmMzEzOTY3Mzc3",
   "tracks": [
     {
       "added_at": "2022-06-27 09:14:06",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
-        "name": "Give a Little",
-        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
-        },
-        {
-          "name": "Naila",
-          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
-        }
-      ],
-      "duration_ms": 234838,
-      "name": "Give a Little",
-      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
         "name": "Overdose (Sait Esmeray Remix)",
         "url": "https://open.spotify.com/album/1IhXKGtdrHwt4hdRh3G3sq"
       },
@@ -259,6 +239,26 @@
       "duration_ms": 200950,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/1ZcDRpVhC472Mziwkugu82"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Give a Little",
+        "url": "https://open.spotify.com/album/1rM8HkFzG6lzCWmB3ZHP9b"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Naila",
+          "url": "https://open.spotify.com/artist/7vwmGnGMM1UsrIz3vEfNz0"
+        }
+      ],
+      "duration_ms": 234838,
+      "name": "Give a Little",
+      "url": "https://open.spotify.com/track/5TjdmkuqqjkyIIVuDqyFPE"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -803,6 +803,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
+      },
+      "artists": [
+        {
+          "name": "Recham",
+          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
+        }
+      ],
+      "duration_ms": 172000,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Will You Stay (feat. Georgia Alexandra) [Rivo Remix]",
         "url": "https://open.spotify.com/album/4nmUacLVvnSw4xO5e2bMgT"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 200000,
       "name": "Cry",
       "url": "https://open.spotify.com/track/0dNzSDc24MGkN9sDim1d7b"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/5MLe08ARj0m3I2cIOADFPR"
-      },
-      "artists": [
-        {
-          "name": "Recham",
-          "url": "https://open.spotify.com/artist/6VG3lHIxKKA5xsVmxLHRfP"
-        }
-      ],
-      "duration_ms": 172000,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/2kHThfsaP12zxe136zAkmU"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Roots LP",
+        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
+      },
+      "artists": [
+        {
+          "name": "Mr. ID",
+          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
+        }
+      ],
+      "duration_ms": 178153,
+      "name": "Roots",
+      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/2pdsZI9LOKyZMROMEFQ3qb"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 152555,
       "name": "Closer",
       "url": "https://open.spotify.com/track/1HzpCS56kzpWGLPmZif0gT"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Roots LP",
-        "url": "https://open.spotify.com/album/4LpDKNBhUxXstCFvEieOcR"
-      },
-      "artists": [
-        {
-          "name": "Mr. ID",
-          "url": "https://open.spotify.com/artist/4Bv3GYUzNM11yYGQslJOkp"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "Roots",
-      "url": "https://open.spotify.com/track/4jK03yPAqhrh2juS3IgE0i"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1699,26 +1699,6 @@
       "duration_ms": 186184,
       "name": "Mazrub",
       "url": "https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Lane Moje",
-        "url": "https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9"
-      },
-      "artists": [
-        {
-          "name": "DJ Dark",
-          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
-        },
-        {
-          "name": "Dj Iljano",
-          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Lane Moje - Radio Edit",
-      "url": "https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -1791,6 +1771,26 @@
       "duration_ms": 276299,
       "name": "Shibren - El B\u00faho Remix",
       "url": "https://open.spotify.com/track/7ieZnG0KXZvhleSzWDxoyP"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
+        "name": "Lane Moje",
+        "url": "https://open.spotify.com/album/64OH2dv82ka6VT4PBH48S9"
+      },
+      "artists": [
+        {
+          "name": "DJ Dark",
+          "url": "https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn"
+        },
+        {
+          "name": "Dj Iljano",
+          "url": "https://open.spotify.com/artist/7e1qaOeopeICYAXL2UwzYd"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Lane Moje - Radio Edit",
+      "url": "https://open.spotify.com/track/4At2bL7YpuWUQrRKZ6J1aO"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2195,6 +2195,26 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Oud Trip",
+        "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        },
+        {
+          "name": "DJ A Ego",
+          "url": "https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9"
+        }
+      ],
+      "duration_ms": 272901,
+      "name": "Oud Trip",
+      "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Cafe De Anatolia - Oriental Touch 2 (Compiled by Billy Esteban) [DJ Mix]",
         "url": "https://open.spotify.com/album/6B5q4QqueqjRRjGIou3IDP"
       },
@@ -2223,26 +2243,6 @@
       "duration_ms": 169449,
       "name": "Dreams",
       "url": "https://open.spotify.com/track/1Gig83Hs2CSExBM38e8YxC"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Oud Trip",
-        "url": "https://open.spotify.com/album/0qRyiW70lv94IX4QnN5DiF"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        },
-        {
-          "name": "DJ A Ego",
-          "url": "https://open.spotify.com/artist/6sgGeuWDu3L5HGx3IqHMo9"
-        }
-      ],
-      "duration_ms": 272901,
-      "name": "Oud Trip",
-      "url": "https://open.spotify.com/track/2yupOL6pOomp8KvTHA1dwg"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2351,6 +2351,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Arabian Soul",
+        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
+      },
+      "artists": [
+        {
+          "name": "DJ Oscar Sharm",
+          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
+        }
+      ],
+      "duration_ms": 312125,
+      "name": "Arabian Soul",
+      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Angelic",
         "url": "https://open.spotify.com/album/7r880xGu2aoZTb3S7gk4a3"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 681500,
       "name": "Khayyam",
       "url": "https://open.spotify.com/track/5XOYEJ3qSGxbZvRQEQVOYn"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Arabian Soul",
-        "url": "https://open.spotify.com/album/3UZabin8ielzRfA8A7UZx9"
-      },
-      "artists": [
-        {
-          "name": "DJ Oscar Sharm",
-          "url": "https://open.spotify.com/artist/5A1daDDPvGd67LVKCYXCXJ"
-        }
-      ],
-      "duration_ms": 312125,
-      "name": "Arabian Soul",
-      "url": "https://open.spotify.com/track/4Mmaa0o0jcxDW2HaJK2iS4"
     },
     {
       "added_at": "2022-06-27 09:14:06",
@@ -2699,6 +2699,22 @@
     {
       "added_at": "2022-06-27 09:14:06",
       "album": {
+        "name": "Be Mine",
+        "url": "https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe"
+      },
+      "artists": [
+        {
+          "name": "Faylasuf",
+          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
+        }
+      ],
+      "duration_ms": 210859,
+      "name": "Be Mine",
+      "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
+    },
+    {
+      "added_at": "2022-06-27 09:14:06",
+      "album": {
         "name": "Samra",
         "url": "https://open.spotify.com/album/5HaoXHdgwETKnYVCjAHpMl"
       },
@@ -2763,22 +2779,6 @@
       "duration_ms": 411806,
       "name": "Zamen - Amine K Remix",
       "url": "https://open.spotify.com/track/3z9c90mEZypec8OYZGCAdr"
-    },
-    {
-      "added_at": "2022-06-27 09:14:06",
-      "album": {
-        "name": "Be Mine",
-        "url": "https://open.spotify.com/album/7jck7DC8ZctWNSGVSK0TVe"
-      },
-      "artists": [
-        {
-          "name": "Faylasuf",
-          "url": "https://open.spotify.com/artist/62pD2B6fmRXxLqZYAyvK74"
-        }
-      ],
-      "duration_ms": 210859,
-      "name": "Be Mine",
-      "url": "https://open.spotify.com/track/28RzIrtkutKpSVm6SrjRLt"
     },
     {
       "added_at": "2022-06-27 09:14:06",

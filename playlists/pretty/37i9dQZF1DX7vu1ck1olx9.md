@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 
 > Cool down with these chill beats
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,254 likes - 82 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,291 likes - 82 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,10 +44,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 34 | [blueberry](https://open.spotify.com/track/4yMZBub2nvvB75dKx6W259) | [\[bsd.u\]](https://open.spotify.com/artist/3m1IaEwT7D9hFKOfpz5VHk) | [late night bumps, Vol\. 4](https://open.spotify.com/album/6F4qw9nq5wORLwe729uJkG) | 1:56 |
 | 35 | [Motor City 17](https://open.spotify.com/track/3edrFaXc7OHQoLU22n4ThT) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Motor City](https://open.spotify.com/album/0v9TomxoVagPyvVNGhDbyB) | 2:12 |
 | 36 | [Memories](https://open.spotify.com/track/4yAeHq13tReDL6rM6dbTc3) | [The BREED](https://open.spotify.com/artist/5Xl8d6HbzkkwWmSQSOsv7k), [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10) | [Memories](https://open.spotify.com/album/5ai7eCCSVhagmLwUAWCObs) | 2:33 |
-| 37 | [Tulips](https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Tulips](https://open.spotify.com/album/4TNMXIUpfPNY7vqfsO3foA) | 3:01 |
-| 38 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 |
-| 39 | [night walk](https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:09 |
-| 40 | [3 Am](https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY) | [3 Am](https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm) | 2:04 |
+| 37 | [Nightcrawler](https://open.spotify.com/track/6D3YkHy51Mn7Ijdiz9WaIP) | [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [Nightcrawler](https://open.spotify.com/album/79ogVC2RRrdipDKIXNf8zt) | 3:45 |
+| 38 | [night walk](https://open.spotify.com/track/12Q21aqqo0oggpqlkP0nOt) | [Nymano](https://open.spotify.com/artist/3BoSEarTgKiw8sHE0ixJNK), [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Chillhop Essentials Winter 2017](https://open.spotify.com/album/0Gec7sa8MPlj5cW9JbqwEl) | 3:09 |
+| 39 | [3 Am](https://open.spotify.com/track/5LwxaewIXhdkWL0EDncFwY) | [Oui Lele](https://open.spotify.com/artist/3tbv8PcwIqfWdsgdGcWgdY) | [3 Am](https://open.spotify.com/album/69ea67ITA5EgIJPeF6qMVm) | 2:04 |
+| 40 | [Tulips](https://open.spotify.com/track/4GSPOPaOAMtkmIHgT6SZgL) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Ian Ewing](https://open.spotify.com/artist/6QrRSfwkZsixVIgDRhpToh) | [Tulips](https://open.spotify.com/album/4TNMXIUpfPNY7vqfsO3foA) | 3:01 |
 | 41 | [I Thought I Had You](https://open.spotify.com/track/62SSYJZ70LM4WjPfZZlvQs) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz) | [I Thought I Had You](https://open.spotify.com/album/6jnb7B0JuOKgFqzwg2QZXD) | 2:53 |
 | 42 | [Solstånd](https://open.spotify.com/track/28zf41FR9YbGLN2sXnl0S9) | [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds), [K, Le Maestro](https://open.spotify.com/artist/47e5ouk0xXSflqOEUuuEP7) | [Solstånd](https://open.spotify.com/album/4KoyVhHi6YflFzXwanmrlD) | 2:21 |
 | 43 | [Sandalwood](https://open.spotify.com/track/1mU5tbLwcCYs64FhTTEQ4U) | [J\. Roosevelt](https://open.spotify.com/artist/4kCBBWXeKXtikcTFHiQ2QW) | [Meditations on Silence](https://open.spotify.com/album/5x21oAOWxgh2zIg3ORfAdw) | 2:48 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vu1ck1olx9.md) - [plain]
 | 81 | [Evenfall](https://open.spotify.com/track/00OJTs80tu6DWWkcYJSkFg) | [Slowheal](https://open.spotify.com/artist/6XfzIkZ3Qel4Lvhba67CqC) | [Evenfall](https://open.spotify.com/album/6gWZNNi5YDnUKclfDRY4H0) | 2:32 |
 | 82 | [Honey](https://open.spotify.com/track/3QAyC3lilsgZ2ZyzMHibYN) | [Snaer.](https://open.spotify.com/artist/04piGA2IDgIevAiRL90Gt6) | [Honey](https://open.spotify.com/album/0skX6Q07XnamApCH3oWuAh) | 2:39 |
 
-Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMDQ3MDc1YjY0YzFiM2E4ZDM2ZDE4NjY4NzE1YmE5ZDcx`
+Snapshot ID: `MTY1OTY3MjEyMCwwMDAwMDAwMGQ4NTgzM2U5ZmRhNTZmYmFiNDM5OWY0MDdkNzIwOTdk`

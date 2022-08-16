@@ -2,11 +2,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Imas7RTB6t.md) - [plain]
 
 ### [Amy Wiles' DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DX8Imas7RTB6t)
 
-> The rising star <a href =“spotify:artist:4ztolv1NbTfNxSjS1EgtOX”>Amy Wiles</a>  shares a handpicked selection of Progressive tunes for her latest Spotify mix.
+> The rising star <a href=“spotify:artist:4ztolv1NbTfNxSjS1EgtOX”>Amy Wiles</a>  shares a handpicked selection of Progressive tunes for her latest Spotify mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 319 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `MTY1NTg3ODIyOCwwMDAwMDAwMGQxM2M3NmE5MDAwZmFmZWZjYWUzNzI1MmViMTA1YzIx`
+Snapshot ID: `MTY2MDU4MDI4MywwMDAwMDAwMDRlYjU0YjNmOTE4YmM0OWViYjhjM2Y3Yjk3NGQ4Yjk1`

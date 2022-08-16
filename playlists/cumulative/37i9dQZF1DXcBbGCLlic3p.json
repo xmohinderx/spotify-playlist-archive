@@ -314,6 +314,24 @@
     },
     {
       "album": {
+        "name": "At Day's End",
+        "url": "https://open.spotify.com/album/7L4cEWdKBXbOYzxtP46FVG"
+      },
+      "artists": [
+        {
+          "name": "Rebekah Bolton",
+          "url": "https://open.spotify.com/artist/0W3cyXPYApFajrsJKSAcHQ"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173558,
+      "name": "At Day's End",
+      "url": "https://open.spotify.com/track/0dE4epGWpmb0DB5mCZgN0T"
+    },
+    {
+      "album": {
         "name": "Authentic",
         "url": "https://open.spotify.com/album/1WbSf9I9KYSM8kBqmiYXhX"
       },
@@ -1211,6 +1229,24 @@
       "duration_ms": 210000,
       "name": "Gentle Awakening",
       "url": "https://open.spotify.com/track/0muXOxjvHlY8ZB83N751FC"
+    },
+    {
+      "album": {
+        "name": "Geodesic",
+        "url": "https://open.spotify.com/album/2Fc1VN26UU4Zki3j99CRpR"
+      },
+      "artists": [
+        {
+          "name": "Astral Wonder",
+          "url": "https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173812,
+      "name": "Geodesic",
+      "url": "https://open.spotify.com/track/79XI9zIPk3P4FICY1lC4PQ"
     },
     {
       "album": {

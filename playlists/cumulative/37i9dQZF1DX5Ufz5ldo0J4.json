@@ -3932,6 +3932,24 @@
     },
     {
       "album": {
+        "name": "The Middle Place",
+        "url": "https://open.spotify.com/album/0LWutF5RMyqz4KdRrFMQVE"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213035,
+      "name": "The Middle Place",
+      "url": "https://open.spotify.com/track/58uxtIkCAdEocbL6j8Bn7k"
+    },
+    {
+      "album": {
         "name": "The Miracle",
         "url": "https://open.spotify.com/album/4l0lQO2sdIdPRP2PxIQZhr"
       },
@@ -4375,7 +4393,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-16",
       "duration_ms": 200000,
       "name": "Water Flow",
       "url": "https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj"

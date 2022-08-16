@@ -4,7 +4,7 @@
 
 > The best new indie tracks by independent artists and labels\. Updates every Wednesday\. Cover: The Dare, Artwork: Robin Clifford Ellis
 
-804 songs - 1 day 19 hr 40 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
+805 songs - 1 day 19 hr 42 min - [published](https://open.spotify.com/playlist/7guHIvMo0sEfDGJozxIHmH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [RUNAWAY](https://open.spotify.com/track/6PozrSDNgIWRvm9LM8BB6L) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw) | [RUNAWAY](https://open.spotify.com/album/4m4Ohp8rvOe3YANkKTb40C) | 3:15 | 2022-03-02 | 2022-03-17 |
 | [Runaway](https://open.spotify.com/track/5wUCyGa2P6IWFNhpSXwseu) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE) | [Runaway \(2017\-2021\)](https://open.spotify.com/album/0Cf0V3rmi37sZd72eAQCC2) | 4:56 | 2022-01-12 | 2022-03-17 |
 | [Runaways](https://open.spotify.com/track/4oi3kXCodWzSAFoqPjdtpK) | [Sam Florian](https://open.spotify.com/artist/2Cn7Bt3a2QtoJnX6lkJN8y), [Elsa Carmona](https://open.spotify.com/artist/53giw2tzgMG8eDAmuaxdvR) | [Runaways](https://open.spotify.com/album/7JyLCMKfBmMfwzn397WbWP) | 3:13 | 2022-04-27 | 2022-05-26 |
+| [RUNNING ROUND](https://open.spotify.com/track/0ojklgBmOO9vQ5DyMCuE6P) | [Mercury](https://open.spotify.com/artist/6aIZIwesnYKR6ZN1fIerPZ) | [tabula rasa](https://open.spotify.com/album/2Hq7n6DXelDafa3dX1grZ9) | 2:28 | 2022-08-15 |  |
 | [Rushmore](https://open.spotify.com/track/3yqMNt1hSk4Dv4N13Ho29W) | [ash tuesday](https://open.spotify.com/artist/3kEaS1rKstrWw6Zb9H5vBE) | [Rushmore](https://open.spotify.com/album/5tGPASugTD6gzSVXc8o2h6) | 2:54 | 2022-08-03 |  |
 | [SAD BOI SEX LYFE](https://open.spotify.com/track/68UfnN1zTqzMb5lYWGITtX) | [Love Montage](https://open.spotify.com/artist/4fRb6fmVqRMsm58m4ka4FE) | [SAD BOI SEX LYFE](https://open.spotify.com/album/5lWXCQKHccRwwj1U33ugMp) | 3:18 | 2022-06-08 | 2022-06-30 |
 | [safety](https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk) | [greek](https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY) | [safety](https://open.spotify.com/album/4hIil1T0kwD96mdWyCOaNT) | 3:03 | 2022-08-03 |  |
@@ -639,7 +640,7 @@
 | [Sinatra](https://open.spotify.com/track/1USo158Kncaxfyq9q306dn) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Sinatra](https://open.spotify.com/album/42SZ5XHrfhsZXlto73OZQ0) | 2:36 | 2021-12-01 | 2022-01-13 |
 | [Singing About Something Else](https://open.spotify.com/track/2OWWOUxZsTm645eegpzJO0) | [Function Space](https://open.spotify.com/artist/15nw3Z8V7PYbg4skbozBpG) | [Singing About Something Else](https://open.spotify.com/album/6Zea4NNp0MA95nr35AVZ8Y) | 2:21 | 2022-06-15 | 2022-07-28 |
 | [Sister](https://open.spotify.com/track/1zPWMtCrpd6ppFoAZJSIb9) | [Dorsal Fins](https://open.spotify.com/artist/4EtfwTmKV4RidvzmoM7pL4) | [Sister](https://open.spotify.com/album/4vykL6dZ8n9spAdzEPvn3n) | 4:04 | 2022-03-09 | 2022-04-27 |
-| [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 | 2022-07-27 |  |
+| [Ski Goggles](https://open.spotify.com/track/5zvIkkzyThJniF4xoJhkAJ) | [CHEEYA](https://open.spotify.com/artist/6yFEAMfnclFaaurukvlVqu) | [Ski Goggles](https://open.spotify.com/album/5euW1q7o3akFcGbk3XPU8V) | 2:47 | 2022-07-27 | 2022-08-16 |
 | [SLEEP MANIA](https://open.spotify.com/track/47KDPNdNKqsezS9FUdAwPD) | [sooogood!](https://open.spotify.com/artist/72C5vNpdDKj70D3NU1P5fB) | [SLEEP MANIA](https://open.spotify.com/album/5IeMXMIpV8EeB5dc4FOUOV) | 2:48 | 2022-03-22 | 2022-04-13 |
 | [Sleepwalking](https://open.spotify.com/track/5yQF5Hb7HxOO7QG995WfAd) | [Creature Canyon](https://open.spotify.com/artist/2dNInv9DAqXZhseHpSHbV6) | [Sleepwalking](https://open.spotify.com/album/4b7lHLbaaHy0BkyhKDg85k) | 4:06 | 2022-08-03 |  |
 | [slow love](https://open.spotify.com/track/6FBTEVZ0To0VUUKcQHfjDu) | [neek](https://open.spotify.com/artist/2SMBWRC5ACqTXfhAxkJBjk) | [slow love](https://open.spotify.com/album/6ZVelQ4MzwZtmUterPhrVu) | 3:58 | 2022-05-04 | 2022-06-09 |

@@ -4,7 +4,7 @@
 
 > Take a Louisville slugger to both headlights.
 
-40 songs - 2 hr 21 min - not published yet
+40 songs - 2 hr 21 min - [published](https://open.spotify.com/playlist/6V1kO6Kj9Uv5KcZt8rXg2x)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

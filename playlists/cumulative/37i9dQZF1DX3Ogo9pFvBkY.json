@@ -3608,6 +3608,24 @@
     },
     {
       "album": {
+        "name": "Envisaged",
+        "url": "https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39"
+      },
+      "artists": [
+        {
+          "name": "Elodie Acy",
+          "url": "https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165274,
+      "name": "Envisaged",
+      "url": "https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz"
+    },
+    {
+      "album": {
         "name": "Epiphany",
         "url": "https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7"
       },
@@ -6529,6 +6547,24 @@
       "duration_ms": 165494,
       "name": "Meditative Violin",
       "url": "https://open.spotify.com/track/6mJnhJKcWpe4JjT6YhqsxY"
+    },
+    {
+      "album": {
+        "name": "Meeting Marynae",
+        "url": "https://open.spotify.com/album/5mVoB2U1OVrJvPkybhNzUn"
+      },
+      "artists": [
+        {
+          "name": "Galeine",
+          "url": "https://open.spotify.com/artist/2EZSBMFNvFTUXkyMMtWkCU"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Meeting Marynae",
+      "url": "https://open.spotify.com/track/0IYJ7Thxg7UKODefmWZOXA"
     },
     {
       "album": {

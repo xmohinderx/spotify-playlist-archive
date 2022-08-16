@@ -656,6 +656,24 @@
     },
     {
       "album": {
+        "name": "A Refreshing Dimension",
+        "url": "https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5"
+      },
+      "artists": [
+        {
+          "name": "Seeking Balance",
+          "url": "https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Bring in the Sun",
+      "url": "https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg"
+    },
+    {
+      "album": {
         "name": "Brooding",
         "url": "https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL"
       },

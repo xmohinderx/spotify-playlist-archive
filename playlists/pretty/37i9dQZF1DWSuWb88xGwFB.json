@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 21173,
+  "num_followers": 21186,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGQ3NjVmOWZjNTRmYTUyNzBjOWQzYWYyYWI4YjhlZWI5",
+  "snapshot_id": "MTY0NjMxNTk1NiwwMDAwMDAwMGRiMDIwNDQ2ODc5NWJjMzRmNzA3ZDdkZjllMTNkYWQ0",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -283,26 +283,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
-        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        },
-        {
-          "name": "Darryl D'Bonneau",
-          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
-        }
-      ],
-      "duration_ms": 566026,
-      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
-      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Who Dares To Believe In Me",
         "url": "https://open.spotify.com/album/7l46E4hSynmCmaSnVmXHdT"
       },
@@ -335,6 +315,26 @@
       "duration_ms": 350066,
       "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
       "url": "https://open.spotify.com/track/4f7PglDSAmthAX0iq7E8Mt"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau)",
+        "url": "https://open.spotify.com/album/5LzSyye1btnQ4Jsuknq6S6"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        },
+        {
+          "name": "Darryl D'Bonneau",
+          "url": "https://open.spotify.com/artist/5Y5uAk2EaMYhSsxAyZHlTw"
+        }
+      ],
+      "duration_ms": 566026,
+      "name": "Stop Playing With My Mind (feat. Darryl D'Bonneau) - Whiplash and Turner Vocal Mix",
+      "url": "https://open.spotify.com/track/724JQ1VK39x03Nk4O9a5QU"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -459,22 +459,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Love Thang",
-        "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
-      },
-      "artists": [
-        {
-          "name": "Banji Boys",
-          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
-        }
-      ],
-      "duration_ms": 325350,
-      "name": "Love Thang - Cat Walk Mix",
-      "url": "https://open.spotify.com/track/2AyTUoMOGcRYynqJlZpNjn"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
         "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 595093,
       "name": "Witch Doktor - The Dark Ages Mix",
       "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Love Thang",
+        "url": "https://open.spotify.com/album/1YxLLtZEocLmNNnJok3Kzg"
+      },
+      "artists": [
+        {
+          "name": "Banji Boys",
+          "url": "https://open.spotify.com/artist/3h4cnmNl9WSJpS64ChcVLA"
+        }
+      ],
+      "duration_ms": 325350,
+      "name": "Love Thang - Cat Walk Mix",
+      "url": "https://open.spotify.com/track/2AyTUoMOGcRYynqJlZpNjn"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Carnival 93",
+        "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
+      },
+      "artists": [
+        {
+          "name": "Club Ultimate",
+          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
+        }
+      ],
+      "duration_ms": 374946,
+      "name": "Carnival 93 - The Mardi Gras Mix",
+      "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Master Blaster (Turn It Up)",
         "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
       },
@@ -1115,22 +1131,6 @@
       "duration_ms": 440320,
       "name": "Curious - Vocal Mix",
       "url": "https://open.spotify.com/track/5xybwC1yKukJ5aJAHHogNm"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Carnival 93",
-        "url": "https://open.spotify.com/album/7ygrHHWsypvmxue6qObuAn"
-      },
-      "artists": [
-        {
-          "name": "Club Ultimate",
-          "url": "https://open.spotify.com/artist/6SU9ME8HxPeC8BWYGUPNiK"
-        }
-      ],
-      "duration_ms": 374946,
-      "name": "Carnival 93 - The Mardi Gras Mix",
-      "url": "https://open.spotify.com/track/5QryS1ogshcGh2d3QVRK0u"
     },
     {
       "added_at": "2022-03-03 13:59:16",

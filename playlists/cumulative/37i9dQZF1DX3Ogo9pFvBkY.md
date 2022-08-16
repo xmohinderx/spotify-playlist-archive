@@ -4,7 +4,7 @@
 
 > Relax and unwind with chill, ambient music.
 
-669 songs - 1 day 11 hr 31 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
+671 songs - 1 day 11 hr 37 min - [published](https://open.spotify.com/playlist/4jfP2jJUFCxoSc7UvsCsbj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Energy](https://open.spotify.com/track/5gdW6VVL4UNnqtvGs5yyjJ) | [Matter and Energy](https://open.spotify.com/artist/4nI8wqhtfCFOYX3vvicEN0) | [Matter and Energy](https://open.spotify.com/album/2SPL4RRbxY3iq8hX08TXlm) | 4:11 | 2019-07-27 | 2021-10-13 |
 | [Enlightenment](https://open.spotify.com/track/0lj5JJK4tSCNYtwlA9NcwM) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [After The Rain Has Fallen](https://open.spotify.com/album/3LdOpCpXEIiL6SiLd0tAd8) | 2:51 | 2019-05-26\* | 2021-09-14 |
 | [Envelop](https://open.spotify.com/track/19G0YVohd2WwqZPstS7aIj) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [Infinite Sustain](https://open.spotify.com/album/4bLXZwh88rBBy6bgFFBhVg) | 2:50 | 2019-12-07 | 2020-07-11 |
+| [Envisaged](https://open.spotify.com/track/6HYQtiovqn73vx7miVSUxz) | [Elodie Acy](https://open.spotify.com/artist/2uIT3eIsFOjiwUoDJvNzbD) | [Envisaged](https://open.spotify.com/album/3XpTcC7Q5AXP0gQxGjLB39) | 2:45 | 2022-08-15 |  |
 | [Epiphany](https://open.spotify.com/track/7etqolbqNqTmybDTIN77pt) | [Aari Kumar](https://open.spotify.com/artist/5u8vwlOeUEwxaklbfP6cnG) | [Epiphany](https://open.spotify.com/album/3QhvbpLgFT2pHsxdirqLW7) | 2:52 | 2021-12-21 |  |
 | [Epsilon](https://open.spotify.com/track/5ts2iiEVxJJOz0WOCBR9GK) | [WX//CLTV](https://open.spotify.com/artist/0m4sYqkyOznjEKxEEeLLkL) | [Epsilon](https://open.spotify.com/album/2W03my6wDJdhrIoqiZXXnD) | 3:31 | 2021-07-23 | 2022-04-08 |
 | [Equinox](https://open.spotify.com/track/0ZzaDwLtsBeHilR13PMFcZ) | [Escape Velocity](https://open.spotify.com/artist/2tb72keD7ZfOudHYldg84Z) | [Trojan](https://open.spotify.com/album/2zXu0weQP2kQktWq6UmMJJ) | 3:29 | 2020-07-11 | 2021-09-14 |
@@ -370,6 +371,7 @@
 | [Meaning](https://open.spotify.com/track/1M2bdpwWkekhMWIlVFmd3e) | [Arpeggiated Motives](https://open.spotify.com/artist/2vJaUyXZAIBV2sKiznI4kH) | [First Temple](https://open.spotify.com/album/2gzsnt28uMDKwAnSle9veo) | 3:39 | 2020-08-08 | 2021-09-14 |
 | [Meditations pt 1](https://open.spotify.com/track/6vOgKvTHr4NO9YPsZQfiDX) | [Estado De Calma](https://open.spotify.com/artist/0E1GrT0XtW2bcQvEuu7ajV) | [Meditations pt 1](https://open.spotify.com/album/4VNV5Z6ESAqrAjbe7nwIq9) | 2:30 | 2019-06-29 | 2020-01-09 |
 | [Meditative Violin](https://open.spotify.com/track/6mJnhJKcWpe4JjT6YhqsxY) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Meditative Violin](https://open.spotify.com/album/7xnYck98Ol39ZB44PB95mI) | 2:45 | 2020-01-09 | 2020-05-18 |
+| [Meeting Marynae](https://open.spotify.com/track/0IYJ7Thxg7UKODefmWZOXA) | [Galeine](https://open.spotify.com/artist/2EZSBMFNvFTUXkyMMtWkCU) | [Meeting Marynae](https://open.spotify.com/album/5mVoB2U1OVrJvPkybhNzUn) | 3:16 | 2022-08-15 |  |
 | [Mellifluous](https://open.spotify.com/track/1vSqYZ2q0cvwlWNAzkzeOq) | [Opus Monik](https://open.spotify.com/artist/2dh3BSBT3YA8IaxyWYlVzO) | [Mellifluous](https://open.spotify.com/album/1xGh7wtH1lMtdhmvf6w35S) | 1:58 | 2019-05-26\* | 2021-10-13 |
 | [Metric](https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Metric](https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY) | 2:24 | 2021-11-26 |  |
 | [Midnight Waves](https://open.spotify.com/track/0epB3Nk6gNkfzVpHiTIHqT) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Visions](https://open.spotify.com/album/7k4or19D1uKrAzdzf1iIkk) | 2:39 | 2019-12-07 | 2020-05-18 |

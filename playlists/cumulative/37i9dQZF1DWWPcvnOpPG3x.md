@@ -4,7 +4,7 @@
 
 > Run to the world of R&B and hip\-hop.
 
-138 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/5okw0xKXUK9lSuLXVKNMCM)
+139 songs - 8 hr 55 min - [published](https://open.spotify.com/playlist/5okw0xKXUK9lSuLXVKNMCM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Come & Go \(with Marshmello\)](https://open.spotify.com/track/2Y0wPrPQBrGhoLn14xRYCG) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Legends Never Die](https://open.spotify.com/album/6n9DKpOxwifT5hOXtgLZSL) | 3:25 | 2022-01-21 |  |
 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/3wMUvT6eIw2L5cZFG1yH9j) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:47 | 2022-05-12 |  |
 | [Country Grammar \(Hot Shit\)](https://open.spotify.com/track/5pZrTiyyerSGHUJExDCOxZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw) | [Country Grammar](https://open.spotify.com/album/2ixev48xYzspaWS6mxTPRU) | 4:47 | 2021-11-26 | 2022-07-29 |
+| [Crack A Bottle](https://open.spotify.com/track/4dK00wCxlqWEeN8BoM1BHT) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Relapse: Refill](https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z) | 4:57 | 2022-08-12 |  |
 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2021-11-26 |  |
 | [Dance \(A$$\) Remix](https://open.spotify.com/track/3OVLPcUPS0HbMeAeMP0jZ4) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Dance \(A$$\) Remix](https://open.spotify.com/album/3JkjVA4hXNA0JRQo7B0MMl) | 3:40 | 2022-03-24 | 2022-04-21 |
 | [Dirt Off Your Shoulder](https://open.spotify.com/track/4DqgmnzCCIv0dbzlFDPJZq) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [The Black Album](https://open.spotify.com/album/6vT81iUtDPLkfHDAwoRNpu) | 4:05 | 2021-11-26 | 2022-07-29 |
@@ -52,7 +53,7 @@
 | [Energy](https://open.spotify.com/track/79XrkTOfV1AqySNjVlygpW) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [If You're Reading This It's Too Late](https://open.spotify.com/album/0ptlfJfwGTy0Yvrk14JK1I) | 3:01 | 2022-03-24 |  |
 | [Everybody](https://open.spotify.com/track/7cGFbx7MP0H23iHZTZpqMM) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [Everybody](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) | 2:42 | 2022-03-24 | 2022-04-18 |
 | [Fade Away](https://open.spotify.com/track/4QRWA5UqYU1st9aO0UfxOj) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L) | [The Incredible True Story](https://open.spotify.com/album/5dOpbgAmJeyoakKQ0QLWkR) | 4:47 | 2022-03-24 | 2022-04-20 |
-| [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 | 2021-11-26 |  |
+| [Famous](https://open.spotify.com/track/19a3JfW8BQwqHWUMbcqSx8) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [The Life Of Pablo](https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1) | 3:16 | 2021-11-26 | 2022-08-16 |
 | [Fire](https://open.spotify.com/track/26IRvCz5UZYTbLH4FrWe2L) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Fire](https://open.spotify.com/album/5w20MGXSiMtloeXjRqO8Kn) | 4:23 | 2021-11-26 | 2022-04-27 |
 | [Flex \(Ooh, Ooh, Ooh\)](https://open.spotify.com/track/4T0ScSPdQKmGvruK7pavNP) | [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Flex \(Ooh, Ooh, Ooh\) \- Single](https://open.spotify.com/album/4DGTGynJ1c17ElQpAbDAqV) | 2:56 | 2022-03-24 | 2022-08-13 |
 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 | 2021-11-26 |  |

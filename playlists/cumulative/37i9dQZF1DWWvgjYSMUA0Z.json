@@ -170,6 +170,24 @@
     },
     {
       "album": {
+        "name": "Awaiting The Night",
+        "url": "https://open.spotify.com/album/4WbmSphPzHRMjuboa8haMl"
+      },
+      "artists": [
+        {
+          "name": "Celestial Seekr",
+          "url": "https://open.spotify.com/artist/6vzDsyuY7VKxGPDCcz9Eel"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134285,
+      "name": "Awaiting The Night",
+      "url": "https://open.spotify.com/track/30uebPIcKyKLYs6GvCMoGI"
+    },
+    {
+      "album": {
         "name": "Reiki Music (My Spiritual Practice)",
         "url": "https://open.spotify.com/album/3W1zD6ELr5fp93a5HMnNaP"
       },

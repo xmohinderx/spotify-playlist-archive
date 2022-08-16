@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-191 songs - 11 hr 53 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
+192 songs - 11 hr 57 min - [published](https://open.spotify.com/playlist/1UtTTBPg4n71DXZVvtkvbt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Bridges](https://open.spotify.com/track/5GiEgcvmqbD1WgHzICDvOb) | [Koresma](https://open.spotify.com/artist/14EybDMySlkntyuxgm1pek) | [Bridges](https://open.spotify.com/album/1iMu7CCrDIfXnQggRXNLq9) | 3:41 | 2021-01-15 | 2021-03-18 |
 | [Bright Morning](https://open.spotify.com/track/7tXgHTkGacOBktzEMsqvbv) | [Eline Moss](https://open.spotify.com/artist/5oLYsGYb1G271Z6wtiYVpA) | [Bright Morning](https://open.spotify.com/album/0TaZGDp9e9UfjpmrmTKRNb) | 3:24 | 2020-12-08\* |  |
 | [Brightest Star](https://open.spotify.com/track/6PRosknEATsCworPrmpYZa) | [Sam Joe Gahn/Xi Lautman](https://open.spotify.com/artist/7BfuZulgRgW4feIsVxjzyB) | [Change of Mindset](https://open.spotify.com/album/76u2AWUsHjupzCFUNaMCsM) | 3:10 | 2020-12-08\* | 2021-09-22 |
+| [Bring in the Sun](https://open.spotify.com/track/1XuZoGfRIZyUvvHnzPG1Yg) | [Seeking Balance](https://open.spotify.com/artist/2fVulWueuvC49fDnLuzX6C) | [A Refreshing Dimension](https://open.spotify.com/album/3OtvM6ApQUDxd09LZMbUj5) | 4:00 | 2022-08-15 |  |
 | [Brooding](https://open.spotify.com/track/0oCRt1aONzpz97nMTSCvTe) | [Enchanted Candlestick](https://open.spotify.com/artist/3jAFYmyMpB3O7LD8zRiRae) | [Brooding](https://open.spotify.com/album/6swTHBD1IWDd3yKUSbfIXL) | 2:28 | 2021-09-17 |  |
 | [Butterfly Waltz](https://open.spotify.com/track/3IJrQE24xD4buW3KCQ6ChA) | [Facing the Void](https://open.spotify.com/artist/0IcjbbwIRynJJg25UP2nzt) | [Butterfly Waltz](https://open.spotify.com/album/1Hlur9p4ZS1xkkpooBOgIs) | 2:54 | 2020-12-08\* | 2021-05-27 |
 | [Carmel](https://open.spotify.com/track/5N8JUiG7xDh6Qj2bhySXaC) | [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Carmel](https://open.spotify.com/album/4pQvnenO5YrnuEp1qd24rZ) | 3:48 | 2021-01-15 | 2021-05-27 |

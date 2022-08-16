@@ -4,7 +4,7 @@
 
 > Lean back, close your eyes, and relax.
 
-255 songs - 12 hr 0 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
+256 songs - 12 hr 3 min - [published](https://open.spotify.com/playlist/6R3n3sy2PZgo8hDFzJepwy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,6 +226,7 @@
 | [The Explorer](https://open.spotify.com/track/02CXPIbxZQD8utqIQBQ59A) | [Burgundy Skies](https://open.spotify.com/artist/2txYwbS88ztbJYTKGVeUrq) | [The Explorer](https://open.spotify.com/album/572p09vhNOLPyc0PHeMWuf) | 2:36 | 2021-12-10 |  |
 | [The Garden's Light](https://open.spotify.com/track/72cj11O7lJBQiLu3dXzKLV) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/2pFPMeYVWjKFW85yCBuJ5Q) | 3:13 | 2022-07-12 |  |
 | [The Garden's Light](https://open.spotify.com/track/7uLFo7WHyKjEKi5Rm6qe2o) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [New Ambitions](https://open.spotify.com/album/1trY6YX2PRPKp7ZvPKijz6) | 3:13 | 2021-12-10 | 2022-07-29 |
+| [The Middle Place](https://open.spotify.com/track/58uxtIkCAdEocbL6j8Bn7k) | [Hanna Lindgren](https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2) | [The Middle Place](https://open.spotify.com/album/0LWutF5RMyqz4KdRrFMQVE) | 3:33 | 2022-08-15 |  |
 | [The Secret Garden](https://open.spotify.com/track/5MtMEG6UMkoVFXUAfwrgqk) | [Amfora](https://open.spotify.com/artist/3H2cJb9BM31dAoETDvzosL) | [The Miracle](https://open.spotify.com/album/4l0lQO2sdIdPRP2PxIQZhr) | 2:41 | 2021-12-10 |  |
 | [The Seeds I’ve Sown](https://open.spotify.com/track/3OLr0gzUC0zLlWmpE6L0Ay) | [Alina Linnéa](https://open.spotify.com/artist/2eWNqV0E7nkCq8MndbcmAU) | [The Seeds I've Sown](https://open.spotify.com/album/7FN3LtwM4XRkXXHuLPTzdI) | 3:01 | 2021-12-10 |  |
 | [The Way There](https://open.spotify.com/track/2X0ophIMSyCw9SSISrIEpQ) | [Hreidar](https://open.spotify.com/artist/0tVS8c23TG8rD0vyBSXuWe) | [The Way There](https://open.spotify.com/album/5EZyffRRVIrdJ1tPP06Dac) | 3:24 | 2021-12-10 |  |
@@ -250,7 +251,7 @@
 | [Vue d'hiver](https://open.spotify.com/track/0ynxLfs9IO4bi4AMBbHqI9) | [Laetitia Dostie](https://open.spotify.com/artist/5s6PaKcOZ8NA318EJoA86v) | [Vue d'hiver](https://open.spotify.com/album/4MfRxWi64sceHw2Hgbyp6Y) | 1:58 | 2021-12-10 |  |
 | [Wafting Waters](https://open.spotify.com/track/7wnieVijyua873Tmj163CZ) | [Delta Shores](https://open.spotify.com/artist/3tXdeFwRiTfum3oQBQbLmP) | [In The Open](https://open.spotify.com/album/3NNdbGYBf9prwsRHaKHwb1) | 2:55 | 2021-12-10 |  |
 | [Walk With Nature](https://open.spotify.com/track/1OHDjyHn6jwiuyWN84QB5w) | [Alfa Cognitive](https://open.spotify.com/artist/1twdki52gevuZJwMcTNsEM) | [Walk With Nature](https://open.spotify.com/album/66BZweQPwzt1vktfvn7rui) | 2:57 | 2021-12-10 | 2022-03-31 |
-| [Water Flow](https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Water](https://open.spotify.com/album/679qmXq9SrdDHIIjPGDuBj) | 3:20 | 2021-12-10 |  |
+| [Water Flow](https://open.spotify.com/track/1KuuHDwv8BKKe911swYISj) | [KLXX](https://open.spotify.com/artist/5Vau7AVtTr4wKVibmML0fP) | [Water](https://open.spotify.com/album/679qmXq9SrdDHIIjPGDuBj) | 3:20 | 2021-12-10 | 2022-08-16 |
 | [Weightless](https://open.spotify.com/track/65Uo3C5r9GJMPsiRa6uzMV) | [Gentle Leap](https://open.spotify.com/artist/0vTq6p4BHWx0EQnecyGugw) | [So Serene](https://open.spotify.com/album/0l30rC4MLaOtlsfOcisQL6) | 2:22 | 2022-01-07 |  |
 | [Whenever You're With Me](https://open.spotify.com/track/37svGyFPieAZ9D89ejymzG) | [Maura Huffman](https://open.spotify.com/artist/60HUetND2GEvv5sPhsdujy) | [Whenever You're With Me](https://open.spotify.com/album/6Zi81juw9l7a13KmNMJjQb) | 1:53 | 2021-12-10 |  |
 | [Where The Street End](https://open.spotify.com/track/4hc6B7G97DoU45u5lYsoZ8) | [Alpine Sun](https://open.spotify.com/artist/5FivdXVNbUZheGS5gTb9WE) | [Weightless Sorrows](https://open.spotify.com/album/0XhPFxCMNU3aCQqrDnk3pT) | 3:02 | 2021-12-10 |  |

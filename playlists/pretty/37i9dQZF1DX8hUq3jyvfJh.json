@@ -1,12 +1,12 @@
 {
   "description": "Mari Fernandez e mais mulheres para serem ouvidas no m\u00e1ximo volume.",
-  "num_followers": 122699,
+  "num_followers": 124099,
   "original_name": "EQUAL Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGE5NTZjZTQ0NDEwMTc2YzliNzdjOTE0ZjkzYzgxZGRj",
+  "snapshot_id": "MTY1OTQ5NTYwMCwwMDAwMDAwMGFjNDBhMDU0ZjM0NzI2MGQwOTU0ZjBiZGMwMjI4YTQ2",
   "tracks": [
     {
       "added_at": "2022-08-03 03:00:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4"
+      },
+      "artists": [
+        {
+          "name": "Lauana Prado",
+          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+        }
+      ],
+      "duration_ms": 155281,
+      "name": "Zap",
+      "url": "https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
         "name": "Fiquei Careta",
         "url": "https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 143515,
       "name": "Fiquei Careta",
       "url": "https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
-        "name": "Neon",
-        "url": "https://open.spotify.com/album/1cyehnMsZvdnhM55OaAEP3"
-      },
-      "artists": [
-        {
-          "name": "Ana Castela",
-          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
-        }
-      ],
-      "duration_ms": 199345,
-      "name": "Neon",
-      "url": "https://open.spotify.com/track/0FgmXd8120dvsuKa3Rb46q"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -243,18 +243,18 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4"
+        "name": "Neon",
+        "url": "https://open.spotify.com/album/1cyehnMsZvdnhM55OaAEP3"
       },
       "artists": [
         {
-          "name": "Lauana Prado",
-          "url": "https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y"
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
         }
       ],
-      "duration_ms": 155281,
-      "name": "Zap",
-      "url": "https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ"
+      "duration_ms": 199345,
+      "name": "Neon",
+      "url": "https://open.spotify.com/track/0FgmXd8120dvsuKa3Rb46q"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -427,6 +427,22 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
+        "name": "Foguete N\u00e3o Tem R\u00e9",
+        "url": "https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 165457,
+      "name": "Que Amiga \u00e9 Essa",
+      "url": "https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
         "name": "Quem Jura Mente",
         "url": "https://open.spotify.com/album/5xKZcT2cd4xVQ0OAhuu6y3"
       },
@@ -447,18 +463,22 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Foguete N\u00e3o Tem R\u00e9",
-        "url": "https://open.spotify.com/album/2edfWtshuAu4zIJ2D6aW5V"
+        "name": "Sol e Mar, Vol. 2",
+        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
       },
       "artists": [
         {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+          "name": "Solange Almeida",
+          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
+        },
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
         }
       ],
-      "duration_ms": 165457,
-      "name": "Que Amiga \u00e9 Essa",
-      "url": "https://open.spotify.com/track/5Kvk3PEnJlZ1uGuWTe3pat"
+      "duration_ms": 193004,
+      "name": "JBL",
+      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -495,26 +515,6 @@
       "duration_ms": 198556,
       "name": "Prometo - Ao Vivo Em Sete Lagoas, Brazil / 2019",
       "url": "https://open.spotify.com/track/3MYojEGnFql7awVqGlLWOS"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
-        "name": "Sol e Mar, Vol. 2",
-        "url": "https://open.spotify.com/album/6IufTTOJqfnjPv9JURerlY"
-      },
-      "artists": [
-        {
-          "name": "Solange Almeida",
-          "url": "https://open.spotify.com/artist/3Hew3AuvrbKxCbehT4Rorq"
-        },
-        {
-          "name": "M\u00e1rcia Fellipe",
-          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
-        }
-      ],
-      "duration_ms": 193004,
-      "name": "JBL",
-      "url": "https://open.spotify.com/track/6THoM5F4gvHguHHyLfxGjU"
     },
     {
       "added_at": "2022-08-03 03:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2022-08-03 03:00:00",
       "album": {
-        "name": "Fragmentos (ao Vivo)",
-        "url": "https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp"
-      },
-      "artists": [
-        {
-          "name": "May & Karen",
-          "url": "https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe"
-        }
-      ],
-      "duration_ms": 169658,
-      "name": "A de Casa Ou a da Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO"
-    },
-    {
-      "added_at": "2022-08-03 03:00:00",
-      "album": {
         "name": "Ah!Mar (Ao Vivo)",
         "url": "https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 210461,
       "name": "Eu N\u00e3o",
       "url": "https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0"
+    },
+    {
+      "added_at": "2022-08-03 03:00:00",
+      "album": {
+        "name": "Fragmentos (ao Vivo)",
+        "url": "https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp"
+      },
+      "artists": [
+        {
+          "name": "May & Karen",
+          "url": "https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe"
+        }
+      ],
+      "duration_ms": 169658,
+      "name": "A de Casa Ou a da Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO"
     }
   ],
   "unique_name": "EQUAL Brasil",
