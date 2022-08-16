@@ -2720,6 +2720,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Prog Jazz](/playlists/pretty/37i9dQZF1DX9NNVWdU83m6.md)
 - [Prog Rock](/playlists/pretty/37i9dQZF1DWXgtgITTKvYl.md)
 - [Prog Rock Monsters](/playlists/pretty/37i9dQZF1DX0uqkwkR49kK.md)
+- [Progressive House Festival Hits 2022 ⭐️ \| Starlight](/playlists/pretty/1y24lMaeLch6jPtLCqHgJz.md)
 - [Progressive Metal](/playlists/pretty/37i9dQZF1DX5wgKYQVRARv.md)
 - [Prom Night](/playlists/pretty/37i9dQZF1DXe9YJxYnhkr3.md)
 - [Psych & Groove](/playlists/pretty/37i9dQZF1DX2FJ4E5eMYdk.md)
