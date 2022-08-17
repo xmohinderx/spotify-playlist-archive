@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 
 > ¡Ponte cursi con las canciones más románticas!
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,972 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,336 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 40 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
 | 41 | [Acurrucar](https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U) | [Acurrucar](https://open.spotify.com/album/4vRkAsNoxr8aH9zsJkvvUK) | 2:58 |
 | 42 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
-| 43 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
-| 44 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 |
+| 43 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 |
+| 44 | [Te Metiste](https://open.spotify.com/track/4KrXsgZHi1yLZLB1Wlgcbt) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:29 |
 | 45 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
 | 46 | [El Amor Soñado](https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [El Amor Soñado](https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO) | 3:02 |
 | 47 | [Broche de Oro](https://open.spotify.com/track/5bcrq8q2zR0uxxxsUI4Jjf) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [La Banda Grande de la Sultana del Norte](https://open.spotify.com/album/4KCzCPSaveAesQCXJ9u9QZ) | 3:36 |
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 52 | [Amorcito Mío \- Live](https://open.spotify.com/track/0iOZvZee49EgTNJEBm1VbC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 1 \(Live\)](https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K) | 3:23 |
 | 53 | [Voy a Amarte](https://open.spotify.com/track/5SP2ca8eU4WFK2LLdVQvmx) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Lo Sé](https://open.spotify.com/album/4KjidavoaeYpYJK8rmYgWp) | 2:23 |
 | 54 | [Historia sin fin](https://open.spotify.com/track/7LMuasDvRrwulpdKMyukDl) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:04 |
-| 55 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edición Especial](https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
+| 55 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
 | 56 | [Eres](https://open.spotify.com/track/6Syi9hj45fiEW2UtYIZbJ9) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:12 |
 | 57 | [Mi Meta Contigo](https://open.spotify.com/track/1OGze4EM0gQ8NNrtdVLCf1) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:08 |
 | 58 | [Tu Eterno Enamorado](https://open.spotify.com/track/1DWHKFDQ4xy1U9ncNNbm4P) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 3:40 |
-| 59 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
-| 60 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
+| 59 | [Eres Mi Droga](https://open.spotify.com/track/3t4BZRyfrZGgICZGyNewyi) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [IV](https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw) | 3:27 |
+| 60 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
 | 61 | [Pensando En Ti](https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:29 |
 | 62 | [Te Volvería A Elegir](https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Te Volvería A Elegir](https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4) | 3:00 |
 | 63 | [Mi Buena Suerte](https://open.spotify.com/track/1LD1RC3P9a1nYkxJ621M17) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 3:09 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S3aM8sZo63.md) - [plain]
 | 74 | [Qué Bueno Es Tenerte](https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Qué Bueno Es Tenerte](https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H) | 3:25 |
 | 75 | [Sólo Tú](https://open.spotify.com/track/0qsalPjF8AzMdkxjnGXttQ) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Sólo Tú](https://open.spotify.com/album/3x37MdKulZX2v4YRGqbUX7) | 3:13 |
 
-Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMDRlMjgzYjM0YmNhZjBhYTlhMTNiZjQ2YThiZmY3NTZk`
+Snapshot ID: `MTY1NTc1OTg5MCwwMDAwMDAwMDZiZjNiOGRjY2Y1NDUxNjJjMmZmMjg4NWUzZTk4MmQ2`

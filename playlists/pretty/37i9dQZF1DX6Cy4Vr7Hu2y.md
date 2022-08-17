@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: Kep1er\(케플러\)\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 794,978 likes - 64 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 795,346 likes - 64 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 38 | [YES or YES](https://open.spotify.com/track/26OVhEqFDQH0Ij77QtmGP9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [YES or YES](https://open.spotify.com/album/25VunQEW0x2W6ALND2Mh4g) | 3:57 |
 | 39 | [DALLA DALLA](https://open.spotify.com/track/38rUIlTX93Aoif3WcY1wv6) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [IT'z Different](https://open.spotify.com/album/7Mxbav9clZ3AVDKThwwgXS) | 3:19 |
 | 40 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 41 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
-| 42 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
+| 41 | [XOXO](https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x) | [JEON SOMI](https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR) | [XOXO](https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m) | 3:27 |
+| 42 | [HONEY](https://open.spotify.com/track/7JDiC68AKimlvMCmZQuA9n) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/6eSFX12WIqUtmGsD8UO3FT) | 2:47 |
 | 43 | [그대라는 시](https://open.spotify.com/track/56Cmy1rCQ35V2Q7groYiHl) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Hotel del Luna \(Original Television Soundtrack\) Pt.3](https://open.spotify.com/album/6nddI94g7zC5bbyNzRBO0Y) | 3:29 |
 | 44 | [Stay This Way](https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B) | [fromis\_9](https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum) | [from our Memento Box](https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo) | 3:15 |
 | 45 | [Forever Young](https://open.spotify.com/track/6veFyjNycn6EaNCKhkPXUY) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [SQUARE UP](https://open.spotify.com/album/0wOiWrujRbxlKEGWRQpKYc) | 3:59 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 47 | [Gotta Go](https://open.spotify.com/track/1exnDFdC34GyBcaLt9ZJfX) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Gotta Go](https://open.spotify.com/album/3WgHekDElv10Kam9aCMwnx) | 3:41 |
 | 48 | [strawberry moon](https://open.spotify.com/track/2g0LdZQce9xlcHb1mBJyuz) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [strawberry moon](https://open.spotify.com/album/7ed3SknyDqNz4XkPHNu4Fb) | 3:25 |
 | 49 | [HIT YA!](https://open.spotify.com/track/5m7UOBjNO6Zp9gWdyscqDx) | [Lapillus](https://open.spotify.com/artist/7bcMJG1TkYFFD9Fit3STLJ) | [HIT YA!](https://open.spotify.com/album/5TIglX0Yp81a4cAvtdodI9) | 3:21 |
-| 50 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
-| 51 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
+| 50 | [Nerdy](https://open.spotify.com/track/6KExHY2Eo0DphK63s2dfYi) | [PURPLE KISS](https://open.spotify.com/artist/62T5PGHWJ9sxP2SJq20IHq) | [Geekyland](https://open.spotify.com/album/7EDCoH5wfSGYdZ7wXCmTF4) | 2:58 |
+| 51 | [Purr](https://open.spotify.com/track/5T5OjYnQ9yemW2Eqn9piCx) | [VIVIZ](https://open.spotify.com/artist/7Lq3yAtwi0Z7zpxEwbQQNZ), [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [<Queendom2> Position Unit Battle Part.1\-2](https://open.spotify.com/album/1w8AYEGlbx03HhNxUvNPj8) | 3:26 |
 | 52 | [You can't sit with us](https://open.spotify.com/track/4aS8OY1JsRSBKGfnAkIOZH) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [1/6](https://open.spotify.com/album/3UJlc2nl7tik1gD23DOBVX) | 3:17 |
 | 53 | [TWIT](https://open.spotify.com/track/6qyz1KOlGJsKYJ4ZsRmRSD) | [Hwa Sa](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [TWIT](https://open.spotify.com/album/6KL4s0Y6Ijcj0QP1Nm1EVF) | 3:10 |
 | 54 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 63 | [NO THANKS](https://open.spotify.com/track/5jzMrbCnHeBjw6ARXJEgsD) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [iCE](https://open.spotify.com/album/6Bmm0yb59VBvI7ozMOQZoB) | 3:01 |
 | 64 | [Make Me Happy](https://open.spotify.com/track/6ry670EtSALRt1yd0W0wca) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [WHEE](https://open.spotify.com/album/4BLxIwHfv87WeOQ9A4sm9E) | 3:17 |
 
-Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDBjMGVlY2RhMjk4ZWE0MzFmNGNmMmIyODA2MTBmZTY3`
+Snapshot ID: `MTY1OTQ1MjQwMCwwMDAwMDAwMDA1YjUyZDZiNTAyMjJmYjUxNzM4MzkzZWYyOTc4OWY3`

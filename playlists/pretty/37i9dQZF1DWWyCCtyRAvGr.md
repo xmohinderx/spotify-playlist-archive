@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,376 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,520 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 6 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 |
 | 7 | [Three O'Clock Blues](https://open.spotify.com/track/3gGKOVwsAVvwt9BcH3k18J) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD), [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Riding with the King](https://open.spotify.com/album/7b0Ysbudh2BH9A853EfxEu) | 8:36 |
 | 8 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
-| 9 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 |
-| 10 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
+| 9 | [Little Red Rooster](https://open.spotify.com/track/3Gq3uFAdJltar4ddwboPby) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 3:35 |
+| 10 | [Lucille](https://open.spotify.com/track/4ZSJs1cqeincEi2KjUGmZC) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Lucille](https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s) | 10:16 |
 | 11 | [She's Crazy](https://open.spotify.com/track/5tRNgEl5hyFr7E2Adt7dhT) | [JT Coldfire](https://open.spotify.com/artist/2ddJt0lQSRzczoG6Yx728j) | [Crazy Sun](https://open.spotify.com/album/0vFy82Bq3HTvNnI5nVVztE) | 5:23 |
 | 12 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 |
 | 13 | [Need Her So Bad](https://open.spotify.com/track/1Msf1vU7lpnbqUDxj6HpnW) | [Aynsley Lister](https://open.spotify.com/artist/7hueZY91Csxv57p4KnPVcU) | [Everything I Need](https://open.spotify.com/album/6XGCDSommzsbG2lDSldCEy) | 7:00 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 26 | [J.C's\. Blues](https://open.spotify.com/track/7j1KFZmBIKtv8lsmTptiM1) | [Michigan Curve](https://open.spotify.com/artist/6gMUWmZUceCtcaztahkqba) | [Bluesmen Don't Use Umbrellas](https://open.spotify.com/album/4f8EqC1IzbcSosXgbkSbTm) | 6:59 |
 | 27 | [Blues for Mama](https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Nina Simone Sings The Blues \(Expanded Edition\)](https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2) | 3:55 |
 | 28 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
-| 29 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 |
-| 30 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
+| 29 | [Dengue Woman Blues](https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x) | [Jimmie Vaughan](https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae) | [The Essential Jimmie Vaughan](https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y) | 6:23 |
+| 30 | [Three Hours Past Midnight](https://open.spotify.com/track/2foANcWBXIew7aBRUDaPuC) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Colin James And The Little Big Band](https://open.spotify.com/album/0emrpjJ9IbaBS6lc6FpaDm) | 6:08 |
 | 31 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
 | 32 | [Mean Blues](https://open.spotify.com/track/1Q57HueU3dO9hZB5ALMlPh) | [Floyd Lee Band](https://open.spotify.com/artist/4jSXw5yTDrfBBjnlwBMVud) | [Mean Blues](https://open.spotify.com/album/3rmhmQt2WqS7rhwalTlGBS) | 4:57 |
 | 33 | [Old Time Used to Be](https://open.spotify.com/track/5qORQA2LGzwmmCjLgHtHS6) | [Joe Louis Walker](https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [Blues Comin' On](https://open.spotify.com/album/3nToFx6LGlS7AUa01g1KCa) | 5:17 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 47 | [Go Easy](https://open.spotify.com/track/3owiWE0J2144puM4MB1lxK) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY), [Memphis Slim](https://open.spotify.com/artist/5g1Gv9riN5BH4WVnanO1Ia) | [Willie's Blues](https://open.spotify.com/album/3fuRLaRuxNjjBxZILt5ABV) | 5:54 |
 | 48 | [Who You Gonna Hoodoo Now?](https://open.spotify.com/track/0ezAYtCKGYWVAtSr1xZGVe) | [Tony Joe White](https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P) | [Hoodoo \(Commentary Version\)](https://open.spotify.com/album/2o8wETexTC7MB0MON0oVWN) | 4:28 |
 | 49 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
-| 50 | [This Time I'm Gone For Good](https://open.spotify.com/track/2K0M6aAOj5dAMDnDu5VW18) | [Johnny Adams](https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk) | [Man Of My Word](https://open.spotify.com/album/4fVYzIe9KW1V53DdnYThd5) | 4:40 |
+| 50 | [Down Home Blues](https://open.spotify.com/track/5WGUe5K85GamXycXDoMT6l) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [The Right Time](https://open.spotify.com/album/1FIwDtSAdIyBCpBvNheudQ) | 4:36 |
 
-Snapshot ID: `MTY1OTEwNTU4NiwwMDAwMDAwMGNmMjA5ZjAyODM5MTBlMzRlZGRjZWRiMmEzYzU5NmMz`
+Snapshot ID: `MTY1OTEwNTU4NiwwMDAwMDAwMDQwZjM4Y2QxZmM0OTMxYThjYjkzYTMyYTMzOTI2N2Ni`

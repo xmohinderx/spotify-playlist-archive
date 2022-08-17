@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 
 > 
 
-[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 26,820 likes - 40 songs - 3 hr 0 min
+[Ninja Tune](https://open.spotify.com/user/ninja-tune) - 26,824 likes - 40 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [AZD SURF](https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Mount Kimbie](https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl), [Kai Campos](https://open.spotify.com/artist/0ud7Vcl9BBEoOVwoWDqXIH) | [AZD SURF](https://open.spotify.com/album/4vorYlWcWYeKPGIf1OIFUR) | 4:11 |
-| 2 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 |
-| 3 | [This Version Of You \(feat\. Julianna Barwick\)](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 2:51 |
-| 4 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
-| 5 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 |
-| 6 | [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 |
-| 7 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 |
-| 8 | [Time Glide](https://open.spotify.com/track/0NlzQhUzaV2jaswePcQp0s) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR) | 2:54 |
-| 9 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 |
-| 10 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
-| 11 | [1994](https://open.spotify.com/track/5CW8hkWUdJLVw8mbavDh1h) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [1994](https://open.spotify.com/album/5mxmpnRDMJ7SMR7tl49aFZ) | 3:56 |
-| 12 | [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 |
+| 2 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 |
+| 3 | [Frisco](https://open.spotify.com/track/1cU4jWWFTAiclPWyD3X2KP) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Frisco](https://open.spotify.com/album/2ZW8wrrHv95qMif7MaGWb4) | 3:42 |
+| 4 | [This Version Of You \(feat\. Julianna Barwick\)](https://open.spotify.com/track/2h4IoIeRasKE7moH6zhHUO) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [The Last Goodbye](https://open.spotify.com/album/0xVucRYJf5luWLekMGYh3i) | 2:51 |
+| 5 | [Water](https://open.spotify.com/track/22QE1KHFMkl96UTjeDQ4GV) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Water](https://open.spotify.com/album/6Dao9eIV6CntMa9sH2YP2B) | 4:58 |
+| 6 | [Geronimo](https://open.spotify.com/track/50p95vsF3KsQ1Yp4tt6Qkf) | [Young Fathers](https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV) | [Geronimo](https://open.spotify.com/album/618RtNZZo1Qmgm3CkDaqdn) | 3:33 |
+| 7 | [Let it Happen](https://open.spotify.com/track/5du6RlNwVWrLWOS5Vj0pE3) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [Let it Happen](https://open.spotify.com/album/0H8otaUAcaHZx3oe6RllV8) | 6:43 |
+| 8 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 |
+| 9 | [Time Glide](https://open.spotify.com/track/0NlzQhUzaV2jaswePcQp0s) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Infinite Window](https://open.spotify.com/album/53VgkRoJgtIKjXTFqpc8gR) | 2:54 |
+| 10 | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/track/58sa3HUZL71gpMB6XvhaUo) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Light Of Day \(feat\. Ólafur Arnalds\)](https://open.spotify.com/album/0pGNoq6y7AGjILfzDzOZbu) | 6:40 |
+| 11 | [Meli \(II\)](https://open.spotify.com/track/6nGhGBz7uaE1RngnIFRKep) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Meli \(II\)](https://open.spotify.com/album/6pDZnLDqV5XuiVmuSw7oZs) | 6:57 |
+| 12 | [1994](https://open.spotify.com/track/5CW8hkWUdJLVw8mbavDh1h) | [United Freedom Collective](https://open.spotify.com/artist/37OT8Wms6fBIzNUJW0d1PW), [Jordan Stephens](https://open.spotify.com/artist/0SVz62vUjHKkbVOgoTK4Ze) | [1994](https://open.spotify.com/album/5mxmpnRDMJ7SMR7tl49aFZ) | 3:56 |
 | 13 | [Deserve It](https://open.spotify.com/track/4I30X0g4MxH2BAW4RaHaxK) | [LYZZA](https://open.spotify.com/artist/57xaBKepmdqQ6BjXkiHa4B), [La Zowi](https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG) | [Deserve It](https://open.spotify.com/album/0YVo6K9Uw6oR3cvk55d2Pr) | 3:22 |
 | 14 | [Incredibly Annoying](https://open.spotify.com/track/7iHetqDyri7aXIyl69QqHG) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Incredibly Annoying](https://open.spotify.com/album/2EHzdOCliBlaKJWTJ7A8li) | 2:14 |
 | 15 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/1rq5TZtl1Z46v2gRAMtmmW.md) - [plain]
 | 39 | [Defection](https://open.spotify.com/track/3I4tQHg9oJ9jYtQJTKb2QO) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Bruises](https://open.spotify.com/album/6uHzKD648X9MoK0Z2vo8LW) | 4:05 |
 | 40 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 |
 
-Snapshot ID: `MzExMCxkM2YwYWI1NTlhMjNmMmU4YzVlZWJjMmNmOWVmZGZiOGQ2ZjE1ZmUw`
+Snapshot ID: `MzExMixjYzU3ZjIxN2EzNWI0MDAzYzFkMGQ1ZTMwZWFiM2EwNmM4MDZkMDg4`

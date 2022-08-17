@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Grupo Diez 4Tro & Los Del Cristo en portada.",
-  "num_followers": 48232,
+  "num_followers": 48333,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMDFhZmNkMTc1ZjcxNWJmN2M3YTc5YTZlZmFlNWU1NjU3",
+  "snapshot_id": "MTY1NzI1NjQwMCwwMDAwMDAwMGEyNzY2MDNjODkyYmJhZGQ2NWFmYjhjZGQxZDE2ZGZm",
   "tracks": [
     {
       "added_at": "2022-07-08 05:00:00",
@@ -361,26 +361,6 @@
       "url": "https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh"
     },
     {
-      "added_at": "2022-06-04 13:18:48",
-      "album": {
-        "name": "Vamos Para Arriba",
-        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 172227,
-      "name": "Vamos Para Arriba",
-      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
-    },
-    {
       "added_at": "2021-12-17 06:00:00",
       "album": {
         "name": "Me Gusta Mi Vida",
@@ -399,6 +379,26 @@
       "duration_ms": 227726,
       "name": "Me Gusta Mi Vida",
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
+    },
+    {
+      "added_at": "2022-06-04 13:18:48",
+      "album": {
+        "name": "Vamos Para Arriba",
+        "url": "https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 172227,
+      "name": "Vamos Para Arriba",
+      "url": "https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -599,22 +599,26 @@
     {
       "added_at": "2021-12-17 06:00:00",
       "album": {
-        "name": "Por Si Acaso",
-        "url": "https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP"
+        "name": "Tiempos de Guerra",
+        "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
       },
       "artists": [
         {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+          "name": "Yerai R",
+          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
         },
         {
-          "name": "Grupo Triple L",
-          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
+          "name": "TipoSierraBros",
+          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
         }
       ],
-      "duration_ms": 198285,
-      "name": "Por Si Acaso",
-      "url": "https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz"
+      "duration_ms": 172248,
+      "name": "Tiempos de Guerra",
+      "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
     },
     {
       "added_at": "2021-12-17 06:00:00",
@@ -651,26 +655,22 @@
     {
       "added_at": "2021-12-17 06:00:00",
       "album": {
-        "name": "Tiempos de Guerra",
-        "url": "https://open.spotify.com/album/5S5kavEVkjHzXEANJ8bNqt"
+        "name": "Por Si Acaso",
+        "url": "https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP"
       },
       "artists": [
         {
-          "name": "Yerai R",
-          "url": "https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY"
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
         },
         {
-          "name": "TipoSierraBros",
-          "url": "https://open.spotify.com/artist/5Hn6UFrZhAUTSFvAnB7Jk1"
-        },
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+          "name": "Grupo Triple L",
+          "url": "https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k"
         }
       ],
-      "duration_ms": 172248,
-      "name": "Tiempos de Guerra",
-      "url": "https://open.spotify.com/track/1UoCDn52urzsC0Uoo4odt4"
+      "duration_ms": 198285,
+      "name": "Por Si Acaso",
+      "url": "https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz"
     },
     {
       "added_at": "2022-03-24 20:37:55",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-12-17 06:00:00",
       "album": {
-        "name": "Es Dificil Ser Un Santo",
-        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 185756,
-      "name": "Es Dificil Ser Un Santo",
-      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
-    },
-    {
-      "added_at": "2021-12-17 06:00:00",
-      "album": {
         "name": "El Pasado Est\u00e1 Olvidado",
         "url": "https://open.spotify.com/album/3ehwVm0oj35FUQuB9oEASO"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 237029,
       "name": "El Pasado Est\u00e1 Olvidado",
       "url": "https://open.spotify.com/track/3RfIrOvpmccRC4Z98DlLJm"
+    },
+    {
+      "added_at": "2021-12-17 06:00:00",
+      "album": {
+        "name": "Es Dificil Ser Un Santo",
+        "url": "https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 185756,
+      "name": "Es Dificil Ser Un Santo",
+      "url": "https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW"
     },
     {
       "added_at": "2022-05-13 05:00:00",
@@ -1089,26 +1089,6 @@
       "url": "https://open.spotify.com/track/1NF9ieouGK5eoRcmDQArlq"
     },
     {
-      "added_at": "2022-06-24 05:00:00",
-      "album": {
-        "name": "Pa Que Aprendan",
-        "url": "https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku"
-      },
-      "artists": [
-        {
-          "name": "Los Del Puerto",
-          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
-        },
-        {
-          "name": "Grupo Hacendado",
-          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
-        }
-      ],
-      "duration_ms": 186413,
-      "name": "Pa Que Aprendan",
-      "url": "https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV"
-    },
-    {
       "added_at": "2022-04-01 18:54:28",
       "album": {
         "name": "Relojito Adiamantado",
@@ -1127,6 +1107,26 @@
       "duration_ms": 178106,
       "name": "Relojito Adiamantado",
       "url": "https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6"
+    },
+    {
+      "added_at": "2022-06-24 05:00:00",
+      "album": {
+        "name": "Pa Que Aprendan",
+        "url": "https://open.spotify.com/album/1LrIc9CJLpC17yqIc4M6Ku"
+      },
+      "artists": [
+        {
+          "name": "Los Del Puerto",
+          "url": "https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e"
+        },
+        {
+          "name": "Grupo Hacendado",
+          "url": "https://open.spotify.com/artist/06hHiaGkSEyRusl6n2iK3M"
+        }
+      ],
+      "duration_ms": 186413,
+      "name": "Pa Que Aprendan",
+      "url": "https://open.spotify.com/track/3MTS8GCWu71UhJgxSJBRyV"
     },
     {
       "added_at": "2021-12-17 06:00:00",

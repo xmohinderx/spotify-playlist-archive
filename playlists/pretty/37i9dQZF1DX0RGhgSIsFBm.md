@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0RGhgSIsFBm.md) - [plain]
 
 > A collection of classic horror and spooky stories, from Stoker to Hitchcock.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,757 likes - 109 songs - 1 day 15 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,762 likes - 109 songs - 1 day 15 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

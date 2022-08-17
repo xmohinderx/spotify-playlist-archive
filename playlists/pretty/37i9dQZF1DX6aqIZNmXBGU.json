@@ -1,12 +1,12 @@
 {
   "description": "Get pumped, feel the vibe and get ready for the swell coming in.",
-  "num_followers": 16987,
+  "num_followers": 16999,
   "original_name": "Sun & Surf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMDdhNzVlM2U2MzM5YzQwMDlmMWRmZjNkOGQxNmJhZjlm",
+  "snapshot_id": "MTY0ODA1MDUxNSwwMDAwMDAwMGQzYWMyZTdlYWRjYjhhMTBmMjc2ZTE2ZmJkNzg3ZTVi",
   "tracks": [
     {
       "added_at": "2021-04-09 06:19:31",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "The Drums",
-        "url": "https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l"
-      },
-      "artists": [
-        {
-          "name": "The Drums",
-          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
-        }
-      ],
-      "duration_ms": 175426,
-      "name": "Lets Go Surfing",
-      "url": "https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph"
-    },
-    {
-      "added_at": "2021-04-09 06:19:31",
-      "album": {
         "name": "Carter",
         "url": "https://open.spotify.com/album/3bKH6xVFa2W0wbgsbn99wX"
       },
@@ -555,18 +539,18 @@
     {
       "added_at": "2021-04-09 06:19:31",
       "album": {
-        "name": "Onion",
-        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
+        "name": "The Drums",
+        "url": "https://open.spotify.com/album/3pfNU5FIwyvTjtxxtQXK9l"
       },
       "artists": [
         {
-          "name": "Shannon & The Clams",
-          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+          "name": "The Drums",
+          "url": "https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu"
         }
       ],
-      "duration_ms": 182786,
-      "name": "The Boy",
-      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
+      "duration_ms": 175426,
+      "name": "Lets Go Surfing",
+      "url": "https://open.spotify.com/track/6l6LgnyNHL3U6UgSx5Aiph"
     },
     {
       "added_at": "2021-04-09 06:19:31",
@@ -583,6 +567,22 @@
       "duration_ms": 148893,
       "name": "DVP",
       "url": "https://open.spotify.com/track/0QpST3fcy7z1xcdFGFTk3D"
+    },
+    {
+      "added_at": "2021-04-09 06:19:31",
+      "album": {
+        "name": "Onion",
+        "url": "https://open.spotify.com/album/33q5Lnqw87FHgKa2F6YB5W"
+      },
+      "artists": [
+        {
+          "name": "Shannon & The Clams",
+          "url": "https://open.spotify.com/artist/6A5Ns1SpGWTt8SzXPwiqVE"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "The Boy",
+      "url": "https://open.spotify.com/track/1WypLBcOgtNO0meaWKBkVQ"
     },
     {
       "added_at": "2021-04-09 06:19:31",

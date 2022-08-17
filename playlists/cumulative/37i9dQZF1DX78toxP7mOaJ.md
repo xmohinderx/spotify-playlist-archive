@@ -4,7 +4,7 @@
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Paranoyds \| Artwork: Jim Klok
 
-478 songs - 1 day 2 hr 39 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
+479 songs - 1 day 2 hr 42 min - [published](https://open.spotify.com/playlist/0kwhXxf6pq44hUjEkufg4R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,7 +297,8 @@
 | [Need You Around](https://open.spotify.com/track/0GEovNslRt5kStCl6GWemD) | [Well Wisher](https://open.spotify.com/artist/0dWdiTWk7xiwAfoceq1sXz) | [Need You Around](https://open.spotify.com/album/6TzKi3S80fmYkcUHtbTbjJ) | 2:49 | 2022-07-06 |  |
 | [New Beginning](https://open.spotify.com/track/5o0uaVSaJimlNKnvDdggX6) | [Automatic](https://open.spotify.com/artist/3uX1tstdmFJyxW9b5mSNlU) | [New Beginning](https://open.spotify.com/album/62yIxSvT6Yvl0uYKuuYBLw) | 3:59 | 2022-03-16 | 2022-05-26 |
 | [New Vegas Bomb](https://open.spotify.com/track/2qFP8E4KbrIBQ2mbweQeQ9) | [CLIFFDIVER](https://open.spotify.com/artist/3yYFfLWWw90qPAloqOGM7x), [Skatune Network](https://open.spotify.com/artist/7Gas5IrI1Y8PSrJPyRkwtC) | [New Vegas Bomb](https://open.spotify.com/album/4UKmE2LdDV6SNRcBJd461k) | 2:44 | 2022-03-23 | 2022-05-05 |
-| [Night Vision](https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Night Vision](https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w) | 3:22 | 2022-05-25 |  |
+| [Night Vision](https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Night Vision](https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w) | 3:22 | 2022-05-25 | 2022-08-17 |
+| [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 | 2022-08-10 |  |
 | [Nightmares](https://open.spotify.com/track/0hX16noxRUL7QWQaEap1bg) | [Hairu Tokyo](https://open.spotify.com/artist/7v0WS0GW5AjIFNA36PeGmX), [Star Light](https://open.spotify.com/artist/2Y5m36gXUOAlFVuuUV3kkp), [Yng Dee](https://open.spotify.com/artist/5CHZlDdYKV9hNTsmqUWYDC) | [Local Celebrity](https://open.spotify.com/album/6JtVu6RKLKQYqGuYVtO0aZ) | 2:47 | 2022-07-20 |  |
 | [No Money](https://open.spotify.com/track/1LSEKQRczoHCRGYeE5OPIe) | [Go Cactus](https://open.spotify.com/artist/73Xp0FH6ZuSdhEcq5kcXbE) | [No Money](https://open.spotify.com/album/17zMYdNk8QKrrYsIywo29X) | 2:06 | 2022-03-09 | 2022-05-19 |
 | [Nostalgia Seed](https://open.spotify.com/track/64eJOf186peUV6FZaGbWGf) | [GRAZER](https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF) | [Nostalgia Seed](https://open.spotify.com/album/7cih3U9qveQHpzGTFIGNx5) | 3:01 | 2021-12-01 | 2022-01-20 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAI2XQZF5zW.md) - [plain]
 
 > Reggae music for dogs that know what’s up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,518 likes - 51 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,523 likes - 51 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

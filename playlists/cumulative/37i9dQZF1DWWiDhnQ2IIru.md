@@ -4,7 +4,7 @@
 
 > Hit the road to the soundtrack of these seventies classics.
 
-275 songs - 18 hr 55 min - [published](https://open.spotify.com/playlist/1G4piBuXasSgedzOMD6dKo)
+276 songs - 18 hr 59 min - [published](https://open.spotify.com/playlist/1G4piBuXasSgedzOMD6dKo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [The Chain \- 2004 Remaster](https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:30 | 2021-02-10 |  |
 | [The Free Electric Band](https://open.spotify.com/track/5xCRvqOaoU6vrsGnumSJLb) | [Albert Hammond](https://open.spotify.com/artist/34E3csCxpXunPGEkOVVX2g) | [The Best Year Of My Life: 1973](https://open.spotify.com/album/45W3OrbYpaZUCQeukGfP2U) | 3:23 | 2021-02-10 | 2022-04-21 |
 | [The Joker](https://open.spotify.com/track/0zge3Oe6qU1jnvSgxDRQYU) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [I Love Dad](https://open.spotify.com/album/7kASxXIWWMoaHHS637Vome) | 3:33 | 2021-02-10 | 2022-05-14 |
+| [The Joker](https://open.spotify.com/track/6FKU84JHM1lbiy5Dx0Dyqd) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Greatest Hits 1974\-78](https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn) | 3:37 | 2021-02-10 |  |
 | [The Passenger](https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz) | 4:43 | 2021-02-10 |  |
 | [The Passenger](https://open.spotify.com/track/3yP0cohcr97BUNJcgvmSVg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Lust For Life](https://open.spotify.com/album/7ynKEunH8LSit4TR3foMVC) | 4:44 | 2021-02-10 | 2022-04-21 |
 | [The Rubberband Man](https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [The Rubberband Man / Now That We're Together](https://open.spotify.com/album/5PyOMtVxqztMvIKsJLV8bW) | 3:33 | 2021-02-10 | 2022-04-21 |
@@ -260,7 +261,7 @@
 | [What A Fool Believes](https://open.spotify.com/track/31HOUWxaaqIedY0fULlGa5) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Rhino Hi\-Five: The Doobie Brothers \[Vol\. 2\]](https://open.spotify.com/album/0FxtDaOzgzLmOipDEyWSv3) | 3:42 | 2021-02-10 | 2022-07-29 |
 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 | 2021-02-10 |  |
 | [What Can I Say](https://open.spotify.com/track/4WSbbEjRQ7uE3IT9crL10B) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:00 | 2021-02-10 | 2022-04-19 |
-| [What Is Life \- Remastered 2014](https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:24 | 2021-02-10 |  |
+| [What Is Life \- Remastered 2014](https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp) | [George Harrison](https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS) | [All Things Must Pass \(Remastered 2014\)](https://open.spotify.com/album/4I4xtHaIFOzhZfp1NIHkY6) | 4:24 | 2021-02-10 | 2022-08-17 |
 | [What's Going On](https://open.spotify.com/track/7av4raprzW2bWdjyAaH3hz) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On \- 40th Anniversary \(Super Deluxe\)](https://open.spotify.com/album/4gp6F03qAJCvKYoAGSrHVk) | 3:52 | 2021-02-10 | 2022-06-06 |
 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 | 2021-02-10 |  |
 | [Where You Lead](https://open.spotify.com/track/0BHbw2pHE8HOfhm2B2x4Oj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry \(Legacy Edition\)](https://open.spotify.com/album/7kLLC7CN8oxt0HgP2a051K) | 3:20 | 2021-02-10 | 2022-04-20 |

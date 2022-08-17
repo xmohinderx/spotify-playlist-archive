@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26820,
+  "num_followers": 26824,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzExMCxkM2YwYWI1NTlhMjNmMmU4YzVlZWJjMmNmOWVmZGZiOGQ2ZjE1ZmUw",
+  "snapshot_id": "MzExMixjYzU3ZjIxN2EzNWI0MDAzYzFkMGQ1ZTMwZWFiM2EwNmM4MDZkMDg4",
   "tracks": [
     {
       "added_at": "2022-08-03 16:11:16",
@@ -31,6 +31,26 @@
       "duration_ms": 251796,
       "name": "AZD SURF",
       "url": "https://open.spotify.com/track/15RXHgm7esKYvPcHGTelUI"
+    },
+    {
+      "added_at": "2022-08-16 10:10:34",
+      "album": {
+        "name": "You Need Me",
+        "url": "https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH"
+      },
+      "artists": [
+        {
+          "name": "O'Flynn",
+          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
+        },
+        {
+          "name": "Frazer Ray",
+          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
+        }
+      ],
+      "duration_ms": 364165,
+      "name": "You Need Me",
+      "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
     },
     {
       "added_at": "2022-08-10 14:03:31",
@@ -207,26 +227,6 @@
       "duration_ms": 236500,
       "name": "1994",
       "url": "https://open.spotify.com/track/5CW8hkWUdJLVw8mbavDh1h"
-    },
-    {
-      "added_at": "2022-07-14 04:21:33",
-      "album": {
-        "name": "Satyr",
-        "url": "https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb"
-      },
-      "artists": [
-        {
-          "name": "O'Flynn",
-          "url": "https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo"
-        },
-        {
-          "name": "Frazer Ray",
-          "url": "https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK"
-        }
-      ],
-      "duration_ms": 285046,
-      "name": "Satyr",
-      "url": "https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1"
     },
     {
       "added_at": "2022-07-13 19:55:30",

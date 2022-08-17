@@ -242,6 +242,24 @@
     },
     {
       "album": {
+        "name": "anew",
+        "url": "https://open.spotify.com/album/2oBjzhXn3VigQDMkEUsXyO"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215599,
+      "name": "anew",
+      "url": "https://open.spotify.com/track/21noJ3ormqz6ns0FxrKbeo"
+    },
+    {
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU"
       },
@@ -3513,7 +3531,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 178999,
       "name": "Serious",
       "url": "https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G"

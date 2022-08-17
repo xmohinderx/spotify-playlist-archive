@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Siddhartha en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,973 likes - 75 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,107 likes - 75 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 61 | [El Duelo](https://open.spotify.com/track/1QYBZjQIHuWRRdKQ5An6jP) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [El Duelo](https://open.spotify.com/album/3gRWgjHNPIxtZmRLBYOQTu) | 4:17 |
 | 62 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
 | 63 | [Cállame](https://open.spotify.com/track/0fRQGN6XS01UzZbKNj6sQp) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [Cállame](https://open.spotify.com/album/2kSM1mDXRGpSWtpMKbRr7w) | 3:07 |
-| 64 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 |
-| 65 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 |
+| 64 | [HASTA SIEMPRE](https://open.spotify.com/track/6ApstFWbxEDlv05dvr89xQ) | [DLD](https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S) | [HASTA SIEMPRE](https://open.spotify.com/album/7DjQIfGX1CY1we4iaGJg0l) | 3:08 |
+| 65 | [Domingo](https://open.spotify.com/track/6jW1BghId3ws6BFC2Sk8dk) | [Los Flakos](https://open.spotify.com/artist/5Spl3u7hKTO5Osv8XNs4Ah) | [Los Flakos](https://open.spotify.com/album/3GpBy4LRxxAzE51I5eGaX0) | 3:32 |
 | 66 | [Sol@](https://open.spotify.com/track/6VtARaI3I2MMINgcP7wuxJ) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [La Historia Sin Fin](https://open.spotify.com/album/6k6jrCUKBeZflALDUS8UF3) | 2:57 |
 | 67 | [La Última Vez](https://open.spotify.com/track/521P7D3Rg0qIddJYHEtYrm) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [La Última Vez](https://open.spotify.com/album/0ChN0eEv5QQ312SZdNwLIz) | 3:37 |
 | 68 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 72 | [Polvo Cósmico](https://open.spotify.com/track/5LBD1cXdT68bOVgB0MLSPC) | [Leonardo de Lozanne](https://open.spotify.com/artist/0tJ0fqnovf6ASEO0Qyr03N) | [Polvo Cósmico](https://open.spotify.com/album/4cpzYWDTQ1kLjSnDnD1qrY) | 4:01 |
 | 73 | [Corre Amor](https://open.spotify.com/track/6KQtYYDMeh3uvHb3QXSkVv) | [Comisario Pantera](https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR) | [Cosmovisiones](https://open.spotify.com/album/2Jpnr6hBjbmSDrfWMWRYgZ) | 3:14 |
 | 74 | [Empezar de Cero](https://open.spotify.com/track/7vAkNCHHwY6rJzWzde1QDW) | [La Gusana Ciega](https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY) | [Empezar de Cero](https://open.spotify.com/album/6YTctBcS8WvoeqiU6C6UCh) | 4:30 |
-| 75 | [Agua Santa](https://open.spotify.com/track/0arH8qrtmayVDnxuySM798) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Agua Santa](https://open.spotify.com/album/0ZPPC5qJzigZ6X7k3dyZ4d) | 4:07 |
+| 75 | [Mentiroso](https://open.spotify.com/track/25pP7EPQwNjoIA2EFZoPOK) | [Walter Esaú](https://open.spotify.com/artist/2BaF574aVsGeAtcUgrzeV5) | [Mentiroso](https://open.spotify.com/album/67eYO57qEmwcX323pi63kZ) | 3:48 |
 
-Snapshot ID: `MTY2MDM1ODEzOCwwMDAwMDAwMGRjMzc3YjQzYWMzNTM5NzJmOGFlYmYyNzllM2E3ZTUx`
+Snapshot ID: `MTY2MDM1ODEzOCwwMDAwMDAwMGVlOGQ1ODkwNzgyYjc4OWU2YjJlNDI1NWE5YWI2NDc5`

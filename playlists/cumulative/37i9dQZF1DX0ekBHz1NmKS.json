@@ -1521,7 +1521,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 158285,
       "name": "Cool Me Down",
       "url": "https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp"
@@ -7621,6 +7621,24 @@
       "duration_ms": 198986,
       "name": "Socker Och Vatten",
       "url": "https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE"
+    },
+    {
+      "album": {
+        "name": "Solen i G\u00f6teborg",
+        "url": "https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171600,
+      "name": "Solen i G\u00f6teborg",
+      "url": "https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > make it pop! cover: King Princess
 
-369 songs - 18 hr 35 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
+370 songs - 18 hr 37 min - [published](https://open.spotify.com/playlist/4WlZyLyAP1klcXFbRzSjzt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,8 @@
 | [My Wife & 2 Dogs](https://open.spotify.com/track/5Ofdnu8hv625HP7OXoE2nj) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Change of Scenery II](https://open.spotify.com/album/6B3LAqHoBKmSN9HLbyy0Ro) | 2:18 | 2022-04-01 | 2022-04-09 |
 | [naïve](https://open.spotify.com/track/1wAadgVOHT3eHLXGzynAMB) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [lately I feel EVERYTHING](https://open.spotify.com/album/1dg0gmrCaEbENVXpPIvi1m) | 2:50 | 2022-05-27 | 2022-06-04 |
 | [Never A Good Time](https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [The Band CAMINO](https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc) | [Never A Good Time](https://open.spotify.com/album/0QlfV5dcIdMnywIB5qyNRG) | 2:47 | 2021-11-12 | 2022-02-26 |
-| [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 |  |
+| [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 | 2022-08-12 |  |
+| [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 | 2022-08-17 |
 | [no excuses](https://open.spotify.com/track/0fL0C37F64Ufzi2kHRql5Y) | [Virginia To Vegas](https://open.spotify.com/artist/3v9wPA58IVrX2dg6AjSPgi) | [it's a little complicated, but i'm okay.](https://open.spotify.com/album/4nrSgAxs8tzf8RPIN9lc4Q) | 3:17 | 2022-02-04 | 2022-07-16 |
 | [NO WAY!](https://open.spotify.com/track/6mh1v2YKd7cMe7ra7m37SB) | [Clubhouse](https://open.spotify.com/artist/1LbK4g8mKezX7iAmpiq3sX) | [NO WAY!](https://open.spotify.com/album/2SruOoc4NUXuErLO3zDKbC) | 2:27 | 2021-10-29 | 2022-01-08 |
 | [Nobody Has To Know](https://open.spotify.com/track/2fQE3IKIgFAuUsuD4rWvjq) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [Nobody Has To Know](https://open.spotify.com/album/3AA40BRLEzpLVnDEIJgfgv) | 3:06 | 2021-10-29 | 2021-12-25 |

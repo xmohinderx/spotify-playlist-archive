@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 
 > ¡Esto sí es Bachata! Portada: Romeo Santos
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,566 likes - 100 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,654 likes - 100 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 36 | [Estoy Perdido](https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:11 |
 | 37 | [No Tengo Suerte En El Amor](https://open.spotify.com/track/6Yeiqec7xM5qssOH1FWV1g) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 3:59 |
 | 38 | [Quizás Si, Quizás No](https://open.spotify.com/track/1AOnpCTCVLY7fAHvyC3VFX) | [Los Toros Band](https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA) | [...A Pasito Lento!](https://open.spotify.com/album/6ZUZsOI1nnt0gts7ia3sH1) | 4:32 |
-| 39 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
+| 39 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
 | 40 | [El Intruso](https://open.spotify.com/track/0gSBSVrek88L0xnSUQwlst) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [El Amor](https://open.spotify.com/album/47hm8FIBjBtP5pYjO0fJUq) | 2:52 |
-| 41 | [Muchachita Linda](https://open.spotify.com/track/77KKwTZ8IH6Iz2gxyQCUlQ) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Todo Tiene Su Hora](https://open.spotify.com/album/2HOT5oHReqx02vIKJ9SLe2) | 3:23 |
+| 41 | [Morire Bebiendo](https://open.spotify.com/track/5MghSaEvkfuqDJLhRdY30o) | [Teodoro Reyes](https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy) | [Sentimiento](https://open.spotify.com/album/63CBuPOmHd7aaiUk6I1SVo) | 3:14 |
 | 42 | [Nuestro Amor](https://open.spotify.com/track/197PCRC6OSRsJvYCurlsdz) | [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Nuestro Amor](https://open.spotify.com/album/4xpeeztYL2ensw5QYD4rDg) | 3:24 |
 | 43 | [Esta Noche](https://open.spotify.com/track/5aKtF99Easewgyk5JDuJAd) | [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Escenas De Amor](https://open.spotify.com/album/0FBJ8Wh061zAWwgi8dGDco) | 4:42 |
 | 44 | [Hoy Te VI Pasar](https://open.spotify.com/track/4Z5KC5Oai5rYP0tXWKRUZr) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Sombras de un Pasado](https://open.spotify.com/album/02aMRNTDHBY7RnmHOpj9XA) | 4:14 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 57 | [Llora Alma Mía](https://open.spotify.com/track/6KioOiN7xTcjhlYC88qkgb) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [Llora Alma Mia](https://open.spotify.com/album/4NCFudOnqbnak0laoZN2so) | 4:21 |
 | 58 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 59 | [Bellas](https://open.spotify.com/track/5MSlG8Mg7OQkgJ0on0Qrhl) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [La Historia de Mi Vida: El Final, Vol\. 1](https://open.spotify.com/album/3nMrjtBVZUCgiFTQ0SKvZk) | 4:03 |
-| 60 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 |
-| 61 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
+| 60 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
+| 61 | [El Profesor](https://open.spotify.com/track/6LQ3lcP8W7oCrA6fUq34Hy) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE) | [Bachatas Pal' Pueblo: Mas Pueblo Que Nunca](https://open.spotify.com/album/7euEaCjHWLLK6kN21wCfJb) | 3:41 |
 | 62 | [Loco de Amor](https://open.spotify.com/track/33lOsXDjSYVgjaTkNcXCFA) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Canciones Inmortales Bachatas](https://open.spotify.com/album/1VjinqTO9MoT3YJkpkhVbA) | 7:52 |
 | 63 | [Bachata En Kingston](https://open.spotify.com/track/3EjW1KrOJZr39xiBiI7tMg) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [A la Mar](https://open.spotify.com/album/5afHhk03AfHR76hfjRNobE) | 3:59 |
 | 64 | [Perdido](https://open.spotify.com/track/18tS6OYnEJfHWokX62T322) | [Yoskar Sarante](https://open.spotify.com/artist/5VcamBo0Goh74iFQDqj6Q4) | [No Es Casualidad](https://open.spotify.com/album/3CFK4hbF6HfIXEpWXJV3CF) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43c0ftmnMBx.md) - [plain]
 | 99 | [La Demanda](https://open.spotify.com/track/3zVibdZHsVH05p5Crux6xX) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Raulin Rodriguez](https://open.spotify.com/artist/5rvaaWutd0gsbc2iMNo9k5) | [Utopia](https://open.spotify.com/album/1yM8iaMk4Slsqr94LabgN1) | 3:54 |
 | 100 | [Tuyo](https://open.spotify.com/track/3cZhoRYQFqJ8B9z0AN9gJB) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:38 |
 
-Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMDNmMjdkZGY2MGY2OGYxYWYwZDhiYTNjN2IwMDk2YzY1`
+Snapshot ID: `MTY0NDk0MDgwMCwwMDAwMDAwMGM4MWE0MmM0ZDMxODM3ZDYwNGM0ZmQ4MTM3OTBlMDM3`

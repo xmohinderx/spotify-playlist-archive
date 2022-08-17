@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie\. Cover: Kevin Kaarl
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,495 likes - 70 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,520 likes - 70 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 40 | [Oscuridad](https://open.spotify.com/track/5i9XNqv8ay4PXRBNxfwdfZ) | [Jasper](https://open.spotify.com/artist/5H9fLAWx4MHfn3fHeczaAm) | [Oscuridad](https://open.spotify.com/album/1ArGHztaWAQKgVKivQdAyG) | 3:29 |
 | 41 | [Míranos](https://open.spotify.com/track/2iNDBB85GuREL7p4m1pArU) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Míranos](https://open.spotify.com/album/4jDruC1JOBkdtHarW7fkar) | 3:04 |
 | 42 | [Lo Que Digan](https://open.spotify.com/track/1NNckOABiIsVrd0dJwRmLp) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [Lo Que Digan](https://open.spotify.com/album/1MdZ8tyZB75alme89VBOgt) | 3:10 |
-| 43 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
-| 44 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
+| 43 | [s a l u d o s](https://open.spotify.com/track/1gEBRuOemkKubufvFmF0pE) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 3:17 |
+| 44 | [Handful of Water](https://open.spotify.com/track/4jyiop97KBE8cDN5HwvKnB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Handful of Water](https://open.spotify.com/album/5gKo806XuvISRGyMoNlR3N) | 2:31 |
 | 45 | [Aeroplanos](https://open.spotify.com/track/2uTOK71u7nWtvDQky4wyEx) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Sous\-Sol](https://open.spotify.com/artist/6npvMAuRzmnkSxIlxwdG0T) | [Aeroplanos](https://open.spotify.com/album/2V5rVAdsjlL4fiwHzbQ1OG) | 3:59 |
 | 46 | [Moment of Joy](https://open.spotify.com/track/3GLGwjylUfM2quQzK07EY5) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/2sS14o33EFyvcUPu2dfPOT) | 3:37 |
 | 47 | [A Veces](https://open.spotify.com/track/2hEGuvAcZGt6kOh5COiBgF) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [A Veces](https://open.spotify.com/album/6miHXeWD9DWJLrUtgNAf5C) | 2:45 |
@@ -63,20 +63,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 53 | [Amor Extraño](https://open.spotify.com/track/1SK3gmwqNCx7WezSCV3F1W) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 3:44 |
 | 54 | [LA MOLINA](https://open.spotify.com/track/0GZDERiGPr1F3SRs4l7muB) | [moanday](https://open.spotify.com/artist/46DBxDEHTfHqwqB8jwmqLB), [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [LA MOLINA](https://open.spotify.com/album/4vE0Gbo7nKNDdXyhiDuIk8) | 2:43 |
 | 55 | [Volver a Comenzar](https://open.spotify.com/track/2laeYSKqa9rFsoVuPKmOo6) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Volver a Comenzar](https://open.spotify.com/album/03RbdxiAdZEVBelOjPKZJp) | 3:07 |
-| 56 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
-| 57 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
+| 56 | [Don't Care](https://open.spotify.com/track/3gAxhEtNqFlCLvN6DDKdth) | [Tatiana Hazel](https://open.spotify.com/artist/5NvrRBcK6hRuboOL0CtZXU) | [DUALITY](https://open.spotify.com/album/1mHk73bDEklzG02PtK4lv4) | 3:16 |
+| 57 | [Patineta](https://open.spotify.com/track/6P3koU4U9Z62sFTDS1tu99) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Patineta](https://open.spotify.com/album/3pW9ODuEkU2YLd3TGNIV5f) | 3:12 |
 | 58 | [¡párate!](https://open.spotify.com/track/6UbrU43q0ECnVSrSGwNOCb) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [¡párate!](https://open.spotify.com/album/6p5taDuRLjQIl3XD1eD2MP) | 2:33 |
 | 59 | [Si Nos Vamos](https://open.spotify.com/track/0egp9X5nN0qK1L9F585QnH) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:15 |
 | 60 | [Home](https://open.spotify.com/track/1Mr9Uiv2AFiiqmKWOpzXjW) | [Esty](https://open.spotify.com/artist/5GRoRrY3Ug35hVuX3z5Rvq) | [Home](https://open.spotify.com/album/519wEU7Sp6ZoypwPArhgny) | 3:09 |
-| 61 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 |
-| 62 | [Que Sufras](https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Que Sufras](https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu) | 4:42 |
+| 61 | [Que Sufras](https://open.spotify.com/track/3ClYHSbumdpBbVAz8yYU9E) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Que Sufras](https://open.spotify.com/album/6ZTX8KAuiTD0Tmsk7XhpTu) | 4:42 |
+| 62 | [Golden](https://open.spotify.com/track/1Dj3xVHKPQIxh1nRX1lN75) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr), [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR) | [Golden](https://open.spotify.com/album/3Am1lg4zNAItrrJ9shk9nH) | 3:38 |
 | 63 | [Laberinto](https://open.spotify.com/track/0g9lp41XLg8wgSaZlXtt6G) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:42 |
-| 64 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 |
-| 65 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM) | 4:09 |
+| 64 | [ALL THESE INSTRUMENTS](https://open.spotify.com/track/0KdWKPgZ0pleOpV2xOd8D0) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [WILL THIS MAKE ME GOOD](https://open.spotify.com/album/5wHIOaV0DXf73kL7i5blmM) | 4:09 |
+| 65 | [Pesadilla](https://open.spotify.com/track/6A8BQ6seDdCSVosLDUVlNy) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Pesadilla](https://open.spotify.com/album/22bM1mtaAqFITc3Krdro7u) | 2:54 |
 | 66 | [Amsterdam](https://open.spotify.com/track/6wzJmHese9OsbRsL6fE40u) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Ventura](https://open.spotify.com/album/1VLsDyD5DZy937pCciP65J) | 3:57 |
 | 67 | [Musa introvertida](https://open.spotify.com/track/7mH6ndKQtl7Pk7VaNwBfxt) | [Sofía Paola](https://open.spotify.com/artist/6gC5HmMueMdiRY3rGtkrKx) | [Limbo Habitual, Vol\. I](https://open.spotify.com/album/4Moq6bYqlcEmQ4VFwg4A01) | 3:35 |
 | 68 | [Made Up My Mind](https://open.spotify.com/track/5ulKWr4iqt6MyjvGXAYbOR) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Made Up My Mind](https://open.spotify.com/album/6GWf1XbCeGkEYM51auB9KG) | 4:04 |
 | 69 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 |
 | 70 | [Break My Own Rules](https://open.spotify.com/track/7xWVF4qvxbD0OeJDI0pYaf) | [Michi](https://open.spotify.com/artist/3Wpco0QNxrTY1Gnqo06J6P) | [Sugarbaby](https://open.spotify.com/album/0DCFi1nMFtVjAoQX0yOlvQ) | 4:02 |
 
-Snapshot ID: `MTY2MDIzMjgyMSwwMDAwMDAwMDkzY2YwMTVkMTY2YTY5YjExNzY2OGNkM2VmNDk5NjY2`
+Snapshot ID: `MTY2MDIzMjgyMSwwMDAwMDAwMGFjZDdkNzZmNzA4MmNiZDlmNjQ5MDIyZjE0YTVlNzI1`

@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Nicki Minaj
 
-275 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
+277 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/4Q4OtTCCZtc7DTYLeNoedL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,7 +57,7 @@
 | [Brexit at Tiffany's](https://open.spotify.com/track/49BeIQzb05PWsS2YfSt87Q) | [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi), [Jazz Morley](https://open.spotify.com/artist/3oRBiqxwxW8BYQdWYtktZo) | [Brexit at Tiffany's](https://open.spotify.com/album/2vxRVqkq60c3ltJkt0JXkF) | 2:43 | 2022-08-11 |  |
 | [Cake](https://open.spotify.com/track/5vwODgisxnSPmnUoDKVjW4) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:47 | 2022-06-02 | 2022-06-25 |
 | [Call Me](https://open.spotify.com/track/2Mor2fdr6NYCHYetzXpnbx) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [Call Me](https://open.spotify.com/album/3ReMdcPVTGwD2V4EwIZ4tn) | 3:28 | 2022-06-16 | 2022-07-08 |
-| [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-07 |  |
+| [Can You Pay?](https://open.spotify.com/track/2sjwKudWZUa5Dyf7Fo842f) | [Paul Woolford](https://open.spotify.com/artist/4CA8PTrbq1l5IgyvBA2JSV), [Pessto](https://open.spotify.com/artist/2DDWrsqTqYfha6N07pwbJe) | [Can You Pay?](https://open.spotify.com/album/29hmGx8YNFYhhMZoTmIHri) | 2:13 | 2022-07-07 | 2022-08-17 |
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-05-26 | 2022-06-22 |
 | [Cannibal](https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Cannibal](https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome) | 4:00 | 2022-07-14 | 2022-08-03 |
 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 | 2022-06-24 | 2022-08-05 |
@@ -107,6 +107,7 @@
 | [Free](https://open.spotify.com/track/6k7vblX4M4TgEjPt6jLoHZ) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Free](https://open.spotify.com/album/1P2IeydghXZHVulSJLtReQ) | 3:54 | 2022-05-26 | 2022-06-10 |
 | [Free Yourself](https://open.spotify.com/track/1BXAyGazbybUVNQ0VmGsdl) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Free Yourself](https://open.spotify.com/album/4uslfFMaS0bfVnuM7MuQ7K) | 3:54 | 2022-07-19 |  |
 | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/track/7My9ca9QEIR8MvIOdIrTWA) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [From The D 2 The LBC \(with Snoop Dogg\)](https://open.spotify.com/album/6F4ObGnJwwV5W4uLFHnNoT) | 3:35 | 2022-06-28 | 2022-07-22 |
+| [Fruity](https://open.spotify.com/track/4XVPArAtSq0657KUF0vXRy) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Fruity](https://open.spotify.com/album/63awPWi564xa0E4Y61w2dz) | 3:13 | 2022-08-16 |  |
 | [FUN](https://open.spotify.com/track/6Knk2SiTXcSFiVCzXmdev7) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [FUN](https://open.spotify.com/album/1aWAKOolNI0fGss2fcYHjR) | 2:31 | 2022-06-16 | 2022-07-22 |
 | [G Love \(feat\. Nippa\)](https://open.spotify.com/track/7soiVKuzcPN27yw54lQ6f9) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [G Love \(feat\. Nippa\)](https://open.spotify.com/album/5ErGBdn17S9GLaKIfMesq6) | 3:07 | 2022-06-09 | 2022-07-01 |
 | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/track/1TFI1ltSMuCIoEc7as1Wvy) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k), [John Agard](https://open.spotify.com/artist/6R8SE4sx8FJKf3ellRAkdm) | [Georgetown \(feat\. John Agard\)](https://open.spotify.com/album/0OX3vQ1IUPFf6YMc815xoS) | 2:57 | 2022-08-11 |  |
@@ -281,6 +282,7 @@
 | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/track/4icnlpI5IbZcRO9mpixVVW) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Where you are \(feat\. WILLOW\)](https://open.spotify.com/album/1wFiFlS50SnyKPAIcBzAQN) | 2:33 | 2022-05-26 | 2022-06-17 |
 | [Will Of The People](https://open.spotify.com/track/1bbyikfBqLFAMxzrAuGreh) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Will Of The People](https://open.spotify.com/album/3nJtclmCvKVlXMDV4uM5hV) | 3:18 | 2022-06-02 | 2022-06-25 |
 | [Wolves](https://open.spotify.com/track/5Agqr1d0H8GGQXZ9WHNvWL) | [Grace Davies](https://open.spotify.com/artist/55VbVrjmAWcvCknVFfPzvK) | [Wolves](https://open.spotify.com/album/4Wqj1ArIoMgCER5EKZYr1h) | 3:37 | 2022-06-30 | 2022-07-29 |
+| [X&Y](https://open.spotify.com/track/5s8msIjj5PJ5UBNsjddZBL) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [X&Y](https://open.spotify.com/album/0nTp6hAIuLmbxoWX0gWmYM) | 2:17 | 2022-08-16 |  |
 | [Yet To Come](https://open.spotify.com/track/10SRMwb9EuVS1K9rYsBfHQ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 3:13 | 2022-06-09 | 2022-07-15 |
 | [Yorkshire](https://open.spotify.com/track/3S8G4qvzaRGbKsJNCtS2aC) | [S Dog](https://open.spotify.com/artist/3TTfMQ8A4tpY8rrN1ZID38), [Mikey B](https://open.spotify.com/artist/5WVfrnCWJYHvQEUIc1ViWy) | [Yorkshire](https://open.spotify.com/album/28BO7wpWRVN96OUdnsOqde) | 2:51 | 2022-06-16 | 2022-07-01 |
 

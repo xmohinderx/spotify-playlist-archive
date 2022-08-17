@@ -4,7 +4,7 @@
 
 > Les hits Maghrébins du moment sont ici\. Cover : Manal.
 
-88 songs - 4 hr 53 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
+90 songs - 4 hr 59 min - [published](https://open.spotify.com/playlist/5fjwJv8oqkWtmz8CqfcbMQ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Hiya Hiya](https://open.spotify.com/track/7gxuzyHGSACfrMQrLRbJ4Q) | [Eljoee](https://open.spotify.com/artist/0Lgc9epqyn4wYEGm8fiaS7), [CHAAMA](https://open.spotify.com/artist/5qwjinowvQNDqyspseSofL) | [Hiya Hiya](https://open.spotify.com/album/4C2IiryANMIphvxtJPQsdE) | 3:37 | 2022-05-12 | 2022-07-31 |
 | [IDK](https://open.spotify.com/track/34CTxOT4WPY14XWLbuv9o1) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [IDK](https://open.spotify.com/album/6dSLJYro7OAXBPj9wAWV3j) | 3:28 | 2022-08-08 |  |
 | [J'en ai marre !](https://open.spotify.com/track/39jtccUn5BcqpMbjzqFRlj) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [J'en ai marre !](https://open.spotify.com/album/1FQFJUXaLbSySLnTqSHtXX) | 3:31 | 2022-05-12 |  |
+| [JRO7I](https://open.spotify.com/track/7syDtybPIIxoR1jvz6w8nI) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [JRO7I](https://open.spotify.com/album/6FeVXC1Ihjhl7x1l1d6PqA) | 3:12 | 2022-08-16 |  |
 | [Khalass](https://open.spotify.com/track/5RJvzygEnbZOPfwKKEQvun) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalass](https://open.spotify.com/album/6LdbOE0J3GsPqskSZxc7I7) | 3:20 | 2022-05-12 | 2022-05-20 |
 | [Khalini](https://open.spotify.com/track/3PoerjlVZ7f1s32kpNB0SZ) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/7aqKBhNnhezrsKD4pkIiOA) | 3:02 | 2022-07-26 |  |
 | [Khalini](https://open.spotify.com/track/6d0aeCqvfluuum0UXsSfH5) | [Mocci](https://open.spotify.com/artist/14u942JWc8Zz1O9M4z2WO1) | [Khalini](https://open.spotify.com/album/5vJBSloyi1CQjncMIykoHs) | 3:02 | 2022-05-12 | 2022-07-29 |
@@ -75,6 +76,7 @@
 | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/track/0XnvKbl68rDvXAI4uOU8rk) | [DJ Sem](https://open.spotify.com/artist/6RXNoNfqGTqlCIwAvzo4Xp), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Oh Bébé feat\. DYSTINCT](https://open.spotify.com/album/48OejE1iLW3oJeoA1g8xDI) | 2:52 | 2022-05-12 | 2022-05-31 |
 | [Panamera](https://open.spotify.com/track/4KoiLBOLPnSERA0apY9y1I) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Panamera](https://open.spotify.com/album/4LNkYBGVRC7F3VjeEqQsRr) | 2:39 | 2022-05-12 | 2022-05-25 |
 | [Paro](https://open.spotify.com/track/7BTwRzjCkjMJUEMmXvGPAR) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Sos \(Chapitre 1\)](https://open.spotify.com/album/5FLRz3yaK09OCqUIlspaET) | 3:24 | 2022-07-23 |  |
+| [Pelele](https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [Pelele](https://open.spotify.com/album/3nGXy6EtbuxUwgUt1umZtY) | 3:36 | 2022-08-16 |  |
 | [RIP, Love](https://open.spotify.com/track/3sYZo4HrHX8tkul5FhUpVo) | [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [RIP, Love](https://open.spotify.com/album/1gTmjLH8mcfzQsKSG8piVX) | 2:53 | 2022-05-12 |  |
 | [Roma \- Radio Edit](https://open.spotify.com/track/2o9x8x12rRTN7XJi8xAQTG) | [Chemsou Freeklane](https://open.spotify.com/artist/3wggOQ992VWtMCrs7ro14h), [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6) | [Roma \(Radio Edit\)](https://open.spotify.com/album/2GJHVDoh0vr3FLmZ0qNVAv) | 3:24 | 2022-07-04 | 2022-07-19 |
 | [Running Up That Hill \(A Deal With God\)](https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds Of Love](https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy) | 4:58 | 2022-07-13 | 2022-07-29 |
@@ -89,7 +91,7 @@
 | [Toi & moi](https://open.spotify.com/track/4C9bUSwqwVZ8eu2jsnctm6) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Toi & moi](https://open.spotify.com/album/4qAOLbreEqTtzFgcGePfZL) | 3:10 | 2022-05-12 |  |
 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 | 2022-05-12 | 2022-08-10 |
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-06-09 |  |
-| [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-05-12 |  |
+| [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 | 2022-05-12 | 2022-08-17 |
 | [Ya Ayouni](https://open.spotify.com/track/5mayCpikqyQIDXWscGgNXf) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY) | [Ya Ayouni](https://open.spotify.com/album/7qj7ixMmSbbC8G8FoaYzlu) | 4:21 | 2022-05-12 | 2022-07-14 |
 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 | 2022-05-12 | 2022-06-10 |
 | [Ya lbahri](https://open.spotify.com/track/62upkw0miJwuVpWVzHdaEV) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Sans visa](https://open.spotify.com/album/5rncxkieoEvPDzA7VdNGQx) | 3:14 | 2022-06-02 |  |

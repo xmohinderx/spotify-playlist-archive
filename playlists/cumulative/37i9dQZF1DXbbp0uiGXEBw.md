@@ -4,7 +4,7 @@
 
 > Cùng tôn vinh tài năng và âm nhạc của những nữ nghệ sĩ Việt\. Ảnh bìa: Bảo Anh
 
-98 songs - 6 hr 25 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
+99 songs - 6 hr 28 min - [published](https://open.spotify.com/playlist/04IRwdQz860iINipt3YtIB)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@
 | [thế giới không anh](https://open.spotify.com/track/4IpeOlxcNz1IFVvZ2ll7In) | [Phùng Khánh Linh](https://open.spotify.com/artist/23Gbd21nBxC1kCtcG2Cd0C) | [yesteryear](https://open.spotify.com/album/33EIrbMJq7O5fQ1WPcwaB4) | 4:19 | 2021-12-07 | 2022-06-01 |
 | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/track/5zH2inEP6THOY8tomr3DdZ) | [MIN](https://open.spotify.com/artist/0IdAjS2LRieBR3gzoazdAw) | [Trên Tình Bạn Dưới Tình Yêu](https://open.spotify.com/album/6He7un0iQqrbVsmieoliGN) | 3:19 | 2021-12-07 |  |
 | [Trước Tiên Anh Hãy Nói Chia Tay Em Đi](https://open.spotify.com/track/2AhLDaQumFH17AfcxRIlqf) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Andiez](https://open.spotify.com/artist/0tBmmwc8j8zbJxISwdsvjA) | [after YOU](https://open.spotify.com/album/2J9z8vV5C4eutvLLoX2foQ) | 3:56 | 2022-06-07 | 2022-08-03 |
+| [Trưởng Nữ Chạy Trốn](https://open.spotify.com/track/2Zos792uWaDCqqnmPaBH1x) | [Hoang Thuy Linh](https://open.spotify.com/artist/0r63ReVRjxrS4ATbLrdcrL) | [LINK](https://open.spotify.com/album/38DiN8raykLZKEr5T6v5hM) | 3:15 | 2022-08-16 |  |
 | [trời giấu trời mang đi](https://open.spotify.com/track/1ecVks3GJX8U67DvhVDVBn) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 4:13 | 2021-12-07 |  |
 | [Tìm Hành Tinh Khác \- Chill Version](https://open.spotify.com/track/08z0xgKfSQ4f9hfnCSPLHw) | [Vu Cat Tuong](https://open.spotify.com/artist/7yquVKfxBuNFJbG9cy2R8A) | [Tìm Hành Tinh Khác \(Chill Version\)](https://open.spotify.com/album/4TjnVBXFRxvC4Yea3DDbkW) | 2:28 | 2021-12-07 | 2022-01-05 |
 | [tóc ngắn](https://open.spotify.com/track/2wQwox4OOvt9Mr4PtFjs9F) | [Orange](https://open.spotify.com/artist/5lAfakPZgxFKgiJD6xAF1G) | [Hương Mùa Hè](https://open.spotify.com/album/1w74ARpNNB3ybFNhs4qWmV) | 3:34 | 2022-08-02 |  |
@@ -101,7 +102,7 @@
 | [Yêu Không Cần Ép](https://open.spotify.com/track/2nTXkAQ6SQKGfzDbOMwUbf) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Yêu Không Cần Ép](https://open.spotify.com/album/2iipprEHYpB7NNoHQE1HTT) | 3:15 | 2022-08-02 |  |
 | [Yêu Không Cần Ép](https://open.spotify.com/track/5bxenPd3w5OMPP7KY7sGlc) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Yêu Không Cần Ép](https://open.spotify.com/album/4XTHKdB74r0kYknx32x974) | 3:15 | 2022-02-01 | 2022-03-22 |
 | [yêu thì yêu không yêu thì yêu](https://open.spotify.com/track/79xFFmGKtEyky0I2G9U9Jg) | [AMEE](https://open.spotify.com/artist/2aQnC3DbZB9GbauvhAw7ve) | [dreAMEE](https://open.spotify.com/album/4tHnhcKAaAaD83UfrTvUPt) | 3:10 | 2021-12-07 |  |
-| [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 | 2021-12-07 |  |
+| [Yêu Thầm](https://open.spotify.com/track/7dJVE53hGAX9TcKH0abFic) | [Hoàng Yến Chibi](https://open.spotify.com/artist/1Dd0DajYMxzu1Q6kuXLyJ3), [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR), [TDK](https://open.spotify.com/artist/30x6rCQm4CuabePneJLGj7) | [Yêu Thầm](https://open.spotify.com/album/36CB3L3Wjw0VfgYx4xSqfa) | 4:12 | 2021-12-07 | 2022-08-17 |
 | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/track/4g05dGhnA69TG6AJljEcL6) | [Nguyen Ha](https://open.spotify.com/artist/5Ib3D8UtLdYZjhVNWzwfoH) | [Điều Ngọt Ngào Khi Chờ Đợi Anh](https://open.spotify.com/album/4O5Y2CJavAsV8AkPZQqXrt) | 5:22 | 2021-12-07 |  |
 | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/track/3ckraK42KnTt0Mk0b8pmA2) | [Tiên Tiên](https://open.spotify.com/artist/5OvCh1Nin8AGw7OkxYinBe), [TRANG](https://open.spotify.com/artist/2knyDFP4xw9wZEWA98JX6b) | [Đâu Cần Một Bài Ca Tình Yêu](https://open.spotify.com/album/6Qb69lLK43aP1s06fQIYnJ) | 3:15 | 2021-12-07 |  |
 | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/track/0TAEZOaoZx5LBXEkePNrt4) | [Đông Nhi](https://open.spotify.com/artist/6JTiPLdbZD2e0tDsN15U1s), [Wowy](https://open.spotify.com/artist/4iFNiWhODcMZdmpNkxsTFp) | [Đôi Mi Em Đang U Sầu](https://open.spotify.com/album/2oi3L0ZJrhi4n1SNlZeJjX) | 4:27 | 2022-04-23 | 2022-08-03 |

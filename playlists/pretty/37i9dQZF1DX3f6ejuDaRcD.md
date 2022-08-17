@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3f6ejuDaRcD.md) - [plain]
 
 > Enjoy the soundtrack of Twenty Five Twenty One! \(청춘을 이야기하는 드라마 스물다섯 스물하나의 사운드트랙을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,639 likes - 52 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,855 likes - 52 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

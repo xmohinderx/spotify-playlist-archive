@@ -4,7 +4,7 @@
 
 > A collision of punk, metal, hardcore and everything in between\. Cover: Drug Church
 
-344 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
+345 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/4AaG82Dub1GCglPsiTrWw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Aurora](https://open.spotify.com/track/1ZbsYofzJ8IaW4Y8GAMevg) | [We Set Signals](https://open.spotify.com/artist/4XM7gdCotrXDsX0MA1LwAP) | [Aurora](https://open.spotify.com/album/1h745hC1e5T1mtdnhudgzJ) | 3:45 | 2021-11-30 | 2022-07-24 |
 | [AVERAGE DEATH](https://open.spotify.com/track/06rUSp5vUkWsZrU1g2DYx1) | [The Armed](https://open.spotify.com/artist/4V5obzWMr7BHZrjOiQwB4K) | [AVERAGE DEATH](https://open.spotify.com/album/3tJMthBdjOgApxrUaFsvEy) | 4:31 | 2022-04-01 | 2022-04-18 |
 | [Azure](https://open.spotify.com/track/0wPkG2Hq0PCnZpQFaPurfl) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Azure](https://open.spotify.com/album/4p3wtygUwO9Rfjun8urArN) | 4:14 | 2022-04-01 | 2022-07-26 |
-| [Back Then](https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh) | [Back Then](https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX) | 3:42 | 2021-11-30 |  |
+| [Back Then](https://open.spotify.com/track/2dfj52tghhrk33hKJtFDx9) | [Amoura](https://open.spotify.com/artist/5HnOeFjaoIdjavGtQluzbh) | [Back Then](https://open.spotify.com/album/6R6wqSrVxGIG6yp3b1QTfX) | 3:42 | 2021-11-30 | 2022-08-17 |
 | [Bad Idea](https://open.spotify.com/track/6IzFw4xL5deADLM0NDkljV) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Bad Idea](https://open.spotify.com/album/3bSDSG9KxAS9zZq9UzJi7K) | 3:12 | 2022-04-01 |  |
 | [Bashem](https://open.spotify.com/track/1T2fVxlG7hQE169zlNQGE5) | [Wolfrik](https://open.spotify.com/artist/6Yyr4z6ZKxZu9y3Wa0Vs2o) | [Clones](https://open.spotify.com/album/5gUhgvoU6u50Seadl0Bk5K) | 2:53 | 2022-03-11 | 2022-04-21 |
 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 | 2021-11-30 |  |
@@ -283,6 +283,7 @@
 | [Shh!](https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:38 | 2022-04-01 |  |
 | [Shockwave](https://open.spotify.com/track/19xegamOXWHUg3YdibYfRi) | [Gurldoll](https://open.spotify.com/artist/5Z7kHNbidvMGfdngueATFE) | [Shockwave](https://open.spotify.com/album/39YL5TUKANLWh4s5QtuSU0) | 3:17 | 2022-04-01 | 2022-04-13 |
 | [Signs](https://open.spotify.com/track/1e2NV9BjhmFrtDmhfL3nxF) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/0sgglKdYqRqntIRQnTWoF8) | 4:28 | 2021-11-30 | 2022-07-27 |
+| [Signs](https://open.spotify.com/track/1oQqeOUBp5MfObeodk2IbP) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/2BJl3YUJVddxRRmzGXXTvj) | 4:28 | 2022-04-01 |  |
 | [Signs](https://open.spotify.com/track/4ZC05So3fMfwpy5jWQ990v) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Signs](https://open.spotify.com/album/1DxmOpjDnTptonWWuKHszp) | 4:28 | 2022-04-01 | 2022-08-04 |
 | [Silver Linings](https://open.spotify.com/track/31RlB6I7CAMibQOi4htpWa) | [I Hate Heroes](https://open.spotify.com/artist/5raTpzJqreSMrasa0TRt4a) | [Save Yourself](https://open.spotify.com/album/4a0gEmP4tGm7WcWm68TY0C) | 3:49 | 2021-11-30 | 2022-06-21 |
 | [SK FOREVER](https://open.spotify.com/track/5VacWrEamFxnSclVDWqOY6) | [Deez Nuts](https://open.spotify.com/artist/2w0Dmj9GV9ZrokNRcnRwav), [Andrew Neufeld](https://open.spotify.com/artist/7nJcYa3cIWMFGYX34tkkuq) | [SK FOREVER](https://open.spotify.com/album/52vbRpOFAO9MOK1XnXq4kf) | 3:30 | 2022-02-28 | 2022-06-30 |

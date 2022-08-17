@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Alfredo Olivas en portada.
 
-139 songs - 7 hr 31 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
+140 songs - 7 hr 35 min - [published](https://open.spotify.com/playlist/4CWnohjaUvTAEcQVufM78y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Flores](https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ), [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0) | [Flores](https://open.spotify.com/album/35f4q9OIhEtZy9FErsdrqx) | 2:38 | 2022-06-24 |  |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-01 |  |
 | [Gato de Madrugada](https://open.spotify.com/track/4rhPhB61ylNbpiZReZbK9q) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Gato de Madrugada](https://open.spotify.com/album/70HmvEK5xlSxwVlyHNY4Y0) | 4:04 | 2022-07-01 |  |
-| [Gracias Al Sol](https://open.spotify.com/track/6VlhbnJq05oh8AxwePFn7X) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Desde Cero](https://open.spotify.com/album/16CwA4wGA3hUj1Aj9xW6Lk) | 3:27 | 2022-07-15 |  |
+| [Gracias Al Sol](https://open.spotify.com/track/6VlhbnJq05oh8AxwePFn7X) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Desde Cero](https://open.spotify.com/album/16CwA4wGA3hUj1Aj9xW6Lk) | 3:27 | 2022-07-15 | 2022-08-17 |
 | [Hablando Claro \(En Vivo\)](https://open.spotify.com/track/5hRFjooNvZWb9gdnXjrv2j) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro \(En Vivo\)](https://open.spotify.com/album/2F58yhcgZckSuL5pDXqEi8) | 3:10 | 2022-07-01 |  |
 | [Hoy Todo Bien](https://open.spotify.com/track/52YLbg0k9SzmW8R6EYWyyd) | [El Bala](https://open.spotify.com/artist/5vJg40S7jbzIIe6kEkouwY) | [Hoy Todo Bien](https://open.spotify.com/album/53n3wiMWTdEr2Hb11o6xq9) | 3:17 | 2022-07-01 | 2022-07-22 |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/0luUNezZ21eKwCYJ4Rvyo0) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/7mZtFqekgsd8vJPNNGOhND) | 3:19 | 2022-04-29 |  |
@@ -99,6 +99,7 @@
 | [Ni Con Labios Prestados](https://open.spotify.com/track/3IxbwKm0uWtoHJQ04K1YbA) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Ni Con Labios Prestados](https://open.spotify.com/album/6qbkITbtEKq6CfhurxWvLx) | 4:04 | 2022-07-15 |  |
 | [No](https://open.spotify.com/track/024hOV0LnkxDeI8fOtNwAw) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [No](https://open.spotify.com/album/5pHsYxYOYQux6Ougxe2xnK) | 3:07 | 2022-06-10 |  |
 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 | 2022-04-15 |  |
+| [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 |  |
 | [No Me Hubiera Enamorado](https://open.spotify.com/track/6XiSceaDaO2vaYF2B2A70t) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d) | [El Problema](https://open.spotify.com/album/3wZCydFnWWZhm5osBdul0s) | 3:27 | 2021-12-17 |  |
 | [No Paras de Hacerme Feliz](https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [No Paras de Hacerme Feliz](https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi) | 3:05 | 2021-12-17 |  |
 | [No Quiso Conmigo](https://open.spotify.com/track/4Paa8cDttPTXgJbnoXzWkB) | [Carlo Mora](https://open.spotify.com/artist/2NMTOWTFH8iFnBvS0Uh4ze), [Freddy Vega Jr.](https://open.spotify.com/artist/5tIHbtAWCSJ774Eckp2LCL) | [No Quiso Conmigo](https://open.spotify.com/album/3gUOCkUm0iL8QxYbAS2Rf1) | 3:01 | 2022-07-01 |  |

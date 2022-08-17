@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- New Zealand.
 
-637 songs - 1 day 13 hr 8 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
+638 songs - 1 day 13 hr 11 min - [published](https://open.spotify.com/playlist/2jI0cdh32ss3u0beLNswrV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 | 2021-07-12 | 2021-08-08 |
 | [Mount Everest](https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:37 | 2022-02-22 | 2022-04-02 |
 | [Mr Reggae](https://open.spotify.com/track/1Wu67nQXx74tc8PTax63zK) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [Mr Reggae](https://open.spotify.com/album/17HsgjR6rhYGnDFsJVdiQw) | 3:04 | 2021-11-27 | 2021-12-19 |
-| [Mr Reggae](https://open.spotify.com/track/6J6slpqRf9jYqGUVKVEOOt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 3:04 | 2021-12-18 |  |
+| [Mr Reggae](https://open.spotify.com/track/6J6slpqRf9jYqGUVKVEOOt) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B V](https://open.spotify.com/album/5QNjmWuzmbjl0I27zqdFJ7) | 3:04 | 2021-12-18 | 2022-08-17 |
 | [Mr\. Brightside](https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:42 | 2021-12-29 |  |
 | [Mr\. Morale](https://open.spotify.com/track/7zvfDihYiJ8RQ1nRcpKBF5) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:30 | 2022-05-14 | 2022-05-20 |
 | [Mr\. Perfectly Fine \(Taylor’s Version\) \(From The Vault\)](https://open.spotify.com/track/2CYVETnhM9aytqrazYYwrK) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Fearless \(Taylor's Version\)](https://open.spotify.com/album/4hDok0OAJd57SGIT8xuWJH) | 4:37 | 2021-04-11 | 2021-04-18 |
@@ -535,6 +535,7 @@
 | [Streets](https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Hot Pink](https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3) | 3:46 | 2021-03-27\* | 2021-06-24 |
 | [Sundown](https://open.spotify.com/track/4WEAdAPGiyI6LIMlHGfhdZ) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Six60](https://open.spotify.com/album/7MenxXNX8NaBCcQtu40ccR) | 2:57 | 2021-03-27\* | 2022-01-17 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-25 |  |
+| [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 | 2022-08-16 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-13 |  |
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2022-01-11 | 2022-01-29 |
 | [Surface Pressure \- From "Encanto"/Soundtrack Version](https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Surface Pressure \(From "Encanto"\)](https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA) | 3:22 | 2022-01-28 | 2022-03-05 |

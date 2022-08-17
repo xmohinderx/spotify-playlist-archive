@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: PinkPantheress & Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,929,384 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,929,458 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 37 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 |
 | 38 | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/track/5Q4MxA344M8VyFieIC4YTk) | [HoneyLuv](https://open.spotify.com/artist/1sl3gVNz3Nxd4poA8f76sl) | [365 \(Thr33 6ix 5ive\)](https://open.spotify.com/album/2CPEiNpmYAciWrkFNPUgQC) | 2:31 |
 | 39 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
-| 40 | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
+| 40 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
 | 41 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 |
 | 42 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 | 43 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 |

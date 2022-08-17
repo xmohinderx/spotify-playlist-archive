@@ -1943,7 +1943,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 181318,
       "name": "Invencible",
       "url": "https://open.spotify.com/track/5pakuQIl6IqFHdh7WgTQx8"
@@ -2311,7 +2311,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 135611,
       "name": "Los Botones Azules",
       "url": "https://open.spotify.com/track/3ZGkdrigbWXLgHungXfZkt"
@@ -2951,6 +2951,28 @@
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/3bvJftZKZe5QKz433NczyV"
+    },
+    {
+      "album": {
+        "name": "No Me Hablen de Amor",
+        "url": "https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc"
     },
     {
       "album": {
@@ -3623,6 +3645,28 @@
       "duration_ms": 205228,
       "name": "Si Yo Fuera T\u00fa",
       "url": "https://open.spotify.com/track/42yyFIOOMXnaMIq0uvE5qm"
+    },
+    {
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
       "album": {

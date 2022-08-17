@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 108750,
+  "num_followers": 108789,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDNmODUyYWQxYjk1ODk5NzdmOTg5ZTA4NDk0ZDk3ZDQy",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDE1NGU1ZDI4OTE5ZTI4NmM3ZWVkMzBhMzY4M2E4MTYz",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -523,18 +523,26 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Breakups (Acoustic)",
-        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
+        "name": "In His Arms",
+        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
       },
       "artists": [
         {
-          "name": "Seaforth",
-          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
+          "name": "Jack Ingram",
+          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
+        },
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Jon Randall",
+          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
         }
       ],
-      "duration_ms": 227693,
-      "name": "Breakups - Acoustic",
-      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
+      "duration_ms": 150186,
+      "name": "In His Arms",
+      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -559,26 +567,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "In His Arms",
-        "url": "https://open.spotify.com/album/6scCDinSi95lzxNqEW6kpV"
+        "name": "Breakups (Acoustic)",
+        "url": "https://open.spotify.com/album/4gbjYYWwl4dFlI9Ibjms7i"
       },
       "artists": [
         {
-          "name": "Jack Ingram",
-          "url": "https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Jon Randall",
-          "url": "https://open.spotify.com/artist/696mMRImtIkeOH1cZtwUgX"
+          "name": "Seaforth",
+          "url": "https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG"
         }
       ],
-      "duration_ms": 150186,
-      "name": "In His Arms",
-      "url": "https://open.spotify.com/track/221KYcs5zXX4ew6f8mumse"
+      "duration_ms": 227693,
+      "name": "Breakups - Acoustic",
+      "url": "https://open.spotify.com/track/7BI1SvPvEuxV7JRN2FbErX"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -615,6 +615,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+      },
+      "artists": [
+        {
+          "name": "Devin Dawson",
+          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+        }
+      ],
+      "duration_ms": 211662,
+      "name": "All On Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Simple Things (Piano Version)",
         "url": "https://open.spotify.com/album/7EjIKCV3OsHJqXObEbdGbz"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 186090,
       "name": "Simple Things - Piano Version",
       "url": "https://open.spotify.com/track/4wKvuWdzyKtXim12tL9JJj"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Little More Be Alright",
-        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
-      },
-      "artists": [
-        {
-          "name": "Drew Green",
-          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
-        }
-      ],
-      "duration_ms": 215721,
-      "name": "Little More Be Alright",
-      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/72JX0b36iIgjSHlhCSLHOv"
+        "name": "Little More Be Alright",
+        "url": "https://open.spotify.com/album/1PjknGJiyZnoKGTgUQHamM"
       },
       "artists": [
         {
-          "name": "Devin Dawson",
-          "url": "https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu"
+          "name": "Drew Green",
+          "url": "https://open.spotify.com/artist/7xZTozOYTK6YKaxcQxeBdP"
         }
       ],
-      "duration_ms": 211662,
-      "name": "All On Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/7aq3BKKrM3luFfBuZso3U1"
+      "duration_ms": 215721,
+      "name": "Little More Be Alright",
+      "url": "https://open.spotify.com/track/1fvcAmIhO3FSGEWiNB5XFf"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "I Don't Wanna Go To Heaven (Choir Version)",
-        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
-      },
-      "artists": [
-        {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
-        }
-      ],
-      "duration_ms": 205305,
-      "name": "I Don't Wanna Go To Heaven - Choir Version",
-      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "At the End of a Bar (Acoustic)",
         "url": "https://open.spotify.com/album/1fH1s6HBeYwxaRTHcLm2th"
       },
@@ -851,6 +835,38 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "I Don't Wanna Go To Heaven (Choir Version)",
+        "url": "https://open.spotify.com/album/4s7hLoOHTldo6E8XH8L69X"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 205305,
+      "name": "I Don't Wanna Go To Heaven - Choir Version",
+      "url": "https://open.spotify.com/track/5NeoFqQlR7X4m5w4s5kmid"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Forever and Always (Acoustic)",
         "url": "https://open.spotify.com/album/1KRzUD4fYV0PL3B2smJps3"
       },
@@ -883,18 +899,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
+        "name": "Acoustic Sessions EP",
+        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
       },
       "artists": [
         {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
         }
       ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
+      "duration_ms": 170953,
+      "name": "Last Cigarette - Acoustic",
+      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -963,22 +979,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "What A Song Can Do (Stripped Down)",
-        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "What A Song Can Do - Stripped Down",
-      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Sober & Skinny",
         "url": "https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 198719,
       "name": "Sober & Skinny",
       "url": "https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "What A Song Can Do (Stripped Down)",
+        "url": "https://open.spotify.com/album/3woLGAG13LtQ1PwoZ1Yndd"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "What A Song Can Do - Stripped Down",
+      "url": "https://open.spotify.com/track/5bzbzfiqtmNazwQOgAB2ik"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1027,22 +1043,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Truth About You (Piano Version)",
-        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 205663,
-      "name": "Truth About You - Piano Version",
-      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Acoustic Sessions EP",
-        "url": "https://open.spotify.com/album/7cxAEhLYy8mfuFbRVc7kFH"
+        "name": "Truth About You (Piano Version)",
+        "url": "https://open.spotify.com/album/0mrkZc8mY5CKPthvVr0qvM"
       },
       "artists": [
         {
-          "name": "Morgan Wade",
-          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 170953,
-      "name": "Last Cigarette - Acoustic",
-      "url": "https://open.spotify.com/track/66JmsVeMHIR10x5fYDxlU6"
+      "duration_ms": 205663,
+      "name": "Truth About You - Piano Version",
+      "url": "https://open.spotify.com/track/2LGzipQ5R23liDfS4qT944"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Growing Up (Acoustic)",
-        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 151828,
-      "name": "Growing Up (Are You Happy) - Acoustic",
-      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Faithfully (Acoustic)",
         "url": "https://open.spotify.com/album/4DCeJhtCqrewoMBTZZYYuh"
       },
@@ -1235,22 +1219,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Don't Come Lookin' (Live Acoustic)",
         "url": "https://open.spotify.com/album/77pg4C4XhSOYf2UJaKwpp6"
       },
@@ -1263,6 +1231,38 @@
       "duration_ms": 215337,
       "name": "Don't Come Lookin' - Live Acoustic",
       "url": "https://open.spotify.com/track/0lkuEYkTZSSLqWOACTGO20"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Growing Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1WYMSj0rZC9flgjqreuf7M"
+      },
+      "artists": [
+        {
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
+        }
+      ],
+      "duration_ms": 151828,
+      "name": "Growing Up (Are You Happy) - Acoustic",
+      "url": "https://open.spotify.com/track/0Lt8VWHBGhXj0DlqjDwvVC"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "While You're Gone (Acoustic)",
-        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
-      },
-      "artists": [
-        {
-          "name": "Drew Parker",
-          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "While You're Gone - Acoustic",
-      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Wildfire (Acoustic)",
         "url": "https://open.spotify.com/album/46tIToUxEQ6TN29LG7KPDW"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 173790,
       "name": "Wildfire - Acoustic",
       "url": "https://open.spotify.com/track/3NxGlVBbrjPw3jRdhLdsZI"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "While You're Gone (Acoustic)",
+        "url": "https://open.spotify.com/album/5gkHRgbzLkc4rdrtq0QG4k"
+      },
+      "artists": [
+        {
+          "name": "Drew Parker",
+          "url": "https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "While You're Gone - Acoustic",
+      "url": "https://open.spotify.com/track/5a43dOHSt1H6RMqxU9Q5Up"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Unapologetically (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 197600,
+      "name": "Landslide - Live from Nashville",
+      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "12/12 (Acoustic)",
         "url": "https://open.spotify.com/album/4bsYqeb7ftisTGzzsLBzfT"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 179908,
       "name": "I Didn't Love You",
       "url": "https://open.spotify.com/track/2jOPhB8JVVhe70okpKZoA7"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Unapologetically (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 197600,
-      "name": "Landslide - Live from Nashville",
-      "url": "https://open.spotify.com/track/3RxqTdS82J42mKL2L6OnWL"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1499,6 +1499,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "Magic (Acoustic Live In Studio)",
+        "url": "https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf"
+      },
+      "artists": [
+        {
+          "name": "Jillian Jacqueline",
+          "url": "https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7"
+        }
+      ],
+      "duration_ms": 180410,
+      "name": "Magic - Acoustic Live In Studio",
+      "url": "https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "7500 OBO (Acoustic)",
         "url": "https://open.spotify.com/album/1wtgyNAVYVCP5Dd7IoBv2r"
       },
@@ -1515,22 +1531,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Thought This Through",
-        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
+        "name": "Hard Things",
+        "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
       },
       "artists": [
         {
-          "name": "Josh Kerr",
-          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
-        },
-        {
-          "name": "Emily Falvey",
-          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
+          "name": "Sarah Buxton",
+          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
         }
       ],
-      "duration_ms": 172663,
-      "name": "Thought This Through",
-      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
+      "duration_ms": 263923,
+      "name": "Hard Things",
+      "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1567,22 +1579,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Hard Things",
-        "url": "https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH"
-      },
-      "artists": [
-        {
-          "name": "Sarah Buxton",
-          "url": "https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP"
-        }
-      ],
-      "duration_ms": 263923,
-      "name": "Hard Things",
-      "url": "https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Not Supposed To Know Each Other (Sad Version)",
         "url": "https://open.spotify.com/album/00zKd4qk05rhksfR7qhlgr"
       },
@@ -1615,34 +1611,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Broken Up (Acoustic)",
-        "url": "https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S"
+        "name": "Thought This Through",
+        "url": "https://open.spotify.com/album/3q1aE61q7fGbl9E5Otj2EC"
       },
       "artists": [
         {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 189672,
-      "name": "Broken Up - Acoustic",
-      "url": "https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Some Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz"
-      },
-      "artists": [
+          "name": "Josh Kerr",
+          "url": "https://open.spotify.com/artist/7tnICxEQkOML369POsUizq"
+        },
         {
-          "name": "Jameson Rodgers",
-          "url": "https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN"
+          "name": "Emily Falvey",
+          "url": "https://open.spotify.com/artist/6w24INVHBGMRpk6xn6xIpi"
         }
       ],
-      "duration_ms": 191400,
-      "name": "Some Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2"
+      "duration_ms": 172663,
+      "name": "Thought This Through",
+      "url": "https://open.spotify.com/track/7FbqWzDrsX5X9gY7CdsIKK"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1659,6 +1643,22 @@
       "duration_ms": 191973,
       "name": "Lessons (Acoustic)",
       "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Broken Up (Acoustic)",
+        "url": "https://open.spotify.com/album/3SzlvoZYAH0dPrZeG4GH7S"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        }
+      ],
+      "duration_ms": 189672,
+      "name": "Broken Up - Acoustic",
+      "url": "https://open.spotify.com/track/0XKrC5ZTJUDjWfn98GNB0s"
     }
   ],
   "unique_name": "Nashville Stripped",

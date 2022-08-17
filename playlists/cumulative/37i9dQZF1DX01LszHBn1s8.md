@@ -4,7 +4,7 @@
 
 > super freaky girl friday 😈
 
-603 songs - 1 day 8 hr 11 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
+606 songs - 1 day 8 hr 20 min - [published](https://open.spotify.com/playlist/4lvmqgyOZ3UIDY0edvx7rR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-05-19 |  |
 | [As the World Caves In](https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH) | 2:41 | 2022-05-19 |  |
 | [As the World Caves In](https://open.spotify.com/track/7LAmsNJpBaNvNg7VZPXxSv) | [Sarah Cothran](https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G) | [As the World Caves In](https://open.spotify.com/album/7fy6bIIBMLjfdvyPpmv8Ci) | 2:41 | 2022-05-19 | 2022-07-29 |
+| [Atlantis](https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE) | [Seafret](https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF) | [Tell Me It's Real \(Expanded Edition\)](https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt) | 3:49 | 2022-08-16 |  |
 | [Audrey](https://open.spotify.com/track/4tRQZioCVlJSJQbyMr5kko) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 2:47 | 2022-05-19 |  |
 | [august](https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:21 | 2022-08-03 |  |
 | [Baby Girl](https://open.spotify.com/track/2cSdAkzAf2T4j4aLvx4LLz) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z) | [Baby Girl](https://open.spotify.com/album/06SuoEMTpd5PGRVwuIpETC) | 1:51 | 2022-06-16 |  |
@@ -173,6 +174,7 @@
 | [Enchanted](https://open.spotify.com/track/10eBRyImhfqVvkiVEGf0N0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/5MfAxS5zz8MlfROjGQVXhy) | 5:52 | 2022-05-19 |  |
 | [Enchanted](https://open.spotify.com/track/04S1pkp1VaIqjg8zZqknR5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Speak Now](https://open.spotify.com/album/6Ar2o9KCqcyYF9J0aQP3au) | 5:52 | 2022-05-19 | 2022-07-29 |
 | [engravings](https://open.spotify.com/track/4u5CfuAGAHNYDIHSSW7BiY) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [engravings](https://open.spotify.com/album/2SbLcM1nwlKO76evmEuX6w) | 3:00 | 2022-06-29 |  |
+| [Enough](https://open.spotify.com/track/4vuVzf7BIZhDAFm3TB0Tzy) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [Enough](https://open.spotify.com/album/1fw8J18rs7te12Bj1UxAUo) | 3:05 | 2022-08-16 |  |
 | [Eventually](https://open.spotify.com/track/5M4yti0QxgqJieUYaEXcpw) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 5:18 | 2022-05-19 |  |
 | [Everybody Wants To Rule The World](https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair \(Super Deluxe Edition\)](https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W) | 4:11 | 2022-06-03 |  |
 | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/track/3YG44aJtUMUtT1OB85s4LK) | [Zia Victoria](https://open.spotify.com/artist/2nbcrlus9x9MaFzxi8nhNE) | [EVERYBODY'S GONNA DIE!](https://open.spotify.com/album/23ZAsoQQ5Bjnxihm4sAsBm) | 2:25 | 2022-07-28 |  |
@@ -496,6 +498,7 @@
 | [Sorry to Your Next Ex](https://open.spotify.com/track/3MmSF1hLnAHBrpF4A0fY9d) | [Haiden](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [Sorry to Your Next Ex](https://open.spotify.com/album/2lvlrdFQRBNcgok4O4QKGK) | 2:51 | 2022-05-19 |  |
 | [Stand by Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 | 2022-05-19 |  |
 | [Starlight](https://open.spotify.com/track/531KGXtBroSrOX9LVmiIgc) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Starlight](https://open.spotify.com/album/1WLS1NrOlbDIl760hVeeUi) | 3:31 | 2022-05-19 |  |
+| [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-08-16 |  |
 | [Stereo Love \- Radio Edit](https://open.spotify.com/track/1AguHaKOuggrVTebp7cZEI) | [Edward Maya](https://open.spotify.com/artist/6XwwFnewNgWp81MYMK8zLq), [Vika Jigulina](https://open.spotify.com/artist/34dZRjYum6vVBGslgYaBtB) | [Stereo Love](https://open.spotify.com/album/0tGht9KBhk71vOJCHZzhVk) | 3:04 | 2022-05-30 |  |
 | [Still D.R.E.](https://open.spotify.com/track/503OTo2dSqe7qk76rgsbep) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 4:30 | 2022-05-19 |  |
 | [Still Falling For You \- From "Bridget Jones's Baby"](https://open.spotify.com/track/3odrUVQ9tvRpkC9II2oWzx) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Still Falling For You \(From "Bridget Jones's Baby" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6YIaqFvhOWma5gbjcB18Nu) | 4:00 | 2022-05-19 |  |

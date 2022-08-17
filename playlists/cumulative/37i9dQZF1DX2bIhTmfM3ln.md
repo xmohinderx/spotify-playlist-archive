@@ -4,7 +4,7 @@
 
 > West African love stories wrapped up in song
 
-88 songs - 4 hr 28 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
+89 songs - 4 hr 31 min - [published](https://open.spotify.com/playlist/6ktLbnDhV5PLxAEX8at8Ai)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 | 2022-06-09 |  |
 | [Let You Go](https://open.spotify.com/track/74ZWwUSOcQ2TrMbDOxAGeS) | [T\-Classic](https://open.spotify.com/artist/2nR9FjLTz90sFqGrhYdzXE) | [VOICENOTE \(EP\)](https://open.spotify.com/album/1UG3wqX23dJYi9cCFyfdxL) | 2:18 | 2022-07-28 | 2022-08-13 |
 | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/track/5Zez1biAREA2C8706kdlIb) | [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV) | [Like \(feat\. Kizz Daniel\)](https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB) | 2:30 | 2022-07-14 |  |
-| [Lonely](https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Lonely](https://open.spotify.com/album/7venGVbmyCI4UBIgyYxW0M) | 2:56 | 2022-02-11 |  |
+| [Lonely](https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Lonely](https://open.spotify.com/album/7venGVbmyCI4UBIgyYxW0M) | 2:56 | 2022-02-11 | 2022-08-17 |
 | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/track/0hW02S9ACVYANz1ica10jH) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Love Don't Cost A Dime \(Re\-Up\)](https://open.spotify.com/album/01N6IpG2OxaznUK60C81hT) | 2:27 | 2022-02-11 |  |
 | [Love Like This \(feat\. Fireboy DML\)](https://open.spotify.com/track/0Eq1YipYrFdRzPKT8y7iOC) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Ecstasy](https://open.spotify.com/album/7yURZkIZfXifDmWOT48TT9) | 3:09 | 2022-02-11 |  |
 | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/track/140dx97IbJbQhIMd7AaHeb) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [love nwantiti \(ah ah ah\) \[feat\. Joeboy & Kuami Eugene\] \[Remix\]](https://open.spotify.com/album/4mI7w8746bh2UPt2LGeeEl) | 3:08 | 2022-02-11 |  |
@@ -65,6 +65,7 @@
 | [Napona](https://open.spotify.com/track/0vqWa6py4X96uFeaue6DKv) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Napona](https://open.spotify.com/album/2g6WReKqmaMix2XTl58AI6) | 2:49 | 2022-07-07 |  |
 | [Need You](https://open.spotify.com/track/1rgK0UrJNwkaIptPI0a5kg) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Laughter, Tears & Goosebumps](https://open.spotify.com/album/4dZjYBEciWomanesAv3fie) | 3:41 | 2022-02-11 |  |
 | [New Born Fela](https://open.spotify.com/track/3yifENCc2SkxVfpfnuCwas) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [New Born Fela](https://open.spotify.com/album/0uN0RVYSdznI1vu1VvjgwB) | 2:09 | 2022-08-05 |  |
+| [No Closure](https://open.spotify.com/track/4d8eyF77ZplwhOSj1rqink) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [No Closure](https://open.spotify.com/album/00zNoLWUcrXKUnstmShe6q) | 3:05 | 2022-08-12 |  |
 | [No Dey Form](https://open.spotify.com/track/1a5glQzge8OW5w2izckOGN) | [AV](https://open.spotify.com/artist/4zSFP72igZmzWSRpK7AepF) | [No Dey Form](https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV) | 2:20 | 2022-07-07 |  |
 | [Nowhere To Hide](https://open.spotify.com/track/6GnIaawrUwU0Agm7BM1wFu) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y), [Kooldrink](https://open.spotify.com/artist/1XQiB7Gp309l4aHhzgGIlY) | [Nowhere To Hide](https://open.spotify.com/album/2wRqnd7i4JjVkvqypSCIeH) | 3:15 | 2022-07-21 |  |
 | [Obsessed](https://open.spotify.com/track/0bHVQDfkxCU4JOTIRBbNgR) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Riddim 5](https://open.spotify.com/album/5OED0Qq75DgxN7XxWvvcAV) | 2:44 | 2022-02-11 |  |

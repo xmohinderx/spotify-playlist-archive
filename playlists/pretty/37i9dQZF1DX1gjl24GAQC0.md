@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 
 > Is it your favorite oppa or dongsaeng? Cover: Golden Child\(골든 차일드\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 750,991 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 751,177 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 39 | [REALLY REALLY](https://open.spotify.com/track/4iJyTp1KwCeBKhf7h0SwsD) | [WINNER](https://open.spotify.com/artist/5DuzBeOgFwViFcv00Q5PFb) | [FATE NUMBER FOR](https://open.spotify.com/album/7aUSYOs4iSl0qx28lelrs0) | 3:23 |
 | 40 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 41 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 |
-| 42 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
+| 42 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 |
 | 43 | [Fireworks \(I'm The One\)](https://open.spotify.com/track/0rNLaGUleZ91DXMxmZNq5v) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.2](https://open.spotify.com/album/1JMc8IZ1Jbax6m5OvswmAB) | 3:29 |
-| 44 | [BOSS](https://open.spotify.com/track/0ErzcmZ2gIwX7X0xSMQPix) | [NCT](https://open.spotify.com/artist/48eO052eSDcn8aTxiv6QaG), [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT 2018 EMPATHY](https://open.spotify.com/album/3KAJvo62RNQEtXwIyB5rzX) | 3:30 |
+| 44 | [Shine](https://open.spotify.com/track/7nkp1uuSbKkoxMvEs8cSw0) | [PENTAGON](https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV) | [Positive](https://open.spotify.com/album/1ZRmLzZWvOkSqWePzFeekO) | 3:18 |
 | 45 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 |
 | 46 | [Glitch Mode](https://open.spotify.com/track/5b1PngLlxc7hj3fJXrE2Zm) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Glitch Mode \- The 2nd Album](https://open.spotify.com/album/4cAcTMGFjTBufC7Eu0FizU) | 3:27 |
 | 47 | [Mango](https://open.spotify.com/track/1VJdjvyLMRUQ0HH8byGDZt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Keep on Going \- The 11th Album Vol.1](https://open.spotify.com/album/31WEkr0PFjRjRWszhYchtp) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gjl24GAQC0.md) - [plain]
 | 49 | [BUT YOU](https://open.spotify.com/track/7IqYkjcFnqKPmwg6lWxXYv) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/3BJeKM18j6QBKLjYVNzgkm) | 3:32 |
 | 50 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 |
 
-Snapshot ID: `MTY2MDMyODM0NiwwMDAwMDAwMGZjNjU5ODNiMTgzMTdjNjE0OGUwYThiYzRhMzZhNDc5`
+Snapshot ID: `MTY2MDMyODM0NiwwMDAwMDAwMGNiNjM1YzJkYjFhMDZkZmFjN2JkMTVlZGU3NmRmN2E3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,483 likes - 60 songs - 3 hr 2 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,480 likes - 61 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,6 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 58 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 |
 | 59 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 |
 | 60 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 |
+| 61 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 |
 
-Snapshot ID: `NTg2Niw2ZjQyZTc3MTdhNDc5OWJjN2I3MjhkMTM4MmJmYzJkZDU5MDA4ZTA0`
+Snapshot ID: `NTg2Nyw1Y2U3OTMyMjI5ODdlYTJiNGVlNjc4NDEyMzc0MDQ0YTVjNzcxOGVi`

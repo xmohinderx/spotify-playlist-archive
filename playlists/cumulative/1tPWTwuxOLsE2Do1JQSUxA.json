@@ -1458,6 +1458,24 @@
     },
     {
       "album": {
+        "name": "Nothing's Real But Love",
+        "url": "https://open.spotify.com/album/6SkhJi7E6s6knycMYYiMg3"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Ferguson",
+          "url": "https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241053,
+      "name": "I Hope",
+      "url": "https://open.spotify.com/track/6LEIaU3O7poBTi39Xg5siS"
+    },
+    {
+      "album": {
         "name": "I Will Never Let You Down",
         "url": "https://open.spotify.com/album/415fhs8Ft2VMFY0rWLK4BD"
       },

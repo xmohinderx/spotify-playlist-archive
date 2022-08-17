@@ -4,7 +4,7 @@
 
 > Relax\. Abbandonati alla musica e ritrova la tua tranquillità.
 
-183 songs - 10 hr 41 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
+184 songs - 10 hr 44 min - [published](https://open.spotify.com/playlist/5tbn3fbQU8g3JiRO1DPsxf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Call My Name](https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Call My Name](https://open.spotify.com/album/7frSUNEyPlMiLV1wK96NZU) | 3:41 | 2022-03-30 | 2022-07-29 |
 | [cardigan](https://open.spotify.com/track/4R2kfaDFhslZEMJqAFNpdd) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 3:59 | 2022-06-30 |  |
 | [Carry You](https://open.spotify.com/track/0u4rkpmNtgcFxYHepnVF4v) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Bathing Beach](https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN) | 4:33 | 2022-03-30 |  |
+| [Certainty](https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 3:07 | 2022-06-30 |  |
 | [Chasing A Feeling](https://open.spotify.com/track/6NbaSIWPpZ1b914pRY1R0W) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Chasing A Feeling](https://open.spotify.com/album/0tey4A2rY0o6g2j1BeXnaJ) | 3:51 | 2022-03-30 | 2022-07-24 |
 | [Chemicals](https://open.spotify.com/track/35AG36QH9ytiNtPyx9xwr8) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [A Place We Knew](https://open.spotify.com/album/61G7KL6rpj167r6H4CzS8C) | 3:41 | 2022-06-30 | 2022-08-14 |
 | [Come Home To Me](https://open.spotify.com/track/2K8elWg8ihrZRwZJ7Gy6L3) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [LÉON](https://open.spotify.com/album/4rH2e0qPw9MrwOSdk9rKNe) | 3:45 | 2022-06-30 |  |
@@ -63,7 +64,7 @@
 | [Girl \- Acoustic](https://open.spotify.com/track/21xRlfE6OjTAFQ4wd9u8IU) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl \(Acoustic\)](https://open.spotify.com/album/7fdAAXgcc7E5F9XE0ZFDQs) | 3:31 | 2022-03-30 | 2022-07-29 |
 | [Girl \- Acoustic](https://open.spotify.com/track/4BrGYhbT975hwXXPBUqXNY) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Girl](https://open.spotify.com/album/1rKpOJytpITLf7mbE7lrkY) | 3:31 | 2022-06-30 |  |
 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 | 2022-03-30 |  |
-| [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2022-06-30 |  |
+| [Godspeed](https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Godspeed](https://open.spotify.com/album/0qYRbCu2dmz948wOiROlcC) | 2:53 | 2022-06-30 | 2022-08-17 |
 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 | 2022-03-30 | 2022-07-29 |
 | [Grey](https://open.spotify.com/track/2J4DpqJCIuuM9WjtWHbjvd) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [The Good Times and The Bad Ones](https://open.spotify.com/album/0cVSrL39wn0PkBm9PFf6G2) | 4:37 | 2022-06-30 |  |
 | [Halo](https://open.spotify.com/track/7p6WxyR20rMHGj4wLeeaRJ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes EP](https://open.spotify.com/album/0aGzGgL9df7M8YQS9rcBjJ) | 3:02 | 2022-03-30 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 
 > Lo mejor del rock en español en la década de los 90.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,094 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,484 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXabkBRQmempy.md) - [plain]
 | 41 | [La parte de adelante](https://open.spotify.com/track/0fHTVPRRKmWaRuIwrsNTMp) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 4:21 |
 | 42 | [Las flores](https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 2:15 |
 | 43 | [Pobre soñador](https://open.spotify.com/track/6UjxBtLPznyXztlMAFrtOW) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [25 años](https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L) | 3:50 |
-| 44 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
-| 45 | [Corazón](https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 4:43 |
+| 44 | [Corazón](https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Mi Vida Loca](https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5) | 4:43 |
+| 45 | [El Duelo](https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [Invisible](https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi) | 3:14 |
 | 46 | [Igual Que Ayer](https://open.spotify.com/track/2JlVEgNJwskpAGSudKPqLD) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Igual Que Ayer](https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp) | 4:50 |
 | 47 | [La chispa adecuada \(Bendecida 3\)](https://open.spotify.com/track/4vkSJSyPddHwL7v3l1cuRf) | [Heroes Del Silencio](https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT) | [Avalancha](https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68) | 5:27 |
 | 48 | [Nubes](https://open.spotify.com/track/7w4ojcH8NJ4LBmJZhSBTcT) | [Caifanes](https://open.spotify.com/artist/1GImnM7WYVp95431ypofy9) | [El Silencio](https://open.spotify.com/album/1WrK98KVZxkTgMD3a9Kpnl) | 4:34 |
 | 49 | [Depende](https://open.spotify.com/track/6aaPUBUFw9KEW1p1inVQv9) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Depende](https://open.spotify.com/album/5aLIm5xrN5UxUZOXbjyrrx) | 4:25 |
 | 50 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 |
 
-Snapshot ID: `MTY1NzEzNjk2NSwwMDAwMDAwMGQ3YWJmMDFmODM4YTVhZThkZTZjNTIyOTk3NWQ3ZTEy`
+Snapshot ID: `MTY1NzEzNjk2NSwwMDAwMDAwMDQzYTAzYzYxYWNlNDJhNDM1NDM4YzBjNjFiYTQwY2Y3`

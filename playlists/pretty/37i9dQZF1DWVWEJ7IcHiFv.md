@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,511 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,570 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 10 | [La Bamba](https://open.spotify.com/track/0uMMLry3hzWGn3q3loqMkm) | [Los Lobos](https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT) | [La Bamba / Charlena](https://open.spotify.com/album/0FPwLfwQWd91kV5rZTzMlZ) | 2:54 |
 | 11 | [Ni tú ni nadie](https://open.spotify.com/track/7LpS82vPDLgZAHWRtWBBRj) | [Alaska Y Dinarama](https://open.spotify.com/artist/2mDlFcPtgXtLF1gEshEInh) | [Deseo Carnal](https://open.spotify.com/album/0WCUpdYXsvpM8Bed8w4vQF) | 3:37 |
 | 12 | [Ven Devórame Otra Vez](https://open.spotify.com/track/2HbmLkHkkI15eES8kpWRuI) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 5:11 |
-| 13 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
-| 14 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 13 | [La Muralla Verde](https://open.spotify.com/track/6OKhBvddAlWxxFnjbpilhu) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Contrareloj](https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd) | 2:41 |
+| 14 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 |
 | 15 | [Hijo de la luna](https://open.spotify.com/track/2LmlZvAmT1L0O3iPVSQWOX) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 4:19 |
 | 16 | [Venezia](https://open.spotify.com/track/1wncA7mz0ntqvZ8UzFokGk) | [Hombres G](https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0) | [Hombres G \(Edición 30 Aniversario\)](https://open.spotify.com/album/2iMF2NlOZMfBTdHyubrg6y) | 4:30 |
 | 17 | [Obsesión](https://open.spotify.com/track/1l0mEM93oZMERzBmOCuiHe) | [Miguel Mateos](https://open.spotify.com/artist/02Nbktg6lCJiazPM6YYTMz) | [Lo Esencial](https://open.spotify.com/album/7zrwTOHJUTWDJBSED3mhbD) | 4:05 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 38 | [Persiana Americana](https://open.spotify.com/track/7JZP7kQsuFFWOrtAI7uNiW) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 4:50 |
 | 39 | [Bamboleo](https://open.spotify.com/track/5siwoDxCGDYnmfWV5SlUpE) | [Gipsy Kings](https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL) | [Gipsy Kings](https://open.spotify.com/album/4aDmHcFNChCXPle7tMeoWS) | 3:23 |
 | 40 | [El Extraño del Pelo Largo](https://open.spotify.com/track/4BlMZN5TUA3O1NbtnMZOEh) | [Los Enanitos Verdes](https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR) | [Originales \- 20 Exitos](https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV) | 2:53 |
-| 41 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
-| 42 | [Agárrense De Las Manos](https://open.spotify.com/track/2XztvViBuf20kZGypnmHGR) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [15 Exitos De Jose Luis Rodriguez](https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt) | 3:59 |
+| 41 | [Agárrense De Las Manos](https://open.spotify.com/track/2XztvViBuf20kZGypnmHGR) | [José Luis Rodríguez](https://open.spotify.com/artist/15YnmlNukYCFvwaFnoDwwV) | [15 Exitos De Jose Luis Rodriguez](https://open.spotify.com/album/22RrvH0d9fd9HHXgOtAOwt) | 3:59 |
+| 42 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
 | 43 | [Toda la Vida](https://open.spotify.com/track/3bekxMTpuHXZXjvuGWtBx5) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Mis Favoritas](https://open.spotify.com/album/3y1nIDv3YFYPl0Z8ZdyQ9d) | 4:47 |
 | 44 | [Cuando Pase el Temblor](https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 |
 | 45 | [Quinceañera](https://open.spotify.com/track/2Sqg5VH7diEdBoQwJH7ryb) | [Timbiriche](https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO) | [La Historia De Los Éxitos](https://open.spotify.com/album/7ITWVrFjMOo5eVT31GY314) | 2:58 |
 | 46 | [Súbete a Mi Moto](https://open.spotify.com/track/1zHmnDfyTpYvu7KkCeqntZ) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 3:30 |
 | 47 | [Mentirosa](https://open.spotify.com/track/3P6fS71hWhZvOnnxQojJ0Z) | [Mellow Man Ace](https://open.spotify.com/artist/37YcGi7z4aXgzWu4jGRe4H) | [Escape From Havana](https://open.spotify.com/album/3jZUAzlDcrJMaL9EXK51aP) | 4:18 |
-| 48 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
-| 49 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
+| 48 | [Este Ritmo Se Baila Así](https://open.spotify.com/track/6sXmREN5oJXB0rZqSjMNXV) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:27 |
+| 49 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 50 | [Rhythm Is Gonna Get You](https://open.spotify.com/track/6302KY4zq4Bpx823hyk4Kk) | [Gloria Estefan And Miami Sound Machine](https://open.spotify.com/artist/2Gop8SbSVt5SaJzuaRFa7D), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Greatest Hits](https://open.spotify.com/album/5wkQo9u8qrKOdfGqoizWPo) | 3:55 |
 
-Snapshot ID: `MTY0MTAyNDAwMSwwMDAwMDAwMGQwNmE0ZDNiMTMyM2NjNmQ2ZmUwMzQwM2Y2MjcxMmRj`
+Snapshot ID: `MTY0MTAyNDAwMSwwMDAwMDAwMDNiMzQzMmRmMjY1YTQwYWEzODljY2EzMTkwNzFkOTMy`

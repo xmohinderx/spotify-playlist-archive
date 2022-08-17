@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 
 > 1\-2\-3, 5\-6\-7, now you're dancing salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,018 likes - 50 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,101 likes - 50 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZtHtrp0izBF.md) - [plain]
 | 43 | [El Día De Mi Suerte](https://open.spotify.com/track/7Kmfjms3yyhg2y56mN7EfZ) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Lo Mato](https://open.spotify.com/album/4TzXeIsjyPLaNvgOd84bwr) | 5:28 |
 | 44 | [Felices los 4 \(feat\. Marc Anthony\) \- Salsa Version](https://open.spotify.com/track/6PNG5G1v7pU74I13KkvAIo) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [F.A.M.E.](https://open.spotify.com/album/6MoaDh76Fsg0ogW2l7HAFx) | 4:02 |
 | 45 | [Quimbara](https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Celia & Johnny](https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1) | 4:51 |
-| 46 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
-| 47 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
+| 46 | [La Agarro Bajando](https://open.spotify.com/track/3GgI4QQWvsqqdKCvnNN0UM) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Intenso](https://open.spotify.com/album/75kOLlIjW99qG0rtOqD3rC) | 4:14 |
+| 47 | [El Cuarto de Tula](https://open.spotify.com/track/7dRfobhDNnsEgB2ZArxA1f) | [Buena Vista Social Club](https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW) | [Buena Vista Social Club](https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi) | 7:24 |
 | 48 | [Amiga](https://open.spotify.com/track/5WyX397vZTvYQwSrylCka0) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Puro Corazón](https://open.spotify.com/album/39gzi20j94Xta3yLFG5wtR) | 4:15 |
 | 49 | [Tu Con El](https://open.spotify.com/track/6jCo1ni2ikRL8DWuegc92I) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Oro Salsero](https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU) | 5:03 |
 | 50 | [Qué Hay de Malo](https://open.spotify.com/track/4b55fVKJprjWWj4KhKgxMf) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Oro Salsero](https://open.spotify.com/album/0FQmLebvYxK7seqvm32JKA) | 4:58 |
 
-Snapshot ID: `MTYzNzg1MTgxMSwwMDAwMDAwMDQ0Y2UxMTgyMDE1NDBiOGQxYzMyZGM5Njc3ZDEyMWU3`
+Snapshot ID: `MTYzNzg1MTgxMSwwMDAwMDAwMDc1ZGU4Y2NlMzE2Zjc1YjUwNzU0ODc0NWY4YzI0Njll`

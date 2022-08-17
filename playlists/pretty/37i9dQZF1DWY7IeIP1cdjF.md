@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Rauw Alejandro, Brray, Lyanno, and more.🔥🥵
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,557,257 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,558,108 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
-| 2 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
-| 3 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 |
+| 1 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
+| 2 | [Es un Secreto](https://open.spotify.com/track/0R7DSnSibvuE4PEHqUayqf) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/3WEwS5DLsagnqQtHP2oEEu) | 3:10 |
+| 3 | [LOKERA](https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [LOKERA](https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU) | 3:15 |
 | 4 | [Pantysito](https://open.spotify.com/track/4srcMdbm2qzVG98tJajHxp) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc) | [Pantysito](https://open.spotify.com/album/1cGXuAtoUe4xzxRHhvxkyW) | 4:00 |
 | 5 | [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 |
 | 6 | [Nos Comemos Vivos](https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Nos Comemos Vivos](https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww) | 3:45 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 | 50 | [Cochinae](https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU) | [Querian Perreo?](https://open.spotify.com/album/0IzxRY3FGPo3sB8kLrNMCU) | 3:20 |
 | 51 | [Yo Quiero](https://open.spotify.com/track/5prjQ7QCWQXH84EUwIckgB) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [Yo Quiero](https://open.spotify.com/album/5kzinI28FtIP1UjxPtQ528) | 3:29 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDEyMzRjZDBmMTM0ZTIwZmZmNTBlMTJhOThmMWRjYWZm`
+Snapshot ID: `MTY2MDY2NDMzNSwwMDAwMDAwMDNlNTJiZjdhMGU5MDg3ZmVhYjEyOWRlZjEzN2Y2YTBj`

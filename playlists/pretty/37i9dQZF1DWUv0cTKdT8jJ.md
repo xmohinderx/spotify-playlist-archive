@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUv0cTKdT8jJ.md) - [plain]
 
 > Crank it up to full volume and enjoy the best rock music \- all day, everyday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,454 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,563 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUv0cTKdT8jJ.md) - [plain]
 | 49 | [Teardrops](https://open.spotify.com/track/3aniWcwiiYKHpm3F5TdeKD) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Teardrops](https://open.spotify.com/album/4U4nKoTy4lsQlUoaGqg8U4) | 3:35 |
 | 50 | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/track/52BHuLFKoBemaQ1oOPFhFZ) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [PMA \(feat\. Pale Waves\)](https://open.spotify.com/album/2Q6u1VzybZKzXfPMPQkyuz) | 3:11 |
 | 51 | [Never Gonna Learn](https://open.spotify.com/track/0XHnYbXteyBDfVvk9EGaPu) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:18 |
-| 52 | [Seventeen Going Under \- Edit](https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 3:57 |
-| 53 | [Dark Side](https://open.spotify.com/track/2vICdcAEc10WfqMeRxOF1I) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 2:57 |
+| 52 | [Dark Side](https://open.spotify.com/track/2vICdcAEc10WfqMeRxOF1I) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [Lifestyles of the Sick & Dangerous](https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb) | 2:57 |
+| 53 | [Seventeen Going Under \- Edit](https://open.spotify.com/track/4z86ZEcMLofosRyJMqBkIz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under](https://open.spotify.com/album/4RS1iWb2MC9o21z3t8zxl4) | 3:57 |
 | 54 | [Trouble’s Coming](https://open.spotify.com/track/5eR6OS3joTAHJToyzehKfu) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Trouble’s Coming](https://open.spotify.com/album/7HZqhu4pOZcTAv7ROHhZSj) | 3:48 |
 | 55 | [Buck Rogers](https://open.spotify.com/track/0ySYUxaTxfN8Kd6nuNY6bY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Echo Park](https://open.spotify.com/album/2AqgHBVRkki14FLTOK2eU7) | 3:13 |
 | 56 | [god save me, but don't drown me out](https://open.spotify.com/track/0iVSLUaLzYPi1vDFTkjZhb) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 3:37 |
@@ -72,16 +72,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUv0cTKdT8jJ.md) - [plain]
 | 62 | [The Champion](https://open.spotify.com/track/5AU57UY8wDFicbZw8E6mw2) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [Carry On](https://open.spotify.com/album/4JnL4N9xWOWrQIF7rCdEXH) | 2:39 |
 | 63 | [strawberry lipstick](https://open.spotify.com/track/75ELnvpSiymLZVmYvqyvZJ) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:43 |
 | 64 | [When You Know](https://open.spotify.com/track/3DaSurzbFuzWE45tQm1TO5) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [All Distortions Are Intentional](https://open.spotify.com/album/3fM2J0ilTBGwnzcN3SqUcG) | 3:09 |
-| 65 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 66 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 65 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 66 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 67 | [Bite My Tongue](https://open.spotify.com/track/1FIWe0EWWE6D8soz2ZsMuM) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW) | [Sinners Never Sleep](https://open.spotify.com/album/6qwklyZrZuJ7sQrRjGQAW8) | 3:42 |
 | 68 | [Blessed Be](https://open.spotify.com/track/4YhHPtAVCxj7HfcvGTBHAC) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Blessed Be](https://open.spotify.com/album/4arAk1Qq2Fl9XmonZYe7Qs) | 4:05 |
 | 69 | [Seize the Power](https://open.spotify.com/track/4wD6EgZCok8Qb5Fs8jszYc) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Seize the Power](https://open.spotify.com/album/0nxvZWO6ybAd4OZ63cImZ7) | 2:41 |
 | 70 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
 | 71 | [Wake Me Up](https://open.spotify.com/track/4MDDOpA7BwGDjYclTmCTVw) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Wake Me Up](https://open.spotify.com/album/7MyrKdRkvj8hK20cLBj5jI) | 4:23 |
 | 72 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/1BiRaCcUqWpLLb4LZpvRMF) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/album/3VGiUssrBkq8DKNdnbZRBR) | 2:49 |
-| 73 | [Cutthroat](https://open.spotify.com/track/0n0TbMUY2xrZlvd5J6XsqO) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:49 |
-| 74 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
+| 73 | [Baby You're a Haunted House](https://open.spotify.com/track/4c38yr2PflGI2DSIzqsnmF) | [Gerard Way](https://open.spotify.com/artist/4YZ5ECfbM2xSTSQTJGBbO5) | [Baby You're a Haunted House](https://open.spotify.com/album/3OyBzPBEniYPTNgIIHfTXS) | 2:46 |
+| 74 | [Cutthroat](https://open.spotify.com/track/0n0TbMUY2xrZlvd5J6XsqO) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Follow You / Cutthroat](https://open.spotify.com/album/1nz0PWfAcTQVbFtpU6u1UY) | 2:49 |
 | 75 | [Genesis](https://open.spotify.com/track/6FfMQVzOC46ZL5byOQfUhT) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Ohms](https://open.spotify.com/album/0VEFy5MsBiq0u2lWL0OwOd) | 5:17 |
 | 76 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 77 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUv0cTKdT8jJ.md) - [plain]
 | 99 | [If I Were You](https://open.spotify.com/track/5zq85bH7aHwAwYKpPzwyH5) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Moral Panic II](https://open.spotify.com/album/6I4s9QeVMZfaF152XWjXFY) | 3:28 |
 | 100 | [CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/track/6fGw5N35sPLcmyN5T3XRv7) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos), [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [Black Eyes Blue / CMFT Must Be Stopped \(feat\. Tech N9ne and Kid Bookie\)](https://open.spotify.com/album/6cflFZCSRgkhzBUguQrsJy) | 5:14 |
 
-Snapshot ID: `MTY0Mzk5MzE1NiwwMDAwMDAwMDVjOTI1ODRiZjBmZGQwNmQzMTk4ZDFlMTVlMjUyMjU4`
+Snapshot ID: `MTY0Mzk5MzE1NiwwMDAwMDAwMDRhODYwYjQ2M2RkOThlNzM2OGU2ODJjOTg4NGU3NmVk`

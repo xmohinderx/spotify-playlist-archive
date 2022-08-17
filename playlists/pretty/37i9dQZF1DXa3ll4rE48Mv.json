@@ -1,12 +1,12 @@
 {
   "description": "The sounds of LGBTQ+ punk. Cover: Big Joanie",
-  "num_followers": 118052,
+  "num_followers": 118114,
   "original_name": "Queercore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDBjODYyOTBkZDY3NDY1YTUxMGZlODdiNjQ0ZTJhMjlk",
+  "snapshot_id": "MTY1NDAzODA2MCwwMDAwMDAwMDZhYjU3NGNjMGRhOGI4MDE3NWVkYWQyOTkxNzZlNTVl",
   "tracks": [
     {
       "added_at": "2022-05-31 23:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Pity Boy",
-        "url": "https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2"
-      },
-      "artists": [
-        {
-          "name": "Mal Blum",
-          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
-        }
-      ],
-      "duration_ms": 151473,
-      "name": "Things Still Left to Say",
-      "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Imaginary Life",
         "url": "https://open.spotify.com/album/4Yb6CXNP2OjaRvPHLNVZfr"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 138824,
       "name": "They / Them / Theirs",
       "url": "https://open.spotify.com/track/5zpUjhFZWLZ7vCVk6ZpnRs"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Pity Boy",
+        "url": "https://open.spotify.com/album/2RCB0j6tDvutjHGcSBeRK2"
+      },
+      "artists": [
+        {
+          "name": "Mal Blum",
+          "url": "https://open.spotify.com/artist/4tT8fWyOy0hVI7jo9fJmXX"
+        }
+      ],
+      "duration_ms": 151473,
+      "name": "Things Still Left to Say",
+      "url": "https://open.spotify.com/track/4Rd5yPcGwS8ewCJYwxyfqP"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -331,22 +331,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Sistahs",
-        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
-      },
-      "artists": [
-        {
-          "name": "Big Joanie",
-          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
-        }
-      ],
-      "duration_ms": 176617,
-      "name": "Fall Asleep",
-      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "gasoline",
         "url": "https://open.spotify.com/album/5fpTeGoair7Yj69gyJfjUh"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 114053,
       "name": "Staplegun",
       "url": "https://open.spotify.com/track/4JRs49S2iWLrYKppB2Nmql"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Sistahs",
+        "url": "https://open.spotify.com/album/7pToEE1w4P0UAMqhaPxoQr"
+      },
+      "artists": [
+        {
+          "name": "Big Joanie",
+          "url": "https://open.spotify.com/artist/39cxr26gqrCiUgIkz4lA8j"
+        }
+      ],
+      "duration_ms": 176617,
+      "name": "Fall Asleep",
+      "url": "https://open.spotify.com/track/0PZQWlZ4A8CSD1f9P9xoTx"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Lost Time",
-        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
-      },
-      "artists": [
-        {
-          "name": "Tacocat",
-          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
-        }
-      ],
-      "duration_ms": 125935,
-      "name": "I Hate the Weekend",
-      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Total 90",
         "url": "https://open.spotify.com/album/4efq58i5lqhrDIigg4mGNj"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 163867,
       "name": "Total 90",
       "url": "https://open.spotify.com/track/0wt9XdllRuII1YlWz0sPrR"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Lost Time",
+        "url": "https://open.spotify.com/album/62hqSIE4mKpvl9sCs8AaKh"
+      },
+      "artists": [
+        {
+          "name": "Tacocat",
+          "url": "https://open.spotify.com/artist/3h0MN1neFknEvlYKxFmSQW"
+        }
+      ],
+      "duration_ms": 125935,
+      "name": "I Hate the Weekend",
+      "url": "https://open.spotify.com/track/4ve7zbGDOJ9WIlPiUoTtVp"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Dream Wife",
-        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
-      },
-      "artists": [
-        {
-          "name": "Dream Wife",
-          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
-        }
-      ],
-      "duration_ms": 175760,
-      "name": "Let's Make Out",
-      "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Zombie Terrorist",
         "url": "https://open.spotify.com/album/1b8585sIYVvPbWpdW7Vms3"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 127773,
       "name": "Trophy Wifey",
       "url": "https://open.spotify.com/track/2sElL4pdDB9HReW1dCp6hH"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Dream Wife",
+        "url": "https://open.spotify.com/album/0fFlloNPNem2XOi4AeU5ty"
+      },
+      "artists": [
+        {
+          "name": "Dream Wife",
+          "url": "https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a"
+        }
+      ],
+      "duration_ms": 175760,
+      "name": "Let's Make Out",
+      "url": "https://open.spotify.com/track/6sFBi0lIQ2tWedzNcFDnkR"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Stoned Butch Blues",
-        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
-      },
-      "artists": [
-        {
-          "name": "Butch Baby",
-          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
-        }
-      ],
-      "duration_ms": 167623,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Chickens",
         "url": "https://open.spotify.com/album/1aDGrlOO5aCxtArveJH8fI"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 260000,
       "name": "Chickens",
       "url": "https://open.spotify.com/track/5hnktvtMR96jGKA54FEi7U"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Stoned Butch Blues",
+        "url": "https://open.spotify.com/album/4qSJWCaegd4OR1UzwOocpn"
+      },
+      "artists": [
+        {
+          "name": "Butch Baby",
+          "url": "https://open.spotify.com/artist/3jzfCiOKgr1xHyUYLqw3lr"
+        }
+      ],
+      "duration_ms": 167623,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/5BWpwPVzb4LuvPpZ1SB0SS"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -775,6 +775,22 @@
       "duration_ms": 191009,
       "name": "Sick Sad World",
       "url": "https://open.spotify.com/track/4BeyMnzwMGNnjYIqMhHqYZ"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Night in the Woods",
+        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
+      },
+      "artists": [
+        {
+          "name": "Gender Chores",
+          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Night in the Woods",
+      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -839,22 +855,6 @@
       "duration_ms": 137781,
       "name": "They/Them",
       "url": "https://open.spotify.com/track/7BuZgwIl9cx2hk2fsVlVYu"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
-        "name": "Night in the Woods",
-        "url": "https://open.spotify.com/album/6IvCrae07F3hum42P8CYb0"
-      },
-      "artists": [
-        {
-          "name": "Gender Chores",
-          "url": "https://open.spotify.com/artist/1KXewBzOBGruO48jAuuVVi"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Night in the Woods",
-      "url": "https://open.spotify.com/track/3xsaPXF9RUVWMJDKYN0sZ5"
     },
     {
       "added_at": "2022-05-31 23:01:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2022-05-31 23:01:00",
       "album": {
-        "name": "Talk It Out",
-        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
-      },
-      "artists": [
-        {
-          "name": "Sports Bra",
-          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
-        }
-      ],
-      "duration_ms": 180442,
-      "name": "Precious and Perfect",
-      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
-    },
-    {
-      "added_at": "2022-05-31 23:01:00",
-      "album": {
         "name": "Sorry",
         "url": "https://open.spotify.com/album/12mEYu1QsUj8mWVhNMuyr5"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 144170,
       "name": "Sorry",
       "url": "https://open.spotify.com/track/1LrMwgLn973lcjAlkxoX0p"
+    },
+    {
+      "added_at": "2022-05-31 23:01:00",
+      "album": {
+        "name": "Talk It Out",
+        "url": "https://open.spotify.com/album/2Pd2r2Lif7ChcLIlZNPG61"
+      },
+      "artists": [
+        {
+          "name": "Sports Bra",
+          "url": "https://open.spotify.com/artist/3U4YNgmMwXjWfIt4UTNm4b"
+        }
+      ],
+      "duration_ms": 180442,
+      "name": "Precious and Perfect",
+      "url": "https://open.spotify.com/track/4pxxxqnaDQZMEHWS9AP5gD"
     },
     {
       "added_at": "2022-05-31 23:01:00",

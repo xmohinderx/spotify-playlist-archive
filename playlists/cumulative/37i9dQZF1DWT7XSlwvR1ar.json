@@ -2197,7 +2197,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 119590,
       "name": "Hey Julia",
       "url": "https://open.spotify.com/track/4ITcbrMbYwD3kuIG304nxO"
@@ -2851,7 +2851,7 @@
       ],
       "date_added": "2019-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 212945,
       "name": "Joyride",
       "url": "https://open.spotify.com/track/0VcVy0kpfwyd5rMS5URyVD"
@@ -3982,6 +3982,24 @@
     },
     {
       "album": {
+        "name": "Out of My Head",
+        "url": "https://open.spotify.com/album/0yApDZC0LLXvZ7A21xL9BT"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214000,
+      "name": "Out of My Head",
+      "url": "https://open.spotify.com/track/6hAZx4PQIlwyazfANp6joe"
+    },
+    {
+      "album": {
         "name": "Paper Planes",
         "url": "https://open.spotify.com/album/1k4PWPO9n9mMQyh1WGXog0"
       },
@@ -4278,6 +4296,24 @@
     },
     {
       "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w"
+    },
+    {
+      "album": {
         "name": "Quietly Blowing It",
         "url": "https://open.spotify.com/album/1iNOO5VSJciTGogwlClRsa"
       },
@@ -4343,7 +4379,7 @@
       ],
       "date_added": "2021-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 257893,
       "name": "See the World",
       "url": "https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB"
@@ -4567,6 +4603,24 @@
       "duration_ms": 162784,
       "name": "Smile",
       "url": "https://open.spotify.com/track/2HbmLbfMj0m3gMd9E5c9iu"
+    },
+    {
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "album": {

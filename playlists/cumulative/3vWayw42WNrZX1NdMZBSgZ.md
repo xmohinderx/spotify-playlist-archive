@@ -4,7 +4,7 @@
 
 > The perfect mix of the biggest <a href="https://www.instagram.com/sonymusiclatin/">Sony Music Latin</a> hits! Follow this playlist for hot new updates\. Cover: Silvestre Dangond
 
-265 songs - 14 hr 37 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
+267 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/0lGBO3myxqxYAzrucuf31y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Como la Primera Vez](https://open.spotify.com/track/569ewIQFBsJwBtuVJMXLrM) | [Leslie Grace](https://open.spotify.com/artist/6BeO1KuAWBqFriL1mLHtNc), [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Como la Primera Vez](https://open.spotify.com/album/7sQj4Eu9CfDwjSa6zXgjj5) | 3:05 | 2022-05-31 |  |
 | [Como Lo Hice Yo](https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Como Lo Hice Yo](https://open.spotify.com/album/1MuEscvBJb4mFRS2wdffug) | 2:57 | 2022-02-02 |  |
 | [como si no importara](https://open.spotify.com/track/1GYJpuLq41vEVKXiHGEY9j) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [como si no importara](https://open.spotify.com/album/4wiXwwbxNfFVPVKHxov5Tr) | 2:53 | 2022-02-02 |  |
+| [CORAÇÃO CIGANO \- Ao Vivo](https://open.spotify.com/track/1LF8IUjHfiXEbTOjpxMULN) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [CORAÇÃO CIGANO \(Ao Vivo\)](https://open.spotify.com/album/70fOdx8p8kWMOIZzBY3dGj) | 3:29 | 2022-08-16 |  |
 | [Cosas De La Vida](https://open.spotify.com/track/0WfQLUjyg5wn0zWxsOda07) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Cosas De La Vida](https://open.spotify.com/album/37PlSJaDNBVPHnsqhFqfK4) | 2:44 | 2022-02-02 |  |
 | [Cositas de la USA](https://open.spotify.com/track/5c4KBG3ATUOmP8y2KHGGoI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Cositas de la USA](https://open.spotify.com/album/4EwZe3wzi0JWMdobUrpHIs) | 3:09 | 2022-02-02 |  |
 | [Cuando Me Dé la Gana](https://open.spotify.com/track/2joHNbSdBZtZC5NlEQDUkZ) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [AGUILERA](https://open.spotify.com/album/52SJvDHaFAC3IE4a29UOIa) | 3:26 | 2022-06-03 |  |
@@ -107,6 +108,7 @@
 | [KI\-KI](https://open.spotify.com/track/3Yu5XohK3sDfSg5os4ARFm) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [KI\-KI](https://open.spotify.com/album/5UcTxoImmX1zOTnk0AvKD1) | 2:21 | 2022-05-06 |  |
 | [L.N.E.M\. \(GATA\) \(feat\. Kapla y Miky, Philip Ariaz & Blessd\)](https://open.spotify.com/track/5L8i01motNf1uS1aY78him) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [L.N.E.M\. \(GATA\) \(feat\. Kapla y Miky, Philip Ariaz & Blessd\)](https://open.spotify.com/album/3CEYuDjx4wrsNEjeI8NzCy) | 4:12 | 2022-02-02 |  |
 | [La Bachata](https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [La Bachata](https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2) | 2:42 | 2022-05-26 |  |
+| [La Chain](https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [La Chain](https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid) | 2:19 | 2022-08-16 |  |
 | [La Culpa](https://open.spotify.com/track/72X8O4JlTkTXRM2EpcQwsF) | [Joel DELEÓN](https://open.spotify.com/artist/3okQioJzZzTM7LwENIdd18) | [La Culpa](https://open.spotify.com/album/03KuiVdDtiXtx24I16d03Y) | 3:22 | 2022-02-02 |  |
 | [La Culpa \(feat\. Canelita\)](https://open.spotify.com/track/60e6OnYOu0h7LLhYXgINma) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Canelita](https://open.spotify.com/artist/7g9K2QjuqVLUniCCCHyF7j) | [La Culpa \(feat\. Canelita\)](https://open.spotify.com/album/6FmIPojon58vU6QsecKWTk) | 3:08 | 2022-02-17 |  |
 | [La Equivocada](https://open.spotify.com/track/4hM1rUoUrthsX8D4BH74MO) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [La Equivocada](https://open.spotify.com/album/4SFf9s5HXSycEG0zLgK11l) | 3:18 | 2022-04-07 |  |

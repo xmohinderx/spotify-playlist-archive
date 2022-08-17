@@ -4,7 +4,7 @@
 
 > Indie music to keep your gaming session properly soundtracked.
 
-359 songs - 20 hr 10 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
+360 songs - 20 hr 13 min - [published](https://open.spotify.com/playlist/6eT1nwSC8c4kaxWfBxqE4a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 | 2021-10-20 |  |
 | [A Soulmate Who Wasn’t Meant to Be](https://open.spotify.com/track/0gOz9JUXsaKVzLTSmFDtdo) | [Jess Benko](https://open.spotify.com/artist/6U53xCCVXmyimAgsBjCS8P) | [Do You Love Me, or Are You Just Lonely?](https://open.spotify.com/album/28B3NkA4cyPjPH0EJJTsN3) | 5:16 | 2021-10-20 |  |
 | [A\-Punk](https://open.spotify.com/track/2DrGEaqoruCSn0FffWCf5O) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x) | 2:17 | 2022-02-28 | 2022-04-21 |
-| [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-06-08 |  |
+| [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 | 2022-06-08 | 2022-08-17 |
 | [Achilles Come Down](https://open.spotify.com/track/22TntnVO3lQNDR5nsvxGRs) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [Go Farther In Lightness](https://open.spotify.com/album/0leVOEw8L2TnAfLGwkFnab) | 7:02 | 2021-10-20 |  |
 | [Advice](https://open.spotify.com/track/2XwcKJW9Q0gaDIZzg0dKQt) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Trick](https://open.spotify.com/album/3mUhfkEikAJjuvSDC1NEE4) | 2:37 | 2021-10-20 | 2022-02-26 |
 | [After Dark](https://open.spotify.com/track/2LKOHdMsL0K9KwcPRlJK2v) | [Mr.Kitty](https://open.spotify.com/artist/0pWwt5vGNzezEhfAcc420Y) | [Time](https://open.spotify.com/album/63TYyeXlBYoYKNvE6rT3hI) | 4:19 | 2022-02-25 |  |
@@ -36,6 +36,7 @@
 | [Attracted To You](https://open.spotify.com/track/4fPjI40ElIwJQ4DJJxSCOe) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Attracted To You](https://open.spotify.com/album/3tY6ZOPhcl9B5HVVhs7GkC) | 1:07 | 2021-10-20 | 2022-02-26 |
 | [Baby Hotline](https://open.spotify.com/track/1R8kvV2AgNPCA2Pp4Im1Ao) | [Jack Stauber's Micropop](https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC) | [Baby Hotline / Tea Errors](https://open.spotify.com/album/1AaAZVHtUWpJuLpq96VUuQ) | 4:51 | 2021-10-26 | 2021-12-09 |
 | [Backyard Boy](https://open.spotify.com/track/04F42oEuKrRComYJfJuyVR) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Backyard Boy \(Stripped\)](https://open.spotify.com/album/4BXCJA3xYjgSk16CqK1Zrz) | 2:09 | 2021-10-20 | 2022-02-26 |
+| [Bad Habit](https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Bad Habit](https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V) | 3:52 | 2022-08-16 |  |
 | [Bang Bang Bang Bang](https://open.spotify.com/track/2qLSXZuIHMsKydCEFDchc3) | [Sohodolls](https://open.spotify.com/artist/1KNXft7nnRQj82sENi7WGN) | [Ribbed Music For The Numb Generation](https://open.spotify.com/album/6DK0TneKMKj64I93VCG1bW) | 3:01 | 2021-10-20 | 2022-02-26 |
 | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/track/22PnPdB20lq7wElHkk17oP) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [bbycakes \(with Lil Uzi Vert, PinkPantheress & Shygirl\)](https://open.spotify.com/album/3oy8tsUTNAzJSZQwEjXycC) | 2:52 | 2022-02-25 | 2022-04-06 |
 | [Be Nice to Me](https://open.spotify.com/track/2mQqKFxQ6PDSKyFOCSLrXc) | [The Front Bottoms](https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS) | [Rose](https://open.spotify.com/album/1qmEtW6vj8rgPVGs2vfVTx) | 2:47 | 2021-10-27 | 2021-12-15 |

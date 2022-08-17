@@ -5370,6 +5370,24 @@
     },
     {
       "album": {
+        "name": "u.",
+        "url": "https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml"
+      },
+      "artists": [
+        {
+          "name": "niteboi",
+          "url": "https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174299,
+      "name": "u.",
+      "url": "https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2"
+    },
+    {
+      "album": {
         "name": "Unify / Lift Me Up",
         "url": "https://open.spotify.com/album/5IYZPdgIRq01r0noaioYf9"
       },
@@ -5835,7 +5853,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 215039,
       "name": "Wide Awake (feat. Charlie Houston)",
       "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"

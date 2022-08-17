@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,110 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,112 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,16 +47,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 37 | [Reggaeprofil](https://open.spotify.com/track/0kDQRF7cCp5ZZ2tbtbjzK8) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx), [Jr Erik](https://open.spotify.com/artist/6tabmZkqzTHQs2iSrMFp89) | [Som Salomos Sång](https://open.spotify.com/album/4QHwlhuYsp09oss1xttiNP) | 3:47 |
 | 38 | [Vakna](https://open.spotify.com/track/3YOor59KQIT8AyxwVhddIy) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Gör Det Ändå](https://open.spotify.com/album/1WwVqbKojvk0SM8REsquY8) | 3:32 |
 | 39 | [Aina Älskar Reggae](https://open.spotify.com/track/0ZxfitMpf8fLzcww0763rb) | [LöstFolk](https://open.spotify.com/artist/0I0dXOTO0xHs6DZEiL556a), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [The Tomtations Show](https://open.spotify.com/album/0SH0zQr3ds4stTX3Jl6I3q) | 4:42 |
-| 40 | [Väntar på livet](https://open.spotify.com/track/0SfLDeRFILNjscUICZNV9y) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Väntar på livet](https://open.spotify.com/album/0tci3UMmULfwRyw7csx45k) | 3:36 |
-| 41 | [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 |
+| 40 | [Över Min Döda](https://open.spotify.com/track/5R44kH5guNlbnS1ax6CFYD) | [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Över Min Döda](https://open.spotify.com/album/1BuRxLRuTrwiDlmuFdpe6U) | 3:33 |
+| 41 | [Väntar på livet](https://open.spotify.com/track/0SfLDeRFILNjscUICZNV9y) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Väntar på livet](https://open.spotify.com/album/0tci3UMmULfwRyw7csx45k) | 3:36 |
 | 42 | [Baluns](https://open.spotify.com/track/6CGJTlDyAIqUAjnHTlP2O3) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Dirty Jens](https://open.spotify.com/artist/1re0NOBZGoyheVxR4tLev7) | [Baluns](https://open.spotify.com/album/71rcv1SUcbmo6CB6vo0NxN) | 2:35 |
 | 43 | [Bida Din Tid](https://open.spotify.com/track/3QMPZo33FYmz9JxtIhHJU1) | [Jeepstarr](https://open.spotify.com/artist/1wXinjMsxsHJGk7wi3wYsu) | [Rotlösa Singlar](https://open.spotify.com/album/2efeB3FyNaOgPYhcCQwioH) | 3:53 |
-| 44 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
-| 45 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
-| 46 | [En God Vän](https://open.spotify.com/track/38UKbt0qxGxnwYLGKKxyLi) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy) | [Kärlek & Revolt](https://open.spotify.com/album/6qHqlEw9gtgSOtl1ozdsUO) | 3:51 |
+| 44 | [Mediakåt feat\. Timbuktu](https://open.spotify.com/track/2LJCk8rliwXAnYTD9rEPWw) | [Helt Off](https://open.spotify.com/artist/2jyig4DFb68JxLmVSrgHjy), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Marknadens soldat](https://open.spotify.com/album/0hZQuNeRKADQflu15vj10t) | 4:11 |
+| 45 | [No Winners](https://open.spotify.com/track/47rPfUdslLIWWcwv1yrySB) | [Daniel Lemma](https://open.spotify.com/artist/14ch8ZI4tN3IlWAAchEKeS) | [Punch of Love](https://open.spotify.com/album/5Jb1WWX7p7Bhj581xxzFBW) | 4:05 |
+| 46 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
 | 47 | [Vakter Och Polis Med Jr Erik, Eye'n\`l & Kapten Röd](https://open.spotify.com/track/4UtcOmB3ZqgtZiABLYCBSI) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [Underhållningsmaskinen](https://open.spotify.com/album/4NXk3Z5mg1PPos62yeJAQX) | 4:00 |
 | 48 | [Du Vill Så Du Kan](https://open.spotify.com/track/5oo1hxx3SkXtF2tzzggAhM) | [Svenska Akademien](https://open.spotify.com/artist/3BPemeIazbWrWKNMeorJvS) | [Resa Sig Opp](https://open.spotify.com/album/5vGTg3HqIqOEagshyN9Yma) | 4:05 |
-| 49 | [Mi Amor](https://open.spotify.com/track/4vW0yftC1LPQHCVEborgqT) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Mi Amor](https://open.spotify.com/album/5YtHb5glRtjDX9QtkeqgnD) | 3:42 |
-| 50 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
+| 49 | [Onda ögat](https://open.spotify.com/track/2308zhPgcLzR1xKMhI5naC) | [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [SELFMADE](https://open.spotify.com/album/7bDdwOEcIAfemtJecLkP5g) | 4:00 |
+| 50 | [Enda Vägen Fram](https://open.spotify.com/track/2pibBmMCnufHoOfr2lml9g) | [General Knas](https://open.spotify.com/artist/42SZWoHp8GLbTAFCF8xOIy), [Kapten Röd](https://open.spotify.com/artist/4G2UDRhQLUDq0f93giGYwA) | [Folkets Röst](https://open.spotify.com/album/6GTUomhBv2uldNCKXrx3jw) | 3:13 |
 
-Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDE2MmNmYmVkYjgzOGY5NDk3YjQyOWZiYzAxODNmNDYw`
+Snapshot ID: `MTY1Nzg5NDYxMCwwMDAwMDAwMDkxZTM2NDcxNDM0YWQ2NGUzYWQ4NzZhMjQ4YWU4M2Ji`

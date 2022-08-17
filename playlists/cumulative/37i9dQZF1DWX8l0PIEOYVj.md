@@ -4,7 +4,7 @@
 
 > Future & melodic bass\. Cover: Jason Ross.
 
-215 songs - 12 hr 52 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
+216 songs - 12 hr 55 min - [published](https://open.spotify.com/playlist/6p3tvkx6aJZVieMCGLl8nF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Lights Out](https://open.spotify.com/track/0XdmzOmGiPoNEfNK4BslVo) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Lights Out](https://open.spotify.com/album/1K9qhtSCTuNF4weATzFxZT) | 3:53 | 2022-07-08 |  |
 | [Lightspeed](https://open.spotify.com/track/6mFt5wIzTKeFV9QsF1aU2N) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Planet Oasis](https://open.spotify.com/album/1Hv4crdSeL4Zd2jVdV7dJG) | 3:00 | 2022-07-08 |  |
 | [Like Water](https://open.spotify.com/track/0AbrbSTdgq56Yk7FfzscPF) | [Crystal Skies](https://open.spotify.com/artist/6HraHl4uwIQFixUu3J49BK), [Danny Olson](https://open.spotify.com/artist/06MSAITCPRhtuJMD4UL96s), [Jadelyn](https://open.spotify.com/artist/0nfU2YxUfRQxknJWo3mQit) | [Like Water](https://open.spotify.com/album/7mzTpyA0mRSC1yXGAsgAcS) | 4:30 | 2022-07-08 | 2022-08-06 |
-| [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-08 |  |
+| [Long Way Down](https://open.spotify.com/track/4Gn8upxtpncAQRBaqhYBGz) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Long Way Down](https://open.spotify.com/album/3iDpry2d331nweoBhOJMTm) | 3:36 | 2022-07-08 | 2022-08-17 |
 | [Losing My Mind](https://open.spotify.com/track/2kXvk84Udu5hCOizgQCBmU) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Brooke Williams](https://open.spotify.com/artist/47eA8knxvpD9CZsqHn4Mxz) | [Losing My Mind](https://open.spotify.com/album/5tEMN11A8LyAzummT8irHV) | 3:12 | 2022-07-08 |  |
 | [Lost](https://open.spotify.com/track/3fH6sfaWJ9Ji6sqbcqdPmf) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Lost](https://open.spotify.com/album/4718f8p5I2EHop2LwcPHah) | 3:08 | 2022-07-08 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/1sWWOV3HQuvJ3N2z6dtu2W) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ) | [Love Again](https://open.spotify.com/album/1qV37llR1TT8BfnZAMVaAs) | 3:50 | 2022-07-08 |  |
@@ -194,6 +194,7 @@
 | [Surrender](https://open.spotify.com/track/67hXwO5ry524QKakkllndZ) | [Napa Cabbage](https://open.spotify.com/artist/6yQkMw2cRF9RstGdKlva32), [Veronica Bravo](https://open.spotify.com/artist/3xIHOffeC188QWHIiCaLXr) | [Surrender](https://open.spotify.com/album/070G3aCcs8BV5yCLsYmm9F) | 3:38 | 2022-07-08 |  |
 | [Survive \(with Luma\)](https://open.spotify.com/track/1MhdaEmBlc71o9ID1eP9Io) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Luma](https://open.spotify.com/artist/29siAJ78u7y79BYOyh0lbp) | [Survive \(with Luma\)](https://open.spotify.com/album/6tNXNRyY93e2m0jQMlRQ2g) | 3:47 | 2022-07-08 |  |
 | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/track/7dUeGRu9gaXSjkjKO4I8F3) | [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [MitiS](https://open.spotify.com/artist/16yUpGkBRgc2eDMd3bB3Uw), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Take You Home \(feat\. Dia Frampton\)](https://open.spotify.com/album/0YrmV2q7mqsDbcjY0jpH95) | 3:38 | 2022-07-08 |  |
+| [Tell Me Why](https://open.spotify.com/track/1Ic5GlyRW3eTYC9Yx6kHnb) | [Mendum](https://open.spotify.com/artist/3rq78lkE1laoELdsHHirtg), [Brenton Mattheus](https://open.spotify.com/artist/5L3htGbUwUCPPhVM2UtdTY) | [Tell Me Why](https://open.spotify.com/album/0cFJ5gN9aF8I7ev145OKvR) | 3:24 | 2022-08-12 |  |
 | [TELL U](https://open.spotify.com/track/2cgm2QVvtRXdIDkVVD7Beq) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/0ZRcvD0RgToYTqzC7LNt05) | 2:47 | 2022-07-08 | 2022-07-23 |
 | [TELL U](https://open.spotify.com/track/6RN7j3mFcBvuiJIin5EpcR) | [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK) | [TELL U](https://open.spotify.com/album/4NwMXA7Y8wzGlHV5INIlSa) | 2:47 | 2022-07-29 |  |
 | [The Feeling](https://open.spotify.com/track/5XlufuPluY6GRBlXZvnZVJ) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb), [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [The Feeling](https://open.spotify.com/album/5wURsb3f8KcLz93oFGWHyX) | 3:22 | 2022-07-08 | 2022-08-06 |

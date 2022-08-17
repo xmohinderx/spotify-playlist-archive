@@ -1,12 +1,12 @@
 {
   "description": "This is a deep tribal sound, combining electronic elements and organic instrumentation, stemming from the folk music of Africa, Latin America, and the Middle East.",
-  "num_followers": 644117,
+  "num_followers": 644473,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxMzkyMiwwMDAwMDAwMGJkOGM3YmQ0N2MwOTIwNTJiYjE3NTU0MWE0NThiMDlk",
+  "snapshot_id": "MTY2MDMxMzkyMiwwMDAwMDAwMGU5YmM2MTVlZTc4OTRhMjI3Y2Q5N2NhMThmMDczZmNm",
   "tracks": [
     {
       "added_at": "2022-08-12 14:18:42",
@@ -295,6 +295,22 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
+        "name": "Bahar",
+        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
+      },
+      "artists": [
+        {
+          "name": "islandman",
+          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Bahar",
+      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
         "name": "Maasai (Doctor Flake Remix)",
         "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Bahar",
-        "url": "https://open.spotify.com/album/2SAvFfuR31LlVxBl8MVErT"
-      },
-      "artists": [
-        {
-          "name": "islandman",
-          "url": "https://open.spotify.com/artist/3So3vlAfrEh2FbpvG7sxO4"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Bahar",
-      "url": "https://open.spotify.com/track/7FoNzgmqNTSotUSVemCsrj"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
         "name": "Marimba",
         "url": "https://open.spotify.com/album/4f7UUXCh9WUMTstz8PMLcx"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Ancestry",
-        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
-      },
-      "artists": [
-        {
-          "name": "Mux",
-          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
-        }
-      ],
-      "duration_ms": 294661,
-      "name": "El Dolor",
-      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
         "name": "Childhood",
         "url": "https://open.spotify.com/album/2RIEITFTclNIsuDA6kibJ7"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 242145,
       "name": "Childhood",
       "url": "https://open.spotify.com/track/4QVosKlgWRXc1IEwYdOBEz"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
+        "name": "Ancestry",
+        "url": "https://open.spotify.com/album/6oMwy9QzP1FzbKhR6BWABP"
+      },
+      "artists": [
+        {
+          "name": "Mux",
+          "url": "https://open.spotify.com/artist/0nqq006Uo7RuKoKdmLAOkE"
+        }
+      ],
+      "duration_ms": 294661,
+      "name": "El Dolor",
+      "url": "https://open.spotify.com/track/5cm8VSk6Iqkp8F1cB2S0Iu"
     },
     {
       "added_at": "2022-08-12 14:18:42",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Woods, Tales & Friends",
-        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
-      },
-      "artists": [
-        {
-          "name": "Mollono.Bass",
-          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
-        }
-      ],
-      "duration_ms": 282520,
-      "name": "The Oracle",
-      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
         "name": "Velvet Desert Music Vol. 2",
         "url": "https://open.spotify.com/album/1RBXK7nKxoZMKWPT2fexBW"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 453717,
       "name": "Monterrey Paris Texas",
       "url": "https://open.spotify.com/track/6MOgIsFOhxqKIodm1V5dd7"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
+        "name": "Woods, Tales & Friends",
+        "url": "https://open.spotify.com/album/3Z9EKeISsOLgsfdMNZbUO4"
+      },
+      "artists": [
+        {
+          "name": "Mollono.Bass",
+          "url": "https://open.spotify.com/artist/27j5PRcPefcI6q8as58zWF"
+        }
+      ],
+      "duration_ms": 282520,
+      "name": "The Oracle",
+      "url": "https://open.spotify.com/track/0HcuetqlzCA2yDfhKuWrxz"
     },
     {
       "added_at": "2022-08-12 14:18:42",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Experiencing a Significant Gravitas Shortfall",
-        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
-      },
-      "artists": [
-        {
-          "name": "Commoner",
-          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
-        },
-        {
-          "name": "T\u00c2CHES",
-          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
-        }
-      ],
-      "duration_ms": 292000,
-      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
-      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
         "name": "Leave the Bones",
         "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 354043,
       "name": "Kite Zo A",
       "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
+        "name": "Experiencing a Significant Gravitas Shortfall",
+        "url": "https://open.spotify.com/album/23pgT20paz5ybdUxHZ36N7"
+      },
+      "artists": [
+        {
+          "name": "Commoner",
+          "url": "https://open.spotify.com/artist/2vtTburfvhbJq9Ypb1NxmB"
+        },
+        {
+          "name": "T\u00c2CHES",
+          "url": "https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF"
+        }
+      ],
+      "duration_ms": 292000,
+      "name": "Experiencing a Significant Gravitas Shortfall - TACHES Remix",
+      "url": "https://open.spotify.com/track/6CVzxgkKa7TEBsnj9TgVoL"
     },
     {
       "added_at": "2022-08-12 14:18:42",
@@ -915,26 +915,6 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Time & Space",
-        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 381176,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS"
       },
@@ -955,18 +935,22 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua"
+        "name": "Time & Space",
+        "url": "https://open.spotify.com/album/3TLTW0MtJZGePZXw6ZlBzy"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
         }
       ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT"
+      "duration_ms": 381176,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/022LE9alqHmsJtSXEeLapV"
     },
     {
       "added_at": "2022-08-12 14:18:42",
@@ -1007,34 +991,18 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Bella Mar 06",
-        "url": "https://open.spotify.com/album/0odUijfBYymLIpDjsPrluU"
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/5ALK0sedYEwpTi7cKuBGua"
       },
       "artists": [
         {
-          "name": "Danito & Athina",
-          "url": "https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o"
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
         }
       ],
-      "duration_ms": 434543,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/7FNGHqa1mcxaBBqiCr22sK"
-    },
-    {
-      "added_at": "2022-08-12 14:18:42",
-      "album": {
-        "name": "43 Katzen tanzen auf'm Tisch - Acidbogen (Pt. 1)",
-        "url": "https://open.spotify.com/album/0mECGpBWS51eKu15I49xd0"
-      },
-      "artists": [
-        {
-          "name": "Geju",
-          "url": "https://open.spotify.com/artist/33AlE9XaZmnAtfWFhjNL5e"
-        }
-      ],
-      "duration_ms": 417587,
-      "name": "Fuji",
-      "url": "https://open.spotify.com/track/7DlIf50uAWVSsf6X8nZ9L8"
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/4m4rGSD65TJeFqeA4CGcCT"
     },
     {
       "added_at": "2022-08-12 14:18:42",
@@ -1055,6 +1023,22 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
+        "name": "Bella Mar 06",
+        "url": "https://open.spotify.com/album/0odUijfBYymLIpDjsPrluU"
+      },
+      "artists": [
+        {
+          "name": "Danito & Athina",
+          "url": "https://open.spotify.com/artist/4Sa0Izacj6A61uSlU6jp4o"
+        }
+      ],
+      "duration_ms": 434543,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/7FNGHqa1mcxaBBqiCr22sK"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
         "name": "Eliso",
         "url": "https://open.spotify.com/album/3YJAnKGQpddtp0dSp8YkTD"
       },
@@ -1071,22 +1055,38 @@
     {
       "added_at": "2022-08-12 14:18:42",
       "album": {
-        "name": "Take Me Back",
-        "url": "https://open.spotify.com/album/1dfGwYMf6rQJg1IQBl6p5y"
+        "name": "Izivunguvungu (Chlo\u00e9 Remix)",
+        "url": "https://open.spotify.com/album/4WMhthWOI1jzCIuRoP0jwB"
       },
       "artists": [
         {
-          "name": "Marcel Vogel",
-          "url": "https://open.spotify.com/artist/58cSkLlJKQgbPGKph5569D"
+          "name": "Urban Village",
+          "url": "https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg"
         },
         {
-          "name": "Tim Jules",
-          "url": "https://open.spotify.com/artist/3YsW23aSl6MItRGwGBYGDk"
+          "name": "Chlo\u00e9 (Th\u00e9venin)",
+          "url": "https://open.spotify.com/artist/0W8ZVf53GqJkTOPRWQaaBq"
         }
       ],
-      "duration_ms": 286392,
-      "name": "Take Me Back",
-      "url": "https://open.spotify.com/track/1WaDwq1lUB69du6tuUnLIY"
+      "duration_ms": 384330,
+      "name": "Izivunguvungu - Chlo\u00e9 Remix",
+      "url": "https://open.spotify.com/track/4smPVWbEXf5aq92BcNevXu"
+    },
+    {
+      "added_at": "2022-08-12 14:18:42",
+      "album": {
+        "name": "Minimuzikhol Benefit Compilation",
+        "url": "https://open.spotify.com/album/3vOUDYcIWNLFAZzeWvwZQ9"
+      },
+      "artists": [
+        {
+          "name": "TUTAN",
+          "url": "https://open.spotify.com/artist/5tWW4zktUzz1kstvxZ2MMc"
+        }
+      ],
+      "duration_ms": 366886,
+      "name": "Mazbata",
+      "url": "https://open.spotify.com/track/3Lg0Kn4AXZCRRYclJWh9ce"
     }
   ],
   "unique_name": "Org\u00e1nica",

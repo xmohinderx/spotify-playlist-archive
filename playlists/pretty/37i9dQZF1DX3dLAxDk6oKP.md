@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 
 > Al cien en la mamalona!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,078 likes - 130 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,484 likes - 130 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 42 | [Gracias \- En Vivo](https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc) | [Gracias \(En Vivo\)](https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad) | 3:55 |
 | 43 | [LA PERRIE](https://open.spotify.com/track/5AWwqpQnuMNCUXVZd6TOwY) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:25 |
 | 44 | [La Escuela No Me Gustó](https://open.spotify.com/track/4qArKIA7dnmdushoBlkV94) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Javier Rosas](https://open.spotify.com/artist/1JKku43pXGs9GM80XoWDzi) | [Señalado por Costumbre](https://open.spotify.com/album/0zwj2mx5EeRPkdU9r9yeXs) | 2:56 |
-| 45 | [Fumando Mota](https://open.spotify.com/track/3pJqGlXzMjn3yrhYBTPYA1) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Fumando Mota](https://open.spotify.com/album/0cenI7xUiSgFwbr37Q8tks) | 3:21 |
-| 46 | [Seguimos Laborando](https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [Seguimos Laborando](https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN) | 3:25 |
+| 45 | [Seguimos Laborando](https://open.spotify.com/track/6H9H6BYpuWycXP9HEx3vdJ) | [Grupo 360](https://open.spotify.com/artist/2h9VgLswbVrXfdjW8UVqHC) | [Seguimos Laborando](https://open.spotify.com/album/2PS7Oebmv9wJNPbgISiMsN) | 3:25 |
+| 46 | [Fumando Mota](https://open.spotify.com/track/3pJqGlXzMjn3yrhYBTPYA1) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Fumando Mota](https://open.spotify.com/album/0cenI7xUiSgFwbr37Q8tks) | 3:21 |
 | 47 | [Ahora Todo Es Diferente](https://open.spotify.com/track/2L4gbQNTxISQndSblNUwJJ) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Ahora Todo Es Diferente](https://open.spotify.com/album/3l7ZAKChEtCeVNtsWFfIUP) | 3:45 |
 | 48 | [El Karma](https://open.spotify.com/track/34eVjAbZ5CzAtZIVMDHL1C) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:15 |
 | 49 | [Pacas Verdes](https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv) | [Pacas Verdes \(feat\. Ovi\)](https://open.spotify.com/album/5RiJUUPf6WYqZjU8FjmhUb) | 2:50 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 59 | [Mi Religión](https://open.spotify.com/track/33MU3TnkqOle5HjXefemdx) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [The Green Trip](https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F) | 3:14 |
 | 60 | [Sencillo Soy](https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Sencillo Soy](https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv) | 2:52 |
 | 61 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 |
-| 62 | [Soy el Ratón \- En Vivo](https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Soy el Raton \(En Vivo\)](https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW) | 2:55 |
+| 62 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
 | 63 | [Ojos De Maniaco](https://open.spotify.com/track/52Cpyvd2dKb6XRn313nH87) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Duetos Con La Clika](https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq) | 3:38 |
-| 64 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 |
+| 64 | [Soy el Ratón \- En Vivo](https://open.spotify.com/track/1PjOEZ1ThSilwlLmXDb9W6) | [Ldln](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU) | [Soy el Raton \(En Vivo\)](https://open.spotify.com/album/5aH3RUQJT9dLVrtA5jZ5RW) | 2:55 |
 | 65 | [Soy Mencho](https://open.spotify.com/track/4ievzdqwvvtM1v8WCGtPuI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:00 |
 | 66 | [Por Si Acaso](https://open.spotify.com/track/0FBQk9b2mveexdjaiZhySz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Por Si Acaso](https://open.spotify.com/album/3bhs4igaxstdRBeZHfahiP) | 3:18 |
 | 67 | [Acá en Guanajuato](https://open.spotify.com/track/317vHXvCtvtAJIEbBJIuys) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [DEV, Vol\. 2](https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU) | 2:55 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 74 | [Es Dificil Ser Un Santo](https://open.spotify.com/track/4dporMRQqdmQQEMEz8RVTW) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Es Dificil Ser Un Santo](https://open.spotify.com/album/1i1N8WLAJG1yjmvbPhhu7h) | 3:05 |
 | 75 | [El Carrito](https://open.spotify.com/track/073rXJBr0SdO7s6yEhMQXP) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [El Carrito](https://open.spotify.com/album/1Dg8iAxvKPx5jhzHWEgf98) | 2:58 |
 | 76 | [El De La 31](https://open.spotify.com/track/2NpJMRaVvvZia0uVDcZJMe) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602 Vol.2](https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk) | 3:11 |
-| 77 | [El de la Gorra 27](https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:20 |
+| 77 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 |
 | 78 | [Buenas Vibras](https://open.spotify.com/track/59RDOIHszAvUmJdnnV1x13) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Don Esteban](https://open.spotify.com/album/4TdFGG8K4OW4O0e8G6udtr) | 3:03 |
-| 79 | [LoLo Felix](https://open.spotify.com/track/1VibppoKjhco3CmIbEcsC0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 3:34 |
+| 79 | [El de la Gorra 27](https://open.spotify.com/track/1LV6zxUFIUyePwsdFHNIYA) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:20 |
 | 80 | [El De Las Dos Pistolas](https://open.spotify.com/track/3BvGcHKkSKRdkathkvvxRp) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Los de la O](https://open.spotify.com/artist/5IUHqCKGttBbtZ0h1Fv4xU) | [El De Las Dos Pistolas](https://open.spotify.com/album/0LkXAgU73w2GQAHW4VDtSD) | 2:47 |
 | 81 | [Te Vas](https://open.spotify.com/track/6E5PU4i61dEahmW37mTtk9) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [El Luchon](https://open.spotify.com/album/7yE5a3kEdg2Vw1WpnDcgfz) | 3:39 |
 | 82 | [Miami Vibe](https://open.spotify.com/track/2gBrYprM7YhB7WgVwes5Gx) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 3:49 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3dLAxDk6oKP.md) - [plain]
 | 129 | [Ya Les Contaron](https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP) | [Everardo](https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd) | [Atrapado En El Papel](https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54) | 2:12 |
 | 130 | [Vengo De La Tia](https://open.spotify.com/track/0BUWUqaqyopQd6Rj79xNdc) | [Zexta Alianza](https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX) | [Vengo De La Tia](https://open.spotify.com/album/6lvUaSYHo9i6jGfH5DiZ3Y) | 3:08 |
 
-Snapshot ID: `MTY1OTA3OTExNSwwMDAwMDAwMGMwMGNjOGI5Njk5Yjc5YTdiYThiYTM3NmY5OTcwODk1`
+Snapshot ID: `MTY1OTA3OTExNSwwMDAwMDAwMDI5NjJiMDQzZWQ5MzM5M2YzODI4Njk2ZWIzNDAzOTBj`

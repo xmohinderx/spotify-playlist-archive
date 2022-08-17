@@ -4,7 +4,7 @@
 
 > アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: Ado
 
-339 songs - 23 hr 30 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
+340 songs - 23 hr 33 min - [published](https://open.spotify.com/playlist/6FtaHCMkDX6tcjL4vlT8MU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -231,7 +231,7 @@
 | [センチメートル](https://open.spotify.com/track/2zwZPlMKb1vaFcQK6PpMtP) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [The GARDEN](https://open.spotify.com/album/13FIa91YpnboJjrwmKRrG8) | 3:47 | 2022-07-28 |  |
 | [タルヒ](https://open.spotify.com/track/6UX5gT61Lw3bz8mRM7K6jn) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 3:44 | 2022-06-09 | 2022-07-24 |
 | [ダイスキ。](https://open.spotify.com/track/4i05yRq3HPOqm0rAE8QrE3) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [WINGS](https://open.spotify.com/album/6mzr5fb350NIRtnT4lKhVC) | 4:07 | 2022-06-12 | 2022-06-26 |
-| [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 |  |
+| [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 | 2022-08-17 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-09 |  |
 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 | 2022-06-14 | 2022-07-29 |
 | [デビきゅー](https://open.spotify.com/track/6J3gSl9trhgr55W9wpNHRK) | [Yu Serizawa](https://open.spotify.com/artist/0TskwVXV9CO11Gjaf8mUuP) | [デビきゅー](https://open.spotify.com/album/0OSFzXPDtVqUiiVAEa5A7H) | 3:36 | 2022-07-07 | 2022-07-10 |
@@ -247,6 +247,7 @@
 | [ヒカリイロの歌](https://open.spotify.com/track/1wGtjIVbAXPC7z4IFWQE4D) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [ring A ring](https://open.spotify.com/album/6iBnATap8lt6K905bqwuS7) | 4:19 | 2022-06-24 | 2022-07-26 |
 | [ヒトリとキミと](https://open.spotify.com/track/7Lr6zxhUdO5mwu5pGItYAu) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ヒトリとキミと](https://open.spotify.com/album/2aa4H5EqIp2nYaI7d6x59X) | 4:21 | 2022-06-14 | 2022-07-27 |
 | [ヒロイン育成計画](https://open.spotify.com/track/7aUWoXJ28h7EkR41ehjoeZ) | [HoneyWorks](https://open.spotify.com/artist/40oxjbVm3kdeyJEiGsKrmd), [涼海ひより（CV：水瀬いのり）](https://open.spotify.com/artist/5M0mn4erXCP6tSuakm8yuI), [服部樹里\(CV:佐倉綾音\)](https://open.spotify.com/artist/01NcNfcHfdCwrHIuALeHJ0), [中村千鶴\(CV:早見沙織\)](https://open.spotify.com/artist/27KTqdwWTPQL5HqhXOnOLf) | [ヒロイン育成計画](https://open.spotify.com/album/5vg3enUWPinQiSkdRIs0Ej) | 3:38 | 2022-07-07 | 2022-07-25 |
+| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-16 |  |
 | [ピンキーフック](https://open.spotify.com/track/0VYYvHAZPLPU36fLB8ko1S) | [Momo Asakura](https://open.spotify.com/artist/1JOGWTUQPoSQXniAYcDMKy) | [ピンキーフック](https://open.spotify.com/album/0phcqbKgsgFl6sj6ZvK3BR) | 4:15 | 2022-06-24 | 2022-06-28 |
 | [ファイナルイルミネーション](https://open.spotify.com/track/6XkDGw7J1fUxQyKW1pgwh5) | [林 鼓子](https://open.spotify.com/artist/48FlBTybQEyJfkXYrfMzhR), [久保田未夢](https://open.spotify.com/artist/0ykN2PFFtkO76Y0tngyeuD), [厚木那奈美](https://open.spotify.com/artist/79ijkR9hKpwUOnTMxtFkFP), [山下七海](https://open.spotify.com/artist/5TVOIVInTUsSZRvfUgJTdL) | [キラッとプリ☆チャン♪ミュージックコレクション \(Season.3\)](https://open.spotify.com/album/1ahQmVOLhIBfFYtUatA2iC) | 3:30 | 2022-07-19 | 2022-07-24 |
 | [ブルーバード \- from CrosSing](https://open.spotify.com/track/3RyEG3799H7k2e5METVPAK) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [ブルーバード \- from CrosSing](https://open.spotify.com/album/4ZgQScgNNY1OR9trtEx8yl) | 3:38 | 2022-06-09 | 2022-07-29 |
@@ -281,7 +282,7 @@
 | [君なら君しか](https://open.spotify.com/track/6C2UnpcAdJPcGwjXytX7Fs) | [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS) | [君なら君しか](https://open.spotify.com/album/53xI0XKXKQ07xnhMnkITnt) | 4:20 | 2022-06-21 | 2022-06-23 |
 | [君の知らない物語 \- from CrosSing](https://open.spotify.com/track/3pSJglKtcxEpbmoVP3Q7jX) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [君の知らない物語 \- from CrosSing](https://open.spotify.com/album/3GTdxviF6BBIIF7VbRtDca) | 5:42 | 2022-06-09 | 2022-07-19 |
 | [君の笑顔見たいから](https://open.spotify.com/track/5fLTbqoI4bCk3IjbjWE54U) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分の軌跡 EP](https://open.spotify.com/album/3pUOZE8RaohXsrTbegRjHq) | 4:02 | 2022-06-24 | 2022-07-27 |
-| [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 | 2022-06-09 |  |
+| [四角運命](https://open.spotify.com/track/004jQqW1CdYt5d6wZJX3Gn) | [Sangatsu no Phantasia](https://open.spotify.com/artist/5WmX340gDNLIAyUcg4MzWN) | [四角運命](https://open.spotify.com/album/4z7WKUveJzhx19jG4G1EWK) | 3:40 | 2022-06-09 | 2022-08-17 |
 | [境界の彼方](https://open.spotify.com/track/29YSKt01a9wGNJkPLQG0Kw) | [茅原実里](https://open.spotify.com/artist/2BVUhHYQGZDr1YOQuySRuZ) | [NEO FANTASIA](https://open.spotify.com/album/2ss0ot5DfEZbYtZccWs4CM) | 4:52 | 2022-06-09 | 2022-07-29 |
 | [外道讃歌](https://open.spotify.com/track/5iPg9OCOa6Jv7Y9HLrtmxC) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [外道讃歌](https://open.spotify.com/album/5NmUuvyYyKSebmuitwqBsY) | 4:29 | 2022-06-09 | 2022-07-26 |
 | [夜空](https://open.spotify.com/track/7q1QFyrWDoUsTUq9NZV7XL) | [Minori Suzuki](https://open.spotify.com/artist/3Ath9xfI4WBdrZPFQ4VX9A) | [2nd アルバム 上ミノ](https://open.spotify.com/album/7pcXlp17zWFKLfsgc791fO) | 4:35 | 2022-06-24 | 2022-07-21 |
@@ -326,7 +327,7 @@
 | [箱庭の幸福](https://open.spotify.com/track/5lLfoz7xP0jKyjFbCYWQ1Q) | [田所あずさ](https://open.spotify.com/artist/6QA62pTldn4AF8DeKsKW0h) | [箱庭の幸福](https://open.spotify.com/album/7wVBxbqGcZZ9t7uHoZ1ULC) | 4:55 | 2022-06-09 | 2022-07-26 |
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2022-07-28 |  |
 | [紅蓮華](https://open.spotify.com/track/1hFsEbHxsfflhLEPCq5tzk) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [紅蓮華](https://open.spotify.com/album/29HFXP2q5ixW557hc55McT) | 3:58 | 2022-06-09 | 2022-07-23 |
-| [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 | 2022-08-11 |
+| [絶体絶命](https://open.spotify.com/track/0QMmoBAY9pr7nOYisYWuMj) | [Cö Shu Nie](https://open.spotify.com/artist/0LlH6J1tj2TPq7AlwXAkY5) | [PURE](https://open.spotify.com/album/2oTP6o5ggDbudTzSvxiD6x) | 2:28 | 2022-07-28 |  |
 | [聴こえる?](https://open.spotify.com/track/7yO6MXpbXh2Va2n6DOr9fT) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [聴こえる?](https://open.spotify.com/album/555t5S8CPEHq2EMHXYXohY) | 4:05 | 2022-06-24 | 2022-07-07 |
 | [航海の唄](https://open.spotify.com/track/6jZBvlt3xG6gdPh1vFMBhs) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [About a Voyage \(My Hero Academia Ending Theme Song\) \[World Edition\]](https://open.spotify.com/album/6RJpk9d7aZWVij0NnSVYbl) | 4:44 | 2022-06-09 | 2022-06-12 |
 | [花に亡霊](https://open.spotify.com/track/53maoOKr6j04iqk6qjdvQN) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [花に亡霊](https://open.spotify.com/album/5mVxVdNG00wGPJjZD5pdsR) | 4:00 | 2022-06-09 |  |

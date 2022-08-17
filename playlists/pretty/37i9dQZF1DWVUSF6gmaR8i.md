@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,361 likes - 40 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,403 likes - 40 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 8 | [Bad Day](https://open.spotify.com/track/0mUyMawtxj1CJ76kn9gIZK) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter](https://open.spotify.com/album/4zhigAhPwqp43XVHBiVeQI) | 3:53 |
 | 9 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 |
 | 10 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
-| 11 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
-| 12 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 11 | [Love Song](https://open.spotify.com/track/4E6cwWJWZw2zWf7VFbH7wf) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Little Voice](https://open.spotify.com/album/2Z9WUERfMjOgQ6ze9TcGbF) | 4:18 |
+| 12 | [Wuthering Heights](https://open.spotify.com/track/5YSI1311X8t31PBjkBG4CZ) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [The Kick Inside](https://open.spotify.com/album/5NKTuBLCYhN0OwqFiGdXd1) | 4:29 |
 | 13 | [She's Always a Woman](https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Stranger \(Legacy Edition\)](https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6) | 3:21 |
 | 14 | [Come Away With Me](https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:18 |
 | 15 | [Walking in Memphis](https://open.spotify.com/track/5fgkjhICZnqFctrV0AyuQD) | [Marc Cohn](https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9) | [Marc Cohn](https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m) | 4:12 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 39 | [Let It Be \- Live](https://open.spotify.com/track/5Rr5QQ1wRzmnqC9MyfTqmk) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Back In The World \(Live\)](https://open.spotify.com/album/0Cq6VQQvxlCkKdu4tvHCCO) | 3:57 |
 | 40 | [Because I Love You \(The Postman Song\)](https://open.spotify.com/track/6R6tcLW1G8SBSLtfQlXVFM) | [Stevie B](https://open.spotify.com/artist/6V7pNWhlJpD0s0bMdB1PU9) | [Hits Anthology](https://open.spotify.com/album/7tMugpfjOtQcyIEcmJLoGd) | 4:14 |
 
-Snapshot ID: `MTYzMzA2MDg2MCwwMDAwMDAwMGUzNGU3OTRiYTBhOGYwYjkxNWI4ODg3ZWY1MDVjYzg4`
+Snapshot ID: `MTYzMzA2MDg2MCwwMDAwMDAwMDcxOTc3ODU0ZDc2OGY1NGM0ZTU5N2ViYTQyNjcyMzI4`

@@ -4,7 +4,7 @@
 
 > Sing along and enjoy the drive...
 
-798 songs - 2 day 1 hr 17 min - [published](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
+799 songs - 2 day 1 hr 21 min - [published](https://open.spotify.com/playlist/1OVcAnTmAg9Lhtx4p2Q5k3)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Come On Get Higher](https://open.spotify.com/track/38YgZVHPWOWsKrsCXz6JyP) | [Matt Nathanson](https://open.spotify.com/artist/4NGiEU3Pkd8ASRyQR30jcA) | [Some Mad Hope](https://open.spotify.com/album/45A2E1YR00sPSwxJw5d3qu) | 3:35 | 2021-03-17 | 2022-04-12 |
 | [Con Calma](https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma](https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh) | 3:13 | 2020-06-12 | 2022-04-21 |
 | [Confident](https://open.spotify.com/track/0Mn3amMRMoabaoTf1Publ4) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:25 | 2021-03-17 | 2022-04-19 |
-| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2021-03-22 |  |
+| [Congratulations](https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Stoney \(Deluxe\)](https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC) | 3:40 | 2021-03-22 | 2022-08-17 |
 | [Cool for the Summer](https://open.spotify.com/track/2zFF6jG5hQArbzcXz3KUWk) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident \(Deluxe Edition\)](https://open.spotify.com/album/3HV3ecmJJ2GmHM93vVVKXF) | 3:34 | 2022-04-04 | 2022-04-29 |
 | [Counting Stars](https://open.spotify.com/track/6sy3LkhNFjJWlaeSMNwQ62) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Native](https://open.spotify.com/album/2bbhW5ifCwOYM8DMkqoYBF) | 4:17 | 2021-03-11 | 2022-07-28 |
 | [Crazy In Love \(feat\. Jay\-Z\)](https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 3:56 | 2020-06-12 | 2022-04-17 |
@@ -498,6 +498,7 @@
 | [One Day \(Vandaag\) \- Radio Edit](https://open.spotify.com/track/3JHw0gnnY4WO4YqsdBq0ZF) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [One Day \(Vandaag\)](https://open.spotify.com/album/0ytEFC6xcBrRp3aKCBl3HI) | 3:39 | 2020-06-12 | 2021-01-15 |
 | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/track/7ef4DlsgrMEH11cDZd32M6) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [One Kiss \(with Dua Lipa\)](https://open.spotify.com/album/7GEzhoTiqcPYkOprWQu581) | 3:34 | 2020-06-12 |  |
 | [One Last Time](https://open.spotify.com/track/2OlWBmSjf1aUPGLNf0UI5A) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/5AMOKSM1ftb3opIbGT2d4q) | 3:17 | 2019-07-29\* | 2022-07-29 |
+| [One Last Time](https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [My Everything \(Deluxe\)](https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj) | 3:17 | 2022-07-26 |  |
 | [One More Night](https://open.spotify.com/track/5sSjntBXVmtJLCcMlJP5Qb) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Overexposed \(Deluxe\)](https://open.spotify.com/album/6XYL7jVgFaxD1X7F8IMO2b) | 3:39 | 2021-03-16 | 2021-05-27 |
 | [One Way Or Another](https://open.spotify.com/track/3DiRdaZtPrVdb4U2RIuRWm) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Greatest Hits: Blondie](https://open.spotify.com/album/25eZFwT2UvVK1kxC3wMoSW) | 3:28 | 2021-03-20 | 2022-04-10 |
 | [Only Girl \(In The World\)](https://open.spotify.com/track/0AH6WMe3OlAlUb5miXt2FQ) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/7vN82vd1Vq44fjlhjfvHJp) | 3:55 | 2021-03-16 | 2022-04-20 |

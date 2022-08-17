@@ -4,7 +4,7 @@
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-172 songs - 9 hr 6 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
+173 songs - 9 hr 10 min - [published](https://open.spotify.com/playlist/4dffDAKNLn3DWHgAjcX4Hp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [Sunrise](https://open.spotify.com/track/5bOYGAj0x8UaqA9GxELXzi) | [Leat'eq](https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD) | [Sunrise](https://open.spotify.com/album/0N16seYtml6g0DXWo9Ff25) | 2:25 | 2022-07-05 | 2022-07-12 |
 | [Sunshine](https://open.spotify.com/track/3LcuxzO1gLRhcRZbZJh0hE) | [Gelow](https://open.spotify.com/artist/1XOwklRW1AGECnhcL0lvfj), [BPRTS](https://open.spotify.com/artist/37oLcPpZmGMirasruONASH) | [Sunshine](https://open.spotify.com/album/5yPX9eTafy1WFFtWtIJ1Ak) | 2:40 | 2022-07-21 |  |
 | [Superhero In My Sleep](https://open.spotify.com/track/1BHhgOM82RNW9fjZS6cPVs) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Asketa & Natan Chaim](https://open.spotify.com/artist/7HMpxXbzJOXYZyRiV0hvZn) | [Superhero In My Sleep](https://open.spotify.com/album/4MJSwyVBS3qwMhaMF0icOb) | 3:06 | 2022-02-03 |  |
+| [Survive](https://open.spotify.com/track/3GFe0eZOOk3Fzkb902ZRQR) | [Axel Oliver](https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE), [THEBOYWITHSPEC](https://open.spotify.com/artist/44LgzonzLV7ByKgYY2JKUQ) | [Survive](https://open.spotify.com/album/1swjDa36id38pp4nwoJvTD) | 4:08 | 2022-08-16 |  |
 | [Symbolism pt\. III](https://open.spotify.com/track/3j9repS7j0ic94QnkmBWow) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5) | [Symbolism pt\. III](https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx) | 4:06 | 2022-08-12 |  |
 | [Take It Easy \- DNB Edit](https://open.spotify.com/track/0ixRU1IxaGqqPR6b4dUtek) | [BVRNOUT](https://open.spotify.com/artist/5oREZfPeedk4nyo1GpqKfU), [Mia Vaile](https://open.spotify.com/artist/38SIErfZNd7u2qlIzFeZqm) | [Take It Easy \(DNB Edit\)](https://open.spotify.com/album/2U4tG5P74xLImzIen1UFa3) | 3:24 | 2022-06-17 |  |
 | [Take Me](https://open.spotify.com/track/1w7rP4pnAMKrqzUvXzYm4N) | [Andromedik](https://open.spotify.com/artist/7miXLG9boDOGHJaEelSL7T), [Used](https://open.spotify.com/artist/4sewbfr40so8t6Zfh9tmoK) | [Take Me](https://open.spotify.com/album/1dn6xT7eVtBBzwRtOVdOn4) | 3:13 | 2022-04-23 |  |

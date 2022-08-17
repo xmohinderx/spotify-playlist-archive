@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 
 > Because bass\. Cover: Victor Wooten
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,736 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,780 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,23 +27,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 17 | [A Dark Light](https://open.spotify.com/track/770BeHuLlFqz5Tdm4tSmib) | [Aram Bedrosian](https://open.spotify.com/artist/1QX9Z8FnNxYuUk4bAur1Ut) | [A Dark Light](https://open.spotify.com/album/4Awbl4MQAZnfdfKf98lpbn) | 2:39 |
 | 18 | [The Sniper](https://open.spotify.com/track/1v4zBLp1XPct1p0UBnabMK) | [Cristiano Parato](https://open.spotify.com/artist/0snU3Xa97Sq9l2RLuCdWIP), [Lele Melotti](https://open.spotify.com/artist/2LVUVfQksPpfSEcCvU8WaR), [Luca Scarpa](https://open.spotify.com/artist/4Q0nFR5UtI8s7hInvCdYRG) | [Still](https://open.spotify.com/album/2xGGVCtLjPF0C4JBhDFdVU) | 4:32 |
 | 19 | [Get Down On It](https://open.spotify.com/track/41BisXehQCshqh06t1is99) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Way Up!](https://open.spotify.com/album/5vapjGGzuB67f9Ye1TBsHm) | 4:18 |
-| 20 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 |
-| 21 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 20 | [Soldier of the Groove](https://open.spotify.com/track/71I9xt9tXZ5BM5S1j9WZ2b) | [Byron Miller](https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y) | [The Gift Psychobass2](https://open.spotify.com/album/6uCTfpl8HRgQHkhQlcDOjf) | 4:00 |
+| 21 | [BC](https://open.spotify.com/track/5z9YuyOeX4RPKk0dIAJWle) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:21 |
 | 22 | [Cosmic Underground](https://open.spotify.com/track/35vrAaOvThXxvHwpbwrmng) | [Adam Nitti](https://open.spotify.com/artist/5yecObE3qSrDT0Tz6JBQxR) | [Not of This World](https://open.spotify.com/album/4C87JqBspjnIVCAFqq5JoY) | 6:37 |
-| 23 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 |
-| 24 | [Classical Thump](https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 4:39 |
-| 25 | [No Way](https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Le Band](https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ) | 5:24 |
-| 26 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
-| 27 | [Valdez In The Country](https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V) | [Gerald Veasley](https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE) | [At The Jazz Base](https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU) | 5:15 |
-| 28 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
-| 29 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 |
-| 30 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
+| 23 | [Classical Thump](https://open.spotify.com/track/3l3lCbzWLXi9FS4tQ3HSzZ) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 4:39 |
+| 24 | [Chump Suey](https://open.spotify.com/track/1TTbSC0v0D0jWMDPxJrIsI) | [Doug Johns](https://open.spotify.com/artist/3kl3akpVRNZiwNn3L9Hllk) | [Pocket Fulla Nasty](https://open.spotify.com/album/0YSybrBdEaK0S2XyR2HGjC) | 4:25 |
+| 25 | [Beyond The Rift](https://open.spotify.com/track/64o9hhM3zNTVQpEnav9sib) | [Charles Berthoud](https://open.spotify.com/artist/2ja5lXz6NdhSjtDlbYIE91) | [Fable](https://open.spotify.com/album/4PqhzQqYinxZBm6ZXB6pQk) | 2:18 |
+| 26 | [Cosmic Joke](https://open.spotify.com/track/0BYFyT7cyrW02iepYptA2L) | [Tal Wilkenfeld](https://open.spotify.com/artist/3XzPQsdtlMMHxKERG8a1Bu) | [Transformation](https://open.spotify.com/album/07f02dGYUGK8zYZx9m1qcS) | 6:25 |
+| 27 | [No Way](https://open.spotify.com/track/21insAWTe5rKqvBWkTfvkO) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Le Band](https://open.spotify.com/album/0CMnXccmvvCB5YVYNeyJsQ) | 5:24 |
+| 28 | [Valdez In The Country](https://open.spotify.com/track/71Rf5dOGsVfBGPuWgWYA0V) | [Gerald Veasley](https://open.spotify.com/artist/3YCLJVZoYJ2sgtAaNt9HPE) | [At The Jazz Base](https://open.spotify.com/album/1pPAok1LQpSnl6IDYdugSU) | 5:15 |
+| 29 | [No Limit](https://open.spotify.com/track/2hHAjvHx7gZL3zSPHYMEwn) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Laid Black](https://open.spotify.com/album/3REq2IkHZ1fo8BNWnfGGNc) | 5:36 |
+| 30 | [Lifecycle](https://open.spotify.com/track/6UeV69QaXrzISZ5MdeX6Xs) | [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Reverence](https://open.spotify.com/album/3ayk72lcIIR7YSNqmRPK5N) | 5:54 |
 | 31 | [World Go Round](https://open.spotify.com/track/2JA7xuOgISHwyRFNVQKKFs) | [Derrick Hodge](https://open.spotify.com/artist/1jvBVqm4g5Jk8tEmKoYoes) | [The Second](https://open.spotify.com/album/70NkOwCX9ZudoecixbtENx) | 4:28 |
 | 32 | [5 Cookies \(feat\. Anomalie\)](https://open.spotify.com/track/4m2JZ8iy71KVNm3UwW46Y8) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk), [Anomalie](https://open.spotify.com/artist/5VlDD7dvbVLLvOXp1e99cn) | [Feelings](https://open.spotify.com/album/2EY3Ryehg5MxkFJ59xkgLO) | 3:22 |
 | 33 | [Purple Interlude](https://open.spotify.com/track/4ew37vOupTtCRE7oag9QoW) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 1:36 |
-| 34 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
-| 35 | [And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell](https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 1:58 |
-| 36 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
+| 34 | [And Ya Know We're Missing You: Dedicated to Leon NDUGU Chancler, Darryl Brown, Al Jarreau, Tom Petty, Chuck Berry & my good friend Larry Coryell](https://open.spotify.com/track/4yKpVDfezBjtyThrWEgTij) | [The Stanley Clarke Band](https://open.spotify.com/artist/6M9ohMNccb79LCYSCfzdOH) | [The Message](https://open.spotify.com/album/6DtroRg76chWowQn2hXF4x) | 1:58 |
+| 35 | [Countdown](https://open.spotify.com/track/3nbHF2EX8IQwNGMlp9EviS) | [Victor Bailey](https://open.spotify.com/artist/1aTPRuTpqvuPpAps3FhBhe) | [Slippin' N' Trippin'](https://open.spotify.com/album/5GRTkxq12ZgkGQU52izAXj) | 2:26 |
+| 36 | [Me & My Bass Guitar](https://open.spotify.com/track/2bGlApShelovL2azxX0ksl) | [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [A Show of Hands 15](https://open.spotify.com/album/3TUlnfqz2PyHIzKdAjPwz2) | 5:17 |
 | 37 | [Porky & Beans](https://open.spotify.com/track/6LcZLOWOzQGFQzRDtqefSq) | [Jeff Berlin](https://open.spotify.com/artist/4S6LWQMlfbLPNrXLY7RxI1) | [Aneurythms](https://open.spotify.com/album/6u8f8EVidJ6TJ3lRIZ4dMR) | 6:24 |
 | 38 | [Sun Chaser](https://open.spotify.com/track/4ZbDihSwE41c6jYCHeMOWj) | [Blair Bryant](https://open.spotify.com/artist/1bNvtqK9g0M2hDWRLdwpZq), [Darren Rahn](https://open.spotify.com/artist/20Jboo9DFLN2MlZPtXQt2u) | [Cerulean Blue](https://open.spotify.com/album/3bThtHCv0o3pe6f8KqYiK3) | 4:06 |
 | 39 | [Right After 4](https://open.spotify.com/track/0Xcd7ELzTQjVaNAOG23Jco) | [Alain Caron](https://open.spotify.com/artist/1jonOyRkfkvgd1MUyZtPgj) | [Multiple Faces](https://open.spotify.com/album/1H6WkzaF10oay25cWVtkkB) | 6:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0N8QTiMHLoT.md) - [plain]
 | 49 | [F.U.NKWHY](https://open.spotify.com/track/08Xt9rwQXMqW2QF8ngLM8J) | [Ida Nielsen](https://open.spotify.com/artist/0LNUSuufEzNpI4nPIVThW3) | [Time 2 Stop Worrying \(Bout the Weird Stuff\)](https://open.spotify.com/album/4DrZmRj1deGY9MpW2dBjVJ) | 3:43 |
 | 50 | [Trust and Faith](https://open.spotify.com/track/7jiYIbR4hSHHZAsy58NpJ3) | [Barry Likumahuwa](https://open.spotify.com/artist/2AdFUyPR5XxpgOI6QYfVDz), [Kirk Whalum](https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1) | [Trust and Faith](https://open.spotify.com/album/7MZNWYv9FVqPeJblodihlq) | 4:18 |
 
-Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDEyMWUzZDhkNDQ2Nzg4OTE0MDBiNzU0NTkxMjA0NTNj`
+Snapshot ID: `MTY0Njk3NDkyMCwwMDAwMDAwMDk4YmRiNDcxODM4ZDZmNDI4YzI4ZDc1MDg3MDliMWRl`

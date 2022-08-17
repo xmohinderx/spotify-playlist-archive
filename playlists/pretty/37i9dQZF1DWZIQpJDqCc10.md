@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 
 > A selection of the greatest alternative love songs of all time.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,610 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 433,858 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 60 | [Say Yes](https://open.spotify.com/track/3XtkcPHbYX0BImTQLlbSVN) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/6KMdn9HDIqcBPaaok0K34K) | 2:19 |
 | 61 | [I Melt with You \(7" Mix\)](https://open.spotify.com/track/24y09nBEJNRP46uA0FRQQ2) | [Modern English](https://open.spotify.com/artist/0fYPQBOx0vsRMmjUba9HgF) | [After the Snow](https://open.spotify.com/album/4vRPqgP624nl5Nupi3AxzZ) | 3:50 |
 | 62 | [Into Your Arms](https://open.spotify.com/track/2rD9tU2bws0PgOPsI6aIZo) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come On Feel The Lemonheads](https://open.spotify.com/album/6IJq4UXwuTDgEihBeofvjq) | 2:44 |
-| 63 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 |
-| 64 | [Change Your Mind](https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:12 |
+| 63 | [Change Your Mind](https://open.spotify.com/track/2N7TN76tLuTcdn9UlS8ADT) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg) | 3:12 |
+| 64 | [Baby](https://open.spotify.com/track/62wdQ5CInFr7cjISqrr46f) | [Donnie & Joe Emerson](https://open.spotify.com/artist/7KGqvFukcZRbQ7YFsYrgPa) | [Dreamin' Wild](https://open.spotify.com/album/4v9R5sk4HQ0X1krbEis34P) | 4:10 |
 | 65 | [I Just Don't Know What to Do With Myself](https://open.spotify.com/track/5F6tUpAoDzz5PjJos99176) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Elephant](https://open.spotify.com/album/6D9urpsOWWKtYvF6PaorGE) | 2:46 |
 | 66 | [Toothpaste Kisses](https://open.spotify.com/track/6jeWgaprnGyAsRhUcNuZKX) | [The Maccabees](https://open.spotify.com/artist/0vW8z9pZMGCcRtGPGtyqiB) | [Colour It In](https://open.spotify.com/album/3CTry04declmSVBUQ9hTHW) | 2:39 |
 | 67 | [Rent \- 2001 Remaster](https://open.spotify.com/track/79p7mYGJC9IgybmPsZf5HP) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Actually](https://open.spotify.com/album/7hkIf8sKiJKRjADB2xan74) | 5:08 |
@@ -79,14 +79,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZIQpJDqCc10.md) - [plain]
 | 69 | [This Modern Love](https://open.spotify.com/track/2PAhcPwab2sJz340QHtunD) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 4:25 |
 | 70 | [Me & You Together Song](https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Me & You Together Song](https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo) | 3:29 |
 | 71 | [Our Love](https://open.spotify.com/track/2WCCyU7CazujWXYOqNjsLW) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Are We There](https://open.spotify.com/album/6EQWzHbd3EYO8J4EAIJst4) | 3:52 |
-| 72 | [All My Little Words](https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:46 |
-| 73 | [From Eden](https://open.spotify.com/track/1yi8EOTpKeVK4cj5HS8DRp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:42 |
+| 72 | [From Eden](https://open.spotify.com/track/1yi8EOTpKeVK4cj5HS8DRp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [From Eden EP](https://open.spotify.com/album/0FubRTC6GUFPUg4y2Xuxs0) | 3:42 |
+| 73 | [All My Little Words](https://open.spotify.com/track/3KvTZQPpzPw9UKxaGlJkBs) | [The Magnetic Fields](https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK) | [69 Love Songs](https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7) | 2:46 |
 | 74 | [Piazza, New York Catcher](https://open.spotify.com/track/12eefUObewFbvXYQ3bN7E4) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Dear Catastrophe Waitress](https://open.spotify.com/album/7HNrDkHNFopKBXGWf0UZML) | 3:03 |
 | 75 | [English Rose](https://open.spotify.com/track/2R5zO3Zi0Of0v1DyxusWbk) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [All Mod Cons](https://open.spotify.com/album/1zB3OwsKut94AnGBazJUlZ) | 2:49 |
-| 76 | [Tonight the Streets Are Ours](https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Lady's Bridge](https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl) | 3:42 |
-| 77 | [Pink Bullets](https://open.spotify.com/track/2JPrgWbs19XotmzG3uq3s4) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:53 |
+| 76 | [Pink Bullets](https://open.spotify.com/track/2JPrgWbs19XotmzG3uq3s4) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Chutes Too Narrow](https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm) | 3:53 |
+| 77 | [Tonight the Streets Are Ours](https://open.spotify.com/track/68UGKNGREtwsO7fDRwftZ2) | [Richard Hawley](https://open.spotify.com/artist/1ZsnHGOLYFg8CAHQQBc1ut) | [Lady's Bridge](https://open.spotify.com/album/5hlcLAkhlCrV6j8NxEptXl) | 3:42 |
 | 78 | [Many of Horror](https://open.spotify.com/track/1auUyL63z3sWnBhooTnz31) | [Biffy Clyro](https://open.spotify.com/artist/1km0R7wy712AzLkA1WjKET) | [Only Revolutions](https://open.spotify.com/album/6Ch5ZsoMxpy5Ef2i4mGILh) | 4:18 |
 | 79 | [One Life Stand](https://open.spotify.com/track/1BfXy0gM3tmB6Jc1QdtaLj) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [One Life Stand](https://open.spotify.com/album/4g9B6VXmdHhmqYhVHIXsbc) | 5:21 |
 | 80 | [Silent Sigh](https://open.spotify.com/track/70wcWw5mdlri2oh6RjNUFO) | [Badly Drawn Boy](https://open.spotify.com/artist/244fcyNSuyhbRlMGfMbYrO) | [About A Boy Soundtrack](https://open.spotify.com/album/6P2Bd7VCudP8LcFGNb5orx) | 4:44 |
 
-Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMGIxYzQ0YzM4MGNkZTVlZjc3NTZiMzk1YWQxZWY2YzJh`
+Snapshot ID: `MTY0NDUzNzIyOCwwMDAwMDAwMDFjMGE2N2FmMmI0ZjJkMWJhYzAwYTY4ZWEyMWMwYmVj`

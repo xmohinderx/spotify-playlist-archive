@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > the perfect fight scene
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,743 likes - 75 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,915 likes - 75 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,21 +35,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 25 | [MARCELINE](https://open.spotify.com/track/17zEBtrjKKa2hwk9CxWIkX) | [Lil God Dan](https://open.spotify.com/artist/20kAERGCnqfyGydzop8bfg) | [MARCELINE](https://open.spotify.com/album/0NBvXFLdqzROOO4O5KhhNf) | 2:35 |
 | 26 | [GOSHA](https://open.spotify.com/track/0j8ppsOOawdPCJnSTcXgOy) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [\- TRAGEDY +](https://open.spotify.com/album/4UNZOq7e8WjnfaYm2rkltE) | 2:00 |
 | 27 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 |
-| 28 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
-| 29 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 28 | [Mercury: Retrograde](https://open.spotify.com/track/0UKzG4fJ1LXf6DInew5vcV) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [Hexada](https://open.spotify.com/album/2dWmvG2E6QqISPn80Nrs65) | 2:04 |
+| 29 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 |
 | 30 | [シルエット](https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ) | [KANA\-BOON](https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd) | [TIME](https://open.spotify.com/album/45z2ntx53Y0d42S9IpN6OH) | 4:00 |
 | 31 | [I'm Only a Fool for You](https://open.spotify.com/track/3OBVKgbxxSYtPm1YtGse58) | [Dybbukk](https://open.spotify.com/artist/0UAfgrYSLcjHNocndTNjhH) | [I'm Only a Fool for You](https://open.spotify.com/album/2giufec1c5uHmZpjQYEr0E) | 1:01 |
 | 32 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
-| 33 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
-| 34 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
-| 35 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
-| 36 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
+| 33 | [BodyPartz](https://open.spotify.com/track/63CSKIfM2wO1K2huueWnMz) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [BodyPartz](https://open.spotify.com/album/4OyzQQJHEfKXRfyN4QyLR7) | 1:19 |
+| 34 | [怪物](https://open.spotify.com/track/06XQvnJb53SUYmlWIhUXUi) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [怪物](https://open.spotify.com/album/41HUxKwnbrg8IdelmMibj9) | 3:26 |
+| 35 | [Freak Show](https://open.spotify.com/track/2Rb6nYmuLEblpq4KIAjngL) | [Punkinloveee](https://open.spotify.com/artist/6CrThJMQVJfWaHeliiLHuw), [H3artcrush](https://open.spotify.com/artist/1tHZYGc37FSzvOJ0eHbglI) | [Freak Show](https://open.spotify.com/album/13JoBPPaKWh2eusprVgAFu) | 2:05 |
+| 36 | [LED](https://open.spotify.com/track/0s1MIn7UaPbAfq85CnKVl6) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/6NsFF92Eqvk6AYXgW95Vil) | 2:14 |
 | 37 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 38 | [カワキヲアメク](https://open.spotify.com/track/1gUAX2ImxDsB3YDcyxMXlB) | [美波](https://open.spotify.com/artist/1KXJUpTiNeMv93LrJbbm7G) | [カワキヲアメク](https://open.spotify.com/album/2oN5rPuojBnqH0uQMUMVAl) | 4:11 |
 | 39 | [I Feel Fantastic](https://open.spotify.com/track/2CMq2UImv0YssAzKb95YBH) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [I Feel Fantastic](https://open.spotify.com/album/7EK9acXyOaMuemZA2rRqqz) | 2:26 |
 | 40 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
-| 41 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
-| 42 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
+| 41 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 |
+| 42 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 43 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 44 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 |
 | 45 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 74 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
 | 75 | [OLIVIA](https://open.spotify.com/track/2s14ypvd880AiEfZssEjaY) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [Yung Kage](https://open.spotify.com/artist/7j8MiVdcaaVpUvhkXWwYDT) | [OLIVIA](https://open.spotify.com/album/3hNNuCctdqZqKJvPcb5UbV) | 2:23 |
 
-Snapshot ID: `MTY2MDMzNDE2MywwMDAwMDAwMGIxMjU4MDc5NmQ2MWE1NmI2YTAyNTZmYzg0NTg1MmIy`
+Snapshot ID: `MTY2MDMzNDE2MywwMDAwMDAwMDg3YTQwYTYxNWU3NmFiMWZjYmE1MDYwODhkNzcwYTYz`

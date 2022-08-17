@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 
 > ❤️ o 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,334 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,410 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 19 | [El Farsante \- Remix](https://open.spotify.com/track/7uYgVgRSgqluZclLS7wpp4) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [El Farsante \(Remix\)](https://open.spotify.com/album/5lCXXIhQu0sY2M6BEROMu3) | 4:18 |
 | 20 | [Canela](https://open.spotify.com/track/1yTJg3lyUPmwbnve82twH5) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Canela](https://open.spotify.com/album/6AgxVg5UPdPs5b0GCUEQ38) | 3:24 |
 | 21 | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [C.R.O](https://open.spotify.com/artist/4puAp107dCehraE47QXVQX) | [C.R.O: Bzrp Music Sessions, Vol\. 29](https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny) | 2:26 |
-| 22 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
-| 23 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
+| 22 | [ODIO](https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:30 |
+| 23 | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Lenny Santos](https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq) | [Ayer Me Llamó Mi Ex \(feat\. Lenny Santos\)](https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL) | 3:26 |
 | 24 | [No Me Llores](https://open.spotify.com/track/2fBL047Cv32R3UFEup6xkP) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Leby](https://open.spotify.com/artist/1Pk9sKrTxQ1lLfCg9b0PlF) | [No Me Llores](https://open.spotify.com/album/3Iz5tFIsYZ1K6jV5nCjD52) | 3:11 |
 | 25 | [Vuelve](https://open.spotify.com/track/7rEtMAUYYJXjtOi7jPC2qp) | [Denilson](https://open.spotify.com/artist/31opIYTivWACiXXzX2khlj), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Vuelve](https://open.spotify.com/album/2eJQaFgNUndmCjFinYg2Nj) | 3:01 |
 | 26 | [Como Estrellas](https://open.spotify.com/track/7GcN9q4AAH4uzQKvyuvByT) | [LA YOUNG](https://open.spotify.com/artist/2Xi0zO1N71Ff9KymMs93YX) | [Como Estrellas](https://open.spotify.com/album/0tm8uER1ZGdUFGKUg3QTud) | 3:39 |
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 76 | [Me Gusta](https://open.spotify.com/track/3NXh44Beby7IYMYyOgdLPm) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Me Gusta](https://open.spotify.com/album/5XfNxDJo2vXgTk1kK9jl42) | 2:38 |
 | 77 | [Lágrimas](https://open.spotify.com/track/46l60sC0TGspoUcoyzYwSP) | [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Lágrimas](https://open.spotify.com/album/1WlgxOP7StNQO81E2sQi3d) | 2:45 |
 | 78 | [Slow](https://open.spotify.com/track/1x1KnF1LOtTQMZbI3XntnQ) | [Tobi](https://open.spotify.com/artist/6H70hylNqfc86Omz8GoyDB), [KYOTTO](https://open.spotify.com/artist/6DGfzsM8doRBRyvYmgibkd) | [Slow](https://open.spotify.com/album/2k12JOTXBLjRdIeFSskitG) | 4:31 |
-| 79 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
+| 79 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
 | 80 | [Me Prefiere A Mi](https://open.spotify.com/track/6b38njkY1j48fruqRqrm6d) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Bonus Trap](https://open.spotify.com/album/7IAJrYDUHZhIGXY6pY1GPX) | 2:46 |
-| 81 | [Si No Fue Asi](https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y) | [Midel](https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Si No Fue Asi](https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd) | 3:05 |
+| 81 | [Ella busca](https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj) | [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5) | [Trend](https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA) | 3:53 |
 | 82 | [Wake Me](https://open.spotify.com/track/1fWa8CXfSZvP64CChqRve9) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Wake Me](https://open.spotify.com/album/2ymNHseI83zQVhSOTC2R3m) | 2:54 |
 | 83 | [Good Vibes](https://open.spotify.com/track/4TwIbmabI2R5XUhqptk6Ev) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Good Vibes](https://open.spotify.com/album/7iSkcdgLqXakbw8EazkZK7) | 3:55 |
 | 84 | [Hielo](https://open.spotify.com/track/0MxEDBr9vDyrtOP5zx6hKc) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Hielo](https://open.spotify.com/album/39JjWxM4ydnOca0wAcCKdn) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTLxOkM7PwUb.md) - [plain]
 | 99 | [CON OTRA](https://open.spotify.com/track/56iVwpd1JFBWxK3rk9P3K0) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [CON OTRA](https://open.spotify.com/album/52PuSx5sskih9PSdXE254e) | 3:01 |
 | 100 | [Mi Llamada](https://open.spotify.com/track/7KOjAgKGwAlmzSqnDHvkfE) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Lenny Taváres](https://open.spotify.com/artist/3fjQrf2I2ARKPtokE52RlM) | [Mi Llamada](https://open.spotify.com/album/6hGMmjLQGdQpnGPIk2UGO2) | 4:15 |
 
-Snapshot ID: `MTY1OTQ2Mjg4OCwwMDAwMDAwMGJkMjBiNTBjZjc3ZjgzNzAwN2ZiYzkyZTYwMWZhMDIx`
+Snapshot ID: `MTY1OTQ2Mjg4OCwwMDAwMDAwMGM1NmRhNTU5ZGU3ZmZkNTE2MjVkZWZjMTU2YmY2MmUx`

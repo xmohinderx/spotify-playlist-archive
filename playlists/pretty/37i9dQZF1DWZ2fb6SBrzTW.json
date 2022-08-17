@@ -1,12 +1,12 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 5675,
+  "num_followers": 5700,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4Mjk5OCwwMDAwMDAwMDZkZDU5YWM0ZmYxMTE1ZDQxZWViNjJjYWU5YjNiNzdi",
+  "snapshot_id": "MTY2MDI4Mjk5OCwwMDAwMDAwMGVmNWZiM2FiNDRhNzdlYWNjYzM5NDc3YzM3N2NjNjUy",
   "tracks": [
     {
       "added_at": "2022-05-05 23:00:00",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo"
     },
     {
+      "added_at": "2022-07-07 23:00:00",
+      "album": {
+        "name": "Ijo (Laba Laba)",
+        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
+      },
+      "artists": [
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Ijo (Laba Laba)",
+      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "Big Flexa",
@@ -239,22 +255,6 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
-    },
-    {
-      "added_at": "2022-07-07 23:00:00",
-      "album": {
-        "name": "Ijo (Laba Laba)",
-        "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
-      },
-      "artists": [
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Ijo (Laba Laba)",
-      "url": "https://open.spotify.com/track/7tZMF9Hn5uGsfC7zGXbSKM"
     },
     {
       "added_at": "2022-08-05 07:44:31",
@@ -661,6 +661,26 @@
       "url": "https://open.spotify.com/track/6VaZy3CmYDMafPC6myZDeZ"
     },
     {
+      "added_at": "2022-07-28 23:00:00",
+      "album": {
+        "name": "Full Current (That's My baby)",
+        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+      },
+      "artists": [
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 208296,
+      "name": "Full Current (That's My Baby)",
+      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
+    },
+    {
       "added_at": "2022-06-23 23:00:00",
       "album": {
         "name": "LITTLE & LEGENDARY",
@@ -693,24 +713,40 @@
       "url": "https://open.spotify.com/track/2tZPZ1lT8TMlEUxXTxCCeO"
     },
     {
-      "added_at": "2022-07-28 23:00:00",
+      "added_at": "2022-07-14 23:00:00",
       "album": {
-        "name": "Full Current (That's My baby)",
-        "url": "https://open.spotify.com/album/15RpgQFP9IUTH5aD6nhmFP"
+        "name": "Polongo",
+        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
       },
       "artists": [
         {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        },
-        {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Olakira",
+          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
         }
       ],
-      "duration_ms": 208296,
-      "name": "Full Current (That's My Baby)",
-      "url": "https://open.spotify.com/track/2IMFiHPG7RF5acB0QPFJyj"
+      "duration_ms": 173076,
+      "name": "Polongo",
+      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+    },
+    {
+      "added_at": "2022-08-12 05:43:18",
+      "album": {
+        "name": "Jaiye Foreign",
+        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
+      },
+      "artists": [
+        {
+          "name": "Zinoleesky",
+          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 190164,
+      "name": "Jaiye Foreign",
+      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
     },
     {
       "added_at": "2022-05-19 23:00:00",
@@ -729,20 +765,32 @@
       "url": "https://open.spotify.com/track/6suEGaFoeHV8eNQau8itvT"
     },
     {
-      "added_at": "2022-07-14 23:00:00",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "Polongo",
-        "url": "https://open.spotify.com/album/16FAg2VCwyJBJ68dMANxHa"
+        "name": "ALL YOU NEED IS PIANO",
+        "url": "https://open.spotify.com/album/4FxJb1vaaJzZVTi0LI5xs5"
       },
       "artists": [
         {
-          "name": "Olakira",
-          "url": "https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE"
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Nokwazi",
+          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
+        },
+        {
+          "name": "DJ Biza",
+          "url": "https://open.spotify.com/artist/4HeR40LXLro0IsVPpDJXrm"
+        },
+        {
+          "name": "Tsiki XII",
+          "url": "https://open.spotify.com/artist/202SrQTYVvPja7Z5lrsWuk"
         }
       ],
-      "duration_ms": 173076,
-      "name": "Polongo",
-      "url": "https://open.spotify.com/track/5sWkgw4o3DDpIlw906aSr4"
+      "duration_ms": 377063,
+      "name": "Baleka (feat. Nokwazi, DJ Biza & Tsiki XII)",
+      "url": "https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t"
     },
     {
       "added_at": "2021-06-07 12:50:41",
@@ -777,6 +825,38 @@
       "url": "https://open.spotify.com/track/5wRZwN6VCb0rWxG2HUbaUx"
     },
     {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "Take Away",
+        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
+      },
+      "artists": [
+        {
+          "name": "Kuami Eugene",
+          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
+        }
+      ],
+      "duration_ms": 166426,
+      "name": "Take Away",
+      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+    },
+    {
+      "added_at": "2022-02-17 23:00:00",
+      "album": {
+        "name": "S\u00e1r\u00e9",
+        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "S\u00e1r\u00e9",
+      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
+    },
+    {
       "added_at": "2022-06-30 23:00:00",
       "album": {
         "name": "Never Forget",
@@ -805,36 +885,20 @@
       "url": "https://open.spotify.com/track/4pBr2SjDVIxfGkUwvOJLx7"
     },
     {
-      "added_at": "2022-02-17 23:00:00",
+      "added_at": "2022-07-22 04:29:24",
       "album": {
-        "name": "S\u00e1r\u00e9",
-        "url": "https://open.spotify.com/album/6XmhnmsNFYRxGZK5pcj9az"
+        "name": "Shaye",
+        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
       },
       "artists": [
         {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+          "name": "Magixx",
+          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
         }
       ],
-      "duration_ms": 154000,
-      "name": "S\u00e1r\u00e9",
-      "url": "https://open.spotify.com/track/6N0nSZAOuzYLLrzmma6KU1"
-    },
-    {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "Take Away",
-        "url": "https://open.spotify.com/album/1G332MHTrv8gde5rXWMYRJ"
-      },
-      "artists": [
-        {
-          "name": "Kuami Eugene",
-          "url": "https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl"
-        }
-      ],
-      "duration_ms": 166426,
-      "name": "Take Away",
-      "url": "https://open.spotify.com/track/3TbPmLDrVHWDaNboZjSHuK"
+      "duration_ms": 169043,
+      "name": "Shaye",
+      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
     },
     {
       "added_at": "2021-11-18 23:01:00",
@@ -857,40 +921,20 @@
       "url": "https://open.spotify.com/track/29FGO8Iej8cr7R6WdoPDG7"
     },
     {
-      "added_at": "2022-07-22 04:29:24",
+      "added_at": "2022-08-12 05:43:18",
       "album": {
-        "name": "Shaye",
-        "url": "https://open.spotify.com/album/46Ly7qRxGR5Hq6yPSEqRDH"
+        "name": "Para",
+        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
       },
       "artists": [
         {
-          "name": "Magixx",
-          "url": "https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142"
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
         }
       ],
-      "duration_ms": 169043,
-      "name": "Shaye",
-      "url": "https://open.spotify.com/track/0hFgFEdlRzbWGZGEHiCwPy"
-    },
-    {
-      "added_at": "2021-08-13 00:00:00",
-      "album": {
-        "name": "Sex Over Love",
-        "url": "https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv"
-      },
-      "artists": [
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        },
-        {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
-        }
-      ],
-      "duration_ms": 185117,
-      "name": "Fendi (feat. Joeboy)",
-      "url": "https://open.spotify.com/track/0qFhAo95HuSnwgtwa8PVTe"
+      "duration_ms": 180062,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -937,24 +981,24 @@
       "url": "https://open.spotify.com/track/6dzK4aJJaO3NBYNVGcuPH7"
     },
     {
-      "added_at": "2022-08-12 05:43:18",
+      "added_at": "2021-08-13 00:00:00",
       "album": {
-        "name": "Jaiye Foreign",
-        "url": "https://open.spotify.com/album/5D3OdqLtggVIsUjxXrzHwY"
+        "name": "Sex Over Love",
+        "url": "https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv"
       },
       "artists": [
         {
-          "name": "Zinoleesky",
-          "url": "https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g"
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
         },
         {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
         }
       ],
-      "duration_ms": 190164,
-      "name": "Jaiye Foreign",
-      "url": "https://open.spotify.com/track/3iRKwxW8ZDjmL9nKk3nisz"
+      "duration_ms": 185117,
+      "name": "Fendi (feat. Joeboy)",
+      "url": "https://open.spotify.com/track/0qFhAo95HuSnwgtwa8PVTe"
     },
     {
       "added_at": "2022-07-28 23:00:00",
@@ -1033,6 +1077,30 @@
       "url": "https://open.spotify.com/track/0R1LtMkJJxzE1cwKjwemkG"
     },
     {
+      "added_at": "2022-06-16 23:00:00",
+      "album": {
+        "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+        "url": "https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE"
+      },
+      "artists": [
+        {
+          "name": "Mbosso",
+          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
+        },
+        {
+          "name": "Costa Titch",
+          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
+        },
+        {
+          "name": "Phantom Steeze",
+          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
+        }
+      ],
+      "duration_ms": 252785,
+      "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
+      "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
+    },
+    {
       "added_at": "2022-02-24 23:00:00",
       "album": {
         "name": "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
@@ -1059,54 +1127,6 @@
       "duration_ms": 189913,
       "name": "YARD (feat. Black Sherif, Bella Shmurda & Alpha P)",
       "url": "https://open.spotify.com/track/41OAbUwS3yasOZU7CGAPy7"
-    },
-    {
-      "added_at": "2022-06-16 23:00:00",
-      "album": {
-        "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
-        "url": "https://open.spotify.com/album/12PHIJ7XJEjiclcDuljOtE"
-      },
-      "artists": [
-        {
-          "name": "Mbosso",
-          "url": "https://open.spotify.com/artist/2aD5NzVGvpZmoMKu07M6Sa"
-        },
-        {
-          "name": "Costa Titch",
-          "url": "https://open.spotify.com/artist/5IaDEj02UeuU9YQSunGWgG"
-        },
-        {
-          "name": "Phantom Steeze",
-          "url": "https://open.spotify.com/artist/02XiDOg93e5rFwmPoc7O6S"
-        }
-      ],
-      "duration_ms": 252785,
-      "name": "Moyo (feat. Costa Titch & Phantom Steeze)",
-      "url": "https://open.spotify.com/track/7ekrjUWevBEalqmms6kM3K"
-    },
-    {
-      "added_at": "2022-05-12 23:00:00",
-      "album": {
-        "name": "Meliza (Remix)",
-        "url": "https://open.spotify.com/album/10XuUdyqYKBGeum6omV8J5"
-      },
-      "artists": [
-        {
-          "name": "DJ Flex",
-          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
-        },
-        {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
-        },
-        {
-          "name": "Minz",
-          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
-        }
-      ],
-      "duration_ms": 195974,
-      "name": "Meliza - Remix",
-      "url": "https://open.spotify.com/track/59V2RCdZkPhiHTjxhiojjx"
     },
     {
       "added_at": "2022-07-07 23:00:00",
@@ -1149,34 +1169,6 @@
       "url": "https://open.spotify.com/track/0RdO7NC6LgugflNKRmNeAn"
     },
     {
-      "added_at": "2022-08-12 05:43:18",
-      "album": {
-        "name": "ALL YOU NEED IS PIANO",
-        "url": "https://open.spotify.com/album/4FxJb1vaaJzZVTi0LI5xs5"
-      },
-      "artists": [
-        {
-          "name": "Mr JazziQ",
-          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
-        },
-        {
-          "name": "Nokwazi",
-          "url": "https://open.spotify.com/artist/212CRvd7gujQnCCLbRhylL"
-        },
-        {
-          "name": "DJ Biza",
-          "url": "https://open.spotify.com/artist/4HeR40LXLro0IsVPpDJXrm"
-        },
-        {
-          "name": "Tsiki XII",
-          "url": "https://open.spotify.com/artist/202SrQTYVvPja7Z5lrsWuk"
-        }
-      ],
-      "duration_ms": 377063,
-      "name": "Baleka (feat. Nokwazi, DJ Biza & Tsiki XII)",
-      "url": "https://open.spotify.com/track/7iBiBYaVBw69mmPwPBgM0t"
-    },
-    {
       "added_at": "2022-06-16 23:00:00",
       "album": {
         "name": "Sweetie",
@@ -1193,6 +1185,30 @@
       "url": "https://open.spotify.com/track/3F8VnAhLzms6znrR4RgoO9"
     },
     {
+      "added_at": "2022-05-12 23:00:00",
+      "album": {
+        "name": "Meliza (Remix)",
+        "url": "https://open.spotify.com/album/10XuUdyqYKBGeum6omV8J5"
+      },
+      "artists": [
+        {
+          "name": "DJ Flex",
+          "url": "https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125"
+        },
+        {
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+        },
+        {
+          "name": "Minz",
+          "url": "https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT"
+        }
+      ],
+      "duration_ms": 195974,
+      "name": "Meliza - Remix",
+      "url": "https://open.spotify.com/track/59V2RCdZkPhiHTjxhiojjx"
+    },
+    {
       "added_at": "2022-07-28 23:00:00",
       "album": {
         "name": "Gettin' Hot",
@@ -1207,30 +1223,6 @@
       "duration_ms": 224000,
       "name": "Gettin' Hot",
       "url": "https://open.spotify.com/track/0IEaZK2lHVRaTBiyqQaaUQ"
-    },
-    {
-      "added_at": "2022-05-05 23:00:00",
-      "album": {
-        "name": "Monica",
-        "url": "https://open.spotify.com/album/2fs30svWWoqUOC4Xzl5lYU"
-      },
-      "artists": [
-        {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
-        },
-        {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Monica",
-      "url": "https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8"
     }
   ],
   "unique_name": "Keep Fit Club ",

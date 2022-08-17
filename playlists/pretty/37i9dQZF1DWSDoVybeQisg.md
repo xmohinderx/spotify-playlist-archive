@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 
 > Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
 
-[Spotify](https://open.spotify.com/user/spotify) - 995,979 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,729 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 24 | [Venus In Furs](https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 5:12 |
 | 25 | [Mr\. Soul](https://open.spotify.com/track/042v1NacbKJzCyi6nBme7T) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield Again](https://open.spotify.com/album/7hez8jibf36E66GHpFkWz7) | 2:52 |
 | 26 | [My Back Pages](https://open.spotify.com/track/1yexhSDARSLVvRCBU3wDAm) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Younger Than Yesterday](https://open.spotify.com/album/33puYJ2y5qANDenRmL8BS1) | 3:08 |
-| 27 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
-| 28 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
+| 27 | [Psychotic Reaction](https://open.spotify.com/track/5JcaA4A9ZoXthwEnxOxWvP) | [Count Five](https://open.spotify.com/artist/57WXdjUf5Vlq3klNZegeTP) | [Psychotic Reaction](https://open.spotify.com/album/7Mccdl5xR9mfqo00lgDVDA) | 3:05 |
+| 28 | [One Rainy Wish](https://open.spotify.com/track/5Zyv0v4rPcrXjkaeImuodv) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Axis: Bold As Love](https://open.spotify.com/album/3uFZf8rykoHo7XMIQVYW6r) | 3:41 |
 | 29 | [You're Gonna Miss Me \(2008 Remastered Original Mono LP Version\)](https://open.spotify.com/track/34miSNKQ0xN7EG8zzzaFzI) | [13th Floor Elevators](https://open.spotify.com/artist/7xYxgSJaIf7yOFLmknYX38) | [The Psychedelic Sounds of the 13th Floor Elevators \- 2008 Remaster](https://open.spotify.com/album/2afQ7u8n1CzNBAHjl6OQCG) | 2:26 |
 | 30 | [Crimson & Clover \- Single Version](https://open.spotify.com/track/1vXuYPpkLjn1v06E2EsWQY) | [Tommy James & The Shondells](https://open.spotify.com/artist/01hRNr3yF5bYnPq4wZ88iI) | [The Essentials: Tommy James & The Shondells](https://open.spotify.com/album/0OuQjb89LiXrs0AiWb6zRZ) | 3:28 |
 | 31 | [The Pusher](https://open.spotify.com/track/29HbMTL672MugzhklYvStz) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 5:52 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 64 | [Green Tambourine](https://open.spotify.com/track/70jnaGaj1rtpyABfUURpvr) | [The Lemon Pipers](https://open.spotify.com/artist/2rUmEpDSHKMhamwClclHs5) | [The Best of the Lemon Pipers](https://open.spotify.com/album/7xqsq9EdxlurNTjMSZTCDg) | 2:27 |
 | 65 | [We Love You \- Single Version/Mono](https://open.spotify.com/track/5dDPFVD26G55XYYaKIexRS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [The Rolling Stones In Mono \(Remastered 2016\)](https://open.spotify.com/album/5nKpMsduwp5xqCKq2IbSKv) | 4:36 |
 | 66 | [Rainbow Chaser](https://open.spotify.com/track/0BoypJFFJNUpFuJswxBCea) | [Nirvana](https://open.spotify.com/artist/7dIxU1XgxBIa3KJAWzaFAC) | [Rainbow Chaser: The 60s Recordings \(The Island Years\)](https://open.spotify.com/album/4oH8UkVVPrYZufkrUQY6iN) | 2:38 |
-| 67 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
-| 68 | [The Sky Children](https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Tangerine Dream](https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z) | 8:00 |
-| 69 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
+| 67 | [Thing in E](https://open.spotify.com/track/6yUIyHqIrx854Jief095VE) | [The Savage Resurrection](https://open.spotify.com/artist/16dZsYfKoAqmnt1tyhAPkE) | [The Savage Resurrection](https://open.spotify.com/album/2Tzvkt45C7PLlLICWYNslu) | 3:06 |
+| 68 | [Morning Sunshine](https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W) | [The Idle Race](https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G) | [Back To The Story](https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW) | 1:48 |
+| 69 | [The Sky Children](https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN) | [Kaleidoscope](https://open.spotify.com/artist/5efZAHycAVv2oTu3D5DNSy) | [Tangerine Dream](https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z) | 8:00 |
 | 70 | [Rainy Day Mushroom Pillow](https://open.spotify.com/track/35VcWn3lZ4ne9mhN8uMrFm) | [Strawberry Alarm Clock](https://open.spotify.com/artist/1nyQBzKgZ2hBLr7PnyV7cI) | [Incense And Peppermints](https://open.spotify.com/album/4NbLTe8YqLFwys4SmkEofd) | 3:04 |
 | 71 | [5D \(Fifth Dimension\)](https://open.spotify.com/track/7jvptnW3PMozIQq4C6uJB9) | [The Byrds](https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc) | [Fifth Dimension](https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb) | 2:33 |
 | 72 | [Flight of the Psychedelic Bumble Bee](https://open.spotify.com/track/27aeWRq1h65omUnS16hciN) | [The Peanut Butter Conspiracy](https://open.spotify.com/artist/1mUgTcokhM7BSqp8mXhy8U) | [Spreading from the Ashes](https://open.spotify.com/album/4szjmnQyAMKfYA509zvLyc) | 2:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSDoVybeQisg.md) - [plain]
 | 74 | [Bracelets Of Fingers](https://open.spotify.com/track/6g6N0HhdpogmRlBKNMZJFj) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [S.F\. Sorrow](https://open.spotify.com/album/5IIB3xh53eRBpkkktSFQbc) | 3:41 |
 | 75 | [Sand](https://open.spotify.com/track/1ppiFXKUliXgJLpOHJ3Rog) | [Clear Light](https://open.spotify.com/artist/0vbykpsZwxi9Z6P27AhVqJ) | [Clear Light \(US Internet Release\)](https://open.spotify.com/album/5js8Q3QkxR0FT94B64OiCl) | 2:38 |
 
-Snapshot ID: `MTYzNjU2NzcxMywwMDAwMDAwMDIzOTMzMjhkYzlhOTQ3MDcyNDI5N2M0ZmUzZWFiM2Iz`
+Snapshot ID: `MTYzNjU2NzcxMywwMDAwMDAwMDhiZDk4MTE1Zjc4YmJjMzNlOWM0ZTcwZTFkNjljY2Yz`

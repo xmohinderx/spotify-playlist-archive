@@ -3810,6 +3810,28 @@
     },
     {
       "album": {
+        "name": "Recuerdos de la Alhambra",
+        "url": "https://open.spotify.com/album/4FmWaNwRXjGn98uxgUOEdU"
+      },
+      "artists": [
+        {
+          "name": "Francisco T\u00e1rrega",
+          "url": "https://open.spotify.com/artist/3cYz1jb3gzmFv2R0Dj3U2t"
+        },
+        {
+          "name": "Andr\u00e9s Segovia",
+          "url": "https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316186,
+      "name": "Recuerdos de la Alhambra",
+      "url": "https://open.spotify.com/track/1AY6q2jTRewDwaZZVKhRDa"
+    },
+    {
+      "album": {
         "name": "Andr\u00e9s Segovia - The Art of Segovia",
         "url": "https://open.spotify.com/album/2bhGWXqi8O70lawyh66yQT"
       },
@@ -5267,7 +5289,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 501306,
       "name": "Zigeunerweisen, Op. 20",
       "url": "https://open.spotify.com/track/5PNcEbX4s2Tfx4F5FUbgRe"

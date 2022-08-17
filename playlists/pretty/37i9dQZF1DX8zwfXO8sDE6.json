@@ -1,12 +1,12 @@
 {
   "description": "Discover the amazing world of Japanese City Pop from the \u201870s./ \u30cb\u30e5\u30fc\u30df\u30e5\u30fc\u30b8\u30c3\u30af\u3068\u3082\u4e00\u7dda\u3092\u753b\u3059\u3001\u90fd\u4f1a\u7684\u3067\u6d17\u7df4\u3055\u308c\u305f\u97f3\u697d\uff1d\u30b7\u30c6\u30a3\u30dd\u30c3\u30d7 \u306e\u8a95\u751f\u3002\u9ece\u660e\u671f\u306e\u8f1d\u304d\u306f\u6c38\u9060\u306b\u3002",
-  "num_followers": 32214,
+  "num_followers": 32272,
   "original_name": "City Pop '70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTU3NDUxNCwwMDAwMDAwMDIyNjk5NTU1NmMzMDEzOTI4NDRiN2M3ZDY1ODNhNzEz",
+  "snapshot_id": "MTYyOTU3NDUxNCwwMDAwMDAwMDc4NmY4YTgzNmJiNmM5NmYyOGViOTI4YTM2YmQ5NzAw",
   "tracks": [
     {
       "added_at": "2021-08-21 19:35:14",
@@ -255,22 +255,6 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "City Lights by the Moonlight",
-        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
-      },
-      "artists": [
-        {
-          "name": "\u60e3\u9818 \u667a\u5b50",
-          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
-        }
-      ],
-      "duration_ms": 232080,
-      "name": "City Lights by the Moonlight",
-      "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
-    },
-    {
-      "added_at": "2021-08-21 19:35:14",
-      "album": {
         "name": "\u30c7\u30ad\u30b7\u30fc\u30fb\u30d5\u30a3\u30fc\u30d0\u30fc",
         "url": "https://open.spotify.com/album/5ZSwD45BH7WFK2wmUwvdur"
       },
@@ -291,18 +275,18 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "WE ARE JUST TAKING OFF",
-        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
+        "name": "City Lights by the Moonlight",
+        "url": "https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg"
       },
       "artists": [
         {
-          "name": "Sadistics",
-          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
+          "name": "\u60e3\u9818 \u667a\u5b50",
+          "url": "https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb"
         }
       ],
-      "duration_ms": 294800,
-      "name": "CLOSE YOUR EYES",
-      "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
+      "duration_ms": 232080,
+      "name": "City Lights by the Moonlight",
+      "url": "https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J"
     },
     {
       "added_at": "2021-08-21 19:35:14",
@@ -339,18 +323,18 @@
     {
       "added_at": "2021-08-21 19:35:14",
       "album": {
-        "name": "Heart To Heart",
-        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+        "name": "WE ARE JUST TAKING OFF",
+        "url": "https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi"
       },
       "artists": [
         {
-          "name": "Raji",
-          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+          "name": "Sadistics",
+          "url": "https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW"
         }
       ],
-      "duration_ms": 226320,
-      "name": "THE TOKYO TASTE",
-      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
+      "duration_ms": 294800,
+      "name": "CLOSE YOUR EYES",
+      "url": "https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0"
     },
     {
       "added_at": "2021-08-21 19:35:14",
@@ -367,6 +351,22 @@
       "duration_ms": 213520,
       "name": "On the Coast",
       "url": "https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD"
+    },
+    {
+      "added_at": "2021-08-21 19:35:14",
+      "album": {
+        "name": "Heart To Heart",
+        "url": "https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr"
+      },
+      "artists": [
+        {
+          "name": "Raji",
+          "url": "https://open.spotify.com/artist/6BIhMqvFyj8nYQrk6EmE0Y"
+        }
+      ],
+      "duration_ms": 226320,
+      "name": "THE TOKYO TASTE",
+      "url": "https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm"
     },
     {
       "added_at": "2021-08-21 19:35:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,138 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,150 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 35 | [Clavo](https://open.spotify.com/track/3fvmFvl8r3zfEMQq2GVJbv) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9), [Samantha Sánchez](https://open.spotify.com/artist/1GhW0GVy12AcLQc5kA14PJ) | [Clavo](https://open.spotify.com/album/79vicj0AVbnJn1SUSmLj11) | 2:50 |
 | 36 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 37 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
-| 38 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
-| 39 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
+| 38 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
+| 39 | [Lavántula](https://open.spotify.com/track/3rq5FTMGVA3ha3k6dCX2oh) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [III·I](https://open.spotify.com/album/4kyOrsBqe1yio6Gq8XYz3r) | 3:11 |
 | 40 | [Escribe Una Canción](https://open.spotify.com/track/4Yrn59SQBNUiWywYLERLw2) | [DON](https://open.spotify.com/artist/4xRGF3S9AgY23sWuzKlUDR) | [Siempre Resistir / Nunca Desistir](https://open.spotify.com/album/05oaSmUNyPQMVeNgvfn8uS) | 3:54 |
 | 41 | [Antes](https://open.spotify.com/track/1rZPLX3l9i3nOzPuyw5uTa) | [Celofán](https://open.spotify.com/artist/6lxn2RanNHWxoWRHLTLunm) | [Split](https://open.spotify.com/album/2w1Xt3HBQq6qIDZEZWk4CE) | 3:19 |
 | 42 | [No Digas Lo Siento](https://open.spotify.com/track/3e2W5jHkrLTzTOaL8Eqx52) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [No Digas Lo Siento](https://open.spotify.com/album/1c6ugiEfTV9lVRWIx93wW7) | 2:51 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 44 | [Empezar, Pt\. 2](https://open.spotify.com/track/7MLwzBBleVNsTN4X2enXO2) | [Sureste](https://open.spotify.com/artist/1F4oynmQhLxXhdS4J2z9MH) | [Empezar, Pt\. 2](https://open.spotify.com/album/07VAGAMUcivFxHWTgYVlQS) | 2:45 |
 | 45 | [Todo Lo Que Soy](https://open.spotify.com/track/4IrGRRICVrIntPZyRzE0av) | [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [Todo Lo Que Soy](https://open.spotify.com/album/3C8MzBlq6nOZ0TeTFLhXxu) | 3:18 |
 | 46 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/6iB7RH02D8OfZn7vyo42bH) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Conversaciones Con Mi Almohada](https://open.spotify.com/album/1gv3HDa8Q2S9hFntHQRbCX) | 3:54 |
-| 47 | [La Ultima Excusa](https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX) | [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [La Ultima Excusa](https://open.spotify.com/album/4JeUbPW3mouXCWWgV5KFt8) | 4:54 |
-| 48 | [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 |
-| 49 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
+| 47 | [Doble Vida](https://open.spotify.com/track/0hL4uLIKFzKwRIpOsjP9DF) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Doble Vida](https://open.spotify.com/album/3WwiGAt7wzs8wKVtM06cNU) | 3:04 |
+| 48 | [La Ultima Excusa](https://open.spotify.com/track/00ru0jOJXVP8Qf5fdBTaqX) | [Corre Forrest!](https://open.spotify.com/artist/6MKMzsT9XaBOJVn20RJfe5) | [La Ultima Excusa](https://open.spotify.com/album/4JeUbPW3mouXCWWgV5KFt8) | 4:54 |
+| 49 | [Aunque a Veces Tenga Miedo](https://open.spotify.com/track/3NtymRSp0GJUBeiNUk3ZRL) | [Barney Gombo](https://open.spotify.com/artist/2I5AFH9BrfRnnNTg8VAeBc) | [Aunque a Veces Tenga Miedo](https://open.spotify.com/album/4mDGa6yqGKRmWvCHKIVvDM) | 3:54 |
 | 50 | [La Naturaleza Incoherente del Ser](https://open.spotify.com/track/5aCOgoyVrIYxB7rScX1vJG) | [Dolores De Huevos](https://open.spotify.com/artist/7wqgl1I3I8WWYs5QfeojTV) | [La Naturaleza Incoherente del Ser](https://open.spotify.com/album/64s94my8S2fm0e7IkWSHzW) | 3:23 |
 
-Snapshot ID: `MTY1ODUyMzYxOSwwMDAwMDAwMGU5YTU1N2I4NGYxMjUwMGY5Nzk4NTdkYzllNDE5Mzdh`
+Snapshot ID: `MTY1ODUyMzYxOSwwMDAwMDAwMDdmNjkxNjQ1YzNiYzc1M2FmYjBjNWYzOGNlOTc4ZmM2`

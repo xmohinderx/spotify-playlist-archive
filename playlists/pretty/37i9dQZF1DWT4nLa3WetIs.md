@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Taking you back to your favourite hall party classics from the Afrobeat scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,213 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,307 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 28 | [E No Easy](https://open.spotify.com/track/2eBFbJrTEIWVnqsVRWOgVN) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [J\. Martins](https://open.spotify.com/artist/4DWVHNUG04lB1nYDbQmjLm) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 4:24 |
 | 29 | [Skelewu](https://open.spotify.com/track/0C63WNrSJOlu62O6lrxRMU) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Best Of Davido](https://open.spotify.com/album/1cG2CR1M2KMv2dupmm3rFI) | 3:10 |
 | 30 | [Dorobucci \(feat\. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince\)](https://open.spotify.com/track/06B0pbiRWZJAfxJXu6R4wY) | [Mavins](https://open.spotify.com/artist/5JWBXFlYkBy3n2oN1To790), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a), [Dr SID](https://open.spotify.com/artist/1A1IEvjX2MyuMXDDsSW8sD), [Dr Sid Tiwa Savage](https://open.spotify.com/artist/5mUNACNQZaugrWFIjtRWdA), [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd), [Korede Bello](https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa), [D'Prince](https://open.spotify.com/artist/6rqqLENUG5H57UnYuLOUbU) | [Dorobucci \(feat\. Don Jazzy, Dr Sid, Dr Sid Tiwa Savage, Reekado Banks, Di'ja, Korede Bello & D'prince\)](https://open.spotify.com/album/2kf7rwQWptDFL0dIGCRHvs) | 4:26 |
-| 31 | [Décalé Gwada](https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c) | [Jessy Matador](https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR) | [Afrikan New Style](https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u) | 2:55 |
-| 32 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
+| 31 | [Mansa](https://open.spotify.com/track/3Aajl2Cw5V0KOIyIbHg6rT) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Break Through](https://open.spotify.com/album/28sexcZHZO8Af5fg5rgwYL) | 4:06 |
+| 32 | [Décalé Gwada](https://open.spotify.com/track/6m9geVsbI6BsPZ6CESmK3c) | [Jessy Matador](https://open.spotify.com/artist/7kg2IelllVmw7WcnSFtlXR) | [Afrikan New Style](https://open.spotify.com/album/4WC1cBieMiYoc3enDfIi5u) | 2:55 |
 | 33 | [No One Like You \- Deluxe](https://open.spotify.com/track/5l2sIiSjXzn6cOLZW1k3r4) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Gameover \(Deluxe\)](https://open.spotify.com/album/6D9DjuzGIPpFrRSMlXxbD2) | 4:28 |
 | 34 | [Don't Dull](https://open.spotify.com/track/7AT7oI9QTl5OAulYItiz6v) | [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Superstar](https://open.spotify.com/album/16xW2AvG6yVXJJ0ZYJ5Dlb) | 4:39 |
 | 35 | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/track/2cWdhA4ZDBvYuHRKKIPT3k) | [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [The Matter \(feat\. Wizkid\)](https://open.spotify.com/album/1nu7MqRnwUFG26Zk90kWyV) | 3:18 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 61 | [Mo Gbono Feli Feli](https://open.spotify.com/track/07RfIWKzLssvCChvLQEW8y) | [D'banj](https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C) | [D'banj Essentials](https://open.spotify.com/album/6W7HwjGhnQoo68CeL0Bz1L) | 4:18 |
 | 62 | [Baby \(Chop Kiss\)](https://open.spotify.com/track/28GS7SZV0MOQxX7iafzAyK) | [Shatta Wale](https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI) | [Baby \(Chop Kiss\)](https://open.spotify.com/album/3vC6WJatACMOOusT2ZjPGW) | 3:18 |
 | 63 | [U Go Kill Me \(feat\. El\)](https://open.spotify.com/track/2iTzNWT7x2NXpMngGZQzPd) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [EL](https://open.spotify.com/artist/4pU8XJNeU0LJhfZQOQcYoh) | [Rapperholic](https://open.spotify.com/album/2c6XAeiIU3sxO3aMvPy7SK) | 3:45 |
-| 64 | [You Bad](https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7) | [Wande Coal](https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh) | [Selection](https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco) | 4:06 |
-| 65 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
+| 64 | [Malonogede](https://open.spotify.com/track/53C1jcNfeMGnlZLTbVrgU2) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Terry G](https://open.spotify.com/artist/2ZMAFkHTvgCbtBumdkNDQA) | [Upgrade](https://open.spotify.com/album/4OItxpIftQvT7msiD4EDyE) | 3:10 |
+| 65 | [You Bad](https://open.spotify.com/track/73t8wajskCvkLtnw7Xvmk7) | [Wande Coal](https://open.spotify.com/artist/1dATrNO6y7LHKgZ2DhYQsh) | [Selection](https://open.spotify.com/album/6vgavmu9XaTbGvnZ7FnTco) | 4:06 |
 | 66 | [Sorkode](https://open.spotify.com/track/4jPxPF4jj0liUxoDI2bIBy) | [Keche](https://open.spotify.com/artist/7I8VnUISFUDhcyfzdFk19E) | [Sorkode \- Single](https://open.spotify.com/album/111KYIWPCaBCdwN711Xy3g) | 3:40 |
 | 67 | [The Thing](https://open.spotify.com/track/405XbnXle3IZ5Aj2bZT3Nu) | [Drumz](https://open.spotify.com/artist/4fGcqONONvUtBpp8G84u7s) | [The Thing](https://open.spotify.com/album/06nSQsDNTe1NNBeJvsC28n) | 4:52 |
 | 68 | [Kele Kele](https://open.spotify.com/track/6leKqvSviIydDluSDB7gQz) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Once Upon a Time](https://open.spotify.com/album/26VFfANkR1FYyyTwtCi4eG) | 3:42 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 79 | [Bae \(feat\. Afro B\)](https://open.spotify.com/track/0XAebEOKmFP0QjVplewqbE) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Afro B](https://open.spotify.com/artist/7oMRcCu0OYSCtCyS3P37iC) | [Bae \(feat\. Afro B\)](https://open.spotify.com/album/0ae2TKUu1qAZ18GYdrJdNB) | 3:23 |
 | 80 | [Ahayede](https://open.spotify.com/track/0YcLMyZGhtAx1qYgQPbPkJ) | [Nana Boroo](https://open.spotify.com/artist/6okA9KLxPv9Za9RGkHSOk5), [SK Originale](https://open.spotify.com/artist/2z5uuIjNgQjzjwO3QVwHXP) | [Best of Nana Boroo](https://open.spotify.com/album/0FxMEwwFyYv70CkwvMpIUd) | 5:00 |
 
-Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDBmZjZkNjA2MmQzMjMxMmQ5YjJlNDZiNTVlMGRhNzY3`
+Snapshot ID: `MTYwNDY2ODg4MSwwMDAwMDAwMDg0NTJiN2E0N2M0NWJkZWEyNTlhY2E3MmE0MTY1OThj`

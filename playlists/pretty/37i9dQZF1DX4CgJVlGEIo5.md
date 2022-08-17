@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 
 > Cherish the day with these low\-key favorites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,248 likes - 82 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,369 likes - 82 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 37 | [Home](https://open.spotify.com/track/6SGoFZFKjF1ZbGDkImEaS7) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Wanderlust](https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw) | 3:22 |
 | 38 | [Slow Hands \- Acoustic](https://open.spotify.com/track/3BK5t8Z6AkaeUTdFjehHqy) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Slow Hands \(Acoustic\)](https://open.spotify.com/album/24cFn5N2pwiU2WZQcfSUIp) | 2:40 |
 | 39 | [I Can Change](https://open.spotify.com/track/0jCe45cYIc6NXedmbIKy0Q) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:11 |
-| 40 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 |
-| 41 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
+| 40 | [Chateau](https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Snow](https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL) | 4:33 |
+| 41 | [Sweetest Thing](https://open.spotify.com/track/696vpg0aBvBxpZAuasmg15) | [Allman Brown](https://open.spotify.com/artist/239Y6QdFqVFfdsw6moqSEN) | [Sweetest Thing](https://open.spotify.com/album/4YtmwrjMoeVCcVPMSadTsy) | 3:38 |
 | 42 | [Can't See Straight \- Acoustic](https://open.spotify.com/track/68xnGmup4wL7Ie4vhy5SOs) | [Jamie Lawson](https://open.spotify.com/artist/1jhdZdzOd4TJLAHqQdkUND) | [Can't See Straight \(Acoustic\)](https://open.spotify.com/album/0FeiXtVLwH2i5Bes9MKeWj) | 3:08 |
 | 43 | [Ol' Sweet Day](https://open.spotify.com/track/3wXHHCV4A7KsoTlHZWVZPd) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/1jRDpK2VoR7Pxi1LsK4JhM) | 2:58 |
 | 44 | [She Burns](https://open.spotify.com/track/3rUw4cRDeYVZhjkUXBnFUQ) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [The Wild Swan](https://open.spotify.com/album/0njBaqTHPEL9qHsrT6NBVz) | 3:49 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 53 | [Nothing’s Gonna Happen](https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl) | 3:36 |
 | 54 | [Silence \- Acoustic](https://open.spotify.com/track/3AweMMF3G598hMsjto9Vtg) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Silence \(Acoustic\)](https://open.spotify.com/album/3GCiwl66wCiCt68MVCBp65) | 3:41 |
 | 55 | [Sunscreen](https://open.spotify.com/track/2mBP9IsENazdoJ9ep5iR8i) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 2:58 |
-| 56 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
-| 57 | [Boston](https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 4:33 |
+| 56 | [Boston](https://open.spotify.com/track/51qWzz8tfP9AK7q4b9JxP8) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Doves & Ravens](https://open.spotify.com/album/64KvdiGpqwb0Lu1Zn4AcSf) | 4:33 |
+| 57 | [I Love The Rain The Most](https://open.spotify.com/track/63ogaJyLqKCR9BUBzmtnIG) | [Joe Purdy](https://open.spotify.com/artist/3MCxkaTJmYKH0FZbe3rYxa) | [Julie Blue](https://open.spotify.com/album/6uxp18VG6vFW2TmjE0nrPN) | 4:38 |
 | 58 | [To Live a Life](https://open.spotify.com/track/4K00AQLpOhGUdDfDINDfYL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 3:12 |
 | 59 | [Fine](https://open.spotify.com/track/2elxgOyiNPM0QYjixON7cn) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Fine](https://open.spotify.com/album/0cxiBuEGEh9pUnmQzWZAu6) | 3:25 |
 | 60 | [Love And Happiness](https://open.spotify.com/track/5fMInRpERS8jP2zPz6QyUI) | [Marc Broussard](https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe) | [S.O.S.: Save Our Soul](https://open.spotify.com/album/6vk5kBQsE8SQzv3FxG3TWu) | 4:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 64 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 65 | [Runaway Horses \(feat\. Phoebe Bridgers\) \- Abridged](https://open.spotify.com/track/3PeCWDczrGqdD1E3mbok2X) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Pressure Machine \(Abridged\)](https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB) | 3:24 |
 | 66 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 |
-| 67 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
-| 68 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 67 | [Faking My Own Death](https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Faking My Own Death](https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf) | 3:58 |
+| 68 | [Caroline](https://open.spotify.com/track/0laEXE6mKdErCC67yhsHaO) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Mipso](https://open.spotify.com/album/71wj7iB4JXxUUTPosOpXMM) | 3:35 |
 | 69 | [Puppy and a Truck](https://open.spotify.com/track/3yN6F2vOf3ypKv9kr8sDdm) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Puppy and a Truck](https://open.spotify.com/album/358Blro4SuMHGHYnH1Tgbl) | 3:11 |
 | 70 | [Moon in the Morning](https://open.spotify.com/track/1Lfr9YBRpeSwCS14kBoTAg) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:14 |
 | 71 | [Another Way](https://open.spotify.com/track/6xU24c00m15ZxjFqmVs0hN) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti) | [Both Ways](https://open.spotify.com/album/1lCMPLXpxu11jKDngB9w8L) | 4:11 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4CgJVlGEIo5.md) - [plain]
 | 81 | [Phoenix](https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Phoenix](https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj) | 3:30 |
 | 82 | [System](https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Signs of Life](https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2) | 3:53 |
 
-Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMDg3Nzk2YjFkODUxN2UwYzU1OGZhZDJhYTE0NzA4NzQx`
+Snapshot ID: `MTY0ODA3MTA4MSwwMDAwMDAwMDE3ZmQxZGUxYjYzZTQ1N2U0ODQ2ZDNkNTQ4NDdiZTc4`

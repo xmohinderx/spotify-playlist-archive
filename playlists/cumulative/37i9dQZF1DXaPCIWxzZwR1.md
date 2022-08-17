@@ -4,7 +4,7 @@
 
 > in my showstopper, bad liar, homie hopper era\. cover: Bella Poarch
 
-1,069 songs - 2 day 3 hr 55 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
+1,070 songs - 2 day 3 hr 58 min - [published](https://open.spotify.com/playlist/1MUGAYRMba2bUffdFFswRE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [BAD KIDS](https://open.spotify.com/track/3s4WVKaSU112SfRBjvyXKp) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [BAD KIDS](https://open.spotify.com/album/3EN3hLzUkJuBTbu14HvZIz) | 1:47 | 2022-02-18 | 2022-03-23 |
 | [bad ones](https://open.spotify.com/track/6CYT0souHUHKTO4EMzTUFg) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [TOO YOUNG TO BE SAD](https://open.spotify.com/album/1BaHo66NCQNx6ku0hPn9bR) | 3:03 | 2021-03-26 | 2021-07-13 |
 | [Balcony](https://open.spotify.com/track/0fm7wmprleTxxPcVwDWJT3) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Balcony](https://open.spotify.com/album/0max2kuWDAQd4Hcp1ncT5j) | 2:31 | 2021-05-08 | 2021-06-05 |
+| [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-08-16 |  |
 | [Barbie Doll](https://open.spotify.com/track/23vhhGsQErRhJtJNtpZ6US) | [Slush Puppy](https://open.spotify.com/artist/58eJhHRICp87T2IFcP0bYh) | [Barbie Doll](https://open.spotify.com/album/4kL9QvR5F0N2aCvdKKAyyu) | 2:25 | 2021-07-04 | 2021-07-24 |
 | [Be Around Me \(feat\. chloe moriondo\)](https://open.spotify.com/track/1sAJUJmcOsNInG1ieWfke5) | [Will Joseph Cook](https://open.spotify.com/artist/3YO2a6i2cfdFbgxk2HDfPe), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Be Around Me \(feat\. chloe moriondo\)](https://open.spotify.com/album/6kmWZQIEwKZKCE1KEmmGqp) | 3:01 | 2021-02-19 | 2021-04-24 |
 | [Beach Boy](https://open.spotify.com/track/7AEWEYnWHPqXTExnIfxzsT) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Beach Boy](https://open.spotify.com/album/4u5BWJputhCmihtUEWQ3ll) | 3:12 | 2022-02-04 | 2022-03-12 |
@@ -662,7 +663,7 @@
 | [Nervous Baby](https://open.spotify.com/track/6r8QYOKuakZN4TvynGvfjP) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Nervous Baby](https://open.spotify.com/album/4HLH8OhPIA7EvYFhyqOXKG) | 3:05 | 2022-05-27 | 2022-06-04 |
 | [Never Ending](https://open.spotify.com/track/1MBCG291Bcs3JZltgwltiG) | [BENEE](https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4) | [Lychee](https://open.spotify.com/album/2SUvcR80jnK667oQwXvMgK) | 3:57 | 2022-03-04 | 2022-03-18 |
 | [Never Go Wrong](https://open.spotify.com/track/2K036A2TOlSr13Ej8s6ODk) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [david hugo](https://open.spotify.com/artist/0IErJSgNHRD1DAH0X7yHvn) | [Never Go Wrong](https://open.spotify.com/album/4iOH0UQ1KxmHgd37QXPEb0) | 2:35 | 2022-03-25 | 2022-05-28 |
-| [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 |  |
+| [never knew a heart could break itself](https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n) | [Zach Hood](https://open.spotify.com/artist/5aHlyw2WWqZW0HLICBuv7U) | [never knew a heart could break itself](https://open.spotify.com/album/7nRAoFQVg6Sv2Qm31Vgup6) | 2:35 | 2022-03-18 | 2022-08-17 |
 | [never mind, let's break up](https://open.spotify.com/track/7HmYcLhoo4MVRSUVZSRIpg) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [never mind, let's break up](https://open.spotify.com/album/38cbgGWFNBxq8zVtacRpqC) | 2:42 | 2021-08-21 | 2021-09-04 |
 | [neverletyougo](https://open.spotify.com/track/6ps0RcnIrPoiMd9vfcA9KB) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [neverletyougo](https://open.spotify.com/album/2oNeFeW7cRXefZVwQA4eFf) | 2:58 | 2022-03-30 | 2022-06-04 |
 | [New Ceilings](https://open.spotify.com/track/1NAyAWzHtFPkhU36Qgr4gm) | [Dava](https://open.spotify.com/artist/2fyrK060Qol9hgj9vNITPu) | [New Ceilings](https://open.spotify.com/album/4veDrAkMEkChwfYKmmlgSb) | 3:06 | 2021-02-26 | 2021-03-14 |
@@ -937,7 +938,7 @@
 | [The Eulogy of You and Me](https://open.spotify.com/track/6yGsqEtwfrS2tktEYcuPKd) | [LILHUDDY](https://open.spotify.com/artist/5nDdaia3PDYD0x4zBEHGtg) | [The Eulogy of You and Me](https://open.spotify.com/album/35lHDQRsVVl2IbLGU28jdT) | 3:03 | 2021-02-18 | 2021-04-10 |
 | [THE FLOOR IS LAVA!!](https://open.spotify.com/track/7H45IsekLH01EQ4rY1bng8) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [THE FLOOR IS LAVA!!](https://open.spotify.com/album/02cUgScRSAqfbFp6UHKXmh) | 2:45 | 2022-06-03 | 2022-06-25 |
 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 | 2022-03-11 | 2022-04-16 |
-| [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-08 |  |
+| [the idea](https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [the idea](https://open.spotify.com/album/529HyBH38pXm03KrwyI0At) | 3:23 | 2022-07-08 | 2022-08-17 |
 | [The Idea Of You](https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [The Idea Of You](https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd) | 2:58 | 2021-06-12 | 2021-07-13 |
 | [The Internet](https://open.spotify.com/track/16PGd9HZZ4TSiQxtZYLSd9) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Little Big](https://open.spotify.com/artist/0pnd3MP2rxAzljR9AqXUJB) | [Welcome To The Internet](https://open.spotify.com/album/3D0rnUlJQi2H8ebk4iKVue) | 3:15 | 2021-10-02 | 2021-10-09 |
 | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/track/3gCYle76USfbHa7VDTDg5V) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [The Kiss Of Venus \(Dominic Fike\)](https://open.spotify.com/album/2GtO6b1fzw82cCdbp4CGQv) | 2:23 | 2021-03-19 | 2021-04-24 |

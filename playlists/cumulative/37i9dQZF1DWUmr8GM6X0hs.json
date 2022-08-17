@@ -282,6 +282,28 @@
     },
     {
       "album": {
+        "name": "Busco Tu Recuerdo",
+        "url": "https://open.spotify.com/album/712zLccAgcwxoh0ZbblavG"
+      },
+      "artists": [
+        {
+          "name": "Charlie Figueroa",
+          "url": "https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS"
+        },
+        {
+          "name": "La Sonora Malecon Club",
+          "url": "https://open.spotify.com/artist/5g6KQqUX1SIIiwRxzMOO3U"
+        }
+      ],
+      "date_added": "2021-12-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163360,
+      "name": "Busco Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2PYE3DJ2T10PtmKRR0sDCi"
+    },
+    {
+      "album": {
         "name": "Mis Mejores \u00c9xitos",
         "url": "https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u"
       },
@@ -701,7 +723,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 184013,
       "name": "El Hijo Var\u00f3n",
       "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"

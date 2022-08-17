@@ -4,7 +4,7 @@
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-358 songs - 22 hr 3 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
+359 songs - 22 hr 7 min - [published](https://open.spotify.com/playlist/2LOkDAASIpkTAKTeolFeA8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -232,6 +232,7 @@
 | [Never Getting Over You](https://open.spotify.com/track/6dToZXQLpfPJfZWoRPhY3Q) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Gypsy Heart](https://open.spotify.com/album/5nB5tR7ntrEpHbpCS7iHN9) | 3:28 | 2022-03-24 | 2022-04-21 |
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2022-03-24 |  |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-24 | 2022-07-22 |
+| [Not Today](https://open.spotify.com/track/4kDTvLhGF29gFsqceuxBSC) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Me Before You \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3WT1mEcabGFCvUWpeN5dtq) | 4:21 | 2022-05-19 |  |
 | [Not Today \- From "Me Before You" Soundtrack](https://open.spotify.com/track/3EJPT32ZJdZkml81KqHrO5) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Not Today \(From "Me Before You" Soundtrack\)](https://open.spotify.com/album/1JLNmnLzT4MDYrsXh918Wp) | 4:21 | 2022-03-24 | 2022-04-16 |
 | [Nothing Like Us](https://open.spotify.com/track/30Co9eN7JHPf1i2wEyVSMJ) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Believe Acoustic](https://open.spotify.com/album/4yz9rO7Q1UC2rK5eLOxmS7) | 3:19 | 2021-10-21 | 2022-07-29 |
 | [Now You're Gone \(feat\. Zara Larsson\)](https://open.spotify.com/track/2oVoSgGAlog02WQ2pLCxcT) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:32 | 2022-03-24 | 2022-04-16 |
@@ -287,7 +288,7 @@
 | [Stone](https://open.spotify.com/track/6cRExfWfj87zhACU30aW7l) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Stone](https://open.spotify.com/album/5eVT96kMhD5GbHnqdy8LyK) | 3:36 | 2021-10-21 | 2022-06-09 |
 | [Strange](https://open.spotify.com/track/7sq2z9oX2S0CvgTqCZ0ko4) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Not Your Muse \(Deluxe\)](https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep) | 4:15 | 2021-10-21 |  |
 | [Strangers](https://open.spotify.com/track/5rO0Ip0KsbOMd8mlWYz9zz) | [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Love in the Milky Way](https://open.spotify.com/album/2d55NIkawwo5HMMendu9vI) | 3:52 | 2022-03-24 | 2022-04-20 |
-| [Superficial Love](https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [The Intro](https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8) | 3:27 | 2021-10-21 |  |
+| [Superficial Love](https://open.spotify.com/track/5hwh37sTi84MVhCBMWzhGE) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [The Intro](https://open.spotify.com/album/4gS6995dvPQJf80VBtoxi8) | 3:27 | 2021-10-21 | 2022-08-17 |
 | [Sweater Weather \- Spotify Sessions Curated by Jim Eno](https://open.spotify.com/track/7sDzAu7alAL1hWvL86tSGB) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Spotify Sessions](https://open.spotify.com/album/6SembYKumFch1Mm9FL0c8O) | 3:11 | 2022-03-24 | 2022-04-21 |
 | [Take It out on Me](https://open.spotify.com/track/5WuXMf54txVZl3juLhn7E9) | [Jesse Mann](https://open.spotify.com/artist/20roawY1tlpPSVJj1R29T3) | [Fighting for Nothing](https://open.spotify.com/album/3vImO4dYukZK3DVWofl2ah) | 4:24 | 2022-03-24 | 2022-04-18 |
 | [Take Me Home](https://open.spotify.com/track/6oO10y1h2VyxJQfomG4CtH) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO) | [I Cry When I Laugh](https://open.spotify.com/album/2xVeccmEU0zklK4XSKiDCW) | 4:25 | 2021-10-21 | 2022-07-29 |

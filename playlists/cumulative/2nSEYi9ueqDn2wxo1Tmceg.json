@@ -1634,6 +1634,28 @@
     },
     {
       "album": {
+        "name": "Only in America",
+        "url": "https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh"
+      },
+      "artists": [
+        {
+          "name": "Matthew E. White",
+          "url": "https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4"
+        },
+        {
+          "name": "Lonnie Holley",
+          "url": "https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268000,
+      "name": "Only in America: It Feels Like This",
+      "url": "https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV"
+    },
+    {
+      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg"
       },

@@ -573,7 +573,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 195133,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/65Dm4aRthohlvuuyKVydIu"
@@ -631,7 +631,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 283422,
       "name": "Cloudy (With a Chance of Rain)",
       "url": "https://open.spotify.com/track/1ItF5ihC9H9U0z98McwP4k"
@@ -678,6 +678,28 @@
     },
     {
       "album": {
+        "name": "Crazy He Calls Me",
+        "url": "https://open.spotify.com/album/1S0Arx1e1OK0XWnb41R7fx"
+      },
+      "artists": [
+        {
+          "name": "Nikki Yanofsky",
+          "url": "https://open.spotify.com/artist/1n02UdnML6G4wR162YsSRi"
+        },
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150320,
+      "name": "Crazy He Calls Me",
+      "url": "https://open.spotify.com/track/0ERXPudDdVEsXesQ8gT8v7"
+    },
+    {
+      "album": {
         "name": "C\u00e2dencia",
         "url": "https://open.spotify.com/album/4vqL9Ic575a8taWB6WWju0"
       },
@@ -697,7 +719,7 @@
       ],
       "date_added": "2022-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 237013,
       "name": "C\u00e2dencia",
       "url": "https://open.spotify.com/track/4Fjx8Mmap3NF4kVMATQ85D"
@@ -1247,7 +1269,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 181133,
       "name": "For The Want Of A Kiss - Live",
       "url": "https://open.spotify.com/track/4ikX1d0yCV4WG9lPfBlCVX"
@@ -1987,7 +2009,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 221112,
       "name": "Julian",
       "url": "https://open.spotify.com/track/6KRCAadm61n78dKm8UfamO"
@@ -2113,7 +2135,7 @@
       ],
       "date_added": "2022-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 332066,
       "name": "Lazy Afternoon",
       "url": "https://open.spotify.com/track/6ZEHSRUjfNVZ5cIfCfu71H"
@@ -2831,7 +2853,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 311906,
       "name": "One For My Baby",
       "url": "https://open.spotify.com/track/3tH1hpTg9fBtuvX1ghzNON"
@@ -3103,6 +3125,44 @@
       "duration_ms": 129938,
       "name": "Someone To Watch Over Me",
       "url": "https://open.spotify.com/track/22rhSVshqqrJVpVONUGRjQ"
+    },
+    {
+      "album": {
+        "name": "Something Cool",
+        "url": "https://open.spotify.com/album/4jEw3uFBNJqFZz43DDTbgQ"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Esteban Quintet",
+          "url": "https://open.spotify.com/artist/2sZxjmgR2KmuFB54tvc9YY"
+        },
+        {
+          "name": "Mar\u00eda Esteban",
+          "url": "https://open.spotify.com/artist/2IGB5nA5VbGU7bKSoJMqMN"
+        },
+        {
+          "name": "Edu Cabello",
+          "url": "https://open.spotify.com/artist/0THtNsDRswHw7gbFaPrVU9"
+        },
+        {
+          "name": "Rai Paz",
+          "url": "https://open.spotify.com/artist/7fyYCDMJffGkMcoatNcKHk"
+        },
+        {
+          "name": "Xavi Castillo",
+          "url": "https://open.spotify.com/artist/5dC65gJBz1D1xqPE4PnKDp"
+        },
+        {
+          "name": "Santi Colomer",
+          "url": "https://open.spotify.com/artist/39eWTAyXJRsLxEvTjJPvwa"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312160,
+      "name": "Something Cool",
+      "url": "https://open.spotify.com/track/1UijIdqBv8hJEw6BWk1wE8"
     },
     {
       "album": {
@@ -3431,7 +3491,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 329093,
       "name": "The Man That Got Away",
       "url": "https://open.spotify.com/track/0cweXV4g3behXK3wXGgk37"
@@ -3579,7 +3639,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 203306,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
@@ -3972,6 +4032,24 @@
     },
     {
       "album": {
+        "name": "Way Down Low",
+        "url": "https://open.spotify.com/album/0v17RR0BzdoAC1Pn5MYSkz"
+      },
+      "artists": [
+        {
+          "name": "Kat Edmonson",
+          "url": "https://open.spotify.com/artist/6WxegST7d2jCYjq7SR8Bds"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284426,
+      "name": "What Else Can I Do",
+      "url": "https://open.spotify.com/track/7vN8crjRMzMcbGLGn0STOn"
+    },
+    {
+      "album": {
         "name": "What'll I Do",
         "url": "https://open.spotify.com/album/5Kr5XbBJCKgQEYkCki7Ddz"
       },
@@ -3995,7 +4073,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 245063,
       "name": "What'll I Do",
       "url": "https://open.spotify.com/track/3XKJb8TvplQ7iZcr4dfA2J"
@@ -4035,7 +4113,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 209653,
       "name": "When The World Was Young",
       "url": "https://open.spotify.com/track/041C0yfThCF0m5dKdrO3zZ"

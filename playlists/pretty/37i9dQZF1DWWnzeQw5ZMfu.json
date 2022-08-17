@@ -1,12 +1,12 @@
 {
   "description": "Some of the biggest artists, recorded live. It\u2019s (almost) like you were there. Cover: Miley Cyrus.",
-  "num_followers": 37854,
+  "num_followers": 37906,
   "original_name": "Pop Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDAzODMyNSwwMDAwMDAwMDg3ZGY1MmJiYWY3ZTU3YzY0MGVhMmE2MTdhNDlmM2My",
+  "snapshot_id": "MTY2MDAzODMyNSwwMDAwMDAwMGVlYjg0MjZlMDM2NjkzYjE1Y2ExZGUyZmZmODA5OGMw",
   "tracks": [
     {
       "added_at": "2022-08-09 09:45:24",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "The Man (Live From Paris)",
-        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219385,
-      "name": "The Man - Live From Paris",
-      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "BLACKPINK 2018 TOUR 'IN YOUR AREA' SEOUL (Live)",
         "url": "https://open.spotify.com/album/4i0XmhtxZBPxwpgNeJ1Tvg"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 210268,
       "name": "DDU-DU DDU-DU - Live",
       "url": "https://open.spotify.com/track/437Wn1icOBdhQaVnpJpl0F"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "The Man (Live From Paris)",
+        "url": "https://open.spotify.com/album/6l7iXnb2Y4yDR9zag3kckA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219385,
+      "name": "The Man - Live From Paris",
+      "url": "https://open.spotify.com/track/7FKbTRXXIWVFQmPH8zGfU0"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "k bye for now (swt live)",
-        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 389728,
-      "name": "thank u, next - live",
-      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 274200,
       "name": "Magic - Live",
       "url": "https://open.spotify.com/track/14d4L1iSXXkgO1jJ8zu9M7"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "k bye for now (swt live)",
+        "url": "https://open.spotify.com/album/5UACk85y1hNRSUtY0ss8pb"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 389728,
+      "name": "thank u, next - live",
+      "url": "https://open.spotify.com/track/6AZaeRAPYnf5nKwV7HpSlQ"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live and in Session",
-        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 319401,
-      "name": "Sing - Live and in Session",
-      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Olivia's Live Hits",
         "url": "https://open.spotify.com/album/4pMYAWXWTDY73KIRTpNsON"
       },
@@ -779,6 +763,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Live and in Session",
+        "url": "https://open.spotify.com/album/358s1FksXk3qh38nNdjJFk"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 319401,
+      "name": "Sing - Live and in Session",
+      "url": "https://open.spotify.com/track/5r6UJphd3l3sVEfeZpEZHy"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Farewell: Live in Concert at Sydney Opera House",
         "url": "https://open.spotify.com/album/6mGVxGqS2MW9MHyA2BHfbD"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 245944,
       "name": "Stars - Live at Sydney Opera House",
       "url": "https://open.spotify.com/track/6geJhBG56BPyH1tG9FvFoO"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Shakira Oral Fixation Tour (Live)",
-        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
-      },
-      "artists": [
-        {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Wyclef Jean",
-          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
-        }
-      ],
-      "duration_ms": 436026,
-      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
-      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -839,6 +819,26 @@
       "duration_ms": 278840,
       "name": "Englishman In New York - Live In Berlin/2010",
       "url": "https://open.spotify.com/track/5VaWlp54HTo03meWB9l5bx"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Shakira Oral Fixation Tour (Live)",
+        "url": "https://open.spotify.com/album/5gqCXGuM57doaWDs6LlccJ"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Wyclef Jean",
+          "url": "https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe"
+        }
+      ],
+      "duration_ms": 436026,
+      "name": "Hips Don't Lie (feat. Wyclef Jean) - Live - December 2006",
+      "url": "https://open.spotify.com/track/52XoFtAGfg9AFuCB4YCcVQ"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "One Night Only",
+        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 320400,
+      "name": "Sacrifice - Live",
+      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Live In Berlin",
         "url": "https://open.spotify.com/album/6adPwMLvUlBuL6WfExnCUu"
       },
@@ -983,22 +999,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "One Night Only",
-        "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 320400,
-      "name": "Sacrifice - Live",
-      "url": "https://open.spotify.com/track/0fChKGukh7abSJjcpRStVb"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Stark Naked and Absolutely Live",
         "url": "https://open.spotify.com/album/4MqnTHod6ndmozLiGujf43"
       },
@@ -1011,22 +1011,6 @@
       "duration_ms": 343933,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/4ws6ZvEjihoJ9i4pd4wPnI"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "Best of Live",
-        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
-      },
-      "artists": [
-        {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
-        }
-      ],
-      "duration_ms": 376853,
-      "name": "I Want to Know What Love Is - Live",
-      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1063,6 +1047,22 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
+        "name": "Best of Live",
+        "url": "https://open.spotify.com/album/3cZzs6mVMXEjGrNIxyNt4H"
+      },
+      "artists": [
+        {
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+        }
+      ],
+      "duration_ms": 376853,
+      "name": "I Want to Know What Love Is - Live",
+      "url": "https://open.spotify.com/track/0eidOawKujRH6fNpqHpCMu"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
         "name": "Live At Wembley Arena",
         "url": "https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Elton 60 - Live At Madison Square Garden",
-        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 249666,
-      "name": "Your Song - Live At Madison Square Garden",
-      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Live in Dortmund",
         "url": "https://open.spotify.com/album/54ONGtXwdOFxDX142ffy1i"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 340880,
       "name": "She Wolf - El Dorado World Tour Live",
       "url": "https://open.spotify.com/track/5YLtMey9oPxdo0wecwyv21"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Elton 60 - Live At Madison Square Garden",
+        "url": "https://open.spotify.com/album/1hBjd4MuIWjv6uwik1bA68"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "Your Song - Live At Madison Square Garden",
+      "url": "https://open.spotify.com/track/1PohdWJ1WMBL82q4GBeFN6"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1223,38 +1223,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
-        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 375636,
-      "name": "Star People - Live",
-      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
-        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
-      },
-      "artists": [
-        {
-          "name": "Fools Garden",
-          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
-        }
-      ],
-      "duration_ms": 321453,
-      "name": "Lemon Tree - Acoustic Live Version",
-      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "One Night Only",
         "url": "https://open.spotify.com/album/1kurxs9vQ6MCevaoVeI0HY"
       },
@@ -1267,6 +1235,22 @@
       "duration_ms": 198760,
       "name": "Goodbye Yellow Brick Road - Live",
       "url": "https://open.spotify.com/track/16rY0iVeZej75AUQZlx2sx"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Listen Without Prejudice / MTV Unplugged (Deluxe)",
+        "url": "https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj"
+      },
+      "artists": [
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        }
+      ],
+      "duration_ms": 375636,
+      "name": "Star People - Live",
+      "url": "https://open.spotify.com/track/1OgHmtpQItAfUeYEySAnk1"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1303,18 +1287,18 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Live: Sacred & Profane",
-        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
+        "name": "High Times: Best Of / Unplugged: Best Of (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5lEoXlvZG8xTdkHiwfPbxr"
       },
       "artists": [
         {
-          "name": "Berlin",
-          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+          "name": "Fools Garden",
+          "url": "https://open.spotify.com/artist/0jRqFvRKCDryHOgrgFqsKG"
         }
       ],
-      "duration_ms": 367493,
-      "name": "Take My Breath Away - Live",
-      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
+      "duration_ms": 321453,
+      "name": "Lemon Tree - Acoustic Live Version",
+      "url": "https://open.spotify.com/track/4QFUMf4xUJxQDgUway3OCl"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1335,22 +1319,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "101",
-        "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
-      },
-      "artists": [
-        {
-          "name": "Depeche Mode",
-          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
-        }
-      ],
-      "duration_ms": 241360,
-      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
-      "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Lovers Live",
         "url": "https://open.spotify.com/album/5g8gop9VnKLxoXePOoVVAF"
       },
@@ -1363,6 +1331,38 @@
       "duration_ms": 256800,
       "name": "Smooth Operator - Live",
       "url": "https://open.spotify.com/track/5nHNgVNXzsZLLBz29tfjkB"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Live: Sacred & Profane",
+        "url": "https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU"
+      },
+      "artists": [
+        {
+          "name": "Berlin",
+          "url": "https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM"
+        }
+      ],
+      "duration_ms": 367493,
+      "name": "Take My Breath Away - Live",
+      "url": "https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "101",
+        "url": "https://open.spotify.com/album/5BeufSLtuFnIP808stSFjg"
+      },
+      "artists": [
+        {
+          "name": "Depeche Mode",
+          "url": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX"
+        }
+      ],
+      "duration_ms": 241360,
+      "name": "Just Can't Get Enough - Live at Rose Bowl, Pasadena, CA, 18/6/1988",
+      "url": "https://open.spotify.com/track/19dqbkqEgpgUZsh7FXftIs"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "Footloose (Live at John F. Kennedy Stadium, 13th July 1985)",
-        "url": "https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 254341,
-      "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
-      "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "Michael Bubl\u00e9 Meets Madison Square Garden",
         "url": "https://open.spotify.com/album/52I28CFjJlE3locLAcHDJt"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 236200,
       "name": "Lost - Live from Madison Square Garden",
       "url": "https://open.spotify.com/track/3J7wlFKE3cF5iZA1gODpRF"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "Footloose (Live at John F. Kennedy Stadium, 13th July 1985)",
+        "url": "https://open.spotify.com/album/3YjGruzbQxfOVRre3ZaFFZ"
+      },
+      "artists": [
+        {
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        }
+      ],
+      "duration_ms": 254341,
+      "name": "Footloose - Live at John F. Kennedy Stadium, 13th July 1985",
+      "url": "https://open.spotify.com/track/1wM7Y8fdOTJD9ZaHHfi1MS"
     },
     {
       "added_at": "2022-08-09 09:45:24",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2022-08-09 09:45:24",
       "album": {
-        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
-        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        }
-      ],
-      "duration_ms": 240165,
-      "name": "I Won't Let You Go - Live At The Hospital Club",
-      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
-    },
-    {
-      "added_at": "2022-08-09 09:45:24",
-      "album": {
         "name": "A new day - Live in Las Vegas",
         "url": "https://open.spotify.com/album/0DCrLB20ycYZlBzTXX2AuM"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 195967,
       "name": "Parting Glass - Live at Wembley Stadium",
       "url": "https://open.spotify.com/track/74sKqdbIzz8Q5k1uFGQIW7"
+    },
+    {
+      "added_at": "2022-08-09 09:45:24",
+      "album": {
+        "name": "James Morrison \u2013 Live & Unplugged At The Hospital",
+        "url": "https://open.spotify.com/album/5qBIugfdFDlPzYjvVLYvVx"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        }
+      ],
+      "duration_ms": 240165,
+      "name": "I Won't Let You Go - Live At The Hospital Club",
+      "url": "https://open.spotify.com/track/5xk1ZKq81Flr2GKpTyxc5k"
     },
     {
       "added_at": "2022-08-09 09:45:24",

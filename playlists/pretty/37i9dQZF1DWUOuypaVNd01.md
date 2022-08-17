@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 
 > De réu a ref \- o filho deles quer viver essa vida\. Foto: Nochica, Vitin, SD9, JEFFRO
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,412 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,498 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 37 | [Raddim](https://open.spotify.com/track/3yoWQ2192aCD6LyChIUmAR) | [Febem](https://open.spotify.com/artist/2Ip2jiEjsSe8pmRBzwTv5N), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [RADDIM](https://open.spotify.com/album/4bz8Hy3tV46QYTsQ3KbSh0) | 3:29 |
 | 38 | [Ruas Perigosas](https://open.spotify.com/track/4ncbfsjnaim9mWZPJCrDds) | [Yung Nobre](https://open.spotify.com/artist/1zRwEApJZMUKUZDPYTNsrB), [Flacko](https://open.spotify.com/artist/6r1OIJXsdVTkhH6ueDzOew), [Pepito](https://open.spotify.com/artist/27agYrHqpHeDP8mI0gtw7N) | [Ruas Perigosas](https://open.spotify.com/album/4v2JRf5uvB7JYnwMABEZzV) | 3:15 |
 | 39 | [Encomenda](https://open.spotify.com/track/2AcXPYmNCL0928ISaAqhLw) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Luna](https://open.spotify.com/artist/2uY6iqNed0QZuENdRbxiaW) | [Esculpido a Machado](https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh) | 2:37 |
-| 40 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
-| 41 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
-| 42 | [Drillrj](https://open.spotify.com/track/5JZXqNtXkhLVoVD2gRpQmB) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Vigésimo Nível](https://open.spotify.com/album/1gcS8V4gzqzYJSpKNAP3HZ) | 2:37 |
+| 40 | [Mente Livre 2.0](https://open.spotify.com/track/28j4gJgXCh0CmMpCMx09nX) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs) | [Mente Livre 2.0](https://open.spotify.com/album/1tpPk1gb5iQBBYT7wmnabD) | 3:28 |
+| 41 | [Drillrj](https://open.spotify.com/track/5JZXqNtXkhLVoVD2gRpQmB) | [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Vigésimo Nível](https://open.spotify.com/album/1gcS8V4gzqzYJSpKNAP3HZ) | 2:37 |
+| 42 | [Serenata](https://open.spotify.com/track/0i3tVVp12fqp55ZediozgQ) | [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Timor YSF](https://open.spotify.com/artist/5iyA3j1yVqGBgaKCeiUIzO) | [O Peso das Barra](https://open.spotify.com/album/1NQxhguiFlOyNnshi7qpkL) | 2:38 |
 | 43 | [Eu Ainda](https://open.spotify.com/track/0XiAYDYnDYlr3CCql7rM1o) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Eu Ainda](https://open.spotify.com/album/102v3MHRjG0nSixpmXsakd) | 3:08 |
 | 44 | [Dez e Faixa](https://open.spotify.com/track/6IL4ZRTz8QlJ6VuSg3F3Rv) | [AKA AFK](https://open.spotify.com/artist/1ZEPj2UWxPZEELctnTNRca), [TONCALi](https://open.spotify.com/artist/3enZVLaByIf1A6appp41gc) | [Dez e Faixa](https://open.spotify.com/album/0soK3TwSlDh53P3q48WPdK) | 2:37 |
 | 45 | [Robin Hood](https://open.spotify.com/track/6p9qeFk5GCSqbZglNYa48C) | [Elicê](https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0), [100FACE](https://open.spotify.com/artist/7fwOmpfbpAfTFXT0ZHlxwx), [Lil Fee](https://open.spotify.com/artist/1DPa1bBQHN7FpxN8naqEEl), [PoetaNoBeat](https://open.spotify.com/artist/3mFb9oHAuhW1RmrR7St4vP) | [Robin Hood](https://open.spotify.com/album/0h5JsBVrmQganNjaLXpuPd) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUOuypaVNd01.md) - [plain]
 | 49 | [Filho Do Mundo](https://open.spotify.com/track/34QqggQ2otat4LswT24f8k) | [Bruttu](https://open.spotify.com/artist/6lBNxnxa6HBQskmiPZTwGQ), [Rafinha No Beat](https://open.spotify.com/artist/6zM44V7R04R6uVZFvUkWWG) | [Filho Do Mundo](https://open.spotify.com/album/5ewti4gLg9xquF9aUTedCo) | 2:00 |
 | 50 | [Herança](https://open.spotify.com/track/533AKJNxbvkYCOP0M0jB7g) | [Òggi](https://open.spotify.com/artist/5pzvzy77au5p2HzOrndp3P), [FelpsDead.](https://open.spotify.com/artist/03axc9aM7P1oy73zT1Atjm) | [Herança](https://open.spotify.com/album/4RHNwCYaQw31hTBpBI0Lmr) | 2:16 |
 
-Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGQ1MzI1NTY1ZDE4OGQ0OWRkNjY0Mjg1ODllMDdjZThj`
+Snapshot ID: `MTY2MDI3MzI2MCwwMDAwMDAwMGY2ZDZmYWY2MzMxNzk1ZDJhNGFkZGU5MmFlYTQ5Njdj`

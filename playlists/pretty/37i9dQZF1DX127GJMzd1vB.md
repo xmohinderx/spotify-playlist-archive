@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 
 > ¡De amor y desamor! Las canciones que no pueden faltar a la hora de llevar gallo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,558 likes - 75 songs - 3 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,602 likes - 75 songs - 3 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 19 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 20 | [Sabor a Mí](https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:48 |
 | 21 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
-| 22 | [Esa Pared \(feat\. Vicente Fernández\)](https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 2:54 |
+| 22 | [Cien años](https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:32 |
 | 23 | [La Barca](https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romance](https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP) | 3:29 |
-| 24 | [Cien años](https://open.spotify.com/track/760r2LXNtMaHDKMQ5wkXbi) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:32 |
+| 24 | [Esa Pared \(feat\. Vicente Fernández\)](https://open.spotify.com/track/2h9MKyF7PmWr99TeuoI8Xt) | [Leo Dan](https://open.spotify.com/artist/6qhOH2mrlqUDod9sWA5kR2), [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Celebrando a una Leyenda \(En Vivo\)](https://open.spotify.com/album/0Cq5RogZ5q5WfXRYGOIN98) | 2:54 |
 | 25 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 |
 | 26 | [Te Solté la Rienda](https://open.spotify.com/track/3YubPkIjza38KmXTIGdk91) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Cantinero](https://open.spotify.com/album/7Gxn1LKL1SUSW8CVJugfES) | 2:38 |
 | 27 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 41 | [Te Quedó Grande La Yegua](https://open.spotify.com/track/5tPxcLBsfj9yZS4PAiOr9G) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 3:37 |
 | 42 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
 | 43 | [Fallaste Corazón](https://open.spotify.com/track/6BIRIBJuEGLds1oAxvybLO) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Mexico Gran Colección Ranchera: Pedro Infante](https://open.spotify.com/album/4ZiRfUT3xPgjse6CzPGRYC) | 3:46 |
-| 44 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
-| 45 | [Tres Regalos](https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
+| 44 | [Tres Regalos](https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
+| 45 | [Si Nos Dejan](https://open.spotify.com/track/1mTWvb5uY8R6tU7iCLtiUo) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Las 100 Clasicas Vol\. 2](https://open.spotify.com/album/0A7PWw6nPn5DztmUhIICiG) | 2:24 |
 | 46 | [Por Tu Maldito Amor](https://open.spotify.com/track/3KZI2xeiIRJd8fm84ClxH5) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Por Tu Maldito Amor](https://open.spotify.com/album/4AcCWh1DSsRWGU8fWK70E1) | 3:56 |
 | 47 | [Me Caí De La Nube](https://open.spotify.com/track/3ZLsDOTN8cFjtQ9ctntKCC) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [15 Éxitazos](https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514) | 2:49 |
 | 48 | [Me Gustas Mucho](https://open.spotify.com/track/4xOwXgFblfFi56IVkAdmdg) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Sus 16 Grandes Exitos](https://open.spotify.com/album/1QXxmsxolhkqiFtI1mpX4i) | 3:04 |
@@ -60,9 +60,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 50 | [Besos Y Copas](https://open.spotify.com/track/5gXJjrNk3kwPkz8toXQTxf) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Soy Lo Prohibido](https://open.spotify.com/album/4kI870RBIpDEXCJfDOpyt4) | 2:58 |
 | 51 | [Historia de un Amor](https://open.spotify.com/track/47haQcqBOue2RAsVXER52f) | [Eydie Gormé](https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canta En Español Con Los Panchos](https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w) | 2:30 |
 | 52 | [Como Tú Decidas](https://open.spotify.com/track/0L9Qlwkul3bl6jH5W7yx6B) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Éxitos](https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO) | 3:07 |
-| 53 | [Cuando Sale la Luna](https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Que Te Vaya Bonito](https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6) | 3:05 |
-| 54 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
-| 55 | [Sin Ti \- Remasterizado](https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:43 |
+| 53 | [Ahora y siempre](https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh) | [Los Tecolines](https://open.spotify.com/artist/3NnhZWS3bdFwcm1GPkzcNv) | [Serenata con Los Tecolines](https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb) | 2:53 |
+| 54 | [Sin Ti \- Remasterizado](https://open.spotify.com/track/5g494R0JcpjBuRkP9L1vrh) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:43 |
+| 55 | [Cuando Sale la Luna](https://open.spotify.com/track/2vDaSr8NzCzG2rFtqup2Kq) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Que Te Vaya Bonito](https://open.spotify.com/album/3RUeLZqvyBYGvqk8qROre6) | 3:05 |
 | 56 | [El Reloj](https://open.spotify.com/track/27u17peWruKyUe7RfBglZC) | [Los Tres Caballeros](https://open.spotify.com/artist/0ou4IrIjMSANpaPTL8lC3F) | [Los Tres Caballeros](https://open.spotify.com/album/0g3tdBXHTP9VgftkbXnVPI) | 3:02 |
 | 57 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 58 | [Fallaste Corazón / Del Cielo Cayó una Rosa](https://open.spotify.com/track/4zbXcjtqBCRpVW2XvqUBVD) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX127GJMzd1vB.md) - [plain]
 | 74 | [Amaneci Entre Tus Brazos \- En Vivo](https://open.spotify.com/track/2wUyUpg8oOrvZ2MsEHph0m) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [El Concierto](https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI) | 2:30 |
 | 75 | [Esta Noche Voy a Verla](https://open.spotify.com/track/4fk7Dwmt0AcIWfJ1JOXMcc) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 2:39 |
 
-Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDVkM2I4MzU2OTg3YTg5ODg5MmU3Yzg3Y2NjMWU0ZDFi`
+Snapshot ID: `MTY0MDgyMTYxNywwMDAwMDAwMDZhZmRmY2Q1OGYxMjkyOTc1YzAzNjM5NjI3MDgzOGEy`

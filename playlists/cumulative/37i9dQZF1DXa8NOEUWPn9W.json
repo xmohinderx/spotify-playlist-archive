@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 176612,
       "name": "Closer - Edit",
       "url": "https://open.spotify.com/track/6PslLP8aOsBre5vzdXKEQr"
@@ -3629,7 +3629,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 240005,
       "name": "Its Time to Move",
       "url": "https://open.spotify.com/track/4qK9g7RGoHCUpfbGu3Mlf4"
@@ -4846,6 +4846,28 @@
     },
     {
       "album": {
+        "name": "More Love",
+        "url": "https://open.spotify.com/album/6RqDJ6CVMcWAYKJjrR2SHx"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Secondcity",
+          "url": "https://open.spotify.com/artist/2ew9JvyyuOGkhahuwdovDq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191612,
+      "name": "More Love",
+      "url": "https://open.spotify.com/track/5PY9fTLp4MPXsbeRouS8gd"
+    },
+    {
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -5157,6 +5179,28 @@
       "duration_ms": 149455,
       "name": "Nightjar (feat. SHELLS)",
       "url": "https://open.spotify.com/track/2rNy5Ils7RO6m2E2W83CR5"
+    },
+    {
+      "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "date_added": "2022-05-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
     },
     {
       "album": {

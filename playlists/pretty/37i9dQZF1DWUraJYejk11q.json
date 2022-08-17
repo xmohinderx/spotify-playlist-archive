@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 450780,
+  "num_followers": 450810,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM1NzgwMCwwMDAwMDAwMGQ1YzQxNmVmNjUyMTYwZjhiMDZhNGFmMTZhYjU0MGE3",
+  "snapshot_id": "MTY2MDM1NzgwMCwwMDAwMDAwMDM5NWYxYTVkNmFmZjc2MmZjZjFjOTUwNjc3NGM0Zjgw",
   "tracks": [
     {
       "added_at": "2022-08-11 19:36:53",
@@ -225,20 +225,20 @@
       "url": "https://open.spotify.com/track/0Km1rOj3tEaZKGjIbHDfd0"
     },
     {
-      "added_at": "2022-03-03 01:05:29",
+      "added_at": "2022-01-11 00:01:58",
       "album": {
-        "name": "Star City",
-        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
+        "name": "Ones",
+        "url": "https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s"
       },
       "artists": [
         {
-          "name": "Solomon Fesshaye",
-          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
+          "name": "rAHHH",
+          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
         }
       ],
-      "duration_ms": 263630,
-      "name": "Star City",
-      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
+      "duration_ms": 245371,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5"
     },
     {
       "added_at": "2022-08-13 02:30:00",
@@ -273,20 +273,20 @@
       "url": "https://open.spotify.com/track/0J3ELKdZW68PTUDKtbggsy"
     },
     {
-      "added_at": "2022-01-13 02:05:11",
+      "added_at": "2022-03-03 01:05:29",
       "album": {
-        "name": "Sweat Sonic",
-        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+        "name": "Star City",
+        "url": "https://open.spotify.com/album/7LEryTdY6kYDS0Pm3xTyrb"
       },
       "artists": [
         {
-          "name": "Closet Yi",
-          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+          "name": "Solomon Fesshaye",
+          "url": "https://open.spotify.com/artist/7vqayKdoqPQsxLcwGANPX4"
         }
       ],
-      "duration_ms": 382487,
-      "name": "Sweat Sonic",
-      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
+      "duration_ms": 263630,
+      "name": "Star City",
+      "url": "https://open.spotify.com/track/4p6enMEejlz6hcigMPdNh6"
     },
     {
       "added_at": "2022-01-21 20:14:08",
@@ -303,6 +303,22 @@
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/5FdiUDLORFvwxzTvqqOrcC"
+    },
+    {
+      "added_at": "2022-01-13 02:05:11",
+      "album": {
+        "name": "Sweat Sonic",
+        "url": "https://open.spotify.com/album/5mY0769AayndoWAuTG0LWY"
+      },
+      "artists": [
+        {
+          "name": "Closet Yi",
+          "url": "https://open.spotify.com/artist/1iqgi3aRUSccnZK8K0oIGp"
+        }
+      ],
+      "duration_ms": 382487,
+      "name": "Sweat Sonic",
+      "url": "https://open.spotify.com/track/37Uy4OBd93yP89ZhCj5je2"
     },
     {
       "added_at": "2022-01-13 02:26:31",
@@ -361,22 +377,6 @@
       "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
-      "added_at": "2022-01-11 00:01:58",
-      "album": {
-        "name": "Ones",
-        "url": "https://open.spotify.com/album/1DNOCMa2UrOXEHU8oJ8M7s"
-      },
-      "artists": [
-        {
-          "name": "rAHHH",
-          "url": "https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki"
-        }
-      ],
-      "duration_ms": 245371,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/4h28da1metrUE6DMRbCYY5"
-    },
-    {
       "added_at": "2022-02-25 03:39:39",
       "album": {
         "name": "Exotic Contents / Pulse at the Centre of Being",
@@ -429,22 +429,6 @@
       "url": "https://open.spotify.com/track/17YSGfgY3BizhPL8QDF1gg"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
       "added_at": "2021-10-15 03:56:52",
       "album": {
         "name": "Dopamine",
@@ -459,6 +443,22 @@
       "duration_ms": 349575,
       "name": "Warm Electronics Box",
       "url": "https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC"
+    },
+    {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-02-16 00:41:13",
@@ -493,22 +493,6 @@
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
     },
     {
-      "added_at": "2022-03-30 04:42:42",
-      "album": {
-        "name": "Chamas Do Cerrado",
-        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
-      },
-      "artists": [
-        {
-          "name": "LAZA",
-          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
-        }
-      ],
-      "duration_ms": 213708,
-      "name": "Vale Da Lua",
-      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -527,6 +511,22 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
+    },
+    {
+      "added_at": "2022-03-30 04:42:42",
+      "album": {
+        "name": "Chamas Do Cerrado",
+        "url": "https://open.spotify.com/album/6BVJFFh1kOBNNwKiRABk9h"
+      },
+      "artists": [
+        {
+          "name": "LAZA",
+          "url": "https://open.spotify.com/artist/6OplzHOsBjoyyYIkkfmu9D"
+        }
+      ],
+      "duration_ms": 213708,
+      "name": "Vale Da Lua",
+      "url": "https://open.spotify.com/track/7aZlJBPtjrvbgrdNrJzLMz"
     },
     {
       "added_at": "2021-10-15 03:56:52",

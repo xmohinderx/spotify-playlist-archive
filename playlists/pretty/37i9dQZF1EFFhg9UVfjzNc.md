@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 47 | [Esperança \(feat\. Davidson Silva\)](https://open.spotify.com/track/1CiCxfOQ10xtiQIaTBDCeQ) | [Simone Medeiros](https://open.spotify.com/artist/07Ax7WxyKbSR0aIFGzalA5), [Davidson Silva](https://open.spotify.com/artist/0OdUgZgZEJmXDCkHYqh05z) | [Deixa\-Te Modelar](https://open.spotify.com/album/06sZ6iCaL7EV1HOy8bFGhq) | 6:29 |
 | 48 | [Deus Faz Além \- Playback](https://open.spotify.com/track/54KdjaTtv2MF091f6o4twN) | [Bruna Olly](https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ) | [Deus Faz Além \(Playback\)](https://open.spotify.com/album/6Ai8QVw92ZWcxPwmXTl4OK) | 4:58 |
 
-Snapshot ID: `Mjc2NzY4NjAsMDAwMDAwMDBmODMwODEwNzdhMWI0MDY1ZWRlNDRjZDA0NDJmMWUyNQ==`
+Snapshot ID: `Mjc2NzgzMDAsMDAwMDAwMDA2NDQ5ZWU2NDYyZTIwZTNmZDcyYWI1YmY4ZWQ0MTJiNw==`

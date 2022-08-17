@@ -6112,6 +6112,32 @@
     },
     {
       "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226497,
+      "name": "Obsessed (with Charlie Puth & Shenseea)",
+      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
+    },
+    {
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
@@ -7467,7 +7493,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 171374,
       "name": "Savage Love (Laxed - Siren Beat)",
       "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"

@@ -718,6 +718,24 @@
     },
     {
       "album": {
+        "name": "Lonerism",
+        "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192960,
+      "name": "Feels Like We Only Go Backwards",
+      "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
+    },
+    {
+      "album": {
         "name": "Futon",
         "url": "https://open.spotify.com/album/6ZRN6AGbq8CBE59kMsB2bk"
       },
@@ -1721,7 +1739,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 221826,
       "name": "Sunflower, Vol. 6",
       "url": "https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0"

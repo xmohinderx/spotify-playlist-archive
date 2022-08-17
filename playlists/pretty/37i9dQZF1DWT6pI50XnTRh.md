@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6pI50XnTRh.md) - [plain]
 
 > Nostalgic '70\-ies and '80\-ies Funk, Disco, Boogie and Afropop music which lit up night clubs across Africa\. Get your boogie on!
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,468 likes - 42 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,550 likes - 42 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

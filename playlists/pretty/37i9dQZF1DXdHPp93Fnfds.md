@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 
 > Son jóvenes, guerreras y cool\. Foto: Delfina Campos
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,801 likes - 80 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,817 likes - 80 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 25 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 26 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 |
 | 27 | [Helado de Mango](https://open.spotify.com/track/6Ic36Kj94nFDc2NHsqvo59) | [Naïa Valdez](https://open.spotify.com/artist/1WE5kYBn5jgJyzXroKVktA) | [Helado de Mango](https://open.spotify.com/album/0aWD6AMbVemB4o2jJhiBub) | 3:28 |
-| 28 | [Excusas](https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Excusas](https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN) | 3:59 |
-| 29 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 |
+| 28 | [berlin U5](https://open.spotify.com/track/4B94rIXDAhoFq1MWDDAyJp) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [berlin U5](https://open.spotify.com/album/145cZ7jNfbeD7T2GbQrYQX) | 3:39 |
+| 29 | [Excusas](https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Excusas](https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN) | 3:59 |
 | 30 | [Sueño Tsunami](https://open.spotify.com/track/6bXaxXuBHxzy98PWxPvVLl) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 2:57 |
 | 31 | [Ay, Amor ♥︎](https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS) | [Dulce y Agraz](https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ) | [Ay, Amor](https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk) | 3:33 |
 | 32 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 |
@@ -60,15 +60,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 50 | [La Fuerza](https://open.spotify.com/track/4TQsJKRiNKWTNtaGscFQjd) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6), [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [La Fuerza](https://open.spotify.com/album/3UYcSPXPALjGIhm18rZ33W) | 4:10 |
 | 51 | [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 |
 | 52 | [Fantasmas](https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Fantasmas](https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf) | 3:43 |
-| 53 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
-| 54 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
-| 55 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
-| 56 | [A mí ya me iba mal de antes](https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Va totalmente en serio...](https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U) | 2:30 |
+| 53 | [Gallo Pinto](https://open.spotify.com/track/5Iwm1QINtdFzRjT9AQaqAe) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Gallo Pinto](https://open.spotify.com/album/5siyy5mV4vl9qwjd7mshAk) | 3:29 |
+| 54 | [No sé qué tienes](https://open.spotify.com/track/1s8QRwM3pW5ekIUKwlHsxo) | [Ire](https://open.spotify.com/artist/4ysRrzj3LSYDIhtty6ErKI) | [No sé qué tienes](https://open.spotify.com/album/11yf5SY78sbU0KlhflFv50) | 2:54 |
+| 55 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
+| 56 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
 | 57 | [Carta](https://open.spotify.com/track/4miJQ6X8wzlO4SZJ5winyb) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:24 |
-| 58 | [Rush](https://open.spotify.com/track/5DwrfmCwc7ZtRl9vfYKOuv) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [Petróleo](https://open.spotify.com/album/1nL346oiQcGOx91bEe3JQ0) | 3:15 |
+| 58 | [A mí ya me iba mal de antes](https://open.spotify.com/track/51AdRQrcgO0ds6i7uZaNsA) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Va totalmente en serio...](https://open.spotify.com/album/0A7r87gaqIDH5fxRDO9O0U) | 2:30 |
 | 59 | [Luna Blanca](https://open.spotify.com/track/57GkmWpXWgfKZQda8LjdXj) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Lo Que Fue](https://open.spotify.com/album/4FVSZPUptXmNGninasYFhT) | 3:40 |
-| 60 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 |
-| 61 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 |
+| 60 | [La Luna](https://open.spotify.com/track/79coItEGCwZOV8SttjU9IN) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Antibióticx](https://open.spotify.com/album/4lO3CYyULcgc6RPKfJqS02) | 3:43 |
+| 61 | [Quema](https://open.spotify.com/track/6ikqpsmK1si8HemHsocssD) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Quema](https://open.spotify.com/album/7vRod7kWz3RwGmSyMnob3b) | 3:26 |
 | 62 | [Nada](https://open.spotify.com/track/0IqrBjsS2wToMuIJgZjur7) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Nada](https://open.spotify.com/album/6uvd9g2I5M3x6EaKusdJDK) | 4:58 |
 | 63 | [\(H\)olas](https://open.spotify.com/track/2uAigpP8QV8YH8ie1u69kJ) | [Anyi](https://open.spotify.com/artist/4X3jL5rTrxMobkSxezJ6SD) | [Crucero Cristal](https://open.spotify.com/album/0LmoZ3QsZ5UDNoit01E12E) | 1:39 |
 | 64 | [GARZA](https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [GARZA](https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ) | 3:26 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 70 | [tiempo](https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn \(Deluxe\)](https://open.spotify.com/album/7A0d7VPtIDRo5kLEiZyghH) | 3:51 |
 | 71 | [El Astronauta](https://open.spotify.com/track/5KAeEQkHVqlEksNYZspCN0) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [El Astronauta](https://open.spotify.com/album/51aRXHN2FvmaRvyiAxKFdR) | 2:44 |
 | 72 | [Pájaro Azul](https://open.spotify.com/track/32me2vQrXYrGHvtJxpxHhz) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF) | 4:29 |
-| 73 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
-| 74 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
+| 73 | [Amuleto](https://open.spotify.com/track/4YM2iJsKTDYbLWpOIFSDLL) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Amuleto](https://open.spotify.com/album/1mBULwo4kN4l6fmo2R1jRh) | 3:45 |
+| 74 | [Única](https://open.spotify.com/track/3BmtYNRAzVoKjfOccz83Es) | [Paola Navarrete](https://open.spotify.com/artist/45nJ2GweSs0s4gWVGHLhYu) | [Única](https://open.spotify.com/album/6Abzs1QKczzZ2vVLSf1bH9) | 3:20 |
 | 75 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 |
 | 76 | [AYER](https://open.spotify.com/track/3YtsRWd21iMqyCvislOyv0) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [AYER](https://open.spotify.com/album/7by6gTgjR9YAvz5UN3UubQ) | 3:55 |
 | 77 | [Culpa](https://open.spotify.com/track/6rCbWp5PpcHM01S75xdjED) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Culpa](https://open.spotify.com/album/39eLAGLNchxBaC2GQcH61K) | 3:21 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdHPp93Fnfds.md) - [plain]
 | 79 | [Casi Extraños](https://open.spotify.com/track/7naPTVNgsAApx8BflqUd7m) | [Delfina Campos](https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G) | [Casi Extraños](https://open.spotify.com/album/5WXpA7EHSaSDjOWg45CetC) | 3:47 |
 | 80 | [Paseito](https://open.spotify.com/track/7CB0KxaEjHbYcbzf1jnTVD) | [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Humo](https://open.spotify.com/album/2aVf2kvguncX8TGNEIIwxB) | 4:53 |
 
-Snapshot ID: `MTY1OTEwNjUwNSwwMDAwMDAwMDQyYzgxN2IyODQ1ZTY0ZmFlNzFiNzIyNTQ0ZjVjMDE1`
+Snapshot ID: `MTY1OTEwNjUwNSwwMDAwMDAwMDg3NWIwMjk4MTVkNWYyNzAxMjkwOTVlYjk0NTE1Mzdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 
 > A decade full of 00s country hits! Cover: Lee Ann Womack
 
-[Spotify](https://open.spotify.com/user/spotify) - 529,788 likes - 125 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,212 likes - 125 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,11 +14,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 4 | [Life is a Highway](https://open.spotify.com/track/2Fs18NaCDuluPG1DHGw1XG) | [Rascal Flatts](https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn) | [Me And My Gang](https://open.spotify.com/album/5XPdkIryKSpTKW21HUtvV0) | 4:36 |
 | 5 | [Somebody Like You](https://open.spotify.com/track/0b9djfiuDIMw1zKH6gV74g) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 5:23 |
 | 6 | [It's A Great Day To Be Alive](https://open.spotify.com/track/3oW6SWwGqiZSPTiAp7ZQoH) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Down The Road I Go](https://open.spotify.com/album/2ewYJg5AuA9bXWrvOs1mtB) | 4:01 |
-| 7 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
+| 7 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
 | 8 | [I Go Back](https://open.spotify.com/track/57I7CUbXo4XlWuTVB8pXW6) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [When The Sun Goes Down](https://open.spotify.com/album/052CF6cpp0nAH67yuUrIp7) | 4:03 |
 | 9 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
 | 10 | [Toes](https://open.spotify.com/track/4S518ci8UY4op0Xyp6Hx6o) | [Zac Brown Band](https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo) | [The Foundation](https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT) | 4:22 |
-| 11 | [Your Man](https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:31 |
+| 11 | [In Color](https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN) | [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [That Lonesome Song](https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i) | 4:50 |
 | 12 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 13 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
 | 14 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 63 | [Do I](https://open.spotify.com/track/7A5CReD6yWe0rrkJym34QI) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Doin' My Thing](https://open.spotify.com/album/13pqUKo7eRvMKFGpfCGyEF) | 3:59 |
 | 64 | [Drive \(For Daddy Gene\)](https://open.spotify.com/track/1FV374EPG5CrjdIbIMLkcv) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS) | [Drive](https://open.spotify.com/album/2QBJCHNMYQC1cyhSXW0ygV) | 4:02 |
 | 65 | [I May Hate Myself In The Morning](https://open.spotify.com/track/6dWGSm15Vj6m7qLKEO85ZN) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [There's More Where That Came From](https://open.spotify.com/album/7unRtRZHDFAMqVNEAQjlDs) | 4:32 |
-| 66 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
+| 66 | [I Love This Bar](https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 5:35 |
 | 67 | [Red High Heels](https://open.spotify.com/track/7dFSHwa7BNZvWlOuYsvFpy) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [Small Town Girl](https://open.spotify.com/album/5bFtvUDukm5P0idSnW7M7n) | 3:42 |
-| 68 | [I Love This Bar](https://open.spotify.com/track/32jHB7W9b08OTorAqR0cJo) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Shock 'N Y'all](https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan) | 5:35 |
+| 68 | [Love Like Crazy](https://open.spotify.com/track/6Ozp6ac86CSHMik8lbvJuM) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Love Like Crazy](https://open.spotify.com/album/0Iybpv18tfdTUqJ6mhhZb8) | 3:37 |
 | 69 | [Teardrops On My Guitar \- Radio Single Remix](https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Taylor Swift](https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3) | 3:23 |
 | 70 | [White Liar](https://open.spotify.com/track/08NPIspzvBNj88lHalgA4V) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Revolution](https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA) | 4:47 |
 | 71 | [Brokenheartsville](https://open.spotify.com/track/0WB48shl2wAH4KqyQkQ8nJ) | [Joe Nichols](https://open.spotify.com/artist/4aJTB79uwT4sP0Nb8QGWHc) | [Man With A Memory](https://open.spotify.com/album/1IgWZ4xGJQwzQbUvob3f92) | 3:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 75 | [A Little Bit Stronger](https://open.spotify.com/track/5FIp4LrsffxiHLhmmpCbCx) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Stronger](https://open.spotify.com/album/03WjhytqhNAvfJI5DeNZUO) | 5:01 |
 | 76 | [Austin](https://open.spotify.com/track/2WQAknZHrJAEQOFXe0F44P) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Blake Shelton](https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8) | 3:50 |
 | 77 | [Paint Me A Birmingham](https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1) | [Tracy Lawrence](https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD) | [Strong](https://open.spotify.com/album/7tSd0AJFyjO92jEw4r1J8r) | 3:48 |
-| 78 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
-| 79 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
+| 78 | [Mr\. Mom](https://open.spotify.com/track/0jSIovJtKxEXH6vI4oRx7I) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Let's Be Us Again](https://open.spotify.com/album/3ZWRZwJXoyajqbbNGmzEpY) | 3:28 |
+| 79 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
 | 80 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 81 | [Just Got Started Lovin' You](https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV) | [James Otto](https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP) | [Sunset Man \(Standard Version\)](https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim) | 3:54 |
 | 82 | [Cowboy Casanova](https://open.spotify.com/track/6OqdF0vHI9xkqswI7EK0cD) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Play On](https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u) | 3:56 |
@@ -98,9 +98,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 88 | [That's What I Love About Sunday](https://open.spotify.com/track/1fmi1hOBtH8xfUiWz4LVtE) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [My Kind Of Livin'](https://open.spotify.com/album/4ovUdHrbzwtbtKMyU997Hl) | 3:21 |
 | 89 | [Long Black Train](https://open.spotify.com/track/2HqCaO7BV010qXS5FuiTED) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Long Black Train](https://open.spotify.com/album/7DgePplMBaKbi8l5c8s64n) | 4:10 |
 | 90 | [Wasted](https://open.spotify.com/track/5d98TnYzxQmFE4vKgzWXuT) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:34 |
-| 91 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
+| 91 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
 | 92 | [19 Somethin' \- Greatest Hits Version](https://open.spotify.com/track/0ElpjZyX8YBiXuYcDC1Ci9) | [Mark Wills](https://open.spotify.com/artist/0dlwjJe4kg9TgOMN184bJF) | [Greatest Hits](https://open.spotify.com/album/5HvSGPXR4k3PHspJrJTIqw) | 3:20 |
-| 93 | [I'm Gonna Getcha Good](https://open.spotify.com/track/3wimPgsJv0hEgP5A3sQ7Ag) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Up! \(Green Version\)](https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx) | 4:29 |
+| 93 | [Chicks Dig It \- Single Edit](https://open.spotify.com/track/0nprj2O0teCglthuhzTG5o) | [Chris Cagle](https://open.spotify.com/artist/1zhIzONVRlTfD1VQRauHMl) | [Chris Cagle](https://open.spotify.com/album/3qFNiOv7yX8pueke4P6Z8c) | 3:30 |
 | 94 | [All My Friends Say](https://open.spotify.com/track/539dFCMA8lfEElDPgGpcIB) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [I'll Stay Me](https://open.spotify.com/album/2WqHN90AQgk95Str6hWCt9) | 4:02 |
 | 95 | [Just Another Day In Paradise](https://open.spotify.com/track/4LlNoNZflek4hZyZigCxpW) | [Phil Vassar](https://open.spotify.com/artist/1XhhO2dTs2fKyhILj0aam6) | [Phil Vassar](https://open.spotify.com/album/5F5mOJ0WkMwpqVkK1AwMHC) | 3:53 |
 | 96 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdxUH6sNtcDe.md) - [plain]
 | 124 | [One More Day](https://open.spotify.com/track/3TNoNv8Z80M3pfm6CcODsh) | [Diamond Rio](https://open.spotify.com/artist/0svyIX7Xu3DVMkrOtB88i6) | [One More Day](https://open.spotify.com/album/43WoT1H0ferVcZ0NVjOubF) | 3:36 |
 | 125 | [Smoke Rings In The Dark](https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Smoke Rings In The Dark \(Deluxe Edition\)](https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX) | 4:17 |
 
-Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMDQ4YzUxNjk0NWE0ZjgxOTk0Mjg4ZGI1OTkzY2NjNjlj`
+Snapshot ID: `MTY1ODcwMjc0OSwwMDAwMDAwMGNkMTdhMzkxNjhkYWQ0NTZmOTE5YjQ4YmNiMzBlMzA1`

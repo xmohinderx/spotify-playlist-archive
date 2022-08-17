@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,391 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,409 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 16 | [Caldonia \- Single Version](https://open.spotify.com/track/3DY0fbOGsg1F1wdoqJFRig) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 2:41 |
 | 17 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
 | 18 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
-| 19 | [450 Pound Woman](https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 2:19 |
-| 20 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
+| 19 | [Bradshaw Boogie](https://open.spotify.com/track/1BFEfvRUGbjo8goeXENTKT) | [Tiny Bradshaw](https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa) | [The EP Collection](https://open.spotify.com/album/4wwPcZGpLPcXmm3O8GFNSb) | 1:54 |
+| 20 | [450 Pound Woman](https://open.spotify.com/track/7lIknnQZTwWds17MoZCoJi) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Wake Up And Live!](https://open.spotify.com/album/4wlMMYcqmpUXzf5TmpZ1rQ) | 2:19 |
 | 21 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
 | 22 | [Saturday Night Fish Fry \- Pts\. 1 & 2](https://open.spotify.com/track/6NrCCHjmdopC3Jh0SGLPe5) | [Louis Jordan & His Tympany Five](https://open.spotify.com/artist/62FPyLpIhmk27hBw6RHlhh) | [Let The Good Times Roll: The Anthology 1938 \- 1953](https://open.spotify.com/album/3IXj7J6a5kqVGdyfPbQnHK) | 5:34 |
 | 23 | [The Flirt](https://open.spotify.com/track/0367Y5NNAanCDqBTLEUEwU) | [Shirley & Lee](https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y) | [Aladdin '52\-'59:Let The Good Times Roll](https://open.spotify.com/album/5UOdBLbQBqGZlQoV1OJQTP) | 1:59 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 27 | [Shake That Thing](https://open.spotify.com/track/28S7lYq6jJxpyT8FYkpOHi) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [28 Big Ones](https://open.spotify.com/album/79hWwG5s50rXfuEimnaPoT) | 2:15 |
 | 28 | [Rhythm In The Barnyard](https://open.spotify.com/track/2zAlaHnn1BjU6K4XYPtYZS) | [Joe Liggins](https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV), [Honeydrippers](https://open.spotify.com/artist/3H7btloLVTOa77fbzuuzdF) | [Joe Liggins & The Honeydrippers](https://open.spotify.com/album/4xhs6dSoAHMYqJuq3zNygO) | 4:46 |
 | 29 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
-| 30 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
-| 31 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
+| 30 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
+| 31 | [King Kong](https://open.spotify.com/track/49VFbbe7fYParNLzugoweT) | [Big 'T' Tyler](https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa) | [Lost Halloween](https://open.spotify.com/album/4TpcgsEr8w68ELyq0fZR4T) | 2:00 |
 | 32 | [Deacon Rides Again](https://open.spotify.com/track/0YuFInq5H0KkABIRdM7FaR) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Presenting Big Jay McNeely](https://open.spotify.com/album/5p6jMtejgQObxzDs1T9w6A) | 2:47 |
 | 33 | [Hello Little Boy](https://open.spotify.com/track/2JAuujVyt4XzR9eDScPQVN) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:36 |
 | 34 | [Red Hot](https://open.spotify.com/track/1MXmG9AZuyY1EjHgAeY2kL) | [Billy "The Kid" Emerson](https://open.spotify.com/artist/07mlkNoHj4X0n11DmGBptw) | [Sun Records \- 60 Years, 60 Singles Box Set](https://open.spotify.com/album/3O2SUQ0VEHYYU1BKwsNV0O) | 2:24 |
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 37 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
 | 38 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
 | 39 | [Real Fine Daddy](https://open.spotify.com/track/3wcsTDXxxWDUehkWAwWp1e) | [Helen Humes](https://open.spotify.com/artist/5xcai2yBVdyRXXYfpaKdyD) | [Dootone Rock 'N' Rhythm & Blues](https://open.spotify.com/album/5oB7VbLgswDb6bHKQW59N4) | 2:16 |
-| 40 | [Teenage Baby](https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:04 |
-| 41 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
+| 40 | [Is You Is Or Is You Ain't My Baby](https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8) | [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Joe Williams' Finest Hour](https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq) | 6:11 |
+| 41 | [Teenage Baby](https://open.spotify.com/track/05D2bJ4V2uQm39GQX0mzvm) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [The Complete Imperial Recordings, 1950\-1954](https://open.spotify.com/album/5wu5aLFVDLguiEmgWzraOX) | 2:04 |
 | 42 | [Who Said Shorty Wasn't Coming Back \- Lucky Millinder](https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF) | [Vernon Dilworth](https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n) | [Shorty](https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3) | 2:39 |
 | 43 | [All Night Long](https://open.spotify.com/track/6riSu5IH82UYJRZuiUz7yo) | [Joe Houston & His Rockets](https://open.spotify.com/artist/0KE5SlfCEB81MaKTaWP4q6) | [Rock And Roll \- The Essential Collection](https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q) | 2:40 |
 | 44 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 49 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 50 | [Big Fat Mama](https://open.spotify.com/track/03DRiEEHelUfdyDW2Z5y9e) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Information Blues](https://open.spotify.com/album/5a43mcGKhwab4Ns4MJ0cAJ) | 2:44 |
 
-Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMDlmNThmOGZlZWU3ZjMwMjczMTRiNGZjOGUwY2Y1MGM5`
+Snapshot ID: `MTY0ODQ5NjY2NSwwMDAwMDAwMDkzOTk1M2Y0Mjk3OWE0MzNmMzg2YmY4ZmI3Nzk2MzYx`

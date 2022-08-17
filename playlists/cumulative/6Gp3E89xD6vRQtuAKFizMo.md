@@ -4,7 +4,7 @@
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-81 songs - 4 hr 8 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
+82 songs - 4 hr 11 min - [published](https://open.spotify.com/playlist/7t8EXLKd9MB1gi8kmzd2kR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Feels Like](https://open.spotify.com/track/2dJC7TpwGn8b2ricS0nnZV) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Feels Like](https://open.spotify.com/album/0VH6K3eQTPE3sdFAbNnW65) | 3:26 | 2022-08-12 |  |
 | [Forever With U](https://open.spotify.com/track/5Q8wYgDR5VP8aICtnWCVIT) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forever With U](https://open.spotify.com/album/2niItRisz5qg9RwUDydIwJ) | 2:04 | 2022-06-24 |  |
 | [Forgive Me](https://open.spotify.com/track/4VyBfTg5LqHqB4tPLXbK0U) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We) | [Forgive Me](https://open.spotify.com/album/1sXFjmp3CPdtOCgyzd7Fve) | 2:44 | 2022-07-15 |  |
+| [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 | 2022-08-16 |  |
 | [G.T.F.O.T.W\. \(feat\. Hashu\)](https://open.spotify.com/track/2CAqzumDVPlw6oNM8G24ty) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [SHARPS](https://open.spotify.com/artist/30RR4Uiy9EYzSpayWwyBj8), [Hashu](https://open.spotify.com/artist/75QUgxuj2iUvMKPF9uE7ll) | [AD INFINITUM](https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9) | 3:18 | 2022-05-20 |  |
 | [GAWT DAT](https://open.spotify.com/track/1f85WCujZOQNu1dEF9HyT1) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [BERNZIKIAL](https://open.spotify.com/artist/3oogxA4znb5A8ZVgp5viNS) | [GAWT DAT](https://open.spotify.com/album/3SB7QVqWIHfhPubOPc0j9T) | 2:09 | 2022-05-06 |  |
 | [heavy metals](https://open.spotify.com/track/4sI100hB4VQQqHQonPq9I2) | [plumpy](https://open.spotify.com/artist/50OV9n9Rnrf8BqUdzEVZMI), [daisy maize](https://open.spotify.com/artist/6SAsm9v5Z1fJpbrXGvuQu4) | [heavy metals](https://open.spotify.com/album/1l3e0TB5IdVOwFuOleUmjo) | 3:21 | 2022-05-10 |  |

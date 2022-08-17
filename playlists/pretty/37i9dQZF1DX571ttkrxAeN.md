@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX571ttkrxAeN.md) - [plain]
 
 > Sit and sip a cup as you soak up some acoustic vibes from across the world\. Cover: Souad Massi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,597 likes - 77 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,642 likes - 77 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

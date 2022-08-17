@@ -1,12 +1,12 @@
 {
   "description": "presa bene \u2728",
-  "num_followers": 6574,
+  "num_followers": 6628,
   "original_name": "una playlist felice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwODc3MiwwMDAwMDAwMGVmZjVkZGU0MjBlYzg0NjYwNDllNjVkOWZlYWVjMjg5",
+  "snapshot_id": "MTY2MDMwODc3MiwwMDAwMDAwMGJhN2EyODk0YzA2OTE5NzZhYzJiYjA3MWQwNWQxNTVl",
   "tracks": [
     {
       "added_at": "2022-08-12 12:52:52",
@@ -335,22 +335,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Anthology",
-        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
-      },
-      "artists": [
-        {
-          "name": "Musical Youth",
-          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
-        }
-      ],
-      "duration_ms": 205426,
-      "name": "Pass The Dutchie",
-      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Demon Days",
         "url": "https://open.spotify.com/album/0bUTHlWbkSQysoM3VsWldT"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 222640,
       "name": "Feel Good Inc.",
       "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/7EaFCudrleGdoYFl2srjhi"
+      },
+      "artists": [
+        {
+          "name": "Musical Youth",
+          "url": "https://open.spotify.com/artist/2CuzDPkRD6BJBvdWqCrt2I"
+        }
+      ],
+      "duration_ms": 205426,
+      "name": "Pass The Dutchie",
+      "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -583,22 +583,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
-        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 161803,
-      "name": "Life Goes On",
-      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -643,6 +627,22 @@
       "duration_ms": 223746,
       "name": "Always Forever",
       "url": "https://open.spotify.com/track/2enPRFda84VE2wtI8c86Uf"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe)",
+        "url": "https://open.spotify.com/album/5vP0fNictdWyU48o83Q7ob"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        }
+      ],
+      "duration_ms": 161803,
+      "name": "Life Goes On",
+      "url": "https://open.spotify.com/track/0eu4C55hL6x29mmeAjytzC"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -871,22 +871,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Future Friends",
-        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
-      },
-      "artists": [
-        {
-          "name": "Superfruit",
-          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
-        }
-      ],
-      "duration_ms": 222680,
-      "name": "GUY.exe",
-      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Where The Shadow Ends",
         "url": "https://open.spotify.com/album/7jPoliCU7TRA13Wro32AOD"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 219801,
       "name": "Someone To You",
       "url": "https://open.spotify.com/track/2f0pn9DkEJwAzXApnFh5cr"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Future Friends",
+        "url": "https://open.spotify.com/album/0Nq4Sve58GRDINSpbFMyz6"
+      },
+      "artists": [
+        {
+          "name": "Superfruit",
+          "url": "https://open.spotify.com/artist/50VoYemccTaftNfFqWtlXd"
+        }
+      ],
+      "duration_ms": 222680,
+      "name": "GUY.exe",
+      "url": "https://open.spotify.com/track/3JTjLyrnevl9ASw3ayGO2P"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "touch tank",
-        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 179133,
-      "name": "touch tank",
-      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Just A Cloud Away",
         "url": "https://open.spotify.com/album/2ojXtf3VwPgpxsFHYujwCY"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 176078,
       "name": "Just A Cloud Away",
       "url": "https://open.spotify.com/track/0DGTcMqvVR7fmBXgiG6jz4"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "touch tank",
+        "url": "https://open.spotify.com/album/4cH0G6g1NcPguHQ8aOk1h6"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 179133,
+      "name": "touch tank",
+      "url": "https://open.spotify.com/track/7DrzZN5jaDyE0a0tVuVWnj"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "SPACE MAN",
-        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
-      },
-      "artists": [
-        {
-          "name": "Sam Ryder",
-          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
-        }
-      ],
-      "duration_ms": 217320,
-      "name": "SPACE MAN",
-      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "MI FAI IMPAZZIRE",
         "url": "https://open.spotify.com/album/59L5yJfDpvDFynmhe2QbYS"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 220235,
       "name": "MI FAI IMPAZZIRE",
       "url": "https://open.spotify.com/track/1x3Qb8np6S1UvpSLthwEJN"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "SPACE MAN",
+        "url": "https://open.spotify.com/album/7uJgYMaJcQ25PhywdJfrJF"
+      },
+      "artists": [
+        {
+          "name": "Sam Ryder",
+          "url": "https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "SPACE MAN",
+      "url": "https://open.spotify.com/track/3nhGk6VnrDHy67pXvMhdPa"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Me Myself & I",
-        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
-      },
-      "artists": [
-        {
-          "name": "5 Seconds of Summer",
-          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-        }
-      ],
-      "duration_ms": 177879,
-      "name": "Me Myself & I",
-      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 209732,
       "name": "Come With Me",
       "url": "https://open.spotify.com/track/16frIpnyUb9poRwQxQTmaC"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Me Myself & I",
+        "url": "https://open.spotify.com/album/44rEE58rgbF88y9wrpadOl"
+      },
+      "artists": [
+        {
+          "name": "5 Seconds of Summer",
+          "url": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+        }
+      ],
+      "duration_ms": 177879,
+      "name": "Me Myself & I",
+      "url": "https://open.spotify.com/track/0C9aH2f4LO8SPPqUWOrcbk"
     },
     {
       "added_at": "2022-08-12 12:52:52",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140080,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "Te Quiero",
         "url": "https://open.spotify.com/album/65qboLlffe6X2GHje6HA4j"
       },
@@ -1227,22 +1211,6 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Speaking in Tongues (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
-      },
-      "artists": [
-        {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
-        }
-      ],
-      "duration_ms": 296146,
-      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
-      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
-    },
-    {
-      "added_at": "2022-08-12 12:52:52",
-      "album": {
         "name": "AMAZING",
         "url": "https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe"
       },
@@ -1259,18 +1227,50 @@
     {
       "added_at": "2022-08-12 12:52:52",
       "album": {
-        "name": "Love Sux",
-        "url": "https://open.spotify.com/album/5pkQpJAHxy9BzwA7E1UWxF"
+        "name": "Wet Leg",
+        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
       },
       "artists": [
         {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
         }
       ],
-      "duration_ms": 159746,
-      "name": "Bite Me",
-      "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
+      "duration_ms": 140080,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/260Ub1Yuj4CobdISTOBvM9"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "Speaking in Tongues (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4sLCQxMRfn3gAHrBNZtbTH"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 296146,
+      "name": "This Must Be the Place (Naive Melody) - 2005 Remaster",
+      "url": "https://open.spotify.com/track/6aBUnkXuCEQQHAlTokv9or"
+    },
+    {
+      "added_at": "2022-08-12 12:52:52",
+      "album": {
+        "name": "striptease",
+        "url": "https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl"
+      },
+      "artists": [
+        {
+          "name": "carwash",
+          "url": "https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX"
+        }
+      ],
+      "duration_ms": 160659,
+      "name": "striptease",
+      "url": "https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co"
     }
   ],
   "unique_name": "una playlist felice",

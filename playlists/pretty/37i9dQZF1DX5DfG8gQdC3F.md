@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > All the best new tracks this week, all in one place\. Cover: Ali Gatie, Kehlani
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,673 likes - 99 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,672 likes - 99 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 38 | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/track/4qXjXZPGtVNhQq1z9QDRFn) | [Billen Ted](https://open.spotify.com/artist/5PoZtBo8xZKqPWlZrIDq82), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [People Ain't Dancing \(feat\. Kah\-Lo\)](https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR) | 2:34 |
 | 39 | [Two Sides](https://open.spotify.com/track/5FnspVG6iriNNFuBKKoQbB) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [It's Not That Deep: Chapter 1](https://open.spotify.com/album/62DB8pQf35nmgO8Cq1HZH6) | 2:25 |
 | 40 | [Make Me Say It Again, Girl](https://open.spotify.com/track/4hv0hmUjhAqvAPGCHP4EaE) | [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L), [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Make Me Say It Again, Girl](https://open.spotify.com/album/52b0FH5bRs92vajujszHo0) | 5:14 |
-| 41 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
+| 41 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:23 |
 | 42 | [Intentions](https://open.spotify.com/track/2gNYF7hcGCugn9lH5fjnZw) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Cry Sugar](https://open.spotify.com/album/5YoNp5U9MsUvXsTWhVhEFU) | 4:18 |
 | 43 | [Waste My Time](https://open.spotify.com/track/2qDMEgMtjFbsQnnRigRBuu) | [Stefani Kimber](https://open.spotify.com/artist/4ePVAZ2pFMlU0aFbPc3qgF) | [Waste My Time](https://open.spotify.com/album/6x5ktAlJxev8IvJhWDuMZn) | 3:13 |
 | 44 | [Fuzz Mountain](https://open.spotify.com/track/0K5okWsXE334K34XK1slwR) | [Monster Truck](https://open.spotify.com/artist/0slSgjqTuj6hcod6IcG6zu) | [Fuzz Mountain](https://open.spotify.com/album/5MVlEJolWtr89OyVNRbgaO) | 3:41 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 98 | [Sundowners \- Original](https://open.spotify.com/track/6j0hSPmXjrTSS0AoOA0TsC) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Sundowners](https://open.spotify.com/album/0gEZHBSNu2dasnOkj5ldQz) | 6:37 |
 | 99 | [Scattered Ashes](https://open.spotify.com/track/2tddZmVqCTh9FgCqlyj8Vm) | [UWUW](https://open.spotify.com/artist/0qbv2s8alyy4zZkOHtIojE) | [Scattered Ashes](https://open.spotify.com/album/1l2XT7mbjtuA4JzGgRx7IU) | 6:05 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGI1MGE2MjI5ODI0MDhkODRjOGRmMTgxYmY5Yjc3NWRk`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGFkZDUwNjg0ZWQ4ZTJlODdmYWRlOWU2MjgxZjBiMGM5`

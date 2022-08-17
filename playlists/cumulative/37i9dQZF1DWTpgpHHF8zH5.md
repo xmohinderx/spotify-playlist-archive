@@ -4,7 +4,7 @@
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-197 songs - 10 hr 3 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
+198 songs - 10 hr 6 min - [published](https://open.spotify.com/playlist/5moqmy6VQIRDUxQYNZv0lg)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-05-19 |  |
 | [I Believe](https://open.spotify.com/track/2CewvqbfMOcnvYE3yayAJV) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [I Believe](https://open.spotify.com/album/0x89tPjR3KUl3KsG4Rlztv) | 2:27 | 2022-06-27 |  |
 | [I Just Called](https://open.spotify.com/track/0H8Tclo4x4kbZruQtZFNSX) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [I Just Called](https://open.spotify.com/album/4Qq3n68D2ktEi0eHFMdpSp) | 2:30 | 2022-05-30 |  |
-| [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-07-22 |  |
+| [I Love U](https://open.spotify.com/track/3MJE5DoCeAWP7cDbW9Hgm5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 3:05 | 2022-07-22 | 2022-08-17 |
 | [I Say a Little Prayer](https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 3:36 | 2022-07-22 |  |
 | [I Wish \(feat\. Mabel\)](https://open.spotify.com/track/0YORgvqP1MotwCnDZzOwII) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [I Wish \(feat\. Mabel\)](https://open.spotify.com/album/1gklzdwNQPtt0Z7SwgR1vH) | 3:01 | 2022-05-06 |  |
 | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/track/1V7bZ9gEIwFQpm8yGxRHNA) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MistaJam](https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2), [John Newman](https://open.spotify.com/artist/34v5MVKeQnIo0CWYMbbrPf) | [If You Really Love Me \(How Will I Know\)](https://open.spotify.com/album/2jchxs2dbRKpdHZl5O3FEY) | 3:04 | 2022-05-06 |  |
@@ -166,6 +166,7 @@
 | [Sucks To Know You \(FU\)](https://open.spotify.com/track/1DAJswyIul47SQNBkYPiCx) | [Mergui](https://open.spotify.com/artist/6grXi1oBW9ayoP4FTt4r2Z) | [Sucks To Know You \(FU\)](https://open.spotify.com/album/6lOJXuARq0Lbh6TgzEdmF2) | 1:58 | 2022-07-15 |  |
 | [Summer In New York](https://open.spotify.com/track/5kyJ6sznnWACqHbw65p34Q) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [WET TENNIS](https://open.spotify.com/album/1u54eF07irCSSssyDG67R2) | 2:38 | 2022-05-06 |  |
 | [Summer of Love \(Shawn Mendes & Tainy\)](https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Of Love](https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk) | 3:04 | 2022-05-06 |  |
+| [Sun Will Shine](https://open.spotify.com/track/6bp0sJ0l3Ab3ZU0aktsYCf) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Sun Will Shine](https://open.spotify.com/album/43u6j73XJJE6wOhKgsA50W) | 3:21 | 2022-08-12 |  |
 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 | 2022-05-06 |  |
 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 | 2022-08-12 |  |
 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 | 2022-06-03 |  |

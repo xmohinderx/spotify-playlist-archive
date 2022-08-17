@@ -1,12 +1,12 @@
 {
   "description": "Unas buenas cumbias con el calor de la gente! \nFoto: Pablo Lescano & El Mago.",
-  "num_followers": 99086,
+  "num_followers": 99123,
   "original_name": "Vivo de Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NDAwMCwwMDAwMDAwMGU2ZjNjOWMzMWYxMGQzN2Q5OGM4YzhmZTI2OWYyMDVk",
+  "snapshot_id": "MTY1Nzg1NDAwMCwwMDAwMDAwMDZjYTEyYTQ3ZjI0YmEyMzZkY2FlZjA1ZWQzNzQ5Yzk3",
   "tracks": [
     {
       "added_at": "2022-07-15 03:00:00",
@@ -243,22 +243,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
+        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
       },
       "artists": [
         {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
         },
         {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
         }
       ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
+      "duration_ms": 273273,
+      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
+      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
     },
     {
       "added_at": "2022-07-15 03:00:00",
@@ -279,22 +279,22 @@
     {
       "added_at": "2022-07-15 03:00:00",
       "album": {
-        "name": "La Marca de la Gorra (En Vivo en Teatro Gran Rex)",
-        "url": "https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb"
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
       },
       "artists": [
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
           "name": "Mala Fama",
           "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
         }
       ],
-      "duration_ms": 273273,
-      "name": "La Marca de la Gorra - En Vivo en Teatro Gran Rex",
-      "url": "https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW"
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2022-07-15 03:00:00",

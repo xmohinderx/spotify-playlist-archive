@@ -1,12 +1,12 @@
 {
   "description": "\ube57\ubc29\uc6b8\ub300\uc2e0 \uac10\uc131\uc744 \ub9de\ub294 \uc2dc\uac04.",
-  "num_followers": 4557,
+  "num_followers": 4633,
   "original_name": "\uc6b0\uc0b0 \uc544\ub798",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDQxNDY4OSwwMDAwMDAwMGYzMzdmMDZmMTJiMWJiMDM0NDlkYTE5MGVhNGQ5YzZk",
+  "snapshot_id": "MTY2MDQxNDY4OSwwMDAwMDAwMDc0NGE3MTIxODQyN2Q1Mzk3ZjhmM2E3MDZjOTkwYTlk",
   "tracks": [
     {
       "added_at": "2022-08-13 18:18:09",
@@ -259,26 +259,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 191191,
-      "name": "Distance (Feat. I.M of MONSTA X)",
-      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "Heart Burn",
         "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 244546,
       "name": "When This Rain Stops",
       "url": "https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 191191,
+      "name": "Distance (Feat. I.M of MONSTA X)",
+      "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -359,22 +359,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "On Rainy Days (2021)",
-        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        }
-      ],
-      "duration_ms": 230186,
-      "name": "On Rainy Days (2021)",
-      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "Epik High Is Here \u4e0b (Part 2)",
         "url": "https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh"
       },
@@ -391,22 +375,6 @@
       "duration_ms": 252986,
       "name": "Gray So Gray (Feat. Younha)",
       "url": "https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
-        "name": "overdose",
-        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 255808,
-      "name": "overdose",
-      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -431,6 +399,38 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
+        "name": "overdose",
+        "url": "https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 255808,
+      "name": "overdose",
+      "url": "https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "On Rainy Days (2021)",
+        "url": "https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 230186,
+      "name": "On Rainy Days (2021)",
+      "url": "https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
         "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798",
         "url": "https://open.spotify.com/album/2AkpFHwleXFawELoeu7kpa"
       },
@@ -447,6 +447,22 @@
       "duration_ms": 209240,
       "name": "Dingo X KIXO(\ud0a4\uc870) - \uc774\uac74\ub0b4\uac00\ucc98\uc74c\uc4f0\ub294\uc0ac\ub791\ub178\ub798 (feat. BIG Naughty)",
       "url": "https://open.spotify.com/track/1OPaYSgfVbdg4rCwNQMS2D"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Night Poem",
+        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
+      },
+      "artists": [
+        {
+          "name": "JungJaewon",
+          "url": "https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc"
+        }
+      ],
+      "duration_ms": 185853,
+      "name": "Night Poem",
+      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -483,42 +499,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "Night Poem",
-        "url": "https://open.spotify.com/album/5mjKgtVWrCqyh3sRru9dgU"
-      },
-      "artists": [
-        {
-          "name": "JungJaewon",
-          "url": "https://open.spotify.com/artist/2r4wloPYiv4WEg1uGaGRLc"
-        }
-      ],
-      "duration_ms": 185853,
-      "name": "Night Poem",
-      "url": "https://open.spotify.com/track/13NOcggiQ7sDxGxpRWUpLc"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "Melody (Gongzza X Whee In)",
         "url": "https://open.spotify.com/album/0wcXas1o5ff06GoRW5Cwr4"
       },
@@ -551,22 +531,22 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
-        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
         },
         {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 220933,
-      "name": "My Day Is Full Of You",
-      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -591,6 +571,26 @@
       "duration_ms": 188760,
       "name": "Umbrella (feat. Ashley Alisha, Julian Rose)",
       "url": "https://open.spotify.com/track/7jwfdA1tvjaqG3fi3HwHgm"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 10",
+        "url": "https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        },
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "My Day Is Full Of You",
+      "url": "https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "You Are My Spring OST Part 3",
-        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
-      },
-      "artists": [
-        {
-          "name": "Ha Hyunsang",
-          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
-        }
-      ],
-      "duration_ms": 161738,
-      "name": "Still Wonder",
-      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 171333,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "You Are My Spring OST Part 3",
+        "url": "https://open.spotify.com/album/3XRvOMIh5LEfdSu1q69U96"
+      },
+      "artists": [
+        {
+          "name": "Ha Hyunsang",
+          "url": "https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb"
+        }
+      ],
+      "duration_ms": 161738,
+      "name": "Still Wonder",
+      "url": "https://open.spotify.com/track/1hD35Fj6NBNm2CEOn3QLCE"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "Delete",
-        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
-      },
-      "artists": [
-        {
-          "name": "KIM JAE HWAN",
-          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
-        }
-      ],
-      "duration_ms": 249213,
-      "name": "Delete",
-      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "A Call from My Dream",
         "url": "https://open.spotify.com/album/7cuRyJgRk1NfHrCNv5tM3M"
       },
@@ -723,22 +707,6 @@
       "duration_ms": 255297,
       "name": "A Call from My Dream",
       "url": "https://open.spotify.com/track/23YwgEnMllsZl0POeWiOzR"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
-        "name": "babyblue",
-        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
-      },
-      "artists": [
-        {
-          "name": "Grass",
-          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
-        }
-      ],
-      "duration_ms": 228120,
-      "name": "babyblue",
-      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -759,18 +727,54 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "Lost Way (Good Doctor X Gaho)",
-        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
+        "name": "babyblue",
+        "url": "https://open.spotify.com/album/76GB3RzVtNrBANCl9Cici4"
       },
       "artists": [
         {
-          "name": "Gaho",
-          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
         }
       ],
-      "duration_ms": 184040,
-      "name": "Lost Way",
-      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+      "duration_ms": 228120,
+      "name": "babyblue",
+      "url": "https://open.spotify.com/track/0n4dgPfvfdqrt2LwDytMrD"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Delete",
+        "url": "https://open.spotify.com/album/7taYu0eectJZcGNYXIF6R9"
+      },
+      "artists": [
+        {
+          "name": "KIM JAE HWAN",
+          "url": "https://open.spotify.com/artist/7LdZwtnhfB1GoC9SE9tvyb"
+        }
+      ],
+      "duration_ms": 249213,
+      "name": "Delete",
+      "url": "https://open.spotify.com/track/48a0s6zGIkfbSBrt3k9uVC"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -791,22 +795,6 @@
     {
       "added_at": "2022-08-13 18:18:09",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 248051,
-      "name": "MISSING U",
-      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -823,6 +811,38 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "Lost Way (Good Doctor X Gaho)",
+        "url": "https://open.spotify.com/album/6dAFSut5NhJhMJcTyHzYEL"
+      },
+      "artists": [
+        {
+          "name": "Gaho",
+          "url": "https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc"
+        }
+      ],
+      "duration_ms": 184040,
+      "name": "Lost Way",
+      "url": "https://open.spotify.com/track/19h2GgTMiwp0pkcZoB0cZr"
+    },
+    {
+      "added_at": "2022-08-13 18:18:09",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/3cGyWEJaQlj7kCdKBCOGeb"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 248051,
+      "name": "MISSING U",
+      "url": "https://open.spotify.com/track/4uk677I1lb0ZPSXGhL2FcA"
     },
     {
       "added_at": "2022-08-13 18:18:09",
@@ -855,22 +875,6 @@
       "duration_ms": 234000,
       "name": "Beside",
       "url": "https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7"
-    },
-    {
-      "added_at": "2022-08-13 18:18:09",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 201080,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
     }
   ],
   "unique_name": "\uc6b0\uc0b0 \uc544\ub798",

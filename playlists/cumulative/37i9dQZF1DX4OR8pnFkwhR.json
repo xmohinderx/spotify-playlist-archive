@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: \u83c5\u539f\u572d",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: CVLTE",
   "name": "RADAR: Early Noise ",
   "published_playlist_ids": [
     "3egMOJl8BjDmQKjIUlEPsP"
@@ -1023,7 +1023,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 172000,
       "name": "Florida",
       "url": "https://open.spotify.com/track/6F3neIaphDdTjV4cGivHOg"
@@ -1149,7 +1149,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 215076,
       "name": "garden.",
       "url": "https://open.spotify.com/track/2aDshEBdWAyUo4H8z9AHbO"
@@ -1623,7 +1623,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 289285,
       "name": "Koi wo surunara",
       "url": "https://open.spotify.com/track/0Q44C4Nr2QbiwFuam0qpgD"
@@ -1677,7 +1677,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 171132,
       "name": "Leave me alone",
       "url": "https://open.spotify.com/track/2GvJFQIbuefTikZwFQw2yB"
@@ -1937,7 +1937,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 248378,
       "name": "MUSICA",
       "url": "https://open.spotify.com/track/0QxcEG4UlDINiBqHp5rVTa"
@@ -3509,7 +3509,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 142736,
       "name": "Whoopie is a Punkrocker",
       "url": "https://open.spotify.com/track/4NkzsLZjO02SDiWEd6afuo"
@@ -4145,7 +4145,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 152031,
       "name": "\u3075\u305f\u308a\u8a08\u753b",
       "url": "https://open.spotify.com/track/316xoUi91q0TZQjFoZbSPX"
@@ -4516,6 +4516,24 @@
     },
     {
       "album": {
+        "name": "FICTION",
+        "url": "https://open.spotify.com/album/2uCfgTfS5gVxOD1YFiebuE"
+      },
+      "artists": [
+        {
+          "name": "BREIMEN",
+          "url": "https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258134,
+      "name": "\u30c1\u30e3\u30d7\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/5YyWqhhN1JEn7F2cqDUMQO"
+    },
+    {
+      "album": {
         "name": "\u30c1\u30e7\u30b3\u30ec\u30a4\u30c8",
         "url": "https://open.spotify.com/album/76oYTrwxTtN6CI55Vz0lHK"
       },
@@ -4841,7 +4859,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 208791,
       "name": "\u30eb\u30fc\u30ba",
       "url": "https://open.spotify.com/track/3vflOd9bpb6s39VKACsUnf"
@@ -4965,8 +4983,8 @@
           "url": "https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX"
         },
         {
-          "name": "\u8352\u7530 \u6d38",
-          "url": "https://open.spotify.com/artist/5XIm5lvQ9sl3aZ9RuvZT2q"
+          "name": "Hikaru Arata",
+          "url": "https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO"
         }
       ],
       "date_added": "2022-08-09",

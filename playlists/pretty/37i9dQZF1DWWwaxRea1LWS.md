@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > Everybody \(yeah\), \#SpotifyTBT wants you to rock your body to 25 years of Backstreet Boys\. Cover: Backstreet Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,092,469 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,092,484 likes - 50 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

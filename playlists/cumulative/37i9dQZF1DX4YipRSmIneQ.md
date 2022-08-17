@@ -4,7 +4,7 @@
 
 > ur favorite queer bedroom club
 
-177 songs - 10 hr 7 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
+178 songs - 10 hr 10 min - [published](https://open.spotify.com/playlist/3jGNnquRLyuy508sPsIN7a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@
 | [SRS](https://open.spotify.com/track/2YqnLz7YNpDzX0nlYVnAmF) | [Chase Icon](https://open.spotify.com/artist/5XPJP6zfXVlPJtO4QSsSmQ) | [SRS](https://open.spotify.com/album/0EdZaveXeFBbqfq56kW7cH) | 2:41 | 2022-03-16 | 2022-06-25 |
 | [sting](https://open.spotify.com/track/0XGbReaytKAW0QioXzetZ2) | [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [world champ](https://open.spotify.com/album/2DMlRJkO8lu0GpXcgHijYg) | 3:05 | 2022-06-24 | 2022-07-22 |
 | [Str8 Acting](https://open.spotify.com/track/2NWlqkcCLOnDTuKVvSwLgN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [Smash Hits, Vol\. 1](https://open.spotify.com/album/6WtHU5cjvG58rBNjcBuAbR) | 3:55 | 2022-03-16 | 2022-07-22 |
-| [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 | 2022-07-31 |  |
+| [Straight To Hell \- Gendered Dekonstruktion Remix](https://open.spotify.com/track/43JiMaIgefeHRVWHuqbfjm) | [Chippy Nonstop](https://open.spotify.com/artist/3cIWQsZd5aYZDk9DGy64wS), [dj genderfluid](https://open.spotify.com/artist/7sxGpROgQQSGjnsoUWE4Dz), [Gendered Dekonstruktion](https://open.spotify.com/artist/0nz2g4E7Wed11mnTcxR4TN) | [Straight To Hell: The Remixes](https://open.spotify.com/album/4HgwlIclMQ7JSx9MdzO1p4) | 4:25 | 2022-07-31 | 2022-08-17 |
 | [Strut](https://open.spotify.com/track/3VICFKiIgp3V8OwOLZq4LL) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Strut](https://open.spotify.com/album/0iOUZ34Y3qWJAFqxBgcCRp) | 2:36 | 2022-03-16 | 2022-06-25 |
 | [Stupidisco](https://open.spotify.com/track/4kqv0fA0vF1vNwlVQqewdL) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Trust It](https://open.spotify.com/album/4giAI1rzrdkPNFMeTL9sk0) | 5:07 | 2022-03-16 | 2022-04-21 |
 | [Sweat \- SOPHIE Remix](https://open.spotify.com/track/1CUCnTJVZy68TS34DX6kCx) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9), [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Joyful Death](https://open.spotify.com/album/37RBUO05YPPvrIHcEst8Kg) | 4:18 | 2022-03-16 |  |
@@ -183,6 +183,7 @@
 | [Wet n Wild](https://open.spotify.com/track/2iA8Fx5GsMSeclTgWkQ5QR) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh) | [In Your System](https://open.spotify.com/album/2o0T9hMbNyEbSjmEiKJSUS) | 3:14 | 2022-05-15 | 2022-06-17 |
 | [What the Girlies Lack](https://open.spotify.com/track/16CYKwsnfK1KVL4Z1CghJW) | [Nattalie Blake](https://open.spotify.com/artist/2QJSx4tM6efojkBDxog9FB) | [What the Girlies Lack](https://open.spotify.com/album/3MbNxkKz4xl0uPOWAbkjj1) | 3:29 | 2022-03-16 | 2022-06-23 |
 | [WIZZ](https://open.spotify.com/track/0Zo3dEV1BOVGF1DaW5aGq9) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC) | [WIZZ](https://open.spotify.com/album/0RJGbSxAVBM1DAI320Ba8e) | 2:54 | 2022-03-16 | 2022-08-10 |
+| [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 | 2022-08-16 |  |
 | [Work It \- Soulwax Remix](https://open.spotify.com/track/6WfL1pwMyFf3IvFWLnre4P) | [Marie Davidson](https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [Work It \(Soulwax Remix\)](https://open.spotify.com/album/074U95kLP3roPuXrpjTYtT) | 4:46 | 2022-03-16 |  |
 | [Your Love \(feat\. Jamie Principle\)](https://open.spotify.com/track/6tvtFyEdNpeurBkT2zNMEL) | [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc), [Jamie Principle](https://open.spotify.com/artist/5obQFNrkFoWB51hm1JTHMw) | [Four Most Cuts Presents \- Frankie Knuckles vs\. Mr Fingers](https://open.spotify.com/album/1OM6ULzT778hgqBI4stbFR) | 6:47 | 2022-03-16 | 2022-04-20 |
 

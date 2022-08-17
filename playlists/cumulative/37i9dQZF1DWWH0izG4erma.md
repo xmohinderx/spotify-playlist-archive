@@ -4,7 +4,7 @@
 
 > Country Music that ROCKS!!  <br/>Cover: Whiskey Myers
 
-175 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
+176 songs - 10 hr 24 min - [published](https://open.spotify.com/playlist/7v4qYnm74BZdCShzbtN9G4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/4j6mrg4fGP1MVfOPN740VJ) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It](https://open.spotify.com/album/62aYom0k3j1RBe4uPC64ob) | 4:17 | 2022-07-22 |  |
 | [Long Haired Country Boy \(feat\. The Rockin' CJB\)](https://open.spotify.com/track/5u1gJ956WPF41Xqhf72d22) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I), [The Rockin' CJB](https://open.spotify.com/artist/29MrkEEHOU5icmFXxLe0OV) | [Ain't Nothin' to It \- EP](https://open.spotify.com/album/6CiDKNAEO6KGYkgKnGZCGO) | 4:17 | 2021-11-01 | 2022-07-29 |
 | [Long Nights](https://open.spotify.com/track/1zoYCUSLQkVR1MkkUJMnoI) | [CJ Solar](https://open.spotify.com/artist/2Tb4A6BOZgEeR7c6nyDlYy) | [The Future's Neon](https://open.spotify.com/album/42Tb9duEfbuP9U3vBq5rkJ) | 3:32 | 2022-08-05 |  |
+| [LOSER](https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [LOSER](https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq) | 3:14 | 2022-08-05 |  |
 | [Lowdown & Lonesome](https://open.spotify.com/track/3MDC1gVjBJJdThcWMCgLhp) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Lowdown & Lonesome](https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz) | 4:23 | 2021-11-01 | 2022-01-22 |
 | [Met the Devil in Oklahoma](https://open.spotify.com/track/32GtaR8mm14DOmhWzG8Jik) | [Josh Meloy](https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq) | [Oklahoma](https://open.spotify.com/album/0WiOb4EttRiuPO0C9Ofoxh) | 3:56 | 2021-11-01 |  |
 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 | 2021-11-01 |  |
@@ -121,7 +122,7 @@
 | [Pull Me Under](https://open.spotify.com/track/3hxE4hDy1kEYt1LBnpvD4e) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Frayed At Both Ends](https://open.spotify.com/album/2u0CICEVwEw51td3iLqcar) | 4:28 | 2022-07-22 |  |
 | [Pull Me Under](https://open.spotify.com/track/6diaA6bkHgXuhlkmIYVAkf) | [Aaron Lewis](https://open.spotify.com/artist/2t2XKfWKLXpFIjFwy1K8wx) | [Pull Me Under](https://open.spotify.com/album/75aqS5tQ46UH4dsynit10p) | 4:28 | 2021-11-12 | 2022-07-29 |
 | [Put It in the Plate](https://open.spotify.com/track/11t73HjNMUYPcpaTFzdbzo) | [Kendell Marvel](https://open.spotify.com/artist/7l77Y7qC5sVTsVoU2MymGX) | [Put It in the Plate](https://open.spotify.com/album/6jHIwtGXABMsY3SI56YV6k) | 2:43 | 2022-06-03 | 2022-07-10 |
-| [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 |  |
+| [Rambler \- Bonus Track](https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:30 | 2021-11-01 | 2022-08-17 |
 | [Ramon Ayala](https://open.spotify.com/track/7oRlqeavsFnEtKoUueqyiL) | [Giovannie and the Hired Guns](https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94) | [Ramon Ayala](https://open.spotify.com/album/0uDXEh8zPFRjAGizuol1EI) | 2:48 | 2022-07-19 |  |
 | [Red Handed](https://open.spotify.com/track/62jzdCEsnubKdOSIEOLx7L) | [Taylor McCall](https://open.spotify.com/artist/5f1cs8LexmMYbhNEIOsDLT) | [Red Handed](https://open.spotify.com/album/0eSxk8QnMLkDt5DQ43kxfZ) | 2:42 | 2021-11-01 | 2022-07-26 |
 | [Rich Man's Game](https://open.spotify.com/track/2muHNimwAwlBbfdYf6yH5W) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Rich Man's Game](https://open.spotify.com/album/0r5fTsObknKZkwDQbOjRuO) | 3:50 | 2021-11-01 | 2022-07-28 |

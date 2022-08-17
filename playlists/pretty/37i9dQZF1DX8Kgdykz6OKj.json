@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1009605,
+  "num_followers": 1009855,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGE5YmM5NzJjNmUxZDc2NGI4MDBiNmRhOTFhNjgwZjgz",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGMzNDE0N2M4MjVhMGJmMmNjMzE1YjQyMTk5MTYzN2I3",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Waking up to Sirens",
-        "url": "https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA"
-      },
-      "artists": [
-        {
-          "name": "Felly",
-          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
-        }
-      ],
-      "duration_ms": 214973,
-      "name": "Fabrics",
-      "url": "https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Dear Annie",
         "url": "https://open.spotify.com/album/0zjfO1k7RSkLnJz9AeEORl"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 256613,
       "name": "Egyptian Luvr",
       "url": "https://open.spotify.com/track/78DC9wd9Qrikw4jWllFAvM"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Waking up to Sirens",
+        "url": "https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA"
+      },
+      "artists": [
+        {
+          "name": "Felly",
+          "url": "https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD"
+        }
+      ],
+      "duration_ms": 214973,
+      "name": "Fabrics",
+      "url": "https://open.spotify.com/track/6G8ybvaNEW2nn1wMzvKjRc"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Reachin' (A New Refutation Of Time And Space)",
-        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
-      },
-      "artists": [
-        {
-          "name": "Digable Planets",
-          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
-        }
-      ],
-      "duration_ms": 271373,
-      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
-      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Baw Baw Black Sheep",
         "url": "https://open.spotify.com/album/5z8u1Ja4BZTlcYxi6FyT1k"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 259906,
       "name": "Cookie Chips",
       "url": "https://open.spotify.com/track/75yIue8dwthQA0QKd9ktyI"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Reachin' (A New Refutation Of Time And Space)",
+        "url": "https://open.spotify.com/album/5snUbps5KleLIP0cVI72lP"
+      },
+      "artists": [
+        {
+          "name": "Digable Planets",
+          "url": "https://open.spotify.com/artist/0gqIrDRL7CEPBWMmkuZPdQ"
+        }
+      ],
+      "duration_ms": 271373,
+      "name": "Pacifics (Sdtrk \"N.Y. Is Red Hot\")",
+      "url": "https://open.spotify.com/track/5esVkhazOeanQVdlJUkNpY"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -679,26 +679,18 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/7kGiqLXIF51OdCqx7F9ape"
+        "name": "The Rain",
+        "url": "https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn"
       },
       "artists": [
         {
           "name": "Summers Sons",
           "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
-        },
-        {
-          "name": "Turt",
-          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
-        },
-        {
-          "name": "Slim.",
-          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
         }
       ],
-      "duration_ms": 179463,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/58nrWMP7Gsr4SUOowBn7Y6"
+      "duration_ms": 157603,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -763,22 +755,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Blazing Arrow",
-        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
-      },
-      "artists": [
-        {
-          "name": "Blackalicious",
-          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
-        }
-      ],
-      "duration_ms": 206400,
-      "name": "Make You Feel That Way",
-      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Sleep Is the Cousin of Death",
         "url": "https://open.spotify.com/album/0eDkilJPtjHJfmedXgAZ4W"
       },
@@ -803,18 +779,42 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "The Rain",
-        "url": "https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn"
+        "name": "Blazing Arrow",
+        "url": "https://open.spotify.com/album/0DyXkWHnFMIJSuHfLgNfcc"
+      },
+      "artists": [
+        {
+          "name": "Blackalicious",
+          "url": "https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Make You Feel That Way",
+      "url": "https://open.spotify.com/track/4TlYG3mKosVWfGbb9VfDh3"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/7kGiqLXIF51OdCqx7F9ape"
       },
       "artists": [
         {
           "name": "Summers Sons",
           "url": "https://open.spotify.com/artist/6dX4na3KWr3yMTLU4l1W7z"
+        },
+        {
+          "name": "Turt",
+          "url": "https://open.spotify.com/artist/0VkwWpbd5pxXBYZu3ns9N0"
+        },
+        {
+          "name": "Slim.",
+          "url": "https://open.spotify.com/artist/61KbmY6DzskmM3MnXLanpH"
         }
       ],
-      "duration_ms": 157603,
-      "name": "Blue Skies",
-      "url": "https://open.spotify.com/track/4sw0pibcfTp63iRctT7Fnk"
+      "duration_ms": 179463,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/58nrWMP7Gsr4SUOowBn7Y6"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1199,26 +1199,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Can't Let You Go (feat. Nick Grant)",
-        "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
-      },
-      "artists": [
-        {
-          "name": "Terrace Martin",
-          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
-        },
-        {
-          "name": "Nick Grant",
-          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
-        }
-      ],
-      "duration_ms": 193616,
-      "name": "Can't Let You Go (feat. Nick Grant)",
-      "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Oh Word",
         "url": "https://open.spotify.com/album/5K0zEGFA2BGON7NJnrGt4h"
       },
@@ -1231,26 +1211,6 @@
       "duration_ms": 194019,
       "name": "Oh Word",
       "url": "https://open.spotify.com/track/02mReMjkI09dujKaP2zjqe"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 201011,
-      "name": "Nobody's Perfect",
-      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1275,6 +1235,46 @@
       "duration_ms": 147617,
       "name": "Make It Happen",
       "url": "https://open.spotify.com/track/5wFSWUVoztfAzENetY2FNZ"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Can't Let You Go (feat. Nick Grant)",
+        "url": "https://open.spotify.com/album/5VSqSiMz865dFXnhhj2fgj"
+      },
+      "artists": [
+        {
+          "name": "Terrace Martin",
+          "url": "https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz"
+        },
+        {
+          "name": "Nick Grant",
+          "url": "https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3"
+        }
+      ],
+      "duration_ms": 193616,
+      "name": "Can't Let You Go (feat. Nick Grant)",
+      "url": "https://open.spotify.com/track/7FdPNzOaG7FnIXiFm53cq4"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 201011,
+      "name": "Nobody's Perfect",
+      "url": "https://open.spotify.com/track/7A4DelrsueDxATfANucgZ9"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "New Day (feat. Illa J)",
-        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
-      },
-      "artists": [
-        {
-          "name": "Abstract Orchestra",
-          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
-        },
-        {
-          "name": "Illa J",
-          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
-        }
-      ],
-      "duration_ms": 145051,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "Lost in Translation",
         "url": "https://open.spotify.com/album/03FXnArG7vfxSdnVygI6xx"
       },
@@ -1563,22 +1543,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Head Highs",
-        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+        "name": "New Day (feat. Illa J)",
+        "url": "https://open.spotify.com/album/6LYOnP339GvjeB6imk4q2j"
       },
       "artists": [
         {
-          "name": "Malaki",
-          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+          "name": "Abstract Orchestra",
+          "url": "https://open.spotify.com/artist/4u3JZVJYDq2F3KgnUFw9dp"
         },
         {
-          "name": "jarjarjr",
-          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+          "name": "Illa J",
+          "url": "https://open.spotify.com/artist/72zigmOdJbIsz0iIRhCBvp"
         }
       ],
-      "duration_ms": 155346,
-      "name": "Head Highs",
-      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
+      "duration_ms": 145051,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1599,6 +1579,26 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Head Highs",
+        "url": "https://open.spotify.com/album/6r1uf6dIkqkQvqFb24zZwS"
+      },
+      "artists": [
+        {
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "jarjarjr",
+          "url": "https://open.spotify.com/artist/5ofXjDgcJSkigdj3riR40W"
+        }
+      ],
+      "duration_ms": 155346,
+      "name": "Head Highs",
+      "url": "https://open.spotify.com/track/3oib1sfr5xfi3Hklnyspq8"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
-      },
-      "artists": [
-        {
-          "name": "RAIZA BIZA",
-          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
-        }
-      ],
-      "duration_ms": 243711,
-      "name": "Wassup",
-      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "City All Stars (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1OBLIhYknohZpGq5KD6J3N"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 180290,
       "name": "The Stars My Destination",
       "url": "https://open.spotify.com/track/1s0mnVoDGTp6Qh8Y6Aqtmw"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/2aG0GB0P4uAaaZaMkSVZuG"
+      },
+      "artists": [
+        {
+          "name": "RAIZA BIZA",
+          "url": "https://open.spotify.com/artist/5woPu1EbjrUxdisOcQL7uo"
+        }
+      ],
+      "duration_ms": 243711,
+      "name": "Wassup",
+      "url": "https://open.spotify.com/track/1JeTPnPjrna50Cfon0PBqe"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1887,6 +1887,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Go So Far",
         "url": "https://open.spotify.com/album/4PVTF0T9u415oaUwKwGkPC"
       },
@@ -1907,26 +1927,6 @@
       "duration_ms": 242747,
       "name": "Go So Far",
       "url": "https://open.spotify.com/track/4uw7iZZwpVBa8ouMeMXnIy"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -2007,6 +2007,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Buckwild Presents: Diggin' in the Crates - Rare Studio Masters (1993-1997)",
+        "url": "https://open.spotify.com/album/4W0zEerHWorut3IHPTN61U"
+      },
+      "artists": [
+        {
+          "name": "Showbiz & A.G.",
+          "url": "https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz"
+        }
+      ],
+      "duration_ms": 223960,
+      "name": "You Know Now - Remix",
+      "url": "https://open.spotify.com/track/1sttCoY0ge1wtnMOsu0r6b"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "DOOM",
         "url": "https://open.spotify.com/album/5XD7CWEqh5LqE6ltpsnqpl"
       },
@@ -2023,22 +2039,6 @@
       "duration_ms": 136785,
       "name": "DOOM",
       "url": "https://open.spotify.com/track/2KMSMtg2MuaO2yQaPhv9PW"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Buckwild Presents: Diggin' in the Crates - Rare Studio Masters (1993-1997)",
-        "url": "https://open.spotify.com/album/4W0zEerHWorut3IHPTN61U"
-      },
-      "artists": [
-        {
-          "name": "Showbiz & A.G.",
-          "url": "https://open.spotify.com/artist/1U0EFT6jsUpEXAaWesmxAz"
-        }
-      ],
-      "duration_ms": 223960,
-      "name": "You Know Now - Remix",
-      "url": "https://open.spotify.com/track/1sttCoY0ge1wtnMOsu0r6b"
     }
   ],
   "unique_name": "Jazz Rap",

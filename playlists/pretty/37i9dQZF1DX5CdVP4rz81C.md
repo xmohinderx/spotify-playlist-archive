@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 
 > Discover your favorite new chill pop songs\. Cover: Lauv
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,263,133 likes - 88 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,263,398 likes - 88 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 57 | [Nothing](https://open.spotify.com/track/2IAR0DziHCjSu16gR4ihvy) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 2:42 |
 | 58 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 |
 | 59 | [Matilda](https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 4:05 |
-| 60 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 |
+| 60 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 61 | [Self Sabotage](https://open.spotify.com/track/60YeZiwow3kKAPvfyolXn6) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Self Sabotage](https://open.spotify.com/album/1lGuRcwJrSPtneek0Vz7W1) | 3:03 |
 | 62 | [Up Down](https://open.spotify.com/track/6HLtZhPygF6XrLVLkkaEYC) | [Fiji Blue](https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe) | [I Loved You, What Happened?](https://open.spotify.com/album/3K6gfRB0Yn4IEd5VDThMXv) | 3:10 |
 | 63 | [GHOST TOWN](https://open.spotify.com/track/135Lf4Q0CzlMNfOxbEUsLH) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [GHOST TOWN](https://open.spotify.com/album/4NTDxbwbo2rMGMm6U9UAEP) | 3:13 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5CdVP4rz81C.md) - [plain]
 | 87 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 |
 | 88 | [Skyline](https://open.spotify.com/track/1QxIFMs4M8qd5cbJJu80v4) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Skyline](https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe) | 3:02 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDZjNmE1OGRhYjllM2RhNDI4ZWM5ZWFkNmQ3ZGUxODRj`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGY5YmJkYzA3NTVlZmMxNmI0OGYxYTFkNmMxNzNiNTcy`

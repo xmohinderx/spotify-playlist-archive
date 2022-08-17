@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Megan Thee Stallion, Rod Wave and DaBaby
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,598,729 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,599,774 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 29 | [Dissin the Dead](https://open.spotify.com/track/5EeFkn825wcD3q2Tkk2vCu) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Dissin the Dead](https://open.spotify.com/album/4ls5UaYdO6EZHiry7sr8Po) | 3:48 |
 | 30 | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/track/6Bl1k7SZTP5gkfLPjkIwtx) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Steppers \(with Yo Gotti, Moneybagg Yo, 42 Dugg feat\. EST Gee, Mozzy, Blac Youngsta, CMG The Label\)](https://open.spotify.com/album/6trxo4VDpCOrlpJ1aC9j19) | 3:51 |
 | 31 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 |
-| 32 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
+| 32 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:23 |
 | 33 | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO) | 4:07 |
 | 34 | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/track/0b7UwotRCrS7qBoLDjfvSY) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [U\-Digg \(feat\. 42 Dugg & Veeze\)](https://open.spotify.com/album/0gnnmRUd9qg7ihL70KEtVZ) | 3:55 |
 | 35 | [Burglars & Murderers \(feat\. EST Gee\)](https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [7220 \(Deluxe\)](https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX) | 2:40 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [Cash In Cash Out](https://open.spotify.com/track/3S68RFe1lsdCdTMPIMJM3X) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Cash In Cash Out](https://open.spotify.com/album/4YV8SurDnk8sctOOZzYtbH) | 3:36 |
 | 50 | [Umm Hmm](https://open.spotify.com/track/0UmMT7DNXCOJvSmXXGNG5b) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:12 |
 
-Snapshot ID: `MTY2MDU4Mjk1NCwwMDAwMDAwMGQ0ZmVhNzQ3MzFlNzg0ZWM0ZjU3YmU5ZWE2ZWUzNzNi`
+Snapshot ID: `MTY2MDU4Mjk1NCwwMDAwMDAwMDI3ZTg3ZTkzNzA1YmIwODc3MGEwOTdhZWU3NDY2MzJk`

@@ -4,7 +4,7 @@
 
 > Los corridos más placosos que suenan en las calles\. Porte Diferente en portada.
 
-63 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
+64 songs - 3 hr 16 min - [published](https://open.spotify.com/playlist/0pNLi5IU8KFpQH3mzOOXMv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Black Jack](https://open.spotify.com/track/2hkAZ2LM0zqrnWRvb1YP8S) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos Chakalosos](https://open.spotify.com/album/1SwvH2qJLpvB8CiGEsZU9l) | 3:05 | 2022-02-21 |  |
 | [Brillo](https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [NataKong](https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L) | 2:34 | 2022-04-08 |  |
 | [Buena Vibra](https://open.spotify.com/track/6Y2qNukfWKFGbAv2iONhvy) | [Jose Villarreal](https://open.spotify.com/artist/02qtde8veYObRnk68N35sP) | [Buena Vibra](https://open.spotify.com/album/3mnkgCAgh8lwjzMkGxHGw1) | 3:13 | 2022-02-04 |  |
-| [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2022-03-18 |  |
+| [Bye](https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [GXLE 3](https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk) | 2:38 | 2022-03-18 | 2022-08-17 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-03-18 | 2022-06-25 |
 | [Clave Ali](https://open.spotify.com/track/0rSlb6Ng6JobokQUPngjRE) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:21 | 2022-03-18 |  |
 | [Cosas Cambiaron](https://open.spotify.com/track/6weHET4DndhR9N1LFsRCOb) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Mi Nueva Familia](https://open.spotify.com/album/4o6joLq7yA3Xe0PWkf9LLL) | 3:11 | 2022-02-04 |  |
@@ -67,6 +67,7 @@
 | [Se Amerita](https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:55 | 2022-03-18 |  |
 | [Se Divisan](https://open.spotify.com/track/3SFPkPGIGcCUXpUVUdgx6z) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Se Divisan](https://open.spotify.com/album/7iwQC4YEVZ2BbSyGNArJpQ) | 2:40 | 2022-03-18 |  |
 | [Sencillo Soy](https://open.spotify.com/track/5XWPoQ2lS8qgaf5aeDwBmh) | [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Sencillo Soy](https://open.spotify.com/album/2VTl4zpY1zYRj1KXGTHLFv) | 2:52 | 2022-02-04 |  |
+| [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-08-16 |  |
 | [Soy Alegre](https://open.spotify.com/track/16WS0oVYnZMpl9ePTof7eH) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Seguimos Avanzando](https://open.spotify.com/album/0oN9LSWr8UQGbxfCZvk2RC) | 3:09 | 2022-02-04 |  |
 | [Tan Solo Morro](https://open.spotify.com/track/5eBzDfTG7m8NUWf14YYQcU) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Polo Gonzalez](https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6) | [Tan Solo Morro](https://open.spotify.com/album/1LmawVjg3zfR7kcPZ8SIjG) | 2:24 | 2022-02-04 |  |
 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 | 2022-06-24 |  |

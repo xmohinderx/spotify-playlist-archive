@@ -1276,6 +1276,24 @@
     },
     {
       "album": {
+        "name": "Traumazine",
+        "url": "https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim"
+      },
+      "artists": [
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137107,
+      "name": "Her",
+      "url": "https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0"
+    },
+    {
+      "album": {
         "name": "His & Hers (feat. Don Toliver, Lil Uzi Vert & Gunna)",
         "url": "https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6"
       },
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 168727,
       "name": "NEVER LEFT",
       "url": "https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdD040nrEzxm.md) - [plain]
 
 > Editor's picks: The best African songs of 2021\. Cover: <a href="https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu?si=nFgcQ\_fRQH6RnMN65adARg">LADIPOE</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,264 likes - 98 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,271 likes - 98 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

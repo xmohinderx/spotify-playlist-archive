@@ -1,12 +1,12 @@
 {
   "description": "An introduction to the beauty of jazz. Cover: Chet Baker",
-  "num_followers": 110126,
+  "num_followers": 110369,
   "original_name": "Jazz for Beginners",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEzNjc5MSwwMDAwMDAwMDU1YjE0ZGRiMGQxNTE1NTY2NTgyZTUzN2ViMWZhMWMx",
+  "snapshot_id": "MTY2MDEzNjc5MSwwMDAwMDAwMDllMDMyMTYwZGJkN2MzMTAxNzViZmE1NTJhZjg2ZDQx",
   "tracks": [
     {
       "added_at": "2022-08-10 13:06:31",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "Anita",
-        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
-      },
-      "artists": [
-        {
-          "name": "Anita O'Day",
-          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
-        }
-      ],
-      "duration_ms": 160853,
-      "name": "Beautiful Love",
-      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
-    },
-    {
-      "added_at": "2022-08-10 13:06:31",
-      "album": {
         "name": "B. G. In Hi Fi",
         "url": "https://open.spotify.com/album/33oCBSZiLbfqyOnTTQ4Tct"
       },
@@ -1035,22 +1019,34 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "John Coltrane And Johnny Hartman",
-        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
+        "name": "Anita",
+        "url": "https://open.spotify.com/album/5ytkuJciMwGDXwQeLWbHCw"
       },
       "artists": [
         {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Johnny Hartman",
-          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
+          "name": "Anita O'Day",
+          "url": "https://open.spotify.com/artist/5QGnprJtpZmk3OiDqspPlB"
         }
       ],
-      "duration_ms": 320773,
-      "name": "They Say It's Wonderful",
-      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
+      "duration_ms": 160853,
+      "name": "Beautiful Love",
+      "url": "https://open.spotify.com/track/3lXgCSYCH9wCTHHLnpBzig"
+    },
+    {
+      "added_at": "2022-08-10 13:06:31",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 305186,
+      "name": "Everything Happens to Me",
+      "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
     },
     {
       "added_at": "2022-08-10 13:06:31",
@@ -1091,18 +1087,22 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+        "name": "John Coltrane And Johnny Hartman",
+        "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Johnny Hartman",
+          "url": "https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo"
         }
       ],
-      "duration_ms": 305186,
-      "name": "Everything Happens to Me",
-      "url": "https://open.spotify.com/track/4Y5fyQ5fBysC32Na5sZT3J"
+      "duration_ms": 320773,
+      "name": "They Say It's Wonderful",
+      "url": "https://open.spotify.com/track/6x8XKDM8Rnid4TyOUg9kj3"
     },
     {
       "added_at": "2022-08-10 13:06:31",
@@ -1275,6 +1275,38 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
+        "name": "Kind Of Blue",
+        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+      },
+      "artists": [
+        {
+          "name": "Miles Davis",
+          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
+        },
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        },
+        {
+          "name": "Cannonball Adderley",
+          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
+        },
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        },
+        {
+          "name": "Paul Chambers",
+          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+        }
+      ],
+      "duration_ms": 586493,
+      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
+      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+    },
+    {
+      "added_at": "2022-08-10 13:06:31",
+      "album": {
         "name": "John Coltrane And Johnny Hartman",
         "url": "https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU"
       },
@@ -1311,34 +1343,18 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "Kind Of Blue",
-        "url": "https://open.spotify.com/album/1weenld61qoidwYuZ1GESA"
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
       },
       "artists": [
         {
-          "name": "Miles Davis",
-          "url": "https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4"
-        },
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        },
-        {
-          "name": "Cannonball Adderley",
-          "url": "https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA"
-        },
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        },
-        {
-          "name": "Paul Chambers",
-          "url": "https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG"
+          "name": "Pat Martino",
+          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
         }
       ],
-      "duration_ms": 586493,
-      "name": "Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers)",
-      "url": "https://open.spotify.com/track/3NvYPUNu6nwQgN31UnoDbn"
+      "duration_ms": 138533,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY"
     },
     {
       "added_at": "2022-08-10 13:06:31",
@@ -1399,22 +1415,6 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "Cream",
-        "url": "https://open.spotify.com/album/6R8qLTLbNFxzfBoavYUCXy"
-      },
-      "artists": [
-        {
-          "name": "Pat Martino",
-          "url": "https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/7Meqm9jgQXhh08vdnbrvfY"
-    },
-    {
-      "added_at": "2022-08-10 13:06:31",
-      "album": {
         "name": "Wild Is The Wind",
         "url": "https://open.spotify.com/album/2EYVXfypcucR62WMKJl6Mr"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-10 13:06:31",
       "album": {
-        "name": "Greatest Performances Original Recordings",
-        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
-      },
-      "artists": [
-        {
-          "name": "Judy Garland",
-          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
-        }
-      ],
-      "duration_ms": 167466,
-      "name": "Over The Rainbow",
-      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
-    },
-    {
-      "added_at": "2022-08-10 13:06:31",
-      "album": {
         "name": "Ballads",
         "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 405226,
       "name": "I'm A Fool To Want You",
       "url": "https://open.spotify.com/track/3kYrQXSao9IXp3EzMZQt5J"
+    },
+    {
+      "added_at": "2022-08-10 13:06:31",
+      "album": {
+        "name": "Greatest Performances Original Recordings",
+        "url": "https://open.spotify.com/album/0HnXnEBr9Whc6Go4Bw0km6"
+      },
+      "artists": [
+        {
+          "name": "Judy Garland",
+          "url": "https://open.spotify.com/artist/0hItVPjwJLVZrFqOyIsxPf"
+        }
+      ],
+      "duration_ms": 167466,
+      "name": "Over The Rainbow",
+      "url": "https://open.spotify.com/track/3wAIcORchxdSkWv6v5AkaU"
     },
     {
       "added_at": "2022-08-10 13:06:31",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 
 > Your favorite Latin Indie Classics\. Cover: Salt Cathedral, Ximena Sariñana
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,561 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,622 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 20 | [Ugotme](https://open.spotify.com/track/2NCBjlH7FHEG7hXcnvUaWA) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/0sSIXkYfRqXomRPrK4wYYe) | 2:07 |
 | 21 | [I Don't Know You](https://open.spotify.com/track/4cJOLN346rtOty3UPACsao) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [I Don't Know You](https://open.spotify.com/album/5L8VJO457GXReKVVfRhzyM) | 3:29 |
 | 22 | [Confidently Lost](https://open.spotify.com/track/3cQmqM0awej9iAESjhKrI9) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Confidently Lost](https://open.spotify.com/album/6Y0sR4pj7mxRN0EudJnMQw) | 3:29 |
-| 23 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
-| 24 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
+| 23 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 |
+| 24 | [Barefoot In The Park \(feat\. ROSALÍA\)](https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Assume Form](https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L) | 3:31 |
 | 25 | [Friends](https://open.spotify.com/track/50efMyG2rMRQZ755G5iYMN) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Friends](https://open.spotify.com/album/4JOcTTsqOx4g1G0U3lnt9m) | 2:39 |
 | 26 | [Black Lipstick](https://open.spotify.com/track/2wsW7FXHByxfP6Qzwf4iaj) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Black Lipstick](https://open.spotify.com/album/7hedlsiDZmoOdynJeOqGbs) | 3:49 |
 | 27 | [Lo Mejor, Lo Peor](https://open.spotify.com/track/7llSV9mWATUeGNxJMik2Vg) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [América Supersónica](https://open.spotify.com/album/1nn6tjn1aqYGHkgEHejfb0) | 3:43 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 29 | [Unbothered](https://open.spotify.com/track/4p1Er46wDz4zGQI7Sxor3W) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Unbothered](https://open.spotify.com/album/4FFxpvJlrYnJeOhcCIawKr) | 2:04 |
 | 30 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 31 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 |
-| 32 | [Malas Amistades](https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs) | 4:10 |
-| 33 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 32 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
+| 33 | [Malas Amistades](https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Tornaluna](https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs) | 4:10 |
 | 34 | [Vienen A Verme \- Theme from "El Chapo"](https://open.spotify.com/track/1VIi0H6f7MwjMjormmGTEi) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs) | [El Chapo \(Original Television Soundtrack\)](https://open.spotify.com/album/7GHA2839oq3I7avhBdwSV6) | 3:20 |
 | 35 | [Popscuro](https://open.spotify.com/track/3N0lemfma0XQAlkueBbwev) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Destellos](https://open.spotify.com/album/2X4swA3UkpqAS8bbXYgP9k) | 3:57 |
 | 36 | [Cycles of Existential Rhyme](https://open.spotify.com/track/6rpi77GqamZNoltbZ5ksdi) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Cycles of Existential Rhyme](https://open.spotify.com/album/5Jm8y8nnjMIUrsxZ6KjFe3) | 4:15 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 66 | [Toca Madera](https://open.spotify.com/track/3uuFWFeuJR3srECmr6BdfK) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [\#ponteelcasco](https://open.spotify.com/album/7mqkMdFTDiwvchm99McUV6) | 4:12 |
 | 67 | [Dung Ding Dang](https://open.spotify.com/track/5OWxGgdDveGYp0iKvJN4H3) | [Estereomance](https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd) | [Estereomance](https://open.spotify.com/album/5BLPMwnHHRMq6JhrhjX62T) | 4:15 |
 | 68 | [Sono](https://open.spotify.com/track/5S5KTbGOPuq5ITTz5OYaMl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [EP I](https://open.spotify.com/album/1vbQgZHGwMm43QNZIrjra1) | 2:17 |
-| 69 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
-| 70 | [Gala](https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG) | [424](https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA) | [Oro](https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs) | 3:09 |
+| 69 | [Gala](https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG) | [424](https://open.spotify.com/artist/2GDqxAIoVhLMmtFP0NrUlA) | [Oro](https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs) | 3:09 |
+| 70 | [En Mis Genes](https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW) | [Protistas](https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf) | [Nefertiti](https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh) | 4:02 |
 | 71 | [Círculos](https://open.spotify.com/track/4q1ngjb83YMWqCyBWwgssI) | [Marem Ladson](https://open.spotify.com/artist/2Fzkri1PNqc9DsXUbRrNa0) | [Azul](https://open.spotify.com/album/4E3B6Ke1n9sna4pt84gpnd) | 3:12 |
 | 72 | [Montañas](https://open.spotify.com/track/2x0jS1pcwWxzWOd3eRSrzu) | [Cristina Valentina](https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV) | [Montañas](https://open.spotify.com/album/1IeFuOpz4yMp2zE8e0IWqp) | 4:48 |
 | 73 | [Help Me](https://open.spotify.com/track/0P0Xmwg81SFY86Fd9PP5Pu) | [Dj Bitman](https://open.spotify.com/artist/7FfKue3foqwcKAUi36xsh9) | [Colour](https://open.spotify.com/album/60Vu18cl9NX9yrRL7ywRLz) | 3:57 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 88 | [Internet Blues](https://open.spotify.com/track/3rlxHAv1NgtDhE9lCjK1rI) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 2:49 |
 | 89 | [That's Playa](https://open.spotify.com/track/7dGHfcGKv5BC7ooYkqZPxe) | [Los Wálters](https://open.spotify.com/artist/0joND3Z9boBeX6EOu66rAY) | [Verano Panorámico](https://open.spotify.com/album/1dxlZvX4EbrdzNUdnwwR2N) | 2:07 |
 | 90 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 |
-| 91 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
-| 92 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
+| 91 | [Si Tú Estás Bien](https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV) | [Tita](https://open.spotify.com/artist/5VUc3B1hoBWWwodjRD8JHp) | [Si Tú Estás Bien](https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa) | 4:23 |
+| 92 | [Play Your Game](https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v) | [La Santa Cecilia](https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo) | 3:03 |
 | 93 | [Drooling](https://open.spotify.com/track/4vqpYgp1FrpyeGleZ1ljhQ) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Drooling](https://open.spotify.com/album/61OtLPiuJrgdCM2pYlqVzu) | 3:39 |
 | 94 | [Ya Yo Sé](https://open.spotify.com/track/13Bi9eUCVZzp3X7453V2TY) | [Chico Mann](https://open.spotify.com/artist/2Wt6Q6ZHygCPVtMO3uxLGB) | [Analog Drift](https://open.spotify.com/album/6HrF56kOsMzQPQOZPUk5TY) | 4:32 |
 | 95 | [PARIS](https://open.spotify.com/track/6RxORxiqBquB74RPHTbx0F) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [PARIS](https://open.spotify.com/album/7K5qtRioGQTedUi5FVEyX4) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8RvHJklfhit.md) - [plain]
 | 99 | [Blinded](https://open.spotify.com/track/239chagYycSREsWq5wGq97) | [Brika](https://open.spotify.com/artist/3FMbhaYng6VoeCltbwqmtG) | [Every Third Thought](https://open.spotify.com/album/5EkUotvrlGXnq8rdkT1Pju) | 3:52 |
 | 100 | [Mucho Más](https://open.spotify.com/track/4JOhfm15uy5ETZzfYJfrxS) | [Jackie Mendoza](https://open.spotify.com/artist/2ZIEeX505EvIuA10fNgnHa) | [LuvHz](https://open.spotify.com/album/6yBOev00UB9ZZVaspj00Wb) | 3:05 |
 
-Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMDEyNzVlMmEzZjA1ZTg0ZWI1ZWI2NGQzMzg1ODNiMTZh`
+Snapshot ID: `MTY1OTcxNTg5NiwwMDAwMDAwMDYyODA0Y2UyMDNhYWI3NzhmZDQwZDkzZThkMDc5YTQy`

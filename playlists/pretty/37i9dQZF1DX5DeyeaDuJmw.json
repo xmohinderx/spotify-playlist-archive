@@ -1,12 +1,12 @@
 {
   "description": "Ac\u00e1 hay letra. Foto: Brray.",
-  "num_followers": 108362,
+  "num_followers": 108423,
   "original_name": "Rimas y Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMDk3Nzk5MTE0YWNlMjFlMTNkMWE0NTcxNTgyM2Y2NTMz",
+  "snapshot_id": "MTY1ODQ1OTY4NywwMDAwMDAwMGNjNzYxZWIxYzIzMWE0MDVlNmMxODhiOWExMDdjN2Ji",
   "tracks": [
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
-      },
-      "artists": [
-        {
-          "name": "Pusho",
-          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 224267,
-      "name": "La Llamada",
-      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "Las Naik",
         "url": "https://open.spotify.com/album/1jJ7NdRUwzOxu3Pdmliyr3"
       },
@@ -1187,6 +1167,30 @@
       "duration_ms": 175258,
       "name": "Las Naik",
       "url": "https://open.spotify.com/track/5vmYLoozbUNwcdVL2m3lHq"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "La Jeepeta",
+        "url": "https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc"
+      },
+      "artists": [
+        {
+          "name": "Nio Garcia",
+          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        }
+      ],
+      "duration_ms": 204809,
+      "name": "La Jeepeta",
+      "url": "https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1215,26 +1219,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "La Jeepeta",
-        "url": "https://open.spotify.com/album/0pUFniwv3FndU1FlNN3apc"
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/6hT06wrQnW4g3zhlt9mx5m"
       },
       "artists": [
         {
-          "name": "Nio Garcia",
-          "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0"
+          "name": "Pusho",
+          "url": "https://open.spotify.com/artist/2qbEtwBVyobgpNP5KcHE9J"
         },
         {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 204809,
-      "name": "La Jeepeta",
-      "url": "https://open.spotify.com/track/4RaWbMItxVbuUExNkFsITP"
+      "duration_ms": 224267,
+      "name": "La Llamada",
+      "url": "https://open.spotify.com/track/4VlVJff7viYXRb7TbmXGGP"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1311,22 +1311,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Sola & Vac\u00eda",
-        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
+        "name": "Bandolera",
+        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
       },
       "artists": [
         {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
         }
       ],
-      "duration_ms": 182675,
-      "name": "Sola & Vac\u00eda",
-      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
+      "duration_ms": 201858,
+      "name": "Bandolera",
+      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Bandolera",
-        "url": "https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8"
+        "name": "Sola & Vac\u00eda",
+        "url": "https://open.spotify.com/album/4J8ZqzL9bOmjkcmxVqqouk"
       },
       "artists": [
         {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
         },
         {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 201858,
-      "name": "Bandolera",
-      "url": "https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71"
+      "duration_ms": 182675,
+      "name": "Sola & Vac\u00eda",
+      "url": "https://open.spotify.com/track/46V4kseB66GjFGklCgynGX"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "No Vuelvas M\u00e1s",
+        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
+      },
+      "artists": [
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        }
+      ],
+      "duration_ms": 239093,
+      "name": "No Vuelvas M\u00e1s",
+      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Ganas de Ti",
         "url": "https://open.spotify.com/album/39mi0GEWIwCjRBdVXnFnyN"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 226520,
       "name": "Ganas de Ti",
       "url": "https://open.spotify.com/track/4kuQJb8ghj6268fBTtB3bX"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "No Vuelvas M\u00e1s",
-        "url": "https://open.spotify.com/album/4VNUfBtbxnBGDbhiGuRiw0"
-      },
-      "artists": [
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        }
-      ],
-      "duration_ms": 239093,
-      "name": "No Vuelvas M\u00e1s",
-      "url": "https://open.spotify.com/track/0mcBgVRVsvESTkEyVHt7Ue"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
+        "name": "\u00c1cido",
+        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
+      },
+      "artists": [
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        }
+      ],
+      "duration_ms": 149142,
+      "name": "\u00c1cido",
+      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/6GRHOMthTb0HMOZDO26D8j"
       },
@@ -1779,18 +1795,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "\u00c1cido",
-        "url": "https://open.spotify.com/album/2fpJi92UkpWlVfehON7Yqt"
+        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+        "url": "https://open.spotify.com/album/180tAJ9pVBgJlDbqElVDzW"
       },
       "artists": [
         {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+          "name": "DJ Tao",
+          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         }
       ],
-      "duration_ms": 149142,
-      "name": "\u00c1cido",
-      "url": "https://open.spotify.com/track/67qxV0lxSgs8BAnIl3gtEL"
+      "duration_ms": 133331,
+      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
+      "url": "https://open.spotify.com/track/69QXtiL1dzjBgTMu3DnIRp"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1847,26 +1867,6 @@
       "duration_ms": 196261,
       "name": "Como Si Nah (feat. KEVVO)",
       "url": "https://open.spotify.com/track/5yUW86tRavTvP8OTfVChtL"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
-        "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-        "url": "https://open.spotify.com/album/180tAJ9pVBgJlDbqElVDzW"
-      },
-      "artists": [
-        {
-          "name": "DJ Tao",
-          "url": "https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "PERRO PRIMO | DJ TAO Turreo Sessions #2",
-      "url": "https://open.spotify.com/track/69QXtiL1dzjBgTMu3DnIRp"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -1951,34 +1951,6 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Always Dream",
-        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
-      },
-      "artists": [
-        {
-          "name": "D\u00edmelo Flow",
-          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
-        },
-        {
-          "name": "Arcangel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 216840,
-      "name": "P\u00e1rtela",
-      "url": "https://open.spotify.com/track/1ouF8myNo6048c4WSVJAzL"
-    },
-    {
-      "added_at": "2022-07-22 03:14:47",
-      "album": {
         "name": "ANHMATSV",
         "url": "https://open.spotify.com/album/5cpUiATf6r2KWEBb9aGPqz"
       },
@@ -2003,6 +1975,34 @@
       "duration_ms": 174666,
       "name": "Vitamina",
       "url": "https://open.spotify.com/track/5KimPWcMnaqwwghXAxfYRX"
+    },
+    {
+      "added_at": "2022-07-22 03:14:47",
+      "album": {
+        "name": "Always Dream",
+        "url": "https://open.spotify.com/album/1LlyGFhg9ghr5zQsJ4vv9w"
+      },
+      "artists": [
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Arcangel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 216840,
+      "name": "P\u00e1rtela",
+      "url": "https://open.spotify.com/track/1ouF8myNo6048c4WSVJAzL"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -2063,22 +2063,26 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "Billetes Azules (with J Balvin)",
-        "url": "https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp"
+        "name": "VIDRIOS NEGROS",
+        "url": "https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC"
       },
       "artists": [
         {
-          "name": "KEVVO",
-          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Al Records",
+          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
         }
       ],
-      "duration_ms": 189506,
-      "name": "Billetes Azules (with J Balvin)",
-      "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
+      "duration_ms": 137727,
+      "name": "VIDRIOS NEGROS",
+      "url": "https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz"
     },
     {
       "added_at": "2022-07-22 03:14:47",
@@ -2107,26 +2111,22 @@
     {
       "added_at": "2022-07-22 03:14:47",
       "album": {
-        "name": "VIDRIOS NEGROS",
-        "url": "https://open.spotify.com/album/5xGJCHjxAr2nSajMURpUwC"
+        "name": "Billetes Azules (with J Balvin)",
+        "url": "https://open.spotify.com/album/0FIqCHhKHDqHd35AvRm8gp"
       },
       "artists": [
         {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+          "name": "KEVVO",
+          "url": "https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ"
         },
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Al Records",
-          "url": "https://open.spotify.com/artist/6gzfKa8KmgcAfhbeeKo28T"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         }
       ],
-      "duration_ms": 137727,
-      "name": "VIDRIOS NEGROS",
-      "url": "https://open.spotify.com/track/0uPzLQ8z365LRhde8J8wDz"
+      "duration_ms": 189506,
+      "name": "Billetes Azules (with J Balvin)",
+      "url": "https://open.spotify.com/track/7HmnJHfs0BkFzX4x8j0hkl"
     },
     {
       "added_at": "2022-07-22 03:14:47",

@@ -381,7 +381,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 433266,
       "name": "Ancient and Distant",
       "url": "https://open.spotify.com/track/2kXJ6su5YWx1a3YQilPxmF"
@@ -1163,7 +1163,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 180706,
       "name": "Cool Out",
       "url": "https://open.spotify.com/track/5Pp7GAMJHAW31meFVjNg58"
@@ -1671,7 +1671,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-13",
+      "date_removed": null,
       "duration_ms": 465133,
       "name": "Everything I Love",
       "url": "https://open.spotify.com/track/0Pw63fBSPpWdWPfcUr9hY5"
@@ -2175,7 +2175,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 504456,
       "name": "Ham Hocks and Cabbage",
       "url": "https://open.spotify.com/track/4WCZalosPdTXmwZ5ZUOarr"
@@ -2367,6 +2367,24 @@
       "duration_ms": 387450,
       "name": "How Many More",
       "url": "https://open.spotify.com/track/5zpqkOpg31ksUdhuqJ9CQU"
+    },
+    {
+      "album": {
+        "name": "I Can\u00b4t Get Started",
+        "url": "https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp"
+      },
+      "artists": [
+        {
+          "name": "Willowdale",
+          "url": "https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208500,
+      "name": "I Can\u00b4t Get Started",
+      "url": "https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof"
     },
     {
       "album": {
@@ -4711,7 +4729,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 221884,
       "name": "Refuge",
       "url": "https://open.spotify.com/track/72X5bmQUJ9bCDDFqFszNy2"
@@ -5669,7 +5687,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 284880,
       "name": "Taplow",
       "url": "https://open.spotify.com/track/4JHItqtk4k5wv207UO1D66"
@@ -5831,7 +5849,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 202500,
       "name": "The Gadget",
       "url": "https://open.spotify.com/track/6s7knDkFQOigynMft0WRv6"

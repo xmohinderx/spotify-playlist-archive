@@ -1,12 +1,12 @@
 {
   "description": "The pulse of new indie rock. Cover: Alvvays\n",
-  "num_followers": 837289,
+  "num_followers": 837336,
   "original_name": "Today's Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDQxNTUwNCwwMDAwMDAwMGNlMTM1OTc0NTViMzJiMmMzOThjN2RkNDhiOTJhMjEw",
+  "snapshot_id": "MTY2MDYzMjM1MSwwMDAwMDAwMGRkYmY1MTViZmExOTlkNDQwOWQzM2FjODNiNWMxNzZk",
   "tracks": [
     {
       "added_at": "2022-08-12 04:20:00",
@@ -89,23 +89,7 @@
       "url": "https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03"
     },
     {
-      "added_at": "2022-08-12 04:20:00",
-      "album": {
-        "name": "Lost Honor",
-        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 239346,
-      "name": "Lost Honor",
-      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
-    },
-    {
-      "added_at": "2022-07-29 04:20:00",
+      "added_at": "2022-08-16 06:43:22",
       "album": {
         "name": "Into The Rift",
         "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
@@ -116,9 +100,25 @@
           "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
         }
       ],
-      "duration_ms": 181519,
-      "name": "Ms. Dramatic",
-      "url": "https://open.spotify.com/track/493u0mah1icJ3e1Tmllra4"
+      "duration_ms": 219984,
+      "name": "Dead",
+      "url": "https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx"
+    },
+    {
+      "added_at": "2022-08-16 06:43:22",
+      "album": {
+        "name": "TVI",
+        "url": "https://open.spotify.com/album/237M8OHoTqOKzaixlHS2VN"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "TVI",
+      "url": "https://open.spotify.com/track/6OtoDwuQaH8SfZobDMsWD5"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/5AMe0pqbUp4HR6Vi1ngYLW"
     },
     {
+      "added_at": "2022-08-16 06:45:51",
+      "album": {
+        "name": "Wonderful Life",
+        "url": "https://open.spotify.com/album/3Ja3WF7ybMFGiRFNZG3Xz7"
+      },
+      "artists": [
+        {
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+        }
+      ],
+      "duration_ms": 185944,
+      "name": "Wonderful Life - Edit",
+      "url": "https://open.spotify.com/track/3CrDdihSYMmQxSRUuLsPdY"
+    },
+    {
       "added_at": "2022-08-12 04:20:00",
       "album": {
         "name": "Time",
@@ -249,20 +265,36 @@
       "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
     },
     {
-      "added_at": "2022-08-12 04:20:00",
+      "added_at": "2022-07-15 04:01:00",
       "album": {
-        "name": "Vault of Heaven",
-        "url": "https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe"
+        "name": "I Think I Left the Stove On",
+        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
       },
       "artists": [
         {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
         }
       ],
-      "duration_ms": 239485,
-      "name": "Vault of Heaven",
-      "url": "https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD"
+      "duration_ms": 202490,
+      "name": "I Think I Left the Stove On",
+      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Lost Honor",
+        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 239346,
+      "name": "Lost Honor",
+      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
     },
     {
       "added_at": "2022-08-12 04:20:00",
@@ -281,22 +313,6 @@
       "url": "https://open.spotify.com/track/1BCQcNvwUVXtagkgdVNRx7"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "I Think I Left the Stove On",
-        "url": "https://open.spotify.com/album/6GmBP3c1JJx9ZOg2LMlIc5"
-      },
-      "artists": [
-        {
-          "name": "Hotel Ugly",
-          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
-        }
-      ],
-      "duration_ms": 202490,
-      "name": "I Think I Left the Stove On",
-      "url": "https://open.spotify.com/track/1XcQwxhNmgzGVW76JfBDPX"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "Life Is Yours",
@@ -311,6 +327,22 @@
       "duration_ms": 224178,
       "name": "2am",
       "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
+    },
+    {
+      "added_at": "2022-08-12 04:20:00",
+      "album": {
+        "name": "Vault of Heaven",
+        "url": "https://open.spotify.com/album/7qdCGuVbA0N9oU7wiTMoPe"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 239485,
+      "name": "Vault of Heaven",
+      "url": "https://open.spotify.com/track/0g8SY6YeGKw3Tf54aKXziD"
     },
     {
       "added_at": "2022-07-15 04:01:00",
@@ -379,8 +411,8 @@
     {
       "added_at": "2022-08-12 20:10:31",
       "album": {
-        "name": "The Sound of Music",
-        "url": "https://open.spotify.com/album/6C6WyEUddjLjNQEEh6Lr7C"
+        "name": "Chopper",
+        "url": "https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1"
       },
       "artists": [
         {
@@ -390,7 +422,7 @@
       ],
       "duration_ms": 192680,
       "name": "The Sound of Music",
-      "url": "https://open.spotify.com/track/6CMOvQKKSDoNeDtgolwZET"
+      "url": "https://open.spotify.com/track/6PUzYXBwsvuP0Db074d9W4"
     },
     {
       "added_at": "2022-07-01 14:01:58",
@@ -1517,22 +1549,6 @@
       "url": "https://open.spotify.com/track/7ItKJuyZQ1MZaj7poaKqiX"
     },
     {
-      "added_at": "2022-07-15 04:01:00",
-      "album": {
-        "name": "Blurt",
-        "url": "https://open.spotify.com/album/47gfLPyw1oBCUn8joa93bA"
-      },
-      "artists": [
-        {
-          "name": "Mega Mango",
-          "url": "https://open.spotify.com/artist/4O2iP6l7paJ9tThXxFVZXJ"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Blurt",
-      "url": "https://open.spotify.com/track/0hvSJQdd2eGR3VBMfKbZSs"
-    },
-    {
       "added_at": "2022-07-01 14:01:58",
       "album": {
         "name": "Hawaii",
@@ -1595,22 +1611,6 @@
       "duration_ms": 119016,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/6AWssBCESVyeRIlaHzNIDA"
-    },
-    {
-      "added_at": "2022-07-01 14:01:58",
-      "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 270945,
-      "name": "Thin Thing",
-      "url": "https://open.spotify.com/track/1Sbdw0lMZXkfVmjuH1UTb8"
     },
     {
       "added_at": "2022-07-01 14:01:58",

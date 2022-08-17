@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 
 > Get ready to sing your hearts out with these family friendly road trip classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,839 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 449,145 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJ0ewkTmTo2.md) - [plain]
 | 75 | [1234](https://open.spotify.com/track/2CzWeyC9zlDpIOZPUUKrBW) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [The Reminder](https://open.spotify.com/album/7bTdGfczXffzzNE9ssJj4Z) | 3:03 |
 | 76 | [I Got You Babe](https://open.spotify.com/track/2SWBfqj1FrS8t8z56G55rP) | [Sonny & Cher](https://open.spotify.com/artist/71lGEtP9qYXDsSXjfexTqO) | [The Beat Goes On: Best Of](https://open.spotify.com/album/5QzkzMcvCJSk30pQS2mqia) | 3:13 |
 | 77 | [Hit The Road Jack](https://open.spotify.com/track/4w7nHS3WCD0u25SkMUvq3a) | [Jeff Zavac](https://open.spotify.com/artist/3wlGboM57eZwqMIM2o31GL), [The Craetts](https://open.spotify.com/artist/4fnabfYrvg3fMDspxKcGRl) | [Miami Lighthouse for the Blind Presents: Instrumental Magic](https://open.spotify.com/album/5j7NYV0Nk1lPR70kqIDvDF) | 2:09 |
-| 78 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
-| 79 | [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 |
-| 80 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/2hViJh3rHe8MU9Rhshozdx) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Wedding Music](https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q) | 2:48 |
+| 78 | [You're The One That I Want \- From “Grease”](https://open.spotify.com/track/2hViJh3rHe8MU9Rhshozdx) | [John Travolta](https://open.spotify.com/artist/4hKkEHkaqCsyxNxXEsszVH), [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Best Wedding Music](https://open.spotify.com/album/3AwViWMmXi0oxspOLyfs7Q) | 2:48 |
+| 79 | [I Don't Want to Be](https://open.spotify.com/track/6ich2xMH5AR39V85miIAN8) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Chariot \- Stripped](https://open.spotify.com/album/0Fm4Qx8IVHEEBYPeRzNUGI) | 3:37 |
+| 80 | [Everyday Is A Winding Road](https://open.spotify.com/track/0t6DAi9KEiaWOtgTTXGhD2) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [Sheryl Crow](https://open.spotify.com/album/3w7TTi80vZApF0rQE5DMYb) | 4:16 |
 
-Snapshot ID: `MTY0MjY5NjIwOSwwMDAwMDAwMDY5NWI5NTdiN2E1YmM0ZTE2NjllNTMyZGY1YTI3ZDcy`
+Snapshot ID: `MTY0MjY5NjIwOSwwMDAwMDAwMGQ4OWJiMDU3NzczMjJlNjBhNzQ1MTAwZTIxZTRmMmM0`

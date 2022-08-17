@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 
 > Ska con cuadritos blancos, negros, y tricolores\. Los de Abajo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,392 likes - 120 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,430 likes - 120 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 36 | [Nada Que Perder](https://open.spotify.com/track/2yZsGhvrL3dRlbMLhAcy0E) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Flores para los Muertos](https://open.spotify.com/album/4MG3GEmrAnhWtKOkyP5BjV) | 3:37 |
 | 37 | [Lo Pasado, Pasado](https://open.spotify.com/track/0loVgkJy6V4bK1RwN47eBl) | [Maldita Vecindad Y Los Hijos Del 5to\. Patio](https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT) | [A 30 Años](https://open.spotify.com/album/6N14CMYjjUcMFgWIsQqRgY) | 3:21 |
 | 38 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
-| 39 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
-| 40 | [Policía](https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Policía](https://open.spotify.com/album/6q5nq0IPObglpjCwg3NkUX) | 2:36 |
+| 39 | [Policía](https://open.spotify.com/track/1p6i8vzd6P2UNtVsiyKKyo) | [Gallo Rojo](https://open.spotify.com/artist/5snI6175hjbf6Du8Z2E5Mk), [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt), [Desorden Público](https://open.spotify.com/artist/0kyQwKHCZnKE7kTXkxXjrB) | [Policía](https://open.spotify.com/album/6q5nq0IPObglpjCwg3NkUX) | 2:36 |
+| 40 | [Spanish Bombs](https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M) | [Tijuana No!](https://open.spotify.com/artist/2mkMNs2mphrkggZ7me38j1) | [Contra\-Revolucion Avenue](https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2) | 3:02 |
 | 41 | [Maldita Soledad](https://open.spotify.com/track/2BjVggYx8BZc5xjZGVB4Gd) | [Salon Victoria](https://open.spotify.com/artist/1xOtUH3e7hrO0nJesm68Ea) | [Salon Victoria](https://open.spotify.com/album/4lg3bOjDQbkoewWLrTA38o) | 3:09 |
 | 42 | [Delfino](https://open.spotify.com/track/6igIXgrQB9qnWcQpn9XPfF) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 5:02 |
 | 43 | [No Hemos Muerto](https://open.spotify.com/track/6r6qsNxpxO75px7lsH3VXn) | [Royal Club](https://open.spotify.com/artist/6nvwIE7PkdPwNx48i5scxu) | [15 Años de Fuerza, Corazón y Resistencia](https://open.spotify.com/album/3HJqnp5b9tcTOYGcYkX4nu) | 3:29 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 57 | [Algo De Suerte](https://open.spotify.com/track/2u8cFYHuAXvLlbxCEkb7ED) | [Sonora Skandalera](https://open.spotify.com/artist/0uks9zgvJkFeg8Weapt3ac) | [Sonora Skandalera](https://open.spotify.com/album/6VsKLBwxtU6pFYzlk0os4n) | 4:14 |
 | 58 | [Veneno](https://open.spotify.com/track/1NY1Vze2kFDsc5PN3OYcTm) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Venga la Sentencia](https://open.spotify.com/album/0x38zEUnqO1aQQtsVEQ6Wd) | 3:16 |
 | 59 | [Su Majestad](https://open.spotify.com/track/5ftNbqrdSS7fKNB2G23WFQ) | [La Matatena](https://open.spotify.com/artist/5FgDCzaC8VeGnaVws6BU2q) | [Emulsion de Skape](https://open.spotify.com/album/0l0sZOdQJbYKTPQwbxDsbE) | 3:39 |
-| 60 | [Better Times Are Coming](https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Better Times Are Coming](https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x) | 3:17 |
-| 61 | [Más Que Tu Amigo](https://open.spotify.com/track/49Yb25EF3jm7kwkdkKJ8gS) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Víctor Morán](https://open.spotify.com/artist/0sRV0Fle5SlujAaxplNlAS) | [Más Que Tu Amigo](https://open.spotify.com/album/3lDuMjLWslv0UOdt0LH0BN) | 3:31 |
+| 60 | [Más Que Tu Amigo](https://open.spotify.com/track/49Yb25EF3jm7kwkdkKJ8gS) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Víctor Morán](https://open.spotify.com/artist/0sRV0Fle5SlujAaxplNlAS) | [Más Que Tu Amigo](https://open.spotify.com/album/3lDuMjLWslv0UOdt0LH0BN) | 3:31 |
+| 61 | [Better Times Are Coming](https://open.spotify.com/track/0lOTlOKnmUEDphNpmpj4LQ) | [Sr\. Bikini](https://open.spotify.com/artist/1BtFs6l5AAFQ8FV5SHiz1J) | [Better Times Are Coming](https://open.spotify.com/album/0YbGmlwz42fGa6Dk86bf7x) | 3:17 |
 | 62 | [Ruperta](https://open.spotify.com/track/5fFWruyNL7FZL1nLrkCTcM) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 4:09 |
 | 63 | [Abrázame](https://open.spotify.com/track/5cq7ipR7yzdxINynEQAHrw) | [Maskatesta](https://open.spotify.com/artist/7IyBMp52r2T01C39t27vrE), [Jorge Serrano](https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF) | [Abrázame](https://open.spotify.com/album/6FvczgJQ93Surwfpn4Q9ba) | 4:03 |
 | 64 | [Nana Punk](https://open.spotify.com/track/5z4NEn8aaE25kxcE3LORdQ) | [Nana Pancha](https://open.spotify.com/artist/4wrHdTaFAi56czZLNuZlfK) | [Armada Hasta los Dientes V 1.5](https://open.spotify.com/album/3mcGUxLcbiPvIrVkXQ4XK9) | 2:12 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaMKckYawrgw.md) - [plain]
 | 119 | [La Dosis Perfecta](https://open.spotify.com/track/5bymCzswBkt0deeD1hlTIq) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [A la Izquierda de la Tierra](https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd) | 4:15 |
 | 120 | [Amnesia](https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Alma En Fuego](https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk) | 4:01 |
 
-Snapshot ID: `MTY2MDM0OTcwMiwwMDAwMDAwMDA0ODYzNzMzNmQ0ZDQ1ZTM2MjEyNWI0NGNjOTM0YTU0`
+Snapshot ID: `MTY2MDM0OTcwMiwwMDAwMDAwMDhmNGM5YzNlNzJhZWIwODUyNTMxMDAwNGQ4ZDUwMTU1`

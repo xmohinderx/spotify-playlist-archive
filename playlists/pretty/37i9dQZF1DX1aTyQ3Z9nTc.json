@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 100585,
+  "num_followers": 100685,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Nzc5MCwwMDAwMDAwMDc0MmI2Mjk4ZmIxMjJjZGE3Mjc5MWYxNDUwM2RkNGI4",
+  "snapshot_id": "MTY2MDI3Nzc5MCwwMDAwMDAwMGNhNTdmYzc0NTk5NWE4OTg1MTAwNGU5ODg3MDE1YjU4",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -679,26 +679,6 @@
     {
       "added_at": "2022-05-02 22:05:00",
       "album": {
-        "name": "Abhi vs The Universe",
-        "url": "https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w"
-      },
-      "artists": [
-        {
-          "name": "Abhi The Nomad",
-          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
-        },
-        {
-          "name": "Charlie Curtis-Beard",
-          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
-        }
-      ],
-      "duration_ms": 112762,
-      "name": "Bag",
-      "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
-    },
-    {
-      "added_at": "2022-05-02 22:05:00",
-      "album": {
         "name": "BUBBA",
         "url": "https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 226720,
       "name": "The Worst In Me",
       "url": "https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo"
+    },
+    {
+      "added_at": "2022-05-02 22:05:00",
+      "album": {
+        "name": "Abhi vs The Universe",
+        "url": "https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w"
+      },
+      "artists": [
+        {
+          "name": "Abhi The Nomad",
+          "url": "https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4"
+        },
+        {
+          "name": "Charlie Curtis-Beard",
+          "url": "https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb"
+        }
+      ],
+      "duration_ms": 112762,
+      "name": "Bag",
+      "url": "https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp"
     },
     {
       "added_at": "2022-05-02 22:05:00",

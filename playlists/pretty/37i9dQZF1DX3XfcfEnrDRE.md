@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 
 > The ever\-evolving sound of Alt! Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,189 likes - 99 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,237 likes - 99 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XfcfEnrDRE.md) - [plain]
 | 86 | [Lifeline](https://open.spotify.com/track/00XzGYhl1SKVvLx7UCZS13) | [Lion of Judah](https://open.spotify.com/artist/5xMljsTgyAQODxCMD7K2zH) | [Lifeline](https://open.spotify.com/album/5i5ADiqRI9yh9FOF9YVxPT) | 3:12 |
 | 87 | [Talk of the Town](https://open.spotify.com/track/4rTD34yd4a3ECP7vpkyFf0) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Talk of the Town](https://open.spotify.com/album/0zvyYHDg3kFHlcXmVfwL8B) | 3:27 |
 | 88 | [Coming Clean](https://open.spotify.com/track/3k9ULygUi36i85Nr0jw6aR) | [Spencer Annis](https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu) | [Coming Clean](https://open.spotify.com/album/0caMEZCVkxxyhcmYLlxt31) | 3:03 |
-| 89 | [Right Now](https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR) | [Tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Rapzilla.com Presents: Freshmen 2021](https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h) | 2:21 |
+| 89 | [Right Now](https://open.spotify.com/track/3QMmsuQyB2m4XAkM3VkKTR) | [tylerhateslife](https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm), [Coop](https://open.spotify.com/artist/0ivRqHXxL3ghMn0vvs1urP) | [Rapzilla.com Presents: Freshmen 2021](https://open.spotify.com/album/4HtfMKAYg8lbnR1HKFZ03h) | 2:21 |
 | 90 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 91 | [Promised Land](https://open.spotify.com/track/2VXNUklng1AswoKNgjiKJy) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [Promised Land](https://open.spotify.com/album/1oSlXZXXKv4yHkaLDvgFij) | 3:29 |
 | 92 | [Like an Ocean](https://open.spotify.com/track/00dHvozlMxyyXcGoQvMBgB) | [Nathan Hornsby](https://open.spotify.com/artist/15S3MpPnvWhxLvBj8V1pdY) | [Like an Ocean](https://open.spotify.com/album/41ZSyVvCGIRsI6SBVpyXFh) | 3:53 |

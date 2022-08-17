@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 
 > That fuzzy, noisy punk\-blues hybrid
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,040 likes - 49 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,071 likes - 49 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,12 +26,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 16 | [Release The Bats](https://open.spotify.com/track/1gvhqMMbek9ezNtmu4txNJ) | [The Birthday Party](https://open.spotify.com/artist/5I2hMUcztc6QbzkyLskdt4) | [Junkyard](https://open.spotify.com/album/1JfIRGXDOQFlP1OGWzmvL5) | 2:31 |
 | 17 | [The Way I Walk](https://open.spotify.com/track/6dyku3NZZukkS8yhzWG9TU) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:40 |
 | 18 | [Christina](https://open.spotify.com/track/7ah8dRCjJFGCWstleG0PpD) | [Oblivians](https://open.spotify.com/artist/14UQmxJzeKtmgYzJ1sEJdi) | [Popular Favorites](https://open.spotify.com/album/6LXTRRrqJZYyuV0kIuaG7M) | 1:59 |
-| 19 | [Playboys](https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:47 |
-| 20 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
+| 19 | [Fishfight](https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk) | [The King Khan & BBQ Show](https://open.spotify.com/artist/4n0gvapwYbRpzU5Ov68B6P) | [The King Khan & Bbq Show](https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE) | 2:50 |
+| 20 | [Playboys](https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss) | [The Deadly Snakes](https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0) | [Ode To Joy](https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM) | 2:47 |
 | 21 | [Shakey Puddin'](https://open.spotify.com/track/7oK4hF6yoIN9HASBXI5hnN) | [Soledad Brothers](https://open.spotify.com/artist/4TAFRShd7vZ8HEp5yKdwo6) | [Root Damage](https://open.spotify.com/album/3lONx9tNtCCo47EkD0mYJf) | 3:25 |
 | 22 | [Ditch](https://open.spotify.com/track/3CzyTczZzTeJsFadFNh2po) | [The Jon Spencer Blues Explosion](https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG) | [Orange](https://open.spotify.com/album/6n6VzpTcnHFpGVwJhLNkoH) | 2:34 |
-| 23 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
-| 24 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
+| 23 | [Thunderbird ESQ](https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe) | [The Gories](https://open.spotify.com/artist/5tcr1ujTO3Q0WH2wkY7RWh) | [I Know You Be Houserockin'](https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p) | 2:18 |
+| 24 | [Too Much Sorrow](https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI) | [The Greenhornes](https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv) | [Dual Mono](https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk) | 4:07 |
 | 25 | [Rock & Roll Nurse](https://open.spotify.com/track/4LSmyBPIS2d9vGjsI9omRn) | [Compulsive Gamblers](https://open.spotify.com/artist/2aSQWCI5yCT8lHd7Mf9irY) | [Crystal Gazing Luck Amazing](https://open.spotify.com/album/09WsnxNzAYqmMhqcIshVZP) | 4:10 |
 | 26 | [I Can't Stop Thinking About It](https://open.spotify.com/track/6sy3IAvhOXtXrARDBEcIPJ) | [The Dirtbombs](https://open.spotify.com/artist/4wPKtZH8mW0PdLeWPneweb) | [Horndog Fest](https://open.spotify.com/album/6uPjk9Anj9wEdCwHMpwJTK) | 3:03 |
 | 27 | [Like That](https://open.spotify.com/track/0MqI4KwV5TMSO6rIhe2f3w) | [Mr\. Airplane Man](https://open.spotify.com/artist/6rDUd9tXAjOceaW2oc9ISP) | [Moanin'](https://open.spotify.com/album/0wEAMFrOaeqFuz3QcV4Xz7) | 3:08 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 36 | [Ida Honey \(Tell Me You'll Be Mine\)](https://open.spotify.com/track/1cvo2lJ0ui4OQ0n5y3ZUZV) | [The Milkshakes](https://open.spotify.com/artist/02jy0SdsT0bP4Hn0QkQTeG) | [Nothing Can Stop These Men](https://open.spotify.com/album/7KZAq0y0mk1uCx69axAzO7) | 2:15 |
 | 37 | [You'll Be Sorry Now](https://open.spotify.com/track/10Wc1g6PLRK6TPFsAXRqtU) | [Thee Mighty Caesars](https://open.spotify.com/artist/0inrs4SRUX8tumpMrZkkiD) | [Beware the Ides of March](https://open.spotify.com/album/0P1GRmI3zZ5fclhcxiixfV) | 2:11 |
 | 38 | [Hard Time Blues](https://open.spotify.com/track/1fvnhqEfj6ZH5qD6GFCkSZ) | [Laughing Hyenas](https://open.spotify.com/artist/6QGUx7mmJsow2JsuDbsFLq) | [Hard Times](https://open.spotify.com/album/0RcQ3VgenJTgydpoiWJMFm) | 7:19 |
-| 39 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
-| 40 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
+| 39 | [Summer Sun Blues](https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn) | [The Go](https://open.spotify.com/artist/2m0xdXsYglZKSzqVkZtFi8) | [Whatcha Doin'](https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX) | 3:37 |
+| 40 | [Round Every Corner](https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna) | [Thee Headcoatees](https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif) | [The Kids Are All Square \- This Is Hip & Girlsville](https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ) | 2:25 |
 | 41 | [Just One More](https://open.spotify.com/track/4rkGGnL3BM7t6JEsb2cw5G) | [Gallon Drunk](https://open.spotify.com/artist/1Stl5FcIQtQcRv30wlnH2b) | [You, The Night… and The Music](https://open.spotify.com/album/1OpcN4cNMDl8O0y5tPftwP) | 3:55 |
 | 42 | [Get It!](https://open.spotify.com/track/6AfEsXG7vy93DHEbWcgLuo) | [Reigning Sound](https://open.spotify.com/artist/1YRBRIN8d5Xa6vU1OKUc4t) | [Too Much Guitar](https://open.spotify.com/album/0jz530LCAylYogWMXVAVzK) | 2:03 |
 | 43 | [\(Sometimes You Got to Be\) Gentle](https://open.spotify.com/track/23SE56CtkeGrThZQdlDpDz) | [Heavy Trash](https://open.spotify.com/artist/1EDKHddaLUxX4ueVGJOGUr) | [Midnight Soul Serenade](https://open.spotify.com/album/2fuFzP7XWAWmWS4YVOZTKS) | 3:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYV2xtYQARbp.md) - [plain]
 | 48 | [Michigan Blues](https://open.spotify.com/track/5jPqW9HWJLarocC2z8vkrP) | [The Hentchmen](https://open.spotify.com/artist/7jKdcTLxl5PvTJ27fxQRwh) | [Broad Appeal](https://open.spotify.com/album/1lXul79dEZzoQn6texAGTx) | 2:10 |
 | 49 | [Insylum](https://open.spotify.com/track/644lYw5mjg4Ja1saKnpIXK) | [Oxbow](https://open.spotify.com/artist/4m47y2u5lJBKbakAv5YAh1) | [Serenade in Red](https://open.spotify.com/album/6KmMuPrapXIwvYobrSrlKh) | 6:10 |
 
-Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDYwMzcwMjViMWEyMzJkOWM2ZDNhMDU2OTkwNTAwZDFl`
+Snapshot ID: `MTY0ODQ5ODQ5OCwwMDAwMDAwMDc5MjVmOTdhOTI4NzNiZWY3ZDU4YWE4YTExNWUwYWU5`

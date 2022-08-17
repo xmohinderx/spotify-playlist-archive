@@ -1,12 +1,12 @@
 {
   "description": "Los corridos m\u00e1s placosos que suenan en las calles. Porte Diferente en portada. ",
-  "num_followers": 312697,
+  "num_followers": 313077,
   "original_name": "Corridos Tumbados",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MDQwMCwwMDAwMDAwMGZlYzUyYmI4OWUxODNkMDIxNjZmZmJmN2MzMTk5MmZl",
+  "snapshot_id": "MTY2MDY3NDkxOCwwMDAwMDAwMGM5MTIwMTIxMGZkYWEzNjg5MTg4ZTU1YzEzYmQyMjY1",
   "tracks": [
     {
       "added_at": "2022-08-12 05:00:00",
@@ -23,6 +23,26 @@
       "duration_ms": 221124,
       "name": "El Pochito",
       "url": "https://open.spotify.com/track/6HI6iABWQLnYiqdYFFe1F2"
+    },
+    {
+      "added_at": "2022-08-16 18:35:18",
+      "album": {
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8"
     },
     {
       "added_at": "2022-08-12 05:00:00",
@@ -875,22 +895,6 @@
       "duration_ms": 170035,
       "name": "El Piquetito",
       "url": "https://open.spotify.com/track/1A0ZO13qt12Z07I6pVTR1Q"
-    },
-    {
-      "added_at": "2022-08-12 05:00:00",
-      "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
     }
   ],
   "unique_name": "Corridos Tumbados",

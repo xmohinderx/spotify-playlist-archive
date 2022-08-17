@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\.  \(Cover:  The Game\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 402,604 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 402,677 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/1w3CY37sZRF124apyxxzH2) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:55 |
+| 1 | [Fortunate \(Feat\. Kanye West, Dreezy & CHILLER\)](https://open.spotify.com/track/1eZAwpXSwtoXYkm8GAZJAH) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [CHILLER](https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:55 |
 | 2 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
-| 3 | [The Black Slim Shady](https://open.spotify.com/track/4I3rFSrhlsrRiFn0G2CW7P) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 10:25 |
+| 3 | [The Black Slim Shady](https://open.spotify.com/track/1K1B8B7DM4pxJmFSLKDvwC) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 10:25 |
 | 4 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
 | 5 | [Haitian Scarface](https://open.spotify.com/track/6HW0HSK7j7FHeFlxqNdKR4) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Haitian Scarface](https://open.spotify.com/album/0Dvd4RQ44MBoK0eslFXDpP) | 2:25 |
 | 6 | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/track/6EqF11d0EPJwVynLXu3gvY) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Kenny Mason](https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv) | [Dance Now \(with Kenny Mason\)](https://open.spotify.com/album/5eROy9EU4485zbdxulTQ8U) | 3:47 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 98 | [Houston Girls](https://open.spotify.com/track/4qUa545emxu38xVRTLSbCk) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Houston Girls](https://open.spotify.com/album/4OumaO3iZmxeuYRE49s2wu) | 2:20 |
 | 99 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 
-Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDYyNWUzMWE0YThlYWRlYzE4NDk2ODg3YjBiMDFjNjI5`
+Snapshot ID: `MTY2MDIzMDAwMCwwMDAwMDAwMDlmMmY0ODU2NjAzYjU2OGJlODJjNWI2NWFkNzM1ZDlk`

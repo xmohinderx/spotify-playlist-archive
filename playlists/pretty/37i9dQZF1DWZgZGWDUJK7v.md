@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: After School Lessons for Unripe Apples\(세기말 풋사과 보습학원\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,674 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,829 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgZGWDUJK7v.md) - [plain]
 | 78 | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/track/5015XVgu1a3txZlHx1SaBM) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [99 \(Guide to Proper Romance X Standing Egg\)](https://open.spotify.com/album/1pXlGxPTb12oa0nnqKPO1g) | 3:32 |
 | 79 | [Cry Baby](https://open.spotify.com/track/7nF9c1EmRF3BNAtKDCwUAK) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 4:01 |
 
-Snapshot ID: `MTY2MDMzMDA2MywwMDAwMDAwMDU0NjE4MGE2NDZmNjI0NWVmMjNkYjUyZjZiY2QxZWMw`
+Snapshot ID: `MTY2MDY2MDEwMSwwMDAwMDAwMDE5ZmMwMzVkNDBhNGViMzc2Y2QxZjU3NTYzYmMzOWVl`

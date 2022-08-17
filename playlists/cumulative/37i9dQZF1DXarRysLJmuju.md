@@ -4,7 +4,7 @@
 
 > Keep up with all the latest pop hits\. Cover: Jessie Reyez
 
-476 songs - 1 day 0 hr 18 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
+477 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/72ei0AA5JxKKu1O5OfW8cY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,7 @@
 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 | 2022-07-29 |  |
 | [Naturally](https://open.spotify.com/track/2nQF3xgFXtXVUlaQNiUARI) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Naturally](https://open.spotify.com/album/3iAuliy1vZqifIJEfXRbK3) | 3:14 | 2022-02-18 | 2022-03-19 |
 | [never gonna let it \(but it's completely different\)](https://open.spotify.com/track/2pqS7ZHSMFiVuo6DMqSicS) | [Lubalin](https://open.spotify.com/artist/6lt3CXKfhLXjYl2VFD6vN4) | [never gonna let it \(but it's completely different\)](https://open.spotify.com/album/4R6JOvL2elz4Gw0vIVzEn1) | 3:11 | 2022-05-13 | 2022-06-11 |
-| [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 |  |
+| [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 | 2022-07-01 |  |
 | [New Suit](https://open.spotify.com/track/1auZ3DJqZsymv2rD5KCQas) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [New Suit](https://open.spotify.com/album/38XrEkU4TP9hAhE70eDCjC) | 2:32 | 2022-08-05 |  |
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2022-06-18 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 |  |
@@ -420,7 +420,8 @@
 | [this is what falling in love feels like](https://open.spotify.com/track/4UG2Fm0E98LhE2dlNxiAXx) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what falling in love feels like](https://open.spotify.com/album/61haUqRaA5Et20JVbArrmU) | 2:00 | 2022-02-16 | 2022-03-12 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 | 2022-06-18 |
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-07-23 |
-| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 |  |
+| [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 | 2022-08-12 |  |
+| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-17 |
 | [Tired](https://open.spotify.com/track/7u3Jn3uehu2mFCf1ETkrc2) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Tired](https://open.spotify.com/album/2IQM48O6WheEsU2W9SJBbQ) | 3:01 | 2021-12-31 | 2022-02-12 |
 | [Tongue](https://open.spotify.com/track/2bJgUPmlG2o6A0qfZJgkdh) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Tongue](https://open.spotify.com/album/0TNM4CTPP3WUA7oZcpe5cN) | 2:13 | 2022-07-01 |  |
 | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/track/2SF0GLxRCm3IcYoVagrKhj) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Too Much \(feat\. Lucky Daye\)](https://open.spotify.com/album/72sbcb1TU3tshd27FuJ1Gi) | 3:35 | 2022-05-13 | 2022-06-04 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 
 > Entre estrellas pop y el auge del grunge, en Argentina, detrás de Dynamo floreció el nuevo rock argentino\. Sonido alternativo y vanguardista\. Foto: <a href="spotify:user:spotify:playlist:37i9dQZF1DXas2oQWNGMlz">Babasónicos</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,678 likes - 33 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,681 likes - 33 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 4 | [Suficiente](https://open.spotify.com/track/07lP2RVrouzThLF2YrQhNY) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Suficiente](https://open.spotify.com/album/6QHcLH6gONOg3cklJI5JyI) | 4:04 |
 | 5 | [Kanishka](https://open.spotify.com/track/54hZ4XVJ0xdp6teJVyHgn8) | [Los Brujos](https://open.spotify.com/artist/3DnlTB4No4W6fO6Qvghnm4) | [Fin De Semana Salvaje](https://open.spotify.com/album/2IUqHJOcTUpX8xXdjnpcdo) | 2:38 |
 | 6 | [Trece](https://open.spotify.com/track/5aVlOkWLnXtFGeoTQxv48E) | [Todos Tus Muertos](https://open.spotify.com/artist/4Pi85oI4dmppSqROLj7rgy) | [Dale Aborigen](https://open.spotify.com/album/212ondLs1xEcRuSM0iu70X) | 2:20 |
-| 7 | [Siempre Acampa](https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 3:44 |
-| 8 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
+| 7 | [Río Paraná](https://open.spotify.com/track/3ErnpA5sFpJbCQTkwp7CEK) | [Suarez](https://open.spotify.com/artist/3UmO1Acb6OVGSfiLnYe69n) | [Excursiones](https://open.spotify.com/album/4snJPKc4DWPKigaOSJpsKx) | 3:08 |
+| 8 | [Siempre Acampa](https://open.spotify.com/track/1o1EKep0fZJGlSyL6oAuLp) | [Peligrosos Gorriones](https://open.spotify.com/artist/6po2f29ob2NrxTHXbsSS9i) | [Peligrosos Gorriones](https://open.spotify.com/album/2CT63e7WwSrHiEPpLcn41S) | 3:44 |
 | 9 | [Viva Satana](https://open.spotify.com/track/0loEmNQULerxi9kzWW2g6L) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Dopadromo](https://open.spotify.com/album/3ff4NiG7SdGKqAaHXd35xl) | 3:51 |
 | 10 | [Secuencia Inicial \- Remasterizado 2007](https://open.spotify.com/track/2fbNuOkVZWhccPEqnuxXvk) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Dynamo \(Remastered\)](https://open.spotify.com/album/4bfwXuecOmNVlPM5RStAiQ) | 3:26 |
 | 11 | [Marea de Venus](https://open.spotify.com/track/0SPPSkIttUSFTmHbyLmLUG) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W), [Daniel Melero](https://open.spotify.com/artist/5ohM2ZA35IpUZNIAiK4RoY) | [Colores Santos](https://open.spotify.com/album/51R5xJIi26jma8Bsr4rsZ2) | 4:22 |
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0pl0yubzJM.md) - [plain]
 | 32 | [Rockstar](https://open.spotify.com/track/7sUYCPMAKQFGn05M7bpTMz) | [Santos Inocentes](https://open.spotify.com/artist/5fs9bxwPJ4ofGlFFY67U8I) | [Megaton](https://open.spotify.com/album/5OEbnIMia7htVVS2xscmg6) | 4:27 |
 | 33 | [Manzana de Metal](https://open.spotify.com/track/34o7cYPQGPVxSfsSk5w6lE) | [Altocamet](https://open.spotify.com/artist/0ZqTqI2yIMAtxEfDi0ZODe) | [Nada Es Exacto Salvo la Medida de los Sueños](https://open.spotify.com/album/1n2cKxKtxlIRvzTIkShvNM) | 5:18 |
 
-Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMGU5NGUyOGUyNzNjYzNmOWNjMDE3N2U1NWM0ZDQyMmE1`
+Snapshot ID: `MTU4NDEwNTY4OCwwMDAwMDAwMGVlOWYyMTU4MzEzY2VmNGM1N2MwMzgzYzQ1ZTFlYjE2`

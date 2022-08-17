@@ -1,12 +1,12 @@
 {
   "description": "Conforto para beber gin t\u00f4nica, mojito ou caipirinha sem precisar levantar do sof\u00e1.",
-  "num_followers": 105690,
+  "num_followers": 105708,
   "original_name": "Drinks no Sof\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Mzk5MiwwMDAwMDAwMDlhZDM2N2E5OWJlZjY3Y2VmYWE3OTVkM2M0YWMxNzUw",
+  "snapshot_id": "MTY2MDI3Mzk5MiwwMDAwMDAwMGE5NWFmNTZkYWM0NmFjZGU3NWZmNDkwN2I0NGI3MmMx",
   "tracks": [
     {
       "added_at": "2022-08-12 03:13:12",
@@ -131,22 +131,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Honestly, Nevermind",
-        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 254407,
-      "name": "Flight's Booked",
-      "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 196730,
       "name": "Billie Bossa Nova",
       "url": "https://open.spotify.com/track/2KnuaZYoGzDoHiBTNYOTXG"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Honestly, Nevermind",
+        "url": "https://open.spotify.com/album/3cf4iSSKd8ffTncbtKljXw"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 254407,
+      "name": "Flight's Booked",
+      "url": "https://open.spotify.com/track/6Yj7Zhxt73uvwFFvzQXdxO"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
+        "name": "my future",
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 208155,
+      "name": "my future",
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 218357,
       "name": "Midas",
       "url": "https://open.spotify.com/track/6VNooTY5w9A9wg1YUsEbKB"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
-        "name": "my future",
-        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 208155,
-      "name": "my future",
-      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -631,26 +631,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "The Best of Sade",
         "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 214578,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/3G9zeErd0kMx012kmYUrm7"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
-    },
-    {
-      "added_at": "2022-08-12 03:13:12",
-      "album": {
         "name": "TO FEEL ALIVE EP",
         "url": "https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-08-12 03:13:12",
       "album": {
-        "name": "Begin",
-        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
       },
       "artists": [
         {
-          "name": "LION BABE",
-          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 250706,
-      "name": "Treat Me Like Fire",
-      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/23bwujVYKeGdbcLd2LQxVo"
     },
     {
       "added_at": "2022-08-12 03:13:12",
@@ -1103,6 +1087,22 @@
       "duration_ms": 170868,
       "name": "Love Song (feat. Glasses)",
       "url": "https://open.spotify.com/track/0fD6vPYWty2Jy4VVozWzfp"
+    },
+    {
+      "added_at": "2022-08-12 03:13:12",
+      "album": {
+        "name": "Begin",
+        "url": "https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn"
+      },
+      "artists": [
+        {
+          "name": "LION BABE",
+          "url": "https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE"
+        }
+      ],
+      "duration_ms": 250706,
+      "name": "Treat Me Like Fire",
+      "url": "https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl"
     }
   ],
   "unique_name": "Drinks no Sof\u00e1",

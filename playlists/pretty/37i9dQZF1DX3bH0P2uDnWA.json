@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 299858,
+  "num_followers": 300033,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGUzOGNmMDdhYTY5ZTVmZTZkYzk0N2Y1ZTlmY2E4MmVh",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDBkOGM0NDI3OWNjNzM3ZDRjZWRjMDNiMmZhMTdmYmRl",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY"
     },
     {
-      "added_at": "2022-02-11 05:01:00",
-      "album": {
-        "name": "POP SONG",
-        "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
-      },
-      "artists": [
-        {
-          "name": "Kenshi Yonezu",
-          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
-        }
-      ],
-      "duration_ms": 199186,
-      "name": "POP SONG",
-      "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "<|\u00ba_\u00ba|>",
@@ -199,6 +183,22 @@
       "duration_ms": 229804,
       "name": "Lone Digger",
       "url": "https://open.spotify.com/track/0thLhIqWsqqycEqFONOyhu"
+    },
+    {
+      "added_at": "2022-02-11 05:01:00",
+      "album": {
+        "name": "POP SONG",
+        "url": "https://open.spotify.com/album/0pok5Oa8DgsXdZpsnpAbqX"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "duration_ms": 199186,
+      "name": "POP SONG",
+      "url": "https://open.spotify.com/track/1rdr5D1dSqbEmLa97l36NZ"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -403,22 +403,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Show Breaks",
-        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
-      },
-      "artists": [
-        {
-          "name": "AlgoRythmik",
-          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
-        }
-      ],
-      "duration_ms": 218796,
-      "name": "Andrew's Break",
-      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Black Betty - Single",
         "url": "https://open.spotify.com/album/6NFKb9CY2JbbnsethcARUX"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 189956,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/77wq6jYIE2g0VcMjRfHdY0"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Show Breaks",
+        "url": "https://open.spotify.com/album/1NXXCKZkUy2yG4i2kkTY42"
+      },
+      "artists": [
+        {
+          "name": "AlgoRythmik",
+          "url": "https://open.spotify.com/artist/2KyHX7CvFoSdXMmuazwuAe"
+        }
+      ],
+      "duration_ms": 218796,
+      "name": "Andrew's Break",
+      "url": "https://open.spotify.com/track/7zGeoy0A1F7NU0wgI4mqoY"
     },
     {
       "added_at": "2021-03-19 05:01:00",
@@ -557,6 +557,26 @@
       "url": "https://open.spotify.com/track/7qrsRH31rSV2ygzDYuzVUX"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Say What (2019)",
+        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
+      },
+      "artists": [
+        {
+          "name": "Cut Capers",
+          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
+        },
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        }
+      ],
+      "duration_ms": 193809,
+      "name": "Say What - Pisk Electro Swing Remix",
+      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
+    },
+    {
       "added_at": "2022-05-13 04:03:00",
       "album": {
         "name": "Boring 20s",
@@ -579,26 +599,6 @@
       "duration_ms": 170619,
       "name": "Boring 20s",
       "url": "https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
-      },
-      "artists": [
-        {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -977,20 +977,20 @@
       "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
-      "added_at": "2021-09-03 04:01:00",
+      "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Code Red",
-        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
+        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
       },
       "artists": [
         {
-          "name": "Little Violet",
-          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+          "name": "Carola Jasmins",
+          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
         }
       ],
-      "duration_ms": 228993,
-      "name": "Code Red",
-      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
+      "duration_ms": 200559,
+      "name": "Take It Easy",
+      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
     },
     {
       "added_at": "2021-05-21 04:01:00",
@@ -1047,6 +1047,22 @@
       "duration_ms": 202946,
       "name": "Hep Cat Boogie",
       "url": "https://open.spotify.com/track/30gkKT8SE88QPZgii1ETI4"
+    },
+    {
+      "added_at": "2021-09-03 04:01:00",
+      "album": {
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/78qGqKcqqQVg3EfLJVnzX9"
+      },
+      "artists": [
+        {
+          "name": "Little Violet",
+          "url": "https://open.spotify.com/artist/6IPvyC9odisPFeT9Gc43EE"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "Code Red",
+      "url": "https://open.spotify.com/track/7IX88kAnkatHCA7M1OgrNN"
     },
     {
       "added_at": "2021-07-30 04:01:00",
@@ -1119,22 +1135,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Electro Carousel Club Night (Selected by Dr Cat)",
-        "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
-      },
-      "artists": [
-        {
-          "name": "Carola Jasmins",
-          "url": "https://open.spotify.com/artist/3rbi2ewJrPClkNNr0K1Pgo"
-        }
-      ],
-      "duration_ms": 200559,
-      "name": "Take It Easy",
-      "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "1925",
         "url": "https://open.spotify.com/album/02JcbHQKbM8u2wRO5WHaOe"
       },
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
-      "added_at": "2021-02-19 05:01:00",
-      "album": {
-        "name": "Bongo Chic",
-        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
-      },
-      "artists": [
-        {
-          "name": "Minimatic",
-          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "The Jungle Jive",
-      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
-    },
-    {
       "added_at": "2020-10-30 09:06:04",
       "album": {
         "name": "Bass Age Big Band",
@@ -1207,6 +1191,22 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2021-02-19 05:01:00",
+      "album": {
+        "name": "Bongo Chic",
+        "url": "https://open.spotify.com/album/3eumsvF7CLVIS3YgYVv052"
+      },
+      "artists": [
+        {
+          "name": "Minimatic",
+          "url": "https://open.spotify.com/artist/7taR4NVoGObH3v6708KBgV"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "The Jungle Jive",
+      "url": "https://open.spotify.com/track/7ylvjuIk3hO7K8JTgtoLEd"
     },
     {
       "added_at": "2022-02-11 05:01:00",
@@ -1245,6 +1245,22 @@
       "url": "https://open.spotify.com/track/6mF2SMWAGcw9rE0TuJv1uu"
     },
     {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Day & Night",
+        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
+      },
+      "artists": [
+        {
+          "name": "Odd Chap",
+          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Day & Night",
+      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
+    },
+    {
       "added_at": "2021-04-09 04:01:00",
       "album": {
         "name": "Ma\u00f1ana (Jojo Effect & Gardener of Delight Remix)",
@@ -1267,22 +1283,6 @@
       "duration_ms": 168000,
       "name": "Ma\u00f1ana - Jojo Effect & Gardener of Delight Remix",
       "url": "https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Day & Night",
-        "url": "https://open.spotify.com/album/3XhtlVfAz9MoDFuOilR7EE"
-      },
-      "artists": [
-        {
-          "name": "Odd Chap",
-          "url": "https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Day & Night",
-      "url": "https://open.spotify.com/track/4zCxvn6qHK3CosaM3Azaii"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1319,6 +1319,26 @@
       "duration_ms": 191506,
       "name": "Never let you go",
       "url": "https://open.spotify.com/track/5IK9dSUSzioE9lilLi4AEi"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "The Nu Swing Experience",
+        "url": "https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw"
+      },
+      "artists": [
+        {
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Cristina Renzetti",
+          "url": "https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6"
+        }
+      ],
+      "duration_ms": 164582,
+      "name": "Marcianito - Cristina Renzetti Vocal Version",
+      "url": "https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1375,26 +1395,6 @@
       "duration_ms": 330893,
       "name": "Speed Dating An Arsonist",
       "url": "https://open.spotify.com/track/2xaaHJRbaWRxgiNxo5NeuK"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
-        "name": "Butterfly (Remixes)",
-        "url": "https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX"
-      },
-      "artists": [
-        {
-          "name": "Swingrowers",
-          "url": "https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        }
-      ],
-      "duration_ms": 350476,
-      "name": "Butterfly - Wolfgang Lohr Remix",
-      "url": "https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10"
     }
   ],
   "unique_name": "Electro Swing",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Ozuna y Tokischa tienen el ritmo que mueve Latinoamérica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 456,070 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 456,252 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

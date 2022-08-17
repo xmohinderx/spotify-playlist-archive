@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-185 songs - 17 hr 7 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
+186 songs - 17 hr 11 min - [published](https://open.spotify.com/playlist/2a7pWapwJkvE7k2BSyXseH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Abducted by Aliens \- Original Mix](https://open.spotify.com/track/3mrlDJmGdbW7wZxnvLJXo5) | [Atromna](https://open.spotify.com/artist/1u11cHfaKyffkPQ6i8sFLW), [Misaya](https://open.spotify.com/artist/0uMYB7w6oXQDdyVKNoxtQD) | [Psychedelic Dimensions](https://open.spotify.com/album/0XdJUFA5QeWlK4TXSMimGE) | 8:43 | 2022-04-15 | 2022-07-20 |
 | [Aftermath](https://open.spotify.com/track/5Mfs9l7PBSu1cQUHRg7vFP) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Aftermath](https://open.spotify.com/album/2MADUxhXoaX6pJ4IrQy619) | 5:15 | 2022-04-15 | 2022-07-29 |
 | [Aliyu](https://open.spotify.com/track/6UO97Q5Rbg7iLAcIiAIZHr) | [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Billx](https://open.spotify.com/artist/0Ldjd0Z66CJ0rChWXx0jzB), [Anna Timofei](https://open.spotify.com/artist/4srvcFuQaZHS0KyBvFApWG) | [Aliyu](https://open.spotify.com/album/7LN85I2vF2ogylhUePHpsY) | 3:51 | 2022-04-15 |  |
+| [All Gone](https://open.spotify.com/track/6imZUICpik2ZVecP0MO3aF) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN) | [All Gone](https://open.spotify.com/album/3h9i8vXutqHGH5QkxUEG6o) | 3:49 | 2022-08-11 |  |
 | [All The Lights](https://open.spotify.com/track/0UIUbB6k3gtYvqvHJ1J1Zm) | [Harlekin](https://open.spotify.com/artist/4VxfRdFYSShHLld3Wl1dl8) | [All The Lights](https://open.spotify.com/album/1rae8TeKdgDmPQKP0v8OVu) | 3:37 | 2022-06-16 | 2022-06-30 |
 | [Another Dimension \- Electric Universe Remix](https://open.spotify.com/track/1CWX1NxYcjUwbOqiNUBQ7A) | [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo), [Electric Universe](https://open.spotify.com/artist/55SDgogZ1SRUhIgmGvLyhD) | [Another Dimension \(Electric Universe Remix\)](https://open.spotify.com/album/0xJ6UWc2CL0opk0U6q0CM7) | 7:40 | 2022-04-15 | 2022-07-29 |
 | [Around the Stars](https://open.spotify.com/track/5zEkJhlypnzAjacqTemCea) | [Outsiders](https://open.spotify.com/artist/2e9z5hUA7KMiTHfT0fSJfE), [Faders](https://open.spotify.com/artist/1to02GbmzsvkwAWDtKNtwn) | [Around the Stars](https://open.spotify.com/album/3nCuX2AZ40qFzfgD2o62N1) | 7:20 | 2022-04-15 | 2022-07-29 |
@@ -59,7 +60,7 @@
 | [Foresight](https://open.spotify.com/track/3Gu3dF2xLaOI3fVPlJmMxw) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Thorment](https://open.spotify.com/artist/1NnRsALz6e8q4avnRof6cd), [Synna](https://open.spotify.com/artist/1vBNxnNqXVC0oY4W7iOKNr) | [Foresight](https://open.spotify.com/album/5h8eQnis3E78Hf5n9hUFPa) | 5:03 | 2022-04-22 | 2022-07-25 |
 | [Formula](https://open.spotify.com/track/3iCmMzhUFzYQpWFchFrDyW) | [Dzp](https://open.spotify.com/artist/5Nkd6PHu2lOqCnCboV3x3D), [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B) | [Formula](https://open.spotify.com/album/5g4xZHRd0TKUyCTkhYwbXJ) | 4:31 | 2022-07-07 |  |
 | [Fragments of Insanity](https://open.spotify.com/track/3ufcdGKKbcNZq2bZ183HiI) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Fragments of Insanity](https://open.spotify.com/album/59G4Gwp024K3NUgdK5soeO) | 7:28 | 2022-04-15 | 2022-07-29 |
-| [Fragments of Insanity](https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Confused Miracles](https://open.spotify.com/album/4fCpDzJSNpYNsId0tNCadn) | 7:28 | 2022-07-28 |  |
+| [Fragments of Insanity](https://open.spotify.com/track/3wzc6WSnx2HvJLHm5URrU3) | [Gaudium](https://open.spotify.com/artist/7DSaZpbJCzUcTX1D2oglwg) | [Confused Miracles](https://open.spotify.com/album/4fCpDzJSNpYNsId0tNCadn) | 7:28 | 2022-07-28 | 2022-08-17 |
 | [Free Magic](https://open.spotify.com/track/2v8Pb78jpwnPo47qbIForS) | [Mou5ZyZZ](https://open.spotify.com/artist/6H2LGB5CAdk0wlV0ehb0B2), [Lollypop Lane](https://open.spotify.com/artist/6OBSrFdcO8PTjgCPqYB9FS) | [Free Magic](https://open.spotify.com/album/2y71Dbu0HEP3JI2uQJnVCi) | 2:36 | 2022-04-15 | 2022-04-29 |
 | [Freetown](https://open.spotify.com/track/4JqZGVmqFQMMezLeIdcClY) | [Phaxe](https://open.spotify.com/artist/4Pgbnc1zRPquMFR4iPH3MN), [Querox](https://open.spotify.com/artist/6As8Iapr8t7LdWNBIGlTtn) | [Freetown](https://open.spotify.com/album/2s45Lf1MC6IGJNRccgN8WU) | 6:29 | 2022-04-15 |  |
 | [Frequency \- Aura Vortex Remix](https://open.spotify.com/track/057ud3gUiKPOJ6CY696J4I) | [Day Din](https://open.spotify.com/artist/1YzhPssoLV65PIChO3Uri9), [Coming Soon!!!](https://open.spotify.com/artist/4Iht6hiRR5kov66LO7fcOu), [Aura Vortex](https://open.spotify.com/artist/5T6ATRUoiqVQpcQTK94ies) | [Frequency \(Aura Vortex Remix\)](https://open.spotify.com/album/0YCowgi0iH0oCjtfFtuWUS) | 7:15 | 2022-04-15 |  |

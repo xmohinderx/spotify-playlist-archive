@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 
 > Classics from the Baroque era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,487 likes - 44 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,606 likes - 44 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXjj6kdiviS0.md) - [plain]
 | 43 | [Suite in G major: Prélude \- lentement](https://open.spotify.com/track/14stuPc6g7QVOQt2FSMJJM) | [Marin Marais](https://open.spotify.com/artist/3iPWeMA0avSRKrPKcLaTDE), [Mieneke van der Velden](https://open.spotify.com/artist/6kTE2t6fPmH5DVe7l91Bdp), [Glen Wilson](https://open.spotify.com/artist/35JsAHbNzAnSImdGxEeBhs) | [Marais: Pieces de Viole](https://open.spotify.com/album/0xTKwdmMk6FxXmdOMQQ8q6) | 2:27 |
 | 44 | [Air on a G String](https://open.spotify.com/track/0mD1a7haZKdX9I0oPywrMb) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:49 |
 
-Snapshot ID: `MTY1NjA0MzI2MCwwMDAwMDAwMGIwNmFmNzQxYzJjYmM5OGFjNDRkN2E3YTQ1OWVlNmI0`
+Snapshot ID: `MTY2MDY1NjI3NCwwMDAwMDAwMGI1ZjQ1MDBmMmU4ODBjMTA4ODE5MTlhOWU0YmE3YTY4`

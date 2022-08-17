@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 
 > Horns up for this metal soundtrack for headbangers of all ages!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,515 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,755 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 17 | [Paranoid \- 2012 \- Remaster](https://open.spotify.com/track/1Y373MqadDRtclJNdnUXVc) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [Paranoid \(Remaster\)](https://open.spotify.com/album/6r7LZXAVueS5DqdrvXJJK7) | 2:48 |
 | 18 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 |
 | 19 | [My Own Summer \(Shove It\)](https://open.spotify.com/track/1158ckiB5S4cpsdYHDB9IF) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 3:34 |
-| 20 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
-| 21 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
+| 20 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 |
+| 21 | [Breaking the Law](https://open.spotify.com/track/2RaA6kIcvomt77qlIgGhCT) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 2:33 |
 | 22 | [Nothin' But A Good Time \- Remastered 2006](https://open.spotify.com/track/2V8KvnD5LVeeDChMWEkSzC) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Open Up And Say...Ahh! \(20th Anniversary Edition\)](https://open.spotify.com/album/2AMWVB3FWknjcMeb6hMZnd) | 3:44 |
 | 23 | [Runnin' with the Devil \- 2015 Remaster](https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 3:34 |
 | 24 | [Schism](https://open.spotify.com/track/55mJleti2WfWEFNFcBduhc) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 6:43 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 36 | [A Tout Le Monde \- Remastered 2004](https://open.spotify.com/track/6olS0TmHmsGr0hXtcBsiVM) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Youthanasia \(Expanded Edition\)](https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob) | 4:22 |
 | 37 | [Rainbow in the Dark](https://open.spotify.com/track/2PpNgmrS9mAyrkRAwn6YPq) | [Dio](https://open.spotify.com/artist/4CYeVo5iZbtYGBN4Isc3n6) | [Holy Diver](https://open.spotify.com/album/2ivNJLSx8Rbvnsvcn01Yt3) | 4:16 |
 | 38 | [The Trooper \- 2015 Remaster](https://open.spotify.com/track/1Ab3hhOw1TJWDgO10vlxNZ) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Piece of Mind \(2015 \- Remaster\)](https://open.spotify.com/album/6iVSpex7UohpwPOYZEYmvm) | 4:12 |
-| 39 | [Living After Midnight](https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:30 |
-| 40 | [Eruption \- 2015 Remaster](https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 1:42 |
+| 39 | [Eruption \- 2015 Remaster](https://open.spotify.com/track/2tAeN2TKlQLOoSPXtARzBV) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [Van Halen \(Remastered\)](https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ) | 1:42 |
+| 40 | [Living After Midnight](https://open.spotify.com/track/0IXpUl1fn2QZcBavfuq0H4) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:30 |
 | 41 | [Silent Lucidity \- Remastered 2003](https://open.spotify.com/track/6OSyCAmXT4Gkd3OQ2aPOaF) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 5:47 |
 | 42 | [Let There Be Rock](https://open.spotify.com/track/753KutoAy00apPsplMRetG) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Let There Be Rock](https://open.spotify.com/album/3JwFNl80WWeXPiKEjIFbqa) | 6:06 |
 | 43 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEar7YuhxIt.md) - [plain]
 | 49 | [Madhouse](https://open.spotify.com/track/76BYv24CcZt2u94JRjmATX) | [Anthrax](https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP) | [Spreading The Disease](https://open.spotify.com/album/0qEFMrunmeRHqzI9xAnu9L) | 4:19 |
 | 50 | [Flying Whales](https://open.spotify.com/track/5OjCsHeByDYEGxMrb1z8KQ) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/0AvFF0HlQYvYKHaRURGZBs) | 7:44 |
 
-Snapshot ID: `MTY0OTc5NjIyNywwMDAwMDAwMDAyMjgwZDI5ZTk3MWYzYTcyZjZhNjVjZWZlYmE2ZGE2`
+Snapshot ID: `MTY0OTc5NjIyNywwMDAwMDAwMDQxODRiYjQxMDFiY2Q1NjNkODNkZmUyMjdkM2RkNjJk`

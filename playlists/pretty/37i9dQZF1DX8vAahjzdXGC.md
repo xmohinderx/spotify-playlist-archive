@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: NIKI
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,414 likes - 86 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,424 likes - 86 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

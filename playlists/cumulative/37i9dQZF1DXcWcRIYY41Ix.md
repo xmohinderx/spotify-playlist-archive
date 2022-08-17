@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Pedro Pastor
 
-280 songs - 17 hr 22 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
+281 songs - 17 hr 27 min - [published](https://open.spotify.com/playlist/7ol1MtyC0pTpJPNWYLEPMP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Al Lado del Camino](https://open.spotify.com/track/4HTyc2zmVpe8JW9QcsHNX0) | [Yacaré Manso](https://open.spotify.com/artist/0G6VQf773ZIIYkKs8QnW1V), [Noelia Recalde](https://open.spotify.com/artist/26O45xhjbZjSY8vubvACRv) | [Al Lado del Camino](https://open.spotify.com/album/7r8SIi5iAHxJiDOR4XtVzW) | 4:47 | 2021-12-24 | 2022-07-29 |
 | [Al Margen de Ojalá](https://open.spotify.com/track/5cBArlwbcWbtM1bojUohLx) | [Andrés Iwasaki](https://open.spotify.com/artist/62uG1tWKBp8gheU91KT1Fj) | [Al Margen de Ojalá](https://open.spotify.com/album/1r5ZAPQ4xnDARkAXaTXDus) | 5:26 | 2021-12-24 |  |
 | [Al oírla cantar](https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Alex Serra](https://open.spotify.com/artist/3iUmseZo1IoMlJvhjxPy4r) | [Al oírla cantar](https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h) | 5:41 | 2021-12-24 |  |
+| [Alfonsina Y El Mar](https://open.spotify.com/track/2LDFwmbyd2PsVEZFCsZFZZ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina Y El Mar](https://open.spotify.com/album/529vSkrdGV4B5ZdpglN1CA) | 4:39 | 2022-07-22 |  |
 | [Alfonsina y el Mar](https://open.spotify.com/track/4QknKPpA2m8Yw8vQimkKHQ) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Alfonsina y el Mar](https://open.spotify.com/album/06MI02YQmQL6Vz2M4EckSg) | 4:39 | 2021-12-24 | 2022-07-23 |
 | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/track/4YKIrD8XK51XIsqJEpB1Q0) | [Tu Otra Bonita](https://open.spotify.com/artist/4dGKPIQgs3bhGLPaPXLl3a), [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Alitas de mar \(feat\. Juanito Makandé\)](https://open.spotify.com/album/1JH19MdY6rtR8AZziT1vcw) | 3:14 | 2021-12-24 |  |
 | [Alma Mantra](https://open.spotify.com/track/5LA6XlS8iZGbRlO4Z6lr4G) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [Grupo Cluster](https://open.spotify.com/artist/6UaPnqedipLYiyEIj4edj6) | [El Viejo Comunista \(+ Adelantos\)](https://open.spotify.com/album/5SCD19jQdSs6g7RtJup5Po) | 3:09 | 2021-12-24 | 2022-07-29 |
@@ -176,7 +177,7 @@
 | [Mundo Nuevo](https://open.spotify.com/track/5QmJ1Xlq9C5COqvsnhS1Jb) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Mundo Nuevo](https://open.spotify.com/album/6OmDRn61cZSaDwEgTkSlgG) | 3:21 | 2021-12-24 | 2022-07-29 |
 | [nana triste](https://open.spotify.com/track/721Lxh9pNJJhNERON4Zjmw) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP), [Guitarricadelafuente](https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL) | [Otras Alas](https://open.spotify.com/album/0FIpAJ1ypjj4nzIHq6XLF4) | 3:07 | 2021-12-24 |  |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2021-12-24 |  |
-| [Negro o Blanco](https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Negro o Blanco](https://open.spotify.com/album/2dVfSIQ6V3seCzIbyjxypF) | 2:51 | 2022-07-22 |  |
+| [Negro o Blanco](https://open.spotify.com/track/6fK7BYwuJyLR7EYSPnSCf7) | [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Negro o Blanco](https://open.spotify.com/album/2dVfSIQ6V3seCzIbyjxypF) | 2:51 | 2022-07-22 | 2022-08-17 |
 | [Ni Una Cosa Ni la Otra](https://open.spotify.com/track/41qlbgS7KPPiuvJ29pRW6Y) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7), [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Ni Una Cosa Ni La Otra](https://open.spotify.com/album/6mRskuWBiKC2L4kHAdsqSX) | 4:31 | 2022-02-25 | 2022-03-13 |
 | [Nieve De Arrayán](https://open.spotify.com/track/7a7JZxPwTGxzawTrprrVkN) | [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [Nieve De Arrayán](https://open.spotify.com/album/5A8t6J9w1Pykdm5PLundCA) | 3:39 | 2021-12-24 | 2022-07-29 |
 | [Niña de mis ojos](https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 5:12 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 
 > Rock that was on repeat during the summers of the 1990s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,734 likes - 90 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,846 likes - 90 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 79 | [Slide](https://open.spotify.com/track/0eG5CqXwJpa5MBjYyg1lRm) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Greatest Hits Volume One \- The Singles](https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO) | 3:33 |
 | 80 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 81 | [Blaze Of Glory](https://open.spotify.com/track/0XwjdpwvEwukcg3XU4Ibzt) | [Jon Bon Jovi](https://open.spotify.com/artist/6h2bWHWTJL38N8dqocVaif) | [Cross Road](https://open.spotify.com/album/0tBfLeYdX3oBnl5NVpot4m) | 5:40 |
-| 82 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
-| 83 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
+| 82 | [Driftwood](https://open.spotify.com/track/40l4DYTW2jfArPOL63YogV) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [The Man Who](https://open.spotify.com/album/1cUp1HbKtGF7CiSl962vH5) | 3:33 |
+| 83 | [Stupid Girl](https://open.spotify.com/track/3fNf71Ktya4CYMqGM6eRud) | [Garbage](https://open.spotify.com/artist/6S0GHTqz5sxK5f9HtLXn9q) | [Garbage \(20th Anniversary Deluxe Edition/Remastered\)](https://open.spotify.com/album/1Vze7jtjAVQOdIIQ8oO2X7) | 4:18 |
 | 84 | [Cradle Of Love](https://open.spotify.com/track/5TSANSqPTD6nBG0NSJWmVB) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Charmed Life](https://open.spotify.com/album/4GCciwt8efweJZ4AEEvnTQ) | 4:41 |
 | 85 | [Hold Me, Thrill Me, Kiss Me, Kill Me \- From 'Batman Forever'](https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1990\-2000](https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv) | 4:44 |
 | 86 | [Pick A Part That's New](https://open.spotify.com/track/5ENmb2WrPdGlSAYBaZrEoF) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Performance And Cocktails](https://open.spotify.com/album/3L8K0FWsWGSHvYj56skH00) | 3:33 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kznM9KyewU.md) - [plain]
 | 89 | [Awful](https://open.spotify.com/track/6O0hdCHa2K3zXM4OK9tsmA) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Celebrity Skin](https://open.spotify.com/album/2KE8WCHtD8qnAxXeIzNEId) | 3:16 |
 | 90 | [Even Better Than The Real Thing](https://open.spotify.com/track/4bK2vKMdkS0rNhbzRqAZe0) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Achtung Baby \(Deluxe Edition\)](https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe) | 3:41 |
 
-Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMDU3ODlkMjdiMWYyODdkNjFmODYzN2QzNjI2MDE5ZDU3`
+Snapshot ID: `MTY1MDkxNjAwNCwwMDAwMDAwMGI3Njg1NzNlMDcxNGNlODVhNjhkNTI5NjMxNzJjMzlh`

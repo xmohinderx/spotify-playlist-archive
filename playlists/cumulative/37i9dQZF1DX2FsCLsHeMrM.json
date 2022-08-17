@@ -630,6 +630,24 @@
     },
     {
       "album": {
+        "name": "A Weird Kinda Wonderful",
+        "url": "https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa"
+      },
+      "artists": [
+        {
+          "name": "N'Dambi",
+          "url": "https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311453,
+      "name": "Can't Change Me",
+      "url": "https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9"
+    },
+    {
+      "album": {
         "name": "Changes",
         "url": "https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90"
       },
@@ -2003,7 +2021,7 @@
       ],
       "date_added": "2021-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 199964,
       "name": "Jeri Curl",
       "url": "https://open.spotify.com/track/6452rfXGmvPslUbp9NX7Cw"

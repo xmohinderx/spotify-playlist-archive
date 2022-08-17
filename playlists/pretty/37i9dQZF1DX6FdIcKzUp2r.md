@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 
 > Work or rest with these gems from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,955 likes - 80 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,039 likes - 80 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
-| 2 | [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 |
+| 1 | [Back to the Old House \- 2011 Remaster](https://open.spotify.com/track/6LUGvXEAK8WxIBYK43uoTb) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [Louder Than Bombs](https://open.spotify.com/album/45StnugV9WQMQwk4rRoTy8) | 3:06 |
+| 2 | [Englishman In New York](https://open.spotify.com/track/4KFM3A5QF2IMcc6nHsu3Wp) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [...Nothing Like The Sun](https://open.spotify.com/album/3mVCQqgwEvwD7lHy9KHi7R) | 4:27 |
 | 3 | [Broken Wings](https://open.spotify.com/track/78FHUZRbFDCG6VkRAQdFLm) | [Mr\. Mister](https://open.spotify.com/artist/7Bah8E0kCETqEpAHI6CPzQ) | [Welcome To The Real World](https://open.spotify.com/album/682sQ449vmcJXS2AGIMrsl) | 5:43 |
 | 4 | [Eye In The Sky](https://open.spotify.com/track/39qYD4J4BKvZMQgxfXl5bv) | [The Alan Parsons Project](https://open.spotify.com/artist/2m62cc253Xvd9qYQ8d2X3d) | [Eye In The Sky \(Expanded Edition\)](https://open.spotify.com/album/4BGd9BmpePqeSfHLeYiCDr) | 4:36 |
 | 5 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
@@ -61,15 +61,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 51 | [A Different Corner](https://open.spotify.com/track/7njBQO43OYrfIqwXO6Gcyv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [The Final](https://open.spotify.com/album/6ZJD7uT643TvniNyAk90bd) | 3:57 |
 | 52 | [I Believe](https://open.spotify.com/track/2iwXxZD87p1Q3ISveQteiJ) | [Tears For Fears](https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU) | [Songs From The Big Chair](https://open.spotify.com/album/7y7459SFZReE5Wec4hejv5) | 4:55 |
 | 53 | [I Never Thought I'd See the Day](https://open.spotify.com/track/6Y3h8CAOKtFSKGN1hTRA1D) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Stronger Than Pride](https://open.spotify.com/album/2y7DbLcG7L5BNx1IkY1PoK) | 4:13 |
-| 54 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
-| 55 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 54 | [October \- Remastered 2008](https://open.spotify.com/track/1UlQqRd3NoMYUI29v6DFb5) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [October \(Deluxe Edition Remastered\)](https://open.spotify.com/album/59O7CFxLYBBKYtrO61LyqF) | 2:21 |
+| 55 | [A Change Is Gonna Come](https://open.spotify.com/track/1Aw8AzGtFssawCsiCxxyAr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 3:43 |
 | 56 | [Shipbuilding](https://open.spotify.com/track/7DV1fLakiEgpJ1OuMQH4yb) | [Elvis Costello & The Attractions](https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH) | [Punch The Clock](https://open.spotify.com/album/0jo7K3IkLusU2dbYLvQIOs) | 4:52 |
 | 57 | [For a Friend](https://open.spotify.com/track/6Cfvxx7v5MxCzGQOXjxo35) | [The Communards](https://open.spotify.com/artist/17U2ImH5IyYMvjkCfPhMHT) | [Red](https://open.spotify.com/album/2Av2EXgkvzZbq3sJqQAUaE) | 5:03 |
 | 58 | [Contacting My Angel](https://open.spotify.com/track/3oy4xC2pSV0ieFvd7RAYAH) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Avalon Sunset](https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi) | 4:58 |
 | 59 | [Can't Stay Away from You](https://open.spotify.com/track/3JeTD3IfCntCx3nLSAv56U) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889), [Miami Sound Machine](https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F) | [Let It Loose](https://open.spotify.com/album/1QFhYMcCFGK1pVVwStxf4x) | 3:55 |
 | 60 | [Father to Son \- 2016 Remaster](https://open.spotify.com/track/7MQKw2Nige6EZLBrvnhvt9) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [...But Seriously \(Deluxe Edition\)](https://open.spotify.com/album/2sS9l8uc3d3UsK9unJyrD8) | 3:27 |
-| 61 | [The Captain of Her Heart \- Radio Version](https://open.spotify.com/track/36NiEVgYkR3njVyydBphXV) | [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [The Captain of Her Heart \(Radio Version\)](https://open.spotify.com/album/5oOBMhtW7txojzTblbiGRV) | 3:58 |
-| 62 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 |
+| 61 | [With God On Our Side](https://open.spotify.com/track/2jv5qRqrweD00U4VwDfbWr) | [The Neville Brothers](https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg) | [Yellow Moon](https://open.spotify.com/album/5mk6XIaqIFbESIcfqh8GEF) | 6:40 |
+| 62 | [The Captain of Her Heart \- Radio Version](https://open.spotify.com/track/36NiEVgYkR3njVyydBphXV) | [Double](https://open.spotify.com/artist/4NOA8osMRoNN1FZ5vrR4y2) | [The Captain of Her Heart \(Radio Version\)](https://open.spotify.com/album/5oOBMhtW7txojzTblbiGRV) | 3:58 |
 | 63 | [The Things You Said \- 2006 Remaster](https://open.spotify.com/track/3i1Th1jZXXO0ZpGKhpTKWK) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 3:59 |
 | 64 | [Requiem Again](https://open.spotify.com/track/673do07xdvVTt65SIwRtc3) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 4:01 |
 | 65 | [Renee \- 1997 Remaster](https://open.spotify.com/track/5UUk3itO5nvah4Ngd9CW5X) | [Talk Talk](https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf) | [It's My Life](https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf) | 6:22 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6FdIcKzUp2r.md) - [plain]
 | 79 | [It's a Mystery](https://open.spotify.com/track/15fdjzKpxFAQcFpmwbsB9a) | [Toyah](https://open.spotify.com/artist/17xleTMStusKOyQrNuK3sQ) | [Best of Toyah](https://open.spotify.com/album/3SUk8sx6Q2BbEO9SWRsEX9) | 4:03 |
 | 80 | [Ghosts](https://open.spotify.com/track/4M3Lxm1XBJrfLGBWZjqTM7) | [Japan](https://open.spotify.com/artist/7vPXrGlSGukcwpaPxUfKKR) | [Exorcising Ghosts](https://open.spotify.com/album/0ezKQuRSkTDJSgwJ6iL4Jq) | 4:32 |
 
-Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDBhZDc4NGIwN2ViYmMzZWIzODYzYTI1MDE2ODFhNjU0`
+Snapshot ID: `MTU0NzY0NjM5NiwwMDAwMDAwMDIxOWMwMzg1OWI0YmQyM2NiMzI4YjI5YTcxYzA0YzZk`

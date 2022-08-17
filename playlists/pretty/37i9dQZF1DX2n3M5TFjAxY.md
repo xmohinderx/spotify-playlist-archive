@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 
 > Unforgettable songs from Iconic Arab women\. Cover: Umm Kulthum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,564 likes - 51 songs - 10 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,602 likes - 51 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,11 +53,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n3M5TFjAxY.md) - [plain]
 | 43 | [Ommy](https://open.spotify.com/track/769zYCzOk8GNIx1YQt539w) | [Shadia](https://open.spotify.com/artist/5Yoha5TJ90eyPB9xWadI06) | [Shadya](https://open.spotify.com/album/2OqsCesiiN65QdUP1zNa4v) | 4:28 |
 | 44 | [Wahshtnee](https://open.spotify.com/track/5RgqO9WWTD91KjGcM7jbq3) | [Souad Mohamed](https://open.spotify.com/artist/5EXCqb9zKeodd2EDM9RAhz) | [Wahshtnee](https://open.spotify.com/album/0xbFQIkXS2iMsFcYlZyUM2) | 12:05 |
 | 45 | [الأسمرانية](https://open.spotify.com/track/0vtQLNnIrctrX3z8OfQxDj) | [ليلى عبدالعزيز](https://open.spotify.com/artist/08LOXQWxcRIrfp4iNfz708) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 1](https://open.spotify.com/album/4mAYSMDwoAmWxE46qKI3Wy) | 6:33 |
-| 46 | [آه يالأسمر](https://open.spotify.com/track/4vsKmbyyWb3XfD2xf9Tcrz) | [صباح جزاذري](https://open.spotify.com/artist/0jlAMoyT04YA4nHi42lE1r) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 2](https://open.spotify.com/album/2PuWGStIuMhn2NWM6RlrhP) | 6:00 |
+| 46 | [اللي جرحني](https://open.spotify.com/track/1k4KjinUenx6UeiEJPlvYe) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 5:32 |
 | 47 | [Hawa Ya Hawa](https://open.spotify.com/track/7JQkMHDQNxSmNXOFLkPQyV) | [Afaf Rady](https://open.spotify.com/artist/1mznZiCltI3qJI8JFLwKCy) | [Rodo El Salam](https://open.spotify.com/album/1GbYwlKnbclesWPam5sy64) | 7:00 |
-| 48 | [اللي جرحني](https://open.spotify.com/track/1k4KjinUenx6UeiEJPlvYe) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [وينك حبيبي](https://open.spotify.com/album/786AHcgC01V3I2dCly0X5h) | 5:32 |
+| 48 | [آه يالأسمر](https://open.spotify.com/track/4vsKmbyyWb3XfD2xf9Tcrz) | [صباح جزاذري](https://open.spotify.com/artist/0jlAMoyT04YA4nHi42lE1r) | [أجمل القديم منوعات كويتية و خليجية, Vol\. 2](https://open.spotify.com/album/2PuWGStIuMhn2NWM6RlrhP) | 6:00 |
 | 49 | [Alby Ala Albak](https://open.spotify.com/track/0ErZruO9ZYYL8MeSdHc9UG) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:50 |
 | 50 | [امتى أنا أشوفك](https://open.spotify.com/track/2s4KXxuxyuRLdhYBshbTVT) | [عتاب](https://open.spotify.com/artist/24YfDhja995MaMsPMasEl0) | [علشانه](https://open.spotify.com/album/5O4vtVmOkjrxifH3Mj1co4) | 6:15 |
 | 51 | [El Hob Ban Aliah](https://open.spotify.com/track/7lM7ZtFpxoPy0qUwyBQRdX) | [Rabab](https://open.spotify.com/artist/4KaSkNUbgoD4Ei3brZKP4z) | [El Hob Ban Aliah](https://open.spotify.com/album/3jHwxxyPfSmvoaxh1BnG9S) | 6:09 |
 
-Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMGU4NTU0ZjMzOGM1ZjRjNzE3MjhmMGZkYjNlMjk3MjUx`
+Snapshot ID: `MTYxNDcxNDQxOCwwMDAwMDAwMGQyNzljNzQzYTQxN2ZjODgyM2IwNDhkZTkxYmE3YmZl`

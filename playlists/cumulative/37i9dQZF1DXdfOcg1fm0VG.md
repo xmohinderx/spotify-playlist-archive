@@ -4,7 +4,7 @@
 
 > Double\-jump into these legendary video game soundtracks, featuring old favorites and new classics.
 
-118 songs - 6 hr 41 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
+119 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/6QDrYjPydAImw8FyOhDXlM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Skalitz 1403](https://open.spotify.com/track/1GraDYg4bSZYIV7AOqc1ls) | [Jan Valta](https://open.spotify.com/artist/3refNRo1fb7DLZi9rGUEo9), [Adam Sporka](https://open.spotify.com/artist/1tfJNGH0H6MudsgqCS7DS4) | [Kingdom Come: Deliverance \(Original Soundtrack Essentials\)](https://open.spotify.com/album/0XvTyYwQQhNXYFPbsCzmrg) | 2:21 | 2021-12-15 |  |
 | [Sogno di Volare \(“The Dream of Flight”\)](https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3) | [Christopher Tin](https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2) | [Sogno di Volare \(Civilization VI Main Theme\)](https://open.spotify.com/album/3Mlu8nz19IlADr2IK85VJa) | 3:53 | 2021-12-15 |  |
 | [Star Guardian 2022 \- Official Orchestral Theme](https://open.spotify.com/track/0VNqKLUyplTxCPZbIaVKls) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Star Guardian 2022 \(Official Orchestral Theme\)](https://open.spotify.com/album/3bxxma5xoyxqMaE3l4YHl5) | 5:09 | 2022-06-24 |  |
+| [Start a Cult](https://open.spotify.com/track/1ISexq6FLytZxcEqvn7LOk) | [River Boy](https://open.spotify.com/artist/0jyJkJaH4nFWPopjeIYRlA) | [Cult of the Lamb \(Original Soundtrack\)](https://open.spotify.com/album/6uFdRK2clKYng68ThOFDIE) | 4:59 | 2022-08-16 |  |
 | [Sunny's Theme](https://open.spotify.com/track/32WK8dQzMwl0AjvNxhf7lz) | [Guy Jackson](https://open.spotify.com/artist/3HyEoZ7fYGMAJ2fAHIeD9K) | [Sea of Solitude \(Original Soundtrack\)](https://open.spotify.com/album/0f1WBVSfCzjFJHMUv8n5Ff) | 3:43 | 2021-12-15 |  |
 | [Super Mario Bros: Theme](https://open.spotify.com/track/5sDx7tlKik6y6k2wfCnrxL) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 4:12 | 2021-12-15 |  |
 | [Super Mario Galaxy: Gusty Garden Galaxy](https://open.spotify.com/track/05XPxcgHp4I4CFlOhMnskS) | [Koji Kondo](https://open.spotify.com/artist/1CRvJnCbPjgx0xmBdoex0c), [Mahito Yokota](https://open.spotify.com/artist/3s9zTij1nIF3KY1G6BG1WZ), [Andrew Skeet](https://open.spotify.com/artist/3HohCe6uYgTtBJcV4PamyK), [London Philharmonic Orchestra](https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA) | [The Greatest Video Game Music](https://open.spotify.com/album/3bBCofH4VxHokZ6fRCgbGx) | 3:49 | 2021-12-15 |  |

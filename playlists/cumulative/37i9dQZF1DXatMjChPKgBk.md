@@ -4,7 +4,7 @@
 
 > Great food, good company and some soft music.
 
-404 songs - 1 day 1 hr 22 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
+405 songs - 1 day 1 hr 26 min - [published](https://open.spotify.com/playlist/1Dge1FHASpXA6Hu1SnM8w8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,7 @@
 | [Gravity](https://open.spotify.com/track/6OBZ78p8YaRPzKnQsZOggH) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/64GHlpPoKzuFlUL2mtkEcX) | 4:05 | 2022-01-27 | 2022-07-29 |
 | [Grow Old with Me](https://open.spotify.com/track/6xjxMWGsprmtUVMDaMhgH0) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Long Way Down \(Deluxe\)](https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8) | 3:02 | 2022-01-27 |  |
 | [Handcuffs](https://open.spotify.com/track/3Hjdsmx31RWfuDivCbhU90) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Handcuffs](https://open.spotify.com/album/2Qh9n866IxRHlynEm61hSY) | 2:50 | 2022-01-27 | 2022-07-29 |
-| [Handcuffs](https://open.spotify.com/track/5GdzPpzW6upr4lxIM7YZDX) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Girl, I Know](https://open.spotify.com/album/2ibDc7fdUkMeScSu6WEKUc) | 2:50 | 2022-07-08 |  |
+| [Handcuffs](https://open.spotify.com/track/5GdzPpzW6upr4lxIM7YZDX) | [Baker Grace](https://open.spotify.com/artist/70RgxMmZhLLWxRlbUFQKR2) | [Girl, I Know](https://open.spotify.com/album/2ibDc7fdUkMeScSu6WEKUc) | 2:50 | 2022-07-08 | 2022-08-17 |
 | [Have I Told You Lately \- 2008 Remaster](https://open.spotify.com/track/6mIY6O7uNGgVqOoX70UAYh) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Vagabond Heart \(Expanded Edition\)](https://open.spotify.com/album/3jBeiXLyZM4kxbHLEJwtYt) | 4:01 | 2022-01-27 |  |
 | [Hazard](https://open.spotify.com/track/1ntKYuqLlmV3sTZoNyeHhM) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Rush Street](https://open.spotify.com/album/0hNMHkt0vLHIioGUoOTk0F) | 5:17 | 2022-01-27 |  |
 | [Headlights](https://open.spotify.com/track/6PLllSULxhWMcitreJ2isg) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [EVERYTHING&NOTHING](https://open.spotify.com/album/4euXrvF9jz7KK7nFyn90gC) | 2:46 | 2022-07-08 |  |
@@ -391,6 +391,7 @@
 | [When We Were Young](https://open.spotify.com/track/2lxek8twv43ZPtKHKBVnOG) | [Billy Raffoul](https://open.spotify.com/artist/5gw5ANPCVcxU0maLiGRzzP) | [A Few More Hours at YYZ](https://open.spotify.com/album/4Ymsz92GH8H1fS8TLN7HJ0) | 3:03 | 2022-07-08 |  |
 | [When You Love Someone \- Acoustic](https://open.spotify.com/track/6668ZaUUXqZ25Tb0DMr2HO) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [When You Love Someone \(Acoustic\)](https://open.spotify.com/album/3qeOuc4R3WLCKVnYVvGwfl) | 3:30 | 2022-05-11 |  |
 | [Where the Heart Is](https://open.spotify.com/track/26wHWnTGvX1ZJTlttMyht0) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/5P3WYWP8vfv9nxpyrcchEo) | 3:53 | 2022-07-08 | 2022-08-06 |
+| [Where the Heart Is](https://open.spotify.com/track/2cUQTQkvnpObuwX8VJEq9w) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:53 | 2022-08-05 |  |
 | [Where the Heart Is](https://open.spotify.com/track/4YGlP2Tk2BwYkToLj6fBQt) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/2IH1FT6iExFt1YX7ht1cnh) | 3:53 | 2022-02-02 | 2022-07-29 |
 | [Whiskey To My Soul](https://open.spotify.com/track/0I4lY4YaaB9vGf1yzdcgFs) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/4sOkRZGkUaqkHSMRl1oMKm) | 3:45 | 2022-01-27 | 2022-07-29 |
 | [Whiskey To My Soul](https://open.spotify.com/track/7pSr5TCyEHPPRTXJNAtkNz) | [Roan Ash](https://open.spotify.com/artist/4Tqhn8v9Cws9SRsViQe61U) | [Whiskey To My Soul](https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb) | 3:45 | 2022-07-08 |  |

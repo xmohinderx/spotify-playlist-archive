@@ -350,6 +350,24 @@
     },
     {
       "album": {
+        "name": "Los Nuggetz - 60's Punk, Pop and Psychedelic From Latin America",
+        "url": "https://open.spotify.com/album/3Wmj1OJev6LrgjS9SIPBk7"
+      },
+      "artists": [
+        {
+          "name": "Los Belmonts",
+          "url": "https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124600,
+      "name": "Arriba Abajo Y Lados",
+      "url": "https://open.spotify.com/track/7cUDQaXOJdrZH9LN1Sdbiv"
+    },
+    {
+      "album": {
         "name": "100 A\u00f1os de Musica",
         "url": "https://open.spotify.com/album/0yk0LbkAcV5SaOJMOsDWJO"
       },
@@ -981,6 +999,24 @@
       "duration_ms": 142466,
       "name": "Cosas",
       "url": "https://open.spotify.com/track/0HyMclCYwn2zd92zxHAP2E"
+    },
+    {
+      "album": {
+        "name": "20 Exitos Colleccion de Oro",
+        "url": "https://open.spotify.com/album/2SVUr7T90O2sAC9fWNu92A"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Carrion",
+          "url": "https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz"
+        }
+      ],
+      "date_added": "2020-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142306,
+      "name": "Creo Estar Son\u0303ando",
+      "url": "https://open.spotify.com/track/2Rte0v50YrZVasNMoU9Wxv"
     },
     {
       "album": {
@@ -2371,7 +2407,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 147069,
       "name": "Lagrimas de Cristal",
       "url": "https://open.spotify.com/track/239DMvPN5JBfsPW2Xm5KZS"
@@ -2461,7 +2497,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 146842,
       "name": "Lanza Tus Penas Al Viento",
       "url": "https://open.spotify.com/track/4RyW9qyWhEU0UY3Nwh4mFN"
@@ -3035,7 +3071,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-02",
+      "date_removed": null,
       "duration_ms": 170657,
       "name": "Olvida",
       "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"
@@ -4015,7 +4051,7 @@
       ],
       "date_added": "2020-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 139702,
       "name": "Twist del Perro",
       "url": "https://open.spotify.com/track/2ywie6JDekOY3roCbQWxG0"

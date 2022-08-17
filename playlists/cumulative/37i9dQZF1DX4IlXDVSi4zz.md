@@ -4,13 +4,13 @@
 
 > Dance the night away and just blame it on Tulum!
 
-105 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
+106 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/6xJvxiorVlvPVNAhaM6Xfd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [AEIOU](https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [AEIOU](https://open.spotify.com/album/4J8uihMqMcLWlhz6DsGdJK) | 2:41 | 2022-06-27 |  |
 | [All the Way](https://open.spotify.com/track/5Zk4iUcotUIcyPeanblxS3) | [ÜNAM](https://open.spotify.com/artist/4BHKv1X2ldBdklzqRfLDFj) | [WAYU Various Artists, Vol\. 2](https://open.spotify.com/album/3do9W9ShRLxIKfUat5nERL) | 7:44 | 2022-04-24 | 2022-07-29 |
-| [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-02 |  |
+| [Amanecer](https://open.spotify.com/track/45wQICCratOjNmYPttJAHO) | [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [Amanecer](https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva) | 3:11 | 2022-08-02 | 2022-08-17 |
 | [Baianá](https://open.spotify.com/track/780be5fB7823aHG06mwTat) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [The Ringmaster](https://open.spotify.com/album/5pmFI5q0ob82elppBCel0W) | 3:00 | 2022-04-24 | 2022-07-29 |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2022-03-29 |  |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-06-27 |  |
@@ -64,6 +64,7 @@
 | [La Papaye](https://open.spotify.com/track/2gHA5uelC4cmT0Rn91rTm1) | [Rob!n](https://open.spotify.com/artist/1YJp6laoD5gLNFt4iksPMu), [Lumoon](https://open.spotify.com/artist/0yef6VSNvf1atgoH0Vv5aR) | [La Papaye](https://open.spotify.com/album/4rqE0hYsSByirJPP5h1cp2) | 6:12 | 2022-03-29 | 2022-06-16 |
 | [Lady \- Hear Me Tonight](https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6) | [Modjo](https://open.spotify.com/artist/0AkpPlFLnr0VQwZQeMGht0) | [Modjo \(Remastered\)](https://open.spotify.com/album/0vwDxngkhZuwNbcxzebCXI) | 5:07 | 2022-03-29 |  |
 | [Lighthouse](https://open.spotify.com/track/6tQvy7dRyfRhqTf3M2xGqc) | [Raw Main](https://open.spotify.com/artist/65E9rTNIH8GfUwyLyiLQfg) | [Sacré Coeur](https://open.spotify.com/album/745eonJCDAf4cP87X8zXf8) | 7:18 | 2022-04-24 | 2022-07-29 |
+| [Like Wooh Wooh](https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Like Wooh Wooh](https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb) | 3:16 | 2022-08-16 |  |
 | [Lose Control](https://open.spotify.com/track/7CHi4DtfK4heMlQaudCuHK) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Lose Control](https://open.spotify.com/album/1qSOaTvsCOyFJya3v1UzkP) | 2:48 | 2022-05-06 |  |
 | [Louna](https://open.spotify.com/track/2Ms9rXvqIqCzn9BYkhVoYA) | [Sam Shure](https://open.spotify.com/artist/51YmUpitluHsvMTXJ2rsiN) | [Laconia](https://open.spotify.com/album/5KzPSUu9nrd53wZqESbx6w) | 8:35 | 2022-04-24 | 2022-07-29 |
 | [Love Tonight \- Edit](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 | 2022-03-29 |  |

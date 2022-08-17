@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 
 > tranquilo e calmo, no flow\. Foto: Nanno, Budah, CALIFFA
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,160 likes - 70 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,224 likes - 70 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QOccjUUyGN.md) - [plain]
 | 18 | [Amor É para os Fortes](https://open.spotify.com/track/4C54SVfkqgKio9HgJKlGfT) | [Salaga](https://open.spotify.com/artist/4Pqz6aZYK7On1mzad1vjeG), [DJ Kalfani](https://open.spotify.com/artist/02RSgo6GjUSDChRsq79jTg), [Original Quality](https://open.spotify.com/artist/5ZTnWo7IY6rdIxm6aTSR84) | [Amor É para os Fortes](https://open.spotify.com/album/5FgS2IVNtec0eZ2Yt9ZSuZ) | 3:08 |
 | 19 | [Aura](https://open.spotify.com/track/0nzIp8UuHE5UxInOdaHvAy) | [Asfalto Rec](https://open.spotify.com/artist/0QGicFlDrqHZqBIVSjWWMv), [Sagaz](https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW) | [Aura](https://open.spotify.com/album/4FTuhl7ay2UEaG0UZ0AVOU) | 2:37 |
 | 20 | [BH & SP](https://open.spotify.com/track/0NccVjeRe3QJwlSMkzMQd8) | [Shaodree](https://open.spotify.com/artist/4NOi6526Zq6dqCMXaEN0EW) | [BH & SP](https://open.spotify.com/album/7z9fRxC9XbBbQ2l5hPWGl4) | 2:44 |
-| 21 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |
+| 21 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |
 | 22 | [Bombay](https://open.spotify.com/track/5dq7Ukc63AiAsC4Y9cBpJP) | [Mahô](https://open.spotify.com/artist/5B51c89els1SziVjz1WlLF), [Gibin](https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM), [uzzn](https://open.spotify.com/artist/67MmjOmWtHtGANmzJlnvAC) | [Bombay](https://open.spotify.com/album/2HK7NYlKLW42yyRY6I6PYI) | 2:51 |
 | 23 | [Segredo](https://open.spotify.com/track/1vQXkWFnyhotk8WhS7gRxA) | [Black Queen](https://open.spotify.com/artist/12jMN5SeE8STo77it3FXWv), [Amanda Sarmento](https://open.spotify.com/artist/2QFGLsI0ugeKkmGSggCr73) | [Segredo](https://open.spotify.com/album/1ASqKOHKRjm5j0qQlSCGz3) | 2:58 |
 | 24 | [Deu Saudade](https://open.spotify.com/track/1w3RC48VhtAiYKCiGy88ro) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [EREN](https://open.spotify.com/artist/2wx6CMJZtsVGvyMngwkoHs) | [Deu Saudade](https://open.spotify.com/album/210kypIEoUxUzSaMEGAkQM) | 3:07 |

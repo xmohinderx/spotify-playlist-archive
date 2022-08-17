@@ -4,7 +4,7 @@
 
 > The sweet sounds of Morocco.
 
-144 songs - 7 hr 48 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
+145 songs - 7 hr 51 min - [published](https://open.spotify.com/playlist/3rERU7jhrUFm3TLTfgFuLD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [Dowara](https://open.spotify.com/track/7f5S0zYuv6Ou0xEPwLXUDU) | [Lbenj](https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv) | [Dowara](https://open.spotify.com/album/12ZhO91Amzo0mYJOP1eP1t) | 3:15 | 2021-12-25 | 2022-07-22 |
 | [Enty Hayaty](https://open.spotify.com/track/2FCV8dhMiAl3fNifmx1Q3m) | [Saad Lamjarred](https://open.spotify.com/artist/0NjXtqYWpnV055KhfZgtuY), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [Enty Hayaty](https://open.spotify.com/album/6xcvw1ccUgfmlOqh55D2yN) | 4:15 | 2021-12-25 | 2022-04-12 |
 | [Fin Ghadia Bia](https://open.spotify.com/track/3AidVpiTLO0ef8t9Ijfw6l) | [Rachid Goudi](https://open.spotify.com/artist/5hsP4094TnggYBrPxOvgUm) | [Fin Ghadia Bia](https://open.spotify.com/album/6xzNpEqdF2XulXSyt2dyQr) | 3:30 | 2022-06-22 | 2022-08-10 |
-| [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2022-04-15 |  |
+| [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 | 2022-04-15 | 2022-08-17 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [Ghir Ntiya](https://open.spotify.com/track/4HLrkVmVOqFkUxMMzIkTZX) | [Marwa Loud](https://open.spotify.com/artist/46wEUZyujVrFSrdCnTKQmV), [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E) | [Ghir Ntiya](https://open.spotify.com/album/5nsqflpGETuyeLdYLNy0mm) | 3:34 | 2022-05-10 |  |
@@ -144,6 +144,7 @@
 | [Ya Zina](https://open.spotify.com/track/3iN353HpREOoT6DMAepelv) | [Imad Maestro](https://open.spotify.com/artist/4VtlVixipE4d5qUyjxMk3j) | [Ya Zina](https://open.spotify.com/album/3OEEzOjJNSl4WTYtgqh9CO) | 3:15 | 2021-12-25 | 2022-02-18 |
 | [ZAHRI \| زهري](https://open.spotify.com/track/5GOHFjp04ixjNNyYIPXAWG) | [Bad Flow](https://open.spotify.com/artist/3fqD9Tt4MGyX90t2qoBQuq) | [ZAHRI \| زهري](https://open.spotify.com/album/7l7wXK5T2PoechAItHaNHE) | 3:26 | 2022-01-04 | 2022-04-08 |
 | [Zawali](https://open.spotify.com/track/4YjQb4TGxnBaGDxzVxoHcP) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Zawali](https://open.spotify.com/album/5DY406iJLXtKIw11Jvd9N4) | 3:02 | 2022-06-11 |  |
+| [ZEKARA](https://open.spotify.com/track/3qe9cnNbkv4zqUPAPASf1S) | [Mr\. Crazy](https://open.spotify.com/artist/3T0mKZYTDmRODhPJYsQNoz) | [ZEKARA](https://open.spotify.com/album/14yyNsJnlVmBp5ACuuSsNa) | 2:22 | 2022-08-16 |  |
 | [Zerba](https://open.spotify.com/track/4kVeCnMy5d1sh8WPyGFTMQ) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Zerba](https://open.spotify.com/album/0rk4KargHTEdXsEz1FxQKt) | 2:45 | 2022-08-05 |  |
 | [Ztam](https://open.spotify.com/track/3nKhMcqmVeeAy9xTEesfiZ) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [Ztam](https://open.spotify.com/album/4144sqiUaw55a7rANh9mIE) | 3:31 | 2022-03-14 | 2022-07-22 |
 | [Ça tourne dans ma tête](https://open.spotify.com/track/7zp1weGEkBHmcbLQ0oO4oa) | [7liwa](https://open.spotify.com/artist/7fmcLXdUj5tVr806b7Uzt3), [Nassi](https://open.spotify.com/artist/1qKKI6tBqJZCZfAmXjYFjN), [Faux Contact](https://open.spotify.com/artist/1R52hZ1pSoTLPvZpWSMQDv) | [Ça tourne dans ma tête](https://open.spotify.com/album/4NcyyH7fmHZg1CCO54v6zA) | 3:19 | 2021-12-25 | 2022-02-03 |

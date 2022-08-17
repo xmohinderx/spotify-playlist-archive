@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Mulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,179 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,171 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 12 | [Vermisst](https://open.spotify.com/track/7joS0l48aJRAtQxONzkdix) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Vermisst](https://open.spotify.com/album/1Z3YwlpvlHafPPiJqjIFMU) | 2:28 |
 | 13 | [Ready For Racing](https://open.spotify.com/track/0dVnj1vmHKBGofUC257OQ2) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Ready For Racing](https://open.spotify.com/album/5boAU9UknnTJeQ7DEikZDZ) | 2:43 |
 | 14 | [Letzte Nacht](https://open.spotify.com/track/4QHDNS8jS3aB8Zlq6rvovT) | [BOUNTY & COCOA](https://open.spotify.com/artist/6LPDid2j16uSQ3qSLmIwFR) | [Letzte Nacht / Moonrocks](https://open.spotify.com/album/58B3nKeNDDOizFH47WDKrD) | 2:54 |
-| 15 | [Lichter an](https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Untypisch](https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF) | 2:24 |
-| 16 | [3 nights in Venice](https://open.spotify.com/track/7ukdvnfzG8fCwFPnuB3Ptn) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [3 nights in Venice](https://open.spotify.com/album/4exr6ka5iddLPC38su2JED) | 2:39 |
+| 15 | [3 nights in Venice](https://open.spotify.com/track/7ukdvnfzG8fCwFPnuB3Ptn) | [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [3 nights in Venice](https://open.spotify.com/album/4exr6ka5iddLPC38su2JED) | 2:39 |
+| 16 | [Lichter an](https://open.spotify.com/track/3Va2IBC5tsaisIkcSOYo3J) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R) | [Untypisch](https://open.spotify.com/album/3H4GeHhsMBrXIWD9Oj3dKF) | 2:24 |
 | 17 | [Nacht](https://open.spotify.com/track/6Ftms87OnMFLOiLwpnnrJQ) | [Liyah](https://open.spotify.com/artist/3UaA29cd7jUb9YmzXAdImR) | [Nacht](https://open.spotify.com/album/1nwa9dSC4fh2j36HDaEATi) | 2:28 |
-| 18 | [La La Land](https://open.spotify.com/track/1RrloIOveHED4mOH4YIloD) | [NOØN](https://open.spotify.com/artist/5L4RPnN1Gx46twMqymBpP4) | [La La Land](https://open.spotify.com/album/5g9Roqumsdd0n5Dx8H4CuX) | 2:54 |
-| 19 | [Butterfly Pen](https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Butterfly Pen](https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn) | 3:33 |
+| 18 | [Butterfly Pen](https://open.spotify.com/track/2xkEFQ4u7H4aMmAfWrhPoD) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Butterfly Pen](https://open.spotify.com/album/3xeLy3TWOvf9Moggth5pHn) | 3:33 |
+| 19 | [La La Land](https://open.spotify.com/track/1RrloIOveHED4mOH4YIloD) | [NOØN](https://open.spotify.com/artist/5L4RPnN1Gx46twMqymBpP4) | [La La Land](https://open.spotify.com/album/5g9Roqumsdd0n5Dx8H4CuX) | 2:54 |
 | 20 | [Boring Love](https://open.spotify.com/track/0wE8LMLJQHuMtWHMxyhjpa) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Boring Love](https://open.spotify.com/album/4Ew2yxuWJjFEgymYZbT73b) | 6:42 |
 | 21 | [Mulan](https://open.spotify.com/track/4JHBLM632nfkEhEFbcof07) | [CHAN LE](https://open.spotify.com/artist/3GTDUL2zSVIIuMt6jzKG74) | [Tokyo Drift EP](https://open.spotify.com/album/2gFX0PHDymOUOXWZ9ajzZp) | 2:26 |
 | 22 | [Own It](https://open.spotify.com/track/7wtOGRnZcjPvqaKkPhzWnF) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [Own It](https://open.spotify.com/album/7hoqPm42hYpHb7zt9YKWbn) | 2:23 |
@@ -36,13 +36,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 26 | [XO](https://open.spotify.com/track/2so0tpvrhkMMrJxWlBsXqd) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [XO](https://open.spotify.com/album/7uqjFsmqeRcPQanJLTtcDt) | 3:01 |
 | 27 | [ASTRONAUTINNEN](https://open.spotify.com/track/2ro4rpaCrGkf3dBNzJUDlL) | [LORI](https://open.spotify.com/artist/7sfQQyzXpNszCYvlnU3g1x) | [ASTRONAUTINNEN](https://open.spotify.com/album/3fGNighSkUnXpmzEYY6q3N) | 2:28 |
 | 28 | [Rhododendron](https://open.spotify.com/track/4C6b2z8CSgTwQPJzqtG7mL) | [Juli Gilde](https://open.spotify.com/artist/4s1eFPN3Rvn8F56Rzs8UWS) | [Rhododendron](https://open.spotify.com/album/55vdqbro2KfmHm8zxkCpli) | 3:06 |
-| 29 | [Reise](https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Reise](https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt) | 2:58 |
+| 29 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
 | 30 | [Mir ist alles egal](https://open.spotify.com/track/7AHOr2vuZYfYL9HACUPEJ1) | [Jano](https://open.spotify.com/artist/7L47OSdJj97aLcHuHVm6k3) | [Mir ist alles egal](https://open.spotify.com/album/0JT3FFqzUbd2YSdYQml5d4) | 3:23 |
 | 31 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 |
-| 32 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
+| 32 | [Reise](https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Reise](https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt) | 2:58 |
 | 33 | [All For You](https://open.spotify.com/track/0UQYjzBu7VdON7JjDVVp6w) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [All For You](https://open.spotify.com/album/6xSVc6ZbbBi1NuaxMdeA5l) | 2:42 |
-| 34 | [Cry Bebe](https://open.spotify.com/track/2QS1kFDcQLkOTfwCJNG3CZ) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Cry Bebe](https://open.spotify.com/album/4S4sgMoz30EHhzLqvJWSfp) | 3:21 |
-| 35 | [AN & AN](https://open.spotify.com/track/7i2WhwSvDr8mui4DSmc112) | [Mashanda](https://open.spotify.com/artist/5Ff42tLgSVySCUnp7U5QwK) | [NUANCE CC02](https://open.spotify.com/album/1o48cULYenbblC5kWeNoz7) | 2:30 |
+| 34 | [AN & AN](https://open.spotify.com/track/7i2WhwSvDr8mui4DSmc112) | [Mashanda](https://open.spotify.com/artist/5Ff42tLgSVySCUnp7U5QwK) | [NUANCE CC02](https://open.spotify.com/album/1o48cULYenbblC5kWeNoz7) | 2:30 |
+| 35 | [Cry Bebe](https://open.spotify.com/track/2QS1kFDcQLkOTfwCJNG3CZ) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Cry Bebe](https://open.spotify.com/album/4S4sgMoz30EHhzLqvJWSfp) | 3:21 |
 | 36 | [Toxic](https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH) | [HAVET](https://open.spotify.com/artist/0Ppjh3TEy1VYLQoyKmIxaD) | [Toxic](https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN) | 2:36 |
 | 37 | [Uh Ah](https://open.spotify.com/track/7lWDHNwF1Rvt0vuOoDUhR3) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Uh Ah](https://open.spotify.com/album/0r0AWlCiPLIqSRcOvRoDii) | 2:13 |
 | 38 | [Shouldn't This Feel Easy?](https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Shouldn't This Feel Easy?](https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Jazzy Boy](https://open.spotify.com/track/6pnmInjrkzb5BcDE4xJEE8) | [Feyva](https://open.spotify.com/artist/7GLq2u4tmRyLSW0k66J17w) | [Jazzy Boy](https://open.spotify.com/album/2FjyxHe3EGaxEYLMbVtcZM) | 3:06 |
 | 50 | [Suction Of Relativity](https://open.spotify.com/track/73wcfVf17JFXyyHyY28Uz1) | [Shaleen](https://open.spotify.com/artist/6S3LS6dVFu46JnfXaSplZu) | [Suction of Relativity](https://open.spotify.com/album/24qcTVeRO2SK42QGC4hDM6) | 4:33 |
 
-Snapshot ID: `MTY1OTg3ODIzNSwwMDAwMDAwMDc5MDY2NTA2ZGY4ODY1NTE4M2VmMTA4NzZhYzNiNDQ4`
+Snapshot ID: `MTY1OTg3ODIzNSwwMDAwMDAwMDEzODdkY2ZmMTI0ODY4NmY1MDI5ZmQzOTdjYzUxMTQ1`

@@ -4,7 +4,7 @@
 
 > Dance, Bass, EDM, Trap: the perfect gaming mix.
 
-278 songs - 15 hr 22 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
+279 songs - 15 hr 25 min - [published](https://open.spotify.com/playlist/16xYNZ4hiN1QTOpWJCjD89)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -257,6 +257,7 @@
 | [Turning Down](https://open.spotify.com/track/0QOOmrlptVOHQht9PCRank) | [NOES](https://open.spotify.com/artist/12BrYQYprJ6GNAA4vgMsET), [Evir](https://open.spotify.com/artist/1JhXQJwJ0OkUv7cFl8ojMl), [AKRA](https://open.spotify.com/artist/0U17MNm6v4NSGjWdTuCvfn) | [Turning Down](https://open.spotify.com/album/4ePCKQtkqjixyLLoOfxm9Y) | 3:48 | 2022-05-06 | 2022-07-11 |
 | [Twilight](https://open.spotify.com/track/1guHCTD0uiEgTG3HOPgBmU) | [GRAVECHILL](https://open.spotify.com/artist/1EnZjgGD81emhSdq6adEKt) | [Twilight](https://open.spotify.com/album/2AXcVujiP64YJjh05z7xBu) | 1:56 | 2022-06-03 |  |
 | [u.](https://open.spotify.com/track/0J7oHYxjF6Oln61wy0kP2i) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/4zilHatAUeMby2Lh1pEHpS) | 2:54 | 2022-07-14 | 2022-07-30 |
+| [u.](https://open.spotify.com/track/22vZPUxE05ELFeIO0Wipj2) | [niteboi](https://open.spotify.com/artist/2Ue601Op6mLGMwrQYjAOSW) | [u.](https://open.spotify.com/album/44EIn5KIXSE1GLD46ngPml) | 2:54 | 2022-08-12 |  |
 | [Unify](https://open.spotify.com/track/5CmO3jOPVD7RaPERcA4xA1) | [Axel Boy](https://open.spotify.com/artist/4DabGEOrvBxxta0YlaaJpJ) | [Unify / Lift Me Up](https://open.spotify.com/album/5IYZPdgIRq01r0noaioYf9) | 4:49 | 2022-05-06 | 2022-07-28 |
 | [Unity](https://open.spotify.com/track/66TdgLCf9Bic8nBsNv0YuD) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/0p1vX5sQiE5S6Moj8r3MvL) | 3:24 | 2022-06-03 |  |
 | [Unleashed](https://open.spotify.com/track/3EQFXygBuRViHpx64ZPsjy) | [2nd Life](https://open.spotify.com/artist/2j1Yftz0qNufy1z5jfNYab) | [Unleashed](https://open.spotify.com/album/3AeIE3pK62Qiu4sO9g8Vzy) | 2:31 | 2022-06-24 | 2022-07-29 |
@@ -278,7 +279,7 @@
 | [Why Do I?](https://open.spotify.com/track/0EB9I85mW2YnjfZmvT8CAc) | [Bri Tolani](https://open.spotify.com/artist/1n3vQMwMRpRdCo5zq8huw0), [Unknown Brain](https://open.spotify.com/artist/0okpgBQamDqOZazBeH0J3I) | [Why Do I?](https://open.spotify.com/album/79LE1lQRTZJwxlc9LFzLdH) | 3:43 | 2022-07-14 |  |
 | [Why We Lose](https://open.spotify.com/track/2wmQfaHp4zbqQkbf5nu5SF) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/album/4oDVpaNimKnYHNva9S7vMs) | 3:17 | 2022-07-14 |  |
 | [Why We Lose](https://open.spotify.com/track/5NmENli4oodYuWrI0vSGK4) | [Cartoon](https://open.spotify.com/artist/2sf28o6euxEDpYkG9dMtuM), [Coleman Trapp](https://open.spotify.com/artist/3GI8jWO0jwqs0qX3OtlbqY) | [Why We Lose](https://open.spotify.com/album/3RNJagqH7R68xyYoj2YwFR) | 3:17 | 2022-05-06 | 2022-07-26 |
-| [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-07-14 |  |
+| [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-07-14 | 2022-08-17 |
 | [Willow Tree](https://open.spotify.com/track/3CdYdWhfe2yCB6gU3neEk6) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Willow Tree](https://open.spotify.com/album/0j7kbEv6hSm33gskZyokSY) | 3:08 | 2022-08-12 |  |
 | [Willow Tree](https://open.spotify.com/track/6J9OBBRpR4JZqUkewgDjsS) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Cadmium](https://open.spotify.com/artist/2jrBiKykLqcIp2S7GLiahy), [Rosendale](https://open.spotify.com/artist/3ZVW9s2Xb8NQDzwEqElbNq) | [Willow Tree](https://open.spotify.com/album/0z24XzwOR8RobYQxacyDpS) | 3:08 | 2022-05-06 | 2022-07-06 |
 | [Won't Let Go](https://open.spotify.com/track/5atcK58NTTeE5aEw1YDMkJ) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Won't Let Go](https://open.spotify.com/album/0vcsY42vLjPGoukzA2RmYe) | 3:10 | 2022-05-13 | 2022-07-21 |

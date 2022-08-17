@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Lizzy McAlpine",
-  "num_followers": 132583,
+  "num_followers": 132654,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMGI5NmQ1YzRlMDAxNWNjMWZhN2Y1YmY2ZWE4NTI0MWM3",
+  "snapshot_id": "MTY0NjcxNTYwMCwwMDAwMDAwMDUxYTQxOGU5MTA2ZGIxZTlhMWI2MzQwZGFlMGRlZmU5",
   "tracks": [
     {
       "added_at": "2022-03-08 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
         "name": "I Need to Start a Garden",
         "url": "https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 195845,
       "name": "Drinking Song",
       "url": "https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS"
+    },
+    {
+      "added_at": "2021-03-02 01:07:20",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
     },
     {
-      "added_at": "2021-03-02 01:07:20",
-      "album": {
-        "name": "Transcendence",
-        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 173231,
-      "name": "Millennial",
-      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
-    },
-    {
       "added_at": "2021-03-02 01:12:38",
       "album": {
         "name": "Our Two Skins",
@@ -1225,20 +1209,20 @@
       "url": "https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm"
     },
     {
-      "added_at": "2022-03-08 05:00:00",
+      "added_at": "2021-03-02 01:07:20",
       "album": {
-        "name": "Halfway There",
-        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+        "name": "Transcendence",
+        "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
       "artists": [
         {
-          "name": "Kathleen Regan",
-          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
         }
       ],
-      "duration_ms": 194365,
-      "name": "Halfway There",
-      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
+      "duration_ms": 173231,
+      "name": "Millennial",
+      "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
     },
     {
       "added_at": "2021-03-02 01:07:20",
@@ -1255,6 +1239,22 @@
       "duration_ms": 218266,
       "name": "Something to Say",
       "url": "https://open.spotify.com/track/5DvEC80DSVY64U1X5L2dmz"
+    },
+    {
+      "added_at": "2022-03-08 05:00:00",
+      "album": {
+        "name": "Halfway There",
+        "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
+      },
+      "artists": [
+        {
+          "name": "Kathleen Regan",
+          "url": "https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf"
+        }
+      ],
+      "duration_ms": 194365,
+      "name": "Halfway There",
+      "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
     },
     {
       "added_at": "2021-03-02 01:07:20",

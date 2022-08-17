@@ -4,7 +4,7 @@
 
 > 最先端のK\-Popをピックアップ！// The freshest K\-Pop of today! cover: TWICE
 
-316 songs - 17 hr 32 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
+318 songs - 17 hr 38 min - [published](https://open.spotify.com/playlist/7M2UzkWe0rrHEXaOnPr3Xw)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [BUT YOU](https://open.spotify.com/track/5cDNWykOJC5d9uFRKmqyND) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK](https://open.spotify.com/album/0vBXC0AISO2VRNiqi4iMYF) | 3:32 | 2022-05-10 | 2022-07-19 |
 | [BUT YOU \- JP Ver](https://open.spotify.com/track/3dqK2y5U0v2FzYgFpbNWIO) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [FLASHBACK \[+ i DECIDE\]](https://open.spotify.com/album/6RnaR43yKS7YBxnRRKFYgx) | 3:32 | 2022-07-06 |  |
 | [Butter \(Holiday Remix\)](https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Butter \(Holiday Remix\)](https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV) | 2:41 | 2021-12-23 | 2022-02-05 |
+| [BYE \(feat\. Whee In\)](https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [BYE \(feat\. Whee In\)](https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx) | 3:08 | 2022-08-16 |  |
 | [Callin'](https://open.spotify.com/track/0Zbl0vvoYlHO5GPuEE8nJq) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [The Road : Winter for Spring](https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ) | 3:48 | 2022-02-28 | 2022-04-06 |
 | [Can't Control Myself](https://open.spotify.com/track/559f8rcNNZW07wz5Rfxnfh) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Can't Control Myself](https://open.spotify.com/album/2Xgk5KfKKed3D1a5B3gJJ9) | 3:01 | 2022-01-17 | 2022-03-23 |
 | [Can't Stop This Party](https://open.spotify.com/track/1FP2jE6moLiHoNUaWTUyJc) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Can't Stop This Party](https://open.spotify.com/album/6nG0PLR5YgP7tHYKfwhiOI) | 3:42 | 2022-03-22 | 2022-05-13 |
@@ -224,7 +225,7 @@
 | [save me](https://open.spotify.com/track/15xLGWvLs9vb6UaNLwDTEY) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [save me](https://open.spotify.com/album/4fpOkKyUs4HR0nSG97loRI) | 3:12 | 2022-04-07 | 2022-06-22 |
 | [SAVIOR](https://open.spotify.com/track/4Bk3bszU1CnHq9hS20s2qZ) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [A to B](https://open.spotify.com/album/3KuC2m80vVPinf5rYjZSch) | 3:01 | 2022-05-17 | 2022-07-19 |
 | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/5Z44QP5dcX1lBhyonY7k1u) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3dN4xXrYaQfWvLr1oCorQy) | 3:02 | 2022-07-12 | 2022-07-29 |
-| [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3rytWLCteW328NgdL5E6PA) | 3:02 | 2022-07-28 | 2022-08-04 |
+| [SAVIOR \-Japanese ver.\-](https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt) | [AB6IX](https://open.spotify.com/artist/4y0wFJ5jmCUNRLZfsw1I7g) | [SAVIOR \-Japanese ver.\-](https://open.spotify.com/album/3rytWLCteW328NgdL5E6PA) | 3:02 | 2022-07-28 |  |
 | [Scars \(Korean Version\)](https://open.spotify.com/track/5L8r1ipSDxf38EqLIsK8T9) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [SKZ2021](https://open.spotify.com/album/5eWA9aiVzEO8y9Cf6aUPw5) | 3:19 | 2021-12-23 | 2022-02-16 |
 | [SCIENTIST](https://open.spotify.com/track/2J0TRU2EDG29qlmxdGa4xa) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Formula of Love: O+T=<3](https://open.spotify.com/album/51aC8iSMhWlYY6ymv7P8zi) | 3:14 | 2021-12-23 | 2022-04-06 |
 | [SCIENTIST \- Japanese ver.](https://open.spotify.com/track/0oFE8NlomVrCxhgVZ5FsuE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [SCIENTIST \(Japanese ver.\)](https://open.spotify.com/album/4Fv22ltDAUSeyboT0e7xnK) | 3:16 | 2022-03-01 | 2022-04-13 |
@@ -298,6 +299,7 @@
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-23 | 2022-01-07 |
 | [We Just Don't Care](https://open.spotify.com/track/55zZerklQQ4Ju5J3YJV8uS) | [ONE N' ONLY](https://open.spotify.com/artist/6Pob63g9NOdT7moTAUZ4GB) | [We Just Don't Care](https://open.spotify.com/album/3r9RLXBQ4eFvstaLSylKDM) | 4:47 | 2021-12-23 | 2022-01-19 |
 | [Weapon \(With Newnion, FLOOR\) \(Prod.Czaer\)](https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Street Dance Girls Fighter\(SGF\) Special](https://open.spotify.com/album/4azL8fNPVZ8tmKqPyK1583) | 3:40 | 2022-01-06 | 2022-04-01 |
+| [WHISPER](https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 7TH MINI ALBUM \[BE AWARE\]](https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR) | 3:11 | 2022-08-16 |  |
 | [WHO](https://open.spotify.com/track/1RU1ry7qZofRufTO3YZN0Y) | [MOONBIN&SANHA\(ASTRO\)](https://open.spotify.com/artist/2jrwm2knXPMawr5p8FuC2h) | [REFUGE](https://open.spotify.com/album/3GVcAqBdESv9QSCfYOreJ9) | 2:54 | 2022-03-15 | 2022-06-08 |
 | [WHO WE ARE](https://open.spotify.com/track/1pffMzj3YtanzjAJrlrKym) | [RAVI](https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs) | [WHO WE ARE](https://open.spotify.com/album/6MPzEK36QIcH3bVcko4Lf4) | 3:03 | 2022-05-10 | 2022-06-29 |
 | [WILDSIDE](https://open.spotify.com/track/4RmEqYXrb89Mlwzm2p6Wyd) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Bloom](https://open.spotify.com/album/4ualu7nMAcmoAqp47YaA95) | 3:49 | 2022-03-29 | 2022-07-23 |

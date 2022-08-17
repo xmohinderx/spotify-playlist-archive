@@ -1,12 +1,12 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 57685,
+  "num_followers": 57708,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMGI3ZDk4ZTEzMjAwZWUyNGIxNzMwMTkxMzBjYTk3NmM2",
+  "snapshot_id": "MTY1NjM0MDk2NCwwMDAwMDAwMDU1MjQ2YWZkNjg4NzIxMTFlN2ZkN2MyNDZjZWQ3OTMz",
   "tracks": [
     {
       "added_at": "2022-06-27 14:42:44",
@@ -291,34 +291,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Messa da Requiem",
-        "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Angela Gheorghiu",
-          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
-        },
-        {
-          "name": "Berliner Philharmoniker",
-          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Verdi: Messa da Requiem - Libera me: VIIb. Dies irae",
-      "url": "https://open.spotify.com/track/71EdUh8dE27ufo78UKB5Ti"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: Opera Choruses",
         "url": "https://open.spotify.com/album/3rr1HrvyWK0jFyuEfntQXX"
       },
@@ -347,6 +319,34 @@
       "duration_ms": 174000,
       "name": "La traviata*: Gypsy Chorus 'Noi siamo zingarelle'",
       "url": "https://open.spotify.com/track/78qIL92mSpGOm4gH7qgP3a"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Messa da Requiem",
+        "url": "https://open.spotify.com/album/1Svvhsb1rnRmPMxo1h0jY6"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Angela Gheorghiu",
+          "url": "https://open.spotify.com/artist/5pLMWE1tVs9C7F9Qqauo44"
+        },
+        {
+          "name": "Berliner Philharmoniker",
+          "url": "https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Verdi: Messa da Requiem - Libera me: VIIb. Dies irae",
+      "url": "https://open.spotify.com/track/71EdUh8dE27ufo78UKB5Ti"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -995,34 +995,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Aida",
         "url": "https://open.spotify.com/album/4I9AG93MXl0ZWJX4B4Lt4Z"
       },
@@ -1063,6 +1035,34 @@
       "duration_ms": 85733,
       "name": "Aida: Danza di piccoli schiavi mori",
       "url": "https://open.spotify.com/track/1vmUKUlXXZChWhCdnE8LxS"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1195,6 +1195,42 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem; Quattro pezzi sacri",
+        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Cheryl Studer",
+          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Claudio Abbado",
+          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
+        },
+        {
+          "name": "Vienna State Opera Chorus",
+          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
+        },
+        {
+          "name": "Norbert Balatsch",
+          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+        }
+      ],
+      "duration_ms": 801000,
+      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
+      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Celeste Aida - The Verdi Album",
         "url": "https://open.spotify.com/album/3imbRbkVQlzLMYYuUjkQan"
       },
@@ -1239,8 +1275,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Requiem; Quattro pezzi sacri",
-        "url": "https://open.spotify.com/album/1XaC3xBAnXxc08TzyrT03t"
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
       },
       "artists": [
         {
@@ -1248,29 +1284,17 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Cheryl Studer",
-          "url": "https://open.spotify.com/artist/2Owak0BXSN5auAjwTh1N68"
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
         },
         {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Claudio Abbado",
-          "url": "https://open.spotify.com/artist/6HclTVD03WSY6GUpN16BkP"
-        },
-        {
-          "name": "Vienna State Opera Chorus",
-          "url": "https://open.spotify.com/artist/7dG0oG7NmmndPNaORvzwj9"
-        },
-        {
-          "name": "Norbert Balatsch",
-          "url": "https://open.spotify.com/artist/5Wit3f4MJipmCFDqfdWjc3"
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
         }
       ],
-      "duration_ms": 801000,
-      "name": "4 Sacred Pieces (Quattro pezzi sacri): Stabat Mater",
-      "url": "https://open.spotify.com/track/6kN6X8ZetLVbftch3W8pzO"
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1299,30 +1323,6 @@
       "duration_ms": 241026,
       "name": "Falstaff / Act I: L'Onore! Ladri!",
       "url": "https://open.spotify.com/track/7qWfNxCBZwfu9DKzGWDMki"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/2SlDrNnAloO1uL0cUOf8bg"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/1bZowokgq7BcTe15ofDTVW"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1595,8 +1595,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Songs",
-        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
       },
       "artists": [
         {
@@ -1604,17 +1604,17 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Dennis O'Neill",
-          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
         },
         {
-          "name": "Ingrid Surgenor",
-          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
+          "name": "Riccardo Muti",
+          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
         }
       ],
-      "duration_ms": 166800,
-      "name": "La seduzione",
-      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
+      "duration_ms": 667640,
+      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
+      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1731,8 +1731,8 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
+        "name": "Verdi: Songs",
+        "url": "https://open.spotify.com/album/597ID4pZXyhkJtMPMeFTdb"
       },
       "artists": [
         {
@@ -1740,17 +1740,17 @@
           "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
         },
         {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+          "name": "Dennis O'Neill",
+          "url": "https://open.spotify.com/artist/4gOpBpkE5PrTJUFC7dWusZ"
         },
         {
-          "name": "Riccardo Muti",
-          "url": "https://open.spotify.com/artist/7silW8RiEOoLBgAg5JBCL1"
+          "name": "Ingrid Surgenor",
+          "url": "https://open.spotify.com/artist/1GJ4XkVWcNqaDgkBQv08WC"
         }
       ],
-      "duration_ms": 667640,
-      "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" (Nabucco, Abigaille) / Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
-      "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
+      "duration_ms": 166800,
+      "name": "La seduzione",
+      "url": "https://open.spotify.com/track/13auykVUzc7TQ8BQFTXL2h"
     },
     {
       "added_at": "2022-06-27 14:42:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 
 > Punk anthems with strong messages for the masses\. Cover: Bad Religion
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,982 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,049 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 14 | [Generational Divide](https://open.spotify.com/track/7Cvs8SemDG8Yok8B9GGjW9) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 0:49 |
 | 15 | [45 \(A Matter Of Time\)](https://open.spotify.com/track/5oOphgtp0ZhMfYz3HpnMyU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:12 |
 | 16 | [Oxy Moronic](https://open.spotify.com/track/05kF2zJNlMyHGt6E0Adkn9) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [First Ditch Effort](https://open.spotify.com/album/2WJFIzmyJ6Egq00seat7hy) | 3:56 |
-| 17 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
-| 18 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 |
+| 17 | [State Of The Union](https://open.spotify.com/track/0WDvAKN1wzjNya2xxjh9nq) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Siren Song Of The Counter\-Culture](https://open.spotify.com/album/1vHYkIhnwbpzrC3hGguDN6) | 2:19 |
+| 18 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 19 | [Biggest Lie](https://open.spotify.com/track/4h39acKcAORSlCCbWEYhek) | [No Use For A Name](https://open.spotify.com/artist/5p3WimI9yquAF6Lqhlm4Ol) | [The Feel Good Record of the Year](https://open.spotify.com/album/4u8maWk9uRQ7ipjkKTVHup) | 2:09 |
 | 20 | [Artificial Life \- 2007 Remaster](https://open.spotify.com/track/6oQ4aZWJ665RrhzhXrMZrm) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:05 |
 | 21 | [War Machine Breakdown](https://open.spotify.com/track/1yNjpn8jkrs2RmZZ8Gu1RP) | [Against All Authority](https://open.spotify.com/artist/4zYmn9QW7Fzd7DzJsK9LyT) | [The Restoration Of Chaos & Order](https://open.spotify.com/album/2n5qmlv9RxhetofRF4SWcR) | 3:15 |
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1zG0qRnyaQ3.md) - [plain]
 | 30 | [Telegraph Avenue](https://open.spotify.com/track/3TtDUP3ijbAmWLmDAyrBe1) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 3:19 |
 | 31 | [The Guns of Brixton \- Remastered](https://open.spotify.com/track/2W2J1ZwcqZL0ug37sRUoqH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Hits Back](https://open.spotify.com/album/3Zkggi5I9uH5x94DuN6u1S) | 3:09 |
 | 32 | [American Lies](https://open.spotify.com/track/2XzzP3HXqdzK907sGFewD4) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Never Gonna Die](https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF) | 2:11 |
-| 33 | [Question Authority](https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:02 |
+| 33 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
 | 34 | [Gold Jacket, Green Jacket...](https://open.spotify.com/track/7fu67Zso8hS8rcAMXuPhcJ) | [Senses Fail](https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ) | [If There Is Light, It Will Find You](https://open.spotify.com/album/5Bdj3JrmjvkampuUvA8nx0) | 3:34 |
-| 35 | [20/20 Vision](https://open.spotify.com/track/3T9zYweiNqs9MbXhj6IPCo) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [20/20 Vision](https://open.spotify.com/album/6e4jOwPyT9Xp9fy9nzuXDS) | 2:26 |
+| 35 | [Question Authority](https://open.spotify.com/track/5TS4qrO34nNrCMV5VKIIFq) | [Circle Jerks](https://open.spotify.com/artist/4ubY8RYfXkcEqgjEMDuLYl) | [Wild in the Streets](https://open.spotify.com/album/1LaoxOUvYzBdQleyW03Keh) | 2:02 |
 | 36 | [Heads You Win, Tails We Lose](https://open.spotify.com/track/0EZQLzd0j9jVR7i0ztsRiv) | [Antillectual](https://open.spotify.com/artist/1Z2XrFvat8f47ZaRfjTgZL) | [Heads You Win, Tails We Lose](https://open.spotify.com/album/2jlrZxuzk2a1WfdDT17rAd) | 2:59 |
 | 37 | [Tyranny](https://open.spotify.com/track/6S3MqV49f09I4IFwwhKR7B) | [Drones](https://open.spotify.com/artist/0GZkYbJkke2SkmdLdtuPUB) | [Exiled: B\-Sides](https://open.spotify.com/album/2OifzgPrUPg9b6WdOaCJEk) | 2:41 |
-| 38 | [Cop Just Out of Frame](https://open.spotify.com/track/5aErz7rxrFV56SybevCdRR) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:46 |
-| 39 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
-| 40 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
-| 41 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
-| 42 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
-| 43 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
-| 44 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
+| 38 | [The Disease](https://open.spotify.com/track/6wzbluFL5sh3fgx5iyxvMk) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [The Disease](https://open.spotify.com/album/27YMwRlqDrKOx3bWmSZrSx) | 2:55 |
+| 39 | [Cop Just Out of Frame](https://open.spotify.com/track/5aErz7rxrFV56SybevCdRR) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:46 |
+| 40 | [If There Was Ever a Time](https://open.spotify.com/track/5PQ7O1EpyNO5fVVpTUrsWE) | [Armstrongs](https://open.spotify.com/artist/3DMwn9lJozTHbeI85XA08W) | [If There Was Ever a Time](https://open.spotify.com/album/5vgx12QaQZKHVz9AJL6nVM) | 2:41 |
+| 41 | [Everyone Is Digital](https://open.spotify.com/track/6BIukdclzBSvAHP5rNfdN0) | [The Motorleague](https://open.spotify.com/artist/0mMfUMeFxdsH5ijLeGYPdc) | [Everyone Is Digital](https://open.spotify.com/album/7nJBv7fe2lPx79sAKtKGGz) | 3:40 |
+| 42 | [Altered States](https://open.spotify.com/track/50Guagu1QQTRyUAM7PvQC6) | [Direct Hit!](https://open.spotify.com/artist/23gluE1Q1KOmXrpYz1ivTu) | [Crown of Nothing](https://open.spotify.com/album/1EFnZuLUzXx0B6ZsL9aqum) | 3:04 |
+| 43 | [American Futbol](https://open.spotify.com/track/6MiXtoPdXIVxsaZaKLHqFJ) | [MakeWar](https://open.spotify.com/artist/0dZUiHIO2BUomz0xwglFiW) | [Get It Together](https://open.spotify.com/album/16uIgInEGd1nh7lxZ3P3vD) | 3:19 |
+| 44 | [Fish in a Gun Barrel](https://open.spotify.com/track/4pdBfPfMtp214dfD5lLV8y) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Fish in a Gun Barrel](https://open.spotify.com/album/5ntU0kpYol6245JVzljUeo) | 3:38 |
 | 45 | [Super Spreader](https://open.spotify.com/track/5sK2qtbvfa5IV60HNnhHNX) | [Fear No Empire](https://open.spotify.com/artist/3LwnLoAjOLhXnEyyQqCDuk) | [Super Spreader](https://open.spotify.com/album/1MmQCW4IEOyRXWu948orKy) | 2:45 |
 | 46 | [Trust No One](https://open.spotify.com/track/5Z7xS2nswfBaO0u5itfwad) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Bears, Mayors, Scraps, & Bones \(Remastered\) \[10 Year Anniversary Editio\]](https://open.spotify.com/album/7IbxwkOPTz4RDtwK4FPnqc) | 2:43 |
 | 47 | [The Left is Right](https://open.spotify.com/track/2bS83HL9u0Wg31zwUlp7ut) | [Desaparecidos](https://open.spotify.com/artist/1H8myCcRyST1S5CcXNHiYM) | [Payola](https://open.spotify.com/album/0znk4I7BChCGG8SZ5nRneU) | 2:25 |
-| 48 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
-| 49 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
-| 50 | [America \(You're Freaking Me Out\)](https://open.spotify.com/track/20WfBEoY5LuJdK9slRv71l) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [America \(You're Freaking Me Out\)](https://open.spotify.com/album/76xp2axlbmffPMsZaGIWVX) | 3:35 |
+| 48 | [American Attraction](https://open.spotify.com/track/7seq94ygkJtnYHXYR8E99r) | [Anti\-Flag](https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT) | [American Attraction](https://open.spotify.com/album/3HF3WUIh0lc05D3pzuhiqe) | 2:56 |
+| 49 | [Who We Are](https://open.spotify.com/track/7hTWmQ1VFjUDN4IQljtDI0) | [Descendents](https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5) | [Who We Are](https://open.spotify.com/album/2c4Cy7KKorM1IGOgN3LczB) | 3:57 |
+| 50 | [Accelerate](https://open.spotify.com/track/1H7dmgvLTkgfrlXzZckp4u) | [Riskee & The Ridicule](https://open.spotify.com/artist/4r5pS9WJUwz3AUQeuXcxB3) | [Body Bag Your Scene](https://open.spotify.com/album/5Pa9fiKgIHnciDv8wdiCw0) | 3:47 |
 
-Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMDc1Y2M5MDZlM2I0MzA1YzhiNGRiYzgwMjk4ZTM5ZmE0`
+Snapshot ID: `MTYxMDgxNTAwOCwwMDAwMDAwMDQ1YTYwMTg0ODk1YTk5YzkwNTI2NDc1MDI4NGQ4NGE5`

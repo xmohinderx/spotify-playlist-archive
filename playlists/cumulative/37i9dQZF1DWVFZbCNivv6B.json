@@ -3108,6 +3108,28 @@
     },
     {
       "album": {
+        "name": "Homie Alone",
+        "url": "https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9"
+      },
+      "artists": [
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
+        },
+        {
+          "name": "V.Rod",
+          "url": "https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193766,
+      "name": "Ranfla, Hyna, Dinero",
+      "url": "https://open.spotify.com/track/0TCpHQU3AxonyDdo6UD2qC"
+    },
+    {
+      "album": {
         "name": "Requisito 420",
         "url": "https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG"
       },

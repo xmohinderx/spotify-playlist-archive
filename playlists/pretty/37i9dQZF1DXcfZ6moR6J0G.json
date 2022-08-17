@@ -1,12 +1,12 @@
 {
   "description": "The sound of a g-g-generation. Cover: Limp Bizkit",
-  "num_followers": 1417988,
+  "num_followers": 1419320,
   "original_name": "Nu Metal Era",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTUyOTc0OCwwMDAwMDAwMGI3MWU0NDdiYmMwOTMzNzIzZDg4YjA2MmUxODFiNzdk",
+  "snapshot_id": "MTY1NTUyOTc0OCwwMDAwMDAwMDBlYmVjZjliMTNkNjg1NmZkM2Y0YTUyNTE0MDEyYzM4",
   "tracks": [
     {
       "added_at": "2022-06-18 05:22:28",
@@ -315,18 +315,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "System Of A Down",
-        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
+        "name": "Fallen",
+        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
       },
       "artists": [
         {
-          "name": "System Of A Down",
-          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 153800,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
+      "duration_ms": 214946,
+      "name": "Going Under",
+      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "Fallen",
-        "url": "https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm"
+        "name": "System Of A Down",
+        "url": "https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "System Of A Down",
+          "url": "https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1"
         }
       ],
-      "duration_ms": 214946,
-      "name": "Going Under",
-      "url": "https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i"
+      "duration_ms": 153800,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG"
     },
     {
       "added_at": "2022-06-18 05:22:28",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2022-06-18 05:22:28",
       "album": {
-        "name": "A Snow Capped Romance",
-        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
-      },
-      "artists": [
-        {
-          "name": "36 Crazyfists",
-          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
-        }
-      ],
-      "duration_ms": 198600,
-      "name": "Bloodwork",
-      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
-    },
-    {
-      "added_at": "2022-06-18 05:22:28",
-      "album": {
         "name": "Sevendust (Definitive Edition)",
         "url": "https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 248906,
       "name": "Black",
       "url": "https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW"
+    },
+    {
+      "added_at": "2022-06-18 05:22:28",
+      "album": {
+        "name": "A Snow Capped Romance",
+        "url": "https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9"
+      },
+      "artists": [
+        {
+          "name": "36 Crazyfists",
+          "url": "https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7"
+        }
+      ],
+      "duration_ms": 198600,
+      "name": "Bloodwork",
+      "url": "https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS"
     },
     {
       "added_at": "2022-06-18 05:22:28",

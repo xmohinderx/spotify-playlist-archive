@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 
 > Trending Sinhalese pop hits\. Cover \- Yuki Navaratne, Ravi Jay
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,069 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,085 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfNJLV7OBMA.md) - [plain]
 | 7 | [Anawakiyak](https://open.spotify.com/track/1tfds8cHC1G2emUZjs7VHM) | [Mihindu Ariyaratne](https://open.spotify.com/artist/6KH2PkV4KrlWNvANBGnZRO) | [Scattered Singles](https://open.spotify.com/album/7KNpklR3h1lj5zeFHuGlYE) | 3:56 |
 | 8 | [Na Kawadawath](https://open.spotify.com/track/4qoIePUCWByxpL9qhLYfl6) | [Dilan Weerasooriya](https://open.spotify.com/artist/5cnnucfQ5hig4YzDFqH0cF), [Lahiru De Costa](https://open.spotify.com/artist/6JiVW8Qn2R8vK1bHy6VAp1), [Prakash Ranasinghe](https://open.spotify.com/artist/4gr5pY4m0J81O0npGEq0D7) | [Na Kawadawath](https://open.spotify.com/album/4MK3ZDKdiMQqXJ8x9gxpcJ) | 3:29 |
 | 9 | [Heena Horawa](https://open.spotify.com/track/0VAmZ7Q1apKejQxeOMO0KB) | [Nethsara Weragoda](https://open.spotify.com/artist/0MC4cnVn8M5CBaeKbDTsTI) | [Heena Horawa](https://open.spotify.com/album/0ytlXnuk7zu6HcIKwsv2bs) | 3:06 |
-| 10 | [Shawty](https://open.spotify.com/track/4gGcUtvmLz1Dq4vVgDmTji) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Shawty](https://open.spotify.com/album/747J8NLkTdIQkdpTrLNIJo) | 3:26 |
+| 10 | [Shawty](https://open.spotify.com/track/4gGcUtvmLz1Dq4vVgDmTji) | [Mihiran](https://open.spotify.com/artist/5geuqF6BLOASj8FVq2Tbes) | [Shawty](https://open.spotify.com/album/747J8NLkTdIQkdpTrLNIJo) | 3:25 |
 | 11 | [Numba Langa Nathi da](https://open.spotify.com/track/76qgWaAJB1SeZcYFHSWUbc) | [Sanka Dineth](https://open.spotify.com/artist/1Uqk24JsikzOJO5gHx9AJG) | [Numba Langa Nathi da](https://open.spotify.com/album/1UAEkNz5bPwirXkdvuNLQx) | 4:41 |
 | 12 | [Ayachanawak](https://open.spotify.com/track/0uKRyCRmpd2ZXkuRavXkOC) | [Lahiru Gayashan](https://open.spotify.com/artist/45GkvwPofecgSmp6jxZOkp), [EVO BEATS](https://open.spotify.com/artist/2D3YwelCtVLnZIoq2NlSox) | [Ayachanawak](https://open.spotify.com/album/37NsQnQBIAYiBWccwGZGKR) | 4:19 |
 | 13 | [Maa Naari](https://open.spotify.com/track/0m2UX8MpKYR90anxjjePuT) | [Kumuditha Gayath](https://open.spotify.com/artist/7IJhEDq7nnC5BpRfGktsot), [Yuki Navaratne](https://open.spotify.com/artist/00ZpGGB5F7Ytw781Qsr1sR) | [Maa Naari](https://open.spotify.com/album/02GB2hdJUP8sn45hAhswAX) | 3:21 |

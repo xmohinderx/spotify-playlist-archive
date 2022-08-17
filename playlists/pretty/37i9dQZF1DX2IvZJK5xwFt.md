@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 
 > Only the best rock in the world\. Cover: Måneskin
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,751 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,842 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,7 +68,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 58 | [Something Loud](https://open.spotify.com/track/5wZK0hHduZpjWWoT0rq9p4) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Something Loud](https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1) | 3:16 |
 | 59 | [Toni](https://open.spotify.com/track/0oOi9CONKPVfTR2PqfcNSR) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Toni](https://open.spotify.com/album/1JxWTGp41Aw8KLXEyHYi68) | 4:34 |
 | 60 | [Heard It On The X](https://open.spotify.com/track/4tbHJc3pgypdIGeWxK5CwS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Heard It On The X](https://open.spotify.com/album/6HThlq6qQOLiaOigjNpHaH) | 2:50 |
-| 61 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 |
+| 61 | [Night Stalkers](https://open.spotify.com/track/22GAndLWMAxtAIkWtomcZC) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 6:38 |
 | 62 | [Hayloft II](https://open.spotify.com/track/0kYMwaQWABTkFff8AZjmYI) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [Inside \(Deluxe\)](https://open.spotify.com/album/03EqExvZuxLK86huLxGIa2) | 3:35 |
 | 63 | [The First 21](https://open.spotify.com/track/4wDPO0BFLJHFVbh0vvSljY) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [The First 21](https://open.spotify.com/album/4on00pcLDDmrTaBE52Z1Ev) | 4:13 |
 | 64 | [Opiate²](https://open.spotify.com/track/6iQDmWrbrMQ0vPfbKqqvKU) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Opiate²](https://open.spotify.com/album/13sWe0tYKenwLd2t25bHIi) | 9:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2IvZJK5xwFt.md) - [plain]
 | 74 | [All Or Nothing](https://open.spotify.com/track/0zOqKu2FY6N6BiNoC91MgY) | [Ultra Mega Cat Attack](https://open.spotify.com/artist/72GN0dgKapv61MGo3jubDg) | [All Or Nothing](https://open.spotify.com/album/6Ois0be5wOtbLrIL3Ik3iO) | 3:35 |
 | 75 | [Epiphany](https://open.spotify.com/track/37EMTlg8KIQRED2lsxuNhj) | [Mammoth WVH](https://open.spotify.com/artist/6WKdhhc03LqnixYI2ZzWzO) | [Mammoth WVH](https://open.spotify.com/album/5c9M1pUeEKoPMYLG9nry1a) | 4:28 |
 
-Snapshot ID: `MTY2MDIzNzIwMCwwMDAwMDAwMDViZjc2YjlhMWU0NTFhYzVhMDY1MzQ4M2YzNTgyYTYw`
+Snapshot ID: `MTY2MDIzNzIwMCwwMDAwMDAwMDNhMmM2ZTk0MzVmYWNlYmUwOGVkMjRjMWQ2OWU1OTRi`

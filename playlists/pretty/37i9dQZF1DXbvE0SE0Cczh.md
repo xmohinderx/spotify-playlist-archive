@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 
 ### [Jukebox Joint](https://open.spotify.com/playlist/37i9dQZF1DXbvE0SE0Cczh)
 
-> From new retro to classic country blues, honky tonk, rockabilly, and more...
+> From new retro to classic country blues, honky tonk, rockabilly, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,431 likes - 61 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,644 likes - 60 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,6 +68,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvE0SE0Cczh.md) - [plain]
 | 58 | [Samson And Delilah](https://open.spotify.com/track/3cXqVmIbnDkYuavyc23T7Q) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 3:03 |
 | 59 | [Long Tall Sally](https://open.spotify.com/track/3EyvLmKst3E6osm8ly5v5A) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Wanda Jackson](https://open.spotify.com/album/3i4ROYpkAL4528HDyp8gKw) | 1:59 |
 | 60 | [You Really Got A Hold On Me \- Remastered 2009](https://open.spotify.com/track/7rgUYidQh5tH0YlXCoKaYJ) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 3:01 |
-| 61 | [All I've Got To Do \- Remastered 2009](https://open.spotify.com/track/5tztLBvTlNC15Np2tnQ5Ll) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [With The Beatles \(Remastered\)](https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr) | 2:02 |
 
-Snapshot ID: `MTY1MTg2NDY3NCwwMDAwMDAwMDIzZmY5Y2IzOWMzZDNjOGI2ZmU0ZDE4MTlmYWRlMmZh`
+Snapshot ID: `MTY2MDY4NDgwNCwwMDAwMDAwMDU0ZjdmMDE5MzYyMTUyZDMyMmNmZDVkM2VkZWQ2YzVh`

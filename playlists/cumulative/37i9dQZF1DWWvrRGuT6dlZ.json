@@ -3333,6 +3333,24 @@
     {
       "album": {
         "name": "ARE YOU OKAY?",
+        "url": "https://open.spotify.com/album/3beRjWHdP2ciW45YB1oz6p"
+      },
+      "artists": [
+        {
+          "name": "The Peachskins",
+          "url": "https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd"
+        }
+      ],
+      "date_added": "2022-07-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112695,
+      "name": "Platform Heels",
+      "url": "https://open.spotify.com/track/4GtD3sxPVCumt5vD4iGAD6"
+    },
+    {
+      "album": {
+        "name": "ARE YOU OKAY?",
         "url": "https://open.spotify.com/album/0QdpUwL2nYTpTOgs7oDtxZ"
       },
       "artists": [
@@ -3343,7 +3361,7 @@
       ],
       "date_added": "2022-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 112695,
       "name": "Platform Heels",
       "url": "https://open.spotify.com/track/5UNXUEUP9tWQUfNHqrOSvI"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 
 > Eagles, The Byrds and all your favorite country rock
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,999 likes - 50 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,123 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 20 | [This Ol' Cowboy](https://open.spotify.com/track/0diAR6QUxrDiEBjRZSfweR) | [The Marshall Tucker Band](https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd) | [Greatest Hits](https://open.spotify.com/album/1fxEYNwdEzlAMOIzpdXy5w) | 3:39 |
 | 21 | [Train Leaves Here This Morning \- 2013 Remaster](https://open.spotify.com/track/5ro7xAxDVbtabTl8t3MzHz) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:10 |
 | 22 | [Just Can't Be](https://open.spotify.com/track/0Ov9Hh2ygoGCkwTXMRYRcp) | [The Flying Burrito Brothers](https://open.spotify.com/artist/0rESpKEusFHxhW59MIf7eM) | [The Flying Burrito Brothers](https://open.spotify.com/album/6lx6e9GACcsSRjoipxeWh1) | 4:58 |
-| 23 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih) | [New Riders of the Purple Sage](https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA) | [The Adventures Of Panama Red](https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY) | 4:03 |
-| 24 | [Morning Sun](https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu) | [Jesse Colin Young](https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M) | [Song for Juli](https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ) | 4:04 |
+| 23 | [Morning Sun](https://open.spotify.com/track/2XIZRY7dQtyUhFngzHeEUu) | [Jesse Colin Young](https://open.spotify.com/artist/2pJn4djuWrNQbNfrxHB13M) | [Song for Juli](https://open.spotify.com/album/2NHyA67soVC7mENTAxCifZ) | 4:04 |
+| 24 | [Lonesome L.A\. Cowboy](https://open.spotify.com/track/6vOV8fmbk16LYgL2CQ64ih) | [New Riders of the Purple Sage](https://open.spotify.com/artist/2D3v3HJ9k3UzehaewnT3QA) | [The Adventures Of Panama Red](https://open.spotify.com/album/1O9T5fjUzGfSa609GiDEJY) | 4:03 |
 | 25 | [Colorado](https://open.spotify.com/track/6VyuVYEJnZmlEQ5GT9LQvT) | [Stephen Stills](https://open.spotify.com/artist/4WlSvDKaq1PA2Nr7cCIPxX) | [Manassas](https://open.spotify.com/album/427BvOYZQRjTHODnreiZCo) | 2:52 |
 | 26 | [Don't Let Me Down](https://open.spotify.com/track/1PsDNPG1j7ySpFpxjHB5xb) | [Dillard & Clark](https://open.spotify.com/artist/3QcM2tU8CDY3LyzvwCj1CI) | [Through The Morning, Through The Night](https://open.spotify.com/album/4iClwik4oQvlJ9wFujkmiQ) | 3:52 |
 | 27 | [Return of the Grievous Angel \- 2006 Remaster](https://open.spotify.com/track/7vOYp7KJ8gVmVbcatSVf9J) | [Gram Parsons](https://open.spotify.com/artist/1KA3WXYMPLxomNuoE22LYd) | [Grievous Angel](https://open.spotify.com/album/6UQujMGmR5MbFsML9amCuN) | 4:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bf0P6HTTom.md) - [plain]
 | 49 | [Step on Out](https://open.spotify.com/track/5oAkG0zYaOmv9fHG7CvEBE) | [Chris Hillman](https://open.spotify.com/artist/70FybmH2MMz9fHewhnLvjs) | [Slippin Away](https://open.spotify.com/album/6p9yV1ZDhYDfvf6MSnw72Y) | 3:15 |
 | 50 | [Make A Little Magic \- 2001 Remaster](https://open.spotify.com/track/6bYroZcslsd84iw56ft2a6) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Nicolette Larson](https://open.spotify.com/artist/0NCXrh1XOnHNp4mM0JUFJw) | [Best Of](https://open.spotify.com/album/53g97Xwkme1StWj2GC3BkG) | 3:55 |
 
-Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDQ5ZTcxM2U3ZTYwZTNhNzkwZDdhMDc5OGQ3MzQ4OTcx`
+Snapshot ID: `MTY1NzA0ODI5NCwwMDAwMDAwMDgxNjI5ZjQwZmI4YmYwNDhhOWRkZjY5MjdiN2NiNGQz`

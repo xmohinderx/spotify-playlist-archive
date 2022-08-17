@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdePw2uBvpYa.md) - [plain]
 
 > <a href="https://linktr.ee/PunkaBristol">Punka</a> creates a safe space for the alternative scene with their club night at the heart of Bristol’s LGBTQIA+ community.\. This is their sound of Pride\. Photography: Delirium and Proper Job Productions
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,820 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,825 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

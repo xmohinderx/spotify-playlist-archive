@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 120828,
+  "num_followers": 120841,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDQzYWMwYmFhNjZjNDk1ZGU3N2VkZDM0ZTJkNzRlMjMy",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDQwNDkwNjQyOTE0MDcxNjdhM2E5MWM4MzU2NTgyYmI3",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Be A Man You Ant",
-        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Bratten",
-          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
-        }
-      ],
-      "duration_ms": 384055,
-      "name": "Be A Man You Ant - Original Mix",
-      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Transit",
         "url": "https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 150870,
       "name": "Transit - Radio Edit",
       "url": "https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Be A Man You Ant",
+        "url": "https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Bratten",
+          "url": "https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ"
+        }
+      ],
+      "duration_ms": 384055,
+      "name": "Be A Man You Ant - Original Mix",
+      "url": "https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Desire Lines",
-        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
-      },
-      "artists": [
-        {
-          "name": "Meanderthals",
-          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
-        }
-      ],
-      "duration_ms": 274240,
-      "name": "Andromeda (Prelude to the Future)",
-      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "CDIII",
         "url": "https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 493705,
       "name": "Love in the Night",
       "url": "https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Desire Lines",
+        "url": "https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn"
+      },
+      "artists": [
+        {
+          "name": "Meanderthals",
+          "url": "https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is"
+        }
+      ],
+      "duration_ms": 274240,
+      "name": "Andromeda (Prelude to the Future)",
+      "url": "https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D"
     },
     {
       "added_at": "2022-08-04 22:01:00",

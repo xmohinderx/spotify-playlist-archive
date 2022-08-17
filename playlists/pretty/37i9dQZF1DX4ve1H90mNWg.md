@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 
 > Texas music breaking waves\. Cover, Beyonce
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,610 likes - 55 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,614 likes - 55 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4ve1H90mNWg.md) - [plain]
 | 6 | [DFWM](https://open.spotify.com/track/7l5Fq0rRW2typ68pMfA5cp) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Bad Azz Yella Boy](https://open.spotify.com/album/4bmDbAXGlnOSJrvVh759Rx) | 3:06 |
 | 7 | [CAN'T GET OVER YOU \(feat\. Smino & Teezo Touchdown\)](https://open.spotify.com/track/0u0Wg5JO7Aza12fQJMIZ6Q) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 3:16 |
 | 8 | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/track/5Yre5nDZJT72hl9kV2nGp3) | [Maxo Kream](https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [THE VISION \(feat\. Anderson .Paak\)](https://open.spotify.com/album/61P1Wu9t9KASmMF1oQRItm) | 2:17 |
-| 9 | [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 |
+| 9 | [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [DSturdy](https://open.spotify.com/artist/48CSXing30cr4yPfwtcvcC), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 |
 | 10 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 |
 | 11 | [Spread The Opps](https://open.spotify.com/track/4ihi58h10eos6quCNQzJFl) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Spread The Opps](https://open.spotify.com/album/4gtlXf58XUz10vRE4oBJbK) | 3:01 |
 | 12 | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/track/5fFoGKU6y3121VH0kHE3us) | [Imani Williams](https://open.spotify.com/artist/7bFuEkk1929rDOdLywT3rn), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Fuck Alone \(Remix\) \[feat\. Kaash Paige\]](https://open.spotify.com/album/0E8oKtWaoYMi8EPfEY0hLW) | 3:39 |

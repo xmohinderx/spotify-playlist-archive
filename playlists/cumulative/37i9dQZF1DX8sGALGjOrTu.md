@@ -4,7 +4,7 @@
 
 > When emo and hardcore fell hard for each other.
 
-171 songs - 10 hr 59 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
+172 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/7AabT1bJ1kvk7gPJFBbjjL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Cute Without The 'E' \(Cut From The Team\)](https://open.spotify.com/track/6PsISpFaCEKwysPfwO9SfC) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends](https://open.spotify.com/album/3V0GctkS3kbM50UY6W80hN) | 3:31 | 2021-12-07 | 2022-07-29 |
 | [Cute Without The 'E' \(Cut From The Team\) \- Remastered](https://open.spotify.com/track/6OyKBwLzq4h15XmxeWf5n4) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Tell All Your Friends \(Remastered\)](https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg) | 3:32 | 2021-12-07 |  |
 | [Darling](https://open.spotify.com/track/2fXuYAddVIgpUZ7JHMFjXb) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Reach](https://open.spotify.com/album/4hxJ8XzBPYGHeHRFhEd42y) | 4:04 | 2021-12-07 | 2022-07-29 |
+| [Darling](https://open.spotify.com/track/5taNBboRgg6Bzqyj0Ymofo) | [Eyes Set To Kill](https://open.spotify.com/artist/7omnn7IRrrxdMwSwchVxNP) | [Reach](https://open.spotify.com/album/3My1QtxFQLJHo71ruUpH6Z) | 4:04 | 2021-12-07 |  |
 | [Daylight Slaving](https://open.spotify.com/track/2D2c0EGEs36su8hfpCbFJH) | [From Autumn To Ashes](https://open.spotify.com/artist/1t0af5EH36iQVJ06XnLDOt) | [Holding a Wolf By the Ears \(Bonus Version\)](https://open.spotify.com/album/20kLXwdhdk4Hi1jQ3iCcHr) | 3:38 | 2021-12-07 | 2022-07-29 |
 | [Dead!](https://open.spotify.com/track/0uukw2CgEIApv4IWAjXrBC) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 3:15 | 2021-12-07 |  |
 | [Deadbolt](https://open.spotify.com/track/53wyUzJyVHXAQEgjAs8aFi) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/6unnYn3U88wgCpBw0EzoiW) | 3:00 | 2021-12-07 | 2022-07-29 |
@@ -166,7 +167,7 @@
 | [Uneasy Hearts Weigh The Most](https://open.spotify.com/track/5oC0AAgJ7RoWOT3HznLMe1) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Dance Gavin Dance](https://open.spotify.com/album/12mJ1euri9hLMgGTT6RdQL) | 3:38 | 2021-12-07 |  |
 | [Until the Day I Die](https://open.spotify.com/track/0DKNNR9iDjwfCEpMiFXMJq) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Page Avenue](https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW) | 3:55 | 2021-12-07 |  |
 | [Vices \(feat\. Liam Cormier\)](https://open.spotify.com/track/7tu3BXZXExM38StzVqnY7I) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug), [Liam Cormier](https://open.spotify.com/artist/5IrAy16J58yAZf42VLRa5m) | [A Shipwreck In The Sand](https://open.spotify.com/album/3OOUDfRkGn4si21qq4VBpt) | 3:16 | 2021-12-07 | 2022-07-29 |
-| [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 | 2021-12-07 |  |
+| [Wake Up](https://open.spotify.com/track/6mKvriTiArIIJWa2IEQ3dN) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [The Black Swan](https://open.spotify.com/album/0Qk9nVlmC49ZNo9j14khzF) | 3:31 | 2021-12-07 | 2022-08-17 |
 | [Waking the Demon](https://open.spotify.com/track/1ZEoYuekZQo62DLFtPVdqT) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/04VE36yBM6GyJpDtD61e0p) | 4:07 | 2021-12-07 |  |
 | [Waking the Demon](https://open.spotify.com/track/6RQtpVNDkfM91CpkCuRBzP) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Scream Aim Fire](https://open.spotify.com/album/1vu0ReYrTmj5ylzSejEUsc) | 4:07 | 2021-12-07 | 2022-07-29 |
 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 | 2021-12-07 |  |

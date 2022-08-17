@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,682,391 likes - 60 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,682,970 likes - 60 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,19 +54,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 44 | [Take Me Home, Country Roads](https://open.spotify.com/track/389R9arpxdfl0JA450Qn9m) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [20th Century Masters: The Millennium Collection: Best Of Toots & The Maytals](https://open.spotify.com/album/4LqckZIG3vtFVGIeY3Q5Yz) | 3:21 |
 | 45 | [Swing Easy](https://open.spotify.com/track/6gyKNejreOJfwfeQQ7fNVw) | [The Skatalites](https://open.spotify.com/artist/4og9jrin5xH5JiFPbeGUPb) | [Ball Of Fire](https://open.spotify.com/album/09U02a0PnmQnAXSa121FVN) | 6:22 |
 | 46 | [Morning Sun](https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd) | 2:56 |
-| 47 | [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 |
-| 48 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
+| 47 | [Israelites](https://open.spotify.com/track/18GLelA5vVdzd9X7WGPmJ8) | [Desmond Dekker](https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe) | [The Definitive Collection: You Can Get It If You Really Want](https://open.spotify.com/album/7mtdUrBCYLJpUVbGIAZvf3) | 2:35 |
+| 48 | [Cool Breeze](https://open.spotify.com/track/2TF9pM5gfqgtrKHMYOKxPd) | [Big Youth](https://open.spotify.com/artist/2TdzGitZtbe3Zw3BB4SFEH) | [Riding the Roots Chariot](https://open.spotify.com/album/3K82f6Jv1CtvO5JYMWbsnB) | 3:23 |
 | 49 | [Rudy, a Message to You](https://open.spotify.com/track/2jPPgh86mHf4bpOEImL43D) | [Dandy](https://open.spotify.com/artist/5gK3fUb4UG1FXBNHOxpLwq) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 2:34 |
 | 50 | [Love And Affection](https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u) | [Pressure](https://open.spotify.com/artist/009IKtLg2rg2QMbvNtWaoh) | [Reggae Gold 2007](https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X) | 4:18 |
 | 51 | [Wa\-Do\-Dem](https://open.spotify.com/track/7578oiL9J6tFHXEjfCXFAS) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Wa\-Do\-Dem](https://open.spotify.com/album/2fGzC6ZvAqmpBr8dprAQTT) | 3:55 |
 | 52 | [Let Down](https://open.spotify.com/track/4aCsgwFhbZ8CmYAotK7W2B) | [Easy Star All\-Stars](https://open.spotify.com/artist/5FWTu1MZdB5fjKif2rZldJ), [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [Radiodread](https://open.spotify.com/album/775nfRVFPVu7WSsIju6ipJ) | 4:44 |
 | 53 | [World\-A\-Reggae](https://open.spotify.com/track/70idjVtmzhvE1tXgHYEF2y) | [Ini Kamoze](https://open.spotify.com/artist/1VJspRsoC6c0bvqhnSiFCs) | [Ini Kamoze](https://open.spotify.com/album/0RRP4qIFXHxmaMyMLzP86U) | 3:50 |
-| 54 | [Guns Of Brixton](https://open.spotify.com/track/2Rrkgr8Kd0XGNbilwip6r8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/1WztlPbmhfAOqYtD81SaKR) | 3:38 |
-| 55 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 54 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
+| 55 | [Guns Of Brixton](https://open.spotify.com/track/2Rrkgr8Kd0XGNbilwip6r8) | [Jimmy Cliff](https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf) | [Rebirth](https://open.spotify.com/album/1WztlPbmhfAOqYtD81SaKR) | 3:38 |
 | 56 | [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 |
 | 57 | [Get Up, Stand Up](https://open.spotify.com/track/4Mxv1tOYFoqkL73qKZ5gyP) | [Peter Tosh](https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN) | [Equal Rights \(Legacy Edition\)](https://open.spotify.com/album/4fUOOBGNI8k9cb4vD2hZ65) | 3:35 |
 | 58 | [Your House](https://open.spotify.com/track/0czsQ1YOT71kdVfyFoTy3U) | [Steel Pulse](https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g) | [True Democracy](https://open.spotify.com/album/6qPG09ioBMVTcgJSZpuCY8) | 3:42 |
-| 59 | [Better Must Come](https://open.spotify.com/track/34nNIDXjXDkaSghgY8XJTF) | [Delroy Wilson](https://open.spotify.com/artist/10j5vcbnSBWXZ1WYyv2a2D) | [Delroy Wilson's Big Hits](https://open.spotify.com/album/2B6fDpOYSkw07Pe7muIihM) | 2:43 |
+| 59 | [Pressure Drop](https://open.spotify.com/track/1QtWWUzwEGwpJlDRmpOSEg) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Sweet and Dandy](https://open.spotify.com/album/6sn6gS4YnlAbxzetlJsUxQ) | 2:57 |
 | 60 | [Zungguzungguguzungguzeng](https://open.spotify.com/track/4czopM9AcLjrH4IunzRoBg) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Most Wanted Series \- Yellowman](https://open.spotify.com/album/7nPRCptBHN7td5mKb6ON3N) | 6:27 |
 
-Snapshot ID: `MTYxNDcwMTkwNiwwMDAwMDAwMGI1ZmY5NDdmMmFiMmY2MDc4ZjkwMDA1NWNjODQ3Y2I5`
+Snapshot ID: `MTYxNDcwMTkwNiwwMDAwMDAwMDc3YTg0ZjY2NDY2ZGE1OGVmYTY0NzI2ZjEwYWYyMjhj`

@@ -1,12 +1,12 @@
 {
   "description": "Lay back. Chill out.",
-  "num_followers": 71895,
+  "num_followers": 72052,
   "original_name": "floating",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGZiZGIxNTUzY2E2YjE2ZWU0NzJjNjI0YzdhNTRlZWZj",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGIzZmVhODhlN2Y0MTIyOGJkYmM3Y2UxNDkwMDNjZTAx",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Love Soul",
-        "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
-      },
-      "artists": [
-        {
-          "name": "MoKenStef",
-          "url": "https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim"
-        }
-      ],
-      "duration_ms": 253040,
-      "name": "He's Mine",
-      "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Maxwell's Urban Hang Suite",
         "url": "https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 406466,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Love Soul",
+        "url": "https://open.spotify.com/album/3czBW4vnFXUkXs2wGLp02m"
+      },
+      "artists": [
+        {
+          "name": "MoKenStef",
+          "url": "https://open.spotify.com/artist/3uklrkyCGBBg5PoFTbEoim"
+        }
+      ],
+      "duration_ms": 253040,
+      "name": "He's Mine",
+      "url": "https://open.spotify.com/track/20VRVHMwAspwLA207PdKOn"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -399,30 +399,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Good & Plenty",
-        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
-      },
-      "artists": [
-        {
-          "name": "Alex Isley",
-          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        },
-        {
-          "name": "Jack Dine",
-          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Good & Plenty",
-      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "NOT TiGHT",
         "url": "https://open.spotify.com/album/6cXQ0dxd2pWCTFhZ8RIg2j"
       },
@@ -447,6 +423,30 @@
       "duration_ms": 202451,
       "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Good & Plenty",
+        "url": "https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl"
+      },
+      "artists": [
+        {
+          "name": "Alex Isley",
+          "url": "https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        {
+          "name": "Jack Dine",
+          "url": "https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE"
+        }
+      ],
+      "duration_ms": 204705,
+      "name": "Good & Plenty",
+      "url": "https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -799,22 +799,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "ALICIA",
-        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
       "artists": [
         {
-          "name": "Alicia Keys",
-          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
         }
       ],
-      "duration_ms": 241480,
-      "name": "3 Hour Drive (feat. Sampha)",
-      "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
+      "duration_ms": 198137,
+      "name": "Falling Higher",
+      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -835,6 +831,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "ALICIA",
+        "url": "https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1"
+      },
+      "artists": [
+        {
+          "name": "Alicia Keys",
+          "url": "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "duration_ms": 241480,
+      "name": "3 Hour Drive (feat. Sampha)",
+      "url": "https://open.spotify.com/track/3WBpLOiuBWlkSjqxXfqQrH"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Lost And Found",
         "url": "https://open.spotify.com/album/0CMYJkOIYIZjo6wCJtlZNq"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 277666,
       "name": "Alright",
       "url": "https://open.spotify.com/track/1wRQqmZwiF4thdQ8N7FiNv"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        }
-      ],
-      "duration_ms": 198137,
-      "name": "Falling Higher",
-      "url": "https://open.spotify.com/track/5PGop05az1aIQsb10YW5Ex"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Only With Time - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
-      },
-      "artists": [
-        {
-          "name": "Adria Kain",
-          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
-        }
-      ],
-      "duration_ms": 304411,
-      "name": "Only With Time - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Keep Your Head Up",
         "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 163725,
       "name": "Keep Your Head Up",
       "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Only With Time - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/2m68gpBt70o4bo4NJxkl78"
+      },
+      "artists": [
+        {
+          "name": "Adria Kain",
+          "url": "https://open.spotify.com/artist/2egizXtrbzmhjs0SgViG8y"
+        }
+      ],
+      "duration_ms": 304411,
+      "name": "Only With Time - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/17fEBNv11IqWe4O9592GvU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Full Circle",
+        "url": "https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE"
+      },
+      "artists": [
+        {
+          "name": "Clairmont The Second",
+          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
+        }
+      ],
+      "duration_ms": 270259,
+      "name": "Backinluv",
+      "url": "https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Play With The Changes",
         "url": "https://open.spotify.com/album/5qJ0CnwfIUUgcKFdrjRP6v"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 270000,
       "name": "GIFTED",
       "url": "https://open.spotify.com/track/6jCvpNfDksF9ociFet0nE3"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Full Circle",
-        "url": "https://open.spotify.com/album/61T2bvjnhjUEmucspVNvtE"
-      },
-      "artists": [
-        {
-          "name": "Clairmont The Second",
-          "url": "https://open.spotify.com/artist/2FtWl97A21W2V0urMwaWn7"
-        }
-      ],
-      "duration_ms": 270259,
-      "name": "Backinluv",
-      "url": "https://open.spotify.com/track/0k3WtyxIG1Hvv5nn6BwhfX"
     },
     {
       "added_at": "2022-08-12 04:01:00",

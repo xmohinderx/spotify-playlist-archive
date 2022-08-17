@@ -1349,7 +1349,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 217521,
       "name": "Feliz Feliz",
       "url": "https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX"
@@ -2239,6 +2239,28 @@
       "duration_ms": 194946,
       "name": "No Llega el Olvido",
       "url": "https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6"
+    },
+    {
+      "album": {
+        "name": "No Me Hablen de Amor",
+        "url": "https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189665,
+      "name": "No Me Hablen de Amor",
+      "url": "https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc"
     },
     {
       "album": {

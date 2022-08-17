@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Pau Laggies",
-  "num_followers": 257570,
+  "num_followers": 257645,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzMjg4MiwwMDAwMDAwMGQ5MDBmYjdjZTExMGZmMGQzNDQxYmViMjM2ZDQ3Zjkx",
+  "snapshot_id": "MTY2MDIzMjg4MiwwMDAwMDAwMGJmMTY5MjI2YmIyYjY0NjljZWRkZDc5OWNlOTNlMGEw",
   "tracks": [
     {
       "added_at": "2022-08-11 15:48:02",
@@ -331,26 +331,18 @@
     {
       "added_at": "2022-08-11 15:48:02",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
+        "name": "solo x ti",
+        "url": "https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe"
       },
       "artists": [
         {
-          "name": "Eix",
-          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
         }
       ],
-      "duration_ms": 199468,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
+      "duration_ms": 198758,
+      "name": "solo x ti",
+      "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
     },
     {
       "added_at": "2022-08-11 15:48:02",
@@ -375,18 +367,26 @@
     {
       "added_at": "2022-08-11 15:48:02",
       "album": {
-        "name": "solo x ti",
-        "url": "https://open.spotify.com/album/0x9tjfkTjrYiQuTAflIiNe"
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/1sd7FmEEWSKKgBiFDmham5"
       },
       "artists": [
         {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Eix",
+          "url": "https://open.spotify.com/artist/384MqcXCGGFh9UcjI5Tpc5"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
         }
       ],
-      "duration_ms": 198758,
-      "name": "solo x ti",
-      "url": "https://open.spotify.com/track/5DhPx1cy248eVvTBoTVrrB"
+      "duration_ms": 199468,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1vkwYB3RIvRC9ZG5KjHdqI"
     },
     {
       "added_at": "2022-08-11 15:48:02",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-08-11 15:48:02",
       "album": {
-        "name": "Amanecer",
-        "url": "https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 191601,
-      "name": "Amanecer",
-      "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
-    },
-    {
-      "added_at": "2022-08-11 15:48:02",
-      "album": {
         "name": "Duele Tanto",
         "url": "https://open.spotify.com/album/4rvwVifbqZhPG49LLMdQKe"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 193900,
       "name": "Duele Tanto",
       "url": "https://open.spotify.com/track/5aSEJUz95JqJ0mkrFOxT8M"
+    },
+    {
+      "added_at": "2022-08-11 15:48:02",
+      "album": {
+        "name": "Amanecer",
+        "url": "https://open.spotify.com/album/4GPaPlVZO5DmZO5LPt8pva"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 191601,
+      "name": "Amanecer",
+      "url": "https://open.spotify.com/track/45wQICCratOjNmYPttJAHO"
     },
     {
       "added_at": "2022-08-11 15:48:02",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-08-11 15:48:02",
       "album": {
+        "name": "NO VUELVAS",
+        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
+      },
+      "artists": [
+        {
+          "name": "KRISTAL",
+          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
+        }
+      ],
+      "duration_ms": 178178,
+      "name": "NO VUELVAS",
+      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
+    },
+    {
+      "added_at": "2022-08-11 15:48:02",
+      "album": {
         "name": "Poco a Poco",
         "url": "https://open.spotify.com/album/1XDc5KwuzjGvmsV4FAKHEl"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 196523,
       "name": "Problemas",
       "url": "https://open.spotify.com/track/0ibM1mZeNP37EH0aijBZed"
-    },
-    {
-      "added_at": "2022-08-11 15:48:02",
-      "album": {
-        "name": "NO VUELVAS",
-        "url": "https://open.spotify.com/album/0D2eL91H8kNo1FJlW1nUyg"
-      },
-      "artists": [
-        {
-          "name": "KRISTAL",
-          "url": "https://open.spotify.com/artist/7AZMHZVrYudHtNLQbXdJ7e"
-        }
-      ],
-      "duration_ms": 178178,
-      "name": "NO VUELVAS",
-      "url": "https://open.spotify.com/track/2MGiJGLfaEAyKg70lwmrq2"
     },
     {
       "added_at": "2022-08-11 15:48:02",

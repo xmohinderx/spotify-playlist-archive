@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 
 > As you prepare and settle into your romantic dinner, let us provide the soundtrack with these RnB/Soul love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,297 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,340 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 21 | [How Many Ways](https://open.spotify.com/track/4cVWa9vuwfPOukSIZN9012) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:48 |
 | 22 | [Spend The Night](https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4) | [Rahsaan Patterson](https://open.spotify.com/artist/5jVkC5rSgdK2EPfRAmtbpH) | [Rahsaan Patterson](https://open.spotify.com/album/1uMPGRwlgCjpIxjGTjg93c) | 4:53 |
 | 23 | [For You](https://open.spotify.com/track/4eI8okfmurpexL41RdjkGA) | [Kenny Lattimore](https://open.spotify.com/artist/1UjTUqWfGkof4L5HO5NmzP) | [Kenny Lattimore](https://open.spotify.com/album/1H10hT3tMPtL2uD3rIQRUE) | 3:57 |
-| 24 | [Why I Love You](https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Why I Love You \- Single](https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk) | 3:55 |
-| 25 | [Beautiful Surprise](https://open.spotify.com/track/1KeurgOTHLAwY8GCkI8heZ) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Wine & Dine](https://open.spotify.com/album/6YI4GjI1VQfBRBlndGtMYg) | 2:28 |
+| 24 | [Beautiful Surprise](https://open.spotify.com/track/1KeurgOTHLAwY8GCkI8heZ) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Wine & Dine](https://open.spotify.com/album/6YI4GjI1VQfBRBlndGtMYg) | 2:28 |
+| 25 | [Why I Love You](https://open.spotify.com/track/2xN98jvoGdfBzPS0HDMlXT) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [Why I Love You \- Single](https://open.spotify.com/album/6567j2YYSIlduWjsNQefgk) | 3:55 |
 | 26 | [You Put A Move On My Heart](https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [Q's Jook Joint](https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1) | 6:13 |
 | 27 | [Stars](https://open.spotify.com/track/1tjt1ZEVVKrih3he8zKWgE) | [Kindred The Family Soul](https://open.spotify.com/artist/3RDl7kNfhB72Ojsc2qiyfy) | [Surrender to Love](https://open.spotify.com/album/7jLmyshz30Q8A1MY3sEkGO) | 5:09 |
 | 28 | [Whenever Wherever Whatever \- Remastered 2021](https://open.spotify.com/track/5qUNf2ihX0M4uY1qi9GMRp) | [Maxwell](https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j) | [Maxwell's Urban Hang Suite](https://open.spotify.com/album/2k5YAxjmAD3DmYtmlrY64p) | 3:45 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTJNOeepZTGy.md) - [plain]
 | 46 | [Between the Sheets](https://open.spotify.com/track/7GazZcRE8uDL24PzwyUe2f) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [The Essential Isley Brothers](https://open.spotify.com/album/6EgsYSfVYAygvcDvC1IO8v) | 5:38 |
 | 47 | [Heaven Sent](https://open.spotify.com/track/6KTPvBjPoFdFOe5qHLXZk0) | [Donnie](https://open.spotify.com/artist/3fvn4MvWJXwY17wpwnlgJN) | [The Colored Section](https://open.spotify.com/album/1LOlC0sCNpY3O18pR59Ald) | 5:03 |
 | 48 | [The Ingredients Of Love \(feat\. Musiq Soulchild\)](https://open.spotify.com/track/46ojXpU8hKUPFiDhBwUt6J) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 3:56 |
-| 49 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
-| 50 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
+| 49 | [Lovin' You](https://open.spotify.com/track/1JPJQLSYAvPp4qnzC8Uk6Y) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [The Essential O'Jays](https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8) | 5:17 |
+| 50 | [Love, Need And Want You](https://open.spotify.com/track/5Ikg1hHVz53mrytVXGrztN) | [Patti LaBelle](https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn) | [The Essential Patti LaBelle](https://open.spotify.com/album/2BTLvBugU9bxzrXZtnFjn3) | 5:00 |
 
-Snapshot ID: `MTY1MzM5OTMyNiwwMDAwMDAwMGU0ODUxZWY5N2UwOGUyMjcwMDE2Yjc5MTg5YWRjOWI0`
+Snapshot ID: `MTY1MzM5OTMyNiwwMDAwMDAwMDU2ZGFlNDdiOTk4NTNiNGFkMzJhNzkxMjdlMTFiMDVj`

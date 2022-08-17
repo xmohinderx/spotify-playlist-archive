@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 
 > Dancing to electro\-pop like a robot from 1984\. Cover: Yazoo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,443 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,593 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 34 | [Gloria](https://open.spotify.com/track/15ob9SMGLWrexuPuyuMjKl) | [Laura Branigan](https://open.spotify.com/artist/4463nfFMmK1cwAWBQDwT5e) | [The Best of Branigan](https://open.spotify.com/album/2bfvV9aRLN1BseXz4FbVnW) | 4:55 |
 | 35 | [Cars](https://open.spotify.com/track/4QQEzkxcONBthDLfzqIh9S) | [Gary Numan](https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE) | [The Pleasure Principle](https://open.spotify.com/album/5xFlkqLDx3wbgqtvrez1n0) | 3:58 |
 | 36 | [Rio \- 2009 Remaster](https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 5:37 |
-| 37 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
-| 38 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 37 | [Fade To Grey](https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu) | [Visage](https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B) | [Visage](https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf) | 3:59 |
+| 38 | [The Sun Always Shines on T.V.](https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [Hunting High and Low](https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf) | 5:02 |
 | 39 | [Just Can't Get Enough \- 2006 Remaster](https://open.spotify.com/track/0xuXRQJfxmdP6gvfDe2Z4L) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak & Spell \(2006 Remaster\)](https://open.spotify.com/album/0ntg4L6zjosDII94zoyboq) | 3:42 |
 | 40 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 41 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
-| 42 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
-| 43 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
-| 44 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
-| 45 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
+| 42 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
+| 43 | [A View to a Kill](https://open.spotify.com/track/6I4snLrVOrJsLdd43isc27) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Decade](https://open.spotify.com/album/4P6rgSkSEXFGrpTk9NZUAj) | 3:37 |
+| 44 | [Always Something There to Remind Me \- 2018 Remaster](https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD) | [Naked Eyes](https://open.spotify.com/artist/3C6chBmZ9wzisBhoh8G2nK) | [Naked Eyes](https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR) | 3:39 |
+| 45 | [Axel F](https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY) | [Harold Faltermeyer](https://open.spotify.com/artist/7Cf73Z3RZQTH4V69GSDxnv) | [Harold F](https://open.spotify.com/album/5PmMpqpQl9DyiddbZLnthc) | 3:00 |
 | 46 | [Cities In Dust](https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Tinderbox](https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N) | 3:51 |
 | 47 | [Steppin' Out](https://open.spotify.com/track/2KY0QUeRY3IPuJI1gyU9BJ) | [Joe Jackson](https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT) | [Night And Day](https://open.spotify.com/album/01sMJCr0xosXP8uZ2djLvd) | 4:28 |
 | 48 | [The Model \- 2009 Remaster](https://open.spotify.com/track/1FL9DHDSED6lxNMDJUJQvB) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 3:40 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1f2CQHNexG.md) - [plain]
 | 74 | [Dancing with Tears in My Eyes](https://open.spotify.com/track/3or3oEITvJmMwZRYeWSaen) | [Ultravox](https://open.spotify.com/artist/3iUjRVvYCsMfz7tuAQtBDI) | [The Collection](https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM) | 4:04 |
 | 75 | [Imagination](https://open.spotify.com/track/0DJFfzpoWz0wiaBzqcSeuh) | [Belouis Some](https://open.spotify.com/artist/0EX1yiXXmblRFdw2pb10NF) | [Some People](https://open.spotify.com/album/2DOXuDtgzRFomH47RGG1TG) | 3:34 |
 
-Snapshot ID: `MTY0NjkzNDI0NCwwMDAwMDAwMDY1Y2Y3ZGE3N2ZiZjEwM2YzOTIzZGI3Njk3YTg2OGVj`
+Snapshot ID: `MTY0NjkzNDI0NCwwMDAwMDAwMDAwZjc2M2M4ODU3YjM3OWJkYzUxNzZkYWIzYmNhNDk3`

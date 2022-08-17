@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 334,273 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 334,289 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 15 | [Is It Enough](https://open.spotify.com/track/5CiwHSUDf9C1Uv0r4nUVLd) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Is It Enough](https://open.spotify.com/album/6zmkcJhd5cv7pBrQYPDYfY) | 2:33 |
 | 16 | [Fair](https://open.spotify.com/track/1SlGaBvTqX0gb24ouXonOo) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I) | [Fair](https://open.spotify.com/album/4x3ZBZ3p7pi1UTLVldx7YF) | 3:04 |
 | 17 | [Not Another Love Song](https://open.spotify.com/track/5XqDJFVCyRTm5J7cIfRmR1) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Not Another Love Song](https://open.spotify.com/album/5QJAMz9LqY5DC2BAjLmO7p) | 3:37 |
-| 18 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
+| 18 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
 | 19 | [Feel Like Making Love](https://open.spotify.com/track/6KYUWlts5z7bIZMpVvWpfc) | [Kay Young](https://open.spotify.com/artist/1U7TfUcph2eoBUzG3XnaXK) | [Feel Like Making Love](https://open.spotify.com/album/3Ywtb8G1uRLWRSNBZSFia2) | 4:17 |
 | 20 | [GHETTO GATSBY \(FEAT\. ALICIA KEYS\)](https://open.spotify.com/track/2krESug6AyfOL07tlaGwts) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 3:18 |
 | 21 | [All To Me](https://open.spotify.com/track/5JycxhApZmzbA4xSwvqh6k) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 2:07 |
-| 22 | [Call Me Every Day \(feat\. WizKid\)](https://open.spotify.com/track/1B5I5yqLpVI5EosZS6bJFs) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [WizKid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy](https://open.spotify.com/album/5kfM4GlfOj2PdcvcRglN86) | 2:26 |
+| 22 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
 | 23 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 |
 | 24 | [I Want It](https://open.spotify.com/track/2m8IJNtx07QEeLI9XBW9Ql) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f), [July 7](https://open.spotify.com/artist/51kPCmCJ7rXClxKDc2r4RA) | [I Want It](https://open.spotify.com/album/0Qunl0uObzKqJcxU9T99h8) | 2:48 |
 | 25 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 33 | [Promises](https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Mother](https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR) | 4:24 |
 | 34 | [Alibi](https://open.spotify.com/track/7A9aASmJF3GtnBBri3Km23) | [Jordan Mackampa](https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST) | [Come Around EP](https://open.spotify.com/album/4VQebFp9TEuKOaCu5lUUrC) | 3:48 |
 | 35 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 |
-| 36 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
-| 37 | [Intertwined](https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 2:41 |
+| 36 | [Intertwined](https://open.spotify.com/track/0P7GCKyCEugSVtpLOTl7v1) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [Somewhere In\-Between](https://open.spotify.com/album/6rV900qbJeP9I3QwrZMfsO) | 2:41 |
+| 37 | [Cigarettes & Alcohol](https://open.spotify.com/track/2A6vQ5l3fb9U1Ad7nKHUV0) | [Santino Le Saint](https://open.spotify.com/artist/49WBtnIs3VA1tHR7jQG1F6) | [Cigarettes & Alcohol](https://open.spotify.com/album/5MLIpA3CQXoXukgGckiYdT) | 3:04 |
 | 38 | [By Any Means](https://open.spotify.com/track/2UWnZrXLXIyfMgNvJr2KUa) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [By Any Means](https://open.spotify.com/album/5KGU6dXP8K978diRu0eetZ) | 3:45 |
 | 39 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 40 | [Show U Off](https://open.spotify.com/track/00selpxxljfn9n5Pf4K3VR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Show U Off](https://open.spotify.com/album/4vmD2mzd6e6UCvuQgKT00m) | 4:11 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 46 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 47 | [Bussdown \(feat\. Shaybo\)](https://open.spotify.com/track/2gP19KH3V5JlR5MycAIL3R) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Shaybo](https://open.spotify.com/artist/5QdfW7A9eh0XjCyg9XAZpy) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:21 |
 | 48 | [Wickedest](https://open.spotify.com/track/0IbJBhAkIFqTHoYjWYxpzZ) | [Tamera](https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X) | [Wickedest](https://open.spotify.com/album/5tnnQsnZmgGqIbTQH6MqLy) | 3:12 |
-| 49 | [Everybody Business](https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:45 |
-| 50 | [Sun, Moon & Herbs](https://open.spotify.com/track/6pHo3k15lbYuljy5GyZsV2) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN) | [VENOLOGY](https://open.spotify.com/album/1s8xKntAE2o35KgQnkSKje) | 4:12 |
+| 49 | [if you got a problem](https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [in defense of my own happiness](https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ) | 3:06 |
+| 50 | [Everybody Business](https://open.spotify.com/track/6TrdeNEgbKuBqIToRfdWMY) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:45 |
 
-Snapshot ID: `MTY1ODA3MjM3MSwwMDAwMDAwMDdiNTA1Yjg3ODFjNWZmYjMwNTg1MjdmOTIxNTFmNGU2`
+Snapshot ID: `MTY1ODA3MjM3MSwwMDAwMDAwMDRlODU1Yjk0ZDhjM2I1MGM0OWY4YmQ2OWE4MTgyZmVi`

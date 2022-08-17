@@ -1778,6 +1778,24 @@
     },
     {
       "album": {
+        "name": "LOSER",
+        "url": "https://open.spotify.com/album/2lofvNiQCqRcPpMzNDR6Fq"
+      },
+      "artists": [
+        {
+          "name": "Lakeview",
+          "url": "https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194896,
+      "name": "LOSER",
+      "url": "https://open.spotify.com/track/5hggNU5pVbB5bLUdg3kCeH"
+    },
+    {
+      "album": {
         "name": "Lowdown & Lonesome",
         "url": "https://open.spotify.com/album/7CwnSqmzKopo0pmwYCPSwz"
       },
@@ -2133,7 +2151,7 @@
       ],
       "date_added": "2021-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 210239,
       "name": "Rambler - Bonus Track",
       "url": "https://open.spotify.com/track/5lpqOgHzc3UmcgULPKtoSD"

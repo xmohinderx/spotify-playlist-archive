@@ -4,7 +4,7 @@
 
 > All the best new tracks this week, all in one place\. Cover: Ali Gatie, Kehlani
 
-3,316 songs - 7 day 8 hr 38 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
+3,317 songs - 7 day 8 hr 41 min - [published](https://open.spotify.com/playlist/0hFWp2G6YuhbNzCZerTb0q)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2088,7 +2088,8 @@
 | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/track/0a4x22Cu8ix2C0ylPLl7A7) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [NWA \(feat\. Lil Durk\)](https://open.spotify.com/album/4kMQqBGP8tSzvvyGPiyYTv) | 3:51 | 2022-02-18 | 2022-02-26 |
 | [Nylon](https://open.spotify.com/track/5xiuk5NXz5w5kfhZrjPjy7) | [Beau Diako](https://open.spotify.com/artist/3W02sTifN8tW1bapAkS1hu), [Tobi Tunis](https://open.spotify.com/artist/3iLIsbJ8srNU4lyNmkOHur) | [Nylon](https://open.spotify.com/album/4PW48hJSaoNVteIqMhOj0l) | 3:38 | 2022-01-07 | 2022-01-15 |
 | [O Glory Lost Those Blues Again](https://open.spotify.com/track/0eyyfDrV3arjYL1kfP1fGd) | [Blackie & The Rodeo Kings](https://open.spotify.com/artist/5Xkfy1HC5JSFKU1Z4lr3Ru) | [O Glory Lost Those Blues Again](https://open.spotify.com/album/3wE1yyIcRn5eITElpD3IS0) | 3:23 | 2022-04-22 | 2022-04-29 |
-| [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 | 2022-08-12 |  |
+| [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 | 2022-08-12 | 2022-08-17 |
+| [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:23 | 2022-08-12 |  |
 | [Oasis](https://open.spotify.com/track/7MRURZikVXKE80F1NPxiYW) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [10 Tracks to Echo in the Dark](https://open.spotify.com/album/5qVcQzxnSthvOT7OOIXDdH) | 1:53 | 2022-07-22 | 2022-07-30 |
 | [Oblivion](https://open.spotify.com/track/4dTC6SHxIibaRue2eKI2ai) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Fairlane](https://open.spotify.com/artist/3L7JnVovGbYSUmRyqhXMYO), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Oblivion](https://open.spotify.com/album/0tVfKBH8luy3wdwvIJ0dge) | 3:24 | 2022-06-03 | 2022-06-11 |
 | [Obomi Nga](https://open.spotify.com/track/1YthsroKCm3ebScYHHjoEo) | [Moonshine](https://open.spotify.com/artist/6uZcG9ex8hJKEo3XUyMxEX), [MC RedBul](https://open.spotify.com/artist/64QR3VB1Lc0fkVR9FSc6q7), [Uproot Andy](https://open.spotify.com/artist/2LAUi7E97pYUAnRzBx2vyc), [MC Azas](https://open.spotify.com/artist/4NoFJgUGH2LMOt2MtC6Vhx) | [Obomi Nga](https://open.spotify.com/album/52dGCyEMkAX9f2QVTUPdx0) | 6:14 | 2022-06-03 | 2022-06-11 |

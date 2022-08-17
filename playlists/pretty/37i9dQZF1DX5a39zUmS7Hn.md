@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 
 > New music and timeless tracks from legends only\. Cover: Brian Eno
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,538 likes - 80 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,657 likes - 80 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5a39zUmS7Hn.md) - [plain]
 | 75 | [Babies](https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [His N Hers](https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf) | 4:04 |
 | 76 | [The Passenger](https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Through The Looking Glass \(Remastered And Expanded\)](https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe) | 5:09 |
 | 77 | [Caution](https://open.spotify.com/track/111HOSfnPX1mCxwwb49BCY) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:29 |
-| 78 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
-| 79 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 |
+| 78 | [Rushing Water](https://open.spotify.com/track/3M9TxdnduVdqxf3D7kTcX5) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [The Bridge \(Deluxe\)](https://open.spotify.com/album/4oaMXmsIVvSa6EMFry9cjz) | 3:17 |
+| 79 | [Everything's Electric](https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [Everything's Electric](https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3) | 3:36 |
 | 80 | [The Only One I Know](https://open.spotify.com/track/7ziicmUOzWXAkdPriOmFk9) | [The Charlatans](https://open.spotify.com/artist/5fScAXreYFnuqwOgBsJgSd) | [Some Friendly](https://open.spotify.com/album/6Bb253vXd4mFULDwLhNf7u) | 3:58 |
 
-Snapshot ID: `MTY1OTY5ODE0NiwwMDAwMDAwMGEzYjdjOGNkMjdmZGU0MzIzOWVhNDY5NmUzMjEzYTFj`
+Snapshot ID: `MTY1OTY5ODE0NiwwMDAwMDAwMDJiNmE1ZjExMTBiMzIxODQyNjllYzQyNDdhZTc0Yjk1`

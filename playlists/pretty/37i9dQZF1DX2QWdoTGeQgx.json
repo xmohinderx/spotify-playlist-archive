@@ -1,12 +1,12 @@
 {
   "description": "Sit back and unwind to the most selamba songs around.",
-  "num_followers": 39223,
+  "num_followers": 39254,
   "original_name": "Chill Lah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMDE1OTZmZGI3ZmEwNmUxMmRlNDc4YjhlMWE2NzE0OTUz",
+  "snapshot_id": "MTY1NzQ3MTk2MiwwMDAwMDAwMGU2OWQzZDdiZjhlNWQ1MjEzMDExM2Y3MDgyODQ1YTZi",
   "tracks": [
     {
       "added_at": "2022-07-10 16:52:42",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Vicious",
-        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 149890,
-      "name": "Vicious",
-      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
         "name": "W.H.U.T",
         "url": "https://open.spotify.com/album/33hKzdCUtE6qkQJrJaDuck"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 174000,
       "name": "W.H.U.T",
       "url": "https://open.spotify.com/track/4dtmj7X21gunWoQf98hW5L"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
+        "name": "Morning Blue",
+        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+      },
+      "artists": [
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+        }
+      ],
+      "duration_ms": 217136,
+      "name": "Morning Blue",
+      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -359,18 +359,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Morning Blue",
-        "url": "https://open.spotify.com/album/2ewGI2tIH2rBS0j5avcEfG"
+        "name": "Vicious",
+        "url": "https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS"
       },
       "artists": [
         {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
         }
       ],
-      "duration_ms": 217136,
-      "name": "Morning Blue",
-      "url": "https://open.spotify.com/track/71qr4SoRZ61SKxhH4XhAqP"
+      "duration_ms": 149890,
+      "name": "Vicious",
+      "url": "https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Fourth of July",
-        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 223201,
-      "name": "Fourth of July - April Base Version",
-      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -871,6 +855,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
+        "name": "Fourth of July",
+        "url": "https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 223201,
+      "name": "Fourth of July - April Base Version",
+      "url": "https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
         "name": "Bedroom (feat. Anne-Marie)",
         "url": "https://open.spotify.com/album/2oF2nQnJr8Fg43g2oo68uX"
       },
@@ -923,22 +923,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "oh to be in love",
-        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
+        "name": "the boy",
+        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
       "artists": [
         {
-          "name": "Stephanie Poetri",
-          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+          "name": "lullaboy",
+          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
         }
       ],
-      "duration_ms": 222167,
-      "name": "Bad Haircut (feat. JVKE)",
-      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
+      "duration_ms": 216530,
+      "name": "the boy",
+      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -967,18 +963,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "the boy",
-        "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
+        "name": "oh to be in love",
+        "url": "https://open.spotify.com/album/4Nd7dd1PVy1LZgfmnp2fa9"
       },
       "artists": [
         {
-          "name": "lullaboy",
-          "url": "https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN"
+          "name": "Stephanie Poetri",
+          "url": "https://open.spotify.com/artist/0HS00NN7MAfF59aJnfcxSO"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
         }
       ],
-      "duration_ms": 216530,
-      "name": "the boy",
-      "url": "https://open.spotify.com/track/3WbHsfnKTIpte7B14whqjF"
+      "duration_ms": 222167,
+      "name": "Bad Haircut (feat. JVKE)",
+      "url": "https://open.spotify.com/track/0b8HcbULuUTZI07s1q7o4K"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -999,22 +999,6 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Eleanor",
-        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
-      },
-      "artists": [
-        {
-          "name": "Hot Chip",
-          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
-        }
-      ],
-      "duration_ms": 233469,
-      "name": "Eleanor - Edit",
-      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
         "name": "The Outsider EP",
         "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 166480,
       "name": "Pager",
       "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
+        "name": "Eleanor",
+        "url": "https://open.spotify.com/album/55cPRNZBzTJMc0B96RGoFx"
+      },
+      "artists": [
+        {
+          "name": "Hot Chip",
+          "url": "https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5"
+        }
+      ],
+      "duration_ms": 233469,
+      "name": "Eleanor - Edit",
+      "url": "https://open.spotify.com/track/4kLyAbRTMMfmAH5Fjm3cYU"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
+        "name": "Smile For Me",
+        "url": "https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        }
+      ],
+      "duration_ms": 166415,
+      "name": "Smile For Me",
+      "url": "https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ"
+    },
+    {
+      "added_at": "2022-07-10 16:52:42",
+      "album": {
         "name": "Y1",
         "url": "https://open.spotify.com/album/0xlpkNFvbonkCBiAZu0AdM"
       },
@@ -1083,18 +1099,18 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Smile For Me",
-        "url": "https://open.spotify.com/album/0swAhdQVwcJatFVNKPOkyK"
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "babychair",
+          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
         }
       ],
-      "duration_ms": 166415,
-      "name": "Smile For Me",
-      "url": "https://open.spotify.com/track/49z2kxEp9AzpDY66YuD1jJ"
+      "duration_ms": 205552,
+      "name": "Oh It's You",
+      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/3Qmqsq6dS2HaBmU8fINP6a"
+        "name": "Better With You",
+        "url": "https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC"
       },
       "artists": [
         {
-          "name": "babychair",
-          "url": "https://open.spotify.com/artist/5wDdxgQC5djHDOI6AuTnuY"
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
         }
       ],
-      "duration_ms": 205552,
-      "name": "Oh It's You",
-      "url": "https://open.spotify.com/track/1Z751eJbWWLUzgp9hpmELA"
+      "duration_ms": 166000,
+      "name": "Better With You",
+      "url": "https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn"
     },
     {
       "added_at": "2022-07-10 16:52:42",
@@ -1183,38 +1203,22 @@
     {
       "added_at": "2022-07-10 16:52:42",
       "album": {
-        "name": "Better With You",
-        "url": "https://open.spotify.com/album/1EJeyxh3t7ZlkmFi5ttQoC"
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/4gXr2hrrKhdD4X4oBsvlgr"
       },
       "artists": [
         {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+          "name": "lewloh",
+          "url": "https://open.spotify.com/artist/31TM5zBknJ7ZInbxnR0rlX"
         },
         {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+          "name": "Julia Gartha",
+          "url": "https://open.spotify.com/artist/0msMwWNlbZhRSsGqAQdPAs"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Better With You",
-      "url": "https://open.spotify.com/track/0XyHpJN5Unt4IT4Bf2Gezn"
-    },
-    {
-      "added_at": "2022-07-10 16:52:42",
-      "album": {
-        "name": "Stay Where You Are",
-        "url": "https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 209205,
-      "name": "Stay Where You Are",
-      "url": "https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD"
+      "duration_ms": 166310,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/1NikdFvytzN4sS2XTDleOp"
     }
   ],
   "unique_name": "Chill Lah",

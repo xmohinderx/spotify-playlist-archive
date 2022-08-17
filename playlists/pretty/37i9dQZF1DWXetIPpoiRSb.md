@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Caity Baser
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,931 likes - 95 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,964 likes - 95 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 23 | [Becky’s So Hot](https://open.spotify.com/track/6ehrvwZ8JHaLahNRpDGlkD) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Becky’s So Hot](https://open.spotify.com/album/1hL17hGKMW1UqEAvCX4wpE) | 2:42 |
 | 24 | [Smoke Slow](https://open.spotify.com/track/4sEN7hRcdfzDpk4wUG47qO) | [Joshua Bassett](https://open.spotify.com/artist/4VdV2qRAYBLINR6uU72V1J) | [Smoke Slow](https://open.spotify.com/album/4XJN8Qw5AGmKnDHbaiE05b) | 2:43 |
 | 25 | [Charlie](https://open.spotify.com/track/7aRSNPr2LpTl8v8jQnfWmD) | [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Charlie](https://open.spotify.com/album/4rQJk6OIbc5iVQ6V87AeyF) | 3:04 |
-| 26 | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
+| 26 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
 | 27 | [BLENDER](https://open.spotify.com/track/5VXDmiV2pC2KY2N60oKz4B) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [BLENDER](https://open.spotify.com/album/5RWbbE6qM3kNDSNyXuNNXS) | 2:27 |
 | 28 | [MUTUAL FRIEND](https://open.spotify.com/track/6qTkFd7eFndvexoySUmpNq) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [MUTUAL FRIEND](https://open.spotify.com/album/5h4ncClsNTs4SL2B0udXCT) | 3:26 |
 | 29 | [Selfish](https://open.spotify.com/track/7dy7fScRwbbmqateWfx5nN) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Selfish](https://open.spotify.com/album/59Bste0VOvfrBl5SlKuqo5) | 2:42 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 46 | [Let Us Die](https://open.spotify.com/track/5uDo40mspcWNHDCLlKTLoJ) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 3:53 |
 | 47 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 |
 | 48 | [golden hour](https://open.spotify.com/track/6GD1eomgaGT1Epto6Q5eAo) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [golden hour](https://open.spotify.com/album/0NoJBJgQc3fM2gesNXp7dS) | 3:29 |
-| 49 | [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
+| 49 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 50 | [Sweet Tooth](https://open.spotify.com/track/1eWhbJl8jKvsmF1KFPPuK7) | [Ryan Mack](https://open.spotify.com/artist/5LGo1zHegJTWzqVXgeNplt) | [Sweet Tooth](https://open.spotify.com/album/7ltVIxJWvNXqTQoRf1Gh6J) | 3:32 |
 | 51 | [Fire](https://open.spotify.com/track/6uDnDG2QenoT0oJuisqcjC) | [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Fire](https://open.spotify.com/album/0GDkha1Z5nXTHs7bP9CuX8) | 2:51 |
 | 52 | [Dolls](https://open.spotify.com/track/0tFUl3tPqBzUM2aV0gitdq) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Dolls](https://open.spotify.com/album/6NgwO4JwL6tuwwQObi0HBe) | 2:12 |

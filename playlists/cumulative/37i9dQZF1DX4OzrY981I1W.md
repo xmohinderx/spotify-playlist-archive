@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-304 songs - 18 hr 31 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
+305 songs - 18 hr 34 min - [published](https://open.spotify.com/playlist/0qDhDetE9WNOVsWzIdwgFf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Come on Mess Me Up](https://open.spotify.com/track/6lOHJvk1ss3cH42PlxyLvo) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [This Is Our Vice](https://open.spotify.com/album/4cSJTDkqQjB7WweWHdtZ48) | 3:23 | 2021-03-26 | 2022-07-29 |
 | [Coming of Age](https://open.spotify.com/track/3x5VSETP4fRjK2MoZfyVlE) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Coming of Age](https://open.spotify.com/album/4pT8v3CWFQci5DQRUVmI3G) | 4:11 | 2021-03-26 | 2022-07-29 |
 | [concussion](https://open.spotify.com/track/1h1w9olosnfBLzkRGsceCe) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [concussion](https://open.spotify.com/album/2d87gFtOj98tGAOwHxIpj2) | 4:37 | 2021-08-27 | 2022-07-29 |
-| [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-03-26 |  |
+| [Cough Syrup](https://open.spotify.com/track/1UqhkbzB1kuFwt2iy4h29Q) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:09 | 2021-03-26 | 2022-08-17 |
 | [Could It Be Another Change](https://open.spotify.com/track/50kciHpxC7QyJQujF2LUiF) | [The Samples](https://open.spotify.com/artist/4KV8ACcPuT3Jyx9Bvh6OFs) | [The Samples](https://open.spotify.com/album/4e47xNM1gZ3b43vwo2yb6z) | 3:28 | 2021-12-21 | 2022-04-17 |
 | [Crush](https://open.spotify.com/track/5bwLs2TUxldWW6ZGOI9Zx6) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Crush](https://open.spotify.com/album/5kayIDGILIGFsncMAbLPer) | 3:24 | 2021-10-01 | 2022-07-29 |
 | [Dark Red](https://open.spotify.com/track/37y7iDayfwm3WXn5BiAoRk) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/5fvUFzgVEni3L7769OabqQ) | 2:53 | 2021-08-12 |  |
@@ -254,6 +254,7 @@
 | [Strangers](https://open.spotify.com/track/3wcluZHyfuTzIXHfwXVAIE) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:13 | 2021-03-26 | 2022-07-29 |
 | [Strangers On A Train](https://open.spotify.com/track/1FZ5RwaBczmsfWbTtqmhxH) | [Geoffroy](https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ) | [Strangers On A Train](https://open.spotify.com/album/6u2oq6jbrBX3pNktO5nQfI) | 3:17 | 2021-09-24 | 2022-07-08 |
 | [striptease](https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h) | 2:40 | 2021-09-15 | 2022-07-29 |
+| [striptease](https://open.spotify.com/track/47xgQmlCCR6XNAjNcVU0co) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/1BV3rjvNM2gzE7dDYojukl) | 2:40 | 2021-09-15 |  |
 | [Stuck In The Middle With You](https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT) | [Stealers Wheel](https://open.spotify.com/artist/7bPU7cvfoD20ixGD9Qnqki) | [Stealers Wheel](https://open.spotify.com/album/5ApN9lqru1t3Xh1IaEGTll) | 3:28 | 2022-02-20 |  |
 | [Sunday Funday](https://open.spotify.com/track/0pAyXGUIrNm2oISrdAzbsw) | [TOLEDO](https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO) | [Sunday Funday](https://open.spotify.com/album/0zWuOEFvg95QOrh7qEeSMH) | 4:16 | 2021-03-26 | 2022-07-29 |
 | [Sweet Disposition](https://open.spotify.com/track/2ESvwuxy786uTcnUM1QDlK) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Conditions](https://open.spotify.com/album/3ZXAeDir6UYiUGY1WzPVrb) | 3:56 | 2021-03-26 | 2022-04-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/04m0BRLb94VPV1VP1UqK36">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,431 likes - 163 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,432 likes - 163 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,8 +125,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 115 | [Barcelona](https://open.spotify.com/track/5GZCGrWa6fXwcssIaYfVjk) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Barcelona](https://open.spotify.com/album/2JmYpDJ7VKacfW1bwAJbqU) | 2:55 |
 | 116 | [Cross Your Mind](https://open.spotify.com/track/34m8N2AMqMZZsFOt5m9ffN) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Cross Your Mind](https://open.spotify.com/album/6UxDQJ8QaC9nRxNytyfYtH) | 3:35 |
 | 117 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 |
-| 118 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
-| 119 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 118 | [Birthday Girl](https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 3:07 |
+| 119 | [NEVERMIND](https://open.spotify.com/track/02IuhAGzHtZFc1lJozOC08) | [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [NEVERMIND](https://open.spotify.com/album/0xnuMxgI3tYVFaShnNHvgD) | 2:56 |
 | 120 | [Emotion Sickness](https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Parachute](https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e), [Will Anderson](https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 3:22 |
 | 121 | [Brad Pitt](https://open.spotify.com/track/1305H2NYoSJJpRodGdh5yZ) | [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Motordrome](https://open.spotify.com/album/5PYtz6P7n4V5ryGlRIambH) | 3:01 |
 | 122 | [Conflicted](https://open.spotify.com/track/33e3om2LnwbpMvLrII4Iuw) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Vicious](https://open.spotify.com/album/6hIMdrqgLXY73T9411Y7Ux) | 3:29 |
@@ -172,4 +172,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxKmdex5v5ih.md) - [plain]
 | 162 | [On My Way](https://open.spotify.com/track/5FRkwf52xmTBh1qj97Q69d) | [Emma Constance](https://open.spotify.com/artist/2rzwqbsTmLEFXzjUYLPuhf) | [On My Way](https://open.spotify.com/album/6cd4NjWYIuzjje45zd2Unf) | 3:25 |
 | 163 | [The Rain](https://open.spotify.com/track/4pdAysesLTN6ie94tkPH8d) | [Samuel Harrell](https://open.spotify.com/artist/042NzXmTSPpXPgBfskd5Qo) | [The Book of Samuel](https://open.spotify.com/album/7aDDXSWH9gtdjySALV9nhI) | 5:22 |
 
-Snapshot ID: `Mjc2NzY4NjgsMDAwMDAwMDBhMzgxMTJhMTM4OWNmZDZkY2YwNTA3MjBkNTIzZTc0ZA==`
+Snapshot ID: `Mjc2NzgzMDgsMDAwMDAwMDAyOGY2ODM0OTEwYTlkYmJhYTJjMzhmYjcxZmVjMmVkZg==`

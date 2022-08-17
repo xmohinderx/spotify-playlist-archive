@@ -1841,7 +1841,7 @@
       ],
       "date_added": "2022-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 219428,
       "name": "Monica",
       "url": "https://open.spotify.com/track/1enk1SGVDSYragvMwcn7s8"
@@ -2095,6 +2095,24 @@
       "duration_ms": 186002,
       "name": "PALAZZO",
       "url": "https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt"
+    },
+    {
+      "album": {
+        "name": "Para",
+        "url": "https://open.spotify.com/album/2iU5X3vUdNMcAOXYqMC5OE"
+      },
+      "artists": [
+        {
+          "name": "L.A.X",
+          "url": "https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180062,
+      "name": "Para",
+      "url": "https://open.spotify.com/track/63oup3T49OzdnDqxS3Xbzb"
     },
     {
       "album": {

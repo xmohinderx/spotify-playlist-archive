@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-207 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
+208 songs - 11 hr 3 min - [published](https://open.spotify.com/playlist/2hH5qQbyuOq8mla61ka40f)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-08-05 |  |
 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 | 2021-12-20 | 2021-12-23 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-31 | 2022-05-14 |
+| [BIZCOCHITO](https://open.spotify.com/track/4kXxEhuatrvwrTQycA7s9B) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 1:49 | 2022-08-16 |  |
 | [Bored](https://open.spotify.com/track/04sN26COy28wTXYj3dMoiZ) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Bored](https://open.spotify.com/album/4iyJ8i3eKbez8JXDbsHIdZ) | 3:00 | 2021-12-20 | 2022-01-07 |
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-02-13 | 2022-08-13 |
 | [Bundles \(feat\. Taylor Girlz\)](https://open.spotify.com/track/3QqYZWQLn0evKMIRlGJeeR) | [Kayla Nicole](https://open.spotify.com/artist/0jL5A3JBu46MsYrr5JMPuT), [Taylor Girlz](https://open.spotify.com/artist/2CCqizWr7RQhtABnxW9epA) | [Bundles \(feat\. Taylor Girlz\)](https://open.spotify.com/album/7r9c4LfF8fMsCiVtDWEvyJ) | 2:34 | 2021-12-20 | 2021-12-23 |

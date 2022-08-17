@@ -4,7 +4,7 @@
 
 > Dejate llevar por los mejores lentos del rock\. Foto: Babasónicos.
 
-116 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
+117 songs - 8 hr 8 min - [published](https://open.spotify.com/playlist/3Hz5XnPKhoCMvogn26Eynm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [Me Gusta](https://open.spotify.com/track/67Q93kXygxCskeQiIP0V0j) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:49 | 2022-07-06 |  |
 | [Me Quedo Aquí](https://open.spotify.com/track/6lUBD8XA38zIFt6C0giPsP) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:37 | 2022-06-03 |  |
 | [Mejor Callar](https://open.spotify.com/track/5eWPf8IUMtKXCtolSh678f) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Luz](https://open.spotify.com/album/4C6joZxFL6lTg6tJDE9N6o) | 3:55 | 2022-07-06 | 2022-08-16 |
-| [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 |  |
+| [Miel](https://open.spotify.com/track/1L8TwjgQ8kgvFJbpp2ODiO) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoe Exitos](https://open.spotify.com/album/0A9jGSvMMxAQr9iNb5p1hr) | 5:18 | 2022-07-06 | 2022-08-17 |
 | [Mirenla](https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/2TzE5fyGKtTkci8iFNf6zW) | 4:16 | 2022-06-03 | 2022-07-29 |
 | [Motor Psico](https://open.spotify.com/track/3JPweQejF6fiEtWEJe0qsa) | [Patricio Rey y sus Redonditos de Ricota](https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ) | [Oktubre](https://open.spotify.com/album/1Eh8uP6MvoseEDTWIb8qv6) | 4:56 | 2022-06-03 |  |
 | [Mujer Amante](https://open.spotify.com/track/0zLv81RNFByXTZ3wu91y1R) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 6:03 | 2022-07-06 |  |
@@ -103,6 +103,7 @@
 | [Tan Distintos](https://open.spotify.com/track/5lVxdKsJkQClhBLK7lfurE) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o), [Carlos Tarque](https://open.spotify.com/artist/3RIiNnFu9LhnhUqIXtJatR) | [Locales Calientes](https://open.spotify.com/album/13d9lMGw8xFgzoWEZhIaLC) | 4:07 | 2022-06-03 |  |
 | [Tan lejos](https://open.spotify.com/track/2Od0CgYgYgeCXFyZazD98g) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [No te va gustar](https://open.spotify.com/album/3PxAIBUAZKdZj4Lt5APY9d) | 4:59 | 2022-06-03 | 2022-07-29 |
 | [Tan Lejos](https://open.spotify.com/track/44m9PAUZYeOEGeaTYh6NAl) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Juan Casanova](https://open.spotify.com/artist/6AvKcjNtR1AYU8wN72MvNK) | [El Camino Más Largo](https://open.spotify.com/album/1uepX7Q6C8lSh2kR96DmtX) | 4:58 | 2022-07-06 |  |
+| [Te Encontré \(Acústico\)](https://open.spotify.com/track/1yB0GiaDvlGfLDJlaHSJyl) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 3:14 | 2022-07-06 |  |
 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/38gSRcEVVB8poNBPta11SW) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/2RJzwGQFNIyHuVUqLiTJyo) | 3:14 | 2022-07-06 | 2022-08-10 |
 | [Te Encontré \(Acústico\)](https://open.spotify.com/track/5itC84WCZM04B1q2bPkumA) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/34cb3MKF8i4X0kDEPjtf4S) | 3:14 | 2022-06-03 | 2022-07-29 |
 | [Te quiero igual](https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Honestidad Brutal](https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y) | 3:55 | 2022-06-03 |  |

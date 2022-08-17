@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 
 > Chill under the stars with this instrumental playlist\. Cover: Sami Yusuf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,275 likes - 60 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,296 likes - 60 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 23 | [Aseman](https://open.spotify.com/track/01cKqNr7bXthzoZg39sklw) | [Shahram Gholami](https://open.spotify.com/artist/2JugnbSfIzPFPZGOQFdej8) | [Persian Oud, Dirine Delkhah](https://open.spotify.com/album/1IcKkU9qhXv3jSOHXXPDV4) | 5:04 |
 | 24 | [Faragh](https://open.spotify.com/track/3TXd9i00tDNyZYkqpDguQM) | [Hawa Dafi](https://open.spotify.com/artist/2zazWAnmtbQWG501SsqsU0) | [Our Story](https://open.spotify.com/album/1IKLROADmLfCk8eQrd8S4f) | 3:27 |
 | 25 | [432hz Desert Pulse](https://open.spotify.com/track/0KQVSvwDuD7tWGbIqh9BGl) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [432hz Healing Sounds from the Middle East](https://open.spotify.com/album/7b9a4k1YkKNFFreXM6Z6Jn) | 4:28 |
-| 26 | [Apology](https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI) | [Koorosh Behrad](https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5) | [Shenididar](https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4) | 4:20 |
+| 26 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 |
 | 27 | [Dubai Midnight](https://open.spotify.com/track/6BxL9ykgqQUPJucdZSqQ7j) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Romantic Arabic Moon Journey: Middle Eastern Love, Oasis of Passion, Oriental Lovers, Tantric Lesson](https://open.spotify.com/album/3hzekYvCfScgreyPMdVD18) | 3:33 |
-| 28 | [Gypsy \(Kouli\), Oud](https://open.spotify.com/track/726DmxUPgXO14R8DxWadxi) | [Hamed Nikpay](https://open.spotify.com/artist/6zu1JcNYULXTVw509cemBy) | [Solo Passage \(Gozar\)](https://open.spotify.com/album/4lNLgHmSdqKeK85MoPYLdZ) | 3:24 |
+| 28 | [Apology](https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI) | [Koorosh Behrad](https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5) | [Shenididar](https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4) | 4:20 |
 | 29 | [Lucent Path](https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U) | [NAYAT](https://open.spotify.com/artist/3JjhxaFpKE0rfGl5ik6gNC) | [Lucent Path](https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d) | 3:44 |
 | 30 | [Rain Drops](https://open.spotify.com/track/3NI3Cc0IbCZuDsNQrC4sxf) | [Shardad Rohani](https://open.spotify.com/artist/3riIYGDJMkjK1OenmRUMrW), [Scheherazade Quartet](https://open.spotify.com/artist/4YuORJGHaZw7VCi8ENOqcD) | [Scheherazade Quartet](https://open.spotify.com/album/6Z6dWvnag0xnNSw1XArZLD) | 3:31 |
 | 31 | [The Hanging Moon](https://open.spotify.com/track/6znb1dls6rehKz9MB7L8Hk) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [The Long March](https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5) | 4:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1SGz4XfZKy2.md) - [plain]
 | 59 | [Hijaz Gar](https://open.spotify.com/track/3qd14A0bN2TtwbKL3sIftg) | [Nay](https://open.spotify.com/artist/115twMENpjlhs3FdXAIiZ8) | [Arabian Classical Music](https://open.spotify.com/album/1ytYzKzs6FGeV6MWLFzqpR) | 3:31 |
 | 60 | [Ikarus' Dream](https://open.spotify.com/track/0qgmSm0xhQo8hR5OVvu2ff) | [Quadro Nuevo](https://open.spotify.com/artist/02VSzyVA68par8UGNNRbAN), [Cairo Steps](https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow) | [Flying Carpet](https://open.spotify.com/album/5xNlapmJSkP9oOnTX2Xy7b) | 3:43 |
 
-Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDY3MzFmNjE1NmYxNDJjZWM1MzIzOTlmZTYxNTVmMmIy`
+Snapshot ID: `MTYxODE0NzUxOSwwMDAwMDAwMDA2OTRiZDI5M2JjZjU2NDU5MmE4N2Q5NjBkOWU1YmEx`

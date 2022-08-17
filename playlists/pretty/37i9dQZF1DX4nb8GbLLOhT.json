@@ -1,12 +1,12 @@
 {
   "description": "Classic songs like you've never heard before. Cover: Shawn Mendes, Maddie & Tae, and John Legend. ",
-  "num_followers": 276315,
+  "num_followers": 276336,
   "original_name": "Spotify Singles: Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTg0OTM2NSwwMDAwMDAwMDNiMTg3ZjI3Yjk0ZDllNzBmNDNmYmY4NWYyOTdkNjMz",
+  "snapshot_id": "MTY1NTg0OTM2NSwwMDAwMDAwMDFlOTM5NGNjODZkZGM1MGNkMzEyYWQ3YTgyNmNkMTZh",
   "tracks": [
     {
       "added_at": "2022-06-21 22:09:25",
@@ -148,6 +148,22 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq"
       },
       "artists": [
@@ -175,22 +191,6 @@
       "duration_ms": 183052,
       "name": "Stand by Me - Recorded at RAK Studios, London",
       "url": "https://open.spotify.com/track/4GhFz9YVbihQJlq5pFFPgD"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -344,22 +344,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 361546,
-      "name": "Bennie And The Jets - Recorded At The Colosseum, Caesars Palace, Las Vegas",
-      "url": "https://open.spotify.com/track/144y07SeEatHOBswM3BZHk"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ll3Cf5KaoLl6toqeSlClH"
       },
       "artists": [
@@ -371,6 +355,22 @@
       "duration_ms": 262826,
       "name": "I Wanna Dance With Somebody (Who Loves Me) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Nca5js9xKegX655YZ43Uq"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7HNrFnh0uwG7DuXdgGEY0z"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 361546,
+      "name": "Bennie And The Jets - Recorded At The Colosseum, Caesars Palace, Las Vegas",
+      "url": "https://open.spotify.com/track/144y07SeEatHOBswM3BZHk"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -540,22 +540,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 152377,
-      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
-      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0Q6SEonIrUCqHqYaj4ZWzr"
       },
       "artists": [
@@ -571,6 +555,22 @@
       "duration_ms": 247102,
       "name": "I Just Called to Say I Love You - Recorded at RCA Studio A, Nashville",
       "url": "https://open.spotify.com/track/605rBHHOx8pF5kCEC2RDag"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6WFgRdGLClgQWNNWgokbAD"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 152377,
+      "name": "My Sharona - Live Session from Abbey Road Studios, London, UK",
+      "url": "https://open.spotify.com/track/361ef8N2HYBcKgiU11kkfH"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -632,22 +632,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 207600,
-      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
-      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK"
       },
       "artists": [
@@ -659,6 +643,22 @@
       "duration_ms": 346397,
       "name": "Hallelujah - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7n2MqOxGeX7chH9Ld11cyA"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 207600,
+      "name": "I'm Goin' Down - Recorded at Electric Lady Studios NYC",
+      "url": "https://open.spotify.com/track/4l7aryEsduuO7tQU8ZY46e"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -840,6 +840,22 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 170677,
+      "name": "Don't Let It Bring You Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6eLUwUJbXC9E94RuP5Qg4Y"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6w7pl7sOuPf7Kbe1bM4ADK"
       },
       "artists": [
@@ -867,22 +883,6 @@
       "duration_ms": 308756,
       "name": "Love and Happiness",
       "url": "https://open.spotify.com/track/2Q4iDZrwPmn5aEqWFYyPR2"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 170677,
-      "name": "Don't Let It Bring You Down - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6eLUwUJbXC9E94RuP5Qg4Y"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -936,22 +936,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 281453,
-      "name": "You Oughta Know",
-      "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
       },
       "artists": [
@@ -963,6 +947,22 @@
       "duration_ms": 365302,
       "name": "Hysteria - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2RWd4riqvRVk586L76g9Vq"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 281453,
+      "name": "You Oughta Know",
+      "url": "https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -988,22 +988,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 174094,
-      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4Od3ObjvGfZybirpKZBrcg"
       },
       "artists": [
@@ -1020,17 +1004,17 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+        "url": "https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4"
       },
       "artists": [
         {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
         }
       ],
-      "duration_ms": 255320,
-      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
+      "duration_ms": 174094,
+      "name": "Don't Let Me Down - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1047,6 +1031,22 @@
       "duration_ms": 145747,
       "name": "- - Recorded at Electric Lady Studios, New York",
       "url": "https://open.spotify.com/track/68H747D2LgwsPsPlVjFZUR"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5nUKNLU2nc5JlmCrzXrJ65"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 255320,
+      "name": "A Change Is Gonna Come - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5n93CqWLaMZxD7PzMWRLUn"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1180,22 +1180,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 239487,
-      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3VJRDS3Xv9kAE8NLA9rHX1"
       },
       "artists": [
@@ -1207,6 +1191,22 @@
       "duration_ms": 231496,
       "name": "What's Going On - Recorded at Neptune Valley, LA",
       "url": "https://open.spotify.com/track/2oCvlNPQ3EsLOBo1WkWz0K"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aopXLUhE3lthQLauMTC8X"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 239487,
+      "name": "Don\u2019t You (Forget About Me) - live from Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/09YeOSHcAdk3Bqel03yIw9"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1248,6 +1248,22 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4vL7Dk1tzpksoDl6ZKJ8H9"
+      },
+      "artists": [
+        {
+          "name": "Phil Wickham",
+          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
+        }
+      ],
+      "duration_ms": 221237,
+      "name": "What a Wonderful World - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/23eXBuGFc0aHSnDhYXaAZk"
       },
       "artists": [
@@ -1275,22 +1291,6 @@
       "duration_ms": 257323,
       "name": "Accidentally Like a Martyr - Recorded at Spotify Studios NYC, 6/07/2017",
       "url": "https://open.spotify.com/track/6JVrRGTD8lra7CFS1FMOr4"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4vL7Dk1tzpksoDl6ZKJ8H9"
-      },
-      "artists": [
-        {
-          "name": "Phil Wickham",
-          "url": "https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu"
-        }
-      ],
-      "duration_ms": 221237,
-      "name": "What a Wonderful World - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/60WpbrUWeXDBQlSrs8haWi"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1688,22 +1688,6 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH"
-      },
-      "artists": [
-        {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        }
-      ],
-      "duration_ms": 262642,
-      "name": "Take Me Home, Country Road - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6Q9QCXE8F7ubD0PE2bialv"
       },
       "artists": [
@@ -1715,6 +1699,22 @@
       "duration_ms": 300049,
       "name": "Bridge over Troubled Water - Recorded at Spotify Studios New York City",
       "url": "https://open.spotify.com/track/0b0Q8bYchJLk4fCIyJhC0i"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3ZDrKkU07CxXL2WxxXyoxH"
+      },
+      "artists": [
+        {
+          "name": "Toots & The Maytals",
+          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
+        }
+      ],
+      "duration_ms": 262642,
+      "name": "Take Me Home, Country Road - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0iAJ5J7hGRnaY3zWXACbws"
     },
     {
       "added_at": "2022-06-21 22:09:25",
@@ -1816,6 +1816,22 @@
       "added_at": "2022-06-21 22:09:25",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX"
+      },
+      "artists": [
+        {
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
+        }
+      ],
+      "duration_ms": 222123,
+      "name": "Help",
+      "url": "https://open.spotify.com/track/7wifljlfSW0DS8oFqcoErZ"
+    },
+    {
+      "added_at": "2022-06-21 22:09:25",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/08XmZEKHQzIPvf5Tfeo4HS"
       },
       "artists": [
@@ -1831,22 +1847,6 @@
       "duration_ms": 199072,
       "name": "Over And Over - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/05QUNkTFq3kK0Q062LDVxA"
-    },
-    {
-      "added_at": "2022-06-21 22:09:25",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Tl9v8oev0uLTGUqnoVhQX"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 222123,
-      "name": "Help",
-      "url": "https://open.spotify.com/track/7wifljlfSW0DS8oFqcoErZ"
     },
     {
       "added_at": "2022-06-21 22:09:25",

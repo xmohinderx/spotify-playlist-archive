@@ -4,7 +4,7 @@
 
 > Puras rolitas pa' destapar un bote y empinar el codo.
 
-179 songs - 9 hr 49 min - [published](https://open.spotify.com/playlist/68YjfZW6MIr31wwtg2GkfN)
+180 songs - 9 hr 52 min - [published](https://open.spotify.com/playlist/68YjfZW6MIr31wwtg2GkfN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2022-02-01 |  |
 | [Eslabón Por Eslabón](https://open.spotify.com/track/75vBz6v4IrakqmnqNTdnE0) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ni Dada La Quiero](https://open.spotify.com/album/1wJklr611fFhZoveD89y4F) | 3:02 | 2022-01-07 | 2022-07-29 |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2022-06-20 | 2022-07-20 |
-| [Feliz Feliz](https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:37 | 2022-01-07 |  |
+| [Feliz Feliz](https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:37 | 2022-01-07 | 2022-08-17 |
 | [Fuera de Servicio \- En Vivo](https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q) | 3:26 | 2022-06-08 |  |
 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 | 2022-01-07 | 2022-06-09 |
 | [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-03-04 |  |
@@ -125,6 +125,7 @@
 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 | 2022-04-18 |  |
 | [No Hay Novedad](https://open.spotify.com/track/1cvuESXANPuTV27IFPRtPu) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/37ftvMPjA81bYds5F0NKZs) | 3:04 | 2022-01-07 | 2022-07-29 |
 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 | 2022-04-18 | 2022-06-21 |
+| [No Me Hablen de Amor](https://open.spotify.com/track/7K0uP89lMORMUgH1hBwpJc) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [No Me Hablen de Amor](https://open.spotify.com/album/05ef9VbIUj8OwNCZSbW8At) | 3:09 | 2022-08-16 |  |
 | [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-07-15 |  |
 | [Nunca Dudes En Llamarme](https://open.spotify.com/track/2cS7uDj2vfJeUazHoKJnyu) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz), [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Nunca Dudes En Llamarme](https://open.spotify.com/album/3fahKcjOep1m0j2jovzx96) | 3:24 | 2022-07-15 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-01-07 |  |

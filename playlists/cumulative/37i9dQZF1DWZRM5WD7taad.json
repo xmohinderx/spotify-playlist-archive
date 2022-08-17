@@ -808,6 +808,24 @@
     },
     {
       "album": {
+        "name": "Final Fantasy",
+        "url": "https://open.spotify.com/album/2WZ6YtJNQR2YGJ1ICuqIpt"
+      },
+      "artists": [
+        {
+          "name": "Lil Boo",
+          "url": "https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193104,
+      "name": "Final Fantasy",
+      "url": "https://open.spotify.com/track/36wFYnv9kmqepKlE7nAP44"
+    },
+    {
+      "album": {
         "name": "FREAKY",
         "url": "https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH"
       },

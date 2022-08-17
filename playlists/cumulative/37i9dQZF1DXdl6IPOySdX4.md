@@ -4,7 +4,7 @@
 
 > you up?
 
-287 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
+288 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/6GUFuO0Q1XAMf72LhfZhhe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,7 +69,7 @@
 | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [CYBAH \(feat\. Lucky Daye\)](https://open.spotify.com/album/5gjFuT34mMkuHKrqe5hWEG) | 4:04 | 2022-03-18 | 2022-04-16 |
 | [Daddy Issues](https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Wiped Out!](https://open.spotify.com/album/18iFxjZugvKhuNNMbLjZJF) | 4:20 | 2022-02-04 |  |
 | [Dandelions \- slowed + reverb](https://open.spotify.com/track/6fhG2KJgwO7CrNflRaRmvp) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY), [slater](https://open.spotify.com/artist/0JSCWkJNFGt7o4YbYcplQ7) | [Dandelions \(slowed + reverb\)](https://open.spotify.com/album/0W26SC6AcPdqk1Hz5hfWnj) | 4:28 | 2022-02-04 |  |
-| [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2022-02-04 |  |
+| [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2022-02-04 | 2022-08-17 |
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-04-01 | 2022-04-20 |
 | [DFMU](https://open.spotify.com/track/3la7i4yJUIqcXPoRoo3w8d) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [DFMU](https://open.spotify.com/album/4QyarUpVRUQ2NCsf7NBO3k) | 3:17 | 2022-02-11 | 2022-04-16 |
 | [Die For You](https://open.spotify.com/track/2bk3kDxxFLHafZDuw06Fxs) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [The Highlights](https://open.spotify.com/album/5L5evi5tJPh8WaEFAQp7Tp) | 4:20 | 2022-02-04 |  |
@@ -271,6 +271,7 @@
 | [Too Fast](https://open.spotify.com/track/42QRyJd5x6e2TFR1S41g2p) | [Sonder](https://open.spotify.com/artist/2ICR2m4hOBPhaYiZB3rnLW) | [Too Fast](https://open.spotify.com/album/3VOtFn4nuS6eOiwBMnEY2j) | 5:08 | 2022-03-25 | 2022-04-21 |
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-11 | 2022-07-29 |
 | [Trust](https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 2:38 | 2022-02-04 |  |
+| [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-16 |  |
 | [Under The Moon](https://open.spotify.com/track/2IN5IspnDC534fzg16WtWF) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Modus Vivendi](https://open.spotify.com/album/6Q2rUMVAKj1DaDh3xB0IEU) | 3:27 | 2022-03-25 | 2022-04-19 |
 | [Unloyal \(with Ari Lennox\)](https://open.spotify.com/track/081Shn2hU3YxvQmGaCPegr) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:27 | 2022-03-25 | 2022-04-19 |
 | [Unravel Me](https://open.spotify.com/track/5TVlcZRCVoJVi9OaDvGxEB) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:05 | 2022-03-25 | 2022-04-20 |

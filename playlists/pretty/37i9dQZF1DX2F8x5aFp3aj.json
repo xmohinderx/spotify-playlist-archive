@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 113123,
+  "num_followers": 113232,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMGRlZWU4NmM4YWEyMTUzMWNmOGJhODUyNWFmYTI4ZWJk",
+  "snapshot_id": "MTY1NjY0MzU1MiwwMDAwMDAwMGEzODU0NjhkMWQ4ODA2M2Q3YzRkNDBlYTA2MjcwZTFh",
   "tracks": [
     {
       "added_at": "2022-05-30 14:46:37",
@@ -123,22 +123,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Surfer Rosa",
-        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 234973,
-      "name": "Where Is My Mind? - Remastered",
-      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Surfer Rosa",
+        "url": "https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9"
+      },
+      "artists": [
+        {
+          "name": "Pixies",
+          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        }
+      ],
+      "duration_ms": 234973,
+      "name": "Where Is My Mind? - Remastered",
+      "url": "https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -635,18 +635,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Hunting High and Low",
-        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
       },
       "artists": [
         {
-          "name": "a-ha",
-          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
         }
       ],
-      "duration_ms": 302400,
-      "name": "The Sun Always Shines on T.V.",
-      "url": "https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc"
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -667,18 +667,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+        "name": "Hunting High and Low",
+        "url": "https://open.spotify.com/album/1ER3B6zev5JEAaqhnyyfbf"
       },
       "artists": [
         {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+          "name": "a-ha",
+          "url": "https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE"
         }
       ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
+      "duration_ms": 302400,
+      "name": "The Sun Always Shines on T.V.",
+      "url": "https://open.spotify.com/track/0HoaLXRp7jJtdQFunUyUGc"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -907,22 +907,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/3gMzGxXgstsEZEfjdsIwnM"
       },
@@ -939,22 +923,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Songs to Learn & Sing",
-        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
-      },
-      "artists": [
-        {
-          "name": "Echo & the Bunnymen",
-          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
-        }
-      ],
-      "duration_ms": 346280,
-      "name": "The Killing Moon",
-      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Naked Eyes",
         "url": "https://open.spotify.com/album/7yxf90I32wPEXr7hLp3CKR"
       },
@@ -967,6 +935,38 @@
       "duration_ms": 219373,
       "name": "Always Something There to Remind Me - 2018 Remaster",
       "url": "https://open.spotify.com/track/3yWAyRHfclztY1TzF2gAUD"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Songs to Learn & Sing",
+        "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
+      },
+      "artists": [
+        {
+          "name": "Echo & the Bunnymen",
+          "url": "https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z"
+        }
+      ],
+      "duration_ms": 346280,
+      "name": "The Killing Moon",
+      "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Tinderbox",
-        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Cities In Dust",
-      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Broadcast",
         "url": "https://open.spotify.com/album/3wCe8HjHk6QNGcf5D3jgW1"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Tinderbox",
+        "url": "https://open.spotify.com/album/4JLLAw7R40SnvwkUt9B63N"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Cities In Dust",
+      "url": "https://open.spotify.com/track/2xq9cLlOPyLoi8kLlR4miz"
     },
     {
       "added_at": "2021-09-28 03:14:02",

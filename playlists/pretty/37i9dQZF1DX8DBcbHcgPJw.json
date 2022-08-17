@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Cumbia Pop! \nFoto: Marama.",
-  "num_followers": 1137681,
+  "num_followers": 1137712,
   "original_name": "Dame M\u00e1s Cumbia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTgwODQ3NCwwMDAwMDAwMGU3YmE5MjA1YjYyMDdkZjdhZmFhM2NlZjE3YWZlOTQx",
+  "snapshot_id": "MTY1OTgwODQ3NCwwMDAwMDAwMGUzNWNmODkwN2ZmMWJkNGNhYWQyNGUxZWYwNzk1MTVi",
   "tracks": [
     {
       "added_at": "2022-08-06 17:54:34",
@@ -795,22 +795,6 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "C14TORCE V: Balada para un Alien",
-        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
-      },
-      "artists": [
-        {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
-        }
-      ],
-      "duration_ms": 170146,
-      "name": "C14TORCE V: Balada para un Alien",
-      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
         "name": "No Te Contaron Mal",
         "url": "https://open.spotify.com/album/1SA0I1FbYvDLQ4KJ3KORMl"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 176864,
       "name": "No Te Contaron Mal",
       "url": "https://open.spotify.com/track/3kTbCMCftDxUscAi7VO4nA"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "C14TORCE V: Balada para un Alien",
+        "url": "https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "duration_ms": 170146,
+      "name": "C14TORCE V: Balada para un Alien",
+      "url": "https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -875,6 +875,26 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
+      },
+      "artists": [
+        {
+          "name": "Roman El Original",
+          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+        },
+        {
+          "name": "La Kuppe",
+          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+        }
+      ],
+      "duration_ms": 201804,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
         "name": "Persia / YO SE QUE TU / Millonario",
         "url": "https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs"
       },
@@ -887,30 +907,6 @@
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
-        "name": "Se Pic\u00f3",
-        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        },
-        {
-          "name": "El Reja",
-          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        }
-      ],
-      "duration_ms": 139430,
-      "name": "Se Pic\u00f3",
-      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -951,22 +947,26 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/1qYntEy4y4mTAisca3zseT"
+        "name": "Se Pic\u00f3",
+        "url": "https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN"
       },
       "artists": [
         {
-          "name": "Roman El Original",
-          "url": "https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ"
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
         },
         {
-          "name": "La Kuppe",
-          "url": "https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
         }
       ],
-      "duration_ms": 201804,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/0kS31L4yk4ZpSCvvwyZ6T3"
+      "duration_ms": 139430,
+      "name": "Se Pic\u00f3",
+      "url": "https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1067,34 +1067,18 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "Color\u00edn Colorado",
-        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
+        "name": "Piel a Piel",
+        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+          "name": "Dame 5",
+          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
         }
       ],
-      "duration_ms": 144879,
-      "name": "Color\u00edn Colorado",
-      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
-        "name": "Cuesti\u00f3n de tiempo",
-        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
-      },
-      "artists": [
-        {
-          "name": "Los Totora",
-          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "No hay m\u00e1s nada",
-      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
+      "duration_ms": 155350,
+      "name": "Piel a Piel",
+      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1119,18 +1103,50 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "Piel a Piel",
-        "url": "https://open.spotify.com/album/2yNvAGaBafYOZbQsG7wQaJ"
+        "name": "Cuesti\u00f3n de tiempo",
+        "url": "https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw"
       },
       "artists": [
         {
-          "name": "Dame 5",
-          "url": "https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k"
+          "name": "Los Totora",
+          "url": "https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2"
         }
       ],
-      "duration_ms": 155350,
-      "name": "Piel a Piel",
-      "url": "https://open.spotify.com/track/2q3B7GLCEA4uYvuo2g5P82"
+      "duration_ms": 234813,
+      "name": "No hay m\u00e1s nada",
+      "url": "https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "Color\u00edn Colorado",
+        "url": "https://open.spotify.com/album/5ld5bzkg4MOUFInh8lV2bJ"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        }
+      ],
+      "duration_ms": 144879,
+      "name": "Color\u00edn Colorado",
+      "url": "https://open.spotify.com/track/09K2c3P19DSrg0Lx01jwPg"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 199495,
+      "name": "La Noche No Es para Dormir",
+      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1155,22 +1171,6 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 199495,
-      "name": "La Noche No Es para Dormir",
-      "url": "https://open.spotify.com/track/07ZHn1csuJvAQAZiYFds12"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
         "name": "#Tocoparavos",
         "url": "https://open.spotify.com/album/3cz9fxBXppuImbufikGk2D"
       },
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "No Aguanto M\u00e1s",
-        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
       },
       "artists": [
         {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Sebastian Mendoza",
-          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
         }
       ],
-      "duration_ms": 194690,
-      "name": "No Aguanto M\u00e1s",
-      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+      "duration_ms": 475951,
+      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
+      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1227,22 +1223,6 @@
       "duration_ms": 199270,
       "name": "Vas a Querer Regresar",
       "url": "https://open.spotify.com/track/7edrOJQGGvR09QnJ41xH1S"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 475951,
-      "name": "Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera",
-      "url": "https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1283,22 +1263,6 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "Te Quiero y Nada M\u00e1s",
-        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
-      },
-      "artists": [
-        {
-          "name": "Natalie Perez",
-          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
-        }
-      ],
-      "duration_ms": 192267,
-      "name": "Te Quiero y Nada M\u00e1s",
-      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
         "name": "Vamo A Tomar Una",
         "url": "https://open.spotify.com/album/69k6xwyz8YkBgOPjrRpfl0"
       },
@@ -1311,6 +1275,42 @@
       "duration_ms": 129412,
       "name": "Vamo A Tomar Una",
       "url": "https://open.spotify.com/track/3sfGiBLYZMgepk2kaS8Zyx"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "No Aguanto M\u00e1s",
+        "url": "https://open.spotify.com/album/3sgBdgPI4BrUHGpgLEvYgF"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Sebastian Mendoza",
+          "url": "https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg"
+        }
+      ],
+      "duration_ms": 194690,
+      "name": "No Aguanto M\u00e1s",
+      "url": "https://open.spotify.com/track/3zJyIy2A092fKIbkZJPzrz"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "Te Quiero y Nada M\u00e1s",
+        "url": "https://open.spotify.com/album/1kVJ7GB3MUhabGNAip8URA"
+      },
+      "artists": [
+        {
+          "name": "Natalie Perez",
+          "url": "https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE"
+        }
+      ],
+      "duration_ms": 192267,
+      "name": "Te Quiero y Nada M\u00e1s",
+      "url": "https://open.spotify.com/track/231pfMiC6M3uoGL6O040wx"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
+        "name": "Maravillosa Esta Noche",
+        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 242400,
+      "name": "Maravillosa Esta Noche",
+      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
         "name": "Chau",
         "url": "https://open.spotify.com/album/73AXit9w1t8uIBkMtiGHTF"
       },
@@ -1379,6 +1395,22 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
+        "name": "Cumbia Baby!",
+        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
+      },
+      "artists": [
+        {
+          "name": "Mano Arriba",
+          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
+        }
+      ],
+      "duration_ms": 164081,
+      "name": "El Equivocado",
+      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
         "name": "Rey de Copas",
         "url": "https://open.spotify.com/album/2ARvKiDnoUZGuA4MWWwVVR"
       },
@@ -1395,38 +1427,6 @@
       "duration_ms": 152910,
       "name": "Rey de Copas",
       "url": "https://open.spotify.com/track/3qLqWz9ox83HTnBnLEAmsS"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
-        "name": "Maravillosa Esta Noche",
-        "url": "https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 242400,
-      "name": "Maravillosa Esta Noche",
-      "url": "https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
-        "name": "Cumbia Baby!",
-        "url": "https://open.spotify.com/album/6JJ8pGKXBqfuDeYTyEl1kG"
-      },
-      "artists": [
-        {
-          "name": "Mano Arriba",
-          "url": "https://open.spotify.com/artist/4YBAOrBF9vBB9inOLtpRzp"
-        }
-      ],
-      "duration_ms": 164081,
-      "name": "El Equivocado",
-      "url": "https://open.spotify.com/track/4bi9EKw1E7hDldh36dhp1R"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "El Color de Tus Ojos",
-        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
-      },
-      "artists": [
-        {
-          "name": "Agapornis",
-          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
-        }
-      ],
-      "duration_ms": 156821,
-      "name": "El Color de Tus Ojos",
-      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
         "name": "Todavia Me Amas / La Novelita / Los Infieles",
         "url": "https://open.spotify.com/album/7H121ttrb3Hz1D34G2KJW0"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 263496,
       "name": "Todavia Me Amas / La Novelita / Los Infieles",
       "url": "https://open.spotify.com/track/4LN5b4doyzFdKK9SgwEm8p"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "El Color de Tus Ojos",
+        "url": "https://open.spotify.com/album/4nL0XYZSkhZZaFQvNvxbMO"
+      },
+      "artists": [
+        {
+          "name": "Agapornis",
+          "url": "https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1"
+        }
+      ],
+      "duration_ms": 156821,
+      "name": "El Color de Tus Ojos",
+      "url": "https://open.spotify.com/track/7nmV1InGzooNuPx6iSPwHz"
     },
     {
       "added_at": "2022-08-06 17:54:34",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2022-08-06 17:54:34",
       "album": {
-        "name": "Enganchado #TocoParaVos (Cumbia mix)",
-        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
-      },
-      "artists": [
-        {
-          "name": "#TocoParaVos",
-          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Enganchado #TocoParaVos - Cumbia Mix",
-      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
-    },
-    {
-      "added_at": "2022-08-06 17:54:34",
-      "album": {
         "name": "Por Eso Canto para Bailar",
         "url": "https://open.spotify.com/album/1q5McGPHaKrkksCbFYFzdA"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 201000,
       "name": "Se Pone Loca",
       "url": "https://open.spotify.com/track/0FVuUna31PTRmWGLs8W1o4"
+    },
+    {
+      "added_at": "2022-08-06 17:54:34",
+      "album": {
+        "name": "Enganchado #TocoParaVos (Cumbia mix)",
+        "url": "https://open.spotify.com/album/5qFl9f5Vqa9Vq9kDThhGFy"
+      },
+      "artists": [
+        {
+          "name": "#TocoParaVos",
+          "url": "https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Enganchado #TocoParaVos - Cumbia Mix",
+      "url": "https://open.spotify.com/track/7zW4IqrzU6dTLw3CM72Qbo"
     },
     {
       "added_at": "2022-08-06 17:54:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > Descubre hoy a los artistas de mañana\. Foto: Judeline
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,283 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,290 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 18 | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/track/78LUKLAVTjqQEf7f6b0PXg) | [Xavibo](https://open.spotify.com/artist/3v2sYzsuZVd0gAhMWgl9I7), [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [No Llores \(feat\. Alice Wonder\)](https://open.spotify.com/album/2NlrMp7I85XX6HdkFJmJBM) | 3:38 |
 | 19 | [cuando anochece](https://open.spotify.com/track/5vK8ILrHjXjdZJHp0AtEVJ) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [cuando anochece](https://open.spotify.com/album/5UZve9ov6A3UcmR8IdgxIH) | 3:05 |
 | 20 | [Estaba Claro](https://open.spotify.com/track/5psmMQiputcntcZXslMboK) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [Estaba Claro](https://open.spotify.com/album/5m0uBpLcelWpmifp4LteUu) | 2:26 |
-| 21 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 |
-| 22 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
+| 21 | [3 AMIGAS TUYAS](https://open.spotify.com/track/45fYscRYuzAX226WjBnE3S) | [Jimena Amarillo](https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm), [EDDI CIRCA](https://open.spotify.com/artist/5Fa143x669siyI5jjBuTIa) | [3 AMIGAS TUYAS](https://open.spotify.com/album/4ifITgh9n4HwL3kwAFqNlv) | 3:04 |
+| 22 | [Cómo Me Voy A Olvidar](https://open.spotify.com/track/1ZH9wiMYy0OG6uclWuQz5l) | [Samuraï](https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9) | [Lo Que No Te Cuentan](https://open.spotify.com/album/7IxhNoNw5mq24KbJ6VgrYz) | 2:21 |
 | 23 | [me gustas mas que un bigmac](https://open.spotify.com/track/6y669iBVOzMyNG5MfXDMTY) | [Mafalda](https://open.spotify.com/artist/2YgYz3EyTUJ5h3n5XThtzt) | [me gustas mas que un bigmac](https://open.spotify.com/album/6c9lbnKP3L3RmrfJemWdvq) | 3:19 |
 | 24 | [Piedad](https://open.spotify.com/track/55Q8EMukWtblmlmU1Pdnrb) | [Nickzzy](https://open.spotify.com/artist/6ddcxDK0BEkhe5LCdoA5Ki) | [Piedad](https://open.spotify.com/album/0DoG7oJ6SNSMLMatz1D7yf) | 2:05 |
 | 25 | [A Contraluz](https://open.spotify.com/track/5go70LzuMiSpKWlLn1SzVj) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Delgao](https://open.spotify.com/artist/2V10Oq2sAheIVDSeW9QyFN) | [A Contraluz](https://open.spotify.com/album/5VlLEWKCcPDWAJecwDeZE9) | 3:07 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 38 | [DESPREVENÍA](https://open.spotify.com/track/117jw2atHZ6kEseFXT627b) | [Dudi](https://open.spotify.com/artist/2T3D6kBjXg7ofm7GXBaDQU), [Rorro](https://open.spotify.com/artist/6fB004p3XFUoQeftZlFUKv) | [DESPREVENÍA](https://open.spotify.com/album/7f9kgKkBa5RnRtUWLts4EL) | 2:51 |
 | 39 | [100tas](https://open.spotify.com/track/4Wdin6LVBOduIVlCKi8FYK) | [Ganges](https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q) | [100tas](https://open.spotify.com/album/3UXz1qRHI73JmsNYvklh9W) | 2:28 |
 | 40 | [Moncler](https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1) | [Ters](https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB) | [Moncler](https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9) | 3:06 |
-| 41 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
-| 42 | [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 |
+| 41 | [canción de amor](https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg) | [daniel sabater](https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN) | [canción de amor](https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV) | 2:57 |
+| 42 | [Nada Mal](https://open.spotify.com/track/0cs0nlOhJUTks1eOKVRWyU) | [Kimberley Tell](https://open.spotify.com/artist/1NTTlLcsHvqOZFC6CQp6Ka), [mariagrep](https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy) | [Nada Mal](https://open.spotify.com/album/05HWbis9WEawfsBCJPQiVb) | 2:20 |
 | 43 | [uno x ciento](https://open.spotify.com/track/0cbp157hyiM0c9XVLb0Mqk) | [Miren](https://open.spotify.com/artist/4YGQgS8rZcbt0VOsV6GPcv), [Fulston](https://open.spotify.com/artist/4NAeRqTT8u5AC9WUOMCLeM) | [a partes](https://open.spotify.com/album/0wNq0PfOh28Ye1VvygIrBP) | 1:40 |
 | 44 | [Sol de Ayer](https://open.spotify.com/track/7JuH6cT4H9Go3hvdGY4BbG) | [Adiós Amores](https://open.spotify.com/artist/6so3HRQveYWGixSBgKfBxT) | [Sol de Ayer](https://open.spotify.com/album/4vJaartlG3Oor3hWN425eA) | 3:10 |
 | 45 | [Marisol](https://open.spotify.com/track/4eGgtcKMoL45YN55eXzD24) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF) | [Marisol](https://open.spotify.com/album/3mbuvr5Onv2U39DA2Cq7jD) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 | 49 | [Ya No Hace Falta](https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy), [Casero](https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy) | [Ya No Hace Falta](https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV) | 3:21 |
 | 50 | [Soy Un Desastre](https://open.spotify.com/track/6BT3cBhFz6wNlCAyY2bAnr) | [Paloma Rollán](https://open.spotify.com/artist/3qhKqJ5hDR26yN6Q1cdSp7) | [Soy Un Desastre](https://open.spotify.com/album/4HDJZRVlFfApsf6QqwOBnp) | 2:54 |
 
-Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDZhM2IzZmMxY2MxOWVhMzBlMWE1MTgxYTc1NzYyMjRl`
+Snapshot ID: `MTY1OTA0ODIxNiwwMDAwMDAwMDY4YzAwMGE4MDNlYmNmYzZjZDk3NGVjODE4NzExM2Rm`

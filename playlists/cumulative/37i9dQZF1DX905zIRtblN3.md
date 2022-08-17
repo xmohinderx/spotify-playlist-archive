@@ -4,7 +4,7 @@
 
 > ¡Las más poderosas y llegadoras de nuestra música! Al millón con Grupo Marca Registrada & Junior H, al millón con La Reina.
 
-161 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
+162 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/4HXTR8NnDEpNDyLbDZVUDI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Es Que Me Gustas \- En Vivo](https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc) | [En Vivo desde El Foro Lizos Music](https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag) | 2:32 | 2021-12-17 |  |
 | [Está Dañada](https://open.spotify.com/track/6G2xXQRSZlEzYsUEb3uvuR) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Alma Vacía](https://open.spotify.com/album/4DmITPOATTsiWEWtJrPqkk) | 3:34 | 2021-12-17 | 2022-08-06 |
 | [Fuera De Servicio](https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera De Servicio](https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG) | 2:34 | 2022-04-08 |  |
-| [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-22 |  |
+| [Fuga Pa Cali 2](https://open.spotify.com/track/5IdyvWCaUa7AgTxMsFj0wB) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 3:16 | 2022-02-22 | 2022-08-17 |
 | [Fumando Mota](https://open.spotify.com/track/2ytQws1jfyFcY2K2MDUfzd) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [Desde la Raíz](https://open.spotify.com/album/0QUTQD8QwyAuI1znIdT02Y) | 3:21 | 2022-01-03 | 2022-07-20 |
 | [Gracias a Ti](https://open.spotify.com/track/44PK0PRRKlF16JbXx6erQB) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Gracias a Ti](https://open.spotify.com/album/6KLyjUQiHec4t9KtcQFeph) | 3:25 | 2022-02-11 | 2022-03-05 |
 | [Hay Que Hacer Dinero](https://open.spotify.com/track/4eqDVqsli1ILflQfB5MoeP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Hay Que Hacer Dinero](https://open.spotify.com/album/2Ma1mkoOmvxHwp261QxWPN) | 2:59 | 2022-04-15 | 2022-06-25 |
@@ -136,6 +136,7 @@
 | [SI SUPIERAS](https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 3:47 | 2022-05-09 | 2022-06-18 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2021-12-17 | 2022-05-07 |
 | [Si Una Vez \- En Vivo](https://open.spotify.com/track/2wdYohLJjdHt6jZASIGZuC) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Pistiembre Todo El Año](https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt) | 2:54 | 2021-12-24 | 2022-03-12 |
+| [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-08-16 |  |
 | [Siendo Sincero](https://open.spotify.com/track/6HgiRuV6ITWQBGsJ1HDjz1) | [Los Del Limit](https://open.spotify.com/artist/4pQxRQ2bUyVpk89wzztCLw) | [Siendo Sincero](https://open.spotify.com/album/2BR0AvmJPy9VyRWm5nFC7j) | 2:54 | 2021-12-17 | 2022-01-22 |
 | [Soldado Caído](https://open.spotify.com/track/2R0XLhQjJWkAz6kOniuyOs) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soldado Caído](https://open.spotify.com/album/4dUfwpxtL9UyaZiNld8sSm) | 3:02 | 2022-07-01 |  |
 | [Solo Me Dejaste](https://open.spotify.com/track/0OLLsFyVPrjI3iL03lDFXk) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Solo Me Dejaste](https://open.spotify.com/album/2On4y5Gf1XWFvPYaXnqqOH) | 3:06 | 2022-07-08 |  |

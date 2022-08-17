@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,250 likes - 50 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,282 likes - 50 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,17 +35,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 25 | [Star Song](https://open.spotify.com/track/2JRsstA67i53C1GQiIdUUd) | [Vince Guaraldi](https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV) | [The Latin Side Of Vince Guaraldi](https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4) | 3:36 |
 | 26 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
 | 27 | [Too Close For Comfort](https://open.spotify.com/track/0ZU39CemSAamm1dtiSAchp) | [Stan Getz Quartet](https://open.spotify.com/artist/1LGtimLfGcQLKYJD1a1j1r) | [The Steamer \(Expanded Edition\)](https://open.spotify.com/album/2k1gozS6ZPvo38ZucooatA) | 6:19 |
-| 28 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
+| 28 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
 | 29 | [Nights At The Turntable](https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA) | [Gerry Mulligan Quartet](https://open.spotify.com/artist/6nLkWu5DSXItXcB6q2ISTO) | [Gerry Mulligan Quartet Vol.1 \(Expanded Edition\)](https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB) | 2:55 |
-| 30 | [Stockholm Sweetnin'](https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [This Is How I Feel About Jazz](https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk) | 5:40 |
+| 30 | [Thou Swell](https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn) | [Hampton Hawes](https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK) | [Four!](https://open.spotify.com/album/0kTwd8JPkvKEaQ1hjYkwdz) | 4:54 |
 | 31 | [Isn't It Romantic](https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:06 |
 | 32 | [The Quiet Time](https://open.spotify.com/track/6WAHaBnRvUFjw6L6Q2mMDh) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [The Teddy Charles Tentet](https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh) | 5:50 |
 | 33 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
 | 34 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
 | 35 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
 | 36 | [The Wind](https://open.spotify.com/track/3BeZhOKQMg67oQ5NA1ChB2) | [Chico Hamilton Quintet](https://open.spotify.com/artist/46KGomcx6B13NuFgu6GNT6) | [Chico Hamilton Quintet In Hi\-Fi](https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg) | 3:39 |
-| 37 | [Easy Living](https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z) | [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Coop! The Music Of Bob Cooper](https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5) | 4:21 |
-| 38 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
+| 37 | [Custard Puff](https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge) | [Barney Kessel](https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG), [Ray Brown](https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8), [Shelly Manne](https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo) | [The Poll Winners Ride Again!](https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT) | 4:49 |
+| 38 | [Easy Living](https://open.spotify.com/track/2qop18BlJiRwuvXJfKTA2z) | [Bob Cooper](https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK) | [Coop! The Music Of Bob Cooper](https://open.spotify.com/album/7rxeQyuaS753773hzXRyK5) | 4:21 |
 | 39 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 40 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
 | 41 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 49 | [Moon Tan](https://open.spotify.com/track/3vJ8Cik37ahoPCs1WyJEfh) | [Bobby Scott](https://open.spotify.com/artist/43B662mnCJQuYtIRACBHKD) | [East Coast Jazz, Vol\. 1 \(Remastered 2013\)](https://open.spotify.com/album/3Y8mMZZSCCC5S41t0URMnZ) | 3:47 |
 | 50 | [Nap's Dream](https://open.spotify.com/track/6ddIBDGs9jEu6uwtX195fu) | [The Les Brown All Stars](https://open.spotify.com/artist/46cKrKgQd9gRgQFxsINd9v) | [The Les Brown All Stars](https://open.spotify.com/album/6h086LNJI0xdpx2M264eUu) | 5:11 |
 
-Snapshot ID: `MTY0Njk5MzMxMSwwMDAwMDAwMGFhYWE3NDY3YTY5NDQ0MWQ2MDEwOWRkZTQ4NDZkNTY3`
+Snapshot ID: `MTY0Njk5MzMxMSwwMDAwMDAwMDg3YWUyMjQ2OTFhZDA0ZDdjMGQ4OWQ3N2ZlMTk5OGQy`

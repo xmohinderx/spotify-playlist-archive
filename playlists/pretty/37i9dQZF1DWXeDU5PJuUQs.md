@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Pablo Lescano & El Mago.
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,086 likes - 64 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,123 likes - 64 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 11 | [Amiga Traidora \- En Vivo](https://open.spotify.com/track/7CGJrAl10qYGJo4cOC9xuM) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [Amiga Traidora \(En Vivo\)](https://open.spotify.com/album/1GPlgIs9LniORYNJYlYitd) | 3:56 |
 | 12 | [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 |
 | 13 | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/track/1EY7yWaDtrVH8p2vnTEJCt) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Algún Día Volverás \(Santaferia En La Quinta Vergara\)](https://open.spotify.com/album/1v84b34paaTfnbh8c9d7pa) | 6:04 |
-| 14 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 |
+| 14 | [La Marca de la Gorra \- En Vivo en Teatro Gran Rex](https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [La Marca de la Gorra \(En Vivo en Teatro Gran Rex\)](https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb) | 4:33 |
 | 15 | [Lo Intentamos \- En Vivo](https://open.spotify.com/track/63Du15jCCnjjM2nzQ3OIS4) | [Erica](https://open.spotify.com/artist/6ozZB05c03WzEeGM5vR6l7) | [Lo Intentamos \(En Vivo\)](https://open.spotify.com/album/6ZG2zkEkNlpiEq8SRcn7tT) | 2:20 |
-| 16 | [La Marca de la Gorra \- En Vivo en Teatro Gran Rex](https://open.spotify.com/track/2WiXC3N7FhogWVHpj2rnKW) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B) | [La Marca de la Gorra \(En Vivo en Teatro Gran Rex\)](https://open.spotify.com/album/4oSBMSEEQzampqBxfHirYb) | 4:33 |
+| 16 | [Gordo Rata \- En Vivo](https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy) | [Mala Fama](https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B), [Dante Spinetta](https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC) | [Gordo Rata \(En Vivo\)](https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO) | 3:40 |
 | 17 | [Decir Adiós \- En Vivo](https://open.spotify.com/track/3CBdi6o9Egg357jbpxBi60) | [Sebastian Mendoza](https://open.spotify.com/artist/2CEKDXUTkOu4LnGFysySTg) | [Show En Parque Recondo](https://open.spotify.com/album/5olJyfS4YAdQJk6wiNmLDG) | 2:11 |
 | 18 | [Mujer Cósmica \- En Vivo](https://open.spotify.com/track/6NxgReEqcqHa7JnuQmKkLc) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 3:59 |
 | 19 | [Tu Cárcel \- En Vivo](https://open.spotify.com/track/5na2uVcCuoxDn3fEwtOKje) | [Siete Lunas](https://open.spotify.com/artist/3OrjkcpKAlJClVOopBZicQ) | [En Vivo en Metropolis](https://open.spotify.com/album/4oHlEryOif4ltmbrpzj7EO) | 4:43 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXeDU5PJuUQs.md) - [plain]
 | 63 | [Cóncavo y Convexo \- En Vivo](https://open.spotify.com/track/3t7KW4pk5pvAZtOIWxXCTR) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en Ciudad Cultural Konex](https://open.spotify.com/album/6Vyd5KnNi0zKuYXbbfqNTy) | 3:38 |
 | 64 | [No Te Vi Crecer \- En Vivo](https://open.spotify.com/track/5WKV0jy7T3fzk5Lji9BpRf) | [Los del bohio](https://open.spotify.com/artist/6RszvvtxwKr7SyzeeQ5htn) | [La Historia Continua](https://open.spotify.com/album/3atDahyoXPO030lj6lpzLn) | 2:52 |
 
-Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMGU2ZjNjOWMzMWYxMGQzN2Q5OGM4YzhmZTI2OWYyMDVk`
+Snapshot ID: `MTY1Nzg1NDAwMCwwMDAwMDAwMDZjYTEyYTQ3ZjI0YmEyMzZkY2FlZjA1ZWQzNzQ5Yzk3`

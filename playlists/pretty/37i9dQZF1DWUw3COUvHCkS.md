@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 
 > What breaking up in the 2000s sounded like\. Cover: The Fray
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,917 likes - 100 songs - 6 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,227 likes - 100 songs - 6 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 11 | [Drops of Jupiter \(Tell Me\)](https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Drops Of Jupiter](https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT) | 4:19 |
 | 12 | [Fix You](https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 4:55 |
 | 13 | [Chasing Cars](https://open.spotify.com/track/11bD1JtSjlIgKgZG2134DZ) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/6fb7z9rBdrjzpBTg1R1Bwp) | 4:27 |
-| 14 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
+| 14 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
 | 15 | [I'll Be](https://open.spotify.com/track/5K7AMlpc4796JRWXb26nCV) | [Edwin McCain](https://open.spotify.com/artist/0L6Gwm0JDrgIQJfjarWSUR) | [Misguided Roses](https://open.spotify.com/album/1JB1Zvcddt81PiipQQC319) | 4:26 |
-| 16 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
+| 16 | [Kiss Me](https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp) | [Sixpence None The Richer](https://open.spotify.com/artist/0lJlKQvuM2Sd9DPPyUXcHg) | [Sixpence None the Richer](https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix) | 3:28 |
 | 17 | [Breakeven](https://open.spotify.com/track/285hMzLhJwHVLe9QT9qilk) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/1r5J0N6Ep181K0i8YuTYgO) | 4:21 |
 | 18 | [Good Riddance \(Time of Your Life\)](https://open.spotify.com/track/6ORqU0bHbVCRjXm9AjyHyZ) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:33 |
 | 19 | [You're Beautiful](https://open.spotify.com/track/0vg4WnUWvze6pBOJDTq99k) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [Back to Bedlam](https://open.spotify.com/album/1ekaxA9Q5GzUPCepx4wzMF) | 3:29 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 51 | [I Will Follow You into the Dark](https://open.spotify.com/track/3kZC0ZmFWrEHdUCmUqlvgZ) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Plans](https://open.spotify.com/album/1NFGnxmeIEBakre4DvLaJq) | 3:09 |
 | 52 | [Heartbreak Warfare](https://open.spotify.com/track/4gs07VlJST4bdxGbBsXVue) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Battle Studies](https://open.spotify.com/album/1V5vQRMWTNGmqwxY8jMVou) | 4:29 |
 | 53 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
-| 54 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
-| 55 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 |
-| 56 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
-| 57 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
+| 54 | [Boston](https://open.spotify.com/track/2WZyfujzMweFLnozyUJBkW) | [Augustana](https://open.spotify.com/artist/61YE3whKiuRr83j1yOm5M7) | [All The Stars and Boulevards](https://open.spotify.com/album/36i3fUi7xuuE0UA8pXtdxK) | 4:05 |
+| 55 | [Breakaway](https://open.spotify.com/track/61Qhe2mHSLhUE04QeK4lkD) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:57 |
+| 56 | [Hear You Me](https://open.spotify.com/track/1TvNcWY7WwPLQINhimxycA) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 4:44 |
+| 57 | [Nobody's Home](https://open.spotify.com/track/0cZDC7uxNK8lqQ3GgyvCnD) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Under My Skin](https://open.spotify.com/album/7851Vsjv3apS52sXUik6iF) | 3:32 |
 | 58 | [Sympathy](https://open.spotify.com/track/5fIrBv7PrI2MBcktQOcmpI) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Gutterflower](https://open.spotify.com/album/740t2GhGBLY6qIPRNhSo9M) | 2:58 |
 | 59 | [All You Wanted](https://open.spotify.com/track/0kr6d8wHDQPlzuET33NVn6) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [The Spirit Room](https://open.spotify.com/album/1agL7TUoZXr0Xd4Irievqi) | 3:37 |
 | 60 | [Behind These Hazel Eyes](https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Breakaway](https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUw3COUvHCkS.md) - [plain]
 | 99 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
 | 100 | [Feels Like Home](https://open.spotify.com/track/06qK8tWn0OQKMVPCDsmHtn) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [What If It All Means Something](https://open.spotify.com/album/7pMVUZBPHy7a8BwdlZwBNO) | 4:39 |
 
-Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMGEyM2M1YTgzZmU2Y2IwMTA5MDY1YmNiOWYwZjkwYzVk`
+Snapshot ID: `MTY0MDk3NzI1MCwwMDAwMDAwMDAwNjJjNDU3MWVkNGUyMzE3OGVmZGZkNGE2MTMyMDA3`

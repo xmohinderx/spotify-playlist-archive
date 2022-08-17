@@ -4,7 +4,7 @@
 
 > Fold time and space through sound to reach imaginary universes.
 
-273 songs - 1 day 0 hr 27 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
+274 songs - 1 day 0 hr 31 min - [published](https://open.spotify.com/playlist/4hgqZdIdyapxx5QdKt7sA7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Epsilon In Malaysian Pale \- 2012 Remaster](https://open.spotify.com/track/5Hk5ZRdIoxtTBzGyD5lZ8P) | [Edgar Froese](https://open.spotify.com/artist/2XP4UvuJoUxBIjO95l8Mlr) | [Solo \(1974\-1983\) The Virgin Years](https://open.spotify.com/album/4N4OCzgj8GnV90DdEXIxxe) | 16:25 | 2020-10-20 | 2022-07-29 |
 | [Escape Pod](https://open.spotify.com/track/2u5SDqMeGdaij0DT5nGrz5) | [тпсб](https://open.spotify.com/artist/3Az7iIfwbhNRg8nB6cep4k) | [Laika's Revenge](https://open.spotify.com/album/5C1ZuUWPiIohp86npG2tMD) | 9:11 | 2020-07-07\* | 2022-07-06 |
 | [Espuma](https://open.spotify.com/track/5oqcNK43RcZbRAGl7mo5og) | [Pepe Mogt](https://open.spotify.com/artist/7m5gWKlKnqR5vRBNXSFJF5) | [Maija Awi](https://open.spotify.com/album/6zPL6drQiQXKRHiIdsZR2t) | 3:08 | 2020-11-10 | 2022-07-28 |
-| [Esty Point, Summer 1978](https://open.spotify.com/track/57oEUu3QfamsvthkU33CJf) | [David Borden](https://open.spotify.com/artist/0qMXrYbyStA8VDl8JrxR0N) | [Music for Amplified Keyboard Instruments](https://open.spotify.com/album/7voTf1EYuepIVgubfJt0ID) | 6:28 | 2020-10-20 |  |
+| [Esty Point, Summer 1978](https://open.spotify.com/track/57oEUu3QfamsvthkU33CJf) | [David Borden](https://open.spotify.com/artist/0qMXrYbyStA8VDl8JrxR0N) | [Music for Amplified Keyboard Instruments](https://open.spotify.com/album/7voTf1EYuepIVgubfJt0ID) | 6:28 | 2020-10-20 | 2022-08-17 |
 | [Faint Lights In The Distance](https://open.spotify.com/track/7Hw9Pf3EVSVF5mfW5YuoBz) | [Ulrich Schnauss](https://open.spotify.com/artist/4znPt0HV6Ik0iR8sR4GAJE), [Jonas Munk](https://open.spotify.com/artist/6KPFlbSbh1zeN7x9QpgB4O) | [Eight Fragments Of An Illusion](https://open.spotify.com/album/0NBak1cinQqUel4IqOoy4x) | 6:57 | 2021-09-26 | 2022-07-29 |
 | [Falling Snowflakes](https://open.spotify.com/track/0JBcYw96mPar9aBlHDYTkS) | [Moon Projection](https://open.spotify.com/artist/4YtkgZhcqrY0yFTG9Fc6dH) | [Falling Snowflakes](https://open.spotify.com/album/4Z4lTjhE4fPnNO5Rbmf75V) | 4:05 | 2022-02-18 | 2022-07-26 |
 | [Falter\-Lamento](https://open.spotify.com/track/7IsLF9UfixejwMV7VJMirJ) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Nachtstücke](https://open.spotify.com/album/4lK6jOyd1SgurwBmKJ19eJ) | 6:18 | 2020-10-20 | 2022-07-23 |
@@ -126,6 +126,7 @@
 | [Kaini Industries](https://open.spotify.com/track/3aqXL0g0eeZrS4Qlf7dV8O) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Music Has The Right To Children](https://open.spotify.com/album/1vWnB0hYmluskQuzxwo25a) | 0:59 | 2021-02-27 | 2021-05-23 |
 | [kaleido\_](https://open.spotify.com/track/0LFENddTet2slx0gC2Rncm) | [DARK](https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM), [The Surrealist](https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy) | [kaleido\_](https://open.spotify.com/album/3rTBoED7VcTPHLKSmI47hg) | 3:56 | 2021-01-21 | 2022-07-29 |
 | [Ki](https://open.spotify.com/track/6nCW5Ju2Yo3zCFKNYtNQvA) | [C418](https://open.spotify.com/artist/4uFZsG1vXrPcvnZ4iSQyrx) | [Minecraft \- Volume Beta](https://open.spotify.com/album/7CYDRyFCKtAYJBSpfovLyX) | 1:32 | 2020-07-07\* |  |
+| [Kill Scene](https://open.spotify.com/track/43OTFEQhNQTs2twZdn8jjt) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/5uBKGNG8GjtU8UP7I6pfZZ) | 3:54 | 2021-10-20 |  |
 | [Kill Scene](https://open.spotify.com/track/6BcgUVvdkVAzuCIaneC9BG) | [JOYFULTALK](https://open.spotify.com/artist/5obEaCVVWNwEaw3k9I0dlW) | [Plurality Trip](https://open.spotify.com/album/0LCm7rJJdvgJp0GqZAYGpA) | 3:54 | 2020-09-08 | 2022-07-29 |
 | [Kompod](https://open.spotify.com/track/0i2IjtW0GaTSAYfmKEGtXB) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/6Vgdflce6Ty8CADUFC3Zu3) | 4:10 | 2020-07-07\* | 2022-07-29 |
 | [Konta Chorus](https://open.spotify.com/track/7uA1xAkVspG60nRdgi9Xhr) | [The Utopia Strong](https://open.spotify.com/artist/5Y2lwqHK1mYYIylNw18D2w) | [Konta Chorus](https://open.spotify.com/album/26dA0ID4M0Wz5TzhuvqaYv) | 3:37 | 2020-07-07\* | 2022-07-09 |

@@ -4,7 +4,7 @@
 
 > Relaxing jazz on a warm summer day.
 
-160 songs - 10 hr 29 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
+161 songs - 10 hr 33 min - [published](https://open.spotify.com/playlist/66JAt3sdiNPtvzJv9rg7XC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [As We Believed](https://open.spotify.com/track/6yinSttivI31ybMeU8jlAF) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 4:07 | 2022-06-28 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
 | [Bewitched](https://open.spotify.com/track/7va480wmDj33F0PRpINgkD) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [Bewitched](https://open.spotify.com/album/2GeLBQLeuf4AzujFK206X0) | 3:27 | 2022-02-16 | 2022-05-25 |
-| [Blue Moon](https://open.spotify.com/track/05KUj61TSptAGUrlMSS4aj) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Blue Moon](https://open.spotify.com/album/3vZUBxXFUgjiPXylxY78Pq) | 3:40 | 2022-02-16 |  |
+| [Blue Moon](https://open.spotify.com/track/05KUj61TSptAGUrlMSS4aj) | [Andy Goodman](https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi) | [Blue Moon](https://open.spotify.com/album/3vZUBxXFUgjiPXylxY78Pq) | 3:40 | 2022-02-16 | 2022-08-17 |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-02-16 |  |
 | [Can't Help Lovin' Dat Man](https://open.spotify.com/track/6jIYSUuPHtImxdPAy1tHct) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [It's All Right with Me](https://open.spotify.com/album/28LzYl85iQjO0H1AbFJCEp) | 3:16 | 2022-02-16 |  |
 | [Candlelight](https://open.spotify.com/track/0FAYzBH8vYttTJpZOynse1) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [Candlelight](https://open.spotify.com/album/2RNDKOebbSeGEsjNFt1279) | 5:42 | 2022-06-14 |  |
@@ -99,6 +99,7 @@
 | [Namely You](https://open.spotify.com/track/29naPagLSF8eIFdJXgBmVi) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR) | [Newk's Time](https://open.spotify.com/album/61ZMZem0tvxv63NqN8mesY) | 3:18 | 2022-02-16 |  |
 | [Notes and Nights](https://open.spotify.com/track/6Jpxh4o4RypOIfqfxwC4Gp) | [Tate Jackson Trio](https://open.spotify.com/artist/2xOmrHsNNnSQQwav65tSwZ) | [Notes and Nights](https://open.spotify.com/album/4GfxolUrEhXLPHHOtcKxh4) | 3:04 | 2022-06-28 |  |
 | [O Morro Nao Tem Vez](https://open.spotify.com/track/7GzGoTxCzyrPPEVmdiLnkt) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [Luiz Bonfá](https://open.spotify.com/artist/174ThXFgQg2VCq9r3m8ceb) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 6:52 | 2022-02-16 |  |
+| [Oh So Sweet](https://open.spotify.com/track/2RfCPlpFKP0onHwvYZmpgV) | [The Boston Four](https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl) | [Oh So Sweet](https://open.spotify.com/album/1u1MqTmOjUYbOG5a8i6jSZ) | 3:43 | 2022-08-16 |  |
 | [On a Clear Day \(You Can See Forever\)](https://open.spotify.com/track/6zeTz2j5A9G6gEKi34ks05) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Long Ago \(and Far Away\)](https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr) | 3:25 | 2022-02-16 |  |
 | [On the Trail](https://open.spotify.com/track/30ARFxDvXKYaGoVO7rgMg2) | [The Village Quartet](https://open.spotify.com/artist/1KQ4vXOwPIVwpiTeNnYUQu) | [My Little Suede Shoes](https://open.spotify.com/album/4wNvJQ6o51x0oGDMJrKQYr) | 4:17 | 2022-02-16 |  |
 | [Once I Had A Secret Love](https://open.spotify.com/track/05prboiM4bmlXfvsvghvI1) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Dear Old Stockholm](https://open.spotify.com/album/4GI4i7HoTbp7QQdMTGn28L) | 4:18 | 2022-02-16 |  |
@@ -150,7 +151,7 @@
 | [These Foolish Things](https://open.spotify.com/track/73LXSkZdpjWC4XUDTju8LK) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [These Foolish Things](https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy) | 4:50 | 2022-02-16 |  |
 | [This Can't Be Love](https://open.spotify.com/track/3KzQ6gEGrlhgIGbtglw0UK) | [Riley Foster](https://open.spotify.com/artist/5xRnxrWctOpvhjuHe58iUD) | [This Can't Be Love](https://open.spotify.com/album/2xZqlSVy4mXruauLv5lnj0) | 4:07 | 2022-02-16 | 2022-05-04 |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
-| [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-02-16 |  |
+| [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-02-16 | 2022-08-17 |
 | [Tropical](https://open.spotify.com/track/7024KIeggkxn5C1k5SwXtC) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [In Technicolor](https://open.spotify.com/album/2RYQ7qXdFHoeilkpaZGbuG) | 5:45 | 2022-02-16 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-04-26 |  |
 | [Vivendo](https://open.spotify.com/track/3l7Pg8bvouSSOspl8Q9UU9) | [Moreno Jazz Band](https://open.spotify.com/artist/51dajqv8SXCyNO6L6rAxxr) | [Vivendo](https://open.spotify.com/album/65VTQBcky8wU4eYYYXYlRl) | 3:19 | 2022-02-16 |  |

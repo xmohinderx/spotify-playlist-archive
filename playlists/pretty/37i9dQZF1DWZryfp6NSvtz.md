@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new tracks every week\. Cover: Sleeping With Sirens
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,536 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,722 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 21 | [Foxglove Through The Clearcut](https://open.spotify.com/track/6gCQmZNLNwStQuVBpVdJnx) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Foxglove Through The Clearcut](https://open.spotify.com/album/4AATTNKThdy3YYYUrjKknV) | 5:15 |
 | 22 | [indieedgycool](https://open.spotify.com/track/7nl5O8gRhQBCZUv3WHFxoV) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [indieedgycool](https://open.spotify.com/album/4QmiBPsOgNxhjYrbDSaFhQ) | 2:26 |
 | 23 | [so what!](https://open.spotify.com/track/1UTnLtgadp10wkFrDWXn3u) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [so what!](https://open.spotify.com/album/600i38QcfI9f9rZZUNzRiA) | 2:04 |
-| 24 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 |
+| 24 | [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 |
 | 25 | [Psycho](https://open.spotify.com/track/29GKyMCkBY2Kc7M2VcAZJE) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY) | [Psycho](https://open.spotify.com/album/4toEJiFEggtxsZPewZmLat) | 2:59 |
 | 26 | [Hard Candy](https://open.spotify.com/track/6Wdbk0SOES5Whya28HUbji) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Hard Candy](https://open.spotify.com/album/0fuoiqRq7YPwnunaEXdePn) | 2:43 |
 | 27 | [Read Receipts](https://open.spotify.com/track/20AN26EiRdg6MUk5YeTaun) | [WAAX](https://open.spotify.com/artist/1KaaogmGXWK1Qi3WR81Tmi) | [At Least I'm Free](https://open.spotify.com/album/3Clv75P0Uv9MDbHofO66VP) | 3:36 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 32 | [Test](https://open.spotify.com/track/5DTlpXqSOG3NvEUZrKSYDA) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Dear Diary](https://open.spotify.com/album/1gbV1iY5o84R26XCzTZruV) | 2:41 |
 | 33 | [The Walk Home](https://open.spotify.com/track/0H80LQh9hsFkw8KixEzzpK) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [ACT II: EXILE](https://open.spotify.com/album/2N3H5myg0DidN2t5XejOWT) | 3:16 |
 | 34 | [Without a Trace](https://open.spotify.com/track/3kHTbTT9qOITWhR9OGPlpU) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Without a Trace](https://open.spotify.com/album/27UKpA4WsdR8mCfPjYByJj) | 4:07 |
-| 35 | [Unspeakable Things](https://open.spotify.com/track/0e4H6B13VbbWCiZyavZUx4) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Unspeakable Things](https://open.spotify.com/album/1l0vtXEKDgEXCiJTT6ni8O) | 3:29 |
+| 35 | [Unspeakable Things](https://open.spotify.com/track/26ntTyXWuJDow30dEsFTz3) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:29 |
 | 36 | [TEEN POP SENSATION](https://open.spotify.com/track/01BgUiNgDvBfwDizRm4qnp) | [poptropicaslutz!](https://open.spotify.com/artist/08DN8ZbOSeuTELiQjc4Jl8), [aldrch](https://open.spotify.com/artist/3WYrAQad51Rnd8BqODF4Em) | [just in case the world ends \(deluxe edition\)](https://open.spotify.com/album/4IML4pQ6aDgViRY1RW139y) | 2:14 |
 | 37 | [K\-Town](https://open.spotify.com/track/40lXF6BqyQ52JrLC5bwOYG) | [Grace McKagan](https://open.spotify.com/artist/763Ta6J2nC9dvVG4D8XuPg), [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o), [Boots Electric](https://open.spotify.com/artist/23BcnILXgG8UKUS4R48rCv) | [K\-Town](https://open.spotify.com/album/3QCFJ2CYfR2W4q3ouCMGS8) | 2:54 |
 | 38 | [Exit Wound](https://open.spotify.com/track/5f0ZLyNbh4zKMAHggdQAUo) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Exit Wound](https://open.spotify.com/album/31zBK06U5D635CW4PLbTSF) | 2:58 |
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 40 | [hope ur happy](https://open.spotify.com/track/1XZnyemgPYfkVuywyjTLmN) | [Until I Wake](https://open.spotify.com/artist/4XYFjTd83FIwArFrWEYhd5) | [hope ur happy](https://open.spotify.com/album/5EdHcdhFgLz97LkkxcTDyt) | 3:17 |
 | 41 | [Shadow](https://open.spotify.com/track/36VzVdJWZgpfyjxqS91JeS) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Shadow](https://open.spotify.com/album/5V9EPlNksqsh3zYGtFJe4t) | 3:48 |
 | 42 | [Twenty Something](https://open.spotify.com/track/5CQGR29C6PX0ExXXxpa9GI) | [Eat Your Heart Out](https://open.spotify.com/artist/1Zj2DULoJ6vo0FZ2R8HM3i) | [Twenty Something](https://open.spotify.com/album/1eKkUMyDCNWi5S6PN0CdDT) | 2:35 |
-| 43 | [Hang Loose](https://open.spotify.com/track/2zUGFViZHI7C9YrfHC9iXF) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [A SUMMERTIME SIDE QUEST](https://open.spotify.com/album/5CX7BSQ13owwuhhtm1QPP6) | 2:29 |
+| 43 | [HANG LOOSE](https://open.spotify.com/track/2zUGFViZHI7C9YrfHC9iXF) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [A SUMMERTIME SIDE QUEST](https://open.spotify.com/album/5CX7BSQ13owwuhhtm1QPP6) | 2:29 |
 | 44 | [I Told You So](https://open.spotify.com/track/30Hw87HEEW4pDpqHjOYW7v) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5) | [I Told You So](https://open.spotify.com/album/4D5L0IcHAbPFA8NgIQRdzf) | 1:24 |
 | 45 | [Cool](https://open.spotify.com/track/79XWNp9Lom048Og5yGqeVb) | [Miko](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn) | [Cool](https://open.spotify.com/album/0TBgFsvdjMwVT0z6tpDIlE) | 2:22 |
 | 46 | [Amygdalae](https://open.spotify.com/track/782hLYcQPirQdGeNTqgGWz) | [Rey Pila](https://open.spotify.com/artist/6rUsAEYBTCzHDa98JsBwtW) | [Amygdalae / IQ Test](https://open.spotify.com/album/5rW9TbX81i9Ba7Vfb1O4nf) | 2:20 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 59 | [Ohm](https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Been Stellar](https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu) | 5:29 |
 | 60 | [Don't Break My Heart](https://open.spotify.com/track/5Mn62eAfbIy9mGipYn8FUr) | [The Thing With Feathers](https://open.spotify.com/artist/3fJAImowfWb7c7e2Fy6hUF) | [Don't Break My Heart \(Explicit\)](https://open.spotify.com/album/45a5K0GOm6f4WgE68XY1XR) | 3:57 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGQ2MmNjMDZkMjBkYzQ3YWIwY2I1ODdmZjJjMjFmODY2`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDJjNjEwYWU4NDUyYzFkY2Q0NTU2MThlODkwODUxZTBj`

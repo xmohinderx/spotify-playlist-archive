@@ -1,12 +1,12 @@
 {
   "description": "all the hottest indie tunes in the world rn feat. Thelma Plum, PinkPantheress & Rex Orange County \ud83d\udc0d\n",
-  "num_followers": 556413,
+  "num_followers": 556410,
   "original_name": "Front Left",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyNjQwMCwwMDAwMDAwMDdjMzAyOGQ1MmIwZjZiYzM5ZDE4Nzg2ZmY1YzNiMDk2",
+  "snapshot_id": "MTY2MDY5MzY1NSwwMDAwMDAwMDY3OGRkNTZiZTc0NzA2ODVjMTNiMDM5NGQ0YjgzNDI0",
   "tracks": [
     {
       "added_at": "2022-08-11 14:00:00",
@@ -43,38 +43,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV"
-      },
-      "artists": [
-        {
-          "name": "Telenova",
-          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Scarlet",
-      "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
-        "name": "When It Rains It Pours",
-        "url": "https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV"
-      },
-      "artists": [
-        {
-          "name": "Thelma Plum",
-          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
-        }
-      ],
-      "duration_ms": 253236,
-      "name": "When It Rains It Pours",
-      "url": "https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "Picture in my mind",
         "url": "https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU"
       },
@@ -95,6 +63,22 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
+        "name": "When It Rains It Pours",
+        "url": "https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV"
+      },
+      "artists": [
+        {
+          "name": "Thelma Plum",
+          "url": "https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC"
+        }
+      ],
+      "duration_ms": 253236,
+      "name": "When It Rains It Pours",
+      "url": "https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
         "name": "strawberry chainsaw",
         "url": "https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV"
+      },
+      "artists": [
+        {
+          "name": "Telenova",
+          "url": "https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Scarlet",
+      "url": "https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Change the Locks",
-        "url": "https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep"
+        "name": "Hold On Baby",
+        "url": "https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c"
       },
       "artists": [
         {
@@ -1322,7 +1322,7 @@
       ],
       "duration_ms": 269784,
       "name": "Change the Locks",
-      "url": "https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c"
+      "url": "https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1659,22 +1659,6 @@
       "duration_ms": 223000,
       "name": "Flood",
       "url": "https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
-        "name": "Synchronize",
-        "url": "https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 164576,
-      "name": "Synchronize",
-      "url": "https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP"
     }
   ],
   "unique_name": "Front Left",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 
 > Lying flat on the sofa scrolling but with a nice soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,927 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,541 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 51 | [To the Mountains](https://open.spotify.com/track/2CK9xYMVdmJMPKZyArVbt4) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Give Me A Minute](https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy) | 3:13 |
 | 52 | [Use Somebody \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5My4LtZW8JQJoKFDWodqIt) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Spotify Singles](https://open.spotify.com/album/6ixkdVE4xrPNcVKhRpnPEh) | 2:56 |
 | 53 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
-| 54 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
-| 55 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 |
+| 54 | [You and I](https://open.spotify.com/track/7rsTP6MbfJqXT11RiDDo5a) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0), [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [You and I](https://open.spotify.com/album/3cKaNavGZzd65w9AY65c8X) | 3:13 |
+| 55 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
 | 56 | [Save Your Love](https://open.spotify.com/track/2egtrr5T0vdqOBtuYbzEu4) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Leap](https://open.spotify.com/album/06ug65kBTheiQOomrAq0iB) | 3:23 |
 | 57 | [Unforgettable](https://open.spotify.com/track/2MVQbDuhVs2muWFURtIdNb) | [Natalie Cole](https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9), [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Unforgettable: With Love](https://open.spotify.com/album/4ilUfGGQXin7hr1srDDXF0) | 3:30 |
 | 58 | [DO 4 LOVE](https://open.spotify.com/track/3FImu2LpSuH6gDHBuFgIbS) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [Spotify Singles](https://open.spotify.com/album/28wKxlJocWCrrxUgYC2zEQ) | 3:09 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6XyOkZKBb24.md) - [plain]
 | 63 | [A Little Bit Yours](https://open.spotify.com/track/1vjQHBoJWpQ3rAPRDVjrxA) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 3:48 |
 | 64 | [A Love That Will Last](https://open.spotify.com/track/4bJbSERtCqK9D6DRUPMmMh) | [Renee Olstead](https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB) | [Renee Olstead](https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42) | 3:32 |
 | 65 | [Please Don't Say You Love Me](https://open.spotify.com/track/2PIlBukQ6limukVR8Ubb5o) | [Gabrielle Aplin](https://open.spotify.com/artist/3w6zswp5THsSKYLICUbDTZ) | [English Rain](https://open.spotify.com/album/7kyjDxYcff3MeWKtw0fnLW) | 3:01 |
-| 66 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 |
-| 67 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
-| 68 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
+| 66 | [Goodnight](https://open.spotify.com/track/69jstgacdd40OwG9cLl45r) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Three\. Two\. One.](https://open.spotify.com/album/3nP0DOBWPfEToiDGMXZCAb) | 2:56 |
+| 67 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 |
+| 68 | [everyone at this party](https://open.spotify.com/track/43klOCoUcqtkNWCqQQvh9W) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 2:48 |
 | 69 | [Satellite of Love](https://open.spotify.com/track/5WyuRWUcOOhAic0tj9Pl28) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/5SqbMEyAt8332ISGiLX0St) | 3:41 |
 | 70 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 71 | [Losing You](https://open.spotify.com/track/186AzR054q9nSWYSI3qr8D) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Borderline](https://open.spotify.com/album/5qoVwu8l7VyXOiMjjmyeAD) | 4:08 |
-| 72 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 |
-| 73 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 72 | [come into my arms](https://open.spotify.com/track/1WbqQUB9ldGb8x3b72RH3Z) | [November Ultra](https://open.spotify.com/artist/0naOCLau0NmL1kdFlbZAfr) | [come into my arms](https://open.spotify.com/album/3dti8UcnsGhwppSO3k4frr) | 2:12 |
+| 73 | [Give You Love](https://open.spotify.com/track/0H4yyuVRMIXT9hkDZMc6D6) | [Forest Blakk](https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc) | [Give You Love](https://open.spotify.com/album/307eCZ5BF0wjOmE29qDiUj) | 2:53 |
 | 74 | [Lovesong](https://open.spotify.com/track/7nm6DlSzzJTH1rk2e6EgJz) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 5:16 |
 | 75 | [It Was A Very Good Year](https://open.spotify.com/track/2ID3rNM3hFBjqrLcV0Wr0y) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [September Of My Years \(Expanded Edition\)](https://open.spotify.com/album/3DdN3GRJj8YS0V0fiyXtbt) | 4:27 |
 
-Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMDU0YTk4OTUyYzNlMWZjMTgxYzRhYjY3YjA5NTQyM2E1`
+Snapshot ID: `MTY1OTA2NzI2MCwwMDAwMDAwMGY1ZGQ1ZDMxN2Q2MWM3YTZkYjExNDJjNjBiNDk4ZTFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > Svensk punk från förr och nu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,109 likes - 65 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,114 likes - 65 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 2 | [Så Jävla Bra](https://open.spotify.com/track/2IcGqSD8NBLrKSjfTQAlgB) | [Lillasyster](https://open.spotify.com/artist/34uGMERnU9XHnmQDnK03Gj) | [3](https://open.spotify.com/album/0bPWq9dByUtckQQ9ReT1sY) | 3:53 |
 | 3 | [Alla vill till himmelen men ingen vill dö](https://open.spotify.com/track/0bdo2vF0PUZ9k0WaK9kKuu) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv), [Martin Westerstrand](https://open.spotify.com/artist/5t6WDMTCzu4scrQiLn3rPC) | [Grit](https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod) | 2:57 |
 | 4 | [Leningrad skyline](https://open.spotify.com/track/6HFVHZt5xRuPpiqFKXbJ6W) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Versace Style](https://open.spotify.com/album/7DYNmpEqsmrso2Gqz2x08f) | 3:27 |
-| 5 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:09 |
-| 6 | [Bakom Spegeln](https://open.spotify.com/track/19RCzCRRAaIVVSf2WDtVRB) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/4GVLOGsaNo2NGkLtq6IBRt) | 2:52 |
+| 5 | [Bakom Spegeln](https://open.spotify.com/track/19RCzCRRAaIVVSf2WDtVRB) | [Radioaktiva Räker](https://open.spotify.com/artist/7j4RimWxVqLWTtWtmEf2Qd) | [Finito](https://open.spotify.com/album/4GVLOGsaNo2NGkLtq6IBRt) | 2:52 |
+| 6 | [Lilla Björn Och Lilla Tiger](https://open.spotify.com/track/4UTTtBZGgpaNCkYH1E3lIO) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:09 |
 | 7 | [Tro Rätt Tro Fel](https://open.spotify.com/track/7CNyBCHfFMRCQRFeTT5r8p) | [Dia Psalma](https://open.spotify.com/artist/3CP5sRSk2ExHj3td5pXLrN) | [Gryningstid](https://open.spotify.com/album/0qSSQ2K5D3Yd0BRkDNItbM) | 3:57 |
 | 8 | [Fina Flickor](https://open.spotify.com/track/7H69MJpL8m8QrpcBVMbEfr) | [Räserbajs](https://open.spotify.com/artist/1mYHNZqRjNIlWwMgvIVq7X) | [Noppriga Tights Och Moonboots](https://open.spotify.com/album/7Ej9w61IrbodhAxrNRXYTn) | 2:24 |
 | 9 | [Älska Mig](https://open.spotify.com/track/3iSt8hTzeb5SKdHLVwTFcc) | [Köttgrottorna](https://open.spotify.com/artist/0EiobxY3kj3acd0HaoS9xY) | [Sanningens Morgon](https://open.spotify.com/album/4L8BOlcLg6VbsLeT9bbdXm) | 3:05 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 47 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 |
 | 48 | [Mamma pappa barn](https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:57 |
 | 49 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
-| 50 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 |
+| 50 | [Svegregationen](https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Gbg Noir](https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN) | 3:02 |
 | 51 | [Några Jävla Spänn](https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Några Jävla Spänn](https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD) | 3:16 |
-| 52 | [Svegregationen](https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA) | [En Svensk Tiger](https://open.spotify.com/artist/3iW69eoN123eG0fXEdER0q) | [Gbg Noir](https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN) | 3:02 |
+| 52 | [Jag Vill Ha En Slav](https://open.spotify.com/track/6kviUfqwA8C6rbwP3fod1b) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6GvLNIV56ZJgbxU1E5THiH) | 2:32 |
 | 53 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 |
 | 54 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
 | 55 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 64 | [Mitt Sista Andetag](https://open.spotify.com/track/1nKyiaTNzhUUYBTCqgxzUa) | [Trevolt](https://open.spotify.com/artist/5lK0kv8seid7QSWSg3cDPr) | [I All Hast](https://open.spotify.com/album/2K7NWoMhC7f8OFF9pkhh4B) | 2:47 |
 | 65 | [Vem sätter märket](https://open.spotify.com/track/6n6bwxNTBMhqzxlDcK6Gm7) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Vem sätter märket](https://open.spotify.com/album/0wK3Dh1UY6XVZOfhUvR6GF) | 3:10 |
 
-Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMDU5MzE1ZWI5MWIyMzY5ZTNhZDNiMDJmMGJmOTU4NzEw`
+Snapshot ID: `MTYzOTQ5MDY5OCwwMDAwMDAwMGEyZDhmZGU2ZjNjODI3NDFkMTBjODgxODg5NmQ1ZTA1`

@@ -4,7 +4,7 @@
 
 > you know the vibe 🥥🌴👙🐚🦋🌸
 
-118 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/3czw7wtauWs6hidH4XblX8)
+119 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/3czw7wtauWs6hidH4XblX8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Everywhere \- 2017 Remaster](https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Tango In the Night \(Deluxe Edition\)](https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F) | 3:46 | 2022-06-30 |  |
 | [Fantasy](https://open.spotify.com/track/6xkryXuiZU360Lngd4sx13) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:03 | 2022-06-30 |  |
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2022-06-30 |  |
+| [Feels Like We Only Go Backwards](https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Lonerism](https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7) | 3:12 | 2022-06-30 |  |
 | [Futon](https://open.spotify.com/track/0F57gwy0G6aqnaMAH1ELSV) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [Futon](https://open.spotify.com/album/6ZRN6AGbq8CBE59kMsB2bk) | 2:36 | 2022-06-30 | 2022-07-28 |
 | [girls](https://open.spotify.com/track/1kqc6U8hVYZhY0gFGQclCz) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [girls](https://open.spotify.com/album/1wpUjnWuF4mhepCeZbA4Je) | 3:18 | 2022-06-30 |  |
 | [Go Down on You](https://open.spotify.com/track/4DkeNKHcmZo2Z0Eb1XcaNC) | [The Memories](https://open.spotify.com/artist/4sGXRKVt3jXcqjUCRuK67C) | [Love Is the Law](https://open.spotify.com/album/41GbiDyQZpyGmjgdGbWlZ3) | 1:00 | 2022-06-30 | 2022-07-19 |
@@ -101,7 +102,7 @@
 | [Strawberries & Cigarettes](https://open.spotify.com/track/3afkJSKX0EAMsJXTZnDXXJ) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Strawberries & Cigarettes](https://open.spotify.com/album/5L0bixsyXEkomsyucUySjy) | 3:21 | 2022-06-30 |  |
 | [striptease](https://open.spotify.com/track/2g0Bmi3kYEntusDP6xlAGZ) | [carwash](https://open.spotify.com/artist/53k2km8u55n9YaJJB7scjX) | [striptease](https://open.spotify.com/album/6NhhRbU9p26mbn5byjZ34h) | 2:40 | 2022-06-30 | 2022-07-29 |
 | [Sunflower](https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Sunflower](https://open.spotify.com/album/1FhmTMNe8AziAPkB29114F) | 4:12 | 2022-06-30 |  |
-| [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2022-06-30 |  |
+| [Sunflower, Vol\. 6](https://open.spotify.com/track/6iYMfxznTBlcVOgRHab2W0) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 3:41 | 2022-06-30 | 2022-08-17 |
 | [Sunkissed](https://open.spotify.com/track/1tD8J13a74q8fBqXwAP50j) | [khai dreams](https://open.spotify.com/artist/0lawSNBxNgJFQYJnQzLH8c) | [Now and Then](https://open.spotify.com/album/3jysksH3UVanTDQD5xeaIG) | 2:06 | 2022-06-30 | 2022-07-25 |
 | [Sunroof](https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/7xb8OvPMTdDSELqdWcddA0) | 2:43 | 2022-06-30 | 2022-07-29 |
 | [Sunroof](https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs), [dazy](https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x) | [Sunroof](https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5) | 2:43 | 2022-06-30 |  |

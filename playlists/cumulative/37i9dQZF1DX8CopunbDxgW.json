@@ -1430,6 +1430,32 @@
     },
     {
       "album": {
+        "name": "Change / Take My Time",
+        "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290018,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl"
+    },
+    {
+      "album": {
         "name": "Changed for the Better",
         "url": "https://open.spotify.com/album/64VdxjQutKxcZPpqxrsNrV"
       },
@@ -9063,7 +9089,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 182561,
       "name": "Sunburn",
       "url": "https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF"

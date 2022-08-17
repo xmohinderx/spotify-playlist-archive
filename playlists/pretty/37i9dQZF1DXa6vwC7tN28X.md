@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 
 > Tangueros \- Rockeros, Rockeros \- Tangueros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,129 likes - 45 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,137 likes - 45 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 5 | [Perro Amor Explota \- Live In Buenos Aires / 2001](https://open.spotify.com/track/7a0yeeNookEFR7YjYAhyrf) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [De La Cabeza Con Bersuit Vergarabat \(Live In Buenos Aires / 2001\)](https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu) | 4:28 |
 | 6 | [Naranjo En Flor](https://open.spotify.com/track/058IA4FZ3oSj0wJbSLtcWi) | [Juan Carlos Baglietto](https://open.spotify.com/artist/1Mt6JeVWV9Tvgk8ercp5O9) | [Postales De Este Lado Del Mundo](https://open.spotify.com/album/4dR2dfCJaLvateYFEB9tKp) | 3:09 |
 | 7 | [El día que me quieras](https://open.spotify.com/track/4S5rS6t4INfDEgBHYQYj99) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tinta roja](https://open.spotify.com/album/69WRi5hgYF8knlDJmBStHS) | 4:32 |
-| 8 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
-| 9 | [No Soy Un Extraño \- Live](https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:22 |
+| 8 | [No Soy Un Extraño \- Live](https://open.spotify.com/track/6KxhnLR6OlcieIudHZqL2V) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:22 |
+| 9 | [Los Piratas \- MTV Unplugged](https://open.spotify.com/track/69ni0mzLxPJ1ipk7ENsXWi) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Fiesta Nacional \(Mtv Unplugged\)](https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7) | 2:56 |
 | 10 | [Límites](https://open.spotify.com/track/7iLRaN2zGfHJUJfTpRoAjZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 3:38 |
 | 11 | [Codigo de barra](https://open.spotify.com/track/6IEKmDAJZxOlXM5kcJXVWm) | [Bajofondo](https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O) | [Presente](https://open.spotify.com/album/0ajrl96QETMiLmTXeit8zY) | 3:01 |
 | 12 | [Tango en Segunda](https://open.spotify.com/track/34NGjr3W7K9E484f7C5xVf) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Pequenas Anécdotas Sobre Las Instituciones](https://open.spotify.com/album/2bW96QNHxL6oDb7kERQrA1) | 3:32 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 33 | [La Despedida \(feat\. Fito Páez & Paula Pomeraniek\)](https://open.spotify.com/track/3p9ebspnr6evao7kZ99BpH) | [Adriana Varela](https://open.spotify.com/artist/5diAzb0BD6mSdU1xOhM7dc), [Fito Páez](https://open.spotify.com/artist/4ZgWNQWb0Qz9QeF67IUVk8), [Paula Pomeraniek](https://open.spotify.com/artist/31dHfRj6P93GP3be6JsYIe) | [Avellaneda](https://open.spotify.com/album/49Xq9ybXE17iQoJox5qegK) | 4:39 |
 | 34 | [Laura Va](https://open.spotify.com/track/0IfhIK11A9J3IqQIf5WhRo) | [Almendra](https://open.spotify.com/artist/7x2a9uyqlWbE9LwcoQWDTo) | [El 1er Álbum Más los Singles](https://open.spotify.com/album/2Syxpgpva5hDmqCZpmmJHp) | 2:52 |
 | 35 | [Tomo y Obligo](https://open.spotify.com/track/7vom0QDBkmCppCpusL97zQ) | [Javier Calamaro](https://open.spotify.com/artist/6tPLRbaYWgZXppgsyKQ2M5) | [Villavicio](https://open.spotify.com/album/0caLBmefMPuGsowMfTuMeh) | 2:42 |
-| 36 | [En Un Bondi Color Humo](https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Maldito Tango](https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1) | 3:36 |
-| 37 | [El Deseo de Evita](https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC) | [Los Visitantes](https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW) | [Espiritango](https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige) | 1:55 |
+| 36 | [El Deseo de Evita](https://open.spotify.com/track/3ExTwPNogl9gEbjSTw5SMC) | [Los Visitantes](https://open.spotify.com/artist/28DInKJA1f9LhVK1LqMaHW) | [Espiritango](https://open.spotify.com/album/5v9b18KRapHDZ1I8Hxlige) | 1:55 |
+| 37 | [En Un Bondi Color Humo](https://open.spotify.com/track/0mbnoXmzOtn4oAl5bJIaDV) | [Melingo](https://open.spotify.com/artist/7oEBXFf9TDKulnNMFKU0FI) | [Maldito Tango](https://open.spotify.com/album/3lqGBKTp87k7kJ7VeR76r1) | 3:36 |
 | 38 | [Imágenes Paganas](https://open.spotify.com/track/3lmGeqAuMWrplZLL378Cng) | [Cucuza Castiello](https://open.spotify.com/artist/3JW0hQELXulJ2LmkPXJAgE) | [Menesunda: Tangolencia Rockera](https://open.spotify.com/album/1IpvQiqJN7fIQCgXBQqXGf) | 2:22 |
 | 39 | [Laura Va](https://open.spotify.com/track/5caXGav3sqgWv6UWbOyxzr) | [Amelita Baltar](https://open.spotify.com/artist/5Z2Vs6p7u0a44wcO68iiQk), [Luis Alberto Spinetta](https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer) | [El Nuevo Rumbo](https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM) | 3:15 |
 | 40 | [Las Tribus](https://open.spotify.com/track/0Hnne5lFK5ppt6UO4BzYjc) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [Martingala](https://open.spotify.com/album/5FgjV4G9WsnzSyRhnrneNc) | 3:45 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6vwC7tN28X.md) - [plain]
 | 44 | [Bailemos](https://open.spotify.com/track/0AQsA3OPmd4zXQtiip1Gf4) | [Max Aguirre](https://open.spotify.com/artist/7Bl5WcUdWdWAwDpCD3o8lk), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [Bailemos](https://open.spotify.com/album/1Y9yvMJ173jWvE0ho8WEOy) | 4:31 |
 | 45 | [Salvavidas de Plomo](https://open.spotify.com/track/7vfkvaLx1g6b8iWJoWrOaI) | [Juan Subira](https://open.spotify.com/artist/1TQCf74SMH4NMVPHUC7ohk), [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Fisura Expuesta](https://open.spotify.com/album/3xMB06xJvBVJJeEnmC4VC3) | 6:44 |
 
-Snapshot ID: `MTY1NjA5NDkzOCwwMDAwMDAwMDJmMTNiMzVlNWJiMmM2YTdmZDAxZjE1ZDExOTU1Yzhh`
+Snapshot ID: `MTY1NjA5NDkzOCwwMDAwMDAwMGUzOTExNGVjZGUxNWYxNGU2ZDhhNzVkZDQ4ZjI3NWYx`

@@ -1,12 +1,12 @@
 {
   "description": "Ll\u00e9vatela tranqui con los hits m\u00e1s relajados del urbano.",
-  "num_followers": 156376,
+  "num_followers": 156398,
   "original_name": "Tranqui",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYwMTQ1OCwwMDAwMDAwMDU4ZDY2MDZiYmJlZTdjMWUzYWVmN2ExZjhhOWJjYzhk",
+  "snapshot_id": "MTY2MDYwMTQ1OCwwMDAwMDAwMDc3ODMzMzc2ZjlkMmJhM2YxOWVlNTI2MzJlMzRiMjQx",
   "tracks": [
     {
       "added_at": "2022-08-15 22:10:58",
@@ -143,6 +143,26 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
+        "name": "Los Cachos",
+        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "duration_ms": 212304,
+      "name": "Los Cachos",
+      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
         "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
         "url": "https://open.spotify.com/album/1RXzQq8DhpkYvvbXE9CqLm"
       },
@@ -167,26 +187,6 @@
       "duration_ms": 260000,
       "name": "Entre Nosotros (Remix) [con Nicki Nicole]",
       "url": "https://open.spotify.com/track/4TGwERXRlyQtBdggYTHo6j"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
-        "name": "Los Cachos",
-        "url": "https://open.spotify.com/album/0SXW8l00nztnoYkGT7BjJh"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        }
-      ],
-      "duration_ms": 212304,
-      "name": "Los Cachos",
-      "url": "https://open.spotify.com/track/5fhcuVxuBWfgNXGuyAtLmr"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -443,6 +443,22 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
         "name": "Buenos D\u00edas",
         "url": "https://open.spotify.com/album/4bmS0E4xk96TPMC9MXc9Xv"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 211651,
       "name": "Si Me Dices Que S\u00ed",
       "url": "https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
-        "name": "Sin Novia",
-        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
-      },
-      "artists": [
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "Sin Novia",
-      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
+        "name": "El Mensaje",
+        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "El Mensaje",
+      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
         "name": "Sigo Esperando Que Vuelvas (feat. Los Golpes)",
         "url": "https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 182496,
       "name": "AM",
       "url": "https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
-        "name": "El Mensaje",
-        "url": "https://open.spotify.com/album/7rm64Fm5KyyffZ5w0lFwpV"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "El Mensaje",
-      "url": "https://open.spotify.com/track/2KixbV3oLBNrQP2cXwrAC4"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
+        "name": "K.O.",
+        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 161813,
+      "name": "Calla T\u00fa",
+      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 183475,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
-        "name": "K.O.",
-        "url": "https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK"
-      },
-      "artists": [
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 161813,
-      "name": "Calla T\u00fa",
-      "url": "https://open.spotify.com/track/7jL2tCE0Xn2tunqWayBkte"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
-        "name": "Maviri",
-        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
-      },
-      "artists": [
-        {
-          "name": "Mont",
-          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
-        }
-      ],
-      "duration_ms": 135797,
-      "name": "Maviri",
-      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
         "name": "Kaprichosa",
         "url": "https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 149300,
       "name": "Joder",
       "url": "https://open.spotify.com/track/2b5Worm8h9yAJOw2jc4zZp"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
+        "name": "Maviri",
+        "url": "https://open.spotify.com/album/5w3ksWCecm2QnMYDsOKeJd"
+      },
+      "artists": [
+        {
+          "name": "Mont",
+          "url": "https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0"
+        }
+      ],
+      "duration_ms": 135797,
+      "name": "Maviri",
+      "url": "https://open.spotify.com/track/2KbDqOveWc2vInJ4QiSeuX"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
-        "name": "T\u00edrame Un Hello",
-        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
-      },
-      "artists": [
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        }
-      ],
-      "duration_ms": 169621,
-      "name": "T\u00edrame Un Hello",
-      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
         "name": "Club Diecis\u00e9is",
         "url": "https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 171832,
       "name": "A Mi Tambi\u00e9n ft. Alvaro Diaz, Feid",
       "url": "https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
+        "name": "T\u00edrame Un Hello",
+        "url": "https://open.spotify.com/album/5TMEMbki3PdX1SnjaxZP1g"
+      },
+      "artists": [
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        }
+      ],
+      "duration_ms": 169621,
+      "name": "T\u00edrame Un Hello",
+      "url": "https://open.spotify.com/track/3QaVdI6ZgQ3d4VJOscCH1s"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
-        "name": "1 of 1",
-        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
-      },
-      "artists": [
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 181068,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
         "name": "Enchule",
         "url": "https://open.spotify.com/album/3DxqnLZyD3wBfxdg7FnkPY"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 185718,
       "name": "Enchule",
       "url": "https://open.spotify.com/track/3ThrfRAmijYU098H9q9tAs"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
+        "name": "1 of 1",
+        "url": "https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6"
+      },
+      "artists": [
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 181068,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak"
     },
     {
       "added_at": "2022-08-15 22:10:58",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2022-08-15 22:10:58",
       "album": {
-        "name": "Las de Octubre",
-        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
-      },
-      "artists": [
-        {
-          "name": "Ingratax",
-          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
-        }
-      ],
-      "duration_ms": 165408,
-      "name": "Las de Octubre",
-      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
-    },
-    {
-      "added_at": "2022-08-15 22:10:58",
-      "album": {
         "name": "Cardellino",
         "url": "https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 169776,
       "name": "TOSCANA",
       "url": "https://open.spotify.com/track/6ejAYAdo08qbPLrH4FEfYe"
+    },
+    {
+      "added_at": "2022-08-15 22:10:58",
+      "album": {
+        "name": "Las de Octubre",
+        "url": "https://open.spotify.com/album/2w7wYFGBsvJJoUxQb8y1Td"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "duration_ms": 165408,
+      "name": "Las de Octubre",
+      "url": "https://open.spotify.com/track/570gZiXUFd5phvmvh2gGCc"
     },
     {
       "added_at": "2022-08-15 22:10:58",

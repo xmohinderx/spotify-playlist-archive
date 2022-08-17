@@ -520,6 +520,24 @@
     },
     {
       "album": {
+        "name": "Composure",
+        "url": "https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj"
+      },
+      "artists": [
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149051,
+      "name": "Composure",
+      "url": "https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu"
+    },
+    {
+      "album": {
         "name": "Controller",
         "url": "https://open.spotify.com/album/0nVzRQh8j8RyVhi7qvJzD5"
       },
@@ -969,7 +987,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 276960,
       "name": "Helix - Gesaffelstein Vision Remix",
       "url": "https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe"

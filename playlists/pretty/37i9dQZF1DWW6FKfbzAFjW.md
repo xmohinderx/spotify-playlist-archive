@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 
 > Feel\-good tunes for your Cinco de Mayo\. ¡Salud!
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,059 likes - 44 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,057 likes - 44 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,10 +12,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 2 | [Ya Supérame \(En Vivo\)](https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Ya Supérame \(En Vivo\)](https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml) | 3:09 |
 | 3 | [Adiós Amor](https://open.spotify.com/track/63bmZnBN1CiJ9sA4qTEe8y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:19 |
 | 4 | [Oye Mi Amor](https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [¿Dónde Jugarán Los Niños?](https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK) | 4:23 |
-| 5 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
-| 6 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
-| 7 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
-| 8 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 |
+| 5 | [Amor Prohibido](https://open.spotify.com/track/1kCewNSs909Xj1naXr36X8) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Amor Prohibido](https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E) | 2:52 |
+| 6 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
+| 7 | [Cómo Te Voy A Olvidar](https://open.spotify.com/track/51dNexiESqcJLsGLrmg1Nv) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Inolvidables](https://open.spotify.com/album/1v2KdMb9X99cCsdahjRD8Y) | 4:27 |
+| 8 | [Tus Jefes No Me Quieren](https://open.spotify.com/track/5ZkVnHs6BZViyXnl4LmRXh) | [Grupo Ensamble](https://open.spotify.com/artist/4qDQBPUMcJUH7BQ9dfJnfI) | [Tus Jefes No Me Quieren\. Llegó la Cumbia](https://open.spotify.com/album/59DJY70HuReCmWs6EzRoNA) | 3:46 |
 | 9 | [Tiene Espinas El Rosal](https://open.spotify.com/track/1JO6kEdXrxBq9QobefZg0H) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Grupo Cañaveral, Vol\. 3](https://open.spotify.com/album/0enYFc2pFSAqZ53enjSU5r) | 3:58 |
 | 10 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 |
 | 11 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 20 | [La ingrata](https://open.spotify.com/track/19ScoKGqnfUggyqOVQjsoH) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Re](https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84) | 3:32 |
 | 21 | [Rumba Cha\-Cha\-Cha](https://open.spotify.com/track/6Y0Z4tAyI5JwBPVbxKQpXe) | [Grupo Kual?](https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX) | [El Poder De La Cumbia](https://open.spotify.com/album/2S6Dh7t8W9Uwc2ux3mP39m) | 4:43 |
 | 22 | [México En La Piel](https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Mexico en la Piel \(edicion diamante\)](https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM) | 3:29 |
-| 23 | [Jefe De Jefes](https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:33 |
-| 24 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
+| 23 | [Cumbia A La Gente](https://open.spotify.com/track/2a1oufthlxOkH8yjhYAvgH) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Cumbia A La Gente](https://open.spotify.com/album/3eT1FV4qZ43hRNUBO5yf12) | 3:28 |
+| 24 | [Jefe De Jefes](https://open.spotify.com/track/3TxGNwiGxgE42MqqWAdmDg) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Herencia Musical 20 Corridos Inolvidables](https://open.spotify.com/album/5HHesQPquZcoecO60eTNBT) | 3:33 |
 | 25 | [A Través Del Vaso](https://open.spotify.com/track/5eY547Fxr6QKiqBkUrx0sC) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [A Través Del Vaso](https://open.spotify.com/album/5fb92VTFSonh6s4IDFqILN) | 3:02 |
 | 26 | [Estos Tragos Van Por Ti](https://open.spotify.com/track/0ZxFFIJg3TzEoVcuj08rA2) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Estos Tragos Van Por Ti](https://open.spotify.com/album/4toVgPcbyFxBrTqh7irjEZ) | 2:24 |
 | 27 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/0o9Vr0BGIQPh32staLHcuU) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:07 |
@@ -53,4 +53,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6FKfbzAFjW.md) - [plain]
 | 43 | [Cumbia](https://open.spotify.com/track/5vTz4MfoIbG6msHcs91HUS) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [Soy Sauce](https://open.spotify.com/album/5m18d3byC5l3bjGOfvCv8r) | 2:16 |
 | 44 | [Ticket De Salida](https://open.spotify.com/track/01ONRpkfIIAiavWJVY03AH) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Ticket De Salida](https://open.spotify.com/album/4rzbH6FLHISy07kILLO5Hr) | 3:04 |
 
-Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMDIxZTliZDk5OWZlZmVkZjMyZDYwMDc0NzA3YzU3MjNk`
+Snapshot ID: `MTY1MTUxMjM4OCwwMDAwMDAwMDY2ODZmNzliZjEyY2E0Njc5YmRhYzE5NzM1MTg3Y2Jl`

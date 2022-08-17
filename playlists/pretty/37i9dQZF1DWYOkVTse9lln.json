@@ -1,12 +1,12 @@
 {
   "description": "Saca la estrella que llevas dentro.",
-  "num_followers": 641365,
+  "num_followers": 641496,
   "original_name": "Karaoke en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NTg1OCwwMDAwMDAwMGU4NjUyOGI5NDNiZThhY2E0ZWQzNWVlMDliZWIzZGZi",
+  "snapshot_id": "MTY1ODg1NTg1OCwwMDAwMDAwMDgyYmU2Y2JhZjc5ZTU1ZWIyZTM0ZmE0M2I4MGE2M2Jj",
   "tracks": [
     {
       "added_at": "2022-07-26 17:17:38",
@@ -79,6 +79,22 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
+        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
+        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+      },
+      "artists": [
+        {
+          "name": "Manu Chao",
+          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+        }
+      ],
+      "duration_ms": 239986,
+      "name": "Me Gustas Tu",
+      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
         "name": "A Coraz\u00f3n Abierto",
         "url": "https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA"
       },
@@ -95,18 +111,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Pr\u00f3xima Estaci\u00f3n: Esperanza",
-        "url": "https://open.spotify.com/album/4t1LLdXiWTfoywqricztFo"
+        "name": "Todavia",
+        "url": "https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n"
       },
       "artists": [
         {
-          "name": "Manu Chao",
-          "url": "https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM"
+          "name": "La Factoria",
+          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
         }
       ],
-      "duration_ms": 239986,
-      "name": "Me Gustas Tu",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6"
+      "duration_ms": 204904,
+      "name": "Todavia",
+      "url": "https://open.spotify.com/track/7gaovXojjqfn276uZR0omT"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -127,22 +143,6 @@
       "duration_ms": 230280,
       "name": "Colgando en tus manos (con Marta S\u00e1nchez)",
       "url": "https://open.spotify.com/track/3UI9I3e1g1y5T3SMfdgfGO"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
-        "name": "Todavia",
-        "url": "https://open.spotify.com/album/6MLmdGugNROactcsaoxk9n"
-      },
-      "artists": [
-        {
-          "name": "La Factoria",
-          "url": "https://open.spotify.com/artist/4VsbQvC84B8Z3IsBY1HLQy"
-        }
-      ],
-      "duration_ms": 204904,
-      "name": "Todavia",
-      "url": "https://open.spotify.com/track/7gaovXojjqfn276uZR0omT"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -359,6 +359,22 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 203160,
       "name": "La Gozadera (feat. Marc Anthony)",
       "url": "https://open.spotify.com/track/0OMRAvrtLWE2TvcXorRiB9"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 240560,
-      "name": "C\u00f3mo Te Atreves",
-      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "Destino o casualidad",
         "url": "https://open.spotify.com/album/0qnDuxzDLdWWi9R473rv85"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 258504,
       "name": "Destino o casualidad",
       "url": "https://open.spotify.com/track/2sMxswHr9wX7kTUHULvJBJ"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 240560,
+      "name": "C\u00f3mo Te Atreves",
+      "url": "https://open.spotify.com/track/7M6CFruBrM5x7u0lTMtm6r"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -583,6 +583,22 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
+        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
+        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00e9",
+          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "So\u00f1\u00e9 - En Vivo",
+      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
         "name": "Santo Pecado",
         "url": "https://open.spotify.com/album/7jlpMHgMoGjy2mc0CwzCjf"
       },
@@ -631,34 +647,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "MTV Unplugged M\u00fasica De Fondo (Reissue/Live)",
-        "url": "https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Zo\u00e9",
-          "url": "https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 226626,
-      "name": "So\u00f1\u00e9 - En Vivo",
-      "url": "https://open.spotify.com/track/2VhJ4nrPorAbySEgO4V0BS"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
-        "name": "Atado A Tu Amor",
-        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 284466,
-      "name": "Dejar\u00eda Todo",
-      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
+      "duration_ms": 205373,
+      "name": "A Dios Le Pido",
+      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Atado A Tu Amor",
+        "url": "https://open.spotify.com/album/3liBiZNxZoEkcv9ooLM20i"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
         }
       ],
-      "duration_ms": 205373,
-      "name": "A Dios Le Pido",
-      "url": "https://open.spotify.com/track/129lYDVKnWtlJc2PZJviuA"
+      "duration_ms": 284466,
+      "name": "Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/79mdw3IznNCFsF7R9O2KGz"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
       },
       "artists": [
         {
-          "name": "Wolfine",
-          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
         }
       ],
-      "duration_ms": 197120,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -851,18 +851,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+        "name": "Bella",
+        "url": "https://open.spotify.com/album/6dnN2EDH4Lf0uaFUZGNaAe"
       },
       "artists": [
         {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+          "name": "Wolfine",
+          "url": "https://open.spotify.com/artist/2OnKRchqP7tT0FzTvWIFI7"
         }
       ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
+      "duration_ms": 197120,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/68sQIehHsGohLMgcP5nlND"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "MANTRA",
-        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 228080,
-      "name": "Como Mirarte",
-      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 179040,
       "name": "La bikina - En vivo",
       "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "MANTRA",
+        "url": "https://open.spotify.com/album/1l1zcI8iwJg4WCb7jxHtbN"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "Como Mirarte",
+      "url": "https://open.spotify.com/track/0CXEPVeQDLgDBfvcsQpXq1"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1083,22 +1083,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Un A\u00f1o",
-        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Un A\u00f1o",
-      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1135,18 +1131,22 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+        "name": "Un A\u00f1o",
+        "url": "https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
         }
       ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
+      "duration_ms": 164440,
+      "name": "Un A\u00f1o",
+      "url": "https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Todo Cambio",
-        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+        "name": "Dulce Beat",
+        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
       },
       "artists": [
         {
-          "name": "Camila",
-          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+          "name": "Belanova",
+          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
         }
       ],
-      "duration_ms": 306986,
-      "name": "Coleccionista de Canciones",
-      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
+      "duration_ms": 216333,
+      "name": "Por Ti",
+      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Dulce Beat",
-        "url": "https://open.spotify.com/album/5aamU0jIrX7bsjUsPCFVAK"
-      },
-      "artists": [
-        {
-          "name": "Belanova",
-          "url": "https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Por Ti",
-      "url": "https://open.spotify.com/track/1foeacjwgWD6UMmirTXwL5"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "El Patr\u00f3n (La Victoria)",
         "url": "https://open.spotify.com/album/214muZYoc3ewXMXGwQBFVU"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 246800,
       "name": "El Amor",
       "url": "https://open.spotify.com/track/7e6PEtKY008duLXsAJ3TVQ"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "Todo Cambio",
+        "url": "https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf"
+      },
+      "artists": [
+        {
+          "name": "Camila",
+          "url": "https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU"
+        }
+      ],
+      "duration_ms": 306986,
+      "name": "Coleccionista de Canciones",
+      "url": "https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Mi Sangre",
-        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 217560,
-      "name": "Volverte A Ver",
-      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "Sigo Siendo Yo",
         "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 302946,
       "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
       "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "Mi Sangre",
+        "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 217560,
+      "name": "Volverte A Ver",
+      "url": "https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Mar\u00eda Jos\u00e9",
-        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Jos\u00e9",
-          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
-        }
-      ],
-      "duration_ms": 239706,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "Escape",
         "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 263600,
       "name": "Heroe",
       "url": "https://open.spotify.com/track/4AkrkORGjiz7c90mwxAvdW"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "Mar\u00eda Jos\u00e9",
+        "url": "https://open.spotify.com/album/3ZYCIP3Z0UcypRrTLghQ4M"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Jos\u00e9",
+          "url": "https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs"
+        }
+      ],
+      "duration_ms": 239706,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/0mjwigpuvO4IAAMtoNoUyQ"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "Colecci\u00f3n Suprema",
-        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
-      },
-      "artists": [
-        {
-          "name": "La Mosca Tse-Tse",
-          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
-        }
-      ],
-      "duration_ms": 194960,
-      "name": "Para No Verte M\u00e1s",
-      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/0ll9JAIrM3NVBOMl45sxSX"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "Colecci\u00f3n Suprema",
+        "url": "https://open.spotify.com/album/7mhDLAiRNZmqaP52huKp3t"
+      },
+      "artists": [
+        {
+          "name": "La Mosca Tse-Tse",
+          "url": "https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W"
+        }
+      ],
+      "duration_ms": 194960,
+      "name": "Para No Verte M\u00e1s",
+      "url": "https://open.spotify.com/track/2KeidigK5po1qoREBuX35Z"
     },
     {
       "added_at": "2022-07-26 17:17:38",
@@ -2463,22 +2463,6 @@
     {
       "added_at": "2022-07-26 17:17:38",
       "album": {
-        "name": "6 Super Hits",
-        "url": "https://open.spotify.com/album/6DHogfr8t5fDHQXS3pgNXA"
-      },
-      "artists": [
-        {
-          "name": "Fanny Lu",
-          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
-        }
-      ],
-      "duration_ms": 205653,
-      "name": "T\u00fa No Eres Para Mi",
-      "url": "https://open.spotify.com/track/1IypFfPPvlS8CUtaLlv2pI"
-    },
-    {
-      "added_at": "2022-07-26 17:17:38",
-      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -2491,6 +2475,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-07-26 17:17:38",
+      "album": {
+        "name": "6 Super Hits",
+        "url": "https://open.spotify.com/album/6DHogfr8t5fDHQXS3pgNXA"
+      },
+      "artists": [
+        {
+          "name": "Fanny Lu",
+          "url": "https://open.spotify.com/artist/6GRC8segVAr34gm6pjfSoQ"
+        }
+      ],
+      "duration_ms": 205653,
+      "name": "T\u00fa No Eres Para Mi",
+      "url": "https://open.spotify.com/track/1IypFfPPvlS8CUtaLlv2pI"
     },
     {
       "added_at": "2022-07-26 17:17:38",

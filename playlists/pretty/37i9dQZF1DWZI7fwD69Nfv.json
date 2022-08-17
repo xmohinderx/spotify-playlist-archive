@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 67937,
+  "num_followers": 68020,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA2ODczNCwwMDAwMDAwMDdlZjNkNjc2YTUxMmZlN2M5YTkwNzBmZTYyNDQxMjAz",
+  "snapshot_id": "MTY2MDA2ODczNCwwMDAwMDAwMGExOTYwNjkxNGY3MTFmMzM2YmFmYWE2YmU3ZjY1ZWFk",
   "tracks": [
     {
       "added_at": "2022-08-09 18:12:14",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Vicente Fernandez Para Siempre",
-        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 173080,
-      "name": "Un Mill\u00f3n de Primaveras",
-      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "Sex Symbol",
         "url": "https://open.spotify.com/album/5tf8kuqoGGyPD6xxhPLlst"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 343353,
       "name": "La Noche Mas Linda",
       "url": "https://open.spotify.com/track/3scW7pt0vlhkCCgCNv5YR9"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Vicente Fernandez Para Siempre",
+        "url": "https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 173080,
+      "name": "Un Mill\u00f3n de Primaveras",
+      "url": "https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -399,22 +399,18 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
+        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
+        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
       },
       "artists": [
         {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        },
-        {
-          "name": "Los Dos Carnales",
-          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 142064,
-      "name": "Cabr\u00f3n y Vago - En Vivo",
-      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
+      "duration_ms": 246131,
+      "name": "Tu - Live",
+      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -443,18 +439,22 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Encerrados Pero Enfiestados Vol. 1 (Live)",
-        "url": "https://open.spotify.com/album/3EznPHQJtIYF3OH2gFUt9K"
+        "name": "Puerta Abierta, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/7rJgUM53wtu1WnwcAMaEgg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        },
+        {
+          "name": "Los Dos Carnales",
+          "url": "https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3"
         }
       ],
-      "duration_ms": 246131,
-      "name": "Tu - Live",
-      "url": "https://open.spotify.com/track/64xuDtR4TKUI8JAeZoqndu"
+      "duration_ms": 142064,
+      "name": "Cabr\u00f3n y Vago - En Vivo",
+      "url": "https://open.spotify.com/track/4nbWX2HzrOEnX4xxvYRCyU"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -571,6 +571,22 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -591,18 +607,18 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "No Se Va",
-        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+        "name": "La Rueda De La Fortuna",
+        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
       },
       "artists": [
         {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 194019,
-      "name": "No Se Va",
-      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
+      "duration_ms": 216266,
+      "name": "En Definitiva",
+      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -623,18 +639,22 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "La Rueda De La Fortuna",
-        "url": "https://open.spotify.com/album/1YDVn5KeQ7ZzX7TPmSLTKd"
+        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
       },
       "artists": [
         {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 216266,
-      "name": "En Definitiva",
-      "url": "https://open.spotify.com/track/6CRRlfXDdhsL6vih3J5xco"
+      "duration_ms": 185038,
+      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
+      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -667,26 +687,6 @@
       "duration_ms": 221226,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/2JJSGhPpATm8lXeYjD95fw"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
-        "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-        "url": "https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        },
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 185038,
-      "name": "\u00bfY Qu\u00e9 Tal Si Funciona?",
-      "url": "https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Juan Gabriel",
-        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
-      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 186360,
       "name": "El Precio De La Soledad",
       "url": "https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Juan Gabriel",
+        "url": "https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 182880,
+      "name": "\u00bfPor Qu\u00e9 Me Haces Llorar?",
+      "url": "https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "No Paras de Hacerme Feliz",
-        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
-      },
-      "artists": [
-        {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
-        }
-      ],
-      "duration_ms": 185296,
-      "name": "No Paras de Hacerme Feliz",
-      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 279320,
       "name": "Talento De Televisi\u00f3n",
       "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "No Paras de Hacerme Feliz",
+        "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 185296,
+      "name": "No Paras de Hacerme Feliz",
+      "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Un Nuevo Amor",
-        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+        "name": "Mi Buena Suerte",
+        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
         }
       ],
-      "duration_ms": 226776,
-      "name": "Un Nuevo Amor",
-      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+      "duration_ms": 158440,
+      "name": "Ni Parientes Somos",
+      "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Mi Buena Suerte",
-        "url": "https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 158440,
-      "name": "Ni Parientes Somos",
-      "url": "https://open.spotify.com/track/2ANeBRTHe6N0dq7dz7CaVJ"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -1183,22 +1167,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "El Aferrado",
         "url": "https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi"
       },
@@ -1211,6 +1179,38 @@
       "duration_ms": 212186,
       "name": "Que Dar\u00eda",
       "url": "https://open.spotify.com/track/6gNBwxKKovpw87Tt2ihzCY"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Un Nuevo Amor",
+        "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 226776,
+      "name": "Un Nuevo Amor",
+      "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
-      },
-      "artists": [
-        {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
-        }
-      ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "Calidad Y Cantidad",
         "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 182306,
       "name": "Entre Beso Y Beso",
       "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+      },
+      "artists": [
+        {
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+        }
+      ],
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1327,6 +1327,26 @@
       "duration_ms": 232611,
       "name": "Decide T\u00fa",
       "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "M\u00e1s Muerto Que Vivo",
+        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Intocable",
+          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
+        }
+      ],
+      "duration_ms": 213221,
+      "name": "M\u00e1s Muerto Que Vivo",
+      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1359,26 +1379,6 @@
       "duration_ms": 186653,
       "name": "Seremos",
       "url": "https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
-        "name": "M\u00e1s Muerto Que Vivo",
-        "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Intocable",
-          "url": "https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02"
-        }
-      ],
-      "duration_ms": 213221,
-      "name": "M\u00e1s Muerto Que Vivo",
-      "url": "https://open.spotify.com/track/6FkIjhuEDMc3mUFZZKxQlE"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
-        "name": "Mi Mayor Anhelo",
-        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 209786,
-      "name": "Mi Mayor Anhelo",
-      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
         "name": "Las Compuse para Ti",
         "url": "https://open.spotify.com/album/6MPAzfdQFWe5IadlxhcUNv"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 226285,
       "name": "La Mushasha Shula",
       "url": "https://open.spotify.com/track/4H8AfSDk1cWrYiV35VCdyA"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
+        "name": "Mi Mayor Anhelo",
+        "url": "https://open.spotify.com/album/3y4zsDJdS6o2oYprOn0XKp"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 209786,
+      "name": "Mi Mayor Anhelo",
+      "url": "https://open.spotify.com/track/0bBvuLFzIjrHm9PPyvohIA"
     },
     {
       "added_at": "2022-08-09 18:12:14",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2022-08-09 18:12:14",
       "album": {
+        "name": "Entrega De Amor",
+        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Entrega De Amor",
+      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
+    },
+    {
+      "added_at": "2022-08-09 18:12:14",
+      "album": {
         "name": "Todo tuyo",
         "url": "https://open.spotify.com/album/6EGXXDM0tEb4mTuC4ofMei"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 229040,
       "name": "Caray",
       "url": "https://open.spotify.com/track/3SPqDiyU1dKcWfBBWpPEC3"
-    },
-    {
-      "added_at": "2022-08-09 18:12:14",
-      "album": {
-        "name": "Entrega De Amor",
-        "url": "https://open.spotify.com/album/5RskNC4hvSZfi1b2k1tFPw"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Entrega De Amor",
-      "url": "https://open.spotify.com/track/2SNP0sm56HwUvZh7bL66pi"
     },
     {
       "added_at": "2022-08-09 18:12:14",

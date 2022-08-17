@@ -1,12 +1,12 @@
 {
   "description": "Let's mix it.",
-  "num_followers": 85143,
+  "num_followers": 85199,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU1Nzg0MiwwMDAwMDAwMDYxZDg0YTM5ZTYwNWZiMjUwYjFjMTY4NDMwZWYwZWNm",
+  "snapshot_id": "MTY2MDU1Nzg0MiwwMDAwMDAwMDY4NjgwMGFjOGMyZmI0OTFhZWI2OGE3NGM2NTA4MjAy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "she's all i wanna be",
-        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 206772,
-      "name": "she's all i wanna be",
-      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Teatro d'ira - Vol. I",
         "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 173346,
       "name": "I WANNA BE YOUR SLAVE",
       "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "she's all i wanna be",
+        "url": "https://open.spotify.com/album/51oWPUjnGhecw62V8LDXK8"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 206772,
+      "name": "she's all i wanna be",
+      "url": "https://open.spotify.com/track/0IuVhCflrQPMGRrOyoY5RW"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -327,6 +327,38 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "MAMMAMIA",
+        "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
+      },
+      "artists": [
+        {
+          "name": "M\u00e5neskin",
+          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+        }
+      ],
+      "duration_ms": 186809,
+      "name": "MAMMAMIA",
+      "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "boy",
+        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+      },
+      "artists": [
+        {
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+        }
+      ],
+      "duration_ms": 198480,
+      "name": "boy",
+      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "F8",
         "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
@@ -355,38 +387,6 @@
       "duration_ms": 159746,
       "name": "Bite Me",
       "url": "https://open.spotify.com/track/6dfwRetlyLPBoQzdufbOWj"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "MAMMAMIA",
-        "url": "https://open.spotify.com/album/7lVXNBav3Z8oA4jGk62Gme"
-      },
-      "artists": [
-        {
-          "name": "M\u00e5neskin",
-          "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-        }
-      ],
-      "duration_ms": 186809,
-      "name": "MAMMAMIA",
-      "url": "https://open.spotify.com/track/78SCmQ8A7KQSMdkem2SwBP"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "How Do You Love Somebody",
-        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
-      },
-      "artists": [
-        {
-          "name": "Why Don't We",
-          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
-        }
-      ],
-      "duration_ms": 180065,
-      "name": "How Do You Love Somebody",
-      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "boy",
-        "url": "https://open.spotify.com/album/7ddxzwtg0QQj9kXYK29rpG"
+        "name": "How Do You Love Somebody",
+        "url": "https://open.spotify.com/album/2Dc1wn06E8wwYLivi87Brc"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Why Don't We",
+          "url": "https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2"
         }
       ],
-      "duration_ms": 198480,
-      "name": "boy",
-      "url": "https://open.spotify.com/track/3Qw0WuniULBdYjXe2jsqCy"
+      "duration_ms": 180065,
+      "name": "How Do You Love Somebody",
+      "url": "https://open.spotify.com/track/4j5gXarJqoiwh4ZIAqZcmh"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "the idea",
-        "url": "https://open.spotify.com/album/529HyBH38pXm03KrwyI0At"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 203972,
-      "name": "the idea",
-      "url": "https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Long Story Short",
         "url": "https://open.spotify.com/album/0fsUPGZdjtXb5F7KJ4FSzk"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 163436,
       "name": "Figure You Out",
       "url": "https://open.spotify.com/track/2bFGGsScXp2Tu10jKMCKO6"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "the idea",
+        "url": "https://open.spotify.com/album/529HyBH38pXm03KrwyI0At"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 203972,
+      "name": "the idea",
+      "url": "https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "@ my worst",
-        "url": "https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 191364,
-      "name": "@ my worst",
-      "url": "https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "the underrated youth",
         "url": "https://open.spotify.com/album/0kGTcfwQC5nlsubgxUXdwP"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 171880,
       "name": "parents",
       "url": "https://open.spotify.com/track/68rVGSTnCiFOET9k5Vd8Se"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "@ my worst",
+        "url": "https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 191364,
+      "name": "@ my worst",
+      "url": "https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 145103,
       "name": "Love It When You Hate Me (feat. blackbear)",
       "url": "https://open.spotify.com/track/6m0Dk7Cm7rWQLzCjeYIiIt"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "<maybe> it's my fault",
-        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 159832,
-      "name": "<maybe> it's my fault",
-      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+        "name": "<maybe> it's my fault",
+        "url": "https://open.spotify.com/album/139YquG3RpaLBq98PbsOIM"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
+      "duration_ms": 159832,
+      "name": "<maybe> it's my fault",
+      "url": "https://open.spotify.com/track/4w5wkuwuCByenZ6QufdeQN"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -899,6 +899,26 @@
       "duration_ms": 177149,
       "name": "KULT (feat. Jasiah)",
       "url": "https://open.spotify.com/track/22ya9ZSp7FxhcgFLALm0eS"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Memories (with WILLOW)",
+        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 155919,
+      "name": "Memories (with WILLOW)",
+      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -983,22 +1003,18 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "Memories (with WILLOW)",
-        "url": "https://open.spotify.com/album/0OJD74cS6Isaf2iAdkGSOd"
+        "name": "hover like a GODDESS",
+        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
       },
       "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
         {
           "name": "WILLOW",
           "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
         }
       ],
-      "duration_ms": 155919,
-      "name": "Memories (with WILLOW)",
-      "url": "https://open.spotify.com/track/3LcMLFApeU9uCT8VCWEVjr"
+      "duration_ms": 143357,
+      "name": "hover like a GODDESS",
+      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "hover like a GODDESS",
-        "url": "https://open.spotify.com/album/4arIDrVDtHLb3qVOY35Qvf"
-      },
-      "artists": [
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
-        }
-      ],
-      "duration_ms": 143357,
-      "name": "hover like a GODDESS",
-      "url": "https://open.spotify.com/track/5lq8H9zq9v4wDVyNHOoTVX"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "First Time",
         "url": "https://open.spotify.com/album/6GwqbWxgikcrhZn8M2M7sc"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 165779,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2eFjKl5cyPPYElDByCh6Tb"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "The Emperor",
+        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 175150,
+      "name": "The Emperor",
+      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1139,8 +1155,8 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "The Emperor",
-        "url": "https://open.spotify.com/album/48QqIBzNdsmVimYeINIAxt"
+        "name": "fleabag",
+        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
       },
       "artists": [
         {
@@ -1148,25 +1164,9 @@
           "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
         }
       ],
-      "duration_ms": 175150,
-      "name": "The Emperor",
-      "url": "https://open.spotify.com/track/1Gkfh1jNNFJPh3vcCSGi3J"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Serotonin",
-        "url": "https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 182426,
-      "name": "Serotonin",
-      "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
+      "duration_ms": 176988,
+      "name": "fleabag",
+      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1183,6 +1183,22 @@
       "duration_ms": 143500,
       "name": "Dress",
       "url": "https://open.spotify.com/track/26ORKiTdampbfuv4Zno5su"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Serotonin",
+        "url": "https://open.spotify.com/album/7Dv5bbo8oZ0KTrXG6CkeUO"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 182426,
+      "name": "Serotonin",
+      "url": "https://open.spotify.com/track/1q2Zb0v5ZGxKDktEz7wSPb"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1247,22 +1263,6 @@
       "duration_ms": 178787,
       "name": "ur just horny",
       "url": "https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "fleabag",
-        "url": "https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 176988,
-      "name": "fleabag",
-      "url": "https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy"
     },
     {
       "added_at": "2022-08-12 04:02:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-12 04:02:00",
       "album": {
-        "name": "The Band CAMINO",
-        "url": "https://open.spotify.com/album/1N5ZRHDLAv92FHZ4fRYhCi"
-      },
-      "artists": [
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 181673,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3Q8u1ugsmi8ZLq8vVoL6uI"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
         "name": "Teenage Heartbreak",
         "url": "https://open.spotify.com/album/6J3MyFpk3rKOlthkLrW7q9"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 156000,
       "name": "Don't Freak Out (feat. iann dior, Tyson Ritter & Travis Barker)",
       "url": "https://open.spotify.com/track/1IflC51n9KG5JJh5sHVU1D"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Manic",
+        "url": "https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc"
+      },
+      "artists": [
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "duration_ms": 173467,
+      "name": "I'm Not Mad",
+      "url": "https://open.spotify.com/track/6SL8U8TtdwOtGhbmGzsMfX"
     }
   ],
   "unique_name": "Pop Rock",

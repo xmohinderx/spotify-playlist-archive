@@ -392,6 +392,32 @@
     },
     {
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182413,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
+    },
+    {
+      "album": {
         "name": "Borracho",
         "url": "https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG"
       },
@@ -635,7 +661,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 224996,
       "name": "Desesperados",
       "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
@@ -1563,6 +1589,24 @@
       "duration_ms": 142500,
       "name": "Mujeriego",
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
+    },
+    {
+      "album": {
+        "name": "No Se Va",
+        "url": "https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194019,
+      "name": "No Se Va",
+      "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
     },
     {
       "album": {

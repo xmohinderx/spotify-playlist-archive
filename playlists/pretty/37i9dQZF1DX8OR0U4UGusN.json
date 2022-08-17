@@ -1,12 +1,12 @@
 {
   "description": "cool tunes for walking, driving, running, flying, etc",
-  "num_followers": 146999,
+  "num_followers": 147178,
   "original_name": "omw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA3OTg5MywwMDAwMDAwMGJmZjBmZDgzZTkwNGQzYjM5ODAxYzlhZDc0MWYxY2Yx",
+  "snapshot_id": "MTY2MDA3OTg5MywwMDAwMDAwMDVlNWU5MTczZTljNDFhNzgyYjgwNDRjMGJiNzM1MThh",
   "tracks": [
     {
       "added_at": "2022-08-09 21:18:13",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "Something About You",
-        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
-      },
-      "artists": [
-        {
-          "name": "Hayden James",
-          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
-        }
-      ],
-      "duration_ms": 225181,
-      "name": "Something About You",
-      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "BOY",
         "url": "https://open.spotify.com/album/4ZpCZs3zu8tFnJL0vrQIh1"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 132746,
       "name": "Passion",
       "url": "https://open.spotify.com/track/3yydZof4pq6N4zeyTzLwQk"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "Something About You",
+        "url": "https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q"
+      },
+      "artists": [
+        {
+          "name": "Hayden James",
+          "url": "https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z"
+        }
+      ],
+      "duration_ms": 225181,
+      "name": "Something About You",
+      "url": "https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -327,18 +327,22 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "If This Is House I Want My Money Back 3",
-        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
+        "name": "\u00bfT\u00e9o?",
+        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
       },
       "artists": [
         {
-          "name": "HNNY",
-          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "Jaden Smith",
+          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
         }
       ],
-      "duration_ms": 285440,
-      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
-      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
+      "duration_ms": 170125,
+      "name": "Uno Dos",
+      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -359,22 +363,18 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "\u00bfT\u00e9o?",
-        "url": "https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g"
+        "name": "If This Is House I Want My Money Back 3",
+        "url": "https://open.spotify.com/album/53QDQjWe8eWDoXp3zd3jjn"
       },
       "artists": [
         {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "Jaden Smith",
-          "url": "https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4"
+          "name": "HNNY",
+          "url": "https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r"
         }
       ],
-      "duration_ms": 170125,
-      "name": "Uno Dos",
-      "url": "https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH"
+      "duration_ms": 285440,
+      "name": "Most Really Pretty Girls Have Pretty Ugly Feet",
+      "url": "https://open.spotify.com/track/0SwAOdc4C2kWUMbsXG4ztz"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "Bling Up",
-        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
-      },
-      "artists": [
-        {
-          "name": "SANNI",
-          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
-        }
-      ],
-      "duration_ms": 177914,
-      "name": "Bling Up",
-      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "LOOK AT THIS MESS IVE MADE EP",
         "url": "https://open.spotify.com/album/1jW5MaPi18cDWKmlwA2ICk"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 156149,
       "name": "HEAD OVER HEELS",
       "url": "https://open.spotify.com/track/2KFulyrLZkXBpThxLCtxxY"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "Bling Up",
+        "url": "https://open.spotify.com/album/751S14K6SS4TkS8rhDsHQZ"
+      },
+      "artists": [
+        {
+          "name": "SANNI",
+          "url": "https://open.spotify.com/artist/4KbUzTS1NC8GHIe9LkwIPS"
+        }
+      ],
+      "duration_ms": 177914,
+      "name": "Bling Up",
+      "url": "https://open.spotify.com/track/395GwdPbJqFzM7ihmlCe8Z"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "Andromeda (feat. D.R.A.M.) [Purple Disco Machine Remix]",
         "url": "https://open.spotify.com/album/106oSRdZYwswMFOAPwROxf"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 215400,
       "name": "Comb My Hair",
       "url": "https://open.spotify.com/track/6bAjvvI6Oo1MARyB2zDHPo"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "Jewels in the Night",
+        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
+      },
+      "artists": [
+        {
+          "name": "GINGE",
+          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
+        }
+      ],
+      "duration_ms": 225890,
+      "name": "Jewels in the Night",
+      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
+        "name": "Polydans",
+        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
+        }
+      ],
+      "duration_ms": 258651,
+      "name": "Sign",
+      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
         "name": "For Real (feat. Kemba)",
         "url": "https://open.spotify.com/album/2WvZxqKE5A95dUo4fOvrC8"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 185306,
       "name": "For Real (feat. Kemba)",
       "url": "https://open.spotify.com/track/05IZnB0bFIEl6fIPITzfqg"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
-        "name": "Polydans",
-        "url": "https://open.spotify.com/album/4jsQ9yGCEyEjjQzcsICK2U"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "Sign",
-      "url": "https://open.spotify.com/track/6QiyjquMOWZqaveqmbhmZE"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "Yesteryear",
-        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 219795,
-      "name": "Yesteryear",
-      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "funny lil thing",
         "url": "https://open.spotify.com/album/12JZ24MNf9lUCDgOBJze2D"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 137894,
       "name": "funny lil thing",
       "url": "https://open.spotify.com/track/5vcLMRWLRXZS7r5UNaNZ0r"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "Yesteryear",
+        "url": "https://open.spotify.com/album/4ec8RXuBUknXHrkjpeNNdl"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 219795,
+      "name": "Yesteryear",
+      "url": "https://open.spotify.com/track/0u8AnQEMd9W6fDG2UbFjyz"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "Esther / Touch Me (Hold My Hand)",
-        "url": "https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ"
-      },
-      "artists": [
-        {
-          "name": "BAYNK",
-          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
-        },
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 192138,
-      "name": "Esther",
-      "url": "https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "Up All Night (Oliver Remix)",
         "url": "https://open.spotify.com/album/3loMThbNeSWIuwZHG2SsDa"
       },
@@ -1291,6 +1271,26 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
+        "name": "Esther / Touch Me (Hold My Hand)",
+        "url": "https://open.spotify.com/album/3w2eNXuWshQnWBI8wurPbJ"
+      },
+      "artists": [
+        {
+          "name": "BAYNK",
+          "url": "https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj"
+        },
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 192138,
+      "name": "Esther",
+      "url": "https://open.spotify.com/track/74K9eR3fwxau1Lt5ocy3tP"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
         "name": "Night at Ezeh's",
         "url": "https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl"
       },
@@ -1303,22 +1303,6 @@
       "duration_ms": 193285,
       "name": "CRISIS",
       "url": "https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
-        "name": "TEMPLE OF THE DRAGON",
-        "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
-      },
-      "artists": [
-        {
-          "name": "adam brian paul",
-          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
-        }
-      ],
-      "duration_ms": 168571,
-      "name": "TEMPLE OF THE DRAGON",
-      "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
+        "name": "TEMPLE OF THE DRAGON",
+        "url": "https://open.spotify.com/album/3KP1E4NzMHjgMGDafxpVPW"
+      },
+      "artists": [
+        {
+          "name": "adam brian paul",
+          "url": "https://open.spotify.com/artist/3t5QpadlJRUDWaL2OXileh"
+        }
+      ],
+      "duration_ms": 168571,
+      "name": "TEMPLE OF THE DRAGON",
+      "url": "https://open.spotify.com/track/0NvWS8etvfqa3AFEZEwhK8"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
         "name": "Modelo",
         "url": "https://open.spotify.com/album/3xuuhHXA6iiKIbHOrM4GqD"
       },
@@ -1355,22 +1355,6 @@
       "duration_ms": 160243,
       "name": "Modelo",
       "url": "https://open.spotify.com/track/0w9QFO4qIQd2Mik73UFFzS"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 245200,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1391,6 +1375,22 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
+        "name": "The Lost Grooves EP",
+        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+      },
+      "artists": [
+        {
+          "name": "In Deep We Trust",
+          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+        }
+      ],
+      "duration_ms": 349000,
+      "name": "Ba:sen - Pool Party Dub Mix",
+      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
         "name": "Something To Say",
         "url": "https://open.spotify.com/album/45oQW5lLEQHtJmKgaCWysv"
       },
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "The Lost Grooves EP",
-        "url": "https://open.spotify.com/album/1jrtTF8dMMvRiQXI9nn0El"
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/2WhJOBdibFYDV9ZleIU0gy"
       },
       "artists": [
         {
-          "name": "In Deep We Trust",
-          "url": "https://open.spotify.com/artist/6aN17s6usWYhYEMQTamXLc"
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 349000,
-      "name": "Ba:sen - Pool Party Dub Mix",
-      "url": "https://open.spotify.com/track/2AK0dqael9a4phiB97QXO5"
+      "duration_ms": 245200,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/2DEuJwJSQJ7CuFeWQcfJsP"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
-        "name": "California Girl",
-        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
-      },
-      "artists": [
-        {
-          "name": "Lo Knowles",
-          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
-        }
-      ],
-      "duration_ms": 237165,
-      "name": "California Girl",
-      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
         "name": "NEVER CRY AGAIN",
         "url": "https://open.spotify.com/album/1uYX907pgQI6YblNc087rK"
       },
@@ -1471,6 +1455,38 @@
     {
       "added_at": "2022-08-09 21:18:13",
       "album": {
+        "name": "California Girl",
+        "url": "https://open.spotify.com/album/12SLb28COIrvIHuv0AELi0"
+      },
+      "artists": [
+        {
+          "name": "Lo Knowles",
+          "url": "https://open.spotify.com/artist/12KjF3WpwoohJ2GVptUStZ"
+        }
+      ],
+      "duration_ms": 237165,
+      "name": "California Girl",
+      "url": "https://open.spotify.com/track/5EAW4A7wuZQxdrZkBQp3NR"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "\u200erubber \u200echecks",
+        "url": "https://open.spotify.com/album/48LwULIsLq3P716zccF09g"
+      },
+      "artists": [
+        {
+          "name": "maxime.",
+          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
+        }
+      ],
+      "duration_ms": 118363,
+      "name": "\u200erubber \u200echecks",
+      "url": "https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
         "name": "Miss Understood",
         "url": "https://open.spotify.com/album/1yEmup5WjP7csxxFpL7rln"
       },
@@ -1483,6 +1499,22 @@
       "duration_ms": 150142,
       "name": "Miss Understood",
       "url": "https://open.spotify.com/track/7iwjDxeB0ZcLaprOzS4Bg0"
+    },
+    {
+      "added_at": "2022-08-09 21:18:13",
+      "album": {
+        "name": "HELLO",
+        "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
+      },
+      "artists": [
+        {
+          "name": "Josh Fudge",
+          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
+        }
+      ],
+      "duration_ms": 162135,
+      "name": "HELLO",
+      "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
     },
     {
       "added_at": "2022-08-09 21:18:13",
@@ -1507,38 +1539,6 @@
       "duration_ms": 185779,
       "name": "Head on Fire - Danny L Harle Remix",
       "url": "https://open.spotify.com/track/3iDHkSTaDcFzsqGCsv5S5J"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
-        "name": "\u200erubber \u200echecks",
-        "url": "https://open.spotify.com/album/48LwULIsLq3P716zccF09g"
-      },
-      "artists": [
-        {
-          "name": "maxime.",
-          "url": "https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570"
-        }
-      ],
-      "duration_ms": 118363,
-      "name": "\u200erubber \u200echecks",
-      "url": "https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ"
-    },
-    {
-      "added_at": "2022-08-09 21:18:13",
-      "album": {
-        "name": "HELLO",
-        "url": "https://open.spotify.com/album/7ENTmmB50lQi4pvn0w6v25"
-      },
-      "artists": [
-        {
-          "name": "Josh Fudge",
-          "url": "https://open.spotify.com/artist/6FvkNLhuBDTYfqbl6PV0xp"
-        }
-      ],
-      "duration_ms": 162135,
-      "name": "HELLO",
-      "url": "https://open.spotify.com/track/6fvNZQoTK4eOfNg8MGzoiY"
     },
     {
       "added_at": "2022-08-09 21:18:13",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 
 > This is the Latin soundtrack of the 70s! Cover:  José José
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,874 likes - 90 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,914 likes - 90 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 35 | [Estoy Enamorado de Ti](https://open.spotify.com/track/6RxC3waOdRWE7GbNEuZ2Qa) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:14 |
 | 36 | [El Nazareno](https://open.spotify.com/track/1DJ0vIXJ2hCZi1aZ9vv32v) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Maelo...El Único](https://open.spotify.com/album/1v14JDuh5QOUu1KVqfPwx7) | 5:39 |
 | 37 | [El Triste](https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [15 Exitos De Oro](https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt) | 4:16 |
-| 38 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 |
-| 39 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
+| 38 | [Un Gato en la Oscuridad \- Un Gato en Blu](https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Pra Sempre Em Espanhol \- Vol\. 1](https://open.spotify.com/album/2Xq3ImnZEspHHITZy3DOZH) | 4:03 |
+| 39 | [Ese Hombre](https://open.spotify.com/track/3czyjbmJQbCQktSgcCec4v) | [Lupita D'Alessio](https://open.spotify.com/artist/3mGyF5kXDjEkLlFypJ93en) | [Lupita D'Alessio](https://open.spotify.com/album/0MGCWdG0HX9KHAdQmlqjYh) | 5:11 |
 | 40 | [Abrazame](https://open.spotify.com/track/4nqRbvEeGuV9jLCzC5OrMf) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [El Amor](https://open.spotify.com/album/5vejevOSlt0V2LUyliPM0w) | 3:31 |
 | 41 | [Rasguña las Piedras](https://open.spotify.com/track/3lvAzKmRH8vzXQ4xm19v78) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 3:11 |
 | 42 | [No Tengo Dinero](https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Años Baladas Éxitos](https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6) | 3:06 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 50 | [Paloma Negra](https://open.spotify.com/track/3zurIMqOVQiriB1oJlZxA8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:51 |
 | 51 | [Confesiones de Invierno](https://open.spotify.com/track/47im9FzRfqAS2KYvw3NhSw) | [Sui Generis](https://open.spotify.com/artist/5lCqW8vcd4TyTHzGIuKdH8) | [Confesiones De Invierno](https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx) | 4:05 |
 | 52 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
-| 53 | [Algo de Mí](https://open.spotify.com/track/18nmE6y2b2yWSLuZUdtkei) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Algo De Mi](https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD) | 4:08 |
-| 54 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
+| 53 | [Vagabundo](https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v) | [Aqui Esta el Reencuentro](https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld) | 4:50 |
+| 54 | [Algo de Mí](https://open.spotify.com/track/18nmE6y2b2yWSLuZUdtkei) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Algo De Mi](https://open.spotify.com/album/1mOv8oF3LFRJd9bk5tvjHD) | 4:08 |
 | 55 | [¿Por Qué Te Vas?](https://open.spotify.com/track/4t2B8FYH9KkQ16Zw0JQinj) | [Jeanette](https://open.spotify.com/artist/2Asr5Otk5aKK272pK4ocG2) | [Grandes Románticas, Vol\. 1](https://open.spotify.com/album/5PGPMjKIcP7m2d8LTPHvrO) | 3:25 |
 | 56 | [Falso Amor](https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Falso Amor](https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr) | 2:56 |
 | 57 | [Por un Amor](https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Joyas Rancheras Al Estilo](https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj) | 3:27 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVdIlYm88oQy.md) - [plain]
 | 89 | [Por Creer en Ti](https://open.spotify.com/track/4rwhcZ5qKOae4CGp78LSjG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [10 Éxitos](https://open.spotify.com/album/3sMYq7e2hCexGBrFA73dS7) | 2:01 |
 | 90 | [Lágrimas y Lluvia](https://open.spotify.com/track/3rMg1HEQFyLnZBJTAmKd7o) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 2:59 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDg2MjA4NTBkM2M2MTI2NzEwZTY5MDY4ZmQ4YTcxNDQw`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDhlZmU1OWQ1ZGY0OTJhNDkzZmExZGNiNTA3YWU5MDU0`

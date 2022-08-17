@@ -1,12 +1,12 @@
 {
   "description": "chama as rouffers pq s\u00e3o elas: tasha & tracie",
-  "num_followers": 927181,
+  "num_followers": 927483,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzM4MCwwMDAwMDAwMGYwZjMzOWUyOTJjODliMzM5ZjAwNWY4NDAwYWIwNDVi",
+  "snapshot_id": "MTY2MDI3MzM4MCwwMDAwMDAwMGQzMTVlMWU3NzQyMTEyMDQ4NWUxNDNkOTAyOGZkMjIy",
   "tracks": [
     {
       "added_at": "2022-08-12 03:03:00",
@@ -559,34 +559,6 @@
     {
       "added_at": "2022-08-12 03:03:00",
       "album": {
-        "name": "Oi, Como Ce T\u00e1?",
-        "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
-      },
-      "artists": [
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Elenko Music",
-          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
-        },
-        {
-          "name": "WEY",
-          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
-        },
-        {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
-        }
-      ],
-      "duration_ms": 156153,
-      "name": "Oi, Como Ce T\u00e1?",
-      "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
-    },
-    {
-      "added_at": "2022-08-12 03:03:00",
-      "album": {
         "name": "Set dos Casados",
         "url": "https://open.spotify.com/album/4CNrRgC3wHmIRIWABYaiZP"
       },
@@ -639,6 +611,34 @@
       "duration_ms": 643200,
       "name": "Set dos Casados",
       "url": "https://open.spotify.com/track/2xebCnKCjYWBhJ4Ai8hO5E"
+    },
+    {
+      "added_at": "2022-08-12 03:03:00",
+      "album": {
+        "name": "Oi, Como Ce T\u00e1?",
+        "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
+      },
+      "artists": [
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Elenko Music",
+          "url": "https://open.spotify.com/artist/6OAAuXhPzzofYSaiIGHasL"
+        },
+        {
+          "name": "WEY",
+          "url": "https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+        }
+      ],
+      "duration_ms": 156153,
+      "name": "Oi, Como Ce T\u00e1?",
+      "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
       "added_at": "2022-08-12 03:03:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Kehlani & Babyface
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,732 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,959 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 20 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 21 | [All She Wanna Do \(with Saweetie\)](https://open.spotify.com/track/0yq6siEu8dMBv2sb8yEtEJ) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [All She Wanna Do](https://open.spotify.com/album/6TZegXA3acaeOUIh5fsV5M) | 3:15 |
 | 22 | [Personal Baby](https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Personal Baby](https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd) | 2:53 |
-| 23 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
+| 23 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 | 24 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 |
 | 25 | [Can't Swim](https://open.spotify.com/track/1w5LFTS023Y2RxtuLYzRbn) | [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Can't Swim](https://open.spotify.com/album/4WVNFBimWSkO7rSsG0lYNS) | 3:31 |
 | 26 | [Coastin' \[Feat\. Lalah Hathaway\]](https://open.spotify.com/track/5vsi5OWrEj1J3MFzKD5GTJ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Lalah Hathaway](https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo) | [Coastin'](https://open.spotify.com/album/5yoCMolsZFuzsrWK8LAKin) | 3:40 |

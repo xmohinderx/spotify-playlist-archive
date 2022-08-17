@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 
 > Pa' cantar, bailar y pistear\. ¡Qué suene el mariachi! En portada: Antonio Aguilar
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,477 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,705 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 14 | [Diséñame](https://open.spotify.com/track/7tmq8wPHKYL2sKUpLpkXwP) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Un Lu\*Jo](https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q) | 3:06 |
 | 15 | [Le Hace Falta Un Beso](https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Le Hace Falta Un Beso](https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld) | 2:47 |
 | 16 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
-| 17 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
-| 18 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 |
+| 17 | [Triste Recuerdo](https://open.spotify.com/track/5wLqk86XlgZCzP8mMG9PrF) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar con Mariachi](https://open.spotify.com/album/1avd5vgMRyfa6YD4LuZh2n) | 3:53 |
+| 18 | [Duele](https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Duele](https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT) | 3:12 |
 | 19 | [No Llega el Olvido](https://open.spotify.com/track/2l8QQVT6hYdnT79kKCU6p6) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:14 |
 | 20 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 21 | [Dime Cómo Quieres](https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [AYAYAY! \(Súper Deluxe\)](https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw) | 2:51 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 68 | [El Pastor](https://open.spotify.com/track/4r7V9rY0u9Vn3y9E928Ehr) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 2:55 |
 | 69 | [Ebrio De Amor](https://open.spotify.com/track/74wVQ70UcpENCcJFOZCsW3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Orgullo Ranchero](https://open.spotify.com/album/3RX67bIfnSkkEcobM5yAni) | 3:38 |
 | 70 | [La Gata Bajo la Lluvia](https://open.spotify.com/track/385FrLURUeIGS7UJ8Gaq3G) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [México de Mi Corazón](https://open.spotify.com/album/2gW78rtsuRp5ldj6urzYiY) | 3:23 |
-| 71 | [Como Tú Decidas](https://open.spotify.com/track/0L9Qlwkul3bl6jH5W7yx6B) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Éxitos](https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO) | 3:07 |
-| 72 | [Estuve](https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:15 |
+| 71 | [Estuve](https://open.spotify.com/track/2NLAraJgphfdy2sWQ4LWm4) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 3:15 |
+| 72 | [Como Tú Decidas](https://open.spotify.com/track/0L9Qlwkul3bl6jH5W7yx6B) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Éxitos](https://open.spotify.com/album/2dTjktd31M87a9QseiJjDO) | 3:07 |
 | 73 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
 | 74 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
 | 75 | [Amarte A La Antigua](https://open.spotify.com/track/7HveFMabDEzhn8ceKY5L6f) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Amarte A La Antigua](https://open.spotify.com/album/3w8bbE0YbZFxw7yXeS0X9P) | 3:38 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 80 | [Cien Años](https://open.spotify.com/track/2PKXhSPdSw8W2KqZZneoy6) | [Infante](https://open.spotify.com/artist/0CUGdPMu03lV9TNf2wjunj) | [30 Grandes De Infante](https://open.spotify.com/album/0AJKbcwcTiVr6bSxZhxIyc) | 3:23 |
 | 81 | [Mi Forma De Sentir](https://open.spotify.com/track/5hT4Cx4hQrm3cCauIdKceF) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Lo Mas Romantico De Pedro Fernandez](https://open.spotify.com/album/3L2vIaatkaHUXhOuX3GvmZ) | 4:05 |
 | 82 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
-| 83 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
-| 84 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
+| 83 | [Cama de Piedra](https://open.spotify.com/track/6CSrPDQF938mg8CaOT89xt) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/5D3g2BbyQuAc1O4lhPUlVQ) | 2:11 |
+| 84 | [Besando La Cruz \- Versión Mariachi](https://open.spotify.com/track/4WYshCZOAaCGFRcXfJiOEZ) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Con Mariachi](https://open.spotify.com/album/6ZmAvrZsc7atoSDqqODDVF) | 3:31 |
 | 85 | [Nadie Es Eterno](https://open.spotify.com/track/5Po7xN56zj0XD9ZiHNaUOY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Un Hombre Derecho](https://open.spotify.com/album/6CYInvelVYl6zh4H0Acitl) | 3:08 |
 | 86 | [Que Te Vaya Bonito](https://open.spotify.com/track/6Snjz4mK1CuiOmewSTqMmi) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tradicional](https://open.spotify.com/album/2EvZqG7DjCR20upF0TPSPG) | 2:51 |
 | 87 | [Asi Te Quiero \- Con Mariachi](https://open.spotify.com/track/6Giyrsy6YvS27OceT6jm16) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt) | [16 Exitos De Oro](https://open.spotify.com/album/0H7gQr029I6IVxfcHNXS3d) | 3:53 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6EM3TTcpK4b.md) - [plain]
 | 99 | [Entrega Total](https://open.spotify.com/track/6aeFjCaoAx6hKbdie8avjV) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Serie De Coleccion 15 Autenticos](https://open.spotify.com/album/48lUrzO92SmHoSfpqNkbbl) | 2:30 |
 | 100 | [Himno A La Humildad](https://open.spotify.com/track/73VnO22Ad7K9lJSpUZT9QT) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:25 |
 
-Snapshot ID: `MTYzOTQyNDY3MiwwMDAwMDAwMGM0YTg1MWMxNDVlYTEyNmNjMGFlNzM5OGVkOWQwNzYz`
+Snapshot ID: `MTYzOTQyNDY3MiwwMDAwMDAwMDZhZWYwOTJhOTBlNDRmNjNjOGM2NGNjNWEwNzczZTI4`

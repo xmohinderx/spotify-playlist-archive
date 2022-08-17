@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > Every year, I get excited to share my summer playlist because I learn about so many new artists from your replies—it’s an example of how music really can bring us all together\. \(Includes the 2021 &amp; 2020 editions + bonus tracks\)
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 99,388 likes - 159 songs - 10 hr 5 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 99,451 likes - 157 songs - 9 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,20 +152,18 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 142 | [UN DIA \(ONE DAY\)](https://open.spotify.com/track/2WI0AMgzaEdKs2hcoN21vF) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Summer Vacation](https://open.spotify.com/album/2sqLIvbunhtQbmK0OyUjx2) | 3:52 |
 | 143 | [CROWN](https://open.spotify.com/track/7yewACUEo8jX7oLhSaNzBs) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [INDUSTRY GAMES](https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0) | 2:55 |
 | 144 | [Space + Space](https://open.spotify.com/track/23O3mxKAobIPWOnqyvHxMW) | [Aroe Phoenix](https://open.spotify.com/artist/6AkFDQFapnYQswNRaqPSVO) | [Space + Space](https://open.spotify.com/album/6iy2XpKwyal7CXGgtrcidK) | 4:37 |
-| 145 | [Hello, Sun](https://open.spotify.com/track/4RqHv0L0qSHujiAopeUBUv) | [The Mellons](https://open.spotify.com/artist/5tPy3OL9V85Ud3TpxoZNcW) | [Hello, Sun](https://open.spotify.com/album/3EkoabkuwW12ampXP012jo) | 3:39 |
-| 146 | [Versus](https://open.spotify.com/track/75MK042wfyfi2jdKRd5dvD) | [Lili Joy](https://open.spotify.com/artist/2JJZDaBBu8qHCKxSXFwMI4) | [Versus](https://open.spotify.com/album/5mlLPGTCMW8D7FPTs0Qf7U) | 2:37 |
-| 147 | [Dickmatized](https://open.spotify.com/track/07ueUAFO3Lx986NgCES12i) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Dickmatized](https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ) | 2:47 |
-| 148 | [It's a Fine Line](https://open.spotify.com/track/4aFcO9xRuRNgLLHtuQEm33) | [Nathan Whitt Band](https://open.spotify.com/artist/5HHeAApLXAImgmWHa0BSrI) | [Combustible](https://open.spotify.com/album/4PZO8JJaYT9pkG02MCVvS0) | 4:05 |
-| 149 | [NO ME ENGAÑAS MÁS](https://open.spotify.com/track/5i8R9Q9tFCEy7btYI52MJz) | [Ogui Xē](https://open.spotify.com/artist/4eXlcjIYZKUnMd96lUN0FO), [SUN](https://open.spotify.com/artist/1Odd4T8aJIOl0AnDdqXxZc) | [NO ME ENGAÑAS MÁS](https://open.spotify.com/album/5qQTuEqooqoALj25m3K0vx) | 3:34 |
-| 150 | [I Love the Night](https://open.spotify.com/track/1EtPElTFFiOou0DukonCCq) | [Who Are You Lutra Lutra ??](https://open.spotify.com/artist/5srt7b42Fps0sNWf88aard) | [Queensland Rain](https://open.spotify.com/album/6JETSL1rqQvRF9RNetl7CS) | 3:16 |
-| 151 | [Lacey](https://open.spotify.com/track/2Bvg7SCVl2iJuv2iTruJRw) | [Osmanthus](https://open.spotify.com/artist/5fe7MIokvaxHaPj9inrlhF) | [Lacey](https://open.spotify.com/album/4z7hl3gWfhh0bQmjM49MBm) | 3:34 |
-| 152 | [Focus](https://open.spotify.com/track/2NvMo0hsL2M9nOzGYekIRr) | [Monica Sierra](https://open.spotify.com/artist/5Lh5seDGcKJnPXMP2MlKeA) | [Focus](https://open.spotify.com/album/3iPVyoAdOLcHnvbhr3SgJH) | 3:15 |
-| 153 | [Daydream](https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC) | [Kimkoro](https://open.spotify.com/artist/4qV9LBiOUTdRIC3CsTQZm0) | [Daydream](https://open.spotify.com/album/4PmJ15tq33h6xurJkmkmna) | 3:06 |
-| 154 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 |
-| 155 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 |
-| 156 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
-| 157 | [Fighter Jet](https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fighter Jet](https://open.spotify.com/album/7Anb3I5lyViWJDxoXvt9B7) | 2:44 |
-| 158 | [Counting the Stars](https://open.spotify.com/track/1ibf1Oha521lxFepe9eZAq) | [Clint Chandler](https://open.spotify.com/artist/5AphVxyhxyorR80pXXF5Mj), [Young Griff](https://open.spotify.com/artist/28hXcniIxGceK87DAOjHlb) | [Bad Bad News](https://open.spotify.com/album/5jDAA2redW0JxKjvWUrWet) | 4:13 |
-| 159 | [I Don't Wanna Come Home](https://open.spotify.com/track/4sNKAY9mhYqkFEOlRF4qqf) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:09 |
+| 145 | [Dickmatized](https://open.spotify.com/track/07ueUAFO3Lx986NgCES12i) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x), [Prodéje](https://open.spotify.com/artist/0WUZY9y7pD32XT7vDZKslp) | [Dickmatized](https://open.spotify.com/album/6unvaNLlF9nTykepdlU6rJ) | 2:47 |
+| 146 | [It's a Fine Line](https://open.spotify.com/track/4aFcO9xRuRNgLLHtuQEm33) | [Nathan Whitt Band](https://open.spotify.com/artist/5HHeAApLXAImgmWHa0BSrI) | [Combustible](https://open.spotify.com/album/4PZO8JJaYT9pkG02MCVvS0) | 4:05 |
+| 147 | [NO ME ENGAÑAS MÁS](https://open.spotify.com/track/5i8R9Q9tFCEy7btYI52MJz) | [Ogui Xē](https://open.spotify.com/artist/4eXlcjIYZKUnMd96lUN0FO), [SUN](https://open.spotify.com/artist/1Odd4T8aJIOl0AnDdqXxZc) | [NO ME ENGAÑAS MÁS](https://open.spotify.com/album/5qQTuEqooqoALj25m3K0vx) | 3:34 |
+| 148 | [I Love the Night](https://open.spotify.com/track/1EtPElTFFiOou0DukonCCq) | [Who Are You Lutra Lutra ??](https://open.spotify.com/artist/5srt7b42Fps0sNWf88aard) | [Queensland Rain](https://open.spotify.com/album/6JETSL1rqQvRF9RNetl7CS) | 3:16 |
+| 149 | [Lacey](https://open.spotify.com/track/2Bvg7SCVl2iJuv2iTruJRw) | [Osmanthus](https://open.spotify.com/artist/5fe7MIokvaxHaPj9inrlhF) | [Lacey](https://open.spotify.com/album/4z7hl3gWfhh0bQmjM49MBm) | 3:34 |
+| 150 | [Focus](https://open.spotify.com/track/2NvMo0hsL2M9nOzGYekIRr) | [Monica Sierra](https://open.spotify.com/artist/5Lh5seDGcKJnPXMP2MlKeA) | [Focus](https://open.spotify.com/album/3iPVyoAdOLcHnvbhr3SgJH) | 3:15 |
+| 151 | [Daydream](https://open.spotify.com/track/1HZAkD9kvJZcNgEyg5rYFC) | [Kimkoro](https://open.spotify.com/artist/4qV9LBiOUTdRIC3CsTQZm0) | [Daydream](https://open.spotify.com/album/4PmJ15tq33h6xurJkmkmna) | 3:06 |
+| 152 | [Cold Shoulders](https://open.spotify.com/track/05QgXEBKoOh8qROSXk136R) | [Arlo Indigo](https://open.spotify.com/artist/55gevsKWJFm3llYjMJu0t5) | [All We Can Do Is Nothing](https://open.spotify.com/album/7ncqlTDvPkUezo0EYKC9uU) | 2:51 |
+| 153 | [4 More](https://open.spotify.com/track/68SS9WH6kOOFZBWVONjlaS) | [JAAK](https://open.spotify.com/artist/7rVFGjBnR7bWwXzfNdtwCE) | [4 More](https://open.spotify.com/album/00MAeMmYS3al6jr7MOKRRC) | 2:57 |
+| 154 | [Rain or Shine](https://open.spotify.com/track/5jlD6iV3CaO21rlenspVZu) | [Leisureville](https://open.spotify.com/artist/42OACLDCo3bqxfYCG1Hu3B) | [Rain or Shine](https://open.spotify.com/album/5a2O9Ighd35r1Pv8ZrMXkZ) | 3:07 |
+| 155 | [Fighter Jet](https://open.spotify.com/track/3h0dPeWa84PAUXtxJsHuS8) | [ALYX RUSH](https://open.spotify.com/artist/24pp4R67XES61YlVopv9LS), [Jim Swim](https://open.spotify.com/artist/63ptpREyqBJ4c61pJq5lR4) | [Fighter Jet](https://open.spotify.com/album/7Anb3I5lyViWJDxoXvt9B7) | 2:44 |
+| 156 | [Counting the Stars](https://open.spotify.com/track/1ibf1Oha521lxFepe9eZAq) | [Clint Chandler](https://open.spotify.com/artist/5AphVxyhxyorR80pXXF5Mj), [Young Griff](https://open.spotify.com/artist/28hXcniIxGceK87DAOjHlb) | [Bad Bad News](https://open.spotify.com/album/5jDAA2redW0JxKjvWUrWet) | 4:13 |
+| 157 | [I Don't Wanna Come Home](https://open.spotify.com/track/4sNKAY9mhYqkFEOlRF4qqf) | [Samantha Leon](https://open.spotify.com/artist/2aRTIBInENSS7XoxsqyWmk) | [Mystic Lady](https://open.spotify.com/album/2TG3Ki0MTGyy2uGVGJsEU6) | 4:09 |
 
-Snapshot ID: `MzMxNixkZGIyMmE5NDQ5NjkwNjJhODJlYjIyOWY3NmYxYjc5ZTA3N2UwM2I2`
+Snapshot ID: `MzMxNywwN2NmMGJjNzc2MTY5MmQyM2M3NDFjZDUzZGNhMGU0MzBiODkyMTg0`

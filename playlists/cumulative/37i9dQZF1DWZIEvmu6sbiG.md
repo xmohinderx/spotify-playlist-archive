@@ -4,7 +4,7 @@
 
 > Scopa, paletta e musica!
 
-249 songs - 16 hr 46 min - [published](https://open.spotify.com/playlist/4qhwVOd0ce2lSNhjobvAFO)
+250 songs - 16 hr 50 min - [published](https://open.spotify.com/playlist/4qhwVOd0ce2lSNhjobvAFO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Back To Black](https://open.spotify.com/track/30FURVTCpbKyykjSEQzGkH) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 4:00 | 2021-07-19 | 2022-07-26 |
 | [Bad Day](https://open.spotify.com/track/2Pwm2YtneLSWi7vyUpT5fs) | [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Daniel Powter \(Deluxe Version\)](https://open.spotify.com/album/4JWtkO5RBU3Z3o40112pbh) | 3:53 | 2021-07-19 | 2022-07-28 |
 | [bad guy](https://open.spotify.com/track/2Fxmhks0bxGSBdJ92vM42m) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:14 | 2021-07-19 |  |
+| [Bad Liar](https://open.spotify.com/track/2RSHsoi04658QL5xgQVov3) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 4:20 | 2021-07-19 |  |
 | [Basket Case](https://open.spotify.com/track/6L89mwZXSOwYl76YXfX13s) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie](https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6) | 3:01 | 2021-07-19 |  |
 | [Beautiful Girl](https://open.spotify.com/track/6N81xlWzMaEYhjHry55OSI) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Welcome to Wherever You Are](https://open.spotify.com/album/66ocxSzZ98wk1rWNfrvU8u) | 3:27 | 2021-07-19 | 2022-07-29 |
 | [Best Day Of My Life](https://open.spotify.com/track/5Hroj5K7vLpIG4FNCRIjbP) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Oh, What A Life](https://open.spotify.com/album/0V4laGZGshNCpurfIdUhHv) | 3:14 | 2021-07-19 |  |
@@ -69,7 +70,7 @@
 | [Do I Wanna Know?](https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 4:32 | 2021-07-19 |  |
 | [Don't Go Breaking My Heart](https://open.spotify.com/track/5nPdMALTEd7HOjn16oNf2X) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Kiki Dee](https://open.spotify.com/artist/4vjGlQWexbru6aOUCLTVir) | [Rock Of The Westies \(Remastered\)](https://open.spotify.com/album/6tKgjhjWDMVlgb3a6KoI1x) | 4:35 | 2021-07-19 | 2022-07-29 |
 | [Don't Look Back In Anger](https://open.spotify.com/track/3ixTiPABjqkBKPocxq6oIe) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's the Story\) Morning Glory?](https://open.spotify.com/album/0PTVq4kaAAuROnfvfA7bHG) | 4:47 | 2021-07-19 | 2022-07-29 |
-| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-07-19 |  |
+| [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2021-07-19 | 2022-08-17 |
 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2021-07-19 |  |
 | [Don't Stop Me Now \- Remastered 2011](https://open.spotify.com/track/5T8EDUDqKcs6OSOwEsfqG7) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Jazz \(2011 Remaster\)](https://open.spotify.com/album/2yuTRGIackbcReLUXOYBqU) | 3:29 | 2021-07-19 | 2022-07-29 |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2021-07-19 |  |

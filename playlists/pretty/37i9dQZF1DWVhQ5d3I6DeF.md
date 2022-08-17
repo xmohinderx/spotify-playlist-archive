@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 
 > Catchy pop music to keep those legs going.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,270 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,347 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 33 | [Hot N Cold](https://open.spotify.com/track/1y4eb6hmAvsqlDOl3fx9kk) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/0r2BUyPTmpbfuz4rR39mLl) | 3:40 |
 | 34 | [If We Ever Meet Again \(Featuring Katy Perry\)](https://open.spotify.com/track/360UM2DaiHZPRu0EsrOvMp) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Shock Value II](https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H) | 4:52 |
 | 35 | [So Close](https://open.spotify.com/track/7FjZU7XFs7P9jHI9Z0yRhK) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [So Close \(feat\. Georgia Ku\)](https://open.spotify.com/album/4ZIaWbFnkMozASM1CA59K6) | 3:10 |
-| 36 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
-| 37 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
+| 36 | [Into You](https://open.spotify.com/track/63y6xWR4gXz7bnUGOk8iI6) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Dangerous Woman](https://open.spotify.com/album/3pdKKSqqLVIKmRTGw0x2N7) | 4:04 |
+| 37 | [Post Malone \(feat\. RANI\)](https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Magnets EP](https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH) | 2:54 |
 | 38 | [No Money](https://open.spotify.com/track/0gb1J5UrTpzaU1s3nupgCd) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [No Money](https://open.spotify.com/album/2f7kOrpFos0njurSOi2zqL) | 3:09 |
 | 39 | [Touch](https://open.spotify.com/track/1gG5MoWK5SmHUcQPa2jxdP) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Glory Days \(Expanded Edition\)](https://open.spotify.com/album/4w49hcqZt66HZX0MJHfW0m) | 3:33 |
 | 40 | [You Don't Know Me \(feat\. RAYE\)](https://open.spotify.com/track/4DJORZgsbqnEJ4f4B9TBGV) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 3:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhQ5d3I6DeF.md) - [plain]
 | 49 | [Insomnia](https://open.spotify.com/track/7hzlzoOwCZ4D3Ow5YZK4kj) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Insomnia](https://open.spotify.com/album/673e3sPgdJWrPAIBvaKysa) | 2:59 |
 | 50 | [All Day And Night](https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Martin Solveig](https://open.spotify.com/artist/1bj5GrcLom5gZFF5t949Xl), [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Europa](https://open.spotify.com/artist/2NlKrNMdpYxGjt3Pvw87rC) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:49 |
 
-Snapshot ID: `MTY2MDI5NDg3NywwMDAwMDAwMDBlYzU2YmYyMTViYmY5Mzg1NjFlZDk0YWIzZTAyNDdk`
+Snapshot ID: `MTY2MDI5NDg3NywwMDAwMDAwMDQzNGJkMjc1YWQ4Y2U4M2FmZGQwNmI2NDA0ZWYwZjg5`

@@ -4,7 +4,7 @@
 
 > Hip\-hop mexicano, rimas de la calle, en viva voz de Santa Fe Klan.
 
-189 songs - 11 hr 10 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
+190 songs - 11 hr 13 min - [published](https://open.spotify.com/playlist/18GYr3VL7srQ56xnZNWbUP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [Quiúboles Que](https://open.spotify.com/track/4SEFSM1H18Q8uLXsi7zcIj) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Quiúboles Que!](https://open.spotify.com/album/7fEd90zyiFjIr9UElw41iK) | 3:41 | 2022-01-28 | 2022-03-26 |
 | [Quédate](https://open.spotify.com/track/5RBSfEU71gXJ7jxfqSbYiR) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Quédate](https://open.spotify.com/album/5PQ6Wuj8cc5FLh9Lk7RZ4o) | 3:20 | 2022-06-03 | 2022-07-30 |
 | [Rafa Márquez](https://open.spotify.com/track/4Gjfldv4SNjenR11yIduqb) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Rafa Márquez](https://open.spotify.com/album/6KCQC0hco7Uho3fvGR9kjU) | 2:13 | 2022-04-01 |  |
+| [Ranfla, Hyna, Dinero](https://open.spotify.com/track/0TCpHQU3AxonyDdo6UD2qC) | [Fntxy](https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx), [V.Rod](https://open.spotify.com/artist/1M178YgtiCeHDjjHFBQgWA) | [Homie Alone](https://open.spotify.com/album/7cftuQ1mezvQCWSHtP7eA9) | 3:13 | 2022-08-16 |  |
 | [Requisito 420](https://open.spotify.com/track/5gBstAsizJCElj5GZiYaXO) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Requisito 420](https://open.spotify.com/album/0qUMeOVnDA8pRLJsulFYTG) | 3:22 | 2022-04-20 |  |
 | [Rick y Morty](https://open.spotify.com/track/72UCFt7VPQolM1Pcul5Beo) | [Gayo Valdez](https://open.spotify.com/artist/0uCVN0ZSViQ4xVwJsDqfVo), [Abu Barrett](https://open.spotify.com/artist/3upuqvUR0PdgTBAnB1ehyj), [Weise Kinder](https://open.spotify.com/artist/5wf8h2hzOi9UY5NVrfuG5i) | [Claridad](https://open.spotify.com/album/4vE4DvXmBT3N9I0lSv5snI) | 3:04 | 2022-02-18 |  |
 | [Rostros](https://open.spotify.com/track/7Cx1EFIk3QU9l5mrSwiuv5) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Astrallbass](https://open.spotify.com/artist/14dNhqhwFlu2nJuDZRuy8t) | [Rostros](https://open.spotify.com/album/1lhMLJ6dQ8mvdT0bT7ZG3i) | 4:35 | 2022-01-28 | 2022-03-12 |

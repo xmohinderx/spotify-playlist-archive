@@ -4,7 +4,7 @@
 
 > Turn up the volume for some filthy bassline! ft\. Zero
 
-133 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
+134 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/4SEWCFMiD2v6uvHXh5cmid)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,7 +114,7 @@
 | [Redlight](https://open.spotify.com/track/2vJ707HOqiCUmvuk2OsdDo) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL), [Nika D](https://open.spotify.com/artist/4rhvvviNTpgE0r6A3Vb5nG), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [Redlight](https://open.spotify.com/album/7CZx4YfWKTwCnSUpduSX0o) | 4:09 | 2022-07-14 |  |
 | [Repeat](https://open.spotify.com/track/3Sexd25qv3yWod8ONwMbrM) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Repeat](https://open.spotify.com/album/2AEe70g4XiNVguRpGEy9Iq) | 3:33 | 2022-04-15 | 2022-07-17 |
 | [Ruins](https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8) | [Sisko](https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3) | [Ruins](https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv) | 3:57 | 2022-04-15 |  |
-| [Run It](https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Run It](https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf) | 3:56 | 2022-04-15 |  |
+| [Run It](https://open.spotify.com/track/0sIdaWJNmPdm9bMjEWQ9o0) | [Samstone](https://open.spotify.com/artist/0akEEdGffTxMJpd0CMInhY) | [Run It](https://open.spotify.com/album/72Q8YF27WdFf70eWC4EtGf) | 3:56 | 2022-04-15 | 2022-08-17 |
 | [Runaway](https://open.spotify.com/track/1r45o7mdZAhb0bUTomswKa) | [Danny Dennett](https://open.spotify.com/artist/5f7lKAhAKynUn5rDtKEYrZ) | [Runaway](https://open.spotify.com/album/3vxCX39NMN8rLdOGRbmCGI) | 2:45 | 2022-04-15 | 2022-07-28 |
 | [Secure the Bag](https://open.spotify.com/track/3cy2jsGqXCDVGyWzVQ9tu0) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ) | [Secure the Bag](https://open.spotify.com/album/1r4AXEEkYShSDf7iGTNmuL) | 4:08 | 2022-04-15 |  |
 | [Skanker](https://open.spotify.com/track/6h2bwZae3TtaQPN7H4Nzwr) | [TS7](https://open.spotify.com/artist/4EV6hgVc6KD0SFOIJJLFki), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1) | [Skanker](https://open.spotify.com/album/1RCj9Ix2fIuV633QXLzJ48) | 3:47 | 2022-04-15 |  |
@@ -131,6 +131,7 @@
 | [Thugs](https://open.spotify.com/track/0Rwc46KVDHVdcn6fN5S4dc) | [KDYN](https://open.spotify.com/artist/3LzEsI7g7Siu0bVOBR0OLi), [Albzzy](https://open.spotify.com/artist/3u3M65YhSCRhnvV9hZ9uTZ) | [Thugs](https://open.spotify.com/album/6bnzNlV4NIrKZSkyPnADpE) | 3:56 | 2022-04-15 |  |
 | [Top Boy](https://open.spotify.com/track/6hg4BZwiX7N4gGpnfiaZyS) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Slick Don](https://open.spotify.com/artist/3ejOLECzr9WSVFeIc1Tf7k) | [Top Boy / Dizzy Riddim](https://open.spotify.com/album/6AfugETSwLMYHA7v4gr2hY) | 3:48 | 2022-04-15 |  |
 | [Trust Issues](https://open.spotify.com/track/3qwFQIo0fqk7uBIXA4wdOA) | [Hot Goods](https://open.spotify.com/artist/1g0mtVS8S4Yst28SrV2MKA), [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Trust Issues](https://open.spotify.com/album/4sEs0nRJMMZkIqP6rSkf3N) | 4:02 | 2022-04-22 | 2022-07-19 |
+| [Tune](https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS) | [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn), [DJ Q](https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1), [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO) | [Tune](https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq) | 3:08 | 2022-08-12 |  |
 | [Turn It Up](https://open.spotify.com/track/2x3Ho0q8Jlg4oeKLplVNF3) | [Corrupt \(UK\)](https://open.spotify.com/artist/0cUPXn0AOgVrI413vJgBAJ), [GAWP](https://open.spotify.com/artist/7nRbEJhGU1wq3sEuQelrzb) | [Turn It Up](https://open.spotify.com/album/3CYXvbET6O38TCv5fHHykm) | 3:01 | 2022-04-15 |  |
 | [U Get Me](https://open.spotify.com/track/2FvAuESuB9bAlTiZh9bXvG) | [Livsey](https://open.spotify.com/artist/3NTztqzlD6wmkIMRwvurdL) | [U Get Me](https://open.spotify.com/album/1oFogLvbPx25UIrgLOGdko) | 5:22 | 2022-04-15 |  |
 | [Verdansk VIP \- VIP](https://open.spotify.com/track/0VMcpOqA0TF5es9miEFje3) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Cajama](https://open.spotify.com/artist/3YiP0AyiXuD61EE5xTaTbY) | [Verdansk VIP](https://open.spotify.com/album/2wPo6DxCOZME6CwIyegjsx) | 5:02 | 2022-06-10 | 2022-07-29 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,179 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,326 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 36 | [Real Love](https://open.spotify.com/track/27yBUDE0EBDxQUkg72uL49) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [Lily of da Valley](https://open.spotify.com/album/4fFTF01yyYfAbsI0ktBb7H) | 4:09 |
 | 37 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
 | 38 | [Use Me](https://open.spotify.com/track/3KDk6mLLHSd1YiaLtnAQdt) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij) | [Use Me](https://open.spotify.com/album/592Zbs7JSgwspo1O7BU1K1) | 3:12 |
-| 39 | [Truly](https://open.spotify.com/track/0O9R4pEwilYGjLSktvG3Ix) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 4:00 |
+| 39 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
 | 40 | [Buried Alive](https://open.spotify.com/track/0TihbhZf0uXlEcxDj4Fzpi) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 3:52 |
-| 41 | [Hope \- LOCK\-IN](https://open.spotify.com/track/6j2DK9VA478EJySZ4oaxeb) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [Lisa Tomlins](https://open.spotify.com/artist/6SisxwZsa3yQ3VTNGJ8AXR) | [Hope \(LOCK\-IN\)](https://open.spotify.com/album/7Gtf3fYDUAmgpj4X5Bw0xN) | 9:02 |
+| 41 | [Truly](https://open.spotify.com/track/0O9R4pEwilYGjLSktvG3Ix) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4zpuo5gvZ9Ncqliyl5ReeH) | 4:00 |
 | 42 | [Still I Wonder](https://open.spotify.com/track/1KTO0B48WH9AwjgbenacjP) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 2:52 |
 | 43 | [New Blessings](https://open.spotify.com/track/63foYg1Lz1djaWQizq7qjX) | [¡MAYDAY!](https://open.spotify.com/artist/71WhWdsVNTLxsnfe8M3Peh) | [South Of 5th](https://open.spotify.com/album/5uuDX34CbxXIArcU4PW2c6) | 4:19 |
 | 44 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Superstar](https://open.spotify.com/track/11SeVWsf1VtRsrZJNfrOuv) | [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Superstar b/w Superdub](https://open.spotify.com/album/3NX2wOljjGOxUbcz7aIGMh) | 4:05 |
 | 50 | [Lovely State Of Mind](https://open.spotify.com/track/5Lpkr4t5096HDHqJYiNnJy) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Upside Down 2020](https://open.spotify.com/album/0gZau2nRsooGhfgul60N4l) | 4:06 |
 
-Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMGFiMTc4YWU3M2IwNzNiZDNhZjRhOWZlNGI1NzMzNDlj`
+Snapshot ID: `MTY1NTczMjMyNywwMDAwMDAwMGU0OGJlMjU1ZWNiMDJhMzFmNTgyMjg5ZjA4MmJlYjAy`

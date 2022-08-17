@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6WKkjNUHy2F.md) - [plain]
 
 > The inspiration to be who you truly are—that’s at the center of the Pride playlist curated by the pop vocalist and Queen collaborator.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,540 likes - 25 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,537 likes - 25 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

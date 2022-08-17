@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 
 > All the Tejano classics for you to enjoy! Cover: Selena
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,396 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,450 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,12 +58,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 48 | [Contigo Quiero Estar](https://open.spotify.com/track/5KX6L00FeQmmFyE3XChFaQ) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 4:07 |
 | 49 | [Jimmy's and Jay's Mazz Medley: Vuelvo, Ven Devórame Otra Vez, Qué Esperabas featuring Jay Perez](https://open.spotify.com/track/1yyuvKMFwBzIw8xu9rq6Dv) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq), [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Que Cante El Mundo \(Remastered\)](https://open.spotify.com/album/07Hft5QWtHv0CXOWnSQpzC) | 9:04 |
 | 50 | [Qué Porqué Te Quiero?](https://open.spotify.com/track/4dClbOgXHbh91ZOanebHVw) | [Mazz](https://open.spotify.com/artist/71L1Q7gkwA3lFldMfBuDSA) | [30 Exitos Insuperables](https://open.spotify.com/album/0CS97ASQq48DyzbQt6IluV) | 3:42 |
-| 51 | [Maldito Amor](https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [30 Del Recuerdo](https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD) | 4:01 |
+| 51 | [Por Favor Corazon](https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [15 De Coleccion](https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI) | 3:41 |
 | 52 | [La Mancha](https://open.spotify.com/track/4Sftcc8OWNsF6jyszaOwC6) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Simplemente Tejano](https://open.spotify.com/album/49NcAGCAejf91zf9378McY) | 4:38 |
 | 53 | [Tú Robaste Mi Corazón](https://open.spotify.com/track/3Purte9GoV5OeheLFYZDxj) | [Selena y los Dinos](https://open.spotify.com/artist/1WwQf298ZQr1yX8L4wjXpy), [Emilio Navaira](https://open.spotify.com/artist/5ADSZA6X6nJBe7pTgcE6nA) | [La Leyenda \(Version Super Deluxe\)](https://open.spotify.com/album/058VOHYTS6kFauVUl6Eh03) | 3:47 |
 | 54 | [Al Partir](https://open.spotify.com/track/7ts1SN8aMJCuAXKQ2pICTD) | [David Lee Garza](https://open.spotify.com/artist/38329DTMLBuu9dxx2a8Nke) | [Gran Encuentro \(20 Éxitos Originales\)](https://open.spotify.com/album/3NVYF9ggdJq4nvydfVTzS6) | 3:14 |
 | 55 | [Calla featuring Jay Perez \(Live at FMS\)](https://open.spotify.com/track/1njmIOg0pSfV5i5oV4gbM1) | [Jimmy Gonzalez Y Grupo Mazz](https://open.spotify.com/artist/1xjU2a777KoPyrP3mceveq), [Jay Pérez](https://open.spotify.com/artist/4YqSt6mlUQUKuPLsMTDWTC) | [Live At Fiesta Market Square \(Remastered\)](https://open.spotify.com/album/3U5iUIQPmY7sOammCJIW3C) | 7:19 |
-| 56 | [Por Favor Corazon](https://open.spotify.com/track/08Diwy2s9AX6PY8s87QWYE) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [15 De Coleccion](https://open.spotify.com/album/568Sm7sPxPWEUx0IwQUujI) | 3:41 |
+| 56 | [Maldito Amor](https://open.spotify.com/track/4AKEDdVpAKnEGCcAob2fCj) | [Gary Hobbs](https://open.spotify.com/artist/274Y6HvCIUkt5pi7jPWRke) | [30 Del Recuerdo](https://open.spotify.com/album/6VWzxi8JSd5lELhM9aGRVD) | 4:01 |
 | 57 | [La Ronera](https://open.spotify.com/track/75UO0uDN3Fu5OFL41nPK7w) | [Roberto Pulido](https://open.spotify.com/artist/2ASyTeQe98f5E0KoU6x7lC) | [10 Grandes Exitos](https://open.spotify.com/album/292cmQRwzL6DPOZG5OKBww) | 2:49 |
 | 58 | [Me Derrito \(feat\. Bobby Pulido\)](https://open.spotify.com/track/5UT6Ug2HZp0MZQdyf2iVCd) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK), [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Los Ángeles Existen](https://open.spotify.com/album/6Q2W1lDlaler63hoBRSJWs) | 2:50 |
 | 59 | [Eres Mi Todo](https://open.spotify.com/track/0bWKrBW9avAHSqsgYa19nE) | [Ram Herrera](https://open.spotify.com/artist/36wLXYkjSzjSqQ41WcVczE) | [Mucho Mas Que Amor](https://open.spotify.com/album/3LeSzG6DuuxpKdq48olrny) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6wQVfUHI1zt.md) - [plain]
 | 74 | [Si Una Vez](https://open.spotify.com/track/6XFduBZIOMyOV8sCcHuYzb) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [Lo Mejor De…](https://open.spotify.com/album/2M4sLkOugMuMYosMaM0X6f) | 2:47 |
 | 75 | [Algun Dia](https://open.spotify.com/track/1SlyhgbpLEphPZM4ammgr7) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Dias de Ayer](https://open.spotify.com/album/3uSh3AeT2wgBbLSxYcJupg) | 3:19 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDA2MDc1ZDAxOWFjOTFhN2UxNGIwZmI1NmFjM2MyMmNl`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDdmZDc1MzEyYzM1Yzg5ZjNjNjlmNWJkYTYyYmQ0MzI5`

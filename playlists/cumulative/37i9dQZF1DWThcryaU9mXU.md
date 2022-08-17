@@ -4,7 +4,7 @@
 
 > When you want to be alone and the Blues is your soundtrack.
 
-75 songs - 5 hr 38 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
+76 songs - 5 hr 45 min - [published](https://open.spotify.com/playlist/7aLejfa10LatvlE9q0LFcJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Cold, Cold Feeling](https://open.spotify.com/track/6kucNn22HB0qb2ZPa1BrNl) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 5:18 | 2022-05-13 |  |
 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 | 2022-05-13 |  |
 | [Drown in My Own Tears](https://open.spotify.com/track/1uklRsmAQifWbymFxx74IZ) | [Joe Barr](https://open.spotify.com/artist/18J8U6TlLOyAa58TlKdNVX), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Drown in My Own Tears](https://open.spotify.com/album/5IfD3j9V2rI3uCNB4v2uvl) | 4:35 | 2022-05-13 | 2022-07-29 |
-| [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 | 2022-07-08 |  |
+| [Drown in My Own Tears](https://open.spotify.com/track/2tLoJCMsOSnXxXjcUST3uO) | [Joe Barr](https://open.spotify.com/artist/0f9bTNbq05JMuZBbdeNlWs), [Breezy Rodio](https://open.spotify.com/artist/5aTdwObrbHvEhcTorgXZ8o) | [Soul for the Heart](https://open.spotify.com/album/3t9R3hEBrRdXN0BF0npPl4) | 4:35 | 2022-07-08 | 2022-08-17 |
 | [Friendless Blues](https://open.spotify.com/track/6HA1gscdMuFFyvtpIlpNr7) | [Lonnie Johnson](https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM) | [The Essential Blue Archive: Why Should I Cry](https://open.spotify.com/album/4B3wZ95Lk2q7cjcfZo5sM4) | 2:59 | 2022-05-13 | 2022-07-28 |
 | [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 | 2022-05-13 |  |
 | [Groaning the Blues \- Live at the Fillmore, San Francisco, 1994](https://open.spotify.com/track/0cczXxFrHRdrAOymBxEmmF) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Nothing But the Blues \(Live\)](https://open.spotify.com/album/5PGQW0n8n0JDxmpPkAgwIc) | 7:10 | 2022-06-24 |  |
@@ -35,6 +35,7 @@
 | [I Walk Alone](https://open.spotify.com/track/350WfWVJnoUixMboTKUPpS) | [Michael Hardie](https://open.spotify.com/artist/0hoFPHvdknXhVTBp1nq17S) | [Waiting For Perfection](https://open.spotify.com/album/3l6RCXBpentPUrP9AcrL5O) | 6:15 | 2022-05-13 |  |
 | [I'd Rather Go Blind](https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Tell Mama](https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr) | 2:36 | 2022-05-13 |  |
 | [I've Lost My Baby](https://open.spotify.com/track/07R6piKyVzQlJzCk2Uhfk4) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Mr\. Wonderful](https://open.spotify.com/album/2yBjm0Jb8d8Oaor7F6ivyN) | 4:16 | 2022-05-13 | 2022-07-29 |
+| [Icepick Through My Heart](https://open.spotify.com/track/4dsTfxWKkUplwEZiJkVPYo) | [Michael Burks](https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6) | [Iron Man](https://open.spotify.com/album/2Rgu0YzalPajWN6d7MWE0P) | 6:52 | 2022-07-29 |  |
 | [If You Gotta Make a Fool of Somebody \- 2008 Remaster](https://open.spotify.com/track/4q12WodyPQA9fRFOPKZfVx) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 3:00 | 2022-05-27 | 2022-07-24 |
 | [It Serves Me Right to Suffer \- Remastered](https://open.spotify.com/track/0fzwnjua86MZYaQR9BkOyD) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Remastered from the Archives](https://open.spotify.com/album/1ptcOYwu6UZRrCZhFisQEn) | 3:28 | 2022-05-13 |  |
 | [Juice Head Baby](https://open.spotify.com/track/4Uz8yEjjf0EfPdIIn128t6) | [Eddie "Cleanhead" Vinson](https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58) | [Kidney Stew \(The Definitive Black & Blue Sessions\)](https://open.spotify.com/album/5rhEotbutxakrvWpftQq5G) | 4:35 | 2022-07-08 |  |

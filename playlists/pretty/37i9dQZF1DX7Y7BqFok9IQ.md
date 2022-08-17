@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 
 > The best of modern blues rock\. Cover: Marcus King
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,524 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,604 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 6 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 |
 | 7 | [Open Your Eyes](https://open.spotify.com/track/1HaJ3wcWeA8n7QVdqfagKx) | [Madison Galloway](https://open.spotify.com/artist/50J27BeJLo8Roh6QepeJBR) | [Open Your Eyes](https://open.spotify.com/album/3WxhJW0zQ4HQjqYxerjrmB) | 4:34 |
 | 8 | [Off The Ground](https://open.spotify.com/track/3xRzUblYGZhVs52fMjii7R) | [The Record Company](https://open.spotify.com/artist/6vYg01ZFt1nREsUDMDPUYX) | [Give It Back To You](https://open.spotify.com/album/2Rqva9thIdrhXv0VKSvgt3) | 4:13 |
-| 9 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
+| 9 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 |
 | 10 | [Scarborough Street Fight](https://open.spotify.com/track/7EPpQ2FZRoIIB7CRhRUwbH) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Scarborough Street Fight](https://open.spotify.com/album/2yWkANFYshG5s3byrY9DKk) | 4:30 |
-| 11 | [Suit in the Back](https://open.spotify.com/track/4EzxzCXgjuHFgWx1j2xDHc) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [QCNH](https://open.spotify.com/album/0kGed2LeKgJxM3wiX8ykt2) | 2:53 |
+| 11 | [Step Aside](https://open.spotify.com/track/5hmAx18RDdlqvN1ikcPCC1) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [See Where The Night Goes](https://open.spotify.com/album/7IAxaSFD3QeVzcaVisXzwg) | 4:07 |
 | 12 | [Them Shoes](https://open.spotify.com/track/4WeeCdOInoH5HyO8xcxiAt) | [Patrick Sweany](https://open.spotify.com/artist/35mDUnsSVfkJpgjIXHsPC5) | [Every Hour Is A Dollar Gone](https://open.spotify.com/album/6sgZ7yq8F0HZ1xmdgQrcJP) | 5:48 |
 | 13 | [Low Down Rolling Stone](https://open.spotify.com/track/59oXRNRnmmTbwgkZkV7l4g) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [This Land](https://open.spotify.com/album/6pwdy6oQdwSQo8XOfpfAJJ) | 4:18 |
 | 14 | [Any Way the Wind Blows](https://open.spotify.com/track/7rYi1fmfdWnC2dZJ3acnoW) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [WAYS](https://open.spotify.com/album/061tBOltEwYjdHA9zKpC0m) | 3:01 |
 | 15 | [Taking Me Back](https://open.spotify.com/track/7s7m8L8NcIYzgw0qmoghA8) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Taking Me Back](https://open.spotify.com/album/5faWqAkH90FGt9KBwemQXw) | 4:05 |
-| 16 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
-| 17 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 |
+| 16 | [I Want You](https://open.spotify.com/track/1UTNZLkptltS6oNrMzva3s) | [Reignwolf](https://open.spotify.com/artist/66YGDwn22fjphzqGCSIbbK) | [Hear Me Out](https://open.spotify.com/album/6jPxwvFm0kcZzflrloQPuK) | 2:26 |
+| 17 | [Eagle Birds](https://open.spotify.com/track/7Dd1v8u05vTL3py8d1a5ZA) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | ["Let's Rock"](https://open.spotify.com/album/0aA9rYw8PEv9G7tVIJ9dKg) | 2:40 |
 | 18 | [Pick Your Poison](https://open.spotify.com/track/7wcqevEd92JZsAb62zJ3uu) | [Black Pistol Fire](https://open.spotify.com/artist/0Nrwy16xCPXG8AwkMbcVvo) | [Look Alive](https://open.spotify.com/album/0DnJstuYf8Bdj6DFpdtIEy) | 3:45 |
 | 19 | [Shooting Stars](https://open.spotify.com/track/00kbL0ei9bVKAp9I23vF1l) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:20 |
 | 20 | [The Heat](https://open.spotify.com/track/0XEUKN8CnHAKNmWmK1FG0d) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Spirit's Furnace](https://open.spotify.com/album/3cQWEV1dkuOosKa2EJNaxj) | 3:14 |
@@ -33,16 +33,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 23 | [Steep Climb](https://open.spotify.com/track/211wEoUVThC6SoFSYLKUHa) | [Eric Gales](https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV), [Zakk Wylde](https://open.spotify.com/artist/1AeC9AuzqGc3IXMC2T5xny) | [Good for Sumthin'](https://open.spotify.com/album/63jgqHjUAGRvbK1KWkMUMk) | 5:26 |
 | 24 | [In The Night Time](https://open.spotify.com/track/2iYYrWUWbIeRDFhywfvKLr) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Heavy Shoes](https://open.spotify.com/album/1QHdAq1f00y5Ir0B1n3QNI) | 3:08 |
 | 25 | [Too Bad](https://open.spotify.com/track/6CCkq87g6MxHZ5uCYCqdk1) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 4:44 |
-| 26 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
-| 27 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 |
+| 26 | [The Drop](https://open.spotify.com/track/34uOD5RJT1kL2L3SCgNuRY) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:39 |
+| 27 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 |
 | 28 | [My Lucky Card](https://open.spotify.com/track/4Ri5DZQb98Ho6SbRuDvB4b) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Hardware](https://open.spotify.com/album/507ad3jUNOGZVtHIRoIhSd) | 2:33 |
 | 29 | [Holy Ghost Fire](https://open.spotify.com/track/3VuJi1qJ2gcL7XHjEJZuga) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Holy Ghost Fire](https://open.spotify.com/album/4VBgT5PAWX8PmnDSvqbdht) | 3:22 |
 | 30 | [Crawling Kingsnake \- Edit](https://open.spotify.com/track/1JM1iGpu8HqprmrKi1ukuP) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Delta Kream](https://open.spotify.com/album/682pJqnx8hcrCfSjvyNBki) | 3:52 |
 | 31 | [The Waltz](https://open.spotify.com/track/4WcFtmdPfCKal88DL3emL4) | [Left Lane Cruiser](https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf) | [Shake and Bake](https://open.spotify.com/album/2SvkGae4Chwgj44HiDW2yi) | 5:28 |
 | 32 | [Black Magic](https://open.spotify.com/track/2Fka5bMBcXzrrUHaJjpqGq) | [Band Of Skulls](https://open.spotify.com/artist/4ddt8PPvmWrI9mJQy1VrIG) | [By Default](https://open.spotify.com/album/3CH5Y6IJPn5yXsOFjCn4wn) | 2:48 |
-| 33 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 |
+| 33 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
 | 34 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 |
-| 35 | [Tell Me](https://open.spotify.com/track/51X5Rk23XIUiUid7GVlQZf) | [Bones Owens](https://open.spotify.com/artist/172e5cVOCSMYQQaIaZ4l1z) | [Bones Owens](https://open.spotify.com/album/33ObrRfIHT3AESxy8E15FG) | 3:17 |
+| 35 | [Got Love \- Made In Muscle Shoals](https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b) | [The Revivalists](https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA) | [Made In Muscle Shoals Vol\. 2](https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5) | 4:22 |
 | 36 | [Mojo Hand](https://open.spotify.com/track/1zG6mxl8KZE8Q4FBymh466) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [Mojo Hand](https://open.spotify.com/album/1RKJoxtfx1GmCD3Mi1u31g) | 3:04 |
 | 37 | [Bomb Through the Breeze](https://open.spotify.com/track/2lYTIEA8KJQWysrhXDogcD) | [Hannah Wicklund](https://open.spotify.com/artist/62GZbclGNlKcuW6O7l8TOU) | [Hannah Wicklund & The Steppin Stones](https://open.spotify.com/album/2GWRuo0azCjGlupKL5wY74) | 2:44 |
 | 38 | [Rollin 'N Tumblin](https://open.spotify.com/track/02V2PwXfovnT03QPHpp1SF) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY) | [World Boogie Is Coming](https://open.spotify.com/album/46nKDUcNFmBL8ASwFH3P94) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Y7BqFok9IQ.md) - [plain]
 | 49 | [Freedom](https://open.spotify.com/track/7c0TwwS3FUInC9pqw7RgVo) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:36 |
 | 50 | [Forgiveness Through Pain](https://open.spotify.com/track/3li81Hq4UMXw8iDQboaL2y) | [The Yawpers](https://open.spotify.com/artist/6MYRV74tUjBf9X4PwTRykW) | [Human Question](https://open.spotify.com/album/6RbAMKxuW5Z8thwxl5NRgW) | 3:00 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDczMmQzZGUyMTljZTFjYmFmYzJhYzE4MGJiNWI3NDkw`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGQxOTk1NzJiOWI3NjRjY2EyNzFlZWU1YWJjZTI3Zjk1`

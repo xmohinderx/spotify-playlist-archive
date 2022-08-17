@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 
 > مختارات من أفضل الاغاني الخليجية <br/>الغلاف: عبدالمجيدعبدالله
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,072 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,222 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU486KSiznWZ.md) - [plain]
 | 15 | [روح براحتك](https://open.spotify.com/track/4MEeCc9QHr24rQ99dOd9AZ) | [شيمي](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [روح براحتك](https://open.spotify.com/album/2hStDr8tYNyFkQiUT2F0fj) | 3:39 |
 | 16 | [وصلنا](https://open.spotify.com/track/5x30FoNuMhL1dzwrSbDpEm) | [VO](https://open.spotify.com/artist/4QII96v2C63K9PaG6k8aby), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [وصلنا](https://open.spotify.com/album/1vrIcCOg50amkJ8OgdxI4a) | 3:39 |
 | 17 | [Ya Hala](https://open.spotify.com/track/4u7De1AMztuLzjVwZFdcXr) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ya Hala](https://open.spotify.com/album/1sHmK0R4eKbi56B3B0ejw8) | 5:04 |
-| 18 | [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/20GCsr0OLx6eBjpKZdLwaT) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 |
+| 18 | [Mishtag](https://open.spotify.com/track/7r04IDrw7headpmzn7xZGk) | [Abdulaziz Elmuanna](https://open.spotify.com/artist/4bzY16GQnsfRHuIzHN4lC7) | [Mishtag](https://open.spotify.com/album/5ybk09xdlcUxXst50j3DcX) | 4:49 |
 | 19 | [براڤو عليك](https://open.spotify.com/track/4QtFRUFS7BVi3OHUfmt2dP) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Abdulaziz Louis](https://open.spotify.com/artist/45fXWSpX6WGHhSQVbkktUk), [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj), [Haneen Alkandari](https://open.spotify.com/artist/2Ta2wwXNha3yoxUuOQVMOF) | [براڤو عليك](https://open.spotify.com/album/4i1xPjQurMytzpR1mW3zIw) | 2:58 |
 | 20 | [Leeh Ma Teji](https://open.spotify.com/track/10ttTmccx33sAtZDoasxUI) | [Shamma Hamdan](https://open.spotify.com/artist/0HB4KdHq8OA8xyJyxJ5lc2) | [Leeh Ma Teji](https://open.spotify.com/album/1MEG9F8I7J82QjzRxnlRnd) | 5:25 |
 | 21 | [أدعج عيون](https://open.spotify.com/track/2gfpyKUlTSUwmtiWj0vDW4) | [Majed Alrslani](https://open.spotify.com/artist/4TLEIkw2ZiwL796C8zJtST) | [أدعج عيون](https://open.spotify.com/album/4uEyRHNa7Zbms17CZYWulO) | 3:34 |

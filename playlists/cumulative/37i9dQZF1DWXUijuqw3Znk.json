@@ -738,6 +738,24 @@
     },
     {
       "album": {
+        "name": "END OF PUBERTY",
+        "url": "https://open.spotify.com/album/3uOT0XBkp1JZeMBydK62Fj"
+      },
+      "artists": [
+        {
+          "name": "D.Ark",
+          "url": "https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203693,
+      "name": "APOLOGY",
+      "url": "https://open.spotify.com/track/1G2XUrrMjf9DNuFWMBMpPA"
+    },
+    {
+      "album": {
         "name": "TELEVISION",
         "url": "https://open.spotify.com/album/7A8SILx9WOx8SOvApoBuMN"
       },
@@ -1607,7 +1625,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 140411,
       "name": "dreamin'",
       "url": "https://open.spotify.com/track/15dd4M9GAV1RhEH0qesnKL"

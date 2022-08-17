@@ -4,7 +4,7 @@
 
 > 빗방울대신 감성을 맞는 시간.
 
-183 songs - 11 hr 14 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
+184 songs - 11 hr 18 min - [published](https://open.spotify.com/playlist/05K73QU8xNffboBfRI8ruF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -138,13 +138,14 @@
 | [Run from you](https://open.spotify.com/track/71p6LjYrskpmZa7hvWKHtn) | [KIMMUSEUM](https://open.spotify.com/artist/1NVRvV0KqaO7VtSaVQcm3V) | [Run from you](https://open.spotify.com/album/0s3ZnlwcovdIAm1OuWnPn2) | 3:57 | 2022-06-20 | 2022-07-23 |
 | [Sad ending \(Feat\. george\)](https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Undo](https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J) | 4:22 | 2022-07-08 |  |
 | [Salt Rain](https://open.spotify.com/track/21Zxpp28GSLJIsQujNDQxy) | [sogumm](https://open.spotify.com/artist/50x9jHrP6wy9fo3jK5pNqS), [Keumbee](https://open.spotify.com/artist/1NwyafFmvijU7E9b1PjgQm) | [Salt Rain \(Prod\. By Alfie Hole\)](https://open.spotify.com/album/2PQIXQNasV6iN55iAMNccn) | 3:36 | 2022-06-20 | 2022-07-29 |
-| [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 |  |
+| [Sand](https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp) | [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Sand](https://open.spotify.com/album/201HRpAg7J6Q5xI56HuLx9) | 3:21 | 2022-06-29 | 2022-08-17 |
 | [Second Lover](https://open.spotify.com/track/0fag5Srel9h2sq6E5UySK7) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d), [Sane](https://open.spotify.com/artist/4TemJ3x72090Sbqw1X9Hbq) | [Voice](https://open.spotify.com/album/0thbcQxGSCIx16pfNSNpVG) | 3:51 | 2022-06-20 | 2022-07-25 |
 | [sigh](https://open.spotify.com/track/2fJ38mbJNnRtHwfQ1cgyjy) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 3:44 | 2022-06-20 | 2022-07-28 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/0ifztmwdgzbJe8RU9tXBFk) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/0v4swbfO7N9WyJkUo465C4) | 3:05 | 2022-06-20 | 2022-07-27 |
 | [Sleepless \(feat\. Heize\)](https://open.spotify.com/track/3JsiJGVbCJM7cIb1YnlG96) | [PSY](https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [PSY 9th](https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB) | 3:05 | 2022-07-22 | 2022-08-14 |
 | [Sleepless rainy night](https://open.spotify.com/track/546tamGotuR5Mhbe35ONAv) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [A flower bookmark](https://open.spotify.com/album/4B3UIkrohpUIxyVCCgLrEI) | 4:26 | 2022-08-13 |  |
 | [Song of the rain](https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK) | [Bambiroyalprince](https://open.spotify.com/artist/1bbfITRJAsyYTnyzhK67Xa) | [Song of the rain](https://open.spotify.com/album/7eFVeMo0jlFmx14ftSxTfn) | 3:34 | 2022-06-20 | 2022-07-29 |
+| [Sool \(Feat\. THAMA\)](https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX) | [snzae](https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc), [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Sool](https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7) | 3:50 | 2022-08-13 |  |
 | [Sorry](https://open.spotify.com/track/0gfqwer7RoU8SUCCCoiLPQ) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:41 | 2022-06-20 | 2022-07-28 |
 | [Special](https://open.spotify.com/track/1udv7FVK3Jx7Q7ZR1miBwK) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Chocolate, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/1cpAltXg2KRN7PCRSJCLtf) | 3:32 | 2022-07-22 |  |
 | [Special](https://open.spotify.com/track/4rYVDRcexlHXE65wm6jHQw) | [Yubin](https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE) | [Chocolate,Pt.7\(Original Television Soundtrack\)](https://open.spotify.com/album/4amm2rslfEsYe9iutNhrUb) | 3:32 | 2022-06-20 | 2022-06-29 |

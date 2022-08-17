@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 
 > The official playlist for all things League of Legends with a special Star Guardian takeover
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,681 likes - 48 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,746 likes - 48 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVi45nh2EuPP.md) - [plain]
 | 37 | [Superhuman \(with K.Flay\)](https://open.spotify.com/track/64moA9zwEfhBADmxLZvVhH) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 4:00 |
 | 38 | [Brividi \- MEDUZA Remix](https://open.spotify.com/track/6yiDy3IlYchv31DynpLiDz) | [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd), [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Brividi \(MEDUZA Remix\)](https://open.spotify.com/album/0V3QH67h8JyIK9m4amn1XY) | 2:43 |
 | 39 | [Die For You \- Dabin Remix](https://open.spotify.com/track/6e1wW9VeiRLV0WS8ANdhay) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv) | [Die For You \(Dabin Remix\)](https://open.spotify.com/album/20at2XVhI9Gn4C15jUTO4Q) | 2:59 |
-| 40 | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
+| 40 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
 | 41 | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/track/251aCFbFK1f4Jkil96E5g1) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Don’t Let Me Let Go \(with ILLENIUM & EVAN GIIA\)](https://open.spotify.com/album/5fGpsmRrs2q0XWY8lo4xaA) | 3:25 |
 | 42 | [Breakfast](https://open.spotify.com/track/6GUiIbJ834FcHewby3PwV0) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Breakfast](https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf) | 2:28 |
 | 43 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |

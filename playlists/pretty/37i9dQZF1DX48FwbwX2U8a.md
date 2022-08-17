@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 
 > ¡A almorzar con sabrosura pop y tropical!
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,408 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,429 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 20 | [Burbujas de Amor](https://open.spotify.com/track/0TarPYIjJndYucFUOMce8P) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:10 |
 | 21 | [Sin Sentimientos](https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [The Best](https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm) | 4:53 |
 | 22 | [Un Buen Perdedor](https://open.spotify.com/track/0T7JubkdjBXNDVadRIq2ck) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco de Vita](https://open.spotify.com/album/2ijctTdGOOLFI9wMzeG3jb) | 4:00 |
-| 23 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
-| 24 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
-| 25 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
+| 23 | [Amor Narcótico](https://open.spotify.com/track/7guVlnmdqpcFjJmwP6RSRr) | [ChiChi Peralta](https://open.spotify.com/artist/5GNSVtCq2hiXDx7jUA5Iou), [Jandy Feliz](https://open.spotify.com/artist/3hz57XL7wSiPMO9g3k1CW6) | [Pa' Otro La 'O](https://open.spotify.com/album/1AwPrz3G3D1Xx9wiKHNmHX) | 5:16 |
+| 24 | [Qué Precio Tiene el Cielo \- Salsa Version](https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Sigo Siendo Yo](https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ) | 5:02 |
+| 25 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 26 | [Vivir Lo Nuestro](https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY) | [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [The Greatest Salsa Ever](https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5) | 6:07 |
 | 27 | [Niña Bonita](https://open.spotify.com/track/7LSdAF6AUKmcsUTy3747rh) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [30 Mejores: Binomio de Oro de América](https://open.spotify.com/album/1ciVNBJTfEynm4k1cjQluh) | 5:10 |
 | 28 | [Volver](https://open.spotify.com/track/76k5BZctXgW2IyrYjKGNP6) | [Los inquietos del vallenato](https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd) | [30 Mejores](https://open.spotify.com/album/3q8OdkyrGwVNUgiKTvvCZX) | 4:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48FwbwX2U8a.md) - [plain]
 | 49 | [La Foto de los Dos](https://open.spotify.com/track/2VL0W9x83RwQOBGbfphBqW) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr) | [Corazón Profundo \(Versión Deluxe\)](https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl) | 4:07 |
 | 50 | [El Amor Más Grande del Planeta](https://open.spotify.com/track/1NUCgLFBPg0R4B6IPUcieM) | [Felipe Peláez](https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg), [Zabaleta](https://open.spotify.com/artist/234WpokzuaWmbfhdocebBU) | [Felipe Peláez 30 Grandes Éxitos](https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw) | 4:35 |
 
-Snapshot ID: `MTY0MzA1MzkwNywwMDAwMDAwMDA3NmQ5ZjgyMTQ1NDY5OGJlMzQyOGFlMDFlNmQ4YjQz`
+Snapshot ID: `MTY0MzA1MzkwNywwMDAwMDAwMDE1M2E5MzUxYjlkZGM0Mjk1NDA4NjIwNGMxZWM4M2E0`

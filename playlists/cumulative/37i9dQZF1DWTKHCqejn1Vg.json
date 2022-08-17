@@ -411,7 +411,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 194960,
       "name": "Castaway",
       "url": "https://open.spotify.com/track/0asJ8jxqqNFT5Fxr5vNSPt"
@@ -1720,6 +1720,24 @@
     },
     {
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
+    },
+    {
+      "album": {
         "name": "IN THE DARK",
         "url": "https://open.spotify.com/album/2NlJs4pg729VkN4mzveD2D"
       },
@@ -1917,6 +1935,24 @@
       "duration_ms": 195692,
       "name": "kiss my lips",
       "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
     },
     {
       "album": {
@@ -2801,7 +2837,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 148000,
       "name": "Runners",
       "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"

@@ -4,7 +4,7 @@
 
 > living life in your 250 sq ft micro apt\. Cover: NIKI
 
-1,220 songs - 2 day 15 hr 13 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
+1,222 songs - 2 day 15 hr 19 min - [published](https://open.spotify.com/playlist/5ughHfqxtBosozqZ6BniQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -401,7 +401,7 @@
 | [GAMEBOY](https://open.spotify.com/track/4H7uK9wWfh8AaDS0pVWh0f) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [GAMEBOY](https://open.spotify.com/album/6CrxVIs6PZY93TYnNwVx3W) | 2:11 | 2021-12-24 | 2022-01-29 |
 | [garden of devotion](https://open.spotify.com/track/2zNegAKuYFUovXpeSGrjfK) | [Adriel Rivera](https://open.spotify.com/artist/136zvqW4jnDAaw5m5fUg73) | [garden of devotion](https://open.spotify.com/album/1X1MVOluBxDGT8j3fvG2QY) | 3:04 | 2021-12-24 | 2022-01-15 |
 | [Garden On The Kitchen Floor](https://open.spotify.com/track/0OfyukXnVEUlPYCisGPda5) | [Tors](https://open.spotify.com/artist/41dCbpok7A4uyNqbo3VVZ0) | [Garden On The Kitchen Floor](https://open.spotify.com/album/3W527nPkx45Y4Bk49kbS2x) | 3:39 | 2022-06-17 | 2022-07-29 |
-| [Gemini](https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Gemini](https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons) | 3:11 | 2022-05-20 |  |
+| [Gemini](https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [Gemini](https://open.spotify.com/album/7tR4JqtjMggHZFWi64rons) | 3:11 | 2022-05-20 | 2022-08-17 |
 | [gentle](https://open.spotify.com/track/7LhVGZrF9jgkT97CaKTlds) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [closer to closure](https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1) | 3:18 | 2022-05-27 |  |
 | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/track/2BwmVotuzB5dBokJzgeqLf) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [NVDES](https://open.spotify.com/artist/5L6tkH3jDmFBX9dYdFFQXy) | [Get Happy \(NVDES Edit\) \[feat\. Blu DeTiger\]](https://open.spotify.com/album/1eYHNv4azTXo1Gpzfe2OKl) | 2:55 | 2020-07-18 | 2021-05-28 |
 | [Get Him Away From Me](https://open.spotify.com/track/19V22p018Mt3sk6I95Xd5E) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [Get Him Away From Me](https://open.spotify.com/album/4oa3dUC5H3hAe6moQ6hAY2) | 3:47 | 2022-04-15 | 2022-05-08 |
@@ -564,7 +564,7 @@
 | [If You Loved Me \- Georgia Remix](https://open.spotify.com/track/4uTibKI0GUBWKd6rMonJbO) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [If You Loved Me \(Georgia Remix\)](https://open.spotify.com/album/0ARpwhI1jnpbrf3wJCqPj4) | 4:57 | 2019-07-27 | 2020-03-19 |
 | [If You're Hearing This](https://open.spotify.com/track/1aJ1xeEQ1ivKGnTeuYolJk) | [Hook N Sling](https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D), [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [Betty Who](https://open.spotify.com/artist/0t3QQl52F463sxGXb1ckhB) | [If You're Hearing This](https://open.spotify.com/album/2yOjy8vG8Tp7bVByZSLNcJ) | 2:53 | 2019-05-26\* | 2019-06-15 |
 | [If You're Over Me](https://open.spotify.com/track/01k24g94i1JvkFLQmVEdCd) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [If You're Over Me](https://open.spotify.com/album/0l3xFNgfm1mT3fLIRsgRtW) | 3:09 | 2019-05-26\* | 2019-06-15 |
-| [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 |  |
+| [Immature](https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Immature](https://open.spotify.com/album/77KeCRX0Rqbx6l8ydoIYB9) | 2:53 | 2022-07-08 | 2022-08-17 |
 | [In Bloom](https://open.spotify.com/track/0Nh8WAkD6YlJmFzUiPD0Iq) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [In Bloom](https://open.spotify.com/album/5PVu8HSd5Ig81TaTixT4Wp) | 3:11 | 2022-05-13 | 2022-08-15 |
 | [In My Way](https://open.spotify.com/track/3AOUYGyqGHbLFfqqw0cyzi) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [In My Way](https://open.spotify.com/album/7yzDaKrhtMh0FYZ1k9U8fE) | 2:03 | 2021-05-22 | 2022-03-26 |
 | [In The Honey](https://open.spotify.com/track/5xpj4aOhZwCpnFQiqxQbFb) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [In The Honey](https://open.spotify.com/album/3mWXx6PEd3oqgBsjlTV4Lb) | 2:53 | 2022-05-20 | 2022-06-06 |
@@ -673,6 +673,7 @@
 | [Love Actually](https://open.spotify.com/track/1rkwEvRdpZirixNHJ8x61R) | [Off Bloom](https://open.spotify.com/artist/78JRZ7S8obuhstD79Jmu8L) | [Love Actually](https://open.spotify.com/album/70nGn5MEgxq623PBvNo0DI) | 3:24 | 2019-05-26\* | 2019-08-13 |
 | [Love and Run](https://open.spotify.com/track/2L5HZ4ddC9vdVSlW0mSL98) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [2030](https://open.spotify.com/album/70vO4w3jAucW4yacH22RAy) | 3:11 | 2019-05-26\* | 2019-08-13 |
 | [Love On TV](https://open.spotify.com/track/70pzDL6WXCbT4RhW29TGgY) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [Love On TV](https://open.spotify.com/album/1LXU3kEAWsG3j41EjdFOT7) | 3:13 | 2022-03-18 | 2022-06-07 |
+| [Love Quotes](https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq) | [Love Quotes](https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI) | 3:15 | 2022-08-12 |  |
 | [Love Song](https://open.spotify.com/track/3bT4hHXBasKx8ZUUZFwknt) | [Eli Derby](https://open.spotify.com/artist/6Zyna13TkHdrEc4NFljS9u) | [Love Song](https://open.spotify.com/album/1Ar587sV7dgGcapzP1HOLU) | 2:44 | 2022-02-11 | 2022-03-11 |
 | [love sux](https://open.spotify.com/track/0o8iO4tGwKdxRePgMo9Qrw) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU) | [love sux](https://open.spotify.com/album/6ijYSiTjDjyrHmfDqdC84s) | 2:24 | 2021-11-26 | 2022-07-16 |
 | [Love You When You’re Gone](https://open.spotify.com/track/4a5a4NpPcsp8lKLjsGqks2) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Love You When You’re Gone](https://open.spotify.com/album/79tNM6qA2pbRsx7fXfXAG2) | 3:04 | 2022-07-01 |  |
@@ -1035,6 +1036,7 @@
 | [Summer Rain](https://open.spotify.com/track/5uwem79NXgpLaG8Rv6wAbK) | [Good Boy Daisy](https://open.spotify.com/artist/48LeC49ZUI6oXfZrTA2QlL) | [Summer Rain](https://open.spotify.com/album/5VYDvnv7hRQKdbpSxsn4Fx) | 3:01 | 2021-04-19 | 2021-11-20 |
 | [Summer Vibe](https://open.spotify.com/track/1SdItcSOTD14tvIo8UzA6k) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [Summer Vibe](https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO) | 3:20 | 2021-06-20 | 2022-01-08 |
 | [Summerland](https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr) | [half•alive](https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k) | [Summerland](https://open.spotify.com/album/1A1dSoZMQPU0DcCfaSLvQ1) | 3:49 | 2021-08-03 | 2022-02-12 |
+| [Summertime](https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [The Lead](https://open.spotify.com/album/04wFsn459A8leDKrydRK56) | 2:27 | 2022-08-16 |  |
 | [sun and moon](https://open.spotify.com/track/769Ld8demNhMgVLAQcjTDn) | [anees](https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h) | [sun and moon](https://open.spotify.com/album/4bUd4H9GN11TlKhJDBUGsc) | 2:31 | 2022-04-08 |  |
 | [sunburn](https://open.spotify.com/track/4gBkCqlITvat2A3aYPtMqS) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [sunburn](https://open.spotify.com/album/6Edd6ynhByESPwWdNgXCFP) | 2:53 | 2022-04-08 |  |
 | [Sunday Best](https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Where the Light Is](https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc) | 2:38 | 2019-09-29 | 2021-04-16 |

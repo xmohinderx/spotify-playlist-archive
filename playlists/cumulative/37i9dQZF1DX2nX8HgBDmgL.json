@@ -2340,6 +2340,24 @@
     },
     {
       "album": {
+        "name": "Tropical Hills",
+        "url": "https://open.spotify.com/album/5yVJx2QgjQZ7HcDchYRDpv"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Khan",
+          "url": "https://open.spotify.com/artist/6S5gjIbHTmQ2uKljKjqLSp"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127417,
+      "name": "Tropical Hills",
+      "url": "https://open.spotify.com/track/3Xehu9k1QGMPfG0nUOgJUf"
+    },
+    {
+      "album": {
         "name": "The Carnival",
         "url": "https://open.spotify.com/album/7uftfPn8f7lwtRLUrEVRYM"
       },

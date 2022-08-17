@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 | 2021-01-16 |  |
+| [2,3,4](https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN) | [Mad Sin](https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB) | [Chills and Thrills in a Drama of Mad Sins and Mystery \(Remastered\)](https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5) | 1:57 | 2021-01-16 | 2022-08-17 |
 | [A Night to Dismember](https://open.spotify.com/track/4av2c22txXYZvO2AYnui6m) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [A Night to Dismember](https://open.spotify.com/album/1ye8OtqHVQvp5f2CXwDtiY) | 3:18 | 2021-01-16 | 2022-07-29 |
 | [A Night to Dismember](https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:18 | 2021-01-16 |  |
 | [Along Came a Spider](https://open.spotify.com/track/7nO7I8egyptRpmGd9jrlbb) | [Twilight Creeps](https://open.spotify.com/artist/2blScPslJB8s0EnbAE9Whd) | [Along Came a Spider](https://open.spotify.com/album/3G9gWLvNJhn4RqyXDZQkEZ) | 3:39 | 2021-01-16 | 2022-06-13 |
@@ -67,7 +67,7 @@
 | [Nightmare](https://open.spotify.com/track/1iTIMvI2O7z769aVrQa8uz) | [The Trillionairs](https://open.spotify.com/artist/4eYQ13yAG1pjcVs2CMDuGI) | [Hidden Tunes from New Dimensions](https://open.spotify.com/album/0es2yGezfMO8UqwwPdTZCv) | 3:08 | 2021-01-16 | 2022-07-21 |
 | [Nightmare on Elm Street](https://open.spotify.com/track/0jrMrAKf4LAUETxwEJ12U0) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday the 13th](https://open.spotify.com/album/1vFKaljY8aSUu6UMKQPVEY) | 2:53 | 2021-01-16 | 2022-07-29 |
 | [Nightmare on Elm Street](https://open.spotify.com/track/3GeIm6HhGv6k6yBxoFqQy4) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Friday The 13th](https://open.spotify.com/album/5lWhwbVAq6NJY1FkRcIybm) | 2:53 | 2021-01-16 |  |
-| [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 | 2021-01-16 | 2022-08-14 |
+| [Not of This Earth](https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Songs of Unspeakable Terror](https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM) | 3:22 | 2021-01-16 |  |
 | [Not of This Earth](https://open.spotify.com/track/6xy4ql4ipxfRVjcJeY7ek8) | [Bloody Hammers](https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW) | [Not of This Earth](https://open.spotify.com/album/5NDcttjYKFC9jYOnjEdDJ8) | 3:22 | 2021-01-16 | 2022-07-28 |
 | [Outlaw Heart](https://open.spotify.com/track/1jSeiRCO1fIdszTZpSd0A6) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Tiger Army](https://open.spotify.com/album/61K5aimtKFNer86bAkbENa) | 3:58 | 2021-01-16 | 2022-07-29 |
 | [Outlaw Heart](https://open.spotify.com/track/3Hdo4483lsHuLJsW6CQx3R) | [Tiger Army](https://open.spotify.com/artist/7ivKiS6TITQYizkbUUahbi) | [Tiger Army](https://open.spotify.com/album/5D1Vbk7eVsC2Kon6R10R4Q) | 3:58 | 2021-01-16 |  |

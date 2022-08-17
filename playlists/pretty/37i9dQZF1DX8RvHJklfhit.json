@@ -1,12 +1,12 @@
 {
   "description": "Your favorite Latin Indie Classics. Cover: Salt Cathedral, Ximena Sari\u00f1ana",
-  "num_followers": 126561,
+  "num_followers": 126622,
   "original_name": "Latin Indie Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDEyNzVlMmEzZjA1ZTg0ZWI1ZWI2NGQzMzg1ODNiMTZh",
+  "snapshot_id": "MTY1OTcxNTg5NiwwMDAwMDAwMDYyODA0Y2UyMDNhYWI3NzhmZDQwZDkzZThkMDc5YTQy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:11:36",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
+        "name": "Norte",
+        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 254993,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
         "name": "Assume Form",
         "url": "https://open.spotify.com/album/23dKNZpiadggKHrQgHLi3L"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 211200,
       "name": "Barefoot In The Park (feat. ROSAL\u00cdA)",
       "url": "https://open.spotify.com/track/3onYsieuDICdVt5ULZSExF"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
-        "name": "Norte",
-        "url": "https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 254993,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Tornaluna",
-        "url": "https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 250073,
-      "name": "Malas Amistades",
-      "url": "https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 224826,
       "name": "Brillas",
       "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Tornaluna",
+        "url": "https://open.spotify.com/album/2T5UIzLcqQwa2NZm69C5xs"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 250073,
+      "name": "Malas Amistades",
+      "url": "https://open.spotify.com/track/4rwuZRZ8LnkdAGJXBeAvGh"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "Nefertiti",
-        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
-      },
-      "artists": [
-        {
-          "name": "Protistas",
-          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
-        }
-      ],
-      "duration_ms": 242906,
-      "name": "En Mis Genes",
-      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/1jpcKriEgL87byZ2wUY3Bs"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 189176,
       "name": "Gala",
       "url": "https://open.spotify.com/track/7wjqeF0W8zJcGJJtzRjKCG"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "Nefertiti",
+        "url": "https://open.spotify.com/album/59tvBGzOUu23RyiPwqXlOh"
+      },
+      "artists": [
+        {
+          "name": "Protistas",
+          "url": "https://open.spotify.com/artist/7H1x26DjjmPhCysVsGRrXf"
+        }
+      ],
+      "duration_ms": 242906,
+      "name": "En Mis Genes",
+      "url": "https://open.spotify.com/track/09kFUWzSztmpz03eTLg7AW"
     },
     {
       "added_at": "2022-08-05 16:11:36",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2022-08-05 16:11:36",
       "album": {
-        "name": "La Santa Cecilia",
-        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
-      },
-      "artists": [
-        {
-          "name": "La Santa Cecilia",
-          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
-        }
-      ],
-      "duration_ms": 183346,
-      "name": "Play Your Game",
-      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
-    },
-    {
-      "added_at": "2022-08-05 16:11:36",
-      "album": {
         "name": "Si T\u00fa Est\u00e1s Bien",
         "url": "https://open.spotify.com/album/1rNRGzcojz5SXlmCLCDJSa"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 263425,
       "name": "Si T\u00fa Est\u00e1s Bien",
       "url": "https://open.spotify.com/track/11PYNHm1VmLN1w6N7AdWyV"
+    },
+    {
+      "added_at": "2022-08-05 16:11:36",
+      "album": {
+        "name": "La Santa Cecilia",
+        "url": "https://open.spotify.com/album/2t2xn54ccuUkLdCHg7OgXo"
+      },
+      "artists": [
+        {
+          "name": "La Santa Cecilia",
+          "url": "https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v"
+        }
+      ],
+      "duration_ms": 183346,
+      "name": "Play Your Game",
+      "url": "https://open.spotify.com/track/24mEoCYvDhCaM3ovAFefY0"
     },
     {
       "added_at": "2022-08-05 16:11:36",

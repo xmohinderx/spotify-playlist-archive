@@ -1253,7 +1253,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 167978,
       "name": "Bendita Nota",
       "url": "https://open.spotify.com/track/2nogvCAks6RgjxubNXOPMH"
@@ -2059,6 +2059,24 @@
       "duration_ms": 156733,
       "name": "CUENTA",
       "url": "https://open.spotify.com/track/2J19dDdM6nmKDbN4AVJ1R4"
+    },
+    {
+      "album": {
+        "name": "Culito",
+        "url": "https://open.spotify.com/album/4dhH3Nhj7vy79pHdvCp0EB"
+      },
+      "artists": [
+        {
+          "name": "El Bird",
+          "url": "https://open.spotify.com/artist/1XHYFx41xbzN5SxLUSvW5Q"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216519,
+      "name": "Culito",
+      "url": "https://open.spotify.com/track/4FiHQz4KFtK0m5zzhI4gZL"
     },
     {
       "album": {
@@ -10647,7 +10665,7 @@
       ],
       "date_added": "2021-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 273474,
       "name": "Volando - Remix",
       "url": "https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe"
@@ -10957,7 +10975,7 @@
       ],
       "date_added": "2021-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 206710,
       "name": "Yonaguni",
       "url": "https://open.spotify.com/track/2JPLbjOn0wPCngEot2STUS"

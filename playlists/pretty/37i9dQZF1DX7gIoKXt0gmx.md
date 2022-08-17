@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 
 > All the vibes\. All the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,410,335 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,411,159 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 65 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 66 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/5vprsDWNcHMEMH95sbJkH2) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/album/5UKxiuiDgmjI35ZKYbAUPx) | 4:07 |
 | 67 | [Goofy](https://open.spotify.com/track/1A5hxo3hCF6FxBunEoKWcS) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Goofy](https://open.spotify.com/album/5JB8bhuOvIwo2CAYUPinmW) | 3:21 |
-| 68 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
+| 68 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
 | 69 | [Think About Me](https://open.spotify.com/track/4LkLfPYc3yjOta7Gk8FDRB) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl) | [Morning After](https://open.spotify.com/album/6rXy4b147LkM3muZKuALSX) | 4:06 |
-| 70 | [Around Me](https://open.spotify.com/track/7dQeS4ErW1iWvnKdrtKwKr) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Lost](https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r) | 3:03 |
+| 70 | [Good & Plenty](https://open.spotify.com/track/1VAKnb1btGrQXcVZVSRkPe) | [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty](https://open.spotify.com/album/53FhNZMrcBim6Ec9mp8ifl) | 3:24 |
 | 71 | [Don't Love Me](https://open.spotify.com/track/1hUhr4K3DD2iva88RMVAyY) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Don't Love Me](https://open.spotify.com/album/2A9oeTjP7Fi8s8BVpcBn8G) | 2:47 |
 | 72 | [Roster](https://open.spotify.com/track/7ydDdvP0VpVLvaK8iG63HH) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales, Mo' Tales: The Deluxe](https://open.spotify.com/album/4cogt2uqKoSyL61tzWaQei) | 3:39 |
-| 73 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
-| 74 | [more than i should \(feat\. jessie reyez\)](https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:20 |
+| 73 | [more than i should \(feat\. jessie reyez\)](https://open.spotify.com/track/20jLHaXVhMFjwHs1JPjL4S) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 3:20 |
+| 74 | [Letter To Ur N\(ex\)t](https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Letter To Ur Ex](https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY) | 2:14 |
 | 75 | [Lullaby](https://open.spotify.com/track/1K1b1rPjbbam1NXUPg4VrK) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Lullaby](https://open.spotify.com/album/2cVJ0gO2QyBC5o2A1DVFuk) | 3:20 |
 | 76 | [Her](https://open.spotify.com/track/6GatnDEhYQLOdRzdVbJaky) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [A Place Like This](https://open.spotify.com/album/0LncwHODjl9isM9pzVmuOS) | 5:00 |
 | 77 | [My Affection \(with PARTYNEXTDOOR\)](https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:33 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7gIoKXt0gmx.md) - [plain]
 | 97 | [235 \(2:35 I Want You\)](https://open.spotify.com/track/5yGAyupR8TXCUq3MPb7xiK) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [235 \(2:35 I Want You\)](https://open.spotify.com/album/22xnoAzJJFvmm1iZJNDNqh) | 3:51 |
 | 98 | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/track/5KdhJG3BXUmLoO4JdycCPw) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come and See Me \(feat\. Drake\)](https://open.spotify.com/album/0kKVLuYfFt1VSxaFSP0Cxb) | 3:55 |
 | 99 | [Stole My Love](https://open.spotify.com/track/1ex37MbvUY3yBvwsh8yZVl) | [Jay Isaiah](https://open.spotify.com/artist/0oMty0VPLJbB8WAQ8otDAs) | [Stole My Love](https://open.spotify.com/album/7f44ShiYsYglLbfIwZAXOE) | 3:31 |
-| 100 | [Between The Lines](https://open.spotify.com/track/1xVXwe9tzL11euCkfupQES) | [Gwen Bunn](https://open.spotify.com/artist/6dPh96zLnVMZVHnr66WRjg), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Between The Lines](https://open.spotify.com/album/6lCouTlJCmzbCAysQCYXls) | 3:43 |
+| 100 | [LANSDOWNE](https://open.spotify.com/track/2xs3TjKYZ3H3zaqWfmxdFF) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/3EFR2ie3oqo42zrUoAgR3R) | 2:33 |
 
-Snapshot ID: `MTY2MDIyOTE0MiwwMDAwMDAwMDgyZjhiNzY3ZTc3MTk4M2Y2ZmRlZjM2ZWVhNTlhZTVm`
+Snapshot ID: `MTY2MDIyOTE0MiwwMDAwMDAwMDRiOTU0YmFkYWNmMDRlYjAyNDUzYjkzMTMzOWM1NDky`

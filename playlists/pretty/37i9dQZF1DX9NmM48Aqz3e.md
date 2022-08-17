@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Songs from Canadian artists that dominated the 1990s\. Cover: LEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,879 likes - 48 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,894 likes - 48 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 25 | [Remote Control](https://open.spotify.com/track/7zPRpUujRke7mpt61KIC5U) | [The Age Of Electric](https://open.spotify.com/artist/4TOnIr0jbHHfFJEP9cbTlR) | [Make a Pest a Pet](https://open.spotify.com/album/47wRkLjmX69P80q7adpxjs) | 3:39 |
 | 26 | [Love Song](https://open.spotify.com/track/2l0Ef5m29J2fNOS5Ydkg8s) | [Sky](https://open.spotify.com/artist/5synmfYnU6t9Lw1ZiN3ZTT) | [Piece Of Paradise](https://open.spotify.com/album/060HunSfIEfWvy1bnYn4Fu) | 3:36 |
 | 27 | [Numb](https://open.spotify.com/track/7eH1GkchdFvNN4ZUx767G3) | [Holly McNarland](https://open.spotify.com/artist/26YoEndupBcezyzcSmbcw2) | [Stuff](https://open.spotify.com/album/2pLU6e4KE2773H1OjOfRZ9) | 3:57 |
-| 28 | [Spaceman](https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I Bificus](https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps) | 4:21 |
-| 29 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 |
+| 28 | [Out of My Head](https://open.spotify.com/track/1hdrmUDjFHPYigKYwf6aJC) | [Junkhouse](https://open.spotify.com/artist/7HTWYaZzuODnDc5dJN4EM3) | [Strays](https://open.spotify.com/album/7BKDjfyOFnHDbhguK5GZBO) | 3:47 |
+| 29 | [Spaceman](https://open.spotify.com/track/3h2hFjKND7US9wSphrEznV) | [Bif Naked](https://open.spotify.com/artist/02odAcSXGSPTSO4P44Ztuw) | [I Bificus](https://open.spotify.com/album/27wFXKUaFZHTtQK0XPQCps) | 4:21 |
 | 30 | [When You're Gone](https://open.spotify.com/track/0mto4XYo8GISKnDxlLdK2a) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc), [Melanie C](https://open.spotify.com/artist/60vX3zLcdKRXvKLITVh5Df) | [On A Day Like Today](https://open.spotify.com/album/5x3Ws76JQN6elCUAOfVVlT) | 3:24 |
 | 31 | [Song Instead of a Kiss](https://open.spotify.com/track/3vLC0USKtOIxMnQfnjb3rt) | [Alannah Myles](https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj) | [Rockinghorse](https://open.spotify.com/album/0mZ1ie97Erajm6EWYvOeIO) | 5:03 |
 | 32 | [One More Astronaut](https://open.spotify.com/track/3l20bPHgAFsFPRogdTNXWS) | [I Mother Earth](https://open.spotify.com/artist/3zEJAyZ1qSHSx9936UfXuM) | [Drive Fast, Rock Hard](https://open.spotify.com/album/1q8qvlZHzXmrcG1LmdxvlL) | 5:24 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 | 47 | [Wayne](https://open.spotify.com/track/38h3FGMLUI3V3sn5uK0cke) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Under These Rocks And Stones](https://open.spotify.com/album/45x3fW5IKv8k4tMEhv1Evy) | 4:45 |
 | 48 | [Hurts To Love You \- LP Version \(Album Version\)](https://open.spotify.com/track/7D4vdvgwrrbJjb3px4mMZ0) | [The Philosopher Kings](https://open.spotify.com/artist/4UzgFHHFfl4vf1UUmnORrA) | [Four Hits: The Philosopher Kings](https://open.spotify.com/album/2hfmvbYfmXvNd4qf6TFQyb) | 5:21 |
 
-Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDcyMTQ4ODFiZDcyODI0YWNhZjNlZWU1ZDZkZTgwODZi`
+Snapshot ID: `MTYzMjI1Nzg3MCwwMDAwMDAwMDQ4Y2IzYzA5NDM4MDg0MTY5NjhkNjBkYjg3MGIyMDBl`

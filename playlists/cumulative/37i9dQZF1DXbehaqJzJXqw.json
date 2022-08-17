@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 234066,
       "name": "Aime moi",
       "url": "https://open.spotify.com/track/2reLiqBW2EfejTe7OixGmT"
@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-19",
+      "date_removed": null,
       "duration_ms": 271213,
       "name": "Aquarium",
       "url": "https://open.spotify.com/track/6nq8mMlQ2RKpG4SmqziE3j"
@@ -355,7 +355,7 @@
       ],
       "date_added": "2022-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 213586,
       "name": "Chanson triste",
       "url": "https://open.spotify.com/track/482BNjycfik4vDZ8VjX5Om"
@@ -373,7 +373,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 186693,
       "name": "Chez Moi",
       "url": "https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5"
@@ -989,6 +989,24 @@
     {
       "album": {
         "name": "Nolita",
+        "url": "https://open.spotify.com/album/7jlEzGrX8XytkuQJHtcOys"
+      },
+      "artists": [
+        {
+          "name": "Keren Ann",
+          "url": "https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179653,
+      "name": "L'onde am\u00e8re",
+      "url": "https://open.spotify.com/track/0RnMnEHyWtyAdOUfSqouvs"
+    },
+    {
+      "album": {
+        "name": "Nolita",
         "url": "https://open.spotify.com/album/5M6CSIWhFBH97H9W35jaOn"
       },
       "artists": [
@@ -1259,7 +1277,7 @@
       ],
       "date_added": "2022-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 374243,
       "name": "Le Mal de Vivre",
       "url": "https://open.spotify.com/track/7HMUSp18RlaBFpBD2yVgel"
@@ -1367,7 +1385,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 195946,
       "name": "Le soleil",
       "url": "https://open.spotify.com/track/2eGGZSSdnady1oqoV2JGVP"
@@ -1571,6 +1589,24 @@
       "duration_ms": 201066,
       "name": "Les feuilles mortes",
       "url": "https://open.spotify.com/track/4yKTDPH6iRBHmA44AipmIk"
+    },
+    {
+      "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/3dq8TPEG5EezRpuh2YfCsY"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/0G7aymlLyV2F40F4YpDYDH"
     },
     {
       "album": {
@@ -1966,6 +2002,24 @@
     },
     {
       "album": {
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/3dq8TPEG5EezRpuh2YfCsY"
+      },
+      "artists": [
+        {
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211160,
+      "name": "O\u00f9 veux-tu aller ?",
+      "url": "https://open.spotify.com/track/5z3UJq95l8teAWcSmht6ff"
+    },
+    {
+      "album": {
         "name": "Cajueiro",
         "url": "https://open.spotify.com/album/7un05z7dVN0agNGXD6G8Yq"
       },
@@ -2229,7 +2283,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 222816,
       "name": "Raconte-moi...",
       "url": "https://open.spotify.com/track/2lvlrhaZrPws3DSoZ14hcL"

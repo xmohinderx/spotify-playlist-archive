@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 
 > Unearthing your new favourite artists\. Cover: Tiara Maimun\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,460 likes - 69 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,459 likes - 69 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 47 | [Planet Platonic](https://open.spotify.com/track/2iLKtJzLGtRjoRrMvVH5OU) | [The Filters](https://open.spotify.com/artist/0aI4dzoQSvBzjaBZgUuBW5) | [Exhaler](https://open.spotify.com/album/0UDeKLntX39tPUbxU4hW9n) | 6:10 |
 | 48 | [I F\*CKED a CHEATER](https://open.spotify.com/track/5TvuiNsfLwiPe3WPq8OHqC) | [Jjdroy](https://open.spotify.com/artist/4aJ8I7dbcRtx1mFdA8Sh5w), [Jude](https://open.spotify.com/artist/4oTyEQgj8L5eFsj42Kf0Na) | [I F\*CKED a CHEATER](https://open.spotify.com/album/08JTfXV5vjB9StoAKVUmSJ) | 2:59 |
 | 49 | [Tarifa](https://open.spotify.com/track/7CeeE95qlhwAWbu7XTh5xN) | [dylan chan](https://open.spotify.com/artist/3mKBWcBH58qiZXLs4ojPdK) | [Funerals by a Nightstand](https://open.spotify.com/album/2vBBsK12wQ4G6W1tHzWZ1K) | 2:25 |
-| 50 | [Platform Heels](https://open.spotify.com/track/5UNXUEUP9tWQUfNHqrOSvI) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [ARE YOU OKAY?](https://open.spotify.com/album/0QdpUwL2nYTpTOgs7oDtxZ) | 1:52 |
+| 50 | [Platform Heels](https://open.spotify.com/track/4GtD3sxPVCumt5vD4iGAD6) | [The Peachskins](https://open.spotify.com/artist/6slLx3tKNbSTpbAkkikwzd) | [ARE YOU OKAY?](https://open.spotify.com/album/3beRjWHdP2ciW45YB1oz6p) | 1:52 |
 | 51 | [LDR \- Long\-Distance Relationship](https://open.spotify.com/track/67heGxkX8txhtkyfPXkj5M) | [Amanda Ong](https://open.spotify.com/artist/0XaKTTVvegITqWH3AW1DeD) | [LDR \(Long\-Distance Relationship\)](https://open.spotify.com/album/4arYXBTaHBY7YVGJtAPEey) | 2:23 |
 | 52 | [As Long As We Stay](https://open.spotify.com/track/34uhrPCTuIez9sRuuuYkBm) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy), [Heidi](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [As Long As We Stay](https://open.spotify.com/album/4MVcR1fEQjV3kfhQRznExk) | 3:48 |
 | 53 | [Without You](https://open.spotify.com/track/3lIO5alrxwoxc0VOqVu57f) | [Keith VVolf](https://open.spotify.com/artist/3TPbOzdrHElYaEhPxvg3e9) | [Without You](https://open.spotify.com/album/32c00YWobzmjAr3XYjBifM) | 6:11 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvrRGuT6dlZ.md) - [plain]
 | 68 | [NOT A CRIMINAL](https://open.spotify.com/track/1FSmBKiaGkfIKG0SYbUVAU) | [TIMUR](https://open.spotify.com/artist/47OYA8Nbxh00qRELoAbKD4) | [NOT A CRIMINAL](https://open.spotify.com/album/0q6EVqPENcE3wMo4zwWvuH) | 2:50 |
 | 69 | [Goodbye](https://open.spotify.com/track/0YArqIQ6Hcdcomz0lobOCJ) | [Paper Citizen](https://open.spotify.com/artist/2zSALa63iTFKkokeXw9O6r) | [Goodbye](https://open.spotify.com/album/2UPncflsN2PT1mOUUKCtZ9) | 3:17 |
 
-Snapshot ID: `MTY1OTAyNDAwMCwwMDAwMDAwMGYwZmU3YjNkMGE4YmIzZDcxM2Q2NjgyOTEzZTBmMzQz`
+Snapshot ID: `MTY1OTAyNDAwMCwwMDAwMDAwMDE5YTcwNWU2NDE4OGE5ZWNkYTNiMmQwM2FlZjhmNTM4`

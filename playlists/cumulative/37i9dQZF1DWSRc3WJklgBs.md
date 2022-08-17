@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Dance music</a> for the heart <3
 
-974 songs - 2 day 9 hr 40 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
+975 songs - 2 day 9 hr 43 min - [published](https://open.spotify.com/playlist/1X8NDOgNVf1JiUkXM1Dr6p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,7 +683,8 @@
 | [Right Here](https://open.spotify.com/track/0GbOcV7JYQH9fb8UpZ9eVr) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Noam](https://open.spotify.com/artist/2JcqTFHHpB7rYEuwv5HL8p) | [Right Here](https://open.spotify.com/album/1lCHh4QBlTCT4Jzg3tbxZR) | 3:16 | 2020-10-30 | 2021-09-25 |
 | [Ringtone](https://open.spotify.com/track/5HL1Kr58jrionQOMotcLem) | [Helion](https://open.spotify.com/artist/05GSra7vTwr8o54Brzp2nA), [Mentum](https://open.spotify.com/artist/7q7ESkyTOB2AJsJmL7kUE3) | [Ringtone](https://open.spotify.com/album/2WLLkrJ4XytaWM62QSEOe7) | 2:43 | 2022-06-03 |  |
 | [Riptide](https://open.spotify.com/track/6Go8Wuws8feT0R2VlaI3am) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Riptide](https://open.spotify.com/album/2iwWXnXWMxBKOT9248uBAG) | 2:51 | 2022-04-29 | 2022-07-29 |
-| [Riptide](https://open.spotify.com/track/7C5E9v2djtVRnNXGsdWd8D) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:51 | 2022-07-22 |  |
+| [Riptide](https://open.spotify.com/track/7C5E9v2djtVRnNXGsdWd8D) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/1CxCEPIZbaE28qUDW4wN0t) | 2:51 | 2022-07-22 | 2022-08-17 |
+| [Riptide](https://open.spotify.com/track/7dTd00X8Mc5iErfQQyBA6B) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 2:51 | 2022-07-29 |  |
 | [Riptide \- FlicFlac Remix](https://open.spotify.com/track/5K9AcgSi8DK4lZKM2LpFu8) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT), [FlicFlac](https://open.spotify.com/artist/118tMA379KP9TjxmsQsLKY) | [Riptide \(Remixes\)](https://open.spotify.com/album/7qFH1sf9b1H2voaOgOHn3a) | 5:39 | 2019-08-09\* | 2019-08-26 |
 | [Rise Like Smoke \- Club Mix](https://open.spotify.com/track/0Uaw2A37eN337AIVQ69UWA) | [LTN](https://open.spotify.com/artist/2IK99qf3aYxFWkgCkc7kQ3), [Kyler England](https://open.spotify.com/artist/6YvjlSVLWjXqSvATafQkSK) | [Rise Like Smoke \(Club Mix\)](https://open.spotify.com/album/5ohwkPiif3EcXc2zgnLQxs) | 3:24 | 2019-08-09\* | 2020-03-29 |
 | [Rising Sun \- Radio Edit](https://open.spotify.com/track/341Ybocs0OSASkdLZqKyJa) | [Manse](https://open.spotify.com/artist/2jGvmFH6YE352p9LKmuB0y), [Chris Jones](https://open.spotify.com/artist/4V7e4A2uIvXmnxRyaCXMlb) | [Rising Sun](https://open.spotify.com/album/56oh35PfjSkTI2DF4UxRGp) | 3:15 | 2019-08-09\* | 2019-09-14 |

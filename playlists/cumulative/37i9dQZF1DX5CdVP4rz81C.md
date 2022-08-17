@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Lauv
 
-896 songs - 1 day 23 hr 16 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+897 songs - 1 day 23 hr 19 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,7 +802,8 @@
 | [This Is Not a Love Song](https://open.spotify.com/track/1b7rARdZOLr4uXBbKcQabs) | [Delilah Montagu](https://open.spotify.com/artist/3WtrH1zNpzoPSz6XpwCh6y) | [This Is Not a Love Song EP](https://open.spotify.com/album/4kGNXh4eyNJyYUvAUXecSA) | 4:02 | 2021-02-06 | 2021-02-26 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 | 2022-06-04 |
 | [Till Forever Falls Apart](https://open.spotify.com/track/2769RhOZs0ezRncRW1vryp) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Till Forever Falls Apart](https://open.spotify.com/album/6hjheUnJ3Gp8ll5DuE1VUz) | 3:42 | 2021-03-06 | 2021-06-26 |
-| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 |  |
+| [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 | 2022-08-12 |  |
+| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-17 |
 | [Time Machine](https://open.spotify.com/track/4Fkf0tYc8tD0BeS7k20AAa) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Time Machine](https://open.spotify.com/album/4jAN28tuuWdvDsX5HzPXbv) | 3:39 | 2022-05-27 | 2022-07-02 |
 | [To Begin Again](https://open.spotify.com/track/1iJBSr7s7jYXzM8EGcbK5b) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0), [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [To Begin Again](https://open.spotify.com/album/5rrWBCnnYiFaT5EoyCeikd) | 3:30 | 2021-03-19 | 2021-04-30 |
 | [To the Bone](https://open.spotify.com/track/3pCt2wRdBDa2kCisIdHWgF) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Flying Solo](https://open.spotify.com/album/3QUGmEDo4oijL93sKzlsR4) | 5:44 | 2021-03-15 | 2021-04-03 |

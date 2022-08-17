@@ -4,7 +4,7 @@
 
 > This week's essential new pop tracks\. Cover: Maddie Zahm
 
-1,303 songs - 2 day 16 hr 49 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
+1,305 songs - 2 day 16 hr 56 min - [published](https://open.spotify.com/playlist/0i2CIZhMTlGvQFu8b20aHi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -834,7 +834,8 @@
 | [Next Time](https://open.spotify.com/track/3HQrxN0bBKxWIKRmgjUq06) | [JESSIA](https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY) | [Next Time](https://open.spotify.com/album/7hgfr4aUdhvtwC1xK5XhJ6) | 3:17 | 2022-03-25 | 2022-04-16 |
 | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/track/62GuxZfDmTAnheXJqpbTVl) | [Rxseboy](https://open.spotify.com/artist/1ScHz7wPPxVTEKsc9g3Z0c), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Nice to Meet Me \(feat\. Au/Ra\)](https://open.spotify.com/album/1nzeHtYhJ5vVJ0EvhoJ3JT) | 2:51 | 2022-04-08 | 2022-04-29 |
 | [Nice to Meet You](https://open.spotify.com/track/0nxh4ijcMIwtkUth4aClzL) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Nice to Meet You](https://open.spotify.com/album/4hCeoPdicCGskR7BYasJxi) | 4:10 | 2022-02-04 | 2022-02-12 |
-| [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 |  |
+| [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 | 2022-08-12 |  |
+| [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 | 2022-08-12 | 2022-08-17 |
 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 | 2022-07-29 |  |
 | [Nintendo](https://open.spotify.com/track/0YHYHb9Rg3IebHaPiU5JAG) | [JXN](https://open.spotify.com/artist/571VxoWCBMPacek7MmocqU), [Reyanna Maria](https://open.spotify.com/artist/7kRrkUEPgO3TRfAi7Gsw2i) | [Nintendo](https://open.spotify.com/album/4F7uRi2BAlFFxGgZo6bWVi) | 2:44 | 2022-02-25 | 2022-03-05 |
 | [No Guidance](https://open.spotify.com/track/4F4wYSh0Fwjjj0JMgZ0QP5) | [MIMI](https://open.spotify.com/artist/4GCwfakdZdo3KkBNtzU5vn) | [No Guidance](https://open.spotify.com/album/0s1f9hVKKUGpLoYBRlNaD2) | 3:35 | 2022-02-11 | 2022-02-19 |
@@ -1168,7 +1169,8 @@
 | [Thousand Miles](https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Thousand Miles](https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf) | 2:44 | 2022-04-22 | 2022-05-28 |
 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 | 2022-08-12 |  |
 | [Tiebreaker](https://open.spotify.com/track/2jQrCn5lMF1tnICJ0sv1qZ) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Tiebreaker](https://open.spotify.com/album/3bwXvL4RrCIHPRNKJt0nxb) | 3:59 | 2022-03-25 | 2022-04-09 |
-| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 |  |
+| [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 | 2022-08-12 |  |
+| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-17 |
 | [Time On](https://open.spotify.com/track/6hwlAQ9DSZlXOWqdIEtevQ) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Time On](https://open.spotify.com/album/1bIHKulVPftrMQwWKBOte7) | 3:48 | 2022-04-29 | 2022-05-14 |
 | [To All The Boys I’ve Loved Before](https://open.spotify.com/track/6WXvM7Ku5aM7SfdXym7DEN) | [Jax](https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew) | [To All The Boys I’ve Loved Before](https://open.spotify.com/album/7iAKoyqsiG4Fdx0zp4KsB2) | 3:08 | 2022-02-04 | 2022-02-26 |
 | [To Love A Man](https://open.spotify.com/track/659179UI47crJGFp0RrCwU) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [To Love A Man](https://open.spotify.com/album/2irkzjkPar5WAwxtoraDRU) | 2:41 | 2022-03-25 | 2022-04-02 |

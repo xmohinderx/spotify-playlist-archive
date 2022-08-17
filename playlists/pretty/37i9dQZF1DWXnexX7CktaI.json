@@ -1,12 +1,12 @@
 {
   "description": "All the jams. Cover: Miguel",
-  "num_followers": 1833890,
+  "num_followers": 1834498,
   "original_name": "Gold Edition",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU0MDMzOSwwMDAwMDAwMGNlMDk2ZTM3OGViMTg4ZDA4OTc1MWRmNDA3MTkzYzM5",
+  "snapshot_id": "MTY1OTU0MDMzOSwwMDAwMDAwMDlhZTBiMDIyMGIxMTM5YTg2N2YwMjZkMmM3ZTMxZTc5",
   "tracks": [
     {
       "added_at": "2022-08-03 15:25:39",
@@ -353,22 +353,6 @@
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau"
     },
     {
-      "added_at": "2022-07-30 03:46:43",
-      "album": {
-        "name": "Public Displays Of Affection",
-        "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 204316,
-      "name": "Hrs & Hrs",
-      "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
-    },
-    {
       "added_at": "2022-03-14 17:48:22",
       "album": {
         "name": "T R A P S O U L",
@@ -383,6 +367,22 @@
       "duration_ms": 194613,
       "name": "Exchange",
       "url": "https://open.spotify.com/track/43PuMrRfbyyuz4QpZ3oAwN"
+    },
+    {
+      "added_at": "2022-07-30 03:46:43",
+      "album": {
+        "name": "Public Displays Of Affection",
+        "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 204316,
+      "name": "Hrs & Hrs",
+      "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -585,20 +585,28 @@
       "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
     },
     {
-      "added_at": "2022-07-30 03:34:52",
+      "added_at": "2022-03-14 17:48:22",
       "album": {
-        "name": "For Broken Ears",
-        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
+        "name": "OTW",
+        "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         }
       ],
-      "duration_ms": 247578,
-      "name": "Free Mind",
-      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
+      "duration_ms": 263013,
+      "name": "OTW",
+      "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
     },
     {
       "added_at": "2022-03-14 17:48:22",
@@ -637,28 +645,20 @@
       "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
-      "added_at": "2022-03-14 17:48:22",
+      "added_at": "2022-07-30 03:34:52",
       "album": {
-        "name": "OTW",
-        "url": "https://open.spotify.com/album/0c4JocKlxYfBjZep8TJkcI"
+        "name": "For Broken Ears",
+        "url": "https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        },
-        {
-          "name": "Ty Dolla $ign",
-          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 263013,
-      "name": "OTW",
-      "url": "https://open.spotify.com/track/6Hgh47WXVKtXN5zGOu0hjI"
+      "duration_ms": 247578,
+      "name": "Free Mind",
+      "url": "https://open.spotify.com/track/2mzM4Y0Rnx2BDZqRnhQ5Q6"
     },
     {
       "added_at": "2022-03-14 17:48:22",

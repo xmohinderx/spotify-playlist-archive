@@ -199,7 +199,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 101986,
       "name": "Drum Solo",
       "url": "https://open.spotify.com/track/4oYJDGfT4sLwJc8AvqkHCp"
@@ -325,7 +325,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 302293,
       "name": "Into The Storm",
       "url": "https://open.spotify.com/track/6TCxtJhcwImUhRzdPXRURA"
@@ -671,6 +671,24 @@
       "duration_ms": 197906,
       "name": "The Cell",
       "url": "https://open.spotify.com/track/7nCD5l7GrFyt6o1mstCUFr"
+    },
+    {
+      "album": {
+        "name": "Fortitude",
+        "url": "https://open.spotify.com/album/3bmdzJRZ4DLRTiA6yBBQcI"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312751,
+      "name": "The Chant",
+      "url": "https://open.spotify.com/track/41DA32rbYp3PoLCAJeup0J"
     },
     {
       "album": {

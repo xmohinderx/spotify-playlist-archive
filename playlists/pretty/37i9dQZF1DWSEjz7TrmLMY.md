@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 
 > canto de tristeza porque lo nuestro terminó
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,986 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,073 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 4 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 |
 | 5 | [Si Tu Amor No Vuelve \- Live](https://open.spotify.com/track/6xnjB5xkhzYzyrtsUAHHWJ) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Encerrados Pero Enfiestados Vol\. 2 \(Live\)](https://open.spotify.com/album/6vmqaUcI0dX1l7GE8FsACa) | 3:20 |
 | 6 | [Me Dediqué a Perderte](https://open.spotify.com/track/4NUt1fcnO9aQAELBgXq3Kr) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [A Corazón Abierto](https://open.spotify.com/album/1MTvtQtk1V2gqCNxnu5cNA) | 3:51 |
-| 7 | [Dígale](https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 4:22 |
+| 7 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
 | 8 | [Decide Tú](https://open.spotify.com/track/0uzmqJiynxBYYZ1Eo6iPkm) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:30 |
-| 9 | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/track/6yKoIv4jJSb7trcphSZofT) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [¿Y Qué Tal Si Funciona?](https://open.spotify.com/album/1XLUXguw1oUNDVAvzMl4rq) | 3:05 |
+| 9 | [Dígale](https://open.spotify.com/track/5OKrgU6UuGMp4sGRxv1JH2) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Corazon Latino](https://open.spotify.com/album/2uwVT3EKTVmI3ik9yqsyMl) | 4:22 |
 | 10 | [No Lo Hice Bien](https://open.spotify.com/track/211mktDmIq7g2Q4gBTXphj) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:03 |
 | 11 | [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 |
 | 12 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSEjz7TrmLMY.md) - [plain]
 | 49 | [Vuelve Cariñito](https://open.spotify.com/track/2WwkIeLHly6VJuOb1ihhzG) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:36 |
 | 50 | [He Venido a Pedirte Perdón](https://open.spotify.com/track/6OciJaFaUdtPU2llVaYVaq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/7LUl8V8OkpiygImst4pOmk) | 5:04 |
 
-Snapshot ID: `MTY1OTQ4NDI1MywwMDAwMDAwMGIxMjgxOWE1OWMxY2Q1YzI0ODJjNTQ3YTliODE4N2E4`
+Snapshot ID: `MTY1OTQ4NDI1MywwMDAwMDAwMDRhMzdlODA4ZTRmNDg3NmIwNjU0NzE3NThiZGEwNzZj`

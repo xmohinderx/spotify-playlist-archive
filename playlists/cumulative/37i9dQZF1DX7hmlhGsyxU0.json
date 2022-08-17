@@ -1486,6 +1486,24 @@
     },
     {
       "album": {
+        "name": "Cloud Symphonies",
+        "url": "https://open.spotify.com/album/7gomWr8LUAjtZlvtiNZs4n"
+      },
+      "artists": [
+        {
+          "name": "Shook",
+          "url": "https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165285,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/6NSQA386YXPPVoYX00QXRi"
+    },
+    {
+      "album": {
         "name": "Voices (Pt. 1 & 2)",
         "url": "https://open.spotify.com/album/3ZQ76t0fo1GxMP3FWUJaDu"
       },
@@ -1831,7 +1849,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 248613,
       "name": "Piano Trio No. 2 in E Minor, Op. 92: III. Andante con moto",
       "url": "https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG"

@@ -2,7 +2,7 @@
 
 ### [Tony Hawk's Pro Skater 1 + 2](https://open.spotify.com/playlist/37i9dQZF1DX6F6y6vVLZ8H)
 
-> A collection of songs from <a href="spotify:user:nytrvduf711vc7ja3kv9vwgnm">Tony Hawk's Pro Skater 1 + 2</a>.
+> A collection of songs from Tony Hawk's Pro Skater 1 + 2.
 
 62 songs - 3 hr 6 min - [published](https://open.spotify.com/playlist/3gnvN3gU2eit5kuCl7Hk1j)
 

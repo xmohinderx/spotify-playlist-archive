@@ -438,6 +438,24 @@
     },
     {
       "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/045SvC3Y4s8F4BmgZbZ1yt"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "date_added": "2022-01-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264240,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/3NdkOHvXadtSXWHPQ66rW5"
+    },
+    {
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -959,7 +977,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 351333,
       "name": "Pero Qu\u00e9 Necesidad",
       "url": "https://open.spotify.com/track/5UTmhKIe3xRyYrNnVMNRCw"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 
 > Revive aquellas grandes canciones desenchufadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,043,837 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,934 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWFNSpryCCH5.md) - [plain]
 | 35 | [The Man Who Sold The World \- Live Version](https://open.spotify.com/track/1XnPVbzLhuBv0sHaCTgyoi) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nirvana](https://open.spotify.com/album/5zBPRXCAc801vyHWoRurNZ) | 3:47 |
 | 36 | [Corazón partío](https://open.spotify.com/track/2EdAzvb3Qc6E8h8glHD9jF) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [MTV Unplugged](https://open.spotify.com/album/1GP8zhAu7gbAQTzfl6xOKo) | 5:00 |
 | 37 | [Si tú no vuelves \- MTV Unplugged](https://open.spotify.com/track/0L5sYIDHdhnwtJE0xB0JKV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 5:24 |
-| 38 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
-| 39 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
+| 38 | [Últimos Días \- En Vivo](https://open.spotify.com/track/47NLimerGALH038upaVAwD) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [MTV Unplugged Música De Fondo \(Reissue/Live\)](https://open.spotify.com/album/5fl6q7SKOuaO2tHXeTaZeV) | 3:51 |
+| 39 | [Rock 'N' Roll All Nite \- Live](https://open.spotify.com/track/19FX445jYl2XFNKvVKJ9NJ) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [MTV Unplugged](https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y) | 4:19 |
 | 40 | [Para no olvidar \- En directo 2005](https://open.spotify.com/track/3lp6PxDzfI5P4Ge3V1fKdi) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [El regreso](https://open.spotify.com/album/3hIwt5XJuGCaTgSO6DqL7N) | 4:23 |
 | 41 | [Eres para Mí \(with La Mala Rodríguez\) \- Unplugged \(En Vivo\)](https://open.spotify.com/track/1gL4YEW5qp6mv2aku06a06) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:42 |
 | 42 | [Rezo Por Vos \- Live](https://open.spotify.com/track/09owTrI1VnYKs5i1CCMnE2) | [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [Unplugged](https://open.spotify.com/album/7vuvoAP3WxyXIvH64LDn1R) | 4:48 |
 | 43 | [Eres \- MTV Unplugged](https://open.spotify.com/track/7stJkVkDr8fn52qR2HL2I0) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Un Segundo MTV Unplugged](https://open.spotify.com/album/6FFHjkllIIyfWlObWFrZ6X) | 5:05 |
 | 44 | [Magic \- Live at the Enmore Theatre, Sydney](https://open.spotify.com/track/3bVwuZb0nYvAMn3roElQnY) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Ghost Stories Live 2014](https://open.spotify.com/album/1hNS0RsxPTFjmKXCgmjSLS) | 4:52 |
-| 45 | [I'll Always Be Right There \- MTV Unplugged Version](https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:27 |
-| 46 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
+| 45 | [Black \- Kaufman Astoria Studios \- MTV Unplugged \- New York, NY 3/16/1992](https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Pearl Jam Twenty Original Motion Picture Soundtrack](https://open.spotify.com/album/1z6iuIsvWR3AjWhMY2xFOk) | 5:39 |
+| 46 | [I'll Always Be Right There \- MTV Unplugged Version](https://open.spotify.com/track/2z1HcH3hHiuo9nN3Jy7HEM) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [MTV Unplugged](https://open.spotify.com/album/081klksuaEwHIzuHGCks5p) | 4:27 |
 | 47 | [Hit Me \- MTV Unplugged](https://open.spotify.com/track/3vKCtmzGnf87XsILKozKVX) | [Molotov](https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [MTV Unplugged: El Desconecte](https://open.spotify.com/album/5ceBnTwI1hUewZEwYnTc7z) | 5:13 |
 | 48 | [Here Without You \- Acoustic](https://open.spotify.com/track/2HIU8kiFo9sB5ih05q8wgP) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Here Without You \(Acoustic\)](https://open.spotify.com/album/4flaMBqrWP26gwhRRxbq7e) | 3:52 |
 | 49 | [La Flaca](https://open.spotify.com/track/3yGoV8L7vjF5OVKv9KPMkG) | [Jarabe De Palo](https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5) | [Tour Americano 14/15](https://open.spotify.com/album/1raRxblTKBGTQ0q0qZSn3o) | 7:00 |
 | 50 | [Inevitable \- En Vivo](https://open.spotify.com/track/1gia3p3JUP6igy5kcpJSGb) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Shakira MTV Unplugged](https://open.spotify.com/album/3yQQUyIA3vRIRnB4rqtThe) | 3:39 |
 
-Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDE0ODA4YTkyZmQyZDNhZWEzNGNiMzFiYzdmNDE5MWJk`
+Snapshot ID: `MTYxMjk5MTc2NywwMDAwMDAwMDcxMmU1OGUyYTAwMTcwMjkwZWEzNDgzOWE5NTBjYTM4`

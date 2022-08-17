@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, Drake, Doechii &amp; more\. Updated weekly!  Cover: JID
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 12,045 likes - 54 songs - 2 hr 59 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 12,042 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,5 +62,6 @@ pretty - [cumulative](/playlists/cumulative/6PPav6OOdBg3kTIyyCqeDw.md) - [plain]
 | 52 | [Slam The Door](https://open.spotify.com/track/07Vwzgzl5dRyU7AMpJbIE3) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Slime Language 2 \(Deluxe\)](https://open.spotify.com/album/3XADnbi4uhYXb7RuSJ7bre) | 3:08 |
 | 53 | [Tombstone](https://open.spotify.com/track/5pRTz4O2qOkr5nawemy6Wb) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly](https://open.spotify.com/album/3NNLR5rt9WpUqbRJqpV5zH) | 2:40 |
 | 54 | [York Way ft\. Beam](https://open.spotify.com/track/6LjqU0aHuGN37MWR0GLNCf) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [VORY](https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA) | 2:15 |
+| 55 | [2ya](https://open.spotify.com/track/2nkmEaOsTtfdb5mNScJnWj) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [2ya](https://open.spotify.com/album/60GhGBIIfiYcGO9d3LMjdA) | 3:09 |
 
-Snapshot ID: `MjEwNCxmYWZlNjEzNjA0NzBiNDIxM2QwNDU2ZGZjMDI3MTI2MzI0MDBjOTM1`
+Snapshot ID: `MjEwNSxiMzRkNGJkYjdiMjdhN2FkOTA5ZmJhY2E0MjgyOTE2ODdhMGI1YzRl`

@@ -1680,6 +1680,24 @@
     },
     {
       "album": {
+        "name": "Moodswings In To Order",
+        "url": "https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189946,
+      "name": "Ballroom Extravaganza",
+      "url": "https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln"
+    },
+    {
+      "album": {
         "name": "Barbie Doll",
         "url": "https://open.spotify.com/album/4kL9QvR5F0N2aCvdKKAyyu"
       },
@@ -12255,7 +12273,7 @@
       ],
       "date_added": "2022-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 155223,
       "name": "never knew a heart could break itself",
       "url": "https://open.spotify.com/track/4d2ZJ9W7dkQuITwUCTuD5n"
@@ -17453,7 +17471,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 203972,
       "name": "the idea",
       "url": "https://open.spotify.com/track/6VN3dKYTClhY5eYQEnBehr"

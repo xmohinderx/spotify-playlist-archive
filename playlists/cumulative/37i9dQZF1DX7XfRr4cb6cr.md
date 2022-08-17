@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-172 songs - 15 hr 27 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
+173 songs - 15 hr 31 min - [published](https://open.spotify.com/playlist/4uBQQNerYG4kZFIisnLRm7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Dali In Sapphire](https://open.spotify.com/track/0C8kWf3y8woCorZlh90H4f) | [Mats Erlandsson](https://open.spotify.com/artist/5HAu4Np5pmLMUoI194nAEs) | [4\-Track Guitar Music](https://open.spotify.com/album/4waFzodRjhGm9uQj6C8uFW) | 6:42 | 2022-01-21 | 2022-07-29 |
 | [Dandelion Heart](https://open.spotify.com/track/2FVPcTBYidM2xDfVf6Nr7k) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 5:33 | 2022-01-21 | 2022-07-29 |
 | [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4IHPv1BTBH3wvYTskeN1dA) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/0qE9e3IrcAUln0LiXUcB14) | 3:41 | 2022-01-28 | 2022-07-29 |
+| [Dark Forces \- Robot Koch Rework](https://open.spotify.com/track/4w0hEOSam21FwnUteS9rxl) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Robot Koch](https://open.spotify.com/artist/47V6nyjOrUR98qv6gkYssI) | [Dark Forces \(Robot Koch Rework\)](https://open.spotify.com/album/1lsP6JqNGnwuSRhb5eYBfK) | 3:41 | 2022-08-05 |  |
 | [Dead People's Things](https://open.spotify.com/track/1jQhHBdhnaZv5q67sHA1uK) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5V3rLsAGpM63kE3SLPAMDW) | 18:35 | 2022-01-21 | 2022-07-29 |
 | [Dead People's Things](https://open.spotify.com/track/26slB6pfz5F8T723pMq32K) | [Deathprod](https://open.spotify.com/artist/7o8rvnbMRm0zygvVauFqaO) | [Morals and Dogma](https://open.spotify.com/album/5e3JPH2QTLpZA0ply1f98Z) | 18:35 | 2022-07-22 |  |
 | [Devolve](https://open.spotify.com/track/1jeJGhWMq94e9tg5L39ccP) | [Glenneth](https://open.spotify.com/artist/1J1OlnQmAupMJMAlLDgnEa) | [The All in Every This](https://open.spotify.com/album/7tuuQi7mWGgrgXx43c19y9) | 8:31 | 2022-01-21 | 2022-07-29 |
@@ -64,7 +65,7 @@
 | [Headflush](https://open.spotify.com/track/6CyTVrujXBuPEyNICbsOO8) | [Leila Bordreuil](https://open.spotify.com/artist/6WEdmq6hhfnYZ21aJOaY35) | [Headflush](https://open.spotify.com/album/6OsI5ZkpP1IVCe1qUhAbQj) | 4:51 | 2022-01-21 | 2022-07-29 |
 | [Hljóð](https://open.spotify.com/track/0bA8nk6Ho0cElAoAOIh2Cs) | [Viktor Orri Árnason](https://open.spotify.com/artist/18Z4spLSvLLjg7hnCS5De1), [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B) | [Vast](https://open.spotify.com/album/0JXyLUDcW8E6ZDhCWq2aqr) | 7:59 | 2022-01-21 | 2022-07-29 |
 | [Honest Labour \(feat\. HforSpirit\)](https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H) | [Space Afrika](https://open.spotify.com/artist/6cU1HCzqStKzT3NUuaaCO5), [HforSpirit](https://open.spotify.com/artist/3EFHV7IDQxHCNlFljVrMUu) | [Honest Labour](https://open.spotify.com/album/7Cr6BDi4l08zU8OCKC74Cq) | 3:51 | 2022-02-04 |  |
-| [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 |  |
+| [Horn in Deep Night](https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Noah Georgeson](https://open.spotify.com/artist/560GMyzlOxLgjvQdFjaHh8) | [Refuge](https://open.spotify.com/album/6gxz2tx0MdfUJAQnWYonpg) | 5:08 | 2022-01-28 | 2022-08-17 |
 | [Hunter](https://open.spotify.com/track/10Q1McczOHRWTzRIVAeeaL) | [Nature of Wires](https://open.spotify.com/artist/3UbV4twUaN8yLN3MYKgmMi) | [Building Reflections](https://open.spotify.com/album/75KSdcNz3VGxu0jNIjGj0G) | 3:15 | 2022-03-25 | 2022-07-26 |
 | [Hyna Ruje](https://open.spotify.com/track/2Yj78qpYlgKsOT0BV7WO2n) | [Digital Moss](https://open.spotify.com/artist/56m25Ot58GnKosZoB220kB) | [Hyna Ruje](https://open.spotify.com/album/66ZYAjqiueJ8s7JYOKZLZQ) | 5:38 | 2022-03-25 |  |
 | [Hávamál](https://open.spotify.com/track/5dURxMxfTaxka4rsMlGC3m) | [Anthony Linell](https://open.spotify.com/artist/7f6ExQA9PR5pOnbrOXOwoS) | [Winter Ashes](https://open.spotify.com/album/22ayH0VEYTH5MDjx3S686N) | 5:18 | 2022-01-21 | 2022-07-29 |

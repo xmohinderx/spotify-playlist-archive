@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Honey Dijon
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,226 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,246 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 20 | [SUN GOES DOWN](https://open.spotify.com/track/34eF4BoV8FPk0uhAAoqU7h) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [SUN GOES DOWN](https://open.spotify.com/album/30jNiJYIOY3ok6LzaO0Wv0) | 2:48 |
 | 21 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
 | 22 | [Girl Blunt](https://open.spotify.com/track/1lAGdqI4Wwa8G0XTP6VqHl) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [Acrylic](https://open.spotify.com/album/69GP3by8YMB8yz0pG03DWl) | 3:25 |
-| 23 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
-| 24 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
+| 23 | [Wasteland](https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Wasteland](https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be) | 3:03 |
+| 24 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 25 | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/track/1kW0R9RBRSZe9sWjp8DkKY) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Slow Down \(feat\. Tion Wayne\)](https://open.spotify.com/album/4slIaFabUZiXFQt1LJXTu1) | 3:18 |
 | 26 | [altar](https://open.spotify.com/track/1GaMFbWeBZeSwgyAEr1s4m) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [blue water road](https://open.spotify.com/album/2WfV3cpI2BUuIxMISh9nqF) | 4:04 |
 | 27 | [Body Move](https://open.spotify.com/track/4ymwozmsZ75AyUUTRhSOcQ) | [Dizzy Fae](https://open.spotify.com/artist/0jt1EsJCeoQXLNDta4JF6c) | [Body Move](https://open.spotify.com/album/4DEf7dix4OkYsi4bpsstRU) | 2:57 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 45 | [Shisha](https://open.spotify.com/track/3GQ4WtNBEax7cYRGBNM0Js) | [Saucy Santana](https://open.spotify.com/artist/2NfwGBr2swqZ1rzE3kAV23), [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [Keep It Playa](https://open.spotify.com/album/1CIY3PA833LK8TVJpsSOvS) | 3:12 |
 | 46 | [Don Dada](https://open.spotify.com/track/6B3NBWtTa7WuPILwpAz6D5) | [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [Proper Villains](https://open.spotify.com/artist/2mVUdPq7evlUNzq2rYys8S) | [Don Dada](https://open.spotify.com/album/4j8I2IA2VLSYqDCJ0FydNb) | 3:05 |
 | 47 | [Never Wanna Fall](https://open.spotify.com/track/2gdmSV6iZDVf8ETlD755Zf) | [Talia Goddess](https://open.spotify.com/artist/4Otn2nALdNCTFUUExiskqw) | [Poster Girl](https://open.spotify.com/album/5YgXXwuwTim607qGUWXbph) | 4:41 |
-| 48 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/54kpPbD47pkThR3qC1necz) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:13 |
-| 49 | [Georgia](https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:18 |
+| 48 | [Georgia](https://open.spotify.com/track/6BYRHke6jlb81Z6qCTRZ8y) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:18 |
+| 49 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/54kpPbD47pkThR3qC1necz) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [DEACON](https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV) | 3:13 |
 | 50 | [Green Line](https://open.spotify.com/track/5Ebu0lwiMFhempIKg1GUAk) | [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt), [Terrell Morris](https://open.spotify.com/artist/7C3agcqFXnteDagiWhaZdU) | [Green Line](https://open.spotify.com/album/4pZN0JVoQx3ikvl6qGzUH6) | 3:26 |
 
-Snapshot ID: `MTY2MDIzOTkzOCwwMDAwMDAwMDRhNmJiM2NjOTcyMDE0ZGVkYTkzYzY5OWU1YjkwMzky`
+Snapshot ID: `MTY2MDIzOTkzOCwwMDAwMDAwMDIxYWM3MDIyODQ5Yjg3M2I1MjBjMmEyYmQyNjI2MjMz`

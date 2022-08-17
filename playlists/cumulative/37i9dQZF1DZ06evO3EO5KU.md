@@ -4,7 +4,7 @@
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 10 min - [published](https://open.spotify.com/playlist/0kWQhRaxTfkDYQmd5SDHHK)
+58 songs - 3 hr 13 min - [published](https://open.spotify.com/playlist/0kWQhRaxTfkDYQmd5SDHHK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,10 +26,11 @@
 | [Cuanto Te Quiero](https://open.spotify.com/track/2OSb2ewhfNXCEZBeHaRlxE) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [La Suerte](https://open.spotify.com/album/6yZLlRUV38oIV7yfYMZU9J) | 2:43 | 2022-06-01 |  |
 | [DEL Negociante](https://open.spotify.com/track/55gDXEcj1heJNWZU2Ah5HH) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo](https://open.spotify.com/album/0lMw8xxFLYRSGYRlGzo8uc) | 3:23 | 2022-06-01 |  |
 | [Descargas Del R 15](https://open.spotify.com/track/1FT7A7MjkRAceyZjYIMjhI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [\(En Vivo\) con Banda Sinaloense La Tuyia de Culiacan, Sinaloa \(Vol 2\)](https://open.spotify.com/album/13ypsbRldKgFVj9npcAl4A) | 3:31 | 2022-06-01 | 2022-08-14 |
+| [Duren](https://open.spotify.com/track/11Hyc6dj7gEuTobhK9HDWa) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Duren](https://open.spotify.com/album/3opbMuXUbqktLyqgZ0W7Cx) | 3:10 | 2022-08-16 |  |
 | [El Güero Colorado](https://open.spotify.com/track/3qXNBRZfzJbSLJRHmg6Tt6) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 3:39 | 2022-06-01 | 2022-08-09 |
 | [El Hombre Tranquilo](https://open.spotify.com/track/3Jb1F5CRVKqNBpzrjDTBHA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 3:07 | 2022-06-01 |  |
 | [El Karma](https://open.spotify.com/track/5fjNbyD1WPSvsV14nlON4O) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Los Elementos de Culiacan](https://open.spotify.com/artist/21Plz7ujtVKM3kx6zX4eNq) | [5 Años Despues](https://open.spotify.com/album/0TAcAAyHawoEQy8UoxOoi9) | 3:30 | 2022-06-01 |  |
-| [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-06-01 |  |
+| [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 | 2022-06-01 | 2022-08-17 |
 | [El Rey De Corazones](https://open.spotify.com/track/2ICYrKS9mBUgV0yp3S5rWM) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:47 | 2022-06-01 |  |
 | [El Sucesor](https://open.spotify.com/track/4xmbgTGk4ozpTGkY5IezIV) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Sucesor](https://open.spotify.com/album/4ShDgSamOCAa27w3cEEDuR) | 5:04 | 2022-08-14 |  |
 | [En Un Día Como Hoy](https://open.spotify.com/track/3asoKjxnqlTvskhHLq1Ozd) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ASMMEp5nquYyVwAy3igBK) | 3:21 | 2022-06-01 |  |

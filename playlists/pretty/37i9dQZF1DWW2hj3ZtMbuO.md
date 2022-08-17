@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 
 > Sapphic songs that defined your music taste as "yearning"
 
-[Spotify](https://open.spotify.com/user/spotify) - 714,584 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 719,487 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 62 | [Work](https://open.spotify.com/track/1knUACOt5yfNAYn7gnYQVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [CDW](https://open.spotify.com/album/6gCycQSo1Yp503MXyvzSF9) | 3:44 |
 | 63 | [FIGURES](https://open.spotify.com/track/3U3J5v3rkx89WnFEQvAJD5) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Kiddo](https://open.spotify.com/album/2q7EwuXduuQGDJrPYPVFyw) | 4:00 |
 | 64 | [I Wish I Never Met You](https://open.spotify.com/track/5Ga9HA1RoegXoq4TGolIi9) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Lovers Fevers](https://open.spotify.com/album/74tYpNN6rvOiKe1FbucCcB) | 3:31 |
-| 65 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
-| 66 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 |
+| 65 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 |
+| 66 | [Why Am I Like This?](https://open.spotify.com/track/1VaB7rOe1mK60C2M9dUl2Y) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/6e75KHFKuyHqjhoz5v4u8R) | 3:32 |
 | 67 | [Sappho](https://open.spotify.com/track/5DIGt883aHs3KqWSziy4gR) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Next Thing](https://open.spotify.com/album/0vhRTvVCv9O5orRMgFjxT1) | 1:52 |
 | 68 | [April Come She Will](https://open.spotify.com/track/0djZ2ndRfAL69WYNra5jRC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Sounds Of Silence](https://open.spotify.com/album/07RAGILF28QweYQSZasr5k) | 1:49 |
 | 69 | [Paper Bag](https://open.spotify.com/track/0IVkP59yJ9GFF6B7IrvrxA) | [Fiona Apple](https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL) | [When The Pawn...](https://open.spotify.com/album/3o5EnVZNJXtfPV8tCoagjI) | 3:39 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2hj3ZtMbuO.md) - [plain]
 | 74 | [Myth](https://open.spotify.com/track/2NfxtzCIrpCmJX5Z2KMdD5) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Bloom](https://open.spotify.com/album/02PXepuNHYKvGnXYy03oCp) | 4:18 |
 | 75 | [two queens in a king sized bed](https://open.spotify.com/track/1pUyZuge2qoSG1nzDxftQJ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [two queens in a king sized bed](https://open.spotify.com/album/38v3Ga4U869AXC0BKIzuXG) | 3:10 |
 
-Snapshot ID: `MTY2MDE2OTQ3MiwwMDAwMDAwMDFiNjNmNTI0M2RhOGJhZDg4ODg4MzBhZTRmZWMzYWNi`
+Snapshot ID: `MTY2MDE2OTQ3MiwwMDAwMDAwMDBiZDQ2NmNiZGRiODVlOTMwZWNiMTFlOTE4NGIwMDAz`

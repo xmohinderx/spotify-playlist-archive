@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Shuffle</a> your heart out. ",
-  "num_followers": 849532,
+  "num_followers": 849769,
   "original_name": "Shuffle Syndrome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGU4ODgxZTZlMDI3ODgxMzZkYzBlYjJhYTJjZGI3ZmQ5",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDU1MzcxMzU1ZWE3ZWE4MTE0ZmRhZjk1N2E1OWE0M2E5",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -663,6 +663,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "No Diggity",
+        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
+      },
+      "artists": [
+        {
+          "name": "H\u00c4WK",
+          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
+        },
+        {
+          "name": "BEYGE",
+          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
+        }
+      ],
+      "duration_ms": 218880,
+      "name": "No Diggity",
+      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Good Good",
         "url": "https://open.spotify.com/album/1Rt8AIxAqTeLixYACMcjKc"
       },
@@ -735,26 +755,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Fly With Us",
-        "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
-      },
-      "artists": [
-        {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
-        },
-        {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
-        }
-      ],
-      "duration_ms": 248437,
-      "name": "Fly With Us",
-      "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "No Man",
         "url": "https://open.spotify.com/album/0bxxLUuFtUf935UQD4r6y3"
       },
@@ -799,26 +799,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "No Diggity",
-        "url": "https://open.spotify.com/album/7A9oXyND4uZWxz4wpH8Wmj"
-      },
-      "artists": [
-        {
-          "name": "H\u00c4WK",
-          "url": "https://open.spotify.com/artist/0oPeHAZ3BpdlD8EyeBLady"
-        },
-        {
-          "name": "BEYGE",
-          "url": "https://open.spotify.com/artist/6BhuVLszd4KFPknoq0TIHD"
-        }
-      ],
-      "duration_ms": 218880,
-      "name": "No Diggity",
-      "url": "https://open.spotify.com/track/65nn7e1DOFh5MRHHQ7GWBi"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/2iVAwFCGbC6TSbQ0MpMADe"
       },
@@ -835,6 +815,26 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Fly With Us",
+        "url": "https://open.spotify.com/album/6IwSRKffabEdwOZvUjght0"
+      },
+      "artists": [
+        {
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+        },
+        {
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+        }
+      ],
+      "duration_ms": 248437,
+      "name": "Fly With Us",
+      "url": "https://open.spotify.com/track/0aEIw4siCqZ8hlDrvtlRep"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Flexin",
         "url": "https://open.spotify.com/album/2ccwQt8ZBTclkUZawxmrUn"
       },
@@ -847,6 +847,26 @@
       "duration_ms": 135705,
       "name": "Flexin",
       "url": "https://open.spotify.com/track/2OvqYU6lo9GA6hO2jVttKm"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -955,6 +975,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Safe & Sound",
+        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        }
+      ],
+      "duration_ms": 200166,
+      "name": "Safe & Sound - Radio Edit",
+      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Bang Bang",
         "url": "https://open.spotify.com/album/5C0wNtxNy0dMhY7mfX6mYJ"
       },
@@ -971,22 +1007,6 @@
       "duration_ms": 144677,
       "name": "Bang Bang",
       "url": "https://open.spotify.com/track/4IC1c5WgaeW1k3kAB7VMTH"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Safe & Sound",
-        "url": "https://open.spotify.com/album/2ycU4CH1H9bT73DQnd2EpX"
-      },
-      "artists": [
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        }
-      ],
-      "duration_ms": 200166,
-      "name": "Safe & Sound - Radio Edit",
-      "url": "https://open.spotify.com/track/6hgIDN5RsdT3ujELVkZKGO"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1079,42 +1099,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Something's about to go down",
-        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 215090,
-      "name": "Something's about to go down",
-      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Don't Say You Love Me",
-        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "OBS",
-          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Don't Say You Love Me",
-      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH"
       },
@@ -1139,6 +1123,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Something's about to go down",
+        "url": "https://open.spotify.com/album/5pBZxgiRxPdcaTCFnac9CK"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 215090,
+      "name": "Something's about to go down",
+      "url": "https://open.spotify.com/track/0MmCny6gGuYPM4wT1rqoz3"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Be Good",
         "url": "https://open.spotify.com/album/2ryWx4gB4evXAKlIIFwup4"
       },
@@ -1155,6 +1155,26 @@
       "duration_ms": 171362,
       "name": "Be Good",
       "url": "https://open.spotify.com/track/5AZLFrMsM9URNM77tqxdNZ"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "PPL",
+        "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        },
+        {
+          "name": "Johnny GOLD",
+          "url": "https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p"
+        }
+      ],
+      "duration_ms": 162580,
+      "name": "PPL",
+      "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1191,6 +1211,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Cheque",
+        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
+      },
+      "artists": [
+        {
+          "name": "Don Diablo",
+          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
+        }
+      ],
+      "duration_ms": 165245,
+      "name": "Cheque",
+      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "demolition (Ruined by Glass Petals)",
         "url": "https://open.spotify.com/album/5CN8SCIeJGzrG8efIbfjgo"
       },
@@ -1211,42 +1247,6 @@
       "duration_ms": 226440,
       "name": "demolition (Ruined by Glass Petals)",
       "url": "https://open.spotify.com/track/5ylMA5GG8VDjcYUGts2QNt"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Cheque",
-        "url": "https://open.spotify.com/album/60wvUC6xVoV8ZXeoW7sP1g"
-      },
-      "artists": [
-        {
-          "name": "Don Diablo",
-          "url": "https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1"
-        }
-      ],
-      "duration_ms": 165245,
-      "name": "Cheque",
-      "url": "https://open.spotify.com/track/1CE0qHhs1ptJg01dGROO2c"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "PPL",
-        "url": "https://open.spotify.com/album/0iLCnQIjG3HZA4EVcyqu5q"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        },
-        {
-          "name": "Johnny GOLD",
-          "url": "https://open.spotify.com/artist/42s6z4jFABqd0XFJHyma3p"
-        }
-      ],
-      "duration_ms": 162580,
-      "name": "PPL",
-      "url": "https://open.spotify.com/track/3d3rarz1eXjs8BPGKoFNYQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1315,6 +1299,42 @@
       "duration_ms": 242343,
       "name": "Welcome to the Club",
       "url": "https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Make a Living",
+        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+      },
+      "artists": [
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        },
+        {
+          "name": "Plastik Funk",
+          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+        }
+      ],
+      "duration_ms": 177798,
+      "name": "Make a Living",
+      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/59bmdTOhPa4ZLUS2htvKc4"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/4RXw5GRcFbOCmWQ85oEguu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1403,6 +1423,30 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
+      },
+      "artists": [
+        {
+          "name": "SNBRN",
+          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
+        },
+        {
+          "name": "BIJOU",
+          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
+        },
+        {
+          "name": "CeCe Rogers",
+          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
+        }
+      ],
+      "duration_ms": 204160,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Prock House",
         "url": "https://open.spotify.com/album/6WmVszxhoZlftm89rz5FFq"
       },
@@ -1439,30 +1483,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/2jKuairRPQOhtdfDCRNvNT"
-      },
-      "artists": [
-        {
-          "name": "SNBRN",
-          "url": "https://open.spotify.com/artist/2zJ8chFLjiBHRNchfevMRI"
-        },
-        {
-          "name": "BIJOU",
-          "url": "https://open.spotify.com/artist/3abRKajGbb3kLMy9AWzfMA"
-        },
-        {
-          "name": "CeCe Rogers",
-          "url": "https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1"
-        }
-      ],
-      "duration_ms": 204160,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/2xNxxDFIoCBIUYlTNK8oiU"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Push And Pull",
         "url": "https://open.spotify.com/album/7E4ybWrTiPodPGPd0KrQNg"
       },
@@ -1479,22 +1499,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Make a Living",
-        "url": "https://open.spotify.com/album/0mZM7b4W6xWvPyKeNNrF3p"
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
       },
       "artists": [
         {
-          "name": "YouNotUs",
-          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
-        },
-        {
-          "name": "Plastik Funk",
-          "url": "https://open.spotify.com/artist/7wmCy21VjfmbP8DznMJe8v"
+          "name": "Interupt",
+          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
         }
       ],
-      "duration_ms": 177798,
-      "name": "Make a Living",
-      "url": "https://open.spotify.com/track/5VlY1cabCZa9YQ9JtLhFlP"
+      "duration_ms": 199384,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1547,18 +1563,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Midnight",
-        "url": "https://open.spotify.com/album/5xONA3ROlUquCv7IYc6Do3"
+        "name": "Policia",
+        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
       },
       "artists": [
         {
-          "name": "Interupt",
-          "url": "https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I"
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
         }
       ],
-      "duration_ms": 199384,
-      "name": "Midnight",
-      "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
+      "duration_ms": 211163,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1579,22 +1595,6 @@
       "duration_ms": 177024,
       "name": "Stop Talkin (feat. ALMA)",
       "url": "https://open.spotify.com/track/05r0Rw0wlUSC6Az3fssRlj"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Policia",
-        "url": "https://open.spotify.com/album/0gqRJOUGlKPv6ixrLjs6dM"
-      },
-      "artists": [
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 211163,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/6AqlZeTJGRHuRKUAbc9kqP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "When We Were Young / Gimme Some Keys",
-        "url": "https://open.spotify.com/album/5zuC9jHTz4CZse0rPGyjkm"
-      },
-      "artists": [
-        {
-          "name": "Matroda",
-          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
-        }
-      ],
-      "duration_ms": 191158,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/5HfQ06QixaFMBV6Rjb37V0"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Like That",
         "url": "https://open.spotify.com/album/5zSaFQQH5vAw5TfaDYXj9U"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 147410,
       "name": "Like That",
       "url": "https://open.spotify.com/track/0NUDi4qhj9lDtwNJqgFuXv"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "When We Were Young / Gimme Some Keys",
+        "url": "https://open.spotify.com/album/5zuC9jHTz4CZse0rPGyjkm"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "duration_ms": 191158,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/5HfQ06QixaFMBV6Rjb37V0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1775,6 +1775,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Leave Your Mind Behind",
+        "url": "https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z"
+      },
+      "artists": [
+        {
+          "name": "Glass Petals",
+          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
+        }
+      ],
+      "duration_ms": 186190,
+      "name": "Leave Your Mind Behind",
+      "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Downtown (with Kelvin Jones)",
         "url": "https://open.spotify.com/album/0XKTTx5dsmKvSphUp8wBVS"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 130125,
       "name": "Downtown (with Kelvin Jones)",
       "url": "https://open.spotify.com/track/3d7SAAfRMZzuYNqfJhR3bI"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Leave Your Mind Behind",
-        "url": "https://open.spotify.com/album/3zPG0oOh6G8XicQDp4HX0z"
-      },
-      "artists": [
-        {
-          "name": "Glass Petals",
-          "url": "https://open.spotify.com/artist/0O8f8ea4d3UvxzrJxkYIb0"
-        }
-      ],
-      "duration_ms": 186190,
-      "name": "Leave Your Mind Behind",
-      "url": "https://open.spotify.com/track/0GS82JsyvXX5SSCjw725tK"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1935,6 +1935,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Play By My Rules",
+        "url": "https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p"
+      },
+      "artists": [
+        {
+          "name": "Chapter & Verse",
+          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
+        }
+      ],
+      "duration_ms": 217142,
+      "name": "Play By My Rules",
+      "url": "https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/75d0vSPEzmVLSECS9AOXUO"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 155238,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/266YHA8L6rGYl4Iq5Mmvwb"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Play By My Rules",
-        "url": "https://open.spotify.com/album/1FBavf0FlcPMSm1OaByO2p"
-      },
-      "artists": [
-        {
-          "name": "Chapter & Verse",
-          "url": "https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t"
-        }
-      ],
-      "duration_ms": 217142,
-      "name": "Play By My Rules",
-      "url": "https://open.spotify.com/track/01xowIJrmShI6X9Q1WXqAd"
     }
   ],
   "unique_name": "Shuffle Syndrome",

@@ -5349,7 +5349,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 111556,
       "name": "FALL BACK",
       "url": "https://open.spotify.com/track/2vbrodbHlus3zzc1Ai3ooO"
@@ -11065,7 +11065,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 165453,
       "name": "Michael",
       "url": "https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT"
@@ -14852,6 +14852,24 @@
     },
     {
       "album": {
+        "name": "sad4whattt (From \"Euphoria\" An HBO Original Series)",
+        "url": "https://open.spotify.com/album/7y5qaNQg9AUbPAqRB4cinS"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118670,
+      "name": "sad4whattt - From \"Euphoria\" An HBO Original Series",
+      "url": "https://open.spotify.com/track/3oM8s8hnrh6xjKv1iycJaZ"
+    },
+    {
+      "album": {
         "name": "Said",
         "url": "https://open.spotify.com/album/3t1DhqdAvIXbgZFlIBH5vp"
       },
@@ -15225,7 +15243,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 148453,
       "name": "SEX APPEAL",
       "url": "https://open.spotify.com/track/2iu4WYCPQrdQjXZkN8Phsm"

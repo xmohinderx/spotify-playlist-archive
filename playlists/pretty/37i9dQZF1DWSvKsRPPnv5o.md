@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: Kalan.FrFr
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,658 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,745 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 3 | [Light Breeze](https://open.spotify.com/track/3NWOO9SW0Irf9aUUC3om4i) | [Kalan.FrFr](https://open.spotify.com/artist/47TMF0JlFsz01KilGzc5Ly) | [Light Breeze](https://open.spotify.com/album/0N1u2tCscAuCsNYia6HAM4) | 2:38 |
 | 4 | [In My Pockets](https://open.spotify.com/track/15NvWexLBzx8l0anZ6V2Yb) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl) | [In My Pockets](https://open.spotify.com/album/4nqkI4pUK9k9OdDtyjPsXO) | 2:39 |
 | 5 | [OUTTA LINE](https://open.spotify.com/track/2HghsZnVNsZhUeVl6VlbS8) | [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [OUTTA LINE](https://open.spotify.com/album/2rI0mfDQtPc34umvL8AEuL) | 2:43 |
-| 6 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
+| 6 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:23 |
 | 7 | [Up](https://open.spotify.com/track/7wcmdOAtyLQxIs2d6h08YC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Up](https://open.spotify.com/album/2rhZNMom0WgyCfamtuvsKZ) | 2:26 |
 | 8 | [Red Flag](https://open.spotify.com/track/1zTsj09nN6RamZRO8W8Ssb) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Fenix Flexin Vol\. 2](https://open.spotify.com/album/0uoPpxGXbIwYTEm7XW33Lu) | 1:58 |
 | 9 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 21 | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/track/4EdBC32i66Ctblo1tMQfbJ) | [ASM Bopster](https://open.spotify.com/artist/3bqMC7DfAQr0ZbC7R8htLz), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ) | [Like The Way You Move \(feat\. Blueface\)](https://open.spotify.com/album/4VNCOZl2fmc7xskD1CXHoE) | 3:45 |
 | 22 | [G Code](https://open.spotify.com/track/4HRrPBE2SBs2Ntz65twzFp) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 3:19 |
 | 23 | [AIGHT \(feat\. Shelley FKA DRAM\)](https://open.spotify.com/track/7GI7QNI80ms5XVAdS6fujG) | [WESTSIDE BOOGIE](https://open.spotify.com/artist/5usbqiU7sjvszjWecANDL6), [Shelley FKA DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8) | [MORE BLACK SUPERHEROES](https://open.spotify.com/album/5vEoVfNUIb14lEGgAfzkMx) | 2:44 |
-| 24 | [How Far I Came \(Feat\. Roddy Ricch\)](https://open.spotify.com/track/0MbfvzkeEay4rFeALFy2K2) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
+| 24 | [How Far I Came \(Feat\. Roddy Ricch\)](https://open.spotify.com/track/0fGtT5bFSjtUzbSFPUQczD) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 3:23 |
 | 25 | [No Mop](https://open.spotify.com/track/74d9XLd9OMpvb4RaXCmeVM) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 2:54 |
 | 26 | [BLUE MASERATI REMIX](https://open.spotify.com/track/6fVVHnP0OiKlyjZYOhIKMf) | [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [LLYOD](https://open.spotify.com/artist/6ttwPLSnuDm1KtLZljSPBu) | [DIVINE TIMING \(DELUXE\)](https://open.spotify.com/album/13EB3cUBrQNqkBZCUgCawi) | 3:21 |
 | 27 | [Settled \(feat\. Russ\)](https://open.spotify.com/track/46cBzfiGyZetFFC9P9LATk) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 49 | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/track/3qVGGk6cIJOvIMQhIXl7sE) | [Jayson Cash](https://open.spotify.com/artist/73oxjhwezMsDPOBZzN5J9E), [Major Myjah](https://open.spotify.com/artist/1pseCBuVDMZFDp6RbzuX8L) | [Selfish \(feat\. Major Myjah\)](https://open.spotify.com/album/3webAmY4mW31UWVXzWA26o) | 2:09 |
 | 50 | [FYM](https://open.spotify.com/track/264tGGB1Wwy7IrNmeuBdml) | [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [FYM](https://open.spotify.com/album/1hCULCwXYcFdaMpnUjQbO7) | 1:51 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDI0MTI5MDg0NzM2NTYyNjZmMjkwOGM0N2NmMTNiMWRl`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGFhODE3ZjVhNDc5NDU5NjQ0ZTU1NWFiOGY3MzBjNDEw`

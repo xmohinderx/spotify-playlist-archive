@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,750 likes - 75 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,908 likes - 75 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 25 | [Waterfalls](https://open.spotify.com/track/6qspW4YKycviDFjHBOaqUY) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Crazysexycool](https://open.spotify.com/album/5eg56dCpFn32neJak2vk0f) | 4:39 |
 | 26 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 |
 | 27 | [Feels Like Summer](https://open.spotify.com/track/7p4vHnYXkxlzvfePJVpcTr) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 4:57 |
-| 28 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 |
-| 29 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 28 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
+| 29 | [Rehab](https://open.spotify.com/track/3N4DI1vuTSX1tz7fa2NQZw) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:34 |
 | 30 | [In the Summertime](https://open.spotify.com/track/3RNyGLgSvmVRZ7xKUp8Wgd) | [Mungo Jerry](https://open.spotify.com/artist/2mbvqMGpwLsakeH45p1Jrb) | [In the Summertime](https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY) | 3:35 |
 | 31 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 |
 | 32 | [Good Vibrations \- Remastered 2001](https://open.spotify.com/track/5t9KYe0Fhd5cW6UYT4qP8f) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 45 | [Move on Up \- Single Edit](https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Move on Up](https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw) | 2:45 |
 | 46 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 47 | [Dreadlock Holiday](https://open.spotify.com/track/1LOZMYF5s8qhW7Rv4w2gun) | [10cc](https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5) | [Bloody Tourists](https://open.spotify.com/album/3MecVG0PeBObAhjwEAczFG) | 4:27 |
-| 48 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
-| 49 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 48 | [Jump Around \- 30 Years Remaster](https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq) | [House Of Pain](https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV) | [House of Pain \(Fine Malt Lyrics\) \[30 Years\] \[Deluxe Edition\]](https://open.spotify.com/album/1GYvmeraQXDxxSC9T3RDvM) | 3:38 |
+| 49 | [Baby, I Love Your Way](https://open.spotify.com/track/1Rvl8qsKJurfFTyWLBI9ib) | [Big Mountain](https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH), [Tom Lord\-Alge](https://open.spotify.com/artist/32ckuKo8LrZhQMyCehYKkt) | [The Best of Big Mountain](https://open.spotify.com/album/4QHFXQLRwZx5122InHluo5) | 4:09 |
 | 50 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 51 | [Low Rider](https://open.spotify.com/track/7Bz8yww6UMbTgTVLG6zbI4) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 3:10 |
 | 52 | [Cheerleader \- Felix Jaehn Remix Radio Edit](https://open.spotify.com/track/023OVLNzXhX0j7CxswUt6D) | [OMI](https://open.spotify.com/artist/5MouCg6ta7zAxsfMEbc1uh) | [Me 4 U](https://open.spotify.com/album/1QwWTLYn9dntAj7l9FRJwY) | 3:00 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 62 | [Club Tropicana](https://open.spotify.com/track/6tASfEUyB7lE2r6DLzURji) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [Fantastic](https://open.spotify.com/album/6vihnceXTNegYbpurc6qkR) | 4:25 |
 | 63 | [Forget Me Nots \- Remastered](https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight From The Heart](https://open.spotify.com/album/1y2MGKwD1ap3FxPc4ii6QO) | 4:44 |
 | 64 | [California Soul](https://open.spotify.com/track/0OwvrdjaJOypNsNQHyBWE5) | [Marlena Shaw](https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w) | [The Spice Of Life](https://open.spotify.com/album/6TRHI63AVabVkLPou2biv8) | 2:57 |
-| 65 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
-| 66 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 65 | [Rock the Boat](https://open.spotify.com/track/7fu3Tv5rcoGD1PZV7s57WW) | [Hues Corporation](https://open.spotify.com/artist/6PpGPIrFf3LM7Q77eR4Bts) | [Freedom for the Stallion \(Expanded Edition\)](https://open.spotify.com/album/3hXP4r93CpigdFy4BiwaqH) | 3:22 |
+| 66 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 67 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 |
 | 68 | [Night Nurse](https://open.spotify.com/track/4DQttwipnILl88cru3BRZx) | [Gregory Isaacs](https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc) | [Night Nurse \(Expanded Edition\)](https://open.spotify.com/album/2HEXjNNUSOwBmhyaEXG5yx) | 4:09 |
 | 69 | [Groove Is in the Heart](https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb) | [Deee\-Lite](https://open.spotify.com/artist/4eQJIXFEujzhTVVS1gIfu5) | [World Clique](https://open.spotify.com/album/4sTAgYLZy5zwqR3kT1g0oh) | 3:51 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 74 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 75 | [A Little Less Conversation \- JXL Radio Edit Remix](https://open.spotify.com/track/3j4viUIDSuB4xfYYlp3Lpa) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [JXL](https://open.spotify.com/artist/2GyakhIO8twSgCnUFfCzTN) | [Elvis 30 \#1 Hits \(Expanded Edition\)](https://open.spotify.com/album/0uJJdEZ8sRLNPoKEkjvqTD) | 3:33 |
 
-Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMDQxYjRhMzlmY2ZlZDY5YmExNzljNjI5NWU0ZTFiNDE1`
+Snapshot ID: `MTY1NzI5NTM5MCwwMDAwMDAwMDdhNTliMmUzZmUwMWVhOTRhZDJjZGQ0OGE2MjU4YTMx`

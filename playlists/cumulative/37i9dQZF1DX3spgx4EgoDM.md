@@ -4,7 +4,7 @@
 
 > ¡El mejor condimento para tus comidas!
 
-255 songs - 15 hr 59 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
+256 songs - 16 hr 4 min - [published](https://open.spotify.com/playlist/4CkcBa2yg5PYM4HXnr0aPa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Como Te Lo Digo](https://open.spotify.com/track/37Bcsn18Ex3WrceRBgCqcF) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 2:32 | 2022-07-05 | 2022-07-29 |
 | [Como Una Novela](https://open.spotify.com/track/4KQ8pDFCIgWpT7TY1Uf8TN) | [Los Acosta](https://open.spotify.com/artist/1sxekzjeHJaqkZbpaaGR9x) | [Íconos 25 Éxitos](https://open.spotify.com/album/1VGK7K0RrIVCoTvrtupb71) | 3:44 | 2022-07-05 | 2022-07-21 |
 | [Con la Misma Moneda](https://open.spotify.com/track/0ncWedWocNTyuIdoRyjNuR) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/3eXVFIPI0rkXYaLg68wwm7) | 4:26 | 2022-07-05 | 2022-07-29 |
+| [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 | 2022-08-12 |  |
 | [Corazón Solitario](https://open.spotify.com/track/7pxs0seevgCsp3h23lUGBw) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI) | 4:03 | 2022-07-05 | 2022-07-23 |
 | [Corazón Solitario](https://open.spotify.com/track/7f7ChKewJr4Mjm8rDl53iP) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guarachando](https://open.spotify.com/album/5uHNavgy4yM4orwoEBWMjO) | 4:04 | 2022-07-05 |  |
 | [Cuando quieras](https://open.spotify.com/track/6lEk7bnyxoABOownxhgi6O) | [Guachupé](https://open.spotify.com/artist/1IbUoO6fomi5BxFk5X6n1K) | [La triste realidad](https://open.spotify.com/album/4t80y5mnOIGldbjMqDxfrN) | 3:53 | 2022-07-05 | 2022-07-22 |
@@ -254,7 +255,7 @@
 | [Vienes y Te Vas](https://open.spotify.com/track/0sVeyTEVECTBiBdx9u7VUj) | [Los Askis](https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi) | [Con la Fuerza de un Volcán](https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y) | 3:48 | 2022-07-05 |  |
 | [Vienes y Te Vas \- En Vivo](https://open.spotify.com/track/6TjT0xHmKOq0ucSuh96SKa) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Inimitable](https://open.spotify.com/album/5EzSSOaUdXxqsf4iniszNU) | 4:14 | 2022-07-05 |  |
 | [Vuelvo A Sentir](https://open.spotify.com/track/7mjrsSbmQfubagRLXUTVWR) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/3G1iT3WpIqCqUOtkbVF1d6) | 5:26 | 2022-07-05 | 2022-07-24 |
-| [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 | 2022-07-05 |  |
+| [Vuelvo A Sentir](https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7) | [Hasta El Cielo Lloro](https://open.spotify.com/album/1EUGz53vDq644pH9x97RqT) | 5:27 | 2022-07-05 | 2022-08-17 |
 | [Y la Hice Llorar](https://open.spotify.com/track/7Aul3N0gviz9Q0gXAcGKf8) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Y la Hice Llorar](https://open.spotify.com/album/6E8wHparIMGYhYEUQbM5GK) | 3:17 | 2022-07-05 | 2022-07-29 |
 | [Y Qué Pasó...?](https://open.spotify.com/track/2yVGDR9w1srAuQAuUjEShj) | [Jordan](https://open.spotify.com/artist/4wO1Ld1CKjm4vFMNUn7E7k) | [Y Qué Pasó...?](https://open.spotify.com/album/7EqQOkGNKYxdqRzEYzYk8X) | 4:13 | 2022-07-05 | 2022-07-28 |
 | [Ya Te Olvidé](https://open.spotify.com/track/0Q1xQLuG7ztqA0FdojOCPj) | [Luis Lambis](https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5) | [Fiesta a la Colombiana](https://open.spotify.com/album/6wzhyHGZzcm4lYhDikPDLc) | 3:41 | 2022-07-05 | 2022-07-28 |

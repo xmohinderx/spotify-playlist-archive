@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 
 > Small Island artists taking over the world!
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,078 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,268 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 18 | [Angel](https://open.spotify.com/track/7FDV5ELOJHCGLe52AnttEd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Rayvon](https://open.spotify.com/artist/4hB4SmzreXMTGWYj7KQ7QN) | [Hot Shot](https://open.spotify.com/album/3MT88SSyxQGbqYXj4LVk3b) | 3:55 |
 | 19 | [Impossible](https://open.spotify.com/track/1T8PwF3JhIiWwBhun23RNe) | [Shontelle](https://open.spotify.com/artist/4M6Z1wubeKtwPqbjJygTOc) | [No Gravity](https://open.spotify.com/album/2keR8rEBTmRLpDKxWaoBDc) | 3:46 |
 | 20 | [Taste \(feat\. Offset\)](https://open.spotify.com/track/2toVe5hfuIi97ytDPDbQFt) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 3:49 |
-| 21 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
+| 21 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
 | 22 | [Is This Love](https://open.spotify.com/track/6JRLFiX9NJSoRRKxowlBYr) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Kaya](https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a) | 3:52 |
-| 23 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 |
+| 23 | [Daddy Cool](https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Take The Heat Off Me](https://open.spotify.com/album/1KQUrny9y5zGpktF6hAGd4) | 3:28 |
 | 24 | [Ready or Not](https://open.spotify.com/track/3vZO25GdYuqFrR1kzZADnp) | [Fugees](https://open.spotify.com/artist/2WKdxPFRD7IqZvlIAvhMgY), [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe), [Pras](https://open.spotify.com/artist/0kJMPTXq7h3ztpDukSx5iD) | [The Score \(Expanded Edition\)](https://open.spotify.com/album/18XFe4CPBgVezXkxZP6rTb) | 3:46 |
 | 25 | [BELIEVE IT](https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV), [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [PARTYMOBILE](https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7) | 3:03 |
 | 26 | [16 Shots](https://open.spotify.com/track/2169IKAivSUUFGcedGASXc) | [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [16 Shots](https://open.spotify.com/album/7fhtLker4wksK42E4hyhxK) | 3:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9MrAJRR2Zxk.md) - [plain]
 | 47 | [Baby Boy \(feat\. Sean Paul\)](https://open.spotify.com/track/4WY3HyGXsWqjFRCVD6gnTe) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dangerously In Love](https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf) | 4:04 |
 | 48 | [Whatta Man](https://open.spotify.com/track/7sJN693sYKEIEMu7fc5VnJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ), [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 5:08 |
 | 49 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
-| 50 | [Shen Yeng Anthem](https://open.spotify.com/track/4lqqbSHGGR5BRtnmnky00G) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Shen Yeng Anthem](https://open.spotify.com/album/5ITcrOlnxhUg2uvlGNPJhT) | 2:21 |
+| 50 | [Pour It Up](https://open.spotify.com/track/76VtA90NKurNqaQpV126Ue) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2) | 2:41 |
 
-Snapshot ID: `MTYzNTExMjI5NSwwMDAwMDAwMGM5M2Y0ZGE1ZWFhOWNjZGViMWI2YzU5ZWE5MDMwN2Qz`
+Snapshot ID: `MTYzNTExMjI5NSwwMDAwMDAwMDgyNWY0ZjIyZjljOTVhMTI1Nzg0MjY0MWQ4N2I0MDU5`

@@ -4,7 +4,7 @@
 
 > Lo más fresco de la cosecha 2022\. Grupo Clasificado en portada.
 
-97 songs - 4 hr 51 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
+98 songs - 4 hr 54 min - [published](https://open.spotify.com/playlist/3NcL9qMtEpCLAYx2RQtV9b)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 |  |
 | [Bola De Envidiosos](https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Bola De Envidiosos](https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ) | 2:23 | 2022-08-05 |  |
 | [Cabron Por Oficio](https://open.spotify.com/track/1yNucywyY5vd7jfOFpVnOp) | [Grupo Nueva Liga](https://open.spotify.com/artist/0iVRaTxHkNNvEaY1SOD8dk) | [Cabron Por Oficio](https://open.spotify.com/album/2vo3gYBbi9MjmI8sPkDq5T) | 2:42 | 2022-07-22 |  |
-| [Candido Rodriguez](https://open.spotify.com/track/5A2kYeFpuoxA9mZFUPy6vg) | [El Bandolero “Meño Sanchez”](https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi) | [Candido Rodriguez](https://open.spotify.com/album/0OeaRzTPBC3lKSTAB8pW3D) | 4:24 | 2022-07-15 |  |
+| [Candido Rodriguez](https://open.spotify.com/track/5A2kYeFpuoxA9mZFUPy6vg) | [El Bandolero “Meño Sanchez”](https://open.spotify.com/artist/1XMtJ87SixVfw7rWRBaxEi) | [Candido Rodriguez](https://open.spotify.com/album/0OeaRzTPBC3lKSTAB8pW3D) | 4:24 | 2022-07-15 | 2022-08-17 |
 | [Cañaveral Del Diablo](https://open.spotify.com/track/18opYT0k5q8tFgNv9bmmrD) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Cañaveral Del Diablo](https://open.spotify.com/album/40tloGo7UZj88eXhiSBr6M) | 3:31 | 2022-07-29 |  |
 | [Comandante Tanque](https://open.spotify.com/track/7GvqXMe2okeXM5DVPluGvf) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Javier Rosas Y Su Artillería Pesada](https://open.spotify.com/artist/5FAAR1LqXQp0HbgVfQ8ZWE) | [Comandante Tanque](https://open.spotify.com/album/5Wpsb0hX19nyz3ygUd6YHX) | 3:26 | 2022-07-15 |  |
 | [Cuidando La Capi](https://open.spotify.com/track/2KoM8pyhfITi9axbXnWL0V) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j) | [Cuidando La Capi](https://open.spotify.com/album/3natmHkWWVKqeiNxKGTKo6) | 2:11 | 2022-07-15 |  |
@@ -96,6 +96,7 @@
 | [Serafín Zambada](https://open.spotify.com/track/2Qh9GkEx3EnFd7v8QzaFjW) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Serafín Zambada](https://open.spotify.com/album/6vHtXla1mECDpZS3ONUwvf) | 2:08 | 2022-07-15 |  |
 | [Señor Miedo](https://open.spotify.com/track/1FnswOpXkrROzW2mFCF1BE) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Señor Miedo](https://open.spotify.com/album/7prCMJKiHc8r3WOS82bZVJ) | 2:52 | 2022-07-15 |  |
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-07-15 |  |
+| [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-08-16 |  |
 | [Soldado Blanco \(En Vivo\)](https://open.spotify.com/track/49CVR06FIZw0HZhcPjR5h8) | [Los Juniors De Mexicali](https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou) | [Soldado Blanco \(En Vivo\)](https://open.spotify.com/album/1VW9TOumjnekxktKrVWoDo) | 2:58 | 2022-07-22 |  |
 | [Soy Benjamín](https://open.spotify.com/track/3Eww1aMYpf5WvMrJ0crEQO) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Soy Benjamín](https://open.spotify.com/album/6H04g945EUqDXyNUOeRqHd) | 3:00 | 2022-08-05 |  |
 | [Suena la Banda en Mi Rancho](https://open.spotify.com/track/3BOcfKoCKzyMJ8sD5eecwV) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [La Gran Fiesta](https://open.spotify.com/album/3xveWUSzfgeKaTg6qUBNwq) | 2:47 | 2022-07-15 |  |

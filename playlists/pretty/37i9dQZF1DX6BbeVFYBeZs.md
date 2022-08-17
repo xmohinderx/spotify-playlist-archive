@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BbeVFYBeZs.md) - [plain]
 
 > The beautiful sound of the Spanish guitar to help you wind down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,529 likes - 123 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,655 likes - 123 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

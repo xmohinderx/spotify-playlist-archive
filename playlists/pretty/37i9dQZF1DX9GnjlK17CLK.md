@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 
 > Plugged in and cranked up; the hottest Blues records from an amplified era\. Cover: B.B\. King.
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,500 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,624 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 24 | [Albert's Shuffle](https://open.spotify.com/track/1eWZY9g8A7GAbBTfxMUy14) | [Al Kooper](https://open.spotify.com/artist/49JvZ17o0VaAmXaJv5kZlv) | [Al's Big Deal](https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn) | 6:54 |
 | 25 | [Voodoo Woman](https://open.spotify.com/track/0nko6BnrANIqS303Ynl53p) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Deluxe Edition](https://open.spotify.com/album/0Jvj3KAEiuS4bAFiPmiNFH) | 3:48 |
 | 26 | [Things I Used to Do](https://open.spotify.com/track/2YFfcJF038SQMtHUwOKO6P) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Both Sides of the Sky](https://open.spotify.com/album/0EfHWQeb3T1UJw9KrqN407) | 3:41 |
-| 27 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
-| 28 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
+| 27 | [I'm A King Bee](https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc) | [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R) | [King Of The Electric Blues](https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ) | 3:51 |
+| 28 | [Shame, Shame, Shame](https://open.spotify.com/track/2uRHKB4BYOF2A6a6PZXKE0) | [Jimmy Reed](https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV) | [The Very Best of Jimmy Reed](https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk) | 2:49 |
 | 29 | [It Hurts Me Too](https://open.spotify.com/track/7egQm3o9Qem3FhzUNi66rI) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Street Talkin'](https://open.spotify.com/album/1po8PLsiylhu2cuvR1Xw3L) | 3:20 |
-| 30 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
+| 30 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
 | 31 | [Red House](https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9) | [Jimi Hendrix](https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4) | [Blues](https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz) | 3:43 |
-| 32 | [Call It Stormy Monday](https://open.spotify.com/track/0v6tG0HoAHiluZAeany7oU) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o), [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1) | [In Session \(Remaster w/ eBooklet\)](https://open.spotify.com/album/62rUsLpP1lxJ1gJUiXJJI4) | 9:00 |
+| 32 | [Snatch It Back And Hold It](https://open.spotify.com/track/1Q6anBZ21FGcaHvR50d326) | [Junior Wells](https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK), [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Hoodoo Man Blues](https://open.spotify.com/album/6whq5Ok1wCTlrXRNyzDSJ4) | 2:54 |
 | 33 | [Blues Before Sunrise](https://open.spotify.com/track/18bSzFqEPn4A9d8AyzxI6g) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [From the Cradle](https://open.spotify.com/album/0im1aMw5Wf5PUOdRKVLU1w) | 2:57 |
 | 34 | [Dust My Broom](https://open.spotify.com/track/1mbD2setZsn2n4U6xs3Dxg) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:59 |
 | 35 | [Ice Pick](https://open.spotify.com/track/7z3wUQAFexFWpUaKZDktZr) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Ice Pickin'](https://open.spotify.com/album/7K0AX1jtXt1iLCtPLM3dab) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GnjlK17CLK.md) - [plain]
 | 49 | [Jelly Bread](https://open.spotify.com/track/2eaAUnd8AKIFD0RAfPiW3z) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2sSDqJOZ7gea3yMbqPUrhq) | 2:30 |
 | 50 | [Nine Below Zero](https://open.spotify.com/track/1OOgibj50nhRqNqUVQWuoi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [His Best](https://open.spotify.com/album/5u0ERVy1Cic5KiDnGpgMRj) | 3:27 |
 
-Snapshot ID: `MTY1NjY5NjQxMywwMDAwMDAwMDA5ZDg2Y2Q3MTc3ZTdiNzU4YTg1ODhiODdjZDNjYmI3`
+Snapshot ID: `MTY1NjY5NjQxMywwMDAwMDAwMGM4ZTIxNDliNDNkNmNkMGQ4MmRiNGI5ZTZkZWE5Njg5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > New Hip\-Hop from independent artists & labels every Wednesday\. Cover: Ben Reilly
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,886 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,905 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

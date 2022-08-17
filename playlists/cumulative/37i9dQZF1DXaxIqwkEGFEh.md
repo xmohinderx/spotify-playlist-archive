@@ -4,7 +4,7 @@
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-426 songs - 19 hr 55 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
+427 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/3r6cVrxrflkSADgDVjasQD)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,8 @@
 | [Bestie](https://open.spotify.com/track/6r9xnueU24r4eoG3HXC87E) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [BETTER THAN YOU](https://open.spotify.com/album/1X4W9ApaYSS9ZsmUhIVDD3) | 1:51 | 2022-04-15 | 2022-05-14 |
 | [Big Biznezz](https://open.spotify.com/track/7wDBHljtDnxAaxVITpCKgB) | [Slimelife Shawty](https://open.spotify.com/artist/09XX4vGibhdivyKlxP8MRf) | [Big Biznezz](https://open.spotify.com/album/4hukvvTtxPGBNqFZBopIP0) | 3:04 | 2022-04-22 | 2022-04-29 |
 | [Big Money](https://open.spotify.com/track/6QueNJeQGIW8qZoHqCF7un) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7) | [Big Money](https://open.spotify.com/album/76fs9BkDU369ScWTlWaTt4) | 2:41 | 2022-06-10 | 2022-07-09 |
-| [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 | 2022-08-12 |  |
+| [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 | 2022-08-12 | 2022-08-17 |
+| [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc) | 2:03 | 2022-08-12 |  |
 | [Blood](https://open.spotify.com/track/7HxF1E8NUO3eugSGCmojmd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood](https://open.spotify.com/album/2SXFIYJDKP01UIcs8AFT9t) | 2:34 | 2022-07-29 | 2022-08-13 |
 | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/track/2DdpOlqObnMU1IcMGLp0nk) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5), [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Blood All On it \(feat\. Key Glock, Young Dolph\)](https://open.spotify.com/album/04IEdmPMiMvzWtBXdiOGGa) | 3:54 | 2022-04-04 | 2022-07-30 |
 | [Blue Chills](https://open.spotify.com/track/1jPI3QS7aUtAVvj6q0qQiQ) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Montega](https://open.spotify.com/album/3taQKiU8CkZT1UEgy6NqO9) | 2:51 | 2022-06-17 | 2022-06-25 |

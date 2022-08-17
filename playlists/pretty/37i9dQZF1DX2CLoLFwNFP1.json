@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 1555,
+  "num_followers": 1642,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMGRjMzQwYzg1MDBhMGY0MmE0OWM4M2I4YWRkYzNiMTZi",
+  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDJhNDAxYTg5OGVlMDk0MGRiNjg2OWJhMDBjMTU4YTYw",
   "tracks": [
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 244153,
       "name": "YOU KNOW",
       "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1535,42 +1535,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "DNA Remix",
         "url": "https://open.spotify.com/album/7BJ4UhVP36NLhjxgGcXhNA"
       },
@@ -1619,6 +1583,42 @@
       "duration_ms": 410964,
       "name": "DNA Remix",
       "url": "https://open.spotify.com/track/64m44h2nTKmBczXoDkbErt"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KRNFX",
-          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
-        }
-      ],
-      "duration_ms": 243593,
-      "name": "Limousine (Feat. KRNFX)",
-      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -1939,6 +1919,26 @@
       "duration_ms": 231360,
       "name": "FSU (feat. GASHI & Rich The Kid)",
       "url": "https://open.spotify.com/track/0nJnzVlIJV3vqckZ06PeaM"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KRNFX",
+          "url": "https://open.spotify.com/artist/00190FC20vIUv0wXpeTf8S"
+        }
+      ],
+      "duration_ms": 243593,
+      "name": "Limousine (Feat. KRNFX)",
+      "url": "https://open.spotify.com/track/2UVSOzDpUyZraoQ3Jf6lF6"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2043,6 +2043,26 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "DJ Wegun",
+          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
+        }
+      ],
+      "duration_ms": 224564,
+      "name": "ON IT",
+      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
         "name": "Birthday Gamble",
         "url": "https://open.spotify.com/album/2oSy345wiVnqgSEqPcTiOK"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 282279,
       "name": "Birthday - Remix",
       "url": "https://open.spotify.com/track/0IZTHjoG91DWjbH1gkUAEG"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "DJ Wegun",
-          "url": "https://open.spotify.com/artist/7p552gLGzaDKXB5sETgTEP"
-        }
-      ],
-      "duration_ms": 224564,
-      "name": "ON IT",
-      "url": "https://open.spotify.com/track/7itI01MnLETtK0rn2JR7o8"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2119,30 +2119,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "Nothing Matters",
-        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        },
-        {
-          "name": "YUMDDA",
-          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
-        }
-      ],
-      "duration_ms": 219088,
-      "name": "All Day (Flex) [Prod. by OkayJJack]",
-      "url": "https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
@@ -2171,6 +2147,30 @@
       "duration_ms": 256642,
       "name": "In This B*tch",
       "url": "https://open.spotify.com/track/5Dy4Aj5VdMdHElLSXLhWLZ"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "Nothing Matters",
+        "url": "https://open.spotify.com/album/04CIIYIudc1AOT3zK74eOn"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        },
+        {
+          "name": "YUMDDA",
+          "url": "https://open.spotify.com/artist/0su5mZ6qhvOUhz7ckEx8rR"
+        }
+      ],
+      "duration_ms": 219088,
+      "name": "All Day (Flex) [Prod. by OkayJJack]",
+      "url": "https://open.spotify.com/track/5FbiD78OtBrsaX8KP5DmDP"
     },
     {
       "added_at": "2022-08-02 17:58:25",

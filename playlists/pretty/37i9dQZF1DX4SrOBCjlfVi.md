@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Nicki Minaj, Megan Thee Stallion, and more\. Cover: Rod Wave
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,220 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,364 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 3 | [Yungen \(feat\. Jack Harlow\)](https://open.spotify.com/track/1NtyeXryylf8HWXnxVTD3v) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:46 |
 | 4 | [Super Freaky Girl](https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Super Freaky Girl](https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ) | 2:50 |
 | 5 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 |
-| 6 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 |
+| 6 | [Q\-Pid](https://open.spotify.com/track/0DgSlDcWG9jRlFZOqRyD0L) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Q\-Pid](https://open.spotify.com/album/5yDJEZiJ35JKdPcEBEWiYz) | 2:11 |
 | 7 | [Sunshine](https://open.spotify.com/track/54NBD72JXFXzrodbQBSzWh) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Sunshine](https://open.spotify.com/album/3dkw0XggNMPs4koj5PtL6r) | 3:08 |
 | 8 | [Alone](https://open.spotify.com/track/1WZSTEcC48PcrQZliCZj2y) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Alone](https://open.spotify.com/album/3PYk89I5WHZTLJhc1cWFS3) | 3:11 |
 | 9 | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/track/5IVPl9SbDAe28LCRHBNpBa) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Community D\*\*k \(feat\. Flo Milli\)](https://open.spotify.com/album/7CpjNiYREFDviV1IpdoSfq) | 3:10 |
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 15 | [Love Is Blind](https://open.spotify.com/track/0TaoUjbYZUEKK20zgy4bca) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Love Is Blind](https://open.spotify.com/album/2iYwgufcnqYehO9NXMqOdJ) | 2:37 |
 | 16 | [Unacceptable](https://open.spotify.com/track/0Yptvdo4iVZ42hz0m8rGng) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Unacceptable](https://open.spotify.com/album/79v3fsCuDJoEfpMJc6G7fI) | 3:06 |
 | 17 | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/track/3yzr99ZegC5AxFwjRHve2y) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2k in tha Soda \(feat\. LUCKI\)](https://open.spotify.com/album/4Td95iGAA6pFxLPDW64Oxt) | 1:59 |
-| 18 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/0MWi4vxTO3Plx6zAQeLd6H) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 3:23 |
+| 18 | [O.P.P\. \(Feat\. YoungBoy Never Broke Again\)](https://open.spotify.com/track/5mFnwTaIJdVdGEonl4IS4R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 3:23 |
 | 19 | [Up](https://open.spotify.com/track/7wcmdOAtyLQxIs2d6h08YC) | [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF) | [Up](https://open.spotify.com/album/2rhZNMom0WgyCfamtuvsKZ) | 2:26 |
 | 20 | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/track/3QrNVAhmulzykPkJmn5Zo7) | [Trapland Pat](https://open.spotify.com/artist/6qvfzsfzCPEpVfY2EuqUQZ), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Big Business Remix \(feat\. Rick Ross\)](https://open.spotify.com/album/3bFPyM5Wq67BowbEwBfIwp) | 2:52 |
 | 21 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/track/3479IDKcKrsY7JDZjNXfHW) | [Madmarcc](https://open.spotify.com/artist/3o6rIhI1Ahunc62U1tx6tg), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slide \(Ft\. 21 Savage / Remix\)](https://open.spotify.com/album/2R8xL4YlMBUYBDqEyhX50g) | 2:35 |
 | 50 | [It's All on U](https://open.spotify.com/track/1OuEacOzBBWWPOGb7MgbZ3) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [It's All on U](https://open.spotify.com/album/5MrYY2sRfqeoSTi33xhLmy) | 2:46 |
 
-Snapshot ID: `MTY2MDYwMDMzNCwwMDAwMDAwMDAxYTZiZTNlZmY0MWEwNDE2YmQxOTI2YzBlMWE0NzAy`
+Snapshot ID: `MTY2MDYwMDMzNCwwMDAwMDAwMGU1ZmJkMmUyMTU0NGM2YmY0Yjk1NjgxM2UxZDBkMzQz`

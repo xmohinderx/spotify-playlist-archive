@@ -1,12 +1,12 @@
 {
   "description": "You say guilty, we say a delight!",
-  "num_followers": 3210597,
+  "num_followers": 3211436,
   "original_name": "Guilty Pleasures",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMTI0MCwwMDAwMDAwMDM1ZjE5MjAxOGM0NTUwNjA1MzkyOTExY2VhNzYyOWEx",
+  "snapshot_id": "MTY2MDMzMTI0MCwwMDAwMDAwMDg0MjYxOTZlNDA1NmY1YTYyODA4OGZhZWEyOWVjODA4",
   "tracks": [
     {
       "added_at": "2022-08-12 19:07:20",
@@ -407,22 +407,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 198800,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 235213,
       "name": "Hey Ya!",
       "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 198800,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Animal (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "TiK ToK",
-      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 167066,
       "name": "All The Small Things",
       "url": "https://open.spotify.com/track/2m1hi0nfMR9vdGC8UcrnwU"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Animal (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "TiK ToK",
+      "url": "https://open.spotify.com/track/0HPD5WQqrq7wPWR7P7Dw1i"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Voulez-Vous",
-        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
-      },
-      "artists": [
-        {
-          "name": "ABBA",
-          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
-        }
-      ],
-      "duration_ms": 260893,
-      "name": "Angeleyes",
-      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Don't Kill the Magic",
         "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 224840,
       "name": "Rude",
       "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Voulez-Vous",
+        "url": "https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh"
+      },
+      "artists": [
+        {
+          "name": "ABBA",
+          "url": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        }
+      ],
+      "duration_ms": 260893,
+      "name": "Angeleyes",
+      "url": "https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "The Foundation",
-        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
-      },
-      "artists": [
-        {
-          "name": "Zac Brown Band",
-          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
-        }
-      ],
-      "duration_ms": 238146,
-      "name": "Chicken Fried",
-      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Sweet Caroline",
         "url": "https://open.spotify.com/album/6RfgcwsOUlWkGNAd6zjjYd"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 203573,
       "name": "Sweet Caroline",
       "url": "https://open.spotify.com/track/62AuGbAkt8Ox2IrFFb8GKV"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "The Foundation",
+        "url": "https://open.spotify.com/album/08XFx1OZMZnRCh0JrKTIgT"
+      },
+      "artists": [
+        {
+          "name": "Zac Brown Band",
+          "url": "https://open.spotify.com/artist/6yJCxee7QumYr820xdIsjo"
+        }
+      ],
+      "duration_ms": 238146,
+      "name": "Chicken Fried",
+      "url": "https://open.spotify.com/track/0LQtEJt7x0s6knb6RKdRYc"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Oops!... I Did It Again",
-        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
-      },
-      "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        }
-      ],
-      "duration_ms": 211160,
-      "name": "Oops!...I Did It Again",
-      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Meet The Orphans",
         "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 198773,
       "name": "Danza Kuduro",
       "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Oops!... I Did It Again",
+        "url": "https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll"
+      },
+      "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        }
+      ],
+      "duration_ms": 211160,
+      "name": "Oops!...I Did It Again",
+      "url": "https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "The Very Best of Bonnie Tyler",
-        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Tyler",
-          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
-        }
-      ],
-      "duration_ms": 267360,
-      "name": "Total Eclipse of the Heart",
-      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "I Love Rock 'N' Roll (Expanded Edition)",
         "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 175173,
       "name": "I Love Rock 'N Roll",
       "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "The Very Best of Bonnie Tyler",
+        "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Tyler",
+          "url": "https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2"
+        }
+      ],
+      "duration_ms": 267360,
+      "name": "Total Eclipse of the Heart",
+      "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "The Time Of Our Lives",
-        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Party In The U.S.A.",
-      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Sixpence None the Richer",
         "url": "https://open.spotify.com/album/0PrcwzkQVEy4y6JPvT5bix"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "The Time Of Our Lives",
+        "url": "https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 202066,
+      "name": "Party In The U.S.A.",
+      "url": "https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "souljaboytellem.com",
-        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
-      },
-      "artists": [
-        {
-          "name": "Soulja Boy",
-          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "Crank That (Soulja Boy)",
-      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Third Eye Blind",
         "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
       },
@@ -1487,6 +1471,22 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
+        "name": "souljaboytellem.com",
+        "url": "https://open.spotify.com/album/5wFQi4xOTXILQSKQr0Ft8s"
+      },
+      "artists": [
+        {
+          "name": "Soulja Boy",
+          "url": "https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "Crank That (Soulja Boy)",
+      "url": "https://open.spotify.com/track/66TRwr5uJwPt15mfFkzhbi"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
         "name": "The John Denver Collection, Vol 1: Take Me Home Country Roads",
         "url": "https://open.spotify.com/album/7M3cxHsH8qYoVtD50ABfvU"
       },
@@ -1499,6 +1499,22 @@
       "duration_ms": 197813,
       "name": "Take Me Home, Country Roads",
       "url": "https://open.spotify.com/track/1QbOvACeYanja5pbnJbAmk"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Grease (The Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
+      },
+      "artists": [
+        {
+          "name": "Olivia Newton-John",
+          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
+        }
+      ],
+      "duration_ms": 185360,
+      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
+      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
+        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
+      },
+      "artists": [
+        {
+          "name": "Idina Menzel",
+          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
+        }
+      ],
+      "duration_ms": 223840,
+      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
+      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -1563,38 +1595,6 @@
       "duration_ms": 243773,
       "name": "Eye of the Tiger",
       "url": "https://open.spotify.com/track/2HHtWyy5CgaQbC7XSoOb0e"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
-        "name": "Frozen (Original Motion Picture Soundtrack / Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7lZs5r4oQV2nutddffLrg0"
-      },
-      "artists": [
-        {
-          "name": "Idina Menzel",
-          "url": "https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR"
-        }
-      ],
-      "duration_ms": 223840,
-      "name": "Let It Go - From \"Frozen\"/Soundtrack Version",
-      "url": "https://open.spotify.com/track/0qcr5FMsEO85NAQjrlDRKo"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
-        "name": "Grease (The Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
-      },
-      "artists": [
-        {
-          "name": "Olivia Newton-John",
-          "url": "https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9"
-        }
-      ],
-      "duration_ms": 185360,
-      "name": "Hopelessly Devoted To You - From \u201cGrease\u201d",
-      "url": "https://open.spotify.com/track/5BUq9bdtsm3LWw5laJeJ4R"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1679,22 +1679,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Armageddon - The Album",
-        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
-      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Room For Squares",
         "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 249626,
       "name": "Your Body Is a Wonderland",
       "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Armageddon - The Album",
+        "url": "https://open.spotify.com/album/4f7HKjBnjpMsDBDTHYV890"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "I Don't Want to Miss a Thing - From \"Armageddon\" Soundtrack",
+      "url": "https://open.spotify.com/track/225xvV8r1yKMHErSWivnow"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
+        "name": "Wheatus",
+        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+      },
+      "artists": [
+        {
+          "name": "Wheatus",
+          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+        }
+      ],
+      "duration_ms": 241666,
+      "name": "Teenage Dirtbag",
+      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
         "name": "Whatever",
         "url": "https://open.spotify.com/album/0UkgnXc0w7qiRE2X086BdN"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 200466,
       "name": "Tonight Tonight",
       "url": "https://open.spotify.com/track/2i0AUcEnsDm3dsqLrFWUCq"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
-        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
-      },
-      "artists": [
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "Footloose",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1811,26 +1811,18 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Jealous Ones Still Envy (J.O.S.E)",
-        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
+        "name": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+        "url": "https://open.spotify.com/album/3uN87hwClF0hult2cxMbAW"
       },
       "artists": [
         {
-          "name": "Fat Joe",
-          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
-        },
-        {
-          "name": "Ja Rule",
-          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
-        },
-        {
-          "name": "Ashanti",
-          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
         }
       ],
-      "duration_ms": 267093,
-      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
-      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
+      "duration_ms": 220706,
+      "name": "Footloose",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -1851,18 +1843,26 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Wheatus",
-        "url": "https://open.spotify.com/album/3xmKWmqJFoXS22tePO3mgd"
+        "name": "Jealous Ones Still Envy (J.O.S.E)",
+        "url": "https://open.spotify.com/album/6vMgb2mih3pPiWUxF8VEdI"
       },
       "artists": [
         {
-          "name": "Wheatus",
-          "url": "https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu"
+          "name": "Fat Joe",
+          "url": "https://open.spotify.com/artist/3ScY9CQxNLQei8Umvpx5g6"
+        },
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
         }
       ],
-      "duration_ms": 241666,
-      "name": "Teenage Dirtbag",
-      "url": "https://open.spotify.com/track/25FTMokYEbEWHEdss5JLZS"
+      "duration_ms": 267093,
+      "name": "What's Luv? (feat. Ja-Rule & Ashanti)",
+      "url": "https://open.spotify.com/track/2mKouqwAIdQnMP43zxR89r"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Barefoot Blue Jean Night",
-        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
-      },
-      "artists": [
-        {
-          "name": "Jake Owen",
-          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Barefoot Blue Jean Night",
-      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "The Party Album!",
         "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 202583,
       "name": "Boom, Boom, Boom, Boom!!",
       "url": "https://open.spotify.com/track/5N6M8yDiMV32T6Rkzh8EbW"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Barefoot Blue Jean Night",
+        "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
+      },
+      "artists": [
+        {
+          "name": "Jake Owen",
+          "url": "https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Barefoot Blue Jean Night",
+      "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Falling into You",
-        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
-      },
-      "artists": [
-        {
-          "name": "C\u00e9line Dion",
-          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
-        }
-      ],
-      "duration_ms": 456866,
-      "name": "It's All Coming Back to Me Now",
-      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "In the Summertime",
         "url": "https://open.spotify.com/album/30UgyUTvmdYXNo7CeMabXY"
       },
@@ -2235,6 +2219,22 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
+        "name": "Falling into You",
+        "url": "https://open.spotify.com/album/2vk0n8aeQSO74VtQBbNDPR"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "duration_ms": 456866,
+      "name": "It's All Coming Back to Me Now",
+      "url": "https://open.spotify.com/track/5EQzuYfTZt7B2LqlvTF49l"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
         "name": "Finest",
         "url": "https://open.spotify.com/album/7hPq9fDWwXPo1tT0oi3XcM"
       },
@@ -2247,22 +2247,6 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
-        "name": "Middle Of Nowhere",
-        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
-      },
-      "artists": [
-        {
-          "name": "Hanson",
-          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
-        }
-      ],
-      "duration_ms": 268653,
-      "name": "MMMBop",
-      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -2295,6 +2279,22 @@
       "duration_ms": 197560,
       "name": "Miami",
       "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
+        "name": "Middle Of Nowhere",
+        "url": "https://open.spotify.com/album/3StpQT9Qd87FSeWeQAdg1h"
+      },
+      "artists": [
+        {
+          "name": "Hanson",
+          "url": "https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58"
+        }
+      ],
+      "duration_ms": 268653,
+      "name": "MMMBop",
+      "url": "https://open.spotify.com/track/0lnxrQAd9ZxbhBBe7d8FO8"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -2363,22 +2363,6 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
-      },
-      "artists": [
-        {
-          "name": "Haddaway",
-          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
-        }
-      ],
-      "duration_ms": 270373,
-      "name": "What Is Love - 7\" Mix",
-      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
-    },
-    {
-      "added_at": "2022-08-12 19:07:20",
-      "album": {
         "name": "Hands All Over",
         "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
       },
@@ -2399,18 +2383,18 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Everytime We Touch (Premium Edition)",
-        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/1LAx7yCVbGwskdnGDof8SC"
       },
       "artists": [
         {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+          "name": "Haddaway",
+          "url": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
         }
       ],
-      "duration_ms": 197124,
-      "name": "Everytime We Touch",
-      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
+      "duration_ms": 270373,
+      "name": "What Is Love - 7\" Mix",
+      "url": "https://open.spotify.com/track/2IHaGyfxNoFPLJnaEg4GTs"
     },
     {
       "added_at": "2022-08-12 19:07:20",
@@ -2463,6 +2447,22 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
+        "name": "Everytime We Touch (Premium Edition)",
+        "url": "https://open.spotify.com/album/2unbJ7dUr9mITQiMwWFqQD"
+      },
+      "artists": [
+        {
+          "name": "Cascada",
+          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Everytime We Touch",
+      "url": "https://open.spotify.com/track/5YJtMNWKe55yr49cyJgxva"
+    },
+    {
+      "added_at": "2022-08-12 19:07:20",
+      "album": {
         "name": "The Sign",
         "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
       },
@@ -2479,18 +2479,18 @@
     {
       "added_at": "2022-08-12 19:07:20",
       "album": {
-        "name": "Despicable Me 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3xU6u2UadKV6gHjlXdJvqZ"
+        "name": "Vanilla Ice Is Back! - Hip Hop Classics",
+        "url": "https://open.spotify.com/album/20O6lfaDAoMhUj5TAvVbb6"
       },
       "artists": [
         {
-          "name": "The Minions",
-          "url": "https://open.spotify.com/artist/3NVrWkcHOtmPbMSvgHmijZ"
+          "name": "Vanilla Ice",
+          "url": "https://open.spotify.com/artist/7GXXMm3DB1VswVcuGyInUd"
         }
       ],
-      "duration_ms": 98211,
-      "name": "I Swear",
-      "url": "https://open.spotify.com/track/4t9cpYT8AD3G2TGwSRQVDK"
+      "duration_ms": 254466,
+      "name": "Ice Ice Baby",
+      "url": "https://open.spotify.com/track/3XVozq1aeqsJwpXrEZrDJ9"
     }
   ],
   "unique_name": "Guilty Pleasures",

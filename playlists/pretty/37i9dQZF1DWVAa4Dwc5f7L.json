@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Hasta las 15! Monster merengue hits!",
-  "num_followers": 369488,
+  "num_followers": 369515,
   "original_name": "Merengue Mania",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjcwMTE2OCwwMDAwMDAwMGY1ODc3NTNlYjU0OGRjODkzNmYzMTk5ZjBhNDM1NmM1",
+  "snapshot_id": "MTY0MjcwMTE2OCwwMDAwMDAwMDMxYWUzMWI1MzY5NjM1YTk3OGE5NWUyZTNiMGI5MzA2",
   "tracks": [
     {
       "added_at": "2022-01-20 17:52:48",
@@ -87,6 +87,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 303106,
+      "name": "Tiburon",
+      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "PB.DB. The Mixtape",
         "url": "https://open.spotify.com/album/6aAnALBukLj6fVuwfnMkvc"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 224786,
       "name": "La Temperatura (feat. Eli Palacios)",
       "url": "https://open.spotify.com/track/03f28Kmu5AlIdKAfEJiI8F"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 303106,
-      "name": "Tiburon",
-      "url": "https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -407,18 +407,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
         }
       ],
-      "duration_ms": 233720,
-      "name": "T\u00fa",
-      "url": "https://open.spotify.com/track/6vcyxHrHyILjsaG8sTDnSh"
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -439,34 +439,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
       },
       "artists": [
         {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
         }
       ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Sandy & Papo MC",
-        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
-      },
-      "artists": [
-        {
-          "name": "Sandy & Papo",
-          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
-        }
-      ],
-      "duration_ms": 290226,
-      "name": "La Hora De Bailar",
-      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+      "duration_ms": 233720,
+      "name": "T\u00fa",
+      "url": "https://open.spotify.com/track/6vcyxHrHyILjsaG8sTDnSh"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -487,6 +471,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Sandy & Papo MC",
+        "url": "https://open.spotify.com/album/6W81jH29u4tqW0Yrvdhe88"
+      },
+      "artists": [
+        {
+          "name": "Sandy & Papo",
+          "url": "https://open.spotify.com/artist/5F8vogyroqA36mExBfM52B"
+        }
+      ],
+      "duration_ms": 290226,
+      "name": "La Hora De Bailar",
+      "url": "https://open.spotify.com/track/2bsW096eoys2fLL8YZAkLn"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0"
       },
@@ -503,18 +503,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
-        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+        "name": "Buscando Tus Besos",
+        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
       },
       "artists": [
         {
-          "name": "Juan Luis Guerra y 440",
-          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+          "name": "Rubby P\u00e9rez",
+          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
         }
       ],
-      "duration_ms": 248946,
-      "name": "Ay! Mujer",
-      "url": "https://open.spotify.com/track/5i4FLwWCYzv9Bk09e9XWxs"
+      "duration_ms": 235833,
+      "name": "Buscando Tus Besos",
+      "url": "https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -535,22 +535,6 @@
       "duration_ms": 226120,
       "name": "Pegadito Suavecito",
       "url": "https://open.spotify.com/track/7FFpxe3RMrRhG63dFtgRed"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Buscando Tus Besos",
-        "url": "https://open.spotify.com/album/1Dt4NG0wlRXIgSBwzxaFb0"
-      },
-      "artists": [
-        {
-          "name": "Rubby P\u00e9rez",
-          "url": "https://open.spotify.com/artist/2uYEU8bUQQ77Bk9HJJwxqx"
-        }
-      ],
-      "duration_ms": 235833,
-      "name": "Buscando Tus Besos",
-      "url": "https://open.spotify.com/track/0gUm5HRefV9nEevGrt9tB6"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -583,6 +567,22 @@
       "duration_ms": 215960,
       "name": "Ni\u00f1a Bonita - Remastered 2020",
       "url": "https://open.spotify.com/track/7gKs1zCe0oSzpBjNyvdMIP"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Mientras M\u00e1s Lo Pienso\u2026.T\u00fa",
+        "url": "https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra y 440",
+          "url": "https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "Ay! Mujer",
+      "url": "https://open.spotify.com/track/5i4FLwWCYzv9Bk09e9XWxs"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Puro Mambo",
-        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 261146,
-      "name": "Traigo Fuego",
-      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "10 De Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4se9bp1pffpDBHyzFWD4YV"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 275186,
       "name": "Patac\u00f3n Pisao",
       "url": "https://open.spotify.com/track/7J3rDUSA4vDHaqHPblboTU"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Puro Mambo",
+        "url": "https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 261146,
+      "name": "Traigo Fuego",
+      "url": "https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "El Virao",
-        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
+        "name": "Trancazos Bailables, Vol. 4",
+        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
       },
       "artists": [
         {
-          "name": "Los Cantantes",
-          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
+          "name": "Cuco Valoy",
+          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
         }
       ],
-      "duration_ms": 252826,
-      "name": "El Virao",
-      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
+      "duration_ms": 378533,
+      "name": "Frutos Del Carnaval",
+      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Trancazos Bailables, Vol. 4",
-        "url": "https://open.spotify.com/album/63U1jnXIx3yfezOGnUCW61"
+        "name": "El Virao",
+        "url": "https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P"
       },
       "artists": [
         {
-          "name": "Cuco Valoy",
-          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+          "name": "Los Cantantes",
+          "url": "https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh"
         }
       ],
-      "duration_ms": 378533,
-      "name": "Frutos Del Carnaval",
-      "url": "https://open.spotify.com/track/4uNsxCWSUEswepl4RP0689"
+      "duration_ms": 252826,
+      "name": "El Virao",
+      "url": "https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "In Da House",
+        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
+      },
+      "artists": [
+        {
+          "name": "Proyecto Uno",
+          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
+        }
+      ],
+      "duration_ms": 69066,
+      "name": "Proyecto Uno Is In Da House",
+      "url": "https://open.spotify.com/track/3h0jixWWiYZzUKrYPFSmYu"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Moriso\u00f1ando, Vol. 1",
         "url": "https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 230819,
       "name": "Another Night",
       "url": "https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "In Da House",
-        "url": "https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe"
-      },
-      "artists": [
-        {
-          "name": "Proyecto Uno",
-          "url": "https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu"
-        }
-      ],
-      "duration_ms": 69066,
-      "name": "Proyecto Uno Is In Da House",
-      "url": "https://open.spotify.com/track/3h0jixWWiYZzUKrYPFSmYu"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
+        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
+        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Una Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
         "name": "Merengue Party, Vol. 2",
         "url": "https://open.spotify.com/album/2ZWW5nUJ4QfnpXNBi259wO"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 302213,
       "name": "Dile",
       "url": "https://open.spotify.com/track/1pGgGsZLPNPwVAMZgi0cpL"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
-        "name": "Jn Music Group 40 A\u00f1os de Merengue Deluxe Edition, Vol. 2",
-        "url": "https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg"
-      },
-      "artists": [
-        {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Una Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
-        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
-      },
-      "artists": [
-        {
-          "name": "Rey Casas",
-          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
-        }
-      ],
-      "duration_ms": 148986,
-      "name": "El Costo De La Vida",
-      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
-    },
-    {
-      "added_at": "2022-01-20 17:52:48",
-      "album": {
         "name": "No Vale la Pena Sufrir (Pop Version)",
         "url": "https://open.spotify.com/album/6oCXgAq3JmEjDyz9XksiCW"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 165216,
       "name": "No Vale la Pena Sufrir - Pop Version",
       "url": "https://open.spotify.com/track/4f8zYSaFyVA3kd9Bdbk0kK"
+    },
+    {
+      "added_at": "2022-01-20 17:52:48",
+      "album": {
+        "name": "Juan Luis Guerra Y 440 (Versiones Instrumentales)",
+        "url": "https://open.spotify.com/album/6V0WSIfBhB36oheVJNXh1p"
+      },
+      "artists": [
+        {
+          "name": "Rey Casas",
+          "url": "https://open.spotify.com/artist/6oPOLmEagKe5lp1gedzGtk"
+        }
+      ],
+      "duration_ms": 148986,
+      "name": "El Costo De La Vida",
+      "url": "https://open.spotify.com/track/5BQtqpUWEWujNim7fS5T6h"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1547,8 +1547,8 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "Re-Haciendo La Historia-Los Exitos!",
-        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
+        "name": "La Hora De La Verdad",
+        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
       },
       "artists": [
         {
@@ -1556,9 +1556,9 @@
           "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
         }
       ],
-      "duration_ms": 297773,
-      "name": "Me Miras Y Te Miro",
-      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
+      "duration_ms": 234426,
+      "name": "Sandunga",
+      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
     },
     {
       "added_at": "2022-01-20 17:52:48",
@@ -1647,8 +1647,8 @@
     {
       "added_at": "2022-01-20 17:52:48",
       "album": {
-        "name": "La Hora De La Verdad",
-        "url": "https://open.spotify.com/album/2SaHN3k5arjkBxbT7KbGnB"
+        "name": "Re-Haciendo La Historia-Los Exitos!",
+        "url": "https://open.spotify.com/album/1AH3TAK0XmmgekWQ5eWK5a"
       },
       "artists": [
         {
@@ -1656,9 +1656,9 @@
           "url": "https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp"
         }
       ],
-      "duration_ms": 234426,
-      "name": "Sandunga",
-      "url": "https://open.spotify.com/track/3bTFEwpUW0KrFFWxzdy9CC"
+      "duration_ms": 297773,
+      "name": "Me Miras Y Te Miro",
+      "url": "https://open.spotify.com/track/0dNiTVbjCqIDPzCcHS5ZbS"
     }
   ],
   "unique_name": "Merengue Mania",

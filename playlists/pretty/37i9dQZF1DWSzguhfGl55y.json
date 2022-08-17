@@ -1,12 +1,12 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 569968,
+  "num_followers": 570116,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODM5MDczOCwwMDAwMDAwMDUyOWMwMjNlNDU3YWY0NmNhOTQxMTJmYjc2NTNjOTAy",
+  "snapshot_id": "MTY1ODM5MDczOCwwMDAwMDAwMDRmOGViMWRkY2IyMDA1MGM3ODQzOTFmYmRhOTgxMjRk",
   "tracks": [
     {
       "added_at": "2022-07-21 08:05:38",
@@ -71,22 +71,6 @@
     {
       "added_at": "2022-07-21 08:05:38",
       "album": {
-        "name": "0,9 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
-      },
-      "artists": [
-        {
-          "name": "SSIO",
-          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
-        }
-      ],
-      "duration_ms": 232434,
-      "name": "Nullkommaneun",
-      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
-    },
-    {
-      "added_at": "2022-07-21 08:05:38",
-      "album": {
         "name": "Krieg Und Frieden",
         "url": "https://open.spotify.com/album/73XaqJnXTtEF39anv29yrm"
       },
@@ -99,6 +83,22 @@
       "duration_ms": 206560,
       "name": "Die Eine 2005",
       "url": "https://open.spotify.com/track/3jd4ya9vCwExxTVOjPcqsf"
+    },
+    {
+      "added_at": "2022-07-21 08:05:38",
+      "album": {
+        "name": "0,9 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6tXpsYFPFHpbKXWpovbtFs"
+      },
+      "artists": [
+        {
+          "name": "SSIO",
+          "url": "https://open.spotify.com/artist/3IrUyDPQlQFcB5lMWhPml2"
+        }
+      ],
+      "duration_ms": 232434,
+      "name": "Nullkommaneun",
+      "url": "https://open.spotify.com/track/3cLXgIlvugVKpWBmO5v9oy"
     },
     {
       "added_at": "2022-07-21 08:05:38",
@@ -367,22 +367,18 @@
     {
       "added_at": "2022-07-21 08:05:38",
       "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
+        "name": "Hinterland",
+        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
       },
       "artists": [
         {
           "name": "Casper",
           "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
-        },
-        {
-          "name": "Marteria",
-          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 220706,
-      "name": "So perfekt",
-      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
+      "duration_ms": 299026,
+      "name": "Im Ascheregen",
+      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
     },
     {
       "added_at": "2022-07-21 08:05:38",
@@ -519,18 +515,22 @@
     {
       "added_at": "2022-07-21 08:05:38",
       "album": {
-        "name": "Hinterland",
-        "url": "https://open.spotify.com/album/6tAlnBBhfQ2JKgccEXox4p"
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
       "artists": [
         {
           "name": "Casper",
           "url": "https://open.spotify.com/artist/6UDhlW8uEVBBrqHS3RrKuv"
+        },
+        {
+          "name": "Marteria",
+          "url": "https://open.spotify.com/artist/3nDNDLcZuSto4k9u4AbcLB"
         }
       ],
-      "duration_ms": 299026,
-      "name": "Im Ascheregen",
-      "url": "https://open.spotify.com/track/22Mmr6bWntkodqm5CELKsm"
+      "duration_ms": 220706,
+      "name": "So perfekt",
+      "url": "https://open.spotify.com/track/2xWEfTSpapoxnmkeSb0hHf"
     },
     {
       "added_at": "2022-07-21 08:05:38",
@@ -679,6 +679,22 @@
     {
       "added_at": "2022-07-21 08:05:38",
       "album": {
+        "name": "Bossaura",
+        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
+      },
+      "artists": [
+        {
+          "name": "Kollegah",
+          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
+        }
+      ],
+      "duration_ms": 364720,
+      "name": "Bossaura",
+      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
+    },
+    {
+      "added_at": "2022-07-21 08:05:38",
+      "album": {
         "name": "Bitte ziehen sie durch",
         "url": "https://open.spotify.com/album/7DTkfgriE5mNBwC9CL2fWW"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 204000,
       "name": "Bon Voyage (feat. Nina)",
       "url": "https://open.spotify.com/track/4jaeRZRaBSlVkYAjWqrf7z"
-    },
-    {
-      "added_at": "2022-07-21 08:05:38",
-      "album": {
-        "name": "Bossaura",
-        "url": "https://open.spotify.com/album/6cgZ8W5U3q6B8qbps6zjFM"
-      },
-      "artists": [
-        {
-          "name": "Kollegah",
-          "url": "https://open.spotify.com/artist/6gto7HVNhu4ARE3P3g8Y5Y"
-        }
-      ],
-      "duration_ms": 364720,
-      "name": "Bossaura",
-      "url": "https://open.spotify.com/track/21lR6zXUkv1ijAxM6FjaTw"
     },
     {
       "added_at": "2022-07-21 08:05:38",

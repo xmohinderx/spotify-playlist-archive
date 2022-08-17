@@ -224,6 +224,28 @@
     },
     {
       "album": {
+        "name": "Diamante Negro",
+        "url": "https://open.spotify.com/album/5kxWakS53bUY1Ee3ZVMNo0"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206875,
+      "name": "Diamante Negro",
+      "url": "https://open.spotify.com/track/2Oiw6YkJgH8bEVR19YDdwL"
+    },
+    {
+      "album": {
         "name": "Dos Gotas De Agua",
         "url": "https://open.spotify.com/album/7yEy8rEkjEDUjb8xUHLt59"
       },
@@ -423,7 +445,7 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 191961,
       "name": "El Rengo del Gallo Giro",
       "url": "https://open.spotify.com/track/1BEaN9jtTbJ17WyVH2drnC"
@@ -459,7 +481,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 182466,
       "name": "Entre Perico y Perico",
       "url": "https://open.spotify.com/track/0FF49nUUfvxTmLEGvzO8wv"
@@ -665,7 +687,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 166112,
       "name": "La Feria de San Marcos",
       "url": "https://open.spotify.com/track/05WPffpVDzlgRIMtO1sJZe"
@@ -741,7 +763,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 192946,
       "name": "Le\u00f1a de Pirul",
       "url": "https://open.spotify.com/track/0s2Mt4jbI34GEYP2zq8Dq2"
@@ -871,7 +893,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 195893,
       "name": "Los Vergelitos",
       "url": "https://open.spotify.com/track/0Phhy3bUx7OcgJyacLbbAa"

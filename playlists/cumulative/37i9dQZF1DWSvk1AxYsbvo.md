@@ -4,7 +4,7 @@
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-123 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
+125 songs - 7 hr 23 min - [published](https://open.spotify.com/playlist/27DlrkUu7mHg49yKkX3G0c)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,7 +38,7 @@
 | [Falling In Love 너를 보네](https://open.spotify.com/track/61VCxojnsTkde1teMCMW0j) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R), [10cm](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [CAKE](https://open.spotify.com/album/7IiNYHOhWZaEUD10z1iGFP) | 3:28 | 2022-05-03 | 2022-07-29 |
 | [Galaxy](https://open.spotify.com/track/41O17Xo25mbbvay3AOHC8C) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [What Do I Call You \- The 4th Mini Album](https://open.spotify.com/album/70XJeDlFe1LmZo1lyFKyq3) | 3:46 | 2022-05-03 |  |
 | [Gargen](https://open.spotify.com/track/24JTr3fAXP5aas1NX6Wla8) | [Kim Jiwoo](https://open.spotify.com/artist/5VCISWkGAsjEvjQpIXAfgD) | [Memories of Summer](https://open.spotify.com/album/2wIpyWKUKna6nnLTV3AXST) | 3:04 | 2022-07-08 | 2022-07-28 |
-| [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 |  |
+| [Gently, By Your Side](https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ) | [Siwa](https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM) | [Gently, By Your Side](https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI) | 2:58 | 2022-05-03 | 2022-08-17 |
 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 | 2022-07-04 |  |
 | [Good Night](https://open.spotify.com/track/1CVcNHLd6oSMpI5zt8y15e) | [IMSEMO](https://open.spotify.com/artist/4I38WV2SqvVM1CMWnkQDbV) | [Take care](https://open.spotify.com/album/6i2kZTpsfw5b5xpFXLJ2WB) | 2:45 | 2022-05-03 | 2022-06-18 |
 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 | 2022-08-12 |  |
@@ -76,13 +76,14 @@
 | [neighborhood bookstore](https://open.spotify.com/track/2EKT56VMK218rRW6X2nEqY) | [Modern Darakbang](https://open.spotify.com/artist/5TuBqzdS4sdbYIj3tmbtOO) | [neighborhood bookstore](https://open.spotify.com/album/1uD7hkW3B5HUcVZYwV1PvS) | 4:46 | 2022-05-03 | 2022-07-23 |
 | [Night Swimming](https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78) | [sunwashere](https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx) | [Night Swimming](https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5) | 4:09 | 2022-07-08 |  |
 | [Notting Hill](https://open.spotify.com/track/5nuHas0chnay1eVNwpox1p) | [강동훈](https://open.spotify.com/artist/0MpKG6kiILpu3fku0uKeHz) | [Notting Hill](https://open.spotify.com/album/5mo4kRrvgpr13QAxNrkBn3) | 3:30 | 2022-05-03 | 2022-07-14 |
+| [Ocean \(feat\. Aden\)](https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV) | [Sumsher](https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm), [Aden](https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls) | [Ocean \(feat\. Aden\)](https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX) | 3:23 | 2022-08-12 |  |
 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 | 2022-06-18 |  |
 | [Oh I Know](https://open.spotify.com/track/4MCLG9DIQnysCNbMkfmE5V) | [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Oh I Know](https://open.spotify.com/album/4XLTja4mx8DMzHn8b2uMfp) | 3:42 | 2022-05-03 | 2022-07-29 |
 | [Olive](https://open.spotify.com/track/4npfaORHCIotPdE5pROSX8) | [Artinb](https://open.spotify.com/artist/5t7WiBzx4KeS4VZg9dZ6Kp) | [Olive](https://open.spotify.com/album/4OOcKhTPbVZtDdy2WKVVEE) | 2:09 | 2022-06-18 | 2022-07-29 |
 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 | 2022-05-03 | 2022-07-27 |
 | [Our love](https://open.spotify.com/track/4z5ym2rgXuOUKh7za9ktx2) | [CHOYEORAE](https://open.spotify.com/artist/0MVuyeZLOvw6KzkcO7pbqv) | [Our love](https://open.spotify.com/album/4fuN6kPyGZIDuSN1hQyqw5) | 2:56 | 2022-07-04 | 2022-07-09 |
 | [poet](https://open.spotify.com/track/0lwTmD4lQHQMzTaUiwuZAw) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 2:41 | 2022-05-03 | 2022-07-18 |
-| [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-05-03 |  |
+| [Quince Tree](https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu) | [Yozoh](https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7) | [Quince Tree](https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF) | 3:07 | 2022-05-03 | 2022-08-17 |
 | [Ritual](https://open.spotify.com/track/4prRyg18eZ0NiIeVLe6OQN) | [Kim Sawol](https://open.spotify.com/artist/08J6v4qHZz06ua0qAicWmE) | [Ritual](https://open.spotify.com/album/5NDZnHYEemHxdaJCSZDp9y) | 4:35 | 2022-06-13 | 2022-07-22 |
 | [River](https://open.spotify.com/track/5PIjg4JMTmXKDaSB2NHz7W) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [River](https://open.spotify.com/album/53WCVemmNJoLH2ptEs1csA) | 4:11 | 2022-07-04 | 2022-07-29 |
 | [River Flows In You](https://open.spotify.com/track/2V05KB0icP3LeekILjSqhR) | [Yoon Hansol](https://open.spotify.com/artist/0Mx0eyyqDGAN2VFvzuSOtR), [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [On you 1/2](https://open.spotify.com/album/4uq7CfGxIbppRq3wa2r0z4) | 4:14 | 2022-05-03 | 2022-07-27 |
@@ -94,6 +95,7 @@
 | [Smile Box](https://open.spotify.com/track/1X8U43qt6jQF3HMyAZB5SW) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:26 | 2022-05-03 | 2022-07-28 |
 | [Something Precious](https://open.spotify.com/track/7yoqiaAawHktS5Gao5rzLO) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5wEeXyJVwgTvVis9XPOs7Q) | 3:29 | 2022-05-03 |  |
 | [Something Special](https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:05 | 2022-06-18 |  |
+| [Sound Sleep \(feat\. Mabinc\)](https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#1](https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB) | 3:09 | 2022-08-12 |  |
 | [Star](https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 3:20 | 2022-06-18 |  |
 | [Starry Night 우리에게 쏟아지는 별들을 \(Feat\. 구원찬\)](https://open.spotify.com/track/53UMUbMpRvAUcRxPWu7pG5) | [WISUE](https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry), [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Eternal Moment 영원의 순간](https://open.spotify.com/album/69p5oOMnkB8bCOCom4tH36) | 3:39 | 2022-05-03 | 2022-07-29 |
 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 | 2022-08-09 |  |

@@ -7593,7 +7593,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 191076,
       "name": "Gemini",
       "url": "https://open.spotify.com/track/1krkdhVVnJWMVJPgsSod8H"
@@ -10655,7 +10655,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 173105,
       "name": "Immature",
       "url": "https://open.spotify.com/track/5Gp0BMl8A4obJTIpd0qWox"
@@ -12759,6 +12759,24 @@
       "duration_ms": 193560,
       "name": "Love On TV",
       "url": "https://open.spotify.com/track/70pzDL6WXCbT4RhW29TGgY"
+    },
+    {
+      "album": {
+        "name": "Love Quotes",
+        "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
+      },
+      "artists": [
+        {
+          "name": "Jenevieve",
+          "url": "https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195401,
+      "name": "Love Quotes",
+      "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
     },
     {
       "album": {
@@ -19611,6 +19629,24 @@
       "duration_ms": 229659,
       "name": "Summerland",
       "url": "https://open.spotify.com/track/0dN3cttUifpkm1Oja79zJr"
+    },
+    {
+      "album": {
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
+      },
+      "artists": [
+        {
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147539,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/5KZVbtDMFcurkynWsncKtr"
     },
     {
       "album": {

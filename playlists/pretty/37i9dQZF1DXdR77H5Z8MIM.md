@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 
 > Time to press play on these jaem jams from 2010 onwards! Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,410 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,553 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dynamite](https://open.spotify.com/track/5QDLhrAOJJdNAmCTJ8xMyW) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:19 |
 | 2 | [LOVE DIVE](https://open.spotify.com/track/0Q5VnK2DYzRyfqQRJuUtvi) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [LOVE DIVE](https://open.spotify.com/album/1AFVTHHm7kKoQ6Rgb25x3p) | 2:57 |
 | 3 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
-| 4 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
-| 5 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
+| 4 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 |
+| 5 | [ZOOM](https://open.spotify.com/track/4IaxDf2FixiQXq0mW7key9) | [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [ZOOM](https://open.spotify.com/album/57dUGxpMd89tEkY3ZVwfKz) | 2:54 |
 | 6 | [TOMBOY](https://open.spotify.com/track/0IGUXY4JbK18bu9oD4mPIm) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I NEVER DIE](https://open.spotify.com/album/1T2W9vDajFreUuycPDjUXk) | 2:54 |
 | 7 | [BTBT](https://open.spotify.com/track/7nthiiDfS9WHNHDMwmAz98) | [B.I](https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6), [Soulja Boy](https://open.spotify.com/artist/6GMYJwaziB4ekv1Y6wCDWS), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [BTBT](https://open.spotify.com/album/3KFvIKBPy0SciyKwrebvpO) | 3:39 |
 | 8 | [Butter](https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Proof](https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB) | 2:44 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 60 | [Lovesick Girls](https://open.spotify.com/track/4Ws314Ylb27BVsvlZOy30C) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [THE ALBUM](https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N) | 3:14 |
 | 61 | [Ready to love](https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 8th Mini Album 'Your Choice'](https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc) | 3:06 |
 | 62 | [9 and Three Quarters \(Run Away\)](https://open.spotify.com/track/1rqb2FCXVn2HNL1afJEnTr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Dream Chapter: MAGIC](https://open.spotify.com/album/7yDyRk7Wvvw7JM1kqV4tJf) | 3:31 |
-| 63 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 |
-| 64 | [MOMMAE](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 |
+| 63 | [MOMMAE](https://open.spotify.com/track/1LNlfvPQmB0cqYJQQskZ8x) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Ugly Duck](https://open.spotify.com/artist/0Qr4St9aCOLu41Nt5QZIz1) | [Worldwide](https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf) | 3:24 |
+| 64 | [instagram](https://open.spotify.com/track/6z1kLsntE7FuzKZHZWrXYN) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF) | [instagram](https://open.spotify.com/album/1wW2yfORAbOEfn2Et1q687) | 4:15 |
 | 65 | [러시안 룰렛 Russian Roulette](https://open.spotify.com/track/5HiSc2ZCGn8L3cH3qSwzBT) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Russian Roulette \- The 3rd Mini Album](https://open.spotify.com/album/6MNlcai3skKLKv5syzFwC3) | 3:31 |
 | 66 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 |
 | 67 | [Panorama](https://open.spotify.com/track/0CnpSTdL9l5vQM4YnzXtyo) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [One\-reeler / Act IV](https://open.spotify.com/album/3gfl9D7cMW3K87YiMbqsWK) | 3:42 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdR77H5Z8MIM.md) - [plain]
 | 69 | [Beautiful](https://open.spotify.com/track/6mzF8HvHdVrzJNd8M1uFCS) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Guardian \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/7iUiSK1dCxUTOFq6BWrreS) | 3:47 |
 | 70 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 
-Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMDNiOTQwNjA5ZjhlZDQ2ZWQ4NjFhOGMwMTViMDUwMTdj`
+Snapshot ID: `MTY2MDEwNDA3NywwMDAwMDAwMDJhNzVlZGYwMTk5Yzc4MTUyMTlhMmVmNjQ0MDE0NTI0`

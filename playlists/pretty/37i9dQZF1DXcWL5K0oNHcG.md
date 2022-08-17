@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: Knats Artwork: Joy Yamusangie
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,921 likes - 78 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,977 likes - 78 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/2ZLAPSgdMTOcovno5mGBZW?si=ilnXOEf6RyCGlkb\_LCZl6Q"> Jux </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 346,230 likes - 60 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,526 likes - 60 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,14 +38,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 28 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 29 | [Bounce](https://open.spotify.com/track/5dNifN92fKRGXWas8YQ80O) | [Lexsil](https://open.spotify.com/artist/6Hld2ORUmr5945JQVc3N5h), [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Bounce](https://open.spotify.com/album/1hvjC4J7XL2yLFg54fhKu4) | 3:21 |
 | 30 | [Baby Riddim](https://open.spotify.com/track/77eZIuMTB9HrQ86L4ljqEX) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Baby Riddim](https://open.spotify.com/album/6dCmbmHyfCQpmJGZW9Am3b) | 3:10 |
-| 31 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
-| 32 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
+| 31 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
+| 32 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 33 | [High](https://open.spotify.com/track/7l8VNas2HcqyvsvOSjXDQt) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [High](https://open.spotify.com/album/1aGAwIFTyyw5YlbspR0mq9) | 3:13 |
 | 34 | [Down Flat](https://open.spotify.com/track/0eqmxkeJHQs3mdOEFluYXB) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy) | [Down Flat](https://open.spotify.com/album/6eeaFgahrUj7bPRyLkPuAV) | 2:52 |
 | 35 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/0DTEFwaPFY812t6uUH5i7P) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Multitude](https://open.spotify.com/album/6EwTLRHMROD853Kv1lAMex) | 3:07 |
 | 36 | [kolomental](https://open.spotify.com/track/6lXOGwFzCglrPMtuysPIUo) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [kolomental](https://open.spotify.com/album/7AwHTlDo2cBTwONr0FNJXL) | 3:17 |
-| 37 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
-| 38 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
+| 37 | [10 Toes \(feat\. Omah Lay\)](https://open.spotify.com/track/7JVUJLsVXysVpSWChbnz9I) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [5 Star](https://open.spotify.com/album/32Ls6JAwVZTbiRIyZ2H0lt) | 2:57 |
+| 38 | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Sunday Service Choir](https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg) | [Stand Strong \(feat\. Sunday Service Choir\)](https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e) | 3:02 |
 | 39 | [woman](https://open.spotify.com/track/5v8Fxy6Zw8gOzi802lpDOt) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:48 |
 | 40 | [Legalize](https://open.spotify.com/track/1kd8fI9o55GNWvNOfzKcz5) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Legalize](https://open.spotify.com/album/1tEdcrmOZMzd3CACVkxvEV) | 2:26 |
 | 41 | [5 Star](https://open.spotify.com/track/5l6ZVWdSdot8a1FjPBiXvz) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [5 Star](https://open.spotify.com/album/7sL2HnpqLO8uAdV6YlHLl4) | 2:30 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 59 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 |
 | 60 | [One Woman](https://open.spotify.com/track/7BglTfVmbUUOCQUNof4RBF) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Catch Me If You Can](https://open.spotify.com/album/3b5r0ZryUlByiw2byA2IKn) | 2:40 |
 
-Snapshot ID: `MTY2MDI4MTgwNCwwMDAwMDAwMDEyM2VlY2MxMDU1OWU5MWIzODdiYTNlY2FkZWY5ODE0`
+Snapshot ID: `MTY2MDI4MTgwNCwwMDAwMDAwMDBmMDZjZDEzYjIzNDEyYTkzNDBlZTExMzUzYTVmYTc3`

@@ -4,7 +4,7 @@
 
 > Let these jazz tracks lull you to sleep.
 
-180 songs - 10 hr 30 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
+182 songs - 10 hr 36 min - [published](https://open.spotify.com/playlist/0Dm40xjOVgLrqCdWoo1pw0)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I'm in the Mood for Love](https://open.spotify.com/track/0KxJiWlCoNYTEFhvMxVl3D) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Yoga & Meditation: Piano Instrumentals for Mind and Body, Vol\. 3](https://open.spotify.com/album/7I7urbYtKezMDBNNAQp4Sk) | 2:14 | 2022-06-28 |  |
 | [I'm in the Mood for Love: I'm in the Mood for Love](https://open.spotify.com/track/6EZMZ5LIMiZZeSFcxU97xT) | [Edward Newton](https://open.spotify.com/artist/0vFsXMElRoDfx0dnLpBB3s) | [Cocktail Piano: A gentle, genteel accompaniment to your party](https://open.spotify.com/album/2ZtiolvP2GXkM646eiqi5F) | 2:15 | 2021-12-07 | 2022-07-29 |
 | [I'm Through With Love](https://open.spotify.com/track/25CN9OMqfs6XwG89bpeemt) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [I'm Through With Love](https://open.spotify.com/album/6TSLFqTXi6miKoCwg3kyAN) | 4:19 | 2021-12-07 | 2022-06-09 |
+| [I've Grown Accustomed to Her Face](https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq) | [Graydon Poole](https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37) | [I've Grown Accustomed to Her Face](https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ) | 2:39 | 2022-08-16 |  |
 | [If You Could See Me Now](https://open.spotify.com/track/53BeSVY0mpmucCIr0pDkPp) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [If You Could See Me Now](https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk) | 3:20 | 2021-12-07 |  |
 | [Imagination](https://open.spotify.com/track/4HL5vpC9UWTYIOQHC0HIAw) | [Grace Carey](https://open.spotify.com/artist/6r8iQcLJAEKpFGN0FSusEd) | [Imagination](https://open.spotify.com/album/5Dvk1QM3JT6HOiZRIx0xW4) | 5:03 | 2022-08-09 |  |
 | [In A Sentimental Mood](https://open.spotify.com/track/2RJQsdpr5CzWzRA8mYx1ur) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [In A Sentimental Mood](https://open.spotify.com/album/3t5hzRfv1qKoIgTRCh7Aan) | 2:52 | 2021-12-07 |  |
@@ -85,6 +86,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/0t4r5IuT6FzrNGEEpCJmf9) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [It Never Entered My Mind](https://open.spotify.com/album/1wyMm8UqtOocJahYqDXThd) | 4:46 | 2022-01-04 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2021-12-07 |  |
 | [je vivrai sans toi](https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 2:18 | 2021-12-07 | 2022-05-03 |
+| [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2022-08-16 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-28 |  |
 | [Lament](https://open.spotify.com/track/7psqOiW2f8t6rJO8DNyeCm) | [Bill Walton](https://open.spotify.com/artist/7fHixSSo2DvBypEXNKjgBl) | [Lament](https://open.spotify.com/album/6aerbGECcBi4QOcILX5koS) | 4:27 | 2021-12-07 |  |
 | [Last Summer](https://open.spotify.com/track/3ERr9IOEMrkEOLtyGWh4vX) | [Benjamine Hans](https://open.spotify.com/artist/7gEDhVsbRiapQyIVdBeoCr) | [Last Summer](https://open.spotify.com/album/0AnWKmlzLJbpm6K4FyMNT2) | 2:27 | 2021-12-07 |  |
@@ -144,7 +146,7 @@
 | [Sometime Ago](https://open.spotify.com/track/27tlCFs00O17IvQMpdyBRs) | [Edward France](https://open.spotify.com/artist/6rPvE9uUU2fm3TaL12b8Hp) | [Sometime Ago](https://open.spotify.com/album/4fKCHxdIRftSRH8A4uauwW) | 3:29 | 2022-08-09 |  |
 | [Somewhere Between](https://open.spotify.com/track/1Qiks2nkAG5WCpXgqclQ1f) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Somewhere Between](https://open.spotify.com/album/2C7bCiH5a0n9uQmfntiAF8) | 3:18 | 2022-06-28 |  |
 | [Somewhere Over The Rainbow](https://open.spotify.com/track/26o8OLSxA9CpGLXZEqwS0y) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Somewhere Over The Rainbow](https://open.spotify.com/album/27YuGP0WcZhOOkUchV5yaz) | 3:36 | 2021-12-07 |  |
-| [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2021-12-07 |  |
+| [sophisticated lady](https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d) | [Carla Moses](https://open.spotify.com/artist/1j2urkthF3dcGi8RVFlyuI) | [I Will Say Goodbye](https://open.spotify.com/album/7FLkgY12vVuv2fjVisxn7f) | 4:15 | 2021-12-07 | 2022-08-17 |
 | [Stairway to the Stars](https://open.spotify.com/track/3g0fAajWquZEairKQoYZ2z) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Stairway to the Stars](https://open.spotify.com/album/0JdR6CSFmhJRWt5uR8Xe8w) | 4:39 | 2021-12-07 |  |
 | [Stardust](https://open.spotify.com/track/4fX6BFRXtPC5knEwEIV4Zf) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [Stardust](https://open.spotify.com/album/6gFHzsqCH6ZJvGxHHnFeRL) | 5:03 | 2022-01-18 |  |
 | [Stars Fell On Alabama](https://open.spotify.com/track/509cZqCtvC6it9bKbuD0hP) | [Jacob Baron](https://open.spotify.com/artist/1b247H1F1igDlEYanjyJD2) | [Stars Fell On Alabama](https://open.spotify.com/album/0K9xMpUcX0Yg3HAcb1IDLO) | 4:21 | 2022-06-28 |  |
@@ -175,7 +177,7 @@
 | [Velvet Gloves & Spit](https://open.spotify.com/track/5AbvIJTlfp52S6b9WipNBC) | [Michael Wollny](https://open.spotify.com/artist/7MbjIv3XpMc2ciNcoWHFcS) | [Mondenkind](https://open.spotify.com/album/1s27PprVQ7RNFHxsWa6RhQ) | 2:43 | 2022-06-28 |  |
 | [Very Early](https://open.spotify.com/track/233mHTkvc7567uCXc7XsHR) | [Ottilie Lebau](https://open.spotify.com/artist/361nXBd8zOp4m6PB7Gjnie) | [Very Early](https://open.spotify.com/album/0Gdo0WpxqvA4s8UGxFO3Hf) | 2:10 | 2022-01-18 |  |
 | [Violets for Your Furs](https://open.spotify.com/track/4TQmSFLxAR8ffhfIh7c7xg) | [Jeanette Ives](https://open.spotify.com/artist/4lCw6AiRMMQqIGrJrUOZSO) | [Violets for Your Furs](https://open.spotify.com/album/6VNdeRbUZ82LobBqfTYypw) | 2:29 | 2022-08-09 |  |
-| [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-07 |  |
+| [We´ll Be Together Again](https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE) | [Bugge Wesseltoft](https://open.spotify.com/artist/4p35pLn1lRgqoVVsnqNZEK) | [Songs](https://open.spotify.com/album/5O6H1Ig47a51pxpxLyMc2v) | 5:05 | 2021-12-07 | 2022-08-17 |
 | [What a Difference a Day Makes](https://open.spotify.com/track/7q6N6Z5RCtFdFjZFzxQORo) | [Joel Goldberg](https://open.spotify.com/artist/16EJw0CNON2hdNWFcg2AMJ) | [What a Difference a Day Makes](https://open.spotify.com/album/1Ab7w12BMWh5QutkkLAxz2) | 2:07 | 2022-08-09 |  |
 | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/track/61pLCvDlCUFAIb7tNvV2Rb) | [Oliver Black](https://open.spotify.com/artist/65XIBHuMetyeCnP9YwZCS1) | [What Are You Doing For The Rest Of Your Life](https://open.spotify.com/album/78MpDn9r2KLpTNN8Lv8xBY) | 6:02 | 2022-04-01 |  |
 | [What's New](https://open.spotify.com/track/6iwsy9DLU29eDoQcvDDGaF) | [William Adams](https://open.spotify.com/artist/777n5UE3XVeaTgguSTisX9) | [What's New](https://open.spotify.com/album/1g6FzibZ0R7fthYIMaUVqE) | 4:31 | 2021-12-07 |  |

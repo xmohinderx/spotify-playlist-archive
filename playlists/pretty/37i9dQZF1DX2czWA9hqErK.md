@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 
 > Laid back sounds to see you through your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 406,401 likes - 80 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,428 likes - 80 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 18 | [NIGHTS LIKE THESE](https://open.spotify.com/track/33vZRjxJScapmRShRJq8I0) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Walk Me Home...](https://open.spotify.com/album/02J3tX2gpJqKArEzWsFYTz) | 2:52 |
 | 19 | [Pray](https://open.spotify.com/track/2gbRKKSyW7e7vAkyvrJkte) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Pray](https://open.spotify.com/album/0bIr7aFjLBuAkMbsUsWY3I) | 2:26 |
 | 20 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 21 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
-| 22 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
+| 21 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
+| 22 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
 | 23 | [Narcissist](https://open.spotify.com/track/23oYG6HAbahMQEtjk0M7GK) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Narcissist](https://open.spotify.com/album/4S2n167mDtS0sMPrHzcvGr) | 2:52 |
 | 24 | [chaotic](https://open.spotify.com/track/2bdqU7C4softKNcMYDFi96) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [chaotic](https://open.spotify.com/album/1nZmxiUXBgZZ82fy5A0yau) | 2:58 |
 | 25 | [Elliot's Song \- From "Euphoria" An HBO Original Series](https://open.spotify.com/track/7JIIY2oDPFkURYMCLJuzhe) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [Elliot's Song \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/67WBZwhfjfOQ5gnH8iXsQ8) | 2:30 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 50 | [If It's Not God](https://open.spotify.com/track/37ZPKicPyGq9FzMdlBx5HV) | [Maddie Zahm](https://open.spotify.com/artist/5dtPlx7yKOo7KdZGyrfFIq) | [If It's Not God](https://open.spotify.com/album/2tNcKGJQLMwvpTppUyGPGH) | 3:39 |
 | 51 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 |
 | 52 | [10 Summers](https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo) | [Ashley Singh](https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH) | [10 Summers](https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx) | 2:40 |
-| 53 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
-| 54 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 |
+| 53 | [When You Lose Someone](https://open.spotify.com/track/3ECh9S9MgoL9SrpZFh0Y5Z) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [When You Lose Someone](https://open.spotify.com/album/20l8unGyqrFecTjrSYgaSq) | 3:20 |
+| 54 | [Skeletons \(Lexi Needed a Break\)](https://open.spotify.com/track/2E8PpcxzMRAv2YdqRxg0jR) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 2:22 |
 | 55 | [Humble Quest](https://open.spotify.com/track/2kxytjpDPwjZGqVLH8eWkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Humble Quest](https://open.spotify.com/album/3BEDHGAd2zJh5dUL4dbmiw) | 3:24 |
 | 56 | [Scars](https://open.spotify.com/track/54u5CIDhcd3zBXi62gnFwA) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Scars](https://open.spotify.com/album/7KvLrCyO9gxRpks8p8PWB1) | 3:18 |
 | 57 | [Grace](https://open.spotify.com/track/0aJq40QZqvfGubgfKy5knk) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [Grace](https://open.spotify.com/album/44ei9ptYrZ8ys7aXPW6bF8) | 4:13 |
@@ -81,12 +81,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2czWA9hqErK.md) - [plain]
 | 71 | [Box of Regrets](https://open.spotify.com/track/242BGnQ7Mul1jcRYyyfWko) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Box of Regrets](https://open.spotify.com/album/5XEfquzJpbKmGMpFfSGk7V) | 3:16 |
 | 72 | [A Good Love, Pt\. 2](https://open.spotify.com/track/7I2PEItnKfXLY4JTDYlSGY) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi), [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [A Good Love, Pt\. 2](https://open.spotify.com/album/76CfuswZ7S6qJJSNQY5BPt) | 3:33 |
 | 73 | [Hero](https://open.spotify.com/track/5TMAescvs6Z6FlgQjfj3Vp) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Hero](https://open.spotify.com/album/7pFWRKpjaEFnX0gJSVQMIO) | 3:13 |
-| 74 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 |
-| 75 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 |
+| 74 | [Me & God](https://open.spotify.com/track/1WD6aPY8CH9ymhKFrySD5K) | [Luke Sital\-Singh](https://open.spotify.com/artist/3Lw97gGh8bp1MftsYmwJHG) | [Me & God](https://open.spotify.com/album/22q4KL4mUJzuUaUAPYM5Hv) | 2:55 |
+| 75 | [Radio](https://open.spotify.com/track/1tI1UeVe7L9TbNq0JyzvZw) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [She](https://open.spotify.com/album/4g9ow4ZxpF3sqM8VTPFvuq) | 2:54 |
 | 76 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 77 | [Alone](https://open.spotify.com/track/3p9IR7R9dVSdxRfkUfWg4n) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Alone](https://open.spotify.com/album/6Me1McNxaYDaiMgdw6hUF4) | 3:25 |
 | 78 | [Will We Ever Get This Right](https://open.spotify.com/track/7Ck7GSPoBIDwNwcas05Sz1) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Will We Ever Get This Right](https://open.spotify.com/album/7Lh2dKTPYPxdNjxjTn91tZ) | 2:41 |
 | 79 | [Dinner Table](https://open.spotify.com/track/1tB3qub1zWVNQHNBibsEhK) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Dinner Table](https://open.spotify.com/album/3vchonSakoZOHdblX8GZoj) | 3:29 |
 | 80 | [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 |
 
-Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMDhmYWMzZjJmZTg2ZDRlYTEyMzhlYmYwMzBlOGNjYzJh`
+Snapshot ID: `MTY1OTQ1NzIxNiwwMDAwMDAwMGI3NWMyMDU3N2UwYjJlNjMxZDM1ODEyYmViZGVmN2U1`

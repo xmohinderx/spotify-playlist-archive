@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 
 > The wave of U.S\. Latinos in Hip\-Hop\. Cover: Coyote
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,034 likes - 70 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,044 likes - 70 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 25 | [Down Bad](https://open.spotify.com/track/1OFNP3NY13l8r0VK1eRY1w) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Down Bad](https://open.spotify.com/album/64SQ4vk2JrvMd3fL62gPtf) | 2:33 |
 | 26 | [SPIDERCAT](https://open.spotify.com/track/5GIGqDAFJSF6sNS0bcgJh9) | [Speak](https://open.spotify.com/artist/6Ka6HfvQhsltXZAFT1bYbQ) | [SPIDERCAT](https://open.spotify.com/album/6ifUeYWmhKyZ4VsQdLcIer) | 1:42 |
 | 27 | [Wait a Minute](https://open.spotify.com/track/0rUAKtRrzkvUEHfFFtZxWq) | [CNG](https://open.spotify.com/artist/4zYi7nhOqLxJ9u2YE8Ysca) | [Wait a Minute](https://open.spotify.com/album/7FhdsaSae4V3Gs2xitqWWt) | 3:25 |
-| 28 | [Dead Homies](https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Dead Homies](https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY) | 2:52 |
+| 28 | [Life I Live](https://open.spotify.com/track/475IQZKm10iyevNov2C371) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 3:22 |
 | 29 | [I Ain't Gon Lie](https://open.spotify.com/track/7KFaMe479G4CSER4kU5jrf) | [J.I the Prince of N.Y](https://open.spotify.com/artist/2eqoJbzUGDwys5ENUkbT3h) | [I Ain't Gon Lie](https://open.spotify.com/album/7BaJI830X29OANOUcCCztZ) | 2:00 |
-| 30 | [Life I Live](https://open.spotify.com/track/475IQZKm10iyevNov2C371) | [Peysoh](https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC) | [Ghetto Journal](https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV) | 3:22 |
+| 30 | [Dead Homies](https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa) | [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Dead Homies](https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY) | 2:52 |
 | 31 | [Bag Talk](https://open.spotify.com/track/7zcFDW8HxWlL7abAPMko1d) | [Bravo the Bagchaser](https://open.spotify.com/artist/31t9hT68QYCDPWkkUVrQjY), [Fenix Flexin](https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb) | [Bag Talk](https://open.spotify.com/album/39Js0SBbu12ZEUFaHDGI2v) | 2:21 |
 | 32 | [Until the Day \- Remix](https://open.spotify.com/track/0Nrl6CH3oNL6QcnLOQlGVV) | [Alexcis](https://open.spotify.com/artist/2tDA2vvMMRpi5GZL0hzqqj), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Until the Day \(Remix\)](https://open.spotify.com/album/6U6Nt1f09c6lbtUGvbrqlW) | 4:50 |
 | 33 | [Survive](https://open.spotify.com/track/6JeyCrsUywsYqcjReSjyUW) | [Devour](https://open.spotify.com/artist/1rC6V966tijfNzIIIfATvG) | [Survive](https://open.spotify.com/album/70njJX3KGL7RClV9L7mHcw) | 2:34 |
@@ -59,16 +59,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 49 | [Hail Mary](https://open.spotify.com/track/6mkKjKPuGaNy2Iuf83R7EB) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Hail Mary](https://open.spotify.com/album/6Kmohibc5dxcxwafFlblLe) | 2:39 |
 | 50 | [The King](https://open.spotify.com/track/1euN0rIeFyQkY85BFnT7Rm) | [Bodega Bamz](https://open.spotify.com/artist/6tIgdyPfc6RVQJKCDd9ep9) | [El Camino](https://open.spotify.com/album/6xj392AMIzR0EzSekdHqxK) | 2:43 |
 | 51 | [Our Finale](https://open.spotify.com/track/4VEZ1AFDGOrXS9M480dS6u) | [xBValentine](https://open.spotify.com/artist/4THqvMsBc72amqxSB45LDu), [BELLA](https://open.spotify.com/artist/7DmOVfbnFeAOA3Fujc3Toe) | [Our Finale](https://open.spotify.com/album/2vH9bbemJEV0yEFYikceZB) | 2:57 |
-| 52 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 |
-| 53 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
+| 52 | [El Idolo](https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp) | [Doeman](https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F) | [El Idolo](https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn) | 2:08 |
+| 53 | [On My Diez](https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC) | [Feefa](https://open.spotify.com/artist/52EfcUQ2nkatuNSusz3v7C), [Frankie P](https://open.spotify.com/artist/6LQI3uEz03wvTZ2k7aV16v) | [On My Diez](https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U) | 2:35 |
 | 54 | [i'm Hot](https://open.spotify.com/track/3IpYHjNv8VuVxq1aOP4Aqe) | [J.I Bandz](https://open.spotify.com/artist/5uFHcYGhMBxkgjpBrWGpPK) | [i'm Hot](https://open.spotify.com/album/2pqazlndQ7KukNyjVCmmkF) | 2:08 |
 | 55 | [From The Gravel](https://open.spotify.com/track/1EWWs7U6CLe8vjeuat3SZa) | [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [From The Gravel](https://open.spotify.com/album/0WBrhO81a18zVvSYbCSbqo) | 1:57 |
 | 56 | [Trials n Tribulations](https://open.spotify.com/track/2EJnJySNUDX3p2ccqELrcg) | [Swifty Blue](https://open.spotify.com/artist/68CRxZTAqk19AznItZInip), [J.I Bandz](https://open.spotify.com/artist/1Va73d0HzoerHKH4f3Wz9n) | [Back Like I Never Left](https://open.spotify.com/album/433hz4oOBpEoHnJrkU4UQX) | 4:31 |
 | 57 | [SLIDIN](https://open.spotify.com/track/6E6LxZeukHfwhFHCRpNJhc) | [Omar Cruz](https://open.spotify.com/artist/3H3t7VTapFSSQRRWlp5m28), [GT Garza](https://open.spotify.com/artist/7tycJ8FDKH2GES20CnUa4D) | [SLIDIN](https://open.spotify.com/album/48t5QLjlg4ubsqWlJLDBsk) | 2:38 |
-| 58 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
-| 59 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
-| 60 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
-| 61 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
+| 58 | [Ain't Done](https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ) | [SpyBoii](https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4), [YeloHill](https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR) | [Ain't Done](https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0) | 2:51 |
+| 59 | [Bang](https://open.spotify.com/track/0WzLVl71WS4NKgZdNGwr5i) | [Chepo](https://open.spotify.com/artist/4vFox91m72aMkBPFGQYzHB), [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD), [Peso Peso](https://open.spotify.com/artist/4p3LCEBLJQyAxYedthAdTe) | [Bang](https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I) | 2:37 |
+| 60 | [Paid in Full](https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb) | [Ybe](https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz) | [Paid in Full](https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj) | 2:35 |
+| 61 | [Fuck The Yotes](https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx) | [Coyote](https://open.spotify.com/artist/2k3jiPRh7ucbD6OmVTi1BD) | [Fuck The Yotes](https://open.spotify.com/album/2Y99BDsQw0fKCJY5qjOndk) | 3:05 |
 | 62 | [get 2 know ya](https://open.spotify.com/track/7LKRH8gSBHXJ5qKvoLJCa3) | [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [sometimes i like 2 sing <3](https://open.spotify.com/album/5ZqZlDsGEgt7o36WceHiET) | 3:04 |
 | 63 | [Carta Para Dios](https://open.spotify.com/track/4Cu0FaKXRzg5elkpncWGaS) | [Juanillo Diaz](https://open.spotify.com/artist/43QAcxJuLK8pBo8yKn2Vgz) | [Vida Por Tinta](https://open.spotify.com/album/3dakaQnFPuHDiCzne70gEQ) | 4:13 |
 | 64 | [Summertime](https://open.spotify.com/track/75kw5VOsxjrl2KheLvYGyw) | [Lil Grifo](https://open.spotify.com/artist/6RRNtl4tqMCz2vXm33vdIk), [Lil Rob](https://open.spotify.com/artist/7B7TGqQe7QTVm2U6q8jzk1) | [Summertime](https://open.spotify.com/album/53T2GDWLFcSnbZ4SbP4quy) | 3:29 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14V0XKu8GA9.md) - [plain]
 | 69 | [London](https://open.spotify.com/track/4qXkllmd1rA0jWxtsPQqpW) | [DAISY SIMO](https://open.spotify.com/artist/7xBn4ObqYv4qP8X0Fb81dp) | [London](https://open.spotify.com/album/51NMcANUHXRMR4kOow3rbm) | 2:40 |
 | 70 | [Poppin](https://open.spotify.com/track/1CrTglTTE9oIA4uYoImCYG) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:47 |
 
-Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDM1MTdhODJhNWFkMDU4ZTJkMzNlODY5YjIzNjJiYWFm`
+Snapshot ID: `MTY1Nzg1NzYwMCwwMDAwMDAwMDNiZmEyNWEwYzZmNDdhMzhiN2Q3MDIyYzJiOTQ0MGFh`

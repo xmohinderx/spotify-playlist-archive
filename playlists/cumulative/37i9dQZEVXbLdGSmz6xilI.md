@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-529 songs - 1 day 7 hr 19 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
+530 songs - 1 day 7 hr 22 min - [published](https://open.spotify.com/playlist/4x1uC8jhgtQtpAWT5IgH18)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@
 | [Like \- Slow Jam Remix](https://open.spotify.com/track/5OXUwFDCnmT3eUWUYVRrk9) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Skool Luv Affair \(Special Addition\)](https://open.spotify.com/album/0pX41mddl0CZXxpxkQ7347) | 3:52 | 2022-03-02 | 2022-03-04 |
 | [Like This](https://open.spotify.com/track/4OXtP0DpAoBW5iqiWPqKd8) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq) | [Like This](https://open.spotify.com/album/7nGWgyDCDbNLpL00j0dIup) | 2:57 | 2022-01-10 | 2022-04-18 |
 | [LILAC](https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 3:34 | 2021-03-27 | 2021-04-10 |
-| [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-08-12 |  |
+| [Liệu Giờ](https://open.spotify.com/track/2EZtTS76x5M6hK96CLclPd) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Văn](https://open.spotify.com/artist/6BXLroL2A91OYnzzYOTDJv) | [Liệu Giờ](https://open.spotify.com/album/1aRGbHftmJqclyoYJT8q6c) | 4:18 | 2022-08-12 | 2022-08-17 |
 | [LOCO](https://open.spotify.com/track/59c0HrzmHfyQs6LgDw5cHe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/3Pr7XlWzWnX9enSVZXuPKh) | 3:11 | 2021-09-27 | 2021-10-08 |
 | [LOCO \- English Ver.](https://open.spotify.com/track/01QhKtUc12FGw2wX7dMYvv) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Crazy in Love](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-09-26 | 2021-09-27 |
 | [Look Here](https://open.spotify.com/track/0x4cMbCLC6L7aJQs3EiPaZ) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dark & Wild](https://open.spotify.com/album/35voVqYGkotyJ945O9egDY) | 3:38 | 2022-04-18 | 2022-04-21 |
@@ -326,6 +326,7 @@
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-10-17 |
 | [My Universe \- Instrumental](https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-29 |
 | [Mấy Khi](https://open.spotify.com/track/14Y6vaDKyaUzjoZT0VA6pB) | [Ngọt](https://open.spotify.com/artist/0V2DfUrZvBuUReS1LFo5ZI) | [Mấy Khi](https://open.spotify.com/album/49lLzMMt9lTfxAZN6a1my0) | 3:00 | 2022-03-31 | 2022-04-04 |
+| [Mặt Mộc](https://open.spotify.com/track/3dvkpe9FEekxxgaQtxOHQI) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [VAnh](https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo), [Ân Nhi](https://open.spotify.com/artist/7zwJ09FAPbh7EJYvwEAqDD), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Mặt Mộc](https://open.spotify.com/album/5Af8YESOWf6nK6BcLh3hkA) | 3:34 | 2022-08-16 |  |
 | [Một Chiều Mưa Bất Ngờ](https://open.spotify.com/track/6MCJdudhQY41K3IhluuNuq) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [RYO](https://open.spotify.com/artist/4Dgyc5PJLTM2GyfZGT2uzF) | [Một Chiều Mưa Bất Ngờ](https://open.spotify.com/album/6Xo6Lx2ysD161XaJshduoJ) | 4:10 | 2021-12-12 | 2021-12-25 |
 | [Một Cú Lừa](https://open.spotify.com/track/2LKI0fGEKR3RWAiY2jqq8k) | [Bich Phuong](https://open.spotify.com/artist/5fa13NJjmn2uQ3dxZDi2Ge) | [tâm trạng tan hơi chậm một chút](https://open.spotify.com/album/0JoA8Z6TWI31c6uWXldxyU) | 3:28 | 2021-03-27\* | 2021-04-02 |
 | [Một Khi Đã Yêu](https://open.spotify.com/track/0bTmdKwQ8xb0Xbvizt2GMy) | [K\-ICM](https://open.spotify.com/artist/6mD6SQbvl9pILx7SAHBzbq), [RYO](https://open.spotify.com/artist/4U3Ylwb4E4lcUQ1DdPPCrq) | [Một Khi Đã Yêu](https://open.spotify.com/album/29QPcwXjUJOnNRxcPfcidQ) | 4:43 | 2022-02-11 | 2022-03-23 |

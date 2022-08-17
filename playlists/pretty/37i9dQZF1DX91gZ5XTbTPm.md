@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,194 likes - 60 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,241 likes - 60 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 17 | [Stained Couch](https://open.spotify.com/track/3xF4oYMm5obes4vValfGvP) | [Bfb Da Packman](https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF) | [Stained Couch](https://open.spotify.com/album/05LCG5oAqLSv9KnUYZc03D) | 1:40 |
 | 18 | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/track/32DFtWSM5SpEAHcyzW3m0A) | [YungManny](https://open.spotify.com/artist/03T8GHHcCEtcfnjbP5aHLg), [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [MURDAMAN! \(feat\. Chief Keef\)](https://open.spotify.com/album/4MAiy2yUEGl1Pkx5arNtxO) | 3:42 |
 | 19 | [SET IT OFF \(feat\. G Herbo\)](https://open.spotify.com/track/7bS2y45GZ47gyQL1bbZkPW) | [Doe Boy](https://open.spotify.com/artist/6aLoJJxz7MV2iZ423S8tJC), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [CATCH ME IF YOU CAN](https://open.spotify.com/album/2wCRNE4T5Neq52FhgGB2kl) | 2:37 |
-| 20 | [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 |
+| 20 | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc) | 2:03 |
 | 21 | [The Commission](https://open.spotify.com/track/5Ao3zphwFOT0tNJLTJfPX6) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1), [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [Payroll Giovanni](https://open.spotify.com/artist/6q2peHL8h2vUGvWNbsIjii) | [The Commission](https://open.spotify.com/album/67qfz6pLu2dX0jfCQY3AIp) | 2:33 |
 | 22 | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/track/6PF4penvueXSemUAILV3Bd) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [I Told Her \(feat\. G Herbo\)](https://open.spotify.com/album/1llYHboVMsUMORLIq5CssO) | 2:22 |
 | 23 | [Run With Me](https://open.spotify.com/track/78vxxtLHnQLXkeQ4NjHaOT) | [Baby Money](https://open.spotify.com/artist/1AMm82jgWgkDpczxW5DMjn) | [Run With Me](https://open.spotify.com/album/0HQ3pjn91dmM0TUbJljDZq) | 2:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX91gZ5XTbTPm.md) - [plain]
 | 59 | [ABOW](https://open.spotify.com/track/5KEpflyct0AqX7H7GVlQVj) | [Kash Doll](https://open.spotify.com/artist/3u579Gdap91lMptBSdXTpf), [Rubi Rose](https://open.spotify.com/artist/1DGAqC29aw0FpJCejAehVk), [DreamDoll](https://open.spotify.com/artist/1nsdnHv49z0H5oPj3sJ3to), [ShantiiP](https://open.spotify.com/artist/6LDmAUGAL9bDnQpu5dxBv5) | [ABOW](https://open.spotify.com/album/6ZfGwuyfS3jUQpZ2L0sx7b) | 2:14 |
 | 60 | [Forgive Me \(feat\. NoCap\)](https://open.spotify.com/track/1bKBEDDJ61aHiMkR9HLBTR) | [TOB Duke](https://open.spotify.com/artist/0swrkotfXHdeJNfkELoFkS), [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Time Will Tell](https://open.spotify.com/album/4Zrsu6hm5rkp0WFBdJbTCr) | 2:37 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGIxYzhkNmNjODRkNmNmMTgyMTI2MTRjNzI0ZTU5YzY0`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGVjZmVhZmJjYTRiODMzYWFhM2YxMDU4YWM4NzI0N2Qz`

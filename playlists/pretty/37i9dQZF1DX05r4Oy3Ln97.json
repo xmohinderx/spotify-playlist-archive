@@ -1,12 +1,12 @@
 {
   "description": "Dip your feet in the pool and enjoy this perfect summer house mix!",
-  "num_followers": 322703,
+  "num_followers": 323445,
   "original_name": "Summer House 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNjM1NiwwMDAwMDAwMDliNjY1Yzk5YTgxMDU4NGJhZmExYmZiZGVmY2M4MjJl",
+  "snapshot_id": "MTY2MDMwNjM1NiwwMDAwMDAwMDg3Nzg5MGZmMDNjNTcwYjZiZGM1NTI0MzAzMTgzMjhk",
   "tracks": [
     {
       "added_at": "2022-08-12 12:12:36",
@@ -67,7 +67,7 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
+        "name": "Never Really Loved Me (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
       "artists": [
@@ -81,7 +81,7 @@
         }
       ],
       "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
+      "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "TWOPILOTS",
+          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
+        }
+      ],
+      "duration_ms": 179428,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
         "name": "Diplo",
         "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
       },
@@ -399,26 +419,6 @@
       "duration_ms": 161053,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3hEPKX4FgfYPhBjSw1Nejq"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
-        "name": "Bloom",
-        "url": "https://open.spotify.com/album/1Po5dB5KhCrqfvg7ViH7aB"
-      },
-      "artists": [
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "TWOPILOTS",
-          "url": "https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B"
-        }
-      ],
-      "duration_ms": 179428,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/4hHvZD1pcvG8rxUkhau6Is"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -479,26 +479,6 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
-        "name": "Happy Music / Something on My Mind",
-        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 232625,
-      "name": "Happy Music",
-      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
         "name": "Now or Never",
         "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
       },
@@ -519,6 +499,26 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
+        "name": "Happy Music / Something on My Mind",
+        "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 232625,
+      "name": "Happy Music",
+      "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
         "name": "Pyramids",
         "url": "https://open.spotify.com/album/6fKnjZO8LRYLNjEBGLb9LG"
       },
@@ -535,6 +535,26 @@
       "duration_ms": 232682,
       "name": "Pyramids",
       "url": "https://open.spotify.com/track/5d3Wbdgw3zIf8B5eGXznLL"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
+        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
+        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
+        },
+        {
+          "name": "FORTELLA",
+          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
+        }
+      ],
+      "duration_ms": 193475,
+      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
+      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -575,26 +595,6 @@
       "duration_ms": 242000,
       "name": "Mirror",
       "url": "https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
-        "name": "Still (I Got Summer On My Mind) [FORTELLA Remix]",
-        "url": "https://open.spotify.com/album/6mfyxdmji09bDs1pYQADob"
-      },
-      "artists": [
-        {
-          "name": "JJ",
-          "url": "https://open.spotify.com/artist/1bAdBYcsDdsbqmWbAE7qKR"
-        },
-        {
-          "name": "FORTELLA",
-          "url": "https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9"
-        }
-      ],
-      "duration_ms": 193475,
-      "name": "Still (I Got Summer On My Mind) - FORTELLA Remix",
-      "url": "https://open.spotify.com/track/00Nsyeo2kcU4602zMsLWXW"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC"
-      },
-      "artists": [
-        {
-          "name": "Coffee Cub",
-          "url": "https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC"
-        }
-      ],
-      "duration_ms": 145833,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
         "name": "Following the Sun",
         "url": "https://open.spotify.com/album/140Jok6j3tn10bqgUqcUVG"
       },
@@ -791,6 +775,42 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
+        "name": "Tears In Ibiza (feat. AR/CO)",
+        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "AR/CO",
+          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+        }
+      ],
+      "duration_ms": 143579,
+      "name": "Tears In Ibiza (feat. AR/CO)",
+      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/55UbwPK8mr7bSv1Qm0X1uC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Cub",
+          "url": "https://open.spotify.com/artist/0Vyyyggh3HAUVLxcD4EKLC"
+        }
+      ],
+      "duration_ms": 145833,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/3dQkixAA0EprLAfta5lw2S"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
-        "name": "Beautiful",
-        "url": "https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC"
-      },
-      "artists": [
-        {
-          "name": "Deepend",
-          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
-        },
-        {
-          "name": "Griff Clawson",
-          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -851,38 +851,22 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
-        "name": "Tears In Ibiza (feat. AR/CO)",
-        "url": "https://open.spotify.com/album/3j1gIUlWUvy3ihysDQUYpg"
+        "name": "Beautiful",
+        "url": "https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC"
       },
       "artists": [
         {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+          "name": "Deepend",
+          "url": "https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B"
         },
         {
-          "name": "AR/CO",
-          "url": "https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7"
+          "name": "Griff Clawson",
+          "url": "https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7"
         }
       ],
-      "duration_ms": 143579,
-      "name": "Tears In Ibiza (feat. AR/CO)",
-      "url": "https://open.spotify.com/track/7A0xA68c4NiTvbWWAsIsoN"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
-        "name": "Clarity (Shallou Remix)",
-        "url": "https://open.spotify.com/album/3yfwc7AqjFaRwrycDU5D1w"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 234302,
-      "name": "Clarity - Shallou Remix",
-      "url": "https://open.spotify.com/track/7pI6XSeaMGD7Sw8Fk2O7Rz"
+      "duration_ms": 175000,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -899,6 +883,22 @@
       "duration_ms": 134005,
       "name": "Tulum",
       "url": "https://open.spotify.com/track/2ddVNzU2kTrs9VLiuurU9C"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
+        "name": "Clarity (Shallou Remix)",
+        "url": "https://open.spotify.com/album/3yfwc7AqjFaRwrycDU5D1w"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 234302,
+      "name": "Clarity - Shallou Remix",
+      "url": "https://open.spotify.com/track/7pI6XSeaMGD7Sw8Fk2O7Rz"
     },
     {
       "added_at": "2022-08-12 12:12:36",
@@ -1071,26 +1071,6 @@
     {
       "added_at": "2022-08-12 12:12:36",
       "album": {
-        "name": "Green Green Grass (Majestic Remix)",
-        "url": "https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        },
-        {
-          "name": "Majestic",
-          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "Green Green Grass - Majestic Remix",
-      "url": "https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ"
-    },
-    {
-      "added_at": "2022-08-12 12:12:36",
-      "album": {
         "name": "Dancing In The Lightning",
         "url": "https://open.spotify.com/album/0Q1lEnpu0dhnJGzSEOdXvZ"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 185243,
       "name": "Dancing In The Lightning",
       "url": "https://open.spotify.com/track/4dCdxOWspPkiAydcdEaYQ3"
+    },
+    {
+      "added_at": "2022-08-12 12:12:36",
+      "album": {
+        "name": "Green Green Grass (Majestic Remix)",
+        "url": "https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        },
+        {
+          "name": "Majestic",
+          "url": "https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI"
+        }
+      ],
+      "duration_ms": 191700,
+      "name": "Green Green Grass - Majestic Remix",
+      "url": "https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ"
     },
     {
       "added_at": "2022-08-12 12:12:36",

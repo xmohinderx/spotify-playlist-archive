@@ -1,12 +1,12 @@
 {
   "description": "Enjoy new and classic releases from icons of folk and Americana. Cover: Bonnie Raitt",
-  "num_followers": 169472,
+  "num_followers": 169520,
   "original_name": "Americana Icons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMDY2NzA3OGQ1ZTNmNGQ5MDU0NmUzYzFhNDU4YjYwZTQ0",
+  "snapshot_id": "MTY1MDYwMDAwMCwwMDAwMDAwMDVlMWI5ZWIxZTBiNGE4MTg1NjI4OTUyNTBjZmE0MDYy",
   "tracks": [
     {
       "added_at": "2022-04-22 04:00:00",
@@ -327,6 +327,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Attempted Mustache",
+        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
+      },
+      "artists": [
+        {
+          "name": "Loudon Wainwright III",
+          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "The Swimming Song",
+      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Tribute To Tradition",
         "url": "https://open.spotify.com/album/4Mngcv6ExjREiOqSH8vG1D"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 361093,
       "name": "Same Old Train",
       "url": "https://open.spotify.com/track/5KMWwtJv3Ll2ROZfMerQs0"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Attempted Mustache",
-        "url": "https://open.spotify.com/album/1AG8ibJ2nQF7iEMpu84LSM"
-      },
-      "artists": [
-        {
-          "name": "Loudon Wainwright III",
-          "url": "https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "The Swimming Song",
-      "url": "https://open.spotify.com/track/6scUEism6pBnY0IXYr8fw3"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Tarpaper Sky",
-        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
-      },
-      "artists": [
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 163306,
-      "name": "Frankie Please",
-      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Strangers Almanac",
         "url": "https://open.spotify.com/album/29gnqAHOpVJJL3h8wPrlMl"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 234666,
       "name": "16 Days",
       "url": "https://open.spotify.com/track/3aFMz2anc9vurZw6bPunI6"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Tarpaper Sky",
+        "url": "https://open.spotify.com/album/5ZLE1zSmmqjOaurNc191uw"
+      },
+      "artists": [
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 163306,
+      "name": "Frankie Please",
+      "url": "https://open.spotify.com/track/6jDm8LTMY13EzzIu5FNzYq"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Saint Mary Of The Woods",
-        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 513440,
-      "name": "Choctaw Bingo",
-      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "My Favorite Picture Of You",
         "url": "https://open.spotify.com/album/38aA0H1wIKl4p1lqa6BiDo"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 212466,
       "name": "My Favorite Picture Of You",
       "url": "https://open.spotify.com/track/1duzyYYCocGD2JSdCWITS6"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Saint Mary Of The Woods",
+        "url": "https://open.spotify.com/album/0j3PNuIO77kdjrTypChx5y"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 513440,
+      "name": "Choctaw Bingo",
+      "url": "https://open.spotify.com/track/3d0EH8kmmejGmBtvQHYgU6"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Mortal City",
-        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
-      },
-      "artists": [
-        {
-          "name": "Dar Williams",
-          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "Iowa (Traveling, Pt. 3)",
-      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Shouted, Written Down & Quoted",
         "url": "https://open.spotify.com/album/5JblYQTb7RXHoqP9JQZK6L"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 207841,
       "name": "Merely Avoiding",
       "url": "https://open.spotify.com/track/6mtJ9NK0YjqMDvSv15N1T1"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Mortal City",
+        "url": "https://open.spotify.com/album/6EVUAMSaUKG6mxVQcWDdJG"
+      },
+      "artists": [
+        {
+          "name": "Dar Williams",
+          "url": "https://open.spotify.com/artist/4Aarr7f0itQ2WFmmiPcriK"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "Iowa (Traveling, Pt. 3)",
+      "url": "https://open.spotify.com/track/1DPu4VZvRagYKnkDtn4FbU"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Patty Griffin",
-        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
-      },
-      "artists": [
-        {
-          "name": "Patty Griffin",
-          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
-        }
-      ],
-      "duration_ms": 284030,
-      "name": "Where I Come From",
-      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Boots No. 1: The Official Revival Bootleg",
         "url": "https://open.spotify.com/album/235ZzGz026rUvay44aA8JU"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 175083,
       "name": "Dry Town (Demo)",
       "url": "https://open.spotify.com/track/0ddo16GDbp9RoNzT285C4R"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Patty Griffin",
+        "url": "https://open.spotify.com/album/3ZbfpLDN1yP3JYlqb7K6w0"
+      },
+      "artists": [
+        {
+          "name": "Patty Griffin",
+          "url": "https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy"
+        }
+      ],
+      "duration_ms": 284030,
+      "name": "Where I Come From",
+      "url": "https://open.spotify.com/track/6JKQ5URj6dRJ4I1YCiMCEs"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Complicated Game",
+        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
+      },
+      "artists": [
+        {
+          "name": "James McMurtry",
+          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
+        }
+      ],
+      "duration_ms": 277986,
+      "name": "Copper Canteen",
+      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -1419,22 +1435,6 @@
       "duration_ms": 220653,
       "name": "Things That I Lean On",
       "url": "https://open.spotify.com/track/16D7vwG8vCEWferlmVZbEP"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Complicated Game",
-        "url": "https://open.spotify.com/album/0uZF0Y3tD2XLnIfBGn59Ly"
-      },
-      "artists": [
-        {
-          "name": "James McMurtry",
-          "url": "https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH"
-        }
-      ],
-      "duration_ms": 277986,
-      "name": "Copper Canteen",
-      "url": "https://open.spotify.com/track/2jG8qg7KDYWKm9smYCXz1i"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "The Traveling Kind",
+        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
+      },
+      "artists": [
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        },
+        {
+          "name": "Rodney Crowell",
+          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
+        }
+      ],
+      "duration_ms": 220600,
+      "name": "The Traveling Kind",
+      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Long in the Tooth",
         "url": "https://open.spotify.com/album/3sE0ZaVDdItWax4M1jmT7J"
       },
@@ -1531,26 +1551,6 @@
       "duration_ms": 149422,
       "name": "I Have Met My Love Today - Recorded at RCA Studio a, Nashville",
       "url": "https://open.spotify.com/track/0WK7SpoCnKifXNYgRMjYZc"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "The Traveling Kind",
-        "url": "https://open.spotify.com/album/2lyBmILucpN3Wxy1Cna2Ch"
-      },
-      "artists": [
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        },
-        {
-          "name": "Rodney Crowell",
-          "url": "https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY"
-        }
-      ],
-      "duration_ms": 220600,
-      "name": "The Traveling Kind",
-      "url": "https://open.spotify.com/track/5OHTqUeUeV09qhqszxS541"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "March 16-20, 1992",
-        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
-      },
-      "artists": [
-        {
-          "name": "Uncle Tupelo",
-          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
-        }
-      ],
-      "duration_ms": 263706,
-      "name": "Moonshiner",
-      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Rifles and Rosary Beads",
         "url": "https://open.spotify.com/album/1iCcuANiiaWvTeLevFGYSC"
       },
@@ -1875,18 +1859,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Our Year",
-        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
+        "name": "March 16-20, 1992",
+        "url": "https://open.spotify.com/album/3ezxoWuFQIiCr2xugKs3Lp"
       },
       "artists": [
         {
-          "name": "Kelly Willis & Bruce Robison",
-          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
+          "name": "Uncle Tupelo",
+          "url": "https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc"
         }
       ],
-      "duration_ms": 142157,
-      "name": "This Will Be Our Year",
-      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
+      "duration_ms": 263706,
+      "name": "Moonshiner",
+      "url": "https://open.spotify.com/track/2toEozRQNumBlG3wuQR4QH"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1903,6 +1887,22 @@
       "duration_ms": 213026,
       "name": "Boulder to Birmingham - 2003 Remaster",
       "url": "https://open.spotify.com/track/3PAnJueYX2pM8Ig0xSnkbI"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Our Year",
+        "url": "https://open.spotify.com/album/2feLXfmJaUiM4qicQmrxYw"
+      },
+      "artists": [
+        {
+          "name": "Kelly Willis & Bruce Robison",
+          "url": "https://open.spotify.com/artist/066FXEfKDbfynlPxfU7T6s"
+        }
+      ],
+      "duration_ms": 142157,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/5iE2kyAuiDrn7khi32V40n"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Electro Melodier",
-        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
-      },
-      "artists": [
-        {
-          "name": "Son Volt",
-          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
-        }
-      ],
-      "duration_ms": 215570,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Jerusalem",
         "url": "https://open.spotify.com/album/2alDoMx3PMJpXAnWAfRLrs"
       },
@@ -1975,6 +1959,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Electro Melodier",
+        "url": "https://open.spotify.com/album/4nqWF9eOdxiyRevgezK8QS"
+      },
+      "artists": [
+        {
+          "name": "Son Volt",
+          "url": "https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe"
+        }
+      ],
+      "duration_ms": 215570,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/3h3OQ1X6pe0Z78j37RsPF9"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "I Contain Multitudes",
         "url": "https://open.spotify.com/album/5QlsyfXfvtmm6MmFdlVOAV"
       },
@@ -1987,26 +1987,6 @@
       "duration_ms": 276600,
       "name": "I Contain Multitudes",
       "url": "https://open.spotify.com/track/7n68LuJzbmdxRRYiSq3gSf"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "Still Woman Enough",
-        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        },
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 161013,
-      "name": "One's On The Way (feat. Margo Price)",
-      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2055,18 +2035,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
+        "name": "Still Woman Enough",
+        "url": "https://open.spotify.com/album/6t1h5sp58mtWBsl0ptwfZv"
       },
       "artists": [
         {
-          "name": "Cyndi Lauper",
-          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+        },
+        {
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 329746,
-      "name": "Time After Time - Live from Spotify NYC",
-      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
+      "duration_ms": 161013,
+      "name": "One's On The Way (feat. Margo Price)",
+      "url": "https://open.spotify.com/track/4sPVvd3PfAAtB4jF07mva4"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2087,18 +2071,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0HWcZDc3l4PrjpoKA8JDcf"
       },
       "artists": [
         {
-          "name": "Allison Moorer",
-          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
+          "name": "Cyndi Lauper",
+          "url": "https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY"
         }
       ],
-      "duration_ms": 219108,
-      "name": "The Rock and the Hill",
-      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
+      "duration_ms": 329746,
+      "name": "Time After Time - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/21yzRHBdz6or7jSJ7Qu7N4"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2123,18 +2107,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Way Out West",
-        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1wBCGpLEYgfDPG3mm7kH72"
       },
       "artists": [
         {
-          "name": "Marty Stuart And His Fabulous Superlatives",
-          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+          "name": "Allison Moorer",
+          "url": "https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY"
         }
       ],
-      "duration_ms": 198840,
-      "name": "Whole Lotta Highway (With A Million Miles to Go)",
-      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
+      "duration_ms": 219108,
+      "name": "The Rock and the Hill",
+      "url": "https://open.spotify.com/track/1J3vn9vwq2pyC9iYlEUFEH"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2151,6 +2135,22 @@
       "duration_ms": 270040,
       "name": "Tecumseh Valley - Live",
       "url": "https://open.spotify.com/track/1vYY7pi267AR3t2rmAxMgv"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Way Out West",
+        "url": "https://open.spotify.com/album/60pQBVeOJlYePpptEhEouB"
+      },
+      "artists": [
+        {
+          "name": "Marty Stuart And His Fabulous Superlatives",
+          "url": "https://open.spotify.com/artist/559WWygoFrpAD58V0PqVwO"
+        }
+      ],
+      "duration_ms": 198840,
+      "name": "Whole Lotta Highway (With A Million Miles to Go)",
+      "url": "https://open.spotify.com/track/1rh6izHbVmudK0tWaPMoxQ"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
+      },
+      "artists": [
+        {
+          "name": "Martin Sexton",
+          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
+        }
+      ],
+      "duration_ms": 221183,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
         "name": "Wynonna & The Big Noise",
         "url": "https://open.spotify.com/album/7Fuk4zDnEJxnSGtjihpWOA"
       },
@@ -2247,22 +2263,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1LEg5ypjv2gjCWXa7trzbb"
-      },
-      "artists": [
-        {
-          "name": "Martin Sexton",
-          "url": "https://open.spotify.com/artist/16HLVuiCN8iGYhBca7lsqE"
-        }
-      ],
-      "duration_ms": 221183,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/3IHMlWNnTqtVP32p46ZzJT"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Into The Purple Valley",
         "url": "https://open.spotify.com/album/0bPPam9K2Pyuxr8T9WH1Vk"
       },
@@ -2275,22 +2275,6 @@
       "duration_ms": 236266,
       "name": "Taxes on the Farmer Feeds Us All",
       "url": "https://open.spotify.com/track/4ZslsM9CYd5SpqlSGODAEq"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
-        "name": "I'm A Song",
-        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
-      },
-      "artists": [
-        {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
-        }
-      ],
-      "duration_ms": 129077,
-      "name": "Let's Have A Good Thing Together",
-      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2323,6 +2307,22 @@
       "duration_ms": 158834,
       "name": "Got Your Six",
       "url": "https://open.spotify.com/track/1qKoTpcKazw5AcLzYjgX7k"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "I'm A Song",
+        "url": "https://open.spotify.com/album/7xiBD9ioPWaRgSZzxz5ht1"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 129077,
+      "name": "Let's Have A Good Thing Together",
+      "url": "https://open.spotify.com/track/0DUwtslFAFipEYffWCRTI9"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "The River & The Thread (Deluxe)",
-        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        }
-      ],
-      "duration_ms": 160120,
-      "name": "Tell Heaven",
-      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Tambourine",
         "url": "https://open.spotify.com/album/6xq8Crqk8thOvopt7wj7fn"
       },
@@ -2455,6 +2439,22 @@
       "duration_ms": 326746,
       "name": "Oh Soul",
       "url": "https://open.spotify.com/track/0PdULrhTlH3sUzdBNDxILS"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "The River & The Thread (Deluxe)",
+        "url": "https://open.spotify.com/album/5TyZEJV1RvYB6qdbDXHvKF"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        }
+      ],
+      "duration_ms": 160120,
+      "name": "Tell Heaven",
+      "url": "https://open.spotify.com/track/4tKcLwctnGLTnaDyT7tugW"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2491,26 +2491,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "The Killing Fields",
-        "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
-      },
-      "artists": [
-        {
-          "name": "Rosanne Cash",
-          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
-        },
-        {
-          "name": "John Leventhal",
-          "url": "https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH"
-        }
-      ],
-      "duration_ms": 263000,
-      "name": "The Killing Fields",
-      "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/5b4yHW4ZJam5HZi2YKt1x0"
       },
@@ -2543,18 +2523,18 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Black Roses",
-        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+        "name": "Wouldn't It Be Great",
+        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
       },
       "artists": [
         {
-          "name": "Jim Lauderdale",
-          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 176653,
-      "name": "No Later than Soon",
-      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
+      "duration_ms": 150080,
+      "name": "I'm Dying for Someone to Live For",
+      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2575,22 +2555,6 @@
     {
       "added_at": "2022-04-22 04:00:00",
       "album": {
-        "name": "Wouldn't It Be Great",
-        "url": "https://open.spotify.com/album/4Uk33jRr1FKDvYBDy8J3Xr"
-      },
-      "artists": [
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
-        }
-      ],
-      "duration_ms": 150080,
-      "name": "I'm Dying for Someone to Live For",
-      "url": "https://open.spotify.com/track/7fCrN795Rnp4WfvOrnS1KD"
-    },
-    {
-      "added_at": "2022-04-22 04:00:00",
-      "album": {
         "name": "Release Me",
         "url": "https://open.spotify.com/album/7jioF5CEtXUvIRMfoYzqkG"
       },
@@ -2603,6 +2567,22 @@
       "duration_ms": 186920,
       "name": "Garfield's Blackberry Blossom",
       "url": "https://open.spotify.com/track/2H6m033IwS1i0fkHyWP3g8"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "Black Roses",
+        "url": "https://open.spotify.com/album/1iC9LrnPFTIBmXuAd6xRcA"
+      },
+      "artists": [
+        {
+          "name": "Jim Lauderdale",
+          "url": "https://open.spotify.com/artist/0C6MCOqzlXMdX8Ij0mR6ct"
+        }
+      ],
+      "duration_ms": 176653,
+      "name": "No Later than Soon",
+      "url": "https://open.spotify.com/track/3CC7V91xd02Z5xW8QBZBsj"
     },
     {
       "added_at": "2022-04-22 04:00:00",
@@ -2623,6 +2603,26 @@
       "duration_ms": 178706,
       "name": "Custer",
       "url": "https://open.spotify.com/track/68j5e8Xaucfb3WNbROEvc0"
+    },
+    {
+      "added_at": "2022-04-22 04:00:00",
+      "album": {
+        "name": "The Killing Fields",
+        "url": "https://open.spotify.com/album/5cEX0d8qgLfNjNT7yyOkxS"
+      },
+      "artists": [
+        {
+          "name": "Rosanne Cash",
+          "url": "https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE"
+        },
+        {
+          "name": "John Leventhal",
+          "url": "https://open.spotify.com/artist/04OYvH5KuCKUJqhw8LKGsH"
+        }
+      ],
+      "duration_ms": 263000,
+      "name": "The Killing Fields",
+      "url": "https://open.spotify.com/track/4JvN6gikGBJ65KjEGEnAUP"
     },
     {
       "added_at": "2022-04-22 04:00:00",

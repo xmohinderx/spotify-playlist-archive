@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 
 > Classic songs that built the foundations of punk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,429,306 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,429,559 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 23 | [Hong Kong Garden](https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [The Scream](https://open.spotify.com/album/3uMr78kOScjc6eLHMYcVl4) | 2:55 |
 | 24 | [Rock 'n' Roll High School \- 2002 Remaster](https://open.spotify.com/track/4FzPIalyruWIiefI91qe4B) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [End of the Century \(Expanded 2005 Remaster\)](https://open.spotify.com/album/4AZArreHFJ5m8mo1SZT3Iv) | 2:17 |
 | 25 | [Add It Up](https://open.spotify.com/track/61QW3AcU1jm5ttPOn8eZhn) | [Violent Femmes](https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy) | [Violent Femmes](https://open.spotify.com/album/0Ojio25IPzIrw1rUmgrhrG) | 4:44 |
-| 26 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
-| 27 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
+| 26 | [Uncontrollable Urge](https://open.spotify.com/track/1RG1Pz45nlYNHka7JioyOT) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 3:11 |
+| 27 | [Anarchy in the U.K.](https://open.spotify.com/track/3LoDeIbiR12sAznmpNEmKA) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:31 |
 | 28 | [Sound System \- 2007 Remaster](https://open.spotify.com/track/4Pmo0mMgiyBCj1Zd7Axsi1) | [Operation Ivy](https://open.spotify.com/artist/18XRGxd1b484f2h06cwvJJ) | [Operation Ivy \(2007 Remaster\)](https://open.spotify.com/album/2Rv1kIWFeIYeq8kAtdhY6m) | 2:14 |
 | 29 | [Happy House](https://open.spotify.com/track/09LikVa6VgPYcsChqn1N0U) | [Siouxsie and the Banshees](https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb) | [Kaleidoscope \(Remastered & Expanded\)](https://open.spotify.com/album/5jynqY8ZyDoeqrIfYSwF8P) | 3:51 |
 | 30 | [Bloodstains \- Original Version](https://open.spotify.com/track/5E47rKJbS74jyLZaSgb0kS) | [Agent Orange](https://open.spotify.com/artist/1pBsvSnrhmgDZqisT13SFA) | [Living In Darkness \(30th Anniversary Edition\)](https://open.spotify.com/album/1IJw5lrtuyb72eDp8o0kas) | 1:53 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 35 | [Amoeba](https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC) | [Adolescents](https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr) | [Adolescents](https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d) | 3:06 |
 | 36 | [White Riot \- Remastered](https://open.spotify.com/track/0brrVj6VnvrG70SjRTnEJA) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [The Clash \(Remastered\)](https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo) | 1:56 |
 | 37 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 |
-| 38 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
-| 39 | [Minor Threat](https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 1:29 |
+| 38 | [Minor Threat](https://open.spotify.com/track/7pADnbKBmN6bY2YfLXCIgU) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 1:29 |
+| 39 | [God Save the Queen](https://open.spotify.com/track/6ui6l3ZNvlrGQZArwo8195) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here's The Sex Pistols](https://open.spotify.com/album/5fxYu3rqjCNTSPKN8mtEl2) | 3:20 |
 | 40 | [Personality Crisis](https://open.spotify.com/track/4AwKXevZmsTNa3KZVj3rzl) | [New York Dolls](https://open.spotify.com/artist/0WhGV9lzljq2QKJ8ipw6jx) | [New York Dolls](https://open.spotify.com/album/2xbTV0Awe4Qm5caUVuPbMr) | 3:41 |
 | 41 | [Don't Want to Know If You Are Lonely](https://open.spotify.com/track/4tPFEWRuNQhibDQSGB2PVE) | [Hüsker Dü](https://open.spotify.com/artist/16bN8mhtDFdegWbg0z3s10) | [Candy Apple Grey](https://open.spotify.com/album/6zoU9wwvh8ETkMsWU3Mtv1) | 3:30 |
 | 42 | [Banned in D.C.](https://open.spotify.com/track/0YnP5BtP6lTwQV8gLOzaov) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 2:12 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 58 | [Straight Edge](https://open.spotify.com/track/1x8N5sNHdQtY328uP5DxIp) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/6Sty6rLnMTXFjKxKUZEfmy) | 0:45 |
 | 59 | [I Can't Hardly Stand It](https://open.spotify.com/track/1gElMA7YL2UEE9njNW9eiR) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:43 |
 | 60 | [Sailin' On](https://open.spotify.com/track/4P8n1pWj2xQnaBjy1rvZ3o) | [Bad Brains](https://open.spotify.com/artist/1oVj9JmPUPg4SQ2uerV2xc) | [Bad Brains](https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP) | 1:55 |
-| 61 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
-| 62 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
+| 61 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
+| 62 | [What Do I Get? \- 2001 Remastered Version](https://open.spotify.com/track/0caQ80s7fyh8xJzD8Sq6Ir) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Singles Going Steady](https://open.spotify.com/album/6TxgQwGrbG3XZLNPOEhg7E) | 2:55 |
 | 63 | [Gut Feeling / \(Slap Your Mammy\)](https://open.spotify.com/track/2vFaBeQqDVZW9SiJeiM4LU) | [DEVO](https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3) | [Q: Are We Not Men? A: We Are Devo!](https://open.spotify.com/album/1u2Qni8cVRptDTaA00fmBC) | 4:57 |
 | 64 | [Salad Days](https://open.spotify.com/track/5TEP4YcPVvBYAbJXrTTced) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [Salad Days](https://open.spotify.com/album/5JXGvBK6woRyyxOXro1mW2) | 2:46 |
 | 65 | [Dean's Dream](https://open.spotify.com/track/65ZK2zk1YFTnaD7D4deD37) | [The Dead Milkmen](https://open.spotify.com/artist/2fhngmJMaaKcdhXHCa4cPK) | [Big Lizard In My Back Yard](https://open.spotify.com/album/4idwu1NCDTQ6V6CumtfW93) | 1:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LDIBRoaCDQ.md) - [plain]
 | 99 | [The Modern World](https://open.spotify.com/track/1pXXriSh4lpOKFqsAWVdHe) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [This Is The Modern World](https://open.spotify.com/album/1ofMLjpy6bhkxpOcD5y436) | 2:30 |
 | 100 | [Riot](https://open.spotify.com/track/7G3kh6Vtoc46aTS5GztTMD) | [U.K\. Subs](https://open.spotify.com/artist/4wsg78KGu80m8Xk37PY2uG) | [Complete Riot](https://open.spotify.com/album/6XNbcUWRawIjcIpAlW99Bd) | 2:46 |
 
-Snapshot ID: `MTY1NzczODk5MywwMDAwMDAwMDI4NzZhZmEzMDFiZmEzNjllOWNhOTQ1YjhhNmNlODQw`
+Snapshot ID: `MTY1NzczODk5MywwMDAwMDAwMDQ4ZDY2YmFhNjkyYTQ1YzYzM2U1ZmZmMDIxZjFkOTRh`

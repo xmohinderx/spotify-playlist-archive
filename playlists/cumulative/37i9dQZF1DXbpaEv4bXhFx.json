@@ -2499,7 +2499,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 201080,
       "name": "Sand",
       "url": "https://open.spotify.com/track/2G1DmoWzVEO1nA88LO9flp"
@@ -2623,6 +2623,28 @@
       "duration_ms": 214556,
       "name": "Song of the rain",
       "url": "https://open.spotify.com/track/2o01gSDPP32gRfs53ImwVK"
+    },
+    {
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "album": {

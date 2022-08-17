@@ -781,7 +781,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 139500,
       "name": "Bom Tempo (Good Time)",
       "url": "https://open.spotify.com/track/2N32YQOuBOocvuvQdtKK2k"
@@ -1611,7 +1611,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 198600,
       "name": "Echo",
       "url": "https://open.spotify.com/track/4gSD3M18TW4oUikNduQbjP"
@@ -1813,7 +1813,7 @@
       ],
       "date_added": "2022-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 219574,
       "name": "Father Forgive Us",
       "url": "https://open.spotify.com/track/7ATNyYHU8764aIFAA6aJ14"
@@ -6257,7 +6257,7 @@
       },
       "artists": [
         {
-          "name": "Tylerhateslife",
+          "name": "tylerhateslife",
           "url": "https://open.spotify.com/artist/4z85Glof8wylJsLi93ukHm"
         },
         {
@@ -6267,7 +6267,7 @@
       ],
       "date_added": "2022-04-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 113333,
       "name": "we are not the same.",
       "url": "https://open.spotify.com/track/6SCth7RiNdzmiouRdKkFhm"

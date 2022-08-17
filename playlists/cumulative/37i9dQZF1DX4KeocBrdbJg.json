@@ -124,6 +124,24 @@
     },
     {
       "album": {
+        "name": "Camino del Amor",
+        "url": "https://open.spotify.com/album/1fvaT1qOl0H0gAHk5RHbts"
+      },
+      "artists": [
+        {
+          "name": "Los Temerarios",
+          "url": "https://open.spotify.com/artist/3YbOSxo85kla7RID8ugnW3"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200666,
+      "name": "Ah\u00ed Estar\u00e9 Yo",
+      "url": "https://open.spotify.com/track/54gaPLcsCWmPUmrgpib9mS"
+    },
+    {
+      "album": {
         "name": "L\u00edderes",
         "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
@@ -237,6 +255,24 @@
       "duration_ms": 215625,
       "name": "Angeleyes (Sped Up) - Sometimes When I'm Lonely, I Sit and Think About Him",
       "url": "https://open.spotify.com/track/7Dj1ak803CaG7VrVPFEpUw"
+    },
+    {
+      "album": {
+        "name": "Angeleyes / Voulez-vous",
+        "url": "https://open.spotify.com/album/6F5fKC66vNBoeEhUwhTvHw"
+      },
+      "artists": [
+        {
+          "name": "LucasStriike",
+          "url": "https://open.spotify.com/artist/4y8NtlBWZFsl6aPUWMPQZK"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216189,
+      "name": "Angeleyes / Voulez-vous",
+      "url": "https://open.spotify.com/track/39CfpkoIRjL2GuayOM3pbZ"
     },
     {
       "album": {
@@ -471,7 +507,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 205813,
       "name": "Brujeria",
       "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
@@ -746,6 +782,24 @@
     },
     {
       "album": {
+        "name": "cxxl kids (sped ver)",
+        "url": "https://open.spotify.com/album/7swt89pXIgTtxFPv3tuXaU"
+      },
+      "artists": [
+        {
+          "name": "EzdriaL",
+          "url": "https://open.spotify.com/artist/0Gz7RfTeA2L5HH0veNOFAO"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186528,
+      "name": "cxxl kids (sped ver)",
+      "url": "https://open.spotify.com/track/2DwW79wr2Gv1rQTEVpttxS"
+    },
+    {
+      "album": {
         "name": "Cyberpunk",
         "url": "https://open.spotify.com/album/5gh5pmkrqFscbkp3XumdHv"
       },
@@ -979,6 +1033,24 @@
       "duration_ms": 133706,
       "name": "edamame (feat. Rich Brian)",
       "url": "https://open.spotify.com/track/1uMHCAyGmHqyygoNRuo7MV"
+    },
+    {
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "album": {
@@ -1302,6 +1374,24 @@
     },
     {
       "album": {
+        "name": "Guaracha Fiu Fiu",
+        "url": "https://open.spotify.com/album/08ScuUuxvCh1JXMITTGUXR"
+      },
+      "artists": [
+        {
+          "name": "Dimelo Yssa",
+          "url": "https://open.spotify.com/artist/4Y8NDDstWnqZi2PrwB8dKR"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "Guaracha Fiu Fiu",
+      "url": "https://open.spotify.com/track/0yQphJ5JgbCBP2hP7ekdm4"
+    },
+    {
+      "album": {
         "name": "The Last Don II",
         "url": "https://open.spotify.com/album/57mWSm5UtRGT08KeJuyZqu"
       },
@@ -1317,6 +1407,24 @@
       "duration_ms": 193613,
       "name": "Guaya Guaya",
       "url": "https://open.spotify.com/track/79zvVrn65ksbiGQxrtV4I5"
+    },
+    {
+      "album": {
+        "name": "Surprise",
+        "url": "https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1"
+      },
+      "artists": [
+        {
+          "name": "Crystal Waters",
+          "url": "https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229573,
+      "name": "Gypsy Woman (She's Homeless) (La Da Dee La Da Da) - Radio Edit",
+      "url": "https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2"
     },
     {
       "album": {
@@ -1635,7 +1743,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 185680,
       "name": "Light Switch",
       "url": "https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ"
@@ -2073,7 +2181,7 @@
       ],
       "date_added": "2022-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 157497,
       "name": "Mount Everest",
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
@@ -2149,6 +2257,24 @@
       "duration_ms": 265263,
       "name": "NEON BLADE",
       "url": "https://open.spotify.com/track/0iUrxveyNUBfj0cqjYEijt"
+    },
+    {
+      "album": {
+        "name": "Boleros Inolvidables II",
+        "url": "https://open.spotify.com/album/1NISxuaHQ7AeZzmRb3VNLs"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Ni por favor",
+      "url": "https://open.spotify.com/track/082oz7W44hHd5tkMTNzUhd"
     },
     {
       "album": {
@@ -2345,7 +2471,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 258298,
       "name": "Ojitos Lindos",
       "url": "https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW"
@@ -2553,6 +2679,32 @@
       "duration_ms": 102371,
       "name": "Piel Canela",
       "url": "https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4"
+    },
+    {
+      "album": {
+        "name": "play date - sped up + reverb",
+        "url": "https://open.spotify.com/album/0Bvx6XorWFdF3Iwt9wJ7G6"
+      },
+      "artists": [
+        {
+          "name": "sped up + reverb tazzy",
+          "url": "https://open.spotify.com/artist/0oUvRAt9hv96E6akDwgWCI"
+        },
+        {
+          "name": "sped up songs",
+          "url": "https://open.spotify.com/artist/54pWRW9zJ4FRTQLBiEOJ7T"
+        },
+        {
+          "name": "Tazzy",
+          "url": "https://open.spotify.com/artist/1LbQ66B9mZIHGhjRu9fvKo"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158798,
+      "name": "play date - sped up + reverb",
+      "url": "https://open.spotify.com/track/6uAy1eN2ljjWGz8zR0p25V"
     },
     {
       "album": {
@@ -2907,7 +3059,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 194160,
       "name": "Say It Right - Sped Up Remix",
       "url": "https://open.spotify.com/track/3iWOZkQNDekZQqkiJqqeGy"
@@ -3489,7 +3641,7 @@
       ],
       "date_added": "2022-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -3511,7 +3663,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 269333,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
@@ -3613,7 +3765,7 @@
       ],
       "date_added": "2022-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 227220,
       "name": "ULTRA SOLO",
       "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
@@ -3772,6 +3924,24 @@
     },
     {
       "album": {
+        "name": "Wannabe",
+        "url": "https://open.spotify.com/album/5VMaKMyX5OTgrmHwvOVJZ1"
+      },
+      "artists": [
+        {
+          "name": "why mona",
+          "url": "https://open.spotify.com/artist/5C1tex8vm00yFKTitiOnMU"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Wannabe",
+      "url": "https://open.spotify.com/track/5ACZOGjT6I5He0pDZED56Z"
+    },
+    {
+      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -3801,7 +3971,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 194739,
       "name": "Wicked",
       "url": "https://open.spotify.com/track/3B4u3uZGm7PCfhc18oTi1J"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 
 > A gaming playlist for the whole family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,775 likes - 79 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,776 likes - 79 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 8 | [Uptown Funk \(feat\. Bruno Mars\)](https://open.spotify.com/track/32OlwWuMpZ6b0aN2RZOeMS) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Uptown Special](https://open.spotify.com/album/3vLaOYCNCzngDf8QdBg2V1) | 4:29 |
 | 9 | [Thunder](https://open.spotify.com/track/1zB4vmk8tFRmM9UULNzbLB) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Evolve](https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU) | 3:07 |
 | 10 | [Thunderstruck](https://open.spotify.com/track/57bgtoPSgt236HzfBOd8kj) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [The Razors Edge](https://open.spotify.com/album/4vu7F6h90Br1ZtYYaqfITy) | 4:52 |
-| 11 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
-| 12 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
+| 11 | [Sunflower \- Spider\-Man: Into the Spider\-Verse](https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:38 |
+| 12 | [Happier](https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Happier](https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh) | 3:34 |
 | 13 | [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 |
 | 14 | [Something Just Like This](https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 4:07 |
 | 15 | [High Hopes](https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Pray for the Wicked](https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge) | 3:10 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cmh8SxTRyo.md) - [plain]
 | 78 | [Tortoise Playing Minecraft](https://open.spotify.com/track/2je07NBiHQZNoZRvTNB0AO) | [Parry Gripp](https://open.spotify.com/artist/56P8qdYp640M24wkk9eTfc) | [Tortoise Playing Minecraft](https://open.spotify.com/album/7KhfdyxlNNX1rZ7xS6dx5k) | 2:12 |
 | 79 | [Don't Stop the Party \(feat\. TJR\)](https://open.spotify.com/track/7ahuMdaf5gdVi35BzyU9Qu) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [TJR](https://open.spotify.com/artist/2L8yW8GIoirHEdeW4bWQXq) | [Greatest Hits](https://open.spotify.com/album/1webHYaeCy8j9smqS23sgE) | 3:25 |
 
-Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDlmNWM0M2ZmMjhjNWRmZjhkODkwNWQ3NjhiMjgwYjM0`
+Snapshot ID: `MTY1MDM4MjQ0OCwwMDAwMDAwMDQ5OTI1NjI1Mjc2ZjVkMmQ5NjU5ZDNmZjZiNDJmZjE2`

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-456 songs - 1 day 4 hr 5 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+457 songs - 1 day 4 hr 8 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 | 2022-05-21 |  |
 | [As It Was](https://open.spotify.com/track/4LRPiXqCikLlN15c3yImP7) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [As It Was](https://open.spotify.com/album/2pqdSWeJVsXAhHFuVLzuA8) | 2:47 | 2022-04-02 | 2022-05-28 |
 | [Astronaut In The Ocean](https://open.spotify.com/track/3VT8hOC5vuDXBsHrR53WFh) | [Masked Wolf](https://open.spotify.com/artist/1uU7g3DNSbsu0QjSEqZtEd) | [Astronaut In The Ocean](https://open.spotify.com/album/57UjGWNfxfsBCykDm73XBK) | 2:12 | 2021-03-27\* | 2021-05-30 |
+| [Attention](https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 3:00 | 2022-08-16 |  |
 | [AURA](https://open.spotify.com/track/4jP982FpZoDv729D0X8BiN) | [WJSN](https://open.spotify.com/artist/6hhqsQZhtp9hfaZhSd0VSD) | [<Queendom2> FINAL](https://open.spotify.com/album/5ZorEUDqewnEygf4FAOjhm) | 3:35 | 2022-05-28 | 2022-06-01 |
 | [Baby Cakes](https://open.spotify.com/track/45daYf2BsGxDeWUlmX2a2Y) | [壞特 ?te](https://open.spotify.com/artist/7DZtdN4x13Amjw87cjdffb) | [A Bedroom of One's Own](https://open.spotify.com/album/106w7wcRpHY8hqHhajG3nb) | 3:48 | 2021-08-24 | 2021-08-28 |
 | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Bad Decisions \(with BTS & Snoop Dogg\)](https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN) | 2:52 | 2022-08-06 |  |
@@ -95,7 +96,7 @@
 | [Girl Of My Dreams \(with SUGA of BTS\)](https://open.spotify.com/track/7DF8lvLdV3htIbuTWpc7lR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Fighting Demons](https://open.spotify.com/album/07tZDCAqxSIVEZywk0KDfT) | 3:46 | 2021-12-18 | 2021-12-19 |
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-08-04 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-11 | 2021-09-16 |
-| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 |  |
+| [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 | 2022-08-17 |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-03-27\* | 2021-04-18 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-10-03 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-20 | 2021-05-23 |

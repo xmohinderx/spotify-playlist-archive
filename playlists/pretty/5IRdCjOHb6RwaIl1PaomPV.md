@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New Deluxe album from Diplo, plus the latest cuts from Aluna, Carlita, TDJ, niina, Ayra Star, Noizu, and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 51,490 likes - 53 songs - 3 hr 28 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 51,488 likes - 53 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 35 | [I Don't Know What To Say](https://open.spotify.com/track/3RacL9kXyeYXfkBQOAMNPl) | [B\. Hayes](https://open.spotify.com/artist/2eR5l1dWjSIEfAs0mXgyak) | [I Don't Know What To Say](https://open.spotify.com/album/1hCUHidza6Z61WFtlbc1dR) | 2:55 |
 | 36 | [Infinite Downwards](https://open.spotify.com/track/5KVB8fmXxWhwwNEEs46gLm) | [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX) | [∞](https://open.spotify.com/album/4zWMltDMtW5XtMHTDz6seX) | 9:21 |
 | 37 | [Alright](https://open.spotify.com/track/0erkfOrhEHd40xipSC8vqi) | [Anna Lunoe](https://open.spotify.com/artist/7d96RW5Vix23AiCHr3mf3D) | [Alright](https://open.spotify.com/album/30c5njwDLzLB83s407ZAkj) | 3:53 |
-| 38 | [Waterfall \- TOKiMONSTA Remix](https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Waterfall \(TOKiMONSTA Remix\)](https://open.spotify.com/album/0LasfQHi6wcoxdVVTNTCIG) | 3:45 |
+| 38 | [Loved By U \(George FitzGerald Remix\)](https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [George FitzGerald](https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t) | [Loved By U \(George FitzGerald Remix\)](https://open.spotify.com/album/3tFrA0bZ5Psy1gFhThCFyv) | 4:00 |
 | 39 | [I've Been Waiting﻿﻿](https://open.spotify.com/track/25xGCpAKWRUth9UbxC1TOl) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [I've Been Waiting﻿﻿](https://open.spotify.com/album/3TA2RyxluwxYN1DTVXJnGJ) | 4:00 |
 | 40 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Mafro](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
 | 41 | [Woman Like You](https://open.spotify.com/track/0Tby0PFN8E8I8pg0oxeapb) | [kryptogram](https://open.spotify.com/artist/184mGxeseZkY2w05Nr4Tui) | [Woman Like You](https://open.spotify.com/album/3thcwDUKvwi5ghc2KZbkkv) | 4:05 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 | 52 | [Hive](https://open.spotify.com/track/69j2qYO8WMoSEUPnElhDkj) | [Mother of Pearls](https://open.spotify.com/artist/0lz24LKq6Bv5jRTSSxwcVa) | [Gelexian Protocol](https://open.spotify.com/album/75MNs8paiJxPIHaLyM7VHq) | 6:47 |
 | 53 | [Don't Fuck Around](https://open.spotify.com/track/2vxMgCp6jckeLc0KTGpEBd) | [Skin On Skin](https://open.spotify.com/artist/5mnxMXIM6BNhVVTXnBatKa), [X CLUB.](https://open.spotify.com/artist/4CYPaFp9yDrNduNptv0DPQ) | [Everything Comes True](https://open.spotify.com/album/6m3K8LjG7jJDtAhJ4FkWPS) | 6:35 |
 
-Snapshot ID: `NjE4NCxkZjIxZTM2MzU4ZGY3NWI3YmY0ZjZlNmI0YzFmY2MxODUwYzZiODBi`
+Snapshot ID: `NjE4OSw5MGI5NDRjNTA1NGUyNmQ4ZDk0NzYwZjA5OWI2ZTg0NGZiNGJmMjll`

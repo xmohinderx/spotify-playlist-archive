@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 
 > Classic songs from the legends of the hardcore scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,261 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,341 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,18 +27,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 17 | [Pure Trauma](https://open.spotify.com/track/7FpFV1oQhhZm6Vyj7K5FcS) | [Downset](https://open.spotify.com/artist/6SBgDfIRb6IE9TrA6w8Zg6) | [Check Your People](https://open.spotify.com/album/0kFn5JKSC76NteLv33NyVe) | 2:33 |
 | 18 | [Can't Take It Away](https://open.spotify.com/track/0AaoUCJLOhCiiMEWVNAc5C) | [Kill Your Idols](https://open.spotify.com/artist/6XMDTpG4mtZWvDlFjRF3XT) | [This Is Just the Beginning](https://open.spotify.com/album/4RHBb8u3uid3lJGFwS0Jb1) | 1:36 |
 | 19 | [Firestorm](https://open.spotify.com/track/49d4jmxM4yyLkJA7NOiQ7M) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Forever True \(1991\-2001\)](https://open.spotify.com/album/2NlUqiYUsqBqE5o41dl4eh) | 3:51 |
-| 20 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
-| 21 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
+| 20 | [Blood](https://open.spotify.com/track/0ai9xvb85BylFJ9JP2ogxe) | [Candiria](https://open.spotify.com/artist/2HlW9aXquEwJ3ywGlPEUPp) | [What Doesn't Kill You Will Make You Stronger](https://open.spotify.com/album/4TOosWzdrqh1WxHkRbvxMZ) | 3:16 |
+| 21 | [Chasing the Dragon](https://open.spotify.com/track/4MJkV5HQSuaLxFgM7yvTiy) | [Wisdom In Chains](https://open.spotify.com/artist/4dtEJEODoOpnmnjnsNDaSd) | [Everything You Know](https://open.spotify.com/album/4xh3WT4Y416HM7KKUAFwXx) | 3:23 |
 | 22 | [Mailer, Meet Jim](https://open.spotify.com/track/0jxUbJ6Yoj74NqXuOTkI6a) | [Western Addiction](https://open.spotify.com/artist/7xnD2Codf7FyLxsqPh8CIA) | [Cognicide](https://open.spotify.com/album/1GQrz6GLWJ9WNijMQH4MzH) | 1:37 |
-| 23 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
-| 24 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
-| 25 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
-| 26 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
-| 27 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
+| 23 | [Somebody's Gonna Get Their Head Kicked In](https://open.spotify.com/track/4sX8M88xU9mDZxEFAdUuyL) | [Murphy's Law](https://open.spotify.com/artist/3EVzblmlRt3zPoB982Gr0G) | [Punk Rock Jukebox](https://open.spotify.com/album/21nSjjFjAhQAUO1smiuQJS) | 2:04 |
+| 24 | [Just Can't Hate Enough](https://open.spotify.com/track/1qrzQuZ0CegX3PQtrsek7R) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 1:44 |
+| 25 | [Element](https://open.spotify.com/track/0NEDkO8NleQbN66lO2pl65) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [Vision of Disorder](https://open.spotify.com/album/5EeQOcInW3Mfo6dtUofKOD) | 3:13 |
+| 26 | [Hail Destroyer](https://open.spotify.com/track/0XNm4jXda363NhHBoOp5II) | [Cancer Bats](https://open.spotify.com/artist/10YNQq86z4shHwDSymTyWc) | [Hail Destroyer](https://open.spotify.com/album/4zR3343ue909iFnr6odhK3) | 3:16 |
+| 27 | [Blistered](https://open.spotify.com/track/4GdInZSiS6HeCjYf4LMXgn) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/6o19cWdtFGOklZA1n658GH) | 2:27 |
 | 28 | [Break Through It All](https://open.spotify.com/track/4WN54cERPExpnOs1adL5nB) | [Death Before Dishonor](https://open.spotify.com/artist/0BIBoMLD3B0gptcCP0b9K5) | [Count Me In](https://open.spotify.com/album/6qDsZxas2r5Ye6EmHk8Wnv) | 3:01 |
 | 29 | [Thorn In My Side](https://open.spotify.com/track/55QjemxhcFnHRvTjGHLJCO) | [Quicksand](https://open.spotify.com/artist/1GDjwZ2zwNZizuNJPmH3mE) | [Manic Compression](https://open.spotify.com/album/63jH8y8w07RTXjYqD136U6) | 2:36 |
-| 30 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
-| 31 | [Shark Ethic](https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV) | 3:40 |
+| 30 | [Shark Ethic](https://open.spotify.com/track/5o4ZaZnfWGRr7GWXU4LsXm) | [Most Precious Blood](https://open.spotify.com/artist/0znKUm4tIhX5cGPnynkrMu) | [Merciless](https://open.spotify.com/album/2FAsfrChg9GvQAa1wDGsEV) | 3:40 |
+| 31 | [Burning Season](https://open.spotify.com/track/5h55QONg24me5Vw4JMYlaJ) | [All Out War](https://open.spotify.com/artist/34jZDyPFvvXhL4YeBICAiV) | [For Those Who Were Crucified](https://open.spotify.com/album/5N0Ufg2dKqaXwwdNnbID7m) | 1:56 |
 | 32 | [World Peace](https://open.spotify.com/track/54P30qdoSqp3MgngBMZOW3) | [Cro\-Mags](https://open.spotify.com/artist/5WCrzTQZ6S6EgebqI57Ilg) | [Before The Quarrel](https://open.spotify.com/album/4cOlUeoODYu4DODpSnlU3i) | 2:15 |
 | 33 | [Some Came Running](https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA) | [Bane](https://open.spotify.com/artist/2Fjvft2Z56VrVjmYE5TkEi) | [Give Blood](https://open.spotify.com/album/4FzDbUFfvnhWwkduv6q7g9) | 2:37 |
 | 34 | [Here to Stay](https://open.spotify.com/track/4y5I2JW4P1jQWrAzieGYhS) | [Sheer Terror](https://open.spotify.com/artist/2AFPWhrVDLjiVNMpbou4jU) | [Bulldog Edition](https://open.spotify.com/album/6Q1Y7gyccEvxvYl698G2iy) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaGNG7NmtmZv.md) - [plain]
 | 49 | [Get This Right!](https://open.spotify.com/track/7y952AaC6SYiWlNwuC3Rfv) | [Raised Fist](https://open.spotify.com/artist/7ik758oYwkKmQtbZtAdOOm) | [Dedication](https://open.spotify.com/album/5snErIyF82CrqTpnvLQ32G) | 3:30 |
 | 50 | [Let's Pretend](https://open.spotify.com/track/2fnHEggVPhncefeyheMsfw) | [Life Of Agony](https://open.spotify.com/artist/4gyzQpfG5YQZJt2jj0IkEl) | [Ugly](https://open.spotify.com/album/0DfwAJXDy8TzMgRuPNsjkc) | 3:58 |
 
-Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMGU0ODIzYjg5MGZiMDJkOTMzYzE2M2E1YjJiZTliZWMy`
+Snapshot ID: `MTYwNzQ0MDMzMSwwMDAwMDAwMGZmNjE5MTAxZGNjODY3YzMwYWJhMjllNDc3MDgwMjJh`

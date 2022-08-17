@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 
 > Perfect sunshiney indie tracks for summer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,066 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,655 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,16 +16,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 6 | [Can I Call You Tonight?](https://open.spotify.com/track/64lsIF5pw0sJY0gV5kz0RN) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 4:38 |
 | 7 | [Sofia](https://open.spotify.com/track/7B3z0ySL9Rr0XvZEAjWZzM) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:08 |
 | 8 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 9 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
+| 9 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
 | 10 | [Aura](https://open.spotify.com/track/3FcNx0xneevygzqjZaSDIo) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Aura](https://open.spotify.com/album/1i3MA9Eamgjk3SKYFo0zdn) | 3:27 |
-| 11 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 |
+| 11 | [Brazil](https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 4:12 |
 | 12 | [Tongue Tied](https://open.spotify.com/track/0GO8y8jQk1PkHzS31d699N) | [Grouplove](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Never Trust a Happy Song](https://open.spotify.com/album/3oylWMc9TTC6Nx4I6U3axc) | 3:38 |
 | 13 | [Miss Summer](https://open.spotify.com/track/58VNpcJpI5dEKxYByCkbXc) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Miss Summer](https://open.spotify.com/album/1LAFmzdHxA73B7QzzRhMco) | 2:42 |
 | 14 | [Are You Bored Yet? \(feat\. Clairo\)](https://open.spotify.com/track/57RA3JGafJm5zRtKJiKPIm) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Nothing Happens](https://open.spotify.com/album/7eed9MBclFPjjjvotfR2e9) | 2:58 |
 | 15 | [Be Mine](https://open.spotify.com/track/2obd4xYbCzz5mj6PMED9RR) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Be Mine](https://open.spotify.com/album/0tzapKoaFjcoNf3smm1Stm) | 2:44 |
 | 16 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 |
-| 17 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
-| 18 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
+| 17 | [Borderline](https://open.spotify.com/track/5hM5arv9KDbCHS0k9uqwjr) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 3:57 |
+| 18 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 |
 | 19 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 |
 | 20 | [Take Me Out](https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Franz Ferdinand](https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z) | 3:57 |
 | 21 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 |
@@ -66,22 +66,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUWC0NIJDJKL.md) - [plain]
 | 56 | [Solar Power](https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:12 |
 | 57 | [Prairies \(with mxmtoon\)](https://open.spotify.com/track/7w2iqaRxQgAGnkOdMhsiqu) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Serotonin Dreams](https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73) | 3:11 |
 | 58 | [A\-Punk](https://open.spotify.com/track/3AydAydLzyyZutA0375XIz) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Vampire Weekend](https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY) | 2:17 |
-| 59 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 |
-| 60 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
-| 61 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 |
-| 62 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
-| 63 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
-| 64 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 |
+| 59 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
+| 60 | [Hotel](https://open.spotify.com/track/3xyr2xfbSZiZWWGsjLyMFh) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [6 Of A Billion](https://open.spotify.com/album/00XbpqjUL8dH40s3vGltsV) | 2:14 |
+| 61 | [Light On](https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:53 |
+| 62 | [Serotonin](https://open.spotify.com/track/16MneRxNQpHK250NaIo3bg) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [if i could make it go quiet](https://open.spotify.com/album/10nQ1u8Y1zlOb61zwZavDk) | 3:02 |
+| 63 | [Everytime](https://open.spotify.com/track/4zvHZWOGyL7WcmqHOgtGCW) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 2:52 |
+| 64 | [Mona Lisa, Mona Lisa](https://open.spotify.com/track/252G7yirQ4pXj6ZD4T9R2W) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Mona Lisa, Mona Lisa](https://open.spotify.com/album/0PmQqosU37by7LZHObTC8r) | 2:52 |
 | 65 | [Chinese New Year](https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k) | [SALES](https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN) | [Chinese New Year](https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi) | 2:40 |
 | 66 | [Canopée](https://open.spotify.com/track/260V7huyJrXnyYe0dFv2Fa) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 4:36 |
 | 67 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
-| 68 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
-| 69 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
+| 68 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 |
+| 69 | [don't miss me](https://open.spotify.com/track/5MG69A9XyXDbBbeOxdR3Tl) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [don’t miss me](https://open.spotify.com/album/2uXE0PE2nWgjXDV6nZi1l0) | 2:03 |
 | 70 | [GOOD TIMES](https://open.spotify.com/track/1WeqJkPY5rDIfyOKWfyuf5) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [GOOD TIMES / PROBLEMZ](https://open.spotify.com/album/2j8Bsbbqb9EyS1ajAq3GME) | 3:01 |
 | 71 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
-| 72 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 |
-| 73 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
-| 74 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
-| 75 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
+| 72 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 |
+| 73 | [Why Do You Feel So Down](https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:40 |
+| 74 | [The High Road](https://open.spotify.com/track/5cwN1htZyoWqZCc33f3RfE) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Broken Bells](https://open.spotify.com/album/0X7WyEKdm5afGj1fmD7Blx) | 3:52 |
+| 75 | [Hunnybee](https://open.spotify.com/track/6AAYNz8jXvVlgG9IpYi42Z) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Sex & Food](https://open.spotify.com/album/2swiA7ANSFyAHKJhkD4mNR) | 4:28 |
 
-Snapshot ID: `MTY2MDMzNTY0MywwMDAwMDAwMDllYzE5NGZhZGMzNmI1NmNhMWM3NTc1MDhjZTE5Mzc2`
+Snapshot ID: `MTY2MDMzNTY0MywwMDAwMDAwMDg4YTdlZTBkNzk4YmUwOGUwNjI1ZTlkMjIyMmZjMzM1`

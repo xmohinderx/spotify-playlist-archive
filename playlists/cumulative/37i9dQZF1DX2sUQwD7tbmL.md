@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-462 songs - 1 day 2 hr 23 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
+463 songs - 1 day 2 hr 25 min - [published](https://open.spotify.com/playlist/34b8Kse0gQlLcdKWiNlqDt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Older](https://open.spotify.com/track/0bkNJm3BcQyHpytMI7a3TX) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Older](https://open.spotify.com/album/1W9LBC7i9su2Q5ioA1jf7f) | 3:27 | 2021-05-01 | 2022-04-14 |
 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 | 2021-05-01 | 2022-07-29 |
 | [On The 5](https://open.spotify.com/track/3jz7ycF3AlGpJ1EDgxqK5G) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [On The 5](https://open.spotify.com/album/7BrkM5hwqhWbtzxNnPrZVF) | 2:59 | 2021-05-01 | 2022-07-29 |
+| [One Day](https://open.spotify.com/track/1GFpfkiHbZ93p7QImi5RAO) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/3YuMUT4sLXlXBm2aDIOfOG) | 2:24 | 2022-08-12 |  |
 | [One Day](https://open.spotify.com/track/0IUprcNjE2hDtlvY8rq2W9) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Are You Alright?](https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR) | 2:24 | 2021-05-12 | 2022-08-11 |
 | [One More Time](https://open.spotify.com/track/2fUF0S4TdsP4qp8on6k2Fr) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [One More Time](https://open.spotify.com/album/0UaKvWhEeStVbk7zxTCSen) | 3:19 | 2021-05-01 | 2022-07-29 |
 | [Otro Atardecer](https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:04 | 2022-07-22 | 2022-08-13 |
@@ -416,7 +417,7 @@
 | [The Sun](https://open.spotify.com/track/4IY8Lz6j0sc2DuUva1KLNo) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [The Sun](https://open.spotify.com/album/4hI5JJDxanXbakx4MkFToA) | 3:30 | 2021-05-01 | 2022-04-21 |
 | [The Wall & I](https://open.spotify.com/track/3YopR9iqzcQei6l8DJ5Ylo) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [Introduction, Presence](https://open.spotify.com/album/6ogsolFc2FCmP8ru8fBfgQ) | 5:04 | 2021-05-01 | 2022-04-19 |
 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 | 2022-06-17 |  |
-| [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-05-01 |  |
+| [Things I Thought Were Mine](https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Happiness in Liquid Form](https://open.spotify.com/album/4hfnS7YAQNDiihGt70E3ei) | 3:13 | 2021-05-01 | 2022-08-17 |
 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 | 2021-05-01 | 2022-01-08 |
 | [This Must Be the Place](https://open.spotify.com/track/5XNFqqY6uEeHecY4vkYfwC) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [This Must Be the Place](https://open.spotify.com/album/0c2l7sS8kYtPrUouP4dbos) | 3:39 | 2021-05-01 | 2022-07-29 |
 | [This Must Be The Place](https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01) | [Sure Sure](https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ) | [Sure Sure](https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei) | 3:39 | 2022-07-22 |  |

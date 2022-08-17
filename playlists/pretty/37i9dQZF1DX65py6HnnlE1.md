@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 
 > Clásicos de la bachata\. Timeless bachata hits\. Cover: Aventura
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,441 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,806 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 27 | [Es Tan Difícil](https://open.spotify.com/track/0Ihu6hcj4hrWVz22W3G10P) | [Zacarias Ferreira](https://open.spotify.com/artist/1LKPL2O3vA3ozNsmshDg3o) | [Dime Que Falto](https://open.spotify.com/album/0mX3OGgKkGaFONpd2IfB1N) | 4:11 |
 | 28 | [Estrellitas y Duendes](https://open.spotify.com/track/0iPih0VIvzwUW8QSURL8hV) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Bachata Rosa](https://open.spotify.com/album/3lRQHKkCpntPvEoqh3C3B0) | 4:26 |
 | 29 | [Shorty, Shorty](https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 2:54 |
-| 30 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
+| 30 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
 | 31 | [Enseñame a Olvidar](https://open.spotify.com/track/79MlVxKj43tDISSISiVHJM) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [We Broke The Rules](https://open.spotify.com/album/5QdYO6Q2POaG7dhVIsJeWd) | 5:48 |
-| 32 | [Intentalo Tu](https://open.spotify.com/track/2UFQi6Zr1yeaaUaUmbw4ZI) | [Joe Veras](https://open.spotify.com/artist/3pbg6hZGMHg6G5TiuCh21K) | [Carta De Verano](https://open.spotify.com/album/0ycfoja65NlV6hdnikma8k) | 4:05 |
+| 32 | [Quién Eres Tu](https://open.spotify.com/track/0D0hqpMEi4aHukh8zP5gSF) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Cuando Se Quiere Se Puede](https://open.spotify.com/album/0FH5fGCctpEPdQBwxti1Xe) | 4:22 |
 | 33 | [La Hormiguita](https://open.spotify.com/track/2xqN3WXHLxydtRNddo0j2q) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:04 |
 | 34 | [Promise \(feat\. Usher\)](https://open.spotify.com/track/0jr6tT2vc4cIFPHb6wufG3) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Usher](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Fórmula Vol\. 1 \(Deluxe Edition\)](https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK) | 4:12 |
 | 35 | [Estoy Perdido](https://open.spotify.com/track/5a7AwolGAcBjZgNQDhRrLm) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Mil historias Edición De Lujo](https://open.spotify.com/album/75tSeRl3ukttjNf0FDcBNQ) | 4:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX65py6HnnlE1.md) - [plain]
 | 49 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
 | 50 | [Antología De Caricias](https://open.spotify.com/track/2jEgfmOjkzmdI8FFqNHrrf) | [Anthony Santos](https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A) | [La Batalla](https://open.spotify.com/album/2SoC60zXrZBkx0Q8CP8hPb) | 3:57 |
 
-Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDY3YzQ0ZTc2ZjVjN2M1MWMwMDdhZjYxOGI0NWRkMWIz`
+Snapshot ID: `MTY0MTAyNDAwMCwwMDAwMDAwMDRkNzIyOGJhMmMyNzk2NjM5YWNkMDljYzY0YmMyNDUz`

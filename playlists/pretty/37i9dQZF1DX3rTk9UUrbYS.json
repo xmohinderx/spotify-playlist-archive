@@ -1,12 +1,12 @@
 {
   "description": "Avant-garde, experimental and free jazz.",
-  "num_followers": 34292,
+  "num_followers": 34318,
   "original_name": "Avant-Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDIwZGJkNDgwYTdlMWJjOWI4NWQ2YjQ2MjVlZjYwNTAx",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDljZjg1MDJmNWQyYzgyZDQ0ZmI2Nzc1Njc2ZTdkY2Vj",
   "tracks": [
     {
       "added_at": "2020-08-25 21:55:35",
@@ -201,6 +201,38 @@
       "url": "https://open.spotify.com/track/79rm3QepPfhJogUwqV5d4u"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Lift Up My Eyes",
+        "url": "https://open.spotify.com/album/33AhxjYUAxCLg3wdZIaThe"
+      },
+      "artists": [
+        {
+          "name": "Dave Douglas Quintet",
+          "url": "https://open.spotify.com/artist/47a6PDcqoGixzRNY0SDdj5"
+        },
+        {
+          "name": "Jon Irabagon",
+          "url": "https://open.spotify.com/artist/6KvgFOz25fmSt3Iizz8tPS"
+        },
+        {
+          "name": "Matt Mitchell",
+          "url": "https://open.spotify.com/artist/5YP7nSBWjN9yoANLVzrD1G"
+        },
+        {
+          "name": "Linda May Han Oh",
+          "url": "https://open.spotify.com/artist/1TOuijxFR45Xc1702ki9VC"
+        },
+        {
+          "name": "Rudy Royston",
+          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
+        }
+      ],
+      "duration_ms": 417880,
+      "name": "Lift Up My Eyes",
+      "url": "https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE"
+    },
+    {
       "added_at": "2020-11-14 05:01:00",
       "album": {
         "name": "Horizon",
@@ -237,22 +269,6 @@
       "url": "https://open.spotify.com/track/5cVJGrUmH1aS1Mg6QveyZa"
     },
     {
-      "added_at": "2022-04-29 04:02:00",
-      "album": {
-        "name": "The Art of It",
-        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
-      },
-      "artists": [
-        {
-          "name": "Piano Duo Trio",
-          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
-        }
-      ],
-      "duration_ms": 969642,
-      "name": "Roar of the Lyons",
-      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
-    },
-    {
       "added_at": "2020-12-04 05:02:00",
       "album": {
         "name": "Nothing Unspoken Under The Sun",
@@ -279,6 +295,22 @@
       "duration_ms": 278457,
       "name": "it say, no s\u00e9",
       "url": "https://open.spotify.com/track/2VqEeQ1BvCK1VfYH3ww4I0"
+    },
+    {
+      "added_at": "2022-04-29 04:02:00",
+      "album": {
+        "name": "The Art of It",
+        "url": "https://open.spotify.com/album/06z73O9eHCki1W0obK08yA"
+      },
+      "artists": [
+        {
+          "name": "Piano Duo Trio",
+          "url": "https://open.spotify.com/artist/6o3hf6noFqTFUyboaJOD7Y"
+        }
+      ],
+      "duration_ms": 969642,
+      "name": "Roar of the Lyons",
+      "url": "https://open.spotify.com/track/3fvQYVKm4PFxOtHGVCfWOb"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -401,6 +433,22 @@
       "url": "https://open.spotify.com/track/720v6LmyIQQq3NXxkLdCvi"
     },
     {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "The Piano Equation",
+        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
+      },
+      "artists": [
+        {
+          "name": "Matthew Shipp",
+          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+        }
+      ],
+      "duration_ms": 314786,
+      "name": "Piano Equation",
+      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
+    },
+    {
       "added_at": "2022-04-29 04:02:00",
       "album": {
         "name": "Bold Dream",
@@ -427,18 +475,34 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "The Piano Equation",
-        "url": "https://open.spotify.com/album/0VX9TkVlJesmEbE5BoviB3"
+        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
+        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
       },
       "artists": [
         {
-          "name": "Matthew Shipp",
-          "url": "https://open.spotify.com/artist/1Lw2WbL7CWZXAWSLWYXq4r"
+          "name": "Sam Newsome",
+          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
         }
       ],
-      "duration_ms": 314786,
-      "name": "Piano Equation",
-      "url": "https://open.spotify.com/track/6oK8OTyvrXe5YMyers9yzz"
+      "duration_ms": 151946,
+      "name": "Straight Horns of Plenty",
+      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
+    },
+    {
+      "added_at": "2020-10-23 19:03:00",
+      "album": {
+        "name": "Supersense",
+        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
+      },
+      "artists": [
+        {
+          "name": "Steph Richards",
+          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Canopy",
+      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -461,38 +525,6 @@
       "url": "https://open.spotify.com/track/6KAn7LuDV3SYpINmzl8bMM"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Lift Up My Eyes",
-        "url": "https://open.spotify.com/album/33AhxjYUAxCLg3wdZIaThe"
-      },
-      "artists": [
-        {
-          "name": "Dave Douglas Quintet",
-          "url": "https://open.spotify.com/artist/47a6PDcqoGixzRNY0SDdj5"
-        },
-        {
-          "name": "Jon Irabagon",
-          "url": "https://open.spotify.com/artist/6KvgFOz25fmSt3Iizz8tPS"
-        },
-        {
-          "name": "Matt Mitchell",
-          "url": "https://open.spotify.com/artist/5YP7nSBWjN9yoANLVzrD1G"
-        },
-        {
-          "name": "Linda May Han Oh",
-          "url": "https://open.spotify.com/artist/1TOuijxFR45Xc1702ki9VC"
-        },
-        {
-          "name": "Rudy Royston",
-          "url": "https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY"
-        }
-      ],
-      "duration_ms": 417880,
-      "name": "Lift Up My Eyes",
-      "url": "https://open.spotify.com/track/6InYwlWA5QCUv71aYTMyZE"
-    },
-    {
       "added_at": "2020-09-18 04:02:00",
       "album": {
         "name": "The Unidentifiable",
@@ -507,38 +539,6 @@
       "duration_ms": 430053,
       "name": "The Unidentifiable",
       "url": "https://open.spotify.com/track/0dOzyVjUdcgQAUxcw8LJsx"
-    },
-    {
-      "added_at": "2020-10-23 19:03:00",
-      "album": {
-        "name": "Supersense",
-        "url": "https://open.spotify.com/album/2g4gMm8Pq3rLMANMRHlLNj"
-      },
-      "artists": [
-        {
-          "name": "Steph Richards",
-          "url": "https://open.spotify.com/artist/04zMek0jIqqa8HWAIGCBol"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Canopy",
-      "url": "https://open.spotify.com/track/2h9BKEX4eg6SCiwllNxc2T"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Sopranoville: Works for Prepared and Non-Prepared Soprano",
-        "url": "https://open.spotify.com/album/545Eo5pNpY0gWUVKzycbqs"
-      },
-      "artists": [
-        {
-          "name": "Sam Newsome",
-          "url": "https://open.spotify.com/artist/4I58gyVzxGY66yrZm5D3ke"
-        }
-      ],
-      "duration_ms": 151946,
-      "name": "Straight Horns of Plenty",
-      "url": "https://open.spotify.com/track/5VWybESIdxiN5mblUg0LXY"
     },
     {
       "added_at": "2021-10-01 04:02:00",
@@ -613,6 +613,26 @@
       "url": "https://open.spotify.com/track/5uKsWL6LKETa5xKizE04TZ"
     },
     {
+      "added_at": "2021-11-19 05:02:00",
+      "album": {
+        "name": "Playing Retention",
+        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
+      },
+      "artists": [
+        {
+          "name": "Daniel Carter",
+          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
+        },
+        {
+          "name": "Jim Clouse",
+          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
+        }
+      ],
+      "duration_ms": 458760,
+      "name": "Playing Retention",
+      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
+    },
+    {
       "added_at": "2020-08-25 21:55:35",
       "album": {
         "name": "Translinear Light",
@@ -661,26 +681,6 @@
       "url": "https://open.spotify.com/track/0GJKX05V9I7tOtGeGlUkWA"
     },
     {
-      "added_at": "2021-11-19 05:02:00",
-      "album": {
-        "name": "Playing Retention",
-        "url": "https://open.spotify.com/album/0uOZ13KE48h7MMervUQHyf"
-      },
-      "artists": [
-        {
-          "name": "Daniel Carter",
-          "url": "https://open.spotify.com/artist/783kRxpzUwR6w8ggk2vUE4"
-        },
-        {
-          "name": "Jim Clouse",
-          "url": "https://open.spotify.com/artist/6Uh5YINky16BQvJ5KboFNp"
-        }
-      ],
-      "duration_ms": 458760,
-      "name": "Playing Retention",
-      "url": "https://open.spotify.com/track/3fWp8KYdXpJpdXODLXSnjE"
-    },
-    {
       "added_at": "2022-04-15 04:02:00",
       "album": {
         "name": "Old Stories",
@@ -699,6 +699,22 @@
       "duration_ms": 374688,
       "name": "Chapter I",
       "url": "https://open.spotify.com/track/6Sz3J0ifbdSZoW8O2BIM1S"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Poetry in Motion",
+        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
+      },
+      "artists": [
+        {
+          "name": "Conference Call",
+          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "The Path",
+      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -731,22 +747,6 @@
       "duration_ms": 334762,
       "name": "Prometheus",
       "url": "https://open.spotify.com/track/6McPJR3272275IfZti9RuC"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Poetry in Motion",
-        "url": "https://open.spotify.com/album/0Y20dYkp1wEb5d4lvLtOLW"
-      },
-      "artists": [
-        {
-          "name": "Conference Call",
-          "url": "https://open.spotify.com/artist/7nhPj7gM7iUwU72LPRtFx0"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "The Path",
-      "url": "https://open.spotify.com/track/4T5BNirZQn8jjEcjNPMnQ5"
     },
     {
       "added_at": "2021-12-03 05:02:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
+        "name": "Spring (Remastered)",
+        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
+      },
+      "artists": [
+        {
+          "name": "Anthony Williams",
+          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
+        }
+      ],
+      "duration_ms": 412026,
+      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
+      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
         "name": "After Fallen Leaves",
         "url": "https://open.spotify.com/album/7Ch1GSEeikqpUTXvOHwnW2"
       },
@@ -831,22 +847,6 @@
     {
       "added_at": "2020-08-25 21:55:35",
       "album": {
-        "name": "Spring (Remastered)",
-        "url": "https://open.spotify.com/album/7IikPqlk47jXyUaXYJmM10"
-      },
-      "artists": [
-        {
-          "name": "Anthony Williams",
-          "url": "https://open.spotify.com/artist/0FO6iwNxAbcjc8IStwizj6"
-        }
-      ],
-      "duration_ms": 412026,
-      "name": "From Before - Rudy Van Gelder Edition/2009 Digital Remaster",
-      "url": "https://open.spotify.com/track/5RrbXcAuz20QkziDZAHS08"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
         "name": "Ljubljana",
         "url": "https://open.spotify.com/album/0Kc2J1LkoauNJ56CBt91Jd"
       },
@@ -863,30 +863,6 @@
       "duration_ms": 1224332,
       "name": "The Eyes Moving. Slowly.",
       "url": "https://open.spotify.com/track/1zMyY8zxLsJq344QaoKfP0"
-    },
-    {
-      "added_at": "2020-08-25 21:55:35",
-      "album": {
-        "name": "Circle Down",
-        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
-      },
-      "artists": [
-        {
-          "name": "Chad Taylor",
-          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
-        },
-        {
-          "name": "Angelica Sanchez",
-          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
-        },
-        {
-          "name": "Chris Lightcap",
-          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
-        }
-      ],
-      "duration_ms": 359466,
-      "name": "Box Step",
-      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     },
     {
       "added_at": "2020-08-25 21:55:35",
@@ -955,6 +931,30 @@
       "duration_ms": 468600,
       "name": "Explain It To Me",
       "url": "https://open.spotify.com/track/1gSwFnKQa7E5Etks6oXlzM"
+    },
+    {
+      "added_at": "2020-08-25 21:55:35",
+      "album": {
+        "name": "Circle Down",
+        "url": "https://open.spotify.com/album/5iVjIYha3Tsol3fVx8LgGB"
+      },
+      "artists": [
+        {
+          "name": "Chad Taylor",
+          "url": "https://open.spotify.com/artist/0o8c17fdXpsDbQez6drlmt"
+        },
+        {
+          "name": "Angelica Sanchez",
+          "url": "https://open.spotify.com/artist/5nTk4mPlKGQn2HCrJIsEFi"
+        },
+        {
+          "name": "Chris Lightcap",
+          "url": "https://open.spotify.com/artist/41ZBQqguJTIzwRdgg82w9a"
+        }
+      ],
+      "duration_ms": 359466,
+      "name": "Box Step",
+      "url": "https://open.spotify.com/track/1qteisqG6gO3CsYRD0gWcC"
     },
     {
       "added_at": "2021-02-27 05:01:00",

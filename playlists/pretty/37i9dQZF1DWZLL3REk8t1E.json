@@ -1,12 +1,12 @@
 {
   "description": "\u00a1A calentar garganta!",
-  "num_followers": 1076022,
+  "num_followers": 1076174,
   "original_name": "La Cantina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMDA2NjM0ZjFiNjk4ODc4NzAyMGUxMmJjOGU3MTAyNjNh",
+  "snapshot_id": "MTY1OTU1MzE2NiwwMDAwMDAwMDkwYTY2Mjk1OTY4NWNmNzM0NWNiZmRiZDQ1ZjY0ZTBh",
   "tracks": [
     {
       "added_at": "2022-08-03 18:59:26",
@@ -395,6 +395,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "Me Gusta Vivir De Noche",
+        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "Cosas Del Diablo",
         "url": "https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 169986,
       "name": "Contigo No Fue",
       "url": "https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
-        "name": "Me Gusta Vivir De Noche",
-        "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 164466,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -523,38 +523,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Amor Plat\u00f3nico",
-        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 179506,
-      "name": "Amor Plat\u00f3nico",
-      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
-        "name": "Aqu\u00ed Abajo",
-        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 144360,
-      "name": "Aqu\u00ed Abajo",
-      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "El Amor No Fue Pa\u00b4 M\u00ed (En Vivo)",
         "url": "https://open.spotify.com/album/2GmxvaOlvl9OSOW3FnVcbX"
       },
@@ -575,6 +543,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "Aqu\u00ed Abajo",
+        "url": "https://open.spotify.com/album/0OKzpAuz6d0r8OjhPN624H"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 144360,
+      "name": "Aqu\u00ed Abajo",
+      "url": "https://open.spotify.com/track/4FmVjrmM6DsBQMsGdc9PDa"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "Amor Plat\u00f3nico",
+        "url": "https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 179506,
+      "name": "Amor Plat\u00f3nico",
+      "url": "https://open.spotify.com/track/6VFimaHK7Mv5GO5NrqGYu1"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
-      },
-      "artists": [
-        {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
-        }
-      ],
-      "duration_ms": 228187,
-      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
-      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "Un Nuevo Amor",
         "url": "https://open.spotify.com/album/0qRYR5QyvLEt16G7UisMS2"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 226776,
       "name": "Un Nuevo Amor",
       "url": "https://open.spotify.com/track/4vyg50FAJjpCQEwmJMxlv1"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+        "url": "https://open.spotify.com/album/2lrBqFbFWoZddaOjUbD1DF"
+      },
+      "artists": [
+        {
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+        }
+      ],
+      "duration_ms": 228187,
+      "name": "\u00bfCon Qu\u00e9 Se Pega un Coraz\u00f3n?",
+      "url": "https://open.spotify.com/track/6C9gYd0KyVHYgxaJu4c9Td"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "Le Hace Falta Un Beso",
+        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
+      },
+      "artists": [
+        {
+          "name": "El Chapo De Sinaloa",
+          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
+        }
+      ],
+      "duration_ms": 167897,
+      "name": "Le Hace Falta Un Beso",
+      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "M\u00e1s Muerto Que Vivo",
         "url": "https://open.spotify.com/album/4LwHkby3HSNOaz6NH2buDg"
       },
@@ -879,22 +895,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Le Hace Falta Un Beso",
-        "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
-      },
-      "artists": [
-        {
-          "name": "El Chapo De Sinaloa",
-          "url": "https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t"
-        }
-      ],
-      "duration_ms": 167897,
-      "name": "Le Hace Falta Un Beso",
-      "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "Afortunado",
         "url": "https://open.spotify.com/album/22e1rqsSwL5RHuuqkYlDJZ"
       },
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "100 A\u00f1os",
-        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 185074,
-      "name": "100 A\u00f1os",
-      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "100 A\u00f1os",
+        "url": "https://open.spotify.com/album/1LmIj33OFO9d1XMh9jRecz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 185074,
+      "name": "100 A\u00f1os",
+      "url": "https://open.spotify.com/track/4XKC4nfeXgyd4KQDu8arKL"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "El Malo",
+        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 177194,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "Con Un Botecito A Pecho",
         "url": "https://open.spotify.com/album/1Vm0rnopJSpZ7g5W41ca8k"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 176133,
       "name": "Con Un Botecito A Pecho",
       "url": "https://open.spotify.com/track/1IqbC17XpPQ80i5gPAFnp1"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
-        "name": "El Malo",
-        "url": "https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 177194,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/6mLX6uVPp6uLlBVim1rR82"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
         "name": "A Trav\u00e9s Del Vaso",
         "url": "https://open.spotify.com/album/27hMg5MlBaww37hBPzS0ot"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 180120,
       "name": "A Trav\u00e9s Del Vaso",
       "url": "https://open.spotify.com/track/1uqjLVaSyTkdDvfGAmXrHo"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
     },
     {
       "added_at": "2022-08-03 18:59:26",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-08-03 18:59:26",
       "album": {
+        "name": "En El Area De Sue\u00f1os",
+        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
+      },
+      "artists": [
+        {
+          "name": "Duelo",
+          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
+        }
+      ],
+      "duration_ms": 153266,
+      "name": "Le Dije Al Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
+    },
+    {
+      "added_at": "2022-08-03 18:59:26",
+      "album": {
         "name": "Caballero",
         "url": "https://open.spotify.com/album/0hfscUH57noj17kB2Aun2C"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
-    },
-    {
-      "added_at": "2022-08-03 18:59:26",
-      "album": {
-        "name": "En El Area De Sue\u00f1os",
-        "url": "https://open.spotify.com/album/6pHjYeVeqfrhY7urDyaand"
-      },
-      "artists": [
-        {
-          "name": "Duelo",
-          "url": "https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq"
-        }
-      ],
-      "duration_ms": 153266,
-      "name": "Le Dije Al Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/23IJBnRVYyPd2GD0mAkZTp"
     },
     {
       "added_at": "2022-08-03 18:59:26",

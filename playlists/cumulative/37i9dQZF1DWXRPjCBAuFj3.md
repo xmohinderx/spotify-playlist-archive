@@ -4,7 +4,7 @@
 
 > I rapper più forti del mondo in una sola playlist\. Cover: Central Cee
 
-163 songs - 8 hr 30 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
+164 songs - 8 hr 32 min - [published](https://open.spotify.com/playlist/7nFpRUHzCdFcv1vSsvGf3y)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 | 2022-05-10 |  |
 | [Hall of Fame](https://open.spotify.com/track/0ehikRZdaCWkqg5gd8ilMJ) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g) | [Hall of Fame](https://open.spotify.com/album/539xX0m6Y317DJwlQWlSsR) | 3:58 | 2022-07-29 |  |
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2022-05-10 |  |
+| [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-08-12 |  |
 | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/track/2IePEfMAtqWS6rLXXFZIgI) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [His & Hers \(feat\. Don Toliver, Lil Uzi Vert & Gunna\)](https://open.spotify.com/album/1arPptaPtDyBisMtMBe2q6) | 3:44 | 2022-05-10 |  |
 | [HOLIDAY](https://open.spotify.com/track/6zFMeegAMYQo0mt8rXtrli) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [HOLIDAY](https://open.spotify.com/album/4EvukZrmNBiqJbs3LwOSHu) | 2:34 | 2022-05-13 |  |
 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 | 2022-07-28 |  |
@@ -102,7 +103,7 @@
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-13 | 2022-07-29 |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-05-10 |  |
 | [Neck & Wrist \(feat\. JAY\-Z & Pharrell\)](https://open.spotify.com/track/5QNW6Vx14N4OfJ7D0eDg0d) | [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Neck & Wrist](https://open.spotify.com/album/0MomByEXmXNIZEuN2cJkw3) | 3:29 | 2022-05-22 | 2022-07-29 |
-| [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2022-05-10 |  |
+| [NEVER LEFT](https://open.spotify.com/track/21UkXrc9kD48rNpTMI2ecz) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [NEVER LEFT](https://open.spotify.com/album/0PMJvFnZxXl9LToaZFHhxp) | 2:48 | 2022-05-10 | 2022-08-17 |
 | [Never Sleep \(with Lil Baby feat\. Travis Scott\)](https://open.spotify.com/track/3GdWfmQBiiJrDUvSZS1bGv) | [NAV](https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Never Sleep](https://open.spotify.com/album/4DTaEd8bTR412zUcBqv2VN) | 3:05 | 2022-07-29 |  |
 | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/track/7z5G2LOdV8okZn4yWg3q5g) | [A1 x J1](https://open.spotify.com/artist/1WO1hFAkFbeo9tV3uVX7Dy), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Night Away \(Dance\) \(feat\. Tion Wayne\)](https://open.spotify.com/album/6WQPgcOtZCoXGBZQOxDJQ0) | 2:55 | 2022-05-10 |  |
 | [Obsessed With You](https://open.spotify.com/track/4PYfFHKfjYz6dwAtZhBy1z) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Obsessed With You](https://open.spotify.com/album/1gXyOc0Unev5AqD9X248v9) | 1:48 | 2022-05-10 |  |

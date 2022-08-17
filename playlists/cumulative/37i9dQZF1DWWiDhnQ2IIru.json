@@ -4168,6 +4168,24 @@
     },
     {
       "album": {
+        "name": "Greatest Hits 1974-78",
+        "url": "https://open.spotify.com/album/5hLazW5a3Ysgy3dncwGgUn"
+      },
+      "artists": [
+        {
+          "name": "Steve Miller Band",
+          "url": "https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk"
+        }
+      ],
+      "date_added": "2021-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217800,
+      "name": "The Joker",
+      "url": "https://open.spotify.com/track/6FKU84JHM1lbiy5Dx0Dyqd"
+    },
+    {
+      "album": {
         "name": "Lust For Life",
         "url": "https://open.spotify.com/album/2jnV6ytZOmt71iEC5xHEYz"
       },
@@ -4579,7 +4597,7 @@
       ],
       "date_added": "2021-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 264413,
       "name": "What Is Life - Remastered 2014",
       "url": "https://open.spotify.com/track/76TpWFiK5YCgw1hy26DWZp"

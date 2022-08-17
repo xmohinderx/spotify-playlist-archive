@@ -1,12 +1,12 @@
 {
   "description": "Korean hipster & experimental music essential. \ub2f9\uc2e0\uc758 \ud799\uc2a4\ud130 \uac10\uc131\uc744 \ucda9\uc804\ud574\uc904 \uc778\ub514 \uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (Cover: Zayvo(\uc81c\uc774\ubcf4))",
-  "num_followers": 5614,
+  "num_followers": 5633,
   "original_name": "Hipster K' Pack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTQ1MiwwMDAwMDAwMGE0MGNiYzI3OWE3Yjg3NTMxMjA2MjNmZTYwNjZiMTJl",
+  "snapshot_id": "MTY2MDMyOTQ1MiwwMDAwMDAwMDYzYmE5MGUwMGNkODNhYzA4NDU5YmYyNjNiNDYyMGQ0",
   "tracks": [
     {
       "added_at": "2022-08-12 18:37:32",
@@ -203,26 +203,6 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "Year to Year / 29",
-        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 228872,
-      "name": "29",
-      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
         "name": "I would",
         "url": "https://open.spotify.com/album/5yvin43lPsMOW6tQiHF3oq"
       },
@@ -243,6 +223,26 @@
       "duration_ms": 205563,
       "name": "I would",
       "url": "https://open.spotify.com/track/5IOAXuRLWNGAuOXL2YVwf8"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
+        "name": "Year to Year / 29",
+        "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 228872,
+      "name": "29",
+      "url": "https://open.spotify.com/track/0JeokLKCya7SZGpGjqNcAQ"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
+        "name": "Somebody stole my phone",
+        "url": "https://open.spotify.com/album/2DfuvCbS7AZeNserdLSlSO"
+      },
+      "artists": [
+        {
+          "name": "heyden",
+          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+        }
+      ],
+      "duration_ms": 184818,
+      "name": "Somebody stole my phone",
+      "url": "https://open.spotify.com/track/6kG5ucgIjxvmBSz8UTmFMf"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
         "name": "Year to Year / 29",
         "url": "https://open.spotify.com/album/4MFBV5hzpMFFTLkv78Jxan"
       },
@@ -319,34 +335,18 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "Somebody stole my phone",
-        "url": "https://open.spotify.com/album/2DfuvCbS7AZeNserdLSlSO"
+        "name": "theme park",
+        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
       },
       "artists": [
         {
-          "name": "heyden",
-          "url": "https://open.spotify.com/artist/2ZIDhUnok7DtASQi5blDnE"
+          "name": "chilly",
+          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
         }
       ],
-      "duration_ms": 184818,
-      "name": "Somebody stole my phone",
-      "url": "https://open.spotify.com/track/6kG5ucgIjxvmBSz8UTmFMf"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
-        "name": "Strawberry Kisses",
-        "url": "https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        }
-      ],
-      "duration_ms": 181921,
-      "name": "Strawberry Kisses",
-      "url": "https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v"
+      "duration_ms": 229500,
+      "name": "theme park",
+      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -375,6 +375,22 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
+        "name": "Strawberry Kisses",
+        "url": "https://open.spotify.com/album/4YXBkMO5Gf4w9YwZo6yja6"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        }
+      ],
+      "duration_ms": 181921,
+      "name": "Strawberry Kisses",
+      "url": "https://open.spotify.com/track/5wyau6dzDldoBsya9pwQ8v"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
         "name": "Signs",
         "url": "https://open.spotify.com/album/3QZlhnWxRlERxUsfuzHmk6"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 145081,
       "name": "Signs",
       "url": "https://open.spotify.com/track/7cFCyAUvXLHHWdhJ7fdtRk"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
-        "name": "theme park",
-        "url": "https://open.spotify.com/album/5Tltw8nlbaJhFiavrLIh6i"
-      },
-      "artists": [
-        {
-          "name": "chilly",
-          "url": "https://open.spotify.com/artist/0xqJO0QQzAus8twmNudscb"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "theme park",
-      "url": "https://open.spotify.com/track/7wxmAq4BHKdqsDZLIzMfaD"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -459,6 +459,26 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "Eelittlee",
+          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "GO! (feat. Eelittlee)",
+      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
         "name": "Rehab",
         "url": "https://open.spotify.com/album/7shV9Ltl8Cd7yjQgARX6J6"
       },
@@ -511,26 +531,6 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
-      },
-      "artists": [
-        {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        },
-        {
-          "name": "Eelittlee",
-          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
-        }
-      ],
-      "duration_ms": 197306,
-      "name": "GO! (feat. Eelittlee)",
-      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
         "name": "Amoo-rae-do",
         "url": "https://open.spotify.com/album/5javGGT9UBP0kc0ayoWCGP"
       },
@@ -559,6 +559,22 @@
       "duration_ms": 98000,
       "name": "I LOVE YOU",
       "url": "https://open.spotify.com/track/4hTDFUxvF9hx6WH1xsZigc"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        }
+      ],
+      "duration_ms": 159866,
+      "name": "SPACE MULAN",
+      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -615,18 +631,22 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/4GMuwZdk6fdruHwLWZe83a"
+        "name": "SPACE TALK",
+        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
       },
       "artists": [
         {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "Jvcki Wai",
+          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
         }
       ],
-      "duration_ms": 159866,
-      "name": "SPACE MULAN",
-      "url": "https://open.spotify.com/track/2PhUsk5qimnIOOEoQ80ErP"
+      "duration_ms": 159735,
+      "name": "GGOOM (feat. Jvcki Wai)",
+      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -643,26 +663,6 @@
       "duration_ms": 212466,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/6v59lnIteygPc2wwfjWTPz"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
-        "name": "SPACE TALK",
-        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
-      },
-      "artists": [
-        {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "GOLDBUUDA",
-          "url": "https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV"
-        }
-      ],
-      "duration_ms": 108562,
-      "name": "Golden Mulan",
-      "url": "https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -743,22 +743,18 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "SPACE TALK",
-        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
+        "name": "MAGO",
+        "url": "https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s"
       },
       "artists": [
         {
-          "name": "Lil Cherry",
-          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
-        },
-        {
-          "name": "Jvcki Wai",
-          "url": "https://open.spotify.com/artist/4bjcB3ZKiHgPzJvY2S2FLN"
+          "name": "Lim Kim",
+          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
         }
       ],
-      "duration_ms": 159735,
-      "name": "GGOOM (feat. Jvcki Wai)",
-      "url": "https://open.spotify.com/track/5A5BNPzrLuPZROBKVS03GL"
+      "duration_ms": 129255,
+      "name": "MAGO",
+      "url": "https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -783,22 +779,6 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "MAGO",
-        "url": "https://open.spotify.com/album/6ovdLouqSWRHE2S0hS4w9s"
-      },
-      "artists": [
-        {
-          "name": "Lim Kim",
-          "url": "https://open.spotify.com/artist/4kGuk6HkL6hwuQrgSWISBv"
-        }
-      ],
-      "duration_ms": 129255,
-      "name": "MAGO",
-      "url": "https://open.spotify.com/track/6iP7hB87nBg1mk69noCZdu"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
         "name": "bye",
         "url": "https://open.spotify.com/album/0oseRcehjjM5JjwC7zU4ID"
       },
@@ -815,18 +795,38 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
-        "name": "Who Are You",
-        "url": "https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN"
+        "name": "HOWL",
+        "url": "https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob"
       },
       "artists": [
         {
-          "name": "We Are The Night",
-          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Who Are You",
-      "url": "https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J"
+      "duration_ms": 212481,
+      "name": "HOWL",
+      "url": "https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
+        "name": "SPACE TALK",
+        "url": "https://open.spotify.com/album/2fCmv8LfALrhNR1yM8jsn1"
+      },
+      "artists": [
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        },
+        {
+          "name": "GOLDBUUDA",
+          "url": "https://open.spotify.com/artist/1C6mRx44pGqKBwZKotODDV"
+        }
+      ],
+      "duration_ms": 108562,
+      "name": "Golden Mulan",
+      "url": "https://open.spotify.com/track/3TyqYJXhWkEhSsewdc0XEF"
     },
     {
       "added_at": "2022-08-12 18:37:32",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-08-12 18:37:32",
       "album": {
+        "name": "Who Are You",
+        "url": "https://open.spotify.com/album/0AJedZzGLJy6NlD8eaI9QN"
+      },
+      "artists": [
+        {
+          "name": "We Are The Night",
+          "url": "https://open.spotify.com/artist/5UT1mOF7JAjcc7e3wen8vw"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Who Are You",
+      "url": "https://open.spotify.com/track/1DIcwjXEd7kmzVpxqWBK5J"
+    },
+    {
+      "added_at": "2022-08-12 18:37:32",
+      "album": {
         "name": "Format",
         "url": "https://open.spotify.com/album/7IVXJq84oVDxFmDQIHHkrR"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 240598,
       "name": "Wait",
       "url": "https://open.spotify.com/track/2ILuzHZ3x0KUctLIpYhVAg"
-    },
-    {
-      "added_at": "2022-08-12 18:37:32",
-      "album": {
-        "name": "HOWL",
-        "url": "https://open.spotify.com/album/5BzJygUNWvRFzkUBI460Ob"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 212481,
-      "name": "HOWL",
-      "url": "https://open.spotify.com/track/10WHVzgIky5w6pIgG8tePU"
     },
     {
       "added_at": "2022-08-12 18:37:32",

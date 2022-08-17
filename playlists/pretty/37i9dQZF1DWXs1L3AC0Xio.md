@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 
 > lighters up for these awesome rock ballads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,793 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 618,952 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 22 | [Black Smoke Rising](https://open.spotify.com/track/32BEasyNQgqXQJKoVa0fUw) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [From The Fires](https://open.spotify.com/album/6uSnHSIBGKUiW1uKQLYZ7w) | 4:19 |
 | 23 | [If Today Was Your Last Day](https://open.spotify.com/track/4QJLKU75Rg4558f4LbDBRi) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [Dark Horse](https://open.spotify.com/album/0GQ9AZBJSj109gmSdSrviC) | 4:09 |
 | 24 | [Blurry](https://open.spotify.com/track/6lSr3iZTC144PKhvbPFzMp) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/5DLx1IHDoyBHyjF4UggiSe) | 5:04 |
-| 25 | [With Arms Wide Open](https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 4:34 |
-| 26 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 |
+| 25 | [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 |
+| 26 | [With Arms Wide Open](https://open.spotify.com/track/0eKyHwckh9vQb8ncZ2DXCs) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Human Clay](https://open.spotify.com/album/3Nyjm9NBEdiaiWr2BEaV46) | 4:34 |
 | 27 | [Bother](https://open.spotify.com/track/0AfIsqZ4gTUg9CwwW2jLeK) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Stone Sour](https://open.spotify.com/album/1zxVmbhE7PevJT8Z6w6upn) | 4:00 |
 | 28 | [Disarm \- Remastered](https://open.spotify.com/track/6YIggUJW3ttAAPRdnki8RM) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Siamese Dream \(Deluxe Edition\)](https://open.spotify.com/album/0bQglEvsHphrS19FGODEGo) | 3:16 |
 | 29 | [You \- Live](https://open.spotify.com/track/66MhEsUuahsQOxNR4RJv9Z) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [ATTENTION: MILEY LIVE](https://open.spotify.com/album/534enKHcsPhMQOc0TM2yhw) | 3:01 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 60 | [Broken Heart of Gold](https://open.spotify.com/track/1puWjVZrdvVGsR6RFz14Ca) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Broken Heart of Gold](https://open.spotify.com/album/2sX77wIPm2vTTQMdC81ND9) | 4:13 |
 | 61 | [How Did You Love \- Piano Version](https://open.spotify.com/track/5QLUdCEJ1oJkFPiPg7sEdd) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [How Did You Love](https://open.spotify.com/album/0PFYjO7SxBpUUtwR91gvJP) | 3:05 |
 | 62 | [Don't Change](https://open.spotify.com/track/6do9iwoqKRIvEvRTsXlOoZ) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [STILL SUCKS](https://open.spotify.com/album/2lZ9RqGnGXH8gtH3DK02tJ) | 2:55 |
-| 63 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 |
-| 64 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
+| 63 | [Dear Agony \- Aurora Version](https://open.spotify.com/track/5l3W66TDufGaj6lfSA5LRZ) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP), [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Aurora](https://open.spotify.com/album/3pfiqQljVzq48rfw0bNdpz) | 4:15 |
+| 64 | [Fare Thee Well](https://open.spotify.com/track/1fzw0qGcB6xs4IBXhdfAkj) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Perdida](https://open.spotify.com/album/27evZfDFySSv4dcje8afMI) | 4:21 |
 | 65 | [Lucy](https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM) | [Skillet](https://open.spotify.com/artist/49bzE5vRBRIota4qeHtQM8) | [Awake](https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1) | 3:38 |
 | 66 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 67 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
@@ -87,17 +87,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 77 | [Darlin'](https://open.spotify.com/track/4Ppc2CyPzXObEOLgDkP5ZR) | [Goodbye June](https://open.spotify.com/artist/1l9I7G8J8AnMScWQwlNJ4M) | [Magic Valley](https://open.spotify.com/album/4GQp1LbFHcJVkS9M5HUzAL) | 5:00 |
 | 78 | [Wasted Years](https://open.spotify.com/track/2JG2OmmwZ5x2RkX0uR5w4k) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [Year Of The Spider](https://open.spotify.com/album/0XxmvWFp66NnlSxco9i7yr) | 4:07 |
 | 79 | [The Unknown](https://open.spotify.com/track/7Eg9qnJK7hI7LLoRsbvH2X) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 2:59 |
-| 80 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
-| 81 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
+| 80 | [Mary Go Round](https://open.spotify.com/track/79qct0g1MbfPTXTHWqLCzF) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [Everybody Wants](https://open.spotify.com/album/7iLnNik9W0ttekJblYrVfj) | 3:19 |
+| 81 | [Emotionless](https://open.spotify.com/track/7jNf4cQOXGYqpsvm1iGsqP) | [Red Sun Rising](https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX) | [Polyester Zeal](https://open.spotify.com/album/10EVrtkAgTTc7rE61zk8nw) | 4:22 |
 | 82 | [Wicked Game \- Acoustic; Live](https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[Special Edition\]](https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV) | 4:27 |
 | 83 | [You](https://open.spotify.com/track/0XaPN9mU1BgLJZhuCxzc6T) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/2vv6A1vmzEcnzaIkrKveJy) | 3:32 |
 | 84 | [Flawless](https://open.spotify.com/track/1Q7Z7PQlHkuKF1F9fK5VOd) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [28 Days In The Valley](https://open.spotify.com/album/3Wl7Bde5TcxZX3ZJweBE9d) | 4:02 |
 | 85 | [Maybe It's Time](https://open.spotify.com/track/474cWGKmOKwDTmMUAAF6kj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Prayers for the Blessed](https://open.spotify.com/album/3rxehUgLLUBibFH3iDioVe) | 4:21 |
 | 86 | [Things My Father Said](https://open.spotify.com/track/2ZceU5sfgcH5h7bIsFuuXT) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Folklore and Superstition](https://open.spotify.com/album/43qxerasfPdTnMQbXX6TVb) | 3:53 |
 | 87 | [Doomsday \- Piano Reprise](https://open.spotify.com/track/5uH7FUDrEoEk7ii23XIxQD) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Doomsday \(Piano Reprise\)](https://open.spotify.com/album/3qugOscI33flKHeUONCfLh) | 4:05 |
-| 88 | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt) | 3:39 |
+| 88 | [There For You](https://open.spotify.com/track/1zv1uaP9iNiayFjeprolnB) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:47 |
 | 89 | [St\. Marie](https://open.spotify.com/track/16815x8pHjZuPcpzzz4Bnn) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:27 |
-| 90 | [There For You](https://open.spotify.com/track/1zv1uaP9iNiayFjeprolnB) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [Flyleaf](https://open.spotify.com/album/4Hv9JeNCe9bMyTrgt9NjXt) | 2:47 |
+| 90 | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/track/51qppaTjmtD3fclww1e8W1) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1), [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Hear Me Now \(feat\. DIAMANTE\)](https://open.spotify.com/album/74tazqoF1ry3hGIhXZXKUt) | 3:39 |
 | 91 | [Quiet Now](https://open.spotify.com/track/41ZjzkJRYKHo4seEv9MSBI) | [Cold](https://open.spotify.com/artist/0Gw3a3BkWLwsMLFbOBmo6Q) | [The Things We Can´t Stop](https://open.spotify.com/album/6Y269q2NP4FXullO3NxBDE) | 4:14 |
 | 92 | [Til Kingdom Come](https://open.spotify.com/track/34DkG8okUA8MhwbAwqc1wy) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [UP](https://open.spotify.com/album/6uyRHyNcSbGZZCP2JxaMrZ) | 5:39 |
 | 93 | [Our Loved Ones](https://open.spotify.com/track/1Fekh45eTzyteap9YgmOr1) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Outlaw Gentlemen & Shady Ladies](https://open.spotify.com/album/5SBrIIYCvThaqN9r1SV2pv) | 4:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXs1L3AC0Xio.md) - [plain]
 | 99 | [I Wanna Be Okay](https://open.spotify.com/track/7C1i5fpwpa1fNyF0zOepSR) | [Blindlove](https://open.spotify.com/artist/4kik9QpAkbd0a9hY8C3w9q) | [I Wanna Be Okay](https://open.spotify.com/album/69x5qpqLM9SkZLUDMr1fdv) | 3:42 |
 | 100 | [Life Is Beautiful 2017](https://open.spotify.com/track/2Et49kpeirx87RIqwJ9Hdj) | [Sixx:A.M.](https://open.spotify.com/artist/3886aFez2HDLkio5tUzmP6) | [Life Is Beautiful 2017](https://open.spotify.com/album/0l9cMT1BVOnqrgsYFRFvrr) | 4:30 |
 
-Snapshot ID: `MTY2MDU5NDQ0MCwwMDAwMDAwMGI2MWIwYmE3ZTIyZmM3NGNhOWExYTM3M2Y3NTMwMTYy`
+Snapshot ID: `MTY2MDU5NDQ0MCwwMDAwMDAwMGY4NWE4YjQ0M2I1MmRiZDZmYzI5MGIzM2Q2ODJhZjMz`

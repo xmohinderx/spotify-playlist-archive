@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the biggest <a href=\"https://www.instagram.com/sonymusiclatin/\">Sony Music Latin</a> hits! Follow this playlist for hot new updates. Cover: Silvestre Dangond",
-  "num_followers": 56848,
+  "num_followers": 56845,
   "original_name": "Top Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "MzQwNiw2OWI1ZDNkMmYxOGQ2ZTJiZTAyZTQ0MDg1NTZhYzE1OTMwZDkyNWZi",
+  "snapshot_id": "MzQwOCwxYTAzYzBlMmY0NzZlYTYzZjA0MGJlMDg3NWQ0YWQ3YmRkNzM1Yjc2",
   "tracks": [
     {
       "added_at": "2022-08-11 22:03:23",
@@ -23,6 +23,22 @@
       "duration_ms": 195564,
       "name": "Pa Que",
       "url": "https://open.spotify.com/track/1Xeocn50sUEglN2083ISju"
+    },
+    {
+      "added_at": "2022-08-16 22:02:40",
+      "album": {
+        "name": "La Chain",
+        "url": "https://open.spotify.com/album/5JrH2FXWYe541F1YAdDkid"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 139518,
+      "name": "La Chain",
+      "url": "https://open.spotify.com/track/5lkgHMBFyhk6P3jinwsYo0"
     },
     {
       "added_at": "2022-08-12 04:02:07",
@@ -199,6 +215,26 @@
       "duration_ms": 165533,
       "name": "Plut\u00f3n",
       "url": "https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke"
+    },
+    {
+      "added_at": "2022-08-16 20:31:14",
+      "album": {
+        "name": "CORA\u00c7\u00c3O CIGANO (Ao Vivo)",
+        "url": "https://open.spotify.com/album/70fOdx8p8kWMOIZzBY3dGj"
+      },
+      "artists": [
+        {
+          "name": "Luan Santana",
+          "url": "https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 209928,
+      "name": "CORA\u00c7\u00c3O CIGANO - Ao Vivo",
+      "url": "https://open.spotify.com/track/1LF8IUjHfiXEbTOjpxMULN"
     },
     {
       "added_at": "2022-07-21 22:05:24",

@@ -1,12 +1,12 @@
 {
   "description": "El inolvidable sonido del amor nunca hab\u00eda estado tan cerca de ti.",
-  "num_followers": 52010,
+  "num_followers": 52047,
   "original_name": "Boleros en Casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGFlZjM5ZjQyNWQ4NDNkYWU2ODk1NjgzZDY5MmI1NTE5",
+  "snapshot_id": "MTYzOTcxNzI2MCwwMDAwMDAwMGNmZDUyYjQ0ZTY3ZDc1NGM1YmI2OTM5NTk5ZjhiYmE3",
   "tracks": [
     {
       "added_at": "2021-12-17 05:01:00",
@@ -131,6 +131,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "A Mis Amigos",
+        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
+      },
+      "artists": [
+        {
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+        }
+      ],
+      "duration_ms": 140706,
+      "name": "Perfidia",
+      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Ojitos de Aceituna",
         "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 167221,
       "name": "Ojitos de Aceituna",
       "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "A Mis Amigos",
-        "url": "https://open.spotify.com/album/5zcIAONlMUtS6U5aSX97bc"
-      },
-      "artists": [
-        {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
-        }
-      ],
-      "duration_ms": 140706,
-      "name": "Perfidia",
-      "url": "https://open.spotify.com/track/3QQl3tSiEooVLQvC8IT5EE"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -355,22 +355,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Esencial Ana y Victor",
-        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
-      },
-      "artists": [
-        {
-          "name": "Ana Bel\u00e9n",
-          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
-        }
-      ],
-      "duration_ms": 185240,
-      "name": "La Mentira",
-      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 155666,
       "name": "\u00danicamente Tu",
       "url": "https://open.spotify.com/track/4DTfQauneAY5cjuTMTfSMQ"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Esencial Ana y Victor",
+        "url": "https://open.spotify.com/album/5PqWboO8JlSZ2OGBlJGBBn"
+      },
+      "artists": [
+        {
+          "name": "Ana Bel\u00e9n",
+          "url": "https://open.spotify.com/artist/4NOZW7dBOmBMMAG9EGQd4t"
+        }
+      ],
+      "duration_ms": 185240,
+      "name": "La Mentira",
+      "url": "https://open.spotify.com/track/46Q6e4fQyElbUyg4Jivhts"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -607,6 +607,26 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "Loca Ansiedad",
+        "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
+      },
+      "artists": [
+        {
+          "name": "Raul Lopez",
+          "url": "https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S"
+        },
+        {
+          "name": "Orquesta de Ricaurte Arias",
+          "url": "https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr"
+        }
+      ],
+      "duration_ms": 175333,
+      "name": "Loca Ansiedad",
+      "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Poker de Ases",
         "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
       },
@@ -639,26 +659,6 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Loca Ansiedad",
-        "url": "https://open.spotify.com/album/2JGjsZpQxsRZlNobxeLr4s"
-      },
-      "artists": [
-        {
-          "name": "Raul Lopez",
-          "url": "https://open.spotify.com/artist/0WoNXUXKyGZ4gzN2uJgp6S"
-        },
-        {
-          "name": "Orquesta de Ricaurte Arias",
-          "url": "https://open.spotify.com/artist/7wR8LmVjcmGvqdOHZGhWAr"
-        }
-      ],
-      "duration_ms": 175333,
-      "name": "Loca Ansiedad",
-      "url": "https://open.spotify.com/track/4ALC5ZxsZDggCppZcqOrNO"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
         "name": "La Voz Elegante del Bolero",
         "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
       },
@@ -671,22 +671,6 @@
       "duration_ms": 163400,
       "name": "Se\u00f1or Abogado",
       "url": "https://open.spotify.com/track/1UAtOGKYcUw9b3Kwq9GMPl"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Un Bolero un Vals",
-        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
-      },
-      "artists": [
-        {
-          "name": "Eva Ayll\u00f3n",
-          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
-        }
-      ],
-      "duration_ms": 384253,
-      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
-      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -707,18 +691,18 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "El Bolerista De Am\u00e9rica",
-        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+        "name": "Un Bolero un Vals",
+        "url": "https://open.spotify.com/album/5IcQgIVDhWwn5BWXqVbBZo"
       },
       "artists": [
         {
-          "name": "Felipe Pirela",
-          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+          "name": "Eva Ayll\u00f3n",
+          "url": "https://open.spotify.com/artist/6AQFORISOneOZkh6r1sGS2"
         }
       ],
-      "duration_ms": 173373,
-      "name": "Ese Bolero Es M\u00edo",
-      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
+      "duration_ms": 384253,
+      "name": "Qu\u00e9 Quieres T\u00fa de Mi / De Qu\u00e9 Estoy Hecha",
+      "url": "https://open.spotify.com/track/5umXQ7OjEhHaZ4iIXi19pT"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -735,6 +719,22 @@
       "duration_ms": 132426,
       "name": "Amor De Pobre",
       "url": "https://open.spotify.com/track/7b280q5Y2W7X4a6lNTln2B"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "El Bolerista De Am\u00e9rica",
+        "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pirela",
+          "url": "https://open.spotify.com/artist/6PbZObu8NuIhiU6L0OzkZN"
+        }
+      ],
+      "duration_ms": 173373,
+      "name": "Ese Bolero Es M\u00edo",
+      "url": "https://open.spotify.com/track/37gfxVderzFMP4zRiFdSPa"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
+        "name": "La Voz Elegante del Bolero",
+        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
+      },
+      "artists": [
+        {
+          "name": "Johnny Farf\u00e1n",
+          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
+        }
+      ],
+      "duration_ms": 145426,
+      "name": "Brujerias",
+      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
         "name": "Inolvidable (Boleros)",
         "url": "https://open.spotify.com/album/28FSqSrZWqwnzdtBswzkiv"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 194351,
       "name": "Sendas Distintas",
       "url": "https://open.spotify.com/track/1dDww9N6QpAVCo8wGLbqjv"
-    },
-    {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "La Voz Elegante del Bolero",
-        "url": "https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H"
-      },
-      "artists": [
-        {
-          "name": "Johnny Farf\u00e1n",
-          "url": "https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj"
-        }
-      ],
-      "duration_ms": 145426,
-      "name": "Brujerias",
-      "url": "https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR"
     },
     {
       "added_at": "2021-12-17 05:01:00",
@@ -995,18 +995,22 @@
     {
       "added_at": "2021-12-17 05:01:00",
       "album": {
-        "name": "Poker de Ases",
-        "url": "https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK"
+        "name": "Busco Tu Recuerdo",
+        "url": "https://open.spotify.com/album/712zLccAgcwxoh0ZbblavG"
       },
       "artists": [
         {
-          "name": "Guiller",
-          "url": "https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF"
+          "name": "Charlie Figueroa",
+          "url": "https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS"
+        },
+        {
+          "name": "La Sonora Malecon Club",
+          "url": "https://open.spotify.com/artist/5g6KQqUX1SIIiwRxzMOO3U"
         }
       ],
-      "duration_ms": 184013,
-      "name": "El Hijo Var\u00f3n",
-      "url": "https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy"
+      "duration_ms": 163360,
+      "name": "Busco Tu Recuerdo",
+      "url": "https://open.spotify.com/track/2PYE3DJ2T10PtmKRR0sDCi"
     }
   ],
   "unique_name": "Boleros en Casa",

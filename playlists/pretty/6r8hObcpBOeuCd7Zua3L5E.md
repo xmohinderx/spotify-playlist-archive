@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6r8hObcpBOeuCd7Zua3L5E.md) - [plain]
 
 > Sped up songs from TikTok and around the web! Discover the latest sped up songs and sped up versions of songs, and discover new favorites!
 
-[digster.fm](https://open.spotify.com/user/digster.fm) - 23,921 likes - 50 songs - 2 hr 3 min
+[digster.fm](https://open.spotify.com/user/digster.fm) - 23,918 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

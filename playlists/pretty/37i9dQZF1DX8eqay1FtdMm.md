@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 
 > Meet Korea's representative eardrum boyfriend & girlfriend vocals\. \(Cover: Kim MinSeok\(김민석\)\) \(한국을 대표하는 고막남친 & 고막여친 보컬들을 만나보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,199 likes - 58 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,328 likes - 58 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,25 +27,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 17 | [When This Rain Stops](https://open.spotify.com/track/6mavVLsxaa4YcPje9qZKcf) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Like Water \- The 1st Mini Album](https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7) | 4:04 |
 | 18 | [11:11](https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [My Voice \- The 1st Album \(Deluxe Edition\)](https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO) | 3:43 |
 | 19 | [For You](https://open.spotify.com/track/0JL7DoEqAUcOntWmBuOSdh) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [For You](https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz) | 3:25 |
-| 20 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 |
-| 21 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
-| 22 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 |
-| 23 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
+| 20 | [180 Degree](https://open.spotify.com/track/0O5bo4CqoUcXGyRPoeTHSB) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [180˚](https://open.spotify.com/album/0oBH83eLqK72jLRzrbPBH6) | 3:49 |
+| 21 | [Don’t Forget](https://open.spotify.com/track/0THW04vlFAkfflASMFam0t) | [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Don't Forget](https://open.spotify.com/album/1MSev7n5ZJvkZiEXV4R9bt) | 3:39 |
+| 22 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 |
+| 23 | [Stay Here](https://open.spotify.com/track/20mZ4O5ztRZltdvLEJbi4z) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Stay Here](https://open.spotify.com/album/7asMIo6qEhr9Gt5rE1Tmvw) | 3:48 |
 | 24 | [Natural](https://open.spotify.com/track/0ACt3PP22HyKfpFIV6AQUW) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 2:24 |
 | 25 | [Only Then](https://open.spotify.com/track/7mFigNlS2dsKMhcmJyfpeg) | [Roy Kim](https://open.spotify.com/artist/3ErHVJMsxTq2lLSmnONBm9) | [Only Then](https://open.spotify.com/album/4erAMXv1Uin2wnf1vW4Eqq) | 4:08 |
 | 26 | [Flower Way \(Prod\. By ZICO\)](https://open.spotify.com/track/1dOD5F2hX5TBtKdQlEseR7) | [KIMSEJEONG](https://open.spotify.com/artist/1lFLniFTaPjYCtQZvDXpqu) | [Jelly box Flower Way SEJEONG](https://open.spotify.com/album/32dL7nyPowMbiu8QFrAkIM) | 3:59 |
 | 27 | [Think About You](https://open.spotify.com/track/0rXtV4L8uQ7KHNxxKd2jGZ) | [Joosiq](https://open.spotify.com/artist/66pTbLwtaCUvT64JA8zXZh) | [Think About You](https://open.spotify.com/album/7FM73ppcpjWsYMMsyOeptQ) | 3:32 |
 | 28 | [Memory Of The Wind](https://open.spotify.com/track/1uMLtqpe8beA6fPy3ApJcJ) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Principle Of My Soul](https://open.spotify.com/album/2nrbL5Wk9xMl9Vuhwze6K4) | 5:08 |
-| 29 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 |
-| 30 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
+| 29 | [Where Are We Now](https://open.spotify.com/track/0cLXk75Pan3mhRlWqHiynh) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [WAW](https://open.spotify.com/album/0gt7dy4ONFo6uc8D5w2WNi) | 3:43 |
+| 30 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
 | 31 | [Everytime](https://open.spotify.com/track/11E8tSev2NIRvBY0R8Occq) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Everytime](https://open.spotify.com/album/2ULjjijtg6HcO3jakMRqf0) | 2:42 |
-| 32 | [A Daily Song](https://open.spotify.com/track/2eooxY46CG0Ao2przvSDTz) | [Hwang Chi Yeul](https://open.spotify.com/artist/689wBe4v9rvHjdNB4JUgYq) | [Be ordinary](https://open.spotify.com/album/6C9pNWWWir3wnLn2JfMVBe) | 4:18 |
+| 32 | [An Unfamiliar Day](https://open.spotify.com/track/4Q9mTqVTAHmkeJMsKZo2EZ) | [CHEN](https://open.spotify.com/artist/0UEP2XBR9aC5NBKcAKnBIq) | [DOCTOR LAWYER \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6vlqa9cpCWCv56aMR0YwHb) | 4:04 |
 | 33 | [Gravity](https://open.spotify.com/track/1fzLM4SRonzoHm723a2mP5) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Purpose \- The 2nd Album](https://open.spotify.com/album/0h6wCpdgpSOAbYDDYJVuwr) | 3:59 |
 | 34 | [Is it me?](https://open.spotify.com/track/2iKWzOAUsK6pps6faKWaZQ) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Lovers of the Red Sky OST Part.1](https://open.spotify.com/album/2SjRTq6N8ZKcEcgOy78OAe) | 4:08 |
 | 35 | [Stars](https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq) | [Rothy](https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una) | [Stars](https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi) | 4:20 |
 | 36 | [Mother Nature \(H₂O\)](https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Mother Nature \(H₂O\)](https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw) | 3:52 |
-| 37 | [Will Last Forever](https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:24 |
-| 38 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
+| 37 | [IF I](https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [The King's Affection OST Part.3](https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J) | 3:41 |
+| 38 | [Will Last Forever](https://open.spotify.com/track/5BLH0517T5RoEFs1Mljo4H) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [WINTER](https://open.spotify.com/album/0xrAlQfw3MZ5QGhw2NptQt) | 4:24 |
 | 39 | [Myo \(Cat\)](https://open.spotify.com/track/2zlU79zIa3abFvGheZjI7Z) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Myo \(Cat\)](https://open.spotify.com/album/5PGc5EzY75rJKfVpQ6s0PT) | 3:37 |
 | 40 | [Because I am a woman](https://open.spotify.com/track/0lsnhrK331ObO8FyyvN2iU) | [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Because I am a woman](https://open.spotify.com/album/6hf7ETkQLEIW5rKkCks9Bl) | 4:00 |
 | 41 | [Way](https://open.spotify.com/track/5jQRsJZzu8jicHgC3wgiY5) | [ONEW](https://open.spotify.com/artist/7sZ5ipSoboWdqXkdj6AXHo), [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [Way \- SM STATION](https://open.spotify.com/album/5Pq73EZamFkp9SQpI6Zw7Y) | 3:58 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8eqay1FtdMm.md) - [plain]
 | 57 | [Space](https://open.spotify.com/track/2AAYL6JwiPKHn33buQqo4P) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Butterfly Effect](https://open.spotify.com/album/6WvzLgorV49BBNnshntOzu) | 4:33 |
 | 58 | [Can Love Be Fair](https://open.spotify.com/track/0ZSgMcumYoRwVeFmFJWtmm) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL), [BEN](https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k) | [Can Love Be Fair](https://open.spotify.com/album/6NRwI0v6TP5q8Pm8lCvTiK) | 4:15 |
 
-Snapshot ID: `MTY2MDMyNzc3NCwwMDAwMDAwMDg3MzMyNjcwMzY1MzQwNzZhZDQ2MTVmMDkyY2JmNWU2`
+Snapshot ID: `MTY2MDMyNzc3NCwwMDAwMDAwMDc0NmNhY2ZiNTZmNDYyNGUzN2JjNjZiZWIzZTJiMzNm`

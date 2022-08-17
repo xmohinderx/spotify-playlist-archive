@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 446,921 likes - 58 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,026 likes - 58 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 32 | [It's a Disco Night \(Rock Don't Stop\), Pts\. 1 & 2](https://open.spotify.com/track/4mJfDc1mot6O8NvPbXaTgq) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Winner Takes All](https://open.spotify.com/album/0SVqyFBkvKyaZMRKKftr6z) | 5:15 |
 | 33 | [Call Me](https://open.spotify.com/track/5wQ4djiNq19XCQY7Z00uG0) | [Skyy](https://open.spotify.com/artist/5uFqO7FceiE84xjEjFtQLX) | [Skyy Line](https://open.spotify.com/album/3BxUhOcYaVNF3w4kL1YamJ) | 6:22 |
 | 34 | [Bad Luck \(feat\. Teddy Pendergrass\)](https://open.spotify.com/track/5XTeeHxsfAe2kC3oFZzgas) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [To Be True \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3) | 6:26 |
-| 35 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
-| 36 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
+| 35 | [This Is It](https://open.spotify.com/track/44UWAmppRuj5KNHWbAASuF) | [Melba Moore](https://open.spotify.com/artist/0uMy5ZKVPBHauBYTTfCojq) | [This Is It \(Expanded Edition\)](https://open.spotify.com/album/5vLlnYOvOgwrWxGjNdlhnz) | 3:31 |
+| 36 | [Love Really Hurts Without You](https://open.spotify.com/track/1wZAaGMT6gnaCqck7dwjKv) | [Billy Ocean](https://open.spotify.com/artist/5IDs1CK15HegSAhGEbSYXo) | [The Very Best of Billy Ocean](https://open.spotify.com/album/7n4OT3zEZaEiyKKd6mFAhi) | 2:59 |
 | 37 | [Taste of Bitter Love](https://open.spotify.com/track/0EAtqMkJ13QYAN7QDcFiDs) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [About Love \(Expanded Edition\)](https://open.spotify.com/album/0rPCO55x3MGthe8qkn64o6) | 4:38 |
 | 38 | [Jack and Jill](https://open.spotify.com/track/5KDT5BDSmomPMe2AXuGInR) | [Raydio](https://open.spotify.com/artist/1VQ7baxc9Okx2YuRnpKMMR) | [Raydio](https://open.spotify.com/album/36AmrTuGmb1LyYSimTHRkE) | 4:35 |
 | 39 | [I'll Never Forget \(My Favorite Disco\)](https://open.spotify.com/track/7KOS9ptdLAdy3hJxuvpHfc) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Time Is Slipping Away](https://open.spotify.com/album/636NtK3yPJ395a6nyXJ1ft) | 4:34 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 44 | [The Love I Lost \(feat\. Teddy Pendergrass\) \- Single Version](https://open.spotify.com/track/7AswIMJtp31Y62pgWFoQJI) | [Harold Melvin & The Blue Notes](https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Black & Blue \(Expanded Edition\) \(feat\. Teddy Pendergrass\)](https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N) | 3:33 |
 | 45 | [More, More, More \- Single Version](https://open.spotify.com/track/3AE5u8SGUVStmdjXzHWflz) | [Andrea True Connection](https://open.spotify.com/artist/3GHovBcEWpbnwCZDPF9GpM) | [70s 100 Hits](https://open.spotify.com/album/1k7WkNHGPNPnri2tsowvtg) | 3:00 |
 | 46 | [Disco Nights \(Rock Freak\) \- Single Remix](https://open.spotify.com/track/2dZVfFCuI0PGE6jYF4pfHo) | [G.Q.](https://open.spotify.com/artist/18YelxQioKKPXK1PE5hh1n) | [More Monty](https://open.spotify.com/album/4p1GnIVsPGw6p7Gpc8W2Hh) | 3:53 |
-| 47 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
-| 48 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
+| 47 | [Can't Fake the Feeling](https://open.spotify.com/track/6fDNNvdsZ9Z4oV8OSgLfuJ) | [Geraldine Hunt feat\. Freddie James & Rosalind aka Cheri](https://open.spotify.com/artist/6UWhFuqJnSgnYDwk9Rdwlo) | [Soultry, Jazzy, & Sexy](https://open.spotify.com/album/6kRBGiN1KuFLTCSUTm3irF) | 5:22 |
+| 48 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
 | 49 | [Running Away](https://open.spotify.com/track/3KLYkhq8QGEuKRkKj6E694) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [The Best Of Roy Ayers](https://open.spotify.com/album/2FtG21lowfa5dnswLCmryp) | 4:00 |
 | 50 | [Going Back to My Roots \- 12" Version](https://open.spotify.com/track/41Mi2vvuSD01FvtlAQsaat) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [I Got the Melody \(Expanded Edition\)](https://open.spotify.com/album/2R9rEVibO3wDnB950OThmj) | 5:25 |
 | 51 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 57 | [\(Ooh\-Wee\) He's Killing Me](https://open.spotify.com/track/0dEJHQJDmjJEY5rnhlbfyC) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [The Best Of Patti Austin](https://open.spotify.com/album/4WlyJSZZrjia1Vx6NOYENO) | 3:27 |
 | 58 | [I Love You More](https://open.spotify.com/track/5LYkSMSgRRaxRUecVb9re9) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master of the Game \(Expanded Edition\)](https://open.spotify.com/album/6H0jM12J3OL8uPFHQEJESX) | 3:06 |
 
-Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDZkZTU1OGE4ZWJiM2I2ZWZjNDMyNDIzNGYyYTUxNDY2`
+Snapshot ID: `MTY0MTgxODc0MiwwMDAwMDAwMDgzNzYzZjY4ZGU0ZDM4MTQ3MDk3NGJkODY5ZDg1OTli`

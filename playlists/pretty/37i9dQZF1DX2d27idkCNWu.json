@@ -1,12 +1,12 @@
 {
   "description": "Vers\u00f5es desplugadas do mundo pop.",
-  "num_followers": 251561,
+  "num_followers": 251595,
   "original_name": "Pop Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjA4MTIwMCwwMDAwMDAwMDAwYzBjMDFmOWMzMmExOGU2YzU3ODg2NTJhYWJiMDMw",
+  "snapshot_id": "MTYzNjA4MTIwMCwwMDAwMDAwMGIxZWRmODI2ZWVlODY0YjZjNzE1OTcwMGM4Njg2ODNh",
   "tracks": [
     {
       "added_at": "2021-11-05 03:00:00",
@@ -419,22 +419,6 @@
     {
       "added_at": "2021-11-05 03:00:00",
       "album": {
-        "name": "Let Yourself In",
-        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
-      },
-      "artists": [
-        {
-          "name": "TIAGO IORC",
-          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
-        }
-      ],
-      "duration_ms": 182906,
-      "name": "Nothing But a Song - Bonus Acoustic Version",
-      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
-    },
-    {
-      "added_at": "2021-11-05 03:00:00",
-      "album": {
         "name": "Meant to Be (Acoustic)",
         "url": "https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 158279,
       "name": "Meant to Be - Acoustic",
       "url": "https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw"
+    },
+    {
+      "added_at": "2021-11-05 03:00:00",
+      "album": {
+        "name": "Let Yourself In",
+        "url": "https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy"
+      },
+      "artists": [
+        {
+          "name": "TIAGO IORC",
+          "url": "https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M"
+        }
+      ],
+      "duration_ms": 182906,
+      "name": "Nothing But a Song - Bonus Acoustic Version",
+      "url": "https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V"
     },
     {
       "added_at": "2021-11-05 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 
 > ¡Ay, chiquitita, cómo la quiero! ¡Y puro Grupo Firme!
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,933 likes - 65 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,405 likes - 64 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 | 31 | [De Trago En Trago](https://open.spotify.com/track/5lWE6BsxJE9RoXbkvkGR60) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [De Trago En Trago](https://open.spotify.com/album/0YMa5EGXvE8uwAIyNDnxyJ) | 4:01 |
 | 32 | [Hablemos](https://open.spotify.com/track/5SJZyvGjW0zGdUYIUchHHk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hablemos](https://open.spotify.com/album/5ml1CmAqL5kqRnEAxR3Oow) | 3:26 |
 | 33 | [Te Equivocaste](https://open.spotify.com/track/1aYCO1g5B1Jrg3kz6TXL3o) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Codiciado](https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Te Equivocaste](https://open.spotify.com/album/3bab9IovKQWPggPRGFNueq) | 4:35 |
-| 34 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edición Especial](https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
+| 34 | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/track/463qI2v2wPH2OOF5m6J8Gm) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Mi Amor Por Ti \(En Vivo\)](https://open.spotify.com/album/2uApDE90u1pYGQvHlkoAyg) | 3:59 |
 | 35 | [La Estoy Pasando Mal](https://open.spotify.com/track/35aju8GgJmbaMk9zmhNhg4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [La Estoy Pasando Mal](https://open.spotify.com/album/2vaYWR9abky08e59kiZEOF) | 3:34 |
 | 36 | [Todos Hablan, Nada Saben \- En Vivo](https://open.spotify.com/track/0f8BAWyKFaUMBTqBIy9Fef) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Todos Hablan, Nada Saben \(En Vivo\)](https://open.spotify.com/album/2VSqknX0ntFH9Pa84vJc61) | 3:19 |
 | 37 | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/track/3MbN9WUYkiJZAGfqb3Gofk) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Duele Tu Abandono \(En Vivo\)](https://open.spotify.com/album/5sJmNPcKXGfSgeaxkX0lgT) | 4:04 |
@@ -71,7 +71,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdH7LJU45tsM.md) - [plain]
 | 61 | [Hay Que Pistear \(En Vivo\)](https://open.spotify.com/track/2rUaT8VqscIezsER9VmzWJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [En Vivo Desde Anaheim, CA](https://open.spotify.com/album/5KbqTnCCCuSR5SiqRSsmK5) | 2:40 |
 | 62 | [Nada](https://open.spotify.com/track/7BwyLMjKyJPuhYBLAlgvvn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Nada](https://open.spotify.com/album/31oECJ1NYeOGmf34mUd4Fg) | 3:37 |
 | 63 | [Enloquéceme](https://open.spotify.com/track/1Z88pFqoxXfFJ519ZR7rOe) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Enloquéceme](https://open.spotify.com/album/4aMNVrwGdzxra0YjpiKrRo) | 3:52 |
-| 64 | [Don \(En Vivo\)](https://open.spotify.com/track/3T8fM36Q8KLkGlZKVMmy0G) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Edición Especial](https://open.spotify.com/artist/1w9TIYdjhQ4xGaO5YmJgFc) | [Don \(En Vivo\)](https://open.spotify.com/album/1mBLOV4RWG5j012WYoQkoy) | 3:30 |
-| 65 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
+| 64 | [Asi Es La Vida](https://open.spotify.com/track/3ppRhFagqz5sGQMLOQkhwJ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Beto Sierra](https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Asi Es La Vida](https://open.spotify.com/album/4LqqM5mgFRSzNo7iLXvcBj) | 2:50 |
 
-Snapshot ID: `MTY1NzY0NDM3OCwwMDAwMDAwMGQwNWE3Yzk5MDY2NjhkYTNiYmU3MDcxYTM5YzMyMmE1`
+Snapshot ID: `MTY1NzY0NDM3OCwwMDAwMDAwMGZlODNiOGU2ODY4ZWEzOWQ3YWQ4NjMxNmQzNjM4ZTUw`

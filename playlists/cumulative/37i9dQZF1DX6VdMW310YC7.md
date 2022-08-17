@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,289 songs - 3 day 17 hr 33 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
+1,290 songs - 3 day 17 hr 36 min - [published](https://open.spotify.com/playlist/6qGVoi3AOthCREwmGSToWA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Catchfire \(Sun Sun Sun\) \(feat\. Anna Leyne\) \- EDX Radio Edit](https://open.spotify.com/track/5rh9SC5MSOZSgRE3jBqQOY) | [Spada](https://open.spotify.com/artist/2hPCF7VDHhihvNdobslOHw), [Anna Leyne](https://open.spotify.com/artist/7GCoz67CzP8geNIXE7lQrb) | [Catchfire \(Sun Sun Sun\) \[feat\. Anna Leyne\] \[EDX Remix\]](https://open.spotify.com/album/6cHhdl3PLqIPkA06JGK35c) | 2:47 | 2020-05-22 | 2020-07-03 |
 | [Catching Eyes](https://open.spotify.com/track/2aUYt0CwHeJLrlgi0akUGp) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/3vyUE4IyiLM471hbKVQ9i2) | 4:09 | 2022-07-01 |  |
 | [Catching Eyes](https://open.spotify.com/track/3LJ7dXJzZ2umb3Ccsuq5fT) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F) | [Catching Eyes](https://open.spotify.com/album/66SXZvXGSD2NEtFSos2HtB) | 4:09 | 2020-05-22 | 2022-07-29 |
+| [Celestial](https://open.spotify.com/track/2kMd68JKQBkywKtPuLqm2m) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Celestial](https://open.spotify.com/album/4F7Rdp5RCkiFUqP0vShZi3) | 2:46 | 2022-08-12 |  |
 | [Centauri](https://open.spotify.com/track/6sbTqflJcUFfyAbiWC8def) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Centauri](https://open.spotify.com/album/71rGeKZKoGy6aLSshQyCbG) | 3:30 | 2022-02-18 |  |
 | [Chains Chilled \(with Project 46\)](https://open.spotify.com/track/5fGzPMN2xj7vU01qcJOFRy) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Project 46](https://open.spotify.com/artist/2RhRT6DNOVoDTfS0rG31pZ) | [Chains Chilled \(with Project 46\)](https://open.spotify.com/album/5M09NbQv2S9UbIichEVmgA) | 3:39 | 2020-12-12 |  |
 | [Chamber \(Forerunners Remix Edit\)](https://open.spotify.com/track/6j2xdpDlsDGGwJwfemqQE3) | [Phil Martyn](https://open.spotify.com/artist/11o9V9vSIu8LKdszhGOckm), [Forerunners](https://open.spotify.com/artist/3GKXpGLuoXu9pTgBsUCNQv) | [Chamber](https://open.spotify.com/album/3hc2mMbDgSEWYuXpJyeRbN) | 5:16 | 2020-05-20 | 2020-07-03 |
@@ -555,7 +556,7 @@
 | [If There Ever Comes a Day](https://open.spotify.com/track/5hMv80OlrXCqyyY9CWHvlQ) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Louis Futon](https://open.spotify.com/artist/79ffq2PHS5TDmgnHhAyudW) | [Good Will Prevail](https://open.spotify.com/album/3cAkkgY1x6PIdb5yWieruv) | 3:23 | 2020-05-18 | 2020-07-03 |
 | [Ignis](https://open.spotify.com/track/6BT4H5z2UCDvyTxl2WfsQA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A) | [Ignis](https://open.spotify.com/album/5Mg89X2COGYzqoI58UrffS) | 3:31 | 2020-05-18 | 2020-07-18 |
 | [II Primo](https://open.spotify.com/track/6x4kMT4VqCS5iVnwOMA2Ie) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [They Dream By Day](https://open.spotify.com/artist/0bcsH2FSusCuTAZ8aAgbJV) | [II Primo](https://open.spotify.com/album/5aVZ5K8ZBpDPvAImglrbIm) | 3:39 | 2022-06-17 | 2022-07-29 |
-| [Ikebana](https://open.spotify.com/track/4cYMt6WiUFShfZ6M1A9LPi) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Ikebana](https://open.spotify.com/album/5MpyMD5U1XdIqwQbeAEzwq) | 2:49 | 2020-10-24 |  |
+| [Ikebana](https://open.spotify.com/track/4cYMt6WiUFShfZ6M1A9LPi) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Ikebana](https://open.spotify.com/album/5MpyMD5U1XdIqwQbeAEzwq) | 2:49 | 2020-10-24 | 2022-08-17 |
 | [ilomilo](https://open.spotify.com/track/7qEKqBCD2vE5vIBsrUitpD) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 2:36 | 2020-02-29\* | 2020-03-16 |
 | [Immortal Lover \- Edit](https://open.spotify.com/track/1TEVjDoU8nHSkBsYGJxeEV) | [Andrew Bayer](https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8), [Alison May](https://open.spotify.com/artist/6jd3NCxzDeLS4wAO168T60) | [Immortal Lover](https://open.spotify.com/album/4IoEExov5PIlZZXD78fjkV) | 4:28 | 2020-05-18 | 2022-04-21 |
 | [In Bloom](https://open.spotify.com/track/4e4sTRiHGEj7LgFhXn0quG) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [In Bloom](https://open.spotify.com/album/4vLvJf1lvLmvJ8mXFG9jV6) | 3:48 | 2021-01-08 | 2021-03-10 |

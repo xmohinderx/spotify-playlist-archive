@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy!
 
-131 songs - 8 hr 26 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
+132 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/4zWRQuNDfWfg20fgc39FGO)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [Nattens Sista Strimma Ljus](https://open.spotify.com/track/2WY8hy60bH6y1cxTMurysV) | [Dungen](https://open.spotify.com/artist/5d7hcYqz8bVY6Kt3bhjd3d) | [Nattens Sista Strimma Ljus](https://open.spotify.com/album/0j3nf6D8d8ZvhgibltRWL5) | 4:28 | 2022-07-06 |  |
 | [Night Crawling](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [Night Crawling](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-01 |  |
 | [On & On](https://open.spotify.com/track/4gDolFunOhVEfAPJRJTZwc) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [On & On](https://open.spotify.com/album/41HC7KwuNr5PxEtyYxgYQm) | 3:10 | 2022-06-08 | 2022-07-14 |
+| [Only in America: It Feels Like This](https://open.spotify.com/track/3KJCGTbqnx0CQCq3VTt9LV) | [Matthew E\. White](https://open.spotify.com/artist/58mMrwemoGIcDpvfHe46u4), [Lonnie Holley](https://open.spotify.com/artist/7dgLSJ4HaXx0dy5V2BMQe5) | [Only in America](https://open.spotify.com/album/1lZgy5sIQg9HOUaDWzXvXh) | 4:28 | 2022-08-16 |  |
 | [Optimistic](https://open.spotify.com/track/4jJAMHQWkAQ57Eyuxn0Qi3) | [Tomu DJ](https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh), [kimdollars1](https://open.spotify.com/artist/6fePUvIaJB7SLeOeGapoS5) | [Optimistic](https://open.spotify.com/album/2iLdOaxHCMnmFL6Oz73Neg) | 4:55 | 2022-08-10 |  |
 | [Option 8](https://open.spotify.com/track/5dxk732O5asDxSLeW6H0cg) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Versions of Modern Performance](https://open.spotify.com/album/435br4I9UOHTrQI5qbxVbI) | 3:33 | 2022-06-08 | 2022-07-14 |
 | [Our Love Remains](https://open.spotify.com/track/27fhKlrPdZ2V3ifyyM6DiV) | [Alex Izenberg](https://open.spotify.com/artist/0gFVZqXqhdX8Obteqob5vE) | [I'm Not Here](https://open.spotify.com/album/3UuoN91OpPc62Cqiwmwo95) | 3:49 | 2022-06-08 | 2022-07-07 |

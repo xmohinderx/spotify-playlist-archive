@@ -4,7 +4,7 @@
 
 > Your family can stomp, roar, and growl along to these songs about dinosaurs!
 
-105 songs - 3 hr 29 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
+106 songs - 3 hr 30 min - [published](https://open.spotify.com/playlist/5xr5WhoYuNNtSpHlvThomm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dinosaur Rumble](https://open.spotify.com/track/47zUyDgK31EGxzxu9B9i2Z) | [Ralph's World](https://open.spotify.com/artist/4qIIexaFmYNueu5mnSQnzU) | [Happy Lemons](https://open.spotify.com/album/3BxUa5Rt3dtxwBY4tDhQz3) | 1:54 | 2022-01-14 |  |
 | [Dinosaur Song](https://open.spotify.com/track/2Va8eZGeFZuHNqRtmJ2x3C) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 4](https://open.spotify.com/album/202Xrd9Peqjaat9r4sPGxy) | 3:04 | 2022-07-08 |  |
 | [Dinosaur Song](https://open.spotify.com/track/4kBpATscIriT91BZaI0mh4) | [Cocomelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Cocomelon Kids Hits, Vol\. 4](https://open.spotify.com/album/2zqrEm5X1cQwyJBzpP1snW) | 3:04 | 2022-01-14 | 2022-07-29 |
+| [Dinosaur Song](https://open.spotify.com/track/6eGrP5UF9ysYwIprgtBTiT) | [ITS MUSIC](https://open.spotify.com/artist/3NyP1fZR8VjQF7n3eoZACn) | [Dinosaur Song](https://open.spotify.com/album/1gHWTkLcyoF0ubYXx6kWKa) | 1:48 | 2022-08-16 |  |
 | [Dinosaur Song](https://open.spotify.com/track/5qDAVN0mwalEcpBxeLukSc) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Johnny Cash Children's Album](https://open.spotify.com/album/7AsniiHVen13QlnqZm5DR2) | 1:25 | 2022-01-14 |  |
 | [Dinosaur Song](https://open.spotify.com/track/2JmJzeCjaihJKvmrRvQVf2) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Learning Lessons, Telling Time, Please & Thank You! Songs about Concepts, Development & Life Skills for Children with LittleBabyBum](https://open.spotify.com/album/6E3neJrYCA8ssrfuWsZF6I) | 1:35 | 2022-01-14 | 2022-07-29 |
 | [Dinosaur Song](https://open.spotify.com/track/2hgDsY9oLhVlazuyr6FRyj) | [Little Baby Bum Nursery Rhyme Friends](https://open.spotify.com/artist/0lFDQOEK5OwsyPXb1aWJzY) | [Nursery Rhymes & Children's Songs, Vol\. 15 \(Sing & Learn with LittleBabyBum\)](https://open.spotify.com/album/0E2rvJamSYembnyuuduOLc) | 1:35 | 2022-07-08 |  |

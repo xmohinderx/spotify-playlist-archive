@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > Latinas que inspiran\. Kickback and listen to these amazing women\. Cover: Villano Antillano
 
-[Spotify](https://open.spotify.com/user/spotify) - 591,732 likes - 80 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 591,810 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 63 | [Quédate](https://open.spotify.com/track/0is5MOZLNpo5iAY3M0B9ml) | [Debi Nova](https://open.spotify.com/artist/5zaG384VZzAb6AMfEnSy2r), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Quédate](https://open.spotify.com/album/2DoBcaHj1t8enwJ8sygr3g) | 2:55 |
 | 64 | [No Pasa Nada](https://open.spotify.com/track/3Y8xqiwesgj5ytOPpHo6Nx) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [La Piti](https://open.spotify.com/album/1LVYwpAVevauvcv6s8Euh9) | 3:03 |
 | 65 | [LALALA](https://open.spotify.com/track/0vjqOn8iw1jQygL4KK2JCu) | [ANGEL22](https://open.spotify.com/artist/77dCZ05TEfVFypRDzM1R44) | [LALALA](https://open.spotify.com/album/1oOiiAylUiGg1ccIvP5wha) | 2:42 |
-| 66 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
-| 67 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
+| 66 | [Amores](https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Luis Jimenez](https://open.spotify.com/artist/0Pgy6pdn5oc95ayXvbo6ny) | [Amores](https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH) | 3:15 |
+| 67 | [Estoy Soltera](https://open.spotify.com/track/597HxeFN4prkOZml250ZhR) | [Leslie Shaw](https://open.spotify.com/artist/3bAPo06XsUX6fo8iHYUqH7), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [Estoy Soltera](https://open.spotify.com/album/5WZfuGX8Ca4eaes5LYxk22) | 2:52 |
 | 68 | [Ya Tú Me Conoces](https://open.spotify.com/track/4yuAWrga4ugFz8pnkPBtzE) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Ya Tú Me Conoces](https://open.spotify.com/album/1HLBpz1LijH2GD2Um5vemj) | 3:15 |
 | 69 | [lovin kind](https://open.spotify.com/track/1KvcOHuYfTIUhe1bYBR4pY) | [Isabela Merced](https://open.spotify.com/artist/2bIxak1AAD8wlDfMLnumUj) | [the better half of me](https://open.spotify.com/album/3YFDPOp9da0GFHeIHEuOSj) | 3:00 |
 | 70 | [Sin Aire](https://open.spotify.com/track/00ftaJIOXTvlp6jAuxvAYs) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Sin Aire](https://open.spotify.com/album/1LsFNlupcPgPZ1vzJq14bn) | 2:53 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 79 | [Vuelve](https://open.spotify.com/track/5WGHknjgYatHVCFRTFB8QP) | [ChocQuibTown](https://open.spotify.com/artist/6tkyhGe9hGI3Lcfo4gVh6Z) | [ChocQuib House](https://open.spotify.com/album/4lcEaPygjuFuB4ON8i2Vj2) | 3:47 |
 | 80 | [Cuando Hay Amor](https://open.spotify.com/track/5btfqYIpHd72XXCD1J6zlK) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuando Hay Amor](https://open.spotify.com/album/4J8Q9mgGc9qtJLxibHgj8Z) | 4:01 |
 
-Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMGEzYzE4MjJlZTRiNmY5N2Q0NGJlZjc4OTJmM2I4NDVi`
+Snapshot ID: `MTY1NzU2NTIzNSwwMDAwMDAwMGE5MTY2MWY5NmVjODllMTdlY2I1NGM5Nzg3ZjlhNTI1`

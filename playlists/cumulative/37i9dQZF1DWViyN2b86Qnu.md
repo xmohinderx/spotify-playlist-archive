@@ -4,7 +4,7 @@
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-149 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
+150 songs - 8 hr 33 min - [published](https://open.spotify.com/playlist/3TfPbe8v3NXKs8gIFWRfn6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Brine](https://open.spotify.com/track/2CQ8Mz0HZHqT3196ZArjYb) | [Lonelyspeck](https://open.spotify.com/artist/0ghOmdop8dsN135XRLszJ5) | [Abyssal Body](https://open.spotify.com/album/1IGlNXEE9j2AFOmCyH8isT) | 4:16 | 2021-10-05 | 2022-07-15 |
 | [Brooklyn](https://open.spotify.com/track/5oAbKZU67TxgxrcyMASbdg) | [Angel Haze](https://open.spotify.com/artist/2cyyGl4qnHZL0o16t0fpJl) | [Brooklyn](https://open.spotify.com/album/1Liq7qmM7SRYKdwtZBqoBa) | 3:28 | 2021-10-05 |  |
 | [Brothers](https://open.spotify.com/track/58z9RRsYcai9hlFKuhgHNl) | [Skylar Kergil](https://open.spotify.com/artist/1tS31uVpr6aEhh6sP2C4nA) | [Brothers](https://open.spotify.com/album/2FfCr9I4VmYXwEbQ2acvYN) | 3:59 | 2021-10-05 |  |
-| [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 | 2022-07-14 |  |
+| [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 | 2022-07-14 |  |
+| [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 | 2022-07-14 | 2022-08-17 |
 | [Cherry Pits](https://open.spotify.com/track/27xdKxIYRlXErxVK3k2bsR) | [Grayson](https://open.spotify.com/artist/2ElEn7LIxvcN1icdhbw2WM) | [Cherry Pits](https://open.spotify.com/album/6UCKuzFtM3pEmIbmurBLzG) | 3:26 | 2021-10-05 |  |
 | [Coconuts](https://open.spotify.com/track/71yN0yrHej3jhKXewbmtEh) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Coconuts](https://open.spotify.com/album/7y44knAD5qeji4WbavIQxC) | 2:48 | 2022-02-20 |  |
 | [Collide](https://open.spotify.com/track/11HptaZiTyuGpvGgrDuhvY) | [Shea Couleé](https://open.spotify.com/artist/0FrOnmhn1KtQ2n5mHF2SD6), [GESS](https://open.spotify.com/artist/4rWV3JAgD6JrUiq5mpEJxY), [Mykki Blanco](https://open.spotify.com/artist/2tSv9mEQSuNVMGr9qjYfkr) | [Collide](https://open.spotify.com/album/6SmzSMDrRZJuflBpUeSLeV) | 3:39 | 2021-10-05 |  |

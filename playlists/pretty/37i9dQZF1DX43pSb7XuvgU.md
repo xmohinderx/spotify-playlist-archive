@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,446 likes - 100 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,601 likes - 100 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 24 | [El Noa Noa](https://open.spotify.com/track/55LmsCprSozlCgM2XbmhhW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 4:13 |
 | 25 | [Pero Qué Necesidad](https://open.spotify.com/track/5rycwubN7We1zdSDM1ZABW) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Gracias por Esperar](https://open.spotify.com/album/4XZyy5120of00kdsqlG0uI) | 5:54 |
 | 26 | [El Amor Acaba](https://open.spotify.com/track/4TuVPlUrfKpAqPUJFjONcM) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 4:20 |
-| 27 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
-| 28 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
+| 27 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 |
+| 28 | [Me Vas a Echar de Menos](https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Promesas](https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC) | 2:55 |
 | 29 | [La Nave del Olvido](https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [La Nave del Olvido](https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ) | 3:35 |
 | 30 | [Gotas de Fuego](https://open.spotify.com/track/05BD87wSnrHtYe1SpeOkcE) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:50 |
 | 31 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 68 | [La Frontera](https://open.spotify.com/track/7HMBDmx3tDOzBpyUuaB24v) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Recuerdos](https://open.spotify.com/album/1m9I3KWRnaqOTGqptc1gT2) | 4:10 |
 | 69 | [40 y 20 \(with María José\)](https://open.spotify.com/track/7IuRARlFBMeonrCgQ7lKym) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:01 |
 | 70 | [No Discutamos](https://open.spotify.com/track/4oXBnMgYcvU87uKq30Reyq) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Los Dúo 2](https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19) | 2:19 |
-| 71 | [Tengo Que Olvidar](https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:16 |
-| 72 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
+| 71 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
+| 72 | [Tengo Que Olvidar](https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Todo](https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX) | 3:16 |
 | 73 | [La Muerte del Palomo](https://open.spotify.com/track/7rB942OGrgCnvgte3oItUe) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 3:27 |
 | 74 | [Que Sea Mi Condena](https://open.spotify.com/track/6VBwBAHFJchFh9dtGvh4Zb) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Siempre Estoy Pensando En Ti](https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ) | 3:12 |
 | 75 | [Mañana Te Acordaras](https://open.spotify.com/track/1Yo9idf6XM0rhPWSTIG1cP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Con El Mariachi Vargas De Tecalitlan \(with El Mariachi Vargas de Tecalitlán\)](https://open.spotify.com/album/13NCFsw0EMj0JHwC9KaYwK) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [El Día Que Me Acaricies Lloraré](https://open.spotify.com/track/4Hju95i74r8s7zimcJ2map) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 3:33 |
 | 100 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 
-Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDA4YzAwMTNlMTdkYThmYzUyNjAzZjk0NjYwNzg0MWIw`
+Snapshot ID: `MTY0MDgyMDgzNywwMDAwMDAwMDNkODlhNWY4NTI1NWNkZjFlZDJmOTY0ZWMxY2RhN2Jl`

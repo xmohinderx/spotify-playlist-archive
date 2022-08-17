@@ -4,7 +4,7 @@
 
 > iykyk
 
-520 songs - 1 day 4 hr 22 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
+521 songs - 1 day 4 hr 26 min - [published](https://open.spotify.com/playlist/4A3sS6FGGPjl0VEjsEjlzC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,6 +397,7 @@
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-08-01 | 2022-08-11 |
 | [Rocking A Cardigan in Atlanta](https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m) | [lil Shordie Scott](https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I) | [Rocking A Cardigan in Atlanta](https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95) | 1:36 | 2022-02-20 | 2022-06-07 |
 | [Romantic Homicide](https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2) | 2:12 | 2022-07-28 |  |
+| [Run Away to Mars](https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Run Away to Mars](https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W) | 3:33 | 2022-08-16 |  |
 | [RUN IT UP](https://open.spotify.com/track/6LApARUJR0Yz4nZcHRTqrr) | [Lil Bil](https://open.spotify.com/artist/4oD5y30uMyZmaGRRrfP1ru) | [RUN IT UP](https://open.spotify.com/album/4XFMdWMWEh8PLCQq7Nqzgp) | 2:31 | 2022-04-10 | 2022-04-22 |
 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 | 2022-05-29 |  |
 | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/track/54cV7pqcoIUDftaczXuGKt) | [Davi Richie](https://open.spotify.com/artist/4IjrryLh4NjxN8KC6CZijI), [Anymorph](https://open.spotify.com/artist/4WBEDrp1bZE719F3a9Wz7R) | [Ruth Langmore \(If You Wanna Stop Me...\)](https://open.spotify.com/album/5M2IeqXTl3cDizfj0pWj3h) | 1:18 | 2022-04-25 | 2022-05-04 |

@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHZvY2t6fRcn.md) - [plain]
 | 84 | [FUCKING MURDER](https://open.spotify.com/track/5seDFLG0mfC2PT2x27xauZ) | [Caroline Vreeland](https://open.spotify.com/artist/5P1LyOIFc1fg1w1Dssiezw) | ['LIKE A WOMAN, LIKE A DRUNKARD, LIKE AN ANIMAL'](https://open.spotify.com/album/5u9NVAXUZsT7wl5Vqj3gmv) | 9:19 |
 | 85 | [Down Daddy](https://open.spotify.com/track/1Tg5ZNgyRJFVFXcQBaSyMS) | [Chloe Angelides](https://open.spotify.com/artist/79A4RmgwxYGIDkqQDUHLXK) | [Friends Who Failed At Love](https://open.spotify.com/album/0cGYe4MX209Hbi0aoebED6) | 3:40 |
 
-Snapshot ID: `Mjc2NzY4NzIsMDAwMDAwMDA2MTY4ZDc2Y2ViMDYzMDE0Y2E1NmQ3MzI5MzU0OWU3ZQ==`
+Snapshot ID: `Mjc2NzgzMTIsMDAwMDAwMDAyNzBlMjVlOWE1Y2IzZDNhMDY5OTE0NGMwYjRlMTY4Mw==`

@@ -4,7 +4,7 @@
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-142 songs - 7 hr 12 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
+143 songs - 7 hr 17 min - [published](https://open.spotify.com/playlist/0aCAvaXo84V9CkN7hLiIX5)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Blue Skies](https://open.spotify.com/track/5418UMEZW10tHZ6qrIVlKW) | [Jimi Somewhere](https://open.spotify.com/artist/5rXanKVc707nhQmW1Is2pB) | [Ponyboy EP](https://open.spotify.com/album/0oKIN8Ld0MA3hL8edgz6cq) | 5:04 | 2019-12-10 |  |
 | [Breathe](https://open.spotify.com/track/1VvsPJMas06GEwf5NLV1vw) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [The Sad Vegan](https://open.spotify.com/album/3Q0RCCVgwcJgN0zUDooJoW) | 2:37 | 2019-12-10 |  |
 | [Breathe](https://open.spotify.com/track/5kLIYCtwwjG2ykmF1DbZxY) | [Catie Turner](https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa) | [The Sad Vegan](https://open.spotify.com/album/3vAZ15vcecSZLBtDQHZngL) | 2:37 | 2019-12-10 | 2022-07-29 |
-| [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 | 2019-12-10 |  |
+| [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 | 2019-12-10 | 2022-08-17 |
+| [Bubba](https://open.spotify.com/track/5PnsHlUD6PKlZaschoV7tE) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 5:00 | 2019-12-10 |  |
 | [Bummer Summerrr](https://open.spotify.com/track/5d1nXqp2jtg70hT6JYxIYI) | [Talkie](https://open.spotify.com/artist/0Y6irzUei35Nn9Kj8qqiQn) | [Everything Matters](https://open.spotify.com/album/0JlHoU7t4nfpzHnzd8stUo) | 3:59 | 2019-12-10 |  |
 | [Buttons](https://open.spotify.com/track/1TBpRrzF1dhn99zX2pXYXn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [Buttons](https://open.spotify.com/album/4Vxnl8R9moFhMp2GHDb65a) | 3:36 | 2019-12-10 | 2022-07-29 |
 | [Buttons](https://open.spotify.com/track/1pZ9xYDzyq9KHTVrqBUEsn) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1) | [So Long, Kid](https://open.spotify.com/album/6szHJ15dr9M4oJfOW8XAbH) | 3:36 | 2019-12-10 |  |

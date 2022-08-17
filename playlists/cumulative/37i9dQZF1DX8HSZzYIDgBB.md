@@ -4,7 +4,7 @@
 
 > Los nuevos sonidos y fusiones de música Alternativa Latina, con Pahua en portada.
 
-158 songs - 9 hr 34 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
+159 songs - 9 hr 38 min - [published](https://open.spotify.com/playlist/14AX2AOMCBOX7NLvLNkMVH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Esdrújulos Epítetos](https://open.spotify.com/track/5lfR2MyYvuUvBGmQrE95sT) | [Doble Pletina](https://open.spotify.com/artist/3Hmfaw0SGZ6YBlH9ZkcUvC) | [Stop](https://open.spotify.com/album/5iL6nnsBFGeqsmE9OLN3Y0) | 2:56 | 2021-10-05 | 2022-04-06 |
 | [Flores](https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR) | [Battle of Santiago](https://open.spotify.com/artist/39Pu6fhvnHzWYqZlngV8dl) | [Flores](https://open.spotify.com/album/06zb5wzVXKeWRFQaI6XaV4) | 3:18 | 2022-08-12 |  |
 | [Flores de Abril](https://open.spotify.com/track/0QrVadfaRJIApi1dRE1FZL) | [DORA](https://open.spotify.com/artist/5RHjYsmfT5IskZMoU6UuCj) | [Flores de Abril](https://open.spotify.com/album/0mIiqJar5L73vhvrklUzIV) | 4:17 | 2022-03-04 | 2022-05-28 |
+| [FR3N3S1](https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7) | [Natalia Lozano](https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf) | [FR3N3S1](https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF) | 3:22 | 2022-08-16 |  |
 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 | 2022-08-16 |  |
 | [Frio Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frio Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 | 2022-08-13 |  |
 | [Frutas](https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw) | [Sin Color](https://open.spotify.com/artist/666CSPv8WKGQkAgI6wtBop) | [Frutas](https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD) | 4:19 | 2021-10-05 |  |
@@ -135,7 +136,7 @@
 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 | 2021-12-17 |  |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 | 2022-08-02 |
 | [Sal de Mar](https://open.spotify.com/track/3Go0i4zhTnL8CkfyTrSkez) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [Iusef](https://open.spotify.com/artist/7hxdYH7NvvQKn5ZcMTE52b) | [Sal de Mar](https://open.spotify.com/album/5jDsT9P0V42MMYlJ9gI1jl) | 3:26 | 2022-01-17 |  |
-| [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 | 2021-10-05 |  |
+| [Sal de Maras](https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb) | [Martin Guerra](https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM) | [Temporada de Pesca](https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O) | 4:22 | 2021-10-05 | 2022-08-17 |
 | [SATURN](https://open.spotify.com/track/6aNfreVnFvPTHfziRmLsFW) | [BARDO](https://open.spotify.com/artist/2uHVCKIwvudS4Y9q6noXV7) | [EVERYWHERE REMINDS ME OF SPACE](https://open.spotify.com/album/3nJ9CAANT4wq82nxwf8BbY) | 3:26 | 2021-10-05 | 2022-05-10 |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-02-24 |  |
 | [Si Te Vas](https://open.spotify.com/track/500y7tvEld67U4AV97jcGy) | [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Si Te Vas](https://open.spotify.com/album/4edO2hq8sNlHmMw0vxddqX) | 3:46 | 2021-10-05 |  |

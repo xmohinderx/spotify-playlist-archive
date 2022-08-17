@@ -1,12 +1,12 @@
 {
   "description": "Favorite rock and gems.",
-  "num_followers": 64521,
+  "num_followers": 64593,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMDIwNmUwNWVlY2NkNmMxYTFlMmIxYTQwM2VjMzBlY2U4",
+  "snapshot_id": "MTY1NTk5NjAyNCwwMDAwMDAwMGYwMDc4MDBhYTI4ZWNjMzFmMjlhOGRjNDBjZmRmYmEz",
   "tracks": [
     {
       "added_at": "2022-06-23 14:53:44",
@@ -187,22 +187,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Free All Angels",
-        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
-      },
-      "artists": [
-        {
-          "name": "Ash",
-          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
-        }
-      ],
-      "duration_ms": 309013,
-      "name": "Shining Light",
-      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Slightly Odway",
         "url": "https://open.spotify.com/album/7LZLRjjAvM2xXdYbVHoPh3"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 181333,
       "name": "Leaving Home",
       "url": "https://open.spotify.com/track/3OtIgLTHpPYez3WmDN2iYZ"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Free All Angels",
+        "url": "https://open.spotify.com/album/1V9N1HV53xOfL2ebYXxkOu"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/2evydP72Z45DouM4uMGsIE"
+        }
+      ],
+      "duration_ms": 309013,
+      "name": "Shining Light",
+      "url": "https://open.spotify.com/track/4daraBRKwKGEA6dwom2DqG"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Cheer",
-        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 282121,
-      "name": "Weed Pin",
-      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Sound As Ever",
         "url": "https://open.spotify.com/album/2azj62n7MH5r8ikwa0c6ay"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 154666,
       "name": "Berlin Chair",
       "url": "https://open.spotify.com/track/1fhLBWJ39ihyjEqgPiUf6B"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Cheer",
+        "url": "https://open.spotify.com/album/2pQ3HNNkj7o2RJTguqfqO2"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 282121,
+      "name": "Weed Pin",
+      "url": "https://open.spotify.com/track/2waOg6GgfdfqMgbdK2qsQk"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -491,22 +491,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Keep Telling Myself It's Alright",
-        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
-      },
-      "artists": [
-        {
-          "name": "ASHES dIVIDE",
-          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
-        }
-      ],
-      "duration_ms": 229080,
-      "name": "The Stone",
-      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 195320,
       "name": "Come Down",
       "url": "https://open.spotify.com/track/6aoslVx9b2J5tbYvbp3TbD"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Keep Telling Myself It's Alright",
+        "url": "https://open.spotify.com/album/1eEdZy4kjI5kZCDPLl9gFH"
+      },
+      "artists": [
+        {
+          "name": "ASHES dIVIDE",
+          "url": "https://open.spotify.com/artist/7cNHQN4eCc7nud8htPxHBy"
+        }
+      ],
+      "duration_ms": 229080,
+      "name": "The Stone",
+      "url": "https://open.spotify.com/track/2TM6fTuwo1ZjMfvFfcFVDA"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
+        "name": "Shed",
+        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
+      },
+      "artists": [
+        {
+          "name": "Title Fight",
+          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
+        }
+      ],
+      "duration_ms": 136826,
+      "name": "Shed",
+      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
         "name": "Dark World",
         "url": "https://open.spotify.com/album/1KYhQv6jxV95Pwpv57vj1S"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 277560,
       "name": "The Pod",
       "url": "https://open.spotify.com/track/5eGfO6X1Vvpgb5LFaL5rLF"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
-        "name": "Shed",
-        "url": "https://open.spotify.com/album/1vA4pfmBUT9ei4Ukq8uTx1"
-      },
-      "artists": [
-        {
-          "name": "Title Fight",
-          "url": "https://open.spotify.com/artist/2CnhqfjUG0qzsru0SMuhrk"
-        }
-      ],
-      "duration_ms": 136826,
-      "name": "Shed",
-      "url": "https://open.spotify.com/track/1csPfS6y1zVsZx7SbXJDXJ"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -843,18 +843,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Four of Arrows",
-        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
+        "name": "2 Songs",
+        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
       },
       "artists": [
         {
-          "name": "Great Grandpa",
-          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+          "name": "Downward",
+          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
         }
       ],
-      "duration_ms": 262200,
-      "name": "Bloom",
-      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
+      "duration_ms": 200912,
+      "name": "Your Way",
+      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -871,6 +871,22 @@
       "duration_ms": 207000,
       "name": "Drugs",
       "url": "https://open.spotify.com/track/7Mh6yMRAIXYHKa7o19k6X6"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Four of Arrows",
+        "url": "https://open.spotify.com/album/6TWCsCUwO6UguJQiaDpr6A"
+      },
+      "artists": [
+        {
+          "name": "Great Grandpa",
+          "url": "https://open.spotify.com/artist/1Hs5RG6WIwUSJLxRYWaOW6"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/2AktemCmRjkEOU2ReNuP0r"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -919,22 +935,6 @@
       "duration_ms": 281173,
       "name": "Driveway to Driveway",
       "url": "https://open.spotify.com/track/7Fcs7IELpYZi0zTQZdnTMS"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
-        "name": "2 Songs",
-        "url": "https://open.spotify.com/album/7lL6RsEuOB4hKhY8owANaQ"
-      },
-      "artists": [
-        {
-          "name": "Downward",
-          "url": "https://open.spotify.com/artist/4UrucNI79ErkrEjHCbXKxU"
-        }
-      ],
-      "duration_ms": 200912,
-      "name": "Your Way",
-      "url": "https://open.spotify.com/track/35vNfLChAWby8ybNdhARNK"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Pushing the Senses",
-        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
-      },
-      "artists": [
-        {
-          "name": "Feeder",
-          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Pushing The Senses",
-      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Workbook",
         "url": "https://open.spotify.com/album/3VhSB8ozURez6qOSptLb15"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Aftertaste",
-        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+        "name": "Pushing the Senses",
+        "url": "https://open.spotify.com/album/2Vd4HdtGhozi5Ky7gzSqNC"
       },
       "artists": [
         {
-          "name": "Helmet",
-          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+          "name": "Feeder",
+          "url": "https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR"
         }
       ],
-      "duration_ms": 259266,
-      "name": "Driving Nowhere",
-      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
+      "duration_ms": 207946,
+      "name": "Pushing The Senses",
+      "url": "https://open.spotify.com/track/5KLTqUuLMQzTFmUydRh1Ud"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1227,6 +1211,22 @@
       "duration_ms": 242693,
       "name": "Questions and Answers",
       "url": "https://open.spotify.com/track/6acLYdlH82V0GczGpIVuvi"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Aftertaste",
+        "url": "https://open.spotify.com/album/1JdPCcQirTIcxXIDIQZtUQ"
+      },
+      "artists": [
+        {
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        }
+      ],
+      "duration_ms": 259266,
+      "name": "Driving Nowhere",
+      "url": "https://open.spotify.com/track/1AUpcok7lM4KriGjzur4O3"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Black Love",
-        "url": "https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO"
-      },
-      "artists": [
-        {
-          "name": "The Afghan Whigs",
-          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "Honky's Ladder",
-      "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Amusement Parks On Fire",
         "url": "https://open.spotify.com/album/0RDF4hnIcT0xwpQhN15VP0"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 251293,
       "name": "Smokescreen",
       "url": "https://open.spotify.com/track/0uZPyOmjILhz4FGREgec6j"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Black Love",
+        "url": "https://open.spotify.com/album/2Plr11K7q3joEjDFSAOqvO"
+      },
+      "artists": [
+        {
+          "name": "The Afghan Whigs",
+          "url": "https://open.spotify.com/artist/7IDrRpDz0cOuUVC32c8PKD"
+        }
+      ],
+      "duration_ms": 256200,
+      "name": "Honky's Ladder",
+      "url": "https://open.spotify.com/track/0IndpEG2dVS0rZS5xsLNXe"
     },
     {
       "added_at": "2022-06-23 14:53:44",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-06-23 14:53:44",
       "album": {
-        "name": "Effloresce",
-        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
-      },
-      "artists": [
-        {
-          "name": "Oceansize",
-          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
-        }
-      ],
-      "duration_ms": 400680,
-      "name": "Catalyst - Remastered",
-      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
-    },
-    {
-      "added_at": "2022-06-23 14:53:44",
-      "album": {
         "name": "Everything Is A-OK",
         "url": "https://open.spotify.com/album/4IayAjHP3LfFZZ79jetguT"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 268519,
       "name": "Vacation Forever",
       "url": "https://open.spotify.com/track/0MkH3VaXZB98jWQ5JnDeu9"
+    },
+    {
+      "added_at": "2022-06-23 14:53:44",
+      "album": {
+        "name": "Effloresce",
+        "url": "https://open.spotify.com/album/6yY6v4JnwTQGo5w9IZqTRu"
+      },
+      "artists": [
+        {
+          "name": "Oceansize",
+          "url": "https://open.spotify.com/artist/0Opj9xi9HHrH0L9uHAKnKm"
+        }
+      ],
+      "duration_ms": 400680,
+      "name": "Catalyst - Remastered",
+      "url": "https://open.spotify.com/track/5SCCzPzozC2v2wqHev6M0M"
     },
     {
       "added_at": "2022-06-23 14:53:44",

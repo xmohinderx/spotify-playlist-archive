@@ -4,7 +4,7 @@
 
 > Emotional and powerful \- let your feelings out with these classic power ballads\. Cover: Meat Loaf
 
-185 songs - 14 hr 43 min - [published](https://open.spotify.com/playlist/0Y6AXnQrxChNv1IvTCTZu8)
+186 songs - 14 hr 48 min - [published](https://open.spotify.com/playlist/0Y6AXnQrxChNv1IvTCTZu8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 | 2022-01-21 |  |
 | [Givin' Yourself Away](https://open.spotify.com/track/066s12j61ZlXnMDtnUiDbP) | [Ratt](https://open.spotify.com/artist/3tufWJzpCiAGleBt5TkmTn) | [Detonator](https://open.spotify.com/album/1I8TqSMkoRvF4xZSvuFDiq) | 5:26 | 2020-04-30 |  |
 | [Goodbye](https://open.spotify.com/track/50vyUOJM5ncJ6Y5YWZzXvX) | [Night Ranger](https://open.spotify.com/artist/1Ha0Fz4i0d4gu5fZbhBCtH) | [7 Wishes](https://open.spotify.com/album/6zVZkndp9OBVwLrZoOzyLB) | 4:19 | 2020-04-30 |  |
+| [Goodbye to Romance](https://open.spotify.com/track/44iFQNDCVfv2WHPdn7Wy1R) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Blizzard Of Ozz \(40th Anniversary Expanded Edition\)](https://open.spotify.com/album/4qUMByJ3Pk94BFnCmGaUPS) | 5:35 | 2022-01-21 |  |
 | [Headed For A Heartache](https://open.spotify.com/track/16SNOkWQvb2AJfhfWklQDE) | [Winger](https://open.spotify.com/artist/2qQeKHrQJHLLbvDAOSO874) | [80s Power Ballads](https://open.spotify.com/album/6yCxK3pmtFcZ94Va2cm1UC) | 4:39 | 2022-01-21 | 2022-07-29 |
 | [Heartbreak Station](https://open.spotify.com/track/71cWHhV018hztNkCC45Ayo) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Heartbreak Station](https://open.spotify.com/album/0wN0VkL96A1hHe2FrGfdOA) | 4:28 | 2022-01-21 |  |
 | [Heartbreak Station](https://open.spotify.com/track/1nWBkfPwFn4bHrCvIjxIB8) | [Cinderella](https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx) | [Rocked, Wired & Bluesed: The Greatest Hits](https://open.spotify.com/album/0o1sbpqLUru2Qrwo1CseDp) | 4:28 | 2020-04-30 | 2022-07-29 |
@@ -148,7 +149,7 @@
 | [Sleeping \(In The Fire\)](https://open.spotify.com/track/6uBO5ou5gJy8kDBUZrK9nR) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [W.A.S.P.](https://open.spotify.com/album/25pbI5TFqt2tzGS4XSMnog) | 3:55 | 2022-01-21 |  |
 | [Slippin' Away](https://open.spotify.com/track/6VixoTtuyI6L6u9y55D3lB) | [Dokken](https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq) | [Under Lock and Key](https://open.spotify.com/album/7fzsiqMaaS469OzP59V86A) | 3:49 | 2022-01-21 | 2022-04-21 |
 | [Something To Believe In \- Remastered](https://open.spotify.com/track/7pUYjnFTXMs0mFWsE9epqV) | [Poison](https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo) | [Flesh & Blood](https://open.spotify.com/album/7alngtync76VqYWSKxcBhB) | 5:28 | 2020-04-30 |  |
-| [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-04-30 |  |
+| [Sometimes She Cries](https://open.spotify.com/track/0m5RdyFFcOKhut3sGkeWHG) | [Warrant](https://open.spotify.com/artist/7HLvzuM9p11k9lUQfSM4Rq) | [Dirty Rotten Filthy Stinking Rich](https://open.spotify.com/album/1HWrP6U3m3z23H5FxFsxYS) | 4:43 | 2020-04-30 | 2022-08-17 |
 | [Still Loving You](https://open.spotify.com/track/7kjsCbksOZotNNHOvKsJJh) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting](https://open.spotify.com/album/71cfSO0iO1fjgQLEb3Wc6C) | 6:27 | 2022-01-21 |  |
 | [Still Loving You](https://open.spotify.com/track/6KGXbG5wEb6WlIFAGKDQh0) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Love At First Sting \(50th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5mtL1sxFQ8vKzv1hk6t0xX) | 6:28 | 2020-04-30 | 2022-07-28 |
 | [Still Lovin’ You](https://open.spotify.com/track/6JeukHIbgOMHEmL4Qpyz7G) | [George Lynch](https://open.spotify.com/artist/4t9bqcZJUC9cAjgRRNVm6u), [Steve Whitman](https://open.spotify.com/artist/3kQb9aSULrdlZWFq1IfiLp) | [80s Metal Essentials](https://open.spotify.com/album/2TVw53GtUSghMd1GJ1rYNU) | 4:54 | 2022-01-21 | 2022-04-21 |

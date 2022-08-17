@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 
 > Rewind and unwind with sirens of the seventies and eighties.
 
-[Spotify](https://open.spotify.com/user/spotify) - 792,643 likes - 60 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 792,740 likes - 60 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 3 | [Fast Car](https://open.spotify.com/track/2M9ro2krNb7nr7HSprkEgo) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Tracy Chapman](https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8) | 4:56 |
 | 4 | [Free Fallin'](https://open.spotify.com/track/5tVA6TkbaAH9QMITTQRrNv) | [Tom Petty](https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn) | [Full Moon Fever](https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093) | 4:16 |
 | 5 | [Let It Be \- Remastered 2009](https://open.spotify.com/track/7iN1s7xHE4ifF5povM6A48) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 4:03 |
-| 6 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
-| 7 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
+| 6 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Anthology](https://open.spotify.com/album/1lKYaRbV0AayVPss9i4oOp) | 7:18 |
+| 7 | [In The Air Tonight \- 2015 Remastered](https://open.spotify.com/track/18AXbzPzBS8Y3AkgSxzJPb) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Face Value \(Deluxe Editon\)](https://open.spotify.com/album/1cM3r0WQZWNkCpEbmFjLln) | 5:36 |
 | 8 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
 | 9 | [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 |
 | 10 | [Landslide](https://open.spotify.com/track/5ihS6UUlyQAfmp48eSkxuQ) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Fleetwood Mac](https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo) | 3:19 |
@@ -34,15 +34,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 24 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 |
 | 25 | [Maggie May](https://open.spotify.com/track/6rovOdp3HgK1DeAMYDzoA7) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Every Picture Tells A Story](https://open.spotify.com/album/4VykjLwkyfKMZVLrJJVrYh) | 5:50 |
 | 26 | [Redemption Song](https://open.spotify.com/track/26PwuMotZqcczKLHi4Htz3) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/321q9p7PELvzcFAWxml7VX) | 3:53 |
-| 27 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
+| 27 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
 | 28 | [Lean on Me](https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Still Bill](https://open.spotify.com/album/0sFuW4rH5mFZUjNKnckO3v) | 4:18 |
-| 29 | [Me and Bobby McGee](https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Pearl \(Legacy Edition\)](https://open.spotify.com/album/3j7nicLAWXM0Fb08q9XGyf) | 4:31 |
+| 29 | [Life on Mars? \- 2015 Remaster](https://open.spotify.com/track/3ZE3wv8V3w2T2f7nOCjV0N) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [Hunky Dory \(2015 Remaster\)](https://open.spotify.com/album/6fQElzBNTiEMGdIeY0hy5l) | 3:55 |
 | 30 | [Pink Moon](https://open.spotify.com/track/4KROoGIaPaR1pBHPnR3bwC) | [Nick Drake](https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y) | [Pink Moon](https://open.spotify.com/album/5mwOo1zikswhmfHvtqVSXg) | 2:04 |
-| 31 | [Stand By Me \- Remastered 2010](https://open.spotify.com/track/3ntrdR24dLkKrzSGRv1FlH) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Rock 'N' Roll](https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY) | 3:31 |
-| 32 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
+| 31 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/1Qa0Y05al633fG8f9Peytc) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Archive Collection\)](https://open.spotify.com/album/2lOll0xAGw8FPjwmwopAKT) | 3:49 |
+| 32 | [Stand By Me \- Remastered 2010](https://open.spotify.com/track/3ntrdR24dLkKrzSGRv1FlH) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Rock 'N' Roll](https://open.spotify.com/album/4D5tTcz72CXGPtzTabLTDY) | 3:31 |
 | 33 | [You Are So Beautiful](https://open.spotify.com/track/1gJOqXpRjz9GeEEwQpcujK) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [I Can Stand A Little Rain](https://open.spotify.com/album/3pZNBYMFG6OSNuajvsdN4Q) | 2:39 |
-| 34 | [Across The Universe \- Remastered 2009](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:48 |
-| 35 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
+| 34 | [Our House](https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv) | [Crosby, Stills, Nash & Young](https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ) | [Deja Vu](https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb) | 2:59 |
+| 35 | [Across The Universe \- Remastered 2009](https://open.spotify.com/track/4dkoqJrP0L8FXftrMZongF) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Let It Be \(Remastered\)](https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5) | 3:48 |
 | 36 | [I Walk the Line](https://open.spotify.com/track/7hxZF4jETnE5Q75rKQnMjE) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [I Walk the Line \(Original Soundtrack Recording\)](https://open.spotify.com/album/2k8N8D3YBi9Xc9iQEmTARx) | 2:56 |
 | 37 | [Hallelujah](https://open.spotify.com/track/7yzbimr8WVyAtBX3Eg6UL9) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Various Positions](https://open.spotify.com/album/6I58qJMqZHhb8jtNT3CuJB) | 4:37 |
 | 38 | [Up Where We Belong \- From "An Officer And A Gentleman"](https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI), [Jennifer Warnes](https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG) | [The Anthology](https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8) | 3:52 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JKUIfwQSJh.md) - [plain]
 | 59 | [Dreams \- Sessions, Roughs & Outtakes; 2004 Remaster](https://open.spotify.com/track/23hieFLBMATmL2HseI2nBL) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Rumours \(Super Deluxe\)](https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu) | 4:21 |
 | 60 | [Crazy Love \- 2013 Remaster](https://open.spotify.com/track/5aN9SeqAtly2NriV7tMjrI) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 2:35 |
 
-Snapshot ID: `MTYyNTgwMzI2MCwwMDAwMDAwMDBlNzM3Zjk4YjEyYmExMjZmNTcwOWY0ZDcyZmVmMTgz`
+Snapshot ID: `MTYyNTgwMzI2MCwwMDAwMDAwMDQxNTFjMjIzM2UwYWJhZDk1NzgzMmMzZTU2ODlhZjM3`

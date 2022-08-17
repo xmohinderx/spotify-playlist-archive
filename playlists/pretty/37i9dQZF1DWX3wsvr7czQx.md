@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3wsvr7czQx.md) - [plain]
 
 > Icons only\. Cover: Richard Marx
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,823 likes - 49 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,843 likes - 49 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

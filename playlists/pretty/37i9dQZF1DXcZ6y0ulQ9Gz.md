@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 
 > Those songs you just love to love\. Cover: Mustafa
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,919 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,922 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 53 | [Renegade \(feat\. Taylor Swift\)](https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 4:14 |
 | 54 | [hope is a dangerous thing for a woman like me to have \- but I have it](https://open.spotify.com/track/0fB77VOZ2FkQeKLv1DuEwp) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 5:24 |
 | 55 | [Frankenstein](https://open.spotify.com/track/1xSmjB0t19q4CSJ0X0ymGB) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Frankenstein](https://open.spotify.com/album/740ehwZADpfoezUB54h6zE) | 3:22 |
-| 56 | [Good Luck](https://open.spotify.com/track/2apLrBlEQvFa8ob0dQcu6i) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Good Luck](https://open.spotify.com/album/1HXt6ZlEaXQEEt1YjxHUPy) | 3:26 |
-| 57 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
+| 56 | [Silver Lining](https://open.spotify.com/track/0i5QVxsK3IvEDbUjTA64Li) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Mt\. Joy](https://open.spotify.com/album/5h9FO7QRZMcrcnSYvihQ01) | 3:18 |
+| 57 | [Good Luck](https://open.spotify.com/track/2apLrBlEQvFa8ob0dQcu6i) | [Broken Bells](https://open.spotify.com/artist/6dgwEwnK0YtDfS9XhRwBTG) | [Good Luck](https://open.spotify.com/album/1HXt6ZlEaXQEEt1YjxHUPy) | 3:26 |
 | 58 | [ghost town \(voice memo\)](https://open.spotify.com/track/0PKAijroHpnEtdY20bkGdr) | [Chloe George](https://open.spotify.com/artist/5VZn4mB8pS40aE0kujdX2Y) | [ghost town \(voice memo\)](https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g) | 2:17 |
 | 59 | [Colors](https://open.spotify.com/track/6d4FWjx72iuRWzn1HwywLK) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Black Pumas](https://open.spotify.com/album/4KJGypBUe7ANibtri1msUe) | 4:06 |
 | 60 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 76 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
 | 77 | [Photo ID](https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [I'm Allergic To Dogs!](https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2) | 4:25 |
 | 78 | [Brooklyn Bridge To Chorus](https://open.spotify.com/track/2mDYYGaGd9uXKkK2YhDA3i) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 3:55 |
-| 79 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
-| 80 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
+| 79 | [When Am I Gonna Lose You](https://open.spotify.com/track/5wCVLW9qMtIY9IkBeyYnh6) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Violet Street](https://open.spotify.com/album/0ORZb7kyr8aaP2LpL3mhuY) | 4:24 |
+| 80 | [This Life](https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 4:28 |
 | 81 | [Long Beach](https://open.spotify.com/track/6tqIes4TjudsjfIpK4P2Jh) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp), [Alex Banin](https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz) | [EVERYTHING](https://open.spotify.com/album/0cMxALtiABnT1kIuA1wgsQ) | 4:12 |
 | 82 | [Rebellion \(Lies\)](https://open.spotify.com/track/0xOeB16JDbBJBJKSdHbElT) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [Funeral](https://open.spotify.com/album/6ZB8qaR9JNuS0Q0bG1nbcH) | 5:10 |
 | 83 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcZ6y0ulQ9Gz.md) - [plain]
 | 89 | [I'm God](https://open.spotify.com/track/0FVuyC9RP5MACjp4lgU3qZ) | [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A), [Imogen Heap](https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz) | [Instrumental Relics](https://open.spotify.com/album/66eXLlqksAwNndmHaHWtCq) | 4:37 |
 | 90 | [Bad Boy](https://open.spotify.com/track/1dtTRXifeGC51adYy0902s) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Billy Marchiafava](https://open.spotify.com/artist/27foDL8SBDLivhZNlDsAza) | [Bad Boy](https://open.spotify.com/album/0elwlQEAz4Y0bb93gFw0jP) | 3:07 |
 | 91 | [Superposition](https://open.spotify.com/track/67YPjbcxUypwNOwYBZquq1) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Mirror Master](https://open.spotify.com/album/6blMxezujKgPe8HjHNveuG) | 3:50 |
-| 92 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
-| 93 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
-| 94 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 |
-| 95 | [There's Still A Light In The House](https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE](https://open.spotify.com/album/2H1daV65dzHfSoYda0wqjB) | 3:23 |
-| 96 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
+| 92 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 |
+| 93 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 |
+| 94 | [What, Me Worry?](https://open.spotify.com/track/0ePX6rVjeql7Bt1KurTbAG) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [What, Me Worry?](https://open.spotify.com/album/6S5j1iJ4B4jknYDr4xOXcA) | 2:57 |
+| 95 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 |
+| 96 | [There's Still A Light In The House](https://open.spotify.com/track/4MIPNDbxVPWdLwH6A4nsiY) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [MAYBE](https://open.spotify.com/album/2H1daV65dzHfSoYda0wqjB) | 3:23 |
 | 97 | [The Suburbs](https://open.spotify.com/track/2UWdUez9MB9yzL7Y81Mcip) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:15 |
 | 98 | [装腔作势](https://open.spotify.com/track/3rYs0fGhwSYyZCQBQcqV3G) | [波勒](https://open.spotify.com/artist/24GFQAQ6P7XGwfOEnWjDPk) | [装腔作势](https://open.spotify.com/album/6Wy7gcDO5ZlGmCEypAqogF) | 3:30 |
-| 99 | [i walk this earth all by myself](https://open.spotify.com/track/5a8QUc4ubHJqQm7vzs2YhA) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [i walk this earth all by myself](https://open.spotify.com/album/6tdl27ojBwZ5ZexzZOP4mG) | 2:25 |
+| 99 | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/track/2pGXCabl4UlMiskwh7evDq) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Tegan and Sara](https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH) | [Cloud 9 \(feat\. Tegan and Sara\)](https://open.spotify.com/album/7mtW3i89gUuP9A0dLYZ7BO) | 2:28 |
 | 100 | [Harmony Hall](https://open.spotify.com/track/39exKIvycQDgs4T6uXdyu0) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Father of the Bride](https://open.spotify.com/album/1A3nVEWRJ8yvlPzawHI1pQ) | 5:08 |
 
-Snapshot ID: `MTY1NjM2NDYzMCwwMDAwMDAwMDdjYmY2NGZhNDI0ZDM3YTBlY2U1NTMyNWUwY2E3MWM3`
+Snapshot ID: `MTY1NjM2NDYzMCwwMDAwMDAwMDA2ZmI4OGJjYzYyMmExOTBiZjRiZGYwODVmMzNkMjMz`

@@ -2460,6 +2460,28 @@
     },
     {
       "album": {
+        "name": "Lose Our Minds",
+        "url": "https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157058,
+      "name": "Lose Our Minds",
+      "url": "https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"
+    },
+    {
+      "album": {
         "name": "Losing Control",
         "url": "https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg"
       },
@@ -4857,7 +4879,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 155625,
       "name": "Your Heart",
       "url": "https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN"

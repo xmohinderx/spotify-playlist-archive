@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Goditi l'aperitivo in compagnia e con la colonna sonora ideale!
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,492 likes - 60 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,497 likes - 60 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 14 | [Give Me a Light](https://open.spotify.com/track/6dnPMrlvN8w1KIgV8pb9Gu) | [Jay Arrow](https://open.spotify.com/artist/3cAD80R4qsZOlYVPi9xN89) | [Give Me a Light](https://open.spotify.com/album/3xeGedO2mQCVHzO4WiC0WA) | 3:15 |
 | 15 | [Save Tonight](https://open.spotify.com/track/0DCjHnHogCFxuqrOZr6Bev) | [Campsite Dream](https://open.spotify.com/artist/69VkQLf4DH7GJ68BCDOPKL) | [Save Tonight](https://open.spotify.com/album/4wh4tP75sFxIjXEKaCoQu0) | 3:18 |
 | 16 | [All The Wild Things](https://open.spotify.com/track/6dts1ns58gm8pXv8EnJaYZ) | [Lylos](https://open.spotify.com/artist/5atRFMjItKzpYWYW1yVMoR) | [All The Wild Things](https://open.spotify.com/album/6cgWG2hgYYjxfx7MH5lYrc) | 3:30 |
-| 17 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
-| 18 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
+| 17 | [The Ghost in Your Smile](https://open.spotify.com/track/63FttXBXFyghH7q9CVIjcW) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [The Ghost in Your Smile](https://open.spotify.com/album/3XanT5R6MH4AeDbSn5hJVa) | 3:14 |
+| 18 | [Swept Away](https://open.spotify.com/track/78YxzNOYX8D4kcct5G8fcf) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr), [Anna Naklab](https://open.spotify.com/artist/6vNe5MINTo5QZyR08sBOBA) | [Fading Nights](https://open.spotify.com/album/51ICSJv35BaLYkYHVKJfkA) | 5:46 |
 | 19 | [Before the Parade](https://open.spotify.com/track/59toTGL3M0Qyhl8UsWlZbM) | [The Lancelot](https://open.spotify.com/artist/3wy6NtyqVhXqpm32LHZNNJ) | [Before the Parade](https://open.spotify.com/album/1KuuarXiaBMsTySJ3IFB8J) | 3:55 |
 | 20 | [Heartbeat](https://open.spotify.com/track/5R6YdiE4n2U1SVQ2UgIcqK) | [Tom Garrick](https://open.spotify.com/artist/6pornfCIACcxUzhUcbDBFc) | [Heartbeat](https://open.spotify.com/album/2C5N1RcQcaY3Fx5Q3kiWkk) | 2:56 |
 | 21 | [Keep On It](https://open.spotify.com/track/3Wwmq8WUjZoDmzcZ5EJriJ) | [Mar Vei](https://open.spotify.com/artist/1oobYLromCfJh2nx8pfZiI) | [Keep On It](https://open.spotify.com/album/4KID8UGDvhjy4hovwiBAWJ) | 4:17 |
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 42 | [Voyages](https://open.spotify.com/track/1QwwJPHlJ26QBkpugTwqqG) | [Tekkla](https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz) | [Voyages](https://open.spotify.com/album/2CFaWHNK7iPlUlVr0PR1SG) | 3:36 |
 | 43 | [Don't Ever Wonder](https://open.spotify.com/track/3yAZcVAti6seA6BbfV4sv6) | [Linae](https://open.spotify.com/artist/4ujgXGDzu9zW8ESDYPQ0t4) | [Don't Ever Wonder](https://open.spotify.com/album/1n6LUJOVA4mjgVLCkjHRjG) | 2:27 |
 | 44 | [Kiwi](https://open.spotify.com/track/7Cv5wO85eL2sc7KpXTrIlM) | [Harvio](https://open.spotify.com/artist/0VCoyPtLDeOvxwvHeCX7Jx) | [Purple Summer](https://open.spotify.com/album/6k4cdjwYJ7qm7n1g5CcMV7) | 3:52 |
-| 45 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
-| 46 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
+| 45 | [Slow Me Down](https://open.spotify.com/track/7mgNqxpTacR6b338g5dEsA) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [Slow Me Down](https://open.spotify.com/album/6G6J9h3VIXK36rmAIa8EL3) | 3:39 |
+| 46 | [Feel The Heat](https://open.spotify.com/track/20USnYqI2EWN1fLBD2PF0i) | [Bon Lui](https://open.spotify.com/artist/2NORrxtxRnvCca00Mb2CPg) | [Feel The Heat](https://open.spotify.com/album/0KND8xyCtHZVfexgG0ZQR6) | 5:19 |
 | 47 | [Elephant & Castle](https://open.spotify.com/track/694EKGkpww46ejk4jyzYM0) | [Wilmer Woo](https://open.spotify.com/artist/6vaY3CMHKyCfQ4JKsg9mJk) | [Elephant & Castle](https://open.spotify.com/album/7kRY9tH9BPnAQ9eoA0bs6v) | 3:06 |
 | 48 | [Follow the Sun](https://open.spotify.com/track/2l9sq19u99ZE4zhwNlH8yS) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [Follow the Sun](https://open.spotify.com/album/5ytX4AAhZLaWPHnwArJXtt) | 4:03 |
 | 49 | [When I'm Gone](https://open.spotify.com/track/5KnvOIDN3m5e7A09oa578x) | [Julia Bergwall](https://open.spotify.com/artist/5gdO1cvqTN17AuyLUvC2hD) | [When I'm Gone](https://open.spotify.com/album/1AabiQu9nl7ts9NPNalWSI) | 3:12 |
 | 50 | [Don't Speak](https://open.spotify.com/track/14JpNHRsVrYoxHU7kecJq9) | [PANG!](https://open.spotify.com/artist/6TlN75Ns66CyxBuZ7i3TK3) | [Don't Speak](https://open.spotify.com/album/5EtAJ0fuZt5IPd3dOIPDaD) | 3:24 |
 | 51 | [Esmeralda](https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e) | [Samba Twins](https://open.spotify.com/artist/3gad2wOabFsw6YHJihoQ1X) | [Esmeralda](https://open.spotify.com/album/4ycnduaxkoNeXSVfAVNmT0) | 3:54 |
 | 52 | [Midnight Sky](https://open.spotify.com/track/7JuGl6cntiqvXVgXJFSggk) | [Sol Calor](https://open.spotify.com/artist/5CUXWZ485yE6im34MWIvoj) | [Midnight Sky](https://open.spotify.com/album/72AzT3iBNMbwKTbr0gSuqg) | 3:34 |
-| 53 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
-| 54 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 |
+| 53 | [One Last Time](https://open.spotify.com/track/70FH1owOXIQKDV50Xzlgff) | [Tyron Hapi](https://open.spotify.com/artist/5aSBbBUbArJfyNKDg4KS1I), [Lucas Marx](https://open.spotify.com/artist/0byRxHbgxjX6AG33hitWAV) | [One Last Time](https://open.spotify.com/album/1DsUHDsuR9GlDjbZe4QOIX) | 2:30 |
+| 54 | [Rooftop](https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM) | [Tabú](https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3) | [Rooftop](https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD) | 3:40 |
 | 55 | [Utopia](https://open.spotify.com/track/4L5wjbPOZW2p77kngbEybM) | [Vivaldi Verdes](https://open.spotify.com/artist/1sxGUTRysHEjfQ0NKMrwUc) | [Utopia](https://open.spotify.com/album/0xZ6LdenoJyCdLM65sQJCa) | 3:55 |
 | 56 | [Violet Breeze](https://open.spotify.com/track/7jONoiyFISdmZT2zneg6sY) | [Giants' Nest](https://open.spotify.com/artist/31WBcBz5f7Od21JVn20Ajn) | [Surf The Orange Water](https://open.spotify.com/album/2x9HwBSuF6CrkPu2Akh1lQ) | 3:09 |
-| 57 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
+| 57 | [Let It Go](https://open.spotify.com/track/3NC6qFD2LyyQzYWUGBoycb) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [On a Summer Day](https://open.spotify.com/album/67g7BOkkgBJpaCZC6imYUA) | 2:51 |
 | 58 | [I Need My Girl](https://open.spotify.com/track/2UwKFhUl5fFw3WrT5H0wNP) | [Gnarly Gibbs](https://open.spotify.com/artist/2Zl0BC5X9r7hSxWAF52XfJ) | [I Need My Girl](https://open.spotify.com/album/7i2nw14jpRVDFGjjfMD8fq) | 3:42 |
-| 59 | [Let It Go](https://open.spotify.com/track/3NC6qFD2LyyQzYWUGBoycb) | [Tullio](https://open.spotify.com/artist/3LbMrfAq8YnMksyS3H5zWD) | [On a Summer Day](https://open.spotify.com/album/67g7BOkkgBJpaCZC6imYUA) | 2:51 |
+| 59 | [Stranded](https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w) | [Art of November](https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq) | [Stranded](https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT) | 3:49 |
 | 60 | [Hold On](https://open.spotify.com/track/7KKfvDIIyl6tqeXADXah6W) | [Mac Beez](https://open.spotify.com/artist/4BlBvAGQrqv3vWmx8GWTds) | [Hold On](https://open.spotify.com/album/2ZFRC28tWKrAIQtbTIaWAC) | 3:44 |
 
-Snapshot ID: `MTYyODE1NDU5OSwwMDAwMDAwMDE4YmVkOWM1YTc5ZWIzYmFlYzYyNjIwYTEwNWFmYTEw`
+Snapshot ID: `MTYyODE1NDU5OSwwMDAwMDAwMDY3ZmQ4OWVhNjZhMDMzODhjMTBiZmY5ZTQ3NDE0YTVm`

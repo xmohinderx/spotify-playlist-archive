@@ -4,7 +4,7 @@
 
 > Classic party anthems from the club to your ears!
 
-108 songs - 8 hr 28 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
+109 songs - 8 hr 34 min - [published](https://open.spotify.com/playlist/7uqJ66jF1VtnDKSvWC7k8R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [All Cried Out \(feat\. Alex Newell\) \- Extended Mix; Extended](https://open.spotify.com/track/2p934EJUd219ADTUlstcXg) | [Blonde](https://open.spotify.com/artist/2nuKjZLgc7II6FO4Rxjt5e), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [All Cried Out EP \(feat\. Alex Newell\)](https://open.spotify.com/album/53dunLhacsNqh6K6lBqWaV) | 4:15 | 2020-11-06 | 2022-07-29 |
 | [All Four Walls \- Maya Jane Coles Remix](https://open.spotify.com/track/4tdO9QPWjxsPlCveKmFOao) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Vaults](https://open.spotify.com/artist/0TytASn0kOZkCpjYTrXsBt), [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [All Four Walls \- EP \(Remixes\)](https://open.spotify.com/album/2AjEenKj1gR7nMaqEt2cZj) | 5:29 | 2020-11-06 | 2022-07-29 |
 | [Alone No More](https://open.spotify.com/track/4nzUclEJiSUwQQcCCEbNAA) | [Philip George](https://open.spotify.com/artist/0Q9slhIaEgg190iG8udYIV), [Anton Powers](https://open.spotify.com/artist/7h7ahzbTkbAFsshWJ7fOrc) | [Alone No More](https://open.spotify.com/album/5MhtdFnKAb3LuTgdRvdDYv) | 2:53 | 2020-11-06 | 2022-07-29 |
-| [Au Seve](https://open.spotify.com/track/2IZRKyfNf5wkUxz89DSCgV) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/4B7suN0MtI45BxJCDleJ8r) | 6:33 | 2020-11-06 |  |
+| [Au Seve](https://open.spotify.com/track/2IZRKyfNf5wkUxz89DSCgV) | [Julio Bashmore](https://open.spotify.com/artist/0WAZJYudbUpl0EOjvdrnRG) | [Au Seve](https://open.spotify.com/album/4B7suN0MtI45BxJCDleJ8r) | 6:33 | 2020-11-06 | 2022-08-17 |
 | [Bax](https://open.spotify.com/track/4x0WzGuKSqZkDKi0N69CLd) | [Mosca](https://open.spotify.com/artist/09w4rprrROhfc0yevxXCGg) | [Done Me Wrong / Bax](https://open.spotify.com/album/30mWh7iOWxTJTLExLXCS1t) | 5:33 | 2020-11-06 | 2022-07-19 |
 | [Be Sharp Say Nowt](https://open.spotify.com/track/6TvYtabYoc5plSB9kJpgOs) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa) | [Be Sharp Say Nowt](https://open.spotify.com/album/1Wx6VPrYYhN56cBE99izlc) | 3:48 | 2020-11-06 |  |
 | [Benediction](https://open.spotify.com/track/5RJc9Ex116Dx1zHGUOZGgX) | [Hot Natured](https://open.spotify.com/artist/4aKZ8rfdsQeR7YSskFu9V3) | [Different Sides Of The Sun](https://open.spotify.com/album/5w2vOtzeCbWhxcrHTzkwO6) | 6:39 | 2020-11-06 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [Piece Of Me](https://open.spotify.com/track/5xCKDXzh2JPFFcyHr39ROH) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece Of Me](https://open.spotify.com/album/7upcRDTY9YCYtAxuZkpJa2) | 3:07 | 2020-11-06 |  |
 | [Piece of Me](https://open.spotify.com/track/1ZQnV7ePl8yXoLjPfhWE5L) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Piece of Me](https://open.spotify.com/album/64wvW9YtNDyMBWgNjVl3v8) | 3:08 | 2020-11-06 | 2022-07-29 |
 | [Pool Party Music](https://open.spotify.com/track/0PPpehRoJCBZYmZSUEJcot) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Pool Party Music](https://open.spotify.com/album/6D0804q8EoEHqWUH3wGGxF) | 6:07 | 2020-11-06 | 2022-06-14 |
+| [Pool Party Music](https://open.spotify.com/track/1A7FhWZWfLx07aVnRHczx9) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [2015 \- 2017](https://open.spotify.com/album/0s3h9M4OYxzJ1JSCfbg1yE) | 6:07 | 2020-11-06 |  |
 | [Promises](https://open.spotify.com/track/2LCCxYQ5dw1dz3Pu6APEUH) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:17 | 2020-11-06 |  |
 | [Real Life](https://open.spotify.com/track/6jz9EMWHffNKVlZQVXOLoz) | [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [NAATIONS](https://open.spotify.com/artist/6mpxgK8EZh8VDoe6trGF0f) | [Real Life](https://open.spotify.com/album/55pLHOPxFKEi82Z15IeHxq) | 3:25 | 2020-11-06 |  |
 | [Remind Me](https://open.spotify.com/track/7dFJsQQMwSlelur7tPuwnr) | [High Contrast](https://open.spotify.com/artist/0bxHci3JIhhKA53n8rH3tT) | [Night Gallery](https://open.spotify.com/album/4hzruXvXyUg5hJwP37CJrF) | 4:01 | 2020-11-06 |  |

@@ -4,7 +4,7 @@
 
 > Put a smile on your face with these happy tunes from the last 30 years.
 
-257 songs - 15 hr 26 min - [published](https://open.spotify.com/playlist/35rEabbJhNhvQ3dHFQSX1H)
+258 songs - 15 hr 30 min - [published](https://open.spotify.com/playlist/35rEabbJhNhvQ3dHFQSX1H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [Feel So Close \- Radio Edit](https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [18 Months](https://open.spotify.com/album/7w19PFbxAjwZ7UVNp9z0uT) | 3:26 | 2021-11-23 |  |
 | [Feel This Moment \(feat\. Christina Aguilera\)](https://open.spotify.com/track/0Hf4aIJpsN4Os2f0y0VqWl) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:49 | 2021-11-23 |  |
 | [Firework](https://open.spotify.com/track/1mXuMM6zjPgjL4asbBsgnt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/06SY6Ke6mXzZHhURLVU57R) | 3:47 | 2021-11-23 | 2022-07-29 |
-| [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2021-11-23 |  |
+| [Firework](https://open.spotify.com/track/4r6eNCsrZnQWJzzvFh4nlg) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2eQMC9nJE3f3hCNKlYYHL1) | 3:47 | 2021-11-23 | 2022-08-17 |
 | [Forever](https://open.spotify.com/track/7e8zLk0zyjNmHQV4givkI6) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/7xwnM3LwdOp2SURODBmL1o) | 4:38 | 2021-11-23 | 2022-07-29 |
 | [Forever](https://open.spotify.com/track/3NZJlJemX3mzjf56MqC5ML) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Forever](https://open.spotify.com/album/248cu9M1nYCijfXswwZ8uW) | 4:38 | 2021-11-23 |  |
 | [Fresh Eyes](https://open.spotify.com/track/5NDUXbMwcnTQp66tI2zcdR) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [The Good Parts](https://open.spotify.com/album/0lq7zwC6uQiu8pwW5FK3Fb) | 3:18 | 2021-11-23 | 2022-07-29 |
@@ -217,6 +217,7 @@
 | [Superstar](https://open.spotify.com/track/3oobWqIgYrSRg18uqRuPIF) | [Jamelia](https://open.spotify.com/artist/3f5W9NEwkc1SAIPFuumcaf) | [Thank You](https://open.spotify.com/album/0XUV61T420G79IxYhTzrX7) | 3:35 | 2021-11-23 |  |
 | [Sweat \(A La La La La Long\)](https://open.spotify.com/track/1SssFw74DdHVjRa6ADggdD) | [Inner Circle](https://open.spotify.com/artist/5os0Ltvz8Q8BvXOPOd1frx) | [Blazzin' Fire](https://open.spotify.com/album/0zLd8jpRt4m6FWCu81Fb9n) | 3:47 | 2021-11-23 |  |
 | [Telephone](https://open.spotify.com/track/7rl7ao5pb9BhvAzPdWStxi) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Fame Monster \(Deluxe Edition\)](https://open.spotify.com/album/6DGZdMi124iOOih9GMlhN2) | 3:40 | 2021-11-23 |  |
+| [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 | 2021-11-23 |  |
 | [That Don't Impress Me Much](https://open.spotify.com/track/0KvLsZYwodakWxOQUYAR5I) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/0vOj0JVKv2bobFBBUTjgQF) | 3:58 | 2021-11-23 | 2022-07-29 |
 | [That Don't Impress Me Much](https://open.spotify.com/track/4I7DV3MIgxJGlObiy9s6nx) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over \(International Version\)](https://open.spotify.com/album/5MUiqH86VtEvtVIY1loBDi) | 3:58 | 2021-11-23 | 2022-07-31 |
 | [The Lazy Song](https://open.spotify.com/track/1ExfPZEiahqhLyajhybFeS) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Doo\-Wops & Hooligans](https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX) | 3:09 | 2021-11-23 |  |

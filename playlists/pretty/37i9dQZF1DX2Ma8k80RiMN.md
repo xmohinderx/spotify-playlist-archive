@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,345,751 likes - 40 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,345,853 likes - 40 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 30 | [Anything For You](https://open.spotify.com/track/3yP27QF0cTGw5RlfjqKL4R) | [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [The Wild Card](https://open.spotify.com/album/1k61cWVj8AgcXdZUwRaCai) | 4:17 |
 | 31 | [Baby I'm Ready](https://open.spotify.com/track/3efy0g1He1zJ4B94VMbbBo) | [Levert](https://open.spotify.com/artist/0G7OYsWptjRzVFT1AxP8TS) | [Rope A Dope Style](https://open.spotify.com/album/65gxRNu9BBpc0M1KydPtta) | 5:22 |
 | 32 | [The Secret Garden \(Sweet Seduction Suite\)](https://open.spotify.com/track/3PZW66625MiyEmZaat7tce) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 6:41 |
-| 33 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
-| 34 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
+| 33 | [Forever Mine](https://open.spotify.com/track/2X4H5K1aT6d7UyPWVfJWmF) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Identify Yourself](https://open.spotify.com/album/1R14S4kaq7WEkkRewJyPfd) | 6:06 |
+| 34 | [Can't Hide Love](https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Gratitude](https://open.spotify.com/album/7AqOsJkpKZdkiap6CmIJ3Z) | 4:10 |
 | 35 | [With You](https://open.spotify.com/track/1l69V1gBVRN02Hgt7a7sqt) | [Tony Terry](https://open.spotify.com/artist/1IEiax2qJ9BZiCKs0DXzc1) | [Tony Terry](https://open.spotify.com/album/0RRdCAkHE6wCQLsAGJ9cqM) | 5:05 |
 | 36 | [First Began](https://open.spotify.com/track/3ht2PBKbkqSJ0XEkQuNHnZ) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7) | [Gumbo](https://open.spotify.com/album/7wAWsia8smE3scMtlO0nOx) | 3:53 |
 | 37 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ma8k80RiMN.md) - [plain]
 | 39 | [Whatever It Takes](https://open.spotify.com/track/1g795gFDpVVmUF4RNbNjue) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Easy Jazz Classics](https://open.spotify.com/album/5VMaILtZ8uxldsF6p9Z0Ap) | 5:35 |
 | 40 | [Darlin' Darlin' Baby \(Sweet, Tender, Love\)](https://open.spotify.com/track/2gdvXdZatpwlUM1bfTzwxi) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Message In The Music](https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC) | 4:16 |
 
-Snapshot ID: `MTY0NzI4NzQ4MSwwMDAwMDAwMDQ4M2IxYzI5MWE5MGRhNGM2NzJkNjhkZGFjZjVkYzk0`
+Snapshot ID: `MTY0NzI4NzQ4MSwwMDAwMDAwMDUyZmYyMjEyM2QwMTE0YTViYWE2NjQyODVhODQ5MDg1`

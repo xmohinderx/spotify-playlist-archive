@@ -4269,7 +4269,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 106902,
       "name": "Balconia",
       "url": "https://open.spotify.com/track/6bK3vaE8H5miE0gaIIOFoc"
@@ -14693,7 +14693,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 112105,
       "name": "Ebony",
       "url": "https://open.spotify.com/track/197x2einuu4SBFlykVQAXS"
@@ -20421,7 +20421,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 144878,
       "name": "Guanako",
       "url": "https://open.spotify.com/track/2dQtPhq5uiuRG2JaZ4DTiw"
@@ -28161,6 +28161,32 @@
       "duration_ms": 115812,
       "name": "Lemon Island",
       "url": "https://open.spotify.com/track/1UbyQFhKrno9Jkz7Jg3EQY"
+    },
+    {
+      "album": {
+        "name": "lemons",
+        "url": "https://open.spotify.com/album/6RBClujOewROXRoFJPRHs4"
+      },
+      "artists": [
+        {
+          "name": "Heinrich Schlupf",
+          "url": "https://open.spotify.com/artist/2d4Qz6TAMDn8JCO1udJn8y"
+        },
+        {
+          "name": "Guzimi",
+          "url": "https://open.spotify.com/artist/06va0DUwCMldLprkelDwcA"
+        },
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "lemons",
+      "url": "https://open.spotify.com/track/2WDqySqy4Q85CsYQUfVLE4"
     },
     {
       "album": {
@@ -46588,6 +46614,32 @@
     },
     {
       "album": {
+        "name": "Soliloquy",
+        "url": "https://open.spotify.com/album/7eD16TNMO370ADf36nj8Gt"
+      },
+      "artists": [
+        {
+          "name": "Mr. K\u00e4fer",
+          "url": "https://open.spotify.com/artist/79U1adgS3jIlP28wwMHqGJ"
+        },
+        {
+          "name": "Flitz&Suppe",
+          "url": "https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84"
+        },
+        {
+          "name": "DDob",
+          "url": "https://open.spotify.com/artist/3gFdymAugBzttDhDaH6VJo"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144474,
+      "name": "Soliloquy",
+      "url": "https://open.spotify.com/track/2lfIAAQU2GE6r1qnfkv6bG"
+    },
+    {
+      "album": {
         "name": "Silent Talk",
         "url": "https://open.spotify.com/album/5KfObYmuwBE2dGshfWeAe4"
       },
@@ -53189,6 +53241,28 @@
       "duration_ms": 96893,
       "name": "Toada",
       "url": "https://open.spotify.com/track/0wRBLhXKcxODx9734qcZ9h"
+    },
+    {
+      "album": {
+        "name": "Tokyo",
+        "url": "https://open.spotify.com/album/1Hwo2Q7UOBVHQz3plS4ENV"
+      },
+      "artists": [
+        {
+          "name": "Wilczynski",
+          "url": "https://open.spotify.com/artist/5RBoyuxAJsUAavA4oNFh94"
+        },
+        {
+          "name": "JTS.sax",
+          "url": "https://open.spotify.com/artist/519qBjHSkS9jYk2Ktbuy5H"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151826,
+      "name": "Tokyo",
+      "url": "https://open.spotify.com/track/0IOO3DjAhuESGhXKR1nU19"
     },
     {
       "album": {

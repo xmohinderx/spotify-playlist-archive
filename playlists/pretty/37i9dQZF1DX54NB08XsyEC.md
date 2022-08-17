@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 
 > pov: essa mami n te quer mais // ROSALÍA
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,671 likes - 49 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,877 likes - 49 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 15 | [Pipoco](https://open.spotify.com/track/7AwVSKaQxpidrtYBerkHKk) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Melody](https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI), [Dj Chris No Beat](https://open.spotify.com/artist/0vdcZzmneH0nK9CYFHQBjk) | [Pipoco](https://open.spotify.com/album/00C8jeBlMsEwhksDe34e6E) | 3:14 |
 | 16 | [Heat Waves](https://open.spotify.com/track/6CDzDgIUqeDY5g8ujExx2f) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Heat Waves](https://open.spotify.com/album/69K1zrf6TkXHdYUO8n2qVi) | 3:58 |
 | 17 | [Cool for the Summer](https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Confident](https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn) | 3:34 |
-| 18 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
-| 19 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 |
+| 18 | [Friends](https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Nostalgia](https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau) | 3:50 |
+| 19 | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \- Remix](https://open.spotify.com/track/4gvrJnKCKIPiacNsWVQwEU) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Dj Yo!](https://open.spotify.com/artist/7iTLGcddv1bOPirdYJjKVy), [AX'EL](https://open.spotify.com/artist/5fUXK5m3BNwoRgTyKq8tnz) | [love nwantiti \(feat\. Dj Yo! & AX'EL\) \[Remix\]](https://open.spotify.com/album/5NzoKSfocwLOb6o0lXfTM9) | 3:08 |
 | 20 | [Unstoppable](https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [This Is Acting \(Deluxe Version\)](https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX) | 3:37 |
 | 21 | [Tom's Diner](https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m), [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Tom's Diner](https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg) | 4:29 |
 | 22 | [Hotel Caro](https://open.spotify.com/track/6BF3nZQkAg9qvE0DLVSfyH) | [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Hotel Caro](https://open.spotify.com/album/2rnjCy8GYIemnJTPz6dnlU) | 3:41 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 30 | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/track/5Q6fh8OEhBYepJaORz9lxe) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Daddy Issues \(Remix\) feat\. Syd](https://open.spotify.com/album/6vdbDPGQbJMCHyZhz9z6GS) | 3:01 |
 | 31 | [Soap](https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [Cry Baby \(Deluxe Edition\)](https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY) | 3:29 |
 | 32 | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Zendaya](https://open.spotify.com/artist/6sCbFbEjbYepqswM1vWjjs) | [I’m Tired \(with Zendaya\) \- Bonus Track](https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu) | 3:07 |
-| 33 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 |
-| 34 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
+| 33 | [Por Supuesto](https://open.spotify.com/track/7xVSNhAUQhUIpwfR6lTOwA) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:06 |
+| 34 | [psychofreak \(feat\. WILLOW\)](https://open.spotify.com/track/705dwKmZCd7ImAUyyD6Mpm) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:21 |
 | 35 | [SUBSTANCE](https://open.spotify.com/track/5zuT7tF518cJcoOJI9VzDM) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [SUBSTANCE](https://open.spotify.com/album/4gH2QdzpnQH1k3JXjnVVfX) | 2:40 |
 | 36 | [Louis V, Menina Linda](https://open.spotify.com/track/2jPACjKR21inTnWeo3eHla) | [Sidoka](https://open.spotify.com/artist/7EyzyrMNgqiK8bMrbkOT9l), [Intactoz Corp.](https://open.spotify.com/artist/3uMHwSzAIRTT0pRMihvQJw) | [Louis V, Menina Linda](https://open.spotify.com/album/60NnC6VY4C2LehfrT5xFCQ) | 3:35 |
 | 37 | [Essa Eu Fiz Pro Nosso Amor](https://open.spotify.com/track/4JwwAxvprUGhrecdjSjfHN) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [ANTI\-HERÓI](https://open.spotify.com/album/3l3LZovnHa1TmtR1V2fxkP) | 3:14 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX54NB08XsyEC.md) - [plain]
 | 48 | [Amigos Que Se Beijam](https://open.spotify.com/track/5b7LOeiHvIhmj7rxzPSrzm) | [Dody](https://open.spotify.com/artist/57zabUYj0PmYHv4YeaeiEs) | [Amigos Que Se Beijam](https://open.spotify.com/album/0GxaNSeUoWDFYolnWKvGzN) | 2:07 |
 | 49 | [FALSA](https://open.spotify.com/track/1ndABt0cfIjjLHTZYJ3Rsi) | [Clara x Sofia](https://open.spotify.com/artist/2AiR0VxXS1sbh2bSnVAKU0) | [NADA DISSO É PRA VOCÊ](https://open.spotify.com/album/5epqdTqnj8n5MzG1F5HuJt) | 3:05 |
 
-Snapshot ID: `MTY2MDI3NDA4NSwwMDAwMDAwMDQ0OTYwYTY0YTBmMGQ1ZjgwYTY3YTljYTVkNzM5MmE3`
+Snapshot ID: `MTY2MDI3NDA4NSwwMDAwMDAwMDA0NWFjYmRiOGY4ZWNiMjFmMWQ5NTI5YzU3MDYzYTNl`

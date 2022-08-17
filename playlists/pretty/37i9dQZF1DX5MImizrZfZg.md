@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 
 > The smoothest jazz of the 2000s\. Cover: Rick Braun
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,447 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,481 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 28 | [Stone Groove](https://open.spotify.com/track/5WyIyCuElhkrqxka1AEIAQ) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE) | [Pure](https://open.spotify.com/album/2xbF9okrdq3tct4UuEKqzh) | 4:45 |
 | 29 | [Keepin' It Cool](https://open.spotify.com/track/6rKan5MDdzwXHUy90RYn26) | [Nick Colionne](https://open.spotify.com/artist/2sCtM9BmF4hSfiwEwiAm5l) | [Keepin' It Cool](https://open.spotify.com/album/3w9dctOHUxIF5YRVKycZD7) | 3:34 |
 | 30 | [Feeling Good](https://open.spotify.com/track/2LC4PhDDtZPEuGe0kz2qM7) | [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Radiant](https://open.spotify.com/album/0Y2T4tZJtOfnEGUgxsmnuQ) | 4:59 |
-| 31 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
-| 32 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 31 | [This Time Around](https://open.spotify.com/track/1HBNkjEwlYzcscjBEoCQVA) | [Dan Siegel](https://open.spotify.com/artist/0TknnwW9imlXjnjxfHcvFd) | [Inside Out](https://open.spotify.com/album/1DU7S0sd2bxh62puU2vPHi) | 5:02 |
+| 32 | [So Divine](https://open.spotify.com/track/2m0o9frDFAdNnw9OHQaWNS) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Both Sides](https://open.spotify.com/album/44DpwSTolMLCXVbYfd8sY9) | 4:55 |
 | 33 | [Mildred's Attraction](https://open.spotify.com/track/6LOA1tEyiS6oHdwZiJ9rkA) | [Joyce Cooling](https://open.spotify.com/artist/44GiVGTGkzAmI1OGZcypec) | [Revolving Door](https://open.spotify.com/album/27oaatzsezS61BzFb69ZFc) | 5:45 |
 | 34 | [Just Like The First Time](https://open.spotify.com/track/0oRlsawgDgzSw08nbdwGGV) | [Kevin Toney](https://open.spotify.com/artist/1tTgW7qTHbI2rpdp2MrGZ0) | [110 Degrees and Rising](https://open.spotify.com/album/021jPmoz6TfJwji4x5i2iU) | 4:39 |
 | 35 | [Say Something](https://open.spotify.com/track/1rLELrN8JJP0BxYFCTKdJs) | [Shilts](https://open.spotify.com/artist/73DE5ZAnmntrgyvzv2r2Y2) | [HeadBoppin \(with bonus track\)](https://open.spotify.com/album/71rXvbTQwDdXPBh0TyPnrE) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5MImizrZfZg.md) - [plain]
 | 49 | [Eye 2 Eye](https://open.spotify.com/track/4gvWlsrQogixhISq7Oz1r4) | [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Embrace](https://open.spotify.com/album/03PWH8UYNt3it6HVUThJf3) | 4:43 |
 | 50 | [Make It Happen](https://open.spotify.com/track/508i2fa2DAEchJjKbW3bb9) | [Jay Soto](https://open.spotify.com/artist/5uDQgKIEg2yDXU3FQBD7Me) | [Stay Awhile](https://open.spotify.com/album/1EnNQRl2u7SVbSfaLp8ZN1) | 4:15 |
 
-Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMGRlZTkzOTBmNTUzZGI2NTZjM2Y1Y2IyMjg1NTY3NjAz`
+Snapshot ID: `MTYzODg5NTgyOCwwMDAwMDAwMDcxNDkwNzFhYjJmYmI0NTY3ZWE0NWU4NmRhYThiMzJk`

@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 5595,
+  "num_followers": 5607,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTE3NCwwMDAwMDAwMDdhZGZkYjEwYzkyYTY0ZGM0NDAyNmQ4YzUyMTU2ODEz",
+  "snapshot_id": "MTY2MDMyOTE3NCwwMDAwMDAwMDM2MDlhMDNiMGQ4OWFhNWQyNjA4YWUwYjA1Yjg5MzA4",
   "tracks": [
     {
       "added_at": "2022-08-12 18:32:54",
@@ -255,18 +255,18 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
       },
       "artists": [
         {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+          "name": "Kim MinSeok",
+          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
         }
       ],
-      "duration_ms": 200862,
-      "name": "Star",
-      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
+      "duration_ms": 254000,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -283,6 +283,22 @@
       "duration_ms": 243281,
       "name": "This night",
       "url": "https://open.spotify.com/track/4TpvzMWFgeIU188OdlNhGh"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 200862,
+      "name": "Star",
+      "url": "https://open.spotify.com/track/7GGTWjlLnoDIm9DMY9I9cI"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -315,38 +331,6 @@
       "duration_ms": 171500,
       "name": "a story to tell (Original Ver.)",
       "url": "https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK"
-      },
-      "artists": [
-        {
-          "name": "Kim MinSeok",
-          "url": "https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Night Swimming",
-        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
-      },
-      "artists": [
-        {
-          "name": "sunwashere",
-          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
-        }
-      ],
-      "duration_ms": 249272,
-      "name": "Night Swimming",
-      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -399,18 +383,18 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Tropical night",
-        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
+        "name": "Night Swimming",
+        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
       },
       "artists": [
         {
-          "name": "\uc5ec\ub3d9\uc0dd",
-          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
+          "name": "sunwashere",
+          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
         }
       ],
-      "duration_ms": 311797,
-      "name": "Tropical night",
-      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
+      "duration_ms": 249272,
+      "name": "Night Swimming",
+      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -431,6 +415,22 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
+        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+      },
+      "artists": [
+        {
+          "name": "Lucia",
+          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+        }
+      ],
+      "duration_ms": 213327,
+      "name": "Going home",
+      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
         "name": "Now On, Showtime! (Original Television Soundtrack) - 'DANDELION'",
         "url": "https://open.spotify.com/album/0p6LcAuJfbKxZaPpsgUlF9"
       },
@@ -447,18 +447,18 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Beautiful Now (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq"
+        "name": "Tropical night",
+        "url": "https://open.spotify.com/album/1ABhZPNxNz5supUUmVDraK"
       },
       "artists": [
         {
-          "name": "Lucia",
-          "url": "https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc"
+          "name": "\uc5ec\ub3d9\uc0dd",
+          "url": "https://open.spotify.com/artist/3nksJgo6Gv1JKTKf3nlQq1"
         }
       ],
-      "duration_ms": 213327,
-      "name": "Going home",
-      "url": "https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh"
+      "duration_ms": 311797,
+      "name": "Tropical night",
+      "url": "https://open.spotify.com/track/1HqHn3JyuGpCsTuc4HHNNk"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
-        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
-      },
-      "artists": [
-        {
-          "name": "J Rabbit",
-          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
-        }
-      ],
-      "duration_ms": 225080,
-      "name": "Just You",
-      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
         "name": "Dancing With You",
         "url": "https://open.spotify.com/album/0pCcUdeFSd2j7BhVvUP8HS"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 150375,
       "name": "Shower",
       "url": "https://open.spotify.com/track/55DF2HAjfwN52aHQwIT5gO"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Record of Youth (Original Television Soundtrack) Pt. 8",
+        "url": "https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt"
+      },
+      "artists": [
+        {
+          "name": "J Rabbit",
+          "url": "https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G"
+        }
+      ],
+      "duration_ms": 225080,
+      "name": "Just You",
+      "url": "https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "Star",
-        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
-        }
-      ],
-      "duration_ms": 245870,
-      "name": "Something Special",
-      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
         "name": "Summer Night You and I",
         "url": "https://open.spotify.com/album/2vo3nvT5oqGlEHGbh1QvhO"
       },
@@ -647,6 +631,42 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
+        "name": "Star",
+        "url": "https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv"
+        }
+      ],
+      "duration_ms": 245870,
+      "name": "Something Special",
+      "url": "https://open.spotify.com/track/0Y7AaeEqV9copcxaq1VEja"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Attitude #1",
+        "url": "https://open.spotify.com/album/1FJw2Gh31WNocjV5wv5WOB"
+      },
+      "artists": [
+        {
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "Mabinc",
+          "url": "https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Sound Sleep (feat. Mabinc)",
+      "url": "https://open.spotify.com/track/6fu9R8kbhpABqj12soV73s"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
         "name": "Think About You",
         "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
       },
@@ -659,22 +679,6 @@
       "duration_ms": 224000,
       "name": "Think About You",
       "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "To the other side of greed",
-        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
-      },
-      "artists": [
-        {
-          "name": "Choi Yuree",
-          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
-        }
-      ],
-      "duration_ms": 227560,
-      "name": "To the other side of greed",
-      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -699,6 +703,22 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
+        "name": "To the other side of greed",
+        "url": "https://open.spotify.com/album/3BIiz6Akrive4laESm0Eip"
+      },
+      "artists": [
+        {
+          "name": "Choi Yuree",
+          "url": "https://open.spotify.com/artist/6qvVoPGEqNCyYSjYCgfV1v"
+        }
+      ],
+      "duration_ms": 227560,
+      "name": "To the other side of greed",
+      "url": "https://open.spotify.com/track/0DnSCHrXkoJgjvmZMtJiSz"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
         "name": "Losing Myself",
         "url": "https://open.spotify.com/album/5YKhG5PZw6BkLlEzmzKRuH"
       },
@@ -711,6 +731,26 @@
       "duration_ms": 176373,
       "name": "Losing Myself",
       "url": "https://open.spotify.com/track/5tAwagT5QqjBYrzsYE2RIX"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "Ocean (feat. Aden)",
+        "url": "https://open.spotify.com/album/1pGgckc3VwImx2Ka1wfZcX"
+      },
+      "artists": [
+        {
+          "name": "Sumsher",
+          "url": "https://open.spotify.com/artist/5hb1plh7RDdl57ztwwzAzm"
+        },
+        {
+          "name": "Aden",
+          "url": "https://open.spotify.com/artist/4DC3zLbfVrTZo2WmvjMMls"
+        }
+      ],
+      "duration_ms": 203590,
+      "name": "Ocean (feat. Aden)",
+      "url": "https://open.spotify.com/track/1RaY3cmtdqTJS1dOd3rTEV"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -751,22 +791,6 @@
     {
       "added_at": "2022-08-12 18:32:54",
       "album": {
-        "name": "you",
-        "url": "https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV"
-      },
-      "artists": [
-        {
-          "name": "Park Ji Yoon",
-          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "you",
-      "url": "https://open.spotify.com/track/3g6lml297b6ai3Azf6Ytw5"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
         "name": "When I'm With You",
         "url": "https://open.spotify.com/album/08tAEJdZVHvS1I9RzZZaxp"
       },
@@ -779,6 +803,22 @@
       "duration_ms": 204813,
       "name": "I Wanna Be With You",
       "url": "https://open.spotify.com/track/4BRllgokpqghTc6b52mDMa"
+    },
+    {
+      "added_at": "2022-08-12 18:32:54",
+      "album": {
+        "name": "you",
+        "url": "https://open.spotify.com/album/72rz8JJb4Wt9p3o2oWALkV"
+      },
+      "artists": [
+        {
+          "name": "Park Ji Yoon",
+          "url": "https://open.spotify.com/artist/2NVYd7nCno3gh2Bz9pWtfi"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "you",
+      "url": "https://open.spotify.com/track/3g6lml297b6ai3Azf6Ytw5"
     },
     {
       "added_at": "2022-08-12 18:32:54",
@@ -811,38 +851,6 @@
       "duration_ms": 174946,
       "name": "Mm Mm - Acoustic Version",
       "url": "https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Quince Tree",
-        "url": "https://open.spotify.com/album/24fa0DG8OcGW2U9A0V2vbF"
-      },
-      "artists": [
-        {
-          "name": "Yozoh",
-          "url": "https://open.spotify.com/artist/2Y6RMrspOMXAYSD4U57qS7"
-        }
-      ],
-      "duration_ms": 187500,
-      "name": "Quince Tree",
-      "url": "https://open.spotify.com/track/3GRm8zn22TL98gEZTweXRu"
-    },
-    {
-      "added_at": "2022-08-12 18:32:54",
-      "album": {
-        "name": "Gently, By Your Side",
-        "url": "https://open.spotify.com/album/2EThyE3VDQbA0LkMgyVoqI"
-      },
-      "artists": [
-        {
-          "name": "Siwa",
-          "url": "https://open.spotify.com/artist/65h2inEcodauMEbyfodXdM"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "Gently, By Your Side",
-      "url": "https://open.spotify.com/track/50tE4kVgb6E6StIU8aXIiZ"
     }
   ],
   "unique_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",

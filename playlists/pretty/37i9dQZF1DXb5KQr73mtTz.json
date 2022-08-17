@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 4490,
+  "num_followers": 4532,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740,",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDE4NSwwMDAwMDAwMDNmZWQyYjZjZDI3NGU5M2VjMGJiNDM4Y2ExYTZkOWEw",
+  "snapshot_id": "MTY2MDMzMDE4NSwwMDAwMDAwMDRhYzllNjNlMTliNjU1OGQ5MDMzMjUwYTYxNTNiMzM5",
   "tracks": [
     {
       "added_at": "2022-08-12 18:49:45",
@@ -91,6 +91,22 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "added_at": "2022-08-12 18:49:45",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2022-08-12 18:49:45",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -307,22 +307,6 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
-        "name": "My Liberation Notes OST Part 11",
-        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
-      },
-      "artists": [
-        {
-          "name": "Kim Feel",
-          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
-        }
-      ],
-      "duration_ms": 259056,
-      "name": "Here We Are",
-      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
-    },
-    {
-      "added_at": "2022-08-12 18:49:45",
-      "album": {
         "name": "one summer",
         "url": "https://open.spotify.com/album/1dSFPUYpKZiSdBb4jonPPK"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 239692,
       "name": "one summer",
       "url": "https://open.spotify.com/track/7EAkXA5TvfYOYE9EzE3mtc"
+    },
+    {
+      "added_at": "2022-08-12 18:49:45",
+      "album": {
+        "name": "My Liberation Notes OST Part 11",
+        "url": "https://open.spotify.com/album/44bjY6dv0qG7OghlaiGQ0A"
+      },
+      "artists": [
+        {
+          "name": "Kim Feel",
+          "url": "https://open.spotify.com/artist/4EPYWwU4c8eG2GzD7MenUA"
+        }
+      ],
+      "duration_ms": 259056,
+      "name": "Here We Are",
+      "url": "https://open.spotify.com/track/1ojMUMVW07SgOFXCiPEbsr"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -391,18 +391,18 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
-        "name": "Dear you (Romance 101 X LeeHi)",
-        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
+        "name": "inside",
+        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
       },
       "artists": [
         {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
         }
       ],
-      "duration_ms": 219133,
-      "name": "Dear you (Romance 101 X LeeHi)",
-      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
+      "duration_ms": 228548,
+      "name": "lie",
+      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -423,18 +423,18 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
-        "name": "inside",
-        "url": "https://open.spotify.com/album/1gphhxPPKfz8n69hKEK5D8"
+        "name": "Dear you (Romance 101 X LeeHi)",
+        "url": "https://open.spotify.com/album/75Y3SPWFUwaiVnWuwAjMSg"
       },
       "artists": [
         {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
         }
       ],
-      "duration_ms": 228548,
-      "name": "lie",
-      "url": "https://open.spotify.com/track/1C8vJqfSxRgF2lAxnwJz9E"
+      "duration_ms": 219133,
+      "name": "Dear you (Romance 101 X LeeHi)",
+      "url": "https://open.spotify.com/track/3Hl54jMVxsDipnNQXG2xnV"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -631,22 +631,6 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
-        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
-      },
-      "artists": [
-        {
-          "name": "RIO",
-          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "Dimly",
-      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
-    },
-    {
-      "added_at": "2022-08-12 18:49:45",
-      "album": {
         "name": "\ud55c\ucc38 \uc9c0\ub098\uc11c (Original Television Soundtrack) BEST",
         "url": "https://open.spotify.com/album/3I3bk770MRm5PJCL8BONKz"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
+        "name": "Bloody Heart, Pt. 1 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/6f3x5veSa5rYKBLfDLH5es"
+      },
+      "artists": [
+        {
+          "name": "RIO",
+          "url": "https://open.spotify.com/artist/3sSwsGMEcViUoDXzzcht3g"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Dimly",
+      "url": "https://open.spotify.com/track/1Pnek7frHF95HQewENySXW"
+    },
+    {
+      "added_at": "2022-08-12 18:49:45",
+      "album": {
         "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
         "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
       },
@@ -675,6 +675,22 @@
       "duration_ms": 227360,
       "name": "Clockwork",
       "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2022-08-12 18:49:45",
+      "album": {
+        "name": "If You Wish Upon Me OST Part.1",
+        "url": "https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A"
+      },
+      "artists": [
+        {
+          "name": "Kim Sung Kyu",
+          "url": "https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73"
+        }
+      ],
+      "duration_ms": 219413,
+      "name": "LONER",
+      "url": "https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -711,6 +727,22 @@
     {
       "added_at": "2022-08-12 18:49:45",
       "album": {
+        "name": "\uaf43",
+        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
+      },
+      "artists": [
+        {
+          "name": "Lee So Ra",
+          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
+        }
+      ],
+      "duration_ms": 258873,
+      "name": "\uc81c\ubc1c",
+      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
+    },
+    {
+      "added_at": "2022-08-12 18:49:45",
+      "album": {
         "name": "How could you",
         "url": "https://open.spotify.com/album/6Tv0HmutNYBa1IK3scNXYo"
       },
@@ -727,22 +759,6 @@
       "duration_ms": 251240,
       "name": "How could you",
       "url": "https://open.spotify.com/track/49vI2GkYDR5sKmINKsQd96"
-    },
-    {
-      "added_at": "2022-08-12 18:49:45",
-      "album": {
-        "name": "\uaf43",
-        "url": "https://open.spotify.com/album/63hUBu2nqXg7EoDMHnC7pg"
-      },
-      "artists": [
-        {
-          "name": "Lee So Ra",
-          "url": "https://open.spotify.com/artist/58BWh3yJrluDugLv0QF0eC"
-        }
-      ],
-      "duration_ms": 258873,
-      "name": "\uc81c\ubc1c",
-      "url": "https://open.spotify.com/track/4vWxth95aPGidkuJC8eVEz"
     },
     {
       "added_at": "2022-08-12 18:49:45",
@@ -795,22 +811,6 @@
       "duration_ms": 240532,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/4ENniXI0VHnhW6DEpJETVR"
-    },
-    {
-      "added_at": "2022-08-12 18:49:45",
-      "album": {
-        "name": "Emptiness in Memory",
-        "url": "https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG"
-      },
-      "artists": [
-        {
-          "name": "Naul",
-          "url": "https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1"
-        }
-      ],
-      "duration_ms": 278454,
-      "name": "Emptiness in Memory",
-      "url": "https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh"
     },
     {
       "added_at": "2022-08-12 18:49:45",

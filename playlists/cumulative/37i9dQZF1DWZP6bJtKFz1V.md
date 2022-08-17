@@ -4,7 +4,7 @@
 
 > alternative hits of today, tomorrow, and then some\. Cover: Dayglow
 
-374 songs - 19 hr 27 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
+376 songs - 19 hr 33 min - [published](https://open.spotify.com/playlist/1wVw7z1lWnvceI3e0NeFmp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -199,6 +199,7 @@
 | [Loner](https://open.spotify.com/track/7fLb22ZSPkgPOCsOksCwtg) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Loner](https://open.spotify.com/album/5znBaBjG7vMjRdSdKcNV6Q) | 2:23 | 2022-05-13 | 2022-07-23 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-25 | 2022-04-02 |
 | [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-06-17 | 2022-07-29 |
+| [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-12 |  |
 | [Love Brand New](https://open.spotify.com/track/1rJgKcK3ilp4xg7WxTs4RG) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Love Brand New](https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX) | 3:18 | 2022-02-04 |  |
 | [Love Is All I Bring](https://open.spotify.com/track/363X19MuOxz85oVQ0NsDWa) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Love Is All I Bring](https://open.spotify.com/album/1GKXjRKLwrtGc3SDx24mJf) | 3:27 | 2022-07-08 | 2022-07-21 |
 | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/track/26wuBc04catG1QQyYupr35) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Love Letter \(feat\. The Knocks\)](https://open.spotify.com/album/1MYXb16TpRvNZiLmscSGDk) | 4:13 | 2022-03-25 | 2022-04-29 |
@@ -261,6 +262,7 @@
 | [PORN ACTING\*](https://open.spotify.com/track/1lu1qW0KFaYUv2cQJl71ok) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [PORN ACTING\*](https://open.spotify.com/album/7eZvZ7wgGD2dwL6n0Vatrk) | 2:52 | 2022-02-25 | 2022-04-23 |
 | [Pretend](https://open.spotify.com/track/2XzQvMj0sczBQmAceS8gyT) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Pretend](https://open.spotify.com/album/7rVNmBitSHGRCrt81q6YR5) | 3:12 | 2022-02-04 | 2022-04-23 |
 | [PRETEND RAINBOW](https://open.spotify.com/track/3kescnpBiOqSSdNywgGHkB) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [PRETEND RAINBOW](https://open.spotify.com/album/3iJxQdm6ZrjKuPrpeLJl2o) | 2:38 | 2022-05-13 | 2022-07-21 |
+| [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 | 2022-08-12 |  |
 | [Puffer](https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Puffer](https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n) | 2:32 | 2022-06-17 |  |
 | [pulp](https://open.spotify.com/track/70OvaCDu8Xc4jNQgXmiw7s) | [Winnetka Bowling League](https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu) | [pulp](https://open.spotify.com/album/2YqpYtHDAxJz4dgkFy4P4v) | 3:05 | 2022-02-04 | 2022-05-28 |
 | [Pure Androgyny](https://open.spotify.com/track/0xPLAq2c7zycsDTddXoF7r) | [BEGINNERS](https://open.spotify.com/artist/3W8j0OhMMduqR1eNV6ktu3), [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Pure Androgyny](https://open.spotify.com/album/6Hf0off8InwP1Y0cgT50dt) | 2:57 | 2022-06-17 | 2022-07-18 |
@@ -272,7 +274,7 @@
 | [Renegade](https://open.spotify.com/track/4XvBuksY1YuiQjYpkZL1Oz) | [SLOE JACK](https://open.spotify.com/artist/6LxNb1YrbYYSpIFQAfxUQ1) | [Renegade](https://open.spotify.com/album/605u6tbMKCQfNCcePgnTxL) | 2:01 | 2022-06-17 | 2022-07-22 |
 | [Revolver](https://open.spotify.com/track/3alJBylWqwz6zFDhzT9xO3) | [bülow](https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4) | [Revolver](https://open.spotify.com/album/5h5Phe6GYcTrFRyjfDcNPv) | 2:48 | 2022-02-04 | 2022-03-26 |
 | [Ribbon Around The Bomb](https://open.spotify.com/track/1xeUlQsm3i9aAry71kXbhY) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Ribbon Around The Bomb](https://open.spotify.com/album/3VZZs7wrm6CME7Fk82NRyj) | 2:34 | 2022-02-04 | 2022-04-16 |
-| [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-02-04 |  |
+| [Ride or Die](https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Ride or Die](https://open.spotify.com/album/1vMfrkDvP3CDkYGt19voDl) | 3:30 | 2022-02-04 | 2022-08-17 |
 | [RIP](https://open.spotify.com/track/6sy5XzSPzBB5JuJ9berpu3) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:17 | 2022-02-04 | 2022-04-29 |
 | [Rock 'n' Roll Raver](https://open.spotify.com/track/68iPcJAmCqWPyfs9wPHwVT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [Rock 'n' Roll Raver](https://open.spotify.com/album/1mP17eGU7BavBcaTGmnNbu) | 3:53 | 2022-02-04 | 2022-04-02 |
 | [Rockstar](https://open.spotify.com/track/0MfFiBddXSbI73TLpjjMV3) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Rockstar](https://open.spotify.com/album/7A1taOMSajIBn3qCW0OYBg) | 3:09 | 2022-03-11 | 2022-04-16 |
@@ -286,7 +288,7 @@
 | [scaredy cat](https://open.spotify.com/track/6h25pN6clHAfaO443edhwS) | [JT FOLEY](https://open.spotify.com/artist/1h5BwdyJ0LOpYZwECGo58q) | [scaredy cat](https://open.spotify.com/album/5fFrqDeUxm6LkKtXHABKHd) | 3:06 | 2022-04-01 | 2022-05-28 |
 | [scream!](https://open.spotify.com/track/4ns5zRv5YXKZTfiGx3qEE0) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [scream!](https://open.spotify.com/album/2sCqph9s39xDKrZBZVtlHY) | 3:19 | 2022-05-06 |  |
 | [Seasick](https://open.spotify.com/track/7fR3tnzsPKVNZTx4Ms871S) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Seasick](https://open.spotify.com/album/5WdjEWFKc0aznBIb01FHo7) | 2:30 | 2022-07-01 |  |
-| [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-06-24 |  |
+| [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 | 2022-06-24 | 2022-08-17 |
 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 | 2022-02-04 | 2022-03-05 |
 | [Shapeshift](https://open.spotify.com/track/08KAB8LahxJB28HExOmPnL) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Shapeshift](https://open.spotify.com/album/5hgChCe2iQ66hwlMAINHyf) | 2:25 | 2022-02-04 | 2022-05-14 |
 | [Share Ur Feelings](https://open.spotify.com/track/6XeFSQd5hMclo2nxUgZR2d) | [Junior Varsity](https://open.spotify.com/artist/27tsCOGutD6wmFnv4eKWMp) | [Share Ur Feelings](https://open.spotify.com/album/7g7rYAQQ0qMQNarD8fMh7X) | 3:00 | 2022-05-06 | 2022-07-09 |

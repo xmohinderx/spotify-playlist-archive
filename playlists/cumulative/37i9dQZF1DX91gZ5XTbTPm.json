@@ -653,10 +653,32 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 123036,
       "name": "Black Angel",
       "url": "https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q"
+    },
+    {
+      "album": {
+        "name": "Black Angel (feat. Snow Banks)",
+        "url": "https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc"
+      },
+      "artists": [
+        {
+          "name": "30 Deep Grimeyy",
+          "url": "https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX"
+        },
+        {
+          "name": "Snow Banks",
+          "url": "https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123036,
+      "name": "Black Angel (feat. Snow Banks)",
+      "url": "https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-114 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+115 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [I Hate Alabama](https://open.spotify.com/track/2j0rISwZE6tichIrU5SZ78) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [I Hate Alabama](https://open.spotify.com/album/2bCz5dI9f3wy25himhvKiL) | 3:33 | 2021-12-03 |  |
 | [I Only Date Cowboys](https://open.spotify.com/track/0Jq7igSKyTZxkvLoqr0bsX) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [I Only Date Cowboys](https://open.spotify.com/album/6haivFChfJxUDTm0DytCpI) | 2:56 | 2021-12-03 |  |
 | [I'm A Survivor](https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Greatest Hits Volume III \- I'm A Survivor](https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj) | 3:07 | 2021-12-03 |  |
+| [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 | 2022-08-16 |  |
 | [International Harvester](https://open.spotify.com/track/0Ta3jOf8m9yCSWMVwd8Qlf) | [Craig Morgan](https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD) | [Little Bit Of Life](https://open.spotify.com/album/1xG8gT4MixyJTNlvvXbU4F) | 3:48 | 2021-12-03 |  |
 | [Jealous Of The Sky](https://open.spotify.com/track/2mB9977U7jcJGiYDVQeS7B) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi) | [Jealous Of The Sky](https://open.spotify.com/album/5olugkWtxs5ZXqJnCUntRY) | 3:23 | 2021-12-03 | 2022-07-16 |
 | [Just About Over You](https://open.spotify.com/track/4Ec0q0j8hRTCX4QQ5MiHSX) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Just About Over You](https://open.spotify.com/album/6re9IhLwe8c8pauqj1Fgma) | 2:59 | 2021-12-03 |  |

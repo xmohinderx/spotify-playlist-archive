@@ -1,12 +1,12 @@
 {
   "description": "La banda sonora para tus cenas en casa.",
-  "num_followers": 334809,
+  "num_followers": 334844,
   "original_name": "Cena con Amigos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyOTM2NTIzOCwwMDAwMDAwMGZhOWY5OWNmYzc5MDQ5OThlYTEwYmUzN2QwODkwYzM4",
+  "snapshot_id": "MTYyOTM2NTIzOCwwMDAwMDAwMDMzMmU0M2ZiN2QxZmM4NjQxZTVjMGE2NDUwNWQ3NTYw",
   "tracks": [
     {
       "added_at": "2021-01-19 12:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Everybody Else Is Doing It, So Why Can't We?",
         "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
       },
@@ -243,18 +227,18 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 233733,
-      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
-      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -271,6 +255,22 @@
       "duration_ms": 216773,
       "name": "I Say a Little Prayer",
       "url": "https://open.spotify.com/track/3NfxSdJnVdon1axzloJgba"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 233733,
+      "name": "Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",
+      "url": "https://open.spotify.com/track/6nLvaCZFR1wEzW3sIKpsnr"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
+        "name": "The Best of Sade",
+        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
+      },
+      "artists": [
+        {
+          "name": "Sade",
+          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        }
+      ],
+      "duration_ms": 251333,
+      "name": "Kiss of Life",
+      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
         "name": "Showcase",
         "url": "https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 164573,
       "name": "Crazy - Single Version",
       "url": "https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
-        "name": "The Best of Sade",
-        "url": "https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK"
-      },
-      "artists": [
-        {
-          "name": "Sade",
-          "url": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
-        }
-      ],
-      "duration_ms": 251333,
-      "name": "Kiss of Life",
-      "url": "https://open.spotify.com/track/65krtHkaYLPr0mEbjL61UP"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "WALLS",
-        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 329666,
-      "name": "WALLS",
-      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "Compact Jazz: Antonio Carlos Jobim",
         "url": "https://open.spotify.com/album/5fxCwduFydtcmLFrEkePFE"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 212493,
       "name": "\u00c1guas De Mar\u00e7o",
       "url": "https://open.spotify.com/track/1y7OxO5i6sfrHXAmUM77YG"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "WALLS",
+        "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 329666,
+      "name": "WALLS",
+      "url": "https://open.spotify.com/track/41QhRnFDdhMLtR8tmnolbr"
     },
     {
       "added_at": "2021-01-19 12:00:00",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2021-01-19 12:00:00",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Misread",
-      "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
-    },
-    {
-      "added_at": "2021-01-19 12:00:00",
-      "album": {
         "name": "What A Diff'rence A Day Makes! (Expanded Edition)",
         "url": "https://open.spotify.com/album/0w8YD8Wz1hEkwXdsAMzzFe"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 151866,
       "name": "What A Diff'rence A Day Made",
       "url": "https://open.spotify.com/track/66iKqUazBbTlAEjcZrpDkD"
+    },
+    {
+      "added_at": "2021-01-19 12:00:00",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/5QE8eXeN0q8M7atLb1fT6c"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 188400,
+      "name": "Misread",
+      "url": "https://open.spotify.com/track/3hxoYmSHzIBwSS2bPTOfbg"
     },
     {
       "added_at": "2021-01-19 12:00:00",

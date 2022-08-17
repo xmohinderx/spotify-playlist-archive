@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 
 > 2001年バンドSound Scheduleのメンバーとしてデビュー。ソロ名義「オーイシマサヨシ」およびユニットOxTでは、アニメ音楽シーンの立役者として知られる作曲家/アーティスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,109 likes - 64 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,114 likes - 64 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0j8ATpV1eln.md) - [plain]
 | 63 | [Moratorium Dance Floor \- Live](https://open.spotify.com/track/6YImKwLnSElvNSeMVbWixk) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:54 |
 | 64 | [Otomodachi Film \- Live](https://open.spotify.com/track/6YMWAFs84TJWbW0zBZAhQQ) | [Masayoshi Oishi](https://open.spotify.com/artist/2NmgIfLAFl1DD1FZOY4YqC) | [Masayoshi Oishi One\-Man Live Entertainer](https://open.spotify.com/album/4TQelLZa9wM5cW9OdWIdLM) | 3:33 |
 
-Snapshot ID: `MTY2MDA1NzIwMCwwMDAwMDAwMDliNzhkYzlmNzlmZWUwOTVkZTljOTM0OGJmZDM1MTBm`
+Snapshot ID: `MTY2MDY2MjAwMCwwMDAwMDAwMGMzMjk0OWZkMWNhNjRmZDJiNzE4NGQ4NWM2NTBhMjU4`

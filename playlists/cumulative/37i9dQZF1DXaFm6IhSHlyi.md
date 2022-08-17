@@ -4,7 +4,7 @@
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-216 songs - 13 hr 37 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
+217 songs - 13 hr 40 min - [published](https://open.spotify.com/playlist/1ZTU8Dt8vxdmkmh5cekOqK)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [Sei Lá](https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Sei Lá](https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj) | 3:22 | 2021-11-19 |  |
 | [Sick](https://open.spotify.com/track/0PNe1yHadbi9T3hWSVn1VT) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/1xZL1jkPq4gjt116V9GrYL) | 3:59 | 2022-06-16 |  |
 | [Sick](https://open.spotify.com/track/5iPUaIFK1NW6gzPxxm32Ds) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [Sick](https://open.spotify.com/album/6TTWmDPxy1IDIl6MB1ENOY) | 3:59 | 2021-11-19 | 2022-07-29 |
-| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 |  |
+| [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 | 2021-11-19 | 2022-08-17 |
 | [Simula](https://open.spotify.com/track/5J8BND2uD7dMGnw3sCOocS) | [Aicelle Santos](https://open.spotify.com/artist/7oPLWcZnvyxxIrHKC9nbMp), [Christian Bautista](https://open.spotify.com/artist/4U78sK2D3zASSB6oSR38GQ) | [Simula](https://open.spotify.com/album/1wv3X0NaZqiI4LgMyxgAnn) | 4:25 | 2021-11-19 |  |
 | [Sobreviviendo](https://open.spotify.com/track/1JnlPrlTzmhZ7jX7bPkLPn) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Hacia Adentro](https://open.spotify.com/album/3WtRGGEwF5ya96ND50zsIL) | 4:03 | 2022-06-16 |  |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2021-11-19 |  |
@@ -161,6 +161,7 @@
 | [Stay Alive](https://open.spotify.com/track/1COWb4m8g8jY7fi3wXzo5b) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Stay Alive](https://open.spotify.com/album/17ibSQkQUrD4LQ0uZSyQ7H) | 3:01 | 2021-11-19 | 2022-07-29 |
 | [Stay Alive](https://open.spotify.com/track/4SwVWcia2JyWFTNHkFZ2tA) | [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [When Smoke Rises](https://open.spotify.com/album/0iPWPiOsdGaWgcy9RMpvXw) | 3:01 | 2022-06-16 |  |
 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 | 2021-11-19 |  |
+| [Stories](https://open.spotify.com/track/012l55g2dZOVMOZsF3ebbI) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D) | [Kingdom](https://open.spotify.com/album/3bAluFVvSuKNmPkmaR6xhd) | 2:58 | 2022-08-16 |  |
 | [stuck in the friendzone](https://open.spotify.com/track/1kaLHit6xNoaR1PkuKPfT1) | [Maro](https://open.spotify.com/artist/0ru1ZJNkRRddceqkIah5Yh) | [stuck in the friendzone](https://open.spotify.com/album/1c7TvxeGfHzoBlkQ3y5Fq3) | 2:57 | 2022-06-09 |  |
 | [Sumpah](https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sumpah](https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL) | 3:50 | 2021-11-19 |  |
 | [Sunset](https://open.spotify.com/track/27srzsrTPJ2KiABGZ0rP5a) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [Crash Landing on You \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/7I8EhqokYSgC6vt9kISL6J) | 3:36 | 2021-11-19 | 2022-07-29 |

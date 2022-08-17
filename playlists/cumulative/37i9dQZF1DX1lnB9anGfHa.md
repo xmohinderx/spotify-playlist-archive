@@ -4,18 +4,20 @@
 
 > A journey into the unknown, dark, and experimental.
 
-95 songs - 6 hr 0 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
+98 songs - 6 hr 22 min - [published](https://open.spotify.com/playlist/4Yl6V9aO8ob35sgpwk1lVL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4ÆM](https://open.spotify.com/track/3sqmHaUVKizwwoKsHMVc1U) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL) | 4:30 | 2020-10-20 | 2022-07-29 |
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2020-10-20 |  |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
+| [An Interior of Strange Beauty](https://open.spotify.com/track/1YHeSEpxM24Nq1sZdvuPKG) | [Ginevra Nervi](https://open.spotify.com/artist/1D0bKzmxdExazYDP4ahsBj) | [An Interior of Strange Beauty / Incoming Call](https://open.spotify.com/album/38dsx6d80G3byvU4NoUUSN) | 6:34 | 2022-08-16 |  |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-02-18 |  |
 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 | 2020-10-20 |  |
 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/1q1Qr395Oi5gGpvFZ0Mxn3) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Are You Doing This to Hurt Me](https://open.spotify.com/album/2NJeqsoWnKj52Rr9IFYDRx) | 3:48 | 2020-10-20 | 2022-07-29 |
 | [AS Too Wrong](https://open.spotify.com/track/0rCbNEFbEJPWffx6BmRH9Z) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/5hS95DwA6vG0R5cHZPzg7h) | 4:14 | 2020-10-20 | 2022-07-29 |
 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 | 2020-10-20 |  |
+| [Aura](https://open.spotify.com/track/3yLrFNajQckehtRDyh2FiI) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Aura](https://open.spotify.com/album/1CtdQTfP0DzM3GJA95Po52) | 7:17 | 2022-08-16 |  |
 | [Barongan III](https://open.spotify.com/track/6btmo0iGDjMcYj4zHTvMvn) | [Raja Kirik](https://open.spotify.com/artist/22j4DsKGQEcOie7PvfQIVj) | [Rampokan](https://open.spotify.com/album/0JtcEEPTPv9JujTZtJYvZ1) | 3:35 | 2022-02-18 |  |
 | [Bets Off](https://open.spotify.com/track/14likWYaCVRw5fUDyKMR2g) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Bets Off](https://open.spotify.com/album/2RrYNlBx8UCYp31U7NgFi8) | 4:16 | 2020-10-20 | 2022-07-29 |
 | [Bets Off](https://open.spotify.com/track/3grduFleX4OkOqlqchI0Kp) | [alexmaax](https://open.spotify.com/artist/5LDGjPfMzjhKcWoXL9Jbhi) | [Constant Touch](https://open.spotify.com/album/5gKZjibxq7ZMjXnFiT73YL) | 4:16 | 2020-10-20 |  |
@@ -37,6 +39,7 @@
 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 | 2020-10-20 |  |
 | [I Need You Right Now](https://open.spotify.com/track/4Mso4ICacStqBvbyEqKXvB) | [Marty Crown](https://open.spotify.com/artist/1uBIrNa3fN3hYsi0MKuLtS) | [I Need You Right Now](https://open.spotify.com/album/38yTFu2TPj6SgCx4rItkgk) | 4:07 | 2021-06-23 |  |
 | [I Was Wrong](https://open.spotify.com/track/0CeY5CPaFPvl3BBx7rlkYX) | [w\. baer](https://open.spotify.com/artist/4ke7r9NNRe8Wg7ouwg7xOO) | [De Dust2](https://open.spotify.com/album/4lyXEmxTF8EMIwr8hbDmo5) | 3:24 | 2020-10-20 |  |
+| [Illogical Lullaby](https://open.spotify.com/track/7KaENU972ZBPtD1Cy2H3tc) | [Hatis Noit](https://open.spotify.com/artist/1VMXdJgyzy12hZGmEk8LPY) | [Illogical Dance](https://open.spotify.com/album/43nUH6IPPJNtBmrmsTza8g) | 7:53 | 2022-08-16 |  |
 | [Incendio](https://open.spotify.com/track/3Ju42J1sFmVpxkGGSFpcWb) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Incendio](https://open.spotify.com/album/4cmrJPAbJQuBpGPIKbHzfQ) | 2:44 | 2021-10-01 |  |
 | [Jordão](https://open.spotify.com/track/4DBVvRxw7iCF0Os4KqKB2l) | [Niagara](https://open.spotify.com/artist/7v9653L6WJv9pZKYEKdcDz) | [Jordão](https://open.spotify.com/album/0GPBTClGuLZ4Z1aGGOqVWi) | 4:23 | 2022-02-18 |  |
 | [Kinko's field trip 2006](https://open.spotify.com/track/0HPNtkVFdg7vB5fKXSABfn) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Kinko's field trip 2006](https://open.spotify.com/album/7nnmPQgX7VcKpCA0M5cMD8) | 2:31 | 2021-06-23 |  |

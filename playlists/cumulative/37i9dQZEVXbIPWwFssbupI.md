@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-897 songs - 2 day 0 hr 22 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
+898 songs - 2 day 0 hr 25 min - [published](https://open.spotify.com/playlist/0roUxfrHsT5pkgnu6UBgDT)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@
 | [Elles ont trop joué avec mon cœur](https://open.spotify.com/track/5SqR7dxbJiTSadTaVEhZ04) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [VI République](https://open.spotify.com/album/2yiTtbQXKxr7uswNyxjrs9) | 3:43 | 2021-03-27\* | 2021-05-29 |
 | [Elvira](https://open.spotify.com/track/05o4kr6fEuiOglJ9Vrt7Eo) | [OBOY](https://open.spotify.com/artist/66Ok6bgC570sHkw08N20pZ) | [No crari](https://open.spotify.com/album/4kC4sAGhPKek3ZKxrc1TW5) | 2:16 | 2021-09-12 | 2021-09-13 |
 | [Emiliana](https://open.spotify.com/track/0vNY7uNEG8El6doRdP21D5) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4rgpbWVXW4xNXfSnKcqYl1) | 2:44 | 2022-02-04 | 2022-03-17 |
-| [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-16 |  |
+| [Emiliana](https://open.spotify.com/track/6lZ5p6VTbZ2ZvnsdTlLv7I) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Emiliana](https://open.spotify.com/album/4LTckGxBOI0fEkliC3zbIp) | 2:44 | 2022-03-16 | 2022-08-17 |
 | [En ville](https://open.spotify.com/track/4MxorRpZ0JCQ7bj4U1t0Ke) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Enna Boost](https://open.spotify.com/album/2INbsI9qbLPDqII4MNkowx) | 3:36 | 2021-11-14 | 2021-11-19 |
 | [Encore](https://open.spotify.com/track/3AWFZCTtJ225g6GZl12ToZ) | [S\-Crew](https://open.spotify.com/artist/1HhXce8PpMmaKjBIWzAxWc) | [SZR 2001](https://open.spotify.com/album/2kkaNm9FAqoUVhazyqobac) | 3:35 | 2022-06-11 | 2022-06-18 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1HhNoOuqm1a5MXYEgAFl8o) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Mercury \- Act 1](https://open.spotify.com/album/4fZIyJn2wKb51QPNnWYnqt) | 2:53 | 2022-02-05 | 2022-06-11 |
@@ -894,6 +894,7 @@
 | [Élément 115](https://open.spotify.com/track/4UfbCR87edQDCnA2cYXikA) | [Jazzy Bazz](https://open.spotify.com/artist/0cMsSWXCY2Wag16luxN6fL), [Nekfeu](https://open.spotify.com/artist/4LXBc13z5EWsc5N32bLxfH) | [Élément 115](https://open.spotify.com/album/5AavGPbUnFL8rrgAUHOrec) | 3:38 | 2022-01-21 | 2022-01-23 |
 | [Étincelle \- Maradona](https://open.spotify.com/track/2PZTDaakPcvII5QJJP7SDO) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Étincelle \(Maradona\)](https://open.spotify.com/album/19ZrUrjD6DTq9jRbYEOsma) | 3:32 | 2021-09-12 | 2021-09-19 |
 | [Özil](https://open.spotify.com/track/7bEcFO0XmfRNACmpwgh97f) | [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [Réelle vie 3.0](https://open.spotify.com/album/4nqsV5gavODGyZ2lx2M2tw) | 2:56 | 2021-11-28 | 2021-12-02 |
+| [Δ\. Dieu ne ment jamais](https://open.spotify.com/track/6YWjskKykdPsBuiTBOg1VK) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:19 | 2022-08-16 |  |
 | [Θ\. Macarena](https://open.spotify.com/track/2ewjMyCbNv2X1dB2qIDCwD) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Ipséité](https://open.spotify.com/album/7ovdjtmV0Bkm4Xb4pqtrZt) | 3:26 | 2022-03-14 | 2022-05-25 |
 | [Ο\. OG](https://open.spotify.com/track/63ALxy05IGeKrfOjvGG7lO) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 1:40 | 2021-04-30 | 2021-05-15 |
 | [Π\. VANTABLACK](https://open.spotify.com/track/2n3dCM1RqyhzH5FZQW4jxA) | [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [QALF infinity](https://open.spotify.com/album/2Cv2mrKMRyYuXJTlQmY4hj) | 2:33 | 2021-04-30 | 2021-05-30 |

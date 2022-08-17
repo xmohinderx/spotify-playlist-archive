@@ -4,7 +4,7 @@
 
 > Acoustic and roots music gems.
 
-320 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
+321 songs - 20 hr 5 min - [published](https://open.spotify.com/playlist/2lhdiCy6DWi2BRRHxhm4lv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Hockey Skates](https://open.spotify.com/track/1avuG0JHGZZB8HI69C0f4E) | [Kathleen Edwards](https://open.spotify.com/artist/7x4So74vIUx3DaLk93JCFf) | [Failer](https://open.spotify.com/album/3ZYobhZ7YRCG96p7P7BIek) | 4:28 | 2022-01-21 | 2022-06-09 |
 | [Hold Me \- Alternate Version](https://open.spotify.com/track/0OvPSLj3HCL9Jy6F2LbrRc) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4fOKz3KUUtSOSIJSWbS8MG) | 4:23 | 2022-06-08 |  |
 | [Hold Me \- Alternate Version](https://open.spotify.com/track/3JiqfgX20NPxT070KqaQV7) | [The Sweeplings](https://open.spotify.com/artist/3fTedgf4fh8D3s41dP0HWt) | [Rise & Fall \(Deluxe Edition\)](https://open.spotify.com/album/4KGZ9vvxgNnF31SLj5Ll0v) | 4:23 | 2021-12-10 | 2022-07-29 |
-| [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2021-12-10 |  |
+| [Holllllogram](https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV), [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY) | [EPHRATA](https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1) | 3:38 | 2021-12-10 | 2022-08-17 |
 | [Hollow \(Acoustic\)](https://open.spotify.com/track/1GIBQJItFW5tFPrilr6M6o) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Hollow \(Acoustic\)](https://open.spotify.com/album/1o5nl7CllRMd5Zx4kwlxWR) | 3:56 | 2021-12-10 | 2022-07-09 |
 | [Hollow \- Acoustic](https://open.spotify.com/track/2K4uwGeeT2AmZgAgdxdDNM) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Volume I](https://open.spotify.com/album/7AtPi4pa51OrsqZOVqzS84) | 3:56 | 2022-06-08 |  |
 | [Holocene](https://open.spotify.com/track/1ILEK6NRfxoseoPnolRcVA) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver \(10th Anniversary Edition\)](https://open.spotify.com/album/6xfOCqmQvpvgR5aq6fpKMD) | 5:36 | 2022-06-08 |  |
@@ -186,6 +186,7 @@
 | [On Board](https://open.spotify.com/track/5WCp8teE5DiS3lYl2EftcU) | [Alana Henderson](https://open.spotify.com/artist/6P6SqdQjXIzTWKj5QBWliY), [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [On Board](https://open.spotify.com/album/0YQXRn90SNUP9thoGosAnx) | 5:10 | 2021-12-10 | 2022-07-29 |
 | [On The Road Again](https://open.spotify.com/track/4Uc8xnNu2Mm1yObB0uxZI6) | [The Brother Brothers](https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5) | [On The Road Again](https://open.spotify.com/album/55usaj7ODaBiksdYFoKUvb) | 2:53 | 2021-12-10 |  |
 | [On Your Horizon](https://open.spotify.com/track/3dr8xPneQCutILjSfFBHiN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/34OgX0UTWfVQtXHIntUsLT) | 4:52 | 2021-12-10 | 2022-07-29 |
+| [On Your Horizon](https://open.spotify.com/track/5vXBUBJBvAN7bvGDj6kJjN) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Ancient Transition](https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl) | 4:52 | 2022-06-08 |  |
 | [On Your Way Now](https://open.spotify.com/track/0yuJ0JBqxeGV5aGjIGe635) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [On Your Way Now](https://open.spotify.com/album/1XnxfGimlWayeQcwksQMeR) | 2:54 | 2021-12-10 | 2022-07-29 |
 | [Only Children](https://open.spotify.com/track/6BzU6BMqMd4qelkWTjLwKy) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 3:57 | 2021-12-10 |  |
 | [Only The Strong](https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 3:20 | 2021-12-10 |  |

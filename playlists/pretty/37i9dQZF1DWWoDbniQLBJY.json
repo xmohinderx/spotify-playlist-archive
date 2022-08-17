@@ -1,12 +1,12 @@
 {
   "description": "Pop Ac\u00fastico para tu d\u00eda.",
-  "num_followers": 2013027,
+  "num_followers": 2013048,
   "original_name": "Mediod\u00eda Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMGZmYjJiNmM5ODhjZGExZDVkOTA0Y2MwMjczOTE2ZGQ0",
+  "snapshot_id": "MTY1OTcxNjUwMSwwMDAwMDAwMDVmMGU5MmI4ZDJlNWM3MDQ2NGFjYTM2NzRhYTRhOWQy",
   "tracks": [
     {
       "added_at": "2022-08-05 16:21:41",
@@ -539,6 +539,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "La Bilirrubina",
+        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "La Bilirrubina",
+      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -559,18 +575,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "La Bilirrubina",
-        "url": "https://open.spotify.com/album/0eXaOP4x8dvztlduyvz5AV"
+        "name": "Tour 2007",
+        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 230000,
-      "name": "La Bilirrubina",
-      "url": "https://open.spotify.com/track/7rCE3KwSwzNh8n8LC4O3zJ"
+      "duration_ms": 324826,
+      "name": "La chispa adecuada - Live",
+      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -587,22 +603,6 @@
       "duration_ms": 186000,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/0lkwcRAUa1LnzBisyKtAqg"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Tour 2007",
-        "url": "https://open.spotify.com/album/7agRISos8iXzrqsCQ8Owg6"
-      },
-      "artists": [
-        {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
-        }
-      ],
-      "duration_ms": 324826,
-      "name": "La chispa adecuada - Live",
-      "url": "https://open.spotify.com/track/25TiUPCYa2KYp3LFENEkJM"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -635,18 +635,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
+        "name": "Salvavidas de hielo",
+        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 231990,
-      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
+      "duration_ms": 182453,
+      "name": "Pongamos que hablo de Mart\u00ednez",
+      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Salvavidas de hielo",
-        "url": "https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0"
+        "name": "Sobre El Amor Y Sus Efectos Secundarios... Y Unas Cuantas Cosas M\u00e1s (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/7EHPmV9Jm3PIc0SK90ISIR"
       },
       "artists": [
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 182453,
-      "name": "Pongamos que hablo de Mart\u00ednez",
-      "url": "https://open.spotify.com/track/3cApCJqmVwE23cxYUADZpx"
+      "duration_ms": 231990,
+      "name": "C\u00f3mo Te Atreves - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/1hGcChJGpozz03cXw0aOjB"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Roto",
-        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165760,
-      "name": "Roto",
-      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "El Embrujo",
         "url": "https://open.spotify.com/album/0LcKYsPViudGlqmWEoIvH7"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 238533,
       "name": "El Embrujo",
       "url": "https://open.spotify.com/track/6GM7WCa0accugI9b2JTeix"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Roto",
+        "url": "https://open.spotify.com/album/5763P0o9ruO8OZ4Dwey7sf"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165760,
+      "name": "Roto",
+      "url": "https://open.spotify.com/track/5muxDDRz7Y1m9leVgwTUrD"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -999,6 +999,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 400826,
+      "name": "No Ha Parado De Llover - Unplugged",
+      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "pa' que sue\u00f1es",
         "url": "https://open.spotify.com/album/1bGXKrzpyFq1TVzNOr6Fbq"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 226844,
       "name": "Cuanto antes (feat. Lali)",
       "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 400826,
-      "name": "No Ha Parado De Llover - Unplugged",
-      "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 255650,
-      "name": "La Carretera - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/71ouQvRNQdWbSr4FI0i4g8"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 255650,
+      "name": "La Carretera - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0INHoQnnPYxlXHsOL3Zeb8"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "De Rodillas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
+      },
+      "artists": [
+        {
+          "name": "Tommy Torres",
+          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
+        }
+      ],
+      "duration_ms": 268257,
+      "name": "De Rodillas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3U8ndUx2DNmhKPUjqtJuek"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 204734,
       "name": "Un Vuelo A La (feat. Jessie Reyez) - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3Kx1Go2GXVwQk1fozPJ1BQ"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "De Rodillas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1vjl5MYuhrEKd9leIUnADp"
-      },
-      "artists": [
-        {
-          "name": "Tommy Torres",
-          "url": "https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG"
-        }
-      ],
-      "duration_ms": 268257,
-      "name": "De Rodillas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2iMb7HAmOcdnZzAOa4yNAq"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1787,22 +1787,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        }
-      ],
-      "duration_ms": 212773,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1819,6 +1803,38 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Modo Ofendida",
+        "url": "https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB"
+      },
+      "artists": [
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 195485,
+      "name": "Modo Ofendida",
+      "url": "https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2ouh1shN9w3s7NzrW1sIDX"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        }
+      ],
+      "duration_ms": 212773,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/1ppfwB95hLpO2C6VYJxa3t"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1843,6 +1859,22 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
+        "name": "Trazando Rutas",
+        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
+      },
+      "artists": [
+        {
+          "name": "Marilia Monz\u00f3n",
+          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
+        }
+      ],
+      "duration_ms": 166947,
+      "name": "Trazando Rutas",
+      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
         "name": "Soy capaz",
         "url": "https://open.spotify.com/album/0iRDEkUzhawgH0wKfIW5iT"
       },
@@ -1855,22 +1887,6 @@
       "duration_ms": 225041,
       "name": "Soy capaz - Versi\u00f3n Ac\u00fastica",
       "url": "https://open.spotify.com/track/0EeZEQ51vHrG569kZocOKe"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Modo Ofendida",
-        "url": "https://open.spotify.com/album/4BodBh6T2yaVLoANvzjWBB"
-      },
-      "artists": [
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        }
-      ],
-      "duration_ms": 195485,
-      "name": "Modo Ofendida",
-      "url": "https://open.spotify.com/track/2lBEp7EJ7BfgkAqStAu0BE"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1891,22 +1907,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "Trazando Rutas",
-        "url": "https://open.spotify.com/album/3vEtOEIJUJa5R5RPAGGbhI"
-      },
-      "artists": [
-        {
-          "name": "Marilia Monz\u00f3n",
-          "url": "https://open.spotify.com/artist/3bch3EeUoah5rDRni92X93"
-        }
-      ],
-      "duration_ms": 166947,
-      "name": "Trazando Rutas",
-      "url": "https://open.spotify.com/track/0W9q8vUDXYTQVGLsDj8z6G"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "Beirut",
         "url": "https://open.spotify.com/album/48b70fp1rG47WNeWJevAqH"
       },
@@ -1919,6 +1919,22 @@
       "duration_ms": 151142,
       "name": "Beirut",
       "url": "https://open.spotify.com/track/53rAqXVFlcXLquCLQBmo6J"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "Hasta Que Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
+      },
+      "artists": [
+        {
+          "name": "Juliana Beltr\u00e1n",
+          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
+        }
+      ],
+      "duration_ms": 191052,
+      "name": "Hasta Que Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -1955,22 +1971,6 @@
       "duration_ms": 150000,
       "name": "Fin de Semana - Ac\u00fastico",
       "url": "https://open.spotify.com/track/0elyc56ZNt08SLbg6m3y0B"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
-        "name": "Hasta Que Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/11ko98CxEiWwgoyQdQKynL"
-      },
-      "artists": [
-        {
-          "name": "Juliana Beltr\u00e1n",
-          "url": "https://open.spotify.com/artist/5NfNMKwOPzCw9S1s3OMS6z"
-        }
-      ],
-      "duration_ms": 191052,
-      "name": "Hasta Que Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/5I98QzrVJF7r7QZFDLyDMr"
     },
     {
       "added_at": "2022-08-05 16:21:41",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2022-08-05 16:21:41",
       "album": {
-        "name": "El Mismo Camino",
-        "url": "https://open.spotify.com/album/301g4sucHNZf2KuvbmsEa6"
-      },
-      "artists": [
-        {
-          "name": "Johan Sotelo",
-          "url": "https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "El Mismo Camino",
-      "url": "https://open.spotify.com/track/5aGY2tPPBiCT0A1JvFpJ0t"
-    },
-    {
-      "added_at": "2022-08-05 16:21:41",
-      "album": {
         "name": "A Estas Horas Del Amor",
         "url": "https://open.spotify.com/album/3TsNQwV855A2mrxnEaT6lz"
       },
@@ -2051,6 +2035,22 @@
       "duration_ms": 302426,
       "name": "A Estas Horas Del Amor",
       "url": "https://open.spotify.com/track/7jvS0VAybfsXCivr8fq0qc"
+    },
+    {
+      "added_at": "2022-08-05 16:21:41",
+      "album": {
+        "name": "El Mismo Camino",
+        "url": "https://open.spotify.com/album/301g4sucHNZf2KuvbmsEa6"
+      },
+      "artists": [
+        {
+          "name": "Johan Sotelo",
+          "url": "https://open.spotify.com/artist/4EgDDojMyrVB4MxP7nAevd"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "El Mismo Camino",
+      "url": "https://open.spotify.com/track/5aGY2tPPBiCT0A1JvFpJ0t"
     },
     {
       "added_at": "2022-08-05 16:21:41",

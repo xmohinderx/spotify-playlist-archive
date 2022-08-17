@@ -1956,6 +1956,24 @@
     },
     {
       "album": {
+        "name": "Vishram - Yoga Version",
+        "url": "https://open.spotify.com/album/29y0ZUjgcZys8kA2re5tEi"
+      },
+      "artists": [
+        {
+          "name": "Gamini Khatri",
+          "url": "https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Vishram - Yoga Version",
+      "url": "https://open.spotify.com/track/0DaciHRxFKnzjtekbJEW7F"
+    },
+    {
+      "album": {
         "name": "Waves of Harmony",
         "url": "https://open.spotify.com/album/3VOhKn22ZqXnvBHYXukrAc"
       },
@@ -2021,7 +2039,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 409616,
       "name": "World Peace",
       "url": "https://open.spotify.com/track/76Tn6TEnTFySc9CnzSOLx2"

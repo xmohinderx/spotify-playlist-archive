@@ -1,12 +1,12 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: We Are The Grand.",
-  "num_followers": 198585,
+  "num_followers": 198603,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDAwMDZjMTg5M2Y2OWEzZjZkNTM5ZTEwY2JkM2I2Y2RmOGUw",
+  "snapshot_id": "MTY1NzI1Mjg2MCwwMDAwMDAwMGVmMGFmNmNhYmQ2MTNlNWYwM2Y5MzRjNDQzYzg2ZDNi",
   "tracks": [
     {
       "added_at": "2022-07-08 04:01:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "With M\u00fasica Is Mejor",
-        "url": "https://open.spotify.com/album/3ieLtvTOc3wl6Q0wgNswzH"
-      },
-      "artists": [
-        {
-          "name": "Tronic",
-          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
-        }
-      ],
-      "duration_ms": 215002,
-      "name": "Maldito Traidor",
-      "url": "https://open.spotify.com/track/1LAgSJyjXxSXQrUjpu4aDS"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "Esta Tarde Vi Llover",
         "url": "https://open.spotify.com/album/68EfOoUKQD6O5ZvCvtDzOp"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 153991,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/2wpimO7JjiN8HuoW5caZ3F"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "With M\u00fasica Is Mejor",
+        "url": "https://open.spotify.com/album/3ieLtvTOc3wl6Q0wgNswzH"
+      },
+      "artists": [
+        {
+          "name": "Tronic",
+          "url": "https://open.spotify.com/artist/5HkHDnrE6HW1FsD5gf8nrw"
+        }
+      ],
+      "duration_ms": 215002,
+      "name": "Maldito Traidor",
+      "url": "https://open.spotify.com/track/1LAgSJyjXxSXQrUjpu4aDS"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Sabes",
-        "url": "https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83"
-      },
-      "artists": [
-        {
-          "name": "Saiko",
-          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
-        }
-      ],
-      "duration_ms": 217932,
-      "name": "Sabes",
-      "url": "https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "Reyes de la Fiesta",
         "url": "https://open.spotify.com/album/3vhouOwCgJHxA4NRWD1PHd"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Rockola",
-        "url": "https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux"
+        "name": "Sabes",
+        "url": "https://open.spotify.com/album/1LMbQSacFIEX4CaqwTqb83"
       },
       "artists": [
         {
-          "name": "Julius Popper",
-          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/6YgPVbrxWFP9dnp8dsqDry"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Rockola",
-      "url": "https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS"
+      "duration_ms": 217932,
+      "name": "Sabes",
+      "url": "https://open.spotify.com/track/6tAzZ3o3XPTIFWCnkiKL32"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -991,6 +975,22 @@
       "duration_ms": 196796,
       "name": "Tanto creo en ti",
       "url": "https://open.spotify.com/track/0r5YhIxh1hmRJ7rSHxg7Vd"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Rockola",
+        "url": "https://open.spotify.com/album/6WuqaRblv8XoOmZlQSFxux"
+      },
+      "artists": [
+        {
+          "name": "Julius Popper",
+          "url": "https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Rockola",
+      "url": "https://open.spotify.com/track/1XoKN9z9XpNGu1MGjmmWxS"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Pienso en Ti",
-        "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
-      },
-      "artists": [
-        {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
-        },
-        {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
-        }
-      ],
-      "duration_ms": 265883,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "Plumas",
         "url": "https://open.spotify.com/album/1KxjF6uxm8ZeYbugagqqgG"
       },
@@ -1331,18 +1311,22 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Todo lo que sube",
-        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
+        "name": "Pienso en Ti",
+        "url": "https://open.spotify.com/album/0IUvvOWKFGYHQUzS7VC4Ow"
       },
       "artists": [
         {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+        },
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
         }
       ],
-      "duration_ms": 315288,
-      "name": "Todo lo que sube",
-      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
+      "duration_ms": 265883,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/2h0cTU9fOCtf0aibqHIRWJ"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1379,22 +1363,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Voy Saliendo",
-        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
-      },
-      "artists": [
-        {
-          "name": "Pez Pl\u00e1tano",
-          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
-        }
-      ],
-      "duration_ms": 196336,
-      "name": "Voy Saliendo",
-      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "La Manera Correcta",
         "url": "https://open.spotify.com/album/6oVkvaKUqAGlyNiLtjnSMx"
       },
@@ -1411,18 +1379,34 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Ya No Estamos Para Mentiras",
-        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
+        "name": "Todo lo que sube",
+        "url": "https://open.spotify.com/album/2SnwhKbP6ibkBjbWFkB9nE"
       },
       "artists": [
         {
-          "name": "Pascuala Ilabaca y Fauna",
-          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+          "name": "Perrosky",
+          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
         }
       ],
-      "duration_ms": 196317,
-      "name": "Ya No Estamos Para Mentiras",
-      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
+      "duration_ms": 315288,
+      "name": "Todo lo que sube",
+      "url": "https://open.spotify.com/track/1FZZm0nu55sStVXCPt7Pab"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Voy Saliendo",
+        "url": "https://open.spotify.com/album/7HZGOnq1prj8mI0grmBkMa"
+      },
+      "artists": [
+        {
+          "name": "Pez Pl\u00e1tano",
+          "url": "https://open.spotify.com/artist/2QSolWRaQ4qyykIQwVe3IT"
+        }
+      ],
+      "duration_ms": 196336,
+      "name": "Voy Saliendo",
+      "url": "https://open.spotify.com/track/6pwvmkiqmpk2DSmBHfIu6W"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1459,6 +1443,22 @@
       "duration_ms": 208864,
       "name": "R\u00edo R\u00edo",
       "url": "https://open.spotify.com/track/5bJIbutXaAIQioofZN0wFY"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Ya No Estamos Para Mentiras",
+        "url": "https://open.spotify.com/album/1Ne5vOQ8dkWWahYG2HyMgm"
+      },
+      "artists": [
+        {
+          "name": "Pascuala Ilabaca y Fauna",
+          "url": "https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA"
+        }
+      ],
+      "duration_ms": 196317,
+      "name": "Ya No Estamos Para Mentiras",
+      "url": "https://open.spotify.com/track/7yJyFqkj0FFxjqXJ2Yfa7l"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1515,26 +1515,6 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
-        "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
-      },
-      "artists": [
-        {
-          "name": "Sinergia",
-          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
-        },
-        {
-          "name": "GrassBrass",
-          "url": "https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
-      "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
         "name": "Una Vez Mas",
         "url": "https://open.spotify.com/album/18JA74xCkntmJ6NSs6jRAF"
       },
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
+        "name": "25 A\u00f1os (En Vivo Teatro Caupolic\u00e1n)",
+        "url": "https://open.spotify.com/album/6Hi5NK6c0xlretuT0p4epl"
+      },
+      "artists": [
+        {
+          "name": "Sinergia",
+          "url": "https://open.spotify.com/artist/1OgaghfYd1qr8DFoNrfDNk"
+        },
+        {
+          "name": "GrassBrass",
+          "url": "https://open.spotify.com/artist/1eJudSmozfcZXqLhvnoWKV"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Mujer Robusta (En Vivo Teatro Caupolic\u00e1n)",
+      "url": "https://open.spotify.com/track/2LGVZgkkPNl2NRdKjytmoi"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
         "name": "Libido",
         "url": "https://open.spotify.com/album/2rlI480HbvMweVcI2XTgdr"
       },
@@ -1583,26 +1583,6 @@
       "duration_ms": 175114,
       "name": "Libido",
       "url": "https://open.spotify.com/track/4gZvOoGdG11NSHRT4QOaEm"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Viajar",
-        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
-      },
-      "artists": [
-        {
-          "name": "Lucybell",
-          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
-        },
-        {
-          "name": "Cote Foncea",
-          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
-        }
-      ],
-      "duration_ms": 292586,
-      "name": "Viajar - Space Mix",
-      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1627,18 +1607,22 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
-        "name": "Hipertenso",
-        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
+        "name": "Viajar",
+        "url": "https://open.spotify.com/album/7bnqsPENupVaK25z382mq9"
       },
       "artists": [
         {
-          "name": "La Floripondio",
-          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+          "name": "Lucybell",
+          "url": "https://open.spotify.com/artist/3rqpBcetrJVphNTRHDv9ht"
+        },
+        {
+          "name": "Cote Foncea",
+          "url": "https://open.spotify.com/artist/17Et5bvvC8HQhiXU27wKQn"
         }
       ],
-      "duration_ms": 164256,
-      "name": "Son Puros Caballos",
-      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
+      "duration_ms": 292586,
+      "name": "Viajar - Space Mix",
+      "url": "https://open.spotify.com/track/0sGmeT8k85FWLkIREqdwda"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1663,6 +1647,38 @@
     {
       "added_at": "2022-07-08 04:01:00",
       "album": {
+        "name": "Hipertenso",
+        "url": "https://open.spotify.com/album/3yBykHuW218uf6rXjUvl0o"
+      },
+      "artists": [
+        {
+          "name": "La Floripondio",
+          "url": "https://open.spotify.com/artist/73Vk4dL8kYkbRJxWJDq1wL"
+        }
+      ],
+      "duration_ms": 164256,
+      "name": "Son Puros Caballos",
+      "url": "https://open.spotify.com/track/3JAyeMLkrl51mRA2Vk5EFB"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
+        "name": "Fantasma",
+        "url": "https://open.spotify.com/album/0UmnKHtvruemxAzyiGpiuj"
+      },
+      "artists": [
+        {
+          "name": "Franklin",
+          "url": "https://open.spotify.com/artist/4z4fHgRk195uGlbBfYJMRc"
+        }
+      ],
+      "duration_ms": 287671,
+      "name": "Fantasma",
+      "url": "https://open.spotify.com/track/3yIxTNMdFmzBHFszi9Muju"
+    },
+    {
+      "added_at": "2022-07-08 04:01:00",
+      "album": {
         "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
         "url": "https://open.spotify.com/album/4Y6QBvjiKF6D7TapNyWJxd"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 277849,
       "name": "Ya No Quiero Ser (Duele, Hiere, Mata)",
       "url": "https://open.spotify.com/track/6ctn61QsvvmiXSl5EafPLc"
-    },
-    {
-      "added_at": "2022-07-08 04:01:00",
-      "album": {
-        "name": "Lo Que Hemos Dejado",
-        "url": "https://open.spotify.com/album/2pbgDYhXjZ5bI74KpVOsft"
-      },
-      "artists": [
-        {
-          "name": "Perrosky",
-          "url": "https://open.spotify.com/artist/4yjkuB5LSs64YsvUj11MQm"
-        }
-      ],
-      "duration_ms": 231332,
-      "name": "Lo Que Hemos Dejado",
-      "url": "https://open.spotify.com/track/0FbRAe9HvEug0lRIGAmCv6"
     }
   ],
   "unique_name": "Rock Chileno",

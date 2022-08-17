@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "2ya",
+        "url": "https://open.spotify.com/album/60GhGBIIfiYcGO9d3LMjdA"
+      },
+      "artists": [
+        {
+          "name": "K.A.A.N.",
+          "url": "https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "2ya",
+      "url": "https://open.spotify.com/track/2nkmEaOsTtfdb5mNScJnWj"
+    },
+    {
+      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC"
       },

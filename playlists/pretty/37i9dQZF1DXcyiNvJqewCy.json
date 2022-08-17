@@ -1,12 +1,12 @@
 {
   "description": "~ have a lovely time ~",
-  "num_followers": 112442,
+  "num_followers": 112483,
   "original_name": "The Picnic List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyNjQwMCwwMDAwMDAwMDk1NDNmMDM0YjI1OTYwMGYyOTQwNmEzOWFlZjUwNmJh",
+  "snapshot_id": "MTY2MDIyNjQwMCwwMDAwMDAwMDRhY2MwMmUzNDkzN2Q4NWU5MDc3ZTYxODNkMjZmOTgz",
   "tracks": [
     {
       "added_at": "2022-08-11 14:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "duration_ms": 202653,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
         "name": "Inseparable",
         "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
@@ -887,22 +903,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Atlanta Millionaires Club",
-        "url": "https://open.spotify.com/album/7jXmmQ1gNTXHyTF7uvH4Tn"
-      },
-      "artists": [
-        {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
-        }
-      ],
-      "duration_ms": 202653,
-      "name": "Kingston",
-      "url": "https://open.spotify.com/track/5WbfFTuIldjL9x7W6y5l7R"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "July (feat. Leon Bridges)",
         "url": "https://open.spotify.com/album/3tRmxSQyoyXXwcVDcUFQic"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Higher And Higher",
-        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 179120,
-      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
-      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "The Papas & The Mamas",
         "url": "https://open.spotify.com/album/0JJMI060q086v9ul5gHdey"
       },
@@ -955,18 +939,18 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+        "name": "Higher And Higher",
+        "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
       "artists": [
         {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
         }
       ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
+      "duration_ms": 179120,
+      "name": "(Your Love Keeps Lifting Me) Higher & Higher",
+      "url": "https://open.spotify.com/track/5qyq1H5OPMlfuvZQ1wQNo7"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -983,6 +967,22 @@
       "duration_ms": 252880,
       "name": "invisible string",
       "url": "https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Highway 61 Revisited",
-        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 369600,
-      "name": "Like a Rolling Stone",
-      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "Billy Ocean (Expanded Edition)",
         "url": "https://open.spotify.com/album/6o3pySsbnUSjfJvLFSMZgz"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 179013,
       "name": "Love Really Hurts Without You",
       "url": "https://open.spotify.com/track/4GhtDORJiSRYxj6M1bv0vX"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
+        "name": "Highway 61 Revisited",
+        "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 369600,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/3AhXZa8sUQht0UEdBJgpGc"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1163,22 +1163,18 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "How Long Do You Think It's Gonna Last?",
-        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
+        "name": "At Last!",
+        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
       "artists": [
         {
-          "name": "Big Red Machine",
-          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 254466,
-      "name": "Renegade (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+      "duration_ms": 196133,
+      "name": "A Sunday Kind Of Love",
+      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1199,18 +1195,22 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "At Last!",
-        "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
+        "name": "How Long Do You Think It's Gonna Last?",
+        "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Big Red Machine",
+          "url": "https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 196133,
-      "name": "A Sunday Kind Of Love",
-      "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+      "duration_ms": 254466,
+      "name": "Renegade (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Songs In The Key Of Life",
-        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 394266,
-      "name": "Isn't She Lovely",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "Hatful of Hollow",
         "url": "https://open.spotify.com/album/1j57Q5ntVi7crpibb0h4sv"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 112706,
       "name": "Please, Please, Please, Let Me Get What I Want - 2011 Remaster",
       "url": "https://open.spotify.com/track/6BrMEbPSSj55nQhkgf6DnE"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
+        "name": "Songs In The Key Of Life",
+        "url": "https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 394266,
+      "name": "Isn't She Lovely",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH"
     },
     {
       "added_at": "2022-08-11 14:00:00",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-08-11 14:00:00",
       "album": {
-        "name": "Solar Power",
-        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 225862,
-      "name": "Mood Ring",
-      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
-    },
-    {
-      "added_at": "2022-08-11 14:00:00",
-      "album": {
         "name": "Down the Way",
         "url": "https://open.spotify.com/album/78BXB0tWspQKtatJK5DTXZ"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 239146,
       "name": "Big Jet Plane",
       "url": "https://open.spotify.com/track/3WGsYiBXmaT8XyY4Fmry2v"
+    },
+    {
+      "added_at": "2022-08-11 14:00:00",
+      "album": {
+        "name": "Solar Power",
+        "url": "https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 225862,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv"
     },
     {
       "added_at": "2022-08-11 14:00:00",

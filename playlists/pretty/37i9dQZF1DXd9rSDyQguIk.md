@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 
 > Nothing but classic blues tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 931,388 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 931,949 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 33 | [Working Man](https://open.spotify.com/track/4Gia17DzXBhYFbYiJj6SyW) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 2:27 |
 | 34 | [Bad News Is Coming](https://open.spotify.com/track/1TRIYxcVJYPki5AX2hZzZT) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [Bad News Is Coming](https://open.spotify.com/album/7wTiVd5wU0aFVXxceOsvHT) | 7:25 |
 | 35 | [Mean Old World](https://open.spotify.com/track/3gg0xEc2b4eEbYySLmfFU1) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 4:07 |
-| 36 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
-| 37 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 36 | [The Sky Is Crying](https://open.spotify.com/track/1cRTAPP2FG9h2WiYMOIVIK) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:46 |
+| 37 | [Stone Crazy](https://open.spotify.com/track/5goa9CsIDXc9G0Df9dL9ft) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [I Was Walking Through The Woods \(Expanded Edition\)](https://open.spotify.com/album/0eE5l0Q2pRLlKsrt7sOEPk) | 7:11 |
 | 38 | [Juke](https://open.spotify.com/track/57W5o6ojTFtydDMZ0mDDB3) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:44 |
 | 39 | [Walking By Myself](https://open.spotify.com/track/36ccrof5DFicLrejE4hEye) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:47 |
 | 40 | [Stumble](https://open.spotify.com/track/0RTjFVHvqjTdpX2NawwyXI) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 3:36 |
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9rSDyQguIk.md) - [plain]
 | 61 | [Give Me Back My Wig \- Remastered](https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 3:34 |
 | 62 | [Blue Monday Hangover \- Remastered](https://open.spotify.com/track/227N0C668UQBiN3T4HFzoQ) | [Albert Collins](https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 5:34 |
 | 63 | [Should I Wait](https://open.spotify.com/track/44s75M70lhq25s3CiW0pxq) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Alligator Records Years](https://open.spotify.com/album/6WoAPqWPiXFo21VxGybHvJ) | 5:04 |
-| 64 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
-| 65 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
+| 64 | [Little Angel Child](https://open.spotify.com/track/512gC8sU5PxZAFrskHEfzk) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Fast Fingers](https://open.spotify.com/album/6lcVXsUyWa9WvgBMTuLz5l) | 3:59 |
+| 65 | [Texas Flood](https://open.spotify.com/track/7BbQQzr1suaBHpJDXDXIj9) | [Larry Davis](https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A) | [The Best Of Duke\-Peacock Blues](https://open.spotify.com/album/5h1La90cicQpR7bSjnbq3Q) | 2:43 |
 | 66 | [Reconsider Baby](https://open.spotify.com/track/6KSa2Y1HnG0XlPQfEN4Xgi) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 3:09 |
 | 67 | [Sadie](https://open.spotify.com/track/2XBeWZJeIojOrFOfVvn2dF) | [Son Seals](https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt) | [Nothing But The Truth](https://open.spotify.com/album/3HpWvMIRXb0J8hIdEQz6QQ) | 6:07 |
 | 68 | [I'm A King Bee](https://open.spotify.com/track/2uDIGXUD5hLdM7wzyl1PaR) | [Slim Harpo](https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ) | [Best Of Slim Harpo](https://open.spotify.com/album/3odCmJBI5buTzwvQHi53MF) | 3:03 |
 | 69 | [I'm A Woman \- Remastered](https://open.spotify.com/track/01noJYGB8kT65mi8Pc2Ola) | [Koko Taylor](https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R) | [Alligator Records 50 Years Of Genuine Houserockin' Music](https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0) | 4:34 |
 | 70 | [Ain't Got Nobody](https://open.spotify.com/track/4lbqUtqgX3dITgYJMBjCDS) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Genuine Houserocking Music](https://open.spotify.com/album/0QYVlYhJlKUteRXnfqZwhe) | 3:30 |
 
-Snapshot ID: `MTY1NzcyNTkzMiwwMDAwMDAwMDE4NzhiNjQzZDg3MTk4MzM2NTk3ODYzZmZlNjc2MGMx`
+Snapshot ID: `MTY1NzcyNTkzMiwwMDAwMDAwMGMzMTIyMzM0YjE3YmExNThiMzQ3NmY0YzlhYmUyZWI4`

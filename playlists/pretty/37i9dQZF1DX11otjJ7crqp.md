@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > This week's essential new pop tracks\. Cover: Maddie Zahm
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,948 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,000 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 20 | [BLUSH!](https://open.spotify.com/track/3RbesFxKsq6J5NGVtm3ZRW) | [nicole han](https://open.spotify.com/artist/3BCI0hT1HB17RXz58Q3u7C) | [BLUSH!](https://open.spotify.com/album/2RCJtGEsBWrRxpDgeptGSF) | 2:34 |
 | 21 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 |
 | 22 | [toxic energy \(with Bert McCracken of The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 |
-| 23 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 |
+| 23 | [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 |
 | 24 | [monsters](https://open.spotify.com/track/6cQ8IRL1UQR11v4wD4wjo8) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [monsters](https://open.spotify.com/album/0VQQcjbZgXrYNNxijIRva6) | 2:53 |
 | 25 | [Sunday Crossword](https://open.spotify.com/track/3CB973XnoNN2QBAF5yaBxU) | [J\. Maya](https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU) | [Sunday Crossword](https://open.spotify.com/album/6m0eoETUxlI5sWCW6e9akR) | 3:04 |
 | 26 | [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 |
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 90 | [2 Die 4](https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [2 Die 4](https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t) | 3:05 |
 | 91 | [KEEP IT TO YOURSELF](https://open.spotify.com/track/6UcfBPUiBB7ZeQQkwZ8OF5) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [MAYBE SOMEDAY IT'LL ALL BE OK](https://open.spotify.com/album/4PgSvMUqxOsCTXqR1GPij3) | 2:54 |
 | 92 | [All Day I Dream About](https://open.spotify.com/track/5o9CWfDLfSLJ22BtUSMLBt) | [joe p](https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x) | [All Day I Dream About](https://open.spotify.com/album/17iyscgYIEAq4ldviegpNn) | 3:21 |
-| 93 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 |
+| 93 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 94 | [circus](https://open.spotify.com/track/0I1EHCAxMY9n2KTjiZik54) | [PmBata](https://open.spotify.com/artist/3jeXY6LJU0ZiKhXoXa9rRw) | [circus](https://open.spotify.com/album/6lRjKyEY1UgWT9jedctrc0) | 2:18 |
 | 95 | [Maybe You Saved Me](https://open.spotify.com/track/6pJsukg4tYbHfE01yU40Qr) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP), [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Maybe You Saved Me](https://open.spotify.com/album/1T4ojqgTOhuLDEeMPvz3BY) | 3:24 |
 | 96 | [Caffeine](https://open.spotify.com/track/3kEegRRwwQnQ7sik2oRoaJ) | [Max Drazen](https://open.spotify.com/artist/2gxdQj1Dy77p45uTuve030) | [Caffeine](https://open.spotify.com/album/7qOX8bMACIwT1T2wGRNj08) | 2:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 99 | [Her](https://open.spotify.com/track/4sh3Qv9e9FMxkvKxyey3c3) | [David Alexander](https://open.spotify.com/artist/0Wjw5Ny6h7tYYlwYDLFYiE) | [Her](https://open.spotify.com/album/2CiEMIn2adkwnnp186ypgm) | 3:26 |
 | 100 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3nwd2gUT7l10HDUAOKXrhs) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/album/1lN4pwoycvLB9Iat0QKfOw) | 3:35 |
 
-Snapshot ID: `MTY2MDMyNDk0MSwwMDAwMDAwMDIwN2E2Yzk5OTQ2Y2VlMmMzOGRjNTY2MDRmYjVhMDU0`
+Snapshot ID: `MTY2MDMyNDk0MSwwMDAwMDAwMDQ0ZGU0ODc3OTc3NDBlZWI1MTdjZWEyNjBlODliYTFh`

@@ -4,7 +4,7 @@
 
 > The irresistible rhythms of Latin jazz\. Cover: Tito Puente
 
-272 songs - 23 hr 12 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
+273 songs - 23 hr 17 min - [published](https://open.spotify.com/playlist/6qmxQRqQvEVEPIuHCP321g)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chacafrik](https://open.spotify.com/track/77bO2dZGQFPaGzFrCgp0dY) | [Emilio Solla Tango Jazz Orchestra](https://open.spotify.com/artist/6uuyv1HhIrLZpdOps2cuBE) | [Puertos: Music from International Waters](https://open.spotify.com/album/5ZX0Q9nZLuwu6LObzLZYMV) | 6:35 | 2021-12-09 | 2022-07-28 |
 | [Chamber Timba](https://open.spotify.com/track/6by7enSlSy1OqK8x1830sN) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [New Cuban Express](https://open.spotify.com/artist/5k6qmrXBpYXDFA6rOJqYy5) | [Expectativas](https://open.spotify.com/album/5QYiiHRn4G7IhUEskK3ctZ) | 4:16 | 2021-12-09 | 2022-02-20 |
 | [Chocolate Ice Cream](https://open.spotify.com/track/1CuzcOvI4uMxoD9sVg4Imu) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 10:51 | 2021-12-09 | 2022-07-28 |
-| [Chopin: Prelude In E\-Minor](https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Fantasia Cubana: Variations On Classical Themes](https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm) | 4:30 | 2021-12-09 |  |
+| [Chopin: Prelude In E\-Minor](https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Fantasia Cubana: Variations On Classical Themes](https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm) | 4:30 | 2021-12-09 | 2022-08-17 |
 | [Chucho’s Mood](https://open.spotify.com/track/2VACXzUf5uOvheUAztmM3P) | [Chucho Valdés](https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp) | [Jazz Batá 2](https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A) | 7:12 | 2021-12-09 | 2022-07-29 |
 | [Ciudadano](https://open.spotify.com/track/17jgU7oVMlFNcely4wpkQ4) | [Pedrito Martinez](https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh), [Issac Delgado](https://open.spotify.com/artist/4wuS7EjF68zCo3df1hzNjK) | [Acertijos](https://open.spotify.com/album/5QdjpnZLDWDsSCzfgGADjF) | 4:31 | 2021-12-09 | 2022-07-21 |
 | [Cobarde](https://open.spotify.com/track/5yVZV6XycxfpeDG9ujjROf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Salsa\-Jazz\-Descarga](https://open.spotify.com/album/4DRLWQNSmZ1rnoddSFwPG3) | 10:49 | 2021-12-09 | 2022-07-29 |
@@ -220,6 +220,7 @@
 | [Samba De Orfeu](https://open.spotify.com/track/7qgHLXpJpbxkRQt7rgGC7s) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 1:59 | 2021-12-09 | 2022-07-29 |
 | [Scarborough Fair](https://open.spotify.com/track/6tx4luUmjZXUW1HuLmNb4U) | [Sergio Mendes & Brasil '66](https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL) | [The Greatest Hits Of Sergio Mendes And Brasil '66](https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P) | 3:21 | 2021-12-09 |  |
 | [Se E Tarde, Me Perdoa](https://open.spotify.com/track/4WuM7C9XtbjcQPzNbM2Pk9) | [Cal Tjader](https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO) | [Soul Sauce](https://open.spotify.com/album/60zLF0EgDU3FYGeOIGnoas) | 2:50 | 2021-12-09 | 2022-07-24 |
+| [Sería Una Pena](https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl) | [Pete Perignon](https://open.spotify.com/artist/1E4i7we9SQzGSyzoMh53RX), [Jeremy Bosch](https://open.spotify.com/artist/33KZMQECd5v6S2FjRMCctD) | [Sería Una Pena](https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr) | 4:21 | 2022-07-26 |  |
 | [Seven Steps To Heaven](https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK) | [Hilton Ruiz](https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1) | [Enchantment](https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY) | 2:11 | 2021-12-09 |  |
 | [Si Tu Supieras](https://open.spotify.com/track/4zlNld3hi3hJaofNa02t0o) | [Joel Hierrezuelo](https://open.spotify.com/artist/5is0ekUanJcudSxgNsqxhl), [Pierre De Bethmann](https://open.spotify.com/artist/6Rsydu80Gcd6b8D2ix9cR2), [Felipe Cabrera](https://open.spotify.com/artist/4dUUZTPOISpCJRadklHYuv), [Lukmil Perez](https://open.spotify.com/artist/26RqVxoGgBKJ4BWMc8WNCv) | [Asi de Simple](https://open.spotify.com/album/23kX4w7LihVLW6ui9vOUoV) | 6:00 | 2021-12-09 | 2022-07-27 |
 | [Sin Tu Cariño](https://open.spotify.com/track/1apn8sck6eZb3zvw6f4vKh) | [Jazz At Lincoln Center Orchestra](https://open.spotify.com/artist/6MnWA8xVW1sEzV9s7wXpQb), [Wynton Marsalis](https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7), [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Una Noche Con Rubén Blades](https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ) | 7:48 | 2021-12-09 |  |

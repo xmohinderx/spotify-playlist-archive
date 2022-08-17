@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > all the hottest indie tunes in the world rn feat\. Thelma Plum, PinkPantheress & Rex Orange County 🐍
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,413 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,410 likes - 99 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 2 | [Motels](https://open.spotify.com/track/1V888fh2JLVzMElr1pEz6Z) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Motels](https://open.spotify.com/album/59ok1dIXKrSGEuyziyoyfO) | 3:23 |
-| 3 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 |
+| 3 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 4 | [When It Rains It Pours](https://open.spotify.com/track/6zQD47A7AYIz2iJJbpXDna) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [When It Rains It Pours](https://open.spotify.com/album/2wNdSPuphHn8QepF515wWV) | 4:13 |
-| 5 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
-| 6 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 5 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
+| 6 | [Scarlet](https://open.spotify.com/track/3nUjs7y1fhZYSmPNQ0YfqO) | [Telenova](https://open.spotify.com/artist/5UlJRJmlRLhQJX8lJuerVq) | [Scarlet](https://open.spotify.com/album/0uC6KvswSzKrzdvqbfOWZV) | 3:18 |
 | 7 | [Honeycomb](https://open.spotify.com/track/272HBefSWeVs1Yi6vqL0Dw) | [KNOWN.](https://open.spotify.com/artist/1hq8aXIxLXBwfeXGD1sGot) | [Deja](https://open.spotify.com/album/5uBw6DLLVJPk86NL8G3Xde) | 2:37 |
 | 8 | [Touch \(feat\. Rromarin\)](https://open.spotify.com/track/2HirdhcyrBod79Utk0acmI) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Touch \(feat\. Rromarin\)](https://open.spotify.com/album/6oqqJXzVvb3hHcdGxRCfxm) | 3:26 |
 | 9 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 76 | [killer](https://open.spotify.com/track/4QUzLCXrpHO4c6dGyZlpO2) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [killer](https://open.spotify.com/album/4BYCmmwbSU2bxcQEEI6RBU) | 2:56 |
 | 77 | [Backseat of My Mind \- Radio Edit](https://open.spotify.com/track/1J4kj8tzo0G55ylWK7IMXL) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Backseat of My Mind](https://open.spotify.com/album/2hdB4ZjP8tMqYCM6ylx6YU) | 3:30 |
 | 78 | [Running Up That Hill \(A Deal With God\) \- 2018 Remaster](https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Hounds of Love \(2018 Remaster\)](https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH) | 5:00 |
-| 79 | [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 |
+| 79 | [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 |
 | 80 | [HEAVEN WITH U \(feat\. Jessica Mauboy\)](https://open.spotify.com/track/6A2Taw4Lv2MWfe1PU3nfcn) | [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1), [Jessica Mauboy](https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673) | [HEAVEN WITH U](https://open.spotify.com/album/03oTMtE6zfA30czZZYJIUh) | 2:54 |
 | 81 | [I Like It Like](https://open.spotify.com/track/1J1BneZ7n94exyy4B9Qobx) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Between The Head & The Heart](https://open.spotify.com/album/0oSNfuiXDJ01zODQnZGMdH) | 3:30 |
 | 82 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 |
@@ -107,6 +107,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 97 | [Tunnel of You](https://open.spotify.com/track/1KX30hHDvpBRvm3JXxtYEY) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Fever Dream](https://open.spotify.com/album/6jJSf3YPVS7DBIvgFhyPCd) | 4:23 |
 | 98 | [Stuck In The Middle](https://open.spotify.com/track/5f7us9O5oOi4QqSpehe3Qo) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Stuck In The Middle](https://open.spotify.com/album/2HOLQpPY61lXwGdoLHVkkg) | 2:46 |
 | 99 | [Flood](https://open.spotify.com/track/5I9ZDKKGg6TTNHTeS6bJJc) | [Stella Donnelly](https://open.spotify.com/artist/2mHjhKyKCLh6MZELuCe1Es) | [Flood](https://open.spotify.com/album/6HD4wqnJYMPX3v3guWqjG6) | 3:43 |
-| 100 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 
-Snapshot ID: `MTY2MDIyNjQwMCwwMDAwMDAwMDdjMzAyOGQ1MmIwZjZiYzM5ZDE4Nzg2ZmY1YzNiMDk2`
+Snapshot ID: `MTY2MDY5MzY1NSwwMDAwMDAwMDY3OGRkNTZiZTc0NzA2ODVjMTNiMDM5NGQ0YjgzNDI0`

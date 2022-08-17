@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 
 > A sound synonymous with the Blues; these are the pioneering names in slide guitar\. Cover: Johnny Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,706 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,792 likes - 50 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTRcF9f9nEap.md) - [plain]
 | 45 | [Statesboro Blues](https://open.spotify.com/track/1pyyaheYNV54SIVv6z5wxU) | [Allman Brothers Band](https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR) | [Dreams](https://open.spotify.com/album/51kF3pqbherdGJhcwKdmjC) | 4:06 |
 | 46 | [Talk To Me Baby](https://open.spotify.com/track/0LwiAubJcHVbdDix3f6foC) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:15 |
 | 47 | [You Got to Move](https://open.spotify.com/track/4yNZFnV0r7OIuUSep8hFLB) | [Mississippi Fred McDowell](https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ) | [Steakbone Slide Guitar](https://open.spotify.com/album/6cqymm4TdtnSeABGub57Gn) | 2:59 |
-| 48 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
-| 49 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
+| 48 | [Bad Girl Blues \- Remastered](https://open.spotify.com/track/5abAIEO9uuBFNvWzle7rcx) | [Johnny Winter](https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO) | [3rd Degree \(Remastered\)](https://open.spotify.com/album/1RcjOFCn7PDU8GZB97odnZ) | 4:34 |
+| 49 | [Death Letter Blues](https://open.spotify.com/track/5fO2jCKeCHRIduCq7X7O5e) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Martin Scorsese Presents The Blues: Son House](https://open.spotify.com/album/4HsEjPkFlM2XYST7SS73g4) | 4:19 |
 | 50 | [Roll Your Moneymaker](https://open.spotify.com/track/4LvVULuRGJytccOzfvlT4z) | [Hound Dog Taylor](https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4) | [Deluxe Edition](https://open.spotify.com/album/6W1p3MVr1rpPTWqHwBTZco) | 4:01 |
 
-Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMDVlMzA1ZGU0YWVlMjkwNTM4OGRhYmQ5ZmZhZTY1OTAz`
+Snapshot ID: `MTY1Mjk4ODMyOSwwMDAwMDAwMGJkNWMwNmFlNThjMmFmYWIyODQ1ZjYyY2MwYTY5YjYx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Megan Thee Stallion, Central Cee, Joey Bada$$ and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,273 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,514 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Vengaboys. ",
-  "num_followers": 258495,
+  "num_followers": 258707,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzM0Njc1MywwMDAwMDAwMDZkZDU1ZGUwZjk0MDMyNWJhOWRjZDRkZDgzNTY2ODAw",
+  "snapshot_id": "MTY0NzM0Njc1MywwMDAwMDAwMGRhMDBlZGE4ZjEwNDZiYzIwN2FkYzA1NmRmY2M1NGJi",
   "tracks": [
     {
       "added_at": "2021-03-22 14:08:50",
@@ -619,22 +619,6 @@
     {
       "added_at": "2021-09-08 13:00:28",
       "album": {
-        "name": "Dangerous",
-        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 239226,
-      "name": "Remember the Time",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
         "name": "Mack Daddy",
         "url": "https://open.spotify.com/album/6c62jxWCe2aisIudaDRcaP"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 262826,
       "name": "Baby Got Back",
       "url": "https://open.spotify.com/track/1SAkL1mYNJlaqnBQxVZrRl"
+    },
+    {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "Dangerous",
+        "url": "https://open.spotify.com/album/0oX4SealMgNXrvRDhqqOKg"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 239226,
+      "name": "Remember the Time",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -1129,22 +1129,6 @@
       "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK"
     },
     {
-      "added_at": "2021-03-22 14:08:50",
-      "album": {
-        "name": "L'Amour Toujours",
-        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
-      },
-      "artists": [
-        {
-          "name": "Gigi D'Agostino",
-          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
-        }
-      ],
-      "duration_ms": 285426,
-      "name": "The Riddle",
-      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
-    },
-    {
       "added_at": "2021-09-08 13:00:28",
       "album": {
         "name": "World Clique",
@@ -1159,6 +1143,22 @@
       "duration_ms": 231786,
       "name": "Groove Is in the Heart",
       "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb"
+    },
+    {
+      "added_at": "2021-03-22 14:08:50",
+      "album": {
+        "name": "L'Amour Toujours",
+        "url": "https://open.spotify.com/album/5aSbB0dVq5o7N5eSfnexjV"
+      },
+      "artists": [
+        {
+          "name": "Gigi D'Agostino",
+          "url": "https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un"
+        }
+      ],
+      "duration_ms": 285426,
+      "name": "The Riddle",
+      "url": "https://open.spotify.com/track/0ZqveF2rEFlz2oqF2xrriP"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2021-03-22 14:08:50",
       "album": {
-        "name": "12 Inches Of Snow",
-        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
-      },
-      "artists": [
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 268910,
-      "name": "Informer",
-      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
-    },
-    {
-      "added_at": "2021-03-22 14:08:50",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 227266,
       "name": "Men In Black - From \"Men In Black\" Soundtrack",
       "url": "https://open.spotify.com/track/2FK7fxjzQEXD7Z32HSF0Hl"
+    },
+    {
+      "added_at": "2021-03-22 14:08:50",
+      "album": {
+        "name": "12 Inches Of Snow",
+        "url": "https://open.spotify.com/album/6bNWz7bHK8M0xPfAPmFSRW"
+      },
+      "artists": [
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 268910,
+      "name": "Informer",
+      "url": "https://open.spotify.com/track/2LjiPAQOVazT8sRyXL3XRs"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -1527,6 +1527,22 @@
     {
       "added_at": "2021-03-22 14:08:50",
       "album": {
+        "name": "The Party Album!",
+        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
+      },
+      "artists": [
+        {
+          "name": "Vengaboys",
+          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+        }
+      ],
+      "duration_ms": 217539,
+      "name": "We're Going To Ibiza!",
+      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
+    },
+    {
+      "added_at": "2021-03-22 14:08:50",
+      "album": {
         "name": "On The 6",
         "url": "https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc"
       },
@@ -1555,22 +1571,6 @@
       "duration_ms": 240706,
       "name": "Who Do You Think You Are",
       "url": "https://open.spotify.com/track/1jI1aLmm5HTwiMtvsbwDJw"
-    },
-    {
-      "added_at": "2021-03-22 14:08:50",
-      "album": {
-        "name": "The Party Album!",
-        "url": "https://open.spotify.com/album/2hy9sLDt7IVAvJRGVdzZnx"
-      },
-      "artists": [
-        {
-          "name": "Vengaboys",
-          "url": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
-        }
-      ],
-      "duration_ms": 217539,
-      "name": "We're Going To Ibiza!",
-      "url": "https://open.spotify.com/track/6trzHhvr6xqYJkNnbWwXz2"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2021-09-08 13:00:28",
       "album": {
-        "name": "Move Until We Fly",
-        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
-      },
-      "artists": [
-        {
-          "name": "Nick Kamen",
-          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
-        }
-      ],
-      "duration_ms": 240773,
-      "name": "I Promised Myself",
-      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
         "name": "Invincible",
         "url": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 336840,
       "name": "Mr. Vain",
       "url": "https://open.spotify.com/track/2rTYgHxgcndkUrRoU7x0Sv"
+    },
+    {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "Move Until We Fly",
+        "url": "https://open.spotify.com/album/0z5UEm9rbS75WTaSdGwP8N"
+      },
+      "artists": [
+        {
+          "name": "Nick Kamen",
+          "url": "https://open.spotify.com/artist/05GsKvp0yKuCyWQMsPAAmB"
+        }
+      ],
+      "duration_ms": 240773,
+      "name": "I Promised Myself",
+      "url": "https://open.spotify.com/track/5jVJAojK3LFKETjI2gYb8O"
     },
     {
       "added_at": "2021-09-08 13:00:28",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2021-09-08 13:00:28",
       "album": {
-        "name": "World Power",
-        "url": "https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A"
-      },
-      "artists": [
-        {
-          "name": "SNAP!",
-          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
-        }
-      ],
-      "duration_ms": 228993,
-      "name": "The Power",
-      "url": "https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
         "name": "The Bodyguard - Original Soundtrack Album",
         "url": "https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 285106,
       "name": "I'm Every Woman",
       "url": "https://open.spotify.com/track/2eHj0klWkwRQuIrNlPpCPa"
+    },
+    {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "World Power",
+        "url": "https://open.spotify.com/album/40dT7brCvniJawDHpBCE4A"
+      },
+      "artists": [
+        {
+          "name": "SNAP!",
+          "url": "https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx"
+        }
+      ],
+      "duration_ms": 228993,
+      "name": "The Power",
+      "url": "https://open.spotify.com/track/0nQLxiNGbbUoSGrxksETLm"
     },
     {
       "added_at": "2021-09-08 13:00:28",
@@ -2093,6 +2093,42 @@
       "url": "https://open.spotify.com/track/5HmwYfynpGAjgrj4bp9eMy"
     },
     {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "Cooleyhighharmony (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
+      },
+      "artists": [
+        {
+          "name": "Boyz II Men",
+          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
+        }
+      ],
+      "duration_ms": 235226,
+      "name": "Motownphilly",
+      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
+    },
+    {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "The Commitments",
+        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
+      },
+      "artists": [
+        {
+          "name": "The Commitments",
+          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
+        },
+        {
+          "name": "Andrew Strong",
+          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
+        }
+      ],
+      "duration_ms": 241866,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
+    },
+    {
       "added_at": "2021-03-22 14:08:50",
       "album": {
         "name": "You Got the Love",
@@ -2119,42 +2155,6 @@
     {
       "added_at": "2021-09-08 13:00:28",
       "album": {
-        "name": "The Commitments",
-        "url": "https://open.spotify.com/album/1uTcBfkLmGF07vlNMj6Ru0"
-      },
-      "artists": [
-        {
-          "name": "The Commitments",
-          "url": "https://open.spotify.com/artist/5kiBy7FO5L4ywMz1xF70PX"
-        },
-        {
-          "name": "Andrew Strong",
-          "url": "https://open.spotify.com/artist/7MdthKITrvbzo6v1PG80Te"
-        }
-      ],
-      "duration_ms": 241866,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/1XlCCgKKrQQfXaDyv4GrZe"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
-        "name": "Cooleyhighharmony (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/3jknvlUSe6D9Oyn2E3JBLO"
-      },
-      "artists": [
-        {
-          "name": "Boyz II Men",
-          "url": "https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp"
-        }
-      ],
-      "duration_ms": 235226,
-      "name": "Motownphilly",
-      "url": "https://open.spotify.com/track/4LxIGAVfcQIw0zAQRyFhU8"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
         "name": "There Is a Party",
         "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
       },
@@ -2167,22 +2167,6 @@
       "duration_ms": 241066,
       "name": "Let the Dream Come True",
       "url": "https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs"
-    },
-    {
-      "added_at": "2022-02-23 08:39:57",
-      "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2021-09-08 13:00:28",
@@ -2203,6 +2187,22 @@
       "duration_ms": 290933,
       "name": "Short Dick Man - Club Mix",
       "url": "https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU"
+    },
+    {
+      "added_at": "2022-02-23 08:39:57",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -2241,6 +2241,22 @@
       "url": "https://open.spotify.com/track/2bbeNsFmjZqdoDhjLsKNWe"
     },
     {
+      "added_at": "2021-09-08 13:00:28",
+      "album": {
+        "name": "Pronounced Jah-Nay",
+        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
+      },
+      "artists": [
+        {
+          "name": "Zhan\u00e9",
+          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
+        }
+      ],
+      "duration_ms": 252400,
+      "name": "Hey Mr. D.J.",
+      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
+    },
+    {
       "added_at": "2021-03-22 14:08:50",
       "album": {
         "name": "Two Can Play That Game",
@@ -2259,22 +2275,6 @@
       "duration_ms": 211800,
       "name": "Two Can Play That Game - Radio Edit",
       "url": "https://open.spotify.com/track/1gsnWXeNlbfoHpaGRi4oQ0"
-    },
-    {
-      "added_at": "2021-09-08 13:00:28",
-      "album": {
-        "name": "Pronounced Jah-Nay",
-        "url": "https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz"
-      },
-      "artists": [
-        {
-          "name": "Zhan\u00e9",
-          "url": "https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is"
-        }
-      ],
-      "duration_ms": 252400,
-      "name": "Hey Mr. D.J.",
-      "url": "https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -2311,22 +2311,6 @@
       "duration_ms": 251760,
       "name": "Relight My Fire (feat. Lulu)",
       "url": "https://open.spotify.com/track/4UGzL9fNdZPnrb9oseuDSi"
-    },
-    {
-      "added_at": "2021-03-22 14:08:50",
-      "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 293105,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2021-09-08 13:00:28",
@@ -2367,6 +2351,22 @@
       "duration_ms": 237506,
       "name": "Twist And Shout",
       "url": "https://open.spotify.com/track/4wrS2dvdYei9jZN0JlUBP6"
+    },
+    {
+      "added_at": "2021-03-22 14:08:50",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 293105,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
     },
     {
       "added_at": "2021-03-22 14:08:50",
@@ -2499,18 +2499,18 @@
     {
       "added_at": "2021-09-08 13:00:28",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+        "name": "U Sure Do",
+        "url": "https://open.spotify.com/album/0HQRkjjnVRigdAVc2ofnFq"
       },
       "artists": [
         {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+          "name": "Strike",
+          "url": "https://open.spotify.com/artist/3CEF3A8IybbJcwFSUVtAYM"
         }
       ],
-      "duration_ms": 230186,
-      "name": "Don't Turn Around",
-      "url": "https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO"
+      "duration_ms": 229171,
+      "name": "U Sure Do (Strike 7\" Mix)",
+      "url": "https://open.spotify.com/track/5TdsylMARn0PxbHqrmmJoS"
     }
   ],
   "unique_name": "90s Party",

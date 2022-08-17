@@ -1,12 +1,12 @@
 {
   "description": "That fuzzy, noisy punk-blues hybrid",
-  "num_followers": 7040,
+  "num_followers": 7071,
   "original_name": "Punk Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDYwMzcwMjViMWEyMzJkOWM2ZDNhMDU2OTkwNTAwZDFl",
+  "snapshot_id": "MTY0ODQ5ODQ5OCwwMDAwMDAwMDc5MjVmOTdhOTI4NzNiZWY3ZDU4YWE4YTExNWUwYWU5",
   "tracks": [
     {
       "added_at": "2022-03-28 20:14:58",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Ode To Joy",
-        "url": "https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM"
-      },
-      "artists": [
-        {
-          "name": "The Deadly Snakes",
-          "url": "https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0"
-        }
-      ],
-      "duration_ms": 167506,
-      "name": "Playboys",
-      "url": "https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "The King Khan & Bbq Show",
         "url": "https://open.spotify.com/album/6Ap1PVkQ93MHggcPjQ0vuE"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 170520,
       "name": "Fishfight",
       "url": "https://open.spotify.com/track/777LjHoW3blYhduQVUrCPk"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Ode To Joy",
+        "url": "https://open.spotify.com/album/6Y2hYsUm2r7B4Ugbs105XM"
+      },
+      "artists": [
+        {
+          "name": "The Deadly Snakes",
+          "url": "https://open.spotify.com/artist/6eIBsOv2XYFA8R7tAkNnS0"
+        }
+      ],
+      "duration_ms": 167506,
+      "name": "Playboys",
+      "url": "https://open.spotify.com/track/4hGX78tAyrI9srdacmlOss"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "Dual Mono",
-        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
-      },
-      "artists": [
-        {
-          "name": "The Greenhornes",
-          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "Too Much Sorrow",
-      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "I Know You Be Houserockin'",
         "url": "https://open.spotify.com/album/3IZmApu7YaxO4kTcY3dB8p"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 138240,
       "name": "Thunderbird ESQ",
       "url": "https://open.spotify.com/track/1knQYVzCw96ZRAykXAtjUe"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "Dual Mono",
+        "url": "https://open.spotify.com/album/4NrdlpNTAeRwF5SrarP2vk"
+      },
+      "artists": [
+        {
+          "name": "The Greenhornes",
+          "url": "https://open.spotify.com/artist/7sPZakwiHQUWkG1teFE8zv"
+        }
+      ],
+      "duration_ms": 247306,
+      "name": "Too Much Sorrow",
+      "url": "https://open.spotify.com/track/1PlgZAWgT8D9pgFDHYZRzI"
     },
     {
       "added_at": "2022-03-28 20:14:58",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-03-28 20:14:58",
       "album": {
-        "name": "The Kids Are All Square - This Is Hip & Girlsville",
-        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
-      },
-      "artists": [
-        {
-          "name": "Thee Headcoatees",
-          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
-        }
-      ],
-      "duration_ms": 145400,
-      "name": "Round Every Corner",
-      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
-    },
-    {
-      "added_at": "2022-03-28 20:14:58",
-      "album": {
         "name": "Whatcha Doin'",
         "url": "https://open.spotify.com/album/76ioQYsj2LjKW7hewrz9uX"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 217040,
       "name": "Summer Sun Blues",
       "url": "https://open.spotify.com/track/3w9bUhup3zHpeNUhujZKhn"
+    },
+    {
+      "added_at": "2022-03-28 20:14:58",
+      "album": {
+        "name": "The Kids Are All Square - This Is Hip & Girlsville",
+        "url": "https://open.spotify.com/album/60tBmjuaOOUZ1nbUFXKejQ"
+      },
+      "artists": [
+        {
+          "name": "Thee Headcoatees",
+          "url": "https://open.spotify.com/artist/1MDoUyChsGrYbl9DeV9tif"
+        }
+      ],
+      "duration_ms": 145400,
+      "name": "Round Every Corner",
+      "url": "https://open.spotify.com/track/5Lo8MW6jtjbKU2YslHKqna"
     },
     {
       "added_at": "2022-03-28 20:14:58",

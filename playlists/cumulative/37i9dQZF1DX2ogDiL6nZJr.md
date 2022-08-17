@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-251 songs - 15 hr 41 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
+252 songs - 15 hr 45 min - [published](https://open.spotify.com/playlist/1n8FqySwgwOGGatHnOOUda)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [All That You Are](https://open.spotify.com/track/6V7BW7mCfARAhKOlI4SkuM) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Blue Hours](https://open.spotify.com/album/1tqkCIUs7aGktIJ2J5WKFz) | 4:10 | 2022-08-11 |  |
 | [All That You Are](https://open.spotify.com/track/7G1EM2JFj32L6UBsPJrhoH) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [All That You Are](https://open.spotify.com/album/5QKtAAUxkQLhKT1hLX910o) | 4:11 | 2021-12-09 | 2022-08-13 |
 | [Alright](https://open.spotify.com/track/3ZWW7SuBWXOHv24nZmfPLF) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Simulcast](https://open.spotify.com/album/3uqx22ScaYQujWq2lBvXuQ) | 4:02 | 2022-04-14 | 2022-04-20 |
+| [anew](https://open.spotify.com/track/21noJ3ormqz6ns0FxrKbeo) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [anew](https://open.spotify.com/album/2oBjzhXn3VigQDMkEUsXyO) | 3:35 | 2022-08-11 |  |
 | [Angel](https://open.spotify.com/track/0efvdBK1PLP3F1SDzf27JL) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Angel](https://open.spotify.com/album/70PN5dV4LvJjupYPKClLJU) | 3:39 | 2022-07-21 |  |
 | [Arms Of Who](https://open.spotify.com/track/5S6VW7zfblsWX2hsv5SbTG) | [Bayuk](https://open.spotify.com/artist/4FB0ZlyDLV9zyvtJLNmZNw), [Andreas Vey](https://open.spotify.com/artist/2JtnUZejA6jFRZZuqmlJzs) | [Arms of Who](https://open.spotify.com/album/4Blv5Cadh9uukumyIwXQr2) | 4:07 | 2021-12-09 |  |
 | [Around The Sun](https://open.spotify.com/track/0VrdF2Q4bSf5DWCnEPii0P) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Amo Amo](https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm) | [Around The Sun](https://open.spotify.com/album/2l6iKC0utkn2ADXNN8KpyB) | 3:54 | 2021-12-09 |  |
@@ -197,7 +198,7 @@
 | [Same Light](https://open.spotify.com/track/7zERKoQkaTvOLdyQzsHoxd) | [Philine Sonny](https://open.spotify.com/artist/5NXT9hOfNLjOMnXqCqzR2t) | [Lose Yourself](https://open.spotify.com/album/6EPKiDuqrK10hTrOt8KTAQ) | 2:36 | 2022-07-21 |  |
 | [Save Me From Your Kindness](https://open.spotify.com/track/6TFMXG62kwrJjTnEVQKrl7) | [Lucy Rose](https://open.spotify.com/artist/2uvY5pgdD9t1CZ5zMNw1rl) | [No Words Left](https://open.spotify.com/album/7dH9UtNVY8jKjZie4207uk) | 3:47 | 2022-04-14 | 2022-04-20 |
 | [seasonal affective disorder](https://open.spotify.com/track/32svp2B3O8zQk5TnlLOYUd) | [doppelfinger](https://open.spotify.com/artist/26vQnKIdh6ysJWbcQ6o3P1) | [seasonal affective disorder](https://open.spotify.com/album/0lfPNOLpQdNkFeQ4w0iwqM) | 3:55 | 2021-12-09 | 2022-07-29 |
-| [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 | 2022-04-14 |  |
+| [Serious](https://open.spotify.com/track/68JX90DFYbGnKeq6eVT43G) | [The Whitest Boy Alive](https://open.spotify.com/artist/1qcU8NabUQ5efQf8UGW6CV) | [Serious](https://open.spotify.com/album/3x9P5ETTIhyNBSHnOLH4Hw) | 2:58 | 2022-04-14 | 2022-08-17 |
 | [Seventeen Going Under \- Acoustic](https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc), [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Seventeen Going Under \(Acoustic\)](https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy) | 4:30 | 2021-12-09 |  |
 | [Shine On](https://open.spotify.com/track/5AjWtMkHCCBm840EzpKgDT) | [Hanreti](https://open.spotify.com/artist/0klosoqeWJb81c06DtPKyR) | [Shine On](https://open.spotify.com/album/5d2KcdIgiqHvaRcFWtjqJD) | 5:24 | 2021-12-09 | 2022-07-29 |
 | [Sink In](https://open.spotify.com/track/3cFdJIGdexTsNGuzKfsBV2) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Permanent Way](https://open.spotify.com/album/4SJv0ML9KXGtEk6YdPK9Sv) | 3:20 | 2022-07-21 |  |

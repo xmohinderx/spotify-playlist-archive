@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 
 > Miami me lo confirmó featuring Gonzy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,922 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,951 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gAVR9iO3gH.md) - [plain]
 | 64 | [Los De Siempre](https://open.spotify.com/track/5IsTVBbwSjU38VqJbZNokS) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Chris Jedi](https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm) | [Los De Siempre](https://open.spotify.com/album/4PIRLjzQkVZNsb2ZEeIwPQ) | 3:25 |
 | 65 | [Que Locura](https://open.spotify.com/track/2DKyYH0AV19kMOjhqSqsgF) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Que Locura](https://open.spotify.com/album/2Qbk9uyfmBYKXxenxXGkL8) | 3:17 |
 | 66 | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/track/2Ux9T8N2b0GRTOSfenwxlr) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Daramola](https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA) | [báilame en los besos \(with Danny Ocean & Daramola\)](https://open.spotify.com/album/42xtXqJiVEqAHLCXbKhSVX) | 3:27 |
-| 67 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 |
-| 68 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 |
+| 67 | [Miami](https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Miami](https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl) | 3:12 |
+| 68 | [LA DESPEDIDA \- Live \- Spotify Singles](https://open.spotify.com/track/3RMigTAghPnfNXpmzqe1C7) | [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Spotify Singles](https://open.spotify.com/album/7JzwQl46xJFV9Ce68N3ga5) | 3:28 |
 | 69 | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/track/2uvU0z0Asg969AiNLDIowC) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Hora Loca Remix \- Spotify Singles \(with Piso 21\)](https://open.spotify.com/album/30YYgDImOQliL0lTWkQwRD) | 3:14 |
 | 70 | [Millonario \(Remix\) \[feat\. Ozuna\]](https://open.spotify.com/track/1KwMVzMArDnM5m2LNuzXAO) | [Messiah](https://open.spotify.com/artist/0tR60pwxQ5WKjPxQcKoCQ7), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Millonario \(Remix\) \[feat\. Ozuna\]](https://open.spotify.com/album/264jSfnIyBxEgUBmLYA69B) | 3:34 |
 | 71 | [LAS OLAS](https://open.spotify.com/track/0ERKM0ev4j3MHoc2PBn0Qo) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [LAS OLAS](https://open.spotify.com/album/15QGnc6XqRoMXZJKikT75p) | 3:42 |
 | 72 | [Por El Alcohol](https://open.spotify.com/track/2ZeT6783LAgIqWCyAh85fO) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Casper Magico](https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno) | [DELUXE](https://open.spotify.com/album/1GqEkyZqFiv1k45AQzEyHk) | 3:24 |
 | 73 | [Vaticano](https://open.spotify.com/track/6yJtb1FFa1fQ1V4p1Bx7w5) | [Jerry Di](https://open.spotify.com/artist/7f02bxFbZIOVdSbYRNYvLT) | [Vaticano](https://open.spotify.com/album/5imyvG8HR56AqU6UKnEIgs) | 2:55 |
-| 74 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
-| 75 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 74 | [Habla Matador](https://open.spotify.com/track/2Irk3JNIVcCxOEdw3jod7v) | [El Taiger](https://open.spotify.com/artist/4PFgfReja3r59JaekHpeuf), [El Happy](https://open.spotify.com/artist/2cEDvM2O93CC2TxsgJczos) | [Habla Matador](https://open.spotify.com/album/55fG4qzp3qcKL8MWlHxWPa) | 2:43 |
+| 75 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 |
 
-Snapshot ID: `MTY1ODk1NDc5MiwwMDAwMDAwMDZjOTA1ODE0MmIyODY2MTM3OGVmMjg4ODJlM2NiMmI4`
+Snapshot ID: `MTY1ODk1NDc5MiwwMDAwMDAwMDUzZmZkNWE2ZjA3MzhjY2VkZTUwNzczOTZjMGZmMWMw`

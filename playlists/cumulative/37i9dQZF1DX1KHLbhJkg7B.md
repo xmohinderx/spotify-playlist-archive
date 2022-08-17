@@ -4,7 +4,7 @@
 
 > Unique versions of hit songs by other artists\. Cover: Ashley McBryde
 
-248 songs - 15 hr 28 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
+249 songs - 15 hr 32 min - [published](https://open.spotify.com/playlist/5FG6pwctW4uulQzMoAra0G)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Anymore](https://open.spotify.com/track/74iNoeAILH4cxEEHbVE8p5) | [Will Dempsey](https://open.spotify.com/artist/6EwJep0jBRD2MMG3BLH6dd) | [Anymore](https://open.spotify.com/album/5DfR3WXx0ior8OriOD9cK1) | 4:05 | 2021-12-10 | 2022-07-27 |
 | [Back in the High Life Again](https://open.spotify.com/track/1wfBLVzNoH2pQEeydZAs6N) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Back in the High Life Again / The Times They Are A\-Changin'](https://open.spotify.com/album/344tOUpZdZhbZ8K3N7acKg) | 4:40 | 2021-12-10 | 2022-07-23 |
 | [Banana Pancakes](https://open.spotify.com/track/7B1qzMdyg0NnqNmRCLqbRs) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [We Are Tonight](https://open.spotify.com/album/1UrEMAvTDJdsJsZdsBux4h) | 4:36 | 2021-12-10 | 2022-07-13 |
-| [Bartender's Blues](https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 4:11 | 2021-12-10 |  |
+| [Bartender's Blues](https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [JT](https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn) | 4:11 | 2021-12-10 | 2022-08-17 |
 | [Because Of You](https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Reba Duets](https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL) | 3:43 | 2021-12-10 |  |
 | [Best Of You](https://open.spotify.com/track/7tVn9cFAt6tUYMyfETwbab) | [Rick Monroe and The Hitmen](https://open.spotify.com/artist/67VBNCfGT2EPGiViUNcJS3) | [Best Of You](https://open.spotify.com/album/1KixnOQFsdbvOWqxEdwdVn) | 4:00 | 2022-03-25 | 2022-04-20 |
 | [Big Love](https://open.spotify.com/track/2bBDdsNOksX2mS53aSm6tY) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y) | [Big Love](https://open.spotify.com/album/67bDcxrb2epJ9ZFDhN9KKQ) | 4:13 | 2021-12-10 | 2022-07-22 |
@@ -232,6 +232,7 @@
 | [Uncle Pen](https://open.spotify.com/track/4cT14AH7Gmp97wUSxHwyZJ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [The Best Of Can't You Hear Me Callin' \- Bluegrass: 80 Years Of American Music](https://open.spotify.com/album/0Z216wyIESYn4mjrIrPBy0) | 2:25 | 2021-12-10 | 2022-07-28 |
 | [Uptown Funk \(Live from SXSW 2015\)](https://open.spotify.com/track/1v5dYdS4XKN8zfZ3847xCU) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Spotify Sessions](https://open.spotify.com/album/0IoiSYueb7cmOuYC58IlzQ) | 4:43 | 2022-03-25 | 2022-04-21 |
 | [Versace On the Floor \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4PiQApOUbCc8sBb0ibobRJ) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Spotify Singles](https://open.spotify.com/album/3Jee64Z2Wkkj9joT4qHT1l) | 4:27 | 2021-12-10 |  |
+| [Vienna](https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK) | 3:09 | 2022-08-05 |  |
 | [Vienna](https://open.spotify.com/track/2DP7FXMdejVk2sx6sFd2ne) | [Matt Schuster](https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD) | [Vienna](https://open.spotify.com/album/0LRJCqgduJF7dmTdKcXbEK) | 3:09 | 2022-04-08 | 2022-08-10 |
 | [Wagon Wheel](https://open.spotify.com/track/3xdjjKMcMOFgo1eQrfbogM) | [Darius Rucker](https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ) | [True Believers](https://open.spotify.com/album/6cowf7fdb5dgKoglTekOK8) | 4:58 | 2021-12-10 |  |
 | [Wait For It](https://open.spotify.com/track/26YCF5XU80CJ93UJZBR6W6) | [Jennifer Nettles](https://open.spotify.com/artist/2WV4xLQooFalR2cit0XSKp) | [Wait For It](https://open.spotify.com/album/66cPby9NYwxBI9qQacw8tU) | 3:26 | 2021-12-10 | 2022-07-27 |

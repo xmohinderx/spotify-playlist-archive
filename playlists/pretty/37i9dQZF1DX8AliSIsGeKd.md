@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music from Electronica to Techno\. Cover: Rafael Cerato, Teologen
 
-[Spotify](https://open.spotify.com/user/spotify) - 549,740 likes - 74 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 549,930 likes - 74 songs - 6 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 12 | [Clap Clap Clap \- Radio Edit](https://open.spotify.com/track/1QLSLiXvYONze7G0JILyLr) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Clap Clap Clap](https://open.spotify.com/album/2q0eutJbJV1063wEvatjP5) | 4:18 |
 | 13 | [Murphy \- Edit](https://open.spotify.com/track/4n8fxV2m3ESCoQgOaMrR2n) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Murphy](https://open.spotify.com/album/4YPqdsHuhVRGp2RglgnzSM) | 5:08 |
 | 14 | [Dark Matter Goes Crazy](https://open.spotify.com/track/0ZwDxi2DRaBycIG381adrC) | [Robert Babicz](https://open.spotify.com/artist/5XFQLyJekhzCO7PiTqboOB) | [Earth Ship EP](https://open.spotify.com/album/7C0oXRhPBNZPtThY8gvaLe) | 5:12 |
-| 15 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/6NVB713i2YHmFq9vvyrs0L) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 |
+| 15 | [I Want You \- Edit](https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Ginger](https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN) | [I Want You](https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y) | 3:27 |
 | 16 | [Unsettle](https://open.spotify.com/track/3V19UAFpzm9U4C8hDT1IPh) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT) | [Unsettle](https://open.spotify.com/album/7N2bpwShKs3kkbT3nS7RYd) | 5:28 |
 | 17 | [Connection](https://open.spotify.com/track/7x5EJiMQcdxZFH2kDzF9SN) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Connection](https://open.spotify.com/album/3f9QRfeqrQZZTBXy5ZHad7) | 6:21 |
 | 18 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |

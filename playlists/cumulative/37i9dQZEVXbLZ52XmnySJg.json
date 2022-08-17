@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 221271,
       "name": "Aankhon Se Batana",
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
@@ -219,6 +219,24 @@
       "duration_ms": 272000,
       "name": "Adiye - From \"Bachelor\"",
       "url": "https://open.spotify.com/track/2tMoOS9grHtn4upzb4LwMG"
+    },
+    {
+      "album": {
+        "name": "Raazi",
+        "url": "https://open.spotify.com/album/0RdCVt41cIwQe5pVPH2Z8B"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223399,
+      "name": "Ae Watan (Male)",
+      "url": "https://open.spotify.com/track/4wNLPh3T8dxrJwC32MzIUd"
     },
     {
       "album": {
@@ -2091,7 +2109,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": "2022-01-29",
+      "date_removed": null,
       "duration_ms": 203186,
       "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/2HbrsAxOZfG0s1xCQuk6nB"
@@ -2269,7 +2287,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -4451,7 +4469,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 298986,
       "name": "Jhoom - R&B Mix",
       "url": "https://open.spotify.com/track/6zAvNLJkdyRApUHnlJjKfO"
@@ -4689,7 +4707,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -5216,6 +5234,28 @@
     },
     {
       "album": {
+        "name": "83 (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/54MWK3HGLOxBWnQRYWEfEA"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217848,
+      "name": "Lehra Do",
+      "url": "https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR"
+    },
+    {
+      "album": {
         "name": "Narrated For You",
         "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
       },
@@ -5715,9 +5755,9 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-18",
+      "date_removed": null,
       "duration_ms": 374666,
-      "name": "Maa Tujhe Salaam - Live",
+      "name": "Maa Tujhe Salaam",
       "url": "https://open.spotify.com/track/3aozKh1z4SSZXAm7TpcXtk"
     },
     {
@@ -7617,7 +7657,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 223271,
       "name": "Rangisari (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
@@ -7929,6 +7969,28 @@
       "duration_ms": 177694,
       "name": "Sakhiyan2.0 (From \"BellBottom\")",
       "url": "https://open.spotify.com/track/1y5beX4vn7QPfg36r4jiWo"
+    },
+    {
+      "album": {
+        "name": "Musical Voice of Roop Kumar Rathod",
+        "url": "https://open.spotify.com/album/0cjRetUUus5pr6wJM6TPz2"
+      },
+      "artists": [
+        {
+          "name": "Roop Kumar Rathod",
+          "url": "https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa"
+        },
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 632960,
+      "name": "Sandese Aate Hai (From \"Border\")",
+      "url": "https://open.spotify.com/track/2Zx1TmHSTxMc7DaUUWZnAn"
     },
     {
       "album": {
@@ -9013,7 +9075,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2021-08-18",
+      "date_removed": null,
       "duration_ms": 313999,
       "name": "Teri Mitti",
       "url": "https://open.spotify.com/track/75hrPAosuDiO9F3DKwVP12"
@@ -9689,7 +9751,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"

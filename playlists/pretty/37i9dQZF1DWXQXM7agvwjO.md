@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. Cover: mindfreakkk \(Thailand\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,385 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,479 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 6 | [Julia](https://open.spotify.com/track/3LAzlPnX6IqFnt6smDbTVK) | [Sof'boy Han](https://open.spotify.com/artist/1vxViNm5ccQtEdM7jIoo4x), [D2ear](https://open.spotify.com/artist/46e3baMTsmabXSJD2LjVeo) | [sarang](https://open.spotify.com/album/0EhDpHY6a9Q53vzw7wWI3w) | 3:01 |
 | 7 | [20:37](https://open.spotify.com/track/7wU9V3zmRUSHFLQGc7jRbP) | [Rosalyn](https://open.spotify.com/artist/0eBxT8cgP2efRvTQWyomVY) | [Skin](https://open.spotify.com/album/2XEHXx2cRclNP5ThLEqStX) | 3:26 |
 | 8 | [Cause U](https://open.spotify.com/track/1CQjCixIGB3y8NwV4f8Zsq) | [宋柏緯](https://open.spotify.com/artist/1LWJ9mrDCPd3HB2Kp1RDXK) | [Posture and Attitude](https://open.spotify.com/album/6RLEGJSkCl5o1KVQvckHRe) | 3:24 |
-| 9 | [Boy In My Head](https://open.spotify.com/track/4k5R9IAbGNL6XrBASNoxEr) | [Wobbebong](https://open.spotify.com/artist/7I3A3nwRpgDiLfNhidWDcq), [Nio](https://open.spotify.com/artist/7LOxl6Vaja1mOtFd900qn7) | [Daydreaming In Blue](https://open.spotify.com/album/6Uz82XlSwEfcoorKKPW09c) | 3:40 |
+| 9 | [Boy In My Head](https://open.spotify.com/track/4k5R9IAbGNL6XrBASNoxEr) | [Wobbebong](https://open.spotify.com/artist/7I3A3nwRpgDiLfNhidWDcq), [nio](https://open.spotify.com/artist/5KalgYkArdk0FGHvA8gh0I) | [Daydreaming In Blue](https://open.spotify.com/album/6Uz82XlSwEfcoorKKPW09c) | 3:40 |
 | 10 | [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 |
 | 11 | [Miss You](https://open.spotify.com/track/6U8UbKRwGuRqqr8tm92shg) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Chicago](https://open.spotify.com/album/6goOtwMw4OF57CNsO7MfRV) | 4:08 |
 | 12 | [Friend Zone](https://open.spotify.com/track/0nzD87lkCYiY5Pxjvwp45P) | [9m88](https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH), [Oddisee](https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC), [starRo](https://open.spotify.com/artist/2kvBsTdtEvwUGOaSDDiKZg) | [9m88 Radio](https://open.spotify.com/album/1fgCHrgrrCQCsBVMaOSk12) | 3:25 |

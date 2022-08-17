@@ -4,12 +4,13 @@
 
 > Sin ataduras, pero con amor: la medida justa de romance independiente.
 
-381 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
+382 songs - 21 hr 53 min - [published](https://open.spotify.com/playlist/05X6LIr2loTOLIj7GqiZl1)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1312 \(Portarme Mal\)](https://open.spotify.com/track/3jlJPXVY5FXYklQOQCHER9) | [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [1312 \(Portarme Mal\)](https://open.spotify.com/album/42w7E2GNUhaLGrpaFFsary) | 3:38 | 2022-01-28 |  |
 | [24/7](https://open.spotify.com/track/2RbKvhGdnmr5jAVcQ6dD8T) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/0yxSN0F7F2eR8iuyoUTn3I) | 3:04 | 2022-01-07 | 2022-07-31 |
+| [24/7](https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [24/7](https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM) | 3:04 | 2022-08-05 |  |
 | [31 de Febrero](https://open.spotify.com/track/3oyXKztPozBi7uTdkpG39T) | [LoLo](https://open.spotify.com/artist/04gHmjV4hmiIrT3PHXlTbZ) | [31 de Febrero](https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp) | 3:09 | 2022-04-01 | 2022-04-18 |
 | [9.6](https://open.spotify.com/track/0JYCsZMO4tR6eq3H7bpg65) | [La Bien Querida](https://open.spotify.com/artist/0Wn7tfH4rhaWTn8aMqSgh6) | [Romancero](https://open.spotify.com/album/2j0j5klhosKvan6uYCUaoZ) | 3:05 | 2022-04-01 | 2022-04-21 |
 | [A Dónde Vamos?](https://open.spotify.com/track/1IHqTQujYdLIGhd0fHgoxa) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9), [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [A Dónde Vamos?](https://open.spotify.com/album/5v2DHcwUNxPBLC4qNZDw2T) | 3:22 | 2022-01-07 |  |
@@ -200,7 +201,7 @@
 | [Ligera Love](https://open.spotify.com/track/5LBVwUrWdyaM1qHo0v0TEQ) | [Pamela Rodriguez](https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC) | [ReconoceR](https://open.spotify.com/album/6BEwgBFuB3SN9Li2ka5sXu) | 2:27 | 2022-01-28 | 2022-07-25 |
 | [Limón y Sal](https://open.spotify.com/track/5LSGY5jg6RFZYJ7HCqw2X4) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Limón y Sal](https://open.spotify.com/album/637y2UCGYxs082qLJqVBON) | 4:32 | 2022-01-07 | 2022-07-29 |
 | [Llamame Esta Noche](https://open.spotify.com/track/3m167ESpWlHrc1GNNPLPWi) | [Tati Diaz Bonilla](https://open.spotify.com/artist/4gz8jSWrna0TO9c3fnbYhf) | [Llamame Esta Noche](https://open.spotify.com/album/3hqXesDHjdEVy0v5yvI8PZ) | 2:47 | 2022-04-01 | 2022-04-24 |
-| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 |  |
+| [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 | 2022-08-17 |
 | [Llorón](https://open.spotify.com/track/7qlnDFtpzhMPhwviyX4UqC) | [FLORIAN](https://open.spotify.com/artist/6C3bLjpIfVoapHjMfpYAy2) | [Llorón](https://open.spotify.com/album/0aJcjadBZBrwChkzxkUEJJ) | 3:24 | 2022-01-07 | 2022-06-12 |
 | [Lo 100to](https://open.spotify.com/track/3xkyRsJo1pLEAJwXXGluZy) | [Proyectosolo](https://open.spotify.com/artist/1FSq5ATUMKNRLCxwWwpELa) | [Lo 100to](https://open.spotify.com/album/5nm56Xx2nK9JEGRfJkuxdU) | 3:02 | 2022-01-28 | 2022-07-17 |
 | [Lo Que Hoy Quieras](https://open.spotify.com/track/2o0qEJLFTlR3NPxLy7Hz0T) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Que Hoy Quieras](https://open.spotify.com/album/7416JKhnB7psS2PMJL9TUR) | 2:55 | 2022-05-09 |  |

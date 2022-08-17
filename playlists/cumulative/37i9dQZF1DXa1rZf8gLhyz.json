@@ -1196,6 +1196,24 @@
     },
     {
       "album": {
+        "name": "I've Grown Accustomed to Her Face",
+        "url": "https://open.spotify.com/album/615KqDDPOkcihBWbHqK3MJ"
+      },
+      "artists": [
+        {
+          "name": "Graydon Poole",
+          "url": "https://open.spotify.com/artist/3CXnbwsLsa3i13StMUzT37"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159107,
+      "name": "I've Grown Accustomed to Her Face",
+      "url": "https://open.spotify.com/track/4oIs2yMe7K0U49LbHWLvOq"
+    },
+    {
+      "album": {
         "name": "If You Could See Me Now",
         "url": "https://open.spotify.com/album/1gtcWSvAdOvvJ9Ya82g5Mk"
       },
@@ -1391,6 +1409,24 @@
       "duration_ms": 138727,
       "name": "je vivrai sans toi",
       "url": "https://open.spotify.com/track/1U7yoZQ8k0wFyyp43HU4Nf"
+    },
+    {
+      "album": {
+        "name": "A Future With You",
+        "url": "https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06"
+      },
+      "artists": [
+        {
+          "name": "Carl Clementine",
+          "url": "https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253976,
+      "name": "Juniper Leaves",
+      "url": "https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew"
     },
     {
       "album": {
@@ -2471,7 +2507,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 255349,
       "name": "sophisticated lady",
       "url": "https://open.spotify.com/track/1bABWbuu9Rr4QofMm2PO5d"
@@ -3029,7 +3065,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 305026,
       "name": "We\u00b4ll Be Together Again",
       "url": "https://open.spotify.com/track/02albk71PUNANHHJ4HUZZE"

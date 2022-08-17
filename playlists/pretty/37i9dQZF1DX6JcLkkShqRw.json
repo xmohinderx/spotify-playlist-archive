@@ -1,12 +1,12 @@
 {
   "description": "Flow sudamericano con El Jordan 23 & Kaleb Di Masi.",
-  "num_followers": 259861,
+  "num_followers": 260089,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDExMTBjZTgyYzE3YTEwMWNkMWI5ZTBkZGQ2Y2ViYmVi",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDM4Y2FhNzY0YzFiOGU2ZDc2NTFiNTZkMGIxZGQ1YjNk",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -763,30 +763,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Los Malvekes",
-        "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"
+        "name": "Locura y Maldad",
+        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
       },
       "artists": [
         {
           "name": "Cris Mj",
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        },
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Simon la Letra",
-          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
-        },
-        {
-          "name": "Stars Music Chile",
-          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 218000,
-      "name": "Los Malvekes",
-      "url": "https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1"
+      "duration_ms": 200000,
+      "name": "Locura y Maldad",
+      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -979,18 +967,30 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Locura y Maldad",
-        "url": "https://open.spotify.com/album/7lU4WSIRtJkfYTCVJsWt6j"
+        "name": "Los Malvekes",
+        "url": "https://open.spotify.com/album/31WdgrOoDtafxlPZdnnMV7"
       },
       "artists": [
         {
           "name": "Cris Mj",
           "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        },
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Simon la Letra",
+          "url": "https://open.spotify.com/artist/6hYxQDiGct9yfRlSEv3F8a"
+        },
+        {
+          "name": "Stars Music Chile",
+          "url": "https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Locura y Maldad",
-      "url": "https://open.spotify.com/track/2dG8CDU9UBem2ReYcLafDt"
+      "duration_ms": 218000,
+      "name": "Los Malvekes",
+      "url": "https://open.spotify.com/track/1AnJQd8TfkhK6M3VgZDVv1"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Noche Loca",
-        "url": "https://open.spotify.com/album/0jGIldXN61FvFD9bo2clt5"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Big Cvyu",
-          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
-        }
-      ],
-      "duration_ms": 234666,
-      "name": "Noche Loca",
-      "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "No Me Conocen (Remix) (Con Duki, Rei & Tiago Pzk)",
         "url": "https://open.spotify.com/album/5aPphlcyYDCyKddSFOWJpe"
       },
@@ -1139,6 +1119,26 @@
       "duration_ms": 280274,
       "name": "No Me Conocen (Remix) [con DUKI, Rei & Tiago PZK]",
       "url": "https://open.spotify.com/track/7COGuXyTr12KvdaYXMqheC"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Noche Loca",
+        "url": "https://open.spotify.com/album/0jGIldXN61FvFD9bo2clt5"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
+        {
+          "name": "Big Cvyu",
+          "url": "https://open.spotify.com/artist/7tMukTswF8N6b0zI4rlCmg"
+        }
+      ],
+      "duration_ms": 234666,
+      "name": "Noche Loca",
+      "url": "https://open.spotify.com/track/27toenwtHpZ7fn0QjehRl2"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1283,38 +1283,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Flaytiando",
-        "url": "https://open.spotify.com/album/4mmWsrRL32Yb0HuaD5hm39"
-      },
-      "artists": [
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        },
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        },
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "Drakomafia",
-          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
-        },
-        {
-          "name": "Gabo El Chamaquito",
-          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
-        }
-      ],
-      "duration_ms": 241224,
-      "name": "Flaytiando",
-      "url": "https://open.spotify.com/track/7ccoyhNAr3OY5IQsvpQnck"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Ponle (Remix)",
         "url": "https://open.spotify.com/album/6cNQVNGtsG2QHIXK8tsTtO"
       },
@@ -1371,22 +1339,34 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Me Voy Contigo",
-        "url": "https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh"
+        "name": "Flaytiando",
+        "url": "https://open.spotify.com/album/4mmWsrRL32Yb0HuaD5hm39"
       },
       "artists": [
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        },
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        },
         {
           "name": "Standly",
           "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
         },
         {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+          "name": "Drakomafia",
+          "url": "https://open.spotify.com/artist/20BNHnI2SfySwLwWCAu4ew"
+        },
+        {
+          "name": "Gabo El Chamaquito",
+          "url": "https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU"
         }
       ],
-      "duration_ms": 198556,
-      "name": "Me Voy Contigo",
-      "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"
+      "duration_ms": 241224,
+      "name": "Flaytiando",
+      "url": "https://open.spotify.com/track/7ccoyhNAr3OY5IQsvpQnck"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1407,6 +1387,26 @@
       "duration_ms": 199772,
       "name": "Wow Wow (feat. Becky G)",
       "url": "https://open.spotify.com/track/20ChN6ZWJ2yhuXcE6SKHDM"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Me Voy Contigo",
+        "url": "https://open.spotify.com/album/3yRpvjQhjb8KBIxJB88GAh"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        }
+      ],
+      "duration_ms": 198556,
+      "name": "Me Voy Contigo",
+      "url": "https://open.spotify.com/track/5VSAcJtB7PlXO3cwC4vjom"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "MARIMBA GRINGA",
-        "url": "https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS"
-      },
-      "artists": [
-        {
-          "name": "Ak4:20",
-          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        }
-      ],
-      "duration_ms": 185934,
-      "name": "MARIMBA GRINGA",
-      "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Te Necesito",
         "url": "https://open.spotify.com/album/6qacH4ed0StQX243TgQITF"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 197960,
       "name": "Te Necesito",
       "url": "https://open.spotify.com/track/74UFJflGMdA46TltO7XPSB"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "MARIMBA GRINGA",
+        "url": "https://open.spotify.com/album/3nF9LhqFqL6EL1HnwTxWlS"
+      },
+      "artists": [
+        {
+          "name": "Ak4:20",
+          "url": "https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        }
+      ],
+      "duration_ms": 185934,
+      "name": "MARIMBA GRINGA",
+      "url": "https://open.spotify.com/track/7KI6CvvTqXCuENTM6xJ3dX"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1791,26 +1791,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "DOLCE",
-        "url": "https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        },
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 242006,
-      "name": "DOLCE",
-      "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "PANAMA",
         "url": "https://open.spotify.com/album/5965FckNzWypHw7yXNGd92"
       },
@@ -1831,8 +1811,28 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Antes Que Salga el Sol",
-        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
+        "name": "DOLCE",
+        "url": "https://open.spotify.com/album/18bGWFvF9E6waWylR3vaCH"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        },
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        }
+      ],
+      "duration_ms": 242006,
+      "name": "DOLCE",
+      "url": "https://open.spotify.com/track/0wDjuXaTy4MVdFOy65Gz9H"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "YO SE QUE TU (feat. Rusherking)",
+        "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
       },
       "artists": [
         {
@@ -1840,13 +1840,21 @@
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Rusherking",
+          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
         }
       ],
-      "duration_ms": 196842,
-      "name": "Antes Que Salga el Sol",
-      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
+      "duration_ms": 193043,
+      "name": "YO SE QUE TU (feat. Rusherking)",
+      "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1891,6 +1899,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Huella Letal",
+        "url": "https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA"
+      },
+      "artists": [
+        {
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+        }
+      ],
+      "duration_ms": 137732,
+      "name": "Huella Letal",
+      "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Tarzan de la Selva",
         "url": "https://open.spotify.com/album/1nTQGvg4A5uxA2kc3Zv4S4"
       },
@@ -1931,24 +1955,8 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Huella Letal",
-        "url": "https://open.spotify.com/album/77Pk12zTQeHZDJBNMX1WjA"
-      },
-      "artists": [
-        {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
-        }
-      ],
-      "duration_ms": 137732,
-      "name": "Huella Letal",
-      "url": "https://open.spotify.com/track/4aOobk7xXbsvhUFiLCUHOv"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "YO SE QUE TU (feat. Rusherking)",
-        "url": "https://open.spotify.com/album/48FoiMxQVsy2fwZlDobT7y"
+        "name": "Antes Que Salga el Sol",
+        "url": "https://open.spotify.com/album/4oWLUBqnWFvd581POHv3pV"
       },
       "artists": [
         {
@@ -1956,21 +1964,13 @@
           "url": "https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
-        },
-        {
-          "name": "Rusherking",
-          "url": "https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         }
       ],
-      "duration_ms": 193043,
-      "name": "YO SE QUE TU (feat. Rusherking)",
-      "url": "https://open.spotify.com/track/4M4DTyLupKvbJKlE4I4EYq"
+      "duration_ms": 196842,
+      "name": "Antes Que Salga el Sol",
+      "url": "https://open.spotify.com/track/1AMLLqsBHzMW7PYlc3mKTA"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2019,26 +2019,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Toa la Vida",
-        "url": "https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        }
-      ],
-      "duration_ms": 218969,
-      "name": "Toa la Vida",
-      "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Olvidate",
         "url": "https://open.spotify.com/album/2OVbouaTwqVHertrc15Kgn"
       },
@@ -2075,6 +2055,26 @@
       "duration_ms": 218006,
       "name": "Mi Waxita",
       "url": "https://open.spotify.com/track/3NW1FV4c9UNsPLkFOqTfF5"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Toa la Vida",
+        "url": "https://open.spotify.com/album/0ee6hUkkQZjprmTwnqBTwP"
+      },
+      "artists": [
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "duration_ms": 218969,
+      "name": "Toa la Vida",
+      "url": "https://open.spotify.com/track/6C1LZVwMRRsUdGOe7t7PSD"
     },
     {
       "added_at": "2022-08-12 04:01:00",

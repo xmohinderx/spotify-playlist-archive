@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 65195,
+  "num_followers": 65230,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMGNmOGQ0NDc3Zjk1NGY2ZDYwMTZlYzdjZGMzMWJmMWRj",
+  "snapshot_id": "MTY1MDE3NDY2OCwwMDAwMDAwMGM1YTMwOGZmZjk3N2U3YzUxNGFmNmY3MzM5NGRkMDgw",
   "tracks": [
     {
       "added_at": "2022-04-17 05:51:08",
@@ -323,18 +323,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "God's Not Dead",
-        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+        "name": "My God Is Still The Same",
+        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
       },
       "artists": [
         {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
         }
       ],
-      "duration_ms": 258453,
-      "name": "God's Not Dead (Like A Lion)",
-      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
+      "duration_ms": 205146,
+      "name": "My God Is Still The Same",
+      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -355,6 +355,22 @@
       "duration_ms": 429522,
       "name": "The Crucifixion",
       "url": "https://open.spotify.com/track/26hCJDGJpoXYMNXdQTdMYa"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "God's Not Dead",
+        "url": "https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX"
+      },
+      "artists": [
+        {
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
+        }
+      ],
+      "duration_ms": 258453,
+      "name": "God's Not Dead (Like A Lion)",
+      "url": "https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -411,22 +427,6 @@
       "duration_ms": 514665,
       "name": "The Blessing - Live",
       "url": "https://open.spotify.com/track/2elEVvWjPZltkotzcCwKvM"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "My God Is Still The Same",
-        "url": "https://open.spotify.com/album/5YFrFIwYuNxdYIA0I0qFy1"
-      },
-      "artists": [
-        {
-          "name": "Sanctus Real",
-          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
-        }
-      ],
-      "duration_ms": 205146,
-      "name": "My God Is Still The Same",
-      "url": "https://open.spotify.com/track/18QN5s8wxFP61qsKPLiBue"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "This Is Not A Test",
-        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
+        "name": "Love Ran Red",
+        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
       },
       "artists": [
         {
-          "name": "TobyMac",
-          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+          "name": "Chris Tomlin",
+          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
         }
       ],
-      "duration_ms": 237146,
-      "name": "Love Broke Thru",
-      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
+      "duration_ms": 250626,
+      "name": "At The Cross (Love Ran Red)",
+      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Love Ran Red",
-        "url": "https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY"
+        "name": "This Is Not A Test",
+        "url": "https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG"
       },
       "artists": [
         {
-          "name": "Chris Tomlin",
-          "url": "https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m"
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
         }
       ],
-      "duration_ms": 250626,
-      "name": "At The Cross (Love Ran Red)",
-      "url": "https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK"
+      "duration_ms": 237146,
+      "name": "Love Broke Thru",
+      "url": "https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Good News (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
-      },
-      "artists": [
-        {
-          "name": "Rend Collective",
-          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
-        }
-      ],
-      "duration_ms": 208800,
-      "name": "Rescuer (Good News)",
-      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Until The Whole World Hears",
         "url": "https://open.spotify.com/album/6GH2hcSeIDNfnNTQfjTy2i"
       },
@@ -1035,18 +1019,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Lifer",
-        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+        "name": "Good News (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg"
       },
       "artists": [
         {
-          "name": "MercyMe",
-          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+          "name": "Rend Collective",
+          "url": "https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ"
         }
       ],
-      "duration_ms": 179120,
-      "name": "Best News Ever",
-      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
+      "duration_ms": 208800,
+      "name": "Rescuer (Good News)",
+      "url": "https://open.spotify.com/track/1TsBTEIa4jJD7tgD3j6C40"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1067,6 +1051,22 @@
       "duration_ms": 415079,
       "name": "Jesus We Love You - Live",
       "url": "https://open.spotify.com/track/1saXUvvFlAQaefZUFVmhCn"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Lifer",
+        "url": "https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac"
+      },
+      "artists": [
+        {
+          "name": "MercyMe",
+          "url": "https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q"
+        }
+      ],
+      "duration_ms": 179120,
+      "name": "Best News Ever",
+      "url": "https://open.spotify.com/track/17x1RzAOMVLuNnFqjdal2C"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Wake Up Sleeper - EP",
-        "url": "https://open.spotify.com/album/0MhvhlFYutt9n9NGAYPzg5"
+        "name": "Christ Be Magnified",
+        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
       },
       "artists": [
         {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 167506,
-      "name": "Wake Up Sleeper",
-      "url": "https://open.spotify.com/track/72X6vrEvMcadOLnXCBZnbv"
+      "duration_ms": 302011,
+      "name": "Christ Be Magnified",
+      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1147,18 +1147,34 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Christ Be Magnified",
-        "url": "https://open.spotify.com/album/1P4lxsRozxtjbdaOdvkbUP"
+        "name": "Wake Up Sleeper - EP",
+        "url": "https://open.spotify.com/album/0MhvhlFYutt9n9NGAYPzg5"
       },
       "artists": [
         {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
         }
       ],
-      "duration_ms": 302011,
-      "name": "Christ Be Magnified",
-      "url": "https://open.spotify.com/track/0WfYGGL9NugwFZPWKLdz4N"
+      "duration_ms": 167506,
+      "name": "Wake Up Sleeper",
+      "url": "https://open.spotify.com/track/72X6vrEvMcadOLnXCBZnbv"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Greater Things",
+        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
+      },
+      "artists": [
+        {
+          "name": "Mack Brock",
+          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
+        }
+      ],
+      "duration_ms": 307026,
+      "name": "Christ Is Risen",
+      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1211,22 +1227,6 @@
       "duration_ms": 280762,
       "name": "Lion and the Lamb",
       "url": "https://open.spotify.com/track/4eLKR4wt81H4aso4KyAkO1"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Greater Things",
-        "url": "https://open.spotify.com/album/6zCU9zG1tIfA9V1UEfSPsz"
-      },
-      "artists": [
-        {
-          "name": "Mack Brock",
-          "url": "https://open.spotify.com/artist/5yCOPpDHEQxwSJJL2LAqLj"
-        }
-      ],
-      "duration_ms": 307026,
-      "name": "Christ Is Risen",
-      "url": "https://open.spotify.com/track/1GQsaKKI0ZJJPI5Zsop20u"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Becoming Who We Are",
-        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Grace Alone",
-      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Cannons",
         "url": "https://open.spotify.com/album/6eRIt8uO4IgmXGFTN4b1rC"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 293720,
       "name": "Messiah / You're Beautiful",
       "url": "https://open.spotify.com/track/6vLOjUphbNT9Q21euUuCSZ"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Grace Alone",
+      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
+        "name": "Wearing A Blindfold And Running",
+        "url": "https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj"
+      },
+      "artists": [
+        {
+          "name": "Elyssa Smith",
+          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
+        }
+      ],
+      "duration_ms": 281177,
+      "name": "Catch Me",
+      "url": "https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
         "name": "Even So Come (Radio Version/Live)",
         "url": "https://open.spotify.com/album/2ObQurF1ra69HHuOdmfN9P"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 254373,
       "name": "Even So Come - Radio Version/Live",
       "url": "https://open.spotify.com/track/2yCf80rxfz3Dk7OCAnQvz1"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Wearing A Blindfold And Running",
-        "url": "https://open.spotify.com/album/7zripDxuWx37nhLnYDtSoj"
-      },
-      "artists": [
-        {
-          "name": "Elyssa Smith",
-          "url": "https://open.spotify.com/artist/0p7lJtfYpKXr9KClOkpRaF"
-        }
-      ],
-      "duration_ms": 281177,
-      "name": "Catch Me",
-      "url": "https://open.spotify.com/track/0Z8HTBvbz5LNLPgkKR82OE"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1771,34 +1771,6 @@
       "duration_ms": 273906,
       "name": "Is He Worthy?",
       "url": "https://open.spotify.com/track/2re4s98HNlkhVZzGSerVHb"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Freedom.",
-        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Judah Smith",
-          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
-      "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -1863,22 +1835,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Your Grace Finds Me (Live)",
-        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
-      },
-      "artists": [
-        {
-          "name": "Matt Redman",
-          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Your Grace Finds Me - Live",
-      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Hymns For The Christian Life",
         "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
       },
@@ -1895,6 +1851,50 @@
       "duration_ms": 257666,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/15sauKN8vieeKOVWWR9UG2"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Your Grace Finds Me (Live)",
+        "url": "https://open.spotify.com/album/1gYcjMGHyTQvlTlSDu8dhU"
+      },
+      "artists": [
+        {
+          "name": "Matt Redman",
+          "url": "https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ"
+        }
+      ],
+      "duration_ms": 340826,
+      "name": "Your Grace Finds Me - Live",
+      "url": "https://open.spotify.com/track/1ExpEXUOW2KzpfV0v8iWUp"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Freedom.",
+        "url": "https://open.spotify.com/album/1VDEosYeESOUFnySf8mxDJ"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Judah Smith",
+          "url": "https://open.spotify.com/artist/2Cxb2kuXKmtE7g8noyL5yJ"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Where You Go I Follow (feat. Pink Sweat$, Chandler Moore & Judah Smith)",
+      "url": "https://open.spotify.com/track/4DrBQoFqYm3WTNyJEAkbU9"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2031,26 +2031,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Fear No More EP",
-        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
-      },
-      "artists": [
-        {
-          "name": "Building 429",
-          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
-        },
-        {
-          "name": "brook(e)",
-          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
-        }
-      ],
-      "duration_ms": 233216,
-      "name": "Blessing I Can\u2019t See",
-      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "The Loft Sessions",
         "url": "https://open.spotify.com/album/4gpwBS3FpUuSPfrV8D9Bqr"
       },
@@ -2067,6 +2047,26 @@
       "duration_ms": 241773,
       "name": "One Thing Remains",
       "url": "https://open.spotify.com/track/1pVosmqPBSi5QHiQZFcsBy"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Fear No More EP",
+        "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
+      },
+      "artists": [
+        {
+          "name": "Building 429",
+          "url": "https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY"
+        },
+        {
+          "name": "brook(e)",
+          "url": "https://open.spotify.com/artist/1VEX0MeLsiGvEq2OYP9hri"
+        }
+      ],
+      "duration_ms": 233216,
+      "name": "Blessing I Can\u2019t See",
+      "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2231,22 +2231,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Something Different (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
-      },
-      "artists": [
-        {
-          "name": "Sidewalk Prophets",
-          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
-        }
-      ],
-      "duration_ms": 228040,
-      "name": "To Live Is Christ",
-      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "Simple Gospel (Live)",
         "url": "https://open.spotify.com/album/3gQerhWK0nFDxmqRZww8Qp"
       },
@@ -2259,6 +2243,22 @@
       "duration_ms": 320400,
       "name": "Head to the Heart (Live)",
       "url": "https://open.spotify.com/track/53LcankShhZrR40AedT26x"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Something Different (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4S4lInmCZneeMgd2wUJAwr"
+      },
+      "artists": [
+        {
+          "name": "Sidewalk Prophets",
+          "url": "https://open.spotify.com/artist/2SMYoM2Kbcj6rI6U3FRc4U"
+        }
+      ],
+      "duration_ms": 228040,
+      "name": "To Live Is Christ",
+      "url": "https://open.spotify.com/track/2RQvdhnvPxxLBHkCPd1dnw"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2311,26 +2311,6 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Love Has A Name (Studio Version)",
-        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
-      },
-      "artists": [
-        {
-          "name": "Jesus Culture",
-          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
-        },
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 263878,
-      "name": "Love Has A Name - Studio Version",
-      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
         "name": "From The Inside Out",
         "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
@@ -2347,6 +2327,42 @@
       "duration_ms": 256970,
       "name": "Lead Me To The Cross",
       "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "The Life Project",
+        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
+      },
+      "artists": [
+        {
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+        }
+      ],
+      "duration_ms": 446666,
+      "name": "You're Bigger",
+      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Love Has A Name (Studio Version)",
+        "url": "https://open.spotify.com/album/0b527EhU07LSel3Dwc9oMQ"
+      },
+      "artists": [
+        {
+          "name": "Jesus Culture",
+          "url": "https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8"
+        },
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 263878,
+      "name": "Love Has A Name - Studio Version",
+      "url": "https://open.spotify.com/track/2R73ci2mlkyLfpOwP87bSV"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2371,22 +2387,6 @@
       "duration_ms": 253706,
       "name": "I Surrender",
       "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "The Life Project",
-        "url": "https://open.spotify.com/album/5Sj4aY2HhAyAlzFXL6FUyY"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 446666,
-      "name": "You're Bigger",
-      "url": "https://open.spotify.com/track/5PiY1xNzD1YRtmZe3KRdln"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2419,26 +2419,6 @@
       "duration_ms": 216226,
       "name": "Because He Lives",
       "url": "https://open.spotify.com/track/1OqKHs0OGzlOib5BtuUT7L"
-    },
-    {
-      "added_at": "2022-04-17 05:51:08",
-      "album": {
-        "name": "Getseman\u00ed",
-        "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
-      },
-      "artists": [
-        {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 248845,
-      "name": "Getseman\u00ed",
-      "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2479,18 +2459,22 @@
     {
       "added_at": "2022-04-17 05:51:08",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+        "name": "Getseman\u00ed",
+        "url": "https://open.spotify.com/album/7ApWn8AtBatI4pU6tQrJ4Q"
       },
       "artists": [
         {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
+      "duration_ms": 248845,
+      "name": "Getseman\u00ed",
+      "url": "https://open.spotify.com/track/3uXq732CuFiCGPu5U2SY9N"
     },
     {
       "added_at": "2022-04-17 05:51:08",
@@ -2523,6 +2507,22 @@
       "duration_ms": 251546,
       "name": "Lamb of God",
       "url": "https://open.spotify.com/track/065JpMm3wBounTRtaoqVyS"
+    },
+    {
+      "added_at": "2022-04-17 05:51:08",
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
     },
     {
       "added_at": "2022-04-17 05:51:08",

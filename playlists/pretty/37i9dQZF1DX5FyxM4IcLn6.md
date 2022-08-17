@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 
 > The official playlist for the 64rd GRAMMY Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,475 likes - 81 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,473 likes - 81 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 32 | [Be Sweet](https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 3:15 |
 | 33 | [FREEDOM](https://open.spotify.com/track/2QOB5UiRKggr2j9uMD3GYK) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:58 |
 | 34 | [I Still Have Faith In You](https://open.spotify.com/track/3ddxe0WYUpNPtSnHgQOad5) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 5:10 |
-| 35 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 |
-| 36 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 |
+| 35 | [Sam](https://open.spotify.com/track/1kKDVYavcoEH5N6R6ezM6T) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [The Ballad of Dood & Juanita](https://open.spotify.com/album/5CigVuEyiAYaNYx2M2w4hh) | 1:12 |
+| 36 | [Pick Up Your Feelings](https://open.spotify.com/track/2I7CJZLo2nDqGuzZJA1XlZ) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Heaux Tales](https://open.spotify.com/album/1btIckWsQDd7fAx0BBZF0n) | 3:49 |
 | 37 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |
 | 38 | [Can I Believe You](https://open.spotify.com/track/3pYB28IRzhtR5cHXLINchp) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Shore](https://open.spotify.com/album/0lmjCPEcec2k6L7ysNIcd3) | 4:04 |
 | 39 | [Trigger](https://open.spotify.com/track/0Z26mbSHJ1dkUu7g9DDgif) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Trigger](https://open.spotify.com/album/3Fcqa5sb0vVYEEDHzkiOA1) | 2:51 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FyxM4IcLn6.md) - [plain]
 | 80 | [We Swing \(The Cypher\)](https://open.spotify.com/track/4xtd1UED9e4b0bbikgWH5P) | [The Baylor Project](https://open.spotify.com/artist/3sNeruDf1WltSjJ7Jtmucp), [Jazzmeia Horn](https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM), [Dianne Reeves](https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh) | [Generations](https://open.spotify.com/album/16ap4qGPg3SNSxp2c6tthY) | 5:38 |
 | 81 | [Time Traveler](https://open.spotify.com/track/4Uf5U3hYFdeAebC2Bm8Wvj) | [Nnenna Freelon](https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS) | [Time Traveler](https://open.spotify.com/album/6KEx3AAG8tKgtSyban6cgh) | 4:29 |
 
-Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMGVjNWQ5OTkzZWI0YWQ3ZmU2YjhhOWEwNWEyYTJmNDlm`
+Snapshot ID: `MTY0ODU5Mzc3MSwwMDAwMDAwMDIzOWI2MjE3ZDliYmY2NGM0ODAzMDkxNjU3ZDI0ZDhi`

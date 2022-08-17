@@ -1,12 +1,12 @@
 {
   "description": "Slow jams for the passionate.",
-  "num_followers": 1601390,
+  "num_followers": 1602321,
   "original_name": "Bedroom Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDc4ZTc5MjU0OTQ4YTlmMjc3MjU5MGVhYzc4YjFiMmNi",
+  "snapshot_id": "MTY1Nzg5MzQ1OCwwMDAwMDAwMDQwMDBmM2M5ZDJkYjM0NjgyOTczMGI4M2YzZDBjYmJj",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -763,26 +763,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Heat Of The Moment",
-        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
-      },
-      "artists": [
-        {
-          "name": "Tink",
-          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 154634,
-      "name": "Rebel (feat. Jeremih)",
-      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "You Want My Love",
         "url": "https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 194373,
       "name": "You Want My Love",
       "url": "https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Heat Of The Moment",
+        "url": "https://open.spotify.com/album/3EjN3Lt1gd4M0KrYKz7GrD"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 154634,
+      "name": "Rebel (feat. Jeremih)",
+      "url": "https://open.spotify.com/track/1yCaGeVkeiHwM0EnErYDrR"
     },
     {
       "added_at": "2022-07-15 04:00:00",

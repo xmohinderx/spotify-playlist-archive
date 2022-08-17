@@ -1,12 +1,12 @@
 {
   "description": "The romantic side of classic rock and metal",
-  "num_followers": 460256,
+  "num_followers": 460642,
   "original_name": "Rock Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzAxNDkwNiwwMDAwMDAwMDE4ODJkNjAwOTNmOWNhZWY1ZTMyZGVjOGFhMjY1YjFj",
+  "snapshot_id": "MTY1NzAxNDkwNiwwMDAwMDAwMDc3NWNmNzNkYTk4OTMyNWFjMzY5ZjZlYzY3NmM2N2Zl",
   "tracks": [
     {
       "added_at": "2022-07-05 09:55:06",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 536066,
-      "name": "November Rain",
-      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "Aerosmith",
         "url": "https://open.spotify.com/album/19lEZSnCCbVEkKchoPQWDZ"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 266960,
       "name": "Dream On",
       "url": "https://open.spotify.com/track/5MxNLUsfh7uzROypsoO5qe"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 536066,
+      "name": "November Rain",
+      "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
-      },
-      "artists": [
-        {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
-        }
-      ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 295515,
       "name": "With Or Without You - Remastered",
       "url": "https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -203,22 +203,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Appetite For Destruction",
-        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
-      },
-      "artists": [
-        {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
-        }
-      ],
-      "duration_ms": 356066,
-      "name": "Sweet Child O' Mine",
-      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "The Very Best of Bonnie Tyler",
         "url": "https://open.spotify.com/album/0VJI3wpebzRyVHq0eZQidb"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 267360,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/7wuJGgpTNzbUyn26IOY6rj"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Appetite For Destruction",
+        "url": "https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 356066,
+      "name": "Sweet Child O' Mine",
+      "url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "Purple (2019 Remaster)",
         "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 194853,
       "name": "Interstate Love Song - 2019 Remaster",
       "url": "https://open.spotify.com/track/6qLEOZvf5gI7kWE63JE7p3"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
+      },
+      "artists": [
+        {
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
+        }
+      ],
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Not Fragile",
-        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
-      },
-      "artists": [
-        {
-          "name": "Bachman-Turner Overdrive",
-          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
-        }
-      ],
-      "duration_ms": 234866,
-      "name": "You Ain't Seen Nothing Yet",
-      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "Chicago 17 (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/1ICKrl6sDjJD1YdR9VDfPR"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 229240,
       "name": "You're the Inspiration - 2006 Remaster",
       "url": "https://open.spotify.com/track/36lkJSDyMEZoWTqtRj8Q8q"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Not Fragile",
+        "url": "https://open.spotify.com/album/3TtCMt4XLddj9PQeVBfsK1"
+      },
+      "artists": [
+        {
+          "name": "Bachman-Turner Overdrive",
+          "url": "https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5"
+        }
+      ],
+      "duration_ms": 234866,
+      "name": "You Ain't Seen Nothing Yet",
+      "url": "https://open.spotify.com/track/0HOrDVS349XFcpCYsO2hAP"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -635,22 +635,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You - Remastered 2004",
-      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "Goats Head Soup (Remastered 2009)",
         "url": "https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 272000,
       "name": "Angie",
       "url": "https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - Remastered 2004",
+      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "The Original Soundtrack",
-        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
-      },
-      "artists": [
-        {
-          "name": "10cc",
-          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
-        }
-      ],
-      "duration_ms": 366640,
-      "name": "I'm Not In Love",
-      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
-    },
-    {
-      "added_at": "2022-07-05 09:55:06",
-      "album": {
         "name": "4 (Expanded)",
         "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 292066,
       "name": "Waiting for a Girl like You",
       "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+    },
+    {
+      "added_at": "2022-07-05 09:55:06",
+      "album": {
+        "name": "The Original Soundtrack",
+        "url": "https://open.spotify.com/album/1CMgmJjMFskwwmK8h8j1Oj"
+      },
+      "artists": [
+        {
+          "name": "10cc",
+          "url": "https://open.spotify.com/artist/6i6WlGzQtXtz7GcC5H5st5"
+        }
+      ],
+      "duration_ms": 366640,
+      "name": "I'm Not In Love",
+      "url": "https://open.spotify.com/track/5HQEmiV2lKnSO6qa2fsR7x"
     },
     {
       "added_at": "2022-07-05 09:55:06",
@@ -795,18 +795,18 @@
     {
       "added_at": "2022-07-05 09:55:06",
       "album": {
-        "name": "Ten Summoner's Tales",
-        "url": "https://open.spotify.com/album/5kV0KBXfELibs6qQJLmOtg"
+        "name": "Appetite For Destruction (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3edmYBHOTxfz8NxJE1QmTP"
       },
       "artists": [
         {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
         }
       ],
-      "duration_ms": 222120,
-      "name": "Fields Of Gold",
-      "url": "https://open.spotify.com/track/0I1DJdLt9BKOb7GWmWxCjo"
+      "duration_ms": 354880,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/1OEoNpiyqBghuEUaT6Je6U"
     }
   ],
   "unique_name": "Rock Love Songs",

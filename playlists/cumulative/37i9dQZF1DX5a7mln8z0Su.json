@@ -1175,7 +1175,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 198807,
       "name": "How About You?",
       "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
@@ -2266,6 +2266,28 @@
     },
     {
       "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
+    },
+    {
+      "album": {
         "name": "Running to You",
         "url": "https://open.spotify.com/album/2DJwEaPL3UvpqwyLQSnuN2"
       },
@@ -2357,6 +2379,28 @@
       "duration_ms": 184504,
       "name": "Saying Goodbye",
       "url": "https://open.spotify.com/track/2HAXwK6Zgh8ZWRnGidKd2m"
+    },
+    {
+      "album": {
+        "name": "SESAME",
+        "url": "https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        },
+        {
+          "name": "Bell The Blu",
+          "url": "https://open.spotify.com/artist/6pOhX5ApPPaAPPkBjsDMcp"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204500,
+      "name": "SESAME",
+      "url": "https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2"
     },
     {
       "album": {
@@ -2769,7 +2813,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 274582,
       "name": "TENNIS",
       "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"

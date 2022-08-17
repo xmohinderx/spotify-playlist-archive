@@ -4,7 +4,7 @@
 
 > Del rancho a la ciudad, las historias que pocos se atreven a contar\. Fuerza Regida en portada.
 
-124 songs - 6 hr 20 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
+125 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/7MKeGtBxLUek4q2wQW5uWo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Andamos Recio](https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Andamos Recio](https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS) | 2:32 | 2022-02-21 | 2022-03-01 |
 | [Ando Bien Al Tiro](https://open.spotify.com/track/4CxU88d7ZT6op81SOYlrOg) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Billetes Verdes](https://open.spotify.com/album/60y3vvQKR0NA8RVu9nW8h5) | 2:27 | 2022-02-21 |  |
 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 | 2022-06-17 |  |
-| [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 | 2022-04-21 |  |
+| [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 | 2022-04-21 | 2022-08-17 |
 | [Belico](https://open.spotify.com/track/5rCdxvU6IlAE9DrkvXxHuY) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh) | [Corridones Belicones Duetos](https://open.spotify.com/album/25ONLIs4F5slSeYvIG1ZEz) | 3:15 | 2022-04-08 | 2022-06-18 |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2022-06-17 |  |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2022-08-05 |  |
@@ -120,6 +120,7 @@
 | [Si Me Ven](https://open.spotify.com/track/5SkLd0qWWqYtv3Ry0dIyIh) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Si Me Ven](https://open.spotify.com/album/5Z16tpUTnDDwejC6Dvad5r) | 2:54 | 2022-02-21 |  |
 | [Si Respetan, Respeto](https://open.spotify.com/track/0aaodlJgJ1NriUhyt1K6Sn) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Si Respetan, Respeto](https://open.spotify.com/album/4Ug2MkxrrHtdgx6Qg59KUi) | 3:36 | 2022-03-29 | 2022-06-11 |
 | [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 | 2022-02-21 | 2022-06-21 |
+| [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-08-16 |  |
 | [Sigo Chambeando](https://open.spotify.com/track/4PR0r2us3a64lTew6TVlF2) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Jimmy Humilde Presenta Lo Mejor De Las Calles Vol\. 4](https://open.spotify.com/album/22P1ttI3jFPolCl6HCfhLX) | 3:20 | 2022-02-21 | 2022-03-08 |
 | [Soy Buen Amigo](https://open.spotify.com/track/1Z0auW1yEy6Dq9hsRdeIV3) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Soy Buen Amigo](https://open.spotify.com/album/1e35jCMYgVC4dOt1YykB6v) | 2:33 | 2022-02-21 |  |
 | [Soy El Ratón](https://open.spotify.com/track/4NQa7zNbJtY2QvnGpzM8Gz) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [Soy El Ratón](https://open.spotify.com/album/4NjpIS3YKvFw4LxQ40Ysoz) | 3:42 | 2022-02-21 |  |

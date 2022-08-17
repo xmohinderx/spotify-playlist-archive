@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Nardo Wick
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,114,879 likes - 100 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,115,354 likes - 100 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 34 | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/track/6QCWPC6OFUxuoaMtRe573z) | [Lil Zay Osama](https://open.spotify.com/artist/7rkcFChEJ9tCLcVevtu0Nt), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Fuck My Cousin, Pt\. II \(feat\. Lil Durk\)](https://open.spotify.com/album/341UBgXu04jXD1oESdpDWa) | 3:14 |
 | 35 | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/track/7hHKWHOXjtdlebhX7o4Gx6) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Lurkin \(feat\. EST Gee\)](https://open.spotify.com/album/5dYobmvNRqCCV9Mw90FAFM) | 2:19 |
 | 36 | [Gangsta Art \(Yo Gotti, Moneybagg Yo feat\. 42 Dugg, EST Gee, Mozzy, Lehla Samia, Blac Youngsta\)](https://open.spotify.com/track/63u4taM8CTklMQhrcV3via) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [Lehla Samia](https://open.spotify.com/artist/2zccufvTKHx7wnPhVxxweb), [Blac Youngsta](https://open.spotify.com/artist/41klVmDluQZmGGqoidNfbe) | [Gangsta Art](https://open.spotify.com/album/0mX7631qrFwwcnuRzuPpWU) | 4:58 |
-| 37 | [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 |
+| 37 | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc) | 2:03 |
 | 38 | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/track/7LkIkjlWgXYIHgWW0DHsSg) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH) | [We Droppin' \(feat\. PGF Nuk\)](https://open.spotify.com/album/02a5YA3rWMRQz1ZqWZ19BA) | 2:38 |
 | 39 | [Very Special](https://open.spotify.com/track/63udrqw7YGYVqTNdBqgyKy) | [NoCap](https://open.spotify.com/artist/4PNHuWkk4ee6R8WEhFVPf5) | [Mr\. Crawford](https://open.spotify.com/album/5WU6kn9F7wbvFKXhUKZke7) | 2:17 |
 | 40 | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/track/0QNNd0qMCDbraS1nQPg3aA) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [HOTEL LOBBY \(Unc & Phew\)](https://open.spotify.com/album/0zWZX428gMb9vSBUMRdDiy) | 2:22 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 99 | [Goin Up](https://open.spotify.com/track/1wNdGz7BlB9kH5lDc1eLLb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Goin Up](https://open.spotify.com/album/0UGVVwimB3lZDggXiOa932) | 2:20 |
 | 100 | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/track/5kJfSYnaiX9b1wmihtUmXd) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Borderline \(feat\. EST Gee\)](https://open.spotify.com/album/2c4JlbWPGumE5MX3soWKzD) | 2:51 |
 
-Snapshot ID: `MTY2MDU4OTk3MiwwMDAwMDAwMGUxOWJkOWViZTc3MmUxMDAwNTFjMGMxZTg5MWFjYTJk`
+Snapshot ID: `MTY2MDU4OTk3MiwwMDAwMDAwMGU2MjY2M2IwYzRkODAwZTA2YmQ3MjAyMDU2YWEwYTA1`

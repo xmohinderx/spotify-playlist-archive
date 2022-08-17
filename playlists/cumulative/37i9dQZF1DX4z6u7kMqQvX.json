@@ -48,6 +48,28 @@
     },
     {
       "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/6QvWbaJBDqJ6BCQ21BOLmM"
+      },
+      "artists": [
+        {
+          "name": "EV\u00cdC",
+          "url": "https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184736,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/6QBOVZFPqIJucg0YIWesJ0"
+    },
+    {
+      "album": {
         "name": "31 de Febrero",
         "url": "https://open.spotify.com/album/5s7Q0ePqblDnTp1KyOD2Wp"
       },
@@ -3719,7 +3741,7 @@
       ],
       "date_added": "2022-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 204856,
       "name": "Lloro",
       "url": "https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj"

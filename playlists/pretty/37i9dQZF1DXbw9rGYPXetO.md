@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 
 > A selection of <a href="https://en.wikipedia.org/wiki/Hindustani\_classical\_music">North Indian Classical</a> instrumental music to help you focus and bring you joy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,227 likes - 37 songs - 12 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,250 likes - 37 songs - 12 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbw9rGYPXetO.md) - [plain]
 | 14 | [Rag Bhimpalasi: Alap, Jod, Jhala](https://open.spotify.com/track/6pABGyScqkMTvMYJGNj8TH) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon), [Fazal Qureshi](https://open.spotify.com/artist/4pM7882XwZYuY67tfYztMS) | [Rag Bhimpalasi](https://open.spotify.com/album/2jfrFg8TijCLBRF2X7zziH) | 41:04 |
 | 15 | [Rag Manj Khammaj](https://open.spotify.com/track/6wkuzkjsWM1Gk9zmRXiS7g) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:27 |
 | 16 | [Rajasthani Folk Melody in Raga Mand](https://open.spotify.com/track/3CNetfque43lmTkmZEVxLq) | [Santosh Nahar](https://open.spotify.com/artist/1NzfcWv0SxEZMg4Bm8XIvM) | [The Golden Bow](https://open.spotify.com/album/227981vkAdawvOqUpLJgIi) | 11:10 |
-| 17 | [Bhimpalasri alap \(solo\)](https://open.spotify.com/track/4taHZBFG2m7D9MuSL8eLvU) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Salar Nader](https://open.spotify.com/artist/4N2l0MiamQ0lJ7vLcPSdc8) | [Shades of Sarode \(with Salar Nader on tabla\)](https://open.spotify.com/album/2vLucVPJLppDLgSDgXEGuT) | 4:14 |
+| 17 | [Bhimpalasri alap \(solo\)](https://open.spotify.com/track/4taHZBFG2m7D9MuSL8eLvU) | [Alam Khan](https://open.spotify.com/artist/389sPNbjs6Hp0XSCP229JG), [Salar Nader](https://open.spotify.com/artist/4N2l0MiamQ0lJ7vLcPSdc8) | [Shades of Sarode](https://open.spotify.com/album/2vLucVPJLppDLgSDgXEGuT) | 4:14 |
 | 18 | [Raga Des Alap](https://open.spotify.com/track/4a5DylC4oxQbPV11a7kW1X) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Introspection](https://open.spotify.com/album/2pDuvSYsImOFjzdlMf7XpQ) | 3:55 |
 | 19 | [Rag Misra Mand](https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw) | [Ustad Ali Akbar Khan / Pandit Nikhil Banerjee](https://open.spotify.com/artist/1jelB3sYBf9MGpcd0GUlns), [Mahapurush Misra](https://open.spotify.com/artist/29kLzsMucI6Ao40Yk7jT5B) | [AMMP Signature Series Volume 4 \- Rag Manj Khammaj / Rag Misra Mand](https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2) | 21:30 |
 | 20 | [The Union of Sun and Moon](https://open.spotify.com/track/5TeU9ZMgLcoSl1evO7TV5b) | [Chinmaya Dunster](https://open.spotify.com/artist/7IZWH07w9P4HXc2Qo9xwpY) | [Ragas Relax](https://open.spotify.com/album/2PsPxcW53XCjlO4zaAhELj) | 6:59 |

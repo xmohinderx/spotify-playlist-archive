@@ -996,6 +996,24 @@
     },
     {
       "album": {
+        "name": "FR3N3S1",
+        "url": "https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lozano",
+          "url": "https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202478,
+      "name": "FR3N3S1",
+      "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
+    },
+    {
+      "album": {
         "name": "French Samba",
         "url": "https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt"
       },
@@ -2525,7 +2543,7 @@
       ],
       "date_added": "2021-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 262400,
       "name": "Sal de Maras",
       "url": "https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb"

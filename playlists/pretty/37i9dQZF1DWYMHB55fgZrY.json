@@ -1,12 +1,12 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Zo\u00e9 en portada.",
-  "num_followers": 446709,
+  "num_followers": 446845,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMGU2MGZmMDA3OWQ4N2VmNzNlODRhNjlhNmIwODNkY2E2",
+  "snapshot_id": "MTY1OTM4MDI1NSwwMDAwMDAwMGQ2M2MzMDY4YzJlNTc4M2U0NzJhMDJmM2M0ZGMwNGM5",
   "tracks": [
     {
       "added_at": "2022-01-28 17:39:37",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Monitor",
-        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
-      },
-      "artists": [
-        {
-          "name": "Volov\u00e1n",
-          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
-        }
-      ],
-      "duration_ms": 237760,
-      "name": "Monitor",
-      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Dalt\u00f3nico",
         "url": "https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 224085,
       "name": "Visita",
       "url": "https://open.spotify.com/track/1v15LSVQiEsGm4FK8SH7rI"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Monitor",
+        "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
+      },
+      "artists": [
+        {
+          "name": "Volov\u00e1n",
+          "url": "https://open.spotify.com/artist/0htSEnHjTcKdNapBwIsEaA"
+        }
+      ],
+      "duration_ms": 237760,
+      "name": "Monitor",
+      "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -861,22 +861,6 @@
       "url": "https://open.spotify.com/track/4OnOwfpbZCwHnFNDqgjOuS"
     },
     {
-      "added_at": "2022-06-30 21:30:11",
-      "album": {
-        "name": "Caminar Sola",
-        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "Caminar Sola",
-      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
-    },
-    {
       "added_at": "2022-01-28 17:39:37",
       "album": {
         "name": "Tasty + B Sides",
@@ -907,6 +891,22 @@
       "duration_ms": 223440,
       "name": "C\u00e1mara De Faltas",
       "url": "https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk"
+    },
+    {
+      "added_at": "2022-06-30 21:30:11",
+      "album": {
+        "name": "Caminar Sola",
+        "url": "https://open.spotify.com/album/5MJYQdDfWT6r77caberwu2"
+      },
+      "artists": [
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "Caminar Sola",
+      "url": "https://open.spotify.com/track/1ZGTVVXlL3FkaTGyNQey2P"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1107,22 +1107,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "El \u00daltimo Ska",
-        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+        "name": "Solstis - De Le\u00f3n Larregui",
+        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
       "artists": [
         {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        },
-        {
-          "name": "Dub Inc",
-          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+          "name": "Le\u00f3n Larregui",
+          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
         }
       ],
-      "duration_ms": 274653,
-      "name": "El \u00daltimo Ska",
-      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+      "duration_ms": 224826,
+      "name": "Brillas",
+      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1143,6 +1139,26 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "El \u00daltimo Ska",
+        "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        },
+        {
+          "name": "Dub Inc",
+          "url": "https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U"
+        }
+      ],
+      "duration_ms": 274653,
+      "name": "El \u00daltimo Ska",
+      "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Deshabitado",
         "url": "https://open.spotify.com/album/36TB8UO22yzNsVgGxaQxwh"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 223920,
       "name": "Olvidate De M\u00ed",
       "url": "https://open.spotify.com/track/4mM8PZRIR1tLNrIMTFuIjo"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Solstis - De Le\u00f3n Larregui",
-        "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
-      },
-      "artists": [
-        {
-          "name": "Le\u00f3n Larregui",
-          "url": "https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Brillas",
-      "url": "https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Maquillaje",
+        "url": "https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu"
+      },
+      "artists": [
+        {
+          "name": "Zurdok",
+          "url": "https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok"
+        }
+      ],
+      "duration_ms": 240360,
+      "name": "Est\u00e1tico",
+      "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Cronicas De Un Laberinto",
         "url": "https://open.spotify.com/album/5ghbMJrms74bqNzZ8ziEZy"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 244292,
       "name": "Pervert Pop Song",
       "url": "https://open.spotify.com/track/29KgIt2KG31vRKLQBOiA1o"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Maquillaje",
-        "url": "https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu"
-      },
-      "artists": [
-        {
-          "name": "Zurdok",
-          "url": "https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok"
-        }
-      ],
-      "duration_ms": 240360,
-      "name": "Est\u00e1tico",
-      "url": "https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Arunima",
-        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
-      },
-      "artists": [
-        {
-          "name": "Hello Seahorse!",
-          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
-        }
-      ],
-      "duration_ms": 265740,
-      "name": "La Flotadera",
-      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
         "name": "Elevator",
         "url": "https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9"
       },
@@ -1399,18 +1383,18 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+        "name": "Arunima",
+        "url": "https://open.spotify.com/album/5niZ3fPZnNq0HELNUqmvqT"
       },
       "artists": [
         {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+          "name": "Hello Seahorse!",
+          "url": "https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Cheve",
-      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
+      "duration_ms": 265740,
+      "name": "La Flotadera",
+      "url": "https://open.spotify.com/track/0ZEsdBqaPVsfdmdn6SR0WJ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1427,6 +1411,22 @@
       "duration_ms": 230026,
       "name": "Payaso",
       "url": "https://open.spotify.com/track/7hzeu43gNUoHwh5CQrl3Jk"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 224200,
+      "name": "Cheve",
+      "url": "https://open.spotify.com/track/5ZFF7Z06Lpmodfi70nj2vE"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Rolotas Veraniegas Vol. 4",
+        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
+      },
+      "artists": [
+        {
+          "name": "Kenny y los El\u00e9ctricos",
+          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
+        }
+      ],
+      "duration_ms": 227066,
+      "name": "No Huyas De Mi",
+      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Sufro Sufro Sufro",
         "url": "https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 240306,
       "name": "Cerquita de Dios",
       "url": "https://open.spotify.com/track/3TmdXxx65CnANS9DMrS1aK"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Aqui",
-        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 198560,
-      "name": "De Mis Pasos",
-      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1511,18 +1511,34 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
-        "name": "Here We Kum (MTV Unplugged)",
-        "url": "https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn"
+        "name": "Aqui",
+        "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
       "artists": [
         {
-          "name": "Molotov",
-          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 283333,
-      "name": "Here We Kum - MTV Unplugged",
-      "url": "https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz"
+      "duration_ms": 198560,
+      "name": "De Mis Pasos",
+      "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
+        "name": "Amores Perros (Soundtrack)",
+        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 253866,
+      "name": "Si Senor",
+      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1543,6 +1559,22 @@
     {
       "added_at": "2022-01-28 17:39:37",
       "album": {
+        "name": "Here We Kum (MTV Unplugged)",
+        "url": "https://open.spotify.com/album/3Q9jipuRZvFyyS4sZSoaMn"
+      },
+      "artists": [
+        {
+          "name": "Molotov",
+          "url": "https://open.spotify.com/artist/27Owkm4TGlMqb0BqaEt3PW"
+        }
+      ],
+      "duration_ms": 283333,
+      "name": "Here We Kum - MTV Unplugged",
+      "url": "https://open.spotify.com/track/4W2MGgZyieERJLtTrzW5cz"
+    },
+    {
+      "added_at": "2022-01-28 17:39:37",
+      "album": {
         "name": "Aquamosh",
         "url": "https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk"
       },
@@ -1555,22 +1587,6 @@
       "duration_ms": 219000,
       "name": "Afroman",
       "url": "https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Amores Perros (Soundtrack)",
-        "url": "https://open.spotify.com/album/4ERQo3lv0nHNBZtJjW0doY"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 253866,
-      "name": "Si Senor",
-      "url": "https://open.spotify.com/track/2gE3iFfPwzGGdsgEhbKWJS"
     },
     {
       "added_at": "2022-01-28 17:39:37",
@@ -1603,22 +1619,6 @@
       "duration_ms": 175080,
       "name": "Maldito",
       "url": "https://open.spotify.com/track/4AuYIbNIESLMG3h5gTLXho"
-    },
-    {
-      "added_at": "2022-01-28 17:39:37",
-      "album": {
-        "name": "Rolotas Veraniegas Vol. 4",
-        "url": "https://open.spotify.com/album/7JVUm417zIn3oECxjBQQYf"
-      },
-      "artists": [
-        {
-          "name": "Kenny y los El\u00e9ctricos",
-          "url": "https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N"
-        }
-      ],
-      "duration_ms": 227066,
-      "name": "No Huyas De Mi",
-      "url": "https://open.spotify.com/track/5rhmMoyVbdnFaDlWsB2Qtx"
     }
   ],
   "unique_name": "Iconos del Rock Mexicano",

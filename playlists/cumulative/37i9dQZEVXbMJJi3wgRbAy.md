@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Uruguay.
 
-360 songs - 19 hr 54 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
+361 songs - 19 hr 57 min - [published](https://open.spotify.com/playlist/6ou4JZ69umClCndeDJxRfI)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,6 +294,7 @@
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2022-08-13 |  |
 | [Sigue](https://open.spotify.com/track/0bBd6K5X4W7t9GyXcaVOA7) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Sigue/Forever My Love](https://open.spotify.com/album/5umofLk634QVTKYtt2Deoy) | 2:39 | 2022-03-26 | 2022-04-04 |
 | [Sigue Bailando](https://open.spotify.com/track/6YPO4d3RbnKQZix9QcG7HT) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Sigue Bailando](https://open.spotify.com/album/7qiIuRaqtRk5PtUdzL96ZS) | 2:39 | 2021-05-16 | 2021-06-06 |
+| [Sin Señal](https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Sin Señal](https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI) | 3:05 | 2022-08-16 |  |
 | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/track/3ke6it1vTmHtz2ApcIVUz5) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj) | [Snow Tha Product: Bzrp Music Sessions, Vol\. 39](https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an) | 2:57 | 2021-05-03 | 2021-07-25 |
 | [Sobrio](https://open.spotify.com/track/4HzqWEdAbzcVFDv0pvxV4w) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Sobrio](https://open.spotify.com/album/0R1Ygba9KBj95maQnUvZm5) | 3:21 | 2021-07-29 | 2022-03-27 |
 | [SOLO POR VOS](https://open.spotify.com/track/5Ejw3lC6Srj8VK4fHgTZAi) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [SOLO POR VOS](https://open.spotify.com/album/3653dbWREgZU9P2qjfrtmE) | 3:19 | 2021-07-18 | 2021-08-15 |
@@ -340,7 +341,7 @@
 | [ULTRA SOLO](https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb) | [ULTRA SOLO](https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd) | 3:47 | 2022-05-06 | 2022-07-24 |
 | [ULTRA SOLO REMIX](https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Pailita](https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [ULTRA SOLO REMIX](https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm) | 5:22 | 2022-06-28 |  |
 | [Un Coco](https://open.spotify.com/track/6VrQTLzzuyGIYjUDe4kAZk) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:16 | 2022-05-07 | 2022-05-08 |
-| [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 |  |
+| [UN PASO](https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [UN PASO](https://open.spotify.com/album/490OfeapGjQDnyiLjDAJcL) | 3:12 | 2022-07-29 | 2022-08-17 |
 | [Un Ratito](https://open.spotify.com/track/5CzixCxDkRXX9mScCmah8O) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:56 | 2022-05-07 | 2022-06-04 |
 | [Un Verano Sin Ti](https://open.spotify.com/track/18HOjcvTVV7W8YzBuOsAPS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:28 | 2022-05-07 | 2022-05-13 |
 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 | 2021-08-27 | 2021-08-28 |

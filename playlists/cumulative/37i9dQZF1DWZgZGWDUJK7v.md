@@ -2,7 +2,7 @@
 
 ### [K\-Webtoon OSTs \(웹툰 OSTs\)](https://open.spotify.com/playlist/37i9dQZF1DWZgZGWDUJK7v)
 
-> Meet the popular animation & webtoon OSTs now! \(Cover: Discovery of Love\(연애의 발견\)\) 지금 인기 있는 애니메이션 & 웹툰 OST들을 만나보세요!
+> Meet the popular webtoon OSTs now! \(Cover: After School Lessons for Unripe Apples\(세기말 풋사과 보습학원\) 지금 인기 있는 웹툰 OST들을 만나보세요!
 
 82 songs - 5 hr 4 min - [published](https://open.spotify.com/playlist/377FgqWa97oJx7N6DPIrtB)
 

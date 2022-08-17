@@ -4,7 +4,7 @@
 
 > 이별, 슬픔, 공허함\. 나의 우울에 공감해보세요
 
-194 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
+195 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/1BjnPhemiZQgRsPsVy0WZP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Dream](https://open.spotify.com/track/1xlFjLN4YvtwiFfsdsFJr1) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Dream](https://open.spotify.com/album/4KncPcPqHtRgmZjNtFB9Xy) | 6:14 | 2022-06-18 | 2022-07-24 |
 | [Dreaming About You](https://open.spotify.com/track/4GpACqU62rGBnFEQQyDZw5) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Replay \(Original Television Soundtrack\) Pt\. 6](https://open.spotify.com/album/55EdkCQtpj8BRYdoElsdn2) | 3:41 | 2022-05-11 |  |
 | [Drown](https://open.spotify.com/track/7uVqetqCVpIrqeVRf4wyWW) | [GYE0M](https://open.spotify.com/artist/2nFAl5FcbuagY1zVglLvPc) | [Drown](https://open.spotify.com/album/1TYFO2ZPj1oQ6Ppq0k2RYG) | 3:30 | 2022-07-08 | 2022-07-18 |
-| [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 |  |
+| [Emptiness in Memory](https://open.spotify.com/track/3pOuipxjrJEwnnGhE106Rh) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Emptiness in Memory](https://open.spotify.com/album/4dYM107Vn5VXOCenlChbOG) | 4:38 | 2022-07-08 | 2022-08-17 |
 | [Emptiness in Memory](https://open.spotify.com/track/1YZLHAjxsXujbeQj6DkvgR) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Sound Doctrine](https://open.spotify.com/album/1ubAHHLocrHi2DnH3fg0gm) | 4:41 | 2022-05-11 | 2022-07-29 |
 | [empty \(With Boramiyu\)](https://open.spotify.com/track/111N35rXgqbERCu9lMpnou) | [Sweden Laundry](https://open.spotify.com/artist/4saSwzwWZffYhoS1aFgncp) | [Lyrical 1 – Afterimage](https://open.spotify.com/album/6XTJ0oUripnxcG2X0jCWKo) | 3:35 | 2022-06-20 | 2022-07-29 |
 | [Empty words](https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg) | [Huh Gak](https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys) | [Empty words](https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU) | 4:12 | 2022-05-11 | 2022-08-10 |
@@ -110,6 +110,7 @@
 | [Living in the same time](https://open.spotify.com/track/2fujIDkywop19a4IZ2zfQK) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5), [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 4th\. Come with me girl by JUNG YUP](https://open.spotify.com/album/22MpBvrkIXgaMH3eTEUBO9) | 4:10 | 2022-05-11 | 2022-07-29 |
 | [Living in the same time](https://open.spotify.com/track/1IUqkIRRxO0CQSoEr6CLW2) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [BROWN EYED SOUL Single Project 1st\. Living in the same time by Naul](https://open.spotify.com/album/7cFmhAzCqsNyfsuS4B2TlC) | 4:10 | 2022-07-08 |  |
 | [Lonely Flower](https://open.spotify.com/track/1TtiJUMGRTMLIFzaMirRKS) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Lonely Flower](https://open.spotify.com/album/7lzCUvbjySqmXmbZFAnuq0) | 3:09 | 2022-05-11 | 2022-07-29 |
+| [LONER](https://open.spotify.com/track/75LiwlmApjeNEnkGighxrn) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [If You Wish Upon Me OST Part.1](https://open.spotify.com/album/5XmjYOY19DZpCqaZ9QVG8A) | 3:39 | 2022-08-12 |  |
 | [Long long night](https://open.spotify.com/track/2CWragjSVqmJ7niTo5oxSw) | [Richard Parkers](https://open.spotify.com/artist/3sw0rm6AMRKHAoFDjuYw5C) | [Long long night](https://open.spotify.com/album/1CB5sMyLxIe9T59tRIDfEy) | 2:46 | 2022-05-11 | 2022-06-07 |
 | [Love Alone](https://open.spotify.com/track/3dDJ4DlBQ0VaRYjLZhLDTa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:41 | 2022-05-11 |  |
 | [Love Each Other](https://open.spotify.com/track/1MAWAwi7CQDZyZuIsjgIa2) | [HAEDEUN](https://open.spotify.com/artist/2cWWliWQ6Ziim9v8RKK9SI) | [Love Each Other](https://open.spotify.com/album/2lugWah96q2znqUjsoZyb3) | 4:05 | 2022-06-20 | 2022-07-29 |

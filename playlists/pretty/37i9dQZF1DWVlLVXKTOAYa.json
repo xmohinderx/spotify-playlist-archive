@@ -1,12 +1,12 @@
 {
   "description": "The most interesting tracks in the current world of pop music.",
-  "num_followers": 993429,
+  "num_followers": 993675,
   "original_name": "Pop Right Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMDBlNjhkYTNiNzBjY2Q4Y2I0YzkwYjc0ZjE2NzI4ZDM5",
+  "snapshot_id": "MTY2MDI1NTI2MCwwMDAwMDAwMDNiMGJjMzA5ZTc4NmYzODU1Yzk4OTQwY2RmZjE3ZGMy",
   "tracks": [
     {
       "added_at": "2022-08-11 22:01:00",
@@ -51,22 +51,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -79,6 +63,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -231,26 +231,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Bam Bam (feat. Ed Sheeran)",
-        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "STAY (with Justin Bieber)",
         "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 141805,
       "name": "STAY (with Justin Bieber)",
       "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Bam Bam (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "THATS WHAT I WANT",
-      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Bad Decisions (with BTS & Snoop Dogg)",
         "url": "https://open.spotify.com/album/2km2gV8HN1lk1e1GEDl7SN"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 172714,
       "name": "Bad Decisions (with BTS & Snoop Dogg)",
       "url": "https://open.spotify.com/track/0xzI1KAr0Yd9tv8jlIk3sn"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "THATS WHAT I WANT",
+      "url": "https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 165264,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 212000,
       "name": "INDUSTRY BABY (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Bones",
-        "url": "https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 165264,
-      "name": "Bones",
-      "url": "https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -543,26 +543,26 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
+        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
         },
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
+      "duration_ms": 178176,
+      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
+      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -603,26 +603,26 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-        "url": "https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok"
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         },
         {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 178176,
-      "name": "STAYING ALIVE (feat. Drake & Lil Baby)",
-      "url": "https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4"
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Thousand Miles",
-        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 164781,
-      "name": "Thousand Miles",
-      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Don't Be Shy",
         "url": "https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 140500,
       "name": "Don't Be Shy",
       "url": "https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Thousand Miles",
+        "url": "https://open.spotify.com/album/5x23D06mbAdtkU9N9JrZyf"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 164781,
+      "name": "Thousand Miles",
+      "url": "https://open.spotify.com/track/1r8ZCjfrQxoy2wVaBUbpwg"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Light Switch",
-        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 185680,
-      "name": "Light Switch",
-      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
       },
@@ -767,6 +751,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Light Switch",
+        "url": "https://open.spotify.com/album/6PBwTu4IgZMQNTKtrgxzZQ"
+      },
+      "artists": [
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        }
+      ],
+      "duration_ms": 185680,
+      "name": "Light Switch",
+      "url": "https://open.spotify.com/track/1BSMpVGWs3v5BZKnAQziAc"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Hold My Hand (Music From The Motion Picture \"Top Gun: Maverick\")",
         "url": "https://open.spotify.com/album/4o7oZoaZrwElXdNXfBXsqe"
       },
@@ -779,26 +779,6 @@
       "duration_ms": 225300,
       "name": "Hold My Hand",
       "url": "https://open.spotify.com/track/0oWraSo5ASJ0h1BEagTyEw"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Cooped Up",
-        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 185857,
-      "name": "Cooped Up (with Roddy Ricch)",
-      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -819,6 +799,26 @@
       "duration_ms": 228000,
       "name": "My Universe",
       "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Cooped Up",
+        "url": "https://open.spotify.com/album/6sjdohc8ouX9jHxIyqi6mi"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 185857,
+      "name": "Cooped Up (with Roddy Ricch)",
+      "url": "https://open.spotify.com/track/7DwcBgdzqhFJltEaV1XF81"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 225148,
-      "name": "Oh My God",
-      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Fingers Crossed",
-        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+        "name": "30",
+        "url": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
       },
       "artists": [
         {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 175344,
-      "name": "Fingers Crossed",
-      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
+      "duration_ms": 225148,
+      "name": "Oh My God",
+      "url": "https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1011,6 +995,22 @@
       "duration_ms": 220779,
       "name": "Angel Baby",
       "url": "https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Fingers Crossed",
+        "url": "https://open.spotify.com/album/7i5dqey54xo8F2flVer0yY"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175344,
+      "name": "Fingers Crossed",
+      "url": "https://open.spotify.com/track/3yMC1KsTwh0ceXdIe4QQAQ"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1051,6 +1051,38 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 171743,
+      "name": "double take",
+      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "OUT OUT (feat. Charli XCX & Saweetie)",
         "url": "https://open.spotify.com/album/5wJb3DBSoSMKYJA8TrNKi8"
       },
@@ -1079,54 +1111,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 171743,
-      "name": "double take",
-      "url": "https://open.spotify.com/track/0QzuaeCEEOV40Pn7IvKEny"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Proof",
-        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 164952,
-      "name": "Butter",
-      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Love, Damini",
         "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
@@ -1147,22 +1131,34 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Summer Of Love",
-        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+        "name": "Proof",
+        "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
       "artists": [
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
         }
       ],
-      "duration_ms": 184104,
-      "name": "Summer of Love (Shawn Mendes & Tainy)",
-      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
+      "duration_ms": 164952,
+      "name": "Butter",
+      "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1179,6 +1175,26 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Summer Of Love",
+        "url": "https://open.spotify.com/album/4nProAxFavzKkbaRQ2Otyk"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 184104,
+      "name": "Summer of Love (Shawn Mendes & Tainy)",
+      "url": "https://open.spotify.com/track/0z8hI3OPS8ADPWtoCjjLl6"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1315,6 +1331,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 248818,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -1335,22 +1367,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/2W5QlcRZ0zCwFk3pSK6PZd"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 248818,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/7AYP21Q4qnxw2WxETEvSRb"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1363,6 +1379,26 @@
       "duration_ms": 236906,
       "name": "Overpass Graffiti",
       "url": "https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "PSY 9th",
+        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
+      },
+      "artists": [
+        {
+          "name": "PSY",
+          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
+        },
+        {
+          "name": "SUGA",
+          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
+        }
+      ],
+      "duration_ms": 174646,
+      "name": "That That (prod. & feat. SUGA of BTS)",
+      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1399,50 +1435,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "PSY 9th",
-        "url": "https://open.spotify.com/album/7hbSWdxliNs551GXtflIZB"
-      },
-      "artists": [
-        {
-          "name": "PSY",
-          "url": "https://open.spotify.com/artist/2dd5mrQZvg6SmahdgVKDzh"
-        },
-        {
-          "name": "SUGA",
-          "url": "https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8"
-        }
-      ],
-      "duration_ms": 174646,
-      "name": "That That (prod. & feat. SUGA of BTS)",
-      "url": "https://open.spotify.com/track/7GNRUsU3M4XNDDB9xle5Dz"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
-      },
-      "artists": [
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Little Mix",
-          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
-        }
-      ],
-      "duration_ms": 183725,
-      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
-      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/03sQVTmOjeFVi8GsSaJSNV"
       },
@@ -1471,6 +1463,30 @@
       "duration_ms": 183624,
       "name": "Arcade",
       "url": "https://open.spotify.com/track/1Xi84slp6FryDSCbzq4UCD"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+        "url": "https://open.spotify.com/album/6kBuGNoOGE7uiPhN82dcJ1"
+      },
+      "artists": [
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Little Mix",
+          "url": "https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp"
+        }
+      ],
+      "duration_ms": 183725,
+      "name": "Heartbreak Anthem (with David Guetta & Little Mix)",
+      "url": "https://open.spotify.com/track/5K6Ssv4Z3zRvxt0P6EKUAP"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1527,6 +1543,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria\u2019s Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
         "name": "Breakfast",
         "url": "https://open.spotify.com/album/7HWnZ3HvfiVjEIyFWC4Qlf"
       },
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "That's Hilarious",
-        "url": "https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz"
-      },
-      "artists": [
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        }
-      ],
-      "duration_ms": 146855,
-      "name": "That's Hilarious",
-      "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Reckless",
         "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
       },
@@ -1591,18 +1607,18 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+        "name": "That's Hilarious",
+        "url": "https://open.spotify.com/album/6Na1Irgy420bot5shdqlFz"
       },
       "artists": [
         {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
         }
       ],
-      "duration_ms": 176124,
-      "name": "Victoria\u2019s Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
+      "duration_ms": 146855,
+      "name": "That's Hilarious",
+      "url": "https://open.spotify.com/track/1jIMjbzcGCcCQn5iMu9CUc"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1623,22 +1639,6 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
         "name": "Remember",
         "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
       },
@@ -1655,6 +1655,54 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Turn On The Lights again.. (feat. Future)",
+        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Turn On The Lights again.. (feat. Future)",
+      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+    },
+    {
+      "added_at": "2022-08-11 22:01:00",
+      "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Obsessed (with Charlie Puth & Shenseea)",
+      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1711,26 +1759,18 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "Turn On The Lights again.. (feat. Future)",
-        "url": "https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks"
+        "name": "all the things i never said",
+        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
       },
       "artists": [
         {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
         }
       ],
-      "duration_ms": 267946,
-      "name": "Turn On The Lights again.. (feat. Future)",
-      "url": "https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i"
+      "duration_ms": 175026,
+      "name": "that way",
+      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1751,18 +1791,22 @@
     {
       "added_at": "2022-08-11 22:01:00",
       "album": {
-        "name": "all the things i never said",
-        "url": "https://open.spotify.com/album/1fK6nUQDMeIciyfhAADix8"
+        "name": "Not Over Yet (feat. Tom Grennan)",
+        "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "KSI",
+          "url": "https://open.spotify.com/artist/1nzgtKYFckznkcVMR3Gg4z"
+        },
+        {
+          "name": "Tom Grennan",
+          "url": "https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv"
         }
       ],
-      "duration_ms": 175026,
-      "name": "that way",
-      "url": "https://open.spotify.com/track/7l97ElWmIdVHWUaOeeU5ZC"
+      "duration_ms": 155691,
+      "name": "Not Over Yet (feat. Tom Grennan)",
+      "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
     },
     {
       "added_at": "2022-08-11 22:01:00",
@@ -1783,54 +1827,6 @@
       "duration_ms": 177156,
       "name": "Questions",
       "url": "https://open.spotify.com/track/1cgy2FSOQMbq7DHCVgMAUA"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "What Would You Do?",
-        "url": "https://open.spotify.com/album/2MUZjEfjTAJp5zroItascD"
-      },
-      "artists": [
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 174215,
-      "name": "What Would You Do?",
-      "url": "https://open.spotify.com/track/1D2ZNECRd7KIlA4pyOUGsv"
-    },
-    {
-      "added_at": "2022-08-11 22:01:00",
-      "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Obsessed (with Charlie Puth & Shenseea)",
-      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
     }
   ],
   "unique_name": "Pop Right Now",

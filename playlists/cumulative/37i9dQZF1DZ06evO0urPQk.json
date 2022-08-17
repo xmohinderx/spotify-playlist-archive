@@ -80,6 +80,24 @@
     },
     {
       "album": {
+        "name": "THE MUSEUM \u2162",
+        "url": "https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302013,
+      "name": "Destiny's Prelude",
+      "url": "https://open.spotify.com/track/0NVnQPyOowdP1euP7rslKx"
+    },
+    {
+      "album": {
         "name": "THE MUSEUM II",
         "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN"
       },
@@ -217,7 +235,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 262403,
       "name": "FINAL COMMANDER",
       "url": "https://open.spotify.com/track/4BmDMzDL8rpgMcCTHQCJEr"
@@ -271,7 +289,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 227934,
       "name": "FIRE SCREAM",
       "url": "https://open.spotify.com/track/10NBFtkgSdqzh7Xdcouzek"
@@ -505,7 +523,7 @@
       ],
       "date_added": "2022-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 225750,
       "name": "Link or Chains",
       "url": "https://open.spotify.com/track/100h1Dh7OLkPvvojCBvspd"
@@ -577,7 +595,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 331686,
       "name": "METANOIA -Aufwachen Form-",
       "url": "https://open.spotify.com/track/6mgJiB30wD66AGCWoAZU7Q"
@@ -797,7 +815,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 187066,
       "name": "Sacred Force",
       "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
@@ -869,7 +887,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 208520,
       "name": "STARTING NOW!",
       "url": "https://open.spotify.com/track/3hAyDY3024JUVmiIaBpcz0"
@@ -887,7 +905,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 271546,
       "name": "suddenly~\u5de1\u308a\u5408\u3048\u3066~",
       "url": "https://open.spotify.com/track/3Vmcy6TdOR1zYQeNDFzTcV"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 225334,
       "name": "\u30ab\u30eb\u30da\u30c7\u30a3\u30a8\u30e0",
       "url": "https://open.spotify.com/track/7LOC87d5QPMWfC0Kj2anPk"
@@ -1067,7 +1085,7 @@
       ],
       "date_added": "2022-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 239189,
       "name": "\u30b9\u30c8\u30e9\u30c8\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/5Xb7Xp3EyRr0RuRau3fFO3"

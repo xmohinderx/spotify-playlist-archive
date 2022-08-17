@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 
 > Key words: Contemporary pop, legends, country music \- and something in between\. Just good tunes!
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,356 likes - 60 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,352 likes - 60 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 27 | [Ahimsa](https://open.spotify.com/track/588dEScku8LSP1Ubp2wyaG) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ), [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG) | [Ahimsa](https://open.spotify.com/album/7N2UQW7AWRh40cWqlB7JvL) | 3:50 |
 | 28 | [Tomorrow](https://open.spotify.com/track/7I9BiCs8uTFfGkj02W1gxZ) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:49 |
 | 29 | [Pretty Bitchin'](https://open.spotify.com/track/5IhAJUu8ZEKOezGFaMeEmO) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 3:31 |
-| 30 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 |
+| 30 | [Wintertime](https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:48 |
 | 31 | [There Goes My Miracle](https://open.spotify.com/track/2NVDqyBmkPLANgy3S5He6d) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Western Stars](https://open.spotify.com/album/6BhqPpIgY83rqoZ2L78Lte) | 4:03 |
-| 32 | [Wintertime](https://open.spotify.com/track/1HWEOHLnFbRqgSVEK59gEq) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Begin Again](https://open.spotify.com/album/0iDASlJ6faB4ZDVkKlqbHj) | 3:48 |
+| 32 | [Friends](https://open.spotify.com/track/2yJBTToYK5LtQoFGzozCgM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [Still on My Mind](https://open.spotify.com/album/5AR3jURU3vmoJiGzpjY4Xn) | 3:23 |
 | 33 | [The Story We Used To Tell](https://open.spotify.com/track/5Sr9l180RmszDrCueohy3x) | [Buster Moe](https://open.spotify.com/artist/3nmEMu180oirieWGPt1fOf) | [The Story We Used To Tell](https://open.spotify.com/album/3vaR9t74RttIcLaf8OrI6s) | 3:38 |
 | 34 | [Sanremo](https://open.spotify.com/track/1tH4JALrku66weg6Bx5fC9) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [My Name Is Michael Holbrook](https://open.spotify.com/album/4bVlbOipapiqrTusSsgvIc) | 3:24 |
 | 35 | [Didn't I](https://open.spotify.com/track/1GL3ydfG8v9m4jKiVx8UQ0) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT), [Bridget Cady](https://open.spotify.com/artist/5RJ60X53PX6NgZCCsYZ91Z) | [Blood Red Roses \(Deluxe Version\)](https://open.spotify.com/album/0ymt2BMulzLu7hAAolKVSa) | 4:00 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 48 | [We Were Beautiful](https://open.spotify.com/track/7xkcFfIfRWPbdiuUU2jvZG) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Chip Tooth Smile](https://open.spotify.com/album/0vCpM6bbidKly1aRrf8wmz) | 2:55 |
 | 49 | [Fuck The Rain](https://open.spotify.com/track/4VNYmt11KbdIdB2BA5ZtgG) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Big Colors](https://open.spotify.com/album/5yILy87UTpbkBd5Ax2w6EQ) | 3:33 |
 | 50 | [If You See Her, Say Hello \- Take 1](https://open.spotify.com/track/6cLewsHaYRcexjUMJapSdR) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [More Blood, More Tracks: The Bootleg Series, Vol\. 14 \(Sampler\)](https://open.spotify.com/album/5faKzawYFUfk3IRRe6ERXl) | 3:57 |
-| 51 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 |
-| 52 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
+| 51 | [At the End of the Day](https://open.spotify.com/track/4my3EKKyF3ASnJ7OPHTBUl) | [Gilbert O'Sullivan](https://open.spotify.com/artist/4HVmeVTQBgvTuvjB1JYwaf) | [Gilbert O'Sullivan](https://open.spotify.com/album/147bBWdV1tgPQ5pabOzQF4) | 3:11 |
+| 52 | [Four Leaf Clover \- Edit](https://open.spotify.com/track/7aq4RmtNftNpqUaeoZb5ao) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Four Leaf Clover \(Edit\)](https://open.spotify.com/album/1oCxUmpYZvKbka1mENWf4C) | 3:11 |
 | 53 | [Story Of Everything](https://open.spotify.com/track/6exGzQG7704sf82TorgroD) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Chuck D](https://open.spotify.com/artist/1JfH8gevkDviqs50A5NO0L), [Andra Day](https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe), [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 6:22 |
 | 54 | [Another One Down](https://open.spotify.com/track/5YPyp1Xshf0JpoAQ7iagns) | [Richard Marx](https://open.spotify.com/artist/0grdhNhiRLFBaFVyybqsj6) | [Another One Down](https://open.spotify.com/album/7amoi3AjgTtQqybl8VsAvI) | 3:12 |
 | 55 | [Fuh You](https://open.spotify.com/track/6oHXWqyJ9zZngrWch8XjvZ) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [Fuh You](https://open.spotify.com/album/5mHdvZojPyBMhgmvQ6HW4U) | 3:23 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZel4xa7wX1s.md) - [plain]
 | 59 | [Every One of Us](https://open.spotify.com/track/5b6zAh5CNRv6dN5JrMNtmk) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Every One of Us](https://open.spotify.com/album/4hlmMOWqxno6iFYi54UKYN) | 3:06 |
 | 60 | [Loves Missing](https://open.spotify.com/track/78W2JgujSHp98M87UJkcjM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/2aRxolqVA2v2TFeuWPIuEI) | 4:19 |
 
-Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMDg5MGYyNGRlOWJmNmViYmI1NDc5MWZjZDY0OTA0MDNm`
+Snapshot ID: `MTU3NTAyMDI3NSwwMDAwMDAwMGIzZjM4NjFlNzQxMDYyNTdlYzQxMDI3Y2FmMWVkMTc0`

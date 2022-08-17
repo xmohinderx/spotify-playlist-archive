@@ -854,6 +854,24 @@
     },
     {
       "album": {
+        "name": "Gracias Mujer",
+        "url": "https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr"
+      },
+      "artists": [
+        {
+          "name": "Banda Machos",
+          "url": "https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190866,
+      "name": "Princesa gitana",
+      "url": "https://open.spotify.com/track/4hs8o8lLeB8tREWp7OLAZJ"
+    },
+    {
+      "album": {
         "name": "Sangre de indio",
         "url": "https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY"
       },
@@ -1027,7 +1045,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 181106,
       "name": "Tu otro dios - Tu dios de poder",
       "url": "https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn"

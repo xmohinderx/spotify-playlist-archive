@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 
 > All your girl crushes\(걸크러쉬\) in one place\. Cover: PURPLE KISS \(퍼플키스\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,271 likes - 40 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,743 likes - 40 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSWYCNwaARB.md) - [plain]
 | 35 | [Bad Boy](https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [The Perfect Red Velvet \- The 2nd Album Repackage](https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0) | 3:30 |
 | 36 | [Not Shy](https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 2:57 |
 | 37 | [Oh my god](https://open.spotify.com/track/2DmRXiyn03tOqKgEJXlaiJ) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I trust](https://open.spotify.com/album/57sl8AvqVqm4Fadre0z8FQ) | 3:15 |
-| 38 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 |
+| 38 | [PTT \(Paint The Town\)](https://open.spotify.com/track/5awNIWVrh2ISfvPd5IUZNh) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [\[&\]](https://open.spotify.com/album/747FhjbZXy5H8frCZ90eDv) | 3:21 |
 | 39 | [On The Ground](https://open.spotify.com/track/2pn8dNVSpYnAtlKFC8Q0DJ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 2:48 |
-| 40 | [GingaMingaYo \(the strange world\)](https://open.spotify.com/track/3jHg6QE70y2FTdnsxSrCbv) | [Billlie](https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0) | [the collective soul and unconscious: chapter one](https://open.spotify.com/album/4ophrgcnwWi1I5nWYImyhw) | 3:35 |
+| 40 | [MAGO](https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:19 |
 
-Snapshot ID: `MTY2MDMyODMyOSwwMDAwMDAwMDVkMGI5OWIzOTc1MDk4MDFiNGRhMzM3NjAzOWJhMTRl`
+Snapshot ID: `MTY2MDMyODMyOSwwMDAwMDAwMDY5YzA1MTI0YmMwMjJhYjhmMWY3MjczNDdiNGYwZDY1`

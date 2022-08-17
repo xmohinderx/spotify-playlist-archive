@@ -2045,7 +2045,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 187445,
       "name": "Nothing Else",
       "url": "https://open.spotify.com/track/4gMyCZA8aerwcDk6g4kpT0"
@@ -2518,6 +2518,28 @@
     },
     {
       "album": {
+        "name": "So So (davOmakesbeats Remix)",
+        "url": "https://open.spotify.com/album/1bflKsk6dTuyvvFOlTkffg"
+      },
+      "artists": [
+        {
+          "name": "Planet Booty",
+          "url": "https://open.spotify.com/artist/0muFMgF5rWwcV5Ib8Bx1Av"
+        },
+        {
+          "name": "davOmakesbeats",
+          "url": "https://open.spotify.com/artist/0GVhd3aIFJzTSgnBpIO5aj"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208125,
+      "name": "So So (davOmakesbeats Remix)",
+      "url": "https://open.spotify.com/track/37KO7hfi5OHFqyOzv9kRWV"
+    },
+    {
+      "album": {
         "name": "Black Rave Culture Vol 2",
         "url": "https://open.spotify.com/album/6soc0L7CgYTEVEx3dNBLoy"
       },
@@ -2541,7 +2563,7 @@
       },
       "artists": [
         {
-          "name": "2rare",
+          "name": "2Rare",
           "url": "https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ"
         },
         {

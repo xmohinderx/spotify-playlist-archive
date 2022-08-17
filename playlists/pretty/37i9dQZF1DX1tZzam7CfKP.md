@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tZzam7CfKP.md) - [plain]
 
 > All funk, all live\. Cover: Earth Wind & Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,926 likes - 51 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,942 likes - 51 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

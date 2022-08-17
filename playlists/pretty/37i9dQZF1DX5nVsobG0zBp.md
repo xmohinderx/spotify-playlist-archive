@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 
 > Os maiores hits do rap português dos últimos anos\. Foto: Wet Bed Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,146 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,221 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5nVsobG0zBp.md) - [plain]
 | 51 | [Tu Não Sabes](https://open.spotify.com/track/3SCLg9qcpLlwP0D6GV8uIp) | [Mundo Segundo](https://open.spotify.com/artist/5Qu01cJnOW2RdSKH2bcaIG), [Sam The Kid](https://open.spotify.com/artist/3NEQ5t2FprBMLmDAP0EPcE) | [Tu Não Sabes](https://open.spotify.com/album/3wcBnAfGTwOUbhOI4YTdlG) | 4:11 |
 | 52 | [Bossy](https://open.spotify.com/track/45cbUgJwFXYPN3tURnSH2l) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw) | [Bossy](https://open.spotify.com/album/5QlvEKeqaZJjSa3Z9tmCzI) | 2:46 |
 | 53 | [Perseus](https://open.spotify.com/track/21tsJFuHp7gqkyY1Qg9vmD) | [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [Perseus](https://open.spotify.com/album/7flk1nK0thC78EI6CNnhaZ) | 3:34 |
-| 54 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
-| 55 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 |
+| 54 | [Nunca Tive Bem](https://open.spotify.com/track/6HbOwNPeSGIWgUaKfVcDbf) | [Guga](https://open.spotify.com/artist/5bHp05UXAArdXldRyU8lJP) | [Nunca Tive Bem](https://open.spotify.com/album/6HRgRCbY56jXxVZJ1y3O2H) | 3:33 |
+| 55 | [Good Life](https://open.spotify.com/track/0kM7y3ykrd0pmixnTnMp23) | [Kappa Jotta](https://open.spotify.com/artist/2MREhFiavCOZXs0thPLuWu) | [Good Life](https://open.spotify.com/album/2uFgPZNyontItiQ5P2TZU6) | 3:40 |
 | 56 | [Hospedeira](https://open.spotify.com/track/3M0jzvLAw4gfwm8VOyIJE9) | [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN), [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [Hospedeira](https://open.spotify.com/album/70RrsVJWce6JhWGVG4vDgm) | 4:25 |
 | 57 | [1100 Cegonhas](https://open.spotify.com/track/6Lu4LreN9YevvN26udZ5pE) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [1100 Cegonhas](https://open.spotify.com/album/3HaGPPVlv39Gf3j02jpEqy) | 3:55 |
 | 58 | [Deixar Rolar](https://open.spotify.com/track/44mIQZqtFSzBhm4lfivYyF) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [Deixar Rolar](https://open.spotify.com/album/3GqwReTKFEXIEhXko2DxYD) | 3:53 |
 | 59 | [O Re$To](https://open.spotify.com/track/6Esm2XoX3JwEkCQLybx03R) | [X\-Tense](https://open.spotify.com/artist/7JajP35zM35gnAvTZbwxDF), [DJ HYPE MYKE](https://open.spotify.com/artist/1QJNTcEVJfb5qVsMvtA5ch) | [O Re$To](https://open.spotify.com/album/6iXe2Fi1uFGc06A2LFEjGg) | 5:04 |
 | 60 | [2020 \(feat\. Slow J\)](https://open.spotify.com/track/19J1fuhnZdlDM7UNM7SUjS) | [Lhast](https://open.spotify.com/artist/46uaNKR4GSjmDEK732EeVw), [Slow J](https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0) | [2020 \(feat\. Slow J\)](https://open.spotify.com/album/41L3sIZeJUDGhh2xMsSlEQ) | 3:23 |
 
-Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMDA0ZGMzOTdkZTFjNjU3OGNlYzY5ZGZkZTVkMWFmNTI3`
+Snapshot ID: `MTY2MDI1ODgwMCwwMDAwMDAwMDFhMDk4YWMwMDM2YzQ3OWZjNjMwZDYxZTE4YzI3MDM3`

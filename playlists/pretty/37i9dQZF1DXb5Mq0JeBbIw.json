@@ -1,12 +1,12 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 143147,
+  "num_followers": 143161,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwNTYwMCwwMDAwMDAwMDQ0YTUyN2Q3ODcxMTIxZmFlM2UwMWE2YmUyNDE2NDI5",
+  "snapshot_id": "MTY2MDMwNTYwMCwwMDAwMDAwMDUyYTkzOTU2OTI0YjMzMzgzZjRiMGM2YzI1YWYwMmZi",
   "tracks": [
     {
       "added_at": "2022-08-12 12:00:00",
@@ -251,22 +251,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Four Songs",
-        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
-      },
-      "artists": [
-        {
-          "name": "Alexi Murdoch",
-          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
-        }
-      ],
-      "duration_ms": 379520,
-      "name": "Orange Sky",
-      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Starving (Acoustic)",
         "url": "https://open.spotify.com/album/5btWj40qkYd8xGP9K42E7Q"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 181293,
       "name": "Starving - Acoustic",
       "url": "https://open.spotify.com/track/3rdTo5LQGou3pS2ZLxTAcQ"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Four Songs",
+        "url": "https://open.spotify.com/album/0n87tWacgsscFwyZgbnfRW"
+      },
+      "artists": [
+        {
+          "name": "Alexi Murdoch",
+          "url": "https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw"
+        }
+      ],
+      "duration_ms": 379520,
+      "name": "Orange Sky",
+      "url": "https://open.spotify.com/track/0Y1fueUFu8jQtUxdUmOojf"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        }
-      ],
-      "duration_ms": 212693,
-      "name": "Kill Em With Kindness - Acoustic",
-      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2ZkqACn45Z6cSf1xy0ll2D"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+        "name": "13 Reasons Why (A Netflix Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2OicPkzxga0ybQIdl3kvaa"
       },
       "artists": [
         {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
         }
       ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+      "duration_ms": 212693,
+      "name": "Kill Em With Kindness - Acoustic",
+      "url": "https://open.spotify.com/track/6pezb9EwyygkHnJqkjLphG"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -643,26 +627,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Mama (Acoustic)",
-        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "William Singe",
-          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
-        }
-      ],
-      "duration_ms": 192277,
-      "name": "Mama - Acoustic",
-      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Here With Me (Acoustic)",
         "url": "https://open.spotify.com/album/4shs56cPnRvGEpRv4cTAHx"
       },
@@ -679,6 +643,22 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "Mystery",
         "url": "https://open.spotify.com/album/0c9oFRyzGPgAPQZ5Oj9TLe"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 192573,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/18iNTpD8inRf8iWDcDCFbH"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Mama (Acoustic)",
+        "url": "https://open.spotify.com/album/4n6LyGcoQuvQqAbhAWUsSl"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "William Singe",
+          "url": "https://open.spotify.com/artist/5exS0bytCYdixgv02DaCm3"
+        }
+      ],
+      "duration_ms": 192277,
+      "name": "Mama - Acoustic",
+      "url": "https://open.spotify.com/track/2o5woNaj4eQXCwbrJ001A2"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "#Covers",
-        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 192545,
-      "name": "It Aint Me",
-      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Fisherman's Woman",
         "url": "https://open.spotify.com/album/5fPGV2BBurhFEE2d5AAWaq"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 184533,
       "name": "Sunny Road",
       "url": "https://open.spotify.com/track/1QhN6ZjGqeRO6cDuE1H76q"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "#Covers",
+        "url": "https://open.spotify.com/album/4snKT0WGNCbtZ9AESdeWKB"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 192545,
+      "name": "It Aint Me",
+      "url": "https://open.spotify.com/track/2KsdoMZsL2ajnjjYUWm1ZT"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Sunflower",
-        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 181897,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Chasing Cars (Acoustic)",
         "url": "https://open.spotify.com/album/5zeqfd26JaUfCQNMAcNXN2"
       },
@@ -975,22 +959,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Wait & See",
-        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
-      },
-      "artists": [
-        {
-          "name": "Mabes",
-          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
-        }
-      ],
-      "duration_ms": 174267,
-      "name": "Wait & See",
-      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Things I Chose To Remember",
         "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
       },
@@ -1007,6 +975,22 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "Wait & See",
+        "url": "https://open.spotify.com/album/1JGX9VVxDcCLbJlokLloon"
+      },
+      "artists": [
+        {
+          "name": "Mabes",
+          "url": "https://open.spotify.com/artist/1kTrYYWMLQsBKlbINUg1Su"
+        }
+      ],
+      "duration_ms": 174267,
+      "name": "Wait & See",
+      "url": "https://open.spotify.com/track/3nv8Krxy4YzauAdpSoLt8C"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "When the Party's Over",
         "url": "https://open.spotify.com/album/1bitguaJlIxb9wsJiDFDnR"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 154732,
       "name": "When the Party's Over",
       "url": "https://open.spotify.com/track/0F78T5bfHQCliaNjBkIYBq"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Sunflower",
+        "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 181897,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Island Life Coffee House (Vol. 1)",
-        "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
-      },
-      "artists": [
-        {
-          "name": "Mike Posner",
-          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
-        }
-      ],
-      "duration_ms": 234133,
-      "name": "Be As You Are - Acoustic",
-      "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Sometimes It's Something, Sometimes It's Nothing at All",
         "url": "https://open.spotify.com/album/3vgpygHRpJDWTVUXEqNTUR"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Island Life Coffee House (Vol. 1)",
+        "url": "https://open.spotify.com/album/0sghDmRPCLSkRUrL08FY9b"
+      },
+      "artists": [
+        {
+          "name": "Mike Posner",
+          "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa"
+        }
+      ],
+      "duration_ms": 234133,
+      "name": "Be As You Are - Acoustic",
+      "url": "https://open.spotify.com/track/6wCWfx5yAyvQ7TlLp7OZZ6"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Where Light Pours In",
-        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Three Flights From Alto Nido",
         "url": "https://open.spotify.com/album/0ntXTGF1tGttAv0Tr077DH"
       },
@@ -1343,6 +1327,22 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "Hold On To Happiness",
+        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Hold On To Happiness",
+      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "Dear Earth, I\u2019m Lost",
         "url": "https://open.spotify.com/album/2FivUBt8rP3epBzyDhtoqE"
       },
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Hold On To Happiness",
-        "url": "https://open.spotify.com/album/69cdPGw9UxCq2aoO4yiEjZ"
+        "name": "Where Light Pours In",
+        "url": "https://open.spotify.com/album/7EEAwQmw3KwyoJoQ88fVnF"
       },
       "artists": [
         {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
         }
       ],
-      "duration_ms": 217306,
-      "name": "Hold On To Happiness",
-      "url": "https://open.spotify.com/track/2GpHwqp9mNHyma8C3HliD8"
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/1zH6hFHwovpSxn0FmVpX6Q"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1471,6 +1471,26 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "Days That End in Y",
+        "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
+      },
+      "artists": [
+        {
+          "name": "Gomey",
+          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
+        },
+        {
+          "name": "Xuitcasecity",
+          "url": "https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL"
+        }
+      ],
+      "duration_ms": 142686,
+      "name": "Days That End in Y",
+      "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "Find You (Acoustic)",
         "url": "https://open.spotify.com/album/19QixZrqTEYcOQCB5F88jJ"
       },
@@ -1503,22 +1523,18 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Days That End in Y",
-        "url": "https://open.spotify.com/album/6m99yAstyKD4UgK3ASjMg2"
+        "name": "Give Me Something",
+        "url": "https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6"
       },
       "artists": [
         {
-          "name": "Gomey",
-          "url": "https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL"
-        },
-        {
-          "name": "Xuitcasecity",
-          "url": "https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL"
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
         }
       ],
-      "duration_ms": 142686,
-      "name": "Days That End in Y",
-      "url": "https://open.spotify.com/track/5G11lGkWAP4AqFo77t02lC"
+      "duration_ms": 174946,
+      "name": "Did We Miss the Morning?",
+      "url": "https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 245555,
       "name": "Breathe - Acoustic",
       "url": "https://open.spotify.com/track/0XjVo7NzYlgQDgMt4s3IqX"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "Give Me Something",
-        "url": "https://open.spotify.com/album/0O9NVg82SmybQvWyUFDvx6"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 174946,
-      "name": "Did We Miss the Morning?",
-      "url": "https://open.spotify.com/track/4hKR9v8ZcQi0R0q7Dhp3e5"
     },
     {
       "added_at": "2022-08-12 12:00:00",

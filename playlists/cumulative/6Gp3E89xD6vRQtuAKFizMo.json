@@ -472,6 +472,24 @@
     },
     {
       "album": {
+        "name": "Frenzy",
+        "url": "https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo"
+      },
+      "artists": [
+        {
+          "name": "Ivoryghost",
+          "url": "https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198753,
+      "name": "Frenzy",
+      "url": "https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6"
+    },
+    {
+      "album": {
         "name": "AD INFINITUM",
         "url": "https://open.spotify.com/album/1kSfVaA11yumg6YurLApl9"
       },

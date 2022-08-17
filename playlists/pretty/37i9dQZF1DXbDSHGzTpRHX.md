@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 
 > Our editors' picks of the freshest finds of the year! Cover: Lil Tecca
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,839 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,846 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 30 | [Give Me a Chance](https://open.spotify.com/track/1m6DIPiI6vkoCRoJLLcH7n) | [Hish](https://open.spotify.com/artist/3LnJf5WXTmQY4MbPPReA1F) | [Give Me a Chance](https://open.spotify.com/album/5k60WuJUWFPopkEGoMbLAa) | 3:07 |
 | 31 | [No More](https://open.spotify.com/track/6T3Yt7O6rxpeiRF1dxODQL) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [No More](https://open.spotify.com/album/4UCY9M6aQm4RikN8BsptLI) | 3:06 |
 | 32 | [Click](https://open.spotify.com/track/2c72Qa7HHbMN4gaaUY3JKd) | [Badgirl$](https://open.spotify.com/artist/1tVVNIotf3Fc4iylC56Wae) | [Click](https://open.spotify.com/album/6WPjp5c8bSNs5OeYMlrVgU) | 3:33 |
-| 33 | [Bubba](https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/4yGtkKywRagLcmI3U0ldbe) | 5:00 |
+| 33 | [Bubba](https://open.spotify.com/track/5PnsHlUD6PKlZaschoV7tE) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Mildew](https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu) | 5:00 |
 | 34 | [Little Bit](https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt) | [Erika de Casier](https://open.spotify.com/artist/1nIJEqPyIj5qutlgWNmQB0) | [Essentials](https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO) | 4:46 |
 | 35 | [Wishing For Rain](https://open.spotify.com/track/1avc8BMkZ9fJrlhD5WzaP0) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Wishing For Rain](https://open.spotify.com/album/2bJe3ugOMGWQ899OBo524F) | 3:17 |
 | 36 | [Meaner Girl](https://open.spotify.com/track/75Ybs07OwRvhRE1kedAhv5) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [Self Aware Bitch](https://open.spotify.com/album/3AhOyLa5HZSJE0vb8ot3bn) | 3:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDSHGzTpRHX.md) - [plain]
 | 99 | [Light Personified](https://open.spotify.com/track/1qtRjq4lKqilxJCQErodW8) | [Fintan](https://open.spotify.com/artist/1JLB3JYl1p8ob8o5Y35bT6) | [Light Personified](https://open.spotify.com/album/7CcRPXoDJ6gDw3g27gjy8u) | 3:20 |
 | 100 | [E](https://open.spotify.com/track/5Jn3W2PPpKDj4SBQTdC8op) | [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [E](https://open.spotify.com/album/0oUNDHvJ03IKXEXh7LIimN) | 3:00 |
 
-Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMGJkMTY3MWJkMmUyNGJmNWE5MmRmNDE3MmI4M2FhZDMy`
+Snapshot ID: `MTU3NjAyMzg0OCwwMDAwMDAwMDYyNTFlODI2NDAwYzEzMjk4ZWMwYWQ1ZDFmYTZmN2Rh`

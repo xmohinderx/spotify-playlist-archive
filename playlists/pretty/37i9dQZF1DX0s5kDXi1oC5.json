@@ -1,12 +1,12 @@
 {
   "description": "Listen to all the tracks you've been missing. Cover: Katy Perry",
-  "num_followers": 5867592,
+  "num_followers": 5868859,
   "original_name": "Hit Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIyOTAwNywwMDAwMDAwMDU0ODUwMWIxYTI2Njk5MzVhZDk1ZjEyNDJiYTU2OWZi",
+  "snapshot_id": "MTY2MDIyOTAwNywwMDAwMDAwMDI4Y2ZjYmZmZjRlZDMzODI1MDNmNjZhNDA5MDE3MTQy",
   "tracks": [
     {
       "added_at": "2022-08-11 14:43:27",
@@ -411,18 +411,18 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
         }
       ],
-      "duration_ms": 222533,
-      "name": "Summer",
-      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -443,34 +443,18 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/48zisMeiXniWLzOQghbPqS"
       },
       "artists": [
         {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         }
       ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 233720,
-      "name": "Love Yourself",
-      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
+      "duration_ms": 222533,
+      "name": "Summer",
+      "url": "https://open.spotify.com/track/6YUTL4dYpB9xZO5qExPf05"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -487,6 +471,22 @@
       "duration_ms": 239316,
       "name": "I'm Not The Only One",
       "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 233720,
+      "name": "Love Yourself",
+      "url": "https://open.spotify.com/track/50kpGaPAhYJ3sGmk6vplg0"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -547,6 +547,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "A Head Full of Dreams",
+        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "Hymn for the Weekend",
+      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "More Life",
         "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 248413,
       "name": "Get Lucky (feat. Pharrell Williams & Nile Rodgers) - Radio Edit",
       "url": "https://open.spotify.com/track/2Foc5Q5nqNiosCNqttzHof"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "A Head Full of Dreams",
-        "url": "https://open.spotify.com/album/3cfAM8b8KqJRoIzt3zLKqw"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 258266,
-      "name": "Hymn for the Weekend",
-      "url": "https://open.spotify.com/track/3RiPr603aXAoi4GHyXx0uy"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -715,22 +715,6 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
         "name": "Mylo Xyloto",
         "url": "https://open.spotify.com/album/2R7iJz5uaHjLEVnMkloO18"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 278719,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/6nek1Nin9q48AVZcWs9e9D"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -775,6 +775,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 196077,
+      "name": "when the party's over",
+      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Luv Is Rage 2",
         "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
       },
@@ -791,18 +807,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
-        "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
+        "name": "Inner Monologue Part 1",
+        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 196077,
-      "name": "when the party's over",
-      "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+      "duration_ms": 173306,
+      "name": "What A Time (feat. Niall Horan)",
+      "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -839,22 +859,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "Inner Monologue Part 1",
-        "url": "https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r"
+        "name": "Black Panther The Album Music From And Inspired By",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
       },
       "artists": [
         {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 173306,
-      "name": "What A Time (feat. Niall Horan)",
-      "url": "https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT"
+      "duration_ms": 232186,
+      "name": "All The Stars (with SZA)",
+      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -879,6 +899,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 165819,
+      "name": "All Girls Are The Same",
+      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Jungle Rules",
         "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
       },
@@ -895,42 +931,6 @@
       "duration_ms": 233901,
       "name": "Unforgettable",
       "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "Black Panther The Album Music From And Inspired By",
-        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 232186,
-      "name": "All The Stars (with SZA)",
-      "url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 165819,
-      "name": "All Girls Are The Same",
-      "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -955,6 +955,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "A Sky Full of Stars",
+      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "A Sky Full of Stars",
-      "url": "https://open.spotify.com/track/0FDzzruyVECATHXKHFs9eJ"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
+        "name": "My Everything (Deluxe)",
+        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 197266,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
         "name": "Stoney (Deluxe)",
         "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 220293,
       "name": "Congratulations",
       "url": "https://open.spotify.com/track/3a1lNhkSLSkpJE4MSHpDu9"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
-        "name": "My Everything (Deluxe)",
-        "url": "https://open.spotify.com/album/6EVYTRG1drKdO8OnIQBeEj"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197266,
-      "name": "One Last Time",
-      "url": "https://open.spotify.com/track/7xoUc6faLbCqZO6fQEYprd"
     },
     {
       "added_at": "2022-08-11 14:43:27",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-11 14:43:27",
       "album": {
-        "name": "G I R L",
-        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
-      },
-      "artists": [
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        }
-      ],
-      "duration_ms": 232720,
-      "name": "Happy - From \"Despicable Me 2\"",
-      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
-    },
-    {
-      "added_at": "2022-08-11 14:43:27",
-      "album": {
         "name": "In A Perfect World (Expanded Edition)",
         "url": "https://open.spotify.com/album/1ttGpGzOEi6JDDOHO4qD1y"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/0NlGoUyOJSuSHmngoibVAs"
+    },
+    {
+      "added_at": "2022-08-11 14:43:27",
+      "album": {
+        "name": "G I R L",
+        "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
+      },
+      "artists": [
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 232720,
+      "name": "Happy - From \"Despicable Me 2\"",
+      "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
     },
     {
       "added_at": "2022-08-11 14:43:27",

@@ -167,10 +167,28 @@
       ],
       "date_added": "2019-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 300429,
       "name": "Bubba",
       "url": "https://open.spotify.com/track/0qOe0oNsO7459dYDAlomiV"
+    },
+    {
+      "album": {
+        "name": "Mildew",
+        "url": "https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu"
+      },
+      "artists": [
+        {
+          "name": "Jack Larsen",
+          "url": "https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o"
+        }
+      ],
+      "date_added": "2019-12-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300429,
+      "name": "Bubba",
+      "url": "https://open.spotify.com/track/5PnsHlUD6PKlZaschoV7tE"
     },
     {
       "album": {

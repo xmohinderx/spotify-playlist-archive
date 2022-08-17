@@ -1,12 +1,12 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 42524,
+  "num_followers": 42672,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDU1NDE5OWQ4ZTU4NmQ3ZTY5NGQzNzViMGUyNDYyODcx",
+  "snapshot_id": "MTY1NjY0ODEyMCwwMDAwMDAwMDQzNDhlMzRlNGI4N2ZhMTY4NTE4ODkxYjRjMmE2OWYy",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Take A Chance",
-        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
-      },
-      "artists": [
-        {
-          "name": "Mr. Flagio",
-          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
-        }
-      ],
-      "duration_ms": 472361,
-      "name": "Take A Chance - Original Mix",
-      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "I Need You Tonight / Tonight",
         "url": "https://open.spotify.com/album/25RZ0JqMukSLQhdYsFpJ67"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 390127,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/6CTv5qKVvkxsvSRQfC6SjO"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Take A Chance",
+        "url": "https://open.spotify.com/album/0jFg1pE1m0257KL4hpzq2m"
+      },
+      "artists": [
+        {
+          "name": "Mr. Flagio",
+          "url": "https://open.spotify.com/artist/1arUaR84JlrYFPAjZaBKSq"
+        }
+      ],
+      "duration_ms": 472361,
+      "name": "Take A Chance - Original Mix",
+      "url": "https://open.spotify.com/track/0lLqS6XnoLYJJXHj57h4jz"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
+        "name": "The Hits Collection",
+        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
+      },
+      "artists": [
+        {
+          "name": "Fun Fun",
+          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+        }
+      ],
+      "duration_ms": 246106,
+      "name": "Color My Love",
+      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
         "name": "Gary Low: The Best of",
         "url": "https://open.spotify.com/album/4TS52eFZYJNOkRKnQ37Vt9"
       },
@@ -647,18 +663,26 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "The Hits Collection",
-        "url": "https://open.spotify.com/album/3KTH5Tquwf5kOkHA1KeQam"
+        "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
+        "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
       },
       "artists": [
         {
-          "name": "Fun Fun",
-          "url": "https://open.spotify.com/artist/44NpcgfV0tBVBVNzmtUBhZ"
+          "name": "Protopapa",
+          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
+        },
+        {
+          "name": "Hey Cabrera!",
+          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
+        },
+        {
+          "name": "EMMANUELLE",
+          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
         }
       ],
-      "duration_ms": 246106,
-      "name": "Color My Love",
-      "url": "https://open.spotify.com/track/5zjZoxnYK6stTB2AxL0Fzp"
+      "duration_ms": 208194,
+      "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
+      "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -699,26 +723,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "\u00c7a Va? Je t'aime! (Feat. EMMANUELLE)",
-        "url": "https://open.spotify.com/album/7iQSGi29TEUwrW1an9zUua"
+        "name": "Disco Modernism (1983 - 2008)",
+        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
       },
       "artists": [
         {
-          "name": "Protopapa",
-          "url": "https://open.spotify.com/artist/1jytK5ClI5ABX2Zgd7HQ54"
-        },
-        {
-          "name": "Hey Cabrera!",
-          "url": "https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf"
-        },
-        {
-          "name": "EMMANUELLE",
-          "url": "https://open.spotify.com/artist/1C2Gz0VQuVWtaLWd54ujI5"
+          "name": "Fred Ventura",
+          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
         }
       ],
-      "duration_ms": 208194,
-      "name": "\u00c7a va? Je t\u2019aime! (feat. EMMANUELLE)",
-      "url": "https://open.spotify.com/track/0rWnoXEpYwAkS9glG43wcV"
+      "duration_ms": 371920,
+      "name": "Wind of Change",
+      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -735,22 +751,6 @@
       "duration_ms": 206600,
       "name": "Hey Hey Guy (7\" Vocal Version)",
       "url": "https://open.spotify.com/track/3oLn7p6CF8JvUDPz59t2WF"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
-        "name": "Disco Modernism (1983 - 2008)",
-        "url": "https://open.spotify.com/album/3DHgoo06BHHdHvtCBG9GJu"
-      },
-      "artists": [
-        {
-          "name": "Fred Ventura",
-          "url": "https://open.spotify.com/artist/4wJf9Xnypopb0m96Up3xtC"
-        }
-      ],
-      "duration_ms": 371920,
-      "name": "Wind of Change",
-      "url": "https://open.spotify.com/track/3tqKM37OIFWC2ZOBakamr1"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Bambina c/o Bye Bye Mi Amor",
-        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
-      },
-      "artists": [
-        {
-          "name": "David Lyme",
-          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
-        }
-      ],
-      "duration_ms": 331200,
-      "name": "Bambina (Original 12-Inch Version)",
-      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "My Magic Number",
         "url": "https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 317120,
       "name": "My Magic Number - Club Domani Remix",
       "url": "https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Bambina c/o Bye Bye Mi Amor",
+        "url": "https://open.spotify.com/album/1fA8zx1Var0vhNP2uqMfcb"
+      },
+      "artists": [
+        {
+          "name": "David Lyme",
+          "url": "https://open.spotify.com/artist/7dkuwtOl8Y2O2fcWy1vtV1"
+        }
+      ],
+      "duration_ms": 331200,
+      "name": "Bambina (Original 12-Inch Version)",
+      "url": "https://open.spotify.com/track/4x4Ip4xOCRGIBNsts7GUBD"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Pictures Old Days (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
-      },
-      "artists": [
-        {
-          "name": "Scotch",
-          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
-        }
-      ],
-      "duration_ms": 237013,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
-    },
-    {
-      "added_at": "2022-07-01 04:02:00",
-      "album": {
         "name": "The Night (Original Remastered Version 2020)",
         "url": "https://open.spotify.com/album/1Pf3wvHZSx6L3PTjEQNsZc"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 376621,
       "name": "The Night - Original Remastered Version 2020",
       "url": "https://open.spotify.com/track/4IKfk28YxL7xHOflgt3tr4"
+    },
+    {
+      "added_at": "2022-07-01 04:02:00",
+      "album": {
+        "name": "Pictures Old Days (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt"
+      },
+      "artists": [
+        {
+          "name": "Scotch",
+          "url": "https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Orient Express",
-        "url": "https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv"
+        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
+        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
       },
       "artists": [
         {
-          "name": "Wish Key",
-          "url": "https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl"
+          "name": "Gepy",
+          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
         }
       ],
-      "duration_ms": 428946,
-      "name": "Orient Express - Vocal",
-      "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
+      "duration_ms": 404247,
+      "name": "African Love Song",
+      "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
     },
     {
       "added_at": "2022-07-01 04:02:00",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-07-01 04:02:00",
       "album": {
-        "name": "Italo Disco - Essential Italian Disco Classics 1977-1985",
-        "url": "https://open.spotify.com/album/3ppNURvPDfACGhKHa3EAnA"
+        "name": "Orient Express",
+        "url": "https://open.spotify.com/album/0fz94X7NiOSSzopMiynnVv"
       },
       "artists": [
         {
-          "name": "Gepy",
-          "url": "https://open.spotify.com/artist/1BDX9PXYrNeqP1gJPhZmZB"
+          "name": "Wish Key",
+          "url": "https://open.spotify.com/artist/2FVL8TfGpXyDdKYOU7NVCl"
         }
       ],
-      "duration_ms": 404247,
-      "name": "African Love Song",
-      "url": "https://open.spotify.com/track/2YqvhES7UxrkgvuP0tRz8m"
+      "duration_ms": 428946,
+      "name": "Orient Express - Vocal",
+      "url": "https://open.spotify.com/track/75Qt3OvjyUmOtEO3TpX7qV"
     },
     {
       "added_at": "2022-07-01 04:02:00",

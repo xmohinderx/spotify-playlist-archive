@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 918,972 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 919,239 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 46 | [The Devil's Bleeding Crown](https://open.spotify.com/track/79M3Eq1q61lkeQJ1OCVEdZ) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie](https://open.spotify.com/album/43UPS43heoPmecwkeQhAnI) | 3:58 |
 | 47 | [Blood Brothers](https://open.spotify.com/track/2Ll44WxlG2eiqL6NtEnf8M) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Infest](https://open.spotify.com/album/0BHa0ePkvGAVKymB4FU58m) | 3:33 |
 | 48 | [DEVIL](https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [ATTENTION ATTENTION](https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7) | 3:27 |
-| 49 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 |
-| 50 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
+| 49 | [Dance Macabre](https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 3:39 |
+| 50 | [Come And Get It](https://open.spotify.com/track/44M12pkcMqqdbNNooHCZ6C) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [Lifelines](https://open.spotify.com/album/1GpxP0nEqmQoQimVAp8bAZ) | 3:01 |
 | 51 | [When Legends Rise](https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [When Legends Rise](https://open.spotify.com/album/1n5bxxxowQ8ufvx2DXKeEV) | 2:52 |
 | 52 | [Kill The Noise](https://open.spotify.com/track/3xr0ZIYqXVKogVu00fJRBX) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Kill The Noise](https://open.spotify.com/album/5Ob0D7DLOzpHe0KcZb67Ky) | 3:08 |
 | 53 | [Prey](https://open.spotify.com/track/7lMFAK8dv0QkWpIlZcWQlJ) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 4:15 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 63 | [The Void](https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Reverence](https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL) | 3:53 |
 | 64 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 65 | [Eyes Of A Panther](https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 3:36 |
-| 66 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 67 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 66 | [Rats](https://open.spotify.com/track/4u39IY2QjY1utpNCCF4is0) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm) | 4:21 |
+| 67 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
 | 68 | [Same Direction](https://open.spotify.com/track/4QVD4vVkYveZuO0xkyi6AX) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:15 |
 | 69 | [Demon Speeding](https://open.spotify.com/track/605hJIiMrdsUjr4Vx4BFD6) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:44 |
 | 70 | [Over It](https://open.spotify.com/track/0S674qD7nVFL0L7pHs6wUO) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Gravity](https://open.spotify.com/album/28sCbClwbAhHN6ovutizQg) | 3:47 |
 | 71 | [The Pretender](https://open.spotify.com/track/6HNruFQlzQx4ulL4ppRLYI) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Greatest Hits](https://open.spotify.com/album/1zCNrbPpz5OLSr6mSpPdKm) | 4:27 |
 | 72 | [1234](https://open.spotify.com/track/19T79JA6PgqCbYOYZ3e1bV) | [Emigrate](https://open.spotify.com/artist/29fyAsYdzkCIH96xB40um1), [Benjamin Kowalewicz](https://open.spotify.com/artist/1ysul2Zu0lQs8JMWXSnEa9) | [A Million Degrees](https://open.spotify.com/album/1aqmmK0ORKz719r7MLMHQO) | 3:22 |
-| 73 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
-| 74 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
+| 73 | [Pirates](https://open.spotify.com/track/0L639McB94IkUvIgZKM1E5) | [Bullets And Octane](https://open.spotify.com/artist/6Ku6HNSfgFrk2c3KIlf2j9) | [The Revelry](https://open.spotify.com/album/3nmvg9pydv2QR8q1JV0fmp) | 2:19 |
+| 74 | [Breathe Again](https://open.spotify.com/track/1NkHDIbGjHqFjZJrdHjQGZ) | [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Breathe Again](https://open.spotify.com/album/5S9HFBNWUGkRsurXXB6O0m) | 3:11 |
 | 75 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 
-Snapshot ID: `MTY2MDI4NTQwNiwwMDAwMDAwMDRmOGNiODhkNmNkZTM2YmRiZmM4OTcxMzA2YWVlNzQ4`
+Snapshot ID: `MTY2MDI4NTQwNiwwMDAwMDAwMDA0MzlhNTJmNmNkMjlhM2Y4ZTYzOGQ0YmI4MmQ2NWFi`

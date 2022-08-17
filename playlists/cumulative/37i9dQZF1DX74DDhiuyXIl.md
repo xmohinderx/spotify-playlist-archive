@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-217 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+218 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/track/4PMakIBWXujbe2MIsuZtOc) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K), [A\-Mei Chang](https://open.spotify.com/artist/6noxsCszBEEK04kCehugOp) | [對等關係 \(feat\. 張惠妹\)](https://open.spotify.com/album/5gFrWCYLmqUyxCSQz58WC2) | 5:27 | 2022-06-06 |  |
 | [少了一件牛仔褲 \(三立華劇《跟鯊魚接吻》片尾曲\)](https://open.spotify.com/track/1gWXdnCKkhcu7f4nVOBh5h) | [Janice Yan](https://open.spotify.com/artist/3r5bFY2H54Y0YGIDzAo1xp) | [少了一件牛仔褲](https://open.spotify.com/album/6aJHPJ6sEefHkwrSIh7RbZ) | 4:36 | 2022-06-06 | 2022-07-28 |
 | [就算天空湛藍 \- 韓劇《現正分手中》中文主題曲](https://open.spotify.com/track/6LggHKv9s8ZnGTczOAEixP) | [徐暐翔](https://open.spotify.com/artist/2xZkWvVTxC65o3dqETdfPm) | [就算天空湛藍 \(韓劇《現正分手中》中文主題曲\)](https://open.spotify.com/album/2yILs6eZQcAx2DZdI7R7tx) | 4:17 | 2022-06-13 | 2022-07-04 |
-| [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 | 2022-08-08 |  |
+| [就讓這大雨全都落下](https://open.spotify.com/track/7D6WfjE6qDlCJMkjQYYlnJ) | [Joey Yung](https://open.spotify.com/artist/2zzKlxMsKTPMsZacZCPRNA) | [就讓這大雨全都落下](https://open.spotify.com/album/5r3nFPZFjCTHprTs9vZfm3) | 4:14 | 2022-08-08 | 2022-08-17 |
 | [年少有為](https://open.spotify.com/track/6XY80Ofqd8j0SGiEdRLwCp) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [耳朵](https://open.spotify.com/album/0EcIAelkxuOa5hc3XvxyXy) | 4:39 | 2022-07-25 |  |
 | [年青有為](https://open.spotify.com/track/5dhzpjvwo4tkSuUS7otPoF) | [Feng Ze](https://open.spotify.com/artist/6QYehwA9q6UQEMs1Vak0uy), [Edan 呂爵安](https://open.spotify.com/artist/5jewGMrZtMNJk5OsZ61Cpo) | [年青有為](https://open.spotify.com/album/21mjvuCpLVh8tvSEFUG8Of) | 4:18 | 2022-08-08 |  |
 | [很小很小](https://open.spotify.com/track/2uYtFTwlonn8X0cPkTlWTW) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [Have A Nice Day](https://open.spotify.com/album/0JN2lwS7ZIwFWBgPSs23gF) | 5:13 | 2022-06-06 | 2022-07-22 |
@@ -170,6 +170,7 @@
 | [無所不在](https://open.spotify.com/track/7gX65sNTAc3cdlVCZnRK7R) | [Jane Huang](https://open.spotify.com/artist/3anb4BMiWghyicokBR8lwm) | [無所不在](https://open.spotify.com/album/7wlBKePkqkF8eu61s2zxxP) | 3:44 | 2022-06-06 | 2022-06-21 |
 | [爛泥](https://open.spotify.com/track/4kp6vXluueVODT6hmzdfIB) | [唐漢霄](https://open.spotify.com/artist/0Cpg0LpyuQ5yNQBEY9N9Mw) | [爛泥](https://open.spotify.com/album/00rdk7qriOcGpzAdXZCHdf) | 4:02 | 2022-06-13 | 2022-07-04 |
 | [獨佔](https://open.spotify.com/track/5mSIIaSJVlnutYdwpghpB0) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [變心記](https://open.spotify.com/album/1x4hFoFuKBACeNihbou0i9) | 4:38 | 2022-06-13 | 2022-07-15 |
+| [獲獎人](https://open.spotify.com/track/5s8u5uW7zXvWfes7xh0Gr8) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [獲獎人](https://open.spotify.com/album/03o1FOmIQdIOjgSnj93RFb) | 4:00 | 2022-08-15 |  |
 | [男二號](https://open.spotify.com/track/1YTr9bx7g2JMwjApb72tes) | [Joker Xue](https://open.spotify.com/artist/1cg0bYpP5e2DNG0RgK2CMN) | [男二號](https://open.spotify.com/album/1XhaXOXcCJIprINnCyMgxP) | 4:47 | 2022-06-27 | 2022-07-27 |
 | [當我們不在一起](https://open.spotify.com/track/2IrxQL5LAsqdXNOkDP4sAP) | [Quarterback](https://open.spotify.com/artist/0x1cerphBlEKCJL8Mqs6y3) | [當我們不在一起](https://open.spotify.com/album/2aodkqwQyt6hPuMDMwL3Cd) | 4:24 | 2022-08-08 |  |
 | [白鸽](https://open.spotify.com/track/0qrzbXs43YrxdaSAhLUA5v) | [你的上好佳](https://open.spotify.com/artist/1k06YlN2x0BDLE7EeBpGap) | [白鸽](https://open.spotify.com/album/2xtp5cx9nv9lJ4r6xhDLgV) | 3:28 | 2022-08-08 |  |

@@ -4,7 +4,7 @@
 
 > All the <a href="spotify:genre:edm\_dance">big ones</a> with James Hype.
 
-170 songs - 8 hr 50 min - [published](https://open.spotify.com/playlist/4bKXpbCW98nhngOjZh3mfe)
+171 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/4bKXpbCW98nhngOjZh3mfe)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Anywhere With You](https://open.spotify.com/track/5MxKAr6Ui5hQ9TtjdnlmrR) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Anywhere With You](https://open.spotify.com/album/0JaOI27aTExNAnLHpKi2wl) | 2:38 | 2022-02-18 | 2022-07-29 |
 | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/track/273n4aGEPcL1HrcdhpGGul) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [NOUMENN](https://open.spotify.com/artist/7bFQpPcrEXYDQDcVPVahyC) | [Around The World \(feat\. NOUMENN\)](https://open.spotify.com/album/5mbOLvo8EOsUyuKStqC0aY) | 3:19 | 2021-11-03\* | 2021-11-13 |
 | [Astronomia \- Never Go Home](https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz) | [Tony Igy](https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW) | [Astronomia \(Never Go Home\)](https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq) | 2:36 | 2021-11-03\* | 2022-01-28 |
+| [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 | 2022-08-16 |  |
 | [Because You Move Me](https://open.spotify.com/track/05GvwwTLLID738BbKN1ze0) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Because You Move Me](https://open.spotify.com/album/6BJlfbdvDpdjeC35GNRwBI) | 3:16 | 2021-11-03\* | 2022-06-10 |
 | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 | 2022-02-18 |  |
 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 | 2021-11-03\* | 2022-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 
 > Aquí están las meras\-meras de nuestro cancionero\. En portada: Pedro Infante
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,013 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,099 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 7 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 |
 | 8 | [La Media Vuelta](https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Segundo Romance](https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0) | 2:41 |
 | 9 | [A La Antigüita](https://open.spotify.com/track/798ahLNEcoFER7Vywg1FMT) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 2:36 |
-| 10 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 |
-| 11 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 |
+| 10 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 |
+| 11 | [Me La Avente](https://open.spotify.com/track/3ahvKiNH7l6EpnTnzkZpG1) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Malo](https://open.spotify.com/album/4fvBzXczcpD346IFgtWnaI) | 2:35 |
 | 12 | [Abrázame Muy Fuerte](https://open.spotify.com/track/2nejvFyJeTDtMRP2nUMt0J) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Abrázame Muy Fuerte](https://open.spotify.com/album/2ERJFuFlmwOV0bxl8VOtdU) | 3:59 |
 | 13 | [De Los Besos Que Te Di](https://open.spotify.com/track/1qfoq1qvZT7VwDVeekCJ97) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:47 |
 | 14 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 |
@@ -29,10 +29,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 19 | [Vete Ya](https://open.spotify.com/track/3gqgSM82j6NMAj4Jllr06T) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Mi Satisfacción](https://open.spotify.com/album/2uJ0YxszsHKfS14kOPmAFl) | 2:37 |
 | 20 | [Acá Entre Nos](https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Que De Raro Tiene](https://open.spotify.com/album/2h6LhZi0civVoLcIe6WSx3) | 3:15 |
 | 21 | [¿Por Qué Me Haces Llorar?](https://open.spotify.com/track/68pE8830rWrd5LSSfKcRqn) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel](https://open.spotify.com/album/43k4po9vUTVv54kNCBXWcT) | 3:02 |
-| 22 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 |
+| 22 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
 | 23 | [Tatuajes](https://open.spotify.com/track/57dG9il4j7Hi7G8Cqgi0Ts) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:31 |
 | 24 | [La Venia Bendita](https://open.spotify.com/track/4HAtRUbOtuIkvTSUhDr8sV) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Marco Antonio Solis](https://open.spotify.com/album/37pu7kgBbnw0AGTxhHVPOP) | 3:11 |
-| 25 | [La Mejor De Todas](https://open.spotify.com/track/1F6BAyY4iIzHiZCnUIZDbn) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [La Mejor De Todas](https://open.spotify.com/album/6YeSYcQwO0BYw0bABVuGKW) | 3:27 |
+| 25 | [Por Mi No Te Detengas](https://open.spotify.com/track/3mV5TTtHnXUeOzRkyFKsVl) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Con Todas Las Fuerzas](https://open.spotify.com/album/265Gtj6TCk9UcWpyE2LDeM) | 3:45 |
 | 26 | [La bikina \- En vivo](https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Vivo](https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo) | 2:59 |
 | 27 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 |
 | 28 | [Cada Vez Te Extraño Más](https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Cada Vez Te Extraño Más](https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN) | 4:10 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 34 | [No Hay Novedad](https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 3:03 |
 | 35 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 |
 | 36 | [Hasta Que Te Conocí](https://open.spotify.com/track/6XLobzCdi98lFcxG3eGYNr) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Pensamientos](https://open.spotify.com/album/48zTdk2DxqybNPEJfL6Mnl) | 7:15 |
-| 37 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
-| 38 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
+| 37 | [Ya Te Perdí La Fe](https://open.spotify.com/track/0KHDthR0XvPoeJaqBc7Sg5) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Ojos En Blanco](https://open.spotify.com/album/6KfwGFnaelkfX5KDET17Bb) | 2:27 |
+| 38 | [Seremos](https://open.spotify.com/track/0B5nnPv1ebuo0VFXCMfUij) | [El Bebeto](https://open.spotify.com/artist/1YhMWppPt9RVODKD1KCs7W) | [Mi Persona Preferida](https://open.spotify.com/album/5539gXhKSR7ykwrh6wamQJ) | 3:06 |
 | 39 | [Siempre Clave](https://open.spotify.com/track/02aS4O8n7k4UGLXqodbfSk) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Clave 702](https://open.spotify.com/artist/3dBuaGsQYVTgxHkNxBNyL2) | [Siempre Clave](https://open.spotify.com/album/5UouRJGXvLDXqlriqFMSKe) | 3:14 |
 | 40 | [A Través del Vaso](https://open.spotify.com/track/1x5Fqllow3ngr5euK3hXSw) | [Grupo Arranke](https://open.spotify.com/artist/1A773r2lVYAnmt8uwb5BOu) | [A Través del Vaso](https://open.spotify.com/album/7vT5aK4tV66WR8OH16gKjn) | 3:08 |
 | 41 | [Amor Eterno](https://open.spotify.com/track/2TC4v9YiuQYk3Tk8RH7fV4) | [Rocío Dúrcal](https://open.spotify.com/artist/2uyweLa0mvPZH6eRzDddeB) | [Canta A Juan Gabriel](https://open.spotify.com/album/0KXlM36v51VrPceSsiz42M) | 6:49 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 80 | [Cuándo sale la luna](https://open.spotify.com/track/7CLge2qFvAzm9hvgSlKd1z) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:27 |
 | 81 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 |
 | 82 | [Y...](https://open.spotify.com/track/0wuSvq7ZYwAcW2d86hyshh) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Javier Solis Con Acoo De Mariachi](https://open.spotify.com/album/0mo4FKlS0n0NtMAQw8SdNn) | 2:39 |
-| 83 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
-| 84 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
+| 83 | [La Malagueña](https://open.spotify.com/track/3ffFEGNAioJPjFYAruekiT) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:53 |
+| 84 | [Respeta Mi Dolor](https://open.spotify.com/track/4LciRG6uwOQUOzWqClmZdV) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Boleros 20° Aniversario](https://open.spotify.com/album/0esYasTKvD80uDCEnIf6Eb) | 2:56 |
 | 85 | [El Taconazo](https://open.spotify.com/track/1k8LMNtT8hsd4cPVwYchyX) | [El Piporro](https://open.spotify.com/artist/2RDCFdmJvNbGQBILkTvF5q) | [Lo Mejor De El Piporro](https://open.spotify.com/album/7Fk73SIehkIrO2uoo1L643) | 2:15 |
 | 86 | [Amorcito corazón](https://open.spotify.com/track/73WX2V6JVfyQYYIG3K76i8) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [15 Inmortales de Pedro Infante](https://open.spotify.com/album/0EUGqkj07wWx27XADAq3Ba) | 3:01 |
 | 87 | [Paloma negra](https://open.spotify.com/track/7cOZAzuSGF7y4pNX35B7yq) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [A 10 años....un recuerdo permanente](https://open.spotify.com/album/1kjh1Y0RyHMdXLQWJqkf4R) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXP3HyjUhW1b.md) - [plain]
 | 99 | [Caminos de Guanajuato](https://open.spotify.com/track/2NYtb44MFHpDadBfNFcQXd) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [El Rey](https://open.spotify.com/album/6ugwfm6B8ToDlJndtQJ7jf) | 3:14 |
 | 100 | [Mi Gusto Es](https://open.spotify.com/track/7nxcuxZdkAtkrTkleoUi9S) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 2:51 |
 
-Snapshot ID: `MTYzNjczNTc1OCwwMDAwMDAwMGRkM2YxZjRmYmU3Y2U2NzkyNWYxOTM1YWIyMTI3Njk1`
+Snapshot ID: `MTYzNjczNTc1OCwwMDAwMDAwMGU3YWZjNTQ2OTg3NjIyZGVjZDYwNjI5ZDQ2NjI2NDE5`

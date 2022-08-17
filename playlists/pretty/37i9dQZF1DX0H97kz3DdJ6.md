@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 
 > as mais tristes do brasil
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,713 likes - 75 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,778 likes - 75 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H97kz3DdJ6.md) - [plain]
 | 10 | [MERCEDES](https://open.spotify.com/track/0cq8MDW1cDoCFUah8J9dzZ) | [Magyn](https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU) | [MERCEDES](https://open.spotify.com/album/4XTrNXx57PEHtRvQG9Zk3J) | 2:00 |
 | 11 | [cansei de falar de amor](https://open.spotify.com/track/4hUyApGomeztSlvXijsI6P) | [gaefi](https://open.spotify.com/artist/2fNMhstQezqzVqfpZEHW5M) | [cansei de falar de amor](https://open.spotify.com/album/7ydUr2inEknqfGGk5s26sL) | 3:16 |
 | 12 | [Fica Mais um Pouco \- Speed](https://open.spotify.com/track/60pOKtx48FsYVKii0pG0bL) | [Fuji](https://open.spotify.com/artist/2hRHTgxBeovtixZArRGiY1), [Indie Space](https://open.spotify.com/artist/0W1Rb8JlinMAExLtluwWxr), [Sadnation](https://open.spotify.com/artist/03eBztaT761cekpkMOZEDY) | [Fica Mais um Pouco \(Speed\)](https://open.spotify.com/album/60RIdS7LLMXgpeq9MXcZGD) | 1:36 |
-| 13 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |
+| 13 | [Não É Papo de Amor](https://open.spotify.com/track/3JxYJnOrox7cNs1yv0JRZk) | [Tiago Mac](https://open.spotify.com/artist/3GM0VyM1n1qvk0v2PfXX4n), [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [4555](https://open.spotify.com/artist/2g8MdRUUgyYMiQyXgz15pa), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW) | [Minha Alma Canta II](https://open.spotify.com/album/67iDr3vGh8OGgheIA6CkKS) | 2:42 |
 | 14 | [Coração Gelado](https://open.spotify.com/track/4TuhjX8VbmRYnsu4KatTyG) | [David iesu](https://open.spotify.com/artist/6mfkFg4ZF8th47O0eKeRLH) | [Coração Gelado](https://open.spotify.com/album/7eGJFopEpP5wmlAgSLECqu) | 2:37 |
 | 15 | [Fragmentado](https://open.spotify.com/track/2rq3atuTm26XTjbnTDWtti) | [Nasac](https://open.spotify.com/artist/6g5b2tgMUMnb51tZ8Z3Tby), [Sadstation](https://open.spotify.com/artist/4OFUU6MkPNc2X96UJMlR0h) | [Fragmentado](https://open.spotify.com/album/0fOi6D7J5ySn7S3NbB3SQN) | 2:00 |
 | 16 | [Seu Jogo](https://open.spotify.com/track/6AhfamkIabstC8K5tdf1A1) | [Hiosaki](https://open.spotify.com/artist/7wYvRV1aFfU9UlGDxoZQFY) | [Seu Jogo](https://open.spotify.com/album/50MGM6X8LSpI1hHGYcgiQk) | 3:12 |

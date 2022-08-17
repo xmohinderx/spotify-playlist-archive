@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Domiziana
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,967 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,968 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 53 | [Stay \(feat\. Lucky Daye\)](https://open.spotify.com/track/1Iw6coQD0aDmgF3yuaD73G) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [KEYS II](https://open.spotify.com/album/52Y1gGjYphRowQYLxu8bxX) | 3:38 |
 | 54 | [Ich will](https://open.spotify.com/track/507wHQirAsVaH8DweW1p6b) | [DUEJA](https://open.spotify.com/artist/1QKx9HbmmkV4FgL2nkFVRl) | [Ich will](https://open.spotify.com/album/0lvS1zeYz3LUq1ROKRh3EX) | 2:16 |
 | 55 | [The Recipe](https://open.spotify.com/track/7lWEW3uv2AKQnpFAv9msIV) | [Nelson Dialect](https://open.spotify.com/artist/0ciHGUC86265ZD8uPVEs4N), [Sterneis](https://open.spotify.com/artist/2WkWYAv7rOry0WxWiDrcYE), [Danase](https://open.spotify.com/artist/2XaERgr4wvrAjwQKPlNbVv) | [The Recipe](https://open.spotify.com/album/1MkzsUIpzztAr8c6JQvGeV) | 3:05 |
-| 56 | [M.I.A.](https://open.spotify.com/track/3PEWzEPc9f9KwDrQFHjhZi) | [XAY](https://open.spotify.com/artist/6lSwruDYkGr9Yvww8L8lao), [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA), [Toonicy](https://open.spotify.com/artist/61DgWTfQEvQot6noxGyD1F) | [M.I.A.](https://open.spotify.com/album/5sa4vggbmDlosMJoQmvTWJ) | 3:05 |
+| 56 | [M.I.A\. \(feat\. Nessi\)](https://open.spotify.com/track/3PEWzEPc9f9KwDrQFHjhZi) | [XAY](https://open.spotify.com/artist/6lSwruDYkGr9Yvww8L8lao), [Toonicy](https://open.spotify.com/artist/61DgWTfQEvQot6noxGyD1F), [Nessi](https://open.spotify.com/artist/2kE8IGeVPqfCUkVoKyCotA) | [M.I.A\. \(feat\. Nessi\)](https://open.spotify.com/album/5sa4vggbmDlosMJoQmvTWJ) | 3:05 |
 | 57 | [Take Me Back](https://open.spotify.com/track/6XmA5QZjSOmp7aQos8QVt1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif), [MEELA](https://open.spotify.com/artist/23mSn69IMflxLp3HPf7goI) | [Take Me Back](https://open.spotify.com/album/3Y4549e4ynh0yE6jejM6FK) | 2:21 |
 | 58 | [Say Yes](https://open.spotify.com/track/1YIYwFUDRzlQK0IXAVxPcN) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R) | [Say Yes](https://open.spotify.com/album/16Iue70ll51hWnwDiFiQrY) | 2:41 |
 | 59 | [Letztes Liebeslied](https://open.spotify.com/track/4Btio8Og0IzYk93AD6fQLc) | [lityway](https://open.spotify.com/artist/2fu4Q8SANwMZ2rWS5hqjcA), [SANITO](https://open.spotify.com/artist/45vHPR6n5JrfHQusM0zbT2), [yungfijay](https://open.spotify.com/artist/1BSxPCMKlpMH2NbPp3IAdm) | [Letztes Liebeslied](https://open.spotify.com/album/75dxadbFrGH1cIzEc4aUH4) | 2:54 |

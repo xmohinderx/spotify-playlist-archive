@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 
 > County's best like you've never heard before\. Cover: Kane Brown, Kelsea Ballerini & Breland
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,386 likes - 65 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,407 likes - 65 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 21 | [House Fire \(feat\. The Travelin' McCourys\)](https://open.spotify.com/track/0kD9ESXYhdNDYDDNq3MIjc) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [The Travelin' McCourys](https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I) | [Spotify Singles](https://open.spotify.com/album/2lUa80FmRYq0pYjGZiDWBD) | 3:34 |
 | 22 | [Smalltown Boy \- Spotify Singles](https://open.spotify.com/track/2UyJBtpLTxB5D4M0Apvu7e) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Smalltown Boy \(Spotify Singles\)](https://open.spotify.com/album/6O29X2hJNBL6TE2SSKQnmL) | 5:17 |
 | 23 | [Tougher Than The Rest \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/76v3BntynHQflWb5ptBgV4) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Spotify Singles](https://open.spotify.com/album/0Oiwdbyxujtkla4K5a8ttt) | 3:52 |
-| 24 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
-| 25 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
+| 24 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 |
+| 25 | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/track/5ZO6g6fEK9tsXNn2yqlzIr) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Wide Open Spaces \- Spotify Singles](https://open.spotify.com/album/14J7gZWOOBbG3LKtE0xs4t) | 4:00 |
 | 26 | [Un\-Break My Heart \- Spotify Singles](https://open.spotify.com/track/0wGOX6Go9IHpSXgL6SfsD1) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c) | [Spotify Singles](https://open.spotify.com/album/4OGc172YSCEreeAyj8Eb25) | 4:16 |
 | 27 | [Folsom Prison Blues \- Spotify Singles](https://open.spotify.com/track/1wj5x7RQ84qfjbBNm0PmWw) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Spotify Singles](https://open.spotify.com/album/7c95oJyrVBBYkgSbJIxtR1) | 3:52 |
 | 28 | [Tequila \- Live Session at Sound Stage Studios, Nashville, TN](https://open.spotify.com/track/3yj6urYIInWjuE9YzUOKFT) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Spotify Singles](https://open.spotify.com/album/07y7Hurh5dieo9clbTBICi) | 2:54 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXh4ecan7Hh.md) - [plain]
 | 64 | [Shitty Golfer \(Recorded at Sound Stage Studios Nashville\)](https://open.spotify.com/track/3moAWjoAN1vphfLnoBHdsO) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Spotify Singles](https://open.spotify.com/album/43Rr16UbNM5Ui01V4tJxSM) | 2:14 |
 | 65 | [Long Live Love \- Recorded at Spotify Studios Nyc](https://open.spotify.com/track/3vVhMYRIZmeuPyhIsd1up8) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Spotify Singles](https://open.spotify.com/album/6d9KkEhEx8QsRmJ1zlOHMn) | 3:17 |
 
-Snapshot ID: `MTY1NTkzMzI3NSwwMDAwMDAwMDEzZWVmYTBmZjdlY2VjOTRiOTkyMDc3NDNiNjJiMGYz`
+Snapshot ID: `MTY1NTkzMzI3NSwwMDAwMDAwMGIwZTQzMzcyYTg1NDNkOTE2OTQ0NzdkYzdjYWVhNjEw`

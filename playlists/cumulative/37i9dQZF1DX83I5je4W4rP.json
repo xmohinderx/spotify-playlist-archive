@@ -48,6 +48,24 @@
     },
     {
       "album": {
+        "name": "Always With Me",
+        "url": "https://open.spotify.com/album/0DeaiadTeALAqCCUW4Lv5Y"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263986,
+      "name": "Always With Me",
+      "url": "https://open.spotify.com/track/2ToMES33dQe8kiTPSjTdZH"
+    },
+    {
+      "album": {
         "name": "At Peace (with Lutan Fyah)",
         "url": "https://open.spotify.com/album/1C6Gz2RHpDRYVMzk0yMGXD"
       },
@@ -875,7 +893,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 210050,
       "name": "Down With You",
       "url": "https://open.spotify.com/track/47Axm1bTbEbOvkXpzOv5ZQ"
@@ -1683,7 +1701,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 304322,
       "name": "Jump",
       "url": "https://open.spotify.com/track/5Y2Ip7X7gLrd8UpM9G1XhY"
@@ -2093,7 +2111,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 316380,
       "name": "Mountain (with Clinton Fearon)",
       "url": "https://open.spotify.com/track/0qmYEbDogh2bJ3E0xfkTAS"

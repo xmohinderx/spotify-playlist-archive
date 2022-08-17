@@ -4,7 +4,7 @@
 
 > Slacker jams\. Cover: Frankie Cosmos
 
-307 songs - 16 hr 30 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
+308 songs - 16 hr 33 min - [published](https://open.spotify.com/playlist/3DFRzyGUurZxuvxmPOrIHy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,9 +41,10 @@
 | [Beautiful Mind](https://open.spotify.com/track/1nSrsbo4Mpsg0UmjMUjMlD) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:19 | 2021-02-26 |  |
 | [Beef Jerky](https://open.spotify.com/track/1ttOv18dNuMVmbtXI6Yotl) | [Paxtcord](https://open.spotify.com/artist/2pzxlKBrvgogWXuVC9mxNU) | [Beef Jerky](https://open.spotify.com/album/0w0T9Q1vL0rz14TAtCcnqR) | 2:49 | 2022-03-30 | 2022-06-19 |
 | [Before the Fall](https://open.spotify.com/track/1tltnRfo8ByhQKOyX9qbAB) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/4aywJtcYsd7cFuRyqnDJgs) | 2:59 | 2021-10-08 | 2022-07-29 |
+| [Before the Fall](https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Afternoon Bike Ride](https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT) | 2:59 | 2022-08-05 |  |
 | [Being Wrong](https://open.spotify.com/track/0PjOZxeR5NHnaIcLQAryvD) | [Joss Mogli](https://open.spotify.com/artist/1m8ckDOsejA9s7GN9Y6N8q) | [Being Wrong](https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD) | 2:33 | 2021-12-18 | 2022-07-28 |
 | [Bet You Know](https://open.spotify.com/track/7nSX6x2chQ9wh7NHkQFOfh) | [bb sway](https://open.spotify.com/artist/5EszOYdmBVD4jD0vbyKyMz) | [Bet You Know](https://open.spotify.com/album/3sk8t4K2HUDXcPBmhHKNXd) | 3:18 | 2021-06-04 | 2022-07-29 |
-| [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 | 2020-10-27\* |  |
+| [Better Than Heaven](https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ) | [Jhana Boy](https://open.spotify.com/artist/2Vlf1v1k5FzSmOVBsVRT2F) | [Better Than Heaven](https://open.spotify.com/album/4TD3lHUlqgOGL6ikKTYtmG) | 3:18 | 2020-10-27\* | 2022-08-17 |
 | [Big Nothing](https://open.spotify.com/track/5z8uTILTDLsjfeQot1NA7t) | [Willie J Healey](https://open.spotify.com/artist/4T4JE09FOmRgv2Wzb6JaOR) | [Twin Heavy](https://open.spotify.com/album/2V2EG8yoXMSWuhJgym3l1V) | 2:22 | 2020-10-27\* | 2022-07-29 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-10-27\* | 2020-10-30 |
 | [Blindness](https://open.spotify.com/track/0ENVNAVahHrrPfroJ1XmXz) | [Maripool](https://open.spotify.com/artist/2Lmop7bq7RxW1Ue2GQsgSf) | [Blindness](https://open.spotify.com/album/5Aw5wKmzAaEJuZdHLKpKT3) | 3:32 | 2021-02-26 | 2022-07-11 |

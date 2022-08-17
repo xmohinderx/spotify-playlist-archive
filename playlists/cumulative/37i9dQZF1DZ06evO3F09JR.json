@@ -271,7 +271,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 601426,
       "name": "CMAA",
       "url": "https://open.spotify.com/track/4ThWypGQKfkB07EoT1HkaK"
@@ -311,7 +311,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 328666,
       "name": "Enter Exit",
       "url": "https://open.spotify.com/track/7wuuqyvG8y72HPxoFIa2oc"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 308813,
       "name": "LET GO",
       "url": "https://open.spotify.com/track/1jHZ8q4QPVHaxunYsrScnR"
@@ -689,7 +689,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 1019203,
       "name": "MAAC",
       "url": "https://open.spotify.com/track/4Bq7pjMWPLLyto3F1nfw46"
@@ -891,6 +891,24 @@
       "duration_ms": 218493,
       "name": "Secrets of Golem Island",
       "url": "https://open.spotify.com/track/44XbZoz0X4cKAScjpamfTb"
+    },
+    {
+      "album": {
+        "name": "SCURO CHIARO",
+        "url": "https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 515693,
+      "name": "SEMPRE",
+      "url": "https://open.spotify.com/track/1EXGsJtPkiUu90OkRTg4FY"
     },
     {
       "album": {
@@ -1103,7 +1121,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 527120,
       "name": "Water",
       "url": "https://open.spotify.com/track/42V1mTUau3OIFKrBCMTrjV"

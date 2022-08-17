@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 
 > The sound of a g\-g\-generation\. Cover: Limp Bizkit
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,417,988 likes - 70 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,419,320 likes - 70 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 17 | [Butterfly](https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC) | [Crazy Town](https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se) | [The Gift Of Game](https://open.spotify.com/album/0hdOk76DmEMYI6QV92mIin) | 3:36 |
 | 18 | [Headstrong](https://open.spotify.com/track/1AEYT6VxrxXPMoQUxsY0E4) | [Trapt](https://open.spotify.com/artist/1UdQqCUR7RwB9YYJONwbdM) | [Trapt](https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk) | 4:45 |
 | 19 | [My Way](https://open.spotify.com/track/2gSVKxPDww9Eep5rdvtdem) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [Chocolate Starfish And The Hot Dog Flavored Water](https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7) | 4:32 |
-| 20 | [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 |
+| 20 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 |
 | 21 | [Papercut](https://open.spotify.com/track/1Vej0qeQ3ioKwpI6FUbRv1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:04 |
-| 22 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 |
+| 22 | [Sugar](https://open.spotify.com/track/31RTFPrB7wmYBhlkM2ILXG) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [System Of A Down](https://open.spotify.com/album/3sSfjX4fhZonjyZ10x0l0f) | 2:33 |
 | 23 | [Falling Away from Me](https://open.spotify.com/track/2F6FfZ4w8z3eJpSxPotVO5) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Issues](https://open.spotify.com/album/5U0pevIOTrPoDsN8YsBCBh) | 4:30 |
 | 24 | [Wait and Bleed](https://open.spotify.com/track/2gscB6kDOmrv1P6qs2KXE3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:27 |
 | 25 | [Youth of the Nation](https://open.spotify.com/track/0UrWr7Jnu1heq1o99ZwUd0) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:16 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfZ6moR6J0G.md) - [plain]
 | 65 | [Get Up Again](https://open.spotify.com/track/7jClgHzR5JG69gar7rVMoX) | [Flaw](https://open.spotify.com/artist/4hFScNSgSkApFw193xlyH7) | [Through The Eyes](https://open.spotify.com/album/4ENDNin0EF4elzkaWLvbAM) | 2:56 |
 | 66 | [I Am Loco](https://open.spotify.com/track/3jmelhU4kuytaLPLeiAerH) | [Ill Niño](https://open.spotify.com/artist/1xJ6l1VXgGuyZ0uhu27caF) | [Revolution Revolucion](https://open.spotify.com/album/4IrzBBK9aFlpjtcdi9lAVJ) | 3:30 |
 | 67 | [Alive \- 2006 Remaster](https://open.spotify.com/track/3IRovqSVYx3CNtDWRebsET) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Greatest Hits \(The Atlantic Years\)](https://open.spotify.com/album/1i3YXOzNkaykTt6CxWGOOU) | 3:23 |
-| 68 | [Bloodwork](https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:18 |
-| 69 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
+| 68 | [Black](https://open.spotify.com/track/5DoTRJlzMaGAMHPTDrfvfW) | [Sevendust](https://open.spotify.com/artist/35Uu85Pq33mK8x1jYqsHY2) | [Sevendust \(Definitive Edition\)](https://open.spotify.com/album/7tpMJufRsPz0EPv5hZSWs3) | 4:08 |
+| 69 | [Bloodwork](https://open.spotify.com/track/201NunZ5rsvabQoX2PxMlS) | [36 Crazyfists](https://open.spotify.com/artist/4ijGLY4dzlurDh7jqH3tW7) | [A Snow Capped Romance](https://open.spotify.com/album/4RXbqQIZqHp5VhyhQZkvD9) | 3:18 |
 | 70 | [A Certain Shade of Green](https://open.spotify.com/track/2e3BZM6rOrUpF0SvvhV8WR) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 3:11 |
 
-Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMGI3MWU0NDdiYmMwOTMzNzIzZDg4YjA2MmUxODFiNzdk`
+Snapshot ID: `MTY1NTUyOTc0OCwwMDAwMDAwMDBlYmVjZjliMTNkNjg1NmZkM2Y0YTUyNTE0MDEyYzM4`

@@ -77,7 +77,7 @@
       ],
       "date_added": "2022-06-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 176640,
       "name": "1, 2 Step (Supersonic)",
       "url": "https://open.spotify.com/track/09iOlbzf6gyapDqeMNYSCp"
@@ -5627,7 +5627,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
@@ -5689,7 +5689,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 168073,
       "name": "Deja Reve",
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
@@ -7253,7 +7253,7 @@
       ],
       "date_added": "2022-07-18",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-03",
+      "date_removed": null,
       "duration_ms": 202821,
       "name": "Everything Goes On",
       "url": "https://open.spotify.com/track/3WBRfkOozHEsG0hbrBzwlm"
@@ -8029,6 +8029,32 @@
       "duration_ms": 170714,
       "name": "Feeling Right",
       "url": "https://open.spotify.com/track/614Io1mHm8fsqF8k9D1Mlu"
+    },
+    {
+      "album": {
+        "name": "Feeling Right (Everything Is Nice) [feat. Popcaan & Wale]",
+        "url": "https://open.spotify.com/album/4Hq1UiCCPrJWOG4q3CK8az"
+      },
+      "artists": [
+        {
+          "name": "Matoma",
+          "url": "https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq"
+        },
+        {
+          "name": "Popcaan",
+          "url": "https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR"
+        },
+        {
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199200,
+      "name": "Feeling Right (Everything Is Nice) (feat. Popcaan & Wale)",
+      "url": "https://open.spotify.com/track/0PSHEHVctL81aDFJ2V0wQ0"
     },
     {
       "album": {
@@ -11083,7 +11109,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 326146,
       "name": "Human Sound",
       "url": "https://open.spotify.com/track/7INfFJ0S1a6ZnIxtxDJlwq"
@@ -15717,7 +15743,7 @@
       ],
       "date_added": "2022-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 178909,
       "name": "Married to Your Melody",
       "url": "https://open.spotify.com/track/7kl1oW2J2F9CcSvuej1V9h"
@@ -16813,7 +16839,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 153414,
       "name": "My Pony",
       "url": "https://open.spotify.com/track/7e1pVaWqwd2W1KEeTBodCy"
@@ -17201,7 +17227,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 202158,
       "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
@@ -21019,7 +21045,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 147818,
       "name": "Samba",
       "url": "https://open.spotify.com/track/0skgJbXMM4sPRwSKXvO2id"
@@ -23003,7 +23029,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 141290,
       "name": "STAY",
       "url": "https://open.spotify.com/track/4ArMwaJAUT2xC7vIETjqdU"
@@ -23967,7 +23993,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 170982,
       "name": "Teardrops (feat. Majid Jordan)",
       "url": "https://open.spotify.com/track/0pPpcDDIiVBeBS5jBecnSC"
@@ -24169,7 +24195,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 187491,
       "name": "Tell You What It Is",
       "url": "https://open.spotify.com/track/6FqWqZZAV6bq2iE5dTgDNc"
@@ -24337,7 +24363,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 198979,
       "name": "The Best Part of Life (Imanbek Remix)",
       "url": "https://open.spotify.com/track/6OboXrS1zbfCmh7uDFCIQ5"
@@ -26617,7 +26643,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 149642,
       "name": "We Could Be Together (feat. Daddy DJ)",
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
@@ -26787,6 +26813,24 @@
       "duration_ms": 171547,
       "name": "What A Life (feat. Stevie Appleton)",
       "url": "https://open.spotify.com/track/587xXusqiMW9gSXkNK8Zxf"
+    },
+    {
+      "album": {
+        "name": "What Do You Mean?",
+        "url": "https://open.spotify.com/album/47ViKYy6DyjrbAL1LBWc22"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207546,
+      "name": "What Do You Mean?",
+      "url": "https://open.spotify.com/track/6nRwc5GgNvBMkKaynhQzrm"
     },
     {
       "album": {
@@ -27795,7 +27839,7 @@
       ],
       "date_added": "2022-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 178304,
       "name": "World Hold On - FISHER Rework",
       "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
@@ -28217,7 +28261,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 148738,
       "name": "You Are The One",
       "url": "https://open.spotify.com/track/6gV31POxuW6R1ccxghaScx"

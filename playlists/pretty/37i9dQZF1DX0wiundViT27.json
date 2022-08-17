@@ -1,12 +1,12 @@
 {
   "description": "A dose of high-energy, feel-good rock tunes.",
-  "num_followers": 614011,
+  "num_followers": 613992,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzU3NDg1NSwwMDAwMDAwMDQyY2ZiZTQyMDBmZWVjMjk2MTFjYjE2Zjc4NWZkNjkx",
+  "snapshot_id": "MTY1NzU3NDg1NSwwMDAwMDAwMGQwODBkYWNkNzM1ZGQyZjE5ZGJmZTIxZDJiOTFjNTY5",
   "tracks": [
     {
       "added_at": "2022-06-28 15:41:47",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "The Funeral",
-        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
-      },
-      "artists": [
-        {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        }
-      ],
-      "duration_ms": 211197,
-      "name": "The Funeral",
-      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "TRAUMA",
         "url": "https://open.spotify.com/album/2QRU8jGOJHDMrCTPKIHVik"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "The Funeral",
+        "url": "https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW"
+      },
+      "artists": [
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "duration_ms": 211197,
+      "name": "The Funeral",
+      "url": "https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -651,22 +651,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "FUNERAL GREY",
-        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
-      },
-      "artists": [
-        {
-          "name": "Waterparks",
-          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
-        }
-      ],
-      "duration_ms": 164138,
-      "name": "FUNERAL GREY",
-      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "GLOW ON",
         "url": "https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 155199,
       "name": "MYSTERY",
       "url": "https://open.spotify.com/track/5iXnD2VizcAbErpkcuNQ6I"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "FUNERAL GREY",
+        "url": "https://open.spotify.com/album/4BCWDiQzz9tE9KilNixcld"
+      },
+      "artists": [
+        {
+          "name": "Waterparks",
+          "url": "https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu"
+        }
+      ],
+      "duration_ms": 164138,
+      "name": "FUNERAL GREY",
+      "url": "https://open.spotify.com/track/29zvr7PRPQhE8plnBZ44nZ"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "Internet Killed The Rockstar",
-        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
-      },
-      "artists": [
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 159393,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9"
       },
@@ -763,18 +747,18 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "Life Is Yours",
-        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+        "name": "Internet Killed The Rockstar",
+        "url": "https://open.spotify.com/album/2XeTY6zdUIUfItgZxXKsiO"
       },
       "artists": [
         {
-          "name": "Foals",
-          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
         }
       ],
-      "duration_ms": 224178,
-      "name": "2am",
-      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
+      "duration_ms": 159393,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/7vXtuHrqgzQi58ihUO7L2d"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -791,6 +775,22 @@
       "duration_ms": 196135,
       "name": "Natural Born Killer",
       "url": "https://open.spotify.com/track/78wMThFTNKThsWq19o0F1H"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "Life Is Yours",
+        "url": "https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq"
+      },
+      "artists": [
+        {
+          "name": "Foals",
+          "url": "https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa"
+        }
+      ],
+      "duration_ms": 224178,
+      "name": "2am",
+      "url": "https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "Everything's Electric",
-        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
-      },
-      "artists": [
-        {
-          "name": "Liam Gallagher",
-          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
-        }
-      ],
-      "duration_ms": 216859,
-      "name": "Everything's Electric",
-      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "TIRED OF WINNING",
         "url": "https://open.spotify.com/album/7zH2ySKpWjzJHX76zWG7SY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 206586,
       "name": "TIRED OF WINNING",
       "url": "https://open.spotify.com/track/0PZrUz3FLIkW8j7GaFbYBO"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "Everything's Electric",
+        "url": "https://open.spotify.com/album/2Dqayfhl6Eow6nsHBXTXM3"
+      },
+      "artists": [
+        {
+          "name": "Liam Gallagher",
+          "url": "https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9"
+        }
+      ],
+      "duration_ms": 216859,
+      "name": "Everything's Electric",
+      "url": "https://open.spotify.com/track/63JU4kHsgytIKkSM4tedme"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "I Hate You",
-        "url": "https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 162877,
-      "name": "I Hate You",
-      "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "Something Loud",
         "url": "https://open.spotify.com/album/07jTFwFWX1boeyv2mTmtx1"
       },
@@ -1051,18 +1035,18 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG"
+        "name": "I Hate You",
+        "url": "https://open.spotify.com/album/0SEn9u4HXFyS2l42hSAXYX"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 170563,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
+      "duration_ms": 162877,
+      "name": "I Hate You",
+      "url": "https://open.spotify.com/track/4QvxRSI7FfFTzQ1sr6z9on"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -1095,6 +1079,22 @@
       "duration_ms": 234093,
       "name": "Bloodfeather",
       "url": "https://open.spotify.com/track/66Avcq6c51vcMGXLzHH5d7"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/2EIv15518bIEB1LKkeDijG"
+      },
+      "artists": [
+        {
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+        }
+      ],
+      "duration_ms": 170563,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/23T4s8TZHQQvrBz6TOlJQI"
     },
     {
       "added_at": "2022-06-28 15:41:47",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-06-28 15:41:47",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 166779,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
-    },
-    {
-      "added_at": "2022-06-28 15:41:47",
-      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/468YxjlJ19TxL2zpAeQIhK"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 210662,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/7n7lAjhdmq60Y49MqhY7ej"
+    },
+    {
+      "added_at": "2022-06-28 15:41:47",
+      "album": {
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/1EEFnTyINt6GLnTrNJH1zT"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2yHmIxXi48DFl6zQlIhEaj"
     },
     {
       "added_at": "2022-06-28 15:41:47",

@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: girlpuppy
 
-564 songs - 1 day 8 hr 10 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+565 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -491,7 +491,8 @@
 | [That's What Everybody Said](https://open.spotify.com/track/4sp2EycL8CwmVklKhqUjpR) | [Wabie](https://open.spotify.com/artist/3wOQaMNQU0rbzWyGXIudmE) | [That's What Everybody Said](https://open.spotify.com/album/1wGTHTrbX8SulQLoJtjeTk) | 3:10 | 2021-10-08 | 2022-04-21 |
 | [The Cause](https://open.spotify.com/track/5cFx3Oi4oaNHL090x1LIyQ) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [The Cause](https://open.spotify.com/album/0P3CvoVxTcnTPgwUvR3bbe) | 3:05 | 2021-11-19 | 2022-04-28 |
 | [The Detail](https://open.spotify.com/track/1eVNSUm4POzvNUa9IqiltN) | [Delta Sleep](https://open.spotify.com/artist/05MlomiA9La0OiNIAGqECk) | [The Detail](https://open.spotify.com/album/43OoHqzqkT2tWRoj1hohdz) | 4:29 | 2021-06-11 |  |
-| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-22 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-07-22 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-22 | 2022-08-17 |
 | [the fatalist](https://open.spotify.com/track/4tjU3FbweegHC4T3taQ7RI) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the fatalist](https://open.spotify.com/album/3B21t0wxJugADsFAd6SU2X) | 4:27 | 2021-03-05 | 2022-04-29 |
 | [The Gloam](https://open.spotify.com/track/6pWyQjg29ytSLtIWkNEJuc) | [Vundabar](https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6) | [Devil for the Fire](https://open.spotify.com/album/61CtQxxTAKjdaBgVkg1hGL) | 3:30 | 2022-04-29 | 2022-05-18 |
 | [The Greatest](https://open.spotify.com/track/3hYfLNWbKnBut3ATcMwK5C) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [The Greatest / Skin A Rat](https://open.spotify.com/album/7J5OaO9WZfptgDJBRBFDrC) | 3:20 | 2021-11-18 | 2022-04-27 |

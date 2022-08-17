@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: Nahee(\ub098\ud788)) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 25973,
+  "num_followers": 26080,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMGNiMmIyZDVlZTE2ZGM2MTMxNThkMmVjYzYzNjY5ZGIw",
+  "snapshot_id": "MTY2MDMyOTMyNywwMDAwMDAwMDMxYTRmNDUzNTM0Yzk0MjRhODY2Y2JkYzRhMDk3ZWJk",
   "tracks": [
     {
       "added_at": "2022-08-12 18:35:27",
@@ -147,22 +147,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "APRIL 6th Mini Album 'the Ruby'",
-        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
-      },
-      "artists": [
-        {
-          "name": "APRIL",
-          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
-        }
-      ],
-      "duration_ms": 205332,
-      "name": "Oh! my mistake",
-      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Heng:gar\u00e6",
         "url": "https://open.spotify.com/album/3q6lN3kfsDgGaQUC7kVASH"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 233360,
       "name": "I Wish",
       "url": "https://open.spotify.com/track/3YtIeHuvBXkJAyv3twOYCC"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "APRIL 6th Mini Album 'the Ruby'",
+        "url": "https://open.spotify.com/album/6UOBloGQtXOHiAMjJm2LD5"
+      },
+      "artists": [
+        {
+          "name": "APRIL",
+          "url": "https://open.spotify.com/artist/4cJ99wTjC60pXcfyISL9fa"
+        }
+      ],
+      "duration_ms": 205332,
+      "name": "Oh! my mistake",
+      "url": "https://open.spotify.com/track/396Dkg9z5Q1hXxKryeP9T8"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -547,18 +547,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Caffeine",
-        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+        "name": "East Shore",
+        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
       },
       "artists": [
         {
-          "name": "Eyedi",
-          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "OOHYO",
+          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
         }
       ],
-      "duration_ms": 195973,
-      "name": "Caffeine",
-      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
+      "duration_ms": 212750,
+      "name": "With The Star",
+      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -575,6 +579,22 @@
       "duration_ms": 215693,
       "name": "SOUL LADY",
       "url": "https://open.spotify.com/track/6at6MpTibyLqAYnBee95Ev"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Caffeine",
+        "url": "https://open.spotify.com/album/7C5uLagmfRaN8piFHBVoki"
+      },
+      "artists": [
+        {
+          "name": "Eyedi",
+          "url": "https://open.spotify.com/artist/48BSHaU3lXnM3pYHyeqLXN"
+        }
+      ],
+      "duration_ms": 195973,
+      "name": "Caffeine",
+      "url": "https://open.spotify.com/track/5t8Ae6KUTCNVfC8Zj2JhrR"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -599,26 +619,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "East Shore",
-        "url": "https://open.spotify.com/album/3haGGKVIiuJ8wlJBriAhPP"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "With The Star",
-      "url": "https://open.spotify.com/track/5v7RICydLLBV5AKoCRmfrG"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -879,26 +879,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "Hoody",
-          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
-        }
-      ],
-      "duration_ms": 226804,
-      "name": "Submarine (with Hoody)",
-      "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Afterlife (Feat. OOHYO)",
         "url": "https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 270713,
       "name": "Afterlife (Feat. OOHYO)",
       "url": "https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "Hoody",
+          "url": "https://open.spotify.com/artist/7lXgbtBDcCRbfc5f8FhGUL"
+        }
+      ],
+      "duration_ms": 226804,
+      "name": "Submarine (with Hoody)",
+      "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1051,6 +1051,26 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "A song from the past",
+        "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
+      },
+      "artists": [
+        {
+          "name": "Solar",
+          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
+        },
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 235293,
+      "name": "A song from the past",
+      "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "& New",
         "url": "https://open.spotify.com/album/1p8YgPgFCXInpT5uM4PZoi"
       },
@@ -1115,22 +1135,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Onstage Digging Club Seoul Part.03",
-        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
-      },
-      "artists": [
-        {
-          "name": "Stella Jang",
-          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "It's Beautiful",
-      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Sunday Seoul Ep.1",
         "url": "https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC"
       },
@@ -1143,6 +1147,22 @@
       "duration_ms": 190363,
       "name": "Give Me The Light",
       "url": "https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Onstage Digging Club Seoul Part.03",
+        "url": "https://open.spotify.com/album/1fXC4LbehObaNhUu48huCC"
+      },
+      "artists": [
+        {
+          "name": "Stella Jang",
+          "url": "https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "It's Beautiful",
+      "url": "https://open.spotify.com/track/1ylAph6SIdV5Q5SQUWf8dX"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1243,26 +1263,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "A song from the past",
-        "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
-      },
-      "artists": [
-        {
-          "name": "Solar",
-          "url": "https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD"
-        },
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 235293,
-      "name": "A song from the past",
-      "url": "https://open.spotify.com/track/1EPUAXzisSkCcUTEU94cch"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "\uac15\uc218\uc9c0 BEST ALBUM",
         "url": "https://open.spotify.com/album/1cNgGqmtg1009Ij9opel30"
       },
@@ -1275,6 +1275,22 @@
       "duration_ms": 208236,
       "name": "\ubcf4\ub77c\ube5b \ud5a5\uae30",
       "url": "https://open.spotify.com/track/0yGkMcsEVqhvL9P8dizVap"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
+      },
+      "artists": [
+        {
+          "name": "Luli Lee",
+          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
+        }
+      ],
+      "duration_ms": 210136,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1315,22 +1331,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4Kek3o8zZRFpaNXyIMwJWp"
-      },
-      "artists": [
-        {
-          "name": "Luli Lee",
-          "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
-        }
-      ],
-      "duration_ms": 210136,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6dCukzSNFujNeSHe8KnKnV"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "Coconut Love",
         "url": "https://open.spotify.com/album/3vzJvwiI91UgooKT1jmSUx"
       },
@@ -1343,38 +1343,6 @@
       "duration_ms": 194772,
       "name": "Coconut Love",
       "url": "https://open.spotify.com/track/6urgOrkCIjtmyMYUkL370K"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "REBOOT",
-        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 211973,
-      "name": "Baby Don't Play",
-      "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
-      },
-      "artists": [
-        {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1395,6 +1363,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "Weki Meki 3rd Mini Album [HIDE and SEEK]",
         "url": "https://open.spotify.com/album/6Y01uMzamISHuBPyhSiDZ3"
       },
@@ -1411,8 +1395,24 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Dawn",
-        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
+        "name": "REBOOT",
+        "url": "https://open.spotify.com/album/6uZUsBaw4hH7TPa60A1W3a"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 211973,
+      "name": "Baby Don't Play",
+      "url": "https://open.spotify.com/track/3UAvQZ4pM9mXKfZBv8Go1g"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Cherry Blossom",
+        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
       },
       "artists": [
         {
@@ -1420,9 +1420,25 @@
           "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
         }
       ],
-      "duration_ms": 241542,
-      "name": "Dawn",
-      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
+      "duration_ms": 219666,
+      "name": "Cherry Blossom",
+      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "THIS CITY",
+        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+      },
+      "artists": [
+        {
+          "name": "ROCOBERRY",
+          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "THIS CITY",
+      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1463,18 +1479,34 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "THIS CITY",
-        "url": "https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu"
+        "name": "#TUSM",
+        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
       "artists": [
         {
-          "name": "ROCOBERRY",
-          "url": "https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P"
+          "name": "Yubin",
+          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
         }
       ],
-      "duration_ms": 194400,
-      "name": "THIS CITY",
-      "url": "https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8"
+      "duration_ms": 191587,
+      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
+      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "Dawn",
+        "url": "https://open.spotify.com/album/3vFZZ2VReaSF8S1IaoyYZA"
+      },
+      "artists": [
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        }
+      ],
+      "duration_ms": 241542,
+      "name": "Dawn",
+      "url": "https://open.spotify.com/track/7mE4LGndCfJwJLAzd6KU5M"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1495,38 +1527,6 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "Cherry Blossom",
-        "url": "https://open.spotify.com/album/6OLVSFzXGaiehp5qMHSa1E"
-      },
-      "artists": [
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "Cherry Blossom",
-      "url": "https://open.spotify.com/track/60LIER0taABmwhdgi5a5Jc"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "#TUSM",
-        "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
-      },
-      "artists": [
-        {
-          "name": "Yubin",
-          "url": "https://open.spotify.com/artist/3JUj7c2h5xkdOf0GJ07VWE"
-        }
-      ],
-      "duration_ms": 191587,
-      "name": "\ubcf4\ub0b4\uc904\uac8c Let You Go",
-      "url": "https://open.spotify.com/track/0SF7fd1Qb3L9K8K2HVIvrI"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
         "name": "THE PARK IN THE NIGHT part three",
         "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
       },
@@ -1539,22 +1539,6 @@
       "duration_ms": 213150,
       "name": "Black Hole",
       "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1575,18 +1559,18 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
-        "name": "AOA 4th Mini Album Good Luck",
-        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
       },
       "artists": [
         {
-          "name": "AOA",
-          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
         }
       ],
-      "duration_ms": 236031,
-      "name": "10 Seconds",
-      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1607,6 +1591,22 @@
       "duration_ms": 257031,
       "name": "When My Loneliness Calls You",
       "url": "https://open.spotify.com/track/61fkpzyUvPX7PMz9PnuHTF"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
+        "name": "AOA 4th Mini Album Good Luck",
+        "url": "https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB"
+      },
+      "artists": [
+        {
+          "name": "AOA",
+          "url": "https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN"
+        }
+      ],
+      "duration_ms": 236031,
+      "name": "10 Seconds",
+      "url": "https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA"
     },
     {
       "added_at": "2022-08-12 18:35:27",
@@ -1643,6 +1643,22 @@
     {
       "added_at": "2022-08-12 18:35:27",
       "album": {
+        "name": "SUMMER LOVE\u2026",
+        "url": "https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu"
+      },
+      "artists": [
+        {
+          "name": "CSVC",
+          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
+        }
+      ],
+      "duration_ms": 250004,
+      "name": "SUMMER LOVE\u2026",
+      "url": "https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ"
+    },
+    {
+      "added_at": "2022-08-12 18:35:27",
+      "album": {
         "name": "Seoul Vibes, Oceanic",
         "url": "https://open.spotify.com/album/4DqKZBow5uuKTQQiDoSjTF"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 191498,
       "name": "Come With Me (feat. Aden & H!)",
       "url": "https://open.spotify.com/track/5cyfnscoiwhmGnOZYvR9QJ"
-    },
-    {
-      "added_at": "2022-08-12 18:35:27",
-      "album": {
-        "name": "SUMMER LOVE\u2026",
-        "url": "https://open.spotify.com/album/2cMseEooCLrfoNa8GZ13nu"
-      },
-      "artists": [
-        {
-          "name": "CSVC",
-          "url": "https://open.spotify.com/artist/1rwoW5emVXVussR5078FoK"
-        }
-      ],
-      "duration_ms": 250004,
-      "name": "SUMMER LOVE\u2026",
-      "url": "https://open.spotify.com/track/5tVvmlomWtXPTYCirxP5NZ"
     }
   ],
   "unique_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",

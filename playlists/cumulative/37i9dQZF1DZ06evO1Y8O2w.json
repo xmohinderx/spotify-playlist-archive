@@ -164,6 +164,24 @@
     },
     {
       "album": {
+        "name": "You Know How to Love Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6McedcPTihVzYQ7dqLK7PM"
+      },
+      "artists": [
+        {
+          "name": "Phyllis Hyman",
+          "url": "https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184400,
+      "name": "But I Love You",
+      "url": "https://open.spotify.com/track/0ZyE4cTb4IRlMI3iwMoT8E"
+    },
+    {
+      "album": {
         "name": "Wide Receiver (Expanded Edition)",
         "url": "https://open.spotify.com/album/2HzXFwkID486XKjNArB24Z"
       },
@@ -259,7 +277,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-06-18",
+      "date_removed": null,
       "duration_ms": 239080,
       "name": "Deliver the Love",
       "url": "https://open.spotify.com/track/5dM31CDbVHA2Tj6OBRDegY"
@@ -295,7 +313,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 321800,
       "name": "Don't Wanna Change the World",
       "url": "https://open.spotify.com/track/06b5ZHfj1b9u3Kn4DegPSD"
@@ -465,7 +483,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-09",
+      "date_removed": null,
       "duration_ms": 253426,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/4A7MYo7tQyJfZMptVJ7IZh"
@@ -483,7 +501,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 262413,
       "name": "Hurry up This Way Again",
       "url": "https://open.spotify.com/track/0ZO2hnswG8lteyIf6G4FFn"
@@ -501,7 +519,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 242320,
       "name": "I Ain't Asking",
       "url": "https://open.spotify.com/track/4T5FdL1wOaydngJjPLHyBb"
@@ -555,7 +573,7 @@
       ],
       "date_added": "2022-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 328373,
       "name": "I Don't Want to Lose You",
       "url": "https://open.spotify.com/track/0anlJjyEo8JQTtOyhawl9G"
@@ -609,7 +627,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 359893,
       "name": "I'm Calling You",
       "url": "https://open.spotify.com/track/26JxIeSiCMikxLmEeZHwus"
@@ -627,7 +645,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 339666,
       "name": "I'm Truly Yours",
       "url": "https://open.spotify.com/track/3pXp6U7fYTj2sy5bK2FMML"
@@ -829,7 +847,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 282693,
       "name": "Love Is Here (feat. Phyllis Hyman)",
       "url": "https://open.spotify.com/track/41jJAf0D3oMABIvdS3BsBM"
@@ -1013,7 +1031,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 200213,
       "name": "Sleep On It",
       "url": "https://open.spotify.com/track/3pAmGIMw7jjf85vraM5mnA"
@@ -1049,7 +1067,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 541200,
       "name": "So Strange - 12\" Version",
       "url": "https://open.spotify.com/track/7cjiv0EP4j3wbNkehZbb74"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 322133,
       "name": "The Night Bird Gets the Love",
       "url": "https://open.spotify.com/track/5RBwLqfIzfHF4Iv5f5VL4q"
@@ -1193,7 +1211,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 322773,
       "name": "Tonight You and Me - Disco Version",
       "url": "https://open.spotify.com/track/78A2I3CESWSwj7oflgfLli"
@@ -1229,7 +1247,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 250826,
       "name": "Waiting For The Last Tear To Fall",
       "url": "https://open.spotify.com/track/5KRXfGjx3lJnP2dvqu63xJ"
@@ -1273,7 +1291,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 246893,
       "name": "What Ever Happened To Our Love",
       "url": "https://open.spotify.com/track/5guRhSosc8jWFmqVFDtdwj"

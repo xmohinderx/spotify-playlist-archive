@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 92967,
+  "num_followers": 93036,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMGI4NWU4NzM2YmI1N2Q2M2MxNjVkNzgzMTc2ZGNlMTZj",
+  "snapshot_id": "MTY0MzE1NDY0MywwMDAwMDAwMDU3NDE4ZTU0MGJlODg5ZmUyNTY0ZTU3MDVmOTBhZGIy",
   "tracks": [
     {
       "added_at": "2022-01-25 23:50:43",
@@ -911,22 +911,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Homenaje a un Grande",
-        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
-      },
-      "artists": [
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Sangoloteadito",
-      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Zapateado Perron",
         "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 151291,
       "name": "Chilito Piqu\u00edn",
       "url": "https://open.spotify.com/track/7zyDCmEJ4j8yq3QKkkfj62"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Homenaje a un Grande",
+        "url": "https://open.spotify.com/album/7Bai5sq5asXPXxSYRcAYQ1"
+      },
+      "artists": [
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Sangoloteadito",
+      "url": "https://open.spotify.com/track/1TGxZRm9X1ErxpGSvTrCoJ"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1059,6 +1059,26 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Zapateado Perron",
+        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+      },
+      "artists": [
+        {
+          "name": "Marco Flores Y La Jerez",
+          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
+        },
+        {
+          "name": "Banda Los Escamilla",
+          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+        }
+      ],
+      "duration_ms": 167100,
+      "name": "Los Colorados (feat. Banda los Escamilla)",
+      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Puras De Viento En Vivo, Vol. 2",
         "url": "https://open.spotify.com/album/2I1QM5M1gqlrpV6IbkYUrz"
       },
@@ -1071,22 +1091,6 @@
       "duration_ms": 119807,
       "name": "El Toro De Once (En Vivo)",
       "url": "https://open.spotify.com/track/4jAO429cfLZ4ctSM0QqYOZ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
-      },
-      "artists": [
-        {
-          "name": "La Razza del Compa Edgar",
-          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
-        }
-      ],
-      "duration_ms": 199307,
-      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
-      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1123,22 +1127,18 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Zapateado Perron",
-        "url": "https://open.spotify.com/album/3Lz2dyR7iYlDI600eyCDD6"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
-          "name": "Marco Flores Y La Jerez",
-          "url": "https://open.spotify.com/artist/3cseuYmozraz4XJn6nDo80"
-        },
-        {
-          "name": "Banda Los Escamilla",
-          "url": "https://open.spotify.com/artist/1QOcySvn6xdJQlWVnn9LVE"
+          "name": "La Razza del Compa Edgar",
+          "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 167100,
-      "name": "Los Colorados (feat. Banda los Escamilla)",
-      "url": "https://open.spotify.com/track/5xLUgaS5V8x2cDfvdwH4Je"
+      "duration_ms": 199307,
+      "name": "Popurri De Sones Barbaro .. Son Del Toro / Huitzuque\u00f1o / Los Colorados / Las Guacayas",
+      "url": "https://open.spotify.com/track/12n0TbGdvDMLeZ4c48drUO"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
-        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 192989,
-      "name": "Los Mayeles - Sones para Jaripeo",
-      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Y Sigue la Historia (12 Exitos \u00a1\u00a1 la Explosiva!!)",
         "url": "https://open.spotify.com/album/54fAyGnLO7KQjjWdB1nQaV"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 135146,
       "name": "El Sauce y la Palma",
       "url": "https://open.spotify.com/track/1qmNvOyMuWtVCsLD4fvdz1"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "De Puro Gusto! (18 A\u00f1os de Trayectoria)",
+        "url": "https://open.spotify.com/album/5BMdxiYzfvfpdBC7oc0WIx"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 192989,
+      "name": "Los Mayeles - Sones para Jaripeo",
+      "url": "https://open.spotify.com/track/6wpAMs81FDzTKIbrFtQWEN"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Y Seguimos Loqueando!",
-        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
-      },
-      "artists": [
-        {
-          "name": "Banda Monarca de Morelia",
-          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "El Torito de Petate - La Fiesta del Carnaval",
-      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Banda la Fregona: Primer Aniversario (En Vivo)",
         "url": "https://open.spotify.com/album/1OvXeQz11E5mRcz0cqQNx4"
       },
@@ -1287,22 +1271,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Arriba Mi Rancho",
-        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
-      },
-      "artists": [
-        {
-          "name": "El Nono y Su Banda Reina de Jerez",
-          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
-        }
-      ],
-      "duration_ms": 225410,
-      "name": "El Tecolotito",
-      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "Celebrando mi cumpleanos",
         "url": "https://open.spotify.com/album/7dyC6w6h7Ri3LlfCEmocVe"
       },
@@ -1315,6 +1283,22 @@
       "duration_ms": 152894,
       "name": "La Vaquilla Colorada",
       "url": "https://open.spotify.com/track/4HmFMFun84yRMfTgr8sAM6"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Arriba Mi Rancho",
+        "url": "https://open.spotify.com/album/6N3CeUo9y7YMRBvAfscZmZ"
+      },
+      "artists": [
+        {
+          "name": "El Nono y Su Banda Reina de Jerez",
+          "url": "https://open.spotify.com/artist/6koqQSKPGrPcFLjJvFHRxG"
+        }
+      ],
+      "duration_ms": 225410,
+      "name": "El Tecolotito",
+      "url": "https://open.spotify.com/track/7KIVHjoV0mOBr73wmb4Nhx"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
+        "name": "Y Seguimos Loqueando!",
+        "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
+      },
+      "artists": [
+        {
+          "name": "Banda Monarca de Morelia",
+          "url": "https://open.spotify.com/artist/5iGyyOAirGdcluvetz7mMn"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "El Torito de Petate - La Fiesta del Carnaval",
+      "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
         "name": "Y de Aqu\u00ed Pal Real - La Herencia del Rey",
         "url": "https://open.spotify.com/album/0FbblTEqO5rSjJshBoIyRR"
       },
@@ -1363,6 +1363,22 @@
       "duration_ms": 274064,
       "name": "Popurr\u00ed: B\u00e9same Morenita / La Loba del Mal / Las Guilotas",
       "url": "https://open.spotify.com/track/2zgC1cNMpGtiiCMAiX3AxV"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+      },
+      "artists": [
+        {
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+        }
+      ],
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1415,38 +1431,6 @@
     {
       "added_at": "2022-01-25 23:50:43",
       "album": {
-        "name": "Bailando Ando",
-        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 160725,
-      "name": "El Toro De Once",
-      "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
-      },
-      "artists": [
-        {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
-        }
-      ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
         "name": "El Novillo Despuntado / Toro Pinto",
         "url": "https://open.spotify.com/album/1EhpKhG4GZk68qlAtupGzv"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 277796,
       "name": "El Novillo Despuntado / Toro Pinto",
       "url": "https://open.spotify.com/track/4nkSKijMRBnFNF5rOckLPL"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Bailando Ando",
+        "url": "https://open.spotify.com/album/0kSHlUFHyJgwldae6Xt6Ss"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 160725,
+      "name": "El Toro De Once",
+      "url": "https://open.spotify.com/track/3MAhgwZtPsbCmBphO49ZxF"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1491,22 +1491,6 @@
       "duration_ms": 228075,
       "name": "Popurr\u00ed: Uno M\u00e1s de Sones",
       "url": "https://open.spotify.com/track/2B0PDjm9wCcWK0o08AzVRJ"
-    },
-    {
-      "added_at": "2022-01-25 23:50:43",
-      "album": {
-        "name": "Mis Ra\u00edces",
-        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
-      },
-      "artists": [
-        {
-          "name": "Banda 466 Paso a Paso",
-          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
-        }
-      ],
-      "duration_ms": 162328,
-      "name": "El Son Del Toro",
-      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
     },
     {
       "added_at": "2022-01-25 23:50:43",
@@ -1571,6 +1555,22 @@
       "duration_ms": 180197,
       "name": "La Amachona - Sones para Jaripeo",
       "url": "https://open.spotify.com/track/6ZrBD31V7AhBqnCcDDEibM"
+    },
+    {
+      "added_at": "2022-01-25 23:50:43",
+      "album": {
+        "name": "Mis Ra\u00edces",
+        "url": "https://open.spotify.com/album/28jdssQUmFnGEN0II0Eqf5"
+      },
+      "artists": [
+        {
+          "name": "Banda 466 Paso a Paso",
+          "url": "https://open.spotify.com/artist/6RfT1OjkFTBrGC48aiJjvm"
+        }
+      ],
+      "duration_ms": 162328,
+      "name": "El Son Del Toro",
+      "url": "https://open.spotify.com/track/1hkW3I5IYhPfskOedNULud"
     },
     {
       "added_at": "2022-01-25 23:50:43",

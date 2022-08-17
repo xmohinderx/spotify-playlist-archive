@@ -614,6 +614,28 @@
     },
     {
       "album": {
+        "name": "Afternoon Bike Ride",
+        "url": "https://open.spotify.com/album/6JO6ME8KqaBNAzrJg05yZT"
+      },
+      "artists": [
+        {
+          "name": "afternoon bike ride",
+          "url": "https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9"
+        },
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "date_added": "2022-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179141,
+      "name": "Before the Fall",
+      "url": "https://open.spotify.com/track/2KQmCj4MpTZUKyOVo2sGQZ"
+    },
+    {
+      "album": {
         "name": "Being Wrong",
         "url": "https://open.spotify.com/album/4pvddL619CqPhH6AMIqBrD"
       },
@@ -661,7 +683,7 @@
       ],
       "date_added": "2020-10-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 198345,
       "name": "Better Than Heaven",
       "url": "https://open.spotify.com/track/1vv1iEw58OHt0juBWVgoTJ"

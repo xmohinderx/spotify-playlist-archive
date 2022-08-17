@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 | 2022-03-04 | 2022-08-16 |
+| [25 or 6 to 4 \- 2002 Remaster](https://open.spotify.com/track/7GqIDx2QVGOpd4r1fZaUUW) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago II](https://open.spotify.com/album/0PRgsdDXQ8QPaDUetVF7yN) | 4:49 | 2022-03-04 |  |
 | [A Horse with No Name](https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt) | [America](https://open.spotify.com/artist/35U9lQaRWSQISxQAB94Meo), [George Martin](https://open.spotify.com/artist/0tcbedGX7n5UHrMhVsGmIU) | [America](https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ) | 4:12 | 2022-03-04 |  |
 | [All Right Now](https://open.spotify.com/track/1gcESexgftSuLuML57Y69q) | [Free](https://open.spotify.com/artist/2e53aHBQdCMKWqHDuyJsjC) | [Fire And Water](https://open.spotify.com/album/1ydlm89JR8cV8VuSaNvHNL) | 5:30 | 2022-03-14 |  |
 | [American Pie](https://open.spotify.com/track/2QgWuCtBpNIpl5trmKCxRf) | [Don McLean](https://open.spotify.com/artist/1gRNBaI4yn6wCCTvRhGWh8) | [The Best Of Don McLean](https://open.spotify.com/album/20Y9wHWIxNFvqplgHmqmUl) | 8:35 | 2014-01-07 |  |
@@ -94,7 +94,7 @@
 | [Refugee](https://open.spotify.com/track/4mcZYzoGwPRDdhWVlygiHf) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Damn The Torpedoes \(Deluxe Edition\)](https://open.spotify.com/album/708Whrc4abJEtqBINv9S2b) | 3:21 | 2022-03-04 | 2022-07-28 |
 | [Renegade](https://open.spotify.com/track/1CQqupcyMg7176PPmIVmSj) | [Styx](https://open.spotify.com/artist/4salDzkGmfycRqNUbyBphh) | [Pieces Of Eight](https://open.spotify.com/album/294yFGYq9SBXWR4g6dK63D) | 4:17 | 2022-03-04 |  |
 | [Rock & Roll Band](https://open.spotify.com/track/5E89Izp4YhPyNShoxiOJ1u) | [Boston](https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK) | [Boston](https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC) | 3:00 | 2022-03-04 | 2022-04-18 |
-| [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 | 2022-03-04 |  |
+| [Rock'n Me](https://open.spotify.com/track/1orVKbp6vqtfAPOmvRofVq) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/0fjJOLqG3v7vXRYhz2wxPC) | 3:07 | 2022-03-04 | 2022-08-17 |
 | [Rock'n Me](https://open.spotify.com/track/2luzxyVgeKvene3XtzUcQk) | [Steve Miller Band](https://open.spotify.com/artist/6QtGlUje9TIkLrgPZrESuk) | [Fly Like An Eagle](https://open.spotify.com/album/3iqReiy2IaPI2N9sdLywER) | 3:07 | 2014-01-07 | 2022-07-29 |
 | [Rockin' All Over The World](https://open.spotify.com/track/1ydpGKWD5D8tvTHWN8h58q) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Rockin' All Over The World](https://open.spotify.com/album/4UyEneWCIKATQf3keQnG7O) | 3:37 | 2022-03-14 | 2022-04-20 |
 | [Roll with the Changes](https://open.spotify.com/track/16x9viSmRS3PII71Pdeowc) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [You Can Tune a Piano, But You Can't Tuna Fish](https://open.spotify.com/album/3w0BIqN0uMoOT2l2ppKuXx) | 5:35 | 2022-06-15 | 2022-07-29 |

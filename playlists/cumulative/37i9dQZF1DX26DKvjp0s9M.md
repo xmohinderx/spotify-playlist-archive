@@ -4,7 +4,7 @@
 
 > those core tracks that stand will the test of time...\. Cover: Phoebe Bridgers
 
-462 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
+463 songs - 1 day 5 hr 50 min - [published](https://open.spotify.com/playlist/3bETkXXSq4lQrH2ppPTrRl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Lilacs](https://open.spotify.com/track/69Akwuscu16hdYN637eTis) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Saint Cloud](https://open.spotify.com/album/4V1EQ7wQZUoiPjMY0WtY3M) | 3:15 | 2022-07-08 | 2022-07-29 |
 | [Line Of Fire](https://open.spotify.com/track/1t6zwEOPQUz9QIjlwZ5UGF) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW) | [Junip](https://open.spotify.com/album/4fsnz213jt84aF3obRP8jO) | 5:39 | 2021-02-08 | 2022-04-21 |
 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 | 2021-10-14 |  |
-| [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 | 2022-01-27 |  |
+| [Little Lion Man](https://open.spotify.com/track/6JnufVNLIO5F5Lk4sEVLeI) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Sigh No More](https://open.spotify.com/album/6w5W6ZGTvDsppKUOiGMuMo) | 4:06 | 2022-01-27 | 2022-08-17 |
 | [Little Talks](https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [My Head Is An Animal](https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy) | 4:26 | 2021-07-19 |  |
 | [Locket](https://open.spotify.com/track/0bxcUgWlOURkU6lZt4zog0) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [Locket](https://open.spotify.com/album/2Q61Zm3rOli876QegmVY50) | 5:18 | 2021-02-08 | 2022-05-30 |
 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 | 2022-06-17 |  |
@@ -451,6 +451,7 @@
 | [Whatever Comes to Mind](https://open.spotify.com/track/0ntyYV99MFp7f7MGZlwYj4) | [MorMor](https://open.spotify.com/artist/63vaeIIBKIe9zT91EORVbr) | [Whatever Comes to Mind](https://open.spotify.com/album/7i0hz2V6eKGFBqrvJANFsN) | 4:09 | 2021-02-08 | 2022-04-11 |
 | [When I'm Small](https://open.spotify.com/track/3498wF96LsgVgMkGmJzJOC) | [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [Eyelid Movies](https://open.spotify.com/album/4rERYF4GxjbLPblH5yN6Lt) | 4:09 | 2021-02-08 | 2022-04-21 |
 | [When They Fight, They Fight](https://open.spotify.com/track/2nKAMiO5pCu1ebpnmiukcz) | [Generationals](https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL) | [Con Law](https://open.spotify.com/album/79cyfPlxIyJEXrt2rvREKN) | 3:20 | 2021-02-08 | 2022-03-10 |
+| [Where Is My Mind? \- Remastered](https://open.spotify.com/track/7wCmS9TTVUcIhRalDYFgPy) | [Pixies](https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT) | [Surfer Rosa](https://open.spotify.com/album/50j4Wm1b9hLpSpPIA39Vp9) | 3:54 | 2022-08-16 |  |
 | [Where'd All the Time Go?](https://open.spotify.com/track/0UV5zxRMz6AO4ZwUOZNIKI) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Shame, Shame \(Deluxe Edition\)](https://open.spotify.com/album/16XswZ18xhMs8qUTN51mRl) | 3:54 | 2022-04-19 |  |
 | [White Winter Hymnal](https://open.spotify.com/track/1Er5JMNcguoBMFXxwZ7BWH) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/6spTDEWQfiSsKjkR9NmuDX) | 2:27 | 2021-02-08 | 2022-07-29 |
 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu) | 2:41 | 2022-06-17 |  |

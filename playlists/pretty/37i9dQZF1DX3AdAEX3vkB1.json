@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 136981,
+  "num_followers": 137044,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMDhiNzAzYmVkODhjYjg3YjRhNGNiZDVhN2IyYWI2Yjk0",
+  "snapshot_id": "MTY1OTM0MTM0NywwMDAwMDAwMGM5MTYxNzhkNjE0ODljNjU1YzVhMzYxNzhlNTNiYTUx",
   "tracks": [
     {
       "added_at": "2022-06-16 22:02:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Hold On, I'm Comin'",
-        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 155706,
-      "name": "Hold On, I'm Comin'",
-      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "All Summer Long (Mono & Stereo)",
         "url": "https://open.spotify.com/album/6GnzWMUyNEETCq6eftD98v"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 134386,
       "name": "I Get Around (Mono)",
       "url": "https://open.spotify.com/track/3v9xlH6BpmRbqL7hgNJhfT"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Hold On, I'm Comin'",
+        "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 155706,
+      "name": "Hold On, I'm Comin'",
+      "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The New Look",
-        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
-      },
-      "artists": [
-        {
-          "name": "Fontella Bass",
-          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
       },
@@ -543,6 +527,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The New Look",
+        "url": "https://open.spotify.com/album/6PB1ExLaenkyov5q1NrSXd"
+      },
+      "artists": [
+        {
+          "name": "Fontella Bass",
+          "url": "https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/1GY8zOFi8rC39xXnD0tKO8"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Where Did Our Love Go",
         "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
       },
@@ -555,22 +555,6 @@
       "duration_ms": 158040,
       "name": "Baby Love",
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Soul Men",
-        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
-      },
-      "artists": [
-        {
-          "name": "Sam & Dave",
-          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Soul Man",
-      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -619,6 +603,22 @@
       "duration_ms": 139733,
       "name": "Think",
       "url": "https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul Men",
+        "url": "https://open.spotify.com/album/1DThdjKvkvxYaqlDUnQGzK"
+      },
+      "artists": [
+        {
+          "name": "Sam & Dave",
+          "url": "https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2"
+        }
+      ],
+      "duration_ms": 159000,
+      "name": "Soul Man",
+      "url": "https://open.spotify.com/track/4eGHlplaq1ME8oetnTuFFf"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -703,22 +703,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -767,6 +767,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 153333,
+      "name": "Where Did Our Love Go",
+      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "I'll Cry If I Want To",
         "url": "https://open.spotify.com/album/7KSrseQi4wJDUfMT4mxNo8"
       },
@@ -795,22 +811,6 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 153333,
-      "name": "Where Did Our Love Go",
-      "url": "https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -847,6 +847,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Something Else (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5ktMgVAJtsv4HagfFliWpR"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 141066,
       "name": "Sweet Soul Music",
       "url": "https://open.spotify.com/track/0pvA063uNyGQFp7DNtmk0P"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Seekers",
+        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+      },
+      "artists": [
+        {
+          "name": "The Seekers",
+          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+        }
+      ],
+      "duration_ms": 140440,
+      "name": "Georgy Girl",
+      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Gimme Some Loving / Blues In F",
         "url": "https://open.spotify.com/album/5FuD0MXgLATEsV4lyBbAD0"
       },
@@ -1175,18 +1191,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Seekers",
-        "url": "https://open.spotify.com/album/3vMmPXoijRRhpE9lPpUyq4"
+        "name": "Hot Rocks (1964-1971)",
+        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
       },
       "artists": [
         {
-          "name": "The Seekers",
-          "url": "https://open.spotify.com/artist/7dedWAqd0IKTdCiqiadUrV"
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
         }
       ],
-      "duration_ms": 140440,
-      "name": "Georgy Girl",
-      "url": "https://open.spotify.com/track/73XQBWHSVLL1939hb8cQTm"
+      "duration_ms": 222746,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 162866,
       "name": "These Boots Are Made for Walkin'",
       "url": "https://open.spotify.com/track/4j2W1eM03mz5MVN5LvR7VH"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Hot Rocks (1964-1971)",
-        "url": "https://open.spotify.com/album/0aqZJlugIkTUWW1sa4BANp"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222746,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/5FKkbyGm42hw1y08l2knlO"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Circulate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
-      },
-      "artists": [
-        {
-          "name": "Neil Sedaka",
-          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Breaking Up Is Hard to Do",
-      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Hang On Sloopy: The Best Of The McCoys",
         "url": "https://open.spotify.com/album/17dRh7ma3OpZSdmWc5LT1H"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 231800,
       "name": "Hang On Sloopy",
       "url": "https://open.spotify.com/track/0i7O5MtSTXvR4BEY7stpjF"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Circulate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66qxRQqOy7kVcsVpT0OVFZ"
+      },
+      "artists": [
+        {
+          "name": "Neil Sedaka",
+          "url": "https://open.spotify.com/artist/5N6GwJzOcOY5kv8p0NjhYL"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Breaking Up Is Hard to Do",
+      "url": "https://open.spotify.com/track/2x6pbpjVGjiWCcH89IK8AX"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "My Boy Lollipop: The Best Of Millie Small",
         "url": "https://open.spotify.com/album/18Qjvcq1V56GELsTi4fIdS"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 120466,
       "name": "My Boy Lollipop",
       "url": "https://open.spotify.com/track/5IM6psLoDLytszopZz9ZOm"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Hippy Hippy Shake: The Definitive Collection",
+        "url": "https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN"
+      },
+      "artists": [
+        {
+          "name": "The Swinging Blue Jeans",
+          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
+        }
+      ],
+      "duration_ms": 106066,
+      "name": "The Hippy Hippy Shake",
+      "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "The Two Of Us",
         "url": "https://open.spotify.com/album/5BiQSxjnQuQgTb0FCOQPJe"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 148226,
       "name": "A Rockin' Good Way (To Mess Around And Fall In Love)",
       "url": "https://open.spotify.com/track/4ydSzWwxqtNdP4VPfQe8bf"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Hippy Hippy Shake: The Definitive Collection",
-        "url": "https://open.spotify.com/album/13ZC2VmGjygvRW9ACiE5uN"
-      },
-      "artists": [
-        {
-          "name": "The Swinging Blue Jeans",
-          "url": "https://open.spotify.com/artist/5gNduPlUGHsgy1w7f71obH"
-        }
-      ],
-      "duration_ms": 106066,
-      "name": "The Hippy Hippy Shake",
-      "url": "https://open.spotify.com/track/3rV13eMQR0G93DEYhpB09B"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Best Of Spencer Davis Group",
-        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
-      },
-      "artists": [
-        {
-          "name": "The Spencer Davis Group",
-          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "I'm A Man",
-      "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Hits",
         "url": "https://open.spotify.com/album/77KLEElnsx9lRInnzCqMBW"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 149626,
       "name": "Let's Dance",
       "url": "https://open.spotify.com/track/2Qm5DrmotzWvqNM3JlcQYo"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "The Best Of Spencer Davis Group",
+        "url": "https://open.spotify.com/album/6hWcuAd9vwJ0Dqbobj3ksb"
+      },
+      "artists": [
+        {
+          "name": "The Spencer Davis Group",
+          "url": "https://open.spotify.com/artist/3i9hP422d2KMjaupTzBNVS"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "I'm A Man",
+      "url": "https://open.spotify.com/track/1oXq63OUf43LDnNPVtfvX8"
     },
     {
       "added_at": "2022-06-16 22:02:00",

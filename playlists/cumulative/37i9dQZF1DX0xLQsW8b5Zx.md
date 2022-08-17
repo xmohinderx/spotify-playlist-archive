@@ -4,7 +4,7 @@
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-161 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
+162 songs - 7 hr 13 min - [published](https://open.spotify.com/playlist/45GUeEFxAxvkdu2cCo0Edr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | [Baby Did A Bad Bad Thing](https://open.spotify.com/track/116Qy7Q95zaZgVUc5Z03wp) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Forever Blue](https://open.spotify.com/album/5j0gG8sv3zqZhpW5e4HlvY) | 2:54 | 2022-07-05 |  |
 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 | 2022-05-06 | 2022-07-24 |
 | [Baby I Don't Care](https://open.spotify.com/track/55YNkWt5V10Sg5dNzT2OKF) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Bluelight Rockabillies vol.3](https://open.spotify.com/album/2SuOS78WpeAQ45YAwPdwgQ) | 2:47 | 2022-05-06 | 2022-07-27 |
-| [Baby I Don't Care](https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Face It](https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B) | 2:48 | 2022-07-05 |  |
+| [Baby I Don't Care](https://open.spotify.com/track/04YEUXO7f7Bmbuilnwv0rA) | [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Face It](https://open.spotify.com/album/10OMUhwFGYP9es5wBaeS5B) | 2:48 | 2022-07-05 | 2022-08-17 |
 | [Back In The USA](https://open.spotify.com/track/4Znz9jKTkZvCzW6CkBIhHK) | [Albert Lee & Hogan's Heroes](https://open.spotify.com/artist/2UnEg92EHEZyIfVYTkAl4H) | [Tear It Up](https://open.spotify.com/album/45gM7iiWC2Fd93IInjtCQK) | 3:23 | 2022-05-06 |  |
 | [Backseat Education](https://open.spotify.com/track/426grzmxP94D7gBldxqv1A) | [Hellbilly Boys](https://open.spotify.com/artist/5bCy5EywKFmYnkKrYnOnL5) | [Hellbilly Boys](https://open.spotify.com/album/6Q3q5EJ7u0WBBNzcJMAtHI) | 3:01 | 2022-05-06 | 2022-07-23 |
 | [Bad News From Pretty Red Lips](https://open.spotify.com/track/1jy0EJerJqjpwdGHkUrZQd) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Overdrive](https://open.spotify.com/album/1PfyEOST0PpaP4c258vF0E) | 2:46 | 2022-05-06 |  |
@@ -46,6 +46,7 @@
 | [Checkered Flag](https://open.spotify.com/track/5ZGBKoa6sydhYUMiv4g1a4) | [Brian Setzer](https://open.spotify.com/artist/4xiBg5AwhlWtuxAJO9rO6f) | [Gotta Have the Rumble](https://open.spotify.com/album/6Y4c5dgnOrQjzWM9NrKguN) | 4:05 | 2022-07-05 |  |
 | [Chevy 55](https://open.spotify.com/track/2ZIRhZgebost1ImAJfk5Fh) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In The Mood](https://open.spotify.com/album/5Ocx2ap021QLIR0xpILvJx) | 2:55 | 2022-05-06 | 2022-07-29 |
 | [Chevy 55](https://open.spotify.com/track/79K5pAjftYuDRdxRksHddu) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [In the Mood](https://open.spotify.com/album/2sUh5PyADSSgduPJgCeYwu) | 2:55 | 2022-07-05 |  |
+| [Come on Little Mama](https://open.spotify.com/track/11OqzAcT8jMaNZAt6kdpvR) | [Ray Harris](https://open.spotify.com/artist/0luI6OOG3mYAFQj4BC1hR8) | [Come on Little Mama / Where'd You Stay Last Night](https://open.spotify.com/album/0jRvfTjOFuHrNJrVUT8BZY) | 2:18 | 2022-08-12 |  |
 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 | 2022-05-06 |  |
 | [Daddy Cool / The Girl Can't Help It](https://open.spotify.com/track/10b9TrZBf0uP1EtAZHcKNh) | [Darts](https://open.spotify.com/artist/4PAOIh8yFHsrG0B0eDjOsY) | [Double Top \(Very Best Of\)](https://open.spotify.com/album/3xe1R7xAwmWqIfQqjbKhIa) | 2:29 | 2022-05-06 |  |
 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 | 2022-05-06 |  |

@@ -4,7 +4,7 @@
 
 > Help your baby drift off to sleep with this soothing playlist of Disney favorites, including Frozen 2.
 
-176 songs - 8 hr 35 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
+177 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/5JyRbd7E5Uxc95UIUxdfrc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 | 2022-04-15 |  |
 | [Nowhere to Go But Up](https://open.spotify.com/track/6UIUumGM96FmXKtMuDibZS) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Joy](https://open.spotify.com/album/2zMoXnyQRqwvMRdIyNmTSb) | 3:52 | 2022-04-15 |  |
 | [Once Upon a Dream](https://open.spotify.com/track/1jHNQodYIGvk187xrISw1i) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Lullaby](https://open.spotify.com/album/3TRzs2Bn8dm6oHqt2LpR6z) | 1:49 | 2022-04-15 |  |
+| [Once Upon a Dream](https://open.spotify.com/track/5t4Ysd832UYYBZL92258tn) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Lullaby](https://open.spotify.com/album/2CE8v99s07pcaXQwOLYMlS) | 3:17 | 2022-08-16 |  |
 | [Oogie Boogie's Song](https://open.spotify.com/track/0ROW9eF2C9Lnf6B3tROI9O) | [Chantry Johnson](https://open.spotify.com/artist/7DYNIsWygVsxut6h6pmyeW) | [Little Nightmares](https://open.spotify.com/album/2KwS2u87aRiv7y4AKsToqG) | 4:25 | 2022-04-15 |  |
 | [Our Town](https://open.spotify.com/track/2DRTLUF6iPP9S0yJgANMxO) | [Disney Peaceful Piano](https://open.spotify.com/artist/5lmSBamD6zMcpHPqPpwmwN), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Peaceful Piano: Blissful](https://open.spotify.com/album/6Pgzg6yw1ULylVOaPXzAiK) | 3:53 | 2022-04-15 |  |
 | [Part of Your World](https://open.spotify.com/track/2SvuVrSQb1AAhxPtgzb65p) | [Disney Peaceful Guitar](https://open.spotify.com/artist/3oqzxUlHhjJ7auI4dVujKX), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Disney Guitar: Breathe](https://open.spotify.com/album/1BkRLMg1PwegXipKVRXeiI) | 3:04 | 2022-04-15 |  |

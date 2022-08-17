@@ -4,7 +4,7 @@
 
 > Start your day with calm and cool jazz.
 
-138 songs - 8 hr 51 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
+144 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/39dwJkALAgqseR1XSFerIE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,9 @@
 | [April Dance](https://open.spotify.com/track/1WyRt9z1rjFnKAV6U0zUj3) | [Lim Jeong Won](https://open.spotify.com/artist/2P1GdzdEnvCSHzwJgwu3K7) | [April Dance](https://open.spotify.com/album/37I4HkpwV7lEJzCUL8xNON) | 6:03 | 2022-05-17 | 2022-06-29 |
 | [Ascent](https://open.spotify.com/track/4d2YgepBRyYjr1EXM6slZq) | [Art Hirahara](https://open.spotify.com/artist/408lP4P33XEirDvYHxq8Ib), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Balance Point](https://open.spotify.com/album/3mNi1VupZNPWagYvTgLYuQ) | 4:10 | 2022-05-17 |  |
 | [At Last](https://open.spotify.com/track/4SsODjeSzr1gfceOJ6utNi) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [At Last](https://open.spotify.com/album/1bT8dnaMTDCT8ZUvasMUVn) | 4:53 | 2022-05-17 |  |
+| [Autumn Nocturne](https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [Autumn Nocturne](https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M) | 3:07 | 2022-08-16 |  |
 | [Baubles, Bangles & Beads](https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [Baubles, Bangles & Beads](https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG) | 3:22 | 2022-06-14 |  |
+| [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-16 |  |
 | [But Beautiful](https://open.spotify.com/track/544ppWBvwxnRrUW5xEeFib) | [Noah Haidu](https://open.spotify.com/artist/3RxXFxN0EPStw5Lzp8PgeB) | [Slowly: Song For Keith Jarrett](https://open.spotify.com/album/3ao4V8JWq7202kLaRI8cF5) | 9:51 | 2022-05-17 |  |
 | [Caerulea](https://open.spotify.com/track/05IRllaVkCLy5Iyz3JUXNC) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Obliqua](https://open.spotify.com/album/7wIe87avpXR4ROh0HktLIX) | 3:06 | 2022-05-17 |  |
 | [Chances Are](https://open.spotify.com/track/4gG0X6cfm3Nhlkw3NaL7PC) | [Bruce Willmington & Co](https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y) | [Chances Are](https://open.spotify.com/album/7M0LMFQ86GFzDX8UV1L2Hk) | 4:42 | 2022-08-10 |  |
@@ -80,6 +82,7 @@
 | [Mean To Me](https://open.spotify.com/track/4QEPK8VmIJsxw6ymP93gCS) | [Yorkville](https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn) | [Don´t Blame Me](https://open.spotify.com/album/4oK8sCHJ3rsqYt7rpbXqSb) | 3:12 | 2022-05-24 |  |
 | [Mirror Images](https://open.spotify.com/track/7owDJ8Pr9sF4YNIdb3yrrX) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Mirror Images](https://open.spotify.com/album/0Vt5qVvs6LQLIHkikKawqg) | 3:57 | 2022-05-17 |  |
 | [Misty](https://open.spotify.com/track/5gB8FHBnzdFonjPRKlP8hd) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [Misty](https://open.spotify.com/album/3Lf7SzF0zij3vmShuQPpeD) | 4:17 | 2022-06-22 |  |
+| [More Than You Know](https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [More Than You Know](https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5) | 4:21 | 2022-08-16 |  |
 | [Mornin](https://open.spotify.com/track/5lKkgKB4yZ6BW0Aps1CKcL) | [James Earle Trio](https://open.spotify.com/artist/5G7z3n4Oy0s4hHwfnqfKU4) | [Mornin](https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0) | 2:33 | 2022-08-10 |  |
 | [Morning Conversations](https://open.spotify.com/track/5NuHONqC1B04om6zp76sH7) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Morning Conversations](https://open.spotify.com/album/5XV9PM38eHcTV7FP8jABbf) | 4:19 | 2022-05-17 |  |
 | [Morning Light](https://open.spotify.com/track/5sZWLVuS8DTpRvbWdCNGwy) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Morning Light](https://open.spotify.com/album/3940RmfnSgh2e1DSwrvsWa) | 2:50 | 2022-05-17 |  |
@@ -99,7 +102,7 @@
 | [Postcards](https://open.spotify.com/track/1IxO95D87hSIyA20XTLCiU) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Postcards](https://open.spotify.com/album/6Oi5hnd7ZOiAlhv9AYTenT) | 3:05 | 2022-05-17 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/1EXAQhTMCX9HCIcwYEvdxX) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Ripples of a Stream](https://open.spotify.com/album/6syN509qNmAdMDqL9X6mm3) | 4:00 | 2022-08-10 |  |
 | [Send In the Clowns](https://open.spotify.com/track/2kdj6VfxCgDCC5Uemxwj6E) | [The Uptown Players](https://open.spotify.com/artist/1S2Mr3FmzAs8p9Wl0xHEe2) | [Send In the Clowns](https://open.spotify.com/album/7EqrUNHWxGu3cxftUQzCWe) | 3:25 | 2022-06-08 |  |
-| [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-05-17 |  |
+| [September Song](https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [September Song](https://open.spotify.com/album/2FSt6Jj7xms6x5g0gwA77K) | 4:21 | 2022-05-17 | 2022-08-17 |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-06-22 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-05-17 |  |
 | [Simplicity](https://open.spotify.com/track/0AEBs3sZ492afceldzJzF0) | [Edward Simon](https://open.spotify.com/artist/0FAC6FNPb4LsY5uyp0xTWF), [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l), [Adam Cruz](https://open.spotify.com/artist/1jQe1E5ZvrDvzR4BePCHkA), [Luciana Souza](https://open.spotify.com/artist/0cv8X9QNT0s3OHfVVeNWkM), [Adam Rogers](https://open.spotify.com/artist/68u79CqTqTgKncfDRbjDLH) | [Simplicitas](https://open.spotify.com/album/5u282HONP3k3BSzLNZkCBA) | 5:08 | 2022-05-17 |  |
@@ -112,6 +115,7 @@
 | [Soft Like Rain](https://open.spotify.com/track/1kA2atXO3zrz1L5uEZpVcB) | [Anita Rosswell](https://open.spotify.com/artist/6Qer09QopgWLGMd601P0Zk) | [Soft Like Rain](https://open.spotify.com/album/2et7XBXAiuqsxBX7MgwHiZ) | 2:48 | 2022-05-17 |  |
 | [Softly, as in a Morning Sunrise](https://open.spotify.com/track/01Y1rFJpmKXucS9yNdwin0) | [Sal Ritter](https://open.spotify.com/artist/2ExFoyhPRTmehwcofSp2E0) | [Softly, as in a Morning Sunrise](https://open.spotify.com/album/3rIfaasfAx6n5CEbdnw8Ql) | 3:10 | 2022-05-17 |  |
 | [Some Other Time](https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Some Other Time](https://open.spotify.com/album/6prqNwWmM73hFtseto8CmH) | 3:11 | 2022-05-17 |  |
+| [Sometime Ago](https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR) | [Madeleine West](https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4) | [Sometime Ago](https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q) | 2:40 | 2022-08-16 |  |
 | [Speak Low](https://open.spotify.com/track/4qY2rgB6SJM9F1RPaLeGcz) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Speak Low](https://open.spotify.com/album/1yGFyTpml5nZFJ692JMOrN) | 3:41 | 2022-05-17 |  |
 | [Spring Can Really Hang You Up The Most](https://open.spotify.com/track/6EKISMrXCzFNA9UaMtr0he) | [Mayfare Trio](https://open.spotify.com/artist/3tUSGipRrxvpmZgUc13rd4) | [Spring Can Really Hang You Up The Most](https://open.spotify.com/album/2uAMOafxy5xI71sbAWLm9V) | 4:22 | 2022-06-28 |  |
 | [Stairway to the Stars](https://open.spotify.com/track/7hgumdPAIHQFL7iE1tdXYA) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Stairway to the Stars](https://open.spotify.com/album/3nGWOLafhuYnZNbMIJ9QXE) | 4:38 | 2022-05-17 |  |
@@ -129,6 +133,7 @@
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-28 |  |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-05-17 |  |
 | [Tiny Tiny Steps](https://open.spotify.com/track/3euZzIZUGZSDbSsDOnb79f) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [For Better Times](https://open.spotify.com/album/1hWM5tdWHTjSXHvCP17aSJ) | 3:20 | 2022-05-17 |  |
+| [Tomorrow](https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk) | [Ray Horne Trio](https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT) | [Tomorrow](https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M) | 4:29 | 2022-08-16 |  |
 | [Try To Remember](https://open.spotify.com/track/4q86fROSuJgs5J8pX8YBZM) | [The Jazz Cultivators](https://open.spotify.com/artist/24LiiowKnaEDD4I3CCdI3v) | [Try To Remember](https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx) | 3:26 | 2022-05-17 |  |
 | [Varenne](https://open.spotify.com/track/3KPiGdRDaJHCQcuv3m7PG8) | [Bladverk Band](https://open.spotify.com/artist/3XGVKlRSkuGWbqonldnI65) | [Varenne](https://open.spotify.com/album/0JPktB7VKfmNZsZ1LrwBho) | 3:44 | 2022-08-10 |  |
 | [Very Early](https://open.spotify.com/track/7jkBFtRrtzVaWxD9akzRsH) | [Charlie Regan Three](https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY) | [Very Early](https://open.spotify.com/album/1UZnIPn1l0z15Va9MUarj1) | 3:46 | 2022-05-17 |  |
@@ -146,5 +151,6 @@
 | [Winchester In Apple Blossom Time](https://open.spotify.com/track/6S6bbgUm80TdelwOPf0dsR) | [Mandevilla](https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk) | [Maiden Voyage](https://open.spotify.com/album/21MJ5rAzKnQ4mSdrvbeuC4) | 3:18 | 2022-05-17 |  |
 | [You Go To My Head](https://open.spotify.com/track/0TR8L8n8nXPvp1JpqdyPcp) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [You Go To My Head](https://open.spotify.com/album/7FEy0OXhxkb2FnGRLj7XbS) | 4:29 | 2022-05-17 |  |
 | [You Left With My Heart Still Yours](https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP) | [Jaden Berry](https://open.spotify.com/artist/1PjLk33ZP5fgTFpbgN5kJL) | [You Left With My Heart Still Yours](https://open.spotify.com/album/6FQD3HAuYzw4DnuQpChF6j) | 2:24 | 2022-05-17 |  |
+| [Younger](https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k) | [The Mill Basin Band](https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU) | [Younger](https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i) | 2:50 | 2022-08-16 |  |
 
 \*This playlist was first scraped on 2022-05-20. Prior content cannot be recovered.

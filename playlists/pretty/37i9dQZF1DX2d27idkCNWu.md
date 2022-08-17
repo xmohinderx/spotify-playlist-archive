@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 
 > Versões desplugadas do mundo pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,561 likes - 90 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,595 likes - 90 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 22 | [Bad](https://open.spotify.com/track/3xRcQ04b0l5RiU2w7lJhCD) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Oh My Messy Mind](https://open.spotify.com/album/2aIsEIVLrAP75xdEhdVm1d) | 3:45 |
 | 23 | [penhasco\. \- \(acústico\)](https://open.spotify.com/track/6OdTE0V9aAOBRFJZO4cuwj) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [penhasco\. \(acústico\)](https://open.spotify.com/album/1dARC9DvZEYtv0hWDVqII6) | 3:33 |
 | 24 | [please](https://open.spotify.com/track/0TzeZppPwhEhySYaNRulr9) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp), [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
-| 25 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 |
-| 26 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 |
+| 25 | [Meant to Be \- Acoustic](https://open.spotify.com/track/7bu8i7HwACY0m1H5lXFSpw) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Meant to Be \(Acoustic\)](https://open.spotify.com/album/0nqqPaOPgl5wWEacRw1pKI) | 2:38 |
+| 26 | [Nothing But a Song \- Bonus Acoustic Version](https://open.spotify.com/track/4WY3fLbBiHw6MdHBB7K31V) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Let Yourself In](https://open.spotify.com/album/4rYwGKBGTapGLz4oUyr2fy) | 3:02 |
 | 27 | [All of Me \- Live from Spotify Milan](https://open.spotify.com/track/6nyZQ82OI0OujbbFpo3e0K) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Spotify Sessions](https://open.spotify.com/album/0ryfxFVYctq06Btwatl8zE) | 4:51 |
 | 28 | [Castle on the Hill \- Recorded at Spotify Studios New York City](https://open.spotify.com/track/6rjO7ZdSUdd8W2fkWL7fK9) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Spotify Singles](https://open.spotify.com/album/14mR6XKPmsxzvOYCkqubJF) | 3:45 |
 | 29 | [Slow Dancing in a Burning Room \- Acoustic](https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Village Sessions](https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX) | 3:52 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2d27idkCNWu.md) - [plain]
 | 89 | [Big \- Acoustic](https://open.spotify.com/track/0WaQZO8nw9VKvpYR3yL7Mg) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Big \(Acoustic\)](https://open.spotify.com/album/2coQTbqSfarJT5OW6He8jm) | 2:39 |
 | 90 | [Boom Clap \- Spotify Sessions](https://open.spotify.com/track/5lCfF0woasEzNAwLKb6sjp) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Spotify Sessions](https://open.spotify.com/album/0kE3eroQzJ7OQH6qF1XqyO) | 3:21 |
 
-Snapshot ID: `MTYzNjA4MTIwMCwwMDAwMDAwMDAwYzBjMDFmOWMzMmExOGU2YzU3ODg2NTJhYWJiMDMw`
+Snapshot ID: `MTYzNjA4MTIwMCwwMDAwMDAwMGIxZWRmODI2ZWVlODY0YjZjNzE1OTcwMGM4Njg2ODNh`

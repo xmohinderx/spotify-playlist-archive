@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Derek Trucks & Susan Tedeschi
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,216 likes - 50 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,309 likes - 50 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 10 | [Saturday's Children \(feat\. Neal Casal\)](https://open.spotify.com/track/0l47ZhSBfu9MeKAmBXLq1y) | [Circles Around The Sun](https://open.spotify.com/artist/4Aixcj6XBhqbdEHDKS7QcH), [Neal Casal](https://open.spotify.com/artist/0rZpNCCYOe06am554MyKRu) | [Interludes For The Dead \(feat\. Neal Casal\)](https://open.spotify.com/album/2BsLSSEQrjxOBCdNLyqzfh) | 9:25 |
 | 11 | [Keep Your Hands to Yourself](https://open.spotify.com/track/32fEIMGIvlJhlw8HMiCdjh) | [Ghost Light](https://open.spotify.com/artist/2daxH6yPiKVTF0CtQ6XWOe) | [Best Kept Secrets](https://open.spotify.com/album/3gEFsGzKi28JJpyGiS0o5s) | 4:19 |
 | 12 | [Kangaroo](https://open.spotify.com/track/2iRud7yNC2yYGVFyl8ik0b) | [The Big Wu](https://open.spotify.com/artist/2IQLjVQHKnzSQAVAkeCcQ0) | [Tracking Buffalo Through the Bathtub](https://open.spotify.com/album/6pEnxOBIV3UGzmH7W0JOFx) | 4:05 |
-| 13 | [River Drift](https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [River Drift](https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ) | 5:42 |
-| 14 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 |
+| 13 | [Colorado](https://open.spotify.com/track/4p1d0mR5Fc8jObB91e3iMv) | [Lotus ](https://open.spotify.com/artist/1a4N2lwra7WGjwCDJS1Dkk) | [Nomad](https://open.spotify.com/album/0lTdz5ebFKF06UI9SYoOEh) | 5:06 |
+| 14 | [River Drift](https://open.spotify.com/track/6LHRrdLlJCcJ3sZfjs5mX7) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12) | [River Drift](https://open.spotify.com/album/5HgayyNly98nEiOPxekJGQ) | 5:42 |
 | 15 | [Song for Us](https://open.spotify.com/track/57lOagpbrS9oL3pHcXQONR) | [Big Something](https://open.spotify.com/artist/3kzqfNqrlEwieWGqRFiQso) | [Tumbleweed](https://open.spotify.com/album/0Wdd7IhlwI1uGNIeJayzM4) | 6:41 |
-| 16 | [Mucho](https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Megagem](https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm) | 6:33 |
-| 17 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 |
+| 16 | [Just A Little](https://open.spotify.com/track/4Z8qmRtrwLynVX4GMlUmjM) | [SunSquabi](https://open.spotify.com/artist/1CLLPNftraxuTDyTd6hn3J) | [Just a Little](https://open.spotify.com/album/1TqY6YxFZdVqwReNRDyEo7) | 6:10 |
+| 17 | [Mucho](https://open.spotify.com/track/6RGXvExPr2zOTSfqqpRqx2) | [Dopapod](https://open.spotify.com/artist/6ur6SxSBdRLBgehOIT2iwX) | [Megagem](https://open.spotify.com/album/37NK8Dp8ms7so7FqzhopCm) | 6:33 |
 | 18 | [Take Me As I Am](https://open.spotify.com/track/2HZzxtk4Ga04QeYte04a5k) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [I Am The Moon: III\. The Fall](https://open.spotify.com/album/0aECZpYeuCAdKUcsngk3VV) | 5:27 |
 | 19 | [Hiccup](https://open.spotify.com/track/4GXPo6bO1KpGJ0AGZbq75o) | [Umphrey's McGee](https://open.spotify.com/artist/7mQilAy42MqNPqUFqK4Z0o) | [Asking For A Friend](https://open.spotify.com/album/6SLMJC96T8b2uADVaiYfOf) | 3:06 |
 | 20 | [How Long...](https://open.spotify.com/track/5ahLdSDP6XlGLRdEjRVhyX) | [Cbdb](https://open.spotify.com/artist/0Rt9ML8x5r1DFhSPAJhbwr) | [Phone.Keys.Wallet](https://open.spotify.com/album/2fVFLWl9qjao0Q1eal6yx4) | 7:31 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 45 | [Fact from Fiction](https://open.spotify.com/track/2vWHuNouTFcfkcOY7zQKZ9) | [The Fritz](https://open.spotify.com/artist/792UqbFMNV10U1J1onyAq8) | [Natural Mind](https://open.spotify.com/album/6MDZ1To0ibnc4VcKMMYhBj) | 8:25 |
 | 46 | [Get out of Your Head](https://open.spotify.com/track/2wyegJVpew6bQlSNrkASBY) | [Cycles](https://open.spotify.com/artist/3VqGpoIhVcMCzMmIDHXPDS) | [Selections, Vol\. 1](https://open.spotify.com/album/76PdXZ62mwchCRDj6cxtC7) | 12:11 |
 | 47 | [Lily's Tiger](https://open.spotify.com/track/1wEt9nM5wq2U5RNuWBxnyA) | [Great Blue](https://open.spotify.com/artist/1LlkBNUOz29oWc0IeX0lXc) | [Great Blue](https://open.spotify.com/album/3EuzVI8uESnKwlOOdh4wr6) | 4:57 |
-| 48 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 |
+| 48 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 |
 | 49 | [The Road](https://open.spotify.com/track/3F2SdHEBSOZZPDKfkiP0k8) | [Backup Planet](https://open.spotify.com/artist/1Jc3wYtJwv8KMbo3Ct7aLD) | [Element](https://open.spotify.com/album/1M8jFuVLqJOlqYtOv1cdAI) | 7:13 |
-| 50 | [What'cha Gonna Do](https://open.spotify.com/track/54LhVzJOJxT2S6Nl30wPBs) | [Skyfoot](https://open.spotify.com/artist/5Igs9PLJ9qlRa627kIjTH0) | [What'cha Gonna Do](https://open.spotify.com/album/6aHGit3gxe7m5iSlbAi6vD) | 5:46 |
+| 50 | [Kinetic Bump](https://open.spotify.com/track/54gS8v9fTUVOK9xsFgAeOt) | [The Mantras](https://open.spotify.com/artist/72H4GGWlWYkqZlNdkmX2Ji) | [Jambands Ruined My Life](https://open.spotify.com/album/4F9i2AtLXhnfSPCuNcOjqU) | 6:15 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDUyYTQ5NzQ1NDM5YjI0YTk3ZDdlOGIxNzIwYTJkZDYz`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDRjOTMxOTU2MTcwZmI4ZDE3MWI3MzVkMjgyNTM5NWRm`

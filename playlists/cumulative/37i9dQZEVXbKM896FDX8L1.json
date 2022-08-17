@@ -731,7 +731,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 219380,
       "name": "All For You",
       "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
@@ -1607,7 +1607,7 @@
       ],
       "date_added": "2021-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 198221,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A"
@@ -2316,6 +2316,24 @@
     },
     {
       "album": {
+        "name": "Sunny Side Up",
+        "url": "https://open.spotify.com/album/6phMKMOoIv4CLmOH5m7Lj3"
+      },
+      "artists": [
+        {
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298693,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/4h5m56ExHLPUC9NGz7U1Qa"
+    },
+    {
+      "album": {
         "name": "The Bonny",
         "url": "https://open.spotify.com/album/3OuBVsnWGsUPsPsw8ua9l1"
       },
@@ -3011,7 +3029,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -3435,7 +3453,7 @@
       ],
       "date_added": "2022-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 186541,
       "name": "Don't Stop Just Yet",
       "url": "https://open.spotify.com/track/1pz4k8r1OPeNBeAGmi9gL9"
@@ -3529,7 +3547,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 199090,
       "name": "Don\u2019t Forget My Love",
       "url": "https://open.spotify.com/track/3LnETnq2xyUpKcGqAQLJy1"
@@ -8125,6 +8143,24 @@
       "duration_ms": 132832,
       "name": "Martin & Gina",
       "url": "https://open.spotify.com/track/1VLtjHwRWOVJiE5Py7JxoQ"
+    },
+    {
+      "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
     },
     {
       "album": {
@@ -13341,6 +13377,24 @@
       "duration_ms": 264306,
       "name": "Under the Bridge",
       "url": "https://open.spotify.com/track/3d9DChrdc6BOeFsbrZ3Is0"
+    },
+    {
+      "album": {
+        "name": "Indigo (Extended)",
+        "url": "https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184613,
+      "name": "Under The Influence",
+      "url": "https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb"
     },
     {
       "album": {

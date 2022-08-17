@@ -1,12 +1,12 @@
 {
   "description": "\ubb34\uc5b8\uac00 \uc774\uc0c1\ud55c \ub9c8\uc74c \uc18d \uc77c\ub801\uc784\uc744 \ub178\ub798\ub85c \ub290\uaef4\ubcf4\uc138\uc694.",
-  "num_followers": 3584,
+  "num_followers": 3589,
   "original_name": "\uad1c\ud788 \uc13c\uce58\ud574",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDM2OCwwMDAwMDAwMGVlYWI1MjFlMTliODkxZmQ1NDU4NTI3ZDcyM2UzMDNh",
+  "snapshot_id": "MTY2MDMzMDM2OCwwMDAwMDAwMDA3YjBhYzc5ZWFkYjY5YzlhYTZhZmQzZmI5NTRiN2Ux",
   "tracks": [
     {
       "added_at": "2022-08-12 18:52:48",
@@ -59,6 +59,22 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
+        "name": "Heart Burn",
+        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
+      },
+      "artists": [
+        {
+          "name": "SUNMI",
+          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 191191,
       "name": "Distance (Feat. I.M of MONSTA X)",
       "url": "https://open.spotify.com/track/2bfagt2SWQiC0IHhZgMSS7"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "Heart Burn",
-        "url": "https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu"
-      },
-      "artists": [
-        {
-          "name": "SUNMI",
-          "url": "https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Childhood",
-      "url": "https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -183,26 +183,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "MINNIE",
-          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
-        }
-      ],
-      "duration_ms": 213377,
-      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
-      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "daisy.",
         "url": "https://open.spotify.com/album/5AeOL2dXWWsW1AccDq1Eou"
       },
@@ -235,22 +215,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "BOKE",
-        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
-      },
-      "artists": [
-        {
-          "name": "CIKI",
-          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
-        }
-      ],
-      "duration_ms": 184510,
-      "name": "BOKE",
-      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "NANGMAN",
         "url": "https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m"
       },
@@ -263,6 +227,42 @@
       "duration_ms": 216293,
       "name": "Vancouver",
       "url": "https://open.spotify.com/track/0gFCY62s8BCy6x0Q3gxczc"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
+      },
+      "artists": [
+        {
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "MINNIE",
+          "url": "https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX"
+        }
+      ],
+      "duration_ms": 213377,
+      "name": "Thief (Feat. MINNIE of (G)I-DLE)",
+      "url": "https://open.spotify.com/track/7jSs3iUhwTbo03BTuzmdvY"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "BOKE",
+        "url": "https://open.spotify.com/album/2Q3r9Ax0rqp8VGdMA4RUpD"
+      },
+      "artists": [
+        {
+          "name": "CIKI",
+          "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
+        }
+      ],
+      "duration_ms": 184510,
+      "name": "BOKE",
+      "url": "https://open.spotify.com/track/3Rt7BjFHnJ4QxBGT897Vs2"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -283,6 +283,22 @@
       "duration_ms": 236703,
       "name": "Tictoc Tictoc Tictoc (with Beenzino)",
       "url": "https://open.spotify.com/track/69XHRP8AyobIbFELKSdOHp"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Sun Dance",
+        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+      },
+      "artists": [
+        {
+          "name": "COOING",
+          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+        }
+      ],
+      "duration_ms": 217106,
+      "name": "Sun Dance",
+      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -347,26 +363,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Undo",
-        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
-      },
-      "artists": [
-        {
-          "name": "HEIZE",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
-        },
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 262394,
-      "name": "Sad ending (Feat. george)",
-      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "bimil:ier vol.6 \"Cloudy\"",
         "url": "https://open.spotify.com/album/3EO7FdK1ZK2Pb7TfIZGqhX"
       },
@@ -403,18 +399,22 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Sun Dance",
-        "url": "https://open.spotify.com/album/7MBB4KRCEBlm48WhJwxSDd"
+        "name": "Undo",
+        "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
       "artists": [
         {
-          "name": "COOING",
-          "url": "https://open.spotify.com/artist/2NMLIfATxdqFuhx2jHcir8"
+          "name": "HEIZE",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        },
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
         }
       ],
-      "duration_ms": 217106,
-      "name": "Sun Dance",
-      "url": "https://open.spotify.com/track/0H7gG3rXd8ktRNAYhYOagP"
+      "duration_ms": 262394,
+      "name": "Sad ending (Feat. george)",
+      "url": "https://open.spotify.com/track/6hZoLssqHZJxLbqPu5g30F"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -467,6 +467,26 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -503,22 +523,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 221369,
-      "name": "BETTER (with MINO)",
-      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "Undo",
         "url": "https://open.spotify.com/album/2xR7YEyRweqClzs50bbW3J"
       },
@@ -531,6 +535,22 @@
       "duration_ms": 202120,
       "name": "Love is alone",
       "url": "https://open.spotify.com/track/2X5DVuUYZvP4CwmPwnHSTD"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 221369,
+      "name": "BETTER (with MINO)",
+      "url": "https://open.spotify.com/track/4xE1oTctITcdrkddbVafGT"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -563,26 +583,6 @@
       "duration_ms": 181120,
       "name": "#mood",
       "url": "https://open.spotify.com/track/4e1Fkgr0liTavbc4ReUJF4"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "Sool",
-        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
-      },
-      "artists": [
-        {
-          "name": "snzae",
-          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
-        },
-        {
-          "name": "THAMA",
-          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Sool (Feat. THAMA)",
-      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -655,22 +655,18 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "SPACE MULAN",
-        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
       },
       "artists": [
         {
-          "name": "B\u00c9BE YANA",
-          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
-        },
-        {
-          "name": "Eelittlee",
-          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
+          "name": "OoOo",
+          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
         }
       ],
-      "duration_ms": 197306,
-      "name": "GO! (feat. Eelittlee)",
-      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
+      "duration_ms": 183281,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -691,24 +687,8 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2wD9q03no4yJClNcp9HbTZ"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 183281,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3b68cnOtUujowS1vKK7klK"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "BOKE (Remix) (feat. kojikoji)",
-        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
+        "name": "kibun (feat. vntermude)",
+        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
       },
       "artists": [
         {
@@ -716,13 +696,33 @@
           "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         },
         {
-          "name": "kojikoji",
-          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
+          "name": "vntermude",
+          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
         }
       ],
-      "duration_ms": 184510,
-      "name": "BOKE (Remix) (feat. kojikoji)",
-      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
+      "duration_ms": 168498,
+      "name": "kibun (feat. vntermude)",
+      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "SPACE MULAN",
+        "url": "https://open.spotify.com/album/1GHYvCUVTfIiKoB3qGRKV9"
+      },
+      "artists": [
+        {
+          "name": "B\u00c9BE YANA",
+          "url": "https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2"
+        },
+        {
+          "name": "Eelittlee",
+          "url": "https://open.spotify.com/artist/0wrqnbFtOGgYllDGFr8JPA"
+        }
+      ],
+      "duration_ms": 197306,
+      "name": "GO! (feat. Eelittlee)",
+      "url": "https://open.spotify.com/track/6Qxyowsn90zcO5guo9vwl1"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -743,22 +743,6 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Night Swimming",
-        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
-      },
-      "artists": [
-        {
-          "name": "sunwashere",
-          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
-        }
-      ],
-      "duration_ms": 249272,
-      "name": "Night Swimming",
-      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
         "name": "Hug me tight",
         "url": "https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF"
       },
@@ -775,24 +759,44 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "Island Island!",
-        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5b0a08boLJNUaIdegaixqk"
       },
       "artists": [
         {
-          "name": "more",
-          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        },
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
         }
       ],
-      "duration_ms": 175300,
-      "name": "happen",
-      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
+      "duration_ms": 226866,
+      "name": "Room for You (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/6XWBxRGrtM2lP5CYHznHyM"
     },
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
-        "name": "kibun (feat. vntermude)",
-        "url": "https://open.spotify.com/album/0RZSABD3IX7QvPT3WlOsK8"
+        "name": "Night Swimming",
+        "url": "https://open.spotify.com/album/67rmIVW6JACPQc6FU7zIG5"
+      },
+      "artists": [
+        {
+          "name": "sunwashere",
+          "url": "https://open.spotify.com/artist/408sQkmdCQ2kgy09KLocTx"
+        }
+      ],
+      "duration_ms": 249272,
+      "name": "Night Swimming",
+      "url": "https://open.spotify.com/track/7JQ6yZiZmfyIdiZ5aL5p78"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "BOKE (Remix) (feat. kojikoji)",
+        "url": "https://open.spotify.com/album/5P7rM2lWFsXTnWAU4kNgBV"
       },
       "artists": [
         {
@@ -800,13 +804,13 @@
           "url": "https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5"
         },
         {
-          "name": "vntermude",
-          "url": "https://open.spotify.com/artist/1TjkORUlqsQ5bxtFdY98lA"
+          "name": "kojikoji",
+          "url": "https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs"
         }
       ],
-      "duration_ms": 168498,
-      "name": "kibun (feat. vntermude)",
-      "url": "https://open.spotify.com/track/6DSVy5frOGBAxPgJwJWpvD"
+      "duration_ms": 184510,
+      "name": "BOKE (Remix) (feat. kojikoji)",
+      "url": "https://open.spotify.com/track/7He1dYoaMiB90dQQvN1vlJ"
     },
     {
       "added_at": "2022-08-12 18:52:48",
@@ -835,6 +839,42 @@
     {
       "added_at": "2022-08-12 18:52:48",
       "album": {
+        "name": "SESAME",
+        "url": "https://open.spotify.com/album/4RBVQrJucNKAx0LkutK7Vv"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        },
+        {
+          "name": "Bell The Blu",
+          "url": "https://open.spotify.com/artist/6pOhX5ApPPaAPPkBjsDMcp"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "SESAME",
+      "url": "https://open.spotify.com/track/3pUzXCDNb9Zt2W6WOqGEm2"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
+        "name": "Island Island!",
+        "url": "https://open.spotify.com/album/2UjO73KY5QVxbq0uQdCJBD"
+      },
+      "artists": [
+        {
+          "name": "more",
+          "url": "https://open.spotify.com/artist/017LLC0SXBSYpFwlHLNsPM"
+        }
+      ],
+      "duration_ms": 175300,
+      "name": "happen",
+      "url": "https://open.spotify.com/track/5e5FhcTCMnntECjB3tIW5F"
+    },
+    {
+      "added_at": "2022-08-12 18:52:48",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -851,38 +891,6 @@
       "duration_ms": 164288,
       "name": "Eunha Store (feat. KIM YUNA)",
       "url": "https://open.spotify.com/track/30O9nIW0UhMSCmb7z3DOjm"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "Far From the Madding City",
-        "url": "https://open.spotify.com/album/0MVU7WcAUsxJso0To80KRy"
-      },
-      "artists": [
-        {
-          "name": "OOHYO",
-          "url": "https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX"
-        }
-      ],
-      "duration_ms": 274582,
-      "name": "TENNIS",
-      "url": "https://open.spotify.com/track/3D2w1uW57boDEssh53zZWB"
-    },
-    {
-      "added_at": "2022-08-12 18:52:48",
-      "album": {
-        "name": "How About You?",
-        "url": "https://open.spotify.com/album/508XKBxqwGYZbgHrFfqx87"
-      },
-      "artists": [
-        {
-          "name": "OoOo",
-          "url": "https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb"
-        }
-      ],
-      "duration_ms": 198807,
-      "name": "How About You?",
-      "url": "https://open.spotify.com/track/2lKyx5GVAKJUZ4wXlk3nuD"
     }
   ],
   "unique_name": "\uad1c\ud788 \uc13c\uce58\ud574",

@@ -4,7 +4,7 @@
 
 > El inolvidable sonido del amor nunca había estado tan cerca de ti.
 
-108 songs - 5 hr 50 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
+109 songs - 5 hr 53 min - [published](https://open.spotify.com/playlist/13iVxCV9Zen1FfBrkzmqw4)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bravo](https://open.spotify.com/track/4E2RBRKyIA1ZN5HfBIKnSE) | [Cecilia Bracamonte](https://open.spotify.com/artist/2mjCLOUytfzQD0ymy3024f) | [Con Alma de Bolero](https://open.spotify.com/album/24rvm6xkdEBEEVQHBgBAVI) | 3:40 | 2021-12-17 | 2022-07-28 |
 | [Brujerias](https://open.spotify.com/track/3KMZevenugNMlqN1q5RyKR) | [Johnny Farfán](https://open.spotify.com/artist/0Bwzbgfx2UJ7tiHBs2LHwj) | [La Voz Elegante del Bolero](https://open.spotify.com/album/1JLkMWNGLHIp2KWRWXq39H) | 2:25 | 2021-12-17 |  |
 | [Brujerías](https://open.spotify.com/track/0RTG5cFeF2mF0BBEkqYruz) | [Jhonny Farfán](https://open.spotify.com/artist/1jkXMtjlfNzgqNkdpOcfB4) | [Serie Majestad: Boleros Cantineros](https://open.spotify.com/album/38l6VrPhkeI4WDDmxzbgAO) | 2:24 | 2021-12-17 | 2022-07-27 |
+| [Busco Tu Recuerdo](https://open.spotify.com/track/2PYE3DJ2T10PtmKRR0sDCi) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [La Sonora Malecon Club](https://open.spotify.com/artist/5g6KQqUX1SIIiwRxzMOO3U) | [Busco Tu Recuerdo](https://open.spotify.com/album/712zLccAgcwxoh0ZbblavG) | 2:43 | 2021-12-17 |  |
 | [Busco Tu Recuerdo](https://open.spotify.com/track/2GGnD1MQHcIzFqaSuVoNLh) | [Charlie Figueroa](https://open.spotify.com/artist/775LHjObPigWuiQn78ojJS), [Sonora Malecon Club](https://open.spotify.com/artist/0KumvinlqqxSHrL1gNjPza) | [Mis Mejores Éxitos](https://open.spotify.com/album/55TCdVzDnHXf8lYKV72V7u) | 2:42 | 2021-12-17 | 2022-07-29 |
 | [Bésame Mucho](https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Tesoros De Coleccion](https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk) | 3:00 | 2021-12-17 |  |
 | [Cabellitos de Mi Madre](https://open.spotify.com/track/5CEIxkQc67VmkkR2pQljSj) | [Ramón Avilés](https://open.spotify.com/artist/1IJ4cVs5Zjf2445S6ge2R1) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:00 | 2021-12-17 |  |
@@ -45,7 +46,7 @@
 | [El Contragolpe](https://open.spotify.com/track/44qNH2IBVbzLimI97YyJeK) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:33 | 2021-12-17 |  |
 | [El Contragolpe](https://open.spotify.com/track/0AhVIj5X2xmVf1I7MCoFzz) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/0rVePJ6T1cPv3wG06wFpmv) | 2:33 | 2021-12-17 | 2022-07-29 |
 | [El Final](https://open.spotify.com/track/4kvaFZySpHz2GZD1g8OIdn) | [Cecilio Alva](https://open.spotify.com/artist/6b3BoaoypHCs2FQ1F54ij5) | [Preso de Mis Boleros Cantineros](https://open.spotify.com/album/3XO74rNJHu8qHSCY3t2fAs) | 2:53 | 2021-12-17 | 2022-07-09 |
-| [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 | 2021-12-17 |  |
+| [El Hijo Varón](https://open.spotify.com/track/7zCthbWs5OjnpXl9pMfmxy) | [Guiller](https://open.spotify.com/artist/05qMOtzCy90GhGIvelpvaF) | [Poker de Ases](https://open.spotify.com/album/2vbLzJhA0KgGveLxp1qnnK) | 3:04 | 2021-12-17 | 2022-08-17 |
 | [El Teléfono](https://open.spotify.com/track/3vuOUZqnlqkc7BljJq0NnL) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 38](https://open.spotify.com/album/7IrlrJ1wg7aRFIyy1Mef25) | 2:49 | 2021-12-17 | 2022-07-29 |
 | [El Teléfono](https://open.spotify.com/track/7GlDEtXzNPFUAWr4Qu4K4d) | [Segundo Rosero](https://open.spotify.com/artist/41EMdaUylPIcdbGdojyr2O) | [La Tripleta Popular, Vol\. 19](https://open.spotify.com/album/6fMrPRvcyU4X80kojIGxHF) | 2:49 | 2021-12-17 |  |
 | [En El Balcon Aquel](https://open.spotify.com/track/0RG50rC99tTOBv81mcB5Qt) | [Celio Gonzalez](https://open.spotify.com/artist/17fQCVwjvlCEIr3T1dLg5y) | [Las Estrellas De La Matancera](https://open.spotify.com/album/1NfEP5Vfe1Pvxr6fcshVP1) | 2:17 | 2021-12-17 |  |

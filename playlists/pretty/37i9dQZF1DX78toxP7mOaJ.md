@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: The Paranoyds \| Artwork: Jim Klok
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,760 likes - 115 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,806 likes - 115 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,10 +118,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 108 | [Wish Away My Time](https://open.spotify.com/track/79qs1VoLBHKxR0ceCZbFDt) | [Kanadia](https://open.spotify.com/artist/65rcuCM57ICUgXn7bTO5Ts) | [Wish Away My Time](https://open.spotify.com/album/4Cy1tbQF4uqo9Ctzmma6RE) | 5:04 |
 | 109 | [Kick Like A Girl](https://open.spotify.com/track/4YKur03p6QQaPhXAjBhGzb) | [Loose Articles](https://open.spotify.com/artist/07NWIkIKcZnWWmebfHcOxT) | [Kick Like A Girl](https://open.spotify.com/album/3xVZOwOtBakTmN9AQ8OPf0) | 2:28 |
 | 110 | [Blah Blah Blah](https://open.spotify.com/track/6SC0uKm0gUResbIo7bHb79) | [PJ Western](https://open.spotify.com/artist/6bU0xhW8wK2ugmnk9D0oHh) | [Blah Blah Blah](https://open.spotify.com/album/2FY9tjPkyWw52obnSnmZBk) | 3:30 |
-| 111 | [Night Vision](https://open.spotify.com/track/39FPED7GVRpJFLTBsBy1vE) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Night Vision](https://open.spotify.com/album/5GLio6tmJhyY7GzrHe8x2w) | 3:22 |
+| 111 | [Night Vision](https://open.spotify.com/track/54GSKI57uNYbwamZrjBGMz) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 3:22 |
 | 112 | [Arrows](https://open.spotify.com/track/6nyhfXJ3sbazS3ChSpl6ld) | [Mass Sky Raid](https://open.spotify.com/artist/0GviqMe5TBipPkKM5gGHHK) | [Calm In Chaos](https://open.spotify.com/album/4Zo6EOemdPC7jCD8BXBLIS) | 4:17 |
 | 113 | [SAFEWORD](https://open.spotify.com/track/7deJGxQIiAgNdp2NUvNtyK) | [Aimee Vant](https://open.spotify.com/artist/4j2LiaymZa7V1F8sfSC4TO) | [SAFEWORD](https://open.spotify.com/album/02rRus23EQLzH4HZeOLJH8) | 3:21 |
 | 114 | [Liar](https://open.spotify.com/track/5PVm2jkgD9c4p9t4KnwthI) | [Hyattsvillain](https://open.spotify.com/artist/1X8K2CJ9gE4QDrh8TVRMKr) | [Liar](https://open.spotify.com/album/6t8TvUFYL6cG1uH2hsZEjV) | 2:44 |
 | 115 | [Zoltar](https://open.spotify.com/track/2KgFmSMPJ9UeqFZPgAYkhP) | [Bummer Girl](https://open.spotify.com/artist/7me999phb2x5ZHUjcVr9zm) | [Welcome to Chicken Town](https://open.spotify.com/album/3bNCB8Xe19jL259sbf1F9H) | 2:18 |
 
-Snapshot ID: `MTY2MDE0NzIwMCwwMDAwMDAwMDMxZjdjNDJlNmQyN2JlYjI2NWZkN2U1OTU5ODM4YTdk`
+Snapshot ID: `MTY2MDE0NzIwMCwwMDAwMDAwMDk5Njg1YWJjOWEyMDg4YTZkZGFjNDE1MjY2YzZiYjc0`

@@ -1,29 +1,13 @@
 {
   "description": "Indie takes on songs others make. Cover: Remi Wolf",
-  "num_followers": 270990,
+  "num_followers": 270994,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDA3NjQ0MSwwMDAwMDAwMGYwMGM3Y2JhNTFkNmNiNGMxMWI0NGEzNjVmYTA3ZDc0",
+  "snapshot_id": "MTY2MDY2OTczMywwMDAwMDAwMDMxOWNhMGY3ZTY2MmI3ZTkzZmM5ZTBjYzQ1N2Y4NTVi",
   "tracks": [
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Live at Electric Lady",
-        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 233406,
-      "name": "Pink + White - Live at Electric Lady",
-      "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
-    },
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
@@ -47,22 +31,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Weird Fishes/ Arpeggi",
-        "url": "https://open.spotify.com/album/6zGiR59zDHE9xFJtTDsZe1"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo y Gabriela",
-          "url": "https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF"
-        }
-      ],
-      "duration_ms": 325773,
-      "name": "Weird Fishes/ Arpeggi",
-      "url": "https://open.spotify.com/track/3A8hPbFFV3YFolz2vSKY83"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Put Your Records On",
         "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
@@ -75,26 +43,6 @@
       "duration_ms": 210463,
       "name": "Put Your Records On",
       "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Go Easy, Kid (with James Blake)",
-        "url": "https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Go Easy, Kid (with James Blake)",
-      "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -115,22 +63,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
-      },
-      "artists": [
-        {
-          "name": "Yoke Lore",
-          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
-        }
-      ],
-      "duration_ms": 190392,
-      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "ghost town (voice memo)",
         "url": "https://open.spotify.com/album/6W4tUP2tcem0izGTVzxx5g"
       },
@@ -147,6 +79,38 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
+        "name": "Live at Electric Lady",
+        "url": "https://open.spotify.com/album/4BI9my41BKZdY4rYevmxSQ"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 233406,
+      "name": "Pink + White - Live at Electric Lady",
+      "url": "https://open.spotify.com/track/5uJK1i4LU4I5Ai5qCeHonu"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t"
+      },
+      "artists": [
+        {
+          "name": "Yoke Lore",
+          "url": "https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S"
+        }
+      ],
+      "duration_ms": 190392,
+      "name": "Truly Madly Deeply - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
         "name": "That Funny Feeling",
         "url": "https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr"
       },
@@ -159,6 +123,38 @@
       "duration_ms": 400565,
       "name": "That Funny Feeling",
       "url": "https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Cloud 9",
+        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+      },
+      "artists": [
+        {
+          "name": "Paravi",
+          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+        }
+      ],
+      "duration_ms": 142000,
+      "name": "Cloud 9",
+      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+      },
+      "artists": [
+        {
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+        }
+      ],
+      "duration_ms": 153624,
+      "name": "i will follow you into the dark - Spotify Singles",
+      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -195,18 +191,18 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Cloud 9",
-        "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
       },
       "artists": [
         {
-          "name": "Paravi",
-          "url": "https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH"
+          "name": "Daniela Andrade",
+          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
         }
       ],
-      "duration_ms": 142000,
-      "name": "Cloud 9",
-      "url": "https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea"
+      "duration_ms": 242000,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -227,18 +223,18 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/54lLvzhlVF4QhQMBfPQhtl"
+        "name": "Home",
+        "url": "https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2"
       },
       "artists": [
         {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
+          "name": "Matthew Hall",
+          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
         }
       ],
-      "duration_ms": 153624,
-      "name": "i will follow you into the dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/7lxfdfIocUHefodQ8JLyfk"
+      "duration_ms": 263870,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -255,38 +251,6 @@
       "duration_ms": 152227,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/0hOdcKXM4riRXmpyo71SFs"
-      },
-      "artists": [
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/47jgSvqlKwGyBLPnMfeEZN"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/0ISmFVrI9E1lrbKYiK3kS2"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hall",
-          "url": "https://open.spotify.com/artist/2KEK4PfckTQZk4rvo2bgfZ"
-        }
-      ],
-      "duration_ms": 263870,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/38O3WQ0SQykunIq3cbZIFb"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -435,18 +399,18 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "The Bends",
-        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+        "name": "Knee Deep at ATP",
+        "url": "https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs"
       },
       "artists": [
         {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 232000,
-      "name": "High And Dry",
-      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
+      "duration_ms": 188418,
+      "name": "Knee Deep at ATP",
+      "url": "https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -463,6 +427,22 @@
       "duration_ms": 125739,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/1UgYbaqmqRbnJ395pHLwMO"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "The Bends",
+        "url": "https://open.spotify.com/album/49222lHU3qAalWzClAabbp"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "High And Dry",
+      "url": "https://open.spotify.com/track/0GehqN1MkS7feXJWWk97KU"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -579,22 +559,6 @@
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/7aHKcqM6ooNnM122ydEyGq"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
-        "name": "Knee Deep at ATP",
-        "url": "https://open.spotify.com/album/6FaPUkwFu0JUmEc9yi3PPs"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 188418,
-      "name": "Knee Deep at ATP",
-      "url": "https://open.spotify.com/track/7GN5qZoCkvWxo4ENsFKA6B"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -951,6 +915,26 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5WqCAcv7n9dfevwkEEfMph"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/0y8MdWQBAXTTm8BFdqjfrD"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
         "name": "Float On",
         "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
       },
@@ -983,22 +967,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "I Try",
-        "url": "https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI"
-      },
-      "artists": [
-        {
-          "name": "courtship.",
-          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
-        }
-      ],
-      "duration_ms": 147996,
-      "name": "I Try",
-      "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "As I Rise",
         "url": "https://open.spotify.com/album/6JFVPEqi5X12OePmPDc8LG"
       },
@@ -1011,6 +979,22 @@
       "duration_ms": 140741,
       "name": "As I Rise",
       "url": "https://open.spotify.com/track/6Tkdjq5Wg4ECxk5iCKUbAx"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "I Try",
+        "url": "https://open.spotify.com/album/5ZwWwcH6Q2xWIJzC1n5WXI"
+      },
+      "artists": [
+        {
+          "name": "courtship.",
+          "url": "https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8"
+        }
+      ],
+      "duration_ms": 147996,
+      "name": "I Try",
+      "url": "https://open.spotify.com/track/0YY1xpXpPYL2N8tVwXBITr"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1063,6 +1047,22 @@
       "duration_ms": 150517,
       "name": "Sweater Weather (Acoustic)",
       "url": "https://open.spotify.com/track/0BbV0fKqY3jxlXYbtzN2bO"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Singing Other People's Love Songs",
+        "url": "https://open.spotify.com/album/3608IcniealifcqI8WbKte"
+      },
+      "artists": [
+        {
+          "name": "Lowland Hum",
+          "url": "https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE"
+        }
+      ],
+      "duration_ms": 136891,
+      "name": "This Will Be Our Year",
+      "url": "https://open.spotify.com/track/3LPvSvPOv2z6FK4xyobePc"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
-    },
-    {
-      "added_at": "2022-08-09 20:20:41",
-      "album": {
         "name": "Nothing Breaks Like A Heart",
         "url": "https://open.spotify.com/album/0zBZokjXEln00OETFLesm2"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
       "artists": [
         {
-          "name": "The Naked And Famous",
-          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 187333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC"
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1211,22 +1195,18 @@
     {
       "added_at": "2022-08-09 20:20:41",
       "album": {
-        "name": "Steal My Sunshine / Novocaine For The Soul",
-        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/7I4aB73LOtDFQhJQE6HmQc"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
-        },
-        {
-          "name": "Cherry Glazerr",
-          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+          "name": "The Naked And Famous",
+          "url": "https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9"
         }
       ],
-      "duration_ms": 240002,
-      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
-      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
+      "duration_ms": 187333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/5sKN6nGLcbfveIVEoejeoC"
     },
     {
       "added_at": "2022-08-09 20:20:41",
@@ -1247,6 +1227,26 @@
       "duration_ms": 232200,
       "name": "Pumped Up Kicks - Gus Dapperton Version",
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
+    },
+    {
+      "added_at": "2022-08-09 20:20:41",
+      "album": {
+        "name": "Steal My Sunshine / Novocaine For The Soul",
+        "url": "https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1"
+      },
+      "artists": [
+        {
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+        },
+        {
+          "name": "Cherry Glazerr",
+          "url": "https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg"
+        }
+      ],
+      "duration_ms": 240002,
+      "name": "Steal My Sunshine (feat. Cherry Glazerr)",
+      "url": "https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC"
     }
   ],
   "unique_name": "Indie Covers",

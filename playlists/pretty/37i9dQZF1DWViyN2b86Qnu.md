@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 
 > Removing the barriers of gender and genre, these are the brilliant sounds of transgender, non\-binary and gender\-fluid artists\. Cover: G Flip
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,346 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,374 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Waste Of Space](https://open.spotify.com/track/0BDqmjPsTGs5Lwazq3Evay) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Waste Of Space](https://open.spotify.com/album/3J1NykEkJU34GlEPPPWLuZ) | 3:11 |
 | 2 | [We'll Never Have Sex](https://open.spotify.com/track/4zXuYQNDmw3dlauyc8q3Kd) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [We'll Never Have Sex](https://open.spotify.com/album/7ji2CX2KOzJgYY1Du1aaS3) | 1:39 |
-| 3 | [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 |
+| 3 | [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 |
 | 4 | [I Wanna Be a Boy](https://open.spotify.com/track/5waXXk9DjEZ7LvaeDylbte) | [Addison Grace](https://open.spotify.com/artist/39EIRTZx1JjfeDLVdbj2ap) | [I Wanna Be a Boy](https://open.spotify.com/album/1CqhdFxHAyTGkmJNZMrHNw) | 3:19 |
 | 5 | [Lonely But Not Alone](https://open.spotify.com/track/70SMq0djk5HdO0kc1YM2e9) | [EGOISM](https://open.spotify.com/artist/6bTkIQfvR8nlRCHLAvbfOD) | [Lonely But Not Alone](https://open.spotify.com/album/24yrwo7fOZ5ID22hLzU43W) | 3:16 |
 | 6 | [space girl](https://open.spotify.com/track/1vzfxEYT3NhXrzzAqxGLPe) | [Frances Forever](https://open.spotify.com/artist/5uuqghaOBgtv92jDyDveQl) | [paranoia party](https://open.spotify.com/album/0VUQxlHNGfyoac8Hi1QsIK) | 3:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViyN2b86Qnu.md) - [plain]
 | 99 | [Hire](https://open.spotify.com/track/6RiI88pDWXUBJcRPuNkjHK) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [What Chaos Is Imaginary](https://open.spotify.com/album/58HB0yjdQE2MH5MrfWt4EO) | 2:55 |
 | 100 | [summer party 3019](https://open.spotify.com/track/45QTRSrFVSbfTJSpHNIlaP) | [In Love With a Ghost](https://open.spotify.com/artist/21tDFddcOFDYmiobTcls2O) | [Playful Spirits](https://open.spotify.com/album/6lLhOnxSvlUgzvm3a6kByS) | 3:06 |
 
-Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMGRmMjkyNWE3NzJiMzViYTdhNDYzYzY1NWVlYTZiOWE0`
+Snapshot ID: `MTY1Nzc3MDM2NiwwMDAwMDAwMDkxYTg3MDNjMDA1OWVhZTNhMWE1ZTNjMjc1OTVlN2Iw`

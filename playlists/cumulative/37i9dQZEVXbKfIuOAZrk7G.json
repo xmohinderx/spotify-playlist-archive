@@ -336,6 +336,24 @@
     },
     {
       "album": {
+        "name": "SEVENTEEN 4th Album Repackage 'SECTOR 17'",
+        "url": "https://open.spotify.com/album/15pRJdCJtDyzQaY9tGs750"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178453,
+      "name": "_WORLD",
+      "url": "https://open.spotify.com/track/3QwiidVHfeE9y5jl4n2MTC"
+    },
+    {
+      "album": {
         "name": "A Man Without Love",
         "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
       },
@@ -437,7 +455,7 @@
       ],
       "date_added": "2022-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 177524,
       "name": "Afraid To Feel",
       "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
@@ -691,6 +709,28 @@
       "duration_ms": 238440,
       "name": "Aquamarine (feat. Michael Kiwanuka)",
       "url": "https://open.spotify.com/track/1WS1Q9G8vj0gPN2aOkZ80A"
+    },
+    {
+      "album": {
+        "name": "Are You Entertained (feat. Ed Sheeran)",
+        "url": "https://open.spotify.com/album/1ZxzpJ4MVEbxilQfEnY0n9"
+      },
+      "artists": [
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156083,
+      "name": "Are You Entertained (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/5bLGQqcpsz5ISWeihZfJnR"
     },
     {
       "album": {
@@ -997,6 +1037,40 @@
       "duration_ms": 223668,
       "name": "Beauty In The Madness",
       "url": "https://open.spotify.com/track/1ZeNNGi93weFVbOHdmTB6F"
+    },
+    {
+      "album": {
+        "name": "Cheat Codes",
+        "url": "https://open.spotify.com/album/0rEbmIQjHTKzKraH4UqiDy"
+      },
+      "artists": [
+        {
+          "name": "Danger Mouse",
+          "url": "https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf"
+        },
+        {
+          "name": "Black Thought",
+          "url": "https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        },
+        {
+          "name": "Dylan Cartlidge",
+          "url": "https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z"
+        },
+        {
+          "name": "Joey Bada$$",
+          "url": "https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281360,
+      "name": "Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge)",
+      "url": "https://open.spotify.com/track/1pRkGgpQGX6nr8PrO1NMIs"
     },
     {
       "album": {
@@ -1747,7 +1821,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 204189,
       "name": "Camping",
       "url": "https://open.spotify.com/track/3nCyD17Oecbgx4VNX5fNZ5"
@@ -2396,6 +2470,24 @@
     },
     {
       "album": {
+        "name": "Who is Nardo Wick?? (Deluxe)",
+        "url": "https://open.spotify.com/album/47Thm1tltjJVofuRumhfmi"
+      },
+      "artists": [
+        {
+          "name": "Nardo Wick",
+          "url": "https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151776,
+      "name": "Dah Dah DahDah",
+      "url": "https://open.spotify.com/track/2TSfStvlAMLw89u3tali79"
+    },
+    {
+      "album": {
         "name": "Bridgerton Season Two (Covers from the Netflix Series)",
         "url": "https://open.spotify.com/album/63xx2KhCMtdl2ks3txobZF"
       },
@@ -2541,6 +2633,24 @@
       "duration_ms": 181714,
       "name": "Dear God (feat. Kevin Gates)",
       "url": "https://open.spotify.com/track/1oPdIqXhjswpTnA5PPQs0K"
+    },
+    {
+      "album": {
+        "name": "Demons Around",
+        "url": "https://open.spotify.com/album/0aWMH4CTIv6hBYRzfFuLJf"
+      },
+      "artists": [
+        {
+          "name": "yatashigang",
+          "url": "https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165558,
+      "name": "Demons Around",
+      "url": "https://open.spotify.com/track/7KXAgGAHEB1Ny89pL6eEA0"
     },
     {
       "album": {
@@ -2811,6 +2921,24 @@
       "duration_ms": 171453,
       "name": "Doja",
       "url": "https://open.spotify.com/track/3YFnfm9z8RmPFIZ7C16u4e"
+    },
+    {
+      "album": {
+        "name": "Doja",
+        "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97392,
+      "name": "Doja",
+      "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
       "album": {
@@ -3493,7 +3621,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 219187,
       "name": "FADE UP",
       "url": "https://open.spotify.com/track/4ZpIuzx91EAPK3VimONbfB"
@@ -3649,7 +3777,7 @@
       ],
       "date_added": "2022-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
@@ -4317,6 +4445,24 @@
       "duration_ms": 153999,
       "name": "Ginseng Strip 2002",
       "url": "https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc"
+    },
+    {
+      "album": {
+        "name": "Give Me A Kiss",
+        "url": "https://open.spotify.com/album/4Cxkou3pFWfzoLsw9Aonfw"
+      },
+      "artists": [
+        {
+          "name": "Crash Adams",
+          "url": "https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169204,
+      "name": "Give Me A Kiss",
+      "url": "https://open.spotify.com/track/0ocf3HwWhrXtA8r63Vcd2h"
     },
     {
       "album": {
@@ -5769,7 +5915,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 140873,
       "name": "IMMACULATE",
       "url": "https://open.spotify.com/track/5Txeau6Fi96zS4THXUJ4w7"
@@ -6411,7 +6557,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 268164,
       "name": "Kesariya (From \"Brahmastra\")",
       "url": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ"
@@ -6892,6 +7038,28 @@
     },
     {
       "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
+    },
+    {
+      "album": {
         "name": "Love Me Back (Fayahh Beat)",
         "url": "https://open.spotify.com/album/3chA2MGRAajYTezCtS7f5s"
       },
@@ -7305,7 +7473,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 114375,
       "name": "Maybe My Soulmate Died",
       "url": "https://open.spotify.com/track/7N1bEUVuQo8HHuikDgJ10c"
@@ -7341,7 +7509,7 @@
       ],
       "date_added": "2022-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 167266,
       "name": "Me On You",
       "url": "https://open.spotify.com/track/16IHzMTYzM3VKDJK0syV22"
@@ -7995,7 +8163,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 289653,
       "name": "My Heart Has Teeth (feat. Skylar Grey) - From \u201cResident Evil\u201d",
       "url": "https://open.spotify.com/track/4HQaCBLA2fpYlcQNZxNg4F"
@@ -8428,6 +8596,28 @@
     },
     {
       "album": {
+        "name": "DOUBLE M'S",
+        "url": "https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui"
+      },
+      "artists": [
+        {
+          "name": "Lil Mabu",
+          "url": "https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN"
+        },
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "NO SNITCHING (with Dusty Locane)",
+      "url": "https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9"
+    },
+    {
+      "album": {
         "name": "Original Vibe Machine",
         "url": "https://open.spotify.com/album/4lPTjESEvOe5pvtLbralQ3"
       },
@@ -8647,7 +8837,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 211739,
       "name": "Oklahoma Smokeshow",
       "url": "https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a"
@@ -8933,6 +9123,28 @@
       "duration_ms": 205426,
       "name": "Pass The Dutchie",
       "url": "https://open.spotify.com/track/1BkY0N8ChFk2mdLbAUu8ZK"
+    },
+    {
+      "album": {
+        "name": "Persuasive (with SZA)",
+        "url": "https://open.spotify.com/album/7LYy99hyg4eHQeYkKPuS6R"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210346,
+      "name": "Persuasive (with SZA)",
+      "url": "https://open.spotify.com/track/67v2UHujFruxWrDmjPYxD6"
     },
     {
       "album": {
@@ -9662,6 +9874,24 @@
     },
     {
       "album": {
+        "name": "Romantic Homicide",
+        "url": "https://open.spotify.com/album/2VOw1TVu3PduPt9LYd3eF2"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132630,
+      "name": "Romantic Homicide",
+      "url": "https://open.spotify.com/track/4jonEzO6nIIBt5xPGsyOA0"
+    },
+    {
+      "album": {
         "name": "Rumors (feat. Lil Durk)",
         "url": "https://open.spotify.com/album/7x2jRqKRTESzM0A8vBOJIM"
       },
@@ -9695,10 +9925,28 @@
       ],
       "date_added": "2022-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 213753,
       "name": "Run Away to Mars",
       "url": "https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w"
+    },
+    {
+      "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/4ks1Xkpt67UXbJamJFZ8et"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/6G1Mz5yMgn0ydOlIvTrZ65"
     },
     {
       "album": {
@@ -10237,7 +10485,7 @@
       ],
       "date_added": "2022-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 295308,
       "name": "Shootout",
       "url": "https://open.spotify.com/track/4pTkDIlpFNoeWbahu8pVXW"
@@ -11565,7 +11813,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 275226,
       "name": "Thick Fine Woman",
       "url": "https://open.spotify.com/track/1vuZEWtyQYMivPMKk4ySdX"
@@ -12127,7 +12375,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 165557,
       "name": "Un jour je marierai un ange",
       "url": "https://open.spotify.com/track/5EWPzyWm0b9McPS5Qyaijp"

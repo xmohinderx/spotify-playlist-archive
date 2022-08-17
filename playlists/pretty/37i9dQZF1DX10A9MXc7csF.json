@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Estevan Plazola, Tony Loya.",
-  "num_followers": 93363,
+  "num_followers": 93382,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGIwNThhNmQzOGVmMWFhM2RhYTliNzgyYjg5NTM2Zjhj",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDE1NTQ4OTY0MGUzNWRlMjk2MWJjZTliNjAwMTc3M2Yy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -455,6 +455,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Pinch3 Polo",
+        "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
+      },
+      "artists": [
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "Muy Criticado",
+      "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "La Ruleta de La Vida",
         "url": "https://open.spotify.com/album/3W7MMzYaMYq5LyF1h5CoHc"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 159056,
       "name": "La Ruleta de La Vida",
       "url": "https://open.spotify.com/track/6p4Ta9TKEndqO6ZarnY3zl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Pinch3 Polo",
-        "url": "https://open.spotify.com/album/1wiIT4mP1CKDmcP0AWCeOR"
-      },
-      "artists": [
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 167000,
-      "name": "Muy Criticado",
-      "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Tiempo Fuera",
+        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        }
+      ],
+      "duration_ms": 198040,
+      "name": "Tiempo Fuera",
+      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Maldito Olvido",
         "url": "https://open.spotify.com/album/2FQl8STaVhL0j6ph9zIsPS"
       },
@@ -603,6 +619,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Mafia De La Calle",
+        "url": "https://open.spotify.com/album/5ES7hYzsnWJWPUpIn34Foq"
+      },
+      "artists": [
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "duration_ms": 143859,
+      "name": "Mafia De La Calle",
+      "url": "https://open.spotify.com/track/0OjyXDwYxedaS3mhXBpfbE"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "No Me Vas a Convencer",
         "url": "https://open.spotify.com/album/4Y2nV2o9h5x7UidmFfUNRf"
       },
@@ -623,38 +655,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Mafia De La Calle",
-        "url": "https://open.spotify.com/album/5ES7hYzsnWJWPUpIn34Foq"
-      },
-      "artists": [
-        {
-          "name": "Angel Tumbado",
-          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
-        }
-      ],
-      "duration_ms": 143859,
-      "name": "Mafia De La Calle",
-      "url": "https://open.spotify.com/track/0OjyXDwYxedaS3mhXBpfbE"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Tiempo Fuera",
-        "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        }
-      ],
-      "duration_ms": 198040,
-      "name": "Tiempo Fuera",
-      "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Voy Hasta La Cima (Vickz Kickz)",
         "url": "https://open.spotify.com/album/12b9MJ11lXHknBg3q76njX"
       },
@@ -667,22 +667,6 @@
       "duration_ms": 212750,
       "name": "Voy Hasta La Cima (Vickz Kickz)",
       "url": "https://open.spotify.com/track/0uSK1wJVLIxPQJaeR4NA2X"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -703,6 +687,38 @@
       "duration_ms": 186575,
       "name": "Soy el Mejor - Deluxe",
       "url": "https://open.spotify.com/track/3KolJYFk80M5gl5TWYoEd1"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Deseandote",
+        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
+      },
+      "artists": [
+        {
+          "name": "Tony Herrera",
+          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Deseandote",
+      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
+      },
+      "artists": [
+        {
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
+        }
+      ],
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Deseandote",
-        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
-      },
-      "artists": [
-        {
-          "name": "Tony Herrera",
-          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Deseandote",
-      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "2:26am",
         "url": "https://open.spotify.com/album/51Sby9woh6xtIDTMTUyeCF"
       },
@@ -795,42 +795,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Dejen Les Cuento",
-        "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
-      },
-      "artists": [
-        {
-          "name": "Chris Hermosillo",
-          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
-        },
-        {
-          "name": "Colocho y Su Eminencia",
-          "url": "https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz"
-        }
-      ],
-      "duration_ms": 171625,
-      "name": "Dejen Les Cuento",
-      "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Nuestra Profec\u00eda",
-        "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
-      },
-      "artists": [
-        {
-          "name": "Los Rojos",
-          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
-        }
-      ],
-      "duration_ms": 167866,
-      "name": "Nuestra Profec\u00eda",
-      "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Esperame",
         "url": "https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg"
       },
@@ -851,22 +815,38 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Proximo Nivel",
-        "url": "https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk"
+        "name": "Nuestra Profec\u00eda",
+        "url": "https://open.spotify.com/album/030NSvZvnIb1cIdEdDWw7n"
       },
       "artists": [
         {
-          "name": "Proximo Nivel",
-          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
-        },
-        {
-          "name": "Angel Tumbado",
-          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
         }
       ],
-      "duration_ms": 190000,
-      "name": "Airplanes",
-      "url": "https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM"
+      "duration_ms": 167866,
+      "name": "Nuestra Profec\u00eda",
+      "url": "https://open.spotify.com/track/28GpahmEDD0uc6bTMT36n9"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Dejen Les Cuento",
+        "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
+      },
+      "artists": [
+        {
+          "name": "Chris Hermosillo",
+          "url": "https://open.spotify.com/artist/49s6IQppCi57xqZqwLIT7B"
+        },
+        {
+          "name": "Colocho y Su Eminencia",
+          "url": "https://open.spotify.com/artist/6c61IOPGx9WFbMgtHvm8wz"
+        }
+      ],
+      "duration_ms": 171625,
+      "name": "Dejen Les Cuento",
+      "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -883,6 +863,26 @@
       "duration_ms": 188917,
       "name": "Sembrando",
       "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Proximo Nivel",
+        "url": "https://open.spotify.com/album/3Mh5n49gD1gafG2e83Emjk"
+      },
+      "artists": [
+        {
+          "name": "Proximo Nivel",
+          "url": "https://open.spotify.com/artist/3aEa0X3wMYErFrys1jgV94"
+        },
+        {
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Airplanes",
+      "url": "https://open.spotify.com/track/5DZjm7FxWFoAamWPegY7cM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Bajo La Gorra",
-        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
+        "name": "Da\u00f1o en Mi",
+        "url": "https://open.spotify.com/album/6tEp75bLgsXWFDdNrGx0lE"
       },
       "artists": [
         {
-          "name": "Oswaldo_NR",
-          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+          "name": "Plan Exclusivo",
+          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
         }
       ],
-      "duration_ms": 190786,
-      "name": "Bajo La Gorra",
-      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
+      "duration_ms": 132625,
+      "name": "Da\u00f1o en Mi",
+      "url": "https://open.spotify.com/track/3Zl6kPlOwSLHJuVdTcIsLY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Da\u00f1o en Mi",
-        "url": "https://open.spotify.com/album/6tEp75bLgsXWFDdNrGx0lE"
-      },
-      "artists": [
-        {
-          "name": "Plan Exclusivo",
-          "url": "https://open.spotify.com/artist/5EeCfUYLoQmzgsQkV3LZt8"
-        }
-      ],
-      "duration_ms": 132625,
-      "name": "Da\u00f1o en Mi",
-      "url": "https://open.spotify.com/track/3Zl6kPlOwSLHJuVdTcIsLY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "me olvidaste",
         "url": "https://open.spotify.com/album/4qoeo1Oc7rWrHxpUoIhpke"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 135069,
       "name": "me olvidaste",
       "url": "https://open.spotify.com/track/72nuzO5wkGs5S7qq6dddtH"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Bajo La Gorra",
+        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Bajo La Gorra",
+      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Las Guerras de Califas",
-        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
-      },
-      "artists": [
-        {
-          "name": "Clave Secreta",
-          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
-        }
-      ],
-      "duration_ms": 215402,
-      "name": "Las Guerras de Califas",
-      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Versaci",
         "url": "https://open.spotify.com/album/6RyZd7QCleEPsG8YROucAQ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 158980,
       "name": "Versaci",
       "url": "https://open.spotify.com/track/3io4JByoRElfacv61ulr0E"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Las Guerras de Califas",
+        "url": "https://open.spotify.com/album/4m71rRHC0ECTNT3yN1jCu3"
+      },
+      "artists": [
+        {
+          "name": "Clave Secreta",
+          "url": "https://open.spotify.com/artist/076NZ7vK81Lc1aKv15hGLN"
+        }
+      ],
+      "duration_ms": 215402,
+      "name": "Las Guerras de Califas",
+      "url": "https://open.spotify.com/track/5YlTqYidHFyL4XEnGtNOog"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Me Apodan El Chino",
-        "url": "https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1"
+        "name": "Tu Coraz\u00f3n A Mi Me Falta",
+        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
       },
       "artists": [
         {
-          "name": "Christian Ramos Jr",
-          "url": "https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE"
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
         }
       ],
-      "duration_ms": 220618,
-      "name": "Me Apodan El Chino",
-      "url": "https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r"
+      "duration_ms": 155326,
+      "name": "Tu Coraz\u00f3n A Mi Me Falta",
+      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Tu Coraz\u00f3n A Mi Me Falta",
-        "url": "https://open.spotify.com/album/4qoxBHi9JCEAE8VlXrJumc"
+        "name": "Culpables",
+        "url": "https://open.spotify.com/album/0IVy7jUm9adIBg3n3IKUD1"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Luis Aguirre",
+          "url": "https://open.spotify.com/artist/5QZhXymFQfZZkb8UE09RMB"
         }
       ],
-      "duration_ms": 155326,
-      "name": "Tu Coraz\u00f3n A Mi Me Falta",
-      "url": "https://open.spotify.com/track/65oEap9eBWENB3wMKRyQdf"
+      "duration_ms": 165917,
+      "name": "Culpables",
+      "url": "https://open.spotify.com/track/30Up8qgwk0CiwpoSt4IAK6"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1295,18 +1295,34 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Culpables",
-        "url": "https://open.spotify.com/album/0IVy7jUm9adIBg3n3IKUD1"
+        "name": "Me Apodan El Chino",
+        "url": "https://open.spotify.com/album/3ScsygF0ldBn0v1GzpZWV1"
       },
       "artists": [
         {
-          "name": "Luis Aguirre",
-          "url": "https://open.spotify.com/artist/5QZhXymFQfZZkb8UE09RMB"
+          "name": "Christian Ramos Jr",
+          "url": "https://open.spotify.com/artist/4yDvNHPlq1b6ZyQfvbeIRE"
         }
       ],
-      "duration_ms": 165917,
-      "name": "Culpables",
-      "url": "https://open.spotify.com/track/30Up8qgwk0CiwpoSt4IAK6"
+      "duration_ms": 220618,
+      "name": "Me Apodan El Chino",
+      "url": "https://open.spotify.com/track/7mB6DFA5JwPcOs9kc25e5r"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Te Amo Yo",
+        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 146986,
+      "name": "Te Amo Yo",
+      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1359,22 +1375,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Due\u00f1a De Mi Amor",
-        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
-      },
-      "artists": [
-        {
-          "name": "Jesus Dimas",
-          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
-        }
-      ],
-      "duration_ms": 167525,
-      "name": "Una En Un Millon",
-      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "A Darle Con Todo (En Vivo)",
         "url": "https://open.spotify.com/album/0sE8OAlzBJE2bRd96WTj1H"
       },
@@ -1391,38 +1391,34 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Te Amo Yo",
-        "url": "https://open.spotify.com/album/0xV4ha3qX6C2Kk0s8yMz5L"
+        "name": "Los Chilos Del Pueblo (En Vivo)",
+        "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
       },
       "artists": [
         {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
         }
       ],
-      "duration_ms": 146986,
-      "name": "Te Amo Yo",
-      "url": "https://open.spotify.com/track/13Wtxopl5r7ICXPuOcbqOj"
+      "duration_ms": 247466,
+      "name": "Los Chilos Del Pueblo - En Vivo",
+      "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
     },
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Archive Muzik Vol. 1",
-        "url": "https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC"
+        "name": "Due\u00f1a De Mi Amor",
+        "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
       },
       "artists": [
         {
-          "name": "Estevan Plazola",
-          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
-        },
-        {
-          "name": "Emmanuel Olea",
-          "url": "https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u"
+          "name": "Jesus Dimas",
+          "url": "https://open.spotify.com/artist/3T8yvcStZybKlw4Douh93g"
         }
       ],
-      "duration_ms": 274775,
-      "name": "Fumamos Mota",
-      "url": "https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl"
+      "duration_ms": 167525,
+      "name": "Una En Un Millon",
+      "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1443,18 +1439,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Mal de Ojo",
-        "url": "https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd"
+        "name": "Archive Muzik Vol. 1",
+        "url": "https://open.spotify.com/album/5r16VPYF9XXsjhTGzeuKVC"
       },
       "artists": [
         {
-          "name": "Christian Nava",
-          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+          "name": "Estevan Plazola",
+          "url": "https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ"
+        },
+        {
+          "name": "Emmanuel Olea",
+          "url": "https://open.spotify.com/artist/6g5rNqD6vHkhB3aFSeti3u"
         }
       ],
-      "duration_ms": 184848,
-      "name": "Mal de Ojo",
-      "url": "https://open.spotify.com/track/5gFqNF0PzR3ojfntW3LC9G"
+      "duration_ms": 274775,
+      "name": "Fumamos Mota",
+      "url": "https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Mal de Ojo",
+        "url": "https://open.spotify.com/album/1dvFb22zm82Nx0FYq0STrd"
+      },
+      "artists": [
+        {
+          "name": "Christian Nava",
+          "url": "https://open.spotify.com/artist/4ykQDHQarNbuhmYt8YB3W0"
+        }
+      ],
+      "duration_ms": 184848,
+      "name": "Mal de Ojo",
+      "url": "https://open.spotify.com/track/5gFqNF0PzR3ojfntW3LC9G"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Nuestro Futuro",
         "url": "https://open.spotify.com/album/1VKC8wUoTSIwtkSjBMMDtB"
       },
@@ -1507,18 +1523,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Los Chilos Del Pueblo (En Vivo)",
-        "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/67cHoXvLUTqGmm1UWGdbms"
       },
       "artists": [
         {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+          "name": "Juanchito",
+          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
         }
       ],
-      "duration_ms": 247466,
-      "name": "Los Chilos Del Pueblo - En Vivo",
-      "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
+      "duration_ms": 131653,
+      "name": "Sentimental",
+      "url": "https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1571,38 +1587,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/67cHoXvLUTqGmm1UWGdbms"
-      },
-      "artists": [
-        {
-          "name": "Juanchito",
-          "url": "https://open.spotify.com/artist/5dHeVV4GJVmQwEWqqOuB8v"
-        }
-      ],
-      "duration_ms": 131653,
-      "name": "Sentimental",
-      "url": "https://open.spotify.com/track/1E7fM9oEA8irF9mFkvPAgY"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "El Jeffrey De East LA",
-        "url": "https://open.spotify.com/album/0xA7HLHjOPC2rUIjSoodaD"
-      },
-      "artists": [
-        {
-          "name": "Decisi\u00f3n Efectiva",
-          "url": "https://open.spotify.com/artist/7jqo8rAIJ9fnfC3ZfAIWmV"
-        }
-      ],
-      "duration_ms": 153778,
-      "name": "El Jeffrey De East LA",
-      "url": "https://open.spotify.com/track/49Vn99d7gouwonSEjkDBuQ"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Buenos Ratos",
         "url": "https://open.spotify.com/album/5feNPuYXghz6Jwib8iuvMY"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 200098,
       "name": "Buenos Ratos",
       "url": "https://open.spotify.com/track/3tdNgx8eGeOtRWFOaAmgoA"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "El Jeffrey De East LA",
+        "url": "https://open.spotify.com/album/0xA7HLHjOPC2rUIjSoodaD"
+      },
+      "artists": [
+        {
+          "name": "Decisi\u00f3n Efectiva",
+          "url": "https://open.spotify.com/artist/7jqo8rAIJ9fnfC3ZfAIWmV"
+        }
+      ],
+      "duration_ms": 153778,
+      "name": "El Jeffrey De East LA",
+      "url": "https://open.spotify.com/track/49Vn99d7gouwonSEjkDBuQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",

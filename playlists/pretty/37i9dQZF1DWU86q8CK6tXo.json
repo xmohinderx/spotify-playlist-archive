@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only tunes, with some of  <a href=\u201cspotify:artist:5rZUNweztKBI1Xy3XhYHoJ\u201d>Danielle Ponder's</a> personal picks. Cover: Danielle Ponder",
-  "num_followers": 19751,
+  "num_followers": 19760,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMDZiZDQwZWRhMjQyZjk0OTA2ZGQ3MjA1YjQyNTA3NmYw",
+  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMGYxYmIwMWU0ZjAwMTg3ZmE3NThkZTU4MDI4OGQ1ZDlk",
   "tracks": [
     {
       "added_at": "2022-08-03 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "History of Breaking Up (Part Two)",
-        "url": "https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW"
-      },
-      "artists": [
-        {
-          "name": "Alana Springsteen",
-          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
-        }
-      ],
-      "duration_ms": 208746,
-      "name": "History of Breaking Up",
-      "url": "https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "quinn",
         "url": "https://open.spotify.com/album/75n3winyXKHLUCOhiSRkA2"
       },
@@ -483,22 +467,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "No One Dies From Love (The Remixes)",
-        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
+        "name": "History of Breaking Up (Part Two)",
+        "url": "https://open.spotify.com/album/7ovnzMBjDsLZ1y5v1nSURW"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+          "name": "Alana Springsteen",
+          "url": "https://open.spotify.com/artist/4TPT9nwjRvEV49q7f8p4fy"
         }
       ],
-      "duration_ms": 231111,
-      "name": "No One Dies From Love (DJ_Dave Edit)",
-      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
+      "duration_ms": 208746,
+      "name": "History of Breaking Up",
+      "url": "https://open.spotify.com/track/1I2RwCtpRc3s2pRWUocHKb"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -531,6 +511,26 @@
       "duration_ms": 201802,
       "name": "Sock It 2 Me",
       "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "No One Dies From Love (The Remixes)",
+        "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "DJ_Dave",
+          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+        }
+      ],
+      "duration_ms": 231111,
+      "name": "No One Dies From Love (DJ_Dave Edit)",
+      "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "How\u2019d You Go out Like That",
+        "url": "https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia"
+      },
+      "artists": [
+        {
+          "name": "Take Van",
+          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+        }
+      ],
+      "duration_ms": 162519,
+      "name": "How\u2019d You Go out Like That",
+      "url": "https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "how dare you",
         "url": "https://open.spotify.com/album/4566kk0rsYdfQwpQNXviNv"
       },
@@ -619,18 +635,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "How\u2019d You Go out Like That",
-        "url": "https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia"
+        "name": "Crunk",
+        "url": "https://open.spotify.com/album/5KWVMGP2OROAfjWgu07uAe"
       },
       "artists": [
         {
-          "name": "Take Van",
-          "url": "https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj"
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "BINGEWATCH",
+          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
         }
       ],
-      "duration_ms": 162519,
-      "name": "How\u2019d You Go out Like That",
-      "url": "https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T"
+      "duration_ms": 213750,
+      "name": "Crunk",
+      "url": "https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -663,26 +683,6 @@
       "duration_ms": 150087,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Crunk",
-        "url": "https://open.spotify.com/album/5KWVMGP2OROAfjWgu07uAe"
-      },
-      "artists": [
-        {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
-        },
-        {
-          "name": "BINGEWATCH",
-          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Crunk",
-      "url": "https://open.spotify.com/track/4wiMZbsTLDkvaNZC3UL2GT"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -751,6 +751,26 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "Direct Me",
+        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
+      },
+      "artists": [
+        {
+          "name": "Rony Rex",
+          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
+        },
+        {
+          "name": "TT The Artist",
+          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+        }
+      ],
+      "duration_ms": 232610,
+      "name": "Direct Me",
+      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "Stranded",
         "url": "https://open.spotify.com/album/1qUYUWsRR7ou96oWi597Qt"
       },
@@ -783,22 +803,18 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Direct Me",
-        "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms"
       },
       "artists": [
         {
-          "name": "Rony Rex",
-          "url": "https://open.spotify.com/artist/61AudJPWNuYbLelVjkocZ4"
-        },
-        {
-          "name": "TT The Artist",
-          "url": "https://open.spotify.com/artist/1T6Em6UJ7pSdgXw5V72YHr"
+          "name": "Annahstasia",
+          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
         }
       ],
-      "duration_ms": 232610,
-      "name": "Direct Me",
-      "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
+      "duration_ms": 168175,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -815,22 +831,6 @@
       "duration_ms": 312920,
       "name": "Prima Materia",
       "url": "https://open.spotify.com/track/0KR1fIsVTVSh0lv88KWzX6"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5B2xt3XKpNqKbHj7T02rms"
-      },
-      "artists": [
-        {
-          "name": "Annahstasia",
-          "url": "https://open.spotify.com/artist/1hElmDU1PFIf4JbkdOcMRE"
-        }
-      ],
-      "duration_ms": 168175,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/3nE7KhZq3bz31I7g7hvt1v"
     },
     {
       "added_at": "2022-08-03 04:00:00",

@@ -4,7 +4,7 @@
 
 > The very best of Punjabi romance featuring Sonam Bajwa & Ajay Sarkaria"
 
-480 songs - 1 day 2 hr 1 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
+484 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/1Lit2yy2NvWAzmiWbYvMKp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Adore You \- 1 Min Music](https://open.spotify.com/track/1pFOGFtQyqdlFgzmSVJ2fz) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4) | [Adore You \- 1 Min Music](https://open.spotify.com/album/52P5TmTNdXKwmOhy18cmrZ) | 1:00 | 2022-07-16 |  |
 | [Aj Kal Ve](https://open.spotify.com/track/0TYsZbl0ryJSUvyQeeLBRG) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Snitches Get Stitches](https://open.spotify.com/album/4lGKsta6BzDVgzKfcSCC7E) | 3:23 | 2021-12-02 |  |
 | [Akh Da Taara](https://open.spotify.com/track/737HezI1JaYiBNKGnPiVas) | [Kaash](https://open.spotify.com/artist/1yfbFvnTbmTbLOkw8sMUKv), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Akh Da Taara](https://open.spotify.com/album/40mp2aMcrURy4hrsE3w6LE) | 4:03 | 2022-07-18 |  |
+| [All Of Me](https://open.spotify.com/track/0A2zRkxaVs0pBEphesliW9) | [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x), [Chet Singh](https://open.spotify.com/artist/5aWkTGq5O45ES0fDFmN1Wv) | [All Of Me](https://open.spotify.com/album/7HWwodmqi6yfhLjwCrwAl3) | 3:13 | 2022-08-16 |  |
 | [Allah Maaf Kre](https://open.spotify.com/track/21bFBk0oi19JQzHJoifZSn) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Tehjeeb Hafi](https://open.spotify.com/artist/4pOA7Ulb1xGrjUwCZr0AF0) | [Allah Maaf Kre](https://open.spotify.com/album/1XBqxac22yxBRUelC8SoMa) | 3:30 | 2022-07-25 |  |
 | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/track/2azVU3xtSf7l59lEPIzdEi) | [Prabh Gill](https://open.spotify.com/artist/4F5ZNBJDep3GTrMip2tpI4), [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Nik D](https://open.spotify.com/artist/5nC2tf6FpiYafqUEh7eoSe) | [Allah Ve \(From "Main Te Bapu"\)](https://open.spotify.com/album/3DVwPdGcDpEGpKFgxI0YX4) | 4:00 | 2022-04-18 | 2022-05-20 |
 | [Amanat](https://open.spotify.com/track/0TeUlCl92AjyCXdfdU5C4M) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [Amanat](https://open.spotify.com/album/1B8j6mD6LY9wH13HJdWyEF) | 3:15 | 2022-02-04 | 2022-04-06 |
@@ -41,6 +42,7 @@
 | [Bhabi](https://open.spotify.com/track/7FusXh0bnkRQPrfxknnDyN) | [Kamal Khaira](https://open.spotify.com/artist/611kJcFqEoj80sHHFeDECi), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bhabi](https://open.spotify.com/album/2QENKH3rWXemkrWjvsmoog) | 2:35 | 2022-07-28 |  |
 | [Big Men \(Chapter 2\)](https://open.spotify.com/track/3i0uUsZFO2eJfc4uULSWLy) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Shipra Goyal](https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ) | [Big Men \(Chapter 2\)](https://open.spotify.com/album/3KTSaC0CHlDgub38pTOuhg) | 3:44 | 2022-05-13 |  |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2022-07-25 |  |
+| [Billboard](https://open.spotify.com/track/0otKvucrit5zbMjN2fjU4k) | [A.Shawn](https://open.spotify.com/artist/6n79gZsJ80nwh33qIrRqbY), [Dhruv G](https://open.spotify.com/artist/0ZsEm750sSwnqKe7LDE67k) | [Billboard](https://open.spotify.com/album/1wymoXJV1i5cIRHyUxOkpz) | 2:32 | 2022-08-16 |  |
 | [Bitters](https://open.spotify.com/track/7s8XGYZHjfOnslUXuRGJBG) | [Ronaq](https://open.spotify.com/artist/4YxWoxwulLZQww6BsLmOgR) | [Bitters](https://open.spotify.com/album/6gp19s3JPO4DIxTvahomj2) | 1:20 | 2022-07-21 |  |
 | [Black Night](https://open.spotify.com/track/4fE7KmFoiE2s5BDDHtle9K) | [Nawab](https://open.spotify.com/artist/1fTMfqHcXtTa0G42Wu7qH5) | [Black Night](https://open.spotify.com/album/2XAanLl0zokdkTOHVmJQW1) | 3:29 | 2022-05-20 | 2022-07-06 |
 | [Block Karke](https://open.spotify.com/track/2jYA2lPITq8Bxp58RI6knS) | [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Block Karke](https://open.spotify.com/album/0I52P9Iw0B9sVWfalheFdV) | 3:49 | 2022-04-29 | 2022-05-11 |
@@ -135,6 +137,7 @@
 | [GODSPEED](https://open.spotify.com/track/7d4ZrG3Cer7jbqIl6wOI6D) | [Tyson Sidhu](https://open.spotify.com/artist/5wGjQPYmBAnDmtNeOMoavY) | [GODSPEED](https://open.spotify.com/album/7JCjmMD0sZ2kk1oXdh83z0) | 2:07 | 2022-07-13 |  |
 | [Goriye](https://open.spotify.com/track/73xwtIVQno0EEoiiFpbjG4) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Goriye](https://open.spotify.com/album/0be9lG0TVPkMnTupK6YGvF) | 2:44 | 2022-03-11 | 2022-04-06 |
 | [Gucci](https://open.spotify.com/track/7GG8loWh3JFsNtWGps6ALe) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a) | [Gucci](https://open.spotify.com/album/2c5DFrT8ceNAIr7A0QXecf) | 2:36 | 2021-12-02 | 2022-04-06 |
+| [Guitar \- From the Album "XYZ"](https://open.spotify.com/track/76XQ1JrztUciUlQHYIXLl0) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Guitar](https://open.spotify.com/album/2cZavSlbZLnEpU938tCGuG) | 2:32 | 2022-08-16 |  |
 | [Gustakhiyan](https://open.spotify.com/track/3X3BiiDYiPVIn5gEpO9HiF) | [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp) | [Gustakhiyan](https://open.spotify.com/album/4KCsudLqml0Z2T0OWGzLuC) | 2:32 | 2022-01-19 | 2022-04-06 |
 | [Haadsa](https://open.spotify.com/track/0JokwEj0EIFXuCpDrLmB2A) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux) | [Haadsa](https://open.spotify.com/album/5amFOjDhjHu3RknedulVt7) | 4:54 | 2022-02-07 | 2022-02-12 |
 | [Haal Naar Da](https://open.spotify.com/track/3PaHa8GeaViou9hQfigbuN) | [Nikk](https://open.spotify.com/artist/6z9kS2dZQbqNV69wfrCZAR), [Rox A](https://open.spotify.com/artist/1tG4YxtmYSP5G7w2YA8jRJ) | [Haal Naar Da](https://open.spotify.com/album/7d4obTsFgPzSzZzH98DvoI) | 2:53 | 2022-04-07 | 2022-04-29 |
@@ -164,6 +167,7 @@
 | [Jatta](https://open.spotify.com/track/11lHthXPloRp8YMBx69ite) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS) | [8 Chances](https://open.spotify.com/album/29MhBXO988c8iFL7TZK17R) | 3:09 | 2022-02-03 |  |
 | [JATTA IK TERE KARKE](https://open.spotify.com/track/4sFSXPcSjUwjmwlPGTWktU) | [Jass Bajwa](https://open.spotify.com/artist/4ziCsS6bX7D9e5cuCVRktx) | [JATTA IK TERE KARKE](https://open.spotify.com/album/5WI3fgyT2QgoFISwebIKLN) | 2:52 | 2022-02-09 | 2022-07-06 |
 | [Jatta Ve](https://open.spotify.com/track/4quaGji0veFnE69rm9RUDi) | [Ranjit Bawa](https://open.spotify.com/artist/6pU5oz09VUYtnFTd4P1Mxn) | [Jatta Ve](https://open.spotify.com/album/6Y6FuWImBPm7ySk9bdDe94) | 4:55 | 2022-02-04 | 2022-04-06 |
+| [Jawab](https://open.spotify.com/track/3CEz56jBn8oUWU9kvQ8hAh) | [Mani Longia](https://open.spotify.com/artist/4T8KtF2YGesSSw3jgAVura) | [Jawab](https://open.spotify.com/album/3uDWcLtliW3y4zNy8mAwrT) | 2:21 | 2022-08-16 |  |
 | [Jhalleya Dila](https://open.spotify.com/track/1hLZbQnKl3ElI3hS3gW21X) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Jhalleya Dila](https://open.spotify.com/album/2xn8lvOvu7wUIYqp1OIiQa) | 3:21 | 2022-01-12 | 2022-05-11 |
 | [Jhanjar](https://open.spotify.com/track/5HOzhBs1Oos4eAadzqmjhy) | [Baani Sandhu](https://open.spotify.com/artist/3tDW6dCyLHiuOq5eKnHCW3), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [The Boss Lady](https://open.spotify.com/album/6RIkd4UrDkJ1N0BUvtuhy3) | 2:38 | 2022-08-04 |  |
 | [Jind Tere Naam](https://open.spotify.com/track/1FhvIkgpQ7XV57psmV1Doq) | [Raj Brar](https://open.spotify.com/artist/6ZBd1hRd7fSEEn7UM1UDCv) | [Jind Tere Naam](https://open.spotify.com/album/0gVTIRWykkCsotRRbtOBs0) | 3:01 | 2022-01-21 | 2022-02-05 |

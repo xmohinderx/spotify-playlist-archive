@@ -2,9 +2,9 @@
 
 ### [Punk Japan](https://open.spotify.com/playlist/37i9dQZF1DX7uwh9GrVLfz)
 
-> The legendary classics meet the newest cutting edge\. This is Japanese punk.
+> The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: IF
 
-437 songs - 23 hr 53 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+438 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -343,6 +343,7 @@
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |
 | [グッドバイ](https://open.spotify.com/track/7nMbUWh4wAmdVPy5FWW7Aa) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [MIGHTY MOUNTAINS](https://open.spotify.com/album/3meQjVI8X0PezEQtkhJ1rS) | 2:42 | 2022-05-19 | 2022-07-03 |
 | [サラバ!](https://open.spotify.com/track/52UewcDEkdImgLW0C3F6L0) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [サラバ!](https://open.spotify.com/album/1NyAWXMA2vd5IJegmhQppV) | 3:11 | 2022-05-12 | 2022-07-25 |
+| [シグナル](https://open.spotify.com/track/4Ybp3UvVXvraRNwOCWnrNq) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Everybody!!](https://open.spotify.com/album/1spFHTdEd1oA8htGJxeIac) | 3:39 | 2022-08-16 |  |
 | [シングルアゲイン](https://open.spotify.com/track/36mQRKNKiZZ35mrCS6CfWh) | [SonoSheet](https://open.spotify.com/artist/2T82Zj0qxDDo9wEf5imuPC) | [シングルアゲイン](https://open.spotify.com/album/0tOIVvXVRzpSOwYlHvMGPk) | 3:03 | 2022-05-17 | 2022-07-28 |
 | [ジターバグ](https://open.spotify.com/track/78ooUd8wbjp22IzEPGxlRg) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [BRING YOUR BOARD!!](https://open.spotify.com/album/2WdPiPEVjeDLeOr5sMpT4k) | 3:19 | 2022-05-12 |  |
 | [スターフィッシュ](https://open.spotify.com/track/18xszcbgtHszOyovyumBPJ) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [Pepperoni Quattro](https://open.spotify.com/album/1nbpjfQPtVEeexILtqJxrq) | 3:40 | 2022-05-12 |  |
@@ -434,7 +435,7 @@
 | [空に唄えば](https://open.spotify.com/track/0CATStPGs7sxXxM7CJLdPa) | [175R](https://open.spotify.com/artist/40y1P1mpPSpiRxL5LDv6aI) | [175R BEST 「ANNIVERSARY 1998\-2018」](https://open.spotify.com/album/6pmrSKNlVCLwIbG8Mi7E4A) | 4:18 | 2022-06-02 |  |
 | [笑っていようぜ](https://open.spotify.com/track/1QgHgUb7Fy1P8YNJTF2TpL) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [ビューティフルユース](https://open.spotify.com/album/421Ct2V48lwkcLbTySapDj) | 1:49 | 2022-05-12 |  |
 | [素晴らしき世界](https://open.spotify.com/track/4C1JnGn5Gj2IAXxD8G3U06) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [生きる](https://open.spotify.com/album/73mCJ3q1VsTxQx1QzgZltK) | 4:33 | 2022-05-19 | 2022-07-09 |
-| [緊急事態宣言](https://open.spotify.com/track/6orimeDa7Vdc0RC4GDM8jV) | [Wasurete Motels](https://open.spotify.com/artist/0rAymStk4bKXWSNGrCekVw) | [この夜を置いて](https://open.spotify.com/album/3w75dsZ8w2ugbNnYjFRXii) | 2:43 | 2022-07-19 |  |
+| [緊急事態宣言](https://open.spotify.com/track/6orimeDa7Vdc0RC4GDM8jV) | [Wasurete Motels](https://open.spotify.com/artist/0rAymStk4bKXWSNGrCekVw) | [この夜を置いて](https://open.spotify.com/album/3w75dsZ8w2ugbNnYjFRXii) | 2:43 | 2022-07-19 | 2022-08-17 |
 | [薬草](https://open.spotify.com/track/5rD0WQ7FMvGZ5qjM7PoI3r) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [ガッツ・エンターテイメント](https://open.spotify.com/album/2GNuX25X6VpHJ4OsCK2NEr) | 2:21 | 2022-05-19 | 2022-07-18 |
 | [虹](https://open.spotify.com/track/6h5i1sJnmPfHmzhJvd89Op) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [RIOT ON THE GRILL](https://open.spotify.com/album/47THqxbGDOoKSZ0xZxCApD) | 3:26 | 2022-05-12 |  |
 | [証](https://open.spotify.com/track/2NqEXbLw9l78MsFCuxhlHJ) | [THE FOREVER YOUNG](https://open.spotify.com/artist/6frp4bEF93k77mFn6AbwQd) | [証](https://open.spotify.com/album/5ytodu6cQWyhNzotNTWuzo) | 3:46 | 2022-05-24 | 2022-07-29 |

@@ -1,12 +1,12 @@
 {
   "description": "Let these innovative tracks spark your creativity and inspiration.",
-  "num_followers": 373637,
+  "num_followers": 373668,
   "original_name": "Creativity Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDA1NGUyNTQyYzZiZWRlOTAxM2VjNmNmNTAyZmM1OTYy",
+  "snapshot_id": "MTY1MTI3MzI4OCwwMDAwMDAwMDA0YjcyYTc3ZDYyY2VlZmU4N2I3NmJkZGIwYTJkZjI4",
   "tracks": [
     {
       "added_at": "2022-04-29 23:01:28",
@@ -471,26 +471,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "On the Lookout",
-        "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        },
-        {
-          "name": "Raffaella",
-          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
-        }
-      ],
-      "duration_ms": 229560,
-      "name": "On the Lookout",
-      "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/6wplPsthY2RZExLI73Gclg"
       },
@@ -523,6 +503,26 @@
       "duration_ms": 177409,
       "name": "Bonafide (feat. Chiiild)",
       "url": "https://open.spotify.com/track/6AwhhAhVLPvaDYmfR4j3bQ"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "On the Lookout",
+        "url": "https://open.spotify.com/album/5jI9z9PnaAzLU7Vj55dw7E"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "Raffaella",
+          "url": "https://open.spotify.com/artist/0tYrHjgdca0ZLPkR4P0eW4"
+        }
+      ],
+      "duration_ms": 229560,
+      "name": "On the Lookout",
+      "url": "https://open.spotify.com/track/4MDgmDaVN9UPyZ41Cxb3NV"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -747,26 +747,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Letting In",
-        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
-      },
-      "artists": [
-        {
-          "name": "Beauville",
-          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
-        },
-        {
-          "name": "NoMBe",
-          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
-        }
-      ],
-      "duration_ms": 263466,
-      "name": "Letting In",
-      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "False Art",
         "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 183454,
       "name": "False Art",
       "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Letting In",
+        "url": "https://open.spotify.com/album/2wJq45aYneDKVLejGJmTGl"
+      },
+      "artists": [
+        {
+          "name": "Beauville",
+          "url": "https://open.spotify.com/artist/4uf9PIXkZQTXqzl5gyDJLj"
+        },
+        {
+          "name": "NoMBe",
+          "url": "https://open.spotify.com/artist/5Lhxlge1CR1DrgDAje8Qaw"
+        }
+      ],
+      "duration_ms": 263466,
+      "name": "Letting In",
+      "url": "https://open.spotify.com/track/1WoJEWUPjhCTwfbOeUjoCI"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -819,22 +819,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Naive",
-        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
-      },
-      "artists": [
-        {
-          "name": "RKCB",
-          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
-        }
-      ],
-      "duration_ms": 213250,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "are we?",
         "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "Naive",
+        "url": "https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI"
+      },
+      "artists": [
+        {
+          "name": "RKCB",
+          "url": "https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc"
+        }
+      ],
+      "duration_ms": 213250,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Hoops",
         "url": "https://open.spotify.com/album/7c65adcDfrYFbhYn1WzZ5p"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 199371,
       "name": "Hoops",
       "url": "https://open.spotify.com/track/0aHYvskrJfgSgfRmxWjCbZ"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Concrete",
+        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+      },
+      "artists": [
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+        }
+      ],
+      "duration_ms": 152051,
+      "name": "Concrete",
+      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Concrete",
-        "url": "https://open.spotify.com/album/4ZdyRUMRbY9plmxLjQtkF1"
+        "name": "are we?",
+        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "slenderbodies",
+          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
         }
       ],
-      "duration_ms": 152051,
-      "name": "Concrete",
-      "url": "https://open.spotify.com/track/7HGwpUzbvszA3q7pnokHkY"
+      "duration_ms": 141049,
+      "name": "cherry blossom",
+      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -971,6 +987,38 @@
       "duration_ms": 168933,
       "name": "Nighttime Hunger",
       "url": "https://open.spotify.com/track/4IE6Oa1YTTu0aICULOzXPn"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+      },
+      "artists": [
+        {
+          "name": "ELLIANA",
+          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+        }
+      ],
+      "duration_ms": 266036,
+      "name": "Nirvana",
+      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Sleepyhead",
+        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
+      },
+      "artists": [
+        {
+          "name": "Young & Sick",
+          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
+        }
+      ],
+      "duration_ms": 237112,
+      "name": "Sleepyhead",
+      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -995,50 +1043,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh"
+        "name": "Life After Defo",
+        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
       },
       "artists": [
         {
-          "name": "ELLIANA",
-          "url": "https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT"
+          "name": "Deptford Goth",
+          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
         }
       ],
-      "duration_ms": 266036,
-      "name": "Nirvana",
-      "url": "https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "are we?",
-        "url": "https://open.spotify.com/album/4tl1xL2MeyURq8Vk3enaze"
-      },
-      "artists": [
-        {
-          "name": "slenderbodies",
-          "url": "https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA"
-        }
-      ],
-      "duration_ms": 141049,
-      "name": "cherry blossom",
-      "url": "https://open.spotify.com/track/2pVym24miJgEbF170Is2lO"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Sleepyhead",
-        "url": "https://open.spotify.com/album/4Gw8h2MKOE7pUJPwPHoIRI"
-      },
-      "artists": [
-        {
-          "name": "Young & Sick",
-          "url": "https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k"
-        }
-      ],
-      "duration_ms": 237112,
-      "name": "Sleepyhead",
-      "url": "https://open.spotify.com/track/3MziBfxdRIQHTrdTJuk5qt"
+      "duration_ms": 252880,
+      "name": "Feel Real",
+      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1055,22 +1071,6 @@
       "duration_ms": 280055,
       "name": "Fading",
       "url": "https://open.spotify.com/track/2fKEunM0KZVpVLwlvmVlDZ"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "Life After Defo",
-        "url": "https://open.spotify.com/album/2SWmXOdNAbDfXeIYaE8iOW"
-      },
-      "artists": [
-        {
-          "name": "Deptford Goth",
-          "url": "https://open.spotify.com/artist/3f8b2H7fazJlShrwj38XiS"
-        }
-      ],
-      "duration_ms": 252880,
-      "name": "Feel Real",
-      "url": "https://open.spotify.com/track/3LxBDk2jxjRmagg1VAwCGM"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "LP (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+      },
+      "artists": [
+        {
+          "name": "Discovery",
+          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+        }
+      ],
+      "duration_ms": 158133,
+      "name": "Swing Tree",
+      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "Heart (Alternative Version)",
         "url": "https://open.spotify.com/album/3raFKyVQMl05qPHSDUUjcS"
       },
@@ -1131,22 +1147,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Simple, Sweet, and Smiling",
-        "url": "https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY"
-      },
-      "artists": [
-        {
-          "name": "Kacy Hill",
-          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
-        }
-      ],
-      "duration_ms": 246973,
-      "name": "Simple, Sweet, and Smiling",
-      "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Tremors",
         "url": "https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp"
       },
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "LP (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5ySTNJgYTaUQJwGBLYWpKv"
+        "name": "Simple, Sweet, and Smiling",
+        "url": "https://open.spotify.com/album/1nIvucMZCDVpILHipWqVHY"
       },
       "artists": [
         {
-          "name": "Discovery",
-          "url": "https://open.spotify.com/artist/1fg65Qx6tRt0aXBfz5I4w5"
+          "name": "Kacy Hill",
+          "url": "https://open.spotify.com/artist/4dYQmk5ma04mZ1KJ9KkAQK"
         }
       ],
-      "duration_ms": 158133,
-      "name": "Swing Tree",
-      "url": "https://open.spotify.com/track/3Gec0eWZ22o0rNKKUSSzLI"
+      "duration_ms": 246973,
+      "name": "Simple, Sweet, and Smiling",
+      "url": "https://open.spotify.com/track/2uKrEaRWif9zGGZpwtkAfh"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "This World",
-        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
-      },
-      "artists": [
-        {
-          "name": "Astral Weeks",
-          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
-        }
-      ],
-      "duration_ms": 232613,
-      "name": "This World",
-      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Odessa",
         "url": "https://open.spotify.com/album/4JPCUZpKBMY33wUMjN9nLH"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "Giving In To The Love",
-        "url": "https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy"
+        "name": "This World",
+        "url": "https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "Astral Weeks",
+          "url": "https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Giving In To The Love",
-      "url": "https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof"
+      "duration_ms": 232613,
+      "name": "This World",
+      "url": "https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1443,6 +1427,22 @@
       "duration_ms": 203504,
       "name": "Hold On",
       "url": "https://open.spotify.com/track/2AWmbsux3PUazslAJ1L0ML"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Giving In To The Love",
+        "url": "https://open.spotify.com/album/3Y5o2C8NuaZTnJEVIamHDy"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "Giving In To The Love",
+      "url": "https://open.spotify.com/track/2QlRLjTVBHYreIiS6BvGof"
     },
     {
       "added_at": "2022-04-29 23:01:28",
@@ -1639,6 +1639,38 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
+        "name": "River's Song",
+        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
+      },
+      "artists": [
+        {
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "River's Song",
+      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4dWcsWKaDx3RO37DTJtwZ0"
+      },
+      "artists": [
+        {
+          "name": "Oceanic",
+          "url": "https://open.spotify.com/artist/1HZqEalU7MGNHQvENPJb4J"
+        }
+      ],
+      "duration_ms": 188866,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/0ryVvXd2EzVqNR0yTLCzNT"
+    },
+    {
+      "added_at": "2022-04-29 23:01:28",
+      "album": {
         "name": "CLOVER",
         "url": "https://open.spotify.com/album/3ht0nTv1Z80PWNlNiI01mF"
       },
@@ -1687,22 +1719,6 @@
     {
       "added_at": "2022-04-29 23:01:28",
       "album": {
-        "name": "River's Song",
-        "url": "https://open.spotify.com/album/10rDCowdUnvEHRnjAYxMcc"
-      },
-      "artists": [
-        {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
-        }
-      ],
-      "duration_ms": 248946,
-      "name": "River's Song",
-      "url": "https://open.spotify.com/track/6tHS4wXcmeGVRv7DEUrV3g"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5t3e9uaEd5WRqgFZSjwmUH"
       },
@@ -1735,26 +1751,6 @@
       "duration_ms": 183673,
       "name": "Someone Else\u2019s Dream (Trinix Remix)",
       "url": "https://open.spotify.com/track/24QviWGfzSuXhgkr8uV65m"
-    },
-    {
-      "added_at": "2022-04-29 23:01:28",
-      "album": {
-        "name": "A Million Times (HONNE remix)",
-        "url": "https://open.spotify.com/album/7jfkwz4In0NkmU4V5hfcMt"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        },
-        {
-          "name": "HONNE",
-          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-        }
-      ],
-      "duration_ms": 246409,
-      "name": "A Million Times - HONNE remix",
-      "url": "https://open.spotify.com/track/4jl8EJQFGQ5sdYmgJp5p9v"
     }
   ],
   "unique_name": "Creativity Boost",

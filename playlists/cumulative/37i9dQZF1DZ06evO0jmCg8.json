@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-30",
+      "date_removed": null,
       "duration_ms": 278666,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/5N9O4qRT4FJudc5m632T45"
@@ -613,7 +613,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 223760,
       "name": "Never Forgive, Never Forget",
       "url": "https://open.spotify.com/track/7gdqAiz2VMq0cybotZzls6"
@@ -683,6 +683,24 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229493,
+      "name": "One Last Time",
+      "url": "https://open.spotify.com/track/6SKe0n1Oe9P2o6GXp5nyFl"
+    },
+    {
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
       "date_removed": null,
@@ -739,7 +757,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 251586,
       "name": "Revolution Begins",
       "url": "https://open.spotify.com/track/1n6Iqdr5XQ6F4o0vvqmFjx"
@@ -865,7 +883,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 246866,
       "name": "Silverwing",
       "url": "https://open.spotify.com/track/32Y1ojAK8U4Ccyr1B99gVz"
@@ -887,6 +905,24 @@
       "duration_ms": 273960,
       "name": "Skeleton Dance",
       "url": "https://open.spotify.com/track/3eoOyd7gtD4f3x0x8v4H9E"
+    },
+    {
+      "album": {
+        "name": "Deceivers",
+        "url": "https://open.spotify.com/album/0UWT0SwOzXkR9IVbz0GNuo"
+      },
+      "artists": [
+        {
+          "name": "Arch Enemy",
+          "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286306,
+      "name": "Spreading Black Wings",
+      "url": "https://open.spotify.com/track/1AjomJSkQXEJCEpgxBRCKB"
     },
     {
       "album": {

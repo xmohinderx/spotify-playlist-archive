@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3HHskiFSgKu.md) - [plain]
 
 > Want to power up your morning? Grab the beats to go.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316 likes - 15 songs - 56 min 30 sec
+[Spotify](https://open.spotify.com/user/spotify) - 315 likes - 15 songs - 56 min 30 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

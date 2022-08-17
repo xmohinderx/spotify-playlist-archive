@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest in South African Hip Hop and R&B\. Cover: <a href="https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz?si=Q\-wpBE3aQAqknnRePRGQVw">Priddy Ugly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,393 likes - 69 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,402 likes - 69 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

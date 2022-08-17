@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,109 likes - 75 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,157 likes - 75 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 26 | [Freakin' Out On the Interstate](https://open.spotify.com/track/0awZwmlC6pxH65KTZpadmX) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Freakin' Out On The Interstate \(Acoustic Version \[Live\]\)](https://open.spotify.com/album/0dXQf9UooGFoxLamqfkURl) | 4:11 |
 | 27 | [Hallucinogenics](https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1) | [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Bank On The Funeral](https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL) | 3:07 |
 | 28 | [Cold Cold Cold](https://open.spotify.com/track/1Q3t9fWvHUXKsMmpD2XpUu) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:34 |
-| 29 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
-| 30 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 |
+| 29 | [Lost In Yesterday](https://open.spotify.com/track/5JWPUEov2wlX7c0jhYZpeB) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush](https://open.spotify.com/album/31qVWUdRrlb8thMvts0yYL) | 4:09 |
+| 30 | [Psycho](https://open.spotify.com/track/383QXk8nb2YrARMUwDdjQS) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Drones](https://open.spotify.com/album/2wart5Qjnvx1fd7LPdQxgJ) | 5:16 |
 | 31 | [Love It If We Made It](https://open.spotify.com/track/6WmIyn2fx1PKQ0XDpYj4VR) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:12 |
 | 32 | [Honeybee](https://open.spotify.com/track/5CalS8Gn69OOrR9aiw0ZO9) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:16 |
 | 33 | [California \- Tchad Blake Mix](https://open.spotify.com/track/497Fkp3gRiGrRMoqBTDudr) | [Phantom Planet](https://open.spotify.com/artist/0LsTFjEB1IIrh7IlTxs1GY) | [The Guest](https://open.spotify.com/album/4SvTjA2cwASS1cWzEIG0WD) | 3:13 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 36 | [Sober Up \(feat\. Rivers Cuomo\)](https://open.spotify.com/track/5jiYx70OBzEI99jx1Gn3FN) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v) | [The Click](https://open.spotify.com/album/2LyLlHg03okxUU3UVrKtSC) | 3:38 |
 | 37 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
 | 38 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
-| 39 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
-| 40 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
+| 39 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
+| 40 | [Won’t Stand Down](https://open.spotify.com/track/6hIr2IDeBDXfRFk0rYe5Tz) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Won’t Stand Down](https://open.spotify.com/album/3bbeAIMaGSW6gUMeGqw5VS) | 3:29 |
 | 41 | [Black Holes \(Solid Ground\)](https://open.spotify.com/track/6JsiDFQRx7GHcuf2UroSYB) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Black Holes](https://open.spotify.com/album/6ESjsIQSb9iKqCkDo3S2sc) | 3:05 |
 | 42 | [You Worry Me](https://open.spotify.com/track/7ADBL3WZ9Oyj7zgkg7ODT8) | [Nathaniel Rateliff & The Night Sweats](https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o) | [Tearing At The Seams](https://open.spotify.com/album/6d0PPZVxoyKN3VlFrzsKYp) | 3:34 |
 | 43 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 52 | [Sweet Disaster](https://open.spotify.com/track/7bEDDsy2LFC0KSqhZp5nPE) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:25 |
 | 53 | [My Own Soul’s Warning](https://open.spotify.com/track/5NnQpVPJKpFdGFkIdY1Gds) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Imploding The Mirage](https://open.spotify.com/album/1uROBP2G4MP0O4w1v5Cpbg) | 4:34 |
 | 54 | [Holocene](https://open.spotify.com/track/35KiiILklye1JRRctaLUb4) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Bon Iver](https://open.spotify.com/album/2LpfNj3vB5rOXfaawLcOBg) | 5:36 |
-| 55 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 |
-| 56 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
+| 55 | [High](https://open.spotify.com/track/17aDyX39gb1iV1ZWvD1ffE) | [Sir Sly](https://open.spotify.com/artist/3DFoVPonoAAt4EZ1FEI8ue) | [Don't You Worry, Honey](https://open.spotify.com/album/5VvCD7gVffRgdPfExxLfF4) | 3:51 |
+| 56 | [If You Ever Leave, I'm Coming with You](https://open.spotify.com/track/3LQDkH5zNQ4x0UUsmH4zkj) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 2:49 |
 | 57 | [You Will Never Work In Television Again](https://open.spotify.com/track/2ownDSIYHvydbtauGZW4ln) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 2:48 |
 | 58 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
 | 59 | [The Runner](https://open.spotify.com/track/0AS03vnvXv9m0ZFxtuvOBW) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Everything Not Saved Will Be Lost Part II](https://open.spotify.com/album/3tXNwhv4GZQDHCOb4p5kcS) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 74 | [Pretty Lady](https://open.spotify.com/track/77R5bq7AvzIevi8wicB3Oz) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Terra Firma](https://open.spotify.com/album/6CubvryZSNI5UsrftXJqhK) | 4:39 |
 | 75 | [Preach](https://open.spotify.com/track/4wxTn03zuXvkQwNvI6oHyF) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [The Original Motion Picture Soundtrack](https://open.spotify.com/album/5aAfgCIEc9zBKbwFO6jixe) | 3:04 |
 
-Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDQyMmVmYjljMmM3M2EzMDQwYzM1NGQ4NTg5MWRjOTZl`
+Snapshot ID: `MTY0Mzk1MDg2MCwwMDAwMDAwMDNkOWJkYWI0NDA3NDk0NjI2M2JjMjU3ZGM4YTE2MDZk`

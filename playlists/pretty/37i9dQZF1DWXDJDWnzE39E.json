@@ -1,12 +1,12 @@
 {
   "description": "A salute to all of the women that like it loud & heavy. Cover: Scene Queen",
-  "num_followers": 531358,
+  "num_followers": 531763,
   "original_name": "Heavy Queens",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMGIxZGJlODllNWUwNmUxZjk1ZDBjMWRhNDRjODYzNmE2",
+  "snapshot_id": "MTY0NzYwODU4NCwwMDAwMDAwMGFkMGU2MTRkYzkzNzU3ZmEzMDEwNmFhNGUzMGQxOTNm",
   "tracks": [
     {
       "added_at": "2022-03-11 00:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
+        "name": "weapon",
+        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 197209,
+      "name": "weapon",
+      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
         "name": "Hallelujah [Feat. Charlotte Sands] (Charlotte Sands Version)",
         "url": "https://open.spotify.com/album/5HhUTvl8my5ucfG7wJjQ0z"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 176587,
       "name": "Hallelujah [Feat. Charlotte Sands] - Charlotte Sands Version",
       "url": "https://open.spotify.com/track/4tkpDoDiZ1AxCfd6roVPeM"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
-        "name": "weapon",
-        "url": "https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 197209,
-      "name": "weapon",
-      "url": "https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Omega",
-        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
-      },
-      "artists": [
-        {
-          "name": "Epica",
-          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
-        }
-      ],
-      "duration_ms": 337058,
-      "name": "Freedom - The Wolves Within -",
-      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Stigmata Itch",
         "url": "https://open.spotify.com/album/0YN2h97Ec5cgXnquBFOxH7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217173,
       "name": "Colossvs",
       "url": "https://open.spotify.com/track/1E1pBWlUty7Fh9BlB5KKZX"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Omega",
+        "url": "https://open.spotify.com/album/4Hb5cbP4Z9H9G1HavAra4q"
+      },
+      "artists": [
+        {
+          "name": "Epica",
+          "url": "https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp"
+        }
+      ],
+      "duration_ms": 337058,
+      "name": "Freedom - The Wolves Within -",
+      "url": "https://open.spotify.com/track/2rzwHaMCaHV67JPIbBVT7N"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "A Villain's Monologue",
-        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
-      },
-      "artists": [
-        {
-          "name": "Blood Command",
-          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "A Villain's Monologue",
-      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
-    },
-    {
-      "added_at": "2022-03-11 00:00:00",
-      "album": {
         "name": "Your Patron Saints / PYRO PYRO",
         "url": "https://open.spotify.com/album/0Ua6tFWJEJUExufIMSfJmj"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Conquering",
-        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
+        "name": "A Villain's Monologue",
+        "url": "https://open.spotify.com/album/6jM1PfqatUmUVUxk0KrXgU"
       },
       "artists": [
         {
-          "name": "Employed To Serve",
-          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+          "name": "Blood Command",
+          "url": "https://open.spotify.com/artist/4WfUbvICLrqPW9rzuNGS1f"
         }
       ],
-      "duration_ms": 263093,
-      "name": "Mark Of The Grave",
-      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
+      "duration_ms": 210000,
+      "name": "A Villain's Monologue",
+      "url": "https://open.spotify.com/track/1Kp80mQhmtLSJCJwzLrnXP"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1131,6 +1115,22 @@
       "duration_ms": 209044,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/77N3qTq2VuA244Xf36hQ1O"
+    },
+    {
+      "added_at": "2022-03-11 00:00:00",
+      "album": {
+        "name": "Conquering",
+        "url": "https://open.spotify.com/album/38pSlzhA3EKAx3jsPZvwU6"
+      },
+      "artists": [
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "duration_ms": 263093,
+      "name": "Mark Of The Grave",
+      "url": "https://open.spotify.com/track/2nrm5IBXH4D2gBUUbgEzf7"
     },
     {
       "added_at": "2022-03-11 00:00:00",
@@ -1335,18 +1335,18 @@
     {
       "added_at": "2022-03-11 00:00:00",
       "album": {
-        "name": "Where Myth Becomes Memory",
-        "url": "https://open.spotify.com/album/3821HxVYaIwRA9DLfo8GHa"
+        "name": "Crave",
+        "url": "https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47"
       },
       "artists": [
         {
-          "name": "Rolo Tomassi",
-          "url": "https://open.spotify.com/artist/3uHCTHxtg3IVAvhyrYsZvI"
+          "name": "Fate DeStroyed",
+          "url": "https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA"
         }
       ],
-      "duration_ms": 234955,
-      "name": "Cloaked",
-      "url": "https://open.spotify.com/track/3irkZrFRdtIgc9xmbb95In"
+      "duration_ms": 216450,
+      "name": "Crave",
+      "url": "https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc"
     }
   ],
   "unique_name": "Heavy Queens",

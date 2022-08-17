@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 90. \n\n",
-  "num_followers": 101094,
+  "num_followers": 101484,
   "original_name": "Rock en Espa\u00f1ol: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMGQ3YWJmMDFmODM4YTVhZThkZTZjNTIyOTk3NWQ3ZTEy",
+  "snapshot_id": "MTY1NzEzNjk2NSwwMDAwMDAwMDQzYTAzYzYxYWNlNDJhNDM1NDM4YzBjNjFiYTQwY2Y3",
   "tracks": [
     {
       "added_at": "2022-07-06 19:49:25",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-07-06 19:49:25",
       "album": {
-        "name": "Invisible",
-        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
-      },
-      "artists": [
-        {
-          "name": "La Ley",
-          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
-        }
-      ],
-      "duration_ms": 194573,
-      "name": "El Duelo",
-      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
-    },
-    {
-      "added_at": "2022-07-06 19:49:25",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/2wV2nY2P5vHYiUNTWWzXj5"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 283053,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/12NW2sUhBFz5VUxDZTp3Op"
+    },
+    {
+      "added_at": "2022-07-06 19:49:25",
+      "album": {
+        "name": "Invisible",
+        "url": "https://open.spotify.com/album/5aocKknfljbM7XK3PWPVRi"
+      },
+      "artists": [
+        {
+          "name": "La Ley",
+          "url": "https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK"
+        }
+      ],
+      "duration_ms": 194573,
+      "name": "El Duelo",
+      "url": "https://open.spotify.com/track/3XHg42QOqlevRU7jXRkAKk"
     },
     {
       "added_at": "2022-07-06 19:49:25",

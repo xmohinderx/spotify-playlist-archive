@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 > Posłuchaj głosu polskich artystów LGBTQIA+\. Wyjątkowe spektrum dźwięków na jednej playliście\. Cover: Zawadzki
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,293 likes - 51 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,295 likes - 51 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 28 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
 | 29 | [Ręce w udręce](https://open.spotify.com/track/4dEpsV9Rw64eVKe0ERUIsK) | [thekayetan](https://open.spotify.com/artist/66XpA1oaejl7wkkhTJ1GbP) | [Dla nas dom](https://open.spotify.com/album/6Rl3OmxvkuIQ4PBE9d5fNf) | 4:10 |
 | 30 | [Przed siebie](https://open.spotify.com/track/5hqohFoXOJt3KO05HqBhy7) | [Oskar Kucmann](https://open.spotify.com/artist/6QCsE5n2rSQiqzKS2DSQJK) | [Przed siebie](https://open.spotify.com/album/08met7OFAeiVa1eiwRUiHi) | 3:03 |
-| 31 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
+| 31 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
 | 32 | [OH WOW](https://open.spotify.com/track/0Qplt3hpXfEIUFPwoBiv4K) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Nick Sinckler](https://open.spotify.com/artist/3ioPp5l6NUnHUryHBoJHEK) | [OH WOW](https://open.spotify.com/album/0Z9kjE77CEY7cBz3oZ69hI) | 2:54 |
-| 33 | [Jakoś To Przetrwamy](https://open.spotify.com/track/29RGuw6jKWzMUBQvku0aoS) | [NIEBØ](https://open.spotify.com/artist/3jLSR7Z9iOyhSFBwQeS7es) | [OLIMP](https://open.spotify.com/album/0jR9aLfNRm2xWo7ymsxOEb) | 3:27 |
+| 33 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 |
 | 34 | [Lustro](https://open.spotify.com/track/2HhqdIn5pplLm7wwDGnGLq) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 3:25 |
 | 35 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
 | 36 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 50 | [Parlez Vous Francais](https://open.spotify.com/track/1xQkNNDv2MpPpVDNcnFx32) | [Julia Bosski](https://open.spotify.com/artist/38qVvJz4fyKJhg08RqHhL2) | [Parlez Vous Francais](https://open.spotify.com/album/2M8QV57i0i2GKoWe8ziAXA) | 3:22 |
 | 51 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
 
-Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDAwMjZmOTE2NDRjZTE5YWM4MTJiMmYzMWQzYWJlYmZm`
+Snapshot ID: `MTY1ODQ3NzYxMCwwMDAwMDAwMDhjYTY2ZTg3MmJhMGE4MmEwODY0ZGQzMTcxM2JiMmEz`

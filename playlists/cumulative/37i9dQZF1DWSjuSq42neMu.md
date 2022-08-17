@@ -4,7 +4,7 @@
 
 > todo un mood.
 
-188 songs - 10 hr 57 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
+189 songs - 11 hr 1 min - [published](https://open.spotify.com/playlist/1YUS9I9MHPt2XFhWNjYXrA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [2/Catorce](https://open.spotify.com/track/71R8HJxQk5qMiRstrlXN9t) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [2/Catorce](https://open.spotify.com/album/23ceOvjypWsCUj9ZrW8Fno) | 3:32 | 2021-12-14 |  |
 | [23 Preguntas](https://open.spotify.com/track/5ANkjNH7elrxzggidjnH9v) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [23 Preguntas](https://open.spotify.com/album/0iLhDl4hlkoBXLtsfhUg56) | 4:11 | 2021-12-14 |  |
 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 | 2022-03-03 |  |
-| [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2021-12-14 |  |
+| [787](https://open.spotify.com/track/7fkckxJLcwDO62DeutVtUo) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [787](https://open.spotify.com/album/3Y3aMcdlV3b2InwFcNvsxa) | 3:45 | 2021-12-14 | 2022-08-17 |
 | [A Mi También ft\. Alvaro Diaz, Feid](https://open.spotify.com/track/5Bc130ZswADfOY9bxk1y98) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Club Dieciséis](https://open.spotify.com/album/4cvaXlyY8HozBQXr6VzsEU) | 2:51 | 2021-12-14 |  |
 | [A Mí](https://open.spotify.com/track/6kbzFdX9KkJpAADAqArxgW) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/4aoH9dI1blcm4xsi4KTUF5) | 3:29 | 2021-12-14 | 2022-07-29 |
 | [A Mí](https://open.spotify.com/track/7MmrcXVA7A5zZ2CbDuGHNa) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [A Mí](https://open.spotify.com/album/3tc9WifLZvWKnoWzLPmaeO) | 3:29 | 2022-07-26 |  |
@@ -34,6 +34,7 @@
 | [Aquel Nap ZzZz](https://open.spotify.com/track/5bQLsyTrUaMQRfr6whwGe5) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:55 | 2022-07-26 |  |
 | [Ausente](https://open.spotify.com/track/3GXplF1vscAbNcmv1mR65R) | [Tito Flow](https://open.spotify.com/artist/4hH0kU21cZ8vbWNuRhXk7v), [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Ausente](https://open.spotify.com/album/23G5DUbLk1DAKmnykuVvgm) | 3:35 | 2022-03-29 | 2022-07-18 |
 | [Avísame](https://open.spotify.com/track/6gq4nTOirGSZPUzWMbKmK7) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [H Roto](https://open.spotify.com/artist/5Q7VQ40wSh0GOm1CaNOIHL), [GARZI](https://open.spotify.com/artist/0sAHZQtvqLdcBvIrEAYo4m) | [Avísame](https://open.spotify.com/album/71c1eAek6Cc9knZ81UHXsI) | 2:42 | 2022-03-29 | 2022-04-20 |
+| [Bandolera](https://open.spotify.com/track/31jZbIjJFvIJaWjqmeEl71) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/2cBkMGeCncULhhWSVjzbj8) | 3:21 | 2022-08-11 |  |
 | [Bandolera](https://open.spotify.com/track/5suqjbw9bF0T1X3HU1oG1v) | [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c), [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4) | [Bandolera](https://open.spotify.com/album/1eRtwerdpd1Gp7Rfzkpacn) | 3:21 | 2022-03-29 | 2022-04-21 |
 | [BB](https://open.spotify.com/track/4OoDeRIb0xo5DfQQ9RligQ) | [Andry Kiddos](https://open.spotify.com/artist/3mXFyGsGwiXIybo2Sr4EG2) | [BB](https://open.spotify.com/album/11cTDFSZsSCaktbjK6TOZi) | 2:14 | 2021-12-14 | 2022-07-17 |
 | [Bebé Que Bien Te Ves](https://open.spotify.com/track/6Se3CKRvYOyuzHGdHAooem) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [JOSE](https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP) | 3:46 | 2021-12-14 |  |

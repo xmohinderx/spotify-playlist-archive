@@ -4,7 +4,7 @@
 
 > The Midwest is always on time\. Cover: Trippie Redd
 
-250 songs - 11 hr 36 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
+251 songs - 11 hr 38 min - [published](https://open.spotify.com/playlist/41V1Pq5RMClkd6MJCSDWfC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,8 @@
 | [Beyond Turnt](https://open.spotify.com/track/6MkzFs2M02zeQMc5L2HHCF) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:49 | 2022-03-18 | 2022-06-04 |
 | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/track/7rQ84WsT2Wcnrz5gTmbGmw) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Big 14 \(feat\. Offset & Moneybagg Yo\)](https://open.spotify.com/album/4QjFj3RCLsh7x7mwdaaEfO) | 4:07 | 2022-08-05 |  |
 | [Big Worm](https://open.spotify.com/track/6RW9K0DGsTuPLCWCXdxujM) | [Peezy](https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs) | [Big Worm](https://open.spotify.com/album/0LVpFzyfNFDbtq3ZeDLkyA) | 2:36 | 2022-02-11 | 2022-04-09 |
-| [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 | 2022-08-12 |  |
+| [Black Angel](https://open.spotify.com/track/1aUt8W42FhxkGTfMzkhe8Q) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel](https://open.spotify.com/album/2ujbLVT5iw5ne3dygwIWyy) | 2:03 | 2022-08-12 | 2022-08-17 |
+| [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/track/02DxUOUGQu6SSMP53Jn6le) | [30 Deep Grimeyy](https://open.spotify.com/artist/0laj4MqJT0qZdmF1JgypmX), [Snow Banks](https://open.spotify.com/artist/2s6AjZFa07OzZVVcMFCG0H) | [Black Angel \(feat\. Snow Banks\)](https://open.spotify.com/album/5bkk90e5rl4GQp09ePMsIc) | 2:03 | 2022-08-12 |  |
 | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/track/3HicZmZQqn09gi8xG7v9iZ) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Black Illuminati \(feat\. Jadakiss\)](https://open.spotify.com/album/4kxQWgw2OM23IXRjsJYYuI) | 3:49 | 2021-11-19 | 2022-03-05 |
 | [Blah Blah Blah](https://open.spotify.com/track/27leakGsUzeTnIBNLbvqyC) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [Trdee](https://open.spotify.com/artist/48BxYnkFMs8KAXg23YTWXi) | [Blah Blah Blah](https://open.spotify.com/album/0SV6VMXNkzLelAS2nq4fa0) | 2:26 | 2022-08-05 |  |
 | [Blickelodeon](https://open.spotify.com/track/5n5CLxe3iJby9DnD2PSgGE) | [Sada Baby](https://open.spotify.com/artist/2JSwnwAT1BupAQkhqcRCUw) | [Skuba Sada 2.5](https://open.spotify.com/album/7I3rWkSxOhZ6Hhho6KGxak) | 3:13 | 2022-06-10 | 2022-07-30 |

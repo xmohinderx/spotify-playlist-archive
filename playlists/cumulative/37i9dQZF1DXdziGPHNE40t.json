@@ -222,6 +222,24 @@
     },
     {
       "album": {
+        "name": "Autumn Nocturne",
+        "url": "https://open.spotify.com/album/7KBFqb2rTLsCdjQz64bf8M"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187678,
+      "name": "Autumn Nocturne",
+      "url": "https://open.spotify.com/track/751ioCiRxLWziIfPWGQ6ur"
+    },
+    {
+      "album": {
         "name": "Baubles, Bangles & Beads",
         "url": "https://open.spotify.com/album/52l4zyCJJLLl93HezGeAoG"
       },
@@ -237,6 +255,24 @@
       "duration_ms": 202427,
       "name": "Baubles, Bangles & Beads",
       "url": "https://open.spotify.com/track/7hOfHLHUyYaOVuL8MxzoLv"
+    },
+    {
+      "album": {
+        "name": "Bring Some Lovin'",
+        "url": "https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo"
+      },
+      "artists": [
+        {
+          "name": "Flatland Park",
+          "url": "https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189476,
+      "name": "Bring Some Lovin'",
+      "url": "https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr"
     },
     {
       "album": {
@@ -1360,6 +1396,24 @@
     },
     {
       "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/3SFDdesj9oBxdrXZJMqHk5"
+      },
+      "artists": [
+        {
+          "name": "Charlie Regan Three",
+          "url": "https://open.spotify.com/artist/13RaAeTknGQIB6kBEDTyRY"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261894,
+      "name": "More Than You Know",
+      "url": "https://open.spotify.com/track/3AyHmUPu0wL0jKCxAkMALo"
+    },
+    {
+      "album": {
         "name": "Mornin",
         "url": "https://open.spotify.com/album/0A8eqNEbD3NkNb4ki7N2E0"
       },
@@ -1729,7 +1783,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 261090,
       "name": "September Song",
       "url": "https://open.spotify.com/track/5K9W2clr01zZZVu80avRLA"
@@ -1969,6 +2023,24 @@
       "duration_ms": 191700,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/00XUUci0jcUyCtVgMk8AxB"
+    },
+    {
+      "album": {
+        "name": "Sometime Ago",
+        "url": "https://open.spotify.com/album/3gDtm0TuOChwQxe1sg1W9q"
+      },
+      "artists": [
+        {
+          "name": "Madeleine West",
+          "url": "https://open.spotify.com/artist/2bucqt2BrsK6W5p1H4Edu4"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160919,
+      "name": "Sometime Ago",
+      "url": "https://open.spotify.com/track/6HZgxhesyOy8jkTiAFfQmR"
     },
     {
       "album": {
@@ -2278,6 +2350,24 @@
     },
     {
       "album": {
+        "name": "Tomorrow",
+        "url": "https://open.spotify.com/album/5TkYZGmaaF1hXvK9kqcx8M"
+      },
+      "artists": [
+        {
+          "name": "Ray Horne Trio",
+          "url": "https://open.spotify.com/artist/51XvvMJ1TNAQpuGnDlwmUT"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269002,
+      "name": "Tomorrow",
+      "url": "https://open.spotify.com/track/5QTJAnT7nhRzKAhtIActwk"
+    },
+    {
+      "album": {
         "name": "Try To Remember",
         "url": "https://open.spotify.com/album/1xozYTfwglbWQWtbCnJ5gx"
       },
@@ -2581,6 +2671,24 @@
       "duration_ms": 144855,
       "name": "You Left With My Heart Still Yours",
       "url": "https://open.spotify.com/track/5WAnt7GslqsKZOEUZ5SORP"
+    },
+    {
+      "album": {
+        "name": "Younger",
+        "url": "https://open.spotify.com/album/5UDXkn6a4ugSTyH45ZNa5i"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170526,
+      "name": "Younger",
+      "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdziGPHNE40t"

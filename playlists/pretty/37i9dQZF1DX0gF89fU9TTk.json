@@ -1,12 +1,12 @@
 {
   "description": "The best of today's pop worship music.  Turn the beat up! Cover: Switch",
-  "num_followers": 102067,
+  "num_followers": 102124,
   "original_name": "Hits UP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMGY0MDViYzMwYWIwNTk1MjgxZDAzYTAxM2YzYzM5ZTdl",
+  "snapshot_id": "MTY0MDkzMjEwOSwwMDAwMDAwMDBmNzY4OTJlZmRhZDFkMGVjMDYyYmRiN2RmNjdkZTkz",
   "tracks": [
     {
       "added_at": "2021-12-31 06:28:29",
@@ -247,22 +247,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "NEVER WALK AWAY",
-        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "NEVER WALK AWAY",
-      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "neverfade",
         "url": "https://open.spotify.com/album/458fuUGnQiQai9nbOrMWi7"
       },
@@ -315,18 +299,34 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "I'll Fight for You",
-        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+        "name": "Free",
+        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
       },
       "artists": [
         {
-          "name": "Britt Nicole",
-          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+          "name": "Riley Clemmons",
+          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
         }
       ],
-      "duration_ms": 167403,
-      "name": "I'll Fight for You",
-      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
+      "duration_ms": 200133,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "NEVER WALK AWAY",
+        "url": "https://open.spotify.com/album/43yM59VKggiWB7Nmy9Ds9v"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        }
+      ],
+      "duration_ms": 200017,
+      "name": "NEVER WALK AWAY",
+      "url": "https://open.spotify.com/track/0HJ8YJ3KXYhEEO90gb1bjp"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -351,58 +351,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "SIMPLE (feat. Joe L Barnes)",
-        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
-      },
-      "artists": [
-        {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
-        },
-        {
-          "name": "Joe L Barnes",
-          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
-        }
-      ],
-      "duration_ms": 152769,
-      "name": "SIMPLE (feat. Joe L Barnes)",
-      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1SyeWHgGQBdLSDEA79Qo38"
-      },
-      "artists": [
-        {
-          "name": "Riley Clemmons",
-          "url": "https://open.spotify.com/artist/7yZC6AEhvCD5NFR8yDUxCG"
-        }
-      ],
-      "duration_ms": 200133,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/2YKv2yIRlh1MEtKvw0woqO"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Shiloh",
-        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
-      },
-      "artists": [
-        {
-          "name": "Audrey Assad",
-          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Shiloh",
-      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Love Me Like You",
         "url": "https://open.spotify.com/album/5GPADMyq3HcawcIUmEG5he"
       },
@@ -423,8 +371,24 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "All Of My Best Friends",
-        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
+        "name": "I'll Fight for You",
+        "url": "https://open.spotify.com/album/59GGbgQ7lQ6dk2Jz8ClAsy"
+      },
+      "artists": [
+        {
+          "name": "Britt Nicole",
+          "url": "https://open.spotify.com/artist/6BXionV4R0BunrFpSwIMUK"
+        }
+      ],
+      "duration_ms": 167403,
+      "name": "I'll Fight for You",
+      "url": "https://open.spotify.com/track/4XOw2RRfBVFEmJFm4MDGPm"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Out Here On A Friday Where It Began (Live)",
+        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
       },
       "artists": [
         {
@@ -432,9 +396,45 @@
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 185217,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
+      "duration_ms": 162894,
+      "name": "Phenomena (DA DA) - Live",
+      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Shiloh",
+        "url": "https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG"
+      },
+      "artists": [
+        {
+          "name": "Audrey Assad",
+          "url": "https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Shiloh",
+      "url": "https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "SIMPLE (feat. Joe L Barnes)",
+        "url": "https://open.spotify.com/album/4owcAzyMj5nmT6aYRaahtJ"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Joe L Barnes",
+          "url": "https://open.spotify.com/artist/5nO7Yt0Jon48sqKR6VME4T"
+        }
+      ],
+      "duration_ms": 152769,
+      "name": "SIMPLE (feat. Joe L Barnes)",
+      "url": "https://open.spotify.com/track/4ukZ5RUJMbIyS2tOhooPNY"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -515,8 +515,8 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Out Here On A Friday Where It Began (Live)",
-        "url": "https://open.spotify.com/album/6WW9fXSiAv0wj5gn8XbFvy"
+        "name": "All Of My Best Friends",
+        "url": "https://open.spotify.com/album/1JqOZim8WcsjtJXuHrgOQO"
       },
       "artists": [
         {
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
         }
       ],
-      "duration_ms": 162894,
-      "name": "Phenomena (DA DA) - Live",
-      "url": "https://open.spotify.com/track/41K9LXYA0ou2SrJdAkzWue"
+      "duration_ms": 185217,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2bNxE0corUIlCcOWrliULJ"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -631,22 +631,6 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Nobody",
-        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 187692,
-      "name": "Nobody",
-      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
         "name": "Won't Look Back",
         "url": "https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS"
       },
@@ -663,6 +647,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/0WYEPMMXkI0XVuKs3c9iZX"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 187692,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/6v1Hgn7yTvz7vQkJiRBESz"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Better View",
         "url": "https://open.spotify.com/album/5fjwampEKoaXEv81pDDQQ5"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 168853,
       "name": "Better View",
       "url": "https://open.spotify.com/track/173RgJWVkioV5Ngb8U6q90"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "EXIT",
-        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
-      },
-      "artists": [
-        {
-          "name": "Wande",
-          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
-        }
-      ],
-      "duration_ms": 124160,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -715,6 +699,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "EXIT",
+        "url": "https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv"
+      },
+      "artists": [
+        {
+          "name": "Wande",
+          "url": "https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0"
+        }
+      ],
+      "duration_ms": 124160,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Awe + Wonder (Live)",
         "url": "https://open.spotify.com/album/2Qp1udkJdjI6zW6Lr7wO3g"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 439714,
       "name": "Just Want You - Live",
       "url": "https://open.spotify.com/track/77SQkPEpRRHvj6eF3O2rnm"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Wild",
-        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
-      },
-      "artists": [
-        {
-          "name": "Local Sound",
-          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
-        }
-      ],
-      "duration_ms": 234443,
-      "name": "Wild",
-      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -787,6 +771,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Wild",
+        "url": "https://open.spotify.com/album/35AsKn2qqeUGyxelYUX1qd"
+      },
+      "artists": [
+        {
+          "name": "Local Sound",
+          "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
+        }
+      ],
+      "duration_ms": 234443,
+      "name": "Wild",
+      "url": "https://open.spotify.com/track/2masBgZDOTFiuUbKTa7AXu"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Quiet Talk",
         "url": "https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW"
       },
@@ -799,22 +799,6 @@
       "duration_ms": 168000,
       "name": "Quiet Talk",
       "url": "https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Devotion",
-        "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
-      },
-      "artists": [
-        {
-          "name": "VOUS Worship",
-          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
-        }
-      ],
-      "duration_ms": 222551,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -835,18 +819,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Lifeline",
-        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
+        "name": "Devotion",
+        "url": "https://open.spotify.com/album/6O3f8tfqgEyfNeW2AQYaBH"
       },
       "artists": [
         {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+          "name": "VOUS Worship",
+          "url": "https://open.spotify.com/artist/3LoDhoZo5Mkue9sAuj1KHb"
         }
       ],
-      "duration_ms": 194556,
-      "name": "Lifeline",
-      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
+      "duration_ms": 222551,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/1KkHP4XsCdH3e8d2rrntHA"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -867,8 +851,24 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Never Far (House Church)",
-        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
+        "name": "Lifeline",
+        "url": "https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 194556,
+      "name": "Lifeline",
+      "url": "https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "I Could Sing Of Your Love Forever",
+        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
       },
       "artists": [
         {
@@ -876,25 +876,9 @@
           "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 231964,
-      "name": "Never Far (House Church)",
-      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Motion Worship",
-        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
-      },
-      "artists": [
-        {
-          "name": "Motion Worship",
-          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
-        }
-      ],
-      "duration_ms": 226568,
-      "name": "Freedom Wild",
-      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
+      "duration_ms": 212998,
+      "name": "I Could Sing of Your Love Forever",
+      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -915,18 +899,18 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
+        "name": "Motion Worship",
+        "url": "https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R"
       },
       "artists": [
         {
-          "name": "MDSN",
-          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+          "name": "Motion Worship",
+          "url": "https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m"
         }
       ],
-      "duration_ms": 184264,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+      "duration_ms": 226568,
+      "name": "Freedom Wild",
+      "url": "https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -951,8 +935,24 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "I Could Sing Of Your Love Forever",
-        "url": "https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd"
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/3cLdlbfSvbXDPNIUvqRAAq"
+      },
+      "artists": [
+        {
+          "name": "MDSN",
+          "url": "https://open.spotify.com/artist/6iv3P2yMTglEHCYNlmNBdD"
+        }
+      ],
+      "duration_ms": 184264,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/4vXkAOGeEVv79YDaoweAL2"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "Never Far (House Church)",
+        "url": "https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72"
       },
       "artists": [
         {
@@ -960,9 +960,9 @@
           "url": "https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2"
         }
       ],
-      "duration_ms": 212998,
-      "name": "I Could Sing of Your Love Forever",
-      "url": "https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm"
+      "duration_ms": 231964,
+      "name": "Never Far (House Church)",
+      "url": "https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -999,6 +999,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
+      },
+      "artists": [
+        {
+          "name": "Gateway Youth",
+          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
+        }
+      ],
+      "duration_ms": 200324,
+      "name": "Earth",
+      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
         "name": "Love Running Wild",
         "url": "https://open.spotify.com/album/2vebwQ9kyBdhWLz3cayGS7"
       },
@@ -1011,6 +1027,26 @@
       "duration_ms": 201371,
       "name": "I Belong to You",
       "url": "https://open.spotify.com/track/3JjEsGDEErt7aC6cLBZ2VU"
+    },
+    {
+      "added_at": "2021-12-31 06:28:29",
+      "album": {
+        "name": "I've Got A Fire",
+        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music",
+          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+        },
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "I\u2019ve Got A Fire",
+      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1047,38 +1083,22 @@
     {
       "added_at": "2021-12-31 06:28:29",
       "album": {
-        "name": "I've Got A Fire",
-        "url": "https://open.spotify.com/album/55YGcxIKhPG3yI9jhPJqoI"
+        "name": "Clouds Are Clearing: Mixtape 1A",
+        "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
       },
       "artists": [
         {
-          "name": "Lakewood Music",
-          "url": "https://open.spotify.com/artist/6SppFn5ihgxDw7tdfthnaK"
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
         },
         {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+          "name": "Marty",
+          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
         }
       ],
-      "duration_ms": 218946,
-      "name": "I\u2019ve Got A Fire",
-      "url": "https://open.spotify.com/track/2nCNhIxJsaWdqHKzTxmgbl"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/7hAnYgk3KdYmMvWzhS648H"
-      },
-      "artists": [
-        {
-          "name": "Gateway Youth",
-          "url": "https://open.spotify.com/artist/3ftWjEOqlDfTCF7ZSzRVNM"
-        }
-      ],
-      "duration_ms": 200324,
-      "name": "Earth",
-      "url": "https://open.spotify.com/track/2HWjZ2d3ZnQ8pjIrJndtAe"
+      "duration_ms": 159000,
+      "name": "Higher Than Mine (Remix)",
+      "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
     },
     {
       "added_at": "2021-12-31 06:28:29",
@@ -1127,26 +1147,6 @@
       "duration_ms": 209088,
       "name": "You Loved Me First",
       "url": "https://open.spotify.com/track/2wPbsFfyUAOvHHVOx2HVDT"
-    },
-    {
-      "added_at": "2021-12-31 06:28:29",
-      "album": {
-        "name": "Clouds Are Clearing: Mixtape 1A",
-        "url": "https://open.spotify.com/album/3saIlADNT5151AhQnPxEIQ"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Marty",
-          "url": "https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Higher Than Mine (Remix)",
-      "url": "https://open.spotify.com/track/7nOD4RtNzWbUlYchguMhr7"
     },
     {
       "added_at": "2021-12-31 06:28:29",

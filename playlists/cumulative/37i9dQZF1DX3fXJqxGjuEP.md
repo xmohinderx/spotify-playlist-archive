@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-404 songs - 1 day 0 hr 14 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
+405 songs - 1 day 0 hr 17 min - [published](https://open.spotify.com/playlist/1MlSIdAeQjly6eYigD5wpF)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Big Energy](https://open.spotify.com/track/2AjcrjatK9XbNMZdm42u0k) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Big Energy](https://open.spotify.com/album/3s0DBiTaAmLHY1rxJ0J0W2) | 3:03 | 2021-10-20 | 2022-04-18 |
 | [Birdman](https://open.spotify.com/track/5GKm9oJsbVaKL5vuYkxOCK) | [Man After Man](https://open.spotify.com/artist/1jxHgQ48lEj9OZ7o3y1HfQ), [Richie Alexander](https://open.spotify.com/artist/4YMhNKBGJfOR1jsrtcbR6e), [Masai Méndez](https://open.spotify.com/artist/16ATlFZC9Rz8a9Xo2hEmsk) | [Galactic Echo](https://open.spotify.com/album/569HJOiydTPUQd3oHuT9fg) | 3:03 | 2021-10-20 | 2022-07-24 |
 | [Bitches and Ceviches](https://open.spotify.com/track/3W9JZp5dMeW8XN69AhUg4I) | [Malamala](https://open.spotify.com/artist/7EAwWrnvpx4foTEroZDtHl) | [Bitches and Ceviches](https://open.spotify.com/album/286q229FNIyWuqzpOanl35) | 4:04 | 2021-10-20 | 2022-07-29 |
+| [Black Catbird](https://open.spotify.com/track/1CkGUqwaz1UfFSo2BmySGI) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/67ll9vOLmqydy8lrHVQFKo) | 2:45 | 2021-10-20 |  |
 | [Black Catbird](https://open.spotify.com/track/4gK1g4edhTvgFoMauswyE1) | [the Garifuna Collective](https://open.spotify.com/artist/24OmLPZEq6dYiGJbPCAFVm) | [Black Catbird](https://open.spotify.com/album/0APTIG6nZVYmbKrRsItZxs) | 2:45 | 2021-10-20 | 2022-04-21 |
 | [BocaRosa](https://open.spotify.com/track/0vGYO4f8xV0fqEaS5MPR35) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV) | [Atlas](https://open.spotify.com/album/7f3LiSTyf6uvUqKh1ltlcG) | 3:42 | 2021-10-20 | 2022-05-19 |
 | [Boogaloo Arizona](https://open.spotify.com/track/5kQMrsgCreLtq5DBPwuHfg) | [Orkesta Mendoza](https://open.spotify.com/artist/3VkYgHMyt5EYPd7qfzE3CT) | [Curandero](https://open.spotify.com/album/6XoMGMJOg5HKxWdKI1kkuW) | 2:03 | 2021-10-20 | 2022-04-20 |
@@ -250,7 +251,7 @@
 | [Mira Bien](https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mira Bien](https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU) | 3:27 | 2022-02-01 | 2022-07-29 |
 | [Mis Amigos](https://open.spotify.com/track/78mspwUpeCM5W1AaA6ffiN) | [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Mis Amigos](https://open.spotify.com/album/2lftV3fcZKJnVMHXwZyDGg) | 3:00 | 2022-01-14 |  |
 | [Mis Muertos](https://open.spotify.com/track/4f0MX5DNAc2qwP1pSI7YHT) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Enamorada](https://open.spotify.com/album/6ZoGWwn54s7pE5Mv3H9PqD) | 2:21 | 2021-10-20 | 2022-04-19 |
-| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 |  |
+| [Mojo](https://open.spotify.com/track/70NxnUV2P0uOus3V5eL9gs) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW), [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Mojo](https://open.spotify.com/album/0SMSBq8yQiGXqultNvsRWy) | 3:26 | 2021-10-20 | 2022-08-17 |
 | [Morena](https://open.spotify.com/track/3eoegPFmJo2k7eRUR31bSl) | [Maréh](https://open.spotify.com/artist/2SIZkgqao1WVQAuliN0PN4) | [Morena](https://open.spotify.com/album/5AUfStt82PZpTvwqptRdFg) | 3:09 | 2021-10-20 | 2022-04-16 |
 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 | 2022-07-11 |  |
 | [Motivic Retrograde](https://open.spotify.com/track/2wJ0mbPiDzoyzzNePIqm1x) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Motivic Retrograde](https://open.spotify.com/album/1VsomWVnz9etCatyCiXsAb) | 3:57 | 2021-10-20 | 2022-04-21 |

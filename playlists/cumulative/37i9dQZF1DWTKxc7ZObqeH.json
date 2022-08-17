@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 220624,
       "name": "Blue Moon",
       "url": "https://open.spotify.com/track/05KUj61TSptAGUrlMSS4aj"
@@ -1670,6 +1670,24 @@
     },
     {
       "album": {
+        "name": "Oh So Sweet",
+        "url": "https://open.spotify.com/album/1u1MqTmOjUYbOG5a8i6jSZ"
+      },
+      "artists": [
+        {
+          "name": "The Boston Four",
+          "url": "https://open.spotify.com/artist/2vRbMto00LAZjdA2s227Sl"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223607,
+      "name": "Oh So Sweet",
+      "url": "https://open.spotify.com/track/2RfCPlpFKP0onHwvYZmpgV"
+    },
+    {
+      "album": {
         "name": "Long Ago (and Far Away)",
         "url": "https://open.spotify.com/album/5pXFxobaToNeBHgCRV2YNr"
       },
@@ -2627,7 +2645,7 @@
       ],
       "date_added": "2022-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 216854,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo"

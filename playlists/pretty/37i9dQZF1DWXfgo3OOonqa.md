@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,328 likes - 84 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,406 likes - 84 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 28 | [BÄSTFRIEND](https://open.spotify.com/track/5Ml5sKivSir3NaGABhIdnO) | [Greekazo](https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8), [Mackan](https://open.spotify.com/artist/2XFGtS2h7MOHTjxZA1zg7H) | [BÄSTFRIEND](https://open.spotify.com/album/4CKyLYdFdBTnY4um39sbv5) | 2:22 |
 | 29 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 |
 | 30 | [v4 \(freeslaktish\)](https://open.spotify.com/track/3nXc9DDqsY2Y840KbbN8h8) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ), [ORIO](https://open.spotify.com/artist/6cyx02Uqj6gB9ZU0s10bzn) | [six v's](https://open.spotify.com/album/0mU4EvBcX5idj4UWW6TNE7) | 2:26 |
-| 31 | [Bla bla \(Intro\)](https://open.spotify.com/track/1RzLeCw0rSqGcH9QIYzYTg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:01 |
+| 31 | [Bla bla \- Intro](https://open.spotify.com/track/1RzLeCw0rSqGcH9QIYzYTg) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Selfmade](https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt) | 2:01 |
 | 32 | [Komplicerat](https://open.spotify.com/track/3RCbGcSsPFNn6NbFbLc8QT) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [Komplicerat](https://open.spotify.com/album/2okfqXMmvxEi0VlNupJENP) | 2:19 |
 | 33 | [Pengar Bänga](https://open.spotify.com/track/0wZjEtjXpkoO3PGjCsvF3Y) | [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [Tusen Flows 2](https://open.spotify.com/album/1H93HESE9yuPqelE36PLCM) | 2:07 |
 | 34 | [MATADOR](https://open.spotify.com/track/64s0ZmTEwVhztlrEP6Xt9J) | [Sarettii](https://open.spotify.com/artist/4kUfJdASJDMPLuo1t1N2zi) | [MATADOR](https://open.spotify.com/album/35f2RCaqMqxU5dNv5v8n7U) | 3:16 |

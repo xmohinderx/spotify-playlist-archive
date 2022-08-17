@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 553,653 likes - 65 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 553,805 likes - 65 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 11 | [A Girl Like You](https://open.spotify.com/track/6XOINCZBv8Q7RXgNNiTwIN) | [Edwyn Collins](https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT) | [Gorgeous George](https://open.spotify.com/album/4gIHBmLBXUnDJgWhcPzNDG) | 3:56 |
 | 12 | [Bitter Sweet Symphony](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 |
 | 13 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 14 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
-| 15 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 14 | [There She Goes](https://open.spotify.com/track/0SMkzFGJOBFDI9KfYD55L0) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/4tCf15W7qHi3jE0PdljddW) | 2:42 |
+| 15 | [Disco 2000](https://open.spotify.com/track/2aC8wwfrM0YeTAzzk8hxqC) | [Pulp](https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD) | [Different Class](https://open.spotify.com/album/3ly9T2L4pqTZijFgQssd3x) | 4:33 |
 | 16 | [Sit Down](https://open.spotify.com/track/66IC0uXoVyYT5q3R27bbZy) | [James](https://open.spotify.com/artist/0qLNsNKm8bQcMoRFkR8Hmh) | [Gold Mother](https://open.spotify.com/album/7qQEoMXpeyJ2GJkkdDsVdr) | 4:04 |
 | 17 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
 | 18 | [Live Forever \- Remastered](https://open.spotify.com/track/6TlQ5fbojNRuG0hPQMbxeW) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [Definitely Maybe \(Deluxe Edition Remastered\)](https://open.spotify.com/album/3AMHMM2aNG6k3d7ybcQ5bY) | 4:36 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 64 | [The Riverboat Song](https://open.spotify.com/track/29cKAB63SRhL2GZdMHmQON) | [Ocean Colour Scene](https://open.spotify.com/artist/5vIOGcdmx1eIkq3ZtuS12U) | [Moseley Shoals](https://open.spotify.com/album/2z6VxH2NdkmxYpTygmlI0W) | 4:52 |
 | 65 | [Wide Open Space](https://open.spotify.com/track/0Q4fqnPKrbOT6HYDhlvbNw) | [Mansun](https://open.spotify.com/artist/7rqRuB0wgUaStDN73PlV4U) | [Attack of the Grey Lantern](https://open.spotify.com/album/7v04VQBNE3VmBxf7vbnpnL) | 4:31 |
 
-Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMGEwODQxMzI0YmY2ZmNjMWVkODhkNmJlNjNmOGY3OTgw`
+Snapshot ID: `MTY1MTY4NDMwOSwwMDAwMDAwMDhiZGQwOWM5MzAyNjM3NWVkZWU5YjE2MDE3MTc4OWRl`

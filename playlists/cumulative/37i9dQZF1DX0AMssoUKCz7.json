@@ -103,7 +103,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 155294,
       "name": "A Little Bit Closer",
       "url": "https://open.spotify.com/track/64MkGYueWHp46dfPtdlZ9p"
@@ -3523,7 +3523,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 232195,
       "name": "Heatwave (feat. Akon) - HUGEL Remix",
       "url": "https://open.spotify.com/track/1Rev0uexcpMr1ERkucbXnT"
@@ -4379,6 +4379,28 @@
       "duration_ms": 157810,
       "name": "I'll Be Back",
       "url": "https://open.spotify.com/track/7iymoplUkeIAat6dSn6wrR"
+    },
+    {
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/2CY7EGiqVXlLDw7Mx0ZVQX"
+      },
+      "artists": [
+        {
+          "name": "ConKi",
+          "url": "https://open.spotify.com/artist/2oBcbbUQy8Md3FYXifyPTF"
+        },
+        {
+          "name": "Magnus Gunn",
+          "url": "https://open.spotify.com/artist/4CgaDc9IaWz2tHRO8T8lgi"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148315,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4Iu8WjkHCEoN0iFOmbiKPq"
     },
     {
       "album": {
@@ -6114,7 +6136,7 @@
     },
     {
       "album": {
-        "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
+        "name": "Never Really Loved Me (with Dean Lewis)",
         "url": "https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D"
       },
       "artists": [
@@ -6131,7 +6153,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 202158,
-      "name": "Never Really Loved Me (with Dean Lewis) (with Dean Lewis)",
+      "name": "Never Really Loved Me (with Dean Lewis)",
       "url": "https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL"
     },
     {
@@ -7105,6 +7127,24 @@
       "duration_ms": 123750,
       "name": "Probably Paradise",
       "url": "https://open.spotify.com/track/3ASJqw6Ih1vz1s44j7cPyS"
+    },
+    {
+      "album": {
+        "name": "Problems",
+        "url": "https://open.spotify.com/album/1tPnmiEsktiEAVMjruALtI"
+      },
+      "artists": [
+        {
+          "name": "Guille Alvarez",
+          "url": "https://open.spotify.com/artist/4fe5ql9g8VB9jiBy37SuLY"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157361,
+      "name": "Problems",
+      "url": "https://open.spotify.com/track/3GlJE0D0d8TsmcDLaCpVCq"
     },
     {
       "album": {
@@ -8762,6 +8802,32 @@
     },
     {
       "album": {
+        "name": "Sunset Lovers",
+        "url": "https://open.spotify.com/album/5x7S16YvroS0lLKXARqUMu"
+      },
+      "artists": [
+        {
+          "name": "Thierry Von Der Warth",
+          "url": "https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1"
+        },
+        {
+          "name": "Horizon Blue",
+          "url": "https://open.spotify.com/artist/2vOzV5WdvOYH3K1NJyt7wb"
+        },
+        {
+          "name": "Carston",
+          "url": "https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "Sunset Lovers",
+      "url": "https://open.spotify.com/track/1x7NAvqHgCvhV549ls0FTE"
+    },
+    {
+      "album": {
         "name": "Take You Back",
         "url": "https://open.spotify.com/album/6W0sBpM2FwQ5TG6BbLilSQ"
       },
@@ -8949,7 +9015,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 185106,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/79Hkie6ttHO2QMcXs7Jwqp"

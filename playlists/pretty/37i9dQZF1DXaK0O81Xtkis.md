@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: King Princess
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,537 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,581 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 8 | [She's Not You](https://open.spotify.com/track/6zkwvT8jjhtrTxNuebFgfz) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She’s Not You](https://open.spotify.com/album/5G2gwyWYBDnOeh7BT3cj3j) | 3:07 |
 | 9 | [Under The Influence](https://open.spotify.com/track/5zsMuiYeqw2JoSBulihbwo) | [Lost Kings](https://open.spotify.com/artist/3hyEbRtp617pNCuuQjyOmc), [Jordan Shaw](https://open.spotify.com/artist/6Z8vLeI1ZMj2kzTNWVOBXr) | [Under The Influence](https://open.spotify.com/album/08UKPRDFopACdPdjkdZ52G) | 2:28 |
 | 10 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
-| 11 | [Nightmares](https://open.spotify.com/track/4F1YTJm19T5uYAO7yyGhZJ) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/5bHn0vh1WADdaPiBxiTQz2) | 2:49 |
+| 11 | [Nightmares](https://open.spotify.com/track/4Eb4RDO4492B9W49YbhZY0) | [No Love For The Middle Child](https://open.spotify.com/artist/7HWfshpjlGldmRa4gymvjX), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Nightmares](https://open.spotify.com/album/23FOpTZdp5orIhnUqM89Tb) | 2:49 |
 | 12 | [1234](https://open.spotify.com/track/4UQPvROrUn90skWOg9TURi) | [Forrest.](https://open.spotify.com/artist/6chWbUfdu6ibyaCXM1w8kQ), [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ) | [1234](https://open.spotify.com/album/3bcd3bKiWvgLgVk8lGux27) | 2:49 |
 | 13 | [Backpack](https://open.spotify.com/track/6c2GmMxmjmDbytdyXpHPvw) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Backpack](https://open.spotify.com/album/5J4h56xIvfwj8Dppu6ArF1) | 2:57 |
 | 14 | [kaleidoscope](https://open.spotify.com/track/5bD7bhOa64aE8a0vifa5J6) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [kaleidoscope](https://open.spotify.com/album/5AVdHQYItgjzDu5qRVmONy) | 3:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 74 | [Lost In The Moment](https://open.spotify.com/track/3nF5FjUP4W0QBxW4JCyUoa) | [Blanks](https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF) | [Lost In The Moment](https://open.spotify.com/album/68WmmsPnVwG3ltUQaDY0JJ) | 2:33 |
 | 75 | [I Don't Wanna Talk \(I Just Wanna Dance\)](https://open.spotify.com/track/2xXPVOKw75Ouju8Qu4SdIA) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/4nr6ytQ4OrEralEu4LhIVp) | 3:15 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDQxYWUxMWU4NTE0YWE0NzgyMzJiZDRhZmI2YTZjN2E2`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDNkMzBjNzA1MzhjMjg0ODdhYmIwNTBmNGIzYzlkZTI4`

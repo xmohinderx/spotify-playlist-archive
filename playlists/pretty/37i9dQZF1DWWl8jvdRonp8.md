@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,711 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,812 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 34 | [Prefiero Partir](https://open.spotify.com/track/5jPB0XbTQ89o5DDd0WzJ6p) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Yo Vendo Unos Ojos Verdes](https://open.spotify.com/album/1Yw1ofXYmmEbmleLmNEfYZ) | 3:17 |
 | 35 | [Como Tu Mujer \- Banda](https://open.spotify.com/track/2q13QRhe7cgmZNjUmwbn4p) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Joyas Prestadas \- Banda](https://open.spotify.com/album/2S1InqamaQuotpISCqos3W) | 4:25 |
 | 36 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/3xLurRYVT2h298sWgCQSGZ) | [K\-Paz De La Sierra](https://open.spotify.com/artist/1TCSet7pGZCDkcXCOzH359), [José Manuel Zamacona](https://open.spotify.com/artist/7w0DKxrmoa3RVWuvRWm35N) | [Más Capaces Que Nunca](https://open.spotify.com/album/3nfwzm26fjNgYKHHUBcdAM) | 3:11 |
-| 37 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:39 |
-| 38 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
+| 37 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
+| 38 | [Mi Eterno Amor Secreto](https://open.spotify.com/track/0WwP5kBrbmp3Or469SbSwR) | [Banda Los Sebastianes](https://open.spotify.com/artist/0HgICyWHmS6rnl8xWEd0x6) | [En Vida](https://open.spotify.com/album/0P7idNzelnJCzpY1LFuJxN) | 3:39 |
 | 39 | [Olvídame tú \(with Marco Antonio Solís\) \- MTV Unplugged](https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 4:39 |
 | 40 | [Como Me Haces Falta](https://open.spotify.com/track/7K6NOKMUKJxjolgsiE7m3x) | [Ana Bárbara](https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z) | [Los Besos No Se Dan En La Camisa](https://open.spotify.com/album/7fmhqh0nvaGukOYWkRoUWS) | 4:21 |
 | 41 | [Tus Mentiras](https://open.spotify.com/track/3MoQ3YG2Vy3bg9m4RRWvVD) | [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Si Me Recuerdas](https://open.spotify.com/album/0HtYh5CyT365ONA1d46IRC) | 4:46 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 83 | [Extrañándote](https://open.spotify.com/track/3r0FRf0nVEpKA3OcMVjZiO) | [Alison Solís](https://open.spotify.com/artist/5LspS8XQ6f8xUaNNOqvpls), [Marla Solís](https://open.spotify.com/artist/4WGhCycVJ6vlJtwiMwQ0UM) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:54 |
 | 84 | [¿ A Dónde Vamos A Parar ?](https://open.spotify.com/track/139or2pGbQ3RQsFHEaFn6M) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:55 |
 | 85 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 |
-| 86 | [Necesito una Compañera](https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Necesito una Compañera](https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK) | 3:48 |
-| 87 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 3:20 |
+| 86 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 3:20 |
+| 87 | [Necesito una Compañera](https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Necesito una Compañera](https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK) | 3:48 |
 | 88 | [La Venia Bendita](https://open.spotify.com/track/5KDiyuE8bI27VdLCi2EAA7) | [Meme del Real](https://open.spotify.com/artist/0HkMgxowXkwqDN3Z0s7kAB) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:11 |
 | 89 | [La Venia Bendita](https://open.spotify.com/track/0XScX16EPEVyOk5nCi49Hd) | [Grupo Recluta](https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo) | [Hablando Claro](https://open.spotify.com/album/595muujRN4z39Y3rOmSgML) | 2:39 |
 | 90 | [Ya No Te Vayas](https://open.spotify.com/track/1oPVmgkbkkeXQi6WsEO3ji) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 99 | [Morenita](https://open.spotify.com/track/5zfHspXrhASrnhkEOpxvAs) | [La Original Banda El Limón de Salvador Lizárraga](https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G) | [Nuestras Favoritas De Marco Antonio Solis](https://open.spotify.com/album/2zjpWBGbBXHNervP77MSOn) | 2:42 |
 | 100 | [Invéntame](https://open.spotify.com/track/1nwdRwqxMlKl3c7Qh8KsrG) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Trozos De Mi Alma](https://open.spotify.com/album/750XK6PDJK3u7ZvIFIajqb) | 3:29 |
 
-Snapshot ID: `MTYzNjY5NjgwMCwwMDAwMDAwMDBhNDU5YWY3YWU0NjU3MzM0ZTU5Mzk0ZDZkNzhmZGVj`
+Snapshot ID: `MTYzNjY5NjgwMCwwMDAwMDAwMDE3YWRlMTQ0YzQyOGIwOWE0MDBlY2FiY2YzOGNiNjlk`

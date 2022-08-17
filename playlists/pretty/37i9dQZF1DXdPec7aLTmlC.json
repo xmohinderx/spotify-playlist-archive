@@ -1,12 +1,12 @@
 {
   "description": "Hits to boost your mood and fill you with happiness!",
-  "num_followers": 5889272,
+  "num_followers": 5889797,
   "original_name": "Happy Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ0MDkyMCwwMDAwMDAwMDQzMDk3MjY4MjVlNzhiZDFiOWNiNDRjYmVhMDdlMGVk",
+  "snapshot_id": "MTY1ODQ0MDkyMCwwMDAwMDAwMGZkMGY5N2RkZjU0ODMxMGVhMzg2NGIyYzg0M2QxZjU1",
   "tracks": [
     {
       "added_at": "2022-07-21 22:02:00",
@@ -263,30 +263,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Potion (with Dua Lipa & Young Thug)",
-        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 214459,
-      "name": "Potion (with Dua Lipa & Young Thug)",
-      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
       },
@@ -323,22 +299,26 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "My Universe",
-        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+        "name": "Potion (with Dua Lipa & Young Thug)",
+        "url": "https://open.spotify.com/album/1V6HksALLzO5ihpU3YVqJc"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
         },
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         }
       ],
-      "duration_ms": 228000,
-      "name": "My Universe",
-      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
+      "duration_ms": 214459,
+      "name": "Potion (with Dua Lipa & Young Thug)",
+      "url": "https://open.spotify.com/track/7fYRg3CEbk6rNCuzNzMT06"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -359,6 +339,26 @@
       "duration_ms": 129817,
       "name": "Hot In It",
       "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "My Universe",
+        "url": "https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "My Universe",
+      "url": "https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -515,22 +515,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Acapulco",
-        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        }
-      ],
-      "duration_ms": 139672,
-      "name": "Acapulco",
-      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "Proof",
         "url": "https://open.spotify.com/album/6al2VdKbb6FIz9d7lU7WRB"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 164952,
       "name": "Butter",
       "url": "https://open.spotify.com/track/6jjYDGxVJsWS0a5wlVF5vS"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Acapulco",
+        "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
+      },
+      "artists": [
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "duration_ms": 139672,
+      "name": "Acapulco",
+      "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Speak Your Mind (Deluxe)",
-        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
-      },
-      "artists": [
-        {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        }
-      ],
-      "duration_ms": 186986,
-      "name": "2002",
-      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "I Love Life, Thank You",
         "url": "https://open.spotify.com/album/1XEycvgUklYgcYEUf7vbij"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 162875,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/0N9C80kcgL0xXGduKnYKWi"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Speak Your Mind (Deluxe)",
+        "url": "https://open.spotify.com/album/7lPoGKpCGgdKFAxpudhAH5"
+      },
+      "artists": [
+        {
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "duration_ms": 186986,
+      "name": "2002",
+      "url": "https://open.spotify.com/track/2BgEsaKNfHUdlh97KmvFyo"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -675,6 +675,22 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
+        "name": "Happiness Begins",
+        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 181026,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
         "name": "Dancing Feet (feat. DNCE)",
         "url": "https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 215203,
       "name": "Dancing Feet (feat. DNCE)",
       "url": "https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
-        "name": "Happiness Begins",
-        "url": "https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 181026,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/22vgEDb5hykfaTwLuskFGD"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 187107,
-      "name": "2 Be Loved (Am I Ready)",
-      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "Country Stuff The Album",
         "url": "https://open.spotify.com/album/4sShdTo9jO2RGLgDkZBgN8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 161853,
       "name": "Fancy Like",
       "url": "https://open.spotify.com/track/58UKC45GPNTflCN6nwCUeF"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187107,
+      "name": "2 Be Loved (Am I Ready)",
+      "url": "https://open.spotify.com/track/2rmwqU7yzTvzkiaRV53DpT"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -851,8 +851,8 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Green Green Grass",
-        "url": "https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC"
+        "name": "Wanted on Voyage (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
       },
       "artists": [
         {
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
+      "duration_ms": 200733,
+      "name": "Budapest",
+      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1003,8 +1003,8 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Wanted on Voyage (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6mcMKGEgukjyiR5IKElQ2E"
+        "name": "Green Green Grass",
+        "url": "https://open.spotify.com/album/1p6j020MWD6BCELPZd8XVC"
       },
       "artists": [
         {
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
         }
       ],
-      "duration_ms": 200733,
-      "name": "Budapest",
-      "url": "https://open.spotify.com/track/2ixsaeFioXJmMgkkbd4uj1"
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/3rk4aJ0vAj3cFUIQEeASkT"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 169010,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "Welcome To The Madhouse (Deluxe)",
         "url": "https://open.spotify.com/album/1AZjTOqvw2ZogWZxnDlhEN"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 209438,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/2N8m6CYs74qQO4mjVcXO30"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Run",
+        "url": "https://open.spotify.com/album/4d0a5uamW9NWRc1KXFeErI"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 169010,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UbVnbE5FH6008mAm6Mmgw"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Manila",
-        "url": "https://open.spotify.com/album/04G5svGohksmXulzf6BbK3"
-      },
-      "artists": [
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        },
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 144621,
-      "name": "Manila",
-      "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "Jerusalema",
         "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
       },
@@ -1511,6 +1491,26 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
+        "name": "Manila",
+        "url": "https://open.spotify.com/album/04G5svGohksmXulzf6BbK3"
+      },
+      "artists": [
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        },
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 144621,
+      "name": "Manila",
+      "url": "https://open.spotify.com/track/2hBkoDhuGk2AtSCprEFDFP"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
         "name": "Remind Me",
         "url": "https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt"
       },
@@ -1523,26 +1523,6 @@
       "duration_ms": 211167,
       "name": "Remind Me",
       "url": "https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
-        "name": "Follow Me",
-        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 169672,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1567,6 +1547,26 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
+        "name": "Follow Me",
+        "url": "https://open.spotify.com/album/63P6lbTxTP2OpbC7SOrIfK"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 169672,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/2Xy1UIVfOlukyye6Fd0wrI"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
         "name": "Mariposa",
         "url": "https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh"
       },
@@ -1579,6 +1579,30 @@
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Mal De Amores",
+        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        }
+      ],
+      "duration_ms": 201526,
+      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
+      "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1623,30 +1647,6 @@
     {
       "added_at": "2022-07-21 22:02:00",
       "album": {
-        "name": "Mal De Amores",
-        "url": "https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        }
-      ],
-      "duration_ms": 201526,
-      "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
-      "url": "https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
         "name": "MOTOMAMI",
         "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
@@ -1659,6 +1659,22 @@
       "duration_ms": 122226,
       "name": "CHICKEN TERIYAKI",
       "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
+    },
+    {
+      "added_at": "2022-07-21 22:02:00",
+      "album": {
+        "name": "Higher Power",
+        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 211294,
+      "name": "Higher Power",
+      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
       "added_at": "2022-07-21 22:02:00",
@@ -1683,22 +1699,6 @@
       "duration_ms": 203122,
       "name": "Skate",
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
-    },
-    {
-      "added_at": "2022-07-21 22:02:00",
-      "album": {
-        "name": "Higher Power",
-        "url": "https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 211294,
-      "name": "Higher Power",
-      "url": "https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct"
     },
     {
       "added_at": "2022-07-21 22:02:00",

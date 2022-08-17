@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 358214,
+  "num_followers": 358294,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGE4NjBhNDg2MjBiZDliOGI0ZmY4NDNiMDQyNDg4Nzgx",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMDhiNDg1OGMzMmU1M2JhZmY0ZmMwNmRiNjhjZWM1NDNl",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -95,26 +95,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Sun Goes Down",
-        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        }
-      ],
-      "duration_ms": 203586,
-      "name": "Sun Goes Down",
-      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Sou Teu F\u00e3",
         "url": "https://open.spotify.com/album/1ac0zGT6bhX0IQeQpyOyKd"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 170956,
       "name": "Sou Teu F\u00e3",
       "url": "https://open.spotify.com/track/5sjvZiR2SjOGJimYmHXfzd"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/6VjNaalNwGON6ymlTEWNn8"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
+        }
+      ],
+      "duration_ms": 203586,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/2JpTwRVXioTZSdizBGAhUH"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -255,18 +255,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Don't Let It Go",
-        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
+        "name": "Sorri, Sou Rei (KVSH Remix)",
+        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
       },
       "artists": [
         {
-          "name": "Rooftime",
-          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        },
+        {
+          "name": "Natiruts",
+          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
         }
       ],
-      "duration_ms": 183652,
-      "name": "Don't Let It Go",
-      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
+      "duration_ms": 217678,
+      "name": "Sorri, Sou Rei (KVSH Remix)",
+      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -291,22 +295,18 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Sorri, Sou Rei (KVSH Remix)",
-        "url": "https://open.spotify.com/album/5J4wjBvmwvBXYBWXickRmk"
+        "name": "Don't Let It Go",
+        "url": "https://open.spotify.com/album/1JGQDxdFHxSqc8Folj8md6"
       },
       "artists": [
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
-        },
-        {
-          "name": "Natiruts",
-          "url": "https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO"
+          "name": "Rooftime",
+          "url": "https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7"
         }
       ],
-      "duration_ms": 217678,
-      "name": "Sorri, Sou Rei (KVSH Remix)",
-      "url": "https://open.spotify.com/track/3xV2M8KBtZDtZp42vJReCH"
+      "duration_ms": 183652,
+      "name": "Don't Let It Go",
+      "url": "https://open.spotify.com/track/6gsP00KX8DmEGlukpVTOQy"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -351,26 +351,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Low (feat. Victor Perry)",
-        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
-      },
-      "artists": [
-        {
-          "name": "Tom Enzy",
-          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
-        },
-        {
-          "name": "Victor Perry",
-          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
-        }
-      ],
-      "duration_ms": 145952,
-      "name": "Low (feat. Victor Perry)",
-      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
         "url": "https://open.spotify.com/album/5mt5Ssu7AZXAW1LWEEODii"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 176239,
       "name": "Ainda Gosto Dela (Dubdogz, RQntz & Lowsince Remix)",
       "url": "https://open.spotify.com/track/6O4wwd8F3dQxbzeENONcMu"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Low (feat. Victor Perry)",
+        "url": "https://open.spotify.com/album/20QswexjjSxo9hivrYnoN5"
+      },
+      "artists": [
+        {
+          "name": "Tom Enzy",
+          "url": "https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O"
+        },
+        {
+          "name": "Victor Perry",
+          "url": "https://open.spotify.com/artist/29yyPuky7khfsycbqK19uE"
+        }
+      ],
+      "duration_ms": 145952,
+      "name": "Low (feat. Victor Perry)",
+      "url": "https://open.spotify.com/track/625TJ9ab8IthbxUDDZk8FD"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -615,26 +615,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Back to Beginning",
-        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
-      },
-      "artists": [
-        {
-          "name": "Breno Miranda",
-          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
-        },
-        {
-          "name": "Talking Dirty",
-          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
-        }
-      ],
-      "duration_ms": 195483,
-      "name": "Back to Beginning",
-      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Tempos Modernos",
         "url": "https://open.spotify.com/album/63zhf4PV2rfoHI0kdk7W5s"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 215104,
       "name": "Tempos Modernos",
       "url": "https://open.spotify.com/track/2crmkMh5RfynAf9EqeMzJl"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Back to Beginning",
+        "url": "https://open.spotify.com/album/7Fdhev6cQwBDr5Ltzjd30y"
+      },
+      "artists": [
+        {
+          "name": "Breno Miranda",
+          "url": "https://open.spotify.com/artist/1BEwyy7IePkvyJpA1WSw1n"
+        },
+        {
+          "name": "Talking Dirty",
+          "url": "https://open.spotify.com/artist/3l1agGuc0wq5zfM9vxpKOA"
+        }
+      ],
+      "duration_ms": 195483,
+      "name": "Back to Beginning",
+      "url": "https://open.spotify.com/track/41eaKf8b9CVYOaBMOZ5GDX"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -879,6 +879,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Pumped up Kicks (feat. Joy Corporation)",
+        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
+      },
+      "artists": [
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        },
+        {
+          "name": "Joy Corporation",
+          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
+        }
+      ],
+      "duration_ms": 342360,
+      "name": "Pumped up Kicks (feat. Joy Corporation)",
+      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Halfway (feat. Twan Ray)",
         "url": "https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1"
       },
@@ -903,46 +923,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Pumped up Kicks (feat. Joy Corporation)",
-        "url": "https://open.spotify.com/album/5E7pK7dGQqeXnG5HfFHBUO"
+        "name": "Youngr",
+        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
       },
       "artists": [
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
         },
         {
-          "name": "Joy Corporation",
-          "url": "https://open.spotify.com/artist/22DpF66KIdKHmy1IvzEZXc"
+          "name": "Shaun Jacobs",
+          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
         }
       ],
-      "duration_ms": 342360,
-      "name": "Pumped up Kicks (feat. Joy Corporation)",
-      "url": "https://open.spotify.com/track/5xSGWKadCR6lZu68cVkrLI"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "It's Your Life",
-        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "ADORA",
-          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
-        },
-        {
-          "name": "Marina Diniz",
-          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
-        }
-      ],
-      "duration_ms": 160909,
-      "name": "It's Your Life",
-      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
+      "duration_ms": 175204,
+      "name": "Youngr",
+      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -983,42 +979,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Youngr",
-        "url": "https://open.spotify.com/album/6fQblFsVP8G1oZuRn6F3fz"
+        "name": "It's Your Life",
+        "url": "https://open.spotify.com/album/1WqhtgNg8RsHbErNKCsNd8"
       },
       "artists": [
         {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
         },
         {
-          "name": "Shaun Jacobs",
-          "url": "https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP"
-        }
-      ],
-      "duration_ms": 175204,
-      "name": "Youngr",
-      "url": "https://open.spotify.com/track/29q1t40crnI8D5tLGYMgn8"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Bem Melhor (KVSH Remix)",
-        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
-      },
-      "artists": [
-        {
-          "name": "Lagum",
-          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+          "name": "ADORA",
+          "url": "https://open.spotify.com/artist/0Ymiodu1YzvWwqq528sWiW"
         },
         {
-          "name": "KVSH",
-          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+          "name": "Marina Diniz",
+          "url": "https://open.spotify.com/artist/7si2hPcnjzQsHJHIa8pNqy"
         }
       ],
-      "duration_ms": 183431,
-      "name": "Bem Melhor - KVSH Remix",
-      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
+      "duration_ms": 160909,
+      "name": "It's Your Life",
+      "url": "https://open.spotify.com/track/3PctkXl7b63vh1TixH00IF"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1043,6 +1023,26 @@
       "duration_ms": 160645,
       "name": "Free My Mind",
       "url": "https://open.spotify.com/track/0zzvDzEAaIXUYG97UO9iVB"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Bem Melhor (KVSH Remix)",
+        "url": "https://open.spotify.com/album/4uytEVyrbKnXwcz0Jxj7rZ"
+      },
+      "artists": [
+        {
+          "name": "Lagum",
+          "url": "https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD"
+        },
+        {
+          "name": "KVSH",
+          "url": "https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB"
+        }
+      ],
+      "duration_ms": 183431,
+      "name": "Bem Melhor - KVSH Remix",
+      "url": "https://open.spotify.com/track/76m2MiAKQvoHsgvwRDPXx5"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1091,6 +1091,26 @@
       "duration_ms": 156000,
       "name": "Hey (Na Na Na)",
       "url": "https://open.spotify.com/track/5eYHuFukR95qj8s3Q3YEfQ"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Somebody That You Loved",
+        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "New Hope Club",
+          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
+        }
+      ],
+      "duration_ms": 215998,
+      "name": "Somebody That You Loved",
+      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1155,26 +1175,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Somebody That You Loved",
-        "url": "https://open.spotify.com/album/2hZK1aGxPqE8XMyUK8bV79"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "New Hope Club",
-          "url": "https://open.spotify.com/artist/2WuKU0SYZOQyY3MmE4vtez"
-        }
-      ],
-      "duration_ms": 215998,
-      "name": "Somebody That You Loved",
-      "url": "https://open.spotify.com/track/2x6kFL5AIIwacxHySO4mXP"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -1195,30 +1195,6 @@
       "duration_ms": 203225,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1247,6 +1223,30 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Take You Dancing (Bruno Martini Remix)",
         "url": "https://open.spotify.com/album/3bWegmQDm4N1Mvbc2DYWYq"
       },
@@ -1263,6 +1263,26 @@
       "duration_ms": 152400,
       "name": "Take You Dancing - Bruno Martini Remix",
       "url": "https://open.spotify.com/track/4yWp3mTUYrzlqazZ588IQh"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "I Do (with Zeeba)",
+        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
+      },
+      "artists": [
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "I Do - with Zeeba",
+      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1327,42 +1347,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
-        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
+        "name": "Toda Forma De Amor (Remix)",
+        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Make U Sweat",
+          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
         },
         {
-          "name": "Double MZK",
-          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
+          "name": "Lulu Santos",
+          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
         }
       ],
-      "duration_ms": 209032,
-      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
-      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "I Do (with Zeeba)",
-        "url": "https://open.spotify.com/album/1m1opaakLIL6TzL7NjFhso"
-      },
-      "artists": [
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "I Do - with Zeeba",
-      "url": "https://open.spotify.com/track/6lgLLgwC7vKguYUPSszMNt"
+      "duration_ms": 228661,
+      "name": "Toda Forma De Amor - Remix",
+      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1387,22 +1387,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Toda Forma De Amor (Remix)",
-        "url": "https://open.spotify.com/album/6JrcGklaPVSgStFMVr1D80"
+        "name": "Fiz Esse Som Pra Voc\u00ea (Double MZK Remix)",
+        "url": "https://open.spotify.com/album/2XCHq2MObCG83E7w3umWCT"
       },
       "artists": [
         {
-          "name": "Make U Sweat",
-          "url": "https://open.spotify.com/artist/2REtZ0a1gh5LzXswkSkQUp"
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
         },
         {
-          "name": "Lulu Santos",
-          "url": "https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1"
+          "name": "Double MZK",
+          "url": "https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI"
         }
       ],
-      "duration_ms": 228661,
-      "name": "Toda Forma De Amor - Remix",
-      "url": "https://open.spotify.com/track/5OUcQYbAwl4uKlVqnTqs2C"
+      "duration_ms": 209032,
+      "name": "Fiz Esse Som Pra Voc\u00ea - Double MZK Remix",
+      "url": "https://open.spotify.com/track/2HI7WY6XIzVB47espl3Sho"
     },
     {
       "added_at": "2022-08-12 03:01:00",

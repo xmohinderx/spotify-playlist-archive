@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: ナツノセ
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,807 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,907 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 15 | [ソーイングボックス](https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソーイングボックス](https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH) | 3:14 |
 | 16 | [君は1000%](https://open.spotify.com/track/1T7haUkaqLJlmA4DebnUid) | [Philosophy no Dance](https://open.spotify.com/artist/2DUhXuCbn5RWAkRaKh8qaA) | [君は1000%](https://open.spotify.com/album/334Z6PwqlDMtJTmDIOAydr) | 4:17 |
 | 17 | [KILL MY LOVE](https://open.spotify.com/track/31wCHE3Y7fdJ9uFmxiAT8R) | [Miliyah](https://open.spotify.com/artist/29D4iRqjepAsZt6o5hccND) | [KILL MY LOVE](https://open.spotify.com/album/2jwUQ6x94q40rxTjE3uGMl) | 3:24 |
-| 18 | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/track/0d36v6tmmUuB9rfd27exK2) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [荒田 洸](https://open.spotify.com/artist/5XIm5lvQ9sl3aZ9RuvZT2q) | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/album/14yU1vwz25pnmQOBJWqJLZ) | 3:37 |
+| 18 | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/track/0d36v6tmmUuB9rfd27exK2) | [Cody・Lee\(李\)](https://open.spotify.com/artist/6ccfWQCLB9Gu3caY9gR5dX), [Hikaru Arata](https://open.spotify.com/artist/33JXrDOZ1iA1XlDF2dRgTO) | [冷やしネギ蕎麦 \- Hikaru Arata Remix](https://open.spotify.com/album/14yU1vwz25pnmQOBJWqJLZ) | 3:37 |
 | 19 | [Disco Revenge](https://open.spotify.com/track/4U4refyIcriFQ4LqwfzacM) | [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [AZK](https://open.spotify.com/artist/2sLu25h7FN3IoNikCXI6Py) | [Disco Revenge](https://open.spotify.com/album/4XLKv50XufwkcT65xIudP6) | 3:52 |
 | 20 | [Highway Mermaid](https://open.spotify.com/track/2OXTYCC3pYp9AZFLgiSo9a) | [Flehmann](https://open.spotify.com/artist/6CS7u71o5OYHPuPMr07HBZ), [乙夏れい](https://open.spotify.com/artist/13A2zlhby8WlHZBG5VV1II), [蛯名めぐみ](https://open.spotify.com/artist/2PCEufZ0gJlHaez7XDjGxY) | [Highway Mermaid](https://open.spotify.com/album/5m8BMLj8iQu4VYCLPfspZX) | 3:22 |
 | 21 | [Do the Dive](https://open.spotify.com/track/4xw5O13YjHdY2uR1GhnV49) | [Call of Artemis](https://open.spotify.com/artist/3ImdLg693SdamxDHeeGfIE) | [Do the Dive](https://open.spotify.com/album/7mRJ2vzyQtbeFgG8NbLV0c) | 4:21 |

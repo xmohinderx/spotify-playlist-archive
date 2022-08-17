@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW?si=Kmxsq9l5Tt6XNwkuZgT0TA"> Ajebutter22 </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,665 likes - 80 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,692 likes - 80 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 16 | [Love Essential](https://open.spotify.com/track/3QH5Rlesc32hP28jRmdMap) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [Providence](https://open.spotify.com/album/6y0Jfh7dZgzKcxM2hP7PgF) | 4:00 |
 | 17 | [African Time](https://open.spotify.com/track/2kaxM3zSREw6OTI8CfvPvw) | [Chop Life Crew](https://open.spotify.com/artist/3nqzRwaPGt1NTRCddyBgbx), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J), [BIGBADCUBIX](https://open.spotify.com/artist/1GELLxVWAS9XreDsfkUd2y), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [African Time](https://open.spotify.com/album/1vIUwx8LXg1Jl42opYf88Z) | 2:47 |
 | 18 | [CHERRY SWEET](https://open.spotify.com/track/1B3h5EIwLDMtubHLu3edCM) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [CHERRY SWEET](https://open.spotify.com/album/1iu9wqIVEQ2cm20mO6DmvG) | 2:10 |
-| 19 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
+| 19 | [I Got You](https://open.spotify.com/track/7vF63z20Gyd0oZU8jYqGgX) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sounds of My World \(Deluxe\)](https://open.spotify.com/album/3enpMKYHm54sPooLM6heYY) | 2:32 |
 | 20 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 |
 | 21 | [less is more](https://open.spotify.com/track/6PSivAJERaHuvJqOaJ2XYh) | [95ANTNY](https://open.spotify.com/artist/6PQLGYWDUljiFCQlltL4Cw) | [less is more](https://open.spotify.com/album/2YRR2wZ8cz6nDHeUUfW5BI) | 2:36 |
 | 22 | [Freaky](https://open.spotify.com/track/2M6ZyWCt6jS9SUrPu92vO0) | [Tena Tenpo](https://open.spotify.com/artist/6t5xnCosOLmlmQG9ZqnUJN), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Vibes Alive](https://open.spotify.com/album/2YwwLFpGxbbyb4HYnRiB67) | 2:50 |

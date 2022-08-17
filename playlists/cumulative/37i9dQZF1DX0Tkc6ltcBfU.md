@@ -4,7 +4,7 @@
 
 > The hottest out the south\. Cover: EST Gee
 
-365 songs - 17 hr 28 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
+366 songs - 17 hr 30 min - [published](https://open.spotify.com/playlist/2CHiCkE2iALYQLydnfqfDa)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [I'M ON ONE \(feat\. Drake\)](https://open.spotify.com/track/6cIWZnJZidKcqGuArAUABr) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [I NEVER LIKED YOU](https://open.spotify.com/album/6ViO9Wx6dWzeUq6DmGTaHl) | 3:56 | 2022-05-27 | 2022-08-06 |
 | [If These Walls Could Talk](https://open.spotify.com/track/4yt9MUm0zxEgx6m0Nml7M9) | [K CAMP](https://open.spotify.com/artist/5bgfj5zUoWpyeVatGDjn6H) | [Vibe Forever](https://open.spotify.com/album/5ZrM0Brv8XBs3XVHfkd6bk) | 3:02 | 2022-07-29 | 2022-08-06 |
 | [Ima Show You \(feat\. Kodak Black\)](https://open.spotify.com/track/37ZFehRNEA0w6rHnuIzHef) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [CM10: Free Game](https://open.spotify.com/album/5IX0jXUhnaOyc7uqJi5DCT) | 2:29 | 2022-02-04 | 2022-02-19 |
-| [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-05 |  |
+| [Immaculate](https://open.spotify.com/track/410UDoEH2wjORG5PeUVBG3) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO) | [Immaculate](https://open.spotify.com/album/26keyzFJ18ax1zFybUPOHg) | 3:00 | 2022-08-05 | 2022-08-17 |
 | [Impala](https://open.spotify.com/track/7EgThh6AbBM6nWs4XOPx2T) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [EA Monster](https://open.spotify.com/album/3yXJ8SlRNl2epdhlQCaewE) | 3:05 | 2022-08-12 |  |
 | [In A Minute](https://open.spotify.com/track/3ihIZrJreMJPjQdNLrEXnP) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [In A Minute](https://open.spotify.com/album/3PZTFPQhr0vHnYGwFUvQco) | 3:20 | 2022-04-08 | 2022-07-23 |
 | [Intro](https://open.spotify.com/track/616GCCMUU7QADlWJIYFfOl) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [Intro](https://open.spotify.com/album/2cASinTpkHHvXYNKm1Jqbe) | 3:30 | 2022-06-10 | 2022-06-18 |
@@ -346,6 +346,7 @@
 | [Vulture Island](https://open.spotify.com/track/7FfFdw6GlRT2cZ06uil4Y8) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB) | [Vulture Island](https://open.spotify.com/album/4SwOxtIysNbF8N4jCkQSGR) | 2:15 | 2022-03-16 | 2022-03-26 |
 | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/track/517rsPDbVf4yTZA2wtStRT) | [Rob49](https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Vulture Island V2 \(with Lil Baby\)](https://open.spotify.com/album/1z4EajqJadYSpvJw9yQzFb) | 3:29 | 2022-03-25 | 2022-05-14 |
 | [WAIT FOR U \(feat\. Drake & Tems\)](https://open.spotify.com/track/59nOXPmaKlBfGMDeOVGrIK) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [I NEVER LIKED YOU](https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL) | 3:09 | 2022-04-29 | 2022-05-14 |
+| [WAITRESS](https://open.spotify.com/track/6I5DkMtgMjN6k270nRwNEl) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [WAITRESS](https://open.spotify.com/album/6VIsocCK7mDklr0V3UouGZ) | 2:12 | 2022-08-16 |  |
 | [Walk The Line](https://open.spotify.com/track/2s8Od2lfFMtwMoGKJIYDE9) | [Quin Nfn](https://open.spotify.com/artist/3M1quhETLChtt9NHKVaajX) | [Walk The Line](https://open.spotify.com/album/238hxIpTZmLmDhG0Msp1CN) | 3:22 | 2022-03-11 | 2022-04-16 |
 | [Walkin](https://open.spotify.com/track/646sbFnyVg1trhqqxqFUJg) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Walkin](https://open.spotify.com/album/71o4vJ8Jvn43iSqidJGDhO) | 4:40 | 2022-01-28 | 2022-02-12 |
 | [Walkin \- Key Glock remix](https://open.spotify.com/track/5GJS3CY3aqbT9j2lv434aQ) | [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV), [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Walkin \(Key Glock remix\)](https://open.spotify.com/album/4eaBgTvANMYXbm9i1Vyx3q) | 3:46 | 2022-06-03 | 2022-06-18 |

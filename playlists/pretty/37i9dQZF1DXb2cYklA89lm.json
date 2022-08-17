@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 142975,
+  "num_followers": 143052,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGQ0MDQ0OGY4YTEwYWJkY2Y2ZTE0ZGQ5OWQ2MDI0YTA4",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGZhNDkzM2Q2NGZkMjJmYTJlODBlOTNiMjI4YzNkZWIw",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -319,6 +319,22 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Necrophaze",
+        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
+      },
+      "artists": [
+        {
+          "name": "Wednesday 13",
+          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
+        }
+      ],
+      "duration_ms": 265144,
+      "name": "Decompose",
+      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Bail set at $6M",
         "url": "https://open.spotify.com/album/7KOJg4C1DjxJH5PM4waUSL"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 144120,
       "name": "The Way Of The Road",
       "url": "https://open.spotify.com/track/0hRw07bcnbOUhlLHem7Bs9"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Necrophaze",
-        "url": "https://open.spotify.com/album/6PsN3csRxymw0Qoykup69Q"
-      },
-      "artists": [
-        {
-          "name": "Wednesday 13",
-          "url": "https://open.spotify.com/artist/6Cvzf33JDzCIw2eJU8npQo"
-        }
-      ],
-      "duration_ms": 265144,
-      "name": "Decompose",
-      "url": "https://open.spotify.com/track/6NexeDn8Jgd0q5owW8EgLi"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Yet Not Human",
-        "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
+        "name": "Decade of Decay \u2013 the Gravest Hits of Bzfos",
+        "url": "https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE"
       },
       "artists": [
         {
-          "name": "The Crimson Ghosts",
-          "url": "https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam"
+          "name": "Bloodsucking Zombies from outer Space",
+          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
         }
       ],
-      "duration_ms": 185958,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
+      "duration_ms": 227120,
+      "name": "Monster Mutant Boogie",
+      "url": "https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -463,18 +463,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Decade of Decay \u2013 the Gravest Hits of Bzfos",
-        "url": "https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE"
+        "name": "Yet Not Human",
+        "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
       },
       "artists": [
         {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+          "name": "The Crimson Ghosts",
+          "url": "https://open.spotify.com/artist/23lnhRafqD5vQdQJbJ7Iam"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Monster Mutant Boogie",
-      "url": "https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS"
+      "duration_ms": 185958,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Be My End",
-        "url": "https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0"
-      },
-      "artists": [
-        {
-          "name": "Creeper",
-          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
-        }
-      ],
-      "duration_ms": 158545,
-      "name": "Be My End",
-      "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "All These Fiendish Things",
         "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
       },
@@ -643,18 +627,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Return of the Infamous Four",
-        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
+        "name": "Be My End",
+        "url": "https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0"
       },
       "artists": [
         {
-          "name": "Drunktank",
-          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
+          "name": "Creeper",
+          "url": "https://open.spotify.com/artist/0nV7SiEIVtPLTSJ6NwWDGj"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Army of Darkness",
-      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
+      "duration_ms": 158545,
+      "name": "Be My End",
+      "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -671,6 +655,22 @@
       "duration_ms": 212000,
       "name": "Ravenous",
       "url": "https://open.spotify.com/track/0bE5kTNR60mf4dvJPqJCf3"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Return of the Infamous Four",
+        "url": "https://open.spotify.com/album/4ePW478pYVQzQN8W4dXp9l"
+      },
+      "artists": [
+        {
+          "name": "Drunktank",
+          "url": "https://open.spotify.com/artist/2Gx4sbajIQU6u49ZsiTs3c"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Army of Darkness",
+      "url": "https://open.spotify.com/track/0ghMtg6NiAS0fsl3VvzN03"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -707,22 +707,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "In the Middle of the Night",
-        "url": "https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx"
-      },
-      "artists": [
-        {
-          "name": "Top Cats",
-          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
-        }
-      ],
-      "duration_ms": 187232,
-      "name": "In the Middle of the Night",
-      "url": "https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Big City Lights",
         "url": "https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 178000,
       "name": "Come A Little Closer",
       "url": "https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "In the Middle of the Night",
+        "url": "https://open.spotify.com/album/76Q0H0ikqxqaEl23HI5MBx"
+      },
+      "artists": [
+        {
+          "name": "Top Cats",
+          "url": "https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy"
+        }
+      ],
+      "duration_ms": 187232,
+      "name": "In the Middle of the Night",
+      "url": "https://open.spotify.com/track/1PV7W1c2eQzxgPepe0yFnO"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -803,18 +803,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Chills and Thrills in a Drama of Mad Sins and Mystery (Remastered)",
-        "url": "https://open.spotify.com/album/2Y2a0lq7MgirW3MR9zAsY5"
+        "name": "Songs of Unspeakable Terror",
+        "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
       },
       "artists": [
         {
-          "name": "Mad Sin",
-          "url": "https://open.spotify.com/artist/0KeXahyB2g6PPQMG7sImjB"
+          "name": "Bloody Hammers",
+          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
         }
       ],
-      "duration_ms": 117533,
-      "name": "2,3,4",
-      "url": "https://open.spotify.com/track/15YWK3AG7yvF2wZbYcD4PN"
+      "duration_ms": 202773,
+      "name": "Not of This Earth",
+      "url": "https://open.spotify.com/track/4TLiQQGJfY8ZA9dEw6ZvkG"
     }
   ],
   "unique_name": "Hot Rods & Horror Shows",

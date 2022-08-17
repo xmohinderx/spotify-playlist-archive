@@ -1,12 +1,12 @@
 {
   "description": "Where it all started. Cover: Cam'Ron",
-  "num_followers": 224771,
+  "num_followers": 224990,
   "original_name": "I Love My East Coast Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMGVmOTI1ZWUxMWM2Y2RmZDM5YmQ0NTkzN2VkNjIzY2Zm",
+  "snapshot_id": "MTY1NjY0ODAwMCwwMDAwMDAwMDdhYzRmMTYyNTJiM2U4YjNhODVmMDQ1NjUzMjQ4ZjVj",
   "tracks": [
     {
       "added_at": "2022-07-01 04:00:00",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-07-01 04:00:00",
       "album": {
+        "name": "Midnight Marauders",
+        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
+      },
+      "artists": [
+        {
+          "name": "A Tribe Called Quest",
+          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
+        }
+      ],
+      "duration_ms": 226440,
+      "name": "Award Tour",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
+    },
+    {
+      "added_at": "2022-07-01 04:00:00",
+      "album": {
         "name": "Ill Na Na",
         "url": "https://open.spotify.com/album/6qLC4weRVEetELyQQgkAMk"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 229400,
       "name": "Get Me Home",
       "url": "https://open.spotify.com/track/6Xo9osN1HErsEJoqwj4eDg"
-    },
-    {
-      "added_at": "2022-07-01 04:00:00",
-      "album": {
-        "name": "Midnight Marauders",
-        "url": "https://open.spotify.com/album/4v5x3Oo3UjQ9YmF3hRAip5"
-      },
-      "artists": [
-        {
-          "name": "A Tribe Called Quest",
-          "url": "https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa"
-        }
-      ],
-      "duration_ms": 226440,
-      "name": "Award Tour",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ"
     },
     {
       "added_at": "2022-07-01 04:00:00",

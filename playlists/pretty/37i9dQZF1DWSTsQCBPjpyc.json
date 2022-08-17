@@ -1,12 +1,12 @@
 {
   "description": "Blues meets funk. Cover: Eric Gales",
-  "num_followers": 12880,
+  "num_followers": 12933,
   "original_name": "Funky Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMDY3N2YzZmU0NGU3OWEyMTc0YTM0OWU5Y2I4OWE5ZmIy",
+  "snapshot_id": "MTY1OTY3MjEyMCwwMDAwMDAwMGJiN2E1NjljYWE3ZDY5ZGU1NTkxOWI5ZTcxN2VlMGVl",
   "tracks": [
     {
       "added_at": "2021-12-03 05:02:00",
@@ -129,22 +129,6 @@
       "url": "https://open.spotify.com/track/3mAiFmSq6tsZGBAZlpps4H"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Trilogy, Vol. 1",
-        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
-      },
-      "artists": [
-        {
-          "name": "Ana Popovic",
-          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "She Was a Doorman",
-      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
-    },
-    {
       "added_at": "2021-10-01 04:02:00",
       "album": {
         "name": "Promised Land",
@@ -163,6 +147,22 @@
       "duration_ms": 181939,
       "name": "Going to the Party",
       "url": "https://open.spotify.com/track/3NNMGuWv9mKJLU1ETp0BBR"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Trilogy, Vol. 1",
+        "url": "https://open.spotify.com/album/7M78ou62qwyei46ZvdPorP"
+      },
+      "artists": [
+        {
+          "name": "Ana Popovic",
+          "url": "https://open.spotify.com/artist/5kPUAJihniO5WfEfbOCjLf"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "She Was a Doorman",
+      "url": "https://open.spotify.com/track/1CgGro1rXhkxs7LviofPyT"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -269,22 +269,6 @@
       "url": "https://open.spotify.com/track/1zzQeiehbYBPf6MmaM4Cli"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 292800,
-      "name": "You're Losin' Me",
-      "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
-    },
-    {
       "added_at": "2021-04-23 04:01:00",
       "album": {
         "name": "Stranger Blues (feat. Dashawn Hickman)",
@@ -307,6 +291,22 @@
       "duration_ms": 176722,
       "name": "Stranger Blues (feat. Dashawn Hickman)",
       "url": "https://open.spotify.com/track/6oHfxmYHneus7uI1iAZlwb"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 292800,
+      "name": "You're Losin' Me",
+      "url": "https://open.spotify.com/track/0DID8Ir6yeko5KoXCXwOnL"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -437,22 +437,6 @@
       "url": "https://open.spotify.com/track/6BouDfZTJhdO9E0RnwyvV0"
     },
     {
-      "added_at": "2022-02-18 05:02:00",
-      "album": {
-        "name": "Break on Free",
-        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
-      },
-      "artists": [
-        {
-          "name": "St. Paul Peterson",
-          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
-        }
-      ],
-      "duration_ms": 252226,
-      "name": "Break on Free",
-      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
-    },
-    {
       "added_at": "2022-01-21 05:02:00",
       "album": {
         "name": "I Want My Crown",
@@ -471,6 +455,22 @@
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2a1BbbIpOE0YBxLgejQNDU"
+    },
+    {
+      "added_at": "2022-02-18 05:02:00",
+      "album": {
+        "name": "Break on Free",
+        "url": "https://open.spotify.com/album/4fYRseEdyv48HevS4XnNtM"
+      },
+      "artists": [
+        {
+          "name": "St. Paul Peterson",
+          "url": "https://open.spotify.com/artist/6oFjk6cifvMQN7Gl4hPcva"
+        }
+      ],
+      "duration_ms": 252226,
+      "name": "Break on Free",
+      "url": "https://open.spotify.com/track/3bgTnGXXofWoZG4Vf1bgwX"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/5Pj5FDwnQkGzd3iDYxeaLW"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Talk It Over",
-        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
-      },
-      "artists": [
-        {
-          "name": "Lonnie Brooks",
-          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
-        }
-      ],
-      "duration_ms": 356773,
-      "name": "Greasy Man",
-      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
-    },
-    {
       "added_at": "2022-01-28 05:00:00",
       "album": {
         "name": "Crown",
@@ -633,20 +617,20 @@
       "url": "https://open.spotify.com/track/68c1MV92ptINojyzzheUJu"
     },
     {
-      "added_at": "2022-01-21 05:02:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "Never Giving Up on You",
-        "url": "https://open.spotify.com/album/0mhW46PwYVHV1ZXfUGMDXm"
+        "name": "Let's Talk It Over",
+        "url": "https://open.spotify.com/album/2rwVXn5G7TueG7w3wyQXZ8"
       },
       "artists": [
         {
-          "name": "8 Ball Aitken",
-          "url": "https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78"
+          "name": "Lonnie Brooks",
+          "url": "https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog"
         }
       ],
-      "duration_ms": 187306,
-      "name": "Never Giving Up on You",
-      "url": "https://open.spotify.com/track/1EKcUQUFKDjULNdBs74Sco"
+      "duration_ms": 356773,
+      "name": "Greasy Man",
+      "url": "https://open.spotify.com/track/2Izextri7Ho1xu0mvVZcpI"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -663,6 +647,22 @@
       "duration_ms": 247640,
       "name": "Stop On By",
       "url": "https://open.spotify.com/track/3nqj5Fx7sbZBkTIuCoRjGN"
+    },
+    {
+      "added_at": "2022-01-21 05:02:00",
+      "album": {
+        "name": "Never Giving Up on You",
+        "url": "https://open.spotify.com/album/0mhW46PwYVHV1ZXfUGMDXm"
+      },
+      "artists": [
+        {
+          "name": "8 Ball Aitken",
+          "url": "https://open.spotify.com/artist/1LLlMQFnYUd7M9H7dYLR78"
+        }
+      ],
+      "duration_ms": 187306,
+      "name": "Never Giving Up on You",
+      "url": "https://open.spotify.com/track/1EKcUQUFKDjULNdBs74Sco"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -697,6 +697,26 @@
       "url": "https://open.spotify.com/track/3qdcSUX3d8iG6K3zyyR5ny"
     },
     {
+      "added_at": "2022-01-28 05:00:00",
+      "album": {
+        "name": "Crown",
+        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
+      },
+      "artists": [
+        {
+          "name": "Eric Gales",
+          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
+        },
+        {
+          "name": "LaDonna Gales",
+          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
+        }
+      ],
+      "duration_ms": 183520,
+      "name": "Take Me Just As I Am",
+      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
+    },
+    {
       "added_at": "2020-12-01 05:01:00",
       "album": {
         "name": "Iceman",
@@ -727,6 +747,22 @@
       "duration_ms": 193106,
       "name": "Bad Axe",
       "url": "https://open.spotify.com/track/1HZ2vpt77v6yycE41O1jV6"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
+        "name": "Let's Roll",
+        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
+      },
+      "artists": [
+        {
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+        }
+      ],
+      "duration_ms": 210773,
+      "name": "Lie No Better",
+      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
     },
     {
       "added_at": "2021-04-23 04:01:00",
@@ -763,42 +799,6 @@
       "duration_ms": 279460,
       "name": "Give It Back",
       "url": "https://open.spotify.com/track/2gvv5ad4yRlJd9UqRgHGn8"
-    },
-    {
-      "added_at": "2022-01-28 05:00:00",
-      "album": {
-        "name": "Crown",
-        "url": "https://open.spotify.com/album/0Ckul9E2gtpvm9RpXrp54i"
-      },
-      "artists": [
-        {
-          "name": "Eric Gales",
-          "url": "https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV"
-        },
-        {
-          "name": "LaDonna Gales",
-          "url": "https://open.spotify.com/artist/5qolIJGqHqYn1a1igndmgV"
-        }
-      ],
-      "duration_ms": 183520,
-      "name": "Take Me Just As I Am",
-      "url": "https://open.spotify.com/track/2BR8UJjWRQBAuvBFUqInok"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Let's Roll",
-        "url": "https://open.spotify.com/album/58JJWoAHtiThhhF3F2ZM0Z"
-      },
-      "artists": [
-        {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
-        }
-      ],
-      "duration_ms": 210773,
-      "name": "Lie No Better",
-      "url": "https://open.spotify.com/track/4RTn8aGxp5qNCTVgjLeaco"
     },
     {
       "added_at": "2020-12-01 05:01:00",

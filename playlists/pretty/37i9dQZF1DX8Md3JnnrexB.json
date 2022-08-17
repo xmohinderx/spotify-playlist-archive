@@ -1,12 +1,12 @@
 {
   "description": "Laid back soul music.",
-  "num_followers": 181858,
+  "num_followers": 181916,
   "original_name": "Soulful Blend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMGVjNWY5YmU3ZGMzNWJhMTg5ZWM3NjhmYjBiMTcxODRh",
+  "snapshot_id": "MTY1MjI3MTkxOCwwMDAwMDAwMGNiZDM0ZmFlZDM3YmJlOTdmYjFlNGE4YTAwMmIwODc0",
   "tracks": [
     {
       "added_at": "2022-05-11 12:25:18",
@@ -467,6 +467,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Lean on Me: The Best of Bill Withers",
+        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 255066,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 383502,
       "name": "How Can You Mend a Broken Heart",
       "url": "https://open.spotify.com/track/6lUXneXZ9jc3HSMHgd8oqh"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Lean on Me: The Best of Bill Withers",
-        "url": "https://open.spotify.com/album/0XmgSYx9bj4sqpcXVgKs2C"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 255066,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0ACACkoHUwgfgY5CxVIL4N"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -679,18 +679,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Just As I Am",
-        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+        "name": "2 Hot!",
+        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
       },
       "artists": [
         {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+          "name": "Peaches & Herb",
+          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
         }
       ],
-      "duration_ms": 121080,
-      "name": "Grandma's Hands",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+      "duration_ms": 345240,
+      "name": "Reunited",
+      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -711,6 +711,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Just As I Am",
+        "url": "https://open.spotify.com/album/6N8uPmDqbgXD3ztkCCfxoo"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 121080,
+      "name": "Grandma's Hands",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Feel Like Makin' Love",
         "url": "https://open.spotify.com/album/3eOdBKYQ2w2eCvz2FxEmBA"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "2 Hot!",
-        "url": "https://open.spotify.com/album/1MzEdKoD6mxji2q7k3rRcw"
+        "name": "Spinners",
+        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
       },
       "artists": [
         {
-          "name": "Peaches & Herb",
-          "url": "https://open.spotify.com/artist/6qI4LTzMRpTxRzMZPvv2C6"
+          "name": "The Spinners",
+          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
         }
       ],
-      "duration_ms": 345240,
-      "name": "Reunited",
-      "url": "https://open.spotify.com/track/7wbPfd2mXbStoZZSnHNd2V"
+      "duration_ms": 249733,
+      "name": "Could It Be I'm Falling in Love",
+      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -755,22 +771,6 @@
       "duration_ms": 215386,
       "name": "Baby, Come To Me",
       "url": "https://open.spotify.com/track/65bvH7egzl7h9f7uJmqGV4"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Spinners",
-        "url": "https://open.spotify.com/album/6QVemXFGMR4OLvlXvtQVjg"
-      },
-      "artists": [
-        {
-          "name": "The Spinners",
-          "url": "https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5"
-        }
-      ],
-      "duration_ms": 249733,
-      "name": "Could It Be I'm Falling in Love",
-      "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Love To The World",
+        "url": "https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0"
+      },
+      "artists": [
+        {
+          "name": "L.T.D.",
+          "url": "https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ"
+        }
+      ],
+      "duration_ms": 275226,
+      "name": "Love Ballad",
+      "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "In Your Eyes",
         "url": "https://open.spotify.com/album/4QZ7wq0y0io4KdNDqF81y8"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 292733,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/3xvcFlh6hHqxyiAFkqpsjZ"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Love To The World",
-        "url": "https://open.spotify.com/album/5WzRUGjYSwLljGPn6ceeg0"
-      },
-      "artists": [
-        {
-          "name": "L.T.D.",
-          "url": "https://open.spotify.com/artist/0H4sfMNK9hoasHItAgD1kJ"
-        }
-      ],
-      "duration_ms": 275226,
-      "name": "Love Ballad",
-      "url": "https://open.spotify.com/track/3iCbTmcXnKlRZCdaYOukxq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Soul Organic (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
-      },
-      "artists": [
-        {
-          "name": "Hil St. Soul",
-          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
-        }
-      ],
-      "duration_ms": 188573,
-      "name": "Until You Come Back To Me - Acoustic Version",
-      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "High Crime",
         "url": "https://open.spotify.com/album/2Di5iUantEOvmpSg5cXoYs"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 259532,
       "name": "After All",
       "url": "https://open.spotify.com/track/5g5EdgkfKVUceOTJtm0Kel"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Soul Organic (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/5LSIUNn84sL3UuisPPXxpI"
+      },
+      "artists": [
+        {
+          "name": "Hil St. Soul",
+          "url": "https://open.spotify.com/artist/7bYgUzgUILyzwkf6RHZf9J"
+        }
+      ],
+      "duration_ms": 188573,
+      "name": "Until You Come Back To Me - Acoustic Version",
+      "url": "https://open.spotify.com/track/35mRESJIDfi2nldzebPTmb"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Original Musiquarium",
-        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 337066,
-      "name": "Ribbon In The Sky",
-      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Rit, Vol. 1",
         "url": "https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 269653,
       "name": "Is It You",
       "url": "https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Original Musiquarium",
+        "url": "https://open.spotify.com/album/2g9Ij40DD7aPaG4hwa8Uab"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 337066,
+      "name": "Ribbon In The Sky",
+      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Songs That Made Me Feel",
         "url": "https://open.spotify.com/album/33gccIRFhCKITqneWpwyVb"
       },
@@ -1475,22 +1491,6 @@
       "duration_ms": 255986,
       "name": "Distant Lover",
       "url": "https://open.spotify.com/track/5Xt3RUiOkiH2pGYtMTVeNS"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1599,6 +1599,38 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 226493,
+      "name": "Too Hot - Single Version",
+      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Nothing Without You",
+        "url": "https://open.spotify.com/album/3xvYm9ncK7ihqXVfAjsWEr"
+      },
+      "artists": [
+        {
+          "name": "Smokie Norful",
+          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
+        }
+      ],
+      "duration_ms": 246466,
+      "name": "I Understand",
+      "url": "https://open.spotify.com/track/28q2Y3ZTMLEUmzAt2XNhrw"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Every Kind Of Mood (Randy, Randi, Randee)",
         "url": "https://open.spotify.com/album/7k8alrD5roRXfp507P1u0X"
       },
@@ -1615,18 +1647,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+        "name": "Do Me Baby",
+        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Meli'sa Morgan",
+          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
         }
       ],
-      "duration_ms": 226493,
-      "name": "Too Hot - Single Version",
-      "url": "https://open.spotify.com/track/6eEbn2HNU18UFDMFpa6ARp"
+      "duration_ms": 317400,
+      "name": "Do Me Baby",
+      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1651,54 +1683,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Do Me Baby",
-        "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
-      },
-      "artists": [
-        {
-          "name": "Meli'sa Morgan",
-          "url": "https://open.spotify.com/artist/2YT6FujbjJP3ohD51eOZIV"
-        }
-      ],
-      "duration_ms": 317400,
-      "name": "Do Me Baby",
-      "url": "https://open.spotify.com/track/77Fs4XIB6489MG4cpNwBms"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Nothing Without You",
-        "url": "https://open.spotify.com/album/3xvYm9ncK7ihqXVfAjsWEr"
-      },
-      "artists": [
-        {
-          "name": "Smokie Norful",
-          "url": "https://open.spotify.com/artist/0sD8Amms4kSxs5tBV4CUmR"
-        }
-      ],
-      "duration_ms": 246466,
-      "name": "I Understand",
-      "url": "https://open.spotify.com/track/28q2Y3ZTMLEUmzAt2XNhrw"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Give Me the Night",
-        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
-      },
-      "artists": [
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 286960,
-      "name": "Love X Love",
-      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "A Woman Needs Love (Expanded Edition)",
         "url": "https://open.spotify.com/album/38993ejU6at3J4b0fxIien"
       },
@@ -1719,6 +1703,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Give Me the Night",
+        "url": "https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 286960,
+      "name": "Love X Love",
+      "url": "https://open.spotify.com/track/1Gnufs5iuI3h5ow29J7tOO"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "I'm In Love Again",
         "url": "https://open.spotify.com/album/2PcZjItgjHSkKFIiW44hHy"
       },
@@ -1731,22 +1731,6 @@
       "duration_ms": 285333,
       "name": "If Only You Knew",
       "url": "https://open.spotify.com/track/60kYnvU89eL92jJ3eQcPXq"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
-        "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
-      },
-      "artists": [
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 221426,
-      "name": "All My Life",
-      "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1767,18 +1751,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Dream Awake",
-        "url": "https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ"
+        "name": "Drew\u2019s Famous Presents Pop Hits Of The 80's & 90's",
+        "url": "https://open.spotify.com/album/6ogTqhiNpHqOcwHj5WvFUR"
       },
       "artists": [
         {
-          "name": "Black Atlass",
-          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
+          "name": "K-Ci & JoJo",
+          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
         }
       ],
-      "duration_ms": 203022,
-      "name": "Close Your Eyes",
-      "url": "https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk"
+      "duration_ms": 221426,
+      "name": "All My Life",
+      "url": "https://open.spotify.com/track/0HiHOHBdV0JCpSWxfVPVMq"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1799,18 +1783,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "The Very Best of Otis Redding",
-        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+        "name": "Dream Awake",
+        "url": "https://open.spotify.com/album/0dwlqqTeFovdI0oMN4dfYQ"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Black Atlass",
+          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
         }
       ],
-      "duration_ms": 195866,
-      "name": "I've Got Dreams to Remember",
-      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
+      "duration_ms": 203022,
+      "name": "Close Your Eyes",
+      "url": "https://open.spotify.com/track/20LWQNq7yaMPDhkZsRCoMk"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1827,6 +1811,22 @@
       "duration_ms": 255973,
       "name": "Your Smile",
       "url": "https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "The Very Best of Otis Redding",
+        "url": "https://open.spotify.com/album/28Pt7Q4ikXNPOEbtGnKlFA"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 195866,
+      "name": "I've Got Dreams to Remember",
+      "url": "https://open.spotify.com/track/4Ym0HjYfgEaUgjI3WuDqMK"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
-      },
-      "artists": [
-        {
-          "name": "Oleta Adams",
-          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
-        }
-      ],
-      "duration_ms": 333133,
-      "name": "New York State Of Mind",
-      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "TP (Expanded Edition)",
         "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
       },
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
-        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug"
       },
       "artists": [
         {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+          "name": "Oleta Adams",
+          "url": "https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g"
         }
       ],
-      "duration_ms": 254960,
-      "name": "A Change Is Gonna Come - Mono; 2008 Remaster",
-      "url": "https://open.spotify.com/track/2IkM8zrt6Y1F344CNfaDA0"
+      "duration_ms": 333133,
+      "name": "New York State Of Mind",
+      "url": "https://open.spotify.com/track/3tCLYifmzJhJHjUTTfPu0P"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1931,6 +1915,22 @@
       "duration_ms": 180523,
       "name": "Grow",
       "url": "https://open.spotify.com/track/3jPd7hIM0feCje8ZbVu6en"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Otis Blue: Otis Redding Sings Soul (Collector's Edition)",
+        "url": "https://open.spotify.com/album/68BCjMsHX4Gf11BJSkjwGz"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 254960,
+      "name": "A Change Is Gonna Come - Mono; 2008 Remaster",
+      "url": "https://open.spotify.com/track/2IkM8zrt6Y1F344CNfaDA0"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Al Wilson",
+        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
+      },
+      "artists": [
+        {
+          "name": "Al Wilson",
+          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "Show and Tell - Rerecorded",
+      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Gold - '80s Soul",
         "url": "https://open.spotify.com/album/30zetsnd9mENuaA47D6wcr"
       },
@@ -1975,18 +1991,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Al Wilson",
-        "url": "https://open.spotify.com/album/2xrGHzBY0WOamOq7t7mNvR"
+        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
       },
       "artists": [
         {
-          "name": "Al Wilson",
-          "url": "https://open.spotify.com/artist/2RwV62DIxFGEn8aWO3iaMM"
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
+        {
+          "name": "Sharon Paige",
+          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
         }
       ],
-      "duration_ms": 211786,
-      "name": "Show and Tell - Rerecorded",
-      "url": "https://open.spotify.com/track/1WXEEP03cUcXYp96MxAO2M"
+      "duration_ms": 316893,
+      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
+      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2019,26 +2039,6 @@
       "duration_ms": 276733,
       "name": "Get Here",
       "url": "https://open.spotify.com/track/1KT3ndndHOGXePgC4o0Jq9"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Wb0jUJH0wKwtqhfwoclU0"
-      },
-      "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
-        {
-          "name": "Sharon Paige",
-          "url": "https://open.spotify.com/artist/112QjqKDa4MQbs0FhOAgNk"
-        }
-      ],
-      "duration_ms": 316893,
-      "name": "You Know How to Make Me Feel so Good (feat. Sharon Paige)",
-      "url": "https://open.spotify.com/track/1OOT5tLOCpvg5VFZVeMYC5"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
+      },
+      "artists": [
+        {
+          "name": "Bebe & Cece Winans",
+          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
+        }
+      ],
+      "duration_ms": 254600,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "Brother, Brother, Brother",
         "url": "https://open.spotify.com/album/5gJBnLRkUtOjqsss6YA5XA"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 270253,
       "name": "Mine All Mine",
       "url": "https://open.spotify.com/track/3jM1W9APJx3dG61sd89IEp"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/10dbzUrxRpxkot3QENMGFV"
-      },
-      "artists": [
-        {
-          "name": "Bebe & Cece Winans",
-          "url": "https://open.spotify.com/artist/3WNUkxJcJeliFx9KXWXMgs"
-        }
-      ],
-      "duration_ms": 254600,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/6BOJ0nczgHMiklqraMDfMv"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2243,38 +2243,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Homegrown",
-        "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
-      },
-      "artists": [
-        {
-          "name": "VanJess",
-          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Come Over",
-      "url": "https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
-        "name": "Sparkle",
-        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 381826,
-      "name": "Something He Can Feel",
-      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "The Best Of The Stylistics and More 30th Anniversary Edition",
         "url": "https://open.spotify.com/album/0XCFf2EGPTZuIrDJeu7dPW"
       },
@@ -2287,6 +2255,22 @@
       "duration_ms": 211560,
       "name": "People Make The World Go Round",
       "url": "https://open.spotify.com/track/0JB6XDnV6U6M9U6j4VotoH"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Homegrown",
+        "url": "https://open.spotify.com/album/6D701PBk88ecP19udi4EJj"
+      },
+      "artists": [
+        {
+          "name": "VanJess",
+          "url": "https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Come Over",
+      "url": "https://open.spotify.com/track/4Jsqi44IrfUjdigUfZiaqr"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2327,6 +2311,22 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
+        "name": "Sparkle",
+        "url": "https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 381826,
+      "name": "Something He Can Feel",
+      "url": "https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
         "name": "The Best Of Atlantic Starr",
         "url": "https://open.spotify.com/album/31j5ZI5u1bMPFwdWWe7g6D"
       },
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "So Full Of Love",
-        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
+        "name": "Color Rit (Remastered)",
+        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
       },
       "artists": [
         {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+          "name": "Lee Ritenour",
+          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
         }
       ],
-      "duration_ms": 333453,
-      "name": "Cry Together",
-      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
+      "duration_ms": 256173,
+      "name": "I Can\u2019t Let Go - Remastered",
+      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2379,18 +2379,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Color Rit (Remastered)",
-        "url": "https://open.spotify.com/album/2POg8hhJjfzlSm95YmYTfQ"
+        "name": "So Full Of Love",
+        "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
       },
       "artists": [
         {
-          "name": "Lee Ritenour",
-          "url": "https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq"
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 256173,
-      "name": "I Can\u2019t Let Go - Remastered",
-      "url": "https://open.spotify.com/track/6mFrqPaHyaY4AcsYxHuD5G"
+      "duration_ms": 333453,
+      "name": "Cry Together",
+      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2427,22 +2427,6 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Life Is A Song Worth Singing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 360400,
-      "name": "It Don't Hurt Now",
-      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
-    },
-    {
-      "added_at": "2022-05-11 12:25:18",
-      "album": {
         "name": "Do Me Baby",
         "url": "https://open.spotify.com/album/6opbkbcP5zbRBF6nPDqrFg"
       },
@@ -2459,18 +2443,18 @@
     {
       "added_at": "2022-05-11 12:25:18",
       "album": {
-        "name": "Beautiful Ballads",
-        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+        "name": "Life Is A Song Worth Singing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw"
       },
       "artists": [
         {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 300226,
-      "name": "Love, Need and Want You",
-      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
+      "duration_ms": 360400,
+      "name": "It Don't Hurt Now",
+      "url": "https://open.spotify.com/track/3hyp18EIQAjAFqVAMcpCQJ"
     },
     {
       "added_at": "2022-05-11 12:25:18",
@@ -2507,6 +2491,22 @@
       "duration_ms": 260826,
       "name": "Wish That You Were Mine",
       "url": "https://open.spotify.com/track/19mXqYcLHY716cN53T1d1E"
+    },
+    {
+      "added_at": "2022-05-11 12:25:18",
+      "album": {
+        "name": "Beautiful Ballads",
+        "url": "https://open.spotify.com/album/3n1ns559FpWpj2A6tiVMW8"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 300226,
+      "name": "Love, Need and Want You",
+      "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
     }
   ],
   "unique_name": "Soulful Blend",

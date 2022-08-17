@@ -1,12 +1,12 @@
 {
   "description": "The feelings you can't put into words...only songs. Cover: Brent Faiyaz",
-  "num_followers": 32452,
+  "num_followers": 32542,
   "original_name": "Some Kinda Way",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMDgxNzk2MmMwMGNkODAwZDkxZWQ4ODA5MWU3YThmMWU5",
+  "snapshot_id": "MTY1OTc4MjY0MCwwMDAwMDAwMDk3ZTRkNGQyOTNjNjk3MGZkODZlNDNmYmM3ZjYwNTQ4",
   "tracks": [
     {
       "added_at": "2022-08-05 04:11:54",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/6TSO4hwz9WGrEUY7ABGVim"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "RENAISSANCE",
@@ -71,6 +55,22 @@
       "duration_ms": 254319,
       "name": "PLASTIC OFF THE SOFA",
       "url": "https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -247,26 +247,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Breezy",
-        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
-        }
-      ],
-      "duration_ms": 183133,
-      "name": "Closure (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Hate Our Love (with Big Sean)",
         "url": "https://open.spotify.com/album/5m7KrrURY0STYZGqmsupn7"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 226373,
       "name": "Hate Our Love (with Big Sean)",
       "url": "https://open.spotify.com/track/3pEINn37iH5fx8TpXYNGIO"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Breezy",
+        "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 183133,
+      "name": "Closure (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/4QZlnnZzr2ikWn4jdiyFfk"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134626,
-      "name": "Letter To Ur Ex",
-      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
         "name": "Another",
         "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 152175,
       "name": "Another",
       "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/45n9habqvk6ZLFxpGj2sjf"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134626,
+      "name": "Letter To Ur Ex",
+      "url": "https://open.spotify.com/track/2GoXtcbzgBUrvYv6ac7zA9"
     },
     {
       "added_at": "2022-08-05 04:11:54",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 153226,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "F.U.C.K.",
         "url": "https://open.spotify.com/album/5ECJ8Rfo3VvvGz7MeBfhFC"
       },
@@ -581,22 +597,6 @@
       "url": "https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "FRAUD",
-        "url": "https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ"
-      },
-      "artists": [
-        {
-          "name": "Jessie Reyez",
-          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
-        }
-      ],
-      "duration_ms": 180798,
-      "name": "FRAUD",
-      "url": "https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Playboy",
@@ -615,6 +615,54 @@
       "duration_ms": 195939,
       "name": "Compromise (feat. Rema)",
       "url": "https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "FRAUD",
+        "url": "https://open.spotify.com/album/78jOuuH40B0rTPFGheCaDQ"
+      },
+      "artists": [
+        {
+          "name": "Jessie Reyez",
+          "url": "https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P"
+        }
+      ],
+      "duration_ms": 180798,
+      "name": "FRAUD",
+      "url": "https://open.spotify.com/track/584KjOfo1Now26v5m3bTRm"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 264826,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
+    },
+    {
+      "added_at": "2022-08-05 04:11:54",
+      "album": {
+        "name": "Give Me Time",
+        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+      },
+      "artists": [
+        {
+          "name": "Zeina",
+          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+        }
+      ],
+      "duration_ms": 154702,
+      "name": "Give Me Time",
+      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -639,50 +687,34 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+        "name": "When It's All Said And Done",
+        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
       },
       "artists": [
         {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
         }
       ],
-      "duration_ms": 264826,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/6aQ7nlAEOhhRnsHi6eY0zT"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/69Ke0HAzE1LmRKssAojkwN"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 153226,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/51Q4Pn44Ys7D8GCNzVLDmg"
+      "duration_ms": 177445,
+      "name": "Still Your Best",
+      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
     },
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Give Me Time",
-        "url": "https://open.spotify.com/album/0ZRwY48ZOyL2xFE5lRWT3J"
+        "name": "COLORWAY",
+        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
       },
       "artists": [
         {
-          "name": "Zeina",
-          "url": "https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI"
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
         }
       ],
-      "duration_ms": 154702,
-      "name": "Give Me Time",
-      "url": "https://open.spotify.com/track/2Dc1QaoJm4RXo4QZXKGIK6"
+      "duration_ms": 136695,
+      "name": "IN THE AIR",
+      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -701,20 +733,20 @@
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
+      "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "When It's All Said And Done",
-        "url": "https://open.spotify.com/album/62Yd5v100Og1YZ7FNsGv9q"
+        "name": "Personal Baby",
+        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
       },
       "artists": [
         {
-          "name": "Giveon",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 177445,
-      "name": "Still Your Best",
-      "url": "https://open.spotify.com/track/2qvWsotNWTvRkwCksOnl92"
+      "duration_ms": 173646,
+      "name": "Personal Baby",
+      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -735,18 +767,18 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "COLORWAY",
-        "url": "https://open.spotify.com/album/4cGY0jqWYTCIPwQRXHgKvy"
+        "name": "The Lead",
+        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
       },
       "artists": [
         {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+          "name": "FLO",
+          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
         }
       ],
-      "duration_ms": 136695,
-      "name": "IN THE AIR",
-      "url": "https://open.spotify.com/track/4TLJNON6mZLpfZX3g4Oh8B"
+      "duration_ms": 201621,
+      "name": "Feature Me",
+      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -771,34 +803,22 @@
     {
       "added_at": "2022-08-05 04:11:54",
       "album": {
-        "name": "Personal Baby",
-        "url": "https://open.spotify.com/album/61F8DGdLWIG1JP4bm1Rzwd"
+        "name": "Hummingbird",
+        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
       },
       "artists": [
         {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 173646,
-      "name": "Personal Baby",
-      "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
-    },
-    {
-      "added_at": "2022-08-05 04:11:54",
-      "album": {
-        "name": "The Lead",
-        "url": "https://open.spotify.com/album/04wFsn459A8leDKrydRK56"
-      },
-      "artists": [
+          "name": "bLAck pARty",
+          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
+        },
         {
-          "name": "FLO",
-          "url": "https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 201621,
-      "name": "Feature Me",
-      "url": "https://open.spotify.com/track/1CcorUngVSo7k2GX8GLB53"
+      "duration_ms": 263360,
+      "name": "I Love You More Than You Know (feat. Childish Gambino)",
+      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -817,22 +837,6 @@
       "url": "https://open.spotify.com/track/38k5xUTekY8K6yVqHkbgIo"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Shea Butter Baby",
-        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 221441,
-      "name": "I Been",
-      "url": "https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp"
-    },
-    {
       "added_at": "2022-08-05 04:11:54",
       "album": {
         "name": "Candydrip",
@@ -849,24 +853,20 @@
       "url": "https://open.spotify.com/track/3cH7YI52JMcJrZIrJEJemU"
     },
     {
-      "added_at": "2022-08-05 04:11:54",
+      "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Hummingbird",
-        "url": "https://open.spotify.com/album/2apckYBgnWwcXC4e0OV1Vy"
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
       "artists": [
         {
-          "name": "bLAck pARty",
-          "url": "https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy"
-        },
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
         }
       ],
-      "duration_ms": 263360,
-      "name": "I Love You More Than You Know (feat. Childish Gambino)",
-      "url": "https://open.spotify.com/track/3xfz3yzwXhSQCSvJXoM7fY"
+      "duration_ms": 221441,
+      "name": "I Been",
+      "url": "https://open.spotify.com/track/4elUB6bs5rrPbqlajs1oYp"
     }
   ],
   "unique_name": "Some Kinda Way",

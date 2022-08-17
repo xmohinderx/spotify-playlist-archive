@@ -4,11 +4,12 @@
 
 > A collection of Hip Hop hits and viral trends featuring Lil Baby, Drake, Doechii &amp; more\. Updated weekly!  Cover: JID
 
-71 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
+72 songs - 4 hr 6 min - [published](https://open.spotify.com/playlist/2zScgyaDadcbUzlRPfgGJu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [03' Bonnie & Clyde](https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Blueprint 2 The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 3:25 | 2022-05-31 | 2022-08-12 |
+| [2ya](https://open.spotify.com/track/2nkmEaOsTtfdb5mNScJnWj) | [K.A.A.N.](https://open.spotify.com/artist/6WSTevYt4rGwm8QPKQr7dU) | [2ya](https://open.spotify.com/album/60GhGBIIfiYcGO9d3LMjdA) | 3:09 | 2022-08-16 |  |
 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 | 2022-05-31 |  |
 | [Ambition For Cash](https://open.spotify.com/track/4mIHgQ3ofK2RK34UdbqMbe) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape 2](https://open.spotify.com/album/7snqOEQEtKqxJw3NTGml6i) | 2:23 | 2022-05-31 |  |
 | [Balloons \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Bigger Than Life Or Death \(Deluxe\)](https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA) | 2:36 | 2022-05-31 |  |

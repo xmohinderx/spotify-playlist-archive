@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23907,
+  "num_followers": 23947,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDYwODM3NSwwMDAwMDAwMDEzODBiMjRiOWQ3NWE3YTMwYzNkZDdjMDNhZmVmNDk0",
+  "snapshot_id": "MTY2MDY5MjgxMCwwMDAwMDAwMDdiZmE5OGU5YzQ2YzNmMjJlZjM5YjVhYzFjNzIyOWNh",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -225,20 +225,20 @@
       "url": "https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+        "name": "Magia",
+        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
       },
       "artists": [
         {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+          "name": "Monogem",
+          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
         }
       ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+      "duration_ms": 199666,
+      "name": "Magia",
+      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
     },
     {
       "added_at": "2022-08-13 02:49:48",
@@ -261,20 +261,36 @@
       "url": "https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-07-13 15:48:37",
       "album": {
-        "name": "Magia",
-        "url": "https://open.spotify.com/album/2cs1QNUdl1o7r9wsZjWtf7"
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
       },
       "artists": [
         {
-          "name": "Monogem",
-          "url": "https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV"
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
         }
       ],
-      "duration_ms": 199666,
-      "name": "Magia",
-      "url": "https://open.spotify.com/track/4jMHWmtD14blSqbRhq2gjp"
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
+    },
+    {
+      "added_at": "2022-08-16 23:33:30",
+      "album": {
+        "name": "FR3N3S1",
+        "url": "https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lozano",
+          "url": "https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "FR3N3S1",
+      "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
     },
     {
       "added_at": "2022-04-22 18:06:01",
@@ -297,22 +313,6 @@
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "PSILOCIBINA",
-        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
-      },
-      "artists": [
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
-        }
-      ],
-      "duration_ms": 197493,
-      "name": "PSILOCIBINA",
-      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
-    },
-    {
       "added_at": "2022-05-27 19:08:44",
       "album": {
         "name": "EP II",
@@ -327,6 +327,22 @@
       "duration_ms": 223482,
       "name": "T\u00e1rtaro",
       "url": "https://open.spotify.com/track/0gH3JQ2qEulnQXmw8ig5U5"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "PSILOCIBINA",
+        "url": "https://open.spotify.com/album/1BcPj1Wvt5tvVGD1o7bj99"
+      },
+      "artists": [
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+        }
+      ],
+      "duration_ms": 197493,
+      "name": "PSILOCIBINA",
+      "url": "https://open.spotify.com/track/1Grn6fk4cXX55XoimiQ6iL"
     },
     {
       "added_at": "2022-01-17 15:56:36",
@@ -537,26 +553,6 @@
       "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
-      "added_at": "2022-02-18 20:16:34",
-      "album": {
-        "name": "Mira Bien",
-        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
-        }
-      ],
-      "duration_ms": 207386,
-      "name": "Mira Bien",
-      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
-    },
-    {
       "added_at": "2022-04-09 05:10:17",
       "album": {
         "name": "Mabanzo",
@@ -571,6 +567,38 @@
       "duration_ms": 291786,
       "name": "Alma Seca",
       "url": "https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9"
+    },
+    {
+      "added_at": "2022-02-18 20:16:34",
+      "album": {
+        "name": "Camino al Mar",
+        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+      },
+      "artists": [
+        {
+          "name": "Acid Coco",
+          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "So\u00f1ando",
+      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
+    },
+    {
+      "added_at": "2021-11-12 02:37:14",
+      "album": {
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2022-02-25 03:28:54",
@@ -593,20 +621,56 @@
       "url": "https://open.spotify.com/track/0QvLRuiBiNN1BWa2oVKvNA"
     },
     {
-      "added_at": "2022-02-18 20:16:34",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Camino al Mar",
-        "url": "https://open.spotify.com/album/1glNAkJudlAf1dNQUsr18G"
+        "name": "Bailando Lento",
+        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
       },
       "artists": [
         {
-          "name": "Acid Coco",
-          "url": "https://open.spotify.com/artist/5UiKi49d0fbeffWl4aPWNW"
+          "name": "Ganges",
+          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
         }
       ],
-      "duration_ms": 242306,
-      "name": "So\u00f1ando",
-      "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
+      "duration_ms": 197333,
+      "name": "Bailando Lento",
+      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
+    },
+    {
+      "added_at": "2022-02-18 20:16:34",
+      "album": {
+        "name": "Mira Bien",
+        "url": "https://open.spotify.com/album/09TCMzRYLVe74o9uoEywaU"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE"
+        }
+      ],
+      "duration_ms": 207386,
+      "name": "Mira Bien",
+      "url": "https://open.spotify.com/track/0MBhNioCkdEUAusgm0FATa"
+    },
+    {
+      "added_at": "2022-04-20 18:21:19",
+      "album": {
+        "name": "Alma Carnavalera",
+        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
+      },
+      "artists": [
+        {
+          "name": "Stephanie Santiago",
+          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
+        }
+      ],
+      "duration_ms": 234655,
+      "name": "Alma Carnavalera",
+      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -625,58 +689,6 @@
       "url": "https://open.spotify.com/track/5BS1ULVFdYWNa4r5kE2Ua2"
     },
     {
-      "added_at": "2022-04-09 05:01:42",
-      "album": {
-        "name": "Diablo",
-        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
-      },
-      "artists": [
-        {
-          "name": "Tonga Conga",
-          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
-        },
-        {
-          "name": "Mabiland",
-          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
-        }
-      ],
-      "duration_ms": 172293,
-      "name": "Diablo",
-      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
-    },
-    {
-      "added_at": "2021-11-12 02:37:14",
-      "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Bailando Lento",
-        "url": "https://open.spotify.com/album/2aD0hm7zQwY6Qw2lhlvlhq"
-      },
-      "artists": [
-        {
-          "name": "Ganges",
-          "url": "https://open.spotify.com/artist/7gtqMRAdH6DvPm2gdoI17Q"
-        }
-      ],
-      "duration_ms": 197333,
-      "name": "Bailando Lento",
-      "url": "https://open.spotify.com/track/36smaXbDxNC3RVQZsZW3By"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Sorpresa",
@@ -691,22 +703,6 @@
       "duration_ms": 256947,
       "name": "Todo el D\u00eda en la Cama",
       "url": "https://open.spotify.com/track/6TckoX2KeK1hK7wPfdT0zo"
-    },
-    {
-      "added_at": "2022-04-20 18:21:19",
-      "album": {
-        "name": "Alma Carnavalera",
-        "url": "https://open.spotify.com/album/0Gx8CUQeiJlkcx2R2hMKJX"
-      },
-      "artists": [
-        {
-          "name": "Stephanie Santiago",
-          "url": "https://open.spotify.com/artist/3UyUbkVWB0PoOA49rU9pi6"
-        }
-      ],
-      "duration_ms": 234655,
-      "name": "Alma Carnavalera",
-      "url": "https://open.spotify.com/track/2ia6khUL8cdWGqOc31dgl8"
     },
     {
       "added_at": "2022-04-01 04:27:06",
@@ -791,6 +787,26 @@
       "duration_ms": 204000,
       "name": "\u00bfPor Qu\u00e9 Te Vas?",
       "url": "https://open.spotify.com/track/0MACuhj7kQjwpN98yvpgDA"
+    },
+    {
+      "added_at": "2022-04-09 05:01:42",
+      "album": {
+        "name": "Diablo",
+        "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
+      },
+      "artists": [
+        {
+          "name": "Tonga Conga",
+          "url": "https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU"
+        },
+        {
+          "name": "Mabiland",
+          "url": "https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J"
+        }
+      ],
+      "duration_ms": 172293,
+      "name": "Diablo",
+      "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -905,22 +921,6 @@
       "url": "https://open.spotify.com/track/4Rar7xh8FOl8N50d4i4IL8"
     },
     {
-      "added_at": "2022-03-30 03:09:53",
-      "album": {
-        "name": "El Sonido Nuevo de",
-        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 200458,
-      "name": "Towards The Mountain",
-      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
-    },
-    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "La Noche",
@@ -943,6 +943,22 @@
       "duration_ms": 240000,
       "name": "La Noche",
       "url": "https://open.spotify.com/track/6NKV4jEVqmJ6tsoyNEg2SQ"
+    },
+    {
+      "added_at": "2022-03-30 03:09:53",
+      "album": {
+        "name": "El Sonido Nuevo de",
+        "url": "https://open.spotify.com/album/5bp7bVrqq6t71CWU9KSmu5"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 200458,
+      "name": "Towards The Mountain",
+      "url": "https://open.spotify.com/track/4CvfQTMaKGGD7eR5tIDrT7"
     },
     {
       "added_at": "2022-03-11 03:21:01",
@@ -985,6 +1001,22 @@
       "url": "https://open.spotify.com/track/0cKXRG5rWgbjV92suoEXVR"
     },
     {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Cosmic Wacho",
+        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 189574,
+      "name": "Ninfa de la Villa",
+      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
+    },
+    {
       "added_at": "2022-02-25 02:12:10",
       "album": {
         "name": "Para todo mal",
@@ -1005,22 +1037,6 @@
       "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Cosmic Wacho",
-        "url": "https://open.spotify.com/album/5sBh9UXGoeqgNCpNVGYQD1"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 189574,
-      "name": "Ninfa de la Villa",
-      "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
-    },
-    {
       "added_at": "2022-02-18 04:21:33",
       "album": {
         "name": "De los L\u00edmites",
@@ -1039,6 +1055,26 @@
       "duration_ms": 253591,
       "name": "De los L\u00edmites",
       "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
+    },
+    {
+      "added_at": "2022-07-15 04:48:04",
+      "album": {
+        "name": "Ultramar",
+        "url": "https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        },
+        {
+          "name": "\u00c1lamo Para\u00edso",
+          "url": "https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4"
+        }
+      ],
+      "duration_ms": 264837,
+      "name": "Ultramar",
+      "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1087,26 +1123,6 @@
       "duration_ms": 168939,
       "name": "Un Manhattan",
       "url": "https://open.spotify.com/track/6n7X5k9JjHdREzjEVybBfl"
-    },
-    {
-      "added_at": "2022-07-15 04:48:04",
-      "album": {
-        "name": "Ultramar",
-        "url": "https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE"
-      },
-      "artists": [
-        {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
-        },
-        {
-          "name": "\u00c1lamo Para\u00edso",
-          "url": "https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4"
-        }
-      ],
-      "duration_ms": 264837,
-      "name": "Ultramar",
-      "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
     },
     {
       "added_at": "2022-01-11 00:19:39",
@@ -1245,22 +1261,6 @@
       "url": "https://open.spotify.com/track/3SXXaaifuIWCaqAwopfPmY"
     },
     {
-      "added_at": "2022-04-09 05:10:17",
-      "album": {
-        "name": "El Mirador",
-        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
-      },
-      "artists": [
-        {
-          "name": "Calexico",
-          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
-        }
-      ],
-      "duration_ms": 237533,
-      "name": "Cumbia Peninsula",
-      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
-    },
-    {
       "added_at": "2022-07-25 03:37:28",
       "album": {
         "name": "Contenta",
@@ -1277,44 +1277,20 @@
       "url": "https://open.spotify.com/track/16bjBse3S06ZoyyZ7CqBWE"
     },
     {
-      "added_at": "2021-10-05 16:26:53",
+      "added_at": "2022-04-09 05:10:17",
       "album": {
-        "name": "Alianza Atl\u00e1ntica",
-        "url": "https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT"
+        "name": "El Mirador",
+        "url": "https://open.spotify.com/album/63AiuIrU9tVW6o0UuAJMtV"
       },
       "artists": [
         {
-          "name": "Los Pilotos",
-          "url": "https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp"
+          "name": "Calexico",
+          "url": "https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ"
         }
       ],
-      "duration_ms": 269525,
-      "name": "El Ciclo de las Mareas",
-      "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
-    },
-    {
-      "added_at": "2022-04-12 02:37:18",
-      "album": {
-        "name": "New Latam Beats from Mexico Curated by Diguital Trip",
-        "url": "https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz"
-      },
-      "artists": [
-        {
-          "name": "Afrodita",
-          "url": "https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm"
-        },
-        {
-          "name": "Asagi Saundo",
-          "url": "https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU"
-        }
-      ],
-      "duration_ms": 434406,
-      "name": "Kiss the frog",
-      "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
+      "duration_ms": 237533,
+      "name": "Cumbia Peninsula",
+      "url": "https://open.spotify.com/track/7eL3GDrQqEokDmc6l9fKhK"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1335,6 +1311,26 @@
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
+        "name": "Alianza Atl\u00e1ntica",
+        "url": "https://open.spotify.com/album/4ONpoZmgTyWotFTv79FOVT"
+      },
+      "artists": [
+        {
+          "name": "Los Pilotos",
+          "url": "https://open.spotify.com/artist/0KH6VwUGYaHCMTfp3WRxm4"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/0r8cjqflsgnXmXg5lzbprp"
+        }
+      ],
+      "duration_ms": 269525,
+      "name": "El Ciclo de las Mareas",
+      "url": "https://open.spotify.com/track/4g4E7aFHAWqI6qBeSHfZ4G"
     },
     {
       "added_at": "2022-03-04 03:54:51",
@@ -1375,6 +1371,26 @@
       "duration_ms": 163426,
       "name": "Qui\u00e9n Podr\u00e1 Saberlo",
       "url": "https://open.spotify.com/track/4Ioz0P53jC1z6zVUcj12GW"
+    },
+    {
+      "added_at": "2022-04-12 02:37:18",
+      "album": {
+        "name": "New Latam Beats from Mexico Curated by Diguital Trip",
+        "url": "https://open.spotify.com/album/3T4SxLhzVaweReuWbisvrz"
+      },
+      "artists": [
+        {
+          "name": "Afrodita",
+          "url": "https://open.spotify.com/artist/63b3XLtJeDkzJqg6yQWCYm"
+        },
+        {
+          "name": "Asagi Saundo",
+          "url": "https://open.spotify.com/artist/54X6HgtuXxwfT1QBhwwgMU"
+        }
+      ],
+      "duration_ms": 434406,
+      "name": "Kiss the frog",
+      "url": "https://open.spotify.com/track/60eVoxEcP76xEUAnriUpB0"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1513,20 +1529,24 @@
       "url": "https://open.spotify.com/track/65ASwR5HmShyIoSFa5QPnf"
     },
     {
-      "added_at": "2021-10-22 05:00:00",
+      "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "Loco Playa",
-        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+        "name": "El Cabr\u00f3n",
+        "url": "https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq"
       },
       "artists": [
         {
-          "name": "El General Villamil",
-          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+          "name": "Dj Farrapo",
+          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
+        },
+        {
+          "name": "Carlo Maver",
+          "url": "https://open.spotify.com/artist/2RgKeXFc9O23jlpLmAYbnA"
         }
       ],
-      "duration_ms": 217366,
-      "name": "Loco Playa",
-      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
+      "duration_ms": 222333,
+      "name": "El Cabr\u00f3n - Radio Edit",
+      "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
     },
     {
       "added_at": "2022-06-24 16:07:34",
@@ -1547,26 +1567,6 @@
       "duration_ms": 240265,
       "name": "Mi palabra (feat. Ana Tijoux)",
       "url": "https://open.spotify.com/track/7tkJLOBu9s6UnOUE114hUS"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "El Cabr\u00f3n",
-        "url": "https://open.spotify.com/album/3408tnJWJPhB79M3m1wJnq"
-      },
-      "artists": [
-        {
-          "name": "Dj Farrapo",
-          "url": "https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP"
-        },
-        {
-          "name": "Carlo Maver",
-          "url": "https://open.spotify.com/artist/2RgKeXFc9O23jlpLmAYbnA"
-        }
-      ],
-      "duration_ms": 222333,
-      "name": "El Cabr\u00f3n - Radio Edit",
-      "url": "https://open.spotify.com/track/6W4efD0hmXfQH2nTl00Fqv"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1599,6 +1599,22 @@
       "duration_ms": 146496,
       "name": "El Vacile Del T\u00edo",
       "url": "https://open.spotify.com/track/6nAibjd93efRHvK86fiYiJ"
+    },
+    {
+      "added_at": "2021-10-22 05:00:00",
+      "album": {
+        "name": "Loco Playa",
+        "url": "https://open.spotify.com/album/635YaUKh0wj4yKODmNC2L7"
+      },
+      "artists": [
+        {
+          "name": "El General Villamil",
+          "url": "https://open.spotify.com/artist/4GxlWANYiVFKSVePnKnDWH"
+        }
+      ],
+      "duration_ms": 217366,
+      "name": "Loco Playa",
+      "url": "https://open.spotify.com/track/6fLQh9kAnir7RZGzM4OnXV"
     },
     {
       "added_at": "2022-01-21 16:05:39",
@@ -1655,6 +1671,22 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
+        "name": "wepa (Eggglub Remix)",
+        "url": "https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub"
+      },
+      "artists": [
+        {
+          "name": "chicarica",
+          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
+        }
+      ],
+      "duration_ms": 164651,
+      "name": "wepa (Eggglub Remix)",
+      "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"
+    },
+    {
+      "added_at": "2021-10-05 16:26:53",
+      "album": {
         "name": "Aguacero",
         "url": "https://open.spotify.com/album/1Ex8LdVGuQV0TfLd9znmOW"
       },
@@ -1707,22 +1739,6 @@
     {
       "added_at": "2021-10-05 16:26:53",
       "album": {
-        "name": "wepa (Eggglub Remix)",
-        "url": "https://open.spotify.com/album/3X4m5g2WPBlQ3e1qzjCHub"
-      },
-      "artists": [
-        {
-          "name": "chicarica",
-          "url": "https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN"
-        }
-      ],
-      "duration_ms": 164651,
-      "name": "wepa (Eggglub Remix)",
-      "url": "https://open.spotify.com/track/6jVVQxzirfORNRNUhzsJjl"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
         "name": "ANRMAL (Live in M\u00e9xico)",
         "url": "https://open.spotify.com/album/5VqtBF9WgdqMaCnW0IVoho"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 297110,
       "name": "A Los Arboles (feat. Raag)",
       "url": "https://open.spotify.com/track/22zFpd7tQthAeefRmxIxac"
-    },
-    {
-      "added_at": "2021-10-05 16:26:53",
-      "album": {
-        "name": "Temporada de Pesca",
-        "url": "https://open.spotify.com/album/05yxfuVNg4swKUEiJSqd4O"
-      },
-      "artists": [
-        {
-          "name": "Martin Guerra",
-          "url": "https://open.spotify.com/artist/5d5STgzsguF60wZiZeT9MM"
-        }
-      ],
-      "duration_ms": 262400,
-      "name": "Sal de Maras",
-      "url": "https://open.spotify.com/track/73C1hN8AcfPfrsdd0MwGEb"
     }
   ],
   "unique_name": "Indie AlterLatino",

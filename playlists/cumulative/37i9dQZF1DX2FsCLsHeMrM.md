@@ -4,7 +4,7 @@
 
 > Get jiggy in the kitchen with this groovy playlist.
 
-232 songs - 15 hr 15 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
+233 songs - 15 hr 20 min - [published](https://open.spotify.com/playlist/39LMwPpt7lHeDOixijJPML)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Broken Heart](https://open.spotify.com/track/2J8tBWzFTIqo3A2v95peyZ) | [Booker T.](https://open.spotify.com/artist/5O2Gph0YtABIs0zaP65nlm), [JAY JAMES](https://open.spotify.com/artist/6AMXDAhUR92mEr3wmpQ6KK) | [Sound The Alarm](https://open.spotify.com/album/7CwnQzbx2KBMq8H7U3NhwE) | 3:19 | 2022-05-11 | 2022-07-29 |
 | [Brown Sugar](https://open.spotify.com/track/6tHD5yGlkyh9JunGOiwdVp) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/0sfW72nWa4oqoqbKhdtrE3) | 4:22 | 2021-11-10 | 2022-07-29 |
 | [Brown Sugar](https://open.spotify.com/track/7rt0kEDWRg3pgTZJKuszoE) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 4:22 | 2022-06-03 |  |
+| [Can't Change Me](https://open.spotify.com/track/5pPLXjXbpcRH5DNdWrnTo9) | [N'Dambi](https://open.spotify.com/artist/3Qq0yiyJZJu8L2PS5zpFVX) | [A Weird Kinda Wonderful](https://open.spotify.com/album/0ZWWYHFwzCUKnOMatRoBRa) | 5:11 | 2022-08-02 |  |
 | [Changes](https://open.spotify.com/track/61grJv99f7tm15DQPJfFAn) | [Kubla](https://open.spotify.com/artist/7KgcPkeaO1Rpa4MFl2sLOm) | [Changes](https://open.spotify.com/album/6S7Qn0ZqxCxznsZNbaxL90) | 3:25 | 2022-03-29 | 2022-07-29 |
 | [Cheers for the Tears](https://open.spotify.com/track/1luf18dR160FyYqTnIAXfE) | [Soleima](https://open.spotify.com/artist/71le7jtjw9hq389Fnvi6XM) | [Cheers for the Tears](https://open.spotify.com/album/4yLYA25JyfmIYwbIaOchCq) | 2:54 | 2021-11-10 |  |
 | [Chunks](https://open.spotify.com/track/3lFCbvyrJ7soEgTjIkELMT) | [Phlake](https://open.spotify.com/artist/7xSP5ABX7IOegINeUtUVay) | [Weird Invitations](https://open.spotify.com/album/0dIYBkNpcKisysENNEnNWh) | 3:31 | 2021-11-10 |  |
@@ -114,7 +115,7 @@
 | [It's Not Right But It's Okay](https://open.spotify.com/track/7861kBrZ5aw7o4NfggcyYW) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:52 | 2022-08-02 |  |
 | [Jamming](https://open.spotify.com/track/4zn0kScuV9Oj28d4g9CQQs) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus \(Deluxe Edition\)](https://open.spotify.com/album/1vHvJVBK0WnpbYFw4f4UTD) | 3:31 | 2022-01-20 | 2022-07-27 |
 | [Jamming](https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:31 | 2022-06-03 |  |
-| [Jeri Curl](https://open.spotify.com/track/6452rfXGmvPslUbp9NX7Cw) | [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Jeri Curl](https://open.spotify.com/album/50nNK5wc8LzCGl4TYEWeYs) | 3:19 | 2021-11-10 |  |
+| [Jeri Curl](https://open.spotify.com/track/6452rfXGmvPslUbp9NX7Cw) | [Cam O'bi](https://open.spotify.com/artist/4jqFe1fd5uul2XSSxsRvbZ) | [Jeri Curl](https://open.spotify.com/album/50nNK5wc8LzCGl4TYEWeYs) | 3:19 | 2021-11-10 | 2022-08-17 |
 | [Just a Man](https://open.spotify.com/track/3UpM97neNnNdR1iF87nbNC) | [Jonathan Singletary](https://open.spotify.com/artist/5b3IByWFpEXKmwtmmLozjr) | [Before You Arrive](https://open.spotify.com/album/5kXGguUKynLc8j9Tii40v7) | 4:13 | 2022-05-11 | 2022-07-29 |
 | [Keep On Movin'](https://open.spotify.com/track/4NMtuxWfOPR6yNjAX0AWrR) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Club Classics Vol\. One](https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa) | 6:02 | 2021-11-10 |  |
 | [Keep On Walking](https://open.spotify.com/track/1nBHMqNQdSFRdvtmt3X1uc) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Blue Flame](https://open.spotify.com/album/2PAF1WrtKj3BotUNQIpyfH) | 3:47 | 2021-11-10 | 2022-07-29 |

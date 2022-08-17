@@ -1,12 +1,12 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 15003,
+  "num_followers": 15025,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzkxMTM4MCwwMDAwMDAwMDg2YjllYTdiYzI1ZTg0MzAzYjE1MDM4OTU5YWU1Yzlh",
+  "snapshot_id": "MTY1NzkxMTM4MCwwMDAwMDAwMDIzY2NjOWRkNzA4MDZiNzc5ODcwNmQwNTg4ZWM0MmQ0",
   "tracks": [
     {
       "added_at": "2022-07-15 18:56:20",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Deseo Permanente",
-        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
-      },
-      "artists": [
-        {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
-        }
-      ],
-      "duration_ms": 344434,
-      "name": "Deseo Permanente",
-      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Vintage Futurista",
         "url": "https://open.spotify.com/album/6sMbgM4z01xWJSadT5evGq"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 227453,
       "name": "Mi Vida Como Vacaciones",
       "url": "https://open.spotify.com/track/5ellJjhwC4gNOYRZGGt8vp"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Deseo Permanente",
+        "url": "https://open.spotify.com/album/1sga3Ihe2EfxoGIL4wvBLd"
+      },
+      "artists": [
+        {
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+        }
+      ],
+      "duration_ms": 344434,
+      "name": "Deseo Permanente",
+      "url": "https://open.spotify.com/track/00P9KJpQNtviOk95bb1CBl"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "LA ARA\u00d1A",
-        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
-      },
-      "artists": [
-        {
-          "name": "Mi Amigo Invencible",
-          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
-        }
-      ],
-      "duration_ms": 208962,
-      "name": "LA ARA\u00d1A",
-      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Mejor Sin Miedo",
         "url": "https://open.spotify.com/album/7wG8LczSGRTbiwFW5Hqjgs"
       },
@@ -863,18 +847,18 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Savia Roja",
-        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+        "name": "LA ARA\u00d1A",
+        "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
       "artists": [
         {
-          "name": "Las Luces Primeras",
-          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+          "name": "Mi Amigo Invencible",
+          "url": "https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7"
         }
       ],
-      "duration_ms": 153710,
-      "name": "Toxi",
-      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+      "duration_ms": 208962,
+      "name": "LA ARA\u00d1A",
+      "url": "https://open.spotify.com/track/2XsgW6lzGWGCmw9DoOkZ2S"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -895,18 +879,34 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Gigaaaante",
-        "url": "https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8"
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
       },
       "artists": [
         {
-          "name": "El pr\u00edncipe idiota",
-          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
         }
       ],
-      "duration_ms": 213101,
-      "name": "Obrador",
-      "url": "https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ"
+      "duration_ms": 153710,
+      "name": "Toxi",
+      "url": "https://open.spotify.com/track/3FcI2Prz1qgwXO8CDlGZwF"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Declaraci\u00f3n de Principios",
+        "url": "https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq"
+      },
+      "artists": [
+        {
+          "name": "Pasado Verde",
+          "url": "https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k"
+        }
+      ],
+      "duration_ms": 203564,
+      "name": "Sab\u00e9s D\u00f3nde Encontrarme",
+      "url": "https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -927,18 +927,18 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Declaraci\u00f3n de Principios",
-        "url": "https://open.spotify.com/album/6KgAL7uTSPiZ6EvX043GVq"
+        "name": "Gigaaaante",
+        "url": "https://open.spotify.com/album/0roPQkz7OJqTTB2dRw85e8"
       },
       "artists": [
         {
-          "name": "Pasado Verde",
-          "url": "https://open.spotify.com/artist/6I0h9J8iQTeXkAir3RAj9k"
+          "name": "El pr\u00edncipe idiota",
+          "url": "https://open.spotify.com/artist/5xEgsOYkENDU9TRoKMWW3u"
         }
       ],
-      "duration_ms": 203564,
-      "name": "Sab\u00e9s D\u00f3nde Encontrarme",
-      "url": "https://open.spotify.com/track/7fMVcLdtD9RGlUfMxnO08T"
+      "duration_ms": 213101,
+      "name": "Obrador",
+      "url": "https://open.spotify.com/track/7G5FlmUe9w4y9dToGFnpmQ"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -975,22 +975,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Una Comedia Rom\u00e1ntica",
-        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
-      },
-      "artists": [
-        {
-          "name": "Valentin y Los Volcanes",
-          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
-        }
-      ],
-      "duration_ms": 224031,
-      "name": "Son\u00e1mbulos",
-      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Gracias Por Nada",
         "url": "https://open.spotify.com/album/3nPaS8oCr3C0ttEL1vdAte"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 225833,
       "name": "\u00bfQu\u00e9 Clase de Ciudad Es Esta?",
       "url": "https://open.spotify.com/track/4ONVAUcV7CaxzNjaW0oq5m"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Una Comedia Rom\u00e1ntica",
+        "url": "https://open.spotify.com/album/6OvZ23mWgNch2FVc13ZrNk"
+      },
+      "artists": [
+        {
+          "name": "Valentin y Los Volcanes",
+          "url": "https://open.spotify.com/artist/2VK9T8hGs9nEseJ1UaTAKS"
+        }
+      ],
+      "duration_ms": 224031,
+      "name": "Son\u00e1mbulos",
+      "url": "https://open.spotify.com/track/3E9jp8FfxeKPAkMBJwMaMc"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1059,6 +1059,22 @@
       "duration_ms": 219239,
       "name": "El Toxi",
       "url": "https://open.spotify.com/track/0yVokwrSDaNuLhDGIYPDtP"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Deja",
+        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
+      },
+      "artists": [
+        {
+          "name": "Onda Vaga",
+          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
+        }
+      ],
+      "duration_ms": 211988,
+      "name": "Deja",
+      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1115,22 +1131,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Deja",
-        "url": "https://open.spotify.com/album/3r7eP1HC8gR0niX2MGo2mx"
-      },
-      "artists": [
-        {
-          "name": "Onda Vaga",
-          "url": "https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ"
-        }
-      ],
-      "duration_ms": 211988,
-      "name": "Deja",
-      "url": "https://open.spotify.com/track/4HbJxi8ErGbIrdFjaKyGEi"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Egnaro",
         "url": "https://open.spotify.com/album/7znyyR87CLZ0q0j5YiSwKJ"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 187050,
       "name": "Egnaro",
       "url": "https://open.spotify.com/track/2nfSbYDQACqABuWDE5lHKV"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
-        "name": "Unas Vacaciones Raras",
-        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 258651,
-      "name": "La Otra Ciudad",
-      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Todo Se Est\u00e1 Cayendo",
-        "url": "https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1"
+        "name": "Unas Vacaciones Raras",
+        "url": "https://open.spotify.com/album/0Vg08UGOqRNtsdhILEmsjH"
       },
       "artists": [
         {
-          "name": "Elis Paprika",
-          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
         }
       ],
-      "duration_ms": 255200,
-      "name": "Todo Se Est\u00e1 Cayendo",
-      "url": "https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV"
+      "duration_ms": 258651,
+      "name": "La Otra Ciudad",
+      "url": "https://open.spotify.com/track/1VvPOzTmEtvXuH2l3gG05Y"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1207,6 +1191,22 @@
       "duration_ms": 192646,
       "name": "De Polic\u00eda a Ladr\u00f3n",
       "url": "https://open.spotify.com/track/1jebYwGYhXdIpehhcKyJTt"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Todo Se Est\u00e1 Cayendo",
+        "url": "https://open.spotify.com/album/7ncc7rL0uXgBkf9vXNCSB1"
+      },
+      "artists": [
+        {
+          "name": "Elis Paprika",
+          "url": "https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk"
+        }
+      ],
+      "duration_ms": 255200,
+      "name": "Todo Se Est\u00e1 Cayendo",
+      "url": "https://open.spotify.com/track/06qkUcnKSLVobh8wc4RhBV"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1343,42 +1343,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Ochocientos Envolventes al Sol",
-        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
-      },
-      "artists": [
-        {
-          "name": "Juan Mango",
-          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
-        }
-      ],
-      "duration_ms": 396921,
-      "name": "Buscas",
-      "url": "https://open.spotify.com/track/1Mcp1xuDP0Fabub4M3P9pD"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
-        "name": "Otra Temporada",
-        "url": "https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ"
-      },
-      "artists": [
-        {
-          "name": "Media Hermana",
-          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
-        },
-        {
-          "name": "Santiago Palacios",
-          "url": "https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I"
-        }
-      ],
-      "duration_ms": 241083,
-      "name": "Otra Temporada",
-      "url": "https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "El Elogio de la Sombra",
         "url": "https://open.spotify.com/album/13S2Q6iGiVAyCXP28hTTZ1"
       },
@@ -1395,6 +1359,22 @@
       "duration_ms": 172315,
       "name": "Dos Extra\u00f1os",
       "url": "https://open.spotify.com/track/0gGG5ljkVeSfUe387KwpOn"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Ochocientos Envolventes al Sol",
+        "url": "https://open.spotify.com/album/0cX5CB6zbNgLsmNMZqX8po"
+      },
+      "artists": [
+        {
+          "name": "Juan Mango",
+          "url": "https://open.spotify.com/artist/6a1LEawOSKjIoixesjSI0I"
+        }
+      ],
+      "duration_ms": 396921,
+      "name": "Buscas",
+      "url": "https://open.spotify.com/track/1Mcp1xuDP0Fabub4M3P9pD"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1427,6 +1407,26 @@
       "duration_ms": 281750,
       "name": "Sigo Dando Amor",
       "url": "https://open.spotify.com/track/5nBrZR4tBfLU235cBdG8Dm"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Otra Temporada",
+        "url": "https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ"
+      },
+      "artists": [
+        {
+          "name": "Media Hermana",
+          "url": "https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE"
+        },
+        {
+          "name": "Santiago Palacios",
+          "url": "https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I"
+        }
+      ],
+      "duration_ms": 241083,
+      "name": "Otra Temporada",
+      "url": "https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Savia Roja",
-        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
-      },
-      "artists": [
-        {
-          "name": "Las Luces Primeras",
-          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
-        }
-      ],
-      "duration_ms": 204174,
-      "name": "Plantas Negras",
-      "url": "https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/7GAGvEAadaNaxM7C1alzDY"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 206680,
       "name": "La Espesura",
       "url": "https://open.spotify.com/track/2XGSDaK7QO6R4qCUgYfGNq"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Savia Roja",
+        "url": "https://open.spotify.com/album/2bNa2V8YVJKz1gFHUW0t7B"
+      },
+      "artists": [
+        {
+          "name": "Las Luces Primeras",
+          "url": "https://open.spotify.com/artist/0jKnrNiJL0MkKtjfOQXNEY"
+        }
+      ],
+      "duration_ms": 204174,
+      "name": "Plantas Negras",
+      "url": "https://open.spotify.com/track/4WfgAerrEu6fFl8g1LBX3f"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p"
-      },
-      "artists": [
-        {
-          "name": "Vosque",
-          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
-        }
-      ],
-      "duration_ms": 221552,
-      "name": "Animales",
-      "url": "https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
         "name": "Tiembla",
         "url": "https://open.spotify.com/album/2HOuPUISXIU8tqBeqDzMh5"
       },
@@ -1555,22 +1539,6 @@
       "duration_ms": 216830,
       "name": "Tiembla",
       "url": "https://open.spotify.com/track/0d6sHvxEiHzKWCi7hj4uV4"
-    },
-    {
-      "added_at": "2022-07-15 18:56:20",
-      "album": {
-        "name": "Nudos",
-        "url": "https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb"
-      },
-      "artists": [
-        {
-          "name": "Alejo y Valentin",
-          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
-        }
-      ],
-      "duration_ms": 243934,
-      "name": "Nudos",
-      "url": "https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1591,6 +1559,22 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
+        "name": "Nudos",
+        "url": "https://open.spotify.com/album/2CHHKGh0bpnSeRzOQDYcrb"
+      },
+      "artists": [
+        {
+          "name": "Alejo y Valentin",
+          "url": "https://open.spotify.com/artist/18e0X2rB92SDmDYGCFTGum"
+        }
+      ],
+      "duration_ms": 243934,
+      "name": "Nudos",
+      "url": "https://open.spotify.com/track/0nZo1400P5g6WH70Riy4YB"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
         "name": "EL GAVIOTA",
         "url": "https://open.spotify.com/album/3AC4oh8TEA1CYzIV8UuuFT"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 217500,
       "name": "Vos y Yo",
       "url": "https://open.spotify.com/track/6DXjmuP875gbBFKjzoXudZ"
+    },
+    {
+      "added_at": "2022-07-15 18:56:20",
+      "album": {
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/2GRZzy5ZPmh7dvns69tZ8p"
+      },
+      "artists": [
+        {
+          "name": "Vosque",
+          "url": "https://open.spotify.com/artist/5rz5fB76tpWPsEvcfSWUD6"
+        }
+      ],
+      "duration_ms": 221552,
+      "name": "Animales",
+      "url": "https://open.spotify.com/track/6TVAKgR4O5g0OLUocQmiRW"
     },
     {
       "added_at": "2022-07-15 18:56:20",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2022-07-15 18:56:20",
       "album": {
-        "name": "TU MASCOTA",
-        "url": "https://open.spotify.com/album/2afksjXmdCBZT9ZOXA0RxG"
+        "name": "Epica & Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/1ag3CNlB7MUd1xdC2vjgb1"
       },
       "artists": [
         {
-          "name": "Nahuel Briones",
-          "url": "https://open.spotify.com/artist/29HD84lSe1rh2e6JuTE2xR"
+          "name": "Marina Fages",
+          "url": "https://open.spotify.com/artist/1jBRvUY23iEpMeGCKZ2RO3"
         }
       ],
-      "duration_ms": 230456,
-      "name": "TU MASCOTA",
-      "url": "https://open.spotify.com/track/3lZiodTNPnOT4p45XXEIVt"
+      "duration_ms": 245246,
+      "name": "Piedra Marea Fuego",
+      "url": "https://open.spotify.com/track/64FyoTZGcpuieDGERmxSZx"
     }
   ],
   "unique_name": "6PM Indie",

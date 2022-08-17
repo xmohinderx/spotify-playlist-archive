@@ -4,7 +4,7 @@
 
 > This is Banda Machos\. The essential tracks, all in one playlist.
 
-61 songs - 2 hr 56 min - [published](https://open.spotify.com/playlist/7wKymSLTXiTtr2AI2MpiU9)
+62 songs - 3 hr 0 min - [published](https://open.spotify.com/playlist/7wKymSLTXiTtr2AI2MpiU9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Muévete morena](https://open.spotify.com/track/7c4YD4Gr5vmemSYgsujpDN) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 2:58 | 2022-06-01 |  |
 | [No soy monedita de oro](https://open.spotify.com/track/3ndJWgaFnw92IeICfSlTrP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:05 | 2022-06-01 |  |
 | [Pacas de a kilo](https://open.spotify.com/track/7p2QlyyFCg4N00wRb535qo) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:10 | 2022-06-01 | 2022-06-03 |
+| [Princesa gitana](https://open.spotify.com/track/4hs8o8lLeB8tREWp7OLAZJ) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Gracias Mujer](https://open.spotify.com/album/1rOawSf0a7ArflNIvebvMr) | 3:10 | 2022-08-16 |  |
 | [Sangre de indio](https://open.spotify.com/track/3C818S8QbfRJDUC4xt6jSM) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sangre de indio](https://open.spotify.com/album/5nUqvx6cvJkT78iAqnU6dY) | 3:03 | 2022-06-01 |  |
 | [Se lo dejo a Dios](https://open.spotify.com/track/2dNGdHoNz5MatMvKnmiOhs) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Palabra de machos](https://open.spotify.com/album/6nHukDTFU4XLZs9F3YR5KM) | 4:13 | 2022-06-01 |  |
 | [Si la miro mañana](https://open.spotify.com/track/0rLhHYEvFSNOBYFIJMbxC9) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Mi chica ideal \(Lo Básico\)](https://open.spotify.com/album/5339bPdH9NLYMEvDZQZS90) | 3:05 | 2022-06-09 | 2022-08-11 |
@@ -64,7 +65,7 @@
 | [Traficantes Michoacanos](https://open.spotify.com/track/4dZGvGTg2Jay6IfM30d0GT) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Batalla De Bandas Banda El Recodo Vs\. Banda Machos](https://open.spotify.com/album/1SctrZWYQz9kCm8uUXWxw6) | 3:09 | 2022-06-01 |  |
 | [Tres minutos](https://open.spotify.com/track/0mKKoYIkWf9BeAWNV8OQoP) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Historia sin fin](https://open.spotify.com/album/5IB8MY1KDGEy86lDkEmCPD) | 3:17 | 2022-06-01 |  |
 | [Tu abandono](https://open.spotify.com/track/7IIB1aFag7RDTEPZW0z00Q) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 2:09 | 2022-07-07 |  |
-| [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 | 2022-06-01 |  |
+| [Tu otro dios \- Tu dios de poder](https://open.spotify.com/track/60UOcLgASgH7nfjckAHadn) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 3:01 | 2022-06-01 | 2022-08-17 |
 | [Un indio quiere llorar](https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:49 | 2022-06-01 |  |
 | [Usted](https://open.spotify.com/track/4jUwjtLbWMKG3vwUDiEADY) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:52 | 2022-06-21 | 2022-08-14 |
 | [Vivir sin ella](https://open.spotify.com/track/1tGEqvzyAMUReS4zQMpZ2G) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [25 Bandazos de Machos \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/6AO0JgrAWIRkLGtkPeJ1vv) | 3:51 | 2022-06-01 |  |

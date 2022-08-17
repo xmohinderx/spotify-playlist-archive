@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,612 likes - 87 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,624 likes - 87 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,11 +38,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 28 | [Fogata](https://open.spotify.com/track/0jniFtpAyWN1hCtQdTllSg) | [XAXO](https://open.spotify.com/artist/04QAHqsyX2YvreBDLkgpXb), [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT) | [Fogata](https://open.spotify.com/album/0BEdljhMIuLrTrulOoT0ry) | 2:53 |
 | 29 | [828](https://open.spotify.com/track/5FYUCl30XA4avs2aBKhKaL) | [Aleesha](https://open.spotify.com/artist/18qC8mrcJ9ZjChRDPvpadi), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [828](https://open.spotify.com/album/6aBXXL93A2l6PEsXHfGomS) | 3:24 |
 | 30 | [The 1](https://open.spotify.com/track/4RZyqmqauYuQlvB4NfElJc) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Stuck in the Sky](https://open.spotify.com/album/6lRsrrPqbQaPMSR9KSzega) | 2:56 |
-| 31 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
-| 32 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
-| 33 | [Entre los dos](https://open.spotify.com/track/4SkVGTTp5bVS4A480lp81a) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Subliminals](https://open.spotify.com/artist/3RHLm0zZscBiIeAabUQOLi) | [Entre los dos](https://open.spotify.com/album/6jA8wdGruzOiNQPbm5YWHb) | 2:21 |
-| 34 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 |
-| 35 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
+| 31 | [Me Duele \(Suceso 2\)](https://open.spotify.com/track/2K9fZ87LZyBNmLFeldootY) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK) | [Me Duele \(Suceso 2\)](https://open.spotify.com/album/1h08JW9Wa6FbpaeWDyQ9zR) | 3:20 |
+| 32 | [YA](https://open.spotify.com/track/1SItv3YEX2txYK9mkbSKqD) | [YEИDRY](https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw) | [YA](https://open.spotify.com/album/5LFUNG1uAtWvLT7YQ4CCLG) | 2:55 |
+| 33 | [Anymore \(feat\. Lucky Daye\)](https://open.spotify.com/track/1RoMaS8tLOyCGpTzJvP4vS) | [Sinéad Harnett](https://open.spotify.com/artist/6tUJpYN2aYiXbzAcg0pIOo), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Ready is Always Too Late](https://open.spotify.com/album/5qhT4VwBKqLS3dUqRgBK0g) | 3:16 |
+| 34 | [EGO](https://open.spotify.com/track/354pCNhr685jh0QEaGTAHH) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [EGO](https://open.spotify.com/album/295wDTQXatb4fOeVpv9mlt) | 3:31 |
+| 35 | [Entre los dos](https://open.spotify.com/track/4SkVGTTp5bVS4A480lp81a) | [Anacri](https://open.spotify.com/artist/5pZYxz0oVIb6cUTPhn6NoQ), [Subliminals](https://open.spotify.com/artist/3RHLm0zZscBiIeAabUQOLi) | [Entre los dos](https://open.spotify.com/album/6jA8wdGruzOiNQPbm5YWHb) | 2:21 |
 | 36 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 |
 | 37 | [Pajaritos](https://open.spotify.com/track/2wrXCzqFhTrUiLx1Xra1zN) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Pajaritos](https://open.spotify.com/album/25sQj4ycXmGdHFu1TNn1r5) | 2:24 |
 | 38 | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/track/1GN0WlzoHEg8ySh7wH3J98) | [Sebastián Cortés](https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9) | [Solo Me Quieres Cuando Estás Triste](https://open.spotify.com/album/3Z37Sfx95YVXZHNMXhmc5O) | 3:03 |
@@ -86,14 +86,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT34oeYRnJ0R.md) - [plain]
 | 76 | [Consentida \(Feat\. Kat Dahlia\)](https://open.spotify.com/track/0zfARgJv86XwO9sjrDs4uq) | [GioBulla](https://open.spotify.com/artist/0Byw4aFEQbFJBgL82P0LKc), [Kat Dahlia](https://open.spotify.com/artist/1peH5tSqnYm8W6Bo3I5egE) | [Consentida \(Kat Dahlia Duet\)](https://open.spotify.com/album/4KgFDZMY6jSFHZVDEq7CTf) | 4:11 |
 | 77 | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/track/4n3tQbaHw7Zb7gvszXxOXX) | [Agina](https://open.spotify.com/artist/110VVB3iCHBH7R8C9iEEhD) | [IDWLH \(I Don't Wanna Love Him\)](https://open.spotify.com/album/5mfgYGWt86iLrLye6pJRSr) | 2:53 |
 | 78 | [Where We Can't See](https://open.spotify.com/track/612UlRjogF7bkGgVamQhKT) | [HYRA](https://open.spotify.com/artist/2FuelQeDO3E7kIrTfkySKS) | [Where We Can't See](https://open.spotify.com/album/6WLlYL5Pd3H4tQBxcRhTOZ) | 2:45 |
-| 79 | [mala maña](https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:33 |
-| 80 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
-| 81 | [Anormales](https://open.spotify.com/track/04E5qHTUW74EeWlOQQtteJ) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [Anormales](https://open.spotify.com/album/7nxb34o0raimYBHfxgUoOS) | 2:45 |
-| 82 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 |
+| 79 | [Mine](https://open.spotify.com/track/4Q5RhFWUcfPexfZLx6i9hj) | [Nino Augustine](https://open.spotify.com/artist/56bt9xaV44RJf7KqqgMxsU) | [Mine](https://open.spotify.com/album/0564OxBLhKgRNX9OX57FvD) | 2:58 |
+| 80 | [mala maña](https://open.spotify.com/track/2tcHiFQUp21LbIKdWmA995) | [riela](https://open.spotify.com/artist/5K3Lwty6gv1gtuPn3gcf3A) | [tranquila y tropical](https://open.spotify.com/album/24SzPSINiQWmIu84VfkC5a) | 2:33 |
+| 81 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 |
+| 82 | [Anormales](https://open.spotify.com/track/04E5qHTUW74EeWlOQQtteJ) | [Crissleger](https://open.spotify.com/artist/597frxDjCAdAjAoyMdBwOH) | [Anormales](https://open.spotify.com/album/7nxb34o0raimYBHfxgUoOS) | 2:45 |
 | 83 | [Nada de Mí Vale Dinero](https://open.spotify.com/track/5imr697dT1gPajZWd376fL) | [Ronroneo](https://open.spotify.com/artist/77331RTjW3jOf5YdjRDCPK), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Nada de Mí Vale Dinero](https://open.spotify.com/album/5FQLN0ZAIGh3o1Bb0ZK047) | 4:17 |
 | 84 | [Blah Blah](https://open.spotify.com/track/0D4gVyCQkDKq6bfvwA2SCI) | [Eric De Franco](https://open.spotify.com/artist/28dQMLSfdLnyiiZ227NsR0) | [Blah Blah](https://open.spotify.com/album/1v3DykStfkipWutZONNHE9) | 2:40 |
 | 85 | [Torero](https://open.spotify.com/track/2LXUg5dCkY9UCzoypbaaH3) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV) | [Torero](https://open.spotify.com/album/766RXg8hOYak8eKMeZu5o7) | 3:00 |
 | 86 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 |
 | 87 | [Perderme](https://open.spotify.com/track/6lMW8lLquI5brwfYIVymn8) | [Janice](https://open.spotify.com/artist/7htGdWrkFD78VQOKRbCyh8) | [No Pueden Contra Mi](https://open.spotify.com/album/2X7Q5CvyfWbYdGygU1kVZ5) | 2:55 |
 
-Snapshot ID: `MTY2MDIzMTI5MiwwMDAwMDAwMGIyNTY4OGVmNWViMzI4N2Q0NTNiY2M5NzRkZDA5MDNh`
+Snapshot ID: `MTY2MDIzMTI5MiwwMDAwMDAwMGZmNGM1MzBhOWUwOWJiYTVjNDQ3Yjg0MTRlZGRiNDQ4`

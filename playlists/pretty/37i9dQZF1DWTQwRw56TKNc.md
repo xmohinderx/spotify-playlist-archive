@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 
 > Relax with these timeless tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 544,180 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 544,532 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 53 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 54 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/7IsXXgpowAB48crGjV1oGb) | [Peter, Paul and Mary](https://open.spotify.com/artist/6yrBBtqX2gKCHCrZOYBDrB) | [In the Wind](https://open.spotify.com/album/5XresJcJBgYkVQE9PATjli) | 3:16 |
 | 55 | [So Far Away](https://open.spotify.com/track/4HHge4zAyIw3pkrtFzmwCl) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/12n11cgnpjXKLeqrnIERoS) | 3:55 |
-| 56 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
-| 57 | [Still Crazy After All These Years](https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:26 |
+| 56 | [Still Crazy After All These Years](https://open.spotify.com/track/3gIBSlXYIN1mru35l4LWPB) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Still Crazy After All These Years](https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W) | 3:26 |
+| 57 | [People Get Ready](https://open.spotify.com/track/6AeG6jSoAVbmUFO6LyYmBf) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [People Get Ready](https://open.spotify.com/album/5SYsyDQdno437NLJPWzLgL) | 2:43 |
 | 58 | [Mona Lisas And Mad Hatters](https://open.spotify.com/track/5XY9FK0mB0BS0u8YB2ehN9) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Honky Chateau](https://open.spotify.com/album/2ei2X6ghPnw7YRwQtAH075) | 5:00 |
 | 59 | [La vie en rose \- Single Version](https://open.spotify.com/track/3yYfoYGVpriV4fG9L1ogsD) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Highlights From His Decca Years](https://open.spotify.com/album/0OdoPgKwi6l3paYTSFAWkS) | 3:26 |
 | 60 | [Aubrey](https://open.spotify.com/track/3his1UkcI0rwrniPDR9kTj) | [Bread](https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL) | [Guitar Man](https://open.spotify.com/album/38mhQ9p2BiHpz60gthzEVy) | 3:39 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQwRw56TKNc.md) - [plain]
 | 69 | [After the Thrill Is Gone \- 2013 Remaster](https://open.spotify.com/track/73gx888k1raTwjFeuqIV5D) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [One of These Nights \(2013 Remaster\)](https://open.spotify.com/album/0F77QekrNe8vVAjU2sepja) | 3:56 |
 | 70 | [Copperline](https://open.spotify.com/track/0i1XtQ6hOET96dz5oG45zl) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [New Moon Shine](https://open.spotify.com/album/36DBvvp7XO5oSulZANyCIM) | 4:21 |
 
-Snapshot ID: `MTY1NzA0ODkxNCwwMDAwMDAwMGQ4Y2Y3ODk5ZjBiZjQ5MGFjZGM2Y2ZkNmJhOWQwMjVi`
+Snapshot ID: `MTY1NzA0ODkxNCwwMDAwMDAwMDM0OTU5OWUyY2Q4OGM0MmU0MjJmNGE1MjNlMjBkOGFm`

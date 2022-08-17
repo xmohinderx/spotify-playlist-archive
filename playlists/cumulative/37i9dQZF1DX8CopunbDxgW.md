@@ -4,7 +4,7 @@
 
 > The essential indie dance, featuring Little Dragon
 
-553 songs - 1 day 11 hr 49 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
+554 songs - 1 day 11 hr 54 min - [published](https://open.spotify.com/playlist/6jBSzkiPzz4z9EGB6tLdZW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Cantares](https://open.spotify.com/track/7tn64XRTYFqr2K7ujNLgTl) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R) | [Cantares](https://open.spotify.com/album/1UBBUboWIBuEYeYQy7QFCO) | 2:55 | 2021-12-10 | 2022-04-20 |
 | [Casita](https://open.spotify.com/track/3HjAGIYYXG7PS7OegQa0xM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Casita](https://open.spotify.com/album/584aNZB5CF6IXG90Ch28KC) | 3:26 | 2021-09-10 |  |
 | [Chaeri](https://open.spotify.com/track/23lHAG7gddyqzpCAv3OuCT) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Chaeri](https://open.spotify.com/album/0oaj14xWeAaya1H1BF9MLC) | 4:17 | 2021-07-02 | 2022-07-04 |
+| [Change](https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [WAYNE SNOW](https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC) | [Change / Take My Time](https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5) | 4:50 | 2022-08-12 |  |
 | [Changed for the Better](https://open.spotify.com/track/3XMcylC5T7qYdmg5bMcbiD) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Changed for the Better](https://open.spotify.com/album/64VdxjQutKxcZPpqxrsNrV) | 5:46 | 2021-10-01 | 2022-07-11 |
 | [Check up Your Head](https://open.spotify.com/track/65hmRaQv17S8tWAHfYuX90) | [Mukhtar Ramadan Idii](https://open.spotify.com/artist/4mt9SVke7R8iOlXMdNcX7B) | [Mogadisco \- Dancing Mogadishu \(Somalia 1972 \- 1991\) \[Analog Africa No.29\]](https://open.spotify.com/album/267SehTmD0zRYQJtZo9JL7) | 5:50 | 2022-01-28 | 2022-02-12 |
 | [Chemicals](https://open.spotify.com/track/2WIxF9PM27nC3l1aNFkLMT) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Chemicals](https://open.spotify.com/album/1lwhfq8BkowesLrOTdZy71) | 3:12 | 2021-06-11 | 2022-04-21 |
@@ -458,7 +459,7 @@
 | [Summer Lovin'](https://open.spotify.com/track/5TzW5wlm4qaJ2hwhJWIbTx) | [49th & Main](https://open.spotify.com/artist/0nnF48t4C8uqGS5HPnCN3F), [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Summer Lovin'](https://open.spotify.com/album/0biYlETukeDyF2Gu51y1BS) | 3:06 | 2021-06-11 | 2022-07-02 |
 | [summer on the inside](https://open.spotify.com/track/21ksz0flcMgWIbERkkpRND) | [warner case](https://open.spotify.com/artist/106OuakzOxxbXTuigEEf01), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Max Kaluza](https://open.spotify.com/artist/6lNLgymfWudNsbC0Vio7Qi) | [summer on the inside](https://open.spotify.com/album/3Wl4tQlkhwDKdfZn6K0SgD) | 3:25 | 2021-07-30 | 2022-02-12 |
 | [summertime breeze](https://open.spotify.com/track/1IdASaCkAnfqAPHBqOVP7t) | [The Sanctuary](https://open.spotify.com/artist/3c7DW1zmCGBdgHy8HllzV2) | [summertime breeze](https://open.spotify.com/album/7AWpTOhF68ORoyDYXG9TxN) | 3:02 | 2022-05-06 | 2022-07-25 |
-| [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-20 |  |
+| [Sunburn](https://open.spotify.com/track/7xqDIqjgXW9OHbi1sPxeUF) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Sunburn](https://open.spotify.com/album/1203zCqGjsMNe9vre3dMrJ) | 3:02 | 2022-05-20 | 2022-08-17 |
 | [Sunshine State](https://open.spotify.com/track/4fdnzqkyETaIfre0df8FHk) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Sunshine State](https://open.spotify.com/album/7EWBIDFpNqrkZgN6UduHij) | 2:18 | 2021-07-16 | 2022-04-12 |
 | [Super Good Times](https://open.spotify.com/track/1qooiZqttVLM5Z2dHLofHM) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/5a7aGgIO1ZziPyjE6MJZ8T) | 3:41 | 2021-02-26 | 2022-07-27 |
 | [Sweet & Spice](https://open.spotify.com/track/0fp2T3VVFl1lhvGQYMCAlj) | [Deb Never](https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul), [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh) | [Sweet & Spice](https://open.spotify.com/album/4ucJZ3wTSXTZ3YUwzGcWwH) | 2:50 | 2021-08-13 | 2022-02-12 |

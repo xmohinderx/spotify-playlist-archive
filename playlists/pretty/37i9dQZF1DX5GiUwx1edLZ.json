@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"https://open.spotify.com/genre/edm_dance\">Dance music</a> unplugged.",
-  "num_followers": 272960,
+  "num_followers": 272964,
   "original_name": "mint Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjM0Mjk1MiwwMDAwMDAwMGE0MWQ5YTI0MTYzMjUxZTgwMjVmMDE3MWZkZWVjMTZh",
+  "snapshot_id": "MTY1NjM0Mjk1MiwwMDAwMDAwMDI2NWFmYTI3NmZlMDM5ZjY2YTQ4MTY2N2ExYjc3MmI4",
   "tracks": [
     {
       "added_at": "2022-06-27 15:15:52",
@@ -327,26 +327,6 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Perfect Strangers",
-        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 191206,
-      "name": "Perfect Strangers - Acoustic",
-      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
         "name": "Hey (Acoustic Version)",
         "url": "https://open.spotify.com/album/2ZwzsbOlmqGn7AGgK4pVNC"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 156804,
       "name": "Hey - Acoustic",
       "url": "https://open.spotify.com/track/28vyxr4A3WyiZ9dR1mTIr5"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "Perfect Strangers",
+        "url": "https://open.spotify.com/album/0qFyB887vUrt0HJPRKsNDW"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 191206,
+      "name": "Perfect Strangers - Acoustic",
+      "url": "https://open.spotify.com/track/1UToeULiroxGaVUHyAb7J2"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        }
-      ],
-      "duration_ms": 174413,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
         "name": "Glorious",
         "url": "https://open.spotify.com/album/3M9tDLu83Y8XlcicBUF3sL"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 165653,
       "name": "Last Kiss",
       "url": "https://open.spotify.com/track/1LYipMFKz8X6fNU7RJvvVW"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/4jKdXIJckKh7la6xHuKwRT"
+      },
+      "artists": [
+        {
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        }
+      ],
+      "duration_ms": 174413,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/4ccQmBycgXDYtIA7Z1i32V"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1531,6 +1531,26 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
+        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 161146,
+      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
+      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
         "name": "Looking For Me (Remixes)",
         "url": "https://open.spotify.com/album/0IR8DIvSzJAGlSGqypZsNE"
       },
@@ -1551,26 +1571,6 @@
       "duration_ms": 163562,
       "name": "Looking For Me - Acoustic",
       "url": "https://open.spotify.com/track/5lyamXh1WgObdOl7Cmsgol"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
-        "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-        "url": "https://open.spotify.com/album/3hKRY4DD8oIvlKOsfaMqcM"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 161146,
-      "name": "My Heart Goes (La Di Da) (Acoustic feat. Topic)",
-      "url": "https://open.spotify.com/track/5SaWCxHm3nONtaL0pNxiJZ"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1687,6 +1687,26 @@
       "duration_ms": 201468,
       "name": "How to Love (feat. Sofia Reyes) - Acoustic",
       "url": "https://open.spotify.com/track/52B2TNxEZ7z7ytwLdA99pG"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
+        "name": "The Acoustics",
+        "url": "https://open.spotify.com/album/5fTKBGwZbOLj9uNirwqFP7"
+      },
+      "artists": [
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        },
+        {
+          "name": "BullySongs",
+          "url": "https://open.spotify.com/artist/5YMqwPmb7ViNXM63g1MUH5"
+        }
+      ],
+      "duration_ms": 161724,
+      "name": "Walking With Shadows - Acoustic Version",
+      "url": "https://open.spotify.com/track/0fUsv9EmTEJNm3ydxOAIHL"
     },
     {
       "added_at": "2022-06-27 15:15:52",
@@ -1839,26 +1859,6 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
-        "name": "Used To Have It All (Acoustic Version)",
-        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
-      },
-      "artists": [
-        {
-          "name": "F\u00c4IS",
-          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
-        },
-        {
-          "name": "Afrojack",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 181934,
-      "name": "Used To Have It All - Acoustic",
-      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
         "name": "Violin Covers Pt. II",
         "url": "https://open.spotify.com/album/0ZlS2bNGornfljnDWFiS1g"
       },
@@ -1895,6 +1895,26 @@
     {
       "added_at": "2022-06-27 15:15:52",
       "album": {
+        "name": "Used To Have It All (Acoustic Version)",
+        "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
+      },
+      "artists": [
+        {
+          "name": "F\u00c4IS",
+          "url": "https://open.spotify.com/artist/5w6mMj1qwSILG0pcylfchp"
+        },
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 181934,
+      "name": "Used To Have It All - Acoustic",
+      "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
+    },
+    {
+      "added_at": "2022-06-27 15:15:52",
+      "album": {
         "name": "One More Dance (with Alida) [Acoustic]",
         "url": "https://open.spotify.com/album/5A0ctaIIj41AH1TPW1uIui"
       },
@@ -1927,26 +1947,6 @@
       "duration_ms": 214244,
       "name": "Starlight (Piano Version)",
       "url": "https://open.spotify.com/track/0mOvN6JOJcW2Y4PHfIDqYQ"
-    },
-    {
-      "added_at": "2022-06-27 15:15:52",
-      "album": {
-        "name": "I Could Be The One [Avicii vs Nicky Romero] (Remixes)",
-        "url": "https://open.spotify.com/album/1EzEbNySBZEQq6swaClGw0"
-      },
-      "artists": [
-        {
-          "name": "Avicii",
-          "url": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 231426,
-      "name": "I Could Be The One [Avicii vs Nicky Romero] - Noonie Bao Acoustic Mix",
-      "url": "https://open.spotify.com/track/5jENp0YwSkdQt9VbYI0DAC"
     }
   ],
   "unique_name": "mint Acoustic",

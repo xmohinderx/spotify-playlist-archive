@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,391 likes - 56 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,406 likes - 56 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sol, vind och vatten](https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted](https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d) | 3:09 |
 | 2 | [Sommartider](https://open.spotify.com/track/1d1BeKPNgaQ36wcxGqnfU3) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Puls](https://open.spotify.com/album/3GZKmNPvp6kTSlsGUcd7XM) | 3:22 |
 | 3 | [Dina färger var blå](https://open.spotify.com/track/00IRhIiynu3eZjVaegnJ2h) | [Tommy Nilsson](https://open.spotify.com/artist/0PnNyzP7CgoDXZHr6cWOyq) | [Det bästa med Tommy Nilsson](https://open.spotify.com/album/3PeAWLOAjjqvNgkF06Z6vQ) | 5:02 |
-| 4 | [Juni, Juli, Augusti](https://open.spotify.com/track/4UDnYc528V932a2lEtMQ5P) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 3:52 |
+| 4 | [Juni, Juli, Augusti](https://open.spotify.com/track/2AXTRWWGTwgp0Ud8cPzT5S) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Konstpaus](https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW) | 3:52 |
 | 5 | [Sommaren är kort](https://open.spotify.com/track/2W7tzqjAPXG97RthXx6pNR) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Gränslös \(Bonus Track Version\)](https://open.spotify.com/album/6Z2Q0V5dalO2v1geFWi4cp) | 3:03 |
 | 6 | [Öppna landskap](https://open.spotify.com/track/1WVjxyTSZ5UiI6TlcHyUPh) | [Ulf Lundell](https://open.spotify.com/artist/5kFHS4mQd9W0r7qDp8ec9A) | [Öppna Landskap 7595](https://open.spotify.com/album/7aB0bPRv2elnc0Ou1whaty) | 4:38 |
 | 7 | [Oh, vilken härlig da'](https://open.spotify.com/track/1Taqw1VEHl8Gy9qAZtRLAq) | [Ted Gärdestad](https://open.spotify.com/artist/6zpub6jbY6CdrcqQsDq8P4) | [Ted](https://open.spotify.com/album/7pY0hwPU10gaH4qDsDFA6d) | 3:20 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 55 | [Idas sommarvisa](https://open.spotify.com/track/2RMsi5l0uQX4P02zNmuSIS) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Idas sommarvisa](https://open.spotify.com/album/7lDGD4QOhMnMMD0Hq42Zy4) | 1:51 |
 | 56 | [Till Stockholms skärgård](https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE) | 4:38 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMGFiY2VkOWNiMjY2Mjg2NTc5NjFjZjA5M2NiMmNmMDcx`
+Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDQyMjcxMTE3MDc3YWJlZGM4MTIxZTY3ZDViOWM1NWQ4`

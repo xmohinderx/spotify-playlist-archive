@@ -1,12 +1,12 @@
 {
   "description": "A musical celebration of women in R&amp;B, from its earliest acts to its newest stars. Cover: Mary J. Blige",
-  "num_followers": 470262,
+  "num_followers": 470424,
   "original_name": "Women of R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0Njc2OTUzMiwwMDAwMDAwMDlkNWZhYzYwMzRmNTUxMjEwZThlMzZjMWY4YjYyMDEz",
+  "snapshot_id": "MTY0Njc2OTUzMiwwMDAwMDAwMDUzNDkxZmIxY2E2ZTU4NmIyMDI4MDA2MjY0YzE0YzY0",
   "tracks": [
     {
       "added_at": "2022-03-08 19:58:52",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-03-08 19:58:52",
       "album": {
+        "name": "Age Ain't Nothing But A Number",
+        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
+      },
+      "artists": [
+        {
+          "name": "Aaliyah",
+          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
+        }
+      ],
+      "duration_ms": 291400,
+      "name": "At Your Best (You Are Love)",
+      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
+    },
+    {
+      "added_at": "2022-03-08 19:58:52",
+      "album": {
         "name": "LOVE AND COMPROMISE",
         "url": "https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 206946,
       "name": "What You Did (feat. Ella Mai)",
       "url": "https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP"
-    },
-    {
-      "added_at": "2022-03-08 19:58:52",
-      "album": {
-        "name": "Age Ain't Nothing But A Number",
-        "url": "https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl"
-      },
-      "artists": [
-        {
-          "name": "Aaliyah",
-          "url": "https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4"
-        }
-      ],
-      "duration_ms": 291400,
-      "name": "At Your Best (You Are Love)",
-      "url": "https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam"
     },
     {
       "added_at": "2022-03-08 19:58:52",

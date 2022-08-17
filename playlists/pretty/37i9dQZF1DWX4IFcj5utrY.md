@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K?si=l71J8PpWRua6TAi1qSWMaA">DJ Kabila</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,824 likes - 74 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,843 likes - 74 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

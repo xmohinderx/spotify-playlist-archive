@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-237 songs - 14 hr 3 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
+238 songs - 14 hr 6 min - [published](https://open.spotify.com/playlist/0rvk5w1vdyj62Mqfk2UdnJ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Locked Away](https://open.spotify.com/track/4dDsN26EhF826uDrYz5BkX) | [Whales](https://open.spotify.com/artist/5zId1SmYy46E9v2KQsSTFR), [Courtney Drummey](https://open.spotify.com/artist/4sF2Kkq3hn0yTEGTNfanGl) | [Locked Away](https://open.spotify.com/album/6GeCiqBk5lBVg1pSY4MCBF) | 3:32 | 2021-11-19 | 2022-01-25 |
 | [Lone](https://open.spotify.com/track/6V90OtIX1Ja8OvqvPFMe9Z) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0) | [Lone](https://open.spotify.com/album/4woa0Yhe82WmbMGe7zuxS1) | 4:14 | 2022-03-04 | 2022-05-17 |
 | [Looking for the Light](https://open.spotify.com/track/4uatHMHq0tGTCUglWAUZOx) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO), [Laura Brehm](https://open.spotify.com/artist/7ddnIV2r4SLjuwyGlgLIWt) | [Space Boy](https://open.spotify.com/album/4Qa2yBO6R4r5g9mhSu4TVN) | 3:35 | 2022-04-25 | 2022-07-07 |
+| [Lose Our Minds](https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h) | [Curbi](https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT), [Jess Ball](https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07) | [Lose Our Minds](https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E) | 2:37 | 2022-08-16 |  |
 | [Losing Control](https://open.spotify.com/track/4deqAXqtabM0PUskQUelxt) | [Masayoshi Iimori](https://open.spotify.com/artist/0pdvKDKFxwUerd6uaYHqkU) | [Losing Control](https://open.spotify.com/album/281n7TlRzznNkJFlQDa3yg) | 3:43 | 2021-11-19 | 2022-02-15 |
 | [Lost & Found](https://open.spotify.com/track/5ids0N0UPvFHDYDtvDgVCl) | [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [R7CKY](https://open.spotify.com/artist/7nwTgB0QOv2yGprKxofyT8), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [Lost & Found](https://open.spotify.com/album/1Qpo82QvvoXCawctSQfNNJ) | 3:57 | 2022-02-21 | 2022-05-03 |
 | [Love For You](https://open.spotify.com/track/7ao8imeoghP0rWSOrIJalv) | [SABAI](https://open.spotify.com/artist/4OaSyxqlkp7aVpAZwF02QZ), [Madalen Duke](https://open.spotify.com/artist/5qElg3REYcoPscmGLy0NmU) | [Love For You](https://open.spotify.com/album/3ymyjHRaZNbk8c2Sa2u8sg) | 3:23 | 2022-01-14 | 2022-03-24 |
@@ -243,7 +244,7 @@
 | [Won't Stop](https://open.spotify.com/track/6oS0xGbxzpkHh3f7ODXImB) | [Leah Culver](https://open.spotify.com/artist/0KEExJc1NKwmzJxQHbbkts) | [Won't Stop](https://open.spotify.com/album/3NXkqxY34ICPVZdMKl0CPO) | 4:38 | 2022-04-19 | 2022-06-30 |
 | [WYGD](https://open.spotify.com/track/2TRhRhzp9xGrS7yWtDJili) | [Bishu](https://open.spotify.com/artist/1DzQInbDVhE9Lh5s6T0DUL) | [WYGD](https://open.spotify.com/album/0nuPNR9F9QyfuxtOT0Fqhs) | 2:28 | 2022-03-01 | 2022-05-13 |
 | [You Fill My Soul](https://open.spotify.com/track/0IOG53eZR3vo0HtmfKkyG5) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [You Fill My Soul](https://open.spotify.com/album/29hikAxjTpTa0hO5wAi1vL) | 4:18 | 2022-08-05 |  |
-| [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 |  |
+| [Your Heart](https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN) | [Maliboux](https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7) | [Your Heart](https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9) | 2:35 | 2022-06-03 | 2022-08-17 |
 | [Your Way](https://open.spotify.com/track/3kSm5HaznTY7Lkhl5fFpS6) | [Odsen](https://open.spotify.com/artist/5u9LEu640uGxBEKnU1PY9V) | [Your Way](https://open.spotify.com/album/75EEPbee9YaPfkY8oHEpAT) | 2:57 | 2022-06-24 |  |
 
 \*This playlist was first scraped on 2022-01-22. Prior content cannot be recovered.

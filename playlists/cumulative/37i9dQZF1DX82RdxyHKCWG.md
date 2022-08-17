@@ -4,7 +4,7 @@
 
 > As novidades e estrelas do pop que estão explodindo no Spotify\. ✨ Foto: Nicki Minaj
 
-198 songs - 10 hr 18 min - [published](https://open.spotify.com/playlist/3wdKHKFrfBQB4tWK10E8xH)
+199 songs - 10 hr 21 min - [published](https://open.spotify.com/playlist/3wdKHKFrfBQB4tWK10E8xH)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,8 @@
 | [The Motto](https://open.spotify.com/track/18asYwWugKjjsihZ0YvRxO) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [The Motto](https://open.spotify.com/album/278z9UXJaMNDH9Bel9uAxV) | 2:44 | 2022-05-23 |  |
 | [The One](https://open.spotify.com/track/55tQMd3wlWyiB51q6CGZgS) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [The One](https://open.spotify.com/album/1wjFYIGn9tsz6egrNisZj1) | 2:25 | 2022-05-27 | 2022-06-11 |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-23 | 2022-05-28 |
-| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 |  |
+| [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 | 2022-08-12 |  |
+| [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 | 2022-07-22 | 2022-08-17 |
 | [Treat Me](https://open.spotify.com/track/2ZCu2xskiEBCV3y0eu0zJG) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Treat Me](https://open.spotify.com/album/07OIugKUfGzqhgZxJ4v7qP) | 2:29 | 2022-05-23 | 2022-07-16 |
 | [TROPA](https://open.spotify.com/track/3WYaDvxzcESlLucPoxLiB7) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [TROPA](https://open.spotify.com/album/5ja8CvkysnLRmb2hNgC1uc) | 2:20 | 2022-07-01 | 2022-07-23 |
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 
 > Cruise to the smooth grooves of these yacht rock tunes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,251,274 likes - 75 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,251,615 likes - 75 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,11 +31,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 21 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 22 | [What a Fool Believes](https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [Minute by Minute](https://open.spotify.com/album/7je2uv9QBH65HhADDZitbB) | 3:43 |
 | 23 | [Sailing](https://open.spotify.com/track/6Hu6dzwlvoyg3zBUC8k4BK) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/2m2nl8cBT7bEgIA6LLmgah) | 4:16 |
-| 24 | [Islands In the Stream](https://open.spotify.com/track/6dnco8haegnJYtylV26cBq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Greatest Hits](https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs) | 4:11 |
-| 25 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
+| 24 | [Baker Street](https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP) | [Gerry Rafferty](https://open.spotify.com/artist/7tjbDPvrdvDshcpEMXKRVb) | [City to City](https://open.spotify.com/album/35yZZTWeSrszSKjRlFETwf) | 6:05 |
+| 25 | [Islands In the Stream](https://open.spotify.com/track/6dnco8haegnJYtylV26cBq) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Greatest Hits](https://open.spotify.com/album/3b3xKNoWtZLWdxuaL0sKCs) | 4:11 |
 | 26 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
-| 27 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 |
-| 28 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
+| 27 | [I'd Really Love to See You Tonight](https://open.spotify.com/track/2r008pcfVYc0zgQvSRqUJE) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Nights Are Forever](https://open.spotify.com/album/1lAMkHFW0e51taMt34LUQ2) | 2:39 |
+| 28 | [Easy Lover](https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall \(Expanded Edition\)](https://open.spotify.com/album/59RsiGLQVyFHiFn2K5VNvX) | 5:05 |
 | 29 | [Love Will Keep Us Together](https://open.spotify.com/track/4pCNJwixy2ImFncaPY2yE2) | [Captain & Tennille](https://open.spotify.com/artist/7BEfMxbaqx6dOpbtlEqScm) | [Love Will Keep Us Together](https://open.spotify.com/album/3GUxesVyOehInaxJyCTh6d) | 3:25 |
 | 30 | [Lido Shuffle](https://open.spotify.com/track/2NtqZmfRIDkXJ2YvY2Kv1F) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees](https://open.spotify.com/album/7DysI4j6UqK00RTfETKXqs) | 3:41 |
 | 31 | [After the Love Has Gone](https://open.spotify.com/track/3cfnGXJ9bmiWvFqEO6ff8B) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:38 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb3m918yXHxA.md) - [plain]
 | 74 | [Is It You](https://open.spotify.com/track/5eWTNSMTX5BxuYYuOU4vYq) | [Lee Ritenour](https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq) | [Rit, Vol\. 1](https://open.spotify.com/album/4La5Rv7uDtnbsgVQxGdwMR) | 4:29 |
 | 75 | [Too Hot](https://open.spotify.com/track/0jNTJSaktLVy8iAi7KY2zB) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Ladies' Night](https://open.spotify.com/album/0zK7P6PLhBU02U9Tc98VSK) | 4:55 |
 
-Snapshot ID: `MTY2MDE2ODc5MSwwMDAwMDAwMGZkODU0ZDIzYzc0NWQ4ZGEzZDVhNWFmM2MzZDA2YmQ4`
+Snapshot ID: `MTY2MDE2ODc5MSwwMDAwMDAwMDliMmU1ZGRmMTEwM2RlMmU3NmI1MmJhODg3ZDgwNTY0`

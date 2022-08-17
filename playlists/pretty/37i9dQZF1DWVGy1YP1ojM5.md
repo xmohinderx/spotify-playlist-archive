@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Sensual silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 382,089 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,257 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,15 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 25 | [Julie.](https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Neptune](https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA) | 3:51 |
 | 26 | [Sunny & 62](https://open.spotify.com/track/0DxUIAw4ZlsOOo2KPFU3Hf) | [Mac Ayres](https://open.spotify.com/artist/0fTav4sBLmYOAzKuJw0grL) | [Magic 8ball](https://open.spotify.com/album/0fjJoEGBF5hxlv862DjVx5) | 4:21 |
 | 27 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
-| 28 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 |
-| 29 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 |
+| 28 | [Fast Car](https://open.spotify.com/track/18kMrxuEwLL0i4lHnlF5rK) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fast Car](https://open.spotify.com/album/1sh8dsfPPlCVXVux5NgX5d) | 3:30 |
+| 29 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 |
 | 30 | [everybody knows](https://open.spotify.com/track/5hI3LDMdW5psqk8ClzSHid) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [everybody knows](https://open.spotify.com/album/3Iqj7izDM8MKscAuEtpL4J) | 3:22 |
 | 31 | [Jelly](https://open.spotify.com/track/2uNaZDWpXOuB9r5Wi5wTzk) | [Phabo](https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn) | [Soulquarius](https://open.spotify.com/album/762U5ToU14EyGscZC1iwzg) | 2:49 |
 | 32 | [Free Like Me](https://open.spotify.com/track/0grbhFgGDSVcPeWRXehe8U) | [Marc E\. Bassy](https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Free Like Me](https://open.spotify.com/album/4DQdhSH4kOwjkz8OwcCuDd) | 3:26 |
 | 33 | [When Love's Around \(feat\. Syd\)](https://open.spotify.com/track/4iC9bQomdbH5YPYi4HrECX) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Nobody Is Listening](https://open.spotify.com/album/3uMWm5YRiYJFoqji7wYKsR) | 3:11 |
 | 34 | [Me & Mrs\. Wong](https://open.spotify.com/track/1f4azUUkHGvH43cbnp1Mca) | [Slodown](https://open.spotify.com/artist/3bdade2XqS9F4378nhCNcl), [Dumbfoundead](https://open.spotify.com/artist/7LTShHcq1KdTrWeLvWoYed) | [Under The Rose](https://open.spotify.com/album/4AftlAP5Qsw1CJAyRDz3rT) | 3:50 |
-| 35 | [Love song](https://open.spotify.com/track/12ZIJvwUlRiu8KXomPkihd) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Love song](https://open.spotify.com/album/0tbJQJEE3eQCdhvD1WJ7PJ) | 3:27 |
-| 36 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 |
+| 35 | [Slow Down](https://open.spotify.com/track/5nRm6kz4ntiBGtygxGg5Dy) | [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [Slow Down](https://open.spotify.com/album/4iDt95eDvKRfuf8fsVXNzl) | 3:48 |
+| 36 | [Love song](https://open.spotify.com/track/12ZIJvwUlRiu8KXomPkihd) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [Love song](https://open.spotify.com/album/0tbJQJEE3eQCdhvD1WJ7PJ) | 3:27 |
 | 37 | [Alone](https://open.spotify.com/track/6t5cacQjKUVzNqN4kJSaV2) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 2:15 |
 | 38 | [Scatterbrain](https://open.spotify.com/track/6iP5RyT5UYri2lBXF5HXPv) | [DLG.](https://open.spotify.com/artist/6OjbjDH6ZfL9NWdioYibGP) | [Scatterbrain](https://open.spotify.com/album/64c2dTgv8xt5r7gESPYyql) | 3:48 |
 | 39 | [Lucky Me](https://open.spotify.com/track/0Ztok1tyr8YbgTi6iUJM9X) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf) | [Lucky Me](https://open.spotify.com/album/34Kos9rX5MrGc0MXDnOZ2K) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 49 | [Glitter Ain't Gold](https://open.spotify.com/track/0XrKhZ9Ob6yqxpqcalNMFN) | [Jay Lewn](https://open.spotify.com/artist/3yfgNzGGBhgqdFaYE89ntD), [Jaz Karis](https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I) | [Glitter Ain't Gold](https://open.spotify.com/album/2KYBKrXIlbnajS0P6UoQ2c) | 3:41 |
 | 50 | [Invisible](https://open.spotify.com/track/1Ub3KfqVC03ePKa1Zr0BEr) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Invisible](https://open.spotify.com/album/7GX5Uk4qudzPAyKjsE20OG) | 3:48 |
 
-Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMGExYWIzYjFmYjQxM2UwZjU0NGIxNWE3NTg4ZjAyZTRj`
+Snapshot ID: `MTY0OTA5NDE3MywwMDAwMDAwMDhmZTczZDdhMmZmNmM5Y2YxYWUxNzBiY2E2ZDUyNDg0`

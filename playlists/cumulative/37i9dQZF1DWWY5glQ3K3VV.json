@@ -1511,6 +1511,28 @@
     {
       "album": {
         "name": "Famoso",
+        "url": "https://open.spotify.com/album/5fTgdXawyLC7oZEry7jGEk"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2022-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191869,
+      "name": "Hollywood (feat. Diplo)",
+      "url": "https://open.spotify.com/track/1gnKOz6FFFOcP3DqvDz0Rt"
+    },
+    {
+      "album": {
+        "name": "Famoso",
         "url": "https://open.spotify.com/album/59znAGeM6NNmzTkkV6MHrT"
       },
       "artists": [
@@ -1635,7 +1657,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 135934,
       "name": "Italiano Anthem",
       "url": "https://open.spotify.com/track/4fF0PqNas0SQSQnOyAsaeG"

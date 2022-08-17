@@ -852,6 +852,28 @@
     },
     {
       "album": {
+        "name": "BYE (feat. Whee In)",
+        "url": "https://open.spotify.com/album/2iPk0O4IWcWVVHxnpCzHbx"
+      },
+      "artists": [
+        {
+          "name": "RAVI",
+          "url": "https://open.spotify.com/artist/42xj5mBLvrFdW6tYns6mxs"
+        },
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188293,
+      "name": "BYE (feat. Whee In)",
+      "url": "https://open.spotify.com/track/55oxwFzHYVKmtSawW9MlTu"
+    },
+    {
+      "album": {
         "name": "The Road : Winter for Spring",
         "url": "https://open.spotify.com/album/0jsUbgbuyBIVztpkDKYNxZ"
       },
@@ -4011,7 +4033,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-04",
+      "date_removed": null,
       "duration_ms": 182155,
       "name": "SAVIOR -Japanese ver.-",
       "url": "https://open.spotify.com/track/6Q6xoyS5cJ8jQbsJhcahEt"
@@ -5385,6 +5407,24 @@
       "duration_ms": 220653,
       "name": "Weapon (With Newnion, FLOOR) (Prod.Czaer)",
       "url": "https://open.spotify.com/track/6poVmpGU3y3jj1Z9xbbbH4"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
+        "url": "https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191853,
+      "name": "WHISPER",
+      "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
       "album": {

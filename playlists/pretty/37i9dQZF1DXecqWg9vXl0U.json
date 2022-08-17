@@ -1,12 +1,12 @@
 {
   "description": "como en una nube. Bedroom pop vibes featuring Cuco.",
-  "num_followers": 31439,
+  "num_followers": 31463,
   "original_name": "\u2728 dreamy \u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDBjNDUxMGVhMGI3ZDU3NmMxODE5OTMzZmQ3Y2JlZWI2",
+  "snapshot_id": "MTY1OTA3MDgwMCwwMDAwMDAwMDY3ZDYxMzJjMTYyMWI5NmIyNWRlMGJmZDc2MTI0YjAy",
   "tracks": [
     {
       "added_at": "2022-07-29 05:00:00",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "roncola",
-        "url": "https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9"
-      },
-      "artists": [
-        {
-          "name": "Ankli",
-          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
-        }
-      ],
-      "duration_ms": 172942,
-      "name": "roncola",
-      "url": "https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Gotas",
         "url": "https://open.spotify.com/album/76YyNZPRiXT5cyULAqajlB"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 215156,
       "name": "Gotas",
       "url": "https://open.spotify.com/track/3RPVMsjKwcPb4M9BsqeYhd"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "roncola",
+        "url": "https://open.spotify.com/album/7wBnQpzEspxCuDIfBcvtH9"
+      },
+      "artists": [
+        {
+          "name": "Ankli",
+          "url": "https://open.spotify.com/artist/3KZvceRfxWCtbJ0jW5BZHI"
+        }
+      ],
+      "duration_ms": 172942,
+      "name": "roncola",
+      "url": "https://open.spotify.com/track/36KSajo0NyH3eGgbS4AuJ7"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Horas Contigo",
-        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
-      },
-      "artists": [
-        {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
-        }
-      ],
-      "duration_ms": 160028,
-      "name": "Horas Contigo",
-      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Nunca Te Dejar\u00e9 Ir",
         "url": "https://open.spotify.com/album/2DJ7QXD6yaWvyylxsizFcx"
       },
@@ -575,22 +559,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Te Voy a Extra\u00f1ar",
-        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
+        "name": "Horas Contigo",
+        "url": "https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe"
       },
       "artists": [
         {
-          "name": "Era de Oro",
-          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
-        },
-        {
-          "name": "Bilbao",
-          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
         }
       ],
-      "duration_ms": 217750,
-      "name": "Te Voy a Extra\u00f1ar",
-      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
+      "duration_ms": 160028,
+      "name": "Horas Contigo",
+      "url": "https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -623,6 +603,26 @@
       "duration_ms": 231400,
       "name": "tiempo",
       "url": "https://open.spotify.com/track/0TeOSjjpN80jyyZLc4RiLn"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Te Voy a Extra\u00f1ar",
+        "url": "https://open.spotify.com/album/4PpJ8Q9CMGidKj1EHhDEs8"
+      },
+      "artists": [
+        {
+          "name": "Era de Oro",
+          "url": "https://open.spotify.com/artist/78ZaNmvhhut7RJ2yNILLD7"
+        },
+        {
+          "name": "Bilbao",
+          "url": "https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT"
+        }
+      ],
+      "duration_ms": 217750,
+      "name": "Te Voy a Extra\u00f1ar",
+      "url": "https://open.spotify.com/track/16Ue2BIfTQKCukXrC8bu9Q"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -675,18 +675,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "GARZA",
-        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+        "name": "1990",
+        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
       },
       "artists": [
         {
-          "name": "Cancamusa",
-          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 206489,
-      "name": "GARZA",
-      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+      "duration_ms": 100500,
+      "name": "1990",
+      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -707,6 +707,38 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "Ojos",
+        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+      },
+      "artists": [
+        {
+          "name": "Montufar",
+          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+        }
+      ],
+      "duration_ms": 222099,
+      "name": "Ojos",
+      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "GARZA",
+        "url": "https://open.spotify.com/album/2eXBKS6GDiidtFKu10IFgJ"
+      },
+      "artists": [
+        {
+          "name": "Cancamusa",
+          "url": "https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc"
+        }
+      ],
+      "duration_ms": 206489,
+      "name": "GARZA",
+      "url": "https://open.spotify.com/track/26CbNWcJrCh6VX5MKU9ihD"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "L\u00ednea Recta",
         "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
@@ -719,38 +751,6 @@
       "duration_ms": 207266,
       "name": "Dulce Amargo",
       "url": "https://open.spotify.com/track/6KcpZ7jPd0Rf58em3JNpeK"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "1990",
-        "url": "https://open.spotify.com/album/3QstzFfkNiVxsgCyjCC7iS"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 100500,
-      "name": "1990",
-      "url": "https://open.spotify.com/track/4GZuIMVBPy6POYGa4rvhKz"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "D\u00ed Que No",
-        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
-      },
-      "artists": [
-        {
-          "name": "Celest",
-          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
-        }
-      ],
-      "duration_ms": 235066,
-      "name": "D\u00ed Que No",
-      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -771,34 +771,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Ojos",
-        "url": "https://open.spotify.com/album/1aubTSnt8NNqx2mYBLNhsX"
+        "name": "D\u00ed Que No",
+        "url": "https://open.spotify.com/album/03dEcuGrRyypQTCtCHNXVh"
       },
       "artists": [
         {
-          "name": "Montufar",
-          "url": "https://open.spotify.com/artist/6BuzxLQYLRoxxjuD8iSx1t"
+          "name": "Celest",
+          "url": "https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl"
         }
       ],
-      "duration_ms": 222099,
-      "name": "Ojos",
-      "url": "https://open.spotify.com/track/15WodMbVgXo5jVuGtYztjp"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Colores crom\u00e1ticos",
-        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
-      },
-      "artists": [
-        {
-          "name": "Pau Laggies",
-          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
-        }
-      ],
-      "duration_ms": 255524,
-      "name": "Colores crom\u00e1ticos",
-      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
+      "duration_ms": 235066,
+      "name": "D\u00ed Que No",
+      "url": "https://open.spotify.com/track/6oLxwWMuLrfFpOYQBW0ZS0"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -815,6 +799,22 @@
       "duration_ms": 120000,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/47pbvBtWtt7aMHENsw8ehQ"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "Colores crom\u00e1ticos",
+        "url": "https://open.spotify.com/album/6lOtV6TYKrZ6xqNWGVPmed"
+      },
+      "artists": [
+        {
+          "name": "Pau Laggies",
+          "url": "https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t"
+        }
+      ],
+      "duration_ms": 255524,
+      "name": "Colores crom\u00e1ticos",
+      "url": "https://open.spotify.com/track/2L0ftx1kVAOE5QjJDMf8cD"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
+        "name": "What Do You Want It To Be?",
+        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+      },
+      "artists": [
+        {
+          "name": "Estereomance",
+          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+        }
+      ],
+      "duration_ms": 242241,
+      "name": "Gardenia Dreams",
+      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
         "name": "Gravedad",
         "url": "https://open.spotify.com/album/41HCCPohSanX5WyWFrKDgN"
       },
@@ -871,18 +887,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "What Do You Want It To Be?",
-        "url": "https://open.spotify.com/album/0zj0QfL92o9OPwtKvwW5pL"
+        "name": "Amor Como Pu\u00f1al",
+        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
       },
       "artists": [
         {
-          "name": "Estereomance",
-          "url": "https://open.spotify.com/artist/0sPz0BuaI7sSF0mzku6fZd"
+          "name": "Loyal Lobos",
+          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
         }
       ],
-      "duration_ms": 242241,
-      "name": "Gardenia Dreams",
-      "url": "https://open.spotify.com/track/585X2YqQiRUD0OC5FrPyQh"
+      "duration_ms": 181600,
+      "name": "Amor Como Pu\u00f1al",
+      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -903,18 +919,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Amor Como Pu\u00f1al",
-        "url": "https://open.spotify.com/album/1hD1UWONeqXqGrUXp07zzf"
+        "name": "Bijoux",
+        "url": "https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC"
       },
       "artists": [
         {
-          "name": "Loyal Lobos",
-          "url": "https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf"
+          "name": "Soap",
+          "url": "https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB"
         }
       ],
-      "duration_ms": 181600,
-      "name": "Amor Como Pu\u00f1al",
-      "url": "https://open.spotify.com/track/0TJNfCB3eN9wEIdxZhrbO8"
+      "duration_ms": 262666,
+      "name": "Bijoux",
+      "url": "https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -939,18 +955,18 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "Bijoux",
-        "url": "https://open.spotify.com/album/7gxGCdVpkDisfbfPfOD1qC"
+        "name": "Never Felt This Before",
+        "url": "https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX"
       },
       "artists": [
         {
-          "name": "Soap",
-          "url": "https://open.spotify.com/artist/1XlQX9RnsbZuOm7gByAyIB"
+          "name": "Sexy Pigeon",
+          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
         }
       ],
-      "duration_ms": 262666,
-      "name": "Bijoux",
-      "url": "https://open.spotify.com/track/2HAyheU6dVyB9YaokB56SW"
+      "duration_ms": 110175,
+      "name": "Never Felt This Before",
+      "url": "https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -967,22 +983,6 @@
       "duration_ms": 193274,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/21MYb5lHO9aHo07eRl8eWn"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
-        "name": "Never Felt This Before",
-        "url": "https://open.spotify.com/album/2G6NH2GXi3MDgybZDg0WKX"
-      },
-      "artists": [
-        {
-          "name": "Sexy Pigeon",
-          "url": "https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U"
-        }
-      ],
-      "duration_ms": 110175,
-      "name": "Never Felt This Before",
-      "url": "https://open.spotify.com/track/4sk52d9BtlFPV4FYsBtivD"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "SIN DISFRAZ",
-        "url": "https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 155178,
-      "name": "SIN DISFRAZ",
-      "url": "https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Perdida En Un Sue\u00f1o",
         "url": "https://open.spotify.com/album/16dfrsHTy1aqUMm8qoknPz"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 154440,
       "name": "Perdida En Un Sue\u00f1o",
       "url": "https://open.spotify.com/track/1wRVAinPRWyR67BD7DIlRJ"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "SIN DISFRAZ",
+        "url": "https://open.spotify.com/album/5wSk9XLTcNDxAEgFFVaZbC"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 155178,
+      "name": "SIN DISFRAZ",
+      "url": "https://open.spotify.com/track/4Mtqamm7J5n56aUdDDnI4X"
     },
     {
       "added_at": "2022-07-29 05:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2022-07-29 05:00:00",
       "album": {
-        "name": "mi amiga & yo",
-        "url": "https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms"
-      },
-      "artists": [
-        {
-          "name": "Mila",
-          "url": "https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp"
-        }
-      ],
-      "duration_ms": 168181,
-      "name": "mi amiga & yo",
-      "url": "https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF"
-    },
-    {
-      "added_at": "2022-07-29 05:00:00",
-      "album": {
         "name": "Lo Que Extra\u00f1as Ya No Existe",
         "url": "https://open.spotify.com/album/5Bp8NLfEfGAaXoTYjFvShH"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 208276,
       "name": "\u00c1mbar",
       "url": "https://open.spotify.com/track/5xfqvQKlmZwC6aGbsW95w6"
+    },
+    {
+      "added_at": "2022-07-29 05:00:00",
+      "album": {
+        "name": "mi amiga & yo",
+        "url": "https://open.spotify.com/album/6XAO4Ieu8TmJ1Fa3UBI5ms"
+      },
+      "artists": [
+        {
+          "name": "Mila",
+          "url": "https://open.spotify.com/artist/3w1KTqetFroZp8sL55Mmrp"
+        }
+      ],
+      "duration_ms": 168181,
+      "name": "mi amiga & yo",
+      "url": "https://open.spotify.com/track/6ukxKZD87THmjrF2utaAGF"
     },
     {
       "added_at": "2022-07-29 05:00:00",

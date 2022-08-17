@@ -4,7 +4,7 @@
 
 > Strut to electronic tracks that grace the runways everywhere.
 
-155 songs - 12 hr 48 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
+156 songs - 12 hr 50 min - [published](https://open.spotify.com/playlist/5wAPYscM8lPvRRX5e0inx7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 | 2022-05-06 | 2022-07-29 |
 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 | 2022-05-06 |  |
 | [Colourblind](https://open.spotify.com/track/7ekWSkrWplexjibTqAjJvI) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [Abra](https://open.spotify.com/artist/2Wk3jBp9txJl8QiQXxY0Tu) | [Gold Rush](https://open.spotify.com/album/5SJk7kSbK1ExlrA06MxMC5) | 4:31 | 2022-05-06 | 2022-07-28 |
+| [Composure](https://open.spotify.com/track/1GWk76nrxsuqWIN2GWZaYu) | [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Composure](https://open.spotify.com/album/4sC2TBLprR7nOwxtG3xWMj) | 2:29 | 2022-08-12 |  |
 | [Controller](https://open.spotify.com/track/34aM4AadnV3foQ1cadQYr9) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/0nVzRQh8j8RyVhi7qvJzD5) | 3:28 | 2022-05-06 | 2022-07-29 |
 | [Controller](https://open.spotify.com/track/7vHlOaJF7lfWOfProxfCot) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Controller](https://open.spotify.com/album/4oZmVz6iGZzIjNMCkEITht) | 3:28 | 2022-06-14 |  |
 | [Crispy Bacon](https://open.spotify.com/track/3PQGdUJ9GTKv0EttfvPlii) | [Laurent Garnier](https://open.spotify.com/artist/3y1SoTOdrmRNTBVph5T0VZ) | [30](https://open.spotify.com/album/5761VhMoUzFCyx9jjD62kn) | 5:52 | 2022-06-14 |  |
@@ -57,7 +58,7 @@
 | [He](https://open.spotify.com/track/6ysRK6One7O5GiRVvrs0x1) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Do You Love Her Now / He](https://open.spotify.com/album/6DnxZc9FT5qSMKKFDdviO2) | 4:28 | 2022-05-06 | 2022-07-29 |
 | [Heaven Scent](https://open.spotify.com/track/2T6JEq7d73tIY1XaKwXQQR) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/3h3n4PuvnhgigVDrTi6C87) | 4:43 | 2022-05-06 | 2022-07-29 |
 | [Heaven Scent](https://open.spotify.com/track/4VY9yQMuC8izfcybXmhYOY) | [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff), [Chloe Sevigny](https://open.spotify.com/artist/2wHNtBwYEwTG4pU4K9taDG) | [Heaven Scent](https://open.spotify.com/album/4ZkLW5cSNvLXZC2pmRxLdV) | 4:43 | 2022-06-14 |  |
-| [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 | 2022-05-06 |  |
+| [Helix \- Gesaffelstein Vision Remix](https://open.spotify.com/track/7Crjmkp1INHKL6dY9ofSMe) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Gesaffelstein](https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP) | [Helix](https://open.spotify.com/album/6eBYtM0UvlNlOz2CZf61DH) | 4:36 | 2022-05-06 | 2022-08-17 |
 | [Hold Up](https://open.spotify.com/track/6AxBhyZDlChhX1lNDGCf0P) | [WHIPPED CREAM](https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [UNIIQU3](https://open.spotify.com/artist/5aR8qSaApKChlZvzB0Jfpx), [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [Hold Up](https://open.spotify.com/album/6MmeK4J693NFnDma8cBVio) | 2:04 | 2022-05-06 |  |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2022-05-06 |  |
 | [I Go \- Soulwax Remix](https://open.spotify.com/track/577TxxoJTaW1BxH6EUDlTS) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN), [Soulwax](https://open.spotify.com/artist/43mWhBXSflupNLuNjM5vff) | [I Go \(Remixes\)](https://open.spotify.com/album/6vSb44JSrhaD24qkr8wNUj) | 6:50 | 2022-05-06 |  |

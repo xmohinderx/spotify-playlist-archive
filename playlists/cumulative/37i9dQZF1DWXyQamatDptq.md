@@ -2,7 +2,7 @@
 
 ### [Austin Millz's DJ Mix](https://open.spotify.com/playlist/37i9dQZF1DWXyQamatDptq)
 
-> The master in blending R&B, Soul, and Dance Music <a href =“ spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
+> The master in blending R&B, Soul, and Dance Music <a href=“spotify:artist:43UmVQp9qZILibJ5vHq21k”>Austin Millz</a>, brings a colorful DJ mix to bright up your day.
 
 24 songs - 59 min 23 sec - [published](https://open.spotify.com/playlist/5e54EVOirs5wIUw3rwpsZ7)
 

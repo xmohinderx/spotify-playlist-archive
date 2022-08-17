@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-235 songs - 13 hr 44 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
+236 songs - 13 hr 48 min - [published](https://open.spotify.com/playlist/0X0LW6lwV1SEGovOJVY5Oo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [360](https://open.spotify.com/track/5KGgrDNF3C5vXwgSPaYASE) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF) | [360](https://open.spotify.com/album/15V2zidbxeAZaYxodPkE3T) | 3:15 | 2022-01-10 | 2022-07-29 |
 | [7 Years](https://open.spotify.com/track/5kqIPrATaCc2LqxVWzQGbk) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham](https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v) | 3:57 | 2022-01-10 | 2022-08-09 |
 | [999 \(with Camilo\)](https://open.spotify.com/track/0EtuSDTRJYUwlPf4y6coIz) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [999 \(with Camilo\)](https://open.spotify.com/album/1ku34hDkNqM7caSllxf5Tu) | 3:44 | 2022-01-10 | 2022-07-29 |
-| [A Contracorriente](https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [A Contracorriente](https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4) | 3:14 | 2022-08-08 |  |
+| [A Contracorriente](https://open.spotify.com/track/2XBzPGUfiHG9xBGBuuKHwk) | [Alvaro Soler](https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [A Contracorriente](https://open.spotify.com/album/1A30cr9RFN6VDgsqMdFqg4) | 3:14 | 2022-08-08 | 2022-08-17 |
 | [A Dónde Vamos](https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [A Dónde Vamos](https://open.spotify.com/album/1rZx9sSqtP2gy4jmIZwVYc) | 3:23 | 2022-01-10 | 2022-07-29 |
 | [A fuego lento](https://open.spotify.com/track/7nK3q1GgJDxlWfCwtiLV5a) | [Rosana](https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0) | [Lunas rotas](https://open.spotify.com/album/3iZk2FY3YtnSNjx06Ft8Xg) | 3:40 | 2022-01-10 | 2022-07-29 |
 | [A Un Paso De La Luna](https://open.spotify.com/track/7ql2RUmAmj36tkMUNWo7MT) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Rocco Hunt](https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG) | [A Un Paso De La Luna](https://open.spotify.com/album/0IuCnS7obPd6pE3lJx0Ax8) | 2:47 | 2022-01-10 | 2022-07-27 |
@@ -91,6 +91,7 @@
 | [Girls Like You \(feat\. Cardi B\) \- Cardi B Version](https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girls Like You \(feat\. Cardi B\)](https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb) | 3:55 | 2022-08-08 |  |
 | [Give A Little Bit](https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G) | [Supertramp](https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx) | [Even In The Quietest Moments](https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w) | 4:08 | 2022-08-08 |  |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-01-10 | 2022-08-09 |
+| [Happy Now](https://open.spotify.com/track/4keoy2fqgwGnbWlm3ZVZFa) | [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K) | [Happy Now](https://open.spotify.com/album/0JcW7yCW3Qj8uMfzO2lUDb) | 3:27 | 2022-08-08 |  |
 | [Hasta Que Me Olvides](https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Aries](https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC) | 4:41 | 2022-01-10 | 2022-08-09 |
 | [Heat Waves](https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:58 | 2022-01-10 | 2022-08-09 |
 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 | 2022-01-10 | 2022-08-09 |

@@ -424,6 +424,28 @@
     },
     {
       "album": {
+        "name": "Artefact",
+        "url": "https://open.spotify.com/album/3JygQ7vwR0sa8OEXEN1Rj3"
+      },
+      "artists": [
+        {
+          "name": "Paul van Dyk",
+          "url": "https://open.spotify.com/artist/7wU1naftD3lNq7rNsiDvOR"
+        },
+        {
+          "name": "Fuenka",
+          "url": "https://open.spotify.com/artist/20LsNbfhofBFByG5kuRKvK"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220649,
+      "name": "Artefact",
+      "url": "https://open.spotify.com/track/4s5YiAfgPWyq37WukmceRI"
+    },
+    {
+      "album": {
         "name": "Ashes",
         "url": "https://open.spotify.com/album/5B5HDCCEGMkJELMnocaoSJ"
       },
@@ -2017,7 +2039,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 207334,
       "name": "Greece 2000",
       "url": "https://open.spotify.com/track/1GJX5BJFcdrFgIui67TdPF"
@@ -2480,7 +2502,7 @@
         },
         {
           "name": "Ginger",
-          "url": "https://open.spotify.com/artist/6NVB713i2YHmFq9vvyrs0L"
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
         }
       ],
       "date_added": "2022-08-12",
@@ -3912,6 +3934,24 @@
     },
     {
       "album": {
+        "name": "Playing Chess",
+        "url": "https://open.spotify.com/album/50tXNZuf7nO2A2RvckpFrl"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231739,
+      "name": "Playing Chess",
+      "url": "https://open.spotify.com/track/2leNp4jIw6UIypwbcIVR3S"
+    },
+    {
+      "album": {
         "name": "Poison",
         "url": "https://open.spotify.com/album/1TPKLkMqhU8arg0gX9lA6n"
       },
@@ -4485,7 +4525,7 @@
       ],
       "date_added": "2022-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 377142,
       "name": "Signals",
       "url": "https://open.spotify.com/track/7F8LoNeDRgItTcpTpYTmY3"

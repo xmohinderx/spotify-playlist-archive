@@ -1831,10 +1831,28 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 144921,
       "name": "Love Is An Only Child",
       "url": "https://open.spotify.com/track/2mKXwnyTLDOuZQz8vodLMh"
+    },
+    {
+      "album": {
+        "name": "Medicine",
+        "url": "https://open.spotify.com/album/4PsV0TGDBHtMwcc3rMyYaP"
+      },
+      "artists": [
+        {
+          "name": "J4",
+          "url": "https://open.spotify.com/artist/36Qkw8xpSta7ZunIBsdQvW"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193066,
+      "name": "Medicine",
+      "url": "https://open.spotify.com/track/3Kh2n3zlDSGUVlDM2sjkts"
     },
     {
       "album": {

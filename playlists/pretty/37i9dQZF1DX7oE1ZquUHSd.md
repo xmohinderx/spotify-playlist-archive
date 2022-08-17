@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. Foto: Cartel de Santa
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,764 likes - 100 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,940 likes - 100 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,9 +61,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 51 | [Me Puse Pedo](https://open.spotify.com/track/3ixbxMZyybv4j4iLrwc7gx) | [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [Me Puse Pedo](https://open.spotify.com/album/5U5Qffh1u1LA7thN8NS5kx) | 3:10 |
 | 52 | [Esta Noche](https://open.spotify.com/track/5vS3tfCF9cEnK32q7YrVNs) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Smile](https://open.spotify.com/album/59E1bNNidXNQyLWzBwnPNu) | 3:12 |
 | 53 | [Grandes Pasos](https://open.spotify.com/track/1kTDUMGq732oIs3XJK1bre) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Edición Especial](https://open.spotify.com/album/5DUcnGGmAANjBJuXVG0KxQ) | 3:38 |
-| 54 | [Más Flow Más Cash](https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 3:29 |
+| 54 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 |
 | 55 | [Return Of The Tres](https://open.spotify.com/track/5qVF2rEf75oPrZHhmZmDKk) | [Delinquent Habits](https://open.spotify.com/artist/0Ph64AJnzKQwXj4y7bWi2U) | [Merry Go Round](https://open.spotify.com/album/7urGVhRGLgozoouBLDKhom) | 4:14 |
-| 56 | [PURPURA](https://open.spotify.com/track/3npVUK2S6JXGkgJ4jnMULz) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [PURPURA](https://open.spotify.com/album/5aad1b86TKKucdAfbreQP2) | 3:14 |
+| 56 | [Más Flow Más Cash](https://open.spotify.com/track/47zBGuVCeAzjFEPnRQQBew) | [Millonario & W\. Corona](https://open.spotify.com/artist/31l8FA2bO5qxpqf8uhV5eZ) | [Así Soy Yo](https://open.spotify.com/album/7I1mThh5NCgS2BqrAWcMdi) | 3:29 |
 | 57 | [Perdón](https://open.spotify.com/track/6ATUv2VnD9x4F2zEFMQ1sT) | [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Bear Busby](https://open.spotify.com/artist/18u6URN38HiDhEhYqfUmiz) | [Éxitos, Vol\. 2](https://open.spotify.com/album/0bJflknytQqeyAG4HGDZyR) | 3:50 |
 | 58 | [C.R.O](https://open.spotify.com/track/6t5PsfTj1NA2hEwXcgsLYY) | [El Triangulo Estudio](https://open.spotify.com/artist/0N9TZYLIcufVLj5eQl5GLm) | [24/Siempre Vol.1](https://open.spotify.com/album/6pXhkTQvS9ZYWSJfETLnKr) | 1:50 |
 | 59 | [Natural](https://open.spotify.com/track/3tsBwY0wRBkiy8EBOY3O7z) | [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Teorema](https://open.spotify.com/album/4BrZpyJrJ3cPWgqIr6FLIU) | 3:24 |
@@ -76,9 +76,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 66 | [I Love You a Lo Vío](https://open.spotify.com/track/1J2LwSgNeYGtAZdlF4jZH3) | [Chystemc](https://open.spotify.com/artist/12wTrvRwxmsbUxkLffkPfv), [Movimiento Original](https://open.spotify.com/artist/5gFvMcdpe2BWR80gm5ydx3), [Adosene](https://open.spotify.com/artist/3UHXKNtEt4Tvu4EDYNt4mk) | [Techymuv](https://open.spotify.com/album/6cGNmvcaZLZWdGQHcpNXOe) | 5:11 |
 | 67 | [Solo Como Amigos](https://open.spotify.com/track/0LC8PbKuTyhCpsrdLtL3jz) | [La Banda Baston](https://open.spotify.com/artist/3vV4Tf1iC8vEP9fLOLGUfP), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [Luces Fantasma](https://open.spotify.com/album/0gzZ8kGuKfDlVtBVmDLNJj) | 4:33 |
 | 68 | [Duele](https://open.spotify.com/track/0vp1LRAhFT6PK9ixOmFT6E) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Duele](https://open.spotify.com/album/59IkAXXPqzP6DOuYsQ696T) | 2:39 |
-| 69 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
+| 69 | [Apaga el celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
 | 70 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
-| 71 | [Apaga el celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
+| 71 | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/track/7AA4lNDVhoyucOqhBO56XU) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Aczino](https://open.spotify.com/artist/4r1ZDYKzPt3iIjuq8LbT6X) | [Aczino: Bzrp Freestyle Sessions, Vol\. 8](https://open.spotify.com/album/2Ndg4eoQ9xUyZIPKrxiMoL) | 2:57 |
 | 72 | [G.P.S\. \- con Aleman](https://open.spotify.com/track/03e3pnRddWmYOVQlzs3Qnb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Taiu](https://open.spotify.com/artist/5szJHKg5xeUlQ9pTqzdpic), [TATOOL](https://open.spotify.com/artist/0shHIQr8VamXbzM66kwGQo) | [Atrevido](https://open.spotify.com/album/1xBoZOfcOsqd77V6AENKYC) | 3:48 |
 | 73 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
 | 74 | [Minotauro](https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Minotauro](https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg) | 4:05 |
@@ -95,10 +95,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 85 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 |
 | 86 | [21334](https://open.spotify.com/track/7lLedmf60WiIDLOmSbc5O3) | [Dani Ribba](https://open.spotify.com/artist/6cC67GpmPCjQjOYLpmOGhN) | [21334](https://open.spotify.com/album/0FM4ZAHSEWcFVVQe7gAHyF) | 2:57 |
 | 87 | [Esperanza](https://open.spotify.com/track/7MXNsAVPAK4pb0AeWvvPFc) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Esperanza](https://open.spotify.com/album/2pMJmuVitL0aZ1FdLp6jvg) | 2:56 |
-| 88 | [Tony Presidio](https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 6:11 |
+| 88 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
 | 89 | [Me Volví Loco](https://open.spotify.com/track/2Honklohe9Jg9tv24YkCZC) | [King Kong Click](https://open.spotify.com/artist/0lTSSQrxOMu4Keh48GrIkX) | [Buena Suerte](https://open.spotify.com/album/5Vy1jcdgMP8JJYglINGPga) | 3:14 |
-| 90 | [1977](https://open.spotify.com/track/7tOAN6w4a1LD0iqkRnIrhZ) | [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [1977](https://open.spotify.com/album/3ZhTbUZNobDXuzcYWGzxA3) | 3:21 |
-| 91 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
+| 90 | [Fue un Placer](https://open.spotify.com/track/6ounYf7Jo0JmtHp7p5ToC8) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Henceforth](https://open.spotify.com/album/7Fn1e0zmICLhMNO1Rp4ibx) | 3:48 |
+| 91 | [Tony Presidio](https://open.spotify.com/track/059R1Qzi5TyYqVKNT1xlaL) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Aquel Que Habia Muerto](https://open.spotify.com/album/4bs7KOBJGZnfSpP4QBP15G) | 6:11 |
 | 92 | [Amor Libre](https://open.spotify.com/track/1PT0H11VO2JSWjsCPR0CBd) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Shuga Wuga](https://open.spotify.com/artist/5K0ecq1n7e5BnM7FxgVi3G) | [Poesia Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:09 |
 | 93 | [Yo Quiero Fumar \(I Wanna Get High\) \- Spanish Version](https://open.spotify.com/track/3RIDe85YSYGGoJ0daSzfhD) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Los Grandes Éxitos En Español \(Spanish Greatest Hits\)](https://open.spotify.com/album/7u6yoSRjIBM2EI52DJLMkZ) | 2:46 |
 | 94 | [Sexo de Despedida](https://open.spotify.com/track/5v5kX73l0sZwZ7XYuL3vGq) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd) | [Nunca Vemos Nada](https://open.spotify.com/album/4xXjsyeUxgEUJtRU9Ftpbv) | 3:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Efectos Vocales](https://open.spotify.com/track/5CTkt6WZHrzG7i060niTmV) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Un Día En Suburbia](https://open.spotify.com/album/0aJ4ulwOTjZIMgcx5zVBd7) | 4:36 |
 | 100 | [Dios, El Diablo Y Yo](https://open.spotify.com/track/1oN8lrSSYirjd79ajvnYh7) | [Iluminatik](https://open.spotify.com/artist/0N6H5exnFMoW4yNQ3vDJ3Z) | [Grandes Éxitos, Vol\. 2](https://open.spotify.com/album/4eMRJj1sPqXwzAMmFexfzj) | 4:56 |
 
-Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDEyNGM3NWE1OGY3ZmVhOWM4YzFjNDA1YjQ1ZDUxM2Jk`
+Snapshot ID: `MTYzNzA5NDA5NywwMDAwMDAwMDQ3NDM0NzYyZWI2OThlOTgwOTAyOGQ1ZTA1NDljMDQ4`

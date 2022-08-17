@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 
 > There's no such thing as "too much fun." Let these country songs keep the party going!
 
-[Spotify](https://open.spotify.com/user/spotify) - 130,397 likes - 95 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,448 likes - 95 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,23 +45,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 35 | [Last Name](https://open.spotify.com/track/44xWtabQzBHKXxD0UVLSNQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 4:01 |
 | 36 | [It's Five O'Clock Somewhere](https://open.spotify.com/track/5oHHMDcVOmPSFrCgdbHPdb) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [34 Number Ones](https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN) | 3:50 |
 | 37 | [Cold Beer Calling My Name](https://open.spotify.com/track/3dV1fjKOlLnaNK5MeZHXGv) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN), [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Cold Beer Calling My Name](https://open.spotify.com/album/3sRPj5WMTrlTy2vTJW3BKx) | 3:30 |
-| 38 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
+| 38 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 |
 | 39 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 |
 | 40 | [One Margarita](https://open.spotify.com/track/6NhS5LwYbJ6xD7BGvlWRJO) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [One Margarita](https://open.spotify.com/album/6BOJ3r1s8u63at3Ou7HaVw) | 3:13 |
-| 41 | [Smoke A Little Smoke](https://open.spotify.com/track/1ESipSqVefdknPg5IBKFND) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Carolina](https://open.spotify.com/album/37iovsHz9HV9PPR2DLbNnC) | 3:11 |
+| 41 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
 | 42 | [My Kinda Party](https://open.spotify.com/track/215FCyLSBcXeX0NASXEjyn) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [My Kinda Party](https://open.spotify.com/album/6gYk1JlSSmlUZGs1Lef1BI) | 4:44 |
 | 43 | [Red Solo Cup](https://open.spotify.com/track/4YKAOXyqkKZ5gOZR0AmVMN) | [Toby Keith](https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8) | [Clancy's Tavern](https://open.spotify.com/album/0sndIMIlhlgn1eyavXRK1C) | 3:43 |
-| 44 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
+| 44 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
 | 45 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 |
-| 46 | [Chillin' It](https://open.spotify.com/track/0Utg7sirTPqrs6Cx0FbriQ) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:16 |
+| 46 | [It Ain't My Fault](https://open.spotify.com/track/08wJ1B9yu9sPeoRa5fbpr3) | [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [Pawn Shop](https://open.spotify.com/album/6BId6JLmkyr9QC81RdUWqT) | 3:36 |
 | 47 | [Here for the Party](https://open.spotify.com/track/0SuzUhWAgStNIMZR4jEGgk) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:16 |
 | 48 | [Drunk On You](https://open.spotify.com/track/3kv6omImmKEfOVJWjstusF) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Tailgates & Tanlines](https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe) | 3:33 |
 | 49 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |
 | 50 | [Leave The Night On](https://open.spotify.com/track/3wx2kQWPn9p5UppQbNhPAk) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [Montevallo](https://open.spotify.com/album/0V7c0hnrLUFJyHNtjiAT2E) | 3:12 |
 | 51 | [Tequila](https://open.spotify.com/track/7Il2yWQmsqKgSkLQvHTPUI) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Tequila](https://open.spotify.com/album/01w6VtM4EpFWvBNg4g9xZF) | 3:15 |
 | 52 | [Drink to That All Night](https://open.spotify.com/track/3M31S6f0z8S3nkFh3eS06W) | [Jerrod Niemann](https://open.spotify.com/artist/0RKP52f5PNDCRZ9Luq2Sr7) | [High Noon](https://open.spotify.com/album/0uQnXXbHhO6BQ1vFcwMwT8) | 3:44 |
-| 53 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
-| 54 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
+| 53 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
+| 54 | [Aw Naw](https://open.spotify.com/track/53Dj5PCDhb22qWqmre3YQs) | [Chris Young](https://open.spotify.com/artist/4BYxqVkZyFjtik7crYLg5Q) | [A.M.](https://open.spotify.com/album/3cyLH6iUGPjEsZIUFnJfd3) | 3:08 |
 | 55 | [Fix a Drink](https://open.spotify.com/track/0s6OWiWGuiCcm1Muzch5A8) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [EVERYBODY](https://open.spotify.com/album/6De0uTqKw2KMGDzidbCPhS) | 3:08 |
 | 56 | [Southbound](https://open.spotify.com/track/7qXPZxXn6Xmv1sjh03skiW) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Cry Pretty](https://open.spotify.com/album/6LURWtPusB5fGenqj0lbFd) | 3:22 |
 | 57 | [Any Ol' Barstool](https://open.spotify.com/track/4T5Z4mbTe7kuGqgLpaRtTh) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [They Don't Know](https://open.spotify.com/album/64IFfMf7W67CLvXaYeRNB6) | 3:23 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ph0alWhOXm.md) - [plain]
 | 94 | [Rosé](https://open.spotify.com/track/4kZpsP1KaQG5XbJaRbepro) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Bridges](https://open.spotify.com/album/0R6Q7uTHABCsPag3LMRILX) | 2:59 |
 | 95 | [Waste of Lime](https://open.spotify.com/track/59Y2VUXjLa5j6rQbV0ROWW) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Lady Like \(Deluxe\)](https://open.spotify.com/album/5meYwtXnMng9XzeQ4eoJyO) | 3:08 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDc2NDZhM2Y3YjhmYTdiNzFlYjhiNDliNGIyNzQzZmQ4`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGFjN2JlN2MwMDdkZDVmZTk0MTEwMWRjNjFhZTc0MTMx`

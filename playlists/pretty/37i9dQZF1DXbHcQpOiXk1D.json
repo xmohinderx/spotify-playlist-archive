@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Kokoroko",
-  "num_followers": 264670,
+  "num_followers": 264707,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEyNjcxMCwwMDAwMDAwMDYzMDRiNGNkYzE3ZTgxYjFkNDg0NDY1NDU0YTBmOGYw",
+  "snapshot_id": "MTY2MDEyNjcxMCwwMDAwMDAwMGNiYTlhNjJkM2VlOGU2YzY5NmNlM2Y0NTQwOWE4ZDIy",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -351,26 +351,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
+        "name": "So Cold",
+        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
       },
       "artists": [
         {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
         },
         {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        },
-        {
-          "name": "Dylan Jones",
-          "url": "https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG"
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 215863,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
+      "duration_ms": 252000,
+      "name": "So Cold",
+      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -391,22 +387,26 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "So Cold",
-        "url": "https://open.spotify.com/album/72P2ODRJFb2O2THMjfXAlb"
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg"
       },
       "artists": [
         {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
         },
         {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+          "name": "Pip Millett",
+          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
+        },
+        {
+          "name": "Dylan Jones",
+          "url": "https://open.spotify.com/artist/4XoX7Wk4oPECLHHbGNMfhG"
         }
       ],
-      "duration_ms": 252000,
-      "name": "So Cold",
-      "url": "https://open.spotify.com/track/6vv87FsmQpbakkEQUm3G3n"
+      "duration_ms": 215863,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/1ofGBwyRKtNKRi6NXRz1tg"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 312333,
-      "name": "Ultraviolet",
-      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Could We Be More",
         "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 338506,
       "name": "War Dance",
       "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 312333,
+      "name": "Ultraviolet",
+      "url": "https://open.spotify.com/track/0zFbX6EwMuGagU4qj75GJt"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Next Stop",
-        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 308600,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Collage 2",
         "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 192859,
       "name": "Stuck In The Middle",
       "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Next Stop",
+        "url": "https://open.spotify.com/album/3tAyluhjmvdlCtLPJPh8sz"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 308600,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/7KK4ixxZE3K1I8MbR8dGcX"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1023,30 +1023,6 @@
       "duration_ms": 289213,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Motherland Journey",
-        "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
-      },
-      "artists": [
-        {
-          "name": "Blue Lab Beats",
-          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
-        },
-        {
-          "name": "KillBeatz",
-          "url": "https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy"
-        },
-        {
-          "name": "Fela Kuti",
-          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
-        }
-      ],
-      "duration_ms": 259247,
-      "name": "Motherland Journey",
-      "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1071,6 +1047,46 @@
       "duration_ms": 304538,
       "name": "La cumbia me est\u00e1 llamando [Feat. La Perla] - Kaidi Tatham Remix",
       "url": "https://open.spotify.com/track/2WXocqPMagvqGclaaMVXLA"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
+      },
+      "artists": [
+        {
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Motherland Journey",
+        "url": "https://open.spotify.com/album/6BcDKqYRTb0OBjRZTrndjT"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "KillBeatz",
+          "url": "https://open.spotify.com/artist/2GhMAu306y5q68iXy64Puy"
+        },
+        {
+          "name": "Fela Kuti",
+          "url": "https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR"
+        }
+      ],
+      "duration_ms": 259247,
+      "name": "Motherland Journey",
+      "url": "https://open.spotify.com/track/5Rd4IgnXeREcqfv71DZ5tf"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1111,18 +1127,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+        "name": "Kyoto Rain",
+        "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
       },
       "artists": [
         {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+          "name": "The Laszlo Project",
+          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
         }
       ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+      "duration_ms": 333712,
+      "name": "Kyoto Rain",
+      "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1139,6 +1155,46 @@
       "duration_ms": 363554,
       "name": "Badeep",
       "url": "https://open.spotify.com/track/23UXVdEYm2vLx6Dz6EBOGP"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Who Am I (eh-eh)",
+        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
+      },
+      "artists": [
+        {
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+        },
+        {
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Who Am I (eh-eh)",
+      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Did It Yesterday",
+        "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
+      },
+      "artists": [
+        {
+          "name": "Jake Milliner",
+          "url": "https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS"
+        },
+        {
+          "name": "Tane",
+          "url": "https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3"
+        }
+      ],
+      "duration_ms": 188401,
+      "name": "Did It Yesterday",
+      "url": "https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1165,40 +1221,28 @@
       "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
     },
     {
-      "added_at": "2022-08-04 23:00:00",
+      "added_at": "2022-08-10 10:18:30",
       "album": {
-        "name": "Kyoto Rain",
-        "url": "https://open.spotify.com/album/7JlPtr8IOZTJ9O6IEGfETE"
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
       },
       "artists": [
         {
-          "name": "The Laszlo Project",
-          "url": "https://open.spotify.com/artist/5vjUBQ2BtVdrKXJykkez7c"
-        }
-      ],
-      "duration_ms": 333712,
-      "name": "Kyoto Rain",
-      "url": "https://open.spotify.com/track/4WhojvMvXY107kbYjD2KvM"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Who Am I (eh-eh)",
-        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
-      },
-      "artists": [
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
         },
         {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
         }
       ],
-      "duration_ms": 190466,
-      "name": "Who Am I (eh-eh)",
-      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1227,26 +1271,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Did It Yesterday",
-        "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
-      },
-      "artists": [
-        {
-          "name": "Jake Milliner",
-          "url": "https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS"
-        },
-        {
-          "name": "Tane",
-          "url": "https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3"
-        }
-      ],
-      "duration_ms": 188401,
-      "name": "Did It Yesterday",
-      "url": "https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Victory Dance",
         "url": "https://open.spotify.com/album/7CCp7nQx5T7GBtU8TiKtRq"
       },
@@ -1259,6 +1283,22 @@
       "duration_ms": 295893,
       "name": "Victory Dance",
       "url": "https://open.spotify.com/track/65vqkVT78sHmYc3fTB3uQw"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Angel Feed",
+        "url": "https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP"
+      },
+      "artists": [
+        {
+          "name": "Yard Nule",
+          "url": "https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq"
+        }
+      ],
+      "duration_ms": 260493,
+      "name": "Angel Feed",
+      "url": "https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1279,6 +1319,22 @@
       "duration_ms": 251428,
       "name": "Red and Green - Blue Lab Beats Remix",
       "url": "https://open.spotify.com/track/50wdgAA4XTOMPD4DZFwv5Y"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 496546,
+      "name": "Warm Data",
+      "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1315,38 +1371,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Angel Feed",
-        "url": "https://open.spotify.com/album/06cl6nFp0yYgTH0n4UHNoP"
-      },
-      "artists": [
-        {
-          "name": "Yard Nule",
-          "url": "https://open.spotify.com/artist/10Q2LdV5T7zeV27daL70yq"
-        }
-      ],
-      "duration_ms": 260493,
-      "name": "Angel Feed",
-      "url": "https://open.spotify.com/track/4B8oaNZug7kvei1MAYDtNO"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 496546,
-      "name": "Warm Data",
-      "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn"
       },
@@ -1363,26 +1387,6 @@
       "duration_ms": 313733,
       "name": "Nova",
       "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Golden Green",
-        "url": "https://open.spotify.com/album/6QrDTDE1rXFegrQWD0JxZD"
-      },
-      "artists": [
-        {
-          "name": "Emma-Jean Thackray",
-          "url": "https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC"
-        },
-        {
-          "name": "Wiki",
-          "url": "https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0"
-        }
-      ],
-      "duration_ms": 243334,
-      "name": "Golden Green feat Wiki",
-      "url": "https://open.spotify.com/track/3ySsmBNfH1m9FjMJXSdJql"
     }
   ],
   "unique_name": "Jazz UK",

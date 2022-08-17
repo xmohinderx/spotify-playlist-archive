@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 
 > Soul, R'n'B all with a tinge of electronic goodness\. Cover: Jitwam
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,374 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,511 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 22 | [Work It Out](https://open.spotify.com/track/4qnUMf12GKpBS9WKX7BuJp) | [Rachel Mae Hannon](https://open.spotify.com/artist/4rwzqtDRqtNiXyoUuNl8Fc) | [Work It Out](https://open.spotify.com/album/2IDy4wIcWkYJvzo8jkpMoJ) | 3:06 |
 | 23 | [Still Dreaming](https://open.spotify.com/track/2GWMfWHvLixgTo9s5NGn3w) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Lucid](https://open.spotify.com/album/5zM1YPLVNvxe6S8I3MIAbg) | 4:21 |
 | 24 | [Apocalypse](https://open.spotify.com/track/66y1fdK0PkqdhD8yOleDBD) | [J Lloyd](https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1) | [Kosmos](https://open.spotify.com/album/47WMGg3UQBQAGn8cVnPdiW) | 1:01 |
-| 25 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
-| 26 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 |
-| 27 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
-| 28 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 25 | [Nobody Scared](https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p) | [Porij](https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp) | [Baby Face](https://open.spotify.com/album/29wrXSOIZTYNoOTzKW67B1) | 3:39 |
+| 26 | [soulboy \- IZCO Remix](https://open.spotify.com/track/3G1YAm52YxIp0jlxalE0hK) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K), [IZCO](https://open.spotify.com/artist/4uqqEE1NaQBAa4wnDug9c1) | [soulboy \(IZCO Remix\)](https://open.spotify.com/album/63sYFrw1yLHU0k3IkCPUdX) | 3:49 |
+| 27 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 28 | [fuego \(feat\. Tyler, The Creator\)](https://open.spotify.com/track/6UYbt0ZVXP5pnrhzk8z2d8) | [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [i can't go outside](https://open.spotify.com/album/1p2LdU7Q9Aq8OjO8sfnVMU) | 4:08 |
 | 29 | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/track/2NHVRc2gml9maFMHRgIC0y) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Mr\. Sun \(miss da sun\)](https://open.spotify.com/album/4GnTrP3MNkopc3NRopSPGS) | 3:43 |
 | 30 | [For Keeps](https://open.spotify.com/track/14n6WNRYJDqXhWJKE57zln) | [JGrrey](https://open.spotify.com/artist/66rDbD3tWR3M1uNuIaDAGx) | [Rocks \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1gWLuBpsrzqXjyObZZdSZg) | 2:52 |
 | 31 | [Young Love](https://open.spotify.com/track/4UpBPaIMx7OoFpjeNdXfMn) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Rose in the Dark](https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9) | 4:24 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdc0DUqaW3MZ.md) - [plain]
 | 66 | [1985](https://open.spotify.com/track/5DCoLPjn4bBNmf41iVG5Vh) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo), [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD) | [1985](https://open.spotify.com/album/2vjBfzq0CoilOQluDuD9Ny) | 2:50 |
 | 67 | [Heart\-Shaped Box](https://open.spotify.com/track/3t9UffGSsulotQbSLrQTWY) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Heart\-Shaped Box](https://open.spotify.com/album/3WPDRb3GzyeFL2a08MqGZz) | 2:49 |
 | 68 | [You \(1000 Beasts Remix\)](https://open.spotify.com/track/1TzakCl94k0i561dxoNZWs) | [1000 Beasts](https://open.spotify.com/artist/3gFKwhL6BbxCd4Meqm2AH9), [Elaine Malone](https://open.spotify.com/artist/5LHrdQzcsW8MCvaLNOlaqT) | [You \(1000 Beasts Remix\)](https://open.spotify.com/album/1XaAFaAtmfDiNi1t4vkIlP) | 3:43 |
-| 69 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 |
-| 70 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 |
+| 69 | [Sea Without Blue](https://open.spotify.com/track/1Qsdx0D4zH9bqvMyYhpV96) | [POLIÇA](https://open.spotify.com/artist/34vLhockmYhf3LgznwyNaQ) | [When We Stay Alive](https://open.spotify.com/album/7IBhWoqJNbJtTityLHPYaT) | 3:00 |
+| 70 | [Half Hour Verve](https://open.spotify.com/track/6YdpCujgKQpiFWtmin0E6k) | [Harvey Causon](https://open.spotify.com/artist/7CfGxgCfRwumbKatrTjC4d) | [Fourth Wall](https://open.spotify.com/album/6f5i8vNHXp944iy5UPvSI7) | 4:05 |
 
-Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMDdhYmMxMTVkZDQwZTAxZDNlOTgwMTUwYjkwNzlkYTcy`
+Snapshot ID: `MTY1NTczNDc4MiwwMDAwMDAwMGFkMDNmZjkzZmU5OGM0YmY5ODMwOGU4Nzk3OTA1MjU0`

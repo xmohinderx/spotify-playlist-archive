@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 
 > Take a Louisville slugger to both headlights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 438 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 2 | [I Hope](https://open.spotify.com/track/23T0OX7QOiIUFShSzbJ5Uo) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Goldmine](https://open.spotify.com/album/4Iqfx63CZhFGGIHiAvLxXY) | 3:30 |
 | 3 | [Miss Me More](https://open.spotify.com/track/5NfJGBAL9mgFPRQxKJmiX2) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:12 |
 | 4 | [Gunpowder & Lead](https://open.spotify.com/track/3z1PqYwMtct2Dm4R9lhWnT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 3:11 |
-| 5 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
+| 5 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
 | 6 | [Rich](https://open.spotify.com/track/4H0vNUFcHPz5lytcLjwqkr) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:28 |
 | 7 | [Dirty Laundry](https://open.spotify.com/track/5qRRiqndqXaq2QBudIrkYU) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:24 |
 | 8 | [DONE.](https://open.spotify.com/track/7t3yEWJXS4ZZE64JyJDJIg) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [Pioneer](https://open.spotify.com/album/4oXEoK7WVM1lNbmB59IrJ1) | 3:25 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 19 | [My Bar](https://open.spotify.com/track/4puniyhnAcQbyTcIOQVJhE) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 3:13 |
 | 20 | [You’ll Think Of Me](https://open.spotify.com/track/68Iw932AjRCDEPLIzpmOtF) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Golden Road](https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7) | 4:53 |
 | 21 | [Church Bells](https://open.spotify.com/track/67citk3uzWs5qbaIVKTeg8) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:13 |
-| 22 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
+| 22 | [Not Ready to Make Nice](https://open.spotify.com/track/6LCEyZZHFF4ebF1Mike1s5) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Taking The Long Way](https://open.spotify.com/album/2NeJdEWras0uSuzLPlJZk5) | 3:57 |
 | 23 | [You Lie](https://open.spotify.com/track/462tT5pBVstoLcOSJsBBKw) | [The Band Perry](https://open.spotify.com/artist/75FnCoo4FBxH5K1Rrx0k5A) | [The Band Perry](https://open.spotify.com/album/3dASAcs9QOsmoSLhHjEhCu) | 3:34 |
 | 24 | [Girl Next Door](https://open.spotify.com/track/2dGPKVLHYw6aolHDoZzdTb) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Big Day in a Small Town](https://open.spotify.com/album/5WT3uq1m6c85ydroGQwqXl) | 4:31 |
 | 25 | [Get over Yourself](https://open.spotify.com/track/0sr84SDJ9VN4EB7p2mWGur) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically \(Deluxe Edition\)](https://open.spotify.com/album/7Ht6xQ80vFtSe2n2KjAAsA) | 3:20 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX02pE0Dxwufo.md) - [plain]
 | 39 | [Ever Since You Left](https://open.spotify.com/track/3miEfV2k8EEbn64jYaEq9m) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Welcome To The Block Party](https://open.spotify.com/album/0dNsg2k0JVBXDjAyASks9p) | 2:44 |
 | 40 | [Bra Off](https://open.spotify.com/track/2nNaVLkmN8RYXNQiQb4ajI) | [RaeLynn](https://open.spotify.com/artist/5dMnvpYEfXvSexjwnSRH5n) | [Bra Off](https://open.spotify.com/album/2giqQgvz8sq6SYpofqvh3o) | 2:46 |
 
-Snapshot ID: `MTY2MDUxMTk5MSwwMDAwMDAwMDkzZDQ3NDE2MDMxOTczY2ViMmRhZjQ0NGMzODY3Y2U4`
+Snapshot ID: `MTY2MDYyNjYxNiwwMDAwMDAwMDFmMzQ0ZmViZjA4OWQ3Y2MyNjIzODM1MWNlYTRhZDZm`

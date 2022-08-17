@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Seether
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,462 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,617 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 22 | [Someday](https://open.spotify.com/track/4PkJ7c9y1CwpuVOiJODnCZ) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [The Long Road](https://open.spotify.com/album/4fygErqiNgFUic5hU42Z3E) | 3:27 |
 | 23 | [When I'm Gone](https://open.spotify.com/track/3WbphvawbMZ8FyqDxYGdSQ) | [3 Doors Down](https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9) | [Away From The Sun](https://open.spotify.com/album/72olNArm75vOycSziqIX9Y) | 4:20 |
 | 24 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
-| 25 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
+| 25 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
 | 26 | [My Sacrifice](https://open.spotify.com/track/2VSbEXqs6NbNiZSTcHlIDR) | [Creed](https://open.spotify.com/artist/43sZBwHjahUvgbx1WNIkIz) | [Weathered](https://open.spotify.com/album/2ENlJXygQX6en4iziijet6) | 4:54 |
-| 27 | [Lightning Crashes](https://open.spotify.com/track/48iWbsOaBUAGzMdoSmqyg1) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 5:25 |
+| 27 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |
 | 28 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
 | 29 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
 | 30 | [Hey Man, Nice Shot \- Remastered Version](https://open.spotify.com/track/1IyHPt3b6BrhdMwNyk0VM0) | [Filter](https://open.spotify.com/artist/01WjpKiWVNurV5hjIadB8C) | [Short Bus](https://open.spotify.com/album/0UWwEb7weI9WdpxPzD9aqV) | 5:14 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 43 | [Doesn't Remind Me](https://open.spotify.com/track/0o995gJCGebaza0LWybToU) | [Audioslave](https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn) | [Out of Exile](https://open.spotify.com/album/0HQhToIjonHnJRRPN4jeJU) | 4:15 |
 | 44 | [Heavy](https://open.spotify.com/track/0VbOBom0Ya2zrlSpv7II1C) | [Collective Soul](https://open.spotify.com/artist/4e5V1Q2dKCzbLVMQ8qbTn6) | [Dosage](https://open.spotify.com/album/5YcqcN9ZyZIS2vYYT4WC66) | 2:54 |
 | 45 | [Real World](https://open.spotify.com/track/70fe354BpVKEvMY0de78YO) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:51 |
-| 46 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
-| 47 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
+| 46 | [Meant to Live](https://open.spotify.com/track/2md2i5QvelRFnafpnd6LOg) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [The Beautiful Letdown \(Deluxe Version\)](https://open.spotify.com/album/2mIYia4lSO1NCSFGGGGNR9) | 3:21 |
+| 47 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
 | 48 | [Comedown](https://open.spotify.com/track/2ox1STg6AbcEHoHWlFtFwr) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 5:26 |
 | 49 | [Wasting My Time](https://open.spotify.com/track/5dpAN1mjFPL38kh9kWsCiw) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [The Fallout \(Limited Edition\)](https://open.spotify.com/album/7IUXXDlKqqLRkJLXrrhXCo) | 4:29 |
 | 50 | [Watch Over You](https://open.spotify.com/track/7kxfWvj6u9oWQ5C36kMtGb) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/21lOBQT94kjWSiYQbpm3RG) | 4:19 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 67 | [Heroin](https://open.spotify.com/track/0leJYiYyZE6jjXCEVYUQAm) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [OK, I'M SICK](https://open.spotify.com/album/08VFvUyNPi6G0tc1d4DPU4) | 4:41 |
 | 68 | [Stacked Actors](https://open.spotify.com/track/1vziI0NCJKrqKiG94COHBa) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [There Is Nothing Left To Lose](https://open.spotify.com/album/28q2N44ocJECgf8sbHEDfY) | 4:16 |
 | 69 | [It Only Hurts](https://open.spotify.com/track/1k0FCgVwb1jZR57ESOWUVa) | [Default](https://open.spotify.com/artist/4nCzT3o7lMgCWBcmdwCMsT) | [One Thing Remains](https://open.spotify.com/album/0KwBPTz8XEqIBv0ry4gqhf) | 3:42 |
-| 70 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
-| 71 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 |
+| 70 | [Superman's Dead](https://open.spotify.com/track/1612JQ4JxS8bm5ky53N3bH) | [Our Lady Peace](https://open.spotify.com/artist/1lqW59DUEKqvcHc8mVWBtH) | [Clumsy](https://open.spotify.com/album/4qR92pgYZPRNV6GA9gC7OC) | 4:15 |
+| 71 | [Youngest Daughter](https://open.spotify.com/track/3tYxhPqkioZEV5el3DJxLQ) | [Superheaven](https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc) | [Jar](https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw) | 4:09 |
 | 72 | [Broken](https://open.spotify.com/track/5nakPOknHu3XkeeHoVvhCd) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Disclaimer](https://open.spotify.com/album/5u0UdiircjbveLg8cs39iw) | 4:17 |
 | 73 | [Selling The Drama](https://open.spotify.com/track/5y9ivD2g37FSCEJpfhG7d5) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | 3:25 |
 | 74 | [Swallowed](https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Razorblade Suitcase \(In Addition\)](https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9) | 4:51 |
 | 75 | [Down](https://open.spotify.com/track/0Im8piS5MwtQAnpWVla5iw) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [No\. 4](https://open.spotify.com/album/0NgdZp0Z9HGsowYxPBYQSV) | 3:48 |
 
-Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMDQzZGFiZGUzM2IwOGY3Y2NmMzZhZjU4Y2U4MjlhZTQ3`
+Snapshot ID: `MTY1NzgyMDA1NywwMDAwMDAwMGMxODUxNTczYWI5ODA4YTNhMTViN2U4YTljYTc0MzNi`

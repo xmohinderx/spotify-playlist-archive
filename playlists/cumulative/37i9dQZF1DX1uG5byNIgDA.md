@@ -4,7 +4,7 @@
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-300 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
+301 songs - 17 hr 3 min - [published](https://open.spotify.com/playlist/1KT9n5GpXTYiKVI60QKiPA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,7 @@
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2021-12-28 | 2022-04-18 |
 | [UP & DOWN](https://open.spotify.com/track/4m4KLf6hatVwq2GYW8jmO8) | [BYUL,DAL](https://open.spotify.com/artist/3IvQmmllE1X45XF8XbUsXN) | [UP & DOWN](https://open.spotify.com/album/511rA18ahrHtgvLuKSaCDV) | 2:38 | 2022-03-23 | 2022-04-05 |
 | [UP NO MORE](https://open.spotify.com/track/0eeebX5IslzAMBs519PlO5) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes wide open](https://open.spotify.com/album/77irgFZWRDU0jkUCYvLiua) | 3:34 | 2022-01-24 | 2022-07-14 |
-| [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-04 |  |
+| [UP NO MORE](https://open.spotify.com/track/1LiNP5q2thWScdvCRkJ584) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Eyes Wide Open](https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH) | 3:34 | 2022-07-04 | 2022-08-17 |
 | [Up!](https://open.spotify.com/track/3XZAvh2NCDQYHgJei35VQ1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/0yMosWzriw3613d26x7MQK) | 3:12 | 2022-07-04 |  |
 | [Up!](https://open.spotify.com/track/6P2IZsIyNVeOl712sFg4lc) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [DOUBLAST](https://open.spotify.com/album/24ypgYukHzGlLQx2nE1Yje) | 3:12 | 2022-07-04 | 2022-07-29 |
 | [Upside Down](https://open.spotify.com/track/41KiFWhvIgjdVura4h93Zh) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [The Story](https://open.spotify.com/album/4tk1TxAS90si1va7jPWqGg) | 3:15 | 2022-05-30 | 2022-07-27 |
@@ -300,6 +300,7 @@
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2021-12-06 | 2022-07-29 |
 | [You&I 인사](https://open.spotify.com/track/6AoISiNZ4ibepHHkBGHvNH) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [You&I 인사](https://open.spotify.com/album/23NbTefiEEVOUKekR8ocYT) | 3:41 | 2022-04-04 | 2022-04-09 |
 | [Your Light](https://open.spotify.com/track/0NJQUkvJT9PY8TMIRPq1oA) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Your Light \(From The Original TV Show "Live On"\)](https://open.spotify.com/album/5xHrhwZ4ufLSUVXUcW05yX) | 3:37 | 2021-12-06 | 2022-07-22 |
+| [Your Song](https://open.spotify.com/track/59yoeKUIiRIFNxlA13AlDt) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SPECIAL ALBUM \[Storage of ONF\]](https://open.spotify.com/album/4DMNgwsMFZzefb1HBAmHwG) | 3:40 | 2022-08-15 |  |
 | [ZERO](https://open.spotify.com/track/7pWYbXXcXaDenC0yQylDmQ) | [SUPER JUNIOR\-D&E](https://open.spotify.com/artist/3EfnKIG9827OXkcQQT7HEI) | [COUNTDOWN \- The 1st Album](https://open.spotify.com/album/7yNv0QElHZXnh6wMac0cx3) | 3:26 | 2022-02-16 | 2022-04-15 |
 | [ZIGZAG \(Feat\. Hyerin\)](https://open.spotify.com/track/0VbAe2Pf6mDW7kE55ITXgw) | [PEPE](https://open.spotify.com/artist/3VPc25JxjEAPmXYBW8axTb), [Hyerin](https://open.spotify.com/artist/2ivBSoaLj6f2rlVwLvbMgG) | [ZIGZAG](https://open.spotify.com/album/29hTy2fPGGVN0ykllHktp2) | 3:32 | 2022-03-23 | 2022-06-06 |
 | [zZ\(Tired\) zZ\(피곤해\) \(With Yebit\)](https://open.spotify.com/track/6CglZ5FFyt53qOhngetABc) | [YouSungYoon 유성윤](https://open.spotify.com/artist/6zZjlVlFWAXNSPcrbIvXbB), [Yebit](https://open.spotify.com/artist/7zdCvtTQdMCj37CuQxkyQf) | [zZ](https://open.spotify.com/album/2gEpwi8neJlZxWz9LxhpPd) | 3:47 | 2021-12-06 | 2022-07-27 |

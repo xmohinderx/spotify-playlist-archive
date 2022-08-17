@@ -4,7 +4,7 @@
 
 > Mujeres raperas rompiéndola en toda Latinoamérica\. Foto: Young Miko
 
-114 songs - 6 hr 3 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
+115 songs - 6 hr 6 min - [published](https://open.spotify.com/playlist/2hnS6DBtl4dJIs7m2oahBW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Experiencia](https://open.spotify.com/track/2hJtIUSPDlqqCKDt5dSyYO) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/0R9wzfqAVBxRvfuRGFQIDs) | 2:13 | 2022-06-27 |  |
 | [Experiencia](https://open.spotify.com/track/2rOGiQFlSp7CK3MhYruYxf) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Experiencia](https://open.spotify.com/album/2C3NwN17FmCqXMDlzSMcnN) | 2:13 | 2021-12-13 | 2022-07-29 |
 | [Eyeliner de Katana](https://open.spotify.com/track/1qXBSGhndWVt7RnOWBS78J) | [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Eyeliner de Katana](https://open.spotify.com/album/7yiB0Lc8603bb6mrz8SDJW) | 2:01 | 2022-05-13 |  |
+| [Final Fantasy](https://open.spotify.com/track/36wFYnv9kmqepKlE7nAP44) | [Lil Boo](https://open.spotify.com/artist/0QiqgUfjeKGEU150elvA8W) | [Final Fantasy](https://open.spotify.com/album/2WZ6YtJNQR2YGJ1ICuqIpt) | 3:13 | 2022-08-16 |  |
 | [FREAKY](https://open.spotify.com/track/6TK7mdz3wlm45P5s0zeDSl) | [Mathilde Sobrino](https://open.spotify.com/artist/0x69Qlg7mSMTjjkO323OH0) | [FREAKY](https://open.spotify.com/album/1dIzO2VMoz2AuyXbFt0FXH) | 2:30 | 2021-12-13 |  |
 | [Fuck You](https://open.spotify.com/track/2e4NdNHHR8gNWPMnMgQydk) | [Flor De Rap](https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7) | [Fuck You](https://open.spotify.com/album/2nd8KGiesKxYRHgK7Rpqt4) | 3:24 | 2021-12-13 | 2022-02-04 |
 | [Historika](https://open.spotify.com/track/11LBXStTNnMsUjMLRpurqe) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW) | [La hija del loco](https://open.spotify.com/album/0Jyzj8fLiBzZc5i0jbtCfU) | 4:26 | 2022-06-27 |  |

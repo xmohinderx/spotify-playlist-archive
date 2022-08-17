@@ -1,12 +1,12 @@
 {
   "description": "Your very own time capsule: a nostalgic look back on the past four years.",
-  "num_followers": 75959,
+  "num_followers": 75949,
   "original_name": "CLASS OF 2020 mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYyMDY3OTY5MSwwMDAwMDAwMGIwNDhkM2JlZDI1ZmFkZGNhMzUwZTZjNWFlNDA1NWQy",
+  "snapshot_id": "MTYyMDY3OTY5MSwwMDAwMDAwMDMyYzNjZGJiNTYxOWM0MjVkMzYyYzA2YmVjMmY5NDc2",
   "tracks": [
     {
       "added_at": "2020-06-26 19:55:08",
@@ -407,6 +407,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 145542,
+      "name": "Drip Too Hard (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -443,26 +463,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 145542,
-      "name": "Drip Too Hard (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/78QR3Wp35dqAhFEc2qAGjE"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Memories...Do Not Open",
         "url": "https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr"
       },
@@ -483,22 +483,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 340706,
-      "name": "Sign of the Times",
-      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 119133,
       "name": "Jocelyn Flores",
       "url": "https://open.spotify.com/track/7m9OqQk4RVRkw9JJdeAw96"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 340706,
+      "name": "Sign of the Times",
+      "url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -619,18 +619,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
+        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
       "artists": [
         {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
         }
       ],
-      "duration_ms": 95466,
-      "name": "Everybody Dies In Their Nightmares",
-      "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+      "duration_ms": 158040,
+      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -651,6 +655,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 95466,
+      "name": "Everybody Dies In Their Nightmares",
+      "url": "https://open.spotify.com/track/3GVkPk8mqxz0itaAriG1L7"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Happier",
         "url": "https://open.spotify.com/album/78EicdHZr5XBWD7llEZ1Jh"
       },
@@ -667,26 +687,6 @@
       "duration_ms": 214289,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2dpaYNEQHiRxtZbfNsse99"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
-        "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 158040,
-      "name": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -771,38 +771,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Luv Is Rage 2",
-        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "XO Tour Llif3",
-      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "?",
-        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 166605,
-      "name": "SAD!",
-      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
         "url": "https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh"
       },
@@ -815,6 +783,22 @@
       "duration_ms": 196077,
       "name": "when the party's over",
       "url": "https://open.spotify.com/track/43zdsphuZLzwA9k4DJhU0I"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Luv Is Rage 2",
+        "url": "https://open.spotify.com/album/733e1ZfktLSwj96X5rsMeE"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "XO Tour Llif3",
+      "url": "https://open.spotify.com/track/7GX5flRQZVHRAGd6B4TmDO"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -835,38 +819,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+        "name": "?",
+        "url": "https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
         }
       ],
-      "duration_ms": 207320,
-      "name": "thank u, next",
-      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Jungle Rules",
-        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
-      },
-      "artists": [
-        {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Swae Lee",
-          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
-        }
-      ],
-      "duration_ms": 233901,
-      "name": "Unforgettable",
-      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
+      "duration_ms": 166605,
+      "name": "SAD!",
+      "url": "https://open.spotify.com/track/3ee8Jmje8o58CHK66QrVC2"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -891,6 +855,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 207320,
+      "name": "thank u, next",
+      "url": "https://open.spotify.com/track/3e9HZxeyfWwjeyPAMmWSSQ"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Goodbye & Good Riddance",
         "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 165819,
       "name": "All Girls Are The Same",
       "url": "https://open.spotify.com/track/4VXIryQMWpIdGgYR4TrjT1"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Jungle Rules",
+        "url": "https://open.spotify.com/album/4c2p3TdN7NcQfCXyueCNnC"
+      },
+      "artists": [
+        {
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Swae Lee",
+          "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX"
+        }
+      ],
+      "duration_ms": 233901,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -971,22 +971,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Pray for the Wicked",
-        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
-      },
-      "artists": [
-        {
-          "name": "Panic! At The Disco",
-          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
-        }
-      ],
-      "duration_ms": 190946,
-      "name": "High Hopes",
-      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "TESTING",
         "url": "https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Pray for the Wicked",
+        "url": "https://open.spotify.com/album/6ApYSpXF8GxZAgBTHDzYge"
+      },
+      "artists": [
+        {
+          "name": "Panic! At The Disco",
+          "url": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
+        }
+      ],
+      "duration_ms": 190946,
+      "name": "High Hopes",
+      "url": "https://open.spotify.com/track/1rqqCSm0Qe4I9rUvWncaom"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Death Race For Love (Bonus Track Version)",
         "url": "https://open.spotify.com/album/1btu0SV2DOI5HoFsvUd78F"
       },
@@ -1019,42 +1019,6 @@
       "duration_ms": 240050,
       "name": "Robbery",
       "url": "https://open.spotify.com/track/6iaSML1PIYq936g62BDtBq"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 188343,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "17",
-        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Trippie Redd",
-          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
-        }
-      ],
-      "duration_ms": 146520,
-      "name": "Fuck Love (feat. Trippie Redd)",
-      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1079,6 +1043,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "17",
+        "url": "https://open.spotify.com/album/5VdyJkLe3yvOs0l4xXbWp0"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Trippie Redd",
+          "url": "https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax"
+        }
+      ],
+      "duration_ms": 146520,
+      "name": "Fuck Love (feat. Trippie Redd)",
+      "url": "https://open.spotify.com/track/7AQim7LbvFVZJE3O8TYgf2"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Heathens",
         "url": "https://open.spotify.com/album/3J8W9AOjQhnBLCX33m3atT"
       },
@@ -1115,22 +1115,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "This Is What You Came For",
-        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+        "name": "Harder Than Ever",
+        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         },
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 222160,
-      "name": "This Is What You Came For",
-      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+      "duration_ms": 142273,
+      "name": "Yes Indeed",
+      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "This Is What You Came For",
+        "url": "https://open.spotify.com/album/3pEgGUv379EDinvg1TN7Kt"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 222160,
+      "name": "This Is What You Came For",
+      "url": "https://open.spotify.com/track/0azC730Exh71aQlOt9Zj3y"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Please Excuse Me for Being Antisocial",
         "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 196652,
       "name": "The Box",
       "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Harder Than Ever",
-        "url": "https://open.spotify.com/album/7yf9ZJyHRbp8sHtpDKfPpt"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 142273,
-      "name": "Yes Indeed",
-      "url": "https://open.spotify.com/track/6vN77lE9LK6HP2DewaN6HZ"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1239,6 +1239,46 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 180822,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Camila",
+        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "Havana (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Funk Wav Bounces Vol.1",
         "url": "https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0"
       },
@@ -1267,46 +1307,6 @@
       "duration_ms": 223413,
       "name": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
       "url": "https://open.spotify.com/track/5bcTCxgc7xVfSaMV3RuVke"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Camila",
-        "url": "https://open.spotify.com/album/2vD3zSQr8hNlg0obNel4TE"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "Havana (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Silence",
-        "url": "https://open.spotify.com/album/2bw00gRKNKbTFOqCkohbSh"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 180822,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/7vGuf3Y35N4wmASOKLUVVU"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1411,6 +1411,26 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Daft Punk",
+          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+        }
+      ],
+      "duration_ms": 269186,
+      "name": "I Feel It Coming",
+      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "MIDDLE CHILD",
         "url": "https://open.spotify.com/album/3XzSOIE6zGLliuqsVGLmUc"
       },
@@ -1439,26 +1459,6 @@
       "duration_ms": 191600,
       "name": "Needed Me",
       "url": "https://open.spotify.com/track/4pAl7FkDMNBsjykPXo91B3"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Daft Punk",
-          "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-        }
-      ],
-      "duration_ms": 269186,
-      "name": "I Feel It Coming",
-      "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "FUTURE",
-        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 204600,
-      "name": "Mask Off",
-      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "reputation Stadium Tour Surprise Song Playlist",
         "url": "https://open.spotify.com/album/1MPAXuTVL2Ej5x0JHiSPq8"
       },
@@ -1687,6 +1671,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "FUTURE",
+        "url": "https://open.spotify.com/album/17FBoXK1NU2rvJBbzdzw0r"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 204600,
+      "name": "Mask Off",
+      "url": "https://open.spotify.com/track/0VgkVdmE4gld66l8iyGjgx"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "Lukas Graham",
         "url": "https://open.spotify.com/album/4rFrdkSWs0dtj0rWPzOk1v"
       },
@@ -1751,6 +1735,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "dont smile at me",
         "url": "https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU"
       },
@@ -1763,6 +1763,22 @@
       "duration_ms": 200379,
       "name": "ocean eyes",
       "url": "https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 185946,
+      "name": "DNA.",
+      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1787,18 +1803,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "DAMN.",
-        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+        "name": "Sweetener",
+        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 185946,
-      "name": "DNA.",
-      "url": "https://open.spotify.com/track/6HZILIRieu8S0iqY8kIKhj"
+      "duration_ms": 197546,
+      "name": "God is a woman",
+      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1819,22 +1835,6 @@
       "duration_ms": 180522,
       "name": "Going Bad (feat. Drake)",
       "url": "https://open.spotify.com/track/2IRZnDFmlqMuOrYOLnZZyc"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Sweetener",
-        "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 197546,
-      "name": "God is a woman",
-      "url": "https://open.spotify.com/track/5OCJzvD7sykQEKHH7qAC3C"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1879,18 +1879,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+        "name": "We Love You Tecca",
+        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
         }
       ],
-      "duration_ms": 217946,
-      "name": "IDGAF",
-      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
+      "duration_ms": 131240,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1915,18 +1915,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "We Love You Tecca",
-        "url": "https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB"
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 131240,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO"
+      "duration_ms": 217946,
+      "name": "IDGAF",
+      "url": "https://open.spotify.com/track/76cy1WJvNGJTj78UqeA5zr"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "Goodbye & Good Riddance",
+        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 175755,
+      "name": "Lean Wit Me",
+      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "Nicotine",
         "url": "https://open.spotify.com/album/0D7yJonn41qsrIQ7YdWk2z"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 157066,
       "name": "Old Town Road - Remix",
       "url": "https://open.spotify.com/track/2YpeDb67231RjR0MgVLzsG"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 175755,
-      "name": "Lean Wit Me",
-      "url": "https://open.spotify.com/track/3oDkdAySo1VQQG0ptV7uwa"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2107,6 +2107,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
+        "name": "DIE FOR MY BITCH",
+        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+      },
+      "artists": [
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 129882,
+      "name": "ORANGE SODA",
+      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -2143,18 +2159,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "DIE FOR MY BITCH",
-        "url": "https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI"
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
       },
       "artists": [
         {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
         }
       ],
-      "duration_ms": 129882,
-      "name": "ORANGE SODA",
-      "url": "https://open.spotify.com/track/5FkoSXiJPKTNyYgALRJFhD"
+      "duration_ms": 234215,
+      "name": "3005",
+      "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2175,22 +2191,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Because the Internet",
-        "url": "https://open.spotify.com/album/4GNIhgEGXzWGAefgN5qjdU"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 234215,
-      "name": "3005",
-      "url": "https://open.spotify.com/track/2ZltjIqztEpZtafc8w0I9t"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "If the World Was Ending (feat. Julia Michaels)",
         "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
       },
@@ -2207,26 +2207,6 @@
       "duration_ms": 208687,
       "name": "If the World Was Ending (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2279,34 +2259,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Issa Album",
-        "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU"
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
       "artists": [
         {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 220306,
-      "name": "Bank Account",
-      "url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "True 2 Myself",
-        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
-      },
-      "artists": [
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
         {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 224000,
-      "name": "F.N",
-      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2323,6 +2291,46 @@
       "duration_ms": 190557,
       "name": "BUTTERFLY EFFECT",
       "url": "https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Issa Album",
+        "url": "https://open.spotify.com/album/4skCiJhVVSKrDOBtoFbsxU"
+      },
+      "artists": [
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 220306,
+      "name": "Bank Account",
+      "url": "https://open.spotify.com/track/5eqK0tbzUPo2SoeZsov04s"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "Isolation",
+        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Bootsy Collins",
+          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+        }
+      ],
+      "duration_ms": 207454,
+      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
+      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2359,26 +2367,34 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Isolation",
-        "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
+        "name": "Scorpion",
+        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Bootsy Collins",
-          "url": "https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 207454,
-      "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
-      "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+      "duration_ms": 238614,
+      "name": "Nonstop",
+      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "True 2 Myself",
+        "url": "https://open.spotify.com/album/1bCBZ8LedqwVYOLDLrRbbY"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "F.N",
+      "url": "https://open.spotify.com/track/0RLLvYBopDwooCyvnTwgYu"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2399,42 +2415,6 @@
       "duration_ms": 167693,
       "name": "10,000 Hours (with Justin Bieber)",
       "url": "https://open.spotify.com/track/2wrJq5XKLnmhRXHIAf9xBa"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Die A Legend",
-        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
-      },
-      "artists": [
-        {
-          "name": "Polo G",
-          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "Pop Out (feat. Lil Tjay)",
-      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
-        "name": "Scorpion",
-        "url": "https://open.spotify.com/album/1ATL5GLyefJaxhQzSPVrLX"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 238614,
-      "name": "Nonstop",
-      "url": "https://open.spotify.com/track/0TlLq3lA83rQOYtrqBqSct"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2471,22 +2451,22 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "When It's Dark Out",
-        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+        "name": "Die A Legend",
+        "url": "https://open.spotify.com/album/26ztFK3E69j5THJQdyxC5w"
       },
       "artists": [
         {
-          "name": "G-Eazy",
-          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+          "name": "Polo G",
+          "url": "https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
         }
       ],
-      "duration_ms": 251466,
-      "name": "Me, Myself & I",
-      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
+      "duration_ms": 166560,
+      "name": "Pop Out (feat. Lil Tjay)",
+      "url": "https://open.spotify.com/track/6uFn47ACjqYkc0jADwEdj1"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2503,6 +2483,26 @@
       "duration_ms": 252230,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/4EpZ4eYuZOwPSSwyqpdHnJ"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "When It's Dark Out",
+        "url": "https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 251466,
+      "name": "Me, Myself & I",
+      "url": "https://open.spotify.com/track/40YcuQysJ0KlGQTeGUosTC"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2559,26 +2559,6 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "In the Name of Love",
-        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "In the Name of Love",
-      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
-    },
-    {
-      "added_at": "2020-06-26 19:55:08",
-      "album": {
         "name": "us",
         "url": "https://open.spotify.com/album/3L0H4RjVXpEkwfDgi3XOdf"
       },
@@ -2595,6 +2575,26 @@
       "duration_ms": 251033,
       "name": "i hate u, i love u (feat. olivia o'brien)",
       "url": "https://open.spotify.com/track/7vRriwrloYVaoAe3a9wJHe"
+    },
+    {
+      "added_at": "2020-06-26 19:55:08",
+      "album": {
+        "name": "In the Name of Love",
+        "url": "https://open.spotify.com/album/1FOJ5IXGXe8dl0cXvCU6wK"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "In the Name of Love",
+      "url": "https://open.spotify.com/track/23L5CiUhw2jV1OIMwthR3S"
     },
     {
       "added_at": "2020-06-26 19:55:08",
@@ -2631,18 +2631,18 @@
     {
       "added_at": "2020-06-26 19:55:08",
       "album": {
-        "name": "Goodbye & Good Riddance",
-        "url": "https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ"
+        "name": "Come Over When You're Sober, Pt. 1",
+        "url": "https://open.spotify.com/album/33TJ52PuwenGmysJrwMGCe"
       },
       "artists": [
         {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          "name": "Lil Peep",
+          "url": "https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3"
         }
       ],
-      "duration_ms": 169999,
-      "name": "Armed And Dangerous",
-      "url": "https://open.spotify.com/track/5wujBwqG7INdStqGd4tRMX"
+      "duration_ms": 231546,
+      "name": "Save That Shit",
+      "url": "https://open.spotify.com/track/0S0vWvyZ6Rc79TXkWxT9QA"
     }
   ],
   "unique_name": "CLASS OF 2020 mixtape",

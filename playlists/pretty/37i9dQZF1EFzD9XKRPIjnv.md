@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0JLbaF5wHm7PYeI06NPRsa">Sarah Aarons</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,321 likes - 113 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,322 likes - 113 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 67 | [Hurricane](https://open.spotify.com/track/36GbZPJbjuxw4BahR1gPdM) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Hurricane](https://open.spotify.com/album/3SEXPNDZwqzYZpRHeFTGSv) | 3:15 |
 | 68 | [For Real This Time](https://open.spotify.com/track/1cR29lpK5mJIlajSpRqfNF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:13 |
 | 69 | [courage](https://open.spotify.com/track/72sQjWR565TtF4yIKnoZZe) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 3:29 |
-| 70 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
-| 71 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
+| 70 | [up to something](https://open.spotify.com/track/0363Rz5nMpTlYWZ4kmjM2L) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Bright Lights, Red Eyes](https://open.spotify.com/album/43G5319YT74MbuRtxodpi9) | 2:59 |
+| 71 | [Bedroom](https://open.spotify.com/track/1XsdYesbGlCoCVgCDF9M88) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Bedroom \- EP](https://open.spotify.com/album/54fyCZL6OtWyBWf9DlQDNW) | 3:34 |
 | 72 | [Better](https://open.spotify.com/track/0vZhOON6GYVBxv6ZeeHyZ0) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:50 |
 | 73 | [Wishful Thinking](https://open.spotify.com/track/1vJKO2Phq0XB5MoZ6iMx8x) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:40 |
 | 74 | [For Her](https://open.spotify.com/track/62qXENYDqMT6CLE6Ri6WHp) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Gaslighter](https://open.spotify.com/album/1YV5Rh6n8dLOycCqWcUSq4) | 5:26 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 112 | [Broken Home \- From "Empire: Season 6"](https://open.spotify.com/track/4dkn6avuOxa9hwnk9507KQ) | [Empire Cast](https://open.spotify.com/artist/7EjxNoVjXo7gL73F2EdXVA), [Alexandra Grey](https://open.spotify.com/artist/6VW8RmPy2TkeibNTFafG6n) | [Broken Home \(From "Empire: Season 6"\)](https://open.spotify.com/album/1pQ8f3ulVNTU3WZytYxMb6) | 3:20 |
 | 113 | [Trust Issues](https://open.spotify.com/track/1pF2jde5bhVXkDlWyl7N03) | [Aaron](https://open.spotify.com/artist/556QXf5aTw46XDZ9swLCYE) | [Trust Issues](https://open.spotify.com/album/0NU1WYWYXzGtC4SwkOsxD4) | 3:21 |
 
-Snapshot ID: `Mjc2NzY4NzMsMDAwMDAwMDA1MDRhMjY3ZDBkYzRhMGFkOTdhZjdhZDFhNDVlNTAxMw==`
+Snapshot ID: `Mjc2NzgzMTMsMDAwMDAwMDBiNTY1ODFiMDQ2YjQxZmNhZmQ3NjA5ZGJmZmQwN2ZhOA==`

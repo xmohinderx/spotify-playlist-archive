@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus.
 
-231 songs - 15 hr 7 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
+232 songs - 15 hr 10 min - [published](https://open.spotify.com/playlist/0dK7KEwhlZf4WEi0ldqOqZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,9 +22,10 @@
 | [Angels We Have Heard on High](https://open.spotify.com/track/1tMevGb3Z4DLprCH7qV2By) | [Central Live](https://open.spotify.com/artist/4wgCtJHJAspY8Pwr09Cgkn) | [Thrill of Hope](https://open.spotify.com/album/741AlY3qs4A7IKAWlHQUIq) | 3:44 | 2021-12-24 | 2022-07-25 |
 | [Angels We Have Heard on High](https://open.spotify.com/track/1ViTV7qA8Yxdnd3BWxoCGk) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Angels We Have Heard on High](https://open.spotify.com/album/089uYze5fJAmXWCjpVDqOO) | 2:34 | 2021-12-11 | 2022-07-29 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/0UinWNfK7eaaLrAQwkFGbT) | [Leon Timbo](https://open.spotify.com/artist/5sh0bpSEIvnWiJxZKFhJ8S), [Jesse Ray Miller](https://open.spotify.com/artist/1QNU5uAfpMnNSdFYsaiXfG) | [Angels We Have Heard On High](https://open.spotify.com/album/26vLrELVyFoClbMNH1QXbf) | 2:40 | 2021-12-24 | 2022-07-25 |
-| [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 | 2021-12-11 |  |
+| [Angels We Have Heard On High](https://open.spotify.com/track/7dm5gFgXNGKB0UzRiK7XDx) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Let It Snow](https://open.spotify.com/album/7ABzUdF5VF3PGh6psVjRmq) | 3:26 | 2021-12-11 | 2022-08-17 |
 | [Angels We Have Heard On High](https://open.spotify.com/track/2mCGyYZna7YLFPonIziP0x) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Tina Colón Williams](https://open.spotify.com/artist/2BH2hojvyoVD7WKMWU8TNl) | [Angels We Have Heard On High](https://open.spotify.com/album/5dQjOApHr2xDsYjfmmwCF2) | 3:49 | 2021-12-24 | 2022-07-29 |
 | [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/40Uhr0Uf07oR7dst3und90) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/23RLVa9P5Fe8DbxNEUAXf0) | 3:01 | 2021-12-11 | 2022-07-28 |
+| [Angels We Have Heard on High \(We Won't Be Silent\)](https://open.spotify.com/track/5ml63298Svg1LYyZ3W3wjy) | [Cade Thompson](https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4) | [Cade Thompson Christmas](https://open.spotify.com/album/5t1YZCA2GLWvWfhhFc3Dx6) | 3:01 | 2021-12-24 |  |
 | [Angels We Have Heard On High \- Recorded At Electric Lady Studios NYC](https://open.spotify.com/track/3mORNTAlAguOAiP7Habmo2) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Angels We Have Heard On High \(Recorded At Electric Lady Studios NYC\)](https://open.spotify.com/album/0jYV35MYyEIRXCuZWKK3Mw) | 2:58 | 2021-12-24 |  |
 | [Auld Lang Syne](https://open.spotify.com/track/3DuIxCNLv9H0lZX9TNGhbX) | [Andy Cherry](https://open.spotify.com/artist/67xUi7je7BPGgGdem8oycN) | [Auld Lang Syne](https://open.spotify.com/album/45mEBa1g8I8rsOO2wgk9y2) | 4:20 | 2021-12-24 | 2022-07-27 |
 | [Away In a Manger](https://open.spotify.com/track/1lXmhrsTDe9QT7G5QYEnLr) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Peace On Earth](https://open.spotify.com/album/6AwF2s3lEGd6Mjvu1xy249) | 3:35 | 2021-12-11 |  |

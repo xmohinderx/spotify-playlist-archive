@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 
 > Songs about our favorite furry, scaly, and feathered friends!
 
-[Spotify](https://open.spotify.com/user/spotify) - 573 likes - 72 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 577 likes - 72 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafnfRcoly0r.md) - [plain]
 | 16 | [Three Little Kittens \- 2014 Version](https://open.spotify.com/track/5I9D2oS7a0tge0z5IygYOa) | [The Kiboomers](https://open.spotify.com/artist/1qKLikeNYpQFSsDAjg7HpI) | [The Ultimate Nursery Rhymes and Song Collection](https://open.spotify.com/album/2H6xMEnwcyraIDvfTvettR) | 2:01 |
 | 17 | [Chihuahua](https://open.spotify.com/track/1quenVNGeGpSBJBpU7Xm7w) | [fleaBITE](https://open.spotify.com/artist/6rfo4U1CM0NDIuikxFYDJW) | [Snakes Alive \(It's Fleabite 5\)](https://open.spotify.com/album/4sOTyPW3UH85SwPM8jzk2w) | 2:34 |
 | 18 | [Bad Kitty](https://open.spotify.com/track/1fp4rbxkUTDX9rOYFyXeuL) | [Triple Rainbow](https://open.spotify.com/artist/3IGsw8WHZ1TzhtPRbBb26J) | [You Are Magic](https://open.spotify.com/album/5xRjlwgV91shI2gFPaoQEx) | 3:01 |
-| 19 | [My Dog Romeo](https://open.spotify.com/track/4rD5Cuy00DTl4h0nRZ9Fy2) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time](https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw) | 2:46 |
+| 19 | [My Dog Romeo](https://open.spotify.com/track/4rD5Cuy00DTl4h0nRZ9Fy2) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [More Family Time](https://open.spotify.com/album/1jB8Th5VPnKZj25uGOcpZw) | 2:48 |
 | 20 | [Dog Song](https://open.spotify.com/track/2KfOb48mPByQ64NbHkvtNy) | [Hullabaloo](https://open.spotify.com/artist/4ruDLmgWVqEhEP8WWZyOXr) | [Best of Hullabaloo, Vol\. 2](https://open.spotify.com/album/6ApJasfGCF0wfY7Ka6fHnu) | 3:15 |
 | 21 | [Dog Pound](https://open.spotify.com/track/1eNDDTXuR91r9niUu395QB) | [Koo Koo Kanga Roo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Critters](https://open.spotify.com/album/4FCvj0mX0Uh2TcJ5wzSdwN) | 1:00 |
 | 22 | [Pet](https://open.spotify.com/track/118hbAhvMQigZB9tBLcyFm) | [The Relative Minors](https://open.spotify.com/artist/6uaZMwvefKqumCrbYSksId) | [Play Music](https://open.spotify.com/album/29CsPLDKBk60dQifzVyB7a) | 1:28 |

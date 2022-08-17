@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Kayla Rivera, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,844 likes - 90 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,855 likes - 90 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 25 | [Attracted](https://open.spotify.com/track/3hnlOF2IchhxpcUm3Ctv5Q) | [Fritz Miranda](https://open.spotify.com/artist/2XU4WiVXIJRKj0U8Jp9XE4) | [Attracted](https://open.spotify.com/album/7vz3rSMHantDRYqjfWRB0K) | 3:50 |
 | 26 | [Kapit Lang](https://open.spotify.com/track/7lIx7qCoYbVL5vL7DrlSlL) | [Jekkpot](https://open.spotify.com/artist/7ypt5Qvb2h6rIahhfls05p), [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU), [JRoa](https://open.spotify.com/artist/0eaeZqmrZHe4qGgx4woFnG) | [Kapit Lang](https://open.spotify.com/album/1gTCUADkkyltU6ZFUBN4Cu) | 3:53 |
 | 27 | [All Day](https://open.spotify.com/track/7msEKmRijEFvzURO1xypln) | [Ian](https://open.spotify.com/artist/0cGEajsmUu72utDiZfM9lY) | [All Day](https://open.spotify.com/album/2aoWmpomn6M2X4Xk5KFKYk) | 2:56 |
-| 28 | [say goodbye](https://open.spotify.com/track/0c9b0Cqvy3lvrgqC0138xf) | [Julia Gutz](https://open.spotify.com/artist/3eXenhS9a6brWVTCUxNBig) | [Take My Heartache](https://open.spotify.com/album/0fqTr1SingmPuNMJ5Fp6H8) | 3:01 |
+| 28 | [say goodbye](https://open.spotify.com/track/0c9b0Cqvy3lvrgqC0138xf) | [Julia Gutz](https://open.spotify.com/artist/3eXenhS9a6brWVTCUxNBig) | [say goodbye](https://open.spotify.com/album/0fqTr1SingmPuNMJ5Fp6H8) | 3:01 |
 | 29 | [Espasyo](https://open.spotify.com/track/05Pp0XbaYGp7WR3skgtAyJ) | [Discent](https://open.spotify.com/artist/5P0OfGvR99ekgKVZendHZD) | [Espasyo](https://open.spotify.com/album/3XAqhs29RKa8dbVPC177gh) | 5:15 |
 | 30 | [All Love, No Hate](https://open.spotify.com/track/7B40Wyl3xMf9FpU6jUkDWT) | [Jiya Noina](https://open.spotify.com/artist/5rmYAIq4ong7rSgH6XKtQs) | [All Love, No Hate](https://open.spotify.com/album/1zdVTiNSTT1tsyDvaqXFxX) | 3:00 |
 | 31 | [Ayusen](https://open.spotify.com/track/5mexzZniVnBU5HbrTjZuxE) | [Soultary](https://open.spotify.com/artist/4grMV6pfxotpPx6i4KVf49) | [Ayusen](https://open.spotify.com/album/2gczg6mU8jYSWuxCYuG8iH) | 3:44 |

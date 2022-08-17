@@ -4,7 +4,7 @@
 
 > Bringing the roaring 20s into the 2020s
 
-178 songs - 10 hr 37 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
+179 songs - 10 hr 40 min - [published](https://open.spotify.com/playlist/0MwBkOxco4wJurN8bfVIbk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Booty Swing](https://open.spotify.com/track/3sMleqdCDalZ6xsAQe8xuY) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [The Princess, Pt\. Two](https://open.spotify.com/album/7p72vm3axkMsrAMBwl7d3T) | 3:17 | 2020-10-30 |  |
 | [Boring 20s](https://open.spotify.com/track/7pgaS0ix47UoKdBEqvgx01) | [Tamela D'Amico](https://open.spotify.com/artist/7GBJeLHS04OjBvxpGMFXYo), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu), [Ashley Slater](https://open.spotify.com/artist/77ZyDi3WOcyp4Yxa9HFV62) | [Boring 20s](https://open.spotify.com/album/2AqxV8iRa5sCwT1DHNpcDg) | 2:50 | 2022-05-13 |  |
 | [Brass Devil](https://open.spotify.com/track/4xbXOQPA963yrJXksBPt51) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Brass Devil](https://open.spotify.com/album/4uV6i7Odkg83F6muILQnFO) | 3:52 | 2020-10-30 |  |
-| [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX) | 5:50 | 2020-10-30 |  |
+| [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/2vTznimGgaFXza6a2ArS10) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0heEIQabpKLOmX5AX6HDAX) | 5:50 | 2020-10-30 | 2022-08-17 |
 | [Butterfly \- Wolfgang Lohr Remix](https://open.spotify.com/track/38y2r6F9E3VutUPgBlcnpc) | [Swingrowers](https://open.spotify.com/artist/3mp5zzEz1qTq7X5a2yOS2B), [Wolfgang Lohr](https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu) | [Butterfly \(Remixes\)](https://open.spotify.com/album/0th963bxkj9SxqaoBT2tXT) | 5:50 | 2020-10-30 | 2022-07-29 |
 | [Button Up](https://open.spotify.com/track/0yFu8XNnKr0ium4NrmWCtB) | [Odd Chap](https://open.spotify.com/artist/2bUYKdepfgDuZiRQJdvooU) | [Vintage Jukebox EP](https://open.spotify.com/album/7rA6iTmGOEzJNtKGjh41Hl) | 3:23 | 2020-10-30 | 2022-07-25 |
 | [Candy Girl](https://open.spotify.com/track/3bEoJn1bacU7dhpcjmWw72) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px), [Vallemarie](https://open.spotify.com/artist/7IEexZoQUGuysrjOv20v0g) | [Candy Girl](https://open.spotify.com/album/3uBxUOlXsW91M7dy5BnIw1) | 2:42 | 2022-01-21 |  |
@@ -100,6 +100,7 @@
 | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/track/0FilMYb2ATvOOmJPtEH0t3) | [Phos Toni](https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5) | [Make Me Dizzy \(Radio Edit\)](https://open.spotify.com/album/1a3Ce15aKCM4me0RqMLIUZ) | 4:10 | 2020-10-30 | 2022-07-22 |
 | [Mambo Rap](https://open.spotify.com/track/14RrzxMs07EhE8bUso5Pso) | [Parov Stelar](https://open.spotify.com/artist/65EXuYHVoehCKqp0kOS6px) | [Mambo Rap](https://open.spotify.com/album/1WqRiGdw8QFI9yMVqDCEQF) | 3:23 | 2020-10-30 |  |
 | [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/0gcOlRU3P9yu3Jhqd3ZYUZ) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/72LU9AW6AzPodEe8FeVH3R) | 2:44 | 2020-10-30 | 2022-05-15 |
+| [Marcianito \- Cristina Renzetti Vocal Version](https://open.spotify.com/track/1qUOQnK6aeMa6KO0fB1OjY) | [Dj Farrapo](https://open.spotify.com/artist/3Zd0T1sAyozwHb3u3MYtiP), [Cristina Renzetti](https://open.spotify.com/artist/6pMus8C5qs4o0TcsvouPI6) | [The Nu Swing Experience](https://open.spotify.com/album/3s5XUm68qdvzlW4wTDSSaw) | 2:44 | 2020-10-30 |  |
 | [Married Man](https://open.spotify.com/track/6jGYrW5pzaqyAHJAifMGjl) | [Annella](https://open.spotify.com/artist/7cx7uVoPbCRy6KvTh5pJaf) | [Married Man](https://open.spotify.com/album/4sWwMJbfAhpq2o5raC8XHH) | 3:29 | 2020-10-30 | 2022-07-19 |
 | [Mañana \- Jojo Effect & Gardener of Delight Remix](https://open.spotify.com/track/27FA1rNL2xN9u8XZyHrxup) | [Jojo Effect](https://open.spotify.com/artist/3kHTdAZm5aaYxF2WowH1nL), [The Mills Brothers](https://open.spotify.com/artist/3nxAXv48I7VKMXT8ScbRlg), [Gardener of Delight](https://open.spotify.com/artist/3hSjJFU2I7AkyEDa4nop7i) | [Mañana \(Jojo Effect & Gardener of Delight Remix\)](https://open.spotify.com/album/07HP7HE5ivpEfRj5c9JAqp) | 2:48 | 2021-04-09 |  |
 | [Miss Her](https://open.spotify.com/track/3VpLkugcSbYuDSOBKNxFaQ) | [Proleter](https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8), [Awon](https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf) | [Bubbles](https://open.spotify.com/album/73KjLxHjBCmF1MF3Iw5405) | 4:02 | 2020-10-30 | 2022-05-14 |

@@ -758,6 +758,24 @@
     },
     {
       "album": {
+        "name": "Con la Misma Moneda",
+        "url": "https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc"
+      },
+      "artists": [
+        {
+          "name": "Karina",
+          "url": "https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266760,
+      "name": "Con la Misma Moneda",
+      "url": "https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4"
+    },
+    {
+      "album": {
         "name": "Guarachando",
         "url": "https://open.spotify.com/album/18alqYy5VLW7BxT86gmAGI"
       },
@@ -4679,7 +4697,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 327000,
       "name": "Vuelvo A Sentir",
       "url": "https://open.spotify.com/track/57geo0JlbDLKhVjDWk7DD2"

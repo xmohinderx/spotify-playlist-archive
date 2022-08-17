@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Whitney Houston",
-  "num_followers": 230622,
+  "num_followers": 230808,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDI2NGU4ZmI2ODM3YjZhMDE0ODZmZGYxZjA4MTA2MDkz",
+  "snapshot_id": "MTY1NTM1MjE1NCwwMDAwMDAwMDU0OTQzZTUzYTgxNTdiNGRiOGYwZTJjN2M4ZGIwMjli",
   "tracks": [
     {
       "added_at": "2022-06-16 04:02:34",
@@ -703,6 +703,26 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
+      },
+      "artists": [
+        {
+          "name": "Joe Cocker",
+          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
+        },
+        {
+          "name": "Jennifer Warnes",
+          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
+        }
+      ],
+      "duration_ms": 232666,
+      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
+      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "Slippery When Wet",
         "url": "https://open.spotify.com/album/0kBfgEilUFCMIQY5IOjG4t"
       },
@@ -751,26 +771,6 @@
       "duration_ms": 277600,
       "name": "Where Do Broken Hearts Go",
       "url": "https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/0OdFUi5lSenjXrgy4dVAP8"
-      },
-      "artists": [
-        {
-          "name": "Joe Cocker",
-          "url": "https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI"
-        },
-        {
-          "name": "Jennifer Warnes",
-          "url": "https://open.spotify.com/artist/1BwHztAQKypBuy5WBEdJnG"
-        }
-      ],
-      "duration_ms": 232666,
-      "name": "Up Where We Belong - From \"An Officer And A Gentleman\"",
-      "url": "https://open.spotify.com/track/4U6mBgGP8FXN6UH4T3AJhu"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -959,6 +959,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
+        "name": "Can't Fight Fate (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
+      },
+      "artists": [
+        {
+          "name": "Taylor Dayne",
+          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
+        }
+      ],
+      "duration_ms": 277600,
+      "name": "Love Will Lead You Back",
+      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
         "name": "Hangin' Tough",
         "url": "https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK"
       },
@@ -991,22 +1007,6 @@
       "duration_ms": 226133,
       "name": "The Next Time I Fall (with Amy Grant)",
       "url": "https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
-        "name": "Can't Fight Fate (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
-      },
-      "artists": [
-        {
-          "name": "Taylor Dayne",
-          "url": "https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68"
-        }
-      ],
-      "duration_ms": 277600,
-      "name": "Love Will Lead You Back",
-      "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Sergio Mendes",
-        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
-      },
-      "artists": [
-        {
-          "name": "S\u00e9rgio Mendes",
-          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
-        }
-      ],
-      "duration_ms": 255600,
-      "name": "Never Gonna Let You Go",
-      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "Another Page",
         "url": "https://open.spotify.com/album/0o9hrKTjZk0O3QAGYDSDD2"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 206640,
       "name": "Think of Laura",
       "url": "https://open.spotify.com/track/5jLq63jMFWg0dKHnht6YI0"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "Sergio Mendes",
+        "url": "https://open.spotify.com/album/3MWjLK7oyJStLWqQmdDJfU"
+      },
+      "artists": [
+        {
+          "name": "S\u00e9rgio Mendes",
+          "url": "https://open.spotify.com/artist/65c5si0ePAwkOCn4M35Ho7"
+        }
+      ],
+      "duration_ms": 255600,
+      "name": "Never Gonna Let You Go",
+      "url": "https://open.spotify.com/track/5u8bqfaYSh0qVTsgslPknf"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1187,22 +1187,18 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Dirty Dancing: Anniversary Edition",
-        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
-          "name": "Patrick Swayze",
-          "url": "https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD"
-        },
-        {
-          "name": "Wendy Fraser",
-          "url": "https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh"
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 230866,
-      "name": "She's Like the Wind (feat. Wendy Fraser)",
-      "url": "https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV"
+      "duration_ms": 268600,
+      "name": "All at Once",
+      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Dirty Dancing: Anniversary Edition",
+        "url": "https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Patrick Swayze",
+          "url": "https://open.spotify.com/artist/6dH5I8Q7HhXu74cBXkP0LD"
+        },
+        {
+          "name": "Wendy Fraser",
+          "url": "https://open.spotify.com/artist/2oSO8nxMHKOJKj7v8l0zWh"
         }
       ],
-      "duration_ms": 268600,
-      "name": "All at Once",
-      "url": "https://open.spotify.com/track/0g8Q1Pmem92k7PzI3VLWKz"
+      "duration_ms": 230866,
+      "name": "She's Like the Wind (feat. Wendy Fraser)",
+      "url": "https://open.spotify.com/track/36EWx5B78n8sSfpmtKrUUV"
     },
     {
       "added_at": "2022-06-16 04:02:34",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2022-06-16 04:02:34",
       "album": {
-        "name": "It's Your Night",
-        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
-      },
-      "artists": [
-        {
-          "name": "James Ingram",
-          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
-        },
-        {
-          "name": "Patti Austin",
-          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
-        }
-      ],
-      "duration_ms": 254880,
-      "name": "How Do You Keep The Music Playing",
-      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
-    },
-    {
-      "added_at": "2022-06-16 04:02:34",
-      "album": {
         "name": "Radio Romance",
         "url": "https://open.spotify.com/album/532JCZV9eoJkF8fgOtwYkE"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 241040,
       "name": "You And I",
       "url": "https://open.spotify.com/track/7sWlOFUnQShNdxgk1B0TuW"
+    },
+    {
+      "added_at": "2022-06-16 04:02:34",
+      "album": {
+        "name": "It's Your Night",
+        "url": "https://open.spotify.com/album/28XSg8Y5N9pwKrSrMiwmbs"
+      },
+      "artists": [
+        {
+          "name": "James Ingram",
+          "url": "https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo"
+        },
+        {
+          "name": "Patti Austin",
+          "url": "https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd"
+        }
+      ],
+      "duration_ms": 254880,
+      "name": "How Do You Keep The Music Playing",
+      "url": "https://open.spotify.com/track/3lrpllvYQtR0WxSe5PLVLG"
     },
     {
       "added_at": "2022-06-16 04:02:34",

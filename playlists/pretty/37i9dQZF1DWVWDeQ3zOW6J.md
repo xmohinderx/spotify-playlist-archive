@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 
 > ¡Nada le gana a una comida hecha con buena salsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,573 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,594 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 21 | [La negra Tomasa](https://open.spotify.com/track/4zCsjPyHGJz8Vx0luwq4M1) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Las Flores De La Vida](https://open.spotify.com/album/449c2Wce3Ldrr8lzI02hlD) | 3:58 |
 | 22 | [La Murga](https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP), [Yomo Toro](https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E) | [Asalto Navideño](https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe) | 5:34 |
 | 23 | [Y No Hago Mas Na'](https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [La Universidad de La Salsa](https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf) | 5:01 |
-| 24 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
-| 25 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
+| 24 | [La Esencia Del Guaguancó](https://open.spotify.com/track/5NTB60qZtpRwFtDlNANKCt) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [La Perfecta Combinación](https://open.spotify.com/album/4iaNq48hB9AJQiZ0x3phc0) | 4:06 |
+| 25 | [El Sol de la Noche](https://open.spotify.com/track/0PAf4n8jN2Jo6QXcqirRVq) | [Salsa Celtica](https://open.spotify.com/artist/1L4dh63UjFVKTCBZTmbPSZ) | [El Agua de la Vida](https://open.spotify.com/album/6qn0EfY7hr2skTfoRFXHR6) | 5:54 |
 | 26 | [Incomprendido](https://open.spotify.com/track/3ImM4OW5DAs91JVoReV6m6) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 2:56 |
 | 27 | [Sandra Mora](https://open.spotify.com/track/1Lyg0T9xKFXIyIj3jHpOm8) | [Velvet Salsa All Stars](https://open.spotify.com/artist/0Vb0pkmuJAdJkFGJtSe3mI), [Andy Montañez](https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v), [Maritza Blanco De Puchi](https://open.spotify.com/artist/2Z23kB3gIu7mNJ4PG76yqI), [PABLO ÁLVAREZ](https://open.spotify.com/artist/0p0TwkF6LO1fYdx8NxcgGK) | [Velvet Salsa All Stars](https://open.spotify.com/album/0cFRprKvLnPrTJ7eWpG9ON) | 4:14 |
 | 28 | [Estamos en Salsa](https://open.spotify.com/track/6nONybSopBGecWPK0pcvva) | [Wayne Gorbea](https://open.spotify.com/artist/0tvNMJ8jl7lHOHv3ykLYvD) | [La Salsa del Conjunto Salsa](https://open.spotify.com/album/7oKUzawRV3aG7THNczUyT8) | 4:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWDeQ3zOW6J.md) - [plain]
 | 59 | [El Bodeguero](https://open.spotify.com/track/5KWXFC6zIKvAzGSxD0Z537) | [Orquesta Aragón De Cuba](https://open.spotify.com/artist/2OLihLtYOqpRtNddqyLWsG) | [Antología de la Música Cubana](https://open.spotify.com/album/1v0ts1bkcJc8tzs68G1nLt) | 3:01 |
 | 60 | [Patillero](https://open.spotify.com/track/2oaGtTnoM8jL8Pxouf6GJ1) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Wilson "Saoko" Manyoma](https://open.spotify.com/artist/43zrpWYGTWyHmRAmhE07u0) | [Fruko el Patillero](https://open.spotify.com/album/2XfXsROaksq5IlUCRn0XOR) | 3:27 |
 
-Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMGUyMWMyYTBhMmZkOTdhOWI3MzA1YmZiZTgzMTM5OTA4`
+Snapshot ID: `MTU5MjM0MjMwMiwwMDAwMDAwMDIzOWY1ZTY2YzYwNjYyYjdkNjMzY2NlYzA3MmE3ZGMy`

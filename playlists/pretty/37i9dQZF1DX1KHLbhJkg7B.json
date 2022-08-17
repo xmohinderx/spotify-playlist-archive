@@ -1,12 +1,12 @@
 {
   "description": "Unique versions of hit songs by other artists. Cover: Ashley McBryde",
-  "num_followers": 75788,
+  "num_followers": 75826,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDkzYzM0NjQzOTZmZWUzOTNjMzI5NDY1YTdjNDcwYmI0",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGIzMDhlZjQzNGEzYTEyODQ0OGQ4ZThkOWFlMmU2MWFh",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -383,22 +383,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
-      },
-      "artists": [
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
-        }
-      ],
-      "duration_ms": 225119,
-      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
-      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "I'm Alright",
         "url": "https://open.spotify.com/album/4UuS4hlOMP5akz21glTQCL"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 220200,
       "name": "Lesson In Leavin'",
       "url": "https://open.spotify.com/track/2g0BAZVaLlK8GeTVzF6hQ6"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+        "url": "https://open.spotify.com/album/69gvhvwY7jEIwYi0MahrtD"
+      },
+      "artists": [
+        {
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
+        }
+      ],
+      "duration_ms": 225119,
+      "name": "Grandpa (Tell Me 'bout the Good Old Days)",
+      "url": "https://open.spotify.com/track/1XhDpX7rrCFrI3ExwrNoU3"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -467,18 +467,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "1979",
-        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "David Nail",
-          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 320933,
-      "name": "Someone Like You - Piano Vocal",
-      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "1979",
+        "url": "https://open.spotify.com/album/5kWwElTZERMW15WMNHLI7C"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "David Nail",
+          "url": "https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6"
         }
       ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+      "duration_ms": 320933,
+      "name": "Someone Like You - Piano Vocal",
+      "url": "https://open.spotify.com/track/55BiXEd58TxhBPGJ5tImyJ"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 192093,
+      "name": "Summertime Blues",
+      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 182973,
       "name": "Highwayman",
       "url": "https://open.spotify.com/track/6uvT4Di9ZRBw5cbexZJDts"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 192093,
-      "name": "Summertime Blues",
-      "url": "https://open.spotify.com/track/3hV8Gvijx6cVv339o3uCSK"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -699,6 +699,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "I Don't Want To Miss A Thing",
+        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 246226,
+      "name": "I Don't Want To Miss A Thing",
+      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
         "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
       },
@@ -735,34 +751,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "I Don't Want To Miss A Thing",
-        "url": "https://open.spotify.com/album/4I8szVY9j0NJAOz7tmnZVy"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
       },
       "artists": [
         {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
         }
       ],
-      "duration_ms": 246226,
-      "name": "I Don't Want To Miss A Thing",
-      "url": "https://open.spotify.com/track/3FN7JMZaaQ9lSzIaan0YZ1"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        }
-      ],
-      "duration_ms": 157025,
-      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
+      "duration_ms": 225000,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -787,38 +787,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "15 Years, the Wild Ride",
-        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "3 Am",
-      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/5QjBL6kuxhPpPQGcjHx23n"
-      },
-      "artists": [
-        {
-          "name": "Noah Thompson",
-          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/5fuyEyyTfjrvMxsIVI2CQ9"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 198786,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+      },
+      "artists": [
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Pop a Top",
+      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7DzULGMf4tFgZ65CFlZugm"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        }
+      ],
+      "duration_ms": 157025,
+      "name": "Much Too Young (To Feel This Damn Old) - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2Zv9cKaT82kHOutvQmBUnD"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/07KOJyGSNCoYVoWZafFt5W"
+        "name": "15 Years, the Wild Ride",
+        "url": "https://open.spotify.com/album/0OjAJhXHWApxkPtPJHOPVW"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 185426,
-      "name": "Pop a Top",
-      "url": "https://open.spotify.com/track/3KIUKvwteP1HFA5UcvvL11"
+      "duration_ms": 272786,
+      "name": "3 Am",
+      "url": "https://open.spotify.com/track/6LjvqlPeCj62wF4oPJ6XOe"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Die a Happy Man",
+        "url": "https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4"
+      },
+      "artists": [
+        {
+          "name": "Nelly",
+          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
+        }
+      ],
+      "duration_ms": 214495,
+      "name": "Die a Happy Man",
+      "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Loud and Heavy",
         "url": "https://open.spotify.com/album/6OQW4qOQaYacMXohv1cL8U"
       },
@@ -1087,38 +1103,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Nobody Knows",
-        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
-      },
-      "artists": [
-        {
-          "name": "Rayne Johnson",
-          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Die a Happy Man",
-        "url": "https://open.spotify.com/album/2HL3GgGShK9spfzvhGcHM4"
-      },
-      "artists": [
-        {
-          "name": "Nelly",
-          "url": "https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw"
-        }
-      ],
-      "duration_ms": 214495,
-      "name": "Die a Happy Man",
-      "url": "https://open.spotify.com/track/1mExCoXAGKI6abLGXoG7O3"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "No Holdin' Back",
         "url": "https://open.spotify.com/album/7IXbCht6SXIAww7H3GmwLP"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 235920,
       "name": "It's Just a Matter of Time",
       "url": "https://open.spotify.com/track/4ON9pkEiboV83FUHkeIxGp"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Nobody Knows",
+        "url": "https://open.spotify.com/album/5HneOaxBGbFAwZR1tvLImP"
+      },
+      "artists": [
+        {
+          "name": "Rayne Johnson",
+          "url": "https://open.spotify.com/artist/3Zo19GTbgk9V6yCLrIfsxt"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/7kty8TspGq6DFI7LP91Kfh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "This Land Is Your Land (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 154893,
-      "name": "This Land Is Your Land",
-      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Under the Covers",
         "url": "https://open.spotify.com/album/69p0kNEn0mPNqkWwauuwOq"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 221093,
       "name": "Into the Mystic",
       "url": "https://open.spotify.com/track/0VKt9tsf9gOY3eotIfRHNS"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "This Land Is Your Land (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/24MCyGcqGDWuWQBAKadPfS"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 154893,
+      "name": "This Land Is Your Land",
+      "url": "https://open.spotify.com/track/7HT2vhADZOJrwczl10DDaO"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Lord, I Hope This Day Is Good",
+        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
+      },
+      "artists": [
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        },
+        {
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+        }
+      ],
+      "duration_ms": 169317,
+      "name": "Lord, I Hope This Day Is Good",
+      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Gone Girl",
         "url": "https://open.spotify.com/album/7z2djJtIKZPZtPeTk2VXFq"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 232360,
       "name": "Three Times A Lady",
       "url": "https://open.spotify.com/track/4kNaVprADQDfWl18mCXxh7"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Lord, I Hope This Day Is Good",
-        "url": "https://open.spotify.com/album/0VtHnpHrd8gzt5T8FVmCGK"
-      },
-      "artists": [
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
-        },
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 169317,
-      "name": "Lord, I Hope This Day Is Good",
-      "url": "https://open.spotify.com/track/4cFvCa5PLr7HTVosmwX4iL"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1571,6 +1571,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Vienna",
+        "url": "https://open.spotify.com/album/7y83ATsotdhOR8adq6fobK"
+      },
+      "artists": [
+        {
+          "name": "Matt Schuster",
+          "url": "https://open.spotify.com/artist/4HNYqvVDimiWSfGfSyGJGD"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Vienna",
+      "url": "https://open.spotify.com/track/1I9htETbx6XBkh0kyCz5uW"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "I Wanna Dance with Somebody",
         "url": "https://open.spotify.com/album/2dSPh8OT5darQS6HXbs84K"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 191258,
       "name": "I Wanna Dance with Somebody",
       "url": "https://open.spotify.com/track/0gfWDWiib6CeXZk6nUSh5z"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Flower Shops",
-        "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
-      },
-      "artists": [
-        {
-          "name": "Lindsay James",
-          "url": "https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz"
-        }
-      ],
-      "duration_ms": 214684,
-      "name": "Flower Shops",
-      "url": "https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Flower Shops",
+        "url": "https://open.spotify.com/album/6a0snbHrAHLQXNHiAnmmAW"
+      },
+      "artists": [
+        {
+          "name": "Lindsay James",
+          "url": "https://open.spotify.com/artist/4cBmS6uvIFgrRQGOCAuNZz"
+        }
+      ],
+      "duration_ms": 214684,
+      "name": "Flower Shops",
+      "url": "https://open.spotify.com/track/5H51cBWdVVStrUl5ymGeqa"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Restoration: The Songs Of Elton John And Bernie Taupin",
         "url": "https://open.spotify.com/album/25I3CO8X3zQvoEySDD2UIP"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 247765,
       "name": "Hallelujah",
       "url": "https://open.spotify.com/track/7dJQE9KR1E8rNKw6MQKVbb"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "JT",
-        "url": "https://open.spotify.com/album/0Pbc9Jq12a47mQ1z9yIuhn"
-      },
-      "artists": [
-        {
-          "name": "James Taylor",
-          "url": "https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P"
-        }
-      ],
-      "duration_ms": 251960,
-      "name": "Bartender's Blues",
-      "url": "https://open.spotify.com/track/1Pm0IxpzPNGF9O6fvYyP2q"
     }
   ],
   "unique_name": "Country Covers",

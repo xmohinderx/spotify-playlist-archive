@@ -2760,6 +2760,24 @@
     },
     {
       "album": {
+        "name": "Novacane",
+        "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
+      },
+      "artists": [
+        {
+          "name": "Frank Ocean",
+          "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302346,
+      "name": "Novacane",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "album": {
         "name": "Off The Drugs",
         "url": "https://open.spotify.com/album/5b1nUTXxIuHDPmvrb1FEf5"
       },
@@ -4081,7 +4099,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 152137,
       "name": "TO THE MOON",
       "url": "https://open.spotify.com/track/5vUnjhBzRJJIAOJPde6zDx"
@@ -4291,7 +4309,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 163127,
       "name": "Vibez",
       "url": "https://open.spotify.com/track/709F3MwiVvLD0LQXeKs5Cz"
@@ -4367,7 +4385,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 211613,
       "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
       "url": "https://open.spotify.com/track/1G1R0XgChe18Zr1o6tlmN6"

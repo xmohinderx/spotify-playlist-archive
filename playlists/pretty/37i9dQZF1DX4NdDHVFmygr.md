@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 > The sweet sounds of Morocco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,372 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,502 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,14 +27,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 17 | [Ntiya](https://open.spotify.com/track/3j0nwjwZKO1EArIlo6RuJN) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ntiya](https://open.spotify.com/album/5tiCtx89m9IROn2MOsGRFq) | 3:06 |
 | 18 | [Rosita](https://open.spotify.com/track/0Iu2Jrfy91hMgIUtS9FFIX) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [MIXDEEP](https://open.spotify.com/album/1I9BiYmRSw2HXXi8RtKBym) | 3:15 |
 | 19 | [Houwa](https://open.spotify.com/track/2ki6K0cwvZzDWDsuZm2etk) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Houwa](https://open.spotify.com/album/3DkELzHCchBTYhKBhnUqo0) | 3:31 |
-| 20 | [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 |
-| 21 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 |
-| 22 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 |
-| 23 | [Ajiyi](https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Hassan Azenzar](https://open.spotify.com/artist/41XrLXoF6VggjcBrCeNd2E) | [Ajiyi](https://open.spotify.com/album/292GSzLdX49NvNGwFWIpxr) | 3:36 |
-| 24 | [Normal](https://open.spotify.com/track/2F8aPLJiDwIfK0w4hH2AU2) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Normal](https://open.spotify.com/album/2EDejl89ZrQ0kZ9hXewf4d) | 2:34 |
+| 20 | [Baqi](https://open.spotify.com/track/0ZEsqUUWGsL5FOv8qjnzNT) | [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [باقي](https://open.spotify.com/album/6ErhouXML7Oo2m3JIbFsj3) | 3:54 |
+| 21 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 |
+| 22 | [Ajiyi](https://open.spotify.com/track/5FZ0py45ywEQseBHBwaz5f) | [Iguidr](https://open.spotify.com/artist/6tjt10KbSIyUZEid47Kxbg), [Flomine](https://open.spotify.com/artist/4ftrhn6reSyzhgXgCYb9qs), [Hassan Azenzar](https://open.spotify.com/artist/41XrLXoF6VggjcBrCeNd2E) | [Ajiyi](https://open.spotify.com/album/292GSzLdX49NvNGwFWIpxr) | 3:36 |
+| 23 | [Normal](https://open.spotify.com/track/2F8aPLJiDwIfK0w4hH2AU2) | [Jewlz](https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt), [Raste](https://open.spotify.com/artist/7hblKQxMowm5BZpxUjcYQT) | [Normal](https://open.spotify.com/album/2EDejl89ZrQ0kZ9hXewf4d) | 2:34 |
+| 24 | [ZEKARA](https://open.spotify.com/track/3qe9cnNbkv4zqUPAPASf1S) | [Mr\. Crazy](https://open.spotify.com/artist/3T0mKZYTDmRODhPJYsQNoz) | [ZEKARA](https://open.spotify.com/album/14yyNsJnlVmBp5ACuuSsNa) | 2:22 |
 | 25 | [Dime Porque](https://open.spotify.com/track/6yd5mN94Oi7OOZ4mGA7Co1) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Dime Porque](https://open.spotify.com/album/4F52Ar98sgSN12heKH3e7v) | 3:01 |
 | 26 | [Lalla Laaroussa](https://open.spotify.com/track/2K1ua085l6TZjOlHidTadV) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Lalla Laaroussa](https://open.spotify.com/album/3D5kTPcdeB92udLWaLVPM9) | 3:32 |
-| 27 | [Galo Lik Elia](https://open.spotify.com/track/6BU7Xu7gYJl5fwctmS1RTb) | [Chaimae Abdelaziz](https://open.spotify.com/artist/2dAN3UYOUQU41wR5IObThO) | [Galo Lik Elia](https://open.spotify.com/album/5f5SrvgQMYpfzhcpn8ZYJ6) | 3:34 |
+| 27 | [Moulat Taj \- Delali](https://open.spotify.com/track/6MGvR6zRaMnBi4sejIANew) | [Atif Zinachi](https://open.spotify.com/artist/29R5LaRZ6ceDKec9pYJU8o) | [Moulat Taj \(Delali\)](https://open.spotify.com/album/3EYxGv2x4HKpr1vpugqB9y) | 3:03 |
 | 28 | [Douga](https://open.spotify.com/track/7H8cWXov4JefpfvzXiXt6B) | [Plylist](https://open.spotify.com/artist/3s2IJ6our3HssoUtzDd4QW), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Douga](https://open.spotify.com/album/4moiez6TVp0ta4iGHf3Ms5) | 3:20 |
 | 29 | [Ma Jolie](https://open.spotify.com/track/7pktxOiANdgQnzJmp7vwON) | [LFERDA](https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v) | [Cagoulé](https://open.spotify.com/album/1qD0LUxHxbr5UPw7Rz99C0) | 2:24 |
 | 30 | [Walo Maliya والو ماليا](https://open.spotify.com/track/6nS8NbxXScf2dBpX7QD70F) | [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF) | [Walo Maliya](https://open.spotify.com/album/5moBBS6OdbFfLBiUSfNsYN) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [Ya Hmed](https://open.spotify.com/track/3Ica0uL8RYkhG3YG0tpywf) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk), [Madara](https://open.spotify.com/artist/25lj3VIS5OU4AJDbTQvVI7) | [Ya Hmed](https://open.spotify.com/album/1mZHdQPQtSgdflf4sVWsVf) | 3:29 |
 | 50 | [MILANO](https://open.spotify.com/track/5TR5g2mXk58AbVbHLVRbsM) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MILANO](https://open.spotify.com/album/7DgRfSHOYWDEV6svVQqLiJ) | 4:09 |
 
-Snapshot ID: `MTY2MDAzNzc2OCwwMDAwMDAwMDNlNmFhODg1MDEwNGY5ZGVjNTliNmQ2NDkzMGU5ZTEy`
+Snapshot ID: `MTY2MDY2MjU3MCwwMDAwMDAwMDc0MzUwMmI0ZDIwYmI2YTZkYjI4YTM5NTBiNjMwYTc0`

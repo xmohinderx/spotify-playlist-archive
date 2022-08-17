@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Minions
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,209,734 likes - 90 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,211,589 likes - 90 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,16 +12,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 2 | [Hotel](https://open.spotify.com/track/1rfsEU57ofvxhII8Xs57WF) | [Lawsy](https://open.spotify.com/artist/4KatuTqriDODW9YiAIZD3T) | [Hotel](https://open.spotify.com/album/4wSF1oy5QmEopBZ2KZxIy1) | 2:35 |
 | 3 | [\#miles](https://open.spotify.com/track/1hboZZxKIEjLHRIkhx4Soi) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [\#miles](https://open.spotify.com/album/2PCs0ZB8bHofV9khzpRmal) | 1:55 |
 | 4 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 |
-| 5 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 |
-| 6 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
-| 7 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 |
-| 8 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 |
-| 9 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
-| 10 | [TURN IT UP](https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [TURN IT UP](https://open.spotify.com/album/6mdPxVCQqK8BssQRF0zNZh) | 3:22 |
-| 11 | [Righteous](https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG) | 2:43 |
-| 12 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 |
-| 13 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
-| 14 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 |
+| 5 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/3W9jnJBPYeihwNSXsr65f9) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/3gkkk6YBBtdhJeBeoUBxui) | 2:40 |
+| 6 | [GTTM](https://open.spotify.com/track/5tsmt6wAwjgj5iNID2nATh) | [ZaeHD](https://open.spotify.com/artist/2EoYP6sHWD8746sFp7z3or) | [GTTM](https://open.spotify.com/album/3Q1Q8OxjZCsusRxJrOXCN7) | 2:22 |
+| 7 | [Doja](https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Doja](https://open.spotify.com/album/6oECjagksATHu2UaclXrq1) | 1:37 |
+| 8 | [AWKWARD FREESTYLE](https://open.spotify.com/track/2ISyz9DRGEMrJN77ge3hi2) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [AWKWARD FREESTYLE](https://open.spotify.com/album/2NCexUw6m7UA2YitYdirbV) | 2:07 |
+| 9 | [Mine](https://open.spotify.com/track/4O1UcKLwZ92kxNTn3u0voN) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [Mine](https://open.spotify.com/album/5X1ugJYc0B57rw0OnTwBKE) | 2:34 |
+| 10 | [Punk Tactics](https://open.spotify.com/track/2KBYPTSTHjYYOPACrFTkPy) | [Joey Valence](https://open.spotify.com/artist/6BkiL5nhcwWK6JqWbBjNgu), [Brae](https://open.spotify.com/artist/1QGptNgo1M6cD7EjrFZmRp) | [Punk Tactics](https://open.spotify.com/album/7pG2QdrVFNTid1hqezx5dH) | 2:23 |
+| 11 | [TURN IT UP](https://open.spotify.com/track/0uUljDsi9o1MXjReM6uLzz) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [TURN IT UP](https://open.spotify.com/album/6mdPxVCQqK8BssQRF0zNZh) | 3:22 |
+| 12 | [Righteous](https://open.spotify.com/track/6pzXbWt70WzfOXp6xfbQWr) | [Mo Beats](https://open.spotify.com/artist/2Hil1oktsE7Wic4X5cBGK3) | [Righteous](https://open.spotify.com/album/4wKiLDuvLSKBtWyez67oSG) | 2:43 |
+| 13 | [Bustdown Rollie Avalanche](https://open.spotify.com/track/5EoYSiXiv2QKCjnJct6wEA) | [Kai Cenat](https://open.spotify.com/artist/5pOnZ90CPqPp4FjW9AOVHU), [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [Bustdown Rollie Avalanche](https://open.spotify.com/album/4q1uibZPEdwaj7Ha9F5lOJ) | 2:45 |
+| 14 | [Wrath](https://open.spotify.com/track/7KgyPFCEHf3Mm0CH6nY1yZ) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Wrath](https://open.spotify.com/album/4gKrjdPNDXqMalEdtn8YHE) | 1:53 |
 | 15 | [Demon Time \(feat\. Ski Mask The Slump God\)](https://open.spotify.com/track/1hE8iI3YK9x1VUBDtSzg3x) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 2:39 |
 | 16 | [HONEST](https://open.spotify.com/track/58k32my5lKofeZRtIvBDg9) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:52 |
 | 17 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 89 | [waY bacK wheN](https://open.spotify.com/track/6P0XCZPe8OZZtasJ5xG3Uz) | [LEW](https://open.spotify.com/artist/3Jm6kDs1lVTJSiIN6fZyP4) | [wheN iT rainS iT pourS](https://open.spotify.com/album/53zUIw0vdPLw5YhMwFBeWU) | 2:57 |
 | 90 | [Bag](https://open.spotify.com/track/0CyqjmmaRh3TL3ebR7vLhc) | [645AR](https://open.spotify.com/artist/3Iv3mOsjFV8vZkXphpQ8hz), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Bag](https://open.spotify.com/album/2l9HFZ8woqwKc9vX6hsprZ) | 1:43 |
 
-Snapshot ID: `MTY2MDM1NjQ4MiwwMDAwMDAwMDFiYTE2ZGU4MzgyZWRhYjRjMzMyNDczNjA4MDc2NDRm`
+Snapshot ID: `MTY2MDYzMTc4MSwwMDAwMDAwMDkzOGFjZTAxMDAxZWQ3ZjNjNDM3YmU3Y2E3MmFiNWRj`

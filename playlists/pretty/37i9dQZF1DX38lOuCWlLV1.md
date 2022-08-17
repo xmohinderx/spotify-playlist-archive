@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 
 > Eclectic indie love songs from throughout the years\. Delicate lyrics that say it best.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,295 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,582 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 16 | [K.](https://open.spotify.com/track/7LX4aXtvImhdgUHQBlo8Kp) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 5:19 |
 | 17 | [Norman fucking Rockwell](https://open.spotify.com/track/3RIgHHpnFKj5Rni1shokDj) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 4:08 |
 | 18 | [High and Dry](https://open.spotify.com/track/2a1iMaoWQ5MnvLFBDv4qkf) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [The Bends](https://open.spotify.com/album/35UJLpClj5EDrhpNIi4DFg) | 4:17 |
-| 19 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
+| 19 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
 | 20 | [Andromeda](https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk) | 4:40 |
-| 21 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 |
+| 21 | [Comptine d'un autre été, l'après\-midi](https://open.spotify.com/track/14rZjW3RioG7WesZhYESso) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [Le Fabuleux destin d'Amélie Poulain \(Bande originale du film\)](https://open.spotify.com/album/6PRPYATK5VvjZ2p911y6U0) | 2:20 |
 | 22 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
 | 23 | [First Day of My Life](https://open.spotify.com/track/0eBryM7ePQH3Klt3jz8xZd) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 3:08 |
 | 24 | [Love song](https://open.spotify.com/track/5tyMJlMqaggzvuX7TtlrTe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:49 |
@@ -73,15 +73,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX38lOuCWlLV1.md) - [plain]
 | 63 | [Lua](https://open.spotify.com/track/6BqrPvrPOwpYkdLCgSqtVB) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [I'm Wide Awake, It's Morning](https://open.spotify.com/album/6MwSuZphL6GmuSVIYUGUF7) | 4:31 |
 | 64 | [Destiny](https://open.spotify.com/track/27ViQppP3LZPCJl2A0w9kp) | [Zero 7](https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Sophie Barker](https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2) | [Simple Things](https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH) | 5:38 |
 | 65 | [Eyes](https://open.spotify.com/track/1a9czdo8IX5InOiSOg6xpv) | [Rogue Wave](https://open.spotify.com/artist/2JSc53B5cQ31m0xTB7JFpG) | [Eyes](https://open.spotify.com/album/7KMiuupbbjzq7tzwCC0rhc) | 2:28 |
-| 66 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
-| 67 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
+| 66 | [Love Letter From The Sea to The Shore](https://open.spotify.com/track/2uPFYzZXZSgIP6AHKneCLT) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Love Letter From The Sea to The Shore](https://open.spotify.com/album/5OTyzmAOlaJviW3PhFsxz0) | 3:11 |
+| 67 | [Kingdom Leader](https://open.spotify.com/track/5GeIdhQ2HZ86I9HsQwvRAP) | [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [Kingdom Leader – Single](https://open.spotify.com/album/03EMOcMFTB5rep0KfqI9XX) | 3:34 |
 | 68 | [To Be Alone With You](https://open.spotify.com/track/12homE4JpBey5cckgoepR7) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/1WZ9u1VDIih007LAC6VfpA) | 2:48 |
 | 69 | [Such Great Heights](https://open.spotify.com/track/6dDxgfvM8pJm7AzmLZB1nN) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Around the Well](https://open.spotify.com/album/5tOzXq44rU4yCCVY94f6m7) | 4:11 |
-| 70 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
-| 71 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
+| 70 | [She Moves In Her Own Way](https://open.spotify.com/track/2SGBEDwsOAOAHrrdAd304i) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/4MhInH4XT7ReDV5fCZjaSz) | 2:49 |
+| 71 | [Transatlanticism](https://open.spotify.com/track/0DoACS30GwIY6qaFjCMMUz) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Transatlanticism \(10th Anniversary Edition\)](https://open.spotify.com/album/4jQW2mhMH3TxtAOol3Djuf) | 7:55 |
 | 72 | [\(No One Knows Me\) Like the Piano](https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Process \(Bonus Edition\)](https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv) | 3:38 |
-| 73 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
-| 74 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 |
+| 73 | [We Stayed Up All Night](https://open.spotify.com/track/7eSWgAlmLPXbGxgH3RNoWh) | [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6), [Ardyn](https://open.spotify.com/artist/4Ibjhh0sibd5FrMcot5aOu) | [We Stayed Up All Night](https://open.spotify.com/album/5hfM440MwTIhPLuXd8Y1tC) | 4:25 |
+| 74 | [I Ain't Ever Loved No One \- Acoustic](https://open.spotify.com/track/2z3HKlpENvfz1Am2MNF2pL) | [Donovan Woods](https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti), [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z) | [The Other Way](https://open.spotify.com/album/1BjtuA4CufCsT4myvX3WpQ) | 3:19 |
 | 75 | [Tobacco Sunburst](https://open.spotify.com/track/4pJEkzhZY84h8kmPkUhfwC) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 4:56 |
 
-Snapshot ID: `MTY2MDMzMTQ2OCwwMDAwMDAwMDUzZDU4MDI3YjQ3OWEyMjI0N2M3MDI4MDZjNGNiMDI3`
+Snapshot ID: `MTY2MDMzMTQ2OCwwMDAwMDAwMGJmNWNkYzRmNDcwODdlNmNlNGQzOTc3YjhhMjViNjc3`

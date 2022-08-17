@@ -4,7 +4,7 @@
 
 > Las que no sabes que te sabes\. 🤳🏽
 
-121 songs - 6 hr 49 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
+123 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/3CxC8LtCZGQ1UKd1U5mJuy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Ateo](https://open.spotify.com/track/5xiAfKzE3mbxYbOkUZPR11) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Nathy Peluso](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [Ateo](https://open.spotify.com/album/6Re7sviVustR53KeArspwK) | 3:59 | 2021-12-14 | 2022-01-20 |
 | [Bar](https://open.spotify.com/track/0lJE8f0lx8mUSfMyxeYpiC) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq) | [Bar](https://open.spotify.com/album/0QCHhR6WxpMZBbI33s1bAf) | 2:40 | 2021-12-14 | 2022-01-28 |
 | [Bella Ciao](https://open.spotify.com/track/1bHhB1E62CqbM3uVZVvaEl) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Bella Ciao](https://open.spotify.com/album/4sgJ7Dlx5WMsl8RDkyM1Tu) | 2:40 | 2021-12-14 | 2022-01-20 |
+| [BOMBÓN](https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:02 | 2022-08-16 |  |
 | [Borracho](https://open.spotify.com/track/0rsTDgGRlXKuzSAxcdb4Ns) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Borracho](https://open.spotify.com/album/0DzwLlhnxgjPgL3uWNZTWG) | 3:39 | 2021-12-14 | 2022-07-01 |
 | [Botella Tras Botella](https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Botella Tras Botella](https://open.spotify.com/album/3Jv8XjzlQel3avRbOzysXB) | 3:17 | 2021-12-14 | 2022-01-06 |
 | [CANDY](https://open.spotify.com/track/70AYiGbc4mWZGEqiipBBDb) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:13 | 2022-04-08 | 2022-07-01 |
@@ -38,7 +39,7 @@
 | [Cúrame](https://open.spotify.com/track/3PwRuzdphgedcWVUOVYJ7I) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/5hKAQ3WuOJtaOW2a8hpIXY) | 2:44 | 2021-12-14 | 2022-07-14 |
 | [DANCE CRIP](https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Dance Crip](https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI) | 2:45 | 2021-12-14 | 2022-01-06 |
 | [Desde Mis Ojos](https://open.spotify.com/track/55b9ywCCjdMt4p0rrDWZGp) | [Chris Lebron](https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk) | [Versos de un Cardíaco](https://open.spotify.com/album/37kW73lswREZ5Bj410ZXTX) | 2:49 | 2022-04-29 | 2022-07-26 |
-| [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-02-16 |  |
+| [Desesperados](https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Desesperados](https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H) | 3:44 | 2022-02-16 | 2022-08-17 |
 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 | 2022-07-28 |  |
 | [Don't Be Shy](https://open.spotify.com/track/0bI7K9Becu2dtXK1Q3cZNB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Don't Be Shy](https://open.spotify.com/album/2TvfE8CY37OQIPVGcWYpEA) | 2:20 | 2021-12-14 | 2022-03-30 |
 | [DON'T YOU WORRY](https://open.spotify.com/track/0gYXw7aPoybWFfB7btQ0eM) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [DON'T YOU WORRY](https://open.spotify.com/album/3plMoBhvQ07H4itII2Qdeb) | 3:16 | 2022-07-06 | 2022-07-26 |
@@ -81,6 +82,7 @@
 | [Mon Amour \- Remix](https://open.spotify.com/track/5TMLavqGRKNxgzMBrVpC9R) | [zzoilo](https://open.spotify.com/artist/7c53ZFyajVMTo08HmvoB6b), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Mon Amour \(Remix\)](https://open.spotify.com/album/4TWsxSw8df17aja6JSaar5) | 2:59 | 2021-12-14 | 2022-08-02 |
 | [Moscow Mule](https://open.spotify.com/track/6Xom58OOXk2SoU711L2IXO) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:05 | 2022-05-06 | 2022-07-26 |
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-01-27 | 2022-02-04 |
+| [No Se Va](https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [No Se Va](https://open.spotify.com/album/4doKN48F7hHYG3WOujGP0F) | 3:14 | 2022-08-16 |  |
 | [No Se Va](https://open.spotify.com/track/4khWEpnaijN0G1x019Uzdr) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:36 | 2022-03-25 | 2022-07-26 |
 | [No Te Deseo el Mal](https://open.spotify.com/track/3HQxzXOb4p9pfpD5gP38D5) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 3:52 | 2022-01-19 | 2022-04-29 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-08-02 |  |

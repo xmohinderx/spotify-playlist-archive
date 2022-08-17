@@ -2500,6 +2500,32 @@
     },
     {
       "album": {
+        "name": "Loved By U (George FitzGerald Remix)",
+        "url": "https://open.spotify.com/album/3tFrA0bZ5Psy1gFhThCFyv"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240250,
+      "name": "Loved By U (George FitzGerald Remix)",
+      "url": "https://open.spotify.com/track/1fBRJQDvNn7VTe1C0x7lm3"
+    },
+    {
+      "album": {
         "name": "Luv Like",
         "url": "https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3"
       },
@@ -4241,7 +4267,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 225800,
       "name": "Waterfall - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/6mFlyvOviPhIS0K0QLCpVp"

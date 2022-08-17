@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-299 songs - 18 hr 6 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
+300 songs - 18 hr 9 min - [published](https://open.spotify.com/playlist/23uPhg0unMx8Dcx0mMIjvq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Heat Waves](https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland \(+ Bonus Levels\)](https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV) | 3:58 | 2021-09-19 | 2022-07-12 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2021-03-27\* | 2021-12-06 |
 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 | 2021-07-01 | 2021-09-18 |
-| [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-05-29 |  |
+| [Here's Your Perfect](https://open.spotify.com/track/2aTKrdenCq5qBOoJPFdn4P) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [Here's Your Perfect](https://open.spotify.com/album/6yNuKzr4GNs1c7Kpdf7c5w) | 2:38 | 2021-05-29 | 2022-08-17 |
 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 | 2022-08-07 | 2022-08-14 |
 | [High School in Jakarta](https://open.spotify.com/track/1zxfRSZcaonV1VXcY0PgY5) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [Nicole](https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx) | 3:39 | 2022-08-13 |  |
 | [Hingga Tua Bersama](https://open.spotify.com/track/5b0NpyYAwW2dUGL08ir7Bg) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku) | [Hingga Tua Bersama](https://open.spotify.com/album/0pLC2EIZV2q4Ds7L7qbZaR) | 4:30 | 2022-02-26 |  |
@@ -123,6 +123,7 @@
 | [Hot Sauce](https://open.spotify.com/track/6B8MM3PVQtUbZLay7tP7er) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 3:15 | 2021-05-12 | 2021-08-01 |
 | [Hujan](https://open.spotify.com/track/5QJANaK8ZlzI8ftloDM0We) | [Jourdy Pranata](https://open.spotify.com/artist/1hGg2T9OelLnkczhCqmPve) | [Hujan](https://open.spotify.com/album/34Wh0Ff41ceA0tCJFQFSan) | 1:29 | 2022-03-18 | 2022-04-08 |
 | [Hurts So Good](https://open.spotify.com/track/46u5B2WN4wryYLZuMAOmI4) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Leave It Beautiful \(Complete\)](https://open.spotify.com/album/0inJNc0fFD60UAIdFbnedW) | 3:28 | 2021-03-27\* | 2021-05-03 |
+| [Hype Boy](https://open.spotify.com/track/0a4MMyCrzT0En247IhqZbD) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [NewJeans 1st EP 'New Jeans'](https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV) | 2:59 | 2022-08-16 |  |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-06-17 | 2022-07-25 |
 | [I Just Couldn't Save You Tonight \(feat\. Aurélie\) \- Story of Kale \- Original Motion Picture Soundtrack](https://open.spotify.com/track/5AkV53fo1u01mi8r22JNeF) | [Ardhito Pramono](https://open.spotify.com/artist/3TkSKriI4EZmTxSFyzs0fd), [Aurélie](https://open.spotify.com/artist/2wGBQNmrYOrruN58zNdSuH) | [I Just Couldn't Save You Tonight \(feat\. Aurélie\) \[Story of Kale \- Original Motion Picture Soundtrack\]](https://open.spotify.com/album/1AgPsLxdjTamc8dapjpdom) | 3:39 | 2021-03-27\* | 2021-08-07 |
 | [I Love You but I'm Letting Go](https://open.spotify.com/track/01beCqR9wsVnwzkAJZyTqq) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Walk The Talk](https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU) | 3:40 | 2021-03-27\* | 2021-05-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Larry June
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,109,962 likes - 101 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,110,396 likes - 101 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

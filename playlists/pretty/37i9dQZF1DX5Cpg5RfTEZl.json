@@ -1,12 +1,12 @@
 {
   "description": "\u00bfA vuelta de rueda? Con esta playlist el camino ser\u00e1 m\u00e1s ligero. ",
-  "num_followers": 195311,
+  "num_followers": 195561,
   "original_name": "Pa'l Tr\u00e1fico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODE4ODUxNywwMDAwMDAwMDRmMTllMmNhMWI2MWVjZTA2YzE1N2E5Nzg1YzMxZTM0",
+  "snapshot_id": "MTY1ODE4ODUxNywwMDAwMDAwMDA3OGE2MzBmY2UwOGNjMDQzN2RiMjlhMzhiNzg3M2Rm",
   "tracks": [
     {
       "added_at": "2022-07-18 23:55:17",
@@ -195,22 +195,6 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
-        "name": "Hounds of Love (2018 Remaster)",
-        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 300840,
-      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
-      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
-    },
-    {
-      "added_at": "2022-07-18 23:55:17",
-      "album": {
         "name": "Una Noche en Medell\u00edn",
         "url": "https://open.spotify.com/album/455Vc66bPFRI5D0zDEDn46"
       },
@@ -223,6 +207,22 @@
       "duration_ms": 153750,
       "name": "Una Noche en Medell\u00edn",
       "url": "https://open.spotify.com/track/1O2pcBJGej0pmH2Y9XZMs6"
+    },
+    {
+      "added_at": "2022-07-18 23:55:17",
+      "album": {
+        "name": "Hounds of Love (2018 Remaster)",
+        "url": "https://open.spotify.com/album/3OYnManu1Nlxnw9OMng7BH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 300840,
+      "name": "Running Up That Hill (A Deal With God) - 2018 Remaster",
+      "url": "https://open.spotify.com/track/29d0nY7TzCoi22XBqDQkiP"
     },
     {
       "added_at": "2022-07-18 23:55:17",
@@ -339,26 +339,6 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
-        "name": "ULTRA SOLO",
-        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Pailita",
-          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
-        }
-      ],
-      "duration_ms": 227220,
-      "name": "ULTRA SOLO",
-      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
-    },
-    {
-      "added_at": "2022-07-18 23:55:17",
-      "album": {
         "name": "Ojos Marrones",
         "url": "https://open.spotify.com/album/5cgqNq1Esd6F0D1vQ9uD63"
       },
@@ -391,18 +371,22 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+        "name": "ULTRA SOLO",
+        "url": "https://open.spotify.com/album/1HeGenNhHCIMcnFsSlvprd"
       },
       "artists": [
         {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Pailita",
+          "url": "https://open.spotify.com/artist/4yxLYO2imECxGYTTV7RQKb"
         }
       ],
-      "duration_ms": 159849,
-      "name": "Fuera del mercado",
-      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
+      "duration_ms": 227220,
+      "name": "ULTRA SOLO",
+      "url": "https://open.spotify.com/track/0OTNHGKcqQbk51bOYe462Y"
     },
     {
       "added_at": "2022-07-18 23:55:17",
@@ -423,6 +407,22 @@
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
+    },
+    {
+      "added_at": "2022-07-18 23:55:17",
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 159849,
+      "name": "Fuera del mercado",
+      "url": "https://open.spotify.com/track/1UdzJEpgJxtuXAlCOvD4S0"
     },
     {
       "added_at": "2022-07-18 23:55:17",
@@ -923,26 +923,6 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 195053,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
-    },
-    {
-      "added_at": "2022-07-18 23:55:17",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F"
       },
@@ -963,22 +943,22 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/202FLmfHxcvLHPiqmAjWyJ"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Evaluna Montaner",
-          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 214933,
-      "name": "\u00cdndigo",
-      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+      "duration_ms": 195053,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/2rCbl9naJYhaxjLsfx88uM"
     },
     {
       "added_at": "2022-07-18 23:55:17",
@@ -1003,6 +983,26 @@
     {
       "added_at": "2022-07-18 23:55:17",
       "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "\u00cdndigo",
+      "url": "https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu"
+    },
+    {
+      "added_at": "2022-07-18 23:55:17",
+      "album": {
         "name": "VICE VERSA",
         "url": "https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh"
       },
@@ -1015,6 +1015,22 @@
       "duration_ms": 199604,
       "name": "Todo De Ti",
       "url": "https://open.spotify.com/track/3rdAz1fbUfZxYgaCviYhRo"
+    },
+    {
+      "added_at": "2022-07-18 23:55:17",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2022-07-18 23:55:17",
@@ -1035,22 +1051,6 @@
       "duration_ms": 222522,
       "name": "GIRL LIKE ME",
       "url": "https://open.spotify.com/track/1zLBsSVxETQOfINOLYvT5m"
-    },
-    {
-      "added_at": "2022-07-18 23:55:17",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
     },
     {
       "added_at": "2022-07-18 23:55:17",

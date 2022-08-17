@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Keep up with all the latest pop hits\. Cover: Jessie Reyez
 
-[Spotify](https://open.spotify.com/user/spotify) - 493,252 likes - 102 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 493,309 likes - 102 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 46 | [All That Really Matters](https://open.spotify.com/track/5zviMoAeuerK1Rd58qXASv) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [All That Really Matters](https://open.spotify.com/album/2OW7PzcHkPrB2fY0fLvx4Q) | 4:04 |
 | 47 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 |
 | 48 | [New Suit](https://open.spotify.com/track/1auZ3DJqZsymv2rD5KCQas) | [Dragonette](https://open.spotify.com/artist/4GLJPBj5Cdr9AgLKvLWM4n) | [New Suit](https://open.spotify.com/album/38XrEkU4TP9hAhE70eDCjC) | 2:32 |
-| 49 | [Time Bomb](https://open.spotify.com/track/7n1XKFfjkUjrcnzeSnNLVD) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/0Bu6vqh3RrzgWTVGSkS4g7) | 3:23 |
+| 49 | [Time Bomb](https://open.spotify.com/track/5d8a5B6RlYnquvR4X4OIrX) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [So Far So Good](https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA) | 3:23 |
 | 50 | [Upper Hand](https://open.spotify.com/track/4BIXStJCdslgGUnuoz87JC) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [No Love Is Ever Wasted](https://open.spotify.com/album/0riXZXCMgIwXMPmrJhXErZ) | 2:52 |
 | 51 | [Godly Behaviour](https://open.spotify.com/track/1HkZl9LXJ01o1YfYsCQbq4) | [ELIO](https://open.spotify.com/artist/6xgvgzXNv3ymcITXTrxRaA) | [ELIO'S INFERNO](https://open.spotify.com/album/3Jlrqudmo7F0q1Wuc2Qizs) | 2:38 |
 | 52 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 57 | [Sharks](https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Sharks](https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e) | 3:10 |
 | 58 | [I Won't](https://open.spotify.com/track/1y8ooe9Zr1PMIxrOwNeeOi) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [I Won't](https://open.spotify.com/album/7vXjnE5noLdqc9EIsOhLpQ) | 2:48 |
 | 59 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 |
-| 60 | [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
+| 60 | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/track/1O73ZKgl0THUImkHW6dfAL) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Never Really Loved Me \(with Dean Lewis\)](https://open.spotify.com/album/1wbg9GPcUBlvM9uYjdqZ2D) | 3:22 |
 | 61 | [Got Me Good](https://open.spotify.com/track/09S6z2BOILlj41DMEDogwK) | [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Got Me Good](https://open.spotify.com/album/7KoL9bx98E7ON3odg9nRuz) | 2:45 |
 | 62 | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6) | 2:01 |
 | 63 | [Lift Off](https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Lift Off](https://open.spotify.com/album/6Bp2ojsBc8CtNaYipdxCLt) | 3:04 |
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 101 | [Run Away to Mars](https://open.spotify.com/track/6aPG4u5M2yzBbwABa6uGbo) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [Talk to Me](https://open.spotify.com/album/01wqtcP9Kxgor1VDxTs0D1) | 3:33 |
 | 102 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDFhYmVmMjI0MmQyOWE5OTY2YmM0MjczOTAwMzQwNzkz`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGY3Njc4NjE4YWM0MTRiNWU3NzU4MjRiN2RjODc2YTM3`

@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 896485,
+  "num_followers": 896756,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzEzODg5MDQwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzEzOTYzMzc3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Rave & Roses",
-        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 219668,
-      "name": "Calm Down",
-      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Van Mij Zijn",
         "url": "https://open.spotify.com/album/4umTGjL6WgGnfoJWgz1uHe"
@@ -41,59 +25,23 @@
       "url": "https://open.spotify.com/track/3oFKhY9iW9S0iA9OHO9tN6"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+        "name": "Rave & Roses",
+        "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
       "artists": [
         {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+      "duration_ms": 219668,
+      "name": "Calm Down",
+      "url": "https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
-      },
-      "artists": [
-        {
-          "name": "La Fuente",
-          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
-        }
-      ],
-      "duration_ms": 219401,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Gebruik Me",
         "url": "https://open.spotify.com/album/7ALLtavRb1nP3PtquLI62y"
@@ -113,7 +61,59 @@
       "url": "https://open.spotify.com/track/7vdmxftpUdeBzOf6NXjm83"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/41pfq7q7EHjKjBIih3d3wn"
+      },
+      "artists": [
+        {
+          "name": "La Fuente",
+          "url": "https://open.spotify.com/artist/0vhJymgsCubfAfFjEGVsoD"
+        }
+      ],
+      "duration_ms": 219401,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5ECWJFKkqePRH2SSlv8Ltq"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -129,7 +129,7 @@
       "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Automatisch",
         "url": "https://open.spotify.com/album/1gr2uGne9hmcTVPCaadDX5"
@@ -145,23 +145,7 @@
       "url": "https://open.spotify.com/track/6mMVJJkpzL5r9OyqX7VzBk"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Boot",
-        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
-      },
-      "artists": [
-        {
-          "name": "Fmg",
-          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
-        }
-      ],
-      "duration_ms": 197637,
-      "name": "Boot",
-      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Doja",
         "url": "https://open.spotify.com/album/6oECjagksATHu2UaclXrq1"
@@ -177,7 +161,7 @@
       "url": "https://open.spotify.com/track/3LtpKP5abr2qqjunvjlX5i"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "SNAP PACK",
         "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
@@ -193,23 +177,23 @@
       "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
-        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+        "name": "Boot",
+        "url": "https://open.spotify.com/album/440UZkx5XItk0wpuJN0ZoU"
       },
       "artists": [
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Fmg",
+          "url": "https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H"
         }
       ],
-      "duration_ms": 148485,
-      "name": "I Ain't Worried",
-      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+      "duration_ms": 197637,
+      "name": "Boot",
+      "url": "https://open.spotify.com/track/5DhLsu431rudt8PENvUDao"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Words (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/66W7mt0wKGLFALilLBLfU6"
@@ -229,7 +213,59 @@
       "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "I Ain\u2019t Worried (Music From The Motion Picture \"Top Gun: Maverick\")",
+        "url": "https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 148485,
+      "name": "I Ain't Worried",
+      "url": "https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "In The Stars",
+        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 216410,
+      "name": "In The Stars",
+      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Familia",
+        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
+      },
+      "artists": [
+        {
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 206070,
+      "name": "Bam Bam (feat. Ed Sheeran)",
+      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Vanavond (Uit M'n Bol)",
         "url": "https://open.spotify.com/album/484UFqfszlmpKrCTGjOaVa"
@@ -253,59 +289,7 @@
       "url": "https://open.spotify.com/track/0gq4UgDPGFdqpsWshU7dmv"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Familia",
-        "url": "https://open.spotify.com/album/4urxMitPAkjyey14LeuWSX"
-      },
-      "artists": [
-        {
-          "name": "Camila Cabello",
-          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 206070,
-      "name": "Bam Bam (feat. Ed Sheeran)",
-      "url": "https://open.spotify.com/track/2DB4DdfCFMw1iaR6JaR03a"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Love, Damini",
-        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 172342,
-      "name": "Last Last",
-      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "In The Stars",
-        "url": "https://open.spotify.com/album/6dSmXsyGAnFtq048IFhiYd"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 216410,
-      "name": "In The Stars",
-      "url": "https://open.spotify.com/track/1ei3hzQmrgealgRKFxIcWn"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Olivia",
         "url": "https://open.spotify.com/album/5q1CBu4yM0QZqv3PAHpblw"
@@ -321,71 +305,43 @@
       "url": "https://open.spotify.com/track/14dDvp4EA4E3QLruknbMin"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Visstick Gooi Die Kanker Kick",
-        "url": "https://open.spotify.com/album/5Y8spL7Nm1KzcO2rWGe8vy"
+        "name": "Love, Damini",
+        "url": "https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ"
       },
       "artists": [
         {
-          "name": "Natte Visstick",
-          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 112168,
-      "name": "Visstick Gooi Die Kanker Kick",
-      "url": "https://open.spotify.com/track/7lJ7lEntxkNUrbDN9giLmB"
+      "duration_ms": 172342,
+      "name": "Last Last",
+      "url": "https://open.spotify.com/track/5YbPxJwPfrj7uswNwoF1pJ"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Deep Down (feat. Never Dull)",
-        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+        "name": "Fantastico",
+        "url": "https://open.spotify.com/album/3huYA9vKEk5nTMKG6rtKtS"
       },
       "artists": [
         {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+          "name": "Dries Roelvink",
+          "url": "https://open.spotify.com/artist/2eIeNd8ZrIkk8R4q3zud09"
         },
         {
-          "name": "Ella Eyre",
-          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
-        },
-        {
-          "name": "Kenny Dope",
-          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
-        },
-        {
-          "name": "Never Dull",
-          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
         }
       ],
-      "duration_ms": 165752,
-      "name": "Deep Down (feat. Never Dull)",
-      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+      "duration_ms": 181875,
+      "name": "Fantastico",
+      "url": "https://open.spotify.com/track/3YUxkOJe8lTIZNiOdIdXVw"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Hot In It",
-        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Charli XCX",
-          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
-        }
-      ],
-      "duration_ms": 129817,
-      "name": "Hot In It",
-      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Flexxen",
         "url": "https://open.spotify.com/album/5gnLTGShLsqo303TEpFMyj"
@@ -413,7 +369,51 @@
       "url": "https://open.spotify.com/track/4ckhmqXl4Zpbhl7T6NgVPI"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Visstick Gooi Die Kanker Kick",
+        "url": "https://open.spotify.com/album/5Y8spL7Nm1KzcO2rWGe8vy"
+      },
+      "artists": [
+        {
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
+        }
+      ],
+      "duration_ms": 112168,
+      "name": "Visstick Gooi Die Kanker Kick",
+      "url": "https://open.spotify.com/track/7lJ7lEntxkNUrbDN9giLmB"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Deep Down (feat. Never Dull)",
+        "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ella Eyre",
+          "url": "https://open.spotify.com/artist/66TrUkUZ3RM29dqeDQRgyA"
+        },
+        {
+          "name": "Kenny Dope",
+          "url": "https://open.spotify.com/artist/1TrfxjXu8quyDw05p2bacX"
+        },
+        {
+          "name": "Never Dull",
+          "url": "https://open.spotify.com/artist/2u3rmzZC0psTER2sDfUebm"
+        }
+      ],
+      "duration_ms": 165752,
+      "name": "Deep Down (feat. Never Dull)",
+      "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Love Myself",
         "url": "https://open.spotify.com/album/0gQZCgw5OvWAUC2NZEKLKg"
@@ -429,23 +429,27 @@
       "url": "https://open.spotify.com/track/0iBWf9gz65kHxuQkZkrNUc"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Trompeta",
-        "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
       },
       "artists": [
         {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
-      "duration_ms": 168373,
-      "name": "Trompeta",
-      "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Multicolor",
         "url": "https://open.spotify.com/album/1Aq9FlSr9KanZFljnUnl2m"
@@ -461,7 +465,7 @@
       "url": "https://open.spotify.com/track/2ExdbieQffMXpY7ygN2YN9"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
@@ -485,7 +489,7 @@
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Amazin'",
         "url": "https://open.spotify.com/album/59JKHPawXNcLr9exxNWdg5"
@@ -505,7 +509,23 @@
       "url": "https://open.spotify.com/track/0h09eYhmViqa1Uxkil7yza"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Trompeta",
+        "url": "https://open.spotify.com/album/0x8fxnTkzXKsZVzdZ6Qxka"
+      },
+      "artists": [
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+        }
+      ],
+      "duration_ms": 168373,
+      "name": "Trompeta",
+      "url": "https://open.spotify.com/track/181AxLRTyYh9WUxEjmJt1Y"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Naar De Maan",
         "url": "https://open.spotify.com/album/62JUsleEG1qBdO9TxdpSDN"
@@ -525,51 +545,27 @@
       "url": "https://open.spotify.com/track/7aDHKwBUUx7dmuuyCQygD4"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+        "name": "IK TRIP 'M",
+        "url": "https://open.spotify.com/album/2mv5IRXfeUNzqHnrlDRera"
       },
       "artists": [
         {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+          "name": "Natte Visstick",
+          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
         },
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+          "name": "DIKKE BAAP",
+          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
         }
       ],
-      "duration_ms": 148629,
-      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
-      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+      "duration_ms": 187091,
+      "name": "IK TRIP 'M",
+      "url": "https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Trobi On The Beat",
         "url": "https://open.spotify.com/album/2YUxS2Myez0IoHfJbIQot8"
@@ -597,7 +593,51 @@
       "url": "https://open.spotify.com/track/4RCKxit6c2kl7dwJPKT3hc"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+        "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
+      },
+      "artists": [
+        {
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        }
+      ],
+      "duration_ms": 148629,
+      "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
+      "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
@@ -617,51 +657,7 @@
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "The Lockdown Sessions",
-        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 202735,
-      "name": "Cold Heart - PNAU Remix",
-      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "IK TRIP 'M",
-        "url": "https://open.spotify.com/album/2mv5IRXfeUNzqHnrlDRera"
-      },
-      "artists": [
-        {
-          "name": "Natte Visstick",
-          "url": "https://open.spotify.com/artist/5hUbXqyif2dZ3ArU1v9Rli"
-        },
-        {
-          "name": "DIKKE BAAP",
-          "url": "https://open.spotify.com/artist/1vYoGQIgamBW4S335Q0EHb"
-        }
-      ],
-      "duration_ms": 187091,
-      "name": "IK TRIP 'M",
-      "url": "https://open.spotify.com/track/5gRYw2JYH3QUr5k2BQvpFZ"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "RENAISSANCE",
         "url": "https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb"
@@ -677,7 +673,27 @@
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        },
+        {
+          "name": "Bilal Wahib",
+          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+        }
+      ],
+      "duration_ms": 129500,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "We Could Be Together (feat. Daddy DJ)",
         "url": "https://open.spotify.com/album/7xgmfo0gHFJk9DNdOfqBNn"
@@ -701,7 +717,23 @@
       "url": "https://open.spotify.com/track/3ElGRG3DqSzzkh1b2wnbzf"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Hounds Of Love",
+        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 298933,
+      "name": "Running Up That Hill (A Deal With God)",
+      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
@@ -729,7 +761,7 @@
       "url": "https://open.spotify.com/track/6clzeGvi1CFioMOolbAOlX"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Vluchtstrook",
         "url": "https://open.spotify.com/album/5u2mz0xejDfoNdOqbZaDDm"
@@ -753,7 +785,7 @@
       "url": "https://open.spotify.com/track/63JrADDfrcjOaI6lyVkN3c"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Dreamland (+ Bonus Levels)",
         "url": "https://open.spotify.com/album/0KTj6k94XZh0c6IEMfxeWV"
@@ -769,63 +801,23 @@
       "url": "https://open.spotify.com/track/02MWAaffLxlfxAUY7c5dvx"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/4xJugG4Wp1e9NdE6UrTg18"
+        "name": "Long Way Down",
+        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
-        },
-        {
-          "name": "Bilal Wahib",
-          "url": "https://open.spotify.com/artist/5wV3FoaNbDB6X9INuQvs1K"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 129500,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/7ei5RfilwI6o46e162cDuA"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Hounds Of Love",
-        "url": "https://open.spotify.com/album/5BWl0bB1q0TqyFmkBEupZy"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 298933,
-      "name": "Running Up That Hill (A Deal With God)",
-      "url": "https://open.spotify.com/track/75FEaRjZTKLhTrFGsfMUXR"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Where Are You Now",
-        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 148197,
-      "name": "Where Are You Now",
-      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Don't You Worry",
         "url": "https://open.spotify.com/album/0mEexWITKhScRM40eqDEFi"
@@ -849,43 +841,31 @@
       "url": "https://open.spotify.com/track/4UyVCLbNG8yhrqbzeSmdho"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Bieber Van De Kroeg",
-        "url": "https://open.spotify.com/album/5Iap2wOtZdD37ukTvfxlev"
+        "name": "The Lockdown Sessions",
+        "url": "https://open.spotify.com/album/2Gd77sRs3Y8z8V08Hj6EzC"
       },
       "artists": [
         {
-          "name": "Donnie",
-          "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         },
         {
-          "name": "Mart Hoogkamer",
-          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Bieber Van De Kroeg",
-      "url": "https://open.spotify.com/track/0RRTQ89tQcyQG2hf54N8fz"
-    },
-    {
-      "added_at": "2022-08-15 14:30:40",
-      "album": {
-        "name": "Long Way Down",
-        "url": "https://open.spotify.com/album/0KGBW1MQtC2aFPCDUdAkdJ"
-      },
-      "artists": [
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ"
+      "duration_ms": 202735,
+      "name": "Cold Heart - PNAU Remix",
+      "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Through The Looking Glass",
         "url": "https://open.spotify.com/album/5F9Y7Rx1ILWqQQXVilf0KN"
@@ -901,7 +881,7 @@
       "url": "https://open.spotify.com/track/7j2TJXhcE1aAzB6Evmgvm0"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
@@ -917,7 +897,7 @@
       "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Belly Dancer",
         "url": "https://open.spotify.com/album/2npvQTpyjLtapBWTNTNlqn"
@@ -937,10 +917,10 @@
       "url": "https://open.spotify.com/track/7fZBQnc0zXwVybgCIrQQil"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
-        "name": "Bon Gepakt",
-        "url": "https://open.spotify.com/album/6XvZXJyMOhUtXapAJW7hiY"
+        "name": "Bieber Van De Kroeg",
+        "url": "https://open.spotify.com/album/5Iap2wOtZdD37ukTvfxlev"
       },
       "artists": [
         {
@@ -948,16 +928,16 @@
           "url": "https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE"
         },
         {
-          "name": "Rene Froger",
-          "url": "https://open.spotify.com/artist/5MvyMusqNikgVgkKHLc3pb"
+          "name": "Mart Hoogkamer",
+          "url": "https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa"
         }
       ],
-      "duration_ms": 173283,
-      "name": "Bon Gepakt",
-      "url": "https://open.spotify.com/track/5fWyEc2ER2kselpeWQ6Yc7"
+      "duration_ms": 186000,
+      "name": "Bieber Van De Kroeg",
+      "url": "https://open.spotify.com/track/0RRTQ89tQcyQG2hf54N8fz"
     },
     {
-      "added_at": "2022-08-15 14:30:40",
+      "added_at": "2022-08-16 11:09:37",
       "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
@@ -975,6 +955,26 @@
       "duration_ms": 214071,
       "name": "Heaven Takes You Home (feat. Connie Constance)",
       "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2022-08-16 11:09:37",
+      "album": {
+        "name": "Where Are You Now",
+        "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 148197,
+      "name": "Where Are You Now",
+      "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

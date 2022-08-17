@@ -4,7 +4,7 @@
 
 > The biggest metal songs of the 2000s.
 
-233 songs - 17 hr 13 min - [published](https://open.spotify.com/playlist/3jt3VwWJpWVrZ0Elil9S2R)
+234 songs - 17 hr 16 min - [published](https://open.spotify.com/playlist/3jt3VwWJpWVrZ0Elil9S2R)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,7 +74,7 @@
 | [Eraser](https://open.spotify.com/track/3hnRbKie2CrjJmpAd30JlD) | [Hypocrisy](https://open.spotify.com/artist/73UIalJYgktSi7qQFV53Qv) | [The Arrival](https://open.spotify.com/album/4r61yvabcCHYT3sJOhv7V4) | 4:26 | 2022-07-13 | 2022-07-15 |
 | [Eyes Of A Panther](https://open.spotify.com/track/68ZY22YJeDxvcpQCg6u6SX) | [Steel Panther](https://open.spotify.com/artist/3l02WF362j1oHOurzuseBv) | [Feel The Steel](https://open.spotify.com/album/6RqKEPUHvfSB7jhMomUv67) | 3:36 | 2022-07-13 |  |
 | [Faith Divides Us \- Death Unites Us](https://open.spotify.com/track/5gOjvocmJZQ05QBSE9xIkR) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Faith Divides Us \- Death Unites Us](https://open.spotify.com/album/69hISpPZVG5mINEJfKaluL) | 4:23 | 2022-03-31 | 2022-04-20 |
-| [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 | 2022-07-13 |  |
+| [Fall Into Sleep](https://open.spotify.com/track/0UvuqCD6ktYwIW97Pn4p2o) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [Lost and Found](https://open.spotify.com/album/0dCRu5tVhx9fvbVZSxfjfP) | 3:51 | 2022-07-13 | 2022-08-17 |
 | [Feel So Numb](https://open.spotify.com/track/6KnNDix4Owr4vNmsPhLmxD) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [The Sinister Urge](https://open.spotify.com/album/2ExOcLFwyExzkXK0ea180I) | 3:53 | 2022-01-03 |  |
 | [Fiend](https://open.spotify.com/track/4Jcz9DveYMyNgDxuspZv3r) | [Coal Chamber](https://open.spotify.com/artist/69k6uTSZMPLpSnhmLCiKxQ) | [Dark Days](https://open.spotify.com/album/1zshtbyPH8rrkqulAbV9V0) | 3:00 | 2022-07-13 | 2022-07-26 |
 | [Flying Whales](https://open.spotify.com/track/6SJ2LK3yMdGzC4AEcXJZo4) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [From Mars to Sirius](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY) | 7:44 | 2022-01-03 | 2022-07-29 |
@@ -122,6 +122,7 @@
 | [Laid to Rest](https://open.spotify.com/track/1yc53HK08sDab7PDFgnLWk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Ashes of the Wake \(15th Anniversary\)](https://open.spotify.com/album/3ffdUrEvCQJX6mn2ZTq93m) | 3:50 | 2022-01-03 |  |
 | [Lateralus](https://open.spotify.com/track/7tvuLLroI0n6uYBWuFig5d) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Lateralus](https://open.spotify.com/album/5l5m1hnH4punS1GQXgEi3T) | 9:22 | 2022-01-03 |  |
 | [Lay Down](https://open.spotify.com/track/2HaDds0IU8Iy1hSb6L7VoT) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/3PRkWYgWkSGdEtLA1kQmDm) | 3:05 | 2022-07-13 | 2022-07-29 |
+| [Lay Down](https://open.spotify.com/track/4ltXPf327ewFdmTPp5Skow) | [Priestess](https://open.spotify.com/artist/3RxjSLIz5osqOhGarH9lFV) | [Hello Master](https://open.spotify.com/album/7xKeRnOx2c7Ul0rkQcEzD2) | 3:05 | 2022-07-13 |  |
 | [Linchpin](https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Digimortal](https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN) | 3:24 | 2022-01-03 |  |
 | [Living to Die](https://open.spotify.com/track/3w8lbCMKWBMu40MoNyV0Il) | [Vision Of Disorder](https://open.spotify.com/artist/5EWBxA1pUqWVhFwBZYUQil) | [From Bliss To Devestation](https://open.spotify.com/album/6HUbHHOrjEUmttu2eVrACC) | 4:06 | 2022-01-03 | 2022-04-13 |
 | [Lost Boys](https://open.spotify.com/track/687klRjBy7iqdzCBtQwcQf) | [The 69 Eyes](https://open.spotify.com/artist/0Z1UczcSjwKNuv4HgdjH3b) | [Devils](https://open.spotify.com/album/2upv5guRDK6ThUT4CzrDIc) | 3:23 | 2022-07-13 | 2022-07-28 |

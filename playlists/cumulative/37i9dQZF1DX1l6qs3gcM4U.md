@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
 
-265 songs - 16 hr 5 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+266 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [Não Tem Que Encantar](https://open.spotify.com/track/7zEFn5PC91OB6KYFjCxMHi) | [Tó Semedo](https://open.spotify.com/artist/7hZz6sSgoppxbAW4lTjopa), [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Serenity](https://open.spotify.com/album/7hkH8nNuu9ueBXjqBJzaVD) | 3:56 | 2021-12-10 | 2022-07-28 |
 | [Não Vai Embora](https://open.spotify.com/track/0jes5OAEw9JPkXmZ0zpH1d) | [Addy Buxexa](https://open.spotify.com/artist/7mRzqV8rLwE3T14smX9mBg), [Eudreezy](https://open.spotify.com/artist/4SSvV9YET4ifk8VPTHHH24) | [Não Vai Embora](https://open.spotify.com/album/2FrqxNqOXe4LhBfN6JYodA) | 3:45 | 2021-12-10 | 2022-06-06 |
 | [Não Vai Lá](https://open.spotify.com/track/3U9rPBCioBOYbh4IRKEIVS) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não Vai Lá](https://open.spotify.com/album/5PiHqNNX6TP5G68ls7BmNb) | 3:07 | 2022-07-07 | 2022-07-28 |
+| [Não vai lá](https://open.spotify.com/track/3soU1YzHXcd4nsIjpJmMgK) | [Pérola](https://open.spotify.com/artist/34Gw52pP6ExWNrH6U6fpeO), [Cubita](https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di) | [Não vai lá](https://open.spotify.com/album/7MkzilGO9QcuASMQuDW0a9) | 3:07 | 2022-08-12 |  |
 | [O Nosso Amor](https://open.spotify.com/track/23bemRVqcUNl1ujD87upis) | [Soraia Ramos](https://open.spotify.com/artist/6Hdj9MS399KY29SP12gI0L), [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um) | [O Nosso Amor](https://open.spotify.com/album/0g47qzEGZUVkYQJzMQhIcU) | 4:46 | 2021-12-10 |  |
 | [O Que Eu Não Fiz](https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy) | [Rui Orlando](https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa) | [Consagração](https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V) | 3:08 | 2022-07-01 |  |
 | [O Que Podemos Ser](https://open.spotify.com/track/7oswOjkF7Q3UFxfyw0Df8t) | [Da Silva](https://open.spotify.com/artist/0VbLf7VNOS7UfPfxRGF02E) | [O Que Podemos Ser](https://open.spotify.com/album/2eUWLweyMjgAB0KQzRpOkU) | 3:04 | 2022-04-22 | 2022-06-06 |
@@ -197,7 +198,7 @@
 | [Pronto para Te Dar](https://open.spotify.com/track/0oZZUl9SpZ9qQvn6HtxXOR) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Pronto para Te Dar](https://open.spotify.com/album/4yS7dpPZQz1bSmRz2yftQo) | 3:24 | 2022-01-21 | 2022-07-14 |
 | [Pronto Para Te Dar \- Saxo\-Kizomba Remix](https://open.spotify.com/track/5eHQKIHxF3G9BW8qpKpk3k) | [P\. Lowe](https://open.spotify.com/artist/5t3JjYIpjLiK8bjt5HAFDa), [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w) | [Pronto Para Te Dar \(Saxo\-Kizomba Remix\)](https://open.spotify.com/album/5MmgdaFJFI6jDt9Wf60Q9Q) | 3:25 | 2021-12-10 | 2022-07-26 |
 | [Puro](https://open.spotify.com/track/6SSlXfbFGZs7D4cIjO73dH) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Puro](https://open.spotify.com/album/50AyTumEEiT1mXTY8zZqNi) | 4:23 | 2021-12-10 |  |
-| [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 |  |
+| [Quarentena](https://open.spotify.com/track/26SEljwRV5sPTAtZhbbxS2) | [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Quarentena](https://open.spotify.com/album/2Z3rHccS9A2hd1R4SvkPeB) | 3:38 | 2021-12-10 | 2022-08-17 |
 | [Quem É ?](https://open.spotify.com/track/0SY4UXTIPkVlyGWFJhKMcY) | [Yasmine](https://open.spotify.com/artist/1E1m4bwOYgSMH4Q8o7DJYr) | [Quem É ?](https://open.spotify.com/album/0WYtQwKFvonkmJG6z32Ebj) | 3:19 | 2021-12-10 |  |
 | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/track/5gM4UYTTTcVyg7KsPAbyGR) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Quero Mais Love \(feat\. Stonebwoy\)](https://open.spotify.com/album/59c0K1jO386j2UlHJLNklt) | 3:26 | 2022-03-25 | 2022-04-21 |
 | [Rainha](https://open.spotify.com/track/3y8Un4QcNTLwAIIgOroXzf) | [Mika Mendes](https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w), [Elji Beatzkilla](https://open.spotify.com/artist/04EppuwbkCAhuLAVvYbqDJ) | [Visão](https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d) | 3:55 | 2022-01-14 | 2022-07-08 |

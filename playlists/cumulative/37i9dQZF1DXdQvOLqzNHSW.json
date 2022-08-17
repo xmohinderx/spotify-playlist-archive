@@ -3438,6 +3438,28 @@
     },
     {
       "album": {
+        "name": "Light (with BENEE)",
+        "url": "https://open.spotify.com/album/5BwsHPXhIgCCpQsa52CBPR"
+      },
+      "artists": [
+        {
+          "name": "Finn Falcon",
+          "url": "https://open.spotify.com/artist/65pTLeNkyT2ob7chnwRzcJ"
+        },
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "Light (with BENEE)",
+      "url": "https://open.spotify.com/track/65ZaStHQImXcy15M9pGFwL"
+    },
+    {
+      "album": {
         "name": "Essentials",
         "url": "https://open.spotify.com/album/6gVlFkJTXLPy0zGnpe47UO"
       },
@@ -3449,7 +3471,7 @@
       ],
       "date_added": "2020-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 286000,
       "name": "Little Bit",
       "url": "https://open.spotify.com/track/10b4AEecewD0ns6uXImPEt"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrSNdL1ktS.md) - [plain]
 
 > Lo nuevo del popetón y reggaetón emergente en MX\. Foto: Opium G
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,102 likes - 55 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,114 likes - 55 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

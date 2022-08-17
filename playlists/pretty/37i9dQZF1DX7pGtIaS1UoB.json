@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 84695,
+  "num_followers": 84710,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzNDQ5OCwwMDAwMDAwMDllM2RiNWY4Njg4YTI3MTAxNzgzYWI1MDliM2VmYjcz",
+  "snapshot_id": "MTY2MDUzNDQ5OCwwMDAwMDAwMGU3Njc1YzIzNDgwZDk4Y2YwNTU4OTU2YjUzZTYyODVm",
   "tracks": [
     {
       "added_at": "2022-08-15 03:34:58",
@@ -163,18 +163,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "123\u6211\u7231\u4f60",
-        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
+        "name": "for ya",
+        "url": "https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo"
       },
       "artists": [
         {
-          "name": "\u65b0\u4e50\u5c18\u7b26",
-          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
+          "name": "\u848b\u5c0f\u5462",
+          "url": "https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9"
         }
       ],
-      "duration_ms": 199530,
-      "name": "123\u6211\u7231\u4f60",
-      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
+      "duration_ms": 153854,
+      "name": "for ya",
+      "url": "https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "for ya",
-        "url": "https://open.spotify.com/album/14n2UbeEsxw6J3Jxo3QWeo"
+        "name": "123\u6211\u7231\u4f60",
+        "url": "https://open.spotify.com/album/2k5jM3yRT4kHDXpOglZjSo"
       },
       "artists": [
         {
-          "name": "\u848b\u5c0f\u5462",
-          "url": "https://open.spotify.com/artist/47dZhQCqCubKZdXhp3wDq9"
+          "name": "\u65b0\u4e50\u5c18\u7b26",
+          "url": "https://open.spotify.com/artist/1nv7Ro0Pu7kM3ADyxvS1ZA"
         }
       ],
-      "duration_ms": 153854,
-      "name": "for ya",
-      "url": "https://open.spotify.com/track/6D9uQpS7Bnk9VsuTD0F3vn"
+      "duration_ms": 199530,
+      "name": "123\u6211\u7231\u4f60",
+      "url": "https://open.spotify.com/track/0F6nAVTpdghoq4CJDtxI4u"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -527,22 +527,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u5206\u4f60\u4e00\u534a",
-        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u6068\u6c34",
-          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
-        }
-      ],
-      "duration_ms": 199691,
-      "name": "\u5206\u4f60\u4e00\u534a",
-      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "Take Off - The 1st Mini Album",
         "url": "https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 226013,
       "name": "Let me love u",
       "url": "https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u5206\u4f60\u4e00\u534a",
+        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u6068\u6c34",
+          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
+        }
+      ],
+      "duration_ms": 199691,
+      "name": "\u5206\u4f60\u4e00\u534a",
+      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -575,26 +575,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
-        "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
-      },
-      "artists": [
-        {
-          "name": "Gentle Bones",
-          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
-        },
-        {
-          "name": "Tay Kewei",
-          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
-        }
-      ],
-      "duration_ms": 191365,
-      "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
-      "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
         "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
@@ -611,6 +591,26 @@
       "duration_ms": 245160,
       "name": "\u9ecf\u9ecf",
       "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
+        "url": "https://open.spotify.com/album/64w5Op6YBOQ9AiV76Rvikp"
+      },
+      "artists": [
+        {
+          "name": "Gentle Bones",
+          "url": "https://open.spotify.com/artist/4jGPdu95icCKVF31CcFKbS"
+        },
+        {
+          "name": "Tay Kewei",
+          "url": "https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2"
+        }
+      ],
+      "duration_ms": 191365,
+      "name": "\u4f60\u9084\u4e0d\u77e5\u9053?",
+      "url": "https://open.spotify.com/track/4dV0T2JbvRemNAdt2oaOhG"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u6c27\u5316\u6c22",
-        "url": "https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u5c16\u5c16",
-          "url": "https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "\u6c27\u5316\u6c22",
-      "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u6e10\u6696",
         "url": "https://open.spotify.com/album/1o2NQjq0Cux4JSwxhd4JQd"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 190390,
       "name": "\u6e10\u6696",
       "url": "https://open.spotify.com/track/3BR2pyEvbTwVhE0qpGEMaX"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u6c27\u5316\u6c22",
+        "url": "https://open.spotify.com/album/21drfeiOPkViyCFZYNT5NN"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u5c16\u5c16",
+          "url": "https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "\u6c27\u5316\u6c22",
+      "url": "https://open.spotify.com/track/2Dmq5eBpjomx7tHzQto6j5"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
         "name": "Fahrenheit",
         "url": "https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 228169,
       "name": "\u660e\u660e\u5c31\u5f88\u310d\u3127\u3125\u4f46\u6211\u9084\u662f\u559c\u6b61\u59b3",
       "url": "https://open.spotify.com/track/5084tcZxnvYmXBzP2CwTDQ"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -907,26 +907,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u5fc3\u52a8\u51b3\u5b9a",
-        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
-      },
-      "artists": [
-        {
-          "name": "\u53f6\u743c\u7433",
-          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
-        },
-        {
-          "name": "\u9ec3\u79ae\u683c",
-          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
-        }
-      ],
-      "duration_ms": 203331,
-      "name": "\u5fc3\u52a8\u51b3\u5b9a",
-      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
         "url": "https://open.spotify.com/album/443gH48fTBtHf7dHNyh4uW"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 228228,
       "name": "\u4e0d\u5b8c\u7f8e\u4e0d\u5f8c\u6094",
       "url": "https://open.spotify.com/track/7enqjdBiOa8RK3P9NBIRz7"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u5fc3\u52a8\u51b3\u5b9a",
+        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
+      },
+      "artists": [
+        {
+          "name": "\u53f6\u743c\u7433",
+          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
+        },
+        {
+          "name": "\u9ec3\u79ae\u683c",
+          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
+        }
+      ],
+      "duration_ms": 203331,
+      "name": "\u5fc3\u52a8\u51b3\u5b9a",
+      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -1159,22 +1159,22 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u6eab\u6cc9",
-        "url": "https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x"
+        "name": "So Lucky",
+        "url": "https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7"
       },
       "artists": [
         {
-          "name": "\u8a31\u5d69",
-          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+          "name": "\u90ed\u975c (Claire Kuo)",
+          "url": "https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z"
         },
         {
-          "name": "\u5289\u7f8e\u9e9f",
-          "url": "https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G"
+          "name": "GBOYSWAG",
+          "url": "https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm"
         }
       ],
-      "duration_ms": 283360,
-      "name": "\u6eab\u6cc9",
-      "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
+      "duration_ms": 191029,
+      "name": "So Lucky feat. \u9f13\u9f13 \u5442\u601d\u7def",
+      "url": "https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -1191,6 +1191,26 @@
       "duration_ms": 269760,
       "name": "\u6578\u5230\u4e94\u7b54\u61c9\u6211",
       "url": "https://open.spotify.com/track/5uWgSWwQhMcSeL21Fg6t2h"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u6eab\u6cc9",
+        "url": "https://open.spotify.com/album/59R817eQRIXIiAemtJKp6x"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        },
+        {
+          "name": "\u5289\u7f8e\u9e9f",
+          "url": "https://open.spotify.com/artist/5VjJhwgGrlT9YJCEPoAL3G"
+        }
+      ],
+      "duration_ms": 283360,
+      "name": "\u6eab\u6cc9",
+      "url": "https://open.spotify.com/track/04GpBu5gm14iLJRfmwi4RS"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "So Lucky",
-        "url": "https://open.spotify.com/album/3AruLQzACKree7M5L12Gx7"
+        "name": "All Day",
+        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
       },
       "artists": [
         {
-          "name": "\u90ed\u975c (Claire Kuo)",
-          "url": "https://open.spotify.com/artist/3GV6SjP0scJoncVohTOF3Z"
-        },
-        {
-          "name": "GBOYSWAG",
-          "url": "https://open.spotify.com/artist/2QOj4jFuDei3DWSkDHfWTm"
+          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
+          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
         }
       ],
-      "duration_ms": 191029,
-      "name": "So Lucky feat. \u9f13\u9f13 \u5442\u601d\u7def",
-      "url": "https://open.spotify.com/track/5V0O06ZqReqCbU2DnGNOWn"
+      "duration_ms": 206669,
+      "name": "All Day",
+      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -1263,34 +1279,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "All Day",
-        "url": "https://open.spotify.com/album/7tYX5AcNTJgfF3tRomb7pU"
+        "name": "Make You Mine",
+        "url": "https://open.spotify.com/album/55qaa3QlpERHC9ji8n93QV"
       },
       "artists": [
         {
-          "name": "\u4e94\u5805\u60c5WOLF(S) (\u90b1\u92d2\u6fa4\u3001\u9673\u96f6\u4e5d\u3001\u9ec3\u5049\u6649\u3001\u8cf4\u664f\u99d2\u3001\u5a41\u5cfb\u78a9)",
-          "url": "https://open.spotify.com/artist/7H6h9MXX9ms8IV2QGLrQSp"
+          "name": "Ben Wu",
+          "url": "https://open.spotify.com/artist/52WyK89jMCAFcNVLKjREFM"
         }
       ],
-      "duration_ms": 206669,
-      "name": "All Day",
-      "url": "https://open.spotify.com/track/3GiKSXaBGNv2OoDY4rzCIL"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
-        "name": "I'm in love",
-        "url": "https://open.spotify.com/album/0ZOQhvjG1IIOhR5AG9be3L"
-      },
-      "artists": [
-        {
-          "name": "\u7530\u4e9e\u970d",
-          "url": "https://open.spotify.com/artist/2gWiiqMQFlfLjYp43IiQit"
-        }
-      ],
-      "duration_ms": 197684,
-      "name": "I'm in love",
-      "url": "https://open.spotify.com/track/37n0amZ1Uq2GB1P94U92bE"
+      "duration_ms": 208000,
+      "name": "Make You Mine",
+      "url": "https://open.spotify.com/track/7srrBO1i4TPAzL8ksts1lQ"
     }
   ],
   "unique_name": "\u6696\u5fc3\u60c5\u6b4c",

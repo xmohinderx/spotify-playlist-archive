@@ -2,9 +2,9 @@
 
 ### [Women of Pop](https://open.spotify.com/playlist/37i9dQZF1DX3WvGXE8FqYX)
 
-> Kick back with the queens of pop\. Cover: Lizzo
+> Celebrating the ultimate queen of pop\. Cover: Madonna
 
-487 songs - 1 day 5 hr 19 min - [published](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
+488 songs - 1 day 5 hr 24 min - [published](https://open.spotify.com/playlist/6hHKwc1YaDccLadJSMfgv7)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Dirrty \(feat\. Redman\)](https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Redman](https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:58 | 2020-06-12 | 2022-04-21 |
 | [Dog Days Are Over](https://open.spotify.com/track/456WNXWhDwYOSf5SpTuqxd) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Version\)](https://open.spotify.com/album/1rLLyY5p6HXNl2lKzINWp5) | 4:12 | 2020-06-12 | 2022-04-08 |
 | [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2022-03-25 |  |
-| [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2019-08-29 |  |
+| [Don't Call Me Up](https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Ivy To Roses \(Mixtape\)](https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ) | 2:58 | 2019-08-29 | 2022-08-17 |
 | [Don't Go Yet](https://open.spotify.com/track/1058fW9H3fZA6QjYCdOBad) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Don't Go Yet](https://open.spotify.com/album/4gxhWdfO9qAogokjIc2bPZ) | 2:44 | 2022-02-24 |  |
 | [Don't Let Go \(Love\)](https://open.spotify.com/track/06TuMCjDEYjTOJScCRzmjf) | [En Vogue](https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48) | [EV3](https://open.spotify.com/album/3mn8mLqRknZCD8o7Ruy4BN) | 4:51 | 2021-03-02 | 2022-04-18 |
 | [Don't Start Now](https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Don't Start Now](https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp) | 3:03 | 2020-03-08 |  |
@@ -161,7 +161,7 @@
 | [Give 'n' Take](https://open.spotify.com/track/72D5vQFXnIOqvBhnFfmyQE) | [Call Me Loop](https://open.spotify.com/artist/6NEekR0i3JC1r4BntSjskE) | [Give 'n' Take](https://open.spotify.com/album/1zYTI82P3qHJbL2rvilyDh) | 3:03 | 2020-06-12 | 2022-04-20 |
 | [Give A Little](https://open.spotify.com/track/4za2QYGfHlYml23pChrpXO) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Give A Little](https://open.spotify.com/album/6ZjnIplQKKNGlbGX589VG6) | 3:45 | 2019-06-21 | 2022-04-19 |
 | [Give Me One Reason](https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [New Beginning](https://open.spotify.com/album/3XsOzkIBoHsxZ7jP3QF2oB) | 4:28 | 2021-03-10 | 2022-04-21 |
-| [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-25 |  |
+| [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-25 | 2022-08-17 |
 | [Gold](https://open.spotify.com/track/6ZSO7kPn8IMJFymyticbJO) | [Kiiara](https://open.spotify.com/artist/4u5smJBskI6Adzv08PuiUP) | [low kii savage](https://open.spotify.com/album/2EvTMiJyF3H4BoxNCL4HLh) | 3:45 | 2021-03-09 | 2022-04-21 |
 | [Gone](https://open.spotify.com/track/4UQeq4HUvC5uPEA9pWTgPW) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Gone](https://open.spotify.com/album/1Z4Y3sPwR7D7PzPhnjpnbX) | 4:05 | 2020-06-12 | 2021-10-13 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-02-24 |  |
@@ -192,6 +192,7 @@
 | [How Do I Live](https://open.spotify.com/track/5VJlvaPufnazmTvt2sHQqc) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Greatest Hits](https://open.spotify.com/album/6mcwghwWeSp1Ol1IpsYDOM) | 4:26 | 2021-03-06 | 2022-04-20 |
 | [How Far I'll Go \- From "Moana"](https://open.spotify.com/track/5hYTyyh2odQKphUbMqc5gN) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [How Far I'll Go \(From "Moana"\)](https://open.spotify.com/album/25IBuKrmZbgOVCGNigTXar) | 2:55 | 2019-05-26\* | 2020-06-12 |
 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 | 2022-02-24 | 2022-04-21 |
+| [Hung Up](https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Confessions on a Dance Floor](https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr) | 5:37 | 2022-08-16 |  |
 | [Hunger](https://open.spotify.com/track/6Ju28M6P8Y8sLjBgWjyUUD) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [High As Hope](https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA) | 3:34 | 2020-06-12 | 2022-04-14 |
 | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/track/3WefHNGtjexZvi66ZEx9u4) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Hurts Like Hell \(feat\. Offset\)](https://open.spotify.com/album/4FAW4D50oWaQ3EoRcsJduh) | 3:27 | 2019-05-26\* | 2022-04-20 |
 | [Hurts So Good](https://open.spotify.com/track/3EVBx6WnnMj0qGpcPHjECA) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Hurts So Good](https://open.spotify.com/album/5gWOnOfMzRvW13dNF0WV9N) | 3:28 | 2019-05-26\* | 2022-07-29 |
@@ -482,7 +483,7 @@
 | [Woman Like Me \(feat\. Nicki Minaj\)](https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [LM5 \(Deluxe\)](https://open.spotify.com/album/7Ho8gAx4haSxv1eFLQwvTj) | 3:49 | 2020-07-09 | 2022-07-29 |
 | [Wonder](https://open.spotify.com/track/5Hz6aGrZZizNBoJ6kE6Rqi) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Tigerlily](https://open.spotify.com/album/6BThqXIsF0nanWam5MSV8d) | 4:26 | 2021-03-09 | 2022-04-05 |
 | [Worth It \(feat\. Kid Ink\)](https://open.spotify.com/track/41Fflg7qHiVOD6dEPvsCzO) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt), [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3) | [Reflection \(Deluxe\)](https://open.spotify.com/album/0zAsh6hObeNmFgFPrUiFcP) | 3:44 | 2019-06-22 | 2020-07-09 |
-| [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2020-06-12 | 2022-08-14 |
+| [Wrecking Ball](https://open.spotify.com/track/2vwlzO0Qp8kfEtzTsCXfyE) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bangerz \(Deluxe Version\)](https://open.spotify.com/album/3RDqXDc1bAETps54MSSOW0) | 3:41 | 2020-06-12 |  |
 | [Ya Es Hora](https://open.spotify.com/track/7EhLfrKAUXOjVGkfVyXMdK) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Ya Es Hora](https://open.spotify.com/album/1Bn9Mqj0HHHfGQyOA66Nou) | 3:26 | 2021-03-08 | 2022-04-09 |
 | [you broke me first](https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [you broke me first](https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc) | 2:49 | 2021-03-01 |  |
 | [You Need To Calm Down](https://open.spotify.com/track/6RRNNciQGZEXnqk8SQ9yv5) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:51 | 2020-03-09 | 2022-08-13 |

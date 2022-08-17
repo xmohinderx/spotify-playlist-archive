@@ -1,12 +1,12 @@
 {
   "description": "\u2764\ufe0f o \ud83d\udc94\n",
-  "num_followers": 193334,
+  "num_followers": 193410,
   "original_name": "Trap Luv",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2Mjg4OCwwMDAwMDAwMGJkMjBiNTBjZjc3ZjgzNzAwN2ZiYzkyZTYwMWZhMDIx",
+  "snapshot_id": "MTY1OTQ2Mjg4OCwwMDAwMDAwMGM1NmRhNTU5ZGU3ZmZkNTE2MjVkZWZjMTU2YmY2MmUx",
   "tracks": [
     {
       "added_at": "2022-08-02 17:54:48",
@@ -459,26 +459,6 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Lenny Santos",
-          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
-        }
-      ],
-      "duration_ms": 206760,
-      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
-      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
-    },
-    {
-      "added_at": "2022-08-02 17:54:48",
-      "album": {
         "name": "OASIS",
         "url": "https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 270400,
       "name": "ODIO",
       "url": "https://open.spotify.com/track/7alOsNr36sJ8CyOEP4aILq"
+    },
+    {
+      "added_at": "2022-08-02 17:54:48",
+      "album": {
+        "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+        "url": "https://open.spotify.com/album/0H01i14lrDJtgGU2LFImWL"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Lenny Santos",
+          "url": "https://open.spotify.com/artist/4bODqflR0Wo3i3fCwwCIPq"
+        }
+      ],
+      "duration_ms": 206760,
+      "name": "Ayer Me Llam\u00f3 Mi Ex (feat. Lenny Santos)",
+      "url": "https://open.spotify.com/track/6C6mUonH6MNdSg5pw7kOc9"
     },
     {
       "added_at": "2022-08-02 17:54:48",
@@ -1611,18 +1611,22 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Trend",
-        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
+        "name": "Si No Fue Asi",
+        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
       },
       "artists": [
         {
-          "name": "DrefQuila",
-          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
+          "name": "Midel",
+          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
         }
       ],
-      "duration_ms": 233146,
-      "name": "Ella busca",
-      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
+      "duration_ms": 185196,
+      "name": "Si No Fue Asi",
+      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
     },
     {
       "added_at": "2022-08-02 17:54:48",
@@ -1647,22 +1651,18 @@
     {
       "added_at": "2022-08-02 17:54:48",
       "album": {
-        "name": "Si No Fue Asi",
-        "url": "https://open.spotify.com/album/65q7oPWAcJxVRQzrBMveRd"
+        "name": "Trend",
+        "url": "https://open.spotify.com/album/31m5ji30Q77iGfBNCcTLSA"
       },
       "artists": [
         {
-          "name": "Midel",
-          "url": "https://open.spotify.com/artist/4EcIU574ksr6mC1GMEOe0p"
-        },
-        {
-          "name": "Seven Kayne",
-          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+          "name": "DrefQuila",
+          "url": "https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5"
         }
       ],
-      "duration_ms": 185196,
-      "name": "Si No Fue Asi",
-      "url": "https://open.spotify.com/track/1wdAd6JuFOaFfLbzNXPR0Y"
+      "duration_ms": 233146,
+      "name": "Ella busca",
+      "url": "https://open.spotify.com/track/1X37F5I10iTKZU0WEb6Zgj"
     },
     {
       "added_at": "2022-08-02 17:54:48",

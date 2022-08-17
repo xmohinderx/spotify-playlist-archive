@@ -1,12 +1,12 @@
 {
   "description": "The wave of U.S. Latinos in Hip-Hop. Cover: Coyote",
-  "num_followers": 15034,
+  "num_followers": 15044,
   "original_name": "Our Wave, Nuestro Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDM1MTdhODJhNWFkMDU4ZTJkMzNlODY5YjIzNjJiYWFm",
+  "snapshot_id": "MTY1Nzg1NzYwMCwwMDAwMDAwMDNiZmEyNWEwYzZmNDdhMzhiN2Q3MDIyYzJiOTQ0MGFh",
   "tracks": [
     {
       "added_at": "2022-07-15 04:00:00",
@@ -495,18 +495,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Dead Homies",
-        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
+        "name": "Ghetto Journal",
+        "url": "https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV"
       },
       "artists": [
         {
-          "name": "Fenix Flexin",
-          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
+          "name": "Peysoh",
+          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
         }
       ],
-      "duration_ms": 172654,
-      "name": "Dead Homies",
-      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
+      "duration_ms": 202440,
+      "name": "Life I Live",
+      "url": "https://open.spotify.com/track/475IQZKm10iyevNov2C371"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -527,18 +527,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Ghetto Journal",
-        "url": "https://open.spotify.com/album/0EnIx5ElijSpEfcFfOPvRV"
+        "name": "Dead Homies",
+        "url": "https://open.spotify.com/album/5QMWPkHs62CQ0W0zZTpzUY"
       },
       "artists": [
         {
-          "name": "Peysoh",
-          "url": "https://open.spotify.com/artist/27OdVby2oeFjM1C5XvC3hC"
+          "name": "Fenix Flexin",
+          "url": "https://open.spotify.com/artist/63GIj2yhFvX1Bzphb9JgVb"
         }
       ],
-      "duration_ms": 202440,
-      "name": "Life I Live",
-      "url": "https://open.spotify.com/track/475IQZKm10iyevNov2C371"
+      "duration_ms": 172654,
+      "name": "Dead Homies",
+      "url": "https://open.spotify.com/track/0cx4KCYlaHkp9BedyX6mTa"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -939,6 +939,22 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "El Idolo",
+        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
+      },
+      "artists": [
+        {
+          "name": "Doeman",
+          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
+        }
+      ],
+      "duration_ms": 128000,
+      "name": "El Idolo",
+      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "On My Diez",
         "url": "https://open.spotify.com/album/1IAGzdrpYoDkT8pxXFXL0U"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 155064,
       "name": "On My Diez",
       "url": "https://open.spotify.com/track/5bu48uXPHfFNjLsLZSsjbC"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "El Idolo",
-        "url": "https://open.spotify.com/album/5iYKrxXHkXQv4aStyC6qdn"
-      },
-      "artists": [
-        {
-          "name": "Doeman",
-          "url": "https://open.spotify.com/artist/3AtopDTFDEWifbVQOUWz5F"
-        }
-      ],
-      "duration_ms": 128000,
-      "name": "El Idolo",
-      "url": "https://open.spotify.com/track/7DV8CSr1u4KyKJq6tT6aEp"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
+        "name": "Ain't Done",
+        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
+      },
+      "artists": [
+        {
+          "name": "SpyBoii",
+          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
+        },
+        {
+          "name": "YeloHill",
+          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+        }
+      ],
+      "duration_ms": 171934,
+      "name": "Ain't Done",
+      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
         "name": "Bang",
         "url": "https://open.spotify.com/album/1HngEDkNBmQs4Pe5VR4K5I"
       },
@@ -1071,22 +1091,18 @@
     {
       "added_at": "2022-07-15 04:00:00",
       "album": {
-        "name": "Ain't Done",
-        "url": "https://open.spotify.com/album/5bSpHW2lk1QzdMXKDA7iD0"
+        "name": "Paid in Full",
+        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
       },
       "artists": [
         {
-          "name": "SpyBoii",
-          "url": "https://open.spotify.com/artist/6DZrRdBnSomNpyxQwwdjA4"
-        },
-        {
-          "name": "YeloHill",
-          "url": "https://open.spotify.com/artist/0IgLirgKCxQb13uM8FuQpR"
+          "name": "Ybe",
+          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
         }
       ],
-      "duration_ms": 171934,
-      "name": "Ain't Done",
-      "url": "https://open.spotify.com/track/4X86G4H6Zx2rPHupmM0EOQ"
+      "duration_ms": 155344,
+      "name": "Paid in Full",
+      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
     },
     {
       "added_at": "2022-07-15 04:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 185986,
       "name": "Fuck The Yotes",
       "url": "https://open.spotify.com/track/356X71Y2OKBS3tvGjLr0jx"
-    },
-    {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "Paid in Full",
-        "url": "https://open.spotify.com/album/7zbK5ee8Di5uPqqBuRW1hj"
-      },
-      "artists": [
-        {
-          "name": "Ybe",
-          "url": "https://open.spotify.com/artist/00MPrHDjL16lKX3tMFV7Nz"
-        }
-      ],
-      "duration_ms": 155344,
-      "name": "Paid in Full",
-      "url": "https://open.spotify.com/track/3EIoImBHUqMVxn0hgUAtpb"
     },
     {
       "added_at": "2022-07-15 04:00:00",

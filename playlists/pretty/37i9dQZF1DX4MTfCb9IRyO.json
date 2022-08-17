@@ -1,12 +1,12 @@
 {
   "description": "Classic blues for a blue summer day.",
-  "num_followers": 14110,
+  "num_followers": 14123,
   "original_name": "Summertime Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDcxYTE0NzkwYmU4MjQ3YmQxYTMyMjQxODQ3MmQ3MmQx",
+  "snapshot_id": "MTU4ODU4NDcyMywwMDAwMDAwMDA4OWNjYTQyYjI3MzE5NjUyZGM4NGJkYjZhM2RjOWFk",
   "tracks": [
     {
       "added_at": "2020-05-03 08:57:28",
@@ -395,22 +395,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Two Bugs and a Roach",
-        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
-      },
-      "artists": [
-        {
-          "name": "Earl Hooker",
-          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
-        }
-      ],
-      "duration_ms": 316666,
-      "name": "You Don't Want Me",
-      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Blues Ballads",
         "url": "https://open.spotify.com/album/1nTzKUnHcWvrDDWxvuUYbi"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 114946,
       "name": "Love Me Right",
       "url": "https://open.spotify.com/track/5cdHRbjhYzNUSvzWWDfKcC"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Two Bugs and a Roach",
+        "url": "https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho"
+      },
+      "artists": [
+        {
+          "name": "Earl Hooker",
+          "url": "https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O"
+        }
+      ],
+      "duration_ms": 316666,
+      "name": "You Don't Want Me",
+      "url": "https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3"
     },
     {
       "added_at": "2020-05-03 08:57:28",
@@ -591,22 +591,6 @@
     {
       "added_at": "2020-05-03 08:57:28",
       "album": {
-        "name": "Ball n' Chain",
-        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
-      },
-      "artists": [
-        {
-          "name": "Big Mama Thornton",
-          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Ball N' Chain",
-      "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
-    },
-    {
-      "added_at": "2020-05-03 08:57:28",
-      "album": {
         "name": "Blues, Candy & Big Maybelle",
         "url": "https://open.spotify.com/album/0fr2opmItHMvdy1N01XcLh"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 155706,
       "name": "That's A Pretty Good Love",
       "url": "https://open.spotify.com/track/0rWLWREgsqvU5hC5nytLtN"
+    },
+    {
+      "added_at": "2020-05-03 08:57:28",
+      "album": {
+        "name": "Ball n' Chain",
+        "url": "https://open.spotify.com/album/6U60FpmscwzTJjc9gmZcKl"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Ball N' Chain",
+      "url": "https://open.spotify.com/track/0D1S1rK4M8D3kJDFN50u0G"
     },
     {
       "added_at": "2020-05-03 08:57:28",

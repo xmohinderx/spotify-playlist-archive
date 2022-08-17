@@ -1,12 +1,12 @@
 {
   "description": "Throw it back to the biggest, best hits of the 2000's.",
-  "num_followers": 1271162,
+  "num_followers": 1271499,
   "original_name": "Throwback Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzM0NTE1MywwMDAwMDAwMDJhYWM4MTRiNjM4OTZiMDE1OWI1ODUzMTZiNDI4ZGYw",
+  "snapshot_id": "MTY0MzM0NTE1MywwMDAwMDAwMDJjZTkwODI1NzNmNDViYzBjMDhiZjAzNGQ0MjA2YjE0",
   "tracks": [
     {
       "added_at": "2022-01-28 04:45:53",
@@ -507,18 +507,22 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
+        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
       },
       "artists": [
         {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+      "duration_ms": 266066,
+      "name": "Drop It Like It's Hot",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
     },
     {
       "added_at": "2022-01-28 04:45:53",
@@ -539,22 +543,18 @@
     {
       "added_at": "2022-01-28 04:45:53",
       "album": {
-        "name": "R&G (Rhythm & Gangsta): The Masterpiece",
-        "url": "https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp"
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
       "artists": [
         {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
         }
       ],
-      "duration_ms": 266066,
-      "name": "Drop It Like It's Hot",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO"
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2022-01-28 04:45:53",

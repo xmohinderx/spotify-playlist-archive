@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,926 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,949 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 42 | [Survivor's Guilt](https://open.spotify.com/track/2dPYz3ceO14cgKZzsrTx5A) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Survivor's Guilt](https://open.spotify.com/album/482gKoUvLQrjPmTx8ihrXm) | 3:30 |
 | 43 | [Disco Cosmos](https://open.spotify.com/track/3xN6elAScxDFsN2EQu76K2) | [JORDANN](https://open.spotify.com/artist/1qlafOeHOtRUZR4AOxlOkF), [Tim Atlas](https://open.spotify.com/artist/3CiuXDKttPUT0tWGHicFUH) | [Disco Cosmos](https://open.spotify.com/album/4y1G6f8XC2yK8dQX8TRkGN) | 3:42 |
 | 44 | [Weeds](https://open.spotify.com/track/6p0Nvka9pKB9PYEC8kyc03) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Emotional Creature](https://open.spotify.com/album/3H6pbRzmpQa6eqCXn7rgO8) | 3:22 |
-| 45 | [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 |
+| 45 | [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 |
 | 46 | [Move Me](https://open.spotify.com/track/7hLvlEgz9LoAuWcIoxxVCm) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Move Me](https://open.spotify.com/album/5xDEpaaXahmBHthMV414GK) | 3:59 |
 | 47 | [MY DREAM](https://open.spotify.com/track/3Ai9IjVhRy5eMWFQ3luIG6) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [MY DREAM](https://open.spotify.com/album/2wrsym38hvB4Wp9BYkCQxS) | 3:35 |
 | 48 | [Archetype](https://open.spotify.com/track/0TZaULNHuHvwyZOivhzc7g) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Archetype](https://open.spotify.com/album/2aWJqYwJJ7XPc1myEnig13) | 2:48 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XNgsy4UFju.md) - [plain]
 | 99 | [GROW](https://open.spotify.com/track/3nn5ppTWuPqDwtD6jp2SPi) | [Sam Tucker](https://open.spotify.com/artist/7hiDOporF8O9GkIPpVafUX) | [GROW: PART I](https://open.spotify.com/album/7cuVEmNOgNVmPYO8pRngyu) | 3:46 |
 | 100 | [Calling out Your Name](https://open.spotify.com/track/16QzP88hViK6MNYJjT6ej9) | [Jay Feelbender](https://open.spotify.com/artist/0Ty4IlR2mjFlt3dBdvlHlI), [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3) | [Calling out Your Name](https://open.spotify.com/album/3GYnSkuu7w8waF5sSo5Beb) | 2:39 |
 
-Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMGY1MmZlNzA0ZmFlN2Y0ZjAzMmI5OGY2MjhiYzQzN2I0`
+Snapshot ID: `MTY2MDI3NjgwMCwwMDAwMDAwMDFjMDJkNmVhZDkzMDJjYzFlODkwMzg5MDE1YjYzOTYw`

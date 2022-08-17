@@ -4,7 +4,7 @@
 
 > Tom The Mail Man is our new RADAR Artist to Watch.
 
-286 songs - 14 hr 51 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
+287 songs - 14 hr 56 min - [published](https://open.spotify.com/playlist/7r3PgEftWnphzJcJvjtq6L)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -258,7 +258,8 @@
 | [Taste](https://open.spotify.com/track/1ghqDkglrXPcxgRobBmLVW) | [Ari Abdul](https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U) | [Taste](https://open.spotify.com/album/5OLmG74MrpjwnlWLffN35A) | 3:06 | 2022-07-26 |  |
 | [Tattoos](https://open.spotify.com/track/4JbUI6AoGibHGsHN77aSws) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Tattoos](https://open.spotify.com/album/1KFTkdRgqz47SR6F9B1UwJ) | 2:53 | 2022-06-14 | 2022-07-27 |
 | [temporary funeral](https://open.spotify.com/track/2o2Wgw4z8P4ZGaR0bMcvmj) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 2:59 | 2022-06-14 | 2022-07-27 |
-| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-26 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-07-26 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-26 | 2022-08-17 |
 | [The Old Story](https://open.spotify.com/track/19FmFC3iSNnFJn4SaTH5fr) | [WELOVE](https://open.spotify.com/artist/0NBHZ2ja7ejAMkL77afYGI) | [WELOVE Instant Live Hymnology II](https://open.spotify.com/album/6dluNTPUZBn0yn1AC7PffT) | 4:06 | 2022-06-14 | 2022-07-27 |
 | [then i met her](https://open.spotify.com/track/5sFIYKbII6QzRT57hCza5Z) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [NEGATIVE](https://open.spotify.com/album/2momrvUqAMigmBoOOKuavE) | 2:18 | 2021-12-01 | 2022-04-09 |
 | [Thinking Bout You](https://open.spotify.com/track/0J8TS2cS0IWff5DPLJJQi8) | [rei brown](https://open.spotify.com/artist/4N7IToHBlPXqlrXiv1Nij6), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Thinking Bout You](https://open.spotify.com/album/4weAfakv01b0hrO7i9Cacu) | 3:10 | 2022-06-14 | 2022-07-27 |

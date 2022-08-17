@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU0NDEyNDU2MiwwMDAwMDAwMDViNDE4MTQ0ZmIyOTljNjgwOTI0MzkyZGI0NGJmMTIx",
+  "snapshot_id": "MTU0NDEyNDU2MiwwMDAwMDAwMDYyZWE4OTBjYTUxYWJjOTA4NzQ3OTBhZDVhMDdkMDY5",
   "tracks": [
     {
       "added_at": "2018-12-06 19:29:22",
@@ -323,22 +323,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Leonard Cohen: I'm Your Man",
-        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
-      },
-      "artists": [
-        {
-          "name": "Teddy Thompson",
-          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
-        }
-      ],
-      "duration_ms": 409333,
-      "name": "The Future",
-      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "The Future",
         "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 268853,
       "name": "Be for Real",
       "url": "https://open.spotify.com/track/2BxtgFJxhmYFyIwo5vaejz"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Leonard Cohen: I'm Your Man",
+        "url": "https://open.spotify.com/album/1tz7sH3oRuXs7jNyWzdIQR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Thompson",
+          "url": "https://open.spotify.com/artist/1z98aCtgTzyUkAHR50ryFN"
+        }
+      ],
+      "duration_ms": 409333,
+      "name": "The Future",
+      "url": "https://open.spotify.com/track/5r9fVGSkHFy78ZcUDJTla9"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -435,6 +435,22 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 482493,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
         "name": "Everybody Knows",
         "url": "https://open.spotify.com/album/6pEDpmpeGLfIX8fGi4OzOo"
       },
@@ -455,18 +471,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo"
+        "name": "Ron Sexsmith",
+        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Ron Sexsmith",
+          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
         }
       ],
-      "duration_ms": 482493,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2gVIZoOxoTwSbkMwWkd2x8"
+      "duration_ms": 189840,
+      "name": "Heart With No Companion",
+      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -483,22 +499,6 @@
       "duration_ms": 180106,
       "name": "Who By Fire",
       "url": "https://open.spotify.com/track/13t5z9HD9e6syCaUweEqYH"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
-        "name": "Ron Sexsmith",
-        "url": "https://open.spotify.com/album/2PkdO3h0GUvaPyj4pzpitg"
-      },
-      "artists": [
-        {
-          "name": "Ron Sexsmith",
-          "url": "https://open.spotify.com/artist/2wXBWJhbm1gfEVjyEEuhDH"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Heart With No Companion",
-      "url": "https://open.spotify.com/track/5YPLDqX401aAcjPONWMmui"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -551,22 +551,6 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Bird on the Wire: The Songs of Leonard Cohen",
-        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
-      },
-      "artists": [
-        {
-          "name": "Perla Batalla",
-          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
-        }
-      ],
-      "duration_ms": 376946,
-      "name": "Ballad of the Absent Mare",
-      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
-    },
-    {
-      "added_at": "2018-12-06 19:29:22",
-      "album": {
         "name": "20 ODD YEARS",
         "url": "https://open.spotify.com/album/5fMNoW6lhkb7o1XFR4EmXj"
       },
@@ -583,18 +567,18 @@
     {
       "added_at": "2018-12-06 19:29:22",
       "album": {
-        "name": "Dear Heather",
-        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+        "name": "Bird on the Wire: The Songs of Leonard Cohen",
+        "url": "https://open.spotify.com/album/6YlhxSzPNNYIlErdM55joz"
       },
       "artists": [
         {
-          "name": "Leonard Cohen",
-          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+          "name": "Perla Batalla",
+          "url": "https://open.spotify.com/artist/4WbqfrEOTC6kNYOeDMDVOd"
         }
       ],
-      "duration_ms": 245040,
-      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
-      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
+      "duration_ms": 376946,
+      "name": "Ballad of the Absent Mare",
+      "url": "https://open.spotify.com/track/7j82hjfoBR7CB8WlxpZxTC"
     },
     {
       "added_at": "2018-12-06 19:29:22",
@@ -611,6 +595,22 @@
       "duration_ms": 212866,
       "name": "Coming Back To You",
       "url": "https://open.spotify.com/track/20kWunnotqJfqz4NmdnleV"
+    },
+    {
+      "added_at": "2018-12-06 19:29:22",
+      "album": {
+        "name": "Dear Heather",
+        "url": "https://open.spotify.com/album/2A2w7NSKKyAfDvwx6GEHEg"
+      },
+      "artists": [
+        {
+          "name": "Leonard Cohen",
+          "url": "https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV"
+        }
+      ],
+      "duration_ms": 245040,
+      "name": "Tennessee Waltz - Live at Montreux Jazz Festival",
+      "url": "https://open.spotify.com/track/2BhsSiyQdtY9xZt4Yq137J"
     },
     {
       "added_at": "2018-12-06 19:29:22",

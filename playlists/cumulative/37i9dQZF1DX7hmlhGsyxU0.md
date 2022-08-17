@@ -4,7 +4,7 @@
 
 > Strings and pianos to accompany your latest great read.
 
-141 songs - 7 hr 39 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
+142 songs - 7 hr 42 min - [published](https://open.spotify.com/playlist/0GsI4xWiRgp8I8ghyrsDS8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Made To Be Wanting](https://open.spotify.com/track/7MREpOljiZVy2CZzYX6fbt) | [Job Roggeveen](https://open.spotify.com/artist/5Ce5Yeu5QL8yvibnS2CZUv) | [Made To Be Wanting](https://open.spotify.com/album/2wIixNysnrygVhnUYf48zF) | 3:03 | 2022-04-01 |  |
 | [Melody of Hope \- 2021 Version](https://open.spotify.com/track/7JoliVgzCfJa1EENp5ScpO) | [Justus Rümenapp](https://open.spotify.com/artist/5ReWt14yNNEEllVZddhEDl) | [Melody of Hope \(2021 Version\)](https://open.spotify.com/album/4hGBSFBJxqDFSLVhrsbZQS) | 1:51 | 2022-04-01 | 2022-07-29 |
 | [Mirror](https://open.spotify.com/track/5ly936q8wbYkX0L11Edwep) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Cloud Symphonies](https://open.spotify.com/album/3AJD3BoSJ6wHZqprYZuJQJ) | 2:45 | 2022-07-01 | 2022-07-06 |
+| [Mirror](https://open.spotify.com/track/6NSQA386YXPPVoYX00QXRi) | [Shook](https://open.spotify.com/artist/3JKd43oYlE7ifoodXetsuw) | [Cloud Symphonies](https://open.spotify.com/album/7gomWr8LUAjtZlvtiNZs4n) | 2:45 | 2022-08-12 |  |
 | [Mirrors](https://open.spotify.com/track/3Cdzk02nbZWYs3qYD7ae5Q) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Voices \(Pt\. 1 & 2\)](https://open.spotify.com/album/3ZQ76t0fo1GxMP3FWUJaDu) | 2:36 | 2022-04-22 | 2022-07-26 |
 | [Motifs in F\# Major \- Reimagined](https://open.spotify.com/track/2sOhSOG02uRICOf1JdiYaZ) | [Solar Sleeper](https://open.spotify.com/artist/01ImO2sBddUcSVJizuX4xG), [rhubiqs](https://open.spotify.com/artist/5RQkuHg4XctV2O1tsIvOkT) | [Motifs in F\# Major \(Reimagined\)](https://open.spotify.com/album/7GZhvGSHUc81ozjkG2AvhI) | 5:31 | 2022-04-01 |  |
 | [Musica Desolata](https://open.spotify.com/track/3Yxr6ErXlxOZlKpHopaOZ4) | [Alexei Aigui](https://open.spotify.com/artist/5LaWJYIJaRFtx0HbieOTE5), [Arkady Marto](https://open.spotify.com/artist/2EgSk5VfvU0eFTdX3J7tWx) | [Musica Desolata](https://open.spotify.com/album/6d2zEv374iiL8FmTRbuklB) | 4:44 | 2022-04-01 | 2022-07-27 |
@@ -102,7 +103,7 @@
 | [Partisans](https://open.spotify.com/track/7djcz9efRuDz8jklVJn4DC) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Partisans](https://open.spotify.com/album/0oBmVbeJmelnhnYiacIvde) | 3:56 | 2022-04-22 |  |
 | [Perceptions](https://open.spotify.com/track/1TiUzgCfUD7oGutGByCmQr) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Spirituality](https://open.spotify.com/album/6GqKU68AVFxcWdVf1DN53G) | 2:52 | 2022-04-01 | 2022-07-29 |
 | [Petrichor](https://open.spotify.com/track/3aocn9BnUsX1UsGAJ4tjcN) | [Evalian Massey](https://open.spotify.com/artist/79NDuAMpq7SsjrMzPvAqFZ) | [Petrichor](https://open.spotify.com/album/2AI9nQVGaE0TD3SyVGESLX) | 1:19 | 2022-04-01 |  |
-| [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 | 2022-04-01 |  |
+| [Piano Trio No\. 2 in E Minor, Op\. 92: III\. Andante con moto](https://open.spotify.com/track/0gV4E8Muwz7pCkzxmyCYmG) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Trio Zadig](https://open.spotify.com/artist/7oWMf0cOlv11D8rSquhOd0) | [Orpheus\. Hommage à Saint\-Saëns](https://open.spotify.com/album/3ygvZKfgahI5BQfOFqV0FJ) | 4:08 | 2022-04-01 | 2022-08-17 |
 | [Pinô](https://open.spotify.com/track/2Ai5UUXyxaulVbompgrzlo) | [Otto A\. Totland](https://open.spotify.com/artist/0Dc8oO0rYX3DgirVK88dcl) | [Pinô](https://open.spotify.com/album/7uPWpTHYqHEQTpZIlgELQK) | 2:45 | 2022-04-22 |  |
 | [Pièce en forme de Habanera](https://open.spotify.com/track/0HXyG1Xx9jt8h8SMHWk6aB) | [Robin Chen](https://open.spotify.com/artist/4tMnF69hHcLlRyIWC7Zl0R), [Pedja Muzijevic](https://open.spotify.com/artist/38Trbd7NFKJMAjLWqIgl8s) | [Nightmusic: Romantic Encores from the 1994 International Violin Competition of Indianapolis](https://open.spotify.com/album/04U3ieGqEuzlAGphpUHbPm) | 2:58 | 2022-04-01 | 2022-06-17 |
 | [Prelude](https://open.spotify.com/track/0VfCAdeGLmpKvoztILf3cO) | [Las Desorden](https://open.spotify.com/artist/05Vq9YRP30tBWRiSR7mUV3) | [Prelude](https://open.spotify.com/album/6LOyg4gcs4uTxdb5X0pFFK) | 2:03 | 2022-06-24 |  |

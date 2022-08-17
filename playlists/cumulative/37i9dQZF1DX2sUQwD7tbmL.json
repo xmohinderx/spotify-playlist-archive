@@ -5471,6 +5471,24 @@
     {
       "album": {
         "name": "Are You Alright?",
+        "url": "https://open.spotify.com/album/3YuMUT4sLXlXBm2aDIOfOG"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144375,
+      "name": "One Day",
+      "url": "https://open.spotify.com/track/1GFpfkiHbZ93p7QImi5RAO"
+    },
+    {
+      "album": {
+        "name": "Are You Alright?",
         "url": "https://open.spotify.com/album/6rPU1BHqLneslZ1N1EvVdR"
       },
       "artists": [
@@ -7451,7 +7469,7 @@
       ],
       "date_added": "2021-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 193165,
       "name": "Things I Thought Were Mine",
       "url": "https://open.spotify.com/track/3i10mtYVZPyoxorz6C19xE"

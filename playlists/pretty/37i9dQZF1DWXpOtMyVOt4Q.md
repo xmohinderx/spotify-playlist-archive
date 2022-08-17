@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 
 > Soundtrack your gaming with these atmospheric beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,709 likes - 60 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,725 likes - 60 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 24 | [Hours](https://open.spotify.com/track/60cdK07Fkyj2Ss2Zj3pw9I) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry) | [Dive](https://open.spotify.com/album/4CBUbnGFz2iKFJjYqRIwst) | 5:44 |
 | 25 | [Aminals](https://open.spotify.com/track/17RkpFRsRKCNSX7WfxX2qi) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/3luRdv37JrEEOUYw8s9pA4) | 3:18 |
 | 26 | [Reach For The Dead](https://open.spotify.com/track/2hgerKBJ7tetp3JfL5OZX9) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Tomorrow's Harvest](https://open.spotify.com/album/159ORixBSSemxiualv1Woj) | 4:47 |
-| 27 | [A Beautiful Mine](https://open.spotify.com/track/7aRJmzl622nk2qhnUxc1fV) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/5GBO4ql3H9w2UV00RAFApk) | 5:29 |
-| 28 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 |
+| 27 | [So Long, Lonesome](https://open.spotify.com/track/74wvfHTVIQaBQ1KWRQaLWx) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [All of a Sudden I Miss Everyone](https://open.spotify.com/album/2BkhGv48TtChjKBwkC67eo) | 3:40 |
+| 28 | [A Beautiful Mine](https://open.spotify.com/track/7aRJmzl622nk2qhnUxc1fV) | [RJD2](https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn) | [Magnificent City Instrumentals](https://open.spotify.com/album/5GBO4ql3H9w2UV00RAFApk) | 5:29 |
 | 29 | [Ocelot](https://open.spotify.com/track/3n5bECT6qgStHMeip7brcr) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Seven Seas](https://open.spotify.com/album/7tFM2YfFPx3mNrwRes7LrC) | 4:36 |
 | 30 | [It Was Warmer Then](https://open.spotify.com/track/0fJKwnxypaBAMEGEfCgEhQ) | [Helios](https://open.spotify.com/artist/592TFYwu9Qb0RC1hKDbX2w) | [Yume](https://open.spotify.com/album/34CpMn9yU8iDcXDaSkrqXu) | 5:18 |
 | 31 | [We Can Be Ghosts Now](https://open.spotify.com/track/4buZVQ9wDGXk8AbVeGM5E6) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Parklands](https://open.spotify.com/album/1NhIMd6O3u6F9Opm7skw9N) | 4:18 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 43 | [Clarity](https://open.spotify.com/track/60BazlRdjGGDmeRXduUYRE) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Everything and Nothing](https://open.spotify.com/album/1YVRY55UKxKz9HSsgHL47y) | 6:23 |
 | 44 | [Don't Get Any Closer](https://open.spotify.com/track/3A2fblRWcD5rUZEBDLefw0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Nightmare Ending](https://open.spotify.com/album/1XKm22uQVwp5JLNjRDRC4P) | 9:06 |
 | 45 | [Nobody](https://open.spotify.com/track/5b3VOW8Z3KRPrUS2889NfE) | [Hiatus](https://open.spotify.com/artist/421vyBBkhgRAOz4cYPvrZJ) | [Ghost Notes](https://open.spotify.com/album/17RQgvIhxDC17NKO71jkZx) | 4:28 |
-| 46 | [The Long Spring](https://open.spotify.com/track/5IXJMEnetYlvXhCykA4SHk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You](https://open.spotify.com/album/0lsemTnF3BwhU1ISBeyrOc) | 5:34 |
-| 47 | [Dustism](https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7i1Q1gcCd5o8CBV1Uivhuu) | 6:19 |
+| 46 | [Dustism](https://open.spotify.com/track/6Q1aEumqxRnW8YbolJ8osI) | [This Will Destroy You](https://open.spotify.com/artist/0MG4LXIw7n4x0wjDc6WYXk) | [Another Language](https://open.spotify.com/album/7i1Q1gcCd5o8CBV1Uivhuu) | 6:19 |
+| 47 | [The Long Spring](https://open.spotify.com/track/5IXJMEnetYlvXhCykA4SHk) | [Explosions In The Sky](https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p) | [Thank You](https://open.spotify.com/album/0lsemTnF3BwhU1ISBeyrOc) | 5:34 |
 | 48 | [Sad Heart of Mine](https://open.spotify.com/track/3e66nnkSbIvBHD8TFzh1mw) | [Caspian](https://open.spotify.com/artist/4SXj7TVoA3bgfR8AVssACa) | [Dust and Disquiet](https://open.spotify.com/album/2m4KwsPpsNAenV6ImBv71I) | 4:27 |
 | 49 | [Csay Csay](https://open.spotify.com/track/1enynlph69y9FEW7NVhkO3) | [Little People](https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433) | [Csay Csay](https://open.spotify.com/album/7t9LroLEtMH5GKu7xtcKVn) | 6:01 |
 | 50 | [Mosaic](https://open.spotify.com/track/1kua6VM4K3jnxqKxliDVyx) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Across the Oceans](https://open.spotify.com/album/2ytkZoVgs5yKkFEP9oZiut) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpOtMyVOt4Q.md) - [plain]
 | 59 | [Pleasure Centre](https://open.spotify.com/track/331tP1ALdrmjioH4RznvwC) | [CFCF](https://open.spotify.com/artist/73IRHBhotETMmgvRCEyTCS) | [On Vacation](https://open.spotify.com/album/5glo8zTL4koRq4BmOCdapU) | 5:47 |
 | 60 | [Signaling Through The Flames](https://open.spotify.com/track/3uvW89eLMuemNTuy3URXrf) | [The American Dollar](https://open.spotify.com/artist/5r4OqYJL7JrtZlffx7FJlb) | [Ambient One](https://open.spotify.com/album/7A6VoC5v3dHcINkZudtJaD) | 5:01 |
 
-Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDMyMjkwYjRmNzIzNWE5YjZiNTA1YjM5YmE1MGUyNGVh`
+Snapshot ID: `MTY0ODc1ODk0NSwwMDAwMDAwMDAwNDcyNWE0ZjAwYTg1N2IyMWUxYjg2ZGM4MTgzMWE1`

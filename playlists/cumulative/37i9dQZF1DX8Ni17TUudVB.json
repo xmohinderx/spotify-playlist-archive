@@ -8,6 +8,24 @@
   "tracks": [
     {
       "album": {
+        "name": "2 Die 4",
+        "url": "https://open.spotify.com/album/6p4OKNrv71scAKjHZ16G5t"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185875,
+      "name": "2 Die 4",
+      "url": "https://open.spotify.com/track/3QK2bbLCTGoFXFt64e5TBY"
+    },
+    {
+      "album": {
         "name": "50 Days",
         "url": "https://open.spotify.com/album/2lSMjZSJ3Deq1zVgnnbysk"
       },
@@ -311,7 +329,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 212804,
       "name": "Beast",
       "url": "https://open.spotify.com/track/74ipYItMMW9NRBhVBXrM6Q"
@@ -901,7 +919,7 @@
       ],
       "date_added": "2022-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 123228,
       "name": "Dark",
       "url": "https://open.spotify.com/track/2PudL6cRt6arYtuLHGcG32"
@@ -1157,7 +1175,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 190080,
       "name": "El Bass",
       "url": "https://open.spotify.com/track/5pbXHUL7749iMpgqEx6Tyf"
@@ -1603,6 +1621,28 @@
       "duration_ms": 201904,
       "name": "Hope",
       "url": "https://open.spotify.com/track/1snVDHFEd5TRotuG50XEA7"
+    },
+    {
+      "album": {
+        "name": "Hot In It",
+        "url": "https://open.spotify.com/album/6R7Yy0sY9N8PNUhseegr2Q"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129817,
+      "name": "Hot In It",
+      "url": "https://open.spotify.com/track/3Z7CaxQkqbIs1rewKi6v4W"
     },
     {
       "album": {
@@ -2069,10 +2109,28 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 184761,
       "name": "Light Me Up",
       "url": "https://open.spotify.com/track/6xfT4ubp1ETiqfDtUbdYHI"
+    },
+    {
+      "album": {
+        "name": "Like Wooh Wooh",
+        "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
+      },
+      "artists": [
+        {
+          "name": "Rnbstylerz",
+          "url": "https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196044,
+      "name": "Like Wooh Wooh",
+      "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
     },
     {
       "album": {
@@ -3729,6 +3787,28 @@
       "duration_ms": 255000,
       "name": "What's Up Suckaz",
       "url": "https://open.spotify.com/track/3D5Or5cnuSQ9IBnRTdjhGX"
+    },
+    {
+      "album": {
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+      },
+      "artists": [
+        {
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
+        },
+        {
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "album": {

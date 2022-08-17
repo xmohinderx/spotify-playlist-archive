@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 1980s. ",
-  "num_followers": 236218,
+  "num_followers": 236434,
   "original_name": "80s Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjI3NywwMDAwMDAwMDBhY2QwMDhhMDA3ZjY1MWZkZGQxMTVmNzkwNDk4NmM0",
+  "snapshot_id": "MTY1MDkxNjI3NywwMDAwMDAwMDRjZjM1YjI5YjE5NjFkNTY1NWU0NTc5MDQ5Y2JjZmMx",
   "tracks": [
     {
       "added_at": "2021-01-07 10:31:17",
@@ -471,18 +471,18 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "1984 (Remastered)",
-        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+        "name": "Non-Stop Erotic Cabaret",
+        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
       },
       "artists": [
         {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+          "name": "Soft Cell",
+          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
         }
       ],
-      "duration_ms": 241599,
-      "name": "Jump - 2015 Remaster",
-      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+      "duration_ms": 153800,
+      "name": "Tainted Love",
+      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2021-03-22 14:12:29",
@@ -503,6 +503,22 @@
     {
       "added_at": "2021-01-07 10:31:17",
       "album": {
+        "name": "1984 (Remastered)",
+        "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 241599,
+      "name": "Jump - 2015 Remaster",
+      "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Non-Stop Erotic Cabaret",
-        "url": "https://open.spotify.com/album/3KFWViJ1wIHAdOVLFTVzjD"
-      },
-      "artists": [
-        {
-          "name": "Soft Cell",
-          "url": "https://open.spotify.com/artist/6aq8T2RcspxVOGgMrTzjWc"
-        }
-      ],
-      "duration_ms": 153800,
-      "name": "Tainted Love",
-      "url": "https://open.spotify.com/track/0cGG2EouYCEEC3xfa0tDFV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -837,22 +837,6 @@
       "url": "https://open.spotify.com/track/0J2p4KYdr6Mg4ET6JPlbe1"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Cloud Nine",
-        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
-      },
-      "artists": [
-        {
-          "name": "George Harrison",
-          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
-        }
-      ],
-      "duration_ms": 234653,
-      "name": "Got My Mind Set On You - Remastered 2004",
-      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Born In The U.S.A.",
@@ -867,6 +851,22 @@
       "duration_ms": 254733,
       "name": "Glory Days",
       "url": "https://open.spotify.com/track/2Y90nL1ohB4sgYELDs7uNx"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Cloud Nine",
+        "url": "https://open.spotify.com/album/1nbq8GgaVdINI3PulXvPUq"
+      },
+      "artists": [
+        {
+          "name": "George Harrison",
+          "url": "https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS"
+        }
+      ],
+      "duration_ms": 234653,
+      "name": "Got My Mind Set On You - Remastered 2004",
+      "url": "https://open.spotify.com/track/3OeUlriM0EZHdWleJtjoVr"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/4uvjOKsp7mSjrDhWdkLPBY"
     },
     {
-      "added_at": "2021-03-22 14:12:29",
-      "album": {
-        "name": "Welcome To The Pleasuredome",
-        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
-      },
-      "artists": [
-        {
-          "name": "Frankie Goes To Hollywood",
-          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
-        }
-      ],
-      "duration_ms": 236800,
-      "name": "Relax",
-      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Bad 25th Anniversary",
@@ -979,6 +963,22 @@
       "duration_ms": 247360,
       "name": "Bad - 2012 Remaster",
       "url": "https://open.spotify.com/track/5lWFrW5T3JtxVCLDb7etPu"
+    },
+    {
+      "added_at": "2021-03-22 14:12:29",
+      "album": {
+        "name": "Welcome To The Pleasuredome",
+        "url": "https://open.spotify.com/album/0FU4Eo42Oyg1We3eRrOf4m"
+      },
+      "artists": [
+        {
+          "name": "Frankie Goes To Hollywood",
+          "url": "https://open.spotify.com/artist/1mZu3rO7qSD09GdDpePHhY"
+        }
+      ],
+      "duration_ms": 236800,
+      "name": "Relax",
+      "url": "https://open.spotify.com/track/2K22nUTdyr48JDwI5t906t"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1093,20 +1093,24 @@
       "url": "https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
+      "added_at": "2021-01-07 10:31:17",
       "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+        "name": "Come On Eileen / Dubious",
+        "url": "https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Dexys Midnight Runners",
+          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
+        },
+        {
+          "name": "Kevin Rowland",
+          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
         }
       ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+      "duration_ms": 205933,
+      "name": "Come On Eileen - Single Edit",
+      "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1129,24 +1133,20 @@
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Come On Eileen / Dubious",
-        "url": "https://open.spotify.com/album/2fZF9yZ8e7Q7CJCjpN0VIK"
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
       },
       "artists": [
         {
-          "name": "Dexys Midnight Runners",
-          "url": "https://open.spotify.com/artist/4QTVePrFu1xuGM9K0kNXkk"
-        },
-        {
-          "name": "Kevin Rowland",
-          "url": "https://open.spotify.com/artist/7ipGLKpbyUOKFaji4MY19m"
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Come On Eileen - Single Edit",
-      "url": "https://open.spotify.com/track/6nWcEzyxDozQcmxMoNJtYx"
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1163,6 +1163,22 @@
       "duration_ms": 237320,
       "name": "The Look",
       "url": "https://open.spotify.com/track/2oWMI54r0qT4N8Xb4C76vq"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Glass Houses",
+        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+      },
+      "artists": [
+        {
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        }
+      ],
+      "duration_ms": 176440,
+      "name": "It's Still Rock and Roll to Me",
+      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1203,18 +1219,18 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "Glass Houses",
-        "url": "https://open.spotify.com/album/5sztejERqpktXEdemlUvU5"
+        "name": "Organisation",
+        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
       },
       "artists": [
         {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+          "name": "Orchestral Manoeuvres In The Dark",
+          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
         }
       ],
-      "duration_ms": 176440,
-      "name": "It's Still Rock and Roll to Me",
-      "url": "https://open.spotify.com/track/64UioB4Nmwgn2f4cbIpAkl"
+      "duration_ms": 213693,
+      "name": "Enola Gay - Remastered",
+      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1231,22 +1247,6 @@
       "duration_ms": 218186,
       "name": "Moonlight Shadow",
       "url": "https://open.spotify.com/track/4WpmwEdc4RBos8W8icSSxW"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Organisation",
-        "url": "https://open.spotify.com/album/3bouQtY9H1DP39yxqHuFf8"
-      },
-      "artists": [
-        {
-          "name": "Orchestral Manoeuvres In The Dark",
-          "url": "https://open.spotify.com/artist/7wJ9NwdRWtN92NunmXuwBk"
-        }
-      ],
-      "duration_ms": 213693,
-      "name": "Enola Gay - Remastered",
-      "url": "https://open.spotify.com/track/3NYCaxkggl0Hh8vQptSUvV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Purple Rain",
+        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
+      },
+      "artists": [
+        {
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Let's Go Crazy",
+      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "In Square Circle",
         "url": "https://open.spotify.com/album/1nLKZqTGA48v3I8dNFkvQt"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 288339,
       "name": "Modern Love - 2018 Remaster",
       "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Purple Rain",
-        "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
-      },
-      "artists": [
-        {
-          "name": "Prince",
-          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Let's Go Crazy",
-      "url": "https://open.spotify.com/track/0QeI79sp1vS8L3JgpEO7mD"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
+      },
+      "artists": [
+        {
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
+        }
+      ],
+      "duration_ms": 201866,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Rhythm Of The Night",
         "url": "https://open.spotify.com/album/13xiHt25Hn4WZ6OLzhK1n8"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 316066,
       "name": "Fame",
       "url": "https://open.spotify.com/track/5CI1FP2Volc9wjz2MBZsGx"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/6lRkdG1HurVS72F9GoBeWJ"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "True Blue (Reissue)",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 268533,
-      "name": "Papa Don't Preach",
-      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
         "name": "Kick",
         "url": "https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX"
       },
@@ -1741,20 +1725,20 @@
       "url": "https://open.spotify.com/track/5eU8qMd0TpaLqTGDZJaLDs"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
+      "added_at": "2021-09-08 13:09:25",
       "album": {
-        "name": "The Very Best Of Kool & The Gang (Reissue)",
-        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+        "name": "True Blue (Reissue)",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
       },
       "artists": [
         {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 212906,
-      "name": "Get Down On It - Single Version",
-      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
+      "duration_ms": 268533,
+      "name": "Papa Don't Preach",
+      "url": "https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -1775,6 +1759,22 @@
       "duration_ms": 228266,
       "name": "Back To Life",
       "url": "https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "The Very Best Of Kool & The Gang (Reissue)",
+        "url": "https://open.spotify.com/album/1rDjSDjjzVfpnsb3GgREFf"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 212906,
+      "name": "Get Down On It - Single Version",
+      "url": "https://open.spotify.com/track/4yKZACkuudvfd600H2dQie"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1807,6 +1807,22 @@
       "duration_ms": 284506,
       "name": "Forget Me Nots - Remastered",
       "url": "https://open.spotify.com/track/4UQH52FfgGpzDShKDbBvEA"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "70's Music - I Grandi Successi",
+        "url": "https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg"
+      },
+      "artists": [
+        {
+          "name": "Lipps Inc.",
+          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
+        }
+      ],
+      "duration_ms": 234800,
+      "name": "Funkytown - Single Version",
+      "url": "https://open.spotify.com/track/1tyP720IpIJl4dxnMmlYis"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1889,38 +1905,6 @@
       "url": "https://open.spotify.com/track/5xl5582IihbEZAnfj0xyso"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Primitive Love",
-        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
-      },
-      "artists": [
-        {
-          "name": "Miami Sound Machine",
-          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Conga!",
-      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
-    },
-    {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Somebody's Watching Me",
-        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
-      },
-      "artists": [
-        {
-          "name": "Rockwell",
-          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
-        }
-      ],
-      "duration_ms": 298866,
-      "name": "Somebody's Watching Me",
-      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Street Songs (Deluxe Edition)",
@@ -1939,6 +1923,38 @@
     {
       "added_at": "2021-09-08 13:09:25",
       "album": {
+        "name": "Somebody's Watching Me",
+        "url": "https://open.spotify.com/album/5RkdTCk60twFkCif5HLHKw"
+      },
+      "artists": [
+        {
+          "name": "Rockwell",
+          "url": "https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP"
+        }
+      ],
+      "duration_ms": 298866,
+      "name": "Somebody's Watching Me",
+      "url": "https://open.spotify.com/track/7jwQlYGpOml9ETGre1HqGA"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Primitive Love",
+        "url": "https://open.spotify.com/album/70ziXyCSplSPUpFmq9kh6M"
+      },
+      "artists": [
+        {
+          "name": "Miami Sound Machine",
+          "url": "https://open.spotify.com/artist/18xgcedCGxFbqLbIQn5R8F"
+        }
+      ],
+      "duration_ms": 254000,
+      "name": "Conga!",
+      "url": "https://open.spotify.com/track/3FdHgoJbH3DXNtGLh56pFu"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
         "name": "Empty Glass",
         "url": "https://open.spotify.com/album/0X8rEKkL2TupftQRrOzX4h"
       },
@@ -1951,22 +1967,6 @@
       "duration_ms": 164653,
       "name": "Let My Love Open The Door",
       "url": "https://open.spotify.com/track/0otlwsD3mSogk7VJCTp6Kg"
-    },
-    {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "70's Music - I Grandi Successi",
-        "url": "https://open.spotify.com/album/62SQumLuxmWJvXzIYul0pg"
-      },
-      "artists": [
-        {
-          "name": "Lipps Inc.",
-          "url": "https://open.spotify.com/artist/0lwRI7lvmlRY5DiA5Xa6wQ"
-        }
-      ],
-      "duration_ms": 234800,
-      "name": "Funkytown - Single Version",
-      "url": "https://open.spotify.com/track/1tyP720IpIJl4dxnMmlYis"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -1989,22 +1989,6 @@
       "url": "https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc"
     },
     {
-      "added_at": "2021-01-07 10:31:17",
-      "album": {
-        "name": "Like a Prayer",
-        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 340866,
-      "name": "Like a Prayer",
-      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
-    },
-    {
       "added_at": "2021-09-08 13:09:25",
       "album": {
         "name": "Private Eyes (Expanded Edition)",
@@ -2019,6 +2003,22 @@
       "duration_ms": 217200,
       "name": "Private Eyes",
       "url": "https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp"
+    },
+    {
+      "added_at": "2021-01-07 10:31:17",
+      "album": {
+        "name": "Like a Prayer",
+        "url": "https://open.spotify.com/album/48AGkmM7iO4jrELRnNZGPV"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 340866,
+      "name": "Like a Prayer",
+      "url": "https://open.spotify.com/track/2v7ywbUzCgcVohHaKUcacV"
     },
     {
       "added_at": "2021-09-08 13:09:25",
@@ -2085,22 +2085,6 @@
       "url": "https://open.spotify.com/track/5xQr5TxQ77siaKfuyiJbT0"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Private Eyes (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
-      },
-      "artists": [
-        {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
-        }
-      ],
-      "duration_ms": 307306,
-      "name": "I Can't Go for That (No Can Do)",
-      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "Brothers in Arms",
@@ -2115,6 +2099,22 @@
       "duration_ms": 506400,
       "name": "Money for Nothing",
       "url": "https://open.spotify.com/track/4yqtwO7MQIIXqoiRBPHAgR"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Private Eyes (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0"
+      },
+      "artists": [
+        {
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+        }
+      ],
+      "duration_ms": 307306,
+      "name": "I Can't Go for That (No Can Do)",
+      "url": "https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt"
     },
     {
       "added_at": "2021-01-07 10:31:17",
@@ -2341,22 +2341,6 @@
       "url": "https://open.spotify.com/track/1wrT33b6HuKlpk9ziscEUY"
     },
     {
-      "added_at": "2021-09-08 13:09:25",
-      "album": {
-        "name": "Indestructible",
-        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
-      },
-      "artists": [
-        {
-          "name": "Four Tops",
-          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
-        }
-      ],
-      "duration_ms": 274066,
-      "name": "Loco in Acapulco",
-      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
-    },
-    {
       "added_at": "2021-01-07 10:31:17",
       "album": {
         "name": "The Very Best of Billy Ocean",
@@ -2371,6 +2355,22 @@
       "duration_ms": 248000,
       "name": "When the Going Gets Tough, The Tough Get Going",
       "url": "https://open.spotify.com/track/5UU5FbITNm5OunvHQdsKME"
+    },
+    {
+      "added_at": "2021-09-08 13:09:25",
+      "album": {
+        "name": "Indestructible",
+        "url": "https://open.spotify.com/album/1pbPkhuest1I4RGpz3rWmC"
+      },
+      "artists": [
+        {
+          "name": "Four Tops",
+          "url": "https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4"
+        }
+      ],
+      "duration_ms": 274066,
+      "name": "Loco in Acapulco",
+      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi"
     },
     {
       "added_at": "2021-09-08 13:09:25",

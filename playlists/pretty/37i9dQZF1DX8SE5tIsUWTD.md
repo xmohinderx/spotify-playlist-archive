@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 
 > A playlist for your Arab hipster starter kit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,287 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,350 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 7 | [Hanen](https://open.spotify.com/track/0TLpfEvWO8ruwbgfXVKbm5) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh) | 4:56 |
 | 8 | [Agricultural Revolution](https://open.spotify.com/track/2soh1ERhew5bGSU28eIAZg) | [Kamal Keila](https://open.spotify.com/artist/3hvpB2JNbOGd2NTjdaDMGl) | [Muslims and Christians \(Habibi Funk 008\)](https://open.spotify.com/album/7eECqp8MX57IOvt5Me1eXM) | 5:07 |
 | 9 | [Bsslama Hbibti](https://open.spotify.com/track/6RCZxdXm7mMtPY2JOIyKIn) | [Fadoul](https://open.spotify.com/artist/2SCAwDNVflhhFVo1s01Xc9) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:53 |
-| 10 | [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 |
-| 11 | [Sah](https://open.spotify.com/track/3ZNJp2eOQh9nhHzvg21soI) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:44 |
+| 10 | [Sah](https://open.spotify.com/track/3ZNJp2eOQh9nhHzvg21soI) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 3:44 |
+| 11 | [Argos Farfish](https://open.spotify.com/track/3TosvXBW7zPlflPogA1dBV) | [Sharhabil Ahmed](https://open.spotify.com/artist/0caFqNO2pJ97tE5CAqXNRq) | [The King of Sudanese Jazz \(Habibi Funk 013\)](https://open.spotify.com/album/03XCBNJ0dLsvjYcQTJkTXb) | 4:38 |
 | 12 | [Egypt Strut](https://open.spotify.com/track/7IRDObySzzj0nd5ZyufbVm) | [Salah Ragab](https://open.spotify.com/artist/4qczpAvtGm4OU2Jz2cXPWq), [The Cairo Jazz Band](https://open.spotify.com/artist/0tFxRtUBDrWSRcHp9FwCCe) | [Egyptian Jazz](https://open.spotify.com/album/2qCSIYhyOQ8LJ8Dwc8Cmu0) | 4:55 |
 | 13 | [Rouhi Ya Hafida](https://open.spotify.com/track/6OkP3MSzo9ZSb4h9VrswjF) | [Mallek Mohamed](https://open.spotify.com/artist/2wF5QoyZWf6qbi3C0vbor4) | [Habibi Funk: An Eclectic Selection of Music from the Arab World \(Habibi Funk 007\)](https://open.spotify.com/album/1B3W5u06uIB7Elyk70pt9R) | 4:02 |
 | 14 | [Alech](https://open.spotify.com/track/6tSmqzaXZUOooPfGg3Ibhd) | [Carthago](https://open.spotify.com/artist/5VXwGdDD7KI0NrlT4EzNzU) | [Alech \(Habibi Funk 004\)](https://open.spotify.com/album/6aWbhj0AFwifo0K7ebOWuh) | 3:26 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 34 | [Asef Gedan](https://open.spotify.com/track/3iVDNaS9dEjoYTz5Vlbmt6) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 4:05 |
 | 35 | [Bisaraha](https://open.spotify.com/track/5EgethxS16eiTYwXqkgYV0) | [Ziad Rahbani](https://open.spotify.com/artist/56F07EgoDt7uxzQUb6HZnT) | [Houdou Nisbi](https://open.spotify.com/album/1b3FbrjvbVbZMa73KLywXz) | 4:13 |
 | 36 | [Albaki](https://open.spotify.com/track/4oSHz6Y9HpYcL7svVVg7Vh) | [Attarazat Addahabia](https://open.spotify.com/artist/39LnlW8CBTtMww7Lm9z44x), [Faradjallah](https://open.spotify.com/artist/0ygAogdZN5rhDT3K0KXYFD) | [Al Hadaoui \(Habibi Funk 011\)](https://open.spotify.com/album/6YH3tsqaEFJafm56g8lNpB) | 7:06 |
-| 37 | [Ken Yama Disco](https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:02 |
-| 38 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
+| 37 | [El Donia Risha F Hawa](https://open.spotify.com/track/5zPaNHm3D7H4k6CnMM1EUD) | [Disco Misr](https://open.spotify.com/artist/1HIaYLpcp8yyYRSQFP7vIi), [Sherine Abdo](https://open.spotify.com/artist/4iDYjt667N6FZQVkT4WSZf) | [El Donia Risha F Hawa](https://open.spotify.com/album/6OT8AOdsKR9O7dLzaF6St5) | 3:05 |
+| 38 | [Ken Yama Disco](https://open.spotify.com/track/6qHVXskJiJbUIB5BvbwmSK) | [TootArd](https://open.spotify.com/artist/7nSWA1659h0Vb1EyjJdSFV) | [Nuri Andaburi](https://open.spotify.com/album/2z9NRfIRM54Rp7b7IUOFDr) | 4:02 |
 | 39 | [Mashena](https://open.spotify.com/track/5Fzmt3N3XnD3VhRE3XuQ6U) | [The Scorpios](https://open.spotify.com/artist/6SQ6LAhoDVSzikPklHfbTe) | [Mashena](https://open.spotify.com/album/4X7Qt6Q6GudCAPGwycE6nt) | 3:09 |
 | 40 | [Farrah Galbi Aljadeed](https://open.spotify.com/track/26vTeYgVVVqNwZLfOicw9p) | [The Scorpions](https://open.spotify.com/artist/0nV4gg0Bp7hJOYCFFMVNzb), [Saif Abu Bakr](https://open.spotify.com/artist/6gA3mg8N7XGRwY1WwKcm8D) | [Jazz, Jazz, Jazz \(Habibi Funk 009\)](https://open.spotify.com/album/46zogVWfGDNCxsJud1x9KV) | 5:01 |
 | 41 | [El Bahr Azra](https://open.spotify.com/track/59EeGCSYCV8HjxBkAkC7Pz) | [Al Massrieen](https://open.spotify.com/artist/7t3VJCyz87PJLqHM3mOt3I) | [Modern Music \(Habibi Funk 006\)](https://open.spotify.com/album/74cn65iezZxZZ6GxSHN01y) | 5:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8SE5tIsUWTD.md) - [plain]
 | 49 | [Mabruk \- aJan Remix](https://open.spotify.com/track/3PHxtuVhigaZtNouOl2aFW) | [Ali Hassan Kuban](https://open.spotify.com/artist/4dVQ9H8M0hxoRqAsnCGnMm), [aJan](https://open.spotify.com/artist/70F0gnTzCFcxOVgbibWTxr) | [Mabruk \(aJan Remix\)](https://open.spotify.com/album/7xv9PpIsK6nwn0N9oRDDcO) | 3:10 |
 | 50 | [Sahranin](https://open.spotify.com/track/7C4xC1KnhC5Jp3ZQFOqdvI) | [Ahmed Fakroun](https://open.spotify.com/artist/0yq7sI87s5V3Z461Npd652) | [Compilation](https://open.spotify.com/album/3817vwUTrue6AUYFywpZU5) | 5:09 |
 
-Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDg3OWIwMjA5NDA1ZjgzZTQ2NzY3MjFmMzcyN2Q3ZDZm`
+Snapshot ID: `MTYwNTIwNDkwMSwwMDAwMDAwMDdjM2QwZGU1ZWJkMjdhNmE2NDk1MWY3ZDllMTgzMTk5`

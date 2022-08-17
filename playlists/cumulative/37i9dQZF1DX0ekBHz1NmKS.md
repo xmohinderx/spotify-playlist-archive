@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-529 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+530 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,7 +89,7 @@
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
 | [Cool Kids](https://open.spotify.com/track/48w0n6R4pVu0gamM91ZQcE) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Cool Kids](https://open.spotify.com/album/5VctleKkq3DNVXv6zjcVzt) | 2:31 | 2022-03-10 | 2022-07-13 |
-| [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 |  |
+| [Cool Me Down](https://open.spotify.com/track/3DCvfTFHAaCuTNlGED83Tp) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [HARD](https://open.spotify.com/album/3pXwhMt1lC8J3km8kzDbkA) | 2:38 | 2022-06-21 | 2022-08-17 |
 | [Crash](https://open.spotify.com/track/0CoKakshKgdDSDhb1pzWdZ) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Crash](https://open.spotify.com/album/3jUPJ9cVv8woNRpqwn3JwN) | 3:10 | 2021-12-16 | 2022-03-10 |
 | [CRISIS](https://open.spotify.com/track/43ImePOfnaz2d4YH4mWwyi) | [Sam Ezeh](https://open.spotify.com/artist/5Ys0Puc1F5jOw7EpmhMSTK) | [Night at Ezeh's](https://open.spotify.com/album/0HeJ5vvU2LxmL5QNtCxIrl) | 3:13 | 2022-05-12 | 2022-06-03 |
 | [Cry over me](https://open.spotify.com/track/5HdoVX4952B9unJEjoemUI) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Cry over me](https://open.spotify.com/album/65igJnmDIP8wnxFik4Eanz) | 2:50 | 2021-12-16 | 2022-04-02 |
@@ -416,6 +416,7 @@
 | [So Alive](https://open.spotify.com/track/6jYqBYYrk4oRdPirwCPYlz) | [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [I Still Hide](https://open.spotify.com/album/3hhlscP3tUgIgdNW198tHl) | 3:29 | 2021-12-16 | 2022-03-31 |
 | [Soaked](https://open.spotify.com/track/1mFdADJrIdTRCSG5AwCdIC) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Soaked](https://open.spotify.com/album/0yN6Cb4nY1eCzs4HFJyCsz) | 3:32 | 2021-12-16 | 2022-03-11 |
 | [Socker Och Vatten](https://open.spotify.com/track/4fGEODf7h2D1wtxE9SAaKE) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Vatten](https://open.spotify.com/album/1TdBDgXrb8ELHqUKDl9uUa) | 3:18 | 2022-04-01 |  |
+| [Solen i Göteborg](https://open.spotify.com/track/6rnhvACYhoZRC0UVGGJikg) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Solen i Göteborg](https://open.spotify.com/album/7E9VuqdK5Ol4jbUD0KgYfB) | 2:51 | 2022-08-11 |  |
 | [Solnedgångar](https://open.spotify.com/track/6Wl89b1QP2VujIZQvlbz9F) | [Little Jinder](https://open.spotify.com/artist/5QYBoZAoupoPPuFB1KHfx0) | [Solnedgångar](https://open.spotify.com/album/3rAowKXyLvIx0NQqCzDtk8) | 4:02 | 2022-04-01 | 2022-07-28 |
 | [Som du vill](https://open.spotify.com/track/12fYEY6L7M2k7qFWgMEwXn) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Som du vill](https://open.spotify.com/album/7Bt9EjtQhswBKqqOo9MiBU) | 2:53 | 2022-02-05 |  |
 | [Someone Always Knows](https://open.spotify.com/track/3ws3fXwBlZRSWbPgtEcTii) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Someone Always Knows](https://open.spotify.com/album/3JPLJcTfUJ7wsQiTifHmM1) | 2:30 | 2022-02-24 | 2022-05-13 |

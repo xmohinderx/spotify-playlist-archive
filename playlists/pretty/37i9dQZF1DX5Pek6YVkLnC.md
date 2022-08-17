@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 
 > P fkn R\. Esto llega al choliiiii\. Cover: Big Soto, ARON, Mora
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,575 likes - 70 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,569 likes - 70 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 49 | [Epapale](https://open.spotify.com/track/6dtFt3R68lSQUUHLPjBTS2) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Epapale](https://open.spotify.com/album/4k6S5m540VlY0vEndzTq1u) | 2:00 |
 | 50 | [Un Poquito](https://open.spotify.com/track/1nU4sOQqqhFUqS0TiRlD0V) | [Alejo](https://open.spotify.com/artist/50sIhX3HytFEwQXZJLUZQE), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Un Poquito](https://open.spotify.com/album/3T42E1jOeHGlo19lBSSZCO) | 2:46 |
 | 51 | [Toda la Noche](https://open.spotify.com/track/4wzIbfON4V1LF6lIbBWTwP) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [El Playlist de Anoche](https://open.spotify.com/album/5BRmh1Zjhc83GybZiRhq5e) | 2:06 |
-| 52 | [X2 \- Remix](https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [X2 \(Remix\)](https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys) | 3:39 |
-| 53 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
+| 52 | [Riri](https://open.spotify.com/track/4PSnghnspIWBQZ7fQE58kU) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Riri](https://open.spotify.com/album/7Ldok3zx8QJiiUGkL12QMa) | 2:14 |
+| 53 | [X2 \- Remix](https://open.spotify.com/track/3fEUTIXek0kTmpnGAWNWxX) | [Jossef](https://open.spotify.com/artist/7kaC28XGoTp1ViSZAA0iuX), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar) | [X2 \(Remix\)](https://open.spotify.com/album/1sxG561Y3NC62QyZ2A05Ys) | 3:39 |
 | 54 | [Close Friends](https://open.spotify.com/track/6o20NaKRuPqpluh8DPRur1) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 2:01 |
 | 55 | [HOLY SHIT](https://open.spotify.com/track/134kmpz1I5kIg88qAFgIgk) | [Ankhal](https://open.spotify.com/artist/6NmMI7UnfmIpLRYoz8H9jm) | [ANTI JUDAS](https://open.spotify.com/album/0BlqUCStGXgKUmB4wQDriv) | 3:23 |
 | 56 | [Fuego](https://open.spotify.com/track/2bEjeBM3MVspWXXbor9H32) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [Sauce Boyz 2](https://open.spotify.com/album/4JaYe7HIddzNaF3rUgJzHI) | 2:35 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Pek6YVkLnC.md) - [plain]
 | 63 | [Nos Matamos](https://open.spotify.com/track/1CzOTrHcKV9nJov0wQytlA) | [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Nos Matamos](https://open.spotify.com/album/38rKm1PY26o3u2Q7GXDJLV) | 4:30 |
 | 64 | [Jangueo](https://open.spotify.com/track/6mgNiJ6pJS5SwvqxhEiMHj) | [Arkey\-O](https://open.spotify.com/artist/4IiSkchFzuQDd1Y5gOQozC), [Almighty](https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Jangueo](https://open.spotify.com/album/5IlQPzzI4ighOkZCiCWwmi) | 3:32 |
 | 65 | [Magnum](https://open.spotify.com/track/5fDMDKHhVCpUmAvTPJrYNh) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Jhay Cortez](https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz) | [Infinity](https://open.spotify.com/album/2nRRfeEazBN10vZdPFmQME) | 3:02 |
-| 66 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 |
-| 67 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
+| 66 | [Paz y Bendiciones](https://open.spotify.com/track/1l13Q1jtQzKiMtn5cBoyIa) | [Jon Z](https://open.spotify.com/artist/5bWUlnPx9OYKsLiUJrhCA1), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Proyecto Z](https://open.spotify.com/album/3Z906so8bqCrYxNCWZcBRJ) | 3:19 |
+| 67 | [Santa Diabla](https://open.spotify.com/track/2xeOY98taPuzh6XZWVKiKK) | [Amarion](https://open.spotify.com/artist/7Bb4i0RT3zaudzb8KvxTUQ), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Santa Diabla](https://open.spotify.com/album/4bUKgMoGPN3i7Z6ea3sU76) | 4:43 |
 | 68 | [Tu Favorito](https://open.spotify.com/track/3eqxzZ4BIGeyvmqbg49LFe) | [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY) | [Tu Favorito](https://open.spotify.com/album/5VoWV7iYUp5SbfiELfpARp) | 3:06 |
 | 69 | [Puerto Rican Mami](https://open.spotify.com/track/2Vz7y1NOvV3sq3bXvsS2DI) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [Puerto Rican Mami](https://open.spotify.com/album/4YNCuFzFnWgUrjtBan9jAy) | 3:19 |
 | 70 | [Philliecito](https://open.spotify.com/track/0oWjcsqU11f12QCUSIHiI5) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ) | [Philliecito](https://open.spotify.com/album/73SIbYRDMPhMpu90ecbm7D) | 4:11 |
 
-Snapshot ID: `MTY1OTYzNjYyNiwwMDAwMDAwMGM4OTQ4NjVjNDgwNzM3MWRmMjNlNGM2MzA2NzQ0MDEx`
+Snapshot ID: `MTY1OTYzNjYyNiwwMDAwMDAwMGZkZjYyOGRkYzE0ZTUxZDZhYzllZTVmZGM3NjhkZmFk`

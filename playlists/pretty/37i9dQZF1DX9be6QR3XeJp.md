@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9be6QR3XeJp.md) - [plain]
 
 > Discover your new favourite artists\. Cover: Rio Rainz
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,008 likes - 120 songs - 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,000 likes - 120 songs - 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

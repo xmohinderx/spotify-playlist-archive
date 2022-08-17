@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95077,
+  "num_followers": 95085,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGJkMmJjZDQ5NDc2MjRiNDRiNmI3OThmZWM5ODNmOTNj",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGQxYjg2ZGQyYThhYWZkYmQwYzExYTk0ZTNlYjYxNThl",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "MARF",
+          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
+        },
+        {
+          "name": "Wulf",
+          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
+        }
+      ],
+      "duration_ms": 151312,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) [Ti\u00ebsto Remix]",
         "url": "https://open.spotify.com/album/1zlYl1OYOvf79RWXEc6NZb"
       },
@@ -691,30 +715,6 @@
       "duration_ms": 186190,
       "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "MARF",
-          "url": "https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7"
-        },
-        {
-          "name": "Wulf",
-          "url": "https://open.spotify.com/artist/134sCDSe1w2zPnfCG4hT0f"
-        }
-      ],
-      "duration_ms": 151312,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/71H8k9qe7DersxR6KyhUnI"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Step-Grandma",
+        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
+      },
+      "artists": [
+        {
+          "name": "Salvatore Ganacci",
+          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
+        }
+      ],
+      "duration_ms": 160685,
+      "name": "Step-Grandma",
+      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "In My Feelings",
         "url": "https://open.spotify.com/album/7w0Cu5TnnmH5lGt97ve8At"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 174360,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/4fVE18SZG7GbjxPYqiFVwa"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Step-Grandma",
-        "url": "https://open.spotify.com/album/3ATCFmJoutj6XaiWSU4Tvy"
-      },
-      "artists": [
-        {
-          "name": "Salvatore Ganacci",
-          "url": "https://open.spotify.com/artist/5PdkRVDASsw6P7QoqRpz0F"
-        }
-      ],
-      "duration_ms": 160685,
-      "name": "Step-Grandma",
-      "url": "https://open.spotify.com/track/2VCZrkZkplD4wG8AFozNoh"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1079,26 +1079,18 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "123 (Dolly Song) (feat. Karma Child)",
-        "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
+        "name": "SKOGSREJV",
+        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
       },
       "artists": [
         {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Imanbek",
-          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
-        },
-        {
-          "name": "Karma Child",
-          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
         }
       ],
-      "duration_ms": 141652,
-      "name": "123 (Dolly Song) feat. Karma Child",
-      "url": "https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA"
+      "duration_ms": 180588,
+      "name": "SKOGSREJV",
+      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1123,18 +1115,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "SKOGSREJV",
-        "url": "https://open.spotify.com/album/3sOvmL3RfcyZPgqbGg8oIi"
+        "name": "123 (Dolly Song) (feat. Karma Child)",
+        "url": "https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp"
       },
       "artists": [
         {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "Karma Child",
+          "url": "https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7"
         }
       ],
-      "duration_ms": 180588,
-      "name": "SKOGSREJV",
-      "url": "https://open.spotify.com/track/3DJKeDQuJirUgKfKPNWZIQ"
+      "duration_ms": 141652,
+      "name": "123 (Dolly Song) feat. Karma Child",
+      "url": "https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "The Club Is Jumpin'",
-        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 135483,
-      "name": "The Club Is Jumpin'",
-      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Remedy",
         "url": "https://open.spotify.com/album/13wCTAFQmBT53bMTK7R4oA"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 149000,
       "name": "Remedy",
       "url": "https://open.spotify.com/track/7MrNIhgWoKht75AxhM0QlP"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "The Club Is Jumpin'",
+        "url": "https://open.spotify.com/album/3OQLs0bSQczbwbNqm89T9T"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 135483,
+      "name": "The Club Is Jumpin'",
+      "url": "https://open.spotify.com/track/15OcbcAnu8RH7viF0vZw71"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1395,38 +1395,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
-      },
-      "artists": [
-        {
-          "name": "Quintino",
-          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
-        }
-      ],
-      "duration_ms": 191250,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "IN I DIMMAN",
-        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
-      },
-      "artists": [
-        {
-          "name": "Hooja",
-          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
-        }
-      ],
-      "duration_ms": 121846,
-      "name": "IN I DIMMAN",
-      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Fly",
         "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
       },
@@ -1447,6 +1415,38 @@
       "duration_ms": 134857,
       "name": "Fly",
       "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "IN I DIMMAN",
+        "url": "https://open.spotify.com/album/3DaOp0K3QU4qjprrt8qvsN"
+      },
+      "artists": [
+        {
+          "name": "Hooja",
+          "url": "https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL"
+        }
+      ],
+      "duration_ms": 121846,
+      "name": "IN I DIMMAN",
+      "url": "https://open.spotify.com/track/0gMzdZiPujscbcFS8iTbzN"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/1QxdQYatNANaOMbnWmFw3F"
+      },
+      "artists": [
+        {
+          "name": "Quintino",
+          "url": "https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n"
+        }
+      ],
+      "duration_ms": 191250,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/0RHtecK6xMtW7yWgmLmOpQ"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Sober",
-        "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
-      },
-      "artists": [
-        {
-          "name": "LIZOT",
-          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
-        },
-        {
-          "name": "Jerome",
-          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Sober",
-      "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Rave In My Garage",
         "url": "https://open.spotify.com/album/493kHHcF2GPYpqtdMOxrcz"
       },
@@ -1527,22 +1507,22 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Flaggan i topp (Sveriges Officiella EM-l\u00e5t 2021)",
-        "url": "https://open.spotify.com/album/4XmjaZgZN8gfp3XtSDYVye"
+        "name": "Sober",
+        "url": "https://open.spotify.com/album/10nkgVSZHm8Lr5ZuoqQQ7R"
       },
       "artists": [
         {
-          "name": "Anis Don Demina",
-          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
         },
         {
-          "name": "SAMI",
-          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+          "name": "Jerome",
+          "url": "https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV"
         }
       ],
-      "duration_ms": 209373,
-      "name": "Flaggan i topp - Sveriges Officiella EM-l\u00e5t 2021",
-      "url": "https://open.spotify.com/track/7w2sCUWVAop5sTmikAdhCD"
+      "duration_ms": 120000,
+      "name": "Sober",
+      "url": "https://open.spotify.com/track/5jQxnJIy96OrUKQy8phVzh"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1571,6 +1551,26 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Flaggan i topp (Sveriges Officiella EM-l\u00e5t 2021)",
+        "url": "https://open.spotify.com/album/4XmjaZgZN8gfp3XtSDYVye"
+      },
+      "artists": [
+        {
+          "name": "Anis Don Demina",
+          "url": "https://open.spotify.com/artist/3WnmyxLdTHKN83h75tcb8P"
+        },
+        {
+          "name": "SAMI",
+          "url": "https://open.spotify.com/artist/0GYJScAPulF6GTFYJOpHVr"
+        }
+      ],
+      "duration_ms": 209373,
+      "name": "Flaggan i topp - Sveriges Officiella EM-l\u00e5t 2021",
+      "url": "https://open.spotify.com/track/7w2sCUWVAop5sTmikAdhCD"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Paradise (Topic Remix)",
         "url": "https://open.spotify.com/album/7AzUBs2mUyC8CX9yPJkr2F"
       },
@@ -1595,30 +1595,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "Butterfly",
-        "url": "https://open.spotify.com/album/5hiXbFtIogyB0v5IQi2bFM"
-      },
-      "artists": [
-        {
-          "name": "LANN\u00c9",
-          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
-        },
-        {
-          "name": "Svniivan",
-          "url": "https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx"
-        },
-        {
-          "name": "Max Fail",
-          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
-        }
-      ],
-      "duration_ms": 147968,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/2kCcvWpTKvKH9JLyioUAr0"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "California Sun",
         "url": "https://open.spotify.com/album/4ktYp7QtLH9jMvpo1Tz4SN"
       },
@@ -1639,6 +1615,30 @@
       "duration_ms": 151265,
       "name": "California Sun",
       "url": "https://open.spotify.com/track/2SHWi8NdPvjeyRKA3sW3ab"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "Butterfly",
+        "url": "https://open.spotify.com/album/5hiXbFtIogyB0v5IQi2bFM"
+      },
+      "artists": [
+        {
+          "name": "LANN\u00c9",
+          "url": "https://open.spotify.com/artist/0K3HwnyYaxoQO9hZCBLtOH"
+        },
+        {
+          "name": "Svniivan",
+          "url": "https://open.spotify.com/artist/4Tjvp7fDrim8wlo9fDgqGx"
+        },
+        {
+          "name": "Max Fail",
+          "url": "https://open.spotify.com/artist/6fyLFM7G6aSFpZ1BUUDCLf"
+        }
+      ],
+      "duration_ms": 147968,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/2kCcvWpTKvKH9JLyioUAr0"
     },
     {
       "added_at": "2022-07-28 22:10:25",

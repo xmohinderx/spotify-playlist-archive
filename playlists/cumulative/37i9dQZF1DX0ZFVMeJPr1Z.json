@@ -714,6 +714,24 @@
     },
     {
       "album": {
+        "name": "Konstpaus",
+        "url": "https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW"
+      },
+      "artists": [
+        {
+          "name": "Gyllene Tider",
+          "url": "https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb"
+        }
+      ],
+      "date_added": "2020-07-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232426,
+      "name": "Juni, Juli, Augusti",
+      "url": "https://open.spotify.com/track/2AXTRWWGTwgp0Ud8cPzT5S"
+    },
+    {
+      "album": {
         "name": "GT25 - Samtliga Hits!",
         "url": "https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA"
       },
@@ -725,7 +743,7 @@
       ],
       "date_added": "2020-07-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 232426,
       "name": "Juni, Juli, Augusti",
       "url": "https://open.spotify.com/track/4UDnYc528V932a2lEtMQ5P"

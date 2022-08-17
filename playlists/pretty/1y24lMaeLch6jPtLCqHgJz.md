@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,729 likes - 79 songs - 4 hr 13 min
+[Revealed Recordings](https://open.spotify.com/user/revealedrec) - 83,722 likes - 79 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/1y24lMaeLch6jPtLCqHgJz.md) - [plain]
 | 78 | [Broken Hearts](https://open.spotify.com/track/4narhpRTaHah0ixYvd5ceq) | [Jeffrey Sutorius](https://open.spotify.com/artist/2XGg454n1pSdgoqrfcSDbq), [SIR NOTCH](https://open.spotify.com/artist/4SLZm8YYu6KrPjowQigjCQ) | [\#aparttogether](https://open.spotify.com/album/69gjrVGn8OAOGfCz5jAuLC) | 3:14 |
 | 79 | [This Time \(Never Be Alone Again\)](https://open.spotify.com/track/4NfNmtFPQwR7IYoKeBErOp) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [This Time \(Never Be Alone Again\)](https://open.spotify.com/album/0ytdECFIEtdImFLONcZA8N) | 2:46 |
 
-Snapshot ID: `MTk1NSxiZTM3ODFiMmRlZDRkMDQ0OTY4ZTQ0ZjA2YWM2ZDkyMDk0MGM3ZGQ1`
+Snapshot ID: `MTk1NyxhMGUzMjliNTBlZjVlMTg3MGQ3MjdiODYzMGM1ZmUwYzFjYWViNmQ3`

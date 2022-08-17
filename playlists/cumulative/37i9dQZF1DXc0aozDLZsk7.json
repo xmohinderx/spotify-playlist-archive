@@ -542,6 +542,24 @@
     },
     {
       "album": {
+        "name": "Dragon New Warm Mountain I Believe In You",
+        "url": "https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY"
+      },
+      "artists": [
+        {
+          "name": "Big Thief",
+          "url": "https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ"
+        }
+      ],
+      "date_added": "2022-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187388,
+      "name": "Certainty",
+      "url": "https://open.spotify.com/track/3i7XRi2UyvGTdJawJRkVhd"
+    },
+    {
+      "album": {
         "name": "Chasing A Feeling",
         "url": "https://open.spotify.com/album/0tey4A2rY0o6g2j1BeXnaJ"
       },
@@ -1033,7 +1051,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 173840,
       "name": "Godspeed",
       "url": "https://open.spotify.com/track/5WfACgyEk4rwdWU3rrzNt1"

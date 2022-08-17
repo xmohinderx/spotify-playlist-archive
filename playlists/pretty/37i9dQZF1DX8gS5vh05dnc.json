@@ -1,12 +1,12 @@
 {
   "description": "\u60f3\u7d13\u89e3\u7dca\u5f35\u58d3\u529b\uff0c\u5c31\u807d\u9019\u4e9b\u8f15\u9b06\u3001\u6109\u5feb\u7684\u6b4c\u66f2\u4f86\u8b93\u81ea\u5df1\u653e\u8f15\u9b06\u3002",
-  "num_followers": 123692,
+  "num_followers": 123730,
   "original_name": "\u6d88\u9664\u58d3\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjIyOSwwMDAwMDAwMDMxZDIyYTcyOWFiYjlkNDM2ODQ4YWNjNDMxMzBkOWYx",
+  "snapshot_id": "MTY2MDUzMjIyOSwwMDAwMDAwMDIwMmIwNmFjYTllYjc3M2MzODRiZWJlZTljNWJlZjcz",
   "tracks": [
     {
       "added_at": "2022-08-15 02:57:09",
@@ -383,6 +383,30 @@
     {
       "added_at": "2022-08-15 02:57:09",
       "album": {
+        "name": "Funk Wav Bounces Vol. 2",
+        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Charlie Puth",
+          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+        },
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        }
+      ],
+      "duration_ms": 226497,
+      "name": "Obsessed (with Charlie Puth & Shenseea)",
+      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
+    },
+    {
+      "added_at": "2022-08-15 02:57:09",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/7CrDnyaqZVhO6UupmkQiHe"
       },
@@ -419,30 +443,6 @@
     {
       "added_at": "2022-08-15 02:57:09",
       "album": {
-        "name": "Funk Wav Bounces Vol. 2",
-        "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
-      },
-      "artists": [
-        {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
-        {
-          "name": "Charlie Puth",
-          "url": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-        },
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        }
-      ],
-      "duration_ms": 226497,
-      "name": "Obsessed (with Charlie Puth & Shenseea)",
-      "url": "https://open.spotify.com/track/0b5CzUhyShYuDdtW5J4wm2"
-    },
-    {
-      "added_at": "2022-08-15 02:57:09",
-      "album": {
         "name": "Sweetener",
         "url": "https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 205920,
       "name": "no tears left to cry",
       "url": "https://open.spotify.com/track/2qT1uLXPVPzGgFOx4jtEuo"
+    },
+    {
+      "added_at": "2022-08-15 02:57:09",
+      "album": {
+        "name": "Corinne Bailey Rae",
+        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 215360,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-08-15 02:57:09",
@@ -479,22 +495,6 @@
       "duration_ms": 233386,
       "name": "You",
       "url": "https://open.spotify.com/track/2cc8Sw1OnCuA5bV8nqWqpE"
-    },
-    {
-      "added_at": "2022-08-15 02:57:09",
-      "album": {
-        "name": "Corinne Bailey Rae",
-        "url": "https://open.spotify.com/album/141Mp3P2VKHQMhtkW1DyQg"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 215360,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/2nGFzvICaeEWjIrBrL2RAx"
     },
     {
       "added_at": "2022-08-15 02:57:09",
@@ -795,6 +795,26 @@
     {
       "added_at": "2022-08-15 02:57:09",
       "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 193456,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+    },
+    {
+      "added_at": "2022-08-15 02:57:09",
+      "album": {
         "name": "Big Energy (feat. DJ Khaled) [Remix]",
         "url": "https://open.spotify.com/album/15HgkUTScUcXAXmEu6lZsv"
       },
@@ -819,22 +839,18 @@
     {
       "added_at": "2022-08-15 02:57:09",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/1qifX05Cb36CfsIgnhv2Lt"
+        "name": "Let\u2019s Fall In Love For The Night",
+        "url": "https://open.spotify.com/album/3LONldJV06J1AHEph6lopK"
       },
       "artists": [
         {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "FINNEAS",
+          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
         }
       ],
-      "duration_ms": 193456,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/3Ga6eKrUFf12ouh9Yw3v2D"
+      "duration_ms": 190348,
+      "name": "Let's Fall in Love for the Night",
+      "url": "https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM"
     },
     {
       "added_at": "2022-08-15 02:57:09",
@@ -855,22 +871,6 @@
       "duration_ms": 181436,
       "name": "Know Your Worth",
       "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
-    },
-    {
-      "added_at": "2022-08-15 02:57:09",
-      "album": {
-        "name": "Let\u2019s Fall In Love For The Night",
-        "url": "https://open.spotify.com/album/3LONldJV06J1AHEph6lopK"
-      },
-      "artists": [
-        {
-          "name": "FINNEAS",
-          "url": "https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Let's Fall in Love for the Night",
-      "url": "https://open.spotify.com/track/7kQkmyoHCEqwe7QwDbkSXM"
     },
     {
       "added_at": "2022-08-15 02:57:09",

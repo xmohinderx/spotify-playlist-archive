@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92PapbtyAWm.md) - [plain]
 
 > <a href="spotify:artist:1vo8zHmO1KzkuU9Xxh6J7W">MOTi</a> shares his favorite bangers in his DJ mix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,054 likes - 1 song - 2 min 26 sec
+[Spotify](https://open.spotify.com/user/spotify) - 7,065 likes - 1 song - 2 min 26 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

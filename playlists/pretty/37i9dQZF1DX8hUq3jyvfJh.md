@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Mari Fernandez e mais mulheres para serem ouvidas no máximo volume.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,099 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,995 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 6 | [Boiadeira](https://open.spotify.com/track/17vkpwdNFLE5T1Y4PE3stJ) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Boiadeira](https://open.spotify.com/album/4zu2agfM2d46lKe9CFEs4V) | 2:49 |
 | 7 | [Não Quero Ser Mais Eu \- Ao Vivo](https://open.spotify.com/track/4tRErerEoiCOIV2pLfL7hv) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Yasmin Santos ao vivo em Goiânia vol 1](https://open.spotify.com/album/5TnxDHDxcAiyLx4IOkNRTQ) | 3:01 |
 | 8 | [Ex De Ninguém \- Ao Vivo](https://open.spotify.com/track/1ZZJNyNnTXQS0siCpnWNUL) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/0NJBo8eIqMh78Ba5HWTWAD) | 2:31 |
-| 9 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
-| 10 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 9 | [Me Trata Como Ex \- Ao Vivo](https://open.spotify.com/track/7EAkUVnalwN4Fc6BhgSkgp) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Me Trata Como Ex \(Ao Vivo\)](https://open.spotify.com/album/7iF6LYew2lJAR2RzGEyPAJ) | 2:44 |
+| 10 | [Romance Desapegado](https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4) | [Japinha Conde](https://open.spotify.com/artist/4G3B4Z3ipxgw6DIrdFd04n) | [Romance Desapegado](https://open.spotify.com/album/20wtzoFxbEgoQgrlmIpBud) | 3:04 |
 | 11 | [Zap](https://open.spotify.com/track/1p787PB1sNKkN8wpI49jcJ) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Natural](https://open.spotify.com/album/6Kz30EyV9GDxUnOnANY3p4) | 2:35 |
 | 12 | [Fiquei Careta](https://open.spotify.com/track/5YQzu3kIQmcS2PebmQZcEa) | [Lari Ferreira](https://open.spotify.com/artist/64z5b9YLNYN0a7dAa0mQ3y) | [Fiquei Careta](https://open.spotify.com/album/3q5vBTu20xJkVziypKNPgk) | 2:23 |
 | 13 | [Todo Mundo Menos Você](https://open.spotify.com/track/053zWWZDziDJd3U94x8RuP) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Festa das Patroas 35%](https://open.spotify.com/album/5S0cTPPACcLQxZPe2X88bQ) | 3:26 |
@@ -41,22 +41,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 31 | [Vem Cá](https://open.spotify.com/track/1fQen7vln4OFKCRshZvXoT) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Vem Cá](https://open.spotify.com/album/7nXQUOtTZjBw9o2sOScZVD) | 2:32 |
 | 32 | [Namorando Bloqueia](https://open.spotify.com/track/0DPm7fR4Nf7VzuIc6pGWt6) | [Paula Mattos](https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz) | [Namorando Bloqueia](https://open.spotify.com/album/4FAZbodqDr9nAAw4QXkGsK) | 2:11 |
 | 33 | [Quero Que Você Se \- Ao vivo](https://open.spotify.com/track/5ECdJiYkcQz1VhpYzsGUhW) | [Kamilla Maria](https://open.spotify.com/artist/5zVMIZMjjks6fBw8JE7D9c) | [Quero Que Você Se \(Ao vivo\)](https://open.spotify.com/album/5Xe6JNQNwRJhHkoJ2sSOqH) | 2:54 |
-| 34 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 |
+| 34 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
 | 35 | [Ponto de Partida](https://open.spotify.com/track/6laXU8ebTKAt4jJ75IybV0) | [Márcia Fellipe](https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K) | [Retrô Românticas, Pt\. 1](https://open.spotify.com/album/3rlIX4rSRS2Lk4EEuk3zRa) | 2:42 |
-| 36 | [O Choro é Livre](https://open.spotify.com/track/7mdclgEREBeEcIbGxIchcF) | [Priscila Senna](https://open.spotify.com/artist/44F6hbmusaHQR96WFbo6Lv) | [O Choro é Livre](https://open.spotify.com/album/1EyIA4KLuQVUuhzuYDwc8n) | 3:39 |
+| 36 | [Descontar Não É Trair](https://open.spotify.com/track/7ynknBverBkoUg0XYzvw0Q) | [Bizay](https://open.spotify.com/artist/73h5bxU4rvxAhFHdWRJMPX) | [Sentimentos](https://open.spotify.com/album/3l9ItXzowg5VRvrpCSbFgq) | 3:05 |
 | 37 | [Amor da Sua Vida \- Ao Vivo](https://open.spotify.com/track/5dvqzCn7FZjtmrrx4VYM3W) | [Rayane & Rafaela](https://open.spotify.com/artist/7hiUUv81g2TwR7AyoRduYJ) | [Amando e Sofrendo, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/0XRE7Err8k5v17JBekAomd) | 2:50 |
 | 38 | [Eu Ou Ela \- Ao Vivo](https://open.spotify.com/track/3XX8Zp2pOdQ2VmmzmzoGUK) | [Allana Macedo](https://open.spotify.com/artist/4eQjU5tY3Z5wXDXpbhSh7Q) | [Ao Vivo Em Goiânia \(Vol\. 2\)](https://open.spotify.com/album/3bc4ZZ7gWZukZvdM2qc6Rt) | 2:44 |
 | 39 | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/track/4Vao4rCPqRNeGFG8IurbLN) | [Duda Bertelli](https://open.spotify.com/artist/0Zuy8Df6xyPDVxstUOsHQO) | [Pra Mim Você é Tudo \(Rapariga\) \[Ao Vivo\]](https://open.spotify.com/album/0l3BT8oObAlDYRysVX0t0m) | 2:54 |
 | 40 | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/track/01O7f0N2slitGFBcuBuIZM) | [Suellen & Francielly](https://open.spotify.com/artist/52WZ6GkSnEZxJ5iZUGBVGm) | [Essa Conta Não Fecha \(Ep\. Inverso\)](https://open.spotify.com/album/6Oi6FNT4RzOOjKFDBSrXuz) | 2:36 |
 | 41 | [Tantão assim \- Ao vivo](https://open.spotify.com/track/3BQcRwHRHc2iZEmW0IxQZ5) | [Day e Lara](https://open.spotify.com/artist/0vsVZPe7ziQLQ3eqwUTc4H) | [Tantão assim \(Ao vivo\)](https://open.spotify.com/album/1qtB8uFoOXClCkAwI1jj7X) | 3:02 |
-| 42 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
-| 43 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
+| 42 | [Coração Mal Dividido](https://open.spotify.com/track/7iw0Ao9yZgeEWY5lSYvaq0) | [Natália & Laura](https://open.spotify.com/artist/3YrRhr09dqXwCCszvnwqLr) | [Coração Mal Dividido](https://open.spotify.com/album/1HrxOHLaUyKTBtKZvzrOAP) | 2:36 |
+| 43 | [Sinto Muito](https://open.spotify.com/track/13otgR4JFCnq6xIhOw7X3z) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [May & Karen em Goiânia](https://open.spotify.com/album/3eTxrL0EnUdm3JkNrqv30U) | 2:40 |
 | 44 | [Taça de Gin](https://open.spotify.com/track/63GftAXrzvoH8dMQBvrGeR) | [Luna & Vitória](https://open.spotify.com/artist/5XB4U23lGtbayHASvSQn2q) | [Taça de Gin](https://open.spotify.com/album/2eATSE0WDv61PyoymxMBN9) | 2:41 |
-| 45 | [Cangote](https://open.spotify.com/track/5uDLHpMY6TJqhO26n9sOYs) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Cangote](https://open.spotify.com/album/5mRTWt02sSP9zenBGrhXit) | 3:09 |
-| 46 | [Coração Zero Bala](https://open.spotify.com/track/5IqQNVGxTFTJnu7gCWDYmz) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:06 |
-| 47 | [Sofrendo um Bocado](https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78) | [Jessica Lima](https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj) | [Sofrendo um Bocado](https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ) | 2:45 |
-| 48 | [Cerveja Nela \- Ao Vivo](https://open.spotify.com/track/3q1Bl0oz0ZzedTmbdLeg99) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7) | [De Goiânia Pro Mundo \(Ao Vivo\)](https://open.spotify.com/album/5YlMGMSqYNqlB9n5Rcuxjs) | 2:26 |
+| 45 | [Coração Zero Bala](https://open.spotify.com/track/5IqQNVGxTFTJnu7gCWDYmz) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:06 |
+| 46 | [Cangote](https://open.spotify.com/track/5uDLHpMY6TJqhO26n9sOYs) | [Júlia & Rafaela](https://open.spotify.com/artist/7JJBuq3tgc4y2NO0TqAm02) | [Cangote](https://open.spotify.com/album/5mRTWt02sSP9zenBGrhXit) | 3:09 |
+| 47 | [Cerveja Nela \- Ao Vivo](https://open.spotify.com/track/3q1Bl0oz0ZzedTmbdLeg99) | [Débora & Daniela](https://open.spotify.com/artist/3O4oCrI8bsnuk5X6mrjjb7) | [De Goiânia Pro Mundo \(Ao Vivo\)](https://open.spotify.com/album/5YlMGMSqYNqlB9n5Rcuxjs) | 2:26 |
+| 48 | [Sofrendo um Bocado](https://open.spotify.com/track/6z0pA7HmBoB4w6cdoqQi78) | [Jessica Lima](https://open.spotify.com/artist/5UUKr7L64HJycinKoaKeoj) | [Sofrendo um Bocado](https://open.spotify.com/album/51L5ZbpSWf3Y5wNNuTkGhJ) | 2:45 |
 | 49 | [Eu Não](https://open.spotify.com/track/4LoEqYbhvAsOihCKJBfEP0) | [Mariana Fagundes](https://open.spotify.com/artist/63yBOaK3N1kG2g1M5ZxBox) | [Ah!Mar \(Ao Vivo\)](https://open.spotify.com/album/7JGn88yc2fflE6GkpNhwVb) | 3:30 |
 | 50 | [A de Casa Ou a da Rua \- Ao Vivo](https://open.spotify.com/track/4V5HNwTzePi26vyjZ3qAzO) | [May & Karen](https://open.spotify.com/artist/2yAseb2cBbgnMELX4d3xUe) | [Fragmentos \(ao Vivo\)](https://open.spotify.com/album/149AnX7PBt7XElzv4UMQFp) | 2:49 |
 
-Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGFjNDBhMDU0ZjM0NzI2MGQwOTU0ZjBiZGMwMjI4YTQ2`
+Snapshot ID: `MTY1OTQ5NTYwMCwwMDAwMDAwMGZmNjk1ZTc0YzIwODE4ZjFiOTQzY2NjMzQwMWU1N2Qx`

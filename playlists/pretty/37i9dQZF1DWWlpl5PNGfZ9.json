@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol en la d\u00e9cada de los 90.",
-  "num_followers": 69291,
+  "num_followers": 69688,
   "original_name": "Pop Latino: Los 90",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MDkxNjA5MywwMDAwMDAwMDdhYjBlOGU0Mjc2YjJjYWUzYWQwODY4MWU4MzNjZjM3",
+  "snapshot_id": "MTY1MDkxNjA5MywwMDAwMDAwMDdiZTA2Zjk2ZTRmMGM3ZGE4MDhiOWZjNDk4M2YxNWQ4",
   "tracks": [
     {
       "added_at": "2022-03-29 19:23:51",
@@ -251,18 +251,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+        "name": "Sin Miedo",
+        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
       },
       "artists": [
         {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+      "duration_ms": 242053,
+      "name": "Formas De Amor",
+      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -283,18 +283,18 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Sin Miedo",
-        "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
       "artists": [
         {
-          "name": "Calo",
-          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
         }
       ],
-      "duration_ms": 242053,
-      "name": "Formas De Amor",
-      "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "Tierna La Noche",
-        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
-      },
-      "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        }
-      ],
-      "duration_ms": 281520,
-      "name": "Az\u00facar Amargo",
-      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "Circo Beat",
         "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 222346,
       "name": "Mariposa tecknicolor",
       "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "Tierna La Noche",
+        "url": "https://open.spotify.com/album/6okRyANFqFxUmxBcGwRp9Y"
+      },
+      "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        }
+      ],
+      "duration_ms": 281520,
+      "name": "Az\u00facar Amargo",
+      "url": "https://open.spotify.com/track/4Gf68vwxa69hCiXmJ1jvgj"
     },
     {
       "added_at": "2022-03-29 19:23:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-29 19:23:51",
       "album": {
-        "name": "La Danza De La Ciudad",
-        "url": "https://open.spotify.com/album/44adPKDzweqAm43dx0zyIf"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3mplices",
-          "url": "https://open.spotify.com/artist/4VIU80QkcrMEdKoiWmnWvr"
-        }
-      ],
-      "duration_ms": 270933,
-      "name": "Es por Ti",
-      "url": "https://open.spotify.com/track/3NP8zp1RvnblXNsYiZrjd9"
-    },
-    {
-      "added_at": "2022-03-29 19:23:51",
-      "album": {
         "name": "El Sapo",
         "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 123960,
       "name": "La Bomba",
       "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2022-03-29 19:23:51",
+      "album": {
+        "name": "La Danza De La Ciudad",
+        "url": "https://open.spotify.com/album/44adPKDzweqAm43dx0zyIf"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3mplices",
+          "url": "https://open.spotify.com/artist/4VIU80QkcrMEdKoiWmnWvr"
+        }
+      ],
+      "duration_ms": 270933,
+      "name": "Es por Ti",
+      "url": "https://open.spotify.com/track/3NP8zp1RvnblXNsYiZrjd9"
     },
     {
       "added_at": "2022-03-29 19:23:51",

@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Nicolle Galyon",
-  "num_followers": 32071,
+  "num_followers": 32129,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGIwMmVlZTM4NDdmMTg1OTg0ZWQzNzBmMDRhNjdlNjcy",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGYwZWExMTk4MTVlMWQyZDJkNGM1OTRiZWZkNTIyN2U1",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cate\u2019s Brother",
-        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 180589,
-      "name": "Cate\u2019s Brother",
-      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "All I Ever Asked",
         "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
@@ -411,18 +395,34 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
+        "name": "Cate\u2019s Brother",
+        "url": "https://open.spotify.com/album/1dj4gSIuS1Zn0dX4TUJp9F"
       },
       "artists": [
         {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
         }
       ],
-      "duration_ms": 141796,
-      "name": "14",
-      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
+      "duration_ms": 180589,
+      "name": "Cate\u2019s Brother",
+      "url": "https://open.spotify.com/track/7uHJpostAYqNJ8nZM1tp78"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "In The Meantime",
+        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 211837,
+      "name": "Best Days",
+      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -443,18 +443,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "In The Meantime",
-        "url": "https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE"
+        "name": "14",
+        "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
       "artists": [
         {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
         }
       ],
-      "duration_ms": 211837,
-      "name": "Best Days",
-      "url": "https://open.spotify.com/track/3z1DnGBH2uhlDekJr0YVzQ"
+      "duration_ms": 141796,
+      "name": "14",
+      "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Give Me The Reason",
-        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 234186,
-      "name": "Give Me The Reason",
-      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Thinking 'Bout Love",
         "url": "https://open.spotify.com/album/1L11rcXButW0xA46an3fRP"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Give Me The Reason",
+        "url": "https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 234186,
+      "name": "Give Me The Reason",
+      "url": "https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Purple Haze",
-        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 205395,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Wildfire",
         "url": "https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 151913,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Purple Haze",
+        "url": "https://open.spotify.com/album/6bGTNWW6F8AMqNhBrGjJgm"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 205395,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/1ZygZX3pyRyGxANo6WrSV0"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Cannibal",
-        "url": "https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome"
+        "name": "Go Easy, Kid",
+        "url": "https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H"
       },
       "artists": [
         {
-          "name": "Marcus Mumford",
-          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
         }
       ],
-      "duration_ms": 240666,
-      "name": "Cannibal",
-      "url": "https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U"
+      "duration_ms": 248181,
+      "name": "Go Easy, Kid",
+      "url": "https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -903,18 +903,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Go Easy, Kid",
-        "url": "https://open.spotify.com/album/59e93fZMly2pvsqUQc1y1H"
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
       },
       "artists": [
         {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 248181,
-      "name": "Go Easy, Kid",
-      "url": "https://open.spotify.com/track/7AeffRBhIZel7deJBbra5D"
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+        "name": "Cannibal",
+        "url": "https://open.spotify.com/album/4yG4NHC6KqlBTiCClOIome"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Marcus Mumford",
+          "url": "https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB"
         }
       ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
+      "duration_ms": 240666,
+      "name": "Cannibal",
+      "url": "https://open.spotify.com/track/4n0dJRuYwfluS0Mr6VIy2U"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Don't Grow Up Too Fast",
-        "url": "https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        }
-      ],
-      "duration_ms": 242931,
-      "name": "Don't Grow Up Too Fast",
-      "url": "https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Hello",
         "url": "https://open.spotify.com/album/6e2JVuCWiGeSK70X9PhPNX"
       },
@@ -1103,18 +1087,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
+        "name": "Don't Grow Up Too Fast",
+        "url": "https://open.spotify.com/album/7CwpEBfMIZ7His4bkV8maE"
       },
       "artists": [
         {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
+      "duration_ms": 242931,
+      "name": "Don't Grow Up Too Fast",
+      "url": "https://open.spotify.com/track/0zQStWTaXhsovcUMcxa3ui"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1143,18 +1127,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Sidelines",
-        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+        "name": "Heard You Got Love",
+        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
       },
       "artists": [
         {
-          "name": "Wild Rivers",
-          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
         }
       ],
-      "duration_ms": 196266,
-      "name": "Long Time",
-      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
+      "duration_ms": 203966,
+      "name": "Head Start",
+      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Sidelines",
+        "url": "https://open.spotify.com/album/4R09OvFyz47HfjecIjoEtP"
+      },
+      "artists": [
+        {
+          "name": "Wild Rivers",
+          "url": "https://open.spotify.com/artist/59sBwR0jPSTrbMtuTkRPN5"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Long Time",
+      "url": "https://open.spotify.com/track/33xLf3oPBqsQVtmnpXQRMj"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "And I'm Still Thinking About That",
+        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
+      },
+      "artists": [
+        {
+          "name": "Ber",
+          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
+        }
+      ],
+      "duration_ms": 162373,
+      "name": "Same Effect",
+      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "APART",
         "url": "https://open.spotify.com/album/6dqcqprGk1KMEwKJ0P3RdZ"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 157184,
       "name": "parasite",
       "url": "https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "And I'm Still Thinking About That",
-        "url": "https://open.spotify.com/album/6Qt31GMG9GnQI9Zjyhq22B"
-      },
-      "artists": [
-        {
-          "name": "Ber",
-          "url": "https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x"
-        }
-      ],
-      "duration_ms": 162373,
-      "name": "Same Effect",
-      "url": "https://open.spotify.com/track/67qQFuqX1hVcWCoGPB5BiU"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1459,18 +1459,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "With The Band / Bruises & Scratches",
-        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
+        "name": "October Sky",
+        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
       },
       "artists": [
         {
-          "name": "Sophie May",
-          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 173070,
-      "name": "With The Band",
-      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
+      "duration_ms": 195065,
+      "name": "October Sky",
+      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "October Sky",
-        "url": "https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0"
-      },
-      "artists": [
-        {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
-        }
-      ],
-      "duration_ms": 195065,
-      "name": "October Sky",
-      "url": "https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Hurt Like That",
         "url": "https://open.spotify.com/album/1YixmyGKRqTOBdBrwb0Xvh"
       },
@@ -1523,34 +1507,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "counting houses",
-        "url": "https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5"
+        "name": "With The Band / Bruises & Scratches",
+        "url": "https://open.spotify.com/album/4xzhwzrYdU5RGOhLTXrZp8"
       },
       "artists": [
         {
-          "name": "Luz",
-          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
+          "name": "Sophie May",
+          "url": "https://open.spotify.com/artist/20je656lhatFVl4EoaNupn"
         }
       ],
-      "duration_ms": 200853,
-      "name": "counting houses",
-      "url": "https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Make Believe",
-        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 220171,
-      "name": "Happier Without Me",
-      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
+      "duration_ms": 173070,
+      "name": "With The Band",
+      "url": "https://open.spotify.com/track/2bY0fCLZ2wzWFqujDEGQKY"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1571,18 +1539,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8"
+        "name": "counting houses",
+        "url": "https://open.spotify.com/album/1BuceFtRvKhtzYfteVYEV5"
       },
       "artists": [
         {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+          "name": "Luz",
+          "url": "https://open.spotify.com/artist/3cdI6SvJ24KsOcvYyBwH9c"
         }
       ],
-      "duration_ms": 223733,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
+      "duration_ms": 200853,
+      "name": "counting houses",
+      "url": "https://open.spotify.com/track/6MFZUAPmeiF9cm8tSspED7"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1603,22 +1571,50 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Everything's Waiting for You",
-        "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/5wb71bMteZAtL4faUGUvP8"
       },
       "artists": [
         {
-          "name": "Lydia Clowes",
-          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
-        },
-        {
-          "name": "Tom Speight",
-          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
         }
       ],
-      "duration_ms": 198093,
-      "name": "Hymn for Her",
-      "url": "https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs"
+      "duration_ms": 223733,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/3WjHQKd61pYJsiVjwqrZft"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Note to Self",
+        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+      },
+      "artists": [
+        {
+          "name": "Bre Kennedy",
+          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+        }
+      ],
+      "duration_ms": 210280,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Make Believe",
+        "url": "https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 220171,
+      "name": "Happier Without Me",
+      "url": "https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1639,18 +1635,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Note to Self",
-        "url": "https://open.spotify.com/album/5rDVO3ROz5CXi1dcr2nWpR"
+        "name": "Everything's Waiting for You",
+        "url": "https://open.spotify.com/album/2v22a5ayFfHDy1Ez7J5cLk"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Lydia Clowes",
+          "url": "https://open.spotify.com/artist/4KNIAGw8aeV4ZgMxzjqkeH"
+        },
+        {
+          "name": "Tom Speight",
+          "url": "https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91"
         }
       ],
-      "duration_ms": 210280,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/6TQXgsHzTIPObUdFzlGjeY"
+      "duration_ms": 198093,
+      "name": "Hymn for Her",
+      "url": "https://open.spotify.com/track/6pGiAaDuRg3VJGE18rmWcs"
     },
     {
       "added_at": "2022-08-12 04:00:00",

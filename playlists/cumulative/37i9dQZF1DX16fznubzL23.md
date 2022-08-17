@@ -4,7 +4,7 @@
 
 > For the pain, tears and heartbreak.
 
-73 songs - 4 hr 12 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
+74 songs - 4 hr 15 min - [published](https://open.spotify.com/playlist/0jW8v03O6T6PWZPdnpYcDn)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [Blue Jeans](https://open.spotify.com/track/2SBbSARJnTMcW6fVkYUd14) | [Kkeda](https://open.spotify.com/artist/0seIm2Vmyh7V7oqRX2uZtC) | [Blue Jeans](https://open.spotify.com/album/06vQ9ZXJ9579UjivbiOSmU) | 3:21 | 2022-03-04 |  |
 | [Boulevard](https://open.spotify.com/track/6khF6tGGrGcsQIfA4LP7P0) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Freestyle EP](https://open.spotify.com/album/77S4lBoIMeZEYvtWBMH5DO) | 1:52 | 2022-02-11 |  |
 | [Breakfast \(Remix\)](https://open.spotify.com/track/3JzwAZrhBQpIhkhOPnGg0F) | [Jaydreamz](https://open.spotify.com/artist/5XWnXTiwleRI0pgiLRxJUW), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Breakfast \(Remix\)](https://open.spotify.com/album/6qSE7SgHNU6Bw1G4pK0qD8) | 2:33 | 2022-07-14 | 2022-07-30 |
-| [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 |  |
+| [Bye Bye](https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3) | [Asem](https://open.spotify.com/artist/4b5hKyZcqBYGfSFhqOMyyZ), [Kwabena Kwabena](https://open.spotify.com/artist/6zKu61RG80pBKOMUbBKNMr) | [Solid Ground](https://open.spotify.com/album/1SwHH5FFGEsoj428xaUU9k) | 5:05 | 2022-02-11 | 2022-08-17 |
 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 | 2022-06-17 |  |
 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 | 2022-02-11 |  |
 | [Don't Be Late](https://open.spotify.com/track/7p8vxY7zwg1qIOMe6B8Buv) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Don't Be Late](https://open.spotify.com/album/5eYjYoa63hjgsjpEINGSaL) | 3:31 | 2022-02-11 | 2022-07-14 |
@@ -43,6 +43,7 @@
 | [Leg Over](https://open.spotify.com/track/51psaXOJAkOUdRQrp2Wjsa) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 3:17 | 2022-02-11 |  |
 | [Letter To My Ex](https://open.spotify.com/track/6VXhEh0Be95AXr0t45z9IL) | [Medikal](https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL) | [Letter To My Ex](https://open.spotify.com/album/4gOVL2qZdBpB6ee7nkPzrN) | 2:34 | 2022-05-27 | 2022-07-29 |
 | [Lie Again](https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Lie Again](https://open.spotify.com/album/11q4Tt1RzwrFzF2Vddc2yO) | 3:07 | 2022-04-28 |  |
+| [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW) | [Karun](https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC), [Blocka Beats](https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm) | [Lie To Me \(Tell Me a Fairy Tale\)](https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4) | 3:18 | 2022-08-12 |  |
 | [Makoma](https://open.spotify.com/track/7eNjCnXceIhUpOSeVd3Yt5) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4) | [R2Bees, Vol\. 2](https://open.spotify.com/album/1lAl19ypJvU4DLwV8xMEYf) | 4:12 | 2022-02-11 | 2022-07-08 |
 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 | 2022-07-22 |  |
 | [Miss U Die](https://open.spotify.com/track/4iGPZPPVnqgMBwKd3wsCYo) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Game Over](https://open.spotify.com/album/4uChaQnoWbwiXeQzbflMJK) | 4:44 | 2022-02-11 | 2022-07-24 |

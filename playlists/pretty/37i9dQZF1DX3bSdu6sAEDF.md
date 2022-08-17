@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,843 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,146 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,26 +15,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 5 | [How Do I Lose You](https://open.spotify.com/track/3WfYixI3jzbnSsWQcpNfiV) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [How Do I Lose You](https://open.spotify.com/album/7zbQTjsJtXUEGBPemTgmiO) | 3:02 |
 | 6 | [Levitating](https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:23 |
 | 7 | [When You're Gone](https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [When You're Gone](https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp) | 2:52 |
-| 8 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
-| 9 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
+| 8 | [Sunshine](https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Sunshine](https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6) | 2:43 |
+| 9 | [Oh My God](https://open.spotify.com/track/3Kkjo3cT83cw09VJyrLNwX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:45 |
 | 10 | [Sacrifice](https://open.spotify.com/track/1nH2PkJL1XoUq8oE6tBZoU) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:08 |
 | 11 | [Overpass Graffiti](https://open.spotify.com/track/4btFHqumCO31GksfuBLLv3) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:56 |
 | 12 | [Smokin Out The Window](https://open.spotify.com/track/3xVZYkcuWalGudeKl861wb) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr) | [An Evening With Silk Sonic](https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk) | 3:17 |
 | 13 | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Cracker Island \(feat\. Thundercat\)](https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD) | 3:33 |
-| 14 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
-| 15 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
+| 14 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 |
+| 15 | [Disaster](https://open.spotify.com/track/3SWGtKHaCFEUqfm9ydUFVw) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 2:33 |
 | 16 | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/track/21AziTMaZwcLflGMAj85o5) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing \(I'm So In Love\)](https://open.spotify.com/album/0krbjj0iriZnWpy1Vi8tUd) | 3:03 |
 | 17 | [Remind Me](https://open.spotify.com/track/6VIYEyjNW71NnIGEduf8D8) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Remind Me](https://open.spotify.com/album/0fL8J5En5o6sd8vSHAbKGt) | 3:31 |
 | 18 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 |
 | 19 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 |
 | 20 | [Higher Power](https://open.spotify.com/track/0939D7aT18uBDS2MTjWzct) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Higher Power](https://open.spotify.com/album/6wiPmk3powmcz3G7zr6krg) | 3:31 |
-| 21 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
-| 22 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
+| 21 | [Stranger](https://open.spotify.com/track/3aUD2nXnCYiGd9V1UhfyRz) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [All 4 Nothing](https://open.spotify.com/album/3edu0vIRVJ6vcK3yagi6oS) | 2:44 |
+| 22 | [23](https://open.spotify.com/track/4PuAqZlL1tkidkuxfDlLbF) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [23](https://open.spotify.com/album/3i5LIueVgxjgCu1TIZOraP) | 2:59 |
 | 23 | [Diamonds](https://open.spotify.com/track/5hvwx5i67IwnCkjl9VHkNv) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Diamonds](https://open.spotify.com/album/2IAyprsfyoPBGDvbLjgsN5) | 3:33 |
 | 24 | [AMAZING](https://open.spotify.com/track/6FtIK0IkmG33lKbc1pyAlZ) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [AMAZING](https://open.spotify.com/album/0iv1vqUOxADWV9vhTlF4Qe) | 3:29 |
-| 25 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
+| 25 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
 | 26 | [Something to Someone](https://open.spotify.com/track/2eWOo3ooHrVezj2pmapV8X) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Something to Someone](https://open.spotify.com/album/5XVJCXSorhPUlf8rTl4iOI) | 3:18 |
-| 27 | [Blonde](https://open.spotify.com/track/6Tmj9k9HeZhP5CdLHcj81h) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [Blonde](https://open.spotify.com/album/4U9tk0sbiMp8PuHY7rsfCI) | 3:01 |
+| 27 | [Clarity](https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Clarity](https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE) | 3:47 |
 | 28 | [dying on the inside](https://open.spotify.com/track/6h1s7cKnUtsbRpE5bwnUTf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [dying on the inside](https://open.spotify.com/album/67sFRrnPbvz9Te28kO6Ktu) | 3:24 |
 | 29 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
 | 30 | [Tacones Rojos \- With John Legend](https://open.spotify.com/track/7pCcX8GklrbASun9rWFh4W) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Tacones Rojos \(With John Legend\)](https://open.spotify.com/album/1iXiHsXgdWAcyTAjSamVzO) | 3:08 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 38 | [Her Body Is Bible](https://open.spotify.com/track/1qMMRXrcyfjbik6Mh1XRDz) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Her Body Is Bible](https://open.spotify.com/album/3JwM5vjiKuLf2HLmcR5o6D) | 2:57 |
 | 39 | [Good Kisser](https://open.spotify.com/track/7BDbyDs5FUmnh955RABFd7) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Free Yourself Up](https://open.spotify.com/album/1eWP4CbLwVsVuC44utXBOD) | 3:38 |
 | 40 | [Catch Me In The Air](https://open.spotify.com/track/6VRfsebyIwzt9otSvcuV87) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Catch Me In The Air](https://open.spotify.com/album/31uMGaqlOlC9QcKG8e7aVq) | 3:35 |
-| 41 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
-| 42 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 |
+| 41 | [Nightfalls](https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Nightfalls](https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC) | 3:40 |
+| 42 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 |
 | 43 | [September](https://open.spotify.com/track/5DTBPQRHrBOnvzIF5XLBPq) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:40 |
-| 44 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 |
-| 45 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 44 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
+| 45 | [Fast Times](https://open.spotify.com/track/0oN3KzKOxYtyIuNiobf8Q4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Fast Times](https://open.spotify.com/album/2rR0wpBcmvYpxQd77BWShd) | 2:54 |
 | 46 | [Witchoo](https://open.spotify.com/track/6W9rbkBueZQrwuzO24GHZ2) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Private Space](https://open.spotify.com/album/3nZHH9trTO9xrV1XrW18cW) | 3:42 |
 | 47 | [Love Like That](https://open.spotify.com/track/5FkMAjNnp34RGJJj9TTY2A) | [Phillip Phillips](https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4) | [Love Like That](https://open.spotify.com/album/3A6pwCsqEs8t3pe60T8nfi) | 3:14 |
 | 48 | [Hypotheticals](https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd) | [Obviously](https://open.spotify.com/album/2Zi7uv234eNZJfLPGUIkSD) | 3:50 |
 | 49 | [Broke](https://open.spotify.com/track/1JqcZQCnxjDOfZZwQidb1H) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Broke](https://open.spotify.com/album/7EFpevvrKa2TjXTFSaVR1z) | 3:27 |
 | 50 | [Love Like That](https://open.spotify.com/track/12Rypn2Hw7UchkFL0FCa8Y) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [Love Like That](https://open.spotify.com/album/44hBex1hvysza12ZjXBk8s) | 3:34 |
 
-Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMDBhMzY1YTIyNGUxMWEwMGIyMGZiZDdkOGE2MmRhYzc2`
+Snapshot ID: `MTY2MDI3NjkyMCwwMDAwMDAwMGQ1NzEyNDY2ZTYyMTdiYmEzYTY3NDM4Yzc4NWYwYTVh`

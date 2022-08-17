@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-505 songs - 1 day 12 hr 28 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
+506 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -234,7 +234,7 @@
 | [Lay Your Hands On Me](https://open.spotify.com/track/4oNktvBDV8PNZqZh6MgwZ3) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [New Jersey \(Deluxe Edition\)](https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR) | 5:58 | 2020-12-08 | 2022-07-26 |
 | [Legs \- 2008 Remaster](https://open.spotify.com/track/7t6CAWplijBj4sdl0q3z0e) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:33 | 2020-12-08 |  |
 | [Let It Go](https://open.spotify.com/track/1aR6W01r094onPc4O2avEp) | [Def Leppard](https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ) | [High 'N' Dry](https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr) | 4:43 | 2020-12-08 |  |
-| [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2020-12-08 |  |
+| [Let Love Rule](https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [Let Love Rule](https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb) | 5:42 | 2020-12-08 | 2022-08-17 |
 | [Let's Go](https://open.spotify.com/track/43G3McVkRa8V7oGQzfQuRr) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Candy\-O](https://open.spotify.com/album/4UFgeduzEZegQE74xUwI6J) | 3:33 | 2022-03-28 |  |
 | [Life Is Real \(Song For Lennon\) \- Remastered 2011](https://open.spotify.com/track/6xYHezItSIXOpxMvrVRJTb) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Hot Space \(2011 Remaster\)](https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1) | 3:31 | 2020-12-08 | 2022-06-13 |
 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 | 2020-12-08 |  |
@@ -300,6 +300,7 @@
 | [One Tree Hill \- Remastered 2007](https://open.spotify.com/track/7JFMf61pdg8H8NEMgxdHYx) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree](https://open.spotify.com/album/5vBZRYu2GLA65nfxBvG1a7) | 5:22 | 2020-12-08 | 2022-07-28 |
 | [One World](https://open.spotify.com/track/0JuUUYTAmBOVCkMni6keT8) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Brothers In Arms](https://open.spotify.com/album/15J400U0rEpgE64UQgtvLs) | 3:38 | 2020-12-08 | 2022-05-25 |
 | [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/1BZMMt9H0TheQGWQy44KmO) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [All Four One \(Remastered 1999\)](https://open.spotify.com/album/1HRjCO61kfHWX3Atps1lQz) | 3:16 | 2022-03-28 | 2022-07-19 |
+| [Only The Lonely \- Remastered 1999](https://open.spotify.com/track/7v3dSsVMPy7jd4hcx6sKb0) | [The Motels](https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e) | [80s Alternative](https://open.spotify.com/album/13stlNOpLhjH7ZlEL3LFSf) | 3:16 | 2022-03-28 |  |
 | [Only Time Will Tell](https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6) | [Asia](https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej) | [Asia](https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl) | 4:44 | 2020-12-08 |  |
 | [Open Your Heart](https://open.spotify.com/track/4cPE441DlsfXRh57rl1PAX) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [Wings Of Tomorrow](https://open.spotify.com/album/0xvqPhWUfdiLly1cdR4WVx) | 4:06 | 2020-12-08 |  |
 | [Out Of Control \- Remastered 2008](https://open.spotify.com/track/7dni8dPFeedwSTX8hqcC3s) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Boy \(Deluxe Edition Remastered\)](https://open.spotify.com/album/4YCjEFs1aDmcilTMbqMwjY) | 4:14 | 2020-12-08 | 2022-07-28 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Foto: Mr. Pig",
-  "num_followers": 51117,
+  "num_followers": 51144,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2NjA4MSwwMDAwMDAwMDA1MTlkMzk3ZmQwNzI2NGVhNmJmZmRlMmRmMjA1Yjcw",
+  "snapshot_id": "MTY1OTQ2NjA4MSwwMDAwMDAwMDFkMTYwZmQzZmQwMTRlMzQ4ODdmMmMzY2FlNWFmZTM1",
   "tracks": [
     {
       "added_at": "2022-08-02 18:48:01",
@@ -183,8 +183,8 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Tequila",
-        "url": "https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC"
+        "name": "Winter",
+        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
       },
       "artists": [
         {
@@ -192,17 +192,13 @@
           "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "Jetlag Music",
-          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
-        },
-        {
-          "name": "Lazy Bear",
-          "url": "https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9"
+          "name": "Flakk\u00eb",
+          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
         }
       ],
-      "duration_ms": 139724,
-      "name": "Tequila",
-      "url": "https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv"
+      "duration_ms": 144500,
+      "name": "Winter",
+      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -287,8 +283,8 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Winter",
-        "url": "https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS"
+        "name": "Tequila",
+        "url": "https://open.spotify.com/album/35OTsIUefbbQqnWq6j8jMC"
       },
       "artists": [
         {
@@ -296,13 +292,17 @@
           "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         },
         {
-          "name": "Flakk\u00eb",
-          "url": "https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1"
+          "name": "Jetlag Music",
+          "url": "https://open.spotify.com/artist/29bg2tYJCCyiuZdbsc9mFh"
+        },
+        {
+          "name": "Lazy Bear",
+          "url": "https://open.spotify.com/artist/3DUHqp1EQvqsbodW3qKDH9"
         }
       ],
-      "duration_ms": 144500,
-      "name": "Winter",
-      "url": "https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r"
+      "duration_ms": 139724,
+      "name": "Tequila",
+      "url": "https://open.spotify.com/track/08r8gksAHDMsrqnmLTmZgv"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -771,26 +771,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Cucu",
-        "url": "https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd"
-      },
-      "artists": [
-        {
-          "name": "Flyboiz",
-          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
-        },
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 185628,
-      "name": "Cucu",
-      "url": "https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Tribu Latina",
         "url": "https://open.spotify.com/album/0vzt5WFJsjVw5hCZLojiK9"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 202500,
       "name": "Tribu Latina",
       "url": "https://open.spotify.com/track/3d3XJIOhedhrt6UbU0KwQf"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Cucu",
+        "url": "https://open.spotify.com/album/2nVcDPVHyNZpcVKDyTlMWd"
+      },
+      "artists": [
+        {
+          "name": "Flyboiz",
+          "url": "https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V"
+        },
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 185628,
+      "name": "Cucu",
+      "url": "https://open.spotify.com/track/4XGUihmiNJAH22UusW4KZU"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -915,30 +915,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "La Casa",
-        "url": "https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe"
-      },
-      "artists": [
-        {
-          "name": "Chile",
-          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
-        },
-        {
-          "name": "MichaelBM",
-          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
-        },
-        {
-          "name": "House Music Bro",
-          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
-        }
-      ],
-      "duration_ms": 163902,
-      "name": "La Casa",
-      "url": "https://open.spotify.com/track/4lJRxIW4WKjowKQloinr2C"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5HUCcH55uPddv4Xcr2adgy"
       },
@@ -959,6 +935,30 @@
       "duration_ms": 180310,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/6oHxCvvCqCrejzEQV2KKFt"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "La Casa",
+        "url": "https://open.spotify.com/album/1nOAKE07lAwQoVaHIVhgSe"
+      },
+      "artists": [
+        {
+          "name": "Chile",
+          "url": "https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "House Music Bro",
+          "url": "https://open.spotify.com/artist/6CK6I6I7fKtcThateyQpVY"
+        }
+      ],
+      "duration_ms": 163902,
+      "name": "La Casa",
+      "url": "https://open.spotify.com/track/4lJRxIW4WKjowKQloinr2C"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1087,26 +1087,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
-        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
-      },
-      "artists": [
-        {
-          "name": "ANG",
-          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
-        },
-        {
-          "name": "Kazhi",
-          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
-        }
-      ],
-      "duration_ms": 173243,
-      "name": "We Don't Care",
-      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Malas Decisiones",
         "url": "https://open.spotify.com/album/0fnwX7FDf0nnur7JXvAQJ2"
       },
@@ -1147,6 +1127,26 @@
       "duration_ms": 149250,
       "name": "Quem\u00e1",
       "url": "https://open.spotify.com/track/0jyHpmD0quGHjILUqMftHa"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "We Don\u2019t Care (Incl. SaberZ Remix)",
+        "url": "https://open.spotify.com/album/5qKNGI7G6cWffK3ze90yai"
+      },
+      "artists": [
+        {
+          "name": "ANG",
+          "url": "https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl"
+        },
+        {
+          "name": "Kazhi",
+          "url": "https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj"
+        }
+      ],
+      "duration_ms": 173243,
+      "name": "We Don't Care",
+      "url": "https://open.spotify.com/track/382ySBv00owmZOwA8xreBY"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1263,6 +1263,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Weekend",
+        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
+      },
+      "artists": [
+        {
+          "name": "Juan Soto",
+          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
+        },
+        {
+          "name": "Lemon Mint",
+          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
+        }
+      ],
+      "duration_ms": 252579,
+      "name": "Weekend",
+      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/3sXt7lzsm7c0nJFb7huHjl"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 181935,
       "name": "Fire",
       "url": "https://open.spotify.com/track/6cQ652KB26bjWHt2OZkB5Z"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Weekend",
-        "url": "https://open.spotify.com/album/7FtdIOpU66SkktCMbhraB7"
-      },
-      "artists": [
-        {
-          "name": "Juan Soto",
-          "url": "https://open.spotify.com/artist/1q3j8nVNGJIUXQ0VOnjNIN"
-        },
-        {
-          "name": "Lemon Mint",
-          "url": "https://open.spotify.com/artist/1KFJARNcYZKtD9FxX7QbR0"
-        }
-      ],
-      "duration_ms": 252579,
-      "name": "Weekend",
-      "url": "https://open.spotify.com/track/536cXZkxCVury8e0oEMaHW"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1363,34 +1363,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Time (feat. Alexia Langis)",
-        "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
-      },
-      "artists": [
-        {
-          "name": "Alfred Beck",
-          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
-        },
-        {
-          "name": "Tadeo Fernandez",
-          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
-        },
-        {
-          "name": "Riallo",
-          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
-        },
-        {
-          "name": "Alexia Langis",
-          "url": "https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Time (feat. Alexia Langis)",
-      "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Desconocidos",
         "url": "https://open.spotify.com/album/0f26pWyvXwc0gP6qdBRjWD"
       },
@@ -1443,6 +1415,34 @@
       "duration_ms": 170666,
       "name": "La Rosa del Penal (Llamar)",
       "url": "https://open.spotify.com/track/0MyOKtPKUEgvMz7SHHwf45"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Time (feat. Alexia Langis)",
+        "url": "https://open.spotify.com/album/4SElNkH0p7XWGmRZSNoDsi"
+      },
+      "artists": [
+        {
+          "name": "Alfred Beck",
+          "url": "https://open.spotify.com/artist/46TMyYBWbwHsSCYedrHv93"
+        },
+        {
+          "name": "Tadeo Fernandez",
+          "url": "https://open.spotify.com/artist/1I1aQjuoAOBT8eW2FYQtQS"
+        },
+        {
+          "name": "Riallo",
+          "url": "https://open.spotify.com/artist/3IMw3PZVhu5PUkT6p3jW5u"
+        },
+        {
+          "name": "Alexia Langis",
+          "url": "https://open.spotify.com/artist/1KnmhAncqCZIhgi2vD9x5x"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Time (feat. Alexia Langis)",
+      "url": "https://open.spotify.com/track/3aw25wFUuAAB8rxheGg09G"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Masala",
-        "url": "https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp"
-      },
-      "artists": [
-        {
-          "name": "Nitro Fun",
-          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Masala",
-      "url": "https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Don't Let Me Go",
         "url": "https://open.spotify.com/album/1MrQws4rtOnCjgjaXYavzr"
       },
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "Masala",
+        "url": "https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp"
+      },
+      "artists": [
+        {
+          "name": "Nitro Fun",
+          "url": "https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Masala",
+      "url": "https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Legoo",
         "url": "https://open.spotify.com/album/5cB9R964vdhuoQRDrI1nlS"
       },
@@ -1551,6 +1551,22 @@
       "duration_ms": 148571,
       "name": "Legoo",
       "url": "https://open.spotify.com/track/4VPvvQCuMKYPd8teOLKZji"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "What U Doin' to Me",
+        "url": "https://open.spotify.com/album/7HZU9hI33awnsFZskDHq1b"
+      },
+      "artists": [
+        {
+          "name": "KAMARENA",
+          "url": "https://open.spotify.com/artist/6uRCKdYMMKbavHMM1n0eXI"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "What U Doin' to Me",
+      "url": "https://open.spotify.com/track/6rEoHcPe7BMsy3icZzTEcK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1595,22 +1611,6 @@
       "duration_ms": 166611,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "What U Doin' to Me",
-        "url": "https://open.spotify.com/album/7HZU9hI33awnsFZskDHq1b"
-      },
-      "artists": [
-        {
-          "name": "KAMARENA",
-          "url": "https://open.spotify.com/artist/6uRCKdYMMKbavHMM1n0eXI"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "What U Doin' to Me",
-      "url": "https://open.spotify.com/track/6rEoHcPe7BMsy3icZzTEcK"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
+        "name": "West",
+        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
+      },
+      "artists": [
+        {
+          "name": "Lujavo",
+          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
+        },
+        {
+          "name": "SIAS",
+          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "West",
+      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
         "name": "Clap Your Hands For Love",
         "url": "https://open.spotify.com/album/5NTWWtbJgtRkQdPBbqMYu7"
       },
@@ -1711,26 +1731,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "West",
-        "url": "https://open.spotify.com/album/4f95eRxwK1AusFsJfadaqp"
-      },
-      "artists": [
-        {
-          "name": "Lujavo",
-          "url": "https://open.spotify.com/artist/5QCGlnijOcNxsXXNzZkcWL"
-        },
-        {
-          "name": "SIAS",
-          "url": "https://open.spotify.com/artist/6krsiTtc4T9aJEkwT3lyP5"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "West",
-      "url": "https://open.spotify.com/track/4iDacLHy981JKWDFOKZRjJ"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Harina",
         "url": "https://open.spotify.com/album/0lMLKpkowUzYba7EepibWG"
       },
@@ -1763,26 +1763,22 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm"
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
       },
       "artists": [
         {
-          "name": "VINIIUM",
-          "url": "https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "Cuish",
-          "url": "https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e"
-        },
-        {
-          "name": "J R",
-          "url": "https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn"
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M"
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1811,22 +1807,26 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/30vmI1DiwumAQksOw5OqMm"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "VINIIUM",
+          "url": "https://open.spotify.com/artist/01wEzy3mqT1ofEGTAz0Li8"
         },
         {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+          "name": "Cuish",
+          "url": "https://open.spotify.com/artist/61RmCUTCpJE6fDpVAerv0e"
+        },
+        {
+          "name": "J R",
+          "url": "https://open.spotify.com/artist/5MYXFUnXVLXnZQakGP9yQn"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
+      "duration_ms": 168960,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/63qjpIJeOAK2EW5IEFBv6M"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1851,26 +1851,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "El Santito",
-        "url": "https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        },
-        {
-          "name": "Dmitri Saidi",
-          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
-        }
-      ],
-      "duration_ms": 222844,
-      "name": "El Santito",
-      "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Space",
         "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
@@ -1887,6 +1867,42 @@
       "duration_ms": 178909,
       "name": "Space",
       "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Highway",
+        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
+      },
+      "artists": [
+        {
+          "name": "Andre VII",
+          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
+        }
+      ],
+      "duration_ms": 369828,
+      "name": "Highway - Original Mix",
+      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "El Santito",
+        "url": "https://open.spotify.com/album/5nZ6ZTp4KeOq9EYlV4n2SZ"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Dmitri Saidi",
+          "url": "https://open.spotify.com/artist/5rATH049aVcH3W1RIoiU1g"
+        }
+      ],
+      "duration_ms": 222844,
+      "name": "El Santito",
+      "url": "https://open.spotify.com/track/5fau5l1O4BhhJlho8S7UdC"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1923,22 +1939,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "Highway",
-        "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
-      },
-      "artists": [
-        {
-          "name": "Andre VII",
-          "url": "https://open.spotify.com/artist/6ydoTVyJn4VEKeRUeTtjFq"
-        }
-      ],
-      "duration_ms": 369828,
-      "name": "Highway - Original Mix",
-      "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/0g0qRFGKy3XoZ3B0xCa1Zi"
       },
@@ -1955,6 +1955,22 @@
       "duration_ms": 144375,
       "name": "Angel",
       "url": "https://open.spotify.com/track/15zIyFyJLwcoxxFYU2fT3I"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "cielo",
+        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 274716,
+      "name": "cielo",
+      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
     },
     {
       "added_at": "2022-08-02 18:48:01",
@@ -1979,38 +1995,6 @@
     {
       "added_at": "2022-08-02 18:48:01",
       "album": {
-        "name": "cielo",
-        "url": "https://open.spotify.com/album/1afFi1Z66mROoFltGIkHj3"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 274716,
-      "name": "cielo",
-      "url": "https://open.spotify.com/track/5vgp6EADwZ1gxHn2La8J0V"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
-        "name": "Panda",
-        "url": "https://open.spotify.com/album/0WTcHPgqhJrd5WsyknBepl"
-      },
-      "artists": [
-        {
-          "name": "Ivan Dola",
-          "url": "https://open.spotify.com/artist/0qjUt7xh6qxdB8bUAwPBsb"
-        }
-      ],
-      "duration_ms": 200017,
-      "name": "Panda",
-      "url": "https://open.spotify.com/track/5fO5BPkXwoANEc7jJX9oIk"
-    },
-    {
-      "added_at": "2022-08-02 18:48:01",
-      "album": {
         "name": "Agua Pa Beber",
         "url": "https://open.spotify.com/album/6xmZZ3niPLafjUzz325C4p"
       },
@@ -2031,6 +2015,26 @@
       "duration_ms": 150966,
       "name": "Agua Pa Beber",
       "url": "https://open.spotify.com/track/5z79VM02PH6tC9iOJfKUmh"
+    },
+    {
+      "added_at": "2022-08-02 18:48:01",
+      "album": {
+        "name": "Filosof\u00eda",
+        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
+      },
+      "artists": [
+        {
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Johan",
+          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
+        }
+      ],
+      "duration_ms": 180918,
+      "name": "Filosof\u00eda",
+      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     }
   ],
   "unique_name": "mint MX",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,092 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,135 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 32 | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/track/0Muqa8sNqVvjEQo4yfBKXw) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Thinking of You \(Spotify Singles\)](https://open.spotify.com/album/4TOyAu2CWO1kPitP0AxAZV) | 4:32 |
 | 33 | [Shot in the Dark](https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:09 |
 | 34 | [Shake It Out](https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:37 |
-| 35 | [Broke Boy](https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy \(Stripped\)](https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe) | 2:53 |
-| 36 | [Subside](https://open.spotify.com/track/3peNITOhEMw0roXqF6yFMx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:08 |
+| 35 | [Subside](https://open.spotify.com/track/3peNITOhEMw0roXqF6yFMx) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/0IBIPDGBV3UdrwVjDTU8oE) | 3:08 |
+| 36 | [Broke Boy](https://open.spotify.com/track/7IFFuUYZTa5CUNz099dUqB) | [Malia Civetz](https://open.spotify.com/artist/7yVXoYjAE7rrkQ28aGBgUo) | [Broke Boy \(Stripped\)](https://open.spotify.com/album/2ucYRTvbEdi5ThvEZ4kUBe) | 2:53 |
 | 37 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
 | 38 | [Rotterdam \(Or Anywhere\)](https://open.spotify.com/track/7BZLNqU7zChzcnSo6ETJ5l) | [The Beautiful South](https://open.spotify.com/artist/4fomCZiFUMX73KJ0YQ0V90) | [Blue Is The Colour](https://open.spotify.com/album/14CFxfus4QKYtVW8oQkbp2) | 3:35 |
 | 39 | [Feet Don't Fail Me Now](https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [Feet Don't Fail Me Now](https://open.spotify.com/album/4AsNUFCul8wrgyUbvBJeQZ) | 3:18 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 44 | [Stop This Flame](https://open.spotify.com/track/1bObrsJGW0UCIGZkvnDqbe) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Stop This Flame](https://open.spotify.com/album/2dgxfbASZ7HDFEGFRNwbTr) | 3:29 |
 | 45 | [Love \(Sweet Love\)](https://open.spotify.com/track/6Y9Sk7mKkNndGQBIwQ52Il) | [Little Mix](https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp) | [Between Us \(The Mixers Edition\)](https://open.spotify.com/album/4pkTcvV4pTt3xDkdG4rcpz) | 3:40 |
 | 46 | [Learn To Fly](https://open.spotify.com/track/518miTxc3a15X7HB8FgJUW) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Learn To Fly \(with Elton John\)](https://open.spotify.com/album/0smKCfZ1XlApoqIg3AG3Dc) | 3:29 |
-| 47 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
+| 47 | [Black Qualls](https://open.spotify.com/track/7qaQK6Eatz1KQFs1VZx2YR) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:09 |
 | 48 | [When You Were Mine](https://open.spotify.com/track/05NwKm5My3fS780CUUDJFy) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS) | [When You Were Mine](https://open.spotify.com/album/7nI3v7qE8bJ3MP8K0vRDlk) | 3:23 |
-| 49 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 |
-| 50 | [Black Qualls](https://open.spotify.com/track/7qaQK6Eatz1KQFs1VZx2YR) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Steve Arrington](https://open.spotify.com/artist/030gEPJwNJnBcyra7CB9vM), [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [It Is What It Is](https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9) | 3:09 |
+| 49 | [Five More Minutes](https://open.spotify.com/track/0WxSQtLMCLcsAOhliamv5W) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [XV](https://open.spotify.com/album/0i96PtPJV65ddxsfMfo45F) | 2:30 |
+| 50 | [honey](https://open.spotify.com/track/3MMLO6TUL07tze9IXud0Vc) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [honey](https://open.spotify.com/album/2cohgImotWDHJ3P1ZuVDpw) | 4:14 |
 | 51 | [54\-46 Was My Number](https://open.spotify.com/track/1q8gelFgFYUwoWpQV7WNCe) | [Toots & The Maytals](https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK) | [In The Dark](https://open.spotify.com/album/6FuHnw9KkeYH6TSJaNOlto) | 3:24 |
 | 52 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 53 | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/track/1FtIOsS879PVgtHKw3C6Vs) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [This City Remix \(feat\. Anne\-Marie\)](https://open.spotify.com/album/1CaqKGLTbEJzGTikKtoQi6) | 3:17 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 59 | [Thank You](https://open.spotify.com/track/1i9bL3Pm3Hzc3ILU3pfosw) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Thank You](https://open.spotify.com/album/013NKUxXOA4AAnWic9kYtE) | 3:45 |
 | 60 | [\(Lover\) You Don't Treat Me No Good](https://open.spotify.com/track/1wdQiMzfdRiufsCKWH2anl) | [D\. Pritzker](https://open.spotify.com/artist/7hSWOsjh4uFNAS6c3gcm25), [Sonia Dada](https://open.spotify.com/artist/1aTjB39eq6n3HcA8MbGpGp) | [Sonia Dada](https://open.spotify.com/album/5pvGQ3nohEcX2yJ1hAyX7u) | 4:07 |
 
-Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMGE5MGI4ODJkNmFkNTg4ZDg2NzAwNDI2NzVjY2E2MzVm`
+Snapshot ID: `MTY0NDg0NjY4MCwwMDAwMDAwMGI1NzVlMTYxMTZiMzNkZmI5MWUxZTNjY2MzZTQ3MmJi`

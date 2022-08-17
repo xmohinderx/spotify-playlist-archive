@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ace Aura.",
-  "num_followers": 956762,
+  "num_followers": 956860,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMTkxMCwwMDAwMDAwMDcwN2QyNjEyN2RmNzVlNWVlNzBjYWZmOGMwZGJhZjcz",
+  "snapshot_id": "MTY2MDMwMTkxMCwwMDAwMDAwMDZiNTVjYTU4ZWY0Y2RkMTI2YmQxMGY3YzVmZjUyNjg0",
   "tracks": [
     {
       "added_at": "2022-08-12 10:58:30",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Laserbeam",
-        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Laserbeam",
-      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Color Of Your Soul",
         "url": "https://open.spotify.com/album/0WKsuKxJZYxAf0sUeNCUZd"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 202285,
       "name": "Color Of Your Soul",
       "url": "https://open.spotify.com/track/71LZ7lwCisTG3H9UXKraTe"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Laserbeam",
+        "url": "https://open.spotify.com/album/1I9gPFhrAN6kUeKPpFNU6a"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Laserbeam",
+      "url": "https://open.spotify.com/track/30MdAjBfVTvBCS3vID38At"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -555,6 +555,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Silent",
+        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
+      },
+      "artists": [
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        }
+      ],
+      "duration_ms": 190498,
+      "name": "Silent",
+      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
       },
@@ -575,22 +591,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Silent",
-        "url": "https://open.spotify.com/album/2crRb5Zqd38VCkh4kiadvs"
-      },
-      "artists": [
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        }
-      ],
-      "duration_ms": 190498,
-      "name": "Silent",
-      "url": "https://open.spotify.com/track/5MvvEKnfgMVLLBkzsgStpD"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -607,22 +607,6 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Feel No Pain",
-        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Feel No Pain",
-      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -655,6 +639,26 @@
       "duration_ms": 168073,
       "name": "Deja Reve",
       "url": "https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Griztronics II (Another Level)",
+        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        },
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Griztronics II (Another Level)",
+      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -695,6 +699,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "The One",
+        "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "KLAXX",
+          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "The One",
+      "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Cheatcode",
         "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
       },
@@ -719,50 +743,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "The One",
-        "url": "https://open.spotify.com/album/3PWkN6LXpJ5Q3f8BCVzP8k"
+        "name": "Feel No Pain",
+        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
       },
       "artists": [
         {
-          "name": "NGHTMRE",
-          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
-        },
-        {
-          "name": "KLAXX",
-          "url": "https://open.spotify.com/artist/1sg1SPREm84p1TlfjABfnp"
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
         }
       ],
-      "duration_ms": 186400,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/7yf3dIN6aqqHmi82ftMIRU"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ"
-      },
-      "artists": [
-        {
-          "name": "Skrillex",
-          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
-        },
-        {
-          "name": "Noisia",
-          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
-        },
-        {
-          "name": "Thys",
-          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
-        },
-        {
-          "name": "Sleepnet",
-          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
-        }
-      ],
-      "duration_ms": 321480,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
+      "duration_ms": 169600,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -791,22 +783,30 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Griztronics II (Another Level)",
-        "url": "https://open.spotify.com/album/5X4WpuocAItWP0dtDT5BCw"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/4OoqrSbmdPHjdr3GAKGZaQ"
       },
       "artists": [
         {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+          "name": "Skrillex",
+          "url": "https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX"
         },
         {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+          "name": "Noisia",
+          "url": "https://open.spotify.com/artist/4YWj8sohRDjL9deiuRvEEY"
+        },
+        {
+          "name": "Thys",
+          "url": "https://open.spotify.com/artist/6x8tZ30aFwdl50YjETAppR"
+        },
+        {
+          "name": "Sleepnet",
+          "url": "https://open.spotify.com/artist/2ft7vEW2Liid1yZbmR5bF2"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Griztronics II (Another Level)",
-      "url": "https://open.spotify.com/track/2il9NDpW87Hk2L9AjeDf8r"
+      "duration_ms": 321480,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5dDHmJULJfgacnHLwK68xe"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -859,26 +859,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "BODY SH!T",
-        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
-      },
-      "artists": [
-        {
-          "name": "BLVK JVCK",
-          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
-        },
-        {
-          "name": "A$AP TyY",
-          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
-        }
-      ],
-      "duration_ms": 184049,
-      "name": "BODY SH!T",
-      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
       },
@@ -915,6 +895,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "BODY SH!T",
+        "url": "https://open.spotify.com/album/32LG1HYCXe5uN2FAQZD4sr"
+      },
+      "artists": [
+        {
+          "name": "BLVK JVCK",
+          "url": "https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg"
+        },
+        {
+          "name": "A$AP TyY",
+          "url": "https://open.spotify.com/artist/3XRvpMCFnLf5pF3uiiuLfY"
+        }
+      ],
+      "duration_ms": 184049,
+      "name": "BODY SH!T",
+      "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "All We Needed",
         "url": "https://open.spotify.com/album/3K5Uj6OuNzPPetcRSJhVLt"
       },
@@ -927,6 +927,22 @@
       "duration_ms": 241600,
       "name": "All We Needed",
       "url": "https://open.spotify.com/track/6DfESv6z9PPLo1RhbzlVIb"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 183424,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -947,6 +963,22 @@
       "duration_ms": 174246,
       "name": "Open Your Mind",
       "url": "https://open.spotify.com/track/1ztnDy21iJOc5eH7wvbEeV"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Valley Of Violence",
+        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
+      },
+      "artists": [
+        {
+          "name": "Zomboy",
+          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
+        }
+      ],
+      "duration_ms": 238443,
+      "name": "Valley Of Violence",
+      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -975,38 +1007,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Valley Of Violence",
-        "url": "https://open.spotify.com/album/3fblenkjskYmPpOOAm58My"
-      },
-      "artists": [
-        {
-          "name": "Zomboy",
-          "url": "https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq"
-        }
-      ],
-      "duration_ms": 238443,
-      "name": "Valley Of Violence",
-      "url": "https://open.spotify.com/track/1jz6nNE00KCKqVXCzBr5JW"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/2eRmy99Sn63h90imFr84Be"
-      },
-      "artists": [
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
-        }
-      ],
-      "duration_ms": 183424,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/0NmnFMWMkTETNANGpVVqyc"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "No Limit",
         "url": "https://open.spotify.com/album/1l2gOUOCfG6dQHUjCoopC0"
       },
@@ -1027,6 +1027,26 @@
       "duration_ms": 180800,
       "name": "No Limit",
       "url": "https://open.spotify.com/track/7IVzMMlDsh4W4mIavGdKi0"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "UNIVERSE",
+        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        },
+        {
+          "name": "Courtney Paige Nelson",
+          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+        }
+      ],
+      "duration_ms": 245828,
+      "name": "See You Go",
+      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1091,26 +1111,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
-      },
-      "artists": [
-        {
-          "name": "Dr. Fresch",
-          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
-        },
-        {
-          "name": "Nostalgix",
-          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
-        }
-      ],
-      "duration_ms": 172245,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Desperado",
         "url": "https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6"
       },
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/5NV4VYi9UiVkAfceSgE6sM"
+      },
+      "artists": [
+        {
+          "name": "Dr. Fresch",
+          "url": "https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC"
+        },
+        {
+          "name": "Nostalgix",
+          "url": "https://open.spotify.com/artist/6CarTAUaWnQb6bp7yjP0Zz"
+        }
+      ],
+      "duration_ms": 172245,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/5Y6LspDMKmZsFf6D5zhWoY"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Ur Body",
         "url": "https://open.spotify.com/album/6xUwGauHFII4qhNBAldvQi"
       },
@@ -1163,22 +1183,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "UNIVERSE",
-        "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
+        "name": "fisticuffs (feat. tiLLie)",
+        "url": "https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+          "name": "L\u016aN",
+          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
         },
         {
-          "name": "Courtney Paige Nelson",
-          "url": "https://open.spotify.com/artist/2ZK0XNvxt6Fz2lcXHGl24r"
+          "name": "tiLLie",
+          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
         }
       ],
-      "duration_ms": 245828,
-      "name": "See You Go",
-      "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
+      "duration_ms": 237600,
+      "name": "fisticuffs (feat. tiLLie)",
+      "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1199,26 +1219,6 @@
       "duration_ms": 185824,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/0MP17yUIUmS2bLHPBQTMyT"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "fisticuffs (feat. tiLLie)",
-        "url": "https://open.spotify.com/album/4ZPYNKt6Wl05EKoMLM5Zkd"
-      },
-      "artists": [
-        {
-          "name": "L\u016aN",
-          "url": "https://open.spotify.com/artist/44RV4NtG7667JQNtX6iDZc"
-        },
-        {
-          "name": "tiLLie",
-          "url": "https://open.spotify.com/artist/6toGqzw4iivB9qwDpOAiVN"
-        }
-      ],
-      "duration_ms": 237600,
-      "name": "fisticuffs (feat. tiLLie)",
-      "url": "https://open.spotify.com/track/2e85E7oztd8Mc5Z4iKGXcL"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Welcome to the Club",
         "url": "https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe"
       },
@@ -1379,6 +1395,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "RELOAD",
+        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
+      },
+      "artists": [
+        {
+          "name": "PEEKABOO",
+          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+        },
+        {
+          "name": "Caspa",
+          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "RELOAD",
+      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Fear Of Dying",
         "url": "https://open.spotify.com/album/7BZGJSErmcnCgkARvNA77Q"
       },
@@ -1411,38 +1447,38 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "RELOAD",
-        "url": "https://open.spotify.com/album/2SktoDv6LhxQABh838hDQC"
+        "name": "The Uprising",
+        "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
       },
       "artists": [
         {
-          "name": "PEEKABOO",
-          "url": "https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF"
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
         },
         {
-          "name": "Caspa",
-          "url": "https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6"
+          "name": "Kumarion",
+          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
         }
       ],
-      "duration_ms": 176124,
-      "name": "RELOAD",
-      "url": "https://open.spotify.com/track/7Da0d3oeqFpaPvWOH8eQuZ"
+      "duration_ms": 197735,
+      "name": "The Uprising",
+      "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
     },
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Affliction",
-        "url": "https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs"
+        "name": "Haunted Haus",
+        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
       },
       "artists": [
         {
-          "name": "ZABO",
-          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+          "name": "GHASTLY",
+          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
         }
       ],
-      "duration_ms": 199275,
-      "name": "Affliction",
-      "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
+      "duration_ms": 201931,
+      "name": "Bullet",
+      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1459,6 +1495,22 @@
       "duration_ms": 176761,
       "name": "Eden",
       "url": "https://open.spotify.com/track/44aRKPTVWjWtxCeGaXYKSF"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Affliction",
+        "url": "https://open.spotify.com/album/34lCLMfYsJSwUp2nGU8CWs"
+      },
+      "artists": [
+        {
+          "name": "ZABO",
+          "url": "https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb"
+        }
+      ],
+      "duration_ms": 199275,
+      "name": "Affliction",
+      "url": "https://open.spotify.com/track/5fTaC6VSUxQz0sCbbHwJkY"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1483,38 +1535,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Haunted Haus",
-        "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
+        "name": "\u00c6ON:TWO",
+        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
       },
       "artists": [
         {
-          "name": "GHASTLY",
-          "url": "https://open.spotify.com/artist/2Sa4c9qKaI7ILJs8D6gUCh"
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
         }
       ],
-      "duration_ms": 201931,
-      "name": "Bullet",
-      "url": "https://open.spotify.com/track/2T0GF8mdSC5wyDzv5Z8DXg"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "The Uprising",
-        "url": "https://open.spotify.com/album/6xpb60RTZpstoFxakOAXZ0"
-      },
-      "artists": [
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        },
-        {
-          "name": "Kumarion",
-          "url": "https://open.spotify.com/artist/1mlAkvaCrzWSxS2ATBZh27"
-        }
-      ],
-      "duration_ms": 197735,
-      "name": "The Uprising",
-      "url": "https://open.spotify.com/track/03wsvOuSWSo0HbHFBgY9li"
+      "duration_ms": 198620,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1539,22 +1571,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "\u00c6ON:TWO",
-        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/1sb0N6xaPvu2mX0BLhMnmU"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 283125,
       "name": "Grit",
       "url": "https://open.spotify.com/track/0LvnA5s3ks9pVKnRnEo4dl"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
-      },
-      "artists": [
-        {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Catharsis X",
-        "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
-      },
-      "artists": [
-        {
-          "name": "MUZZ",
-          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
-        },
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 244045,
-      "name": "Catharsis X",
-      "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 187186,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/6asMDae76R5jPI6vQJkwwp"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Catharsis X",
+        "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
+      },
+      "artists": [
+        {
+          "name": "MUZZ",
+          "url": "https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg"
+        },
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 244045,
+      "name": "Catharsis X",
+      "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1763,26 +1763,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Don't Look Back (Moore Kismet Remix)",
-        "url": "https://open.spotify.com/album/58hRScGH70fQ3w5klmi0V2"
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "MOELLE",
-          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
-        },
-        {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         }
       ],
-      "duration_ms": 211937,
-      "name": "Don't Look Back - Moore Kismet Remix",
-      "url": "https://open.spotify.com/track/1O6XwkzcHszwu6knb55tFE"
+      "duration_ms": 177656,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1807,22 +1799,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -1839,6 +1815,30 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Don't Look Back (Moore Kismet Remix)",
+        "url": "https://open.spotify.com/album/58hRScGH70fQ3w5klmi0V2"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "MOELLE",
+          "url": "https://open.spotify.com/artist/11yQZ1YJaQopAkKdRFEL4O"
+        },
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 211937,
+      "name": "Don't Look Back - Moore Kismet Remix",
+      "url": "https://open.spotify.com/track/1O6XwkzcHszwu6knb55tFE"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1863,26 +1863,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Worst Enemy",
-        "url": "https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk"
-      },
-      "artists": [
-        {
-          "name": "Borgeous",
-          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
-        },
-        {
-          "name": "Taylr Renee",
-          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
-        }
-      ],
-      "duration_ms": 157714,
-      "name": "Worst Enemy",
-      "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "La Luz",
         "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 228371,
       "name": "La Luz",
       "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Worst Enemy",
+        "url": "https://open.spotify.com/album/7d5WbnusZ9Gnku3Z92yphk"
+      },
+      "artists": [
+        {
+          "name": "Borgeous",
+          "url": "https://open.spotify.com/artist/4uiMn2g0pgTrhN096QJhbp"
+        },
+        {
+          "name": "Taylr Renee",
+          "url": "https://open.spotify.com/artist/27feHJH3VKyk8FgOndiWU8"
+        }
+      ],
+      "duration_ms": 157714,
+      "name": "Worst Enemy",
+      "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1959,26 +1959,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
-        }
-      ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "High Vaultage EP",
         "url": "https://open.spotify.com/album/3FYAvx8nplQwbciVpHe7y5"
       },
@@ -2019,6 +1999,26 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Stay",
         "url": "https://open.spotify.com/album/0wO2pnmmKaL4gsyGpTMqCY"
       },
@@ -2031,22 +2031,6 @@
       "duration_ms": 152000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2071,22 +2055,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Hollow (with DeathbyRomy)",
-        "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
       },
       "artists": [
         {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "DeathbyRomy",
-          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 198046,
-      "name": "Hollow (with DeathbyRomy)",
-      "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2103,6 +2083,42 @@
       "duration_ms": 215716,
       "name": "AWOL",
       "url": "https://open.spotify.com/track/5IrorJJdoV7SBTJIQdVkmT"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+      },
+      "artists": [
+        {
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+        }
+      ],
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Hollow (with DeathbyRomy)",
+        "url": "https://open.spotify.com/album/1fRAl9cLzdlHptJkaZdbuw"
+      },
+      "artists": [
+        {
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "DeathbyRomy",
+          "url": "https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI"
+        }
+      ],
+      "duration_ms": 198046,
+      "name": "Hollow (with DeathbyRomy)",
+      "url": "https://open.spotify.com/track/7pZJtzfLAFB0NxWzLr3f85"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2127,38 +2143,6 @@
       "duration_ms": 281250,
       "name": "Guilty",
       "url": "https://open.spotify.com/track/1ZxXGPR6WgTuUzvvExUomd"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
-      },
-      "artists": [
-        {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
-        }
-      ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Pathway",
-        "url": "https://open.spotify.com/album/4Zr1oxmfvDWrkyh89fAFFp"
-      },
-      "artists": [
-        {
-          "name": "NIIKO X SWAE",
-          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
-        }
-      ],
-      "duration_ms": 155624,
-      "name": "Pathway",
-      "url": "https://open.spotify.com/track/2CIKnjMIi05CEWlUlyIw4B"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2203,18 +2187,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "RETURN TO NOTHINGNESS",
-        "url": "https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x"
+        "name": "Pathway",
+        "url": "https://open.spotify.com/album/4Zr1oxmfvDWrkyh89fAFFp"
       },
       "artists": [
         {
-          "name": "k?d",
-          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+          "name": "NIIKO X SWAE",
+          "url": "https://open.spotify.com/artist/7ui1kBUIbujvJnIXxDjoWz"
         }
       ],
-      "duration_ms": 220500,
-      "name": "RETURN TO NOTHINGNESS",
-      "url": "https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7"
+      "duration_ms": 155624,
+      "name": "Pathway",
+      "url": "https://open.spotify.com/track/2CIKnjMIi05CEWlUlyIw4B"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2235,6 +2219,22 @@
       "duration_ms": 192900,
       "name": "Away From Myself",
       "url": "https://open.spotify.com/track/1MTHQrIE43p9HnjtC5kBDP"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "RETURN TO NOTHINGNESS",
+        "url": "https://open.spotify.com/album/2BEk18TPlSSo1Jgbkp999x"
+      },
+      "artists": [
+        {
+          "name": "k?d",
+          "url": "https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf"
+        }
+      ],
+      "duration_ms": 220500,
+      "name": "RETURN TO NOTHINGNESS",
+      "url": "https://open.spotify.com/track/2huuvkWXprS1pR4VJ8UuG7"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2311,6 +2311,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Here For You",
+        "url": "https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL"
+      },
+      "artists": [
+        {
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
+        }
+      ],
+      "duration_ms": 221750,
+      "name": "Here For You",
+      "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Tested",
         "url": "https://open.spotify.com/album/7jZfZ6DMT9gVnlTsE9JnIK"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 177272,
       "name": "Tested",
       "url": "https://open.spotify.com/track/4lUqDI7XESYh7A13MulOjz"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Here For You",
-        "url": "https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 221750,
-      "name": "Here For You",
-      "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
     },
     {
       "added_at": "2022-08-12 10:58:30",

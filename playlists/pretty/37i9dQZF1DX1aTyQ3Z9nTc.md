@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 
 > That bouncy, groovy, dancey sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,585 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,685 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 33 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
 | 34 | [Pressure](https://open.spotify.com/track/0MOFpFNTB8immc0cXindTo) | [Bree Runway](https://open.spotify.com/artist/58hqTaCiqGrMsNmmm3qL7w) | [Pressure](https://open.spotify.com/album/6wQtQ94jJW3yq35mQSBPzU) | 2:36 |
 | 35 | [24k](https://open.spotify.com/track/0F2gXzgbzLvK9LrS7yKS8Q) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Last Year Was Weird, Vol\. 2](https://open.spotify.com/album/36nDwdvBHoJMIZn0wzYWrD) | 3:53 |
-| 36 | [Bag](https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 1:52 |
-| 37 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 |
+| 36 | [The Worst In Me](https://open.spotify.com/track/4cOVTA2GfYTHw99AJDQpHo) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:46 |
+| 37 | [Bag](https://open.spotify.com/track/3A4yu3wHxrnAzyD9aUyjhp) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4), [Charlie Curtis\-Beard](https://open.spotify.com/artist/3PnZvNZGx7AuTLLeKhGTXb) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 1:52 |
 | 38 | [Wake Up, Get Down](https://open.spotify.com/track/1gEB5InUzgNLHPv8H34v54) | [Cupidon](https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl), [Ric Wilson](https://open.spotify.com/artist/34zbMuAgXxsgqnGXSxWvCR) | [Wake Up, Get Down](https://open.spotify.com/album/5GHIjfV0FiuXa2cvqovHg6) | 4:19 |
 | 39 | [BOMBAY](https://open.spotify.com/track/6rQYdEoWTZZBqCJexRei11) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:06 |
 | 40 | [No Chill](https://open.spotify.com/track/6J1qFWHFbmMgz0A6o10Xaq) | [Duckwrth](https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9) | [SG8\*](https://open.spotify.com/album/2vwmN3BESDjpuUWloIjM1S) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aTyQ3Z9nTc.md) - [plain]
 | 49 | [Miss The Days](https://open.spotify.com/track/4TdBkfjotcNZWAGI2xgxh9) | [SBTRKT](https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI) | [Miss The Days](https://open.spotify.com/album/4hQ3sSnNbckz5zIkOMEQ3J) | 3:40 |
 | 50 | [HMU for a Good Time](https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [333 \(Deluxe\)](https://open.spotify.com/album/1mxG8YY9wY5Q3mLcDs2khW) | 4:07 |
 
-Snapshot ID: `MTY2MDI3Nzc5MCwwMDAwMDAwMDc0MmI2Mjk4ZmIxMjJjZGE3Mjc5MWYxNDUwM2RkNGI4`
+Snapshot ID: `MTY2MDI3Nzc5MCwwMDAwMDAwMGNhNTdmYzc0NTk5NWE4OTg1MTAwNGU5ODg3MDE1YjU4`

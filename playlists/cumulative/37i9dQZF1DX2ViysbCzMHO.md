@@ -4,7 +4,7 @@
 
 > Acoustic country songs from the heart of Nashville \- stripped down to the basics.
 
-185 songs - 10 hr 14 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
+186 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/4Z4CwXpklCxiou1hH4tneE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [Love Makes You Blind \- Acoustic Version](https://open.spotify.com/track/2tZxQEeCnDbFfRrquFa6il) | [Kaylee Rose](https://open.spotify.com/artist/0TKoBOWNrYm3FRIHvd1VfH) | [Love Makes You Blind \(Acoustic Version\)](https://open.spotify.com/album/528xcQWw4mL4gYTvHBBNwo) | 2:40 | 2022-02-18 |  |
 | [Loved Me That Way \(stripped\)](https://open.spotify.com/track/3vun63TsuIR6XBEqkuUaoL) | [Lauren Duski](https://open.spotify.com/artist/65Soberz2DNvbx2hrxHcx5) | [Loved Me That Way \(stripped\)](https://open.spotify.com/album/3fxgcZrlq630IxBTSacg7o) | 3:42 | 2021-12-17 |  |
 | [Made For You](https://open.spotify.com/track/7vF3xkCMvZjAe2nTWY0uQZ) | [Jake Owen](https://open.spotify.com/artist/1n2pb9Tsfe4SwAjmUac6YT) | [Greetings From...Jake](https://open.spotify.com/album/6DcjgwmNJdsl2BODdwPOH6) | 3:58 | 2021-12-17 | 2022-01-08 |
+| [Magic \- Acoustic Live In Studio](https://open.spotify.com/track/0otRit89LPUUlSOzlxVYyZ) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7) | [Magic \(Acoustic Live In Studio\)](https://open.spotify.com/album/7jxeRus7q2xwuLCaDEWUAf) | 3:00 | 2022-08-12 |  |
 | [Memorize You \- Acoustic](https://open.spotify.com/track/3iQRMV1RML1TBMioordUI5) | [Laine Hardy](https://open.spotify.com/artist/2e4sMCgdXD5TkFquoTEA4j) | [Memorize You \(Acoustic\)](https://open.spotify.com/album/27n9Nh4PEeY6Wwf1mvl8JL) | 3:16 | 2021-12-17 | 2022-08-13 |
 | [Mood \(Casual Sessions\)](https://open.spotify.com/track/52H1bXbps0XxpqDGqvtMRS) | [Erin Grand](https://open.spotify.com/artist/44fvtK228KC7YlIWVAsXS2) | [Mood \(Casual Sessions\)](https://open.spotify.com/album/3EyViIpqLAjrGbxl8cbwsh) | 3:29 | 2022-04-01 | 2022-07-12 |
 | [More Hearts Than Mine](https://open.spotify.com/track/0LcspVKJxhEQQSvVMiTPWz) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [More Hearts Than Mine](https://open.spotify.com/album/4VMYwWFqX9vUv9otWLRRF5) | 3:34 | 2022-07-08 | 2022-07-29 |
@@ -137,7 +138,7 @@
 | [Slower \(Acoustic\)](https://open.spotify.com/track/7sNR6KGuw8OXs6nNeiHxjq) | [Filmore](https://open.spotify.com/artist/0FvJm0y2eHw0aPkLLU3sIG) | [Slower \(Acoustic\)](https://open.spotify.com/album/2dp3XAdUdbzZ39jyfeLn8n) | 2:50 | 2021-12-17 | 2022-06-04 |
 | [Small Town Hypocrite](https://open.spotify.com/track/7nalrYWirmbMdeNsVm2Jt8) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Small Town Hypocrite](https://open.spotify.com/album/3UEjkow9opNr1y1vk63XrZ) | 4:02 | 2022-07-08 |  |
 | [Sober & Skinny](https://open.spotify.com/track/4HQesVjCWOSKvzqirkvuP9) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Sober & Skinny](https://open.spotify.com/album/59FsWHitAiywqK2AFSqci0) | 3:18 | 2021-12-17 |  |
-| [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 | 2021-12-17 |  |
+| [Some Girls \- Acoustic](https://open.spotify.com/track/6C2d77cnFFiVPUTsjbJ5t2) | [Jameson Rodgers](https://open.spotify.com/artist/5pyVHz7lcfqKoV9BflFYwN) | [Some Girls \(Acoustic\)](https://open.spotify.com/album/6EMXqG3KdHuNWfC3qwr1uz) | 3:11 | 2021-12-17 | 2022-08-17 |
 | [Some Summers Never End](https://open.spotify.com/track/4HS53HbN380PhcTsb9Yitg) | [Radio Romance](https://open.spotify.com/artist/3zpay2Ds6IoLxC70N1H1vW) | [Some Summers Never End](https://open.spotify.com/album/13bcxmKc5RHriqLRGdAYYG) | 4:02 | 2021-12-17 | 2022-04-16 |
 | [Somebody Like That \- Acoustic](https://open.spotify.com/track/3gsnrXfYHjBM7dcUrz0UwK) | [Tenille Arts](https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu) | [Somebody Like That \(Acoustic\)](https://open.spotify.com/album/1v9UST961rkk1uoMRUAgdV) | 3:14 | 2021-12-17 |  |
 | [Somebody Will \- Acoustic](https://open.spotify.com/track/2QtOfeHiZpoHfYUCpMaMim) | [Christina Taylor](https://open.spotify.com/artist/0ol2YEW9hEgLLF9UyDCB4d) | [Somebody Will \(Acoustic\)](https://open.spotify.com/album/58JPDqiqR0tQdoYr5jgrBt) | 3:19 | 2022-05-06 | 2022-07-18 |

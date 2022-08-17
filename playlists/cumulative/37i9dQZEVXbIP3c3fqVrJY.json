@@ -3030,6 +3030,24 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/2XDlC26opmzdw3j037huUM"
+      },
+      "artists": [
+        {
+          "name": "Earth",
+          "url": "https://open.spotify.com/artist/145RezaSLWGxp3SLnAcHPr"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197912,
+      "name": "Diamanty",
+      "url": "https://open.spotify.com/track/5TKjAQyTkezAQGz6eRMOL6"
+    },
+    {
+      "album": {
         "name": "Zeit",
         "url": "https://open.spotify.com/album/75OE7M0wduJyffbffehHuR"
       },
@@ -5751,7 +5769,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 119722,
       "name": "Jsem Optimista",
       "url": "https://open.spotify.com/track/1K0njELsVmFeAZhDZNZmhJ"
@@ -7240,6 +7258,24 @@
     },
     {
       "album": {
+        "name": "Seven Inches Of Satanic Panic",
+        "url": "https://open.spotify.com/album/6eOWfFjfBPRsAW0ZS4sbaF"
+      },
+      "artists": [
+        {
+          "name": "Ghost",
+          "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244804,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/2HZLXBOnaSRhXStMLrq9fD"
+    },
+    {
+      "album": {
         "name": "Master Of Puppets (Remastered)",
         "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
       },
@@ -8679,7 +8715,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 130520,
       "name": "Nikdy Nic Nebylo",
       "url": "https://open.spotify.com/track/3rKPRnYJ5b89bv5ZsLrogK"
@@ -9747,7 +9783,7 @@
       ],
       "date_added": "2022-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 187744,
       "name": "PR\u0160\u00cd, PR\u0160\u00cd",
       "url": "https://open.spotify.com/track/27FjG8BCMk1UjOcBfffHk4"
@@ -10187,7 +10223,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 206197,
       "name": "Rolls",
       "url": "https://open.spotify.com/track/0E92CGQj3E7REEC9TWqYze"
@@ -11455,7 +11491,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 256720,
       "name": "Svaz ceskych bohemu",
       "url": "https://open.spotify.com/track/0twbASvGKPDvbWviKZcpyy"
@@ -13859,7 +13895,7 @@
       ],
       "date_added": "2022-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 185973,
       "name": "Zejtra m\u00e1m",
       "url": "https://open.spotify.com/track/4Mh3ntRWHOOaor9bBY53bS"

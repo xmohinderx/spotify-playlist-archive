@@ -3138,6 +3138,28 @@
     },
     {
       "album": {
+        "name": "Survive",
+        "url": "https://open.spotify.com/album/1swjDa36id38pp4nwoJvTD"
+      },
+      "artists": [
+        {
+          "name": "Axel Oliver",
+          "url": "https://open.spotify.com/artist/32TdmnKAhRkuXvBmUX6dcE"
+        },
+        {
+          "name": "THEBOYWITHSPEC",
+          "url": "https://open.spotify.com/artist/44LgzonzLV7ByKgYY2JKUQ"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248800,
+      "name": "Survive",
+      "url": "https://open.spotify.com/track/3GFe0eZOOk3Fzkb902ZRQR"
+    },
+    {
+      "album": {
         "name": "Symbolism pt. III",
         "url": "https://open.spotify.com/album/2W3HSyUgF9aoXOUIxB5xyx"
       },

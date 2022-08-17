@@ -4,7 +4,7 @@
 
 > 
 
-67 songs - 5 hr 2 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
+68 songs - 5 hr 8 min - [published](https://open.spotify.com/playlist/00UhKXWqnjDp1h5ObJQWCd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Philip](https://open.spotify.com/track/41tqllNwBvxWR4uf7kEnQ1) | [Jameszoo](https://open.spotify.com/artist/5qvYokMeJUfBYTqaUnegE8) | [Blind](https://open.spotify.com/album/6VUfuupSMlz8fQNEp1dO26) | 4:21 | 2022-03-11 | 2022-07-21 |
 | [pour up](https://open.spotify.com/track/2nFiKmoQFJGGYCZBYw18aY) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [DJ Nativesun](https://open.spotify.com/artist/3rdO5iHjXkfY8ZbnQYJBrm) | [pour up](https://open.spotify.com/album/31E1hs0ugtNJTxgcnEhAx9) | 2:05 | 2022-06-02 | 2022-06-21 |
 | [Power \- Floorplan Remix \- Extended](https://open.spotify.com/track/4r4cj7swbafcn17Qhu5eb2) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Power \(Floorplan Remix\)](https://open.spotify.com/album/7GcdVFM0oEkvAQqrP2LTHQ) | 6:05 | 2021-10-04 | 2022-06-15 |
-| [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 |  |
+| [Satyr](https://open.spotify.com/track/2Cp7vXWA3ie2KcpWVN7Jk1) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [Satyr](https://open.spotify.com/album/0VJv3jujrhYMsfiTO9F3cb) | 4:45 | 2022-07-14 | 2022-08-17 |
 | [Shadow Dance](https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Shadow Dance](https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4) | 3:59 | 2022-07-21 | 2022-08-02 |
 | [Sliding Through Our Fingers](https://open.spotify.com/track/3LokxWAip3rF7vtclR5Ij4) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Sliding Through Our Fingers](https://open.spotify.com/album/5q6pItkhxFsXX5GZZU9QX2) | 3:28 | 2022-06-09 | 2022-06-30 |
 | [Snow Globes](https://open.spotify.com/track/3OM2VlABYKmzQRFVJuiQMy) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Snow Globes](https://open.spotify.com/album/1cdB6veqHH2BhCURbjNV5s) | 9:13 | 2022-01-19 | 2022-06-14 |
@@ -75,5 +75,6 @@
 | [We Change \- Part I](https://open.spotify.com/track/3FbfmIk5HTatLxCrGH22z5) | [Brandon Coleman](https://open.spotify.com/artist/1bCEhVC3192xS5WteIaXOs), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [Interstellar Black Space](https://open.spotify.com/album/4hwDNOEvEfPSKCsByLpapO) | 4:54 | 2022-05-20 |  |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 | 2022-07-23 |
+| [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

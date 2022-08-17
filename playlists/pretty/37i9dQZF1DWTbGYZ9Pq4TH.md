@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 
 > Le tracce italiane più romantiche di sempre.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,246 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,298 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 29 | [Concedimi](https://open.spotify.com/track/0pFjYM7JdNJhjuooMgesks) | [Matteo Romano](https://open.spotify.com/artist/5Imsy0ZXNi7uWLJpP5dZ8b) | [Concedimi](https://open.spotify.com/album/3aunYOAreqjC6cdHn6iOaJ) | 3:09 |
 | 30 | [Fuoco e benzina](https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Supereroe](https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4) | 3:29 |
 | 31 | [Iris \(Tra Le Tue Poesie\)](https://open.spotify.com/track/1of8D9YF8T2nkLuk30JZNX) | [Biagio Antonacci](https://open.spotify.com/artist/0Qd65xBSFzdm3zCEu2ThQF) | [Mi Fai Stare Bene](https://open.spotify.com/album/5RUMRiHZj0cbk46Ttie5mZ) | 3:58 |
-| 32 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
-| 33 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
+| 32 | [La Cura](https://open.spotify.com/track/3sc9YIcDSPCXsQ0zzX3JLW) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [L'Imboscata](https://open.spotify.com/album/6Ws5YQCEOfwmpTK01EALgv) | 4:03 |
+| 33 | [D'improvviso](https://open.spotify.com/track/4ykkHvzEE45AlcUq6vkVW6) | [Lorenzo Fragola](https://open.spotify.com/artist/0tTS475qIqv3KXYZMXjsYy) | [Zero Gravity](https://open.spotify.com/album/0FxEbIEYdmAZ7u2oDB0Z4P) | 3:29 |
 | 34 | [A Te](https://open.spotify.com/track/0pVSpAnjpnqywmPZnOISiv) | [Jovanotti](https://open.spotify.com/artist/7tmMPdOmFvdRvbj2aWoiRi) | [Safari](https://open.spotify.com/album/4tp7nwTFlAwtgHhJiEnilK) | 4:24 |
 | 35 | [Come Nelle Favole](https://open.spotify.com/track/71LtXfhnWA7kR8Ntk1VE8R) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [VASCONONSTOP](https://open.spotify.com/album/1UegELBIi5854L79kswXuE) | 4:13 |
 | 36 | [Meraviglioso \- Live](https://open.spotify.com/track/6tZuvbPGzTekaD17rj9RlA) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [San Siro Live \(Deluxe Edition\)](https://open.spotify.com/album/5RwlSfHiTTtlSz7TM4A6sa) | 4:03 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbGYZ9Pq4TH.md) - [plain]
 | 46 | [Unica](https://open.spotify.com/track/0LcyAWgNU4vk3Sn1DNtifk) | [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Unica](https://open.spotify.com/album/2gJy8l07yFCDvGnscXyl9F) | 3:54 |
 | 47 | [La donna cannone](https://open.spotify.com/track/2T2t1DXwzdilKF3BQPHREo) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [La Donna Cannone](https://open.spotify.com/album/7COQBoeP7bBHykCpFbdpR2) | 4:39 |
 | 48 | [Posso \(feat\. Max Gazzé\)](https://open.spotify.com/track/5N0nmOmc0MqPZTYKw4fVV6) | [Carl Brave](https://open.spotify.com/artist/29nrwultxQ8jENVmXoyMqK), [Max Gazzè](https://open.spotify.com/artist/1h5O32I1o0VOnpLmKXLfRa) | [Notti Brave \(After\)](https://open.spotify.com/album/5igFxzbfH6oTb3vRFvNK5w) | 3:58 |
-| 49 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
-| 50 | [Acqua e Sale](https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr) | [MINACELENTANO](https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB) | [Mina Celentano](https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid) | 4:42 |
+| 49 | [Acqua e Sale](https://open.spotify.com/track/2k5XUNGw2nD3qTl9C208Qr) | [MINACELENTANO](https://open.spotify.com/artist/2RaKpBVCLrHguQqQDcahYB) | [Mina Celentano](https://open.spotify.com/album/0fK3gESwoPn02N98BmuRid) | 4:42 |
+| 50 | [L'Immenso](https://open.spotify.com/track/7bof4i0U5eYSJ6yhgtddK9) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [La Finestra \(Deluxe Edition\)](https://open.spotify.com/album/0NQDyYJyaZWGAuKo8PngX2) | 3:34 |
 
-Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDVlNzNkNjQ0MDQzOWYyOTRkMTdiMTZlMzI4ZjkyZjcz`
+Snapshot ID: `MTYzMjY4MTUzMywwMDAwMDAwMDY3MWIxMThiZTM5MDgxNjYyMGVhOTNmMGMwN2ZlMGYy`

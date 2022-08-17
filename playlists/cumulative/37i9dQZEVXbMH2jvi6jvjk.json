@@ -501,7 +501,7 @@
       ],
       "date_added": "2022-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 480000,
       "name": "Abo Mvelo (feat. Mellow & Sleazy & M.J)",
       "url": "https://open.spotify.com/track/0Ek5bneviajgSzZGonWfds"
@@ -1505,7 +1505,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 230746,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/3rmo8F54jFF8OgYsqTxm5d"
@@ -2873,7 +2873,7 @@
       ],
       "date_added": "2022-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 228373,
       "name": "Call Out My Name",
       "url": "https://open.spotify.com/track/09mEdoA6zrmBPgTEN5qXmN"
@@ -3509,7 +3509,7 @@
       ],
       "date_added": "2022-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 202735,
       "name": "Cold Heart - PNAU Remix",
       "url": "https://open.spotify.com/track/6JIC3hbC28JZKZ8AlAqX8h"
@@ -3869,7 +3869,7 @@
       ],
       "date_added": "2022-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 225388,
       "name": "CUFF IT",
       "url": "https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS"
@@ -7871,7 +7871,7 @@
       ],
       "date_added": "2022-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 192840,
       "name": "I Like You (A Happier Song) (with Doja Cat)",
       "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
@@ -9365,7 +9365,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
@@ -12379,7 +12379,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 195950,
       "name": "N95",
       "url": "https://open.spotify.com/track/0fX4oNGBWO3dSGUZcVdVV2"
@@ -13447,7 +13447,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 415714,
       "name": "Paris",
       "url": "https://open.spotify.com/track/7BH6nyhnWTSfMUwwrCYbJF"
@@ -15481,7 +15481,7 @@
       ],
       "date_added": "2022-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 340846,
       "name": "Selema (Po Po)",
       "url": "https://open.spotify.com/track/2UNdr8gnOQrVkSmLDeC59w"
@@ -15639,7 +15639,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"
@@ -16233,6 +16233,24 @@
       "duration_ms": 326000,
       "name": "Snake Park",
       "url": "https://open.spotify.com/track/6lRXHDXfR3xwm89tNSEVat"
+    },
+    {
+      "album": {
+        "name": "SNAP PACK",
+        "url": "https://open.spotify.com/album/2nzuzJvr3yowqbPaYjEYof"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/6zJejIfVYLgjud3lTk4DLB"
     },
     {
       "album": {
@@ -18551,7 +18569,7 @@
       ],
       "date_added": "2022-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 443091,
       "name": "uMlando",
       "url": "https://open.spotify.com/track/03GRsjCSytQo3LuspJayKT"
@@ -19933,7 +19951,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

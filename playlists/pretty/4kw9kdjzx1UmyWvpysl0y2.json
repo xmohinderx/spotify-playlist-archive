@@ -6,8 +6,28 @@
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU3NCw0NGJlZTZlYzBmMjI1ODY3YjgyZTRkYmMwNjk4NGI0NDUzZWI4OTA5",
+  "snapshot_id": "MzU3Niw2M2I0OGVjMjdkNDdhNDRhZmM4ODhjNjU4NjQwNWVlNzFlOWM2YTgz",
   "tracks": [
+    {
+      "added_at": "2022-08-16 16:40:07",
+      "album": {
+        "name": "Lose Our Minds",
+        "url": "https://open.spotify.com/album/0fnGVhEju3tWRYwdz9Ds8E"
+      },
+      "artists": [
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Jess Ball",
+          "url": "https://open.spotify.com/artist/5HjbKQXMhybveoJOsOXS07"
+        }
+      ],
+      "duration_ms": 157058,
+      "name": "Lose Our Minds",
+      "url": "https://open.spotify.com/track/2cjPokboQDr7xI0esIgg0h"
+    },
     {
       "added_at": "2022-08-15 16:41:27",
       "album": {
@@ -1111,22 +1131,6 @@
       "duration_ms": 226950,
       "name": "2hard2letgo",
       "url": "https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA"
-    },
-    {
-      "added_at": "2022-06-03 16:17:10",
-      "album": {
-        "name": "Your Heart",
-        "url": "https://open.spotify.com/album/543ni1eZzOpFEMWjYifIJ9"
-      },
-      "artists": [
-        {
-          "name": "Maliboux",
-          "url": "https://open.spotify.com/artist/157IWDnr2hC9SFL5OJF8j7"
-        }
-      ],
-      "duration_ms": 155625,
-      "name": "Your Heart",
-      "url": "https://open.spotify.com/track/6KbV2Dp0Bb4ZbRp2Wa2jxN"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

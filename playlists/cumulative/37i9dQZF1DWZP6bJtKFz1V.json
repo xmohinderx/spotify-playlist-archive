@@ -3574,6 +3574,24 @@
     },
     {
       "album": {
+        "name": "Lost Honor",
+        "url": "https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239346,
+      "name": "Lost Honor",
+      "url": "https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO"
+    },
+    {
+      "album": {
         "name": "Love Brand New",
         "url": "https://open.spotify.com/album/1YNhfulBvGyFmyOc1ZElPX"
       },
@@ -4758,6 +4776,24 @@
     },
     {
       "album": {
+        "name": "pretty kids",
+        "url": "https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee"
+      },
+      "artists": [
+        {
+          "name": "mehro",
+          "url": "https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159417,
+      "name": "pretty kids",
+      "url": "https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU"
+    },
+    {
+      "album": {
         "name": "Puffer",
         "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
       },
@@ -4975,7 +5011,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 210608,
       "name": "Ride or Die",
       "url": "https://open.spotify.com/track/22uD6yBefgzRTLrohe4IZs"
@@ -5231,7 +5267,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 232653,
       "name": "See You When The End's Near",
       "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"

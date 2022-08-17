@@ -1,12 +1,12 @@
 {
   "description": "Relax to acoustic versions of your favorite rock songs.",
-  "num_followers": 822751,
+  "num_followers": 823005,
   "original_name": "Acoustic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMDY2MmM1YTEzMDk4N2U2NDFiZjNjZWRjYTBjM2E1MjNi",
+  "snapshot_id": "MTY1NjMyMzAyMSwwMDAwMDAwMDRlZTE2OGJkMTlhM2FhNDgyMTQ0MTM1ZTg4YjZjNjlh",
   "tracks": [
     {
       "added_at": "2022-06-27 09:43:41",
@@ -579,22 +579,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Are You Gonna Be My Girl",
-        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
-      },
-      "artists": [
-        {
-          "name": "Jet",
-          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
-        }
-      ],
-      "duration_ms": 237173,
-      "name": "Are You Gonna Be My Girl - Acoustic",
-      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "Come Clean",
         "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 247920,
       "name": "Control - Acoustic Version",
       "url": "https://open.spotify.com/track/325aNb4eh8HesYlrJmLSMX"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Are You Gonna Be My Girl",
+        "url": "https://open.spotify.com/album/36oEYuAEYbiyFLuFuybtsa"
+      },
+      "artists": [
+        {
+          "name": "Jet",
+          "url": "https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI"
+        }
+      ],
+      "duration_ms": 237173,
+      "name": "Are You Gonna Be My Girl - Acoustic",
+      "url": "https://open.spotify.com/track/3tRMcxAVPS0YK00YcSc737"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Boxes (Acoustic)",
-        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
-      },
-      "artists": [
-        {
-          "name": "The Goo Goo Dolls",
-          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
-        }
-      ],
-      "duration_ms": 262186,
-      "name": "Boxes - Acoustic",
-      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
-    },
-    {
-      "added_at": "2022-06-27 09:43:41",
-      "album": {
         "name": "Wolfmother (10th Anniversary Deluxe Edition)",
         "url": "https://open.spotify.com/album/6TqFe1KFG3NdofscJrSPc4"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 160346,
       "name": "Vagabond - Acoustic Version",
       "url": "https://open.spotify.com/track/6HzpmmaLVHC88XQY4e0YZL"
+    },
+    {
+      "added_at": "2022-06-27 09:43:41",
+      "album": {
+        "name": "Boxes (Acoustic)",
+        "url": "https://open.spotify.com/album/7z93UaPhXkm2bMjoWltATK"
+      },
+      "artists": [
+        {
+          "name": "The Goo Goo Dolls",
+          "url": "https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA"
+        }
+      ],
+      "duration_ms": 262186,
+      "name": "Boxes - Acoustic",
+      "url": "https://open.spotify.com/track/09gtDKL49tnLXMwN68D7JO"
     },
     {
       "added_at": "2022-06-27 09:43:41",
@@ -803,18 +803,18 @@
     {
       "added_at": "2022-06-27 09:43:41",
       "album": {
-        "name": "Yonaka Stripped Back",
-        "url": "https://open.spotify.com/album/235WSzEtSoaINo0N2QMUb7"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/148mo9e8hv2UZsxS2YKf9T"
       },
       "artists": [
         {
-          "name": "YONAKA",
-          "url": "https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu"
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
         }
       ],
-      "duration_ms": 276106,
-      "name": "Guilty",
-      "url": "https://open.spotify.com/track/35No5bL3i5Hcc0UpOr6MSc"
+      "duration_ms": 224353,
+      "name": "Island in the Sun - Live from Spotify NYC",
+      "url": "https://open.spotify.com/track/6QuYC4Vcr3myWxZRJxg4NZ"
     }
   ],
   "unique_name": "Acoustic Rock",

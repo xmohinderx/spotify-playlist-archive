@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 
 > Gather your friends for the cherished ritual that is brunch\. If not for the pomo irony, then for the endless hibiscus lavender mimosas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,331 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,333 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 34 | [In Your Arms](https://open.spotify.com/track/3wJmcmAh2YAfDSKQR8o1XS) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Passing Through](https://open.spotify.com/album/4ni6WOwE5153lhqAE2HFdG) | 3:35 |
 | 35 | [Bar, Guitar and a Honky Tonk Crowd](https://open.spotify.com/track/1pWteqawoaGuNc1UzScstI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/5YrOTxB5pmtK6uD4qcpAw5) | 3:17 |
 | 36 | [Whiskey](https://open.spotify.com/track/5WsxLkPL1QRKRfCed6qTTn) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Songs from a Ghost Town](https://open.spotify.com/album/10UpXfQVWUPHCiAhYLHOaW) | 4:25 |
-| 37 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
-| 38 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
+| 37 | [Chateau Lobby \#4 \(in C for Two Virgins\)](https://open.spotify.com/track/3wfF0Nw234zHY1vdIWIc2g) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [I Love You, Honeybear](https://open.spotify.com/album/4vTEFCLgDEgKIQXTrsmS6F) | 2:50 |
+| 38 | [If You Need To, Keep Time on Me](https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Crack\-Up](https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v) | 3:30 |
 | 39 | [People Need A Melody](https://open.spotify.com/track/5tlu2nA8GxkDx8UTKG1rLV) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 4:12 |
 | 40 | [Dylan Thomas](https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH) | [Better Oblivion Community Center](https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Conor Oberst](https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R) | [Better Oblivion Community Center](https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs) | 3:36 |
 | 41 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 46 | [Don't Come Home A\-Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/track/1Ch2cPleHoVVXLVRRrGF6o) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Don't Come Home A Drinkin' \(With Lovin' On Your Mind\)](https://open.spotify.com/album/32fTx9DYJWjenQSMoI22Dq) | 2:06 |
 | 47 | [Call Me in the Afternoon](https://open.spotify.com/track/3jJuBdO5rrtDufNAf76V1x) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Spotify Sessions](https://open.spotify.com/album/7M2JPV9Q0OzWgI7v46Q9Dg) | 3:13 |
 | 48 | [There Will Be Time](https://open.spotify.com/track/4YUo0cp0yf1o8im9jPq0Ep) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2), [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [There Will Be Time](https://open.spotify.com/album/2AWjKWHm04rj0awEnKe8cJ) | 4:26 |
-| 49 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
-| 50 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
+| 49 | [Easy Rider](https://open.spotify.com/track/16bjzffqGoXKFQ5DYJlsxU) | [Eddie Berman](https://open.spotify.com/artist/7FfxvcUIbQ1VxrApeoq8ql) | [Before the Bridge](https://open.spotify.com/album/3xY0Wdf37DDDWjyi89g9pj) | 3:49 |
+| 50 | [Morning Light](https://open.spotify.com/track/65LAG4XH7Oq0mZhFdPYqO4) | [Wilderado](https://open.spotify.com/artist/1Tp7C6LzxZe9Mix6rn4zbI) | [Latigo EP](https://open.spotify.com/album/62C9L1UCLOvvlu7Jb2FRRE) | 3:40 |
 | 51 | [Things Happen](https://open.spotify.com/track/2SYvX2G6D5SD6BpijIOBpG) | [Dawes](https://open.spotify.com/artist/0CDUUM6KNRvgBFYIbWxJwV) | [All Your Favorite Bands](https://open.spotify.com/album/1MuenT1cvvI0YCs3hsJDBE) | 4:03 |
 | 52 | [Angela \(Single Version\)](https://open.spotify.com/track/5kGBSOrKYmhRfdPBw4xD8D) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Angela \(Single Version\)](https://open.spotify.com/album/5WQjTqCdzCAFQFVsMoUXm0) | 2:58 |
 | 53 | [Bad Things](https://open.spotify.com/track/6FR7CxgunBBN1jYJxsX8uZ) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/2JZRyLhDpddo6XUwtb2ZJA) | 5:13 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pryhDLql25.md) - [plain]
 | 67 | [Shovels & Dirt](https://open.spotify.com/track/7s55sjcxPmungNSC1enJTc) | [The Strumbellas](https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl) | [Hope](https://open.spotify.com/album/4wIE6aAQq4GL10ae7cjZZ0) | 4:01 |
 | 68 | [Blind in the Fray](https://open.spotify.com/track/6SjG7HZ8R5jnz6HOdxIFS0) | [The Last Revel](https://open.spotify.com/artist/2PyWfmEeKmRNhQkAJ1zJXw) | [Hazard & Fate](https://open.spotify.com/album/2QMo0JFkV5YMSDmwDGR4jX) | 3:33 |
 | 69 | [Hummingbird](https://open.spotify.com/track/6VJESmw3puw9eFpmglP2dM) | [Traveller](https://open.spotify.com/artist/4kZAv5F7ojPi4hfxi7zy0l) | [Hummingbird](https://open.spotify.com/album/09tCVx2tXdXeOD9EPMtFtU) | 3:12 |
-| 70 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
-| 71 | [Sunday Morning Coming Down \- Live](https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 4:09 |
+| 70 | [Sunday Morning Coming Down \- Live](https://open.spotify.com/track/5yvnuEZmDBNH4uEhqdayCS) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [The Essential Johnny Cash](https://open.spotify.com/album/4E2eUhFHqTG2pu9MN1NDIF) | 4:09 |
+| 71 | [Right Time](https://open.spotify.com/track/33bIBZTNim7ZxKrhEAXYyu) | [Nikki Lane](https://open.spotify.com/artist/2kWeFaiHBskk8oqky3KHcR) | [All Or Nothin'](https://open.spotify.com/album/1d0rJFoBz1G0QsIpyYOa1s) | 3:21 |
 | 72 | [Casino \(Bad Things\)](https://open.spotify.com/track/4OI5eRrBb1awJfj7qQWQmT) | [Houndmouth](https://open.spotify.com/artist/7EGwUS3c5dXduO4sMyLWC5) | [From the Hills Below the City](https://open.spotify.com/album/0UJ1pJYJqAt9kDYZ1WGgpS) | 2:40 |
 | 73 | [Hands on You](https://open.spotify.com/track/6SEDE7wvAnAtfdhu1zbUzi) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:52 |
 | 74 | [Revolution \(feat\. First Aid Kit\)](https://open.spotify.com/track/0j1bpDEg44YsqDtvqBBJul) | [Van William](https://open.spotify.com/artist/73Au3G1YzSqMiEg9ru49UQ), [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Countries](https://open.spotify.com/album/2ZD2haTkSI2qz11IbkeJOe) | 3:56 |
 | 75 | [Summertime Mama](https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Good Woman](https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR) | 2:56 |
 
-Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMDQxNWQ1Njc3MmUwM2Y0NWI3Yjk3NmE3YzQ4ZGRlZWI2`
+Snapshot ID: `MTU1OTkxNjc3MSwwMDAwMDAwMGZmNWNlZjRiMzY5MTkyYWUzYWVlYzI2ZTczNWFhNDI5`

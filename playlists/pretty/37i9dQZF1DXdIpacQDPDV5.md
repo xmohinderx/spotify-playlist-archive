@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Zeds Dead & MKLA
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,804 likes - 100 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,814 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 25 | [These Nights](https://open.spotify.com/track/1GL7vwDnPqCnJ2xGNxNLwG) | [Loud Luxury](https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [These Nights](https://open.spotify.com/album/6VsiabIfqnY6VH8qJAJVPd) | 2:12 |
 | 26 | [Reckless \(feat\. MØ\) \- Frank Walker Remix](https://open.spotify.com/track/6DsFsXFLcOzz3XO9retatZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq) | [Reckless \(Frank Walker Remix\)](https://open.spotify.com/album/0PSQG3avI9b8cFzyNvD4dj) | 3:18 |
 | 27 | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/track/1FxHNKoRql64kL15iccqz1) | [Young Bombs](https://open.spotify.com/artist/4LKB1IkCINDDjEX8iS7glI), [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Kinda Funny \(feat\. Audrey Mika\)](https://open.spotify.com/album/2fdpHqEU8XfNlKmM5P9uH6) | 2:01 |
-| 28 | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\) \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
+| 28 | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/track/1eGW1YBT17a5G1hKPWrpW7) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Lost Without You \(with Dean Lewis\)](https://open.spotify.com/album/3aWYlSAu7ES9Hc9ATloTXI) | 3:23 |
 | 29 | [Just A Touch](https://open.spotify.com/track/1naVywXKFJRCbTjZLnvsOV) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Mougleta](https://open.spotify.com/artist/4gmndqcVVyxmzgOunTiuAD), [Coopex](https://open.spotify.com/artist/3UV0wVQkft6lKLDGioqnyO) | [Just A Touch](https://open.spotify.com/album/70v3rXSHz6bXMivudeUxrK) | 2:08 |
 | 30 | [My Feelings For You \- Mark Knight Remix](https://open.spotify.com/track/2hLczPN5CH5qhc6J4WBJHs) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Sebastien Drums](https://open.spotify.com/artist/0lHsjYcb3lGjkJQQqC6HVt), [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL) | [My Feelings For You \(Mark Knight Remix\)](https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF) | 3:44 |
 | 31 | [Can't Get Over It](https://open.spotify.com/track/6wAx9MSumgFDUTW62vTs8L) | [Return Of The Jaded](https://open.spotify.com/artist/0eWRTAqa2LtWcunkLFL4sS), [Dead Space](https://open.spotify.com/artist/7J0vmZ5neXBGAoa8s79R9b) | [Can't Get Over It](https://open.spotify.com/album/0ooyjvsUgs6bj3vPijGncb) | 3:35 |

@@ -1,12 +1,12 @@
 {
   "description": "Viral classics. Yep, we're at that stage.",
-  "num_followers": 732052,
+  "num_followers": 732807,
   "original_name": "internet rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDAwMDcwNzIyNWFjNmVmZTFjOTQ2NzM4NTNiMmY3YTE1NGRi",
+  "snapshot_id": "MTY1MzYyNDA2MCwwMDAwMDAwMDFiYzBmYzRhYTZjYzdkZjU2NDI1YmM2YWE2ZDhjMjU4",
   "tracks": [
     {
       "added_at": "2022-05-27 04:01:00",
@@ -59,22 +59,18 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "STAY (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
         }
       ],
-      "duration_ms": 141805,
-      "name": "STAY (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -95,18 +91,22 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+        "name": "STAY (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/4QLAtpLNUsHEYrcHXmMIZZ"
       },
       "artists": [
         {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+      "duration_ms": 141805,
+      "name": "STAY (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/5HCyWlXZPP0y6Gqq8TgA20"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 210560,
-      "name": "Need to Know",
-      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 161123,
       "name": "Why'd You Only Call Me When You're High?",
       "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 137704,
-      "name": "MONTERO (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "Sin Miedo (del Amor y Otros Demonios) \u221e",
         "url": "https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 193234,
       "name": "Sky",
       "url": "https://open.spotify.com/track/29TPjc8wxfz4XMn21O7VsZ"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 137704,
+      "name": "MONTERO (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -739,38 +739,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "everything means nothing",
-        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
-      },
-      "artists": [
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
-        }
-      ],
-      "duration_ms": 188343,
-      "name": "hot girl bummer",
-      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Shoot For The Stars Aim For The Moon",
-        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
-      },
-      "artists": [
-        {
-          "name": "Pop Smoke",
-          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "What You Know Bout Love",
-      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "NOT ALL HEROES WEAR CAPES (Deluxe)",
         "url": "https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj"
       },
@@ -791,6 +759,38 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Shoot For The Stars Aim For The Moon",
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc"
+      },
+      "artists": [
+        {
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "What You Know Bout Love",
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "everything means nothing",
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh"
+      },
+      "artists": [
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 188343,
+      "name": "hot girl bummer",
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "Stop Staring At the Shadows",
         "url": "https://open.spotify.com/album/7rKmLxCFlmtIxGpX4HYgs4"
       },
@@ -803,22 +803,6 @@
       "duration_ms": 168489,
       "name": "...And to Those I Love, Thanks for Sticking Around",
       "url": "https://open.spotify.com/track/30QR0ndUdiiMQMA9g1PGCm"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        }
-      ],
-      "duration_ms": 196652,
-      "name": "The Box",
-      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -843,6 +827,38 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
+        "name": "Please Excuse Me for Being Antisocial",
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
+      },
+      "artists": [
+        {
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "duration_ms": 196652,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "Positions",
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 173710,
+      "name": "34+35",
+      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
         "name": "Certified Lover Boy",
         "url": "https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 257604,
       "name": "Way 2 Sexy (with Future & Young Thug)",
       "url": "https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
-        "name": "Positions",
-        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 173710,
-      "name": "34+35",
-      "url": "https://open.spotify.com/track/6Im9k8u9iIzKMrmV7BWtlF"
     },
     {
       "added_at": "2022-05-27 04:01:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2022-05-27 04:01:00",
       "album": {
-        "name": "I Hate U",
-        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "I Hate U",
-      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
-    },
-    {
-      "added_at": "2022-05-27 04:01:00",
-      "album": {
         "name": "good kid, m.A.A.d city",
         "url": "https://open.spotify.com/album/6PBZN8cbwkqm1ERj2BGXJ1"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 386906,
       "name": "Money Trees",
       "url": "https://open.spotify.com/track/2HbKqm4o0w5wEeEFXm2sD4"
+    },
+    {
+      "added_at": "2022-05-27 04:01:00",
+      "album": {
+        "name": "I Hate U",
+        "url": "https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "I Hate U",
+      "url": "https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H"
     },
     {
       "added_at": "2022-05-27 04:01:00",

@@ -1,41 +1,13 @@
 {
   "description": "Create the new vibe by mixing in the retro sounds.",
-  "num_followers": 300321,
+  "num_followers": 300506,
   "original_name": "EDM Samplings",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNjM0MCwwMDAwMDAwMDdlZGQ0MDVhMzRhN2UwN2U3NDIyYzcwM2M2OGM2OWEx",
+  "snapshot_id": "MTY2MDIzNjM0MCwwMDAwMDAwMGZkMTI3OWY5NWQ5MzM0NDFlNDliMTQ4YjhmN2FjODM4",
   "tracks": [
-    {
-      "added_at": "2022-08-11 16:45:40",
-      "album": {
-        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
-        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
-      },
-      "artists": [
-        {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
-        },
-        {
-          "name": "Nightcrawlers",
-          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
-        },
-        {
-          "name": "Mufasa & Hypeman",
-          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
-        },
-        {
-          "name": "Dopamine",
-          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
-        }
-      ],
-      "duration_ms": 169153,
-      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
-      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
-    },
     {
       "added_at": "2022-08-11 16:45:40",
       "album": {
@@ -63,6 +35,34 @@
       "duration_ms": 165752,
       "name": "Deep Down (feat. Never Dull)",
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
+    },
+    {
+      "added_at": "2022-08-11 16:45:40",
+      "album": {
+        "name": "Friday (feat. Mufasa & Hypeman) [Dopamine Re-Edit]",
+        "url": "https://open.spotify.com/album/39qsmsNRXjVaFqTZj9af0j"
+      },
+      "artists": [
+        {
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+        },
+        {
+          "name": "Nightcrawlers",
+          "url": "https://open.spotify.com/artist/1gALaWbNDnwS2ECV09sn2A"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Dopamine",
+          "url": "https://open.spotify.com/artist/3Edve4VIATi0OZngclQlkN"
+        }
+      ],
+      "duration_ms": 169153,
+      "name": "Friday (feat. Mufasa & Hypeman) - Dopamine Re-Edit",
+      "url": "https://open.spotify.com/track/4cG7HUWYHBV6R6tHn1gxrl"
     },
     {
       "added_at": "2022-08-11 16:45:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2022-08-11 16:45:40",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2022-08-11 16:45:40",
-      "album": {
         "name": "Everybody Wants To Party",
         "url": "https://open.spotify.com/album/5gQsKvFQiPKop7tVdbvNSj"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 184838,
       "name": "Everybody Wants To Party",
       "url": "https://open.spotify.com/track/3hbi5zXAgQt0Z9V5JSOnCe"
+    },
+    {
+      "added_at": "2022-08-11 16:45:40",
+      "album": {
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
+      },
+      "artists": [
+        {
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
+        }
+      ],
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2022-08-11 16:45:40",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-08-11 16:45:40",
       "album": {
-        "name": "What A Night",
-        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
-      },
-      "artists": [
-        {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        }
-      ],
-      "duration_ms": 124592,
-      "name": "What A Night",
-      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
-    },
-    {
-      "added_at": "2022-08-11 16:45:40",
-      "album": {
         "name": "More Than Friends",
         "url": "https://open.spotify.com/album/6A764hvsFQK48oNsYo7q9M"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 140698,
       "name": "More Than Friends",
       "url": "https://open.spotify.com/track/53SnCRcGrB2UCqNGyYZhJD"
+    },
+    {
+      "added_at": "2022-08-11 16:45:40",
+      "album": {
+        "name": "What A Night",
+        "url": "https://open.spotify.com/album/5x8srROrtSoC8dCCj6XtHf"
+      },
+      "artists": [
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        }
+      ],
+      "duration_ms": 124592,
+      "name": "What A Night",
+      "url": "https://open.spotify.com/track/3FUlqltjiMMJdyEPaYAUqK"
     },
     {
       "added_at": "2022-08-11 16:45:40",

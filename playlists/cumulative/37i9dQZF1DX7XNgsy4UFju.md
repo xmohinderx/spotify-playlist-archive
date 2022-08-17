@@ -4,7 +4,7 @@
 
 > Home to all the latest indie jams\. Cover: Alvvays
 
-585 songs - 1 day 10 hr 38 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
+586 songs - 1 day 10 hr 43 min - [published](https://open.spotify.com/playlist/4hpfeoyJCUxj1W1YZOVAqm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -508,7 +508,8 @@
 | [the dealer](https://open.spotify.com/track/0wVIuUDDqemXEU30I9XIWn) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [the dealer](https://open.spotify.com/album/64U2AlwSv3RDN33tpzT5HI) | 3:38 | 2022-03-04 | 2022-06-04 |
 | [The Devil is Human](https://open.spotify.com/track/2nLEh1IAezKeXKCGfYULmX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Devil is Human](https://open.spotify.com/album/39UyPPm0nKdFi4Vd9Hljzu) | 3:00 | 2022-07-22 | 2022-08-06 |
 | [The Devil Is Human](https://open.spotify.com/track/77IYP2HaF1FVdvkGatRhvB) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Devil Is Human](https://open.spotify.com/album/6B9SQHcbfa7RUCCDJVnASd) | 3:00 | 2022-07-08 | 2022-07-29 |
-| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-22 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1WPsYspncOcNNSMTcmv8Uq) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [Chopper](https://open.spotify.com/album/5KgqAmpA8ajKLOgIgrkoB1) | 4:37 | 2022-08-12 |  |
+| [The Extra Sees the Film](https://open.spotify.com/track/1dtzTEzZFYilvvriv0T7CI) | [Kiwi jr.](https://open.spotify.com/artist/4CMdLKWNEoNSLpaJ6QMWYy) | [The Extra Sees the Film](https://open.spotify.com/album/6fxUNarVTuQmvyD1wJ9ESK) | 4:37 | 2022-07-22 | 2022-08-17 |
 | [The Florist](https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo) | [Abby Sage](https://open.spotify.com/artist/4aej3kKLxSLM0WauTSfZ7k) | [The Florist](https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa) | 3:10 | 2022-08-05 |  |
 | [The Flow](https://open.spotify.com/track/3gjW1jxleTvfW8fuE3HEbW) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [The Flow](https://open.spotify.com/album/7gRz9nqFK6TEhj4Hh4TsLk) | 3:34 | 2022-04-15 | 2022-05-14 |
 | [The Lightning I](https://open.spotify.com/track/50KRoCVyxh3ip8ODC7gJqE) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Lightning I, II](https://open.spotify.com/album/5CW1F2qtnEt9lNaRSZlbHr) | 3:01 | 2022-03-18 | 2022-04-29 |

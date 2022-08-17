@@ -4,7 +4,7 @@
 
 > play something that's very very vibe\-worthy
 
-427 songs - 23 hr 39 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
+428 songs - 23 hr 42 min - [published](https://open.spotify.com/playlist/0vsPFwJnQ8QXKEMwMShfbf)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/track/6f5ExP43esnvdKPddwKXJH) | [NEIKED](https://open.spotify.com/artist/5H6xmHXjsq98NLbEjuE29f), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Better Days \(NEIKED x Mae Muller x Polo G\)](https://open.spotify.com/album/2wcv0lHk5fUYyNGKugGa7q) | 2:40 | 2021-12-29 |  |
 | [Better Not \(with Wafia\)](https://open.spotify.com/track/7n1940b6kHcaEewFSZXnXa) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U) | [Kids At Play\- EP](https://open.spotify.com/album/21R2CiMVZH2MY514Sq2DIG) | 3:42 | 2022-04-14 | 2022-04-21 |
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-06 |  |
-| [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-03-25 |  |
+| [Big Energy](https://open.spotify.com/track/6Zu3aw7FfjAF9WA0fA81Oq) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Big Energy](https://open.spotify.com/album/58MbYehGOl5NAOdfWY5aHa) | 2:53 | 2022-03-25 | 2022-08-17 |
 | [Billie \(Loving Arms\)](https://open.spotify.com/track/46E2xeKBLrxS8hJ37Gq35G) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Billie \(Loving Arms\)](https://open.spotify.com/album/31Hp4DhmlXKmIx3BeaFak1) | 3:37 | 2022-03-25 | 2022-04-18 |
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-25 | 2022-04-19 |
 | [blind](https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:33 | 2022-01-21 | 2022-07-29 |
@@ -84,6 +84,7 @@
 | [Classic](https://open.spotify.com/track/6FE2iI43OZnszFLuLtvvmg) | [MKTO](https://open.spotify.com/artist/2l35CQqtYRh3d8ZIiBep4v) | [MKTO](https://open.spotify.com/album/5IenxFp0vpnXBUxPcwJtbE) | 2:55 | 2022-03-28 |  |
 | [Close To You](https://open.spotify.com/track/0brBOx8ejPXvBYnQkWquYK) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Harmony House](https://open.spotify.com/album/0W3QgeP1ODhoOnKyfYTnle) | 3:14 | 2021-12-29 | 2022-07-29 |
 | [Cloud 9](https://open.spotify.com/track/6vFsBXYczYsP0H3lgunZOm) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Honeymoon](https://open.spotify.com/album/6QZyKchQivUBTSMcoBmlPa) | 2:27 | 2021-12-29 |  |
+| [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-08-12 |  |
 | [Cocoa Butter Kisses](https://open.spotify.com/track/0aMHIW1lqrulVCx0LLlr6a) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG), [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 5:07 | 2022-03-28 | 2022-04-20 |
 | [Collard Greens](https://open.spotify.com/track/0zO8ctW0UiuOefR87OeJOZ) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 4:59 | 2022-03-28 | 2022-04-20 |
 | [Come Down](https://open.spotify.com/track/276zciJ7Fg7Jk6Ta6QuLkp) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 2:49 | 2022-04-08 | 2022-04-20 |

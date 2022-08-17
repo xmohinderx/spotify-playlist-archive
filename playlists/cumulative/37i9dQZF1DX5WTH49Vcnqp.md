@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Thelma Plum, PinkPantheress & Rex Orange County 🐍
 
-491 songs - 1 day 4 hr 4 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+492 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,8 @@
 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 | 2022-02-10 | 2022-05-27 |
 | [Candyfloss](https://open.spotify.com/track/5Sglaa4CqeCmpLLWFCvu3i) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Mellow Moon](https://open.spotify.com/album/45lhLYfrPQZdCJ5kdgoKth) | 2:48 | 2022-05-26 | 2022-08-12 |
 | [Change](https://open.spotify.com/track/1D7sWofAbWelYs35iRM08U) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Change](https://open.spotify.com/album/5fjPFnPn0paRfom3TawNE6) | 2:57 | 2022-06-23 |  |
-| [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 | 2022-07-07 |  |
+| [Change the Locks](https://open.spotify.com/track/1fgMGkGIzpjpwsqp85FDJP) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 4:29 | 2022-08-11 |  |
+| [Change the Locks](https://open.spotify.com/track/7vnxhcah4Sgm6WY8FLlf5c) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Change the Locks](https://open.spotify.com/album/3qgwLXeathdYuMWou6QBep) | 4:29 | 2022-07-07 | 2022-08-17 |
 | [Cherry Blossoms in Tokyo](https://open.spotify.com/track/2ty9DxGlEvAxkBYEYgE7Pd) | [Tessa Thames](https://open.spotify.com/artist/22MTCa25G3HOSUnNpaHLRD), [Tasman Keith](https://open.spotify.com/artist/3Pe4IIW9HoZsmBlKa5G6I1) | [Cherry Blossoms in Tokyo](https://open.spotify.com/album/6qZNOyIf8SnXzJFBZw7cHO) | 3:11 | 2021-12-28 | 2022-01-28 |
 | [Clueless In Suburbia](https://open.spotify.com/track/36Q7tpoLycNGNivepuUFxT) | [Yen Strange](https://open.spotify.com/artist/7lSQYcw1enXJdFHw678LAq) | [Clueless In Suburbia](https://open.spotify.com/album/1BMcInMvgt6NOxxcWvv1hz) | 3:17 | 2022-01-26 | 2022-03-11 |
 | [Colour Me Blue](https://open.spotify.com/track/5omCnPHQc8bNztSrjlxdtu) | [Alfie Templeman](https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF) | [Colour Me Blue](https://open.spotify.com/album/52bm4Qz2PxPOAgBxBzKlVA) | 3:16 | 2022-04-21 | 2022-08-05 |
@@ -418,7 +419,7 @@
 | [Surprise Me](https://open.spotify.com/track/29hh4KOAANANjqfl4XcD7K) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A), [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Surprise Me](https://open.spotify.com/album/50mjO7QfQFrCAlD0Ot4be0) | 2:51 | 2022-04-14 | 2022-07-29 |
 | [SWEET / I THOUGHT YOU WANTED TO DANCE \(feat\. Brent Faiyaz & Fana Hues\)](https://open.spotify.com/track/3EG9FJ0ToLfgnc1IG2Z1wz) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [CALL ME IF YOU GET LOST](https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9) | 9:48 | 2022-07-21 | 2022-07-29 |
 | [Sydney Hue](https://open.spotify.com/track/17MKyj2cPFHuBOX0ZXMQ44) | [Milan Ring](https://open.spotify.com/artist/3byro7ByLeWjNoWLAfiq0b), [BLESSED](https://open.spotify.com/artist/1Kvyn7F1okGNpIYBPt9mZq) | [Sydney Hue](https://open.spotify.com/album/3WQ3qqRktvGr2Crzotffop) | 5:00 | 2021-12-28 | 2022-01-26 |
-| [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-03-14 |  |
+| [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-03-14 | 2022-08-17 |
 | [T's To Cross](https://open.spotify.com/track/42ghWYx6rvIOYLbXsaelZw) | [Hockey Dad](https://open.spotify.com/artist/1GJ1uwDfaA8GVVpVc2I2d2) | [T's To Cross](https://open.spotify.com/album/58Sgle0MTFxhyxAkvRFHOK) | 4:28 | 2022-07-28 |  |
 | [Tainted Love](https://open.spotify.com/track/1wAPbQ5XjbZqPl0WDl5mHH) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Trip Tape](https://open.spotify.com/album/707cK3j40hIquI15sOcYXP) | 2:59 | 2021-12-28 | 2022-01-17 |
 | [Taking Over The Sun](https://open.spotify.com/track/0Ac5WPWNBr4p3xcllMMIbN) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Taking Over The Sun](https://open.spotify.com/album/73WU3UtIqgnGKhTR8Cj90l) | 3:49 | 2022-06-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 
 > A musical celebration of women in R&amp;B, from its earliest acts to its newest stars\. Cover: Mary J\. Blige
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,262 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,424 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 33 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
 | 34 | [Wish I Didn't Miss You](https://open.spotify.com/track/3tZm76otWH20xzJC7icHCk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Mahogany Soul](https://open.spotify.com/album/1pJld4hH1xL3ONIlWZEhXw) | 4:30 |
 | 35 | [Please Mr\. Postman \- Single Version / Mono](https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Please Mr\. Postman](https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V) | 2:28 |
-| 36 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 |
-| 37 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
+| 36 | [At Your Best \(You Are Love\)](https://open.spotify.com/track/4lRrk574qIHpoEEKC1zuam) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [Age Ain't Nothing But A Number](https://open.spotify.com/album/3E3QRjL4Cre7Krms420Irl) | 4:51 |
+| 37 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 |
 | 38 | [Party \(feat\. André 3000\)](https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:05 |
 | 39 | [Bad Girls](https://open.spotify.com/track/1ibRqifchaAfeNdQGpbRVW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls](https://open.spotify.com/album/58GjBhQvLHwfQFJtdP9Oxg) | 4:55 |
 | 40 | [Crazy Tings](https://open.spotify.com/track/5VQagemEOLpJJikcLzDNYR) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Crazy Tings](https://open.spotify.com/album/1kphAJp2xhCv2IxfgWMKLR) | 3:02 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1wNY9tfWQsS.md) - [plain]
 | 49 | [Karma](https://open.spotify.com/track/3qmm9AdG0TnShv0drgXNIQ) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98) | [Karma](https://open.spotify.com/album/13AioFwH1nNynbyO8AZW6L) | 2:56 |
 | 50 | [I Can't Stand the Rain](https://open.spotify.com/track/0CcL4kSHKIEwF3IW0BGgb6) | [Ann Peebles](https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB) | [I Can't Stand the Rain](https://open.spotify.com/album/67Sjm7EwrWbnnyojmhP4KL) | 2:30 |
 
-Snapshot ID: `MTY0Njc2OTUzMiwwMDAwMDAwMDlkNWZhYzYwMzRmNTUxMjEwZThlMzZjMWY4YjYyMDEz`
+Snapshot ID: `MTY0Njc2OTUzMiwwMDAwMDAwMDUzNDkxZmIxY2E2ZTU4NmIyMDI4MDA2MjY0YzE0YzY0`

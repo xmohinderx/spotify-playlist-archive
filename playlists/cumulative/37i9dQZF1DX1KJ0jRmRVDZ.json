@@ -190,6 +190,28 @@
     },
     {
       "album": {
+        "name": "Blank",
+        "url": "https://open.spotify.com/album/5KKgfaPcmsuYRSbS1YmuvM"
+      },
+      "artists": [
+        {
+          "name": "Kei Sugawara",
+          "url": "https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS"
+        },
+        {
+          "name": "mao sasagawa",
+          "url": "https://open.spotify.com/artist/4ZqPdBTOiHdOUnv40Wqpy8"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210243,
+      "name": "Blank",
+      "url": "https://open.spotify.com/track/4b0RQRCxvOa7qifoVPZ7NM"
+    },
+    {
+      "album": {
         "name": "Blend (feat. \u4e00\u4e8c\u4e09 / \u9577\u6708\u7fe0)",
         "url": "https://open.spotify.com/album/5ObaAmBNkhqT0htpuIR9mk"
       },
@@ -337,7 +359,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 174842,
       "name": "CapSule",
       "url": "https://open.spotify.com/track/4M7mmhZvhN1wBypbu0Z0zY"
@@ -559,7 +581,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 182092,
       "name": "Dorothy",
       "url": "https://open.spotify.com/track/3ZmHr5x6Ta89QaAIjGvmTN"
@@ -903,7 +925,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 254045,
       "name": "ia",
       "url": "https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn"
@@ -1735,7 +1757,7 @@
       ],
       "date_added": "2022-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 195226,
       "name": "Tot Musica",
       "url": "https://open.spotify.com/track/5hL1l3xsH0ZyKl8yUI6woj"
@@ -2919,7 +2941,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 169866,
       "name": "\u30a4\u30df\u30c6\u30a4\u30b7\u30e7\u30f3 (starring \u73c0)",
       "url": "https://open.spotify.com/track/3DQH7at5thxDmUMsD65Lzo"
@@ -2977,7 +2999,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 173373,
       "name": "\u30a6\u30bf\u30ab\u30bf\u30e9\u30e9\u30d0\u30a4",
       "url": "https://open.spotify.com/track/5HnfjLWXhy0xFvFEcEM1w3"
@@ -3249,6 +3271,24 @@
       "duration_ms": 219426,
       "name": "\u30af\u30ec\u30a4\u30b8\u30fc\u30c0\u30f3\u30b9",
       "url": "https://open.spotify.com/track/2eQYa3duBBkLnrH8QXF7uY"
+    },
+    {
+      "album": {
+        "name": "\u30dc\u30ab\u30ed\u4e09\u66272",
+        "url": "https://open.spotify.com/album/7923rSNgNuGMTWNuQ506oK"
+      },
+      "artists": [
+        {
+          "name": "WagakkiBand",
+          "url": "https://open.spotify.com/artist/3PzqP5IkpLhlSdZLh7jwPn"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "\u30b0\u30c3\u30d0\u30a4\u5ba3\u8a00",
+      "url": "https://open.spotify.com/track/3dRhZApPNSUPmzQfV5sezx"
     },
     {
       "album": {
@@ -3555,6 +3595,24 @@
       "duration_ms": 233949,
       "name": "\u30ba\u30eb\u3044\u5e7b",
       "url": "https://open.spotify.com/track/1JokCoiPsYB0i3RISCtldq"
+    },
+    {
+      "album": {
+        "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH"
+      },
+      "artists": [
+        {
+          "name": "Kiro Akiyama",
+          "url": "https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194266,
+      "name": "\u30bd\u30fc\u30a4\u30f3\u30b0\u30dc\u30c3\u30af\u30b9",
+      "url": "https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD"
     },
     {
       "album": {
@@ -5403,7 +5461,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 282545,
       "name": "\u5f31\u866b\u306e\u30e9\u30d6\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/0M7ZN4vDM3RsOTvb1G8H8z"
@@ -5957,7 +6015,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 226702,
       "name": "\u6771\u4eac\u5922\u904a (\u6771\u4eac\u4e00\u8f49 Japanese Version)",
       "url": "https://open.spotify.com/track/5o4KlQR1SDK6A2ux7hJE33"
@@ -6571,7 +6629,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 186830,
       "name": "\u771fFAKE STYLE",
       "url": "https://open.spotify.com/track/6L8g3chPzfT1IgzkADX9zi"
@@ -6993,7 +7051,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 255173,
       "name": "\u8896\u306e\u30ad\u30eb\u30c8",
       "url": "https://open.spotify.com/track/7iDC1sNnfChQhMmdBuZmBA"
@@ -7220,6 +7278,24 @@
     },
     {
       "album": {
+        "name": "\u30a6\u30bf\u306e\u6b4c ONE PIECE FILM RED",
+        "url": "https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA"
+      },
+      "artists": [
+        {
+          "name": "Ado",
+          "url": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237666,
+      "name": "\u9006\u5149",
+      "url": "https://open.spotify.com/track/78MS9OT9Flm2V78fhTw4rk"
+    },
+    {
+      "album": {
         "name": "\u9006\u5149 (\u30a6\u30bf from ONE PIECE FILM RED)",
         "url": "https://open.spotify.com/album/3ZARNbKk2zkYDeVQpHE564"
       },
@@ -7267,7 +7343,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 194823,
       "name": "\u9032\u3081!\u305d\u3063\u3061\u3060!",
       "url": "https://open.spotify.com/track/1VIXmzlTN3HSIbwCQQaCl8"
@@ -7357,7 +7433,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-11",
+      "date_removed": null,
       "duration_ms": 195080,
       "name": "\u963f\u4fee\u7f85\u3061\u3083\u3093",
       "url": "https://open.spotify.com/track/0cN6iBeCR7NgeBeTIKjLml"

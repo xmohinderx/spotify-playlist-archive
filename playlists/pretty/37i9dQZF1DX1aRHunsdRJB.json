@@ -1,12 +1,12 @@
 {
   "description": "A playlist driven from the islands, take the front seat as Soca meets Bashment \n\n",
-  "num_followers": 7486,
+  "num_followers": 7494,
   "original_name": "Soca Bashment",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDAyYmI2YjY1MTNiOWEyNjIwZDM2YTU2ZGIwOWM1NTAx",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGUxNDRhMzlhNzM0ZDViYTRkNzBhYzE1NjU5NTRhMGVl",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Baila Riddim",
-        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 133746,
-      "name": "Boss Lady (Sign Me Up)",
-      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Tic It & Tac It",
         "url": "https://open.spotify.com/album/4ZYGqtyawJ66Dsp9C2VR3W"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 123500,
       "name": "Tic It & Tac It",
       "url": "https://open.spotify.com/track/1Cy2yw8wrzHpi1UMK8nnL2"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Baila Riddim",
+        "url": "https://open.spotify.com/album/7k8okFoxLMVcK8sptO5ZmS"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 133746,
+      "name": "Boss Lady (Sign Me Up)",
+      "url": "https://open.spotify.com/track/6PR1VSJ3fAnZpRrgIAYgXJ"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1035,26 +1035,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
-        "url": "https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG"
-      },
-      "artists": [
-        {
-          "name": "Precision Productions",
-          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
-        },
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 203499,
-      "name": "Rough Wine",
-      "url": "https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Feeling It",
         "url": "https://open.spotify.com/album/0P6SHtWPIF5mAa88FfzDJL"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 247272,
       "name": "Feeling It",
       "url": "https://open.spotify.com/track/4NpXmgdiPB75BvFr8C07qD"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Physique Riddim (Soca 2018 Trinidad and Tobago Carnival)",
+        "url": "https://open.spotify.com/album/3CIwIu98V54pWArwDuLvAG"
+      },
+      "artists": [
+        {
+          "name": "Precision Productions",
+          "url": "https://open.spotify.com/artist/5selbVFrTsq2rTkqPWrHiA"
+        },
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 203499,
+      "name": "Rough Wine",
+      "url": "https://open.spotify.com/track/7lpwFH6GQr6q6A3nZKPwBH"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Honda",
-        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
-      },
-      "artists": [
-        {
-          "name": "Twani",
-          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
-        }
-      ],
-      "duration_ms": 213864,
-      "name": "Honda",
-      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Bus a Wine",
         "url": "https://open.spotify.com/album/6Mdi37IckdFe9fbb2fI7uH"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 183050,
       "name": "Bus a Wine",
       "url": "https://open.spotify.com/track/3mfgJieep1Sp2eB7Ic5Wsp"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Honda",
+        "url": "https://open.spotify.com/album/73GCIsIqvyDYBEieDAN0P1"
+      },
+      "artists": [
+        {
+          "name": "Twani",
+          "url": "https://open.spotify.com/artist/2Pq8Zpk0RrS8tBFF4xTqAh"
+        }
+      ],
+      "duration_ms": 213864,
+      "name": "Honda",
+      "url": "https://open.spotify.com/track/0MpfX3Q5omIiuREWGeLLwF"
     },
     {
       "added_at": "2022-02-24 18:00:00",

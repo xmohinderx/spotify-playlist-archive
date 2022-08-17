@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6kXNv8J3HCYztxjOIUzApv.md) - [plain]
 
 > Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!
 
-[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 57,027 likes - 153 songs - 9 hr 44 min
+[Better Noise Music](https://open.spotify.com/user/elevensevenmusic) - 57,026 likes - 153 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

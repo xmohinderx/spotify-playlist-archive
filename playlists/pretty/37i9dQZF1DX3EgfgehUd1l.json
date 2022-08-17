@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 137179,
+  "num_followers": 137212,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMDkyZmUwYTM0YWQ3MmM4Mzc3ZTE3NTY1MjQ2NWZjNGM3",
+  "snapshot_id": "MTU5NDIyOTc2OCwwMDAwMDAwMGZkZGQ5MjY4NjkzNjMzMzJlMzIzNmMxYTUxY2M5Mzdl",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -387,22 +387,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Greatest Hits: Walking To New Orleans",
-        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
-      },
-      "artists": [
-        {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
-        }
-      ],
-      "duration_ms": 143440,
-      "name": "Blueberry Hill - Remastered 2002",
-      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "The \"Chirping\" Crickets",
         "url": "https://open.spotify.com/album/1KfXNUbZrdwHMtkAGNBLBq"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 122600,
       "name": "Maybe Baby",
       "url": "https://open.spotify.com/track/20UjAGdEjVb8DniNXvqHJy"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "Greatest Hits: Walking To New Orleans",
+        "url": "https://open.spotify.com/album/0SFClXD5CAnZ6vzrcTzXgQ"
+      },
+      "artists": [
+        {
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+        }
+      ],
+      "duration_ms": 143440,
+      "name": "Blueberry Hill - Remastered 2002",
+      "url": "https://open.spotify.com/track/2NkAoxQOr6MGdMB5JDTU81"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -631,22 +631,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Buddy Holly Story",
-        "url": "https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31"
+        "name": "Dance To The Bop",
+        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
       },
       "artists": [
         {
-          "name": "Buddy Holly",
-          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
-        },
-        {
-          "name": "The Crickets",
-          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
+          "name": "Gene Vincent & His Blue Caps",
+          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
         }
       ],
-      "duration_ms": 124573,
-      "name": "It Doesn't Matter Anymore",
-      "url": "https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6"
+      "duration_ms": 156306,
+      "name": "Be-Bop-A-Lula",
+      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -667,18 +663,22 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Dance To The Bop",
-        "url": "https://open.spotify.com/album/3oavZnlCWGZJyXj8fuLVlR"
+        "name": "The Buddy Holly Story",
+        "url": "https://open.spotify.com/album/0HOBzCqZERU4XdD1vStK31"
       },
       "artists": [
         {
-          "name": "Gene Vincent & His Blue Caps",
-          "url": "https://open.spotify.com/artist/7lKaTIgVek1R2lqpCulQmq"
+          "name": "Buddy Holly",
+          "url": "https://open.spotify.com/artist/3wYyutjgII8LJVVOLrGI0D"
+        },
+        {
+          "name": "The Crickets",
+          "url": "https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR"
         }
       ],
-      "duration_ms": 156306,
-      "name": "Be-Bop-A-Lula",
-      "url": "https://open.spotify.com/track/0HUp7ipIDJvITTqizN6cxJ"
+      "duration_ms": 124573,
+      "name": "It Doesn't Matter Anymore",
+      "url": "https://open.spotify.com/track/5EL2sCnfsxm3FPCXGET1U6"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -807,18 +807,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "Bobby Vee",
-        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
+        "name": "A Sweet Old-Fashioned Girl",
+        "url": "https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh"
       },
       "artists": [
         {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+          "name": "Teresa Brewer",
+          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
         }
       ],
-      "duration_ms": 144106,
-      "name": "Rubber Ball",
-      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
+      "duration_ms": 156400,
+      "name": "A Tear Fell",
+      "url": "https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -839,18 +839,18 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "A Sweet Old-Fashioned Girl",
-        "url": "https://open.spotify.com/album/31ZGnm5pSQoMiz1YnDyYIh"
+        "name": "Bobby Vee",
+        "url": "https://open.spotify.com/album/6BGdVppgZLN2Ak2ngKjdAV"
       },
       "artists": [
         {
-          "name": "Teresa Brewer",
-          "url": "https://open.spotify.com/artist/2mPL4g4v9DS55zi6QctLbP"
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
         }
       ],
-      "duration_ms": 156400,
-      "name": "A Tear Fell",
-      "url": "https://open.spotify.com/track/4AcFQfO6RDUl9S0Mioxbm2"
+      "duration_ms": 144106,
+      "name": "Rubber Ball",
+      "url": "https://open.spotify.com/track/35gkASz2Cb1VryMGIuEPjX"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Young Love of Tab Hunter",
-        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
-      },
-      "artists": [
-        {
-          "name": "Tab Hunter",
-          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
-        }
-      ],
-      "duration_ms": 146502,
-      "name": "Young Love",
-      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Mr. Broadway",
         "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Young Love of Tab Hunter",
+        "url": "https://open.spotify.com/album/42j5U2yHrzwOsXQnzkmk4j"
+      },
+      "artists": [
+        {
+          "name": "Tab Hunter",
+          "url": "https://open.spotify.com/artist/0pVnnK639XgJiMuv10JLRe"
+        }
+      ],
+      "duration_ms": 146502,
+      "name": "Young Love",
+      "url": "https://open.spotify.com/track/3f447padVRsEa7JrtRNJhT"
     },
     {
       "added_at": "2020-07-08 17:36:08",

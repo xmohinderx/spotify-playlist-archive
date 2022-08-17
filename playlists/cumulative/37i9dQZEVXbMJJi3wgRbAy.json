@@ -6232,6 +6232,28 @@
     },
     {
       "album": {
+        "name": "Sin Se\u00f1al",
+        "url": "https://open.spotify.com/album/3XzR9NGfQOmwP9KQQSW3sI"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Ovy On The Drums",
+          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185084,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/1Y62KpDaP5MEL43ZcI6IaG"
+    },
+    {
+      "album": {
         "name": "Snow Tha Product: Bzrp Music Sessions, Vol. 39",
         "url": "https://open.spotify.com/album/3GN1tT5enSZQ6lMDtls3an"
       },
@@ -7263,7 +7285,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 192143,
       "name": "UN PASO",
       "url": "https://open.spotify.com/track/4LUzWf03uKUeEKvo6FbhV0"

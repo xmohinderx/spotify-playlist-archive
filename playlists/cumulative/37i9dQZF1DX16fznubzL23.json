@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-17",
       "duration_ms": 305763,
       "name": "Bye Bye",
       "url": "https://open.spotify.com/track/0cqStpyp4fqgMweeuDuyg3"
@@ -691,6 +691,28 @@
       "duration_ms": 187027,
       "name": "Lie Again",
       "url": "https://open.spotify.com/track/6LL5S3DGrUJ6cZRuDefguP"
+    },
+    {
+      "album": {
+        "name": "Lie To Me (Tell Me a Fairy Tale)",
+        "url": "https://open.spotify.com/album/6LV9r0DgOvWCJj0j4kYbO4"
+      },
+      "artists": [
+        {
+          "name": "Karun",
+          "url": "https://open.spotify.com/artist/50bljU0VZtp2E7nAFRy5pC"
+        },
+        {
+          "name": "Blocka Beats",
+          "url": "https://open.spotify.com/artist/7aQKaQoCPS9HOu4fOtJSEm"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Lie To Me (Tell Me a Fairy Tale)",
+      "url": "https://open.spotify.com/track/5uWY0KnnVk2EVeUsgsnOFW"
     },
     {
       "album": {
