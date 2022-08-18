@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-572 songs - 1 day 14 hr 0 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
+573 songs - 1 day 14 hr 3 min - [published](https://open.spotify.com/playlist/0uPuwYwBrzeG3t3iOTEjtU)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -404,6 +404,7 @@
 | [ハミングバード](https://open.spotify.com/track/4UWgxwXFgwe4g7Y9dzWgN8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [ハミングバード](https://open.spotify.com/album/76j7gSpUXk4QNPJvJwoh5l) | 4:18 | 2022-06-03 | 2022-07-20 |
 | [ヒカレイノチ](https://open.spotify.com/track/4uVvqoI2sWncxvqgwRZ1H9) | [Kitri](https://open.spotify.com/artist/2i9CbxfaMspiPMCYZgvgPW) | [ヒカレイノチ](https://open.spotify.com/album/60Gf0UmTTxeSSiNH0My9sq) | 5:22 | 2022-06-03 | 2022-07-25 |
 | [ビビっとラブ](https://open.spotify.com/track/3XS6AoZrCPoLg8bm5Gk4Pb) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd), [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [ビビっとラブ](https://open.spotify.com/album/3XsxmFkO0mx2qfxrute4dH) | 3:55 | 2022-07-07 | 2022-07-14 |
+| [ビンクスの酒](https://open.spotify.com/track/4wsKw43OnCzoDqfhcxBvRf) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 3:26 | 2022-08-17 |  |
 | [ピラミッド大逆転](https://open.spotify.com/track/2FR4PLn6gIq4pZr75zqBMN) | [スピラ・スピカ](https://open.spotify.com/artist/3ncARjIEl4SrcrnpOIV5CO) | [ピラミッド大逆転](https://open.spotify.com/album/405hxI0ZBbPpRTK4FUsiw9) | 3:49 | 2022-06-14 | 2022-06-21 |
 | [ピースサイン](https://open.spotify.com/track/5d0vOwEXKjlcb0RWy0EIt6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [ピースサイン](https://open.spotify.com/album/4ZpIFW4JzbWmvdvm9PI3K8) | 3:57 | 2022-06-03 | 2022-06-11 |
 | [ピースサイン](https://open.spotify.com/track/6QpWIlT6WqmwSYpR9Tjb13) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Peace Sign \- EP](https://open.spotify.com/album/42FMdvus2YAtEp6hGHgiD6) | 3:57 | 2022-06-03 | 2022-07-24 |
@@ -437,7 +438,7 @@
 | [不完全ドリーマー](https://open.spotify.com/track/3m6dse2AdzEZ83Fa5OqaeD) | [Aimi](https://open.spotify.com/artist/4csDToi5WSYjE48uYt0uYi) | [不完全ドリーマー](https://open.spotify.com/album/4Lo5xGczeAbrU4LZP0QiDa) | 4:47 | 2022-06-21 | 2022-07-14 |
 | [世界が私を呼ぶから](https://open.spotify.com/track/3ti5HbpOassT7t56Gs5JNH) | [Sachika Misawa](https://open.spotify.com/artist/7cFgscmiwzpnPjOKx1ZZAZ) | [深呼吸](https://open.spotify.com/album/46qejdyZJ6QBJJzSg7ItIv) | 3:00 | 2022-07-14 | 2022-07-16 |
 | [世界の秘密](https://open.spotify.com/track/22WF5vcNEN1KHd56QV8gsE) | [Sayuri](https://open.spotify.com/artist/1YLxQZIGsaZq9rvFu8zeRz) | [世界の秘密](https://open.spotify.com/album/1Rs78ZgkAgR9SQF9XM9g2V) | 5:49 | 2022-06-03 | 2022-07-22 |
-| [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 |  |
+| [世界は恋に落ちている](https://open.spotify.com/track/7JPAO45DZOmN2bciVaBia5) | [CHiCO with HoneyWorks](https://open.spotify.com/artist/7qpGWSiolU9E5WbkvTaMDd) | [世界はiに満ちている](https://open.spotify.com/album/5SuByixIlQq7r1bValOe0G) | 5:12 | 2022-07-28 | 2022-08-18 |
 | [二千五百万分の一](https://open.spotify.com/track/4DbIulyjvPtJm3PIWafYqI) | [Mafumafu](https://open.spotify.com/artist/6t6aXZlmnAF1VuiG8BVjQZ) | [二千五百万分の一](https://open.spotify.com/album/6u6KAHO9S197rlYJQu9BxB) | 4:46 | 2022-06-03 | 2022-07-29 |
 | [五等分のカタチ](https://open.spotify.com/track/0c0SnAvk6flplPQWkb0oIO) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [五等分のカタチ/はつこい](https://open.spotify.com/album/2tipmDU5JevnaQU9a6Ft3o) | 4:03 | 2022-06-24 | 2022-06-28 |
 | [人生は戦場だ \- Prod.by ats\-](https://open.spotify.com/track/3unpJWhOgxh0ayjWOTnydA) | [安斉かれん](https://open.spotify.com/artist/69hIxBVhw5zdCXv01W3Mbd) | [人生は戦場だ \(Prod.by ats\-\)](https://open.spotify.com/album/3fwXcwPrZVClE3lLXpUBcH) | 4:24 | 2022-06-24 | 2022-06-28 |

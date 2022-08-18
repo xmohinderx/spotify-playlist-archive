@@ -1,12 +1,12 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1009855,
+  "num_followers": 1010148,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGMzNDE0N2M4MjVhMGJmMmNjMzE1YjQyMTk5MTYzN2I3",
+  "snapshot_id": "MTY1OTA0NTYwMCwwMDAwMDAwMGRkNDU3MGNjNDlhNzg4MDhiMTRkMjdjN2Q4ZTczMjMx",
   "tracks": [
     {
       "added_at": "2022-07-28 22:00:00",
@@ -303,6 +303,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Donny In Valdez (PJ's Flip)",
+        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
+      },
+      "artists": [
+        {
+          "name": "Pale Jay",
+          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
+        },
+        {
+          "name": "Erick the Architect",
+          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
+        }
+      ],
+      "duration_ms": 113747,
+      "name": "Donny In Valdez - PJ's Flip",
+      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Waking up to Sirens",
         "url": "https://open.spotify.com/album/1K4eQgsqboN5w0xLsQx9lA"
       },
@@ -335,26 +355,6 @@
       "duration_ms": 199373,
       "name": "Bittersweet Baby",
       "url": "https://open.spotify.com/track/7KPZwV0b7aFQXhIPahLJdZ"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Donny In Valdez (PJ's Flip)",
-        "url": "https://open.spotify.com/album/3FIC8oblGMKDC7Y3nLPA4Z"
-      },
-      "artists": [
-        {
-          "name": "Pale Jay",
-          "url": "https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM"
-        },
-        {
-          "name": "Erick the Architect",
-          "url": "https://open.spotify.com/artist/2mQLwfvZtvtTbipKn3xHmK"
-        }
-      ],
-      "duration_ms": 113747,
-      "name": "Donny In Valdez - PJ's Flip",
-      "url": "https://open.spotify.com/track/2GDzymJClRxEhhDYGwQZz6"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -503,6 +503,22 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Resurrection",
+        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        }
+      ],
+      "duration_ms": 227826,
+      "name": "Resurrection",
+      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Elusive",
         "url": "https://open.spotify.com/album/24aBKIQMXzdMYZkWSGFLTK"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 222200,
       "name": "Elusive",
       "url": "https://open.spotify.com/track/4mbOTHs6heygME9uDHg0mf"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "Resurrection",
-        "url": "https://open.spotify.com/album/0JKjuvDUPrnlblAZyB1Aje"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        }
-      ],
-      "duration_ms": 227826,
-      "name": "Resurrection",
-      "url": "https://open.spotify.com/track/4u7hiFNXUeTG3A4dqQrkcd"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -679,6 +679,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "A Beautiful Revolution (Pt 1)",
+        "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
+      },
+      "artists": [
+        {
+          "name": "Common",
+          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
+        },
+        {
+          "name": "PJ",
+          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
+        }
+      ],
+      "duration_ms": 242346,
+      "name": "What Do You Say (Move It Baby)",
+      "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "The Rain",
         "url": "https://open.spotify.com/album/6BtyNPQCLIJAsKVw5mojjn"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "A Beautiful Revolution (Pt 1)",
-        "url": "https://open.spotify.com/album/1ox4vPb5vQvWwATPX8RTZh"
-      },
-      "artists": [
-        {
-          "name": "Common",
-          "url": "https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc"
-        },
-        {
-          "name": "PJ",
-          "url": "https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb"
-        }
-      ],
-      "duration_ms": 242346,
-      "name": "What Do You Say (Move It Baby)",
-      "url": "https://open.spotify.com/track/1Yd7meWF4xNR13vys5IpUh"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1423,6 +1423,26 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
+        "name": "Speakthru (Bonus Tracks Version)",
+        "url": "https://open.spotify.com/album/4yMBcIwa2gx9Rrfln7sqvB"
+      },
+      "artists": [
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        },
+        {
+          "name": "Ivan Ave",
+          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
+        }
+      ],
+      "duration_ms": 187175,
+      "name": "Shine Thru",
+      "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
         "name": "Rosy Lee",
         "url": "https://open.spotify.com/album/55yMb48WHIzbK1CG63qG0L"
       },
@@ -1475,26 +1495,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Speakthru (Bonus Tracks Version)",
-        "url": "https://open.spotify.com/album/4yMBcIwa2gx9Rrfln7sqvB"
-      },
-      "artists": [
-        {
-          "name": "FloFilz",
-          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
-        },
-        {
-          "name": "Ivan Ave",
-          "url": "https://open.spotify.com/artist/7BxJEL8I7OoAMGyPWn1cPS"
-        }
-      ],
-      "duration_ms": 187175,
-      "name": "Shine Thru",
-      "url": "https://open.spotify.com/track/4QXkUqCzWJMU9znu821Kky"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "See You Soon",
         "url": "https://open.spotify.com/album/11y45vkgrNDca3bohfcT3j"
       },
@@ -1515,6 +1515,26 @@
       "duration_ms": 153750,
       "name": "Flashback",
       "url": "https://open.spotify.com/track/72AeYsLNGsNXLVwwbXuUTj"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "IMMORTAL",
+        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
+      },
+      "artists": [
+        {
+          "name": "Ricki Monique",
+          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
+        },
+        {
+          "name": "yourbeautifulruin",
+          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
+        }
+      ],
+      "duration_ms": 185298,
+      "name": "IMMORTAL",
+      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1559,26 +1579,6 @@
       "duration_ms": 145051,
       "name": "New Day",
       "url": "https://open.spotify.com/track/6frS5yt1VZWpjrsJDNbzN3"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
-        "name": "IMMORTAL",
-        "url": "https://open.spotify.com/album/319LHi4wWscQDHlrGrS4qI"
-      },
-      "artists": [
-        {
-          "name": "Ricki Monique",
-          "url": "https://open.spotify.com/artist/2qiQ2hQPZpDnkn30EzDwRr"
-        },
-        {
-          "name": "yourbeautifulruin",
-          "url": "https://open.spotify.com/artist/5YQYYzqGLj9zvH7Qx8SCag"
-        }
-      ],
-      "duration_ms": 185298,
-      "name": "IMMORTAL",
-      "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
     },
     {
       "added_at": "2022-07-28 22:00:00",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-07-28 22:00:00",
       "album": {
-        "name": "Flowers On The Weekend",
-        "url": "https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K"
-      },
-      "artists": [
-        {
-          "name": "Asher Roth",
-          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
-        }
-      ],
-      "duration_ms": 152227,
-      "name": "Flowers On The Weekend",
-      "url": "https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ"
-    },
-    {
-      "added_at": "2022-07-28 22:00:00",
-      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 188764,
       "name": "That Jazz",
       "url": "https://open.spotify.com/track/2fDT3A5tLwiySARQEawvRo"
+    },
+    {
+      "added_at": "2022-07-28 22:00:00",
+      "album": {
+        "name": "Flowers On The Weekend",
+        "url": "https://open.spotify.com/album/1o8meEDwi5nGluhnWfqs7K"
+      },
+      "artists": [
+        {
+          "name": "Asher Roth",
+          "url": "https://open.spotify.com/artist/1wgY8huggK60P5nvYrwcYT"
+        }
+      ],
+      "duration_ms": 152227,
+      "name": "Flowers On The Weekend",
+      "url": "https://open.spotify.com/track/2fymL9YLaFKDGMvVDzNGbQ"
     },
     {
       "added_at": "2022-07-28 22:00:00",

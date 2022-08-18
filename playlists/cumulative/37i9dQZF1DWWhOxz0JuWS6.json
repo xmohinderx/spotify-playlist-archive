@@ -1967,7 +1967,7 @@
       ],
       "date_added": "2020-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 286533,
       "name": "Edie (Ciao Baby)",
       "url": "https://open.spotify.com/track/0VBwnyPvxv39tQAirTYsMz"
@@ -4193,6 +4193,24 @@
       "duration_ms": 164240,
       "name": "Lil' Devil",
       "url": "https://open.spotify.com/track/2eCMo4mGYHqa9KbIZH2UJZ"
+    },
+    {
+      "album": {
+        "name": "Electric",
+        "url": "https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "date_added": "2020-12-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166040,
+      "name": "Lil' Devil",
+      "url": "https://open.spotify.com/track/7yegaaIxiqkPANAVLFCteI"
     },
     {
       "album": {

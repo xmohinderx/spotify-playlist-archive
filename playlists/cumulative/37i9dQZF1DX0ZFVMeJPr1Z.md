@@ -4,7 +4,7 @@
 
 > Spellistan för den svenska sommaren.
 
-92 songs - 5 hr 36 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
+93 songs - 5 hr 41 min - [published](https://open.spotify.com/playlist/4mrmOcrXwC1fOiVBPSDUca)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Ingen sommar utan reggae](https://open.spotify.com/track/2q0G8uC4KuwDNtTsI9nfUA) | [Markoolio](https://open.spotify.com/artist/0cAOG10Gh3ORpBRZ9c7Zam) | [Ingen sommar utan reggae](https://open.spotify.com/album/4VaOFGmlPu7Vljv1bLHZRh) | 3:49 | 2020-07-23 |  |
 | [Juni, Juli, Augusti](https://open.spotify.com/track/2AXTRWWGTwgp0Ud8cPzT5S) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Konstpaus](https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW) | 3:52 | 2020-07-23 |  |
 | [Juni, Juli, Augusti](https://open.spotify.com/track/4UDnYc528V932a2lEtMQ5P) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 3:52 | 2020-07-23 | 2022-08-17 |
-| [Kung av sand](https://open.spotify.com/track/7C9SQqsckFfCu0lwcjoxNU) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 4:37 | 2020-07-23 |  |
+| [Kung av sand](https://open.spotify.com/track/7C9SQqsckFfCu0lwcjoxNU) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 4:37 | 2020-07-23 | 2022-08-18 |
+| [Kung av sand](https://open.spotify.com/track/2pIpooJWX5q8DIctvrdQP2) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Konstpaus](https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW) | 4:39 | 2020-07-23 |  |
 | [Magaluf](https://open.spotify.com/track/3BtfdogDmGe7Rp9NceOzWo) | [Orup](https://open.spotify.com/artist/6fJM13619LsYtyPqHvsf6A) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 4:04 | 2020-07-23 |  |
 | [När vi gräver guld i USA](https://open.spotify.com/track/1enBPq5iN4pXGeMIFFNuFz) | [Glenmark Eriksson Strömstedt](https://open.spotify.com/artist/18zO6eeR1PG505akCHt9yB) | [Svensk sommar](https://open.spotify.com/album/1hGknhDJeqGl2VR95CLGal) | 4:07 | 2020-07-23 |  |
 | [Oh boy](https://open.spotify.com/track/3VsMDGtaLvkctJieuQ0qzA) | [Peps Persson](https://open.spotify.com/artist/5xmgC1jISe31QZSp8gqKUJ) | [Peps Bitar 1968\-1992](https://open.spotify.com/album/2CSFCOu8pCK2Sgf1vaCTVa) | 4:02 | 2020-07-23 | 2022-07-29 |

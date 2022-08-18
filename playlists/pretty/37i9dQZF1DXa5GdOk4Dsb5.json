@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 65017,
+  "num_followers": 65137,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDczMTc1MywwMDAwMDAwMDc1ZjJjN2I0NTFmNDQwYmU3ODY0YTUzMWZhNDY0NTQ5",
+  "snapshot_id": "MTY1NDczMTc1MywwMDAwMDAwMDZiNDA3ZTM2NjYxNGE2YjhmYjEwODhkN2VhMTRiMjM5",
   "tracks": [
     {
       "added_at": "2022-06-08 23:42:33",
@@ -132,7 +132,7 @@
           "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
         }
       ],
-      "duration_ms": 195660,
+      "duration_ms": 198018,
       "name": "Me Falta la Mitad",
       "url": "https://open.spotify.com/track/6kYCW00ZxqKBbtx7y4r4Dd"
     },
@@ -859,22 +859,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
+        "name": "Hecho En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
       },
       "artists": [
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
+      "duration_ms": 229053,
+      "name": "Caballero",
+      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1015,18 +1011,22 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Hecho En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6pbAg7ucQDM2j47aCaxpMI"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
       },
       "artists": [
         {
           "name": "Alejandro Fern\u00e1ndez",
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Caballero",
-      "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
+      "duration_ms": 192960,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Aventurero",
-        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 190961,
-      "name": "Aventurero",
-      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
+      "duration_ms": 151120,
+      "name": "De Qu\u00e9 Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1379,18 +1379,18 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Aventurero",
+        "url": "https://open.spotify.com/album/5gdo7K3EFl1CSiOM9P8jTG"
       },
       "artists": [
         {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
         }
       ],
-      "duration_ms": 151120,
-      "name": "De Qu\u00e9 Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
+      "duration_ms": 190961,
+      "name": "Aventurero",
+      "url": "https://open.spotify.com/track/0ftcn4ddKESqQMA784Ebc0"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "El Rey del Despecho - Internacional",
-        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 196884,
-      "name": "Entre Comillas",
-      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
         "name": "15 \u00c9xitazos",
         "url": "https://open.spotify.com/album/5mmZxvjnPHDjasQQ1F9514"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 114369,
       "name": "Me Sacaron Del Tenampa",
       "url": "https://open.spotify.com/track/6f4jjw4xqdX00zqaJ141PZ"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "El Rey del Despecho - Internacional",
+        "url": "https://open.spotify.com/album/4XdAY43mi3P37ptEGWI1K0"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 196884,
+      "name": "Entre Comillas",
+      "url": "https://open.spotify.com/track/4EllcwhWBlSSbwEsZKu1eG"
     },
     {
       "added_at": "2022-06-08 23:42:33",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2022-06-08 23:42:33",
       "album": {
-        "name": "Solo...Corridos",
-        "url": "https://open.spotify.com/album/34QgGKfya2LLnix0L7r2LL"
-      },
-      "artists": [
-        {
-          "name": "Dar\u00edo G\u00f3mez",
-          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
-        }
-      ],
-      "duration_ms": 190511,
-      "name": "La Tirana",
-      "url": "https://open.spotify.com/track/1NT6TpCeOEsy0KYhtMEwB5"
-    },
-    {
-      "added_at": "2022-06-08 23:42:33",
-      "album": {
         "name": "Mo\u00f1os Negros",
         "url": "https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 177466,
       "name": "Renunciaci\u00f3n",
       "url": "https://open.spotify.com/track/1hGx333PlqfWtTuPdyKmY6"
+    },
+    {
+      "added_at": "2022-06-08 23:42:33",
+      "album": {
+        "name": "Solo...Corridos",
+        "url": "https://open.spotify.com/album/34QgGKfya2LLnix0L7r2LL"
+      },
+      "artists": [
+        {
+          "name": "Dar\u00edo G\u00f3mez",
+          "url": "https://open.spotify.com/artist/3JCyEziWwDZksR1WY8EckM"
+        }
+      ],
+      "duration_ms": 190511,
+      "name": "La Tirana",
+      "url": "https://open.spotify.com/track/1NT6TpCeOEsy0KYhtMEwB5"
     },
     {
       "added_at": "2022-06-08 23:42:33",

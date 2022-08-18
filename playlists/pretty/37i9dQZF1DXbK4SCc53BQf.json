@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 72513,
+  "num_followers": 72564,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMDdmZWNmMTVhODg0ZjcwMzRjOWNhOWZlMmQzM2VmODNh",
+  "snapshot_id": "MTYwNjIyNDIzNSwwMDAwMDAwMGUyZGNjYjRmMzRkMzNiNDY3Y2JjMjg0ODJiZjdhYjEx",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:55",
@@ -435,6 +435,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Por Amor",
         "url": "https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 219692,
       "name": "Tu Eres (feat. Andrea Dominguez)",
       "url": "https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -603,6 +603,30 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+        "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 199506,
+      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
+      "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Lo Mejor De Mi, Para El",
         "url": "https://open.spotify.com/album/1e1CABBw5I7ZK8vUPcl3JG"
       },
@@ -651,30 +675,6 @@
       "duration_ms": 229955,
       "name": "Ritmo Del Cielo",
       "url": "https://open.spotify.com/track/78A0tsRzfFHAdyLWd1S5cA"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-        "url": "https://open.spotify.com/album/7fAjCNONQytoQTifBuDkwC"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 199506,
-      "name": "Me Llevas M\u00e1s Alto (feat. Alex Campos & Redimi2)",
-      "url": "https://open.spotify.com/track/0IBSKqWL16eHHqXl6HoPWy"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -743,6 +743,30 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Tu Amor",
+        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+        },
+        {
+          "name": "Melissa Hermosillo",
+          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
+        }
+      ],
+      "duration_ms": 192402,
+      "name": "Tu Amor",
+      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Punto y Aparte",
         "url": "https://open.spotify.com/album/6AnxBxzyvCtPvNx7nn4zyM"
       },
@@ -803,30 +827,6 @@
       "duration_ms": 198599,
       "name": "La Fe Que Dios Me Di\u00f3",
       "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Tu Amor",
-        "url": "https://open.spotify.com/album/1TbMgpLI7P6CCq1mqVff90"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
-        },
-        {
-          "name": "Melissa Hermosillo",
-          "url": "https://open.spotify.com/artist/35U8X9qqvWRAAhCkjN7LnP"
-        }
-      ],
-      "duration_ms": 192402,
-      "name": "Tu Amor",
-      "url": "https://open.spotify.com/track/61No7p1QjC00WCWM6wP88E"
     },
     {
       "added_at": "2020-11-24 13:23:55",

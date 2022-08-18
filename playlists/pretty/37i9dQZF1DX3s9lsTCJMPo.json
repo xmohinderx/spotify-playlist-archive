@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. ",
-  "num_followers": 40319,
+  "num_followers": 40357,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMGYzZjllZDdmMDViNjFmOWYxODFlYjQ4YjA4OGMwNzYz",
+  "snapshot_id": "MTY0NTcyNTYwMCwwMDAwMDAwMDFhYTc4MDc5YjVkNTBhY2EwNzVjYjczNGY0YmI2MGE2",
   "tracks": [
     {
       "added_at": "2022-02-24 18:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Dance Party Gold",
-        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
-      },
-      "artists": [
-        {
-          "name": "Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
-        }
-      ],
-      "duration_ms": 370933,
-      "name": "Congo Man",
-      "url": "https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Gold 2002",
         "url": "https://open.spotify.com/album/1PUWTrzuAUhRtQ9uCdCEfs"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 219906,
       "name": "Wave Wid Me",
       "url": "https://open.spotify.com/track/30BrXdAkOF4rXyNbzV762F"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Dance Party Gold",
+        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
+        }
+      ],
+      "duration_ms": 370933,
+      "name": "Congo Man",
+      "url": "https://open.spotify.com/track/3q4Sj5DLRjnoSaPyujVQkm"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "Dance Party Gold",
+        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
+      },
+      "artists": [
+        {
+          "name": "Mighty Sparrow",
+          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
+        }
+      ],
+      "duration_ms": 595866,
+      "name": "Miss Mary - Medley",
+      "url": "https://open.spotify.com/track/2oMTYzJIlpQBYQoIk7YeLT"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Soca Gold 2004",
         "url": "https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 227440,
       "name": "Whoa Donkey",
       "url": "https://open.spotify.com/track/38Q3FJpLQpl4KkQARSEZ5Y"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "Dance Party Gold",
-        "url": "https://open.spotify.com/album/4fdqG9SOOd87uSIOVrUgDE"
-      },
-      "artists": [
-        {
-          "name": "Mighty Sparrow",
-          "url": "https://open.spotify.com/artist/4MFEUloFYnm8U4OAGWQH2w"
-        }
-      ],
-      "duration_ms": 595866,
-      "name": "Miss Mary - Medley",
-      "url": "https://open.spotify.com/track/2oMTYzJIlpQBYQoIk7YeLT"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "Soca Gold 2008",
-        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
-      },
-      "artists": [
-        {
-          "name": "Roy Cape",
-          "url": "https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL"
-        },
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 197293,
-      "name": "Breathless (feat. Blaxx)",
-      "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Wining Season",
         "url": "https://open.spotify.com/album/13CkWoU9B4mMsaE7iBCCFW"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 241373,
       "name": "Wining Season (Remix) (feat. Shaggy)",
       "url": "https://open.spotify.com/track/2XarXxbztfFGrFaEhdQRyy"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "Soca Gold 2008",
+        "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
+      },
+      "artists": [
+        {
+          "name": "Roy Cape",
+          "url": "https://open.spotify.com/artist/7zuD83ulzU9ikDKy7uOwHL"
+        },
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 197293,
+      "name": "Breathless (feat. Blaxx)",
+      "url": "https://open.spotify.com/track/1BYZZxsZGMAxzG2sMjby0l"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
+        "name": "The Xtatik Parade",
+        "url": "https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "duration_ms": 274173,
+      "name": "Craziness",
+      "url": "https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
         "name": "Roy Cape: A Calypso and Soca Anthology",
         "url": "https://open.spotify.com/album/5a218JENjR6SXj0pHQdsGy"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 248173,
       "name": "Tremble It",
       "url": "https://open.spotify.com/track/6SAn169CqU4vFXK8osHkWI"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
-        "name": "The Xtatik Parade",
-        "url": "https://open.spotify.com/album/73GTZfoieipDzMSPKWEN8E"
-      },
-      "artists": [
-        {
-          "name": "Machel Montano",
-          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
-        }
-      ],
-      "duration_ms": 274173,
-      "name": "Craziness",
-      "url": "https://open.spotify.com/track/5Bunj5XOX1ojVpgWMraiBk"
     },
     {
       "added_at": "2022-02-24 18:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-02-24 18:00:00",
       "album": {
-        "name": "The Best of the Shadow Vol. 1",
-        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
-      },
-      "artists": [
-        {
-          "name": "Shadow",
-          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
-        }
-      ],
-      "duration_ms": 305388,
-      "name": "Bassman",
-      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
-    },
-    {
-      "added_at": "2022-02-24 18:00:00",
-      "album": {
         "name": "Soca Anthology: Dr. Bird - The Mighty Sparrow",
         "url": "https://open.spotify.com/album/43EmMT9YD02mWcOYc01bOX"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 281733,
       "name": "How You Jamming So",
       "url": "https://open.spotify.com/track/19Zny2UeXxXOzCGG2H1qDE"
+    },
+    {
+      "added_at": "2022-02-24 18:00:00",
+      "album": {
+        "name": "The Best of the Shadow Vol. 1",
+        "url": "https://open.spotify.com/album/4x7MieciF1guO0NmlaXPqI"
+      },
+      "artists": [
+        {
+          "name": "Shadow",
+          "url": "https://open.spotify.com/artist/3KTiJdOTAN4wmzBtIGZF2a"
+        }
+      ],
+      "duration_ms": 305388,
+      "name": "Bassman",
+      "url": "https://open.spotify.com/track/0OxXxJVW6h5NwAR71GLCuE"
     },
     {
       "added_at": "2022-02-24 18:00:00",

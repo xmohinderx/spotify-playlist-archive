@@ -1,12 +1,12 @@
 {
   "description": "Aquela playlist pra ficar no quentin, gostosin.",
-  "num_followers": 79082,
+  "num_followers": 79132,
   "original_name": "dengo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGVkNjg0MGYxMGRmZmNkYmI1YjgxMjdkM2Q0YTRlZjM1",
+  "snapshot_id": "MTY2MDI3MzI2MCwwMDAwMDAwMGZjYWE2YzI3NDIxODNlY2YwZWI0MjBlMTNiODQ3Yzc2",
   "tracks": [
     {
       "added_at": "2022-08-12 03:01:00",
@@ -183,62 +183,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        },
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 350533,
-      "name": "Nothing Even Matters (feat. D'Angelo)",
-      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Broken Hearts Club",
-        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
-      },
-      "artists": [
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 203036,
-      "name": "Out Loud (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Another",
-        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
-      },
-      "artists": [
-        {
-          "name": "Muni Long",
-          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
-        }
-      ],
-      "duration_ms": 152175,
-      "name": "Another",
-      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Make Me Say It Again, Girl",
         "url": "https://open.spotify.com/album/52b0FH5bRs92vajujszHo0"
       },
@@ -263,6 +207,78 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        },
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 350533,
+      "name": "Nothing Even Matters (feat. D'Angelo)",
+      "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Another",
+        "url": "https://open.spotify.com/album/2jc8WpsmpUSKMzAKBQw6di"
+      },
+      "artists": [
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "duration_ms": 152175,
+      "name": "Another",
+      "url": "https://open.spotify.com/track/0R3BfnrLdW13mopXeKOTQZ"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Broken Hearts Club",
+        "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
+      },
+      "artists": [
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 203036,
+      "name": "Out Loud (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Hoodie",
+        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 244412,
+      "name": "Hoodie",
+      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -283,22 +299,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Letter To Ur Ex",
-        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 134279,
-      "name": "Letter To Ur N(ex)t",
-      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "TEMPORARY HIGHS IN THE VIOLET SKIES",
         "url": "https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3"
       },
@@ -311,6 +311,22 @@
       "duration_ms": 204133,
       "name": "DYING 4 YOUR LOVE",
       "url": "https://open.spotify.com/track/1Yx1TbWg1zbl6gQ3SCOFCN"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Letter To Ur Ex",
+        "url": "https://open.spotify.com/album/4IHthCcvRUuVuKtlclVSBY"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 134279,
+      "name": "Letter To Ur N(ex)t",
+      "url": "https://open.spotify.com/track/4LjOVLoj6OrrNJktFTYPGK"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -343,22 +359,6 @@
       "duration_ms": 224262,
       "name": "All That Matters - Spotify Singles",
       "url": "https://open.spotify.com/track/3lAVnqeRhV3zmkdDhEunUq"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Hoodie",
-        "url": "https://open.spotify.com/album/1ZLgyjJGWx0ocXdzxGAToN"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 244412,
-      "name": "Hoodie",
-      "url": "https://open.spotify.com/track/4WQquFaW7w5ddLqjgwUizy"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Seamless (with Kehlani)",
+        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 195265,
+      "name": "Seamless (with Kehlani)",
+      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "sorry",
         "url": "https://open.spotify.com/album/5yYBMehkCVXuFzaVPBBmzB"
       },
@@ -439,22 +459,6 @@
       "duration_ms": 220199,
       "name": "sorry",
       "url": "https://open.spotify.com/track/1Weox7JrxWlozk46HkXHTp"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Reality Show",
-        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 223093,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -475,22 +479,18 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Seamless (with Kehlani)",
-        "url": "https://open.spotify.com/album/0gKMMJm0FAVhgL8HUJdWLV"
+        "name": "Reality Show",
+        "url": "https://open.spotify.com/album/682dnvSPZ6lwCNodfMVcbh"
       },
       "artists": [
         {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
         }
       ],
-      "duration_ms": 195265,
-      "name": "Seamless (with Kehlani)",
-      "url": "https://open.spotify.com/track/2UqMwz0vqVDdkLHZrzSLOp"
+      "duration_ms": 223093,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/6KOc6ViZB8NtfCVABmTe66"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -579,6 +579,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Distance",
+        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+      },
+      "artists": [
+        {
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+        }
+      ],
+      "duration_ms": 255800,
+      "name": "Distance",
+      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Whatever Simon Says",
         "url": "https://open.spotify.com/album/78UFlfxHiZnU7Jl3tdDZxn"
       },
@@ -595,18 +611,18 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Distance",
-        "url": "https://open.spotify.com/album/5CMAmUz6cXCAyOutxsyYXC"
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
         }
       ],
-      "duration_ms": 255800,
-      "name": "Distance",
-      "url": "https://open.spotify.com/track/08W9Md8HXeJrx3omSQE2NF"
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -627,22 +643,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -715,26 +715,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Drunken Wordz Sober Thoughtz",
-        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
-      },
-      "artists": [
-        {
-          "name": "Sevyn Streeter",
-          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        }
-      ],
-      "duration_ms": 185753,
-      "name": "Wet Dreamz",
-      "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Love Quotes",
         "url": "https://open.spotify.com/album/5juVweq2A5JD3kkEPTU7zI"
       },
@@ -747,22 +727,6 @@
       "duration_ms": 195401,
       "name": "Love Quotes",
       "url": "https://open.spotify.com/track/6FnXRfvhQsTbiMaiXb2gff"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
-      },
-      "artists": [
-        {
-          "name": "Gallant",
-          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
-        }
-      ],
-      "duration_ms": 231733,
-      "name": "Julie.",
-      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -787,6 +751,42 @@
       "duration_ms": 256310,
       "name": "Anytime (feat. Kehlani & ROMderful)",
       "url": "https://open.spotify.com/track/465Yx9rm9mNmzTFlojTIRs"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Drunken Wordz Sober Thoughtz",
+        "url": "https://open.spotify.com/album/6sWl7sC34PChdFVegNJRuv"
+      },
+      "artists": [
+        {
+          "name": "Sevyn Streeter",
+          "url": "https://open.spotify.com/artist/6If57j6e3TXXk0HiLcIZca"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        }
+      ],
+      "duration_ms": 185753,
+      "name": "Wet Dreamz",
+      "url": "https://open.spotify.com/track/1lf6VaHYg3I1blTNrPOSDB"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
+      },
+      "artists": [
+        {
+          "name": "Gallant",
+          "url": "https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM"
+        }
+      ],
+      "duration_ms": 231733,
+      "name": "Julie.",
+      "url": "https://open.spotify.com/track/6ywzdDgKmTBBvJzDA91XKJ"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Chocolate Covered Strawberries",
-        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
-      },
-      "artists": [
-        {
-          "name": "Shelley FKA DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
-        }
-      ],
-      "duration_ms": 250241,
-      "name": "Chocolate Covered Strawberries",
-      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Rare Pleasure",
         "url": "https://open.spotify.com/album/4ZwuqG7srOt86hMjF0o3No"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 315798,
       "name": "Slowdance",
       "url": "https://open.spotify.com/track/0Nc4QJeqhbkFsjZWwyaDlt"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Chocolate Covered Strawberries",
+        "url": "https://open.spotify.com/album/00CseI2AUDprGKCOJcJzvb"
+      },
+      "artists": [
+        {
+          "name": "Shelley FKA DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+        }
+      ],
+      "duration_ms": 250241,
+      "name": "Chocolate Covered Strawberries",
+      "url": "https://open.spotify.com/track/3qzHEwPUvoo5jX1a3htb0G"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/67LcTyDUihSJ407FZ5JZMv"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 251320,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/6jcyTZserlQyyLrlTn9xSN"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Most Wanted",
         "url": "https://open.spotify.com/album/1qW6lKOXE6XsrZp0WjqB4H"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 208615,
       "name": "Stay Down",
       "url": "https://open.spotify.com/track/2kE7QJTNVVr3P0iYi7D0ia"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/67LcTyDUihSJ407FZ5JZMv"
+      },
+      "artists": [
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 251320,
+      "name": "Power",
+      "url": "https://open.spotify.com/track/6jcyTZserlQyyLrlTn9xSN"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Little Men (Deluxe)",
-        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
-      },
-      "artists": [
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 240074,
-      "name": "Crash for a Couple",
-      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
         "name": "Juslisen (Special Edition)",
         "url": "https://open.spotify.com/album/4qPIDLGtEYMRV10MbtKWbQ"
       },
@@ -1299,22 +1283,6 @@
       "duration_ms": 237240,
       "name": "Previouscats",
       "url": "https://open.spotify.com/track/7JmTY2JCt484HEgCuMOSA4"
-    },
-    {
-      "added_at": "2022-08-12 03:01:00",
-      "album": {
-        "name": "Midnight Snacks",
-        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
-      },
-      "artists": [
-        {
-          "name": "Kelis",
-          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Midnight Snacks",
-      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1343,6 +1311,22 @@
       "duration_ms": 227132,
       "name": "Better Than I Imagined [Feat. H.E.R. & Meshell Ndegeocello] - KAYTRANADA Remix",
       "url": "https://open.spotify.com/track/5A3aEJL7HkijkxLFXMv7FN"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
+        "name": "Midnight Snacks",
+        "url": "https://open.spotify.com/album/69SluMWHbTMoVRPTa4qVmh"
+      },
+      "artists": [
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Midnight Snacks",
+      "url": "https://open.spotify.com/track/3dfnjL5M28ZkSZU0SSSSGa"
     },
     {
       "added_at": "2022-08-12 03:01:00",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
+        "name": "Genius",
+        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 188797,
+      "name": "Genius",
+      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
+    },
+    {
+      "added_at": "2022-08-12 03:01:00",
+      "album": {
         "name": "Neptune",
         "url": "https://open.spotify.com/album/7lWaBLQgjjq9m0NM18DAgA"
       },
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2022-08-12 03:01:00",
       "album": {
-        "name": "Genius",
-        "url": "https://open.spotify.com/album/5TZPCuD8f2tWPLqyvodyWn"
+        "name": "Little Men (Deluxe)",
+        "url": "https://open.spotify.com/album/4j5hckSfZgpxQZ2cMmqVaB"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
         }
       ],
-      "duration_ms": 188797,
-      "name": "Genius",
-      "url": "https://open.spotify.com/track/5Ipg2NVgC9xgAqxdaJpBen"
+      "duration_ms": 240074,
+      "name": "Crash for a Couple",
+      "url": "https://open.spotify.com/track/4QZftmaKVCq83BdkmnEIna"
     },
     {
       "added_at": "2022-08-12 03:01:00",

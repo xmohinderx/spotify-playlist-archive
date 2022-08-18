@@ -4,7 +4,7 @@
 
 > Soft and swinging jazz in the background of your cocktail party.
 
-130 songs - 9 hr 11 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
+131 songs - 9 hr 14 min - [published](https://open.spotify.com/playlist/2vEWDsu9Afic181JBShVxc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Birth Of The Blues](https://open.spotify.com/track/1Eml72eKmu7dIa90d9IpQf) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Blows The Blues](https://open.spotify.com/album/4DMXKelmkZzhVs4hSJPdK5) | 5:57 | 2022-04-26 |  |
 | [Blue Spaces](https://open.spotify.com/track/5LBbKfP2Jf8z7EcEBmqyF7) | [Oakwood Station](https://open.spotify.com/artist/5ogO48IG4KEeiAwFTJ8nCf) | [Somewhere Sometime](https://open.spotify.com/album/61eTNkadKyRISklk0p0TJf) | 3:03 | 2022-04-26 | 2022-06-23 |
 | [Bonez](https://open.spotify.com/track/28XVmbVQDN2hSVKBHXa0wM) | [Ruben Haag](https://open.spotify.com/artist/3NjBBPVfXFdaxSbazeEJJ0) | [Bonez](https://open.spotify.com/album/0V8s97HGbsotWRN6r7iqVL) | 2:26 | 2022-04-26 | 2022-05-18 |
+| [Bring Some Lovin'](https://open.spotify.com/track/0V3X52LW5ERZOOWS8HnJjr) | [Flatland Park](https://open.spotify.com/artist/6xOql32xqR0X46QkNLCzPd) | [Bring Some Lovin'](https://open.spotify.com/album/2yXLY4cvecdiSn24aZF0Fo) | 3:09 | 2022-08-17 |  |
 | [Bye Bye Blackbird](https://open.spotify.com/track/01uqwPHqfGnOK1D2pjooLv) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk), [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Verve Jazz Masters 43](https://open.spotify.com/album/4hafeOXr4qO4FqaFGRgCOe) | 6:42 | 2022-04-26 |  |
 | [C Jam Blues](https://open.spotify.com/track/0mlDTc832qP4Byo2fsZyl0) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/1wht9VwbCummrzrwOOjAm7) | 3:23 | 2022-04-26 | 2022-07-29 |
 | [C Jam Blues](https://open.spotify.com/track/4aThNuFztJ15YremppiZUJ) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 3:23 | 2022-06-29 |  |
@@ -90,7 +91,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/7xLNfcvvxHB3gjCeBdDD4n) | [Angela Rowles](https://open.spotify.com/artist/6afIMyGrPUhBUFk34MfINr) | [On The Street Where You Live](https://open.spotify.com/album/09UH3htyiTiqxM0FnhqDsv) | 3:19 | 2022-08-10 |  |
 | [Over Here](https://open.spotify.com/track/5XLasheriaLTs6momYfB9n) | [Hara Noda](https://open.spotify.com/artist/6ezFSYpcIHmJfQ0ZrGQmyh) | [The Silver Lining](https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY) | 3:49 | 2022-08-10 |  |
 | [Pathfinding](https://open.spotify.com/track/3crZQxfAscJX4GLbmiV4F7) | [Theo Rollins](https://open.spotify.com/artist/60QiTTvsk3chyatkaryUFL) | [Pathfinding](https://open.spotify.com/album/4LjNSnWXsDOgaE7YK20BSF) | 3:10 | 2022-04-26 |  |
-| [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 |  |
+| [Paul's Pal \- Rudy Van Gelder Remaster](https://open.spotify.com/track/6a7RptxOL7EiTs0WNCjpeZ) | [Sonny Rollins Quartet](https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H) | [Tenor Madness](https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q) | 5:10 | 2022-04-26 | 2022-08-18 |
 | [Pennies From Heaven](https://open.spotify.com/track/6jnHBP28tpxWLf93Wc3xFG) | [Tribute Trio](https://open.spotify.com/artist/3PuxIr3757alJvpconHY1C) | [Pennies From Heaven](https://open.spotify.com/album/65ZiqvtCcA5LOq4bZph6oC) | 4:01 | 2022-04-26 |  |
 | [Pent\-Up House](https://open.spotify.com/track/6TAjrtxxRwWuo5NI4gUG0g) | [Ronnie Robinson Trio](https://open.spotify.com/artist/2GruKi792ZhC1p19Yvj8GP) | [Straight, No Chaser](https://open.spotify.com/album/2w2bzxQmWcOUXTEtUrQvC2) | 2:18 | 2022-04-26 | 2022-08-11 |
 | [Pure Imagination](https://open.spotify.com/track/2HNYhs4PO9yCuAOS9srcHP) | [Kendra Collins Band](https://open.spotify.com/artist/2VEg5RG7lT8Ej8ZDf63MrO) | [Pure Imagination](https://open.spotify.com/album/5lVkJUkfgzHhpPKYiv3jhK) | 5:15 | 2022-04-26 |  |

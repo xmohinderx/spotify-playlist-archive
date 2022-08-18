@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Ace Aura.",
-  "num_followers": 956860,
+  "num_followers": 956940,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMTkxMCwwMDAwMDAwMDZiNTVjYTU4ZWY0Y2RkMTI2YmQxMGY3YzVmZjUyNjg0",
+  "snapshot_id": "MTY2MDMwMTkxMCwwMDAwMDAwMDk1M2NiNzA2NmM0MWE3YjczODIwZjEyYjgyNDRhZWZh",
   "tracks": [
     {
       "added_at": "2022-08-12 10:58:30",
@@ -591,6 +591,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Seduce / Destroy",
+        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
+      },
+      "artists": [
+        {
+          "name": "Lucille Croft",
+          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Seduce / Destroy",
+      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Think Of You",
         "url": "https://open.spotify.com/album/3FJfc6IceAg806JTl2Q7oE"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 185142,
       "name": "Think Of You",
       "url": "https://open.spotify.com/track/1zqWDQbUlHWxjsXKe7KAr4"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Seduce / Destroy",
-        "url": "https://open.spotify.com/album/6mqahR4zbL1sioyN1AFcgv"
-      },
-      "artists": [
-        {
-          "name": "Lucille Croft",
-          "url": "https://open.spotify.com/artist/270fGluVXrZVyTNECXbrsy"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Seduce / Destroy",
-      "url": "https://open.spotify.com/track/1eG6ogBMDCT36ciEocKV8V"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -719,46 +719,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Cheatcode",
-        "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "Hairitage",
-          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
-        },
-        {
-          "name": "Hyro The Hero",
-          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Cheatcode",
-      "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Feel No Pain",
-        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
-      },
-      "artists": [
-        {
-          "name": "GRiZ",
-          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
-        }
-      ],
-      "duration_ms": 169600,
-      "name": "Feel No Pain",
-      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Back To The Top",
         "url": "https://open.spotify.com/album/00lI4kcdbVJyX62fe1HHuw"
       },
@@ -779,6 +739,46 @@
       "duration_ms": 198139,
       "name": "Back To The Top",
       "url": "https://open.spotify.com/track/5Jyk55gbmaRXAmcQyPvcFX"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Feel No Pain",
+        "url": "https://open.spotify.com/album/3y7BcgeKhEpG9OAk4PZeCO"
+      },
+      "artists": [
+        {
+          "name": "GRiZ",
+          "url": "https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut"
+        }
+      ],
+      "duration_ms": 169600,
+      "name": "Feel No Pain",
+      "url": "https://open.spotify.com/track/5d8FKzupYxokVUB1fZEamz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Cheatcode",
+        "url": "https://open.spotify.com/album/52PFrVESS61Ghel6SJtIFI"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "Hairitage",
+          "url": "https://open.spotify.com/artist/6Cqy862jSCV7qdNrCDqvNK"
+        },
+        {
+          "name": "Hyro The Hero",
+          "url": "https://open.spotify.com/artist/54okLCsuAzwltG8zHECNpm"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Cheatcode",
+      "url": "https://open.spotify.com/track/3iDtphWASBHIjVEB8lWBqs"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -835,30 +835,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM"
-      },
-      "artists": [
-        {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Julia Ross",
-          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/4f0FE4P7anMAw408gGqkZT"
       },
@@ -911,6 +887,30 @@
       "duration_ms": 184049,
       "name": "BODY SH!T",
       "url": "https://open.spotify.com/track/2yq5k7wZqY11UXOulrfO8F"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/5NQMRc7B6CvjhCcjYzSErM"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Julia Ross",
+          "url": "https://open.spotify.com/artist/6fOD5mThYrqHe1cyTrKcyu"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1gs7LWmkKWpJ8M6cnWkK5e"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/43HIQqkZxfKvGAHY9txU4u"
+      },
+      "artists": [
+        {
+          "name": "Alison Wonderland",
+          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
+        }
+      ],
+      "duration_ms": 158480,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/0B9aBa926M7kus4kDZyLEd"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "UNIVERSE",
         "url": "https://open.spotify.com/album/3ifSwEePntUUpMmygM5cso"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 245828,
       "name": "See You Go",
       "url": "https://open.spotify.com/track/2ohKWVkLGG9R5FXsg9v3cf"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/43HIQqkZxfKvGAHY9txU4u"
-      },
-      "artists": [
-        {
-          "name": "Alison Wonderland",
-          "url": "https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW"
-        }
-      ],
-      "duration_ms": 158480,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/0B9aBa926M7kus4kDZyLEd"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Touch",
+        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
+      },
+      "artists": [
+        {
+          "name": "4URA",
+          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
+        }
+      ],
+      "duration_ms": 202285,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Skyline",
         "url": "https://open.spotify.com/album/0j1JntUGndsVxvXu6DwvRg"
       },
@@ -1283,6 +1299,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Power Stone",
+        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Power Stone",
+      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "See You Again EP",
         "url": "https://open.spotify.com/album/4rmeoGTOMbpZ8WBzfWEKzC"
       },
@@ -1303,38 +1335,6 @@
       "duration_ms": 263200,
       "name": "See You Again",
       "url": "https://open.spotify.com/track/4pXG8Q82L8WvypAm5Wo86y"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Power Stone",
-        "url": "https://open.spotify.com/album/6no9wONT4kamphMKX8DyG0"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Power Stone",
-      "url": "https://open.spotify.com/track/5FufznQatRZsjumawlLbbo"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Touch",
-        "url": "https://open.spotify.com/album/4WqGw8t5ubuDHl5buqK5ln"
-      },
-      "artists": [
-        {
-          "name": "4URA",
-          "url": "https://open.spotify.com/artist/3EG6B7xCYrCokW2HJiwpPd"
-        }
-      ],
-      "duration_ms": 202285,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/6EsYB6iqDXHlOgTTdKihxH"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "\u00c6ON:TWO",
+        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 198620,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Haunted Haus",
         "url": "https://open.spotify.com/album/3Up7Gze0bGUTVv3XJTqvW5"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 170396,
       "name": "Cheat Code",
       "url": "https://open.spotify.com/track/7JJnlfOlh7dmQhjRDkyG0x"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "\u00c6ON:TWO",
-        "url": "https://open.spotify.com/album/6EJ9Vyo8NAzOLy3BhwQc4w"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Aurora",
-      "url": "https://open.spotify.com/track/5tp6gaGhCCWHaqwuXVFuLk"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "\u00c6ON:ONE",
+        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 195862,
+      "name": "Polaris",
+      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Shut Up",
         "url": "https://open.spotify.com/album/0ajXcWmw9BnS9UE81Ghodp"
       },
@@ -1687,6 +1703,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Scars",
+        "url": "https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Scars",
+      "url": "https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Catharsis X",
         "url": "https://open.spotify.com/album/3ryV1s0kjVYKwRR4Is6Dqs"
       },
@@ -1703,22 +1735,6 @@
       "duration_ms": 244045,
       "name": "Catharsis X",
       "url": "https://open.spotify.com/track/7ktbuWqGUsNmAS9OoNwgWk"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "\u00c6ON:ONE",
-        "url": "https://open.spotify.com/album/1KPxKpvQLA3JJEPlwlxzND"
-      },
-      "artists": [
-        {
-          "name": "Blanke",
-          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
-        }
-      ],
-      "duration_ms": 195862,
-      "name": "Polaris",
-      "url": "https://open.spotify.com/track/4Hr6eRuaakhr9RmLLYJawz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1747,38 +1763,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Scars",
-        "url": "https://open.spotify.com/album/4sdbYcP9fXjLopjsWjawiy"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Scars",
-      "url": "https://open.spotify.com/track/5t0EAqNTV7MmQI6tvlrqmk"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Ding Dong",
-        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
-      },
-      "artists": [
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "Ding Dong",
-      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "LEVIATHAN",
         "url": "https://open.spotify.com/album/2Hskj4JWDAV8T8NhnPQ43o"
       },
@@ -1799,6 +1783,22 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
+        "name": "Ding Dong",
+        "url": "https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp"
+      },
+      "artists": [
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "Ding Dong",
+      "url": "https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
         "name": "Once Upon A Time In Cyberworld",
         "url": "https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS"
       },
@@ -1815,6 +1815,26 @@
       "duration_ms": 225346,
       "name": "Deathstalker",
       "url": "https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "La Luz",
+        "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
+      },
+      "artists": [
+        {
+          "name": "Softest Hard",
+          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 228371,
+      "name": "La Luz",
+      "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1863,22 +1883,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "La Luz",
-        "url": "https://open.spotify.com/album/4fY0BnLX8BHIJrMl1jIkfh"
+        "name": "Prisoner",
+        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
       },
       "artists": [
         {
-          "name": "Softest Hard",
-          "url": "https://open.spotify.com/artist/1smczP1QDorQcyiGA69tF6"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "Drezo",
+          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
         }
       ],
-      "duration_ms": 228371,
-      "name": "La Luz",
-      "url": "https://open.spotify.com/track/49SDbPxXIowntSFzL429SZ"
+      "duration_ms": 247500,
+      "name": "Prisoner",
+      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1899,22 +1915,6 @@
       "duration_ms": 157714,
       "name": "Worst Enemy",
       "url": "https://open.spotify.com/track/1ZASppQGfipnlhwfXooTdy"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
-        "name": "Prisoner",
-        "url": "https://open.spotify.com/album/0DU6isn220KiymRiShdyfm"
-      },
-      "artists": [
-        {
-          "name": "Drezo",
-          "url": "https://open.spotify.com/artist/5uiDE9y1o7EEyDbNBo6vl9"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Prisoner",
-      "url": "https://open.spotify.com/track/2UqgXOkQwRlogHsUXSRUux"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -1999,22 +1999,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "EMBRACE",
-        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+        "name": "Blicky",
+        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
       },
       "artists": [
         {
-          "name": "Kill The Noise",
-          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
-        },
-        {
-          "name": "Mija",
-          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+          "name": "Montell2099",
+          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Within The Boundaries",
-      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
+      "duration_ms": 212413,
+      "name": "Blicky",
+      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2031,6 +2027,26 @@
       "duration_ms": 152000,
       "name": "Stay",
       "url": "https://open.spotify.com/track/6O9ecDa98E9KuezOUdERRh"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "EMBRACE",
+        "url": "https://open.spotify.com/album/3QnqZrz7k2KCutkHSzfV4M"
+      },
+      "artists": [
+        {
+          "name": "Kill The Noise",
+          "url": "https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM"
+        },
+        {
+          "name": "Mija",
+          "url": "https://open.spotify.com/artist/1NpKmfDYMhw1KJIIUCsX4O"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Within The Boundaries",
+      "url": "https://open.spotify.com/track/7K4zLYMA1snaoHKUpMCRTe"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2055,22 +2071,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Eat Your Soul",
-        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 159622,
-      "name": "Eat Your Soul",
-      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "AWOL",
         "url": "https://open.spotify.com/album/2h3pi4XeLI0OI5eu3IGaBr"
       },
@@ -2087,18 +2087,18 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "Blicky",
-        "url": "https://open.spotify.com/album/0PhkfAwhREkEktpubliFf1"
+        "name": "Eat Your Soul",
+        "url": "https://open.spotify.com/album/09d5yd6Df2BOolbiKNudFg"
       },
       "artists": [
         {
-          "name": "Montell2099",
-          "url": "https://open.spotify.com/artist/47MGg5VHBSS5yHRuMGt6b0"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         }
       ],
-      "duration_ms": 212413,
-      "name": "Blicky",
-      "url": "https://open.spotify.com/track/6dqTrtYr6dA4iSeaH6AznX"
+      "duration_ms": 159622,
+      "name": "Eat Your Soul",
+      "url": "https://open.spotify.com/track/1vUNgZq9RLRMe3Oiu9wQrz"
     },
     {
       "added_at": "2022-08-12 10:58:30",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2022-08-12 10:58:30",
       "album": {
-        "name": "WITH U",
-        "url": "https://open.spotify.com/album/1dffGyShCWDpwdxt9GvrLe"
-      },
-      "artists": [
-        {
-          "name": "NAZAAR",
-          "url": "https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h"
-        }
-      ],
-      "duration_ms": 256551,
-      "name": "WITH U",
-      "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"
-    },
-    {
-      "added_at": "2022-08-12 10:58:30",
-      "album": {
         "name": "Here For You",
         "url": "https://open.spotify.com/album/3JGqBNtMILRIPmLTbyqusL"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
+    },
+    {
+      "added_at": "2022-08-12 10:58:30",
+      "album": {
+        "name": "WITH U",
+        "url": "https://open.spotify.com/album/1dffGyShCWDpwdxt9GvrLe"
+      },
+      "artists": [
+        {
+          "name": "NAZAAR",
+          "url": "https://open.spotify.com/artist/6G1en7nfPSAWElhPgUOy0h"
+        }
+      ],
+      "duration_ms": 256551,
+      "name": "WITH U",
+      "url": "https://open.spotify.com/track/1xuIethB7B6S14ZdQ2LxoW"
     },
     {
       "added_at": "2022-08-12 10:58:30",

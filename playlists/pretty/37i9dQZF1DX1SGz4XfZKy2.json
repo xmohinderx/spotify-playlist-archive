@@ -1,12 +1,12 @@
 {
   "description": "Chill under the stars with this instrumental playlist. Cover: Sami Yusuf.",
-  "num_followers": 59296,
+  "num_followers": 59309,
   "original_name": "Stargazer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMDA2OTRiZDI5M2JjZjU2NDU5MmE4N2Q5NjBkOWU1YmEx",
+  "snapshot_id": "MTYxODE0NzUxOSwwMDAwMDAwMGNiOWU3MWM1MmJhOWZlNjljMTk5ZDNkZmU2OTIwOThi",
   "tracks": [
     {
       "added_at": "2021-02-15 11:04:36",
@@ -483,22 +483,6 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Shenididar",
-        "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
-      },
-      "artists": [
-        {
-          "name": "Koorosh Behrad",
-          "url": "https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5"
-        }
-      ],
-      "duration_ms": 260063,
-      "name": "Apology",
-      "url": "https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI"
-    },
-    {
-      "added_at": "2021-02-15 11:04:36",
-      "album": {
         "name": "Lucent Path",
         "url": "https://open.spotify.com/album/3vhS8GgA3Fu9VPS7alGF9d"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 224000,
       "name": "Lucent Path",
       "url": "https://open.spotify.com/track/2eo0m22NuhN7gif3jpVW7U"
+    },
+    {
+      "added_at": "2021-02-15 11:04:36",
+      "album": {
+        "name": "Shenididar",
+        "url": "https://open.spotify.com/album/51OYcPmjm6PTbpXCHl0hH4"
+      },
+      "artists": [
+        {
+          "name": "Koorosh Behrad",
+          "url": "https://open.spotify.com/artist/6z5ZjxyPCjyHZ0UneTQxM5"
+        }
+      ],
+      "duration_ms": 260063,
+      "name": "Apology",
+      "url": "https://open.spotify.com/track/3HRwZi3Rvi0iau3CiiePgI"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -751,18 +751,26 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "From Stone Till Diamond (Az Sang Ta Almas) -Iranian Barbat(Oud) Solo",
-        "url": "https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG"
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI"
       },
       "artists": [
         {
-          "name": "Hosein Behroozinia",
-          "url": "https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4"
+          "name": "Cairo Steps",
+          "url": "https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow"
+        },
+        {
+          "name": "Diwan Caf\u00e9",
+          "url": "https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN"
+        },
+        {
+          "name": "Ousso Lotfy",
+          "url": "https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg"
         }
       ],
-      "duration_ms": 308082,
-      "name": "Noor (Light)",
-      "url": "https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb"
+      "duration_ms": 193703,
+      "name": "Longing",
+      "url": "https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa"
     },
     {
       "added_at": "2021-02-15 11:04:36",
@@ -791,26 +799,18 @@
     {
       "added_at": "2021-02-15 11:04:36",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/6LcJnJHschmyhydB6AgpOI"
+        "name": "From Stone Till Diamond (Az Sang Ta Almas) -Iranian Barbat(Oud) Solo",
+        "url": "https://open.spotify.com/album/27eMj8wEK8uU2FvTt0l0bG"
       },
       "artists": [
         {
-          "name": "Cairo Steps",
-          "url": "https://open.spotify.com/artist/2vplyVvtElnBqkZuftPVow"
-        },
-        {
-          "name": "Diwan Caf\u00e9",
-          "url": "https://open.spotify.com/artist/33LAvkMX74zhQhtOskFavN"
-        },
-        {
-          "name": "Ousso Lotfy",
-          "url": "https://open.spotify.com/artist/4DRl1RJuxljaIX29rTLDCg"
+          "name": "Hosein Behroozinia",
+          "url": "https://open.spotify.com/artist/1vCSqjfEj5Q0CP58CAhTZ4"
         }
       ],
-      "duration_ms": 193703,
-      "name": "Longing",
-      "url": "https://open.spotify.com/track/4luIM6MFbBF3Dsf34hoDoa"
+      "duration_ms": 308082,
+      "name": "Noor (Light)",
+      "url": "https://open.spotify.com/track/6tDEBXUKWLJG9xr2WRp1sb"
     },
     {
       "added_at": "2021-02-15 11:04:36",

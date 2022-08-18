@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 
 > Music from the ether to focus to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,784 likes - 88 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,818 likes - 88 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaf6XmhwlgC6.md) - [plain]
 | 21 | [The Ghosts we keep Inside Ourselves](https://open.spotify.com/track/6yiPwfADSoJQ0k5to30gIi) | [Black Brunswicker](https://open.spotify.com/artist/3EobQTdmT0DDyzqaByPmB4) | [High Peaks](https://open.spotify.com/album/6wpPhkeWCtVWAYZaAaRHTi) | 3:50 |
 | 22 | [At The Meadows](https://open.spotify.com/track/3lNjQSSfa7SFJkLZWiAsaL) | [Red Deer](https://open.spotify.com/artist/5zFlIwFPxOQ9sbuVZ1HyEg) | [At The Meadows](https://open.spotify.com/album/4rcgEBuwQNrXOEdIE67RBf) | 2:25 |
 | 23 | [Nuraghe](https://open.spotify.com/track/1c3QWfGAadGw4ywwmLx5ju) | [PLACID](https://open.spotify.com/artist/7KQH1xnmFmACcxY4VBCTBn) | [Nuraghe](https://open.spotify.com/album/4fTiVmhdvJ2ICQmb7LYlD4) | 2:30 |
-| 24 | [Paralells](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Paralells](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 |
+| 24 | [Parallels](https://open.spotify.com/track/4ujZScjhNsCcDdK5iriHhU) | [Hollow Light](https://open.spotify.com/artist/0ANrW9wJEthapCrJsd4i4F) | [Parallels](https://open.spotify.com/album/1WEeuWUxTIuVUc3i1lKwFn) | 2:54 |
 | 25 | [Buckle Up](https://open.spotify.com/track/7t4gzANxF6BbappbpKzSxG) | [Josef Briem](https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB) | [authenticity](https://open.spotify.com/album/0CdkSTJwCTIJRd2BgbPyct) | 3:11 |
 | 26 | [Silent Relief](https://open.spotify.com/track/7JFpjthH6y3ZXmaLs70YZq) | [Elementaries](https://open.spotify.com/artist/1kB8QJP6BXE8ezroP29Z5r) | [Silent Relief](https://open.spotify.com/album/0gEfQ8YiaTZCJrF9LOWXqh) | 2:40 |
 | 27 | [Awakening](https://open.spotify.com/track/1N5zR5J3f3jQFKMY3cG0YO) | [Starlight Passage](https://open.spotify.com/artist/5tPdr8cTxT89zPEENTLWoh) | [Starlight Passage](https://open.spotify.com/album/1wvSlnr8p5HfQMllaTDHQc) | 2:28 |

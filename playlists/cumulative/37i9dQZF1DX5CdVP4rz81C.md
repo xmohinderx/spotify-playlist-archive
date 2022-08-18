@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Lauv
 
-897 songs - 1 day 23 hr 19 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
+898 songs - 1 day 23 hr 22 min - [published](https://open.spotify.com/playlist/0bYTEzgb7cQ54Fa4kGbaPS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Closer to You](https://open.spotify.com/track/4grvUz76teA1WVYBOBAyJ6) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Far From Here](https://open.spotify.com/album/596mgQppymQJnhfphd3RJP) | 3:25 | 2021-04-24 | 2021-06-12 |
 | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/track/0s3HjSvDdHinLIZ7NqyEuq) | [Harry Hudson](https://open.spotify.com/artist/3btNpz9NEJ8ml352B8S7Qr), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Closing Doors \(ft\. Astrid S\)](https://open.spotify.com/album/16FkBfjt19EEPzjdndSgZE) | 2:26 | 2020-10-13\* | 2020-12-10 |
 | [Closure](https://open.spotify.com/track/0mKQl9k1EErmEPk11aWZEl) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Closure](https://open.spotify.com/album/7r0izRbbyoAQc3C2I4JO7K) | 3:16 | 2021-04-03 | 2022-02-26 |
+| [Coast \(feat\. Anderson .Paak\)](https://open.spotify.com/track/1l4iQsOZ5sOXZPMQLvouaB) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Coast](https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng) | 2:46 | 2022-08-17 |  |
 | [coastline](https://open.spotify.com/track/06J6MvuHOCOI5HerZaKKy2) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [coastline](https://open.spotify.com/album/6AFPlvXucMhq5urJ1BTTuy) | 2:38 | 2021-08-07 | 2021-08-28 |
 | [Coffee](https://open.spotify.com/track/0nEBkkncupxOtcAnPaDbXL) | [Ai Bendr](https://open.spotify.com/artist/0Ari1vZqizhkV9Pa1uC8oE) | [Coffee](https://open.spotify.com/album/57tmzyON2vD8yekL5268Ue) | 3:22 | 2021-04-30 | 2021-07-24 |
 | [COLOR ME BLUE](https://open.spotify.com/track/5UJJoLremNt32C7OeyHy0I) | [Grant Knoche](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [COLOR ME BLUE](https://open.spotify.com/album/3oKxkg2IJn3pGKsLCMWbaK) | 2:26 | 2020-10-13\* | 2020-10-15 |

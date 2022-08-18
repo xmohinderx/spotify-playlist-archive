@@ -7708,6 +7708,24 @@
     },
     {
       "album": {
+        "name": "Soldier On! / Night Stalkers / We\u2019ll Be Back",
+        "url": "https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269466,
+      "name": "We\u2019ll Be Back",
+      "url": "https://open.spotify.com/track/1sI2Duw2PyugyW9EYbmdqO"
+    },
+    {
+      "album": {
         "name": "We\u2019ll Be Back",
         "url": "https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69"
       },
@@ -7719,7 +7737,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 269466,
       "name": "We\u2019ll Be Back",
       "url": "https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB"

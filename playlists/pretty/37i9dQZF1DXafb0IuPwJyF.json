@@ -1,12 +1,12 @@
 {
   "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002\u6bce\u9031\u6708\u66dc\u65e5\u66f4\u65b0\u3002Cover: TWICE",
-  "num_followers": 632526,
+  "num_followers": 632743,
   "original_name": "Tokyo Super Hits!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDQ4OTIwMCwwMDAwMDAwMDUzYmRiZmNlZWRlM2I1ZTA5NjkxNDFmZjMyYjQ2Yzdh",
+  "snapshot_id": "MTY2MDc3MzI1MiwwMDAwMDAwMGYzMDVkMjI3ZWQ3NDI3OTIzYWU4NTliZGQ4OTFlOTM1",
   "tracks": [
     {
       "added_at": "2022-08-14 15:00:00",
@@ -75,6 +75,22 @@
     {
       "added_at": "2022-08-14 15:00:00",
       "album": {
+        "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+        "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
+      },
+      "artists": [
+        {
+          "name": "Mrs. GREEN APPLE",
+          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
+        }
+      ],
+      "duration_ms": 203149,
+      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
+    },
+    {
+      "added_at": "2022-08-14 15:00:00",
+      "album": {
         "name": "MASCARA",
         "url": "https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 257079,
       "name": "\u79c1\u306f\u6700\u5f37",
       "url": "https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW"
-    },
-    {
-      "added_at": "2022-08-14 15:00:00",
-      "album": {
-        "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-        "url": "https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08"
-      },
-      "artists": [
-        {
-          "name": "Mrs. GREEN APPLE",
-          "url": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
-        }
-      ],
-      "duration_ms": 203149,
-      "name": "\u30c0\u30f3\u30b9\u30db\u30fc\u30eb",
-      "url": "https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz"
     },
     {
       "added_at": "2022-08-14 15:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2022-08-14 15:00:00",
       "album": {
-        "name": "Start Over",
-        "url": "https://open.spotify.com/album/2RDWLFSIcQK9SazGCnf09J"
-      },
-      "artists": [
-        {
-          "name": "THE BEAT GARDEN",
-          "url": "https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk"
-        }
-      ],
-      "duration_ms": 201523,
-      "name": "Start Over",
-      "url": "https://open.spotify.com/track/6SSFrvijK2HjByYwRO8Rob"
-    },
-    {
-      "added_at": "2022-08-14 15:00:00",
-      "album": {
         "name": "Free Free Free",
         "url": "https://open.spotify.com/album/3tTuUhsbHbu5XAwkhz82Yc"
       },
@@ -243,18 +227,34 @@
     {
       "added_at": "2022-08-14 15:00:00",
       "album": {
-        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
-        "url": "https://open.spotify.com/album/5suK3hqIM3p9iogpM0buCz"
+        "name": "\u9b54\u6cd5",
+        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
       },
       "artists": [
         {
-          "name": "Yuuri",
-          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+          "name": "satomoka",
+          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
         }
       ],
-      "duration_ms": 201133,
-      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
-      "url": "https://open.spotify.com/track/0C7VgMgDuyOEku3sslCbyC"
+      "duration_ms": 258974,
+      "name": "\u9b54\u6cd5",
+      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
+    },
+    {
+      "added_at": "2022-08-14 15:00:00",
+      "album": {
+        "name": "Start Over",
+        "url": "https://open.spotify.com/album/2RDWLFSIcQK9SazGCnf09J"
+      },
+      "artists": [
+        {
+          "name": "THE BEAT GARDEN",
+          "url": "https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk"
+        }
+      ],
+      "duration_ms": 201523,
+      "name": "Start Over",
+      "url": "https://open.spotify.com/track/6SSFrvijK2HjByYwRO8Rob"
     },
     {
       "added_at": "2022-08-14 15:00:00",
@@ -271,22 +271,6 @@
       "duration_ms": 249254,
       "name": "\u771f\u590f\u306e\u604b\u306f\u6c17\u307e\u3050\u308c",
       "url": "https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L"
-    },
-    {
-      "added_at": "2022-08-14 15:00:00",
-      "album": {
-        "name": "\u9b54\u6cd5",
-        "url": "https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj"
-      },
-      "artists": [
-        {
-          "name": "satomoka",
-          "url": "https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg"
-        }
-      ],
-      "duration_ms": 258974,
-      "name": "\u9b54\u6cd5",
-      "url": "https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM"
     },
     {
       "added_at": "2022-08-14 15:00:00",
@@ -363,6 +347,22 @@
       "duration_ms": 197995,
       "name": "Save Yourself - Japanese Version",
       "url": "https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9"
+    },
+    {
+      "added_at": "2022-08-14 15:00:00",
+      "album": {
+        "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+        "url": "https://open.spotify.com/album/5suK3hqIM3p9iogpM0buCz"
+      },
+      "artists": [
+        {
+          "name": "Yuuri",
+          "url": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W"
+        }
+      ],
+      "duration_ms": 201133,
+      "name": "\u30bf\u30a4\u30e0\u30de\u30b7\u30f3",
+      "url": "https://open.spotify.com/track/0C7VgMgDuyOEku3sslCbyC"
     },
     {
       "added_at": "2022-08-14 15:00:00",
@@ -771,38 +771,6 @@
     {
       "added_at": "2022-08-14 15:00:00",
       "album": {
-        "name": "BE:1",
-        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
-      },
-      "artists": [
-        {
-          "name": "BE:FIRST",
-          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
-        }
-      ],
-      "duration_ms": 200966,
-      "name": "Scream",
-      "url": "https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F"
-    },
-    {
-      "added_at": "2022-08-14 15:00:00",
-      "album": {
-        "name": "HAVE A NICE DAY",
-        "url": "https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3"
-      },
-      "artists": [
-        {
-          "name": "TENDRE",
-          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
-        }
-      ],
-      "duration_ms": 220097,
-      "name": "HAVE A NICE DAY",
-      "url": "https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84"
-    },
-    {
-      "added_at": "2022-08-14 15:00:00",
-      "album": {
         "name": "Thinking",
         "url": "https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 269127,
       "name": "Othello",
       "url": "https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh"
+    },
+    {
+      "added_at": "2022-08-14 15:00:00",
+      "album": {
+        "name": "BE:1",
+        "url": "https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU"
+      },
+      "artists": [
+        {
+          "name": "BE:FIRST",
+          "url": "https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP"
+        }
+      ],
+      "duration_ms": 200966,
+      "name": "Scream",
+      "url": "https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F"
+    },
+    {
+      "added_at": "2022-08-14 15:00:00",
+      "album": {
+        "name": "HAVE A NICE DAY",
+        "url": "https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3"
+      },
+      "artists": [
+        {
+          "name": "TENDRE",
+          "url": "https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb"
+        }
+      ],
+      "duration_ms": 220097,
+      "name": "HAVE A NICE DAY",
+      "url": "https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84"
     }
   ],
   "unique_name": "Tokyo Super Hits!",

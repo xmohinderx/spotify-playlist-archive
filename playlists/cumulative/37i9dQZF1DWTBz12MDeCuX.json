@@ -1369,24 +1369,6 @@
     {
       "album": {
         "name": "Eiskalter Vodka",
-        "url": "https://open.spotify.com/album/5mnKhoyJ8JHy5kni0A01PR"
-      },
-      "artists": [
-        {
-          "name": "Mirco Kima",
-          "url": "https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb"
-        }
-      ],
-      "date_added": "2022-08-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149018,
-      "name": "Eiskalter Vodka",
-      "url": "https://open.spotify.com/track/6aPVsvXCtTTUQ9OycaCKt3"
-    },
-    {
-      "album": {
-        "name": "Eiskalter Vodka",
         "url": "https://open.spotify.com/album/01jtc3ZgOmJv6moODyHvHw"
       },
       "artists": [
@@ -1401,6 +1383,28 @@
       "duration_ms": 149655,
       "name": "Eiskalter Vodka",
       "url": "https://open.spotify.com/track/3kajf7IGh5sK7T99YAyFmy"
+    },
+    {
+      "album": {
+        "name": "Eiskalter Vodka",
+        "url": "https://open.spotify.com/album/5mnKhoyJ8JHy5kni0A01PR"
+      },
+      "artists": [
+        {
+          "name": "Mirco Kima",
+          "url": "https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149018,
+      "name": "Eiskalter Vodka",
+      "url": "https://open.spotify.com/track/6aPVsvXCtTTUQ9OycaCKt3"
     },
     {
       "album": {
@@ -4109,6 +4113,24 @@
     {
       "album": {
         "name": "Sommervibe",
+        "url": "https://open.spotify.com/album/2NyW0H39UnGfN06WFhvYGk"
+      },
+      "artists": [
+        {
+          "name": "Mateo",
+          "url": "https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi"
+        }
+      ],
+      "date_added": "2022-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113035,
+      "name": "Sommervibe",
+      "url": "https://open.spotify.com/track/5sQqRC6wFJ2KpVEbUAsDSG"
+    },
+    {
+      "album": {
+        "name": "Sommervibe",
         "url": "https://open.spotify.com/album/0l9GfVrKmqSwsTteF4E9i0"
       },
       "artists": [
@@ -4119,7 +4141,7 @@
       ],
       "date_added": "2022-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 113035,
       "name": "Sommervibe",
       "url": "https://open.spotify.com/track/6jmodExDPh67eDiu4yceEp"

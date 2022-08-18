@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd9T7p9UGiW.md) - [plain]
 
 > Catching flights and going global\. Cover:  <a href="https://open.spotify.com/artist/3xXIOO328Ieh0PWOcxivjL?si=FiOiEsFvSe2rzVZ8pJRTOg" > Aymos </a> and <a href="https://open.spotify.com/artist/5ZD4VhNTUEnEBTlWQPeyzq?si=zbz0yK\_\-R\-WuVPvE\_Ct9pA" > M1llions </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,956 likes - 83 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,982 likes - 83 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

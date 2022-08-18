@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars.
 
-336 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
+337 songs - 20 hr 9 min - [published](https://open.spotify.com/playlist/4X9VlF1gslCvOG5f1Uvt9a)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Don't Do It In Texas](https://open.spotify.com/track/0fCzJ0moRAJyt03FFbdZT3) | [Catie Offerman](https://open.spotify.com/artist/5uB8p8cO6UniAn2rnOsaXT) | [Don't Do It In Texas](https://open.spotify.com/album/2jPUGtTyhOEhG9V6sy5SeP) | 4:25 | 2022-05-20 |  |
 | [Don't Hold Your Breath](https://open.spotify.com/track/120dlF8jwNeOKgjmLsL25m) | [Gunnar Latham](https://open.spotify.com/artist/7D4Tp8mNvYMeE6xMDSTlU4) | [Don't Hold Your Breath](https://open.spotify.com/album/6G12HHIVDRBxhwVEHf6xJz) | 3:46 | 2022-03-11 | 2022-07-25 |
 | [Don't It Make You Wanna Dance?](https://open.spotify.com/track/5ukTAX4siTE3rX728mlHzC) | [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Josh Abbott Band and Friends, Vol\. 1](https://open.spotify.com/album/5BjTd8BVd3dLRyimZROpTl) | 4:39 | 2022-07-29 |  |
-| [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 |  |
+| [Down in Flames](https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f) | [Cody Hibbard](https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5) | [Cody Hibbard](https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K) | 3:35 | 2021-12-17 | 2022-08-18 |
 | [Drink Straight](https://open.spotify.com/track/2FdCMLvUosqCi5ABtfNL8F) | [Colby Keeling](https://open.spotify.com/artist/2cdVR4tZs4ErwejZVTqcnL) | [Drink Straight](https://open.spotify.com/album/4kVar6beWi8Q9e4l0lv3l4) | 3:21 | 2022-05-20 | 2022-07-15 |
 | [Drink to That](https://open.spotify.com/track/5bS0EQrItTRmdNCAmdTIpG) | [Palmer Anthony](https://open.spotify.com/artist/412iPDYOYPA2pcGgdlLh5s) | [Drink to That](https://open.spotify.com/album/6JBWJvkpMTe4vxTQRT5Kqe) | 3:47 | 2021-12-17 | 2022-06-25 |
 | [Dust](https://open.spotify.com/track/3zzVwSuO5x5KB3u5gl3r5w) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/63EXg2Q9oW2ZeGEpMlUtdw) | 3:06 | 2022-02-04 |  |
@@ -341,6 +341,7 @@
 | [Wined Up](https://open.spotify.com/track/0NLwOe6wZ99podY10F7VkC) | [Kristen Foreman](https://open.spotify.com/artist/1Vj1bZDumDGeiyAu3GkGsJ) | [Wined Up](https://open.spotify.com/album/4YzcaqRbHihzGyPSEGklbh) | 3:09 | 2022-04-01 | 2022-07-16 |
 | [Wish It Was You](https://open.spotify.com/track/67QeP29uBpp9FRM6OqrCIT) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Wish It Was You](https://open.spotify.com/album/2W6gl0v91b8jbLKwcQYiRw) | 4:06 | 2021-12-17 | 2022-03-19 |
 | [With You](https://open.spotify.com/track/1hx6d28pvkstw3plMK6AnG) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/5RSKBMC7PnUwY4BUibWNEX) | 4:26 | 2021-12-17 | 2022-07-29 |
+| [With You](https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [SÕL Sessions](https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6) | 4:26 | 2022-08-12 |  |
 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 | 2021-12-17 |  |
 | [Young Man's Game](https://open.spotify.com/track/1fvnxdH0nEoDFNJPIjdVCN) | [Bo Armstrong](https://open.spotify.com/artist/0fQXuVLddGG08vaJrDJQmv) | [Young Man's Game](https://open.spotify.com/album/7d1ev8ZOIejEvyeNxIs6mL) | 3:34 | 2022-02-11 | 2022-03-19 |
 | [Your Bar Now](https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq) | [Tyler Halverson](https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai), [Kylie Frey](https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4) | [Your Bar Now](https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR) | 3:34 | 2022-05-13 |  |

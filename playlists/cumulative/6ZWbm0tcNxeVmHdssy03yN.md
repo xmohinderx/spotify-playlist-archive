@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-1,629 songs - 3 day 16 hr 55 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
+1,630 songs - 3 day 16 hr 58 min - [published](https://open.spotify.com/playlist/3VMk54nY0oCnTsFHeWOKJN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [Dirty Suc \- Fugitivo Vol\. 13](https://open.spotify.com/track/4hkrjTCLpcIg0qimDao2HJ) | [Rico Rosa](https://open.spotify.com/artist/33AxM64O965URn5WUtqNST), [Dirty Suc](https://open.spotify.com/artist/5zziunXg44b8BEQnVx7W2e) | [Dirty Suc \- Fugitivo Vol\. 13](https://open.spotify.com/album/6RugcX5pOtB7BQnaQCkKOY) | 3:00 | 2022-06-24 | 2022-07-23 |
 | [Disparition](https://open.spotify.com/track/2rDm9fSPbqCxhfGcPR3pwr) | [Cutter](https://open.spotify.com/artist/6sdLJe4pLL5YjFGBjbqdBl) | [Disparition](https://open.spotify.com/album/5iO0AWLfdGyTgvEj0WNu6x) | 3:42 | 2021-05-15 | 2021-05-22 |
 | [Distansya](https://open.spotify.com/track/6QLQmmvMusHtnEDNCjy07T) | [Michael Dutchi Libranda](https://open.spotify.com/artist/6ZdzYE3CEgY0Umgi3Dsgv8) | [Distansya](https://open.spotify.com/album/4CG5kbmqL1pjQr2XeGlZH4) | 5:03 | 2021-11-20 | 2021-12-04 |
+| [Distintos](https://open.spotify.com/track/4hw9Y2bv19kOb6o02cViiF) | [Sofia Thompson](https://open.spotify.com/artist/20OEbPt9V1o5T7jo1ZLGdK), [J Heras](https://open.spotify.com/artist/3MItNga2j91Iul6BYGWEoE) | [Distintos](https://open.spotify.com/album/17tM3A86mfYvnxwq4k3xdP) | 2:44 | 2022-08-17 |  |
 | [Dive In](https://open.spotify.com/track/5ltWaIPeiGdJifqRL5wot3) | [MJ Kuok](https://open.spotify.com/artist/6WK3Qxj1lGo2lr8d7y2fZM), [Bonnie Chan](https://open.spotify.com/artist/3Tmz1v7qYhn719ko0W45Lx) | [Dive In](https://open.spotify.com/album/4IqMS9SjRnhPnY9f1TOwYE) | 2:52 | 2022-05-06 | 2022-06-04 |
 | [Diving](https://open.spotify.com/track/5HzLiNootEuVxAO2nTtpvt) | [Mono X](https://open.spotify.com/artist/2Hpho8wfBVtRlbHUOUkakH) | [Purple Fuego](https://open.spotify.com/album/2Ab4baggORNGkdhyyRABZP) | 2:00 | 2021-05-03 | 2021-05-22 |
 | [DIY!!](https://open.spotify.com/track/6y4uSKoE2LH1jcegfOMuTe) | [Tummyache](https://open.spotify.com/artist/2iGQR8gH9aKFtCxOsPGFYx) | [DIY!!](https://open.spotify.com/album/4LuQCJpW0setS8RMais5pu) | 1:39 | 2021-07-31 | 2021-08-28 |

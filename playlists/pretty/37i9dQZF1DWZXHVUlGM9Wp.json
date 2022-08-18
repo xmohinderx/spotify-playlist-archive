@@ -1,12 +1,12 @@
 {
   "description": "Keep on skating to the groovy boogie ",
-  "num_followers": 228153,
+  "num_followers": 228388,
   "original_name": "The Roller Rink ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMDRiODcxNjhlM2IzY2E1MjcwNTkyMzI2MWJhNzYyMTIw",
+  "snapshot_id": "MTY2MDIzODIwNiwwMDAwMDAwMGY3ZDZhMTc1YTk3ZjEzMzk2MTFmZjcwMzJlODQ1NWY4",
   "tracks": [
     {
       "added_at": "2022-07-27 21:04:47",
@@ -815,26 +815,6 @@
     {
       "added_at": "2022-07-27 21:04:47",
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Knox Fortune",
-          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
-        }
-      ],
-      "duration_ms": 141542,
-      "name": "All Night (feat. Knox Fortune)",
-      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
-    },
-    {
-      "added_at": "2022-07-27 21:04:47",
-      "album": {
         "name": "Happy Music / Something on My Mind",
         "url": "https://open.spotify.com/album/4D78IEl2Nl3ywiu254VOVn"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 232625,
       "name": "Happy Music",
       "url": "https://open.spotify.com/track/3rh495Z2rIRwD316blea4f"
+    },
+    {
+      "added_at": "2022-07-27 21:04:47",
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Knox Fortune",
+          "url": "https://open.spotify.com/artist/49O0SPoCoTiK2Nn2tOaHyU"
+        }
+      ],
+      "duration_ms": 141542,
+      "name": "All Night (feat. Knox Fortune)",
+      "url": "https://open.spotify.com/track/60xaS8mYBKUW4VQQ666N0T"
     },
     {
       "added_at": "2022-07-27 21:04:47",

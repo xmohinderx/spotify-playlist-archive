@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6nghHfwjiMg.md) - [plain]
 
 > Descubre los nuevos talentos de Argentina, Chile y Uruguay\. <br/>Foto: Marki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,488 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,485 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Frio Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frio Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 |
+| 1 | [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 |
 | 2 | [QUEREME](https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3), [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [QUEREME](https://open.spotify.com/album/5Z6Tv47n8WpXgNf8ZZLNw7) | 3:14 |
 | 3 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 |
 | 4 | [OMG MARKI HI](https://open.spotify.com/track/51E9Lc9uBPFO3Q87bI2KxJ) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [OMG MARKI HI](https://open.spotify.com/album/36QD0XYKJnkbpTNegs7SdP) | 2:22 |

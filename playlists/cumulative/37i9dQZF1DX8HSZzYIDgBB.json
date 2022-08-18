@@ -1032,24 +1032,6 @@
     },
     {
       "album": {
-        "name": "Frio Blues",
-        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
-      },
-      "artists": [
-        {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        }
-      ],
-      "date_added": "2022-08-13",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 165000,
-      "name": "Frio Blues",
-      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
-    },
-    {
-      "album": {
         "name": "Frutas",
         "url": "https://open.spotify.com/album/1Kmmeh36eI13U3nltNhFhD"
       },
@@ -1065,6 +1047,24 @@
       "duration_ms": 259741,
       "name": "Frutas",
       "url": "https://open.spotify.com/track/0vgmxe7O7xwyqSVi6ZvGyw"
+    },
+    {
+      "album": {
+        "name": "Fr\u00edo Blues",
+        "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
+      },
+      "artists": [
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
+        }
+      ],
+      "date_added": "2022-08-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Fr\u00edo Blues",
+      "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
     },
     {
       "album": {

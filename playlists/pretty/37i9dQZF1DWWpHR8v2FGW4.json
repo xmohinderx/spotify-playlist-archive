@@ -1,15 +1,15 @@
 {
   "description": "Always come in 1st.",
-  "num_followers": 84684,
+  "num_followers": 85045,
   "original_name": "Nitroboost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyMzI2OSwwMDAwMDAwMGE5MDQ2MmI0OWViY2ZkZmRkNDE3ZmU1MjMxN2MyMzRm",
+  "snapshot_id": "MTY2MDc3OTI2MywwMDAwMDAwMDA4OTk4NzcxOTA1MDllNWVlNzcxNDkyMTZjYTIzYzBl",
   "tracks": [
     {
-      "added_at": "2022-08-04 14:27:49",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Not Over Yet (feat. Tom Grennan)",
         "url": "https://open.spotify.com/album/2JwhadQOv6ZEnpuWkZNNFh"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/3t2Hx5FPih5lKaxJFd6bRE"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/4s8l87cU1Z2Sg5iKualNLr"
@@ -69,7 +69,7 @@
       "url": "https://open.spotify.com/track/0Cv7pfVZT1KjaqpylUsYQH"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Used to This",
         "url": "https://open.spotify.com/album/48vV65b1zjT4lCeO5MplHm"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/6IlL9Xlnm0Oq6wXSe6TH9v"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Feel Alive",
         "url": "https://open.spotify.com/album/45j86M3d2PYo2trc8MoEW3"
@@ -109,51 +109,7 @@
       "url": "https://open.spotify.com/track/40w9Ww6zBhxQ7WZz2owEwX"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Gold Dust (Fox Stevenson Remix)",
-        "url": "https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS"
-      },
-      "artists": [
-        {
-          "name": "DJ Fresh",
-          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
-        },
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 233103,
-      "name": "Gold Dust - Fox Stevenson Remix",
-      "url": "https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Chasing Stars (VIP Mix)",
-        "url": "https://open.spotify.com/album/3oHuvxDC09wCLoIEowpreG"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 169180,
-      "name": "Chasing Stars (feat. James Bay) [VIP Mix]",
-      "url": "https://open.spotify.com/track/46MmaCvze8GcEcwU1fTfWe"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh"
@@ -173,7 +129,27 @@
       "url": "https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "Gold Dust (Fox Stevenson Remix)",
+        "url": "https://open.spotify.com/album/3lxsS3fsWVpTd20vyAO0CS"
+      },
+      "artists": [
+        {
+          "name": "DJ Fresh",
+          "url": "https://open.spotify.com/artist/6r20qOqY7qDWI0PPTxVMlC"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 233103,
+      "name": "Gold Dust - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/3WNzOFBAbi5Cc72223avI7"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Vroom - The FaNaTiX, Idris Elba, Lil Tjay, Davido, Koffee, Moelogo| PS5, PS4 (from GRAN TURISMO 7)",
         "url": "https://open.spotify.com/album/0MuIe5cdJen7HHgfcYHeay"
@@ -209,7 +185,7 @@
       "url": "https://open.spotify.com/track/6ApEaAL5iuN3cOwSoAbY1d"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Getaway (Remixes)",
         "url": "https://open.spotify.com/album/1pCddf4xbF2oOYFXTOZzDS"
@@ -233,7 +209,7 @@
       "url": "https://open.spotify.com/track/10EpXLXKHmNSVKvX7A5hg8"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/54UV4KhjOJbdHqkL1PO4mb"
@@ -249,23 +225,7 @@
       "url": "https://open.spotify.com/track/1dHW6MypbqYUzRXAItBQ07"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "staring at the sun",
-        "url": "https://open.spotify.com/album/201ZOCobiWNDSwZ1DXLKCZ"
-      },
-      "artists": [
-        {
-          "name": "Saint Lane",
-          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "staring at the sun",
-      "url": "https://open.spotify.com/track/0wdRyHfJO0bFpfucQ2I3nL"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/6r4rwrTK0YafCqrtlk2tyl"
@@ -281,7 +241,23 @@
       "url": "https://open.spotify.com/track/0gKtM9aX5GGo1Kg0Zrwb8b"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "staring at the sun",
+        "url": "https://open.spotify.com/album/201ZOCobiWNDSwZ1DXLKCZ"
+      },
+      "artists": [
+        {
+          "name": "Saint Lane",
+          "url": "https://open.spotify.com/artist/4M0vvoQACWxLNrLVrx3MWX"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "staring at the sun",
+      "url": "https://open.spotify.com/track/0wdRyHfJO0bFpfucQ2I3nL"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Immersion",
         "url": "https://open.spotify.com/album/3XtEGVx9uh7J46nBzEc1VS"
@@ -297,43 +273,7 @@
       "url": "https://open.spotify.com/track/5ami95W9OOWQPwrBb5tud5"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Sanctus",
-        "url": "https://open.spotify.com/album/4FPf6TQDTjuSKhz33YMJlh"
-      },
-      "artists": [
-        {
-          "name": "Indecorum",
-          "url": "https://open.spotify.com/artist/1nDQX7M3T8BvVi3bdCQyrm"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Falkor's Return",
-      "url": "https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Snake Eyes",
-        "url": "https://open.spotify.com/album/0nDZ9Ro4SA0P7d2992xC98"
-      },
-      "artists": [
-        {
-          "name": "Feint",
-          "url": "https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU"
-        },
-        {
-          "name": "CoMa",
-          "url": "https://open.spotify.com/artist/3OAmPUVxyAIpRfmo4xiS5A"
-        }
-      ],
-      "duration_ms": 264834,
-      "name": "Snake Eyes",
-      "url": "https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Broken",
         "url": "https://open.spotify.com/album/6k7ydahJXGQVdNPYPFfWTx"
@@ -353,7 +293,7 @@
       "url": "https://open.spotify.com/track/1J4EgK0zwGuLbZT9UBxtfn"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "AUTOPILOT",
         "url": "https://open.spotify.com/album/72LShUJi8Na0lmTzni1O6c"
@@ -369,7 +309,7 @@
       "url": "https://open.spotify.com/track/72VyFG8WRK6CeV3ToXccOm"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "House of Wax",
         "url": "https://open.spotify.com/album/3ULXB8LP4xjSHoC5Su2ZMW"
@@ -389,7 +329,7 @@
       "url": "https://open.spotify.com/track/2I5faAdg3IZbd6HEn6Blfz"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Fearless",
         "url": "https://open.spotify.com/album/2foovL6UaCvp5QR72qdm72"
@@ -409,7 +349,7 @@
       "url": "https://open.spotify.com/track/7pDUFFF3J4WEu1aZMW4M4b"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "LIFT YOU UP",
         "url": "https://open.spotify.com/album/4fkJqKBzqdWEZ7tE0rhXKp"
@@ -429,7 +369,7 @@
       "url": "https://open.spotify.com/track/2BRLxNhZT3HEKRINTCDBcm"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Lone / Feel Alive",
         "url": "https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG"
@@ -449,7 +389,7 @@
       "url": "https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "This Feeling",
         "url": "https://open.spotify.com/album/2uB9v0HVBalbQLwlQpn1MH"
@@ -465,7 +405,7 @@
       "url": "https://open.spotify.com/track/2UZtyw4ItKKKB3Rw0sfWsG"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Believer",
         "url": "https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH"
@@ -481,7 +421,7 @@
       "url": "https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Darkest Hour [UKF10]",
         "url": "https://open.spotify.com/album/1ORtzV8YvS9ZZCDde8V3Vh"
@@ -497,23 +437,7 @@
       "url": "https://open.spotify.com/track/6DJV0w34C2GAuKQqXzfHfy"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/4GGazqHvuKwxBjWLFaJkDL"
-      },
-      "artists": [
-        {
-          "name": "Justice",
-          "url": "https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Phantom Pt. II",
-      "url": "https://open.spotify.com/track/2A3emhzbZo7eSvEUtAm3ZS"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Fire",
         "url": "https://open.spotify.com/album/53PK2MPBcD2Z3umLA3DhX3"
@@ -533,7 +457,7 @@
       "url": "https://open.spotify.com/track/31OGLSOWrnr6ufgKHq23Sl"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Open Spaces",
         "url": "https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt"
@@ -553,7 +477,7 @@
       "url": "https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Change Us",
         "url": "https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu"
@@ -573,7 +497,7 @@
       "url": "https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Keep Up The Pace",
         "url": "https://open.spotify.com/album/5ZQxUv5wcWLpobKa9lIPc4"
@@ -589,7 +513,7 @@
       "url": "https://open.spotify.com/track/359dqboVug8CoRUE8WNVGf"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/3VHyFwqhGMqx4BlQ3fmchL"
@@ -605,7 +529,7 @@
       "url": "https://open.spotify.com/track/1K6gyNdEjiap8P5IBELG6t"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt"
@@ -625,23 +549,7 @@
       "url": "https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "where r u",
-        "url": "https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4"
-      },
-      "artists": [
-        {
-          "name": "Kill Paris",
-          "url": "https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w"
-        }
-      ],
-      "duration_ms": 194579,
-      "name": "where r u",
-      "url": "https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Keep Crashing",
         "url": "https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg"
@@ -657,7 +565,23 @@
       "url": "https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "where r u",
+        "url": "https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4"
+      },
+      "artists": [
+        {
+          "name": "Kill Paris",
+          "url": "https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w"
+        }
+      ],
+      "duration_ms": 194579,
+      "name": "where r u",
+      "url": "https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Rain God",
         "url": "https://open.spotify.com/album/58VdvkSadgJzRY7CX9qj1Y"
@@ -673,7 +597,7 @@
       "url": "https://open.spotify.com/track/7prqZ9Le5L0z6DRYcnhghP"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Holding On",
         "url": "https://open.spotify.com/album/4KLxuKqdInrzo8HEPGUgTo"
@@ -689,7 +613,7 @@
       "url": "https://open.spotify.com/track/4iBXsLZwRBV2qwiz29s5by"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Dreamstate",
         "url": "https://open.spotify.com/album/3GSBcowmQxTWGiBOc4zJwh"
@@ -705,7 +629,7 @@
       "url": "https://open.spotify.com/track/4WOYAnPBe0qqlgcVAPLCd8"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Close To Hell",
         "url": "https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC"
@@ -725,7 +649,7 @@
       "url": "https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Badman",
         "url": "https://open.spotify.com/album/3rTuLnXYLDhVJ0ox9oGHot"
@@ -741,7 +665,7 @@
       "url": "https://open.spotify.com/track/02teKCLbOxKUIVg7DPoWCE"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "HOT DRUM",
         "url": "https://open.spotify.com/album/4mIPs9KZN79m1Gjx97rs3E"
@@ -757,7 +681,7 @@
       "url": "https://open.spotify.com/track/0gcPFlSLjkVqz84RcDhyJk"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Make A Move",
         "url": "https://open.spotify.com/album/7y82PxGmIMKNyCmZvRbqIa"
@@ -773,7 +697,7 @@
       "url": "https://open.spotify.com/track/3iXf7W37Yetv36gTgDlZ93"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG"
@@ -793,7 +717,7 @@
       "url": "https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Vex",
         "url": "https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML"
@@ -809,7 +733,7 @@
       "url": "https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Symbiosis Remixed Part 1",
         "url": "https://open.spotify.com/album/4Ms4XIRdvfXibLNhtvqs0U"
@@ -829,7 +753,7 @@
       "url": "https://open.spotify.com/track/37tWPZAM7MJwB3l4bbuLG8"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Dreams",
         "url": "https://open.spotify.com/album/7fE0SknwuDfgzXdiO2JaTB"
@@ -845,23 +769,7 @@
       "url": "https://open.spotify.com/track/6Q6PUsRgFVjKNEw9Q9NoK6"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
-      "album": {
-        "name": "Take You Down / Melange",
-        "url": "https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq"
-      },
-      "artists": [
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Take You Down",
-      "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
-    },
-    {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Gang",
         "url": "https://open.spotify.com/album/644tRu2KsOn25hE87qFsEf"
@@ -877,23 +785,23 @@
       "url": "https://open.spotify.com/track/1HYIxT29a0gtzhqGjVQule"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
-        "name": "BARRICADE",
-        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
+        "name": "Take You Down / Melange",
+        "url": "https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq"
       },
       "artists": [
         {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
         }
       ],
-      "duration_ms": 200013,
-      "name": "BARRICADE",
-      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
+      "duration_ms": 223448,
+      "name": "Take You Down",
+      "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "RESET",
         "url": "https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK"
@@ -909,7 +817,23 @@
       "url": "https://open.spotify.com/track/2fBImyKfTG6MTIZwqGhnpo"
     },
     {
-      "added_at": "2022-08-01 13:53:22",
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "BARRICADE",
+        "url": "https://open.spotify.com/album/04Eqt1g20KVoSB4Xif8Frq"
+      },
+      "artists": [
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "BARRICADE",
+      "url": "https://open.spotify.com/track/4AIzFOYepFcCxtyejppv6C"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
       "album": {
         "name": "Bohemia",
         "url": "https://open.spotify.com/album/14Nq4D67l9s1biXa9t575G"
@@ -923,6 +847,82 @@
       "duration_ms": 278280,
       "name": "Feed The Addiction",
       "url": "https://open.spotify.com/track/1nqUi4wKalk5jFoFfQET2n"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "Breathe",
+        "url": "https://open.spotify.com/album/01vOZOM0KgJatj9mpoVhdh"
+      },
+      "artists": [
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 248965,
+      "name": "Breathe",
+      "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT"
+      },
+      "artists": [
+        {
+          "name": "Azifm",
+          "url": "https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7"
+        },
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "HARDCORE",
+        "url": "https://open.spotify.com/album/3ek1prKoU7k0Dl4ap5M67J"
+      },
+      "artists": [
+        {
+          "name": "fkbambam",
+          "url": "https://open.spotify.com/artist/1BZ5smaHoDSI2a61ErUch6"
+        }
+      ],
+      "duration_ms": 113294,
+      "name": "HARDCORE",
+      "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
+    },
+    {
+      "added_at": "2022-08-17 23:34:22",
+      "album": {
+        "name": "Move To The Beat Like",
+        "url": "https://open.spotify.com/album/4zOJRnSALdyW2xpQAshRip"
+      },
+      "artists": [
+        {
+          "name": "401 WST",
+          "url": "https://open.spotify.com/artist/5wuaDFXpmEuasEnBVSDLqQ"
+        },
+        {
+          "name": "4Korners",
+          "url": "https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab"
+        },
+        {
+          "name": "Ashton Adams",
+          "url": "https://open.spotify.com/artist/3bZea9sKoCDVDY4hwfgo4X"
+        }
+      ],
+      "duration_ms": 106875,
+      "name": "Move To The Beat Like",
+      "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
     }
   ],
   "unique_name": "Nitroboost",

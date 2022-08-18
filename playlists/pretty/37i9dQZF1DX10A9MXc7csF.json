@@ -1,12 +1,12 @@
 {
   "description": "The new school of M\u00fasica Mexicana. Cover: Estevan Plazola, Tony Loya.",
-  "num_followers": 93382,
+  "num_followers": 93389,
   "original_name": "M\u00fasica Mexicana Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMDE1NTQ4OTY0MGUzNWRlMjk2MWJjZTliNjAwMTc3M2Yy",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGVkMmViZWVhZTNkN2I0Yjg3NDQ3YWRkNWNmM2U3ZmEy",
   "tracks": [
     {
       "added_at": "2022-08-12 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Tu Mirada",
-        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
-      },
-      "artists": [
-        {
-          "name": "Officialalex425",
-          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
-        }
-      ],
-      "duration_ms": 149851,
-      "name": "Tu Mirada",
-      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Tiempo Fuera",
         "url": "https://open.spotify.com/album/3ofYz6uyOpKbp8DHnCefh3"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 198040,
       "name": "Tiempo Fuera",
       "url": "https://open.spotify.com/track/01gAbqtPWVRLzHKZjqbtwM"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Tu Mirada",
+        "url": "https://open.spotify.com/album/2lCDLXSdE6An4aVSuvPBPd"
+      },
+      "artists": [
+        {
+          "name": "Officialalex425",
+          "url": "https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ"
+        }
+      ],
+      "duration_ms": 149851,
+      "name": "Tu Mirada",
+      "url": "https://open.spotify.com/track/1Ks6qonhq4VOzYvvFPmppi"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -635,6 +635,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Voy Hasta La Cima (Vickz Kickz)",
+        "url": "https://open.spotify.com/album/12b9MJ11lXHknBg3q76njX"
+      },
+      "artists": [
+        {
+          "name": "Zexta Alianza",
+          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+        }
+      ],
+      "duration_ms": 212750,
+      "name": "Voy Hasta La Cima (Vickz Kickz)",
+      "url": "https://open.spotify.com/track/0uSK1wJVLIxPQJaeR4NA2X"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "No Me Vas a Convencer",
         "url": "https://open.spotify.com/album/4Y2nV2o9h5x7UidmFfUNRf"
       },
@@ -655,18 +671,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Voy Hasta La Cima (Vickz Kickz)",
-        "url": "https://open.spotify.com/album/12b9MJ11lXHknBg3q76njX"
+        "name": "Deseandote",
+        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
       },
       "artists": [
         {
-          "name": "Zexta Alianza",
-          "url": "https://open.spotify.com/artist/2dMIA9Z9kAwjqHptVnccGX"
+          "name": "Tony Herrera",
+          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
         }
       ],
-      "duration_ms": 212750,
-      "name": "Voy Hasta La Cima (Vickz Kickz)",
-      "url": "https://open.spotify.com/track/0uSK1wJVLIxPQJaeR4NA2X"
+      "duration_ms": 235200,
+      "name": "Deseandote",
+      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -691,34 +707,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Deseandote",
-        "url": "https://open.spotify.com/album/4ce6iGcipxIz39Ks7DMWbi"
+        "name": "Arroz Con Leche",
+        "url": "https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn"
       },
       "artists": [
         {
-          "name": "Tony Herrera",
-          "url": "https://open.spotify.com/artist/6Qn8kPbvrx7Qji2rCqtKbk"
+          "name": "Cachas De Oro",
+          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Deseandote",
-      "url": "https://open.spotify.com/track/4GrqU3zJiJdtCT3lyxtMcr"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "G. Blanco",
-        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
-      },
-      "artists": [
-        {
-          "name": "GiGi",
-          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
-        }
-      ],
-      "duration_ms": 178280,
-      "name": "G. Blanco",
-      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
+      "duration_ms": 155466,
+      "name": "Arroz Con Leche",
+      "url": "https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -747,18 +747,18 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Arroz Con Leche",
-        "url": "https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn"
+        "name": "G. Blanco",
+        "url": "https://open.spotify.com/album/0lF7zHfnHCcTOafAqm3TBZ"
       },
       "artists": [
         {
-          "name": "Cachas De Oro",
-          "url": "https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU"
+          "name": "GiGi",
+          "url": "https://open.spotify.com/artist/4EK7mMUmKiGrNRC2ap3Dg8"
         }
       ],
-      "duration_ms": 155466,
-      "name": "Arroz Con Leche",
-      "url": "https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1"
+      "duration_ms": 178280,
+      "name": "G. Blanco",
+      "url": "https://open.spotify.com/track/3TjdNdUfbY6udjKPRZTUS8"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -831,6 +831,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Sembrando",
+        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 188917,
+      "name": "Sembrando",
+      "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Dejen Les Cuento",
         "url": "https://open.spotify.com/album/7Br2HuJLhswrEjiTlETGY5"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 171625,
       "name": "Dejen Les Cuento",
       "url": "https://open.spotify.com/track/5t65YQyrgDPPmgT8Z4Iy7M"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Sembrando",
-        "url": "https://open.spotify.com/album/6uZz2MDaBCSnZWVafV8fKG"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 188917,
-      "name": "Sembrando",
-      "url": "https://open.spotify.com/track/6RHs3X2bQefGEbvqDB7MZB"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Bajo La Gorra",
-        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
-      },
-      "artists": [
-        {
-          "name": "Oswaldo_NR",
-          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
-        }
-      ],
-      "duration_ms": 190786,
-      "name": "Bajo La Gorra",
-      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Ense\u00f1andoles Maldad",
         "url": "https://open.spotify.com/album/3jmNVF5yujzQ7hFQN4xdv9"
       },
@@ -1011,6 +995,38 @@
       "duration_ms": 216624,
       "name": "Ense\u00f1andoles Maldad",
       "url": "https://open.spotify.com/track/6L9FXIEPTKiiqlaJi2iW8T"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Atrapado En El Papel",
+        "url": "https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54"
+      },
+      "artists": [
+        {
+          "name": "Everardo",
+          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
+        }
+      ],
+      "duration_ms": 132548,
+      "name": "Ya Les Contaron",
+      "url": "https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Bajo La Gorra",
+        "url": "https://open.spotify.com/album/0tS5TX5Bm9eXzPG9vh1KPc"
+      },
+      "artists": [
+        {
+          "name": "Oswaldo_NR",
+          "url": "https://open.spotify.com/artist/1n3pTG4kkZiuepmOINVStx"
+        }
+      ],
+      "duration_ms": 190786,
+      "name": "Bajo La Gorra",
+      "url": "https://open.spotify.com/track/09P6YRZJ4Ar5MkrjXq1GJu"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1031,22 +1047,6 @@
       "duration_ms": 170625,
       "name": "En Las Nubes",
       "url": "https://open.spotify.com/track/7w33jezcbBOsxHDYlDIFpm"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Atrapado En El Papel",
-        "url": "https://open.spotify.com/album/0eiJZ692NTHfCQKcWPsN54"
-      },
-      "artists": [
-        {
-          "name": "Everardo",
-          "url": "https://open.spotify.com/artist/4fT0S7A6usiJicipEVamYd"
-        }
-      ],
-      "duration_ms": 132548,
-      "name": "Ya Les Contaron",
-      "url": "https://open.spotify.com/track/6gSc7krJhPkUMvb7FKD7lP"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "JGL (En Vivo)",
-        "url": "https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8"
-      },
-      "artists": [
-        {
-          "name": "Janely Rosa",
-          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
-        },
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "JGL (En Vivo)",
-      "url": "https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Culpables",
         "url": "https://open.spotify.com/album/0IVy7jUm9adIBg3n3IKUD1"
       },
@@ -1291,6 +1271,26 @@
       "duration_ms": 226999,
       "name": "Esta Herencia",
       "url": "https://open.spotify.com/track/2agHIeWkGuwxLw4UzLZr2Z"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "JGL (En Vivo)",
+        "url": "https://open.spotify.com/album/2DxmuUhMHhmRIgm13TKbE8"
+      },
+      "artists": [
+        {
+          "name": "Janely Rosa",
+          "url": "https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF"
+        },
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "JGL (En Vivo)",
+      "url": "https://open.spotify.com/track/3zIESsnsuLJ38QsQERk75c"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
+        "name": "Los Chilos Del Pueblo (En Vivo)",
+        "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
+      },
+      "artists": [
+        {
+          "name": "Uziel Payan",
+          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "Los Chilos Del Pueblo - En Vivo",
+      "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
         "name": "Les Quedo Claro",
         "url": "https://open.spotify.com/album/0byJUz2IEI7oCxoAYW8JKf"
       },
@@ -1391,22 +1407,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Los Chilos Del Pueblo (En Vivo)",
-        "url": "https://open.spotify.com/album/4EOP7sFK2szTt3evJsqQQ4"
-      },
-      "artists": [
-        {
-          "name": "Uziel Payan",
-          "url": "https://open.spotify.com/artist/1mUJ5FdyqTx1UewE6z6imQ"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "Los Chilos Del Pueblo - En Vivo",
-      "url": "https://open.spotify.com/track/6MGz853UtR79EUmRawZhSw"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Due\u00f1a De Mi Amor",
         "url": "https://open.spotify.com/album/7w3P9BTyusulTDX5Xi020x"
       },
@@ -1419,22 +1419,6 @@
       "duration_ms": 167525,
       "name": "Una En Un Millon",
       "url": "https://open.spotify.com/track/4PymbhZd20OgKINlAktJ7z"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Seguimos En El Refuego",
-        "url": "https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD"
-      },
-      "artists": [
-        {
-          "name": "El De La H",
-          "url": "https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1"
-        }
-      ],
-      "duration_ms": 169400,
-      "name": "Seguimos En El Refuego",
-      "url": "https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 274775,
       "name": "Fumamos Mota",
       "url": "https://open.spotify.com/track/3vSq4gnH2PnKRWV9Nca8Pl"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Seguimos En El Refuego",
+        "url": "https://open.spotify.com/album/0XAFLJnNTXtI3G7jyPxKzD"
+      },
+      "artists": [
+        {
+          "name": "El De La H",
+          "url": "https://open.spotify.com/artist/5JRFF4doyWWw1oWC4th6O1"
+        }
+      ],
+      "duration_ms": 169400,
+      "name": "Seguimos En El Refuego",
+      "url": "https://open.spotify.com/track/6YZNJmVJafiS9dKdf9ZCKa"
     },
     {
       "added_at": "2022-08-12 04:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2022-08-12 04:00:00",
       "album": {
-        "name": "Temporadas Emocionales",
-        "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
-      },
-      "artists": [
-        {
-          "name": "Dariell Cano",
-          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
-        }
-      ],
-      "duration_ms": 247692,
-      "name": "Maravillosa",
-      "url": "https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
         "name": "Paranoia",
         "url": "https://open.spotify.com/album/5Udf1Cz8Q9r35d8sIBS8tX"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 157431,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/0cOuTJ7k92o9V6hkf3fxpW"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Temporadas Emocionales",
+        "url": "https://open.spotify.com/album/6inLDeo1dofeIGKtY6QZfJ"
+      },
+      "artists": [
+        {
+          "name": "Dariell Cano",
+          "url": "https://open.spotify.com/artist/5aCpXuqGhGgQhqHtGObmJT"
+        }
+      ],
+      "duration_ms": 247692,
+      "name": "Maravillosa",
+      "url": "https://open.spotify.com/track/2tvXFz2nrT37IeYoTrIYzp"
     },
     {
       "added_at": "2022-08-12 04:00:00",

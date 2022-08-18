@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 84710,
+  "num_followers": 84720,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzNDQ5OCwwMDAwMDAwMGU3Njc1YzIzNDgwZDk4Y2YwNTU4OTU2YjUzZTYyODVm",
+  "snapshot_id": "MTY2MDUzNDQ5OCwwMDAwMDAwMGZiODg0ZWExZGYzOWQ3MTk2ODBlZDc1ZDExZDUzZDQ3",
   "tracks": [
     {
       "added_at": "2022-08-15 03:34:58",
@@ -83,22 +83,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN"
-      },
-      "artists": [
-        {
-          "name": "Bomb\u6bd4\u5c14",
-          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
-        }
-      ],
-      "duration_ms": 195813,
-      "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
-      "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
         "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 226773,
       "name": "\u60e1\u4f5c\u5287",
       "url": "https://open.spotify.com/track/643hRiTY9vzD6P0cWO8UP3"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN"
+      },
+      "artists": [
+        {
+          "name": "Bomb\u6bd4\u5c14",
+          "url": "https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E"
+        }
+      ],
+      "duration_ms": 195813,
+      "name": "1022-\u6bd4\u5c14\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -259,6 +259,22 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
+        "name": "\u81ea\u5b9a\u7fa9",
+        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
+      },
+      "artists": [
+        {
+          "name": "\u8a31\u5d69",
+          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
+        }
+      ],
+      "duration_ms": 240027,
+      "name": "\u6709\u4f55\u4e0d\u53ef",
+      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
         "name": "Thoughts Of You",
         "url": "https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 224520,
       "name": "Thoughts Of You (Feat. pH-1 & BENZO)",
       "url": "https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
-        "name": "\u81ea\u5b9a\u7fa9",
-        "url": "https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD"
-      },
-      "artists": [
-        {
-          "name": "\u8a31\u5d69",
-          "url": "https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV"
-        }
-      ],
-      "duration_ms": 240027,
-      "name": "\u6709\u4f55\u4e0d\u53ef",
-      "url": "https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -487,22 +487,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u4f60\u5fae\u7b11\u6642\u5f88\u7f8e Falling Into Your Smile OST",
-        "url": "https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ"
+        "name": "\u5206\u4f60\u4e00\u534a",
+        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
       },
       "artists": [
         {
-          "name": "Xu Kai",
-          "url": "https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA"
-        },
-        {
-          "name": "\u7a0b\u701f (Cheng Xiao)",
-          "url": "https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt"
+          "name": "\u53f6\u6068\u6c34",
+          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
         }
       ],
-      "duration_ms": 208998,
-      "name": "\u7b2c\u4e00\u9ed8\u5951 Soulmate",
-      "url": "https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD"
+      "duration_ms": 199691,
+      "name": "\u5206\u4f60\u4e00\u534a",
+      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -543,18 +539,22 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u5206\u4f60\u4e00\u534a",
-        "url": "https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj"
+        "name": "\u4f60\u5fae\u7b11\u6642\u5f88\u7f8e Falling Into Your Smile OST",
+        "url": "https://open.spotify.com/album/7GcUs9FQMCUatmstpSeDZZ"
       },
       "artists": [
         {
-          "name": "\u53f6\u6068\u6c34",
-          "url": "https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD"
+          "name": "Xu Kai",
+          "url": "https://open.spotify.com/artist/00m70qHTo1jHHxLgAXbkXA"
+        },
+        {
+          "name": "\u7a0b\u701f (Cheng Xiao)",
+          "url": "https://open.spotify.com/artist/6eY9LT0jokuZ4iwGoAW9nt"
         }
       ],
-      "duration_ms": 199691,
-      "name": "\u5206\u4f60\u4e00\u534a",
-      "url": "https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh"
+      "duration_ms": 208998,
+      "name": "\u7b2c\u4e00\u9ed8\u5951 Soulmate",
+      "url": "https://open.spotify.com/track/3GFdYLcROugyYHy9rcXulD"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
-        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
-      },
-      "artists": [
-        {
-          "name": "Lara Liang",
-          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
-        }
-      ],
-      "duration_ms": 213240,
-      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
-      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
         "url": "https://open.spotify.com/album/6cuddwe4icENbr7R6NvtIt"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 207272,
       "name": "\u4e00\u6574\u4e2a\u7231\u4f4f\u4f60",
       "url": "https://open.spotify.com/track/0yyYSJBeXYNGa7TSgB8TJ7"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "\u60e1\u4f5c\u5287\u4e4b\u543b",
+        "url": "https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe"
+      },
+      "artists": [
+        {
+          "name": "Lara Liang",
+          "url": "https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW"
+        }
+      ],
+      "duration_ms": 213240,
+      "name": "\u9760\u8fd1\u4e00\u9ede\u9ede",
+      "url": "https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -891,18 +891,22 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "Till We Fall in Love",
-        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
+        "name": "\u5fc3\u52a8\u51b3\u5b9a",
+        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
       },
       "artists": [
         {
-          "name": "\u989c\u4eba\u4e2d",
-          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
+          "name": "\u53f6\u743c\u7433",
+          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
+        },
+        {
+          "name": "\u9ec3\u79ae\u683c",
+          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
         }
       ],
-      "duration_ms": 240283,
-      "name": "Till We Fall in Love",
-      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
+      "duration_ms": 203331,
+      "name": "\u5fc3\u52a8\u51b3\u5b9a",
+      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -927,22 +931,18 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "\u5fc3\u52a8\u51b3\u5b9a",
-        "url": "https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv"
+        "name": "Till We Fall in Love",
+        "url": "https://open.spotify.com/album/69Xnn6GEk0hLXUcPxcMngt"
       },
       "artists": [
         {
-          "name": "\u53f6\u743c\u7433",
-          "url": "https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz"
-        },
-        {
-          "name": "\u9ec3\u79ae\u683c",
-          "url": "https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu"
+          "name": "\u989c\u4eba\u4e2d",
+          "url": "https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU"
         }
       ],
-      "duration_ms": 203331,
-      "name": "\u5fc3\u52a8\u51b3\u5b9a",
-      "url": "https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r"
+      "duration_ms": 240283,
+      "name": "Till We Fall in Love",
+      "url": "https://open.spotify.com/track/7lXQEJTUzFPeuuDtB2NpkA"
     },
     {
       "added_at": "2022-08-15 03:34:58",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2022-08-15 03:34:58",
       "album": {
-        "name": "SUPERMAN",
-        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
-      },
-      "artists": [
-        {
-          "name": "Gary Chaw",
-          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
-        }
-      ],
-      "duration_ms": 244690,
-      "name": "\u5169\u96bb\u6200\u4eba",
-      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
-    },
-    {
-      "added_at": "2022-08-15 03:34:58",
-      "album": {
         "name": "\u6d77\u7ef5\u5b9d\u5b9d",
         "url": "https://open.spotify.com/album/0Uz8fFtCbhG27CwfUqzKv1"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 198538,
       "name": "\u6d77\u7ef5\u5b9d\u5b9d",
       "url": "https://open.spotify.com/track/3yZFL4pKWue0I8ru6mmxqX"
+    },
+    {
+      "added_at": "2022-08-15 03:34:58",
+      "album": {
+        "name": "SUPERMAN",
+        "url": "https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN"
+      },
+      "artists": [
+        {
+          "name": "Gary Chaw",
+          "url": "https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK"
+        }
+      ],
+      "duration_ms": 244690,
+      "name": "\u5169\u96bb\u6200\u4eba",
+      "url": "https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN"
     },
     {
       "added_at": "2022-08-15 03:34:58",

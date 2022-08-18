@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Ffion
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,595 likes - 49 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,596 likes - 49 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 7 | [KEMBALI TERANG](https://open.spotify.com/track/4NzB31TlldP5VSb9En1L6Q) | [Marsha Milan](https://open.spotify.com/artist/318pGzlr5IiN6UAAL8KHTD) | [KEMBALI TERANG](https://open.spotify.com/album/4BGue0B72lKl9nvFPxZDzW) | 3:22 |
 | 8 | [gave u my h3@rt](https://open.spotify.com/track/0tvhSkTe9W8dRbnh6DtuB5) | [Talitha.](https://open.spotify.com/artist/4wkxDp8esk6g2W9Fw7IQGY) | [gave u my h3@rt](https://open.spotify.com/album/7GbJMCNrNaWVmlGExxLvy9) | 3:11 |
 | 9 | [擒光 \- 《英雄联盟手游》 星光公测推广曲](https://open.spotify.com/track/3rwJgruQCfA5nwTsmMFPTi) | [Stefanie Sun](https://open.spotify.com/artist/0SIXZXJCAhNU8sxK0qm7hn) | [擒光 \(《英雄联盟手游》 星光公测推广曲\)](https://open.spotify.com/album/1kpFR9nmb7hBbHIBR7WLvA) | 3:54 |
-| 10 | [Faith](https://open.spotify.com/track/1pVslheqE12Dm3Wof434z4) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/716XHpW50tOOkELJmjS8Df) | 3:08 |
+| 10 | [Faith](https://open.spotify.com/track/2O9YKvyc05S6NiXGq6hB2Y) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:08 |
 | 11 | [Sampai Bila](https://open.spotify.com/track/3cvpEmLI6MbnDqZstyqWxK) | [Misha Omar](https://open.spotify.com/artist/5cpxHc2y6L3Jn3FWY3z94Q) | [Sampai Bila](https://open.spotify.com/album/4CKqizZ82xFQTDAEWKPvwe) | 3:43 |
 | 12 | [Terus Hidup](https://open.spotify.com/track/3sUY5xI83n8KX0rjpfxoQu) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Terus Hidup](https://open.spotify.com/album/4BDfVnGe4BlQxXQcf9RcqA) | 4:24 |
 | 13 | [Better Than To Brood](https://open.spotify.com/track/76W65UxnP1syWuHk7ZFpyo) | [RENE](https://open.spotify.com/artist/7oUwiz9DwD9EpLfuhd9xAg) | [Better Than To Brood](https://open.spotify.com/album/0OniLKNN0e61YPdDNHOMmr) | 3:09 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdx7sCF75xKy.md) - [plain]
 | 48 | [gray](https://open.spotify.com/track/3DSku3yyyILJ10UHFSKcS2) | [ALICIA DC](https://open.spotify.com/artist/7zh84sU4kvNPzoqUjFrE9E) | [Maybe](https://open.spotify.com/album/7FM4ChgZ4rkqLrvUOV9PUe) | 4:00 |
 | 49 | [Ashes](https://open.spotify.com/track/2Jvfqdr5GXQjtzyMtPllpD) | [Khim Ng](https://open.spotify.com/artist/53RjFiYitkODVyiZchcgDT) | [Ashes](https://open.spotify.com/album/4bZrc6tojkEi0frb4cvmIb) | 3:56 |
 
-Snapshot ID: `MTY2MDIzMzYwMCwwMDAwMDAwMGY1Yzc0MzMxMjdkYmNkNWNmNWNkYjI2YjI1MjlmZGI5`
+Snapshot ID: `MTY2MDIzMzYwMCwwMDAwMDAwMGNjMjY2MWY5OWRiODE3MGEyZWVjYzZkYjNlN2IwNjM0`

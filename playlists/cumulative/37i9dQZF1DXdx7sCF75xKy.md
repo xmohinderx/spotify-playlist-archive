@@ -4,7 +4,7 @@
 
 > Listen to women from Singapore and Malaysia at full volume\. Cover: Ffion
 
-391 songs - 22 hr 37 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
+392 songs - 22 hr 40 min - [published](https://open.spotify.com/playlist/4EQCek61VeDxcyurji0j0V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [Elegi Sepi](https://open.spotify.com/track/4RJn2WTUlUl1g8gYN6CeME) | [Azharina](https://open.spotify.com/artist/4UrnhDklfmyS1Czc615OTy) | [Pop Sensasi](https://open.spotify.com/album/3TxOhghQByi2ekOv564NS8) | 3:57 | 2022-07-07 | 2022-07-29 |
 | [Emma](https://open.spotify.com/track/59WKpu7YcP47uY9DHtceyV) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Emma](https://open.spotify.com/album/0xvcLQ2UGoLDn1CELpXf7e) | 1:57 | 2022-02-02 | 2022-03-08 |
 | [Every time I look into your eyes](https://open.spotify.com/track/22GqJOz2SQ03dLUqdzbZy1) | [By2](https://open.spotify.com/artist/3DOs7Bsr9x4eJHqv6ViPvR) | [Every Time I Look Into Your Eyes](https://open.spotify.com/album/5vhW1AYQ48GnkuPRphdVM8) | 2:59 | 2022-01-04 | 2022-02-03 |
-| [Faith](https://open.spotify.com/track/1pVslheqE12Dm3Wof434z4) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/716XHpW50tOOkELJmjS8Df) | 3:08 | 2022-08-02 |  |
+| [Faith](https://open.spotify.com/track/1pVslheqE12Dm3Wof434z4) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/716XHpW50tOOkELJmjS8Df) | 3:08 | 2022-08-02 | 2022-08-18 |
+| [Faith](https://open.spotify.com/track/2O9YKvyc05S6NiXGq6hB2Y) | [Linying](https://open.spotify.com/artist/5IIP34JBy1d8kBYlAGnRaW) | [There Could Be Wreckage Here](https://open.spotify.com/album/2Bl07S4w2tGi2F9qK346EW) | 3:08 | 2022-08-02 |  |
 | [Feel That \- From "A Song a Day"](https://open.spotify.com/track/3y23mDga43DjJi560IUffC) | [Miss Lou](https://open.spotify.com/artist/4d9Kpr4Q9VIn3DkREGx2rJ), [Haneri](https://open.spotify.com/artist/3lwPzq3sT3tucaO1F6sDw7) | [Feel That \(From "A Song a Day"\)](https://open.spotify.com/album/0PmsdfZdhmdTvQGmhNiJ8n) | 2:50 | 2021-12-07 | 2022-01-05 |
 | [FOOL](https://open.spotify.com/track/3VqnLrwIssvMhmv8XyPbG2) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [FOOL](https://open.spotify.com/album/5BuoKXWA9s5sWMJ5XZgqxb) | 2:59 | 2022-01-04 | 2022-04-06 |
 | [for any weather](https://open.spotify.com/track/3zmBY4SMD0dsjupuZCCwxU) | [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa), [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [the songs i wrote for you](https://open.spotify.com/album/2j4j5Se6EOO0puQYd6pJaK) | 3:40 | 2022-05-03 | 2022-06-01 |

@@ -109,7 +109,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 277233,
       "name": "A Song No More",
       "url": "https://open.spotify.com/track/1uNjQwidSPSjPRAfh6JJBE"
@@ -2463,6 +2463,24 @@
       "duration_ms": 245440,
       "name": "Time Lapse",
       "url": "https://open.spotify.com/track/5T8colb4YzBDdOboom5twr"
+    },
+    {
+      "album": {
+        "name": "Poppin'on!",
+        "url": "https://open.spotify.com/album/1rSxXBi23B1LXH01IdMITL"
+      },
+      "artists": [
+        {
+          "name": "Poppin'Party",
+          "url": "https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257032,
+      "name": "Tokimeki Experience!",
+      "url": "https://open.spotify.com/track/5uxhAPNplFMEkvXNNLzEZl"
     },
     {
       "album": {

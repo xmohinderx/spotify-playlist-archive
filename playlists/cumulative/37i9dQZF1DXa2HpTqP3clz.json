@@ -193,7 +193,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 178182,
       "name": "Alive With You",
       "url": "https://open.spotify.com/track/6zEJyiqP21mqaB0rnOKcO1"
@@ -645,7 +645,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 180960,
       "name": "Better 'N You",
       "url": "https://open.spotify.com/track/0HP0RauLuehBQ04kPJAb5l"
@@ -693,10 +693,36 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 197294,
       "name": "Big Backyard (feat. Old Crow Medicine Show)",
       "url": "https://open.spotify.com/track/2W3tGlcNRtNps1ogvN7j0K"
+    },
+    {
+      "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Old Crow Medicine Show",
+          "url": "https://open.spotify.com/artist/4DBi4EYXgiqbkxvWUXUzMi"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197294,
+      "name": "Big Backyard (feat. Old Crow Medicine Show)",
+      "url": "https://open.spotify.com/track/515grUPGeNHPCKOThjaUYg"
     },
     {
       "album": {
@@ -1608,6 +1634,32 @@
     },
     {
       "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        },
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221302,
+      "name": "Dooley's Farm (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU"
+    },
+    {
+      "album": {
         "name": "Dooley's Farm (feat. Billy Strings)",
         "url": "https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp"
       },
@@ -1627,7 +1679,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 221302,
       "name": "Dooley's Farm (feat. Billy Strings)",
       "url": "https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd"
@@ -1943,7 +1995,7 @@
       ],
       "date_added": "2022-04-15",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 204106,
       "name": "Fire Song",
       "url": "https://open.spotify.com/track/6JW7S2jU3rnm9rQmbOzdIY"
@@ -2553,7 +2605,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 229040,
       "name": "Honey Chile",
       "url": "https://open.spotify.com/track/2WK1OSe83Ik3dNqMkDoOzN"

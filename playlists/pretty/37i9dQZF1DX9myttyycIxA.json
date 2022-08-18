@@ -1,12 +1,12 @@
 {
   "description": "Underground indie rock gems. Cover: girlpuppy",
-  "num_followers": 264793,
+  "num_followers": 264854,
   "original_name": "undercurrents",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzNTA1MiwwMDAwMDAwMGIxYTU0ZDM2NjJkMzgzMDBjYmJjOWQ3ODZjODVkM2Qz",
+  "snapshot_id": "MTY2MDc3NTE3NiwwMDAwMDAwMDI2N2VkOGI3NjhjZmE3MzUwMDIwZTFjN2Y2NGQ2OTQ4",
   "tracks": [
     {
       "added_at": "2022-08-12 20:10:52",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/17BELTAKQdOdV0TC5vDnvY"
     },
     {
+      "added_at": "2022-08-17 21:44:57",
+      "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "duration_ms": 169200,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
+    },
+    {
       "added_at": "2022-08-12 20:10:52",
       "album": {
         "name": "Before Dawn",
@@ -231,6 +247,26 @@
       "duration_ms": 173100,
       "name": "Burnt",
       "url": "https://open.spotify.com/track/5PY4JyJ5oQIxLx9iqrXXEG"
+    },
+    {
+      "added_at": "2022-08-17 22:26:16",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/1dBMg19trPIuXYKt70snYC"
+      },
+      "artists": [
+        {
+          "name": "Young Jesus",
+          "url": "https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP"
+        },
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "duration_ms": 281146,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE"
     },
     {
       "added_at": "2022-07-29 05:39:00",
@@ -1483,26 +1519,6 @@
     {
       "added_at": "2022-05-19 16:02:03",
       "album": {
-        "name": "Pretty",
-        "url": "https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo"
-      },
-      "artists": [
-        {
-          "name": "Fox Academy",
-          "url": "https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow"
-        },
-        {
-          "name": "Sipper",
-          "url": "https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED"
-        }
-      ],
-      "duration_ms": 199000,
-      "name": "Pretty",
-      "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
         "name": "Coolest fucking bitch in town",
         "url": "https://open.spotify.com/album/6473Bw0fbg01rEXirczRcs"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 161266,
       "name": "Aphasia",
       "url": "https://open.spotify.com/track/5JQ3EKw3BnSo5T7uxlCNtc"
-    },
-    {
-      "added_at": "2022-05-19 16:02:03",
-      "album": {
-        "name": "Must Be a Cop",
-        "url": "https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO"
-      },
-      "artists": [
-        {
-          "name": "Husbands",
-          "url": "https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP"
-        }
-      ],
-      "duration_ms": 229195,
-      "name": "Must Be a Cop",
-      "url": "https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y"
     },
     {
       "added_at": "2022-06-02 14:16:47",

@@ -1,12 +1,12 @@
 {
   "description": "Eagles, The Byrds and all your favorite country rock",
-  "num_followers": 114123,
+  "num_followers": 114227,
   "original_name": "Country Rock Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDgxNjI5ZjQwZmI4YmYwNDhhOWRkZjY5MjdiN2NiNGQz",
+  "snapshot_id": "MTY1NzA0ODI5NCwwMDAwMDAwMDA5ZjJmOWNkODE1OWM3ODQ5ODZkYTZlZDgyNDY4YjRj",
   "tracks": [
     {
       "added_at": "2020-08-05 15:52:11",
@@ -221,22 +221,6 @@
       "url": "https://open.spotify.com/track/436yrzQWA32vb1sTZKXg9r"
     },
     {
-      "added_at": "2020-08-05 15:52:11",
-      "album": {
-        "name": "Legend",
-        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
-      },
-      "artists": [
-        {
-          "name": "Poco",
-          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
-        }
-      ],
-      "duration_ms": 294533,
-      "name": "Heart Of The Night",
-      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
-    },
-    {
       "added_at": "2022-06-01 14:18:36",
       "album": {
         "name": "Heart Like A Wheel",
@@ -251,6 +235,22 @@
       "duration_ms": 182040,
       "name": "Willin'",
       "url": "https://open.spotify.com/track/7HblJM23la7H8kXeBwlkzN"
+    },
+    {
+      "added_at": "2020-08-05 15:52:11",
+      "album": {
+        "name": "Legend",
+        "url": "https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi"
+      },
+      "artists": [
+        {
+          "name": "Poco",
+          "url": "https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR"
+        }
+      ],
+      "duration_ms": 294533,
+      "name": "Heart Of The Night",
+      "url": "https://open.spotify.com/track/6fNID7koTl1dZBCs6FmK4E"
     },
     {
       "added_at": "2020-08-05 15:52:11",

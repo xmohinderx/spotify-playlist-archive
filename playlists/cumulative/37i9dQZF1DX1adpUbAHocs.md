@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-265 songs - 16 hr 41 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
+266 songs - 16 hr 43 min - [published](https://open.spotify.com/playlist/5jokDv5Z5OSve1XaOaj4bi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,7 +261,8 @@
 | [Where The Rocks Are](https://open.spotify.com/track/0XzVFPCmBmQuNjshP49T1R) | [Maia Friedman](https://open.spotify.com/artist/3SAdHKW3ICNgtyFgaWdC6c) | [Where The Rocks Are](https://open.spotify.com/album/0JseMx4hFfMch3y8MfbDNo) | 3:53 | 2022-03-22 | 2022-04-16 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-03-22 |  |
 | [Wild](https://open.spotify.com/track/05uhED0miR9OJYPalPi7tx) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Lucifer On The Sofa](https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ) | 3:13 | 2022-03-22 |  |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-22 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-22 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-22 | 2022-08-18 |
 | [Wild Mountain Thyme](https://open.spotify.com/track/2E6jamoQq3U6ruuof8mlLQ) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO), [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Sweet Lucy / Wild Mountain Thyme](https://open.spotify.com/album/57wSPDNu5pthfNZlrBIRjL) | 4:46 | 2021-10-08 | 2022-07-29 |
 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 | 2022-03-22 |  |
 | [Wilder Days](https://open.spotify.com/track/5KLcBroBfpQSHdL0JiH8rN) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Wilder Days](https://open.spotify.com/album/7JXd9GpMCHDx5GfVQEEyCk) | 4:11 | 2021-10-08 | 2022-07-29 |

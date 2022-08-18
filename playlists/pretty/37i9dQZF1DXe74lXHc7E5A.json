@@ -1,12 +1,12 @@
 {
   "description": "Hip Hop and Rap songs guaranteed to get you hyped. Cover: Megan thee Stallion",
-  "num_followers": 237,
+  "num_followers": 255,
   "original_name": "Hype List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MTQzMCwwMDAwMDAwMDZhMDM1NGNmM2Y2M2RjZTVlYTQxODJiN2RkMDk2ZTE4",
+  "snapshot_id": "MTY2MDI4MTQzMCwwMDAwMDAwMGEwNjVhODYyNGJiZTNkNGZmODRlN2ZjMzA2NjVhYjBj",
   "tracks": [
     {
       "added_at": "2022-08-05 07:55:20",
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2022-07-27 12:30:07",
       "album": {
+        "name": "Seoul",
+        "url": "https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv"
+      },
+      "artists": [
+        {
+          "name": "AJ Tracey",
+          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
+        }
+      ],
+      "duration_ms": 171160,
+      "name": "Seoul",
+      "url": "https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6"
+    },
+    {
+      "added_at": "2022-07-27 12:30:07",
+      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/7b7CkJuDzMUFt0vbzj0pjv"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 237623,
       "name": "Run (feat. Tyga, 21 Savage & BIA)",
       "url": "https://open.spotify.com/track/7ItXHU9yVm8AUkMyo4kffF"
-    },
-    {
-      "added_at": "2022-07-27 12:30:07",
-      "album": {
-        "name": "Seoul",
-        "url": "https://open.spotify.com/album/6fV7M6efvo4Qw9T2jatNbv"
-      },
-      "artists": [
-        {
-          "name": "AJ Tracey",
-          "url": "https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U"
-        }
-      ],
-      "duration_ms": 171160,
-      "name": "Seoul",
-      "url": "https://open.spotify.com/track/1Q8L5GiqKchiwSkdMDXyP6"
     },
     {
       "added_at": "2022-07-27 12:30:07",

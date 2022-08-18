@@ -1,12 +1,12 @@
 {
   "description": "Los nuevos sonidos y fusiones de m\u00fasica Alternativa Latina, con Pahua en portada.",
-  "num_followers": 23947,
+  "num_followers": 23982,
   "original_name": "Indie AlterLatino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY5MjgxMCwwMDAwMDAwMDdiZmE5OGU5YzQ2YzNmMjJlZjM5YjVhYzFjNzIyOWNh",
+  "snapshot_id": "MTY2MDY5MjgxMCwwMDAwMDAwMDBhYzNjOWFmN2Q1MDA1ZmUwZDIwNmM4MzBmZWZmZmQ3",
   "tracks": [
     {
       "added_at": "2021-10-05 16:26:53",
@@ -31,7 +31,7 @@
     {
       "added_at": "2022-08-13 02:18:09",
       "album": {
-        "name": "Frio Blues",
+        "name": "Fr\u00edo Blues",
         "url": "https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB"
       },
       "artists": [
@@ -41,7 +41,7 @@
         }
       ],
       "duration_ms": 165000,
-      "name": "Frio Blues",
+      "name": "Fr\u00edo Blues",
       "url": "https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX"
     },
     {
@@ -261,38 +261,6 @@
       "url": "https://open.spotify.com/track/2MjjIhsTUJT9Em2IK1DYbL"
     },
     {
-      "added_at": "2022-07-13 15:48:37",
-      "album": {
-        "name": "Siempre Sim\u00f3n y Nunca Nel",
-        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 241616,
-      "name": "Siempre Sim\u00f3n y Nunca Nel",
-      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
-    },
-    {
-      "added_at": "2022-08-16 23:33:30",
-      "album": {
-        "name": "FR3N3S1",
-        "url": "https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lozano",
-          "url": "https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "FR3N3S1",
-      "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
-    },
-    {
       "added_at": "2022-04-22 18:06:01",
       "album": {
         "name": "Tinta y Tiempo",
@@ -311,6 +279,38 @@
       "duration_ms": 184475,
       "name": "\u00a1Oh, Algoritmo! (feat. Noga Erez)",
       "url": "https://open.spotify.com/track/5HAjAcrI1mrA1PlhKHXJ0v"
+    },
+    {
+      "added_at": "2022-08-16 23:33:30",
+      "album": {
+        "name": "FR3N3S1",
+        "url": "https://open.spotify.com/album/12ZwFC9rJoFpfIPyb2iuoF"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lozano",
+          "url": "https://open.spotify.com/artist/1DYJKsD0vGFUZVYqs8YWHf"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "FR3N3S1",
+      "url": "https://open.spotify.com/track/4gs4CAPYyhnxgLUIBqLCw7"
+    },
+    {
+      "added_at": "2022-07-13 15:48:37",
+      "album": {
+        "name": "Siempre Sim\u00f3n y Nunca Nel",
+        "url": "https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 241616,
+      "name": "Siempre Sim\u00f3n y Nunca Nel",
+      "url": "https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya"
     },
     {
       "added_at": "2022-05-27 19:08:44",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/72ERVQD9a4KEnLEssH4mg7"
     },
     {
+      "added_at": "2021-11-12 02:37:14",
+      "album": {
+        "name": "Aguaepanela Fant\u00e1stica",
+        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
+      },
+      "artists": [
+        {
+          "name": "Masilva",
+          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
+        }
+      ],
+      "duration_ms": 255227,
+      "name": "Aguaepanela Fant\u00e1stica",
+      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
+    },
+    {
       "added_at": "2022-04-09 05:10:17",
       "album": {
         "name": "Mabanzo",
@@ -583,22 +599,6 @@
       "duration_ms": 242306,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/76H5ZwmUfmQAXwelxMWtbf"
-    },
-    {
-      "added_at": "2021-11-12 02:37:14",
-      "album": {
-        "name": "Aguaepanela Fant\u00e1stica",
-        "url": "https://open.spotify.com/album/0d8PDpbw3nQBRgLcs2VD5j"
-      },
-      "artists": [
-        {
-          "name": "Masilva",
-          "url": "https://open.spotify.com/artist/4FOrNtZ9q20zjb8O9pY8WK"
-        }
-      ],
-      "duration_ms": 255227,
-      "name": "Aguaepanela Fant\u00e1stica",
-      "url": "https://open.spotify.com/track/4dD12G5mBLuZX59OInpwYt"
     },
     {
       "added_at": "2022-02-25 03:28:54",
@@ -725,22 +725,6 @@
       "url": "https://open.spotify.com/track/58ZAoRmXWnP5pXKD23Ymi7"
     },
     {
-      "added_at": "2021-12-17 05:01:00",
-      "album": {
-        "name": "Sabe a Tu Nombre",
-        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
-      },
-      "artists": [
-        {
-          "name": "Cosmic Wacho",
-          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
-        }
-      ],
-      "duration_ms": 228793,
-      "name": "Sabe a Tu Nombre",
-      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
-    },
-    {
       "added_at": "2022-02-24 20:09:48",
       "album": {
         "name": "Sentimiento",
@@ -755,6 +739,22 @@
       "duration_ms": 172666,
       "name": "Sentimiento",
       "url": "https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy"
+    },
+    {
+      "added_at": "2021-12-17 05:01:00",
+      "album": {
+        "name": "Sabe a Tu Nombre",
+        "url": "https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Wacho",
+          "url": "https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa"
+        }
+      ],
+      "duration_ms": 228793,
+      "name": "Sabe a Tu Nombre",
+      "url": "https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -981,6 +981,26 @@
       "url": "https://open.spotify.com/track/7HxxjXqKiVnwJescANPzHu"
     },
     {
+      "added_at": "2022-07-15 04:48:04",
+      "album": {
+        "name": "Ultramar",
+        "url": "https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE"
+      },
+      "artists": [
+        {
+          "name": "Vicente J\u00e1uregui",
+          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+        },
+        {
+          "name": "\u00c1lamo Para\u00edso",
+          "url": "https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4"
+        }
+      ],
+      "duration_ms": 264837,
+      "name": "Ultramar",
+      "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+    },
+    {
       "added_at": "2022-02-25 03:25:39",
       "album": {
         "name": "En Lo Que Llega La Primavera",
@@ -1017,26 +1037,6 @@
       "url": "https://open.spotify.com/track/4S60MLok7rmgOwRE3vBB0G"
     },
     {
-      "added_at": "2022-02-25 02:12:10",
-      "album": {
-        "name": "Para todo mal",
-        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
-      },
-      "artists": [
-        {
-          "name": "La Furia con Lujuria Sonidera",
-          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
-        },
-        {
-          "name": "Dr. Shenka",
-          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
-        }
-      ],
-      "duration_ms": 240871,
-      "name": "Para todo mal",
-      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
-    },
-    {
       "added_at": "2022-02-18 04:21:33",
       "album": {
         "name": "De los L\u00edmites",
@@ -1057,24 +1057,24 @@
       "url": "https://open.spotify.com/track/0v3lS1moJvRrPHrULPTWNf"
     },
     {
-      "added_at": "2022-07-15 04:48:04",
+      "added_at": "2022-02-25 02:12:10",
       "album": {
-        "name": "Ultramar",
-        "url": "https://open.spotify.com/album/1ADt93t1NRHPhPE36MPsOE"
+        "name": "Para todo mal",
+        "url": "https://open.spotify.com/album/06phdYcJAHuUeUa3XT3Dc3"
       },
       "artists": [
         {
-          "name": "Vicente J\u00e1uregui",
-          "url": "https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9"
+          "name": "La Furia con Lujuria Sonidera",
+          "url": "https://open.spotify.com/artist/1sK45AJXVz2gqlJuz567jU"
         },
         {
-          "name": "\u00c1lamo Para\u00edso",
-          "url": "https://open.spotify.com/artist/57aJ11lcLJc9TV0Vi3Abj4"
+          "name": "Dr. Shenka",
+          "url": "https://open.spotify.com/artist/1RmxwlZ0O7vosdy4GL9BHu"
         }
       ],
-      "duration_ms": 264837,
-      "name": "Ultramar",
-      "url": "https://open.spotify.com/track/2AmjYY3ZCmMeIYnvXQZokj"
+      "duration_ms": 240871,
+      "name": "Para todo mal",
+      "url": "https://open.spotify.com/track/4MuvBf04XjJAK9v7ndBwbY"
     },
     {
       "added_at": "2021-10-05 16:26:53",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/5Enzqa7GHAbtYnZZLrflnr"
     },
     {
-      "added_at": "2022-07-25 03:37:28",
-      "album": {
-        "name": "Pantera",
-        "url": "https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp"
-      },
-      "artists": [
-        {
-          "name": "Renee Mooi",
-          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Pantera",
-      "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
-    },
-    {
       "added_at": "2022-02-12 01:22:06",
       "album": {
         "name": "Cascabel",
@@ -1227,6 +1211,22 @@
       "duration_ms": 194999,
       "name": "Cascabel",
       "url": "https://open.spotify.com/track/7KMZLP9Ehk6rbFHs6F3QWR"
+    },
+    {
+      "added_at": "2022-07-25 03:37:28",
+      "album": {
+        "name": "Pantera",
+        "url": "https://open.spotify.com/album/2aPbWvGEt5yRUPYav6MGKp"
+      },
+      "artists": [
+        {
+          "name": "Renee Mooi",
+          "url": "https://open.spotify.com/artist/6pDpSqJDuF6J6jxfAz4sTB"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Pantera",
+      "url": "https://open.spotify.com/track/6OOmsVhtxm6wTvupGDvq9V"
     },
     {
       "added_at": "2022-02-25 03:53:48",
@@ -1701,6 +1701,22 @@
       "url": "https://open.spotify.com/track/0fiSZRmFK4iP1w6ZJRKAVG"
     },
     {
+      "added_at": "2022-01-13 00:41:05",
+      "album": {
+        "name": "Miel de Aguacate",
+        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
+      },
+      "artists": [
+        {
+          "name": "Bicho Blanco",
+          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
+        }
+      ],
+      "duration_ms": 237745,
+      "name": "Miel de Aguacate",
+      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
+    },
+    {
       "added_at": "2021-10-05 16:26:53",
       "album": {
         "name": "Ofrenda Remixes",
@@ -1719,22 +1735,6 @@
       "duration_ms": 201600,
       "name": "Vayay\u00f3 - Jiony Remix",
       "url": "https://open.spotify.com/track/63Ey7CXax01hC8niuvTVhE"
-    },
-    {
-      "added_at": "2022-01-13 00:41:05",
-      "album": {
-        "name": "Miel de Aguacate",
-        "url": "https://open.spotify.com/album/0t1z8oNlfre67u72xPFygQ"
-      },
-      "artists": [
-        {
-          "name": "Bicho Blanco",
-          "url": "https://open.spotify.com/artist/2Rzw8cwEVujjCYNhGFLRcw"
-        }
-      ],
-      "duration_ms": 237745,
-      "name": "Miel de Aguacate",
-      "url": "https://open.spotify.com/track/0G2lWPAEC9FQcd7qe8RLHi"
     },
     {
       "added_at": "2021-10-05 16:26:53",

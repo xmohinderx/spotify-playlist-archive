@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > "Women at full volume" \- Höre hier Künstlerinnen aus Deutschland, Österreich und der Schweiz\. Cover: Mulay
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,171 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,166 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 19 | [La La Land](https://open.spotify.com/track/1RrloIOveHED4mOH4YIloD) | [NOØN](https://open.spotify.com/artist/5L4RPnN1Gx46twMqymBpP4) | [La La Land](https://open.spotify.com/album/5g9Roqumsdd0n5Dx8H4CuX) | 2:54 |
 | 20 | [Boring Love](https://open.spotify.com/track/0wE8LMLJQHuMtWHMxyhjpa) | [Stella Bossi](https://open.spotify.com/artist/3mRoki0oqjOZy7pXCd2cSz) | [Boring Love](https://open.spotify.com/album/4Ew2yxuWJjFEgymYZbT73b) | 6:42 |
 | 21 | [Mulan](https://open.spotify.com/track/4JHBLM632nfkEhEFbcof07) | [CHAN LE](https://open.spotify.com/artist/3GTDUL2zSVIIuMt6jzKG74) | [Tokyo Drift EP](https://open.spotify.com/album/2gFX0PHDymOUOXWZ9ajzZp) | 2:26 |
-| 22 | [Own It](https://open.spotify.com/track/7wtOGRnZcjPvqaKkPhzWnF) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [Own It](https://open.spotify.com/album/7hoqPm42hYpHb7zt9YKWbn) | 2:23 |
-| 23 | [Smth In My Eye](https://open.spotify.com/track/2sbInlrs1dvw08JwC03NDn) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Smth In My Eye](https://open.spotify.com/album/3u7fLwb5cbUBRxBP5h0qH0) | 2:32 |
+| 22 | [Smth In My Eye](https://open.spotify.com/track/2sbInlrs1dvw08JwC03NDn) | [lina\-mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [Smth In My Eye](https://open.spotify.com/album/3u7fLwb5cbUBRxBP5h0qH0) | 2:32 |
+| 23 | [Own It](https://open.spotify.com/track/7wtOGRnZcjPvqaKkPhzWnF) | [Aisha Vibes](https://open.spotify.com/artist/7x6XwopgxWpVKTUiDSwRaN) | [Own It](https://open.spotify.com/album/7hoqPm42hYpHb7zt9YKWbn) | 2:23 |
 | 24 | [Born Digital](https://open.spotify.com/track/0vJDUTcjwCclZhE3oqNCiV) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/0Rc7DxnxrgAUZhS9xw1pYb) | 3:29 |
 | 25 | [Flame under a glass](https://open.spotify.com/track/15BNF8PZ0ahX9CfhNluiZJ) | [DAMONA](https://open.spotify.com/artist/7465nr7hnjHt9YXICL2T8w) | [Flame under a glass](https://open.spotify.com/album/1QwC2BShEy7Fb9Vwq2VgPK) | 2:35 |
 | 26 | [XO](https://open.spotify.com/track/2so0tpvrhkMMrJxWlBsXqd) | [Anna\-Sophie](https://open.spotify.com/artist/7DGNtmrTAcgrgSj4wfYVCw) | [XO](https://open.spotify.com/album/7uqjFsmqeRcPQanJLTtcDt) | 3:01 |
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 31 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 |
 | 32 | [Reise](https://open.spotify.com/track/3aJ2lOHSNiBbRXzqk46L2M) | [Luna Simao](https://open.spotify.com/artist/7zXcUC3oYfken45edomJZC) | [Reise](https://open.spotify.com/album/2CEAeWAWXNfQdHH3eSFQIt) | 2:58 |
 | 33 | [All For You](https://open.spotify.com/track/0UQYjzBu7VdON7JjDVVp6w) | [Wendy Shay](https://open.spotify.com/artist/5yrRN6GxtTSHbcw7qxPg4S) | [All For You](https://open.spotify.com/album/6xSVc6ZbbBi1NuaxMdeA5l) | 2:42 |
-| 34 | [AN & AN](https://open.spotify.com/track/7i2WhwSvDr8mui4DSmc112) | [Mashanda](https://open.spotify.com/artist/5Ff42tLgSVySCUnp7U5QwK) | [NUANCE CC02](https://open.spotify.com/album/1o48cULYenbblC5kWeNoz7) | 2:30 |
+| 34 | [Toxic](https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH) | [HAVET](https://open.spotify.com/artist/0Ppjh3TEy1VYLQoyKmIxaD) | [Toxic](https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN) | 2:36 |
 | 35 | [Cry Bebe](https://open.spotify.com/track/2QS1kFDcQLkOTfwCJNG3CZ) | [Dillon](https://open.spotify.com/artist/6oyGMaD0Kbx3ynXKhzH2wW) | [Cry Bebe](https://open.spotify.com/album/4S4sgMoz30EHhzLqvJWSfp) | 3:21 |
-| 36 | [Toxic](https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH) | [HAVET](https://open.spotify.com/artist/0Ppjh3TEy1VYLQoyKmIxaD) | [Toxic](https://open.spotify.com/album/6ixkDI2gLa23HxH41GodvN) | 2:36 |
-| 37 | [Uh Ah](https://open.spotify.com/track/7lWDHNwF1Rvt0vuOoDUhR3) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Uh Ah](https://open.spotify.com/album/0r0AWlCiPLIqSRcOvRoDii) | 2:13 |
-| 38 | [Shouldn't This Feel Easy?](https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Shouldn't This Feel Easy?](https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU) | 2:49 |
+| 36 | [AN & AN](https://open.spotify.com/track/7i2WhwSvDr8mui4DSmc112) | [Mashanda](https://open.spotify.com/artist/5Ff42tLgSVySCUnp7U5QwK) | [NUANCE CC02](https://open.spotify.com/album/1o48cULYenbblC5kWeNoz7) | 2:30 |
+| 37 | [Shouldn't This Feel Easy?](https://open.spotify.com/track/05h7Pyi60LUWXJJVBpouah) | [VILLFORTH](https://open.spotify.com/artist/5zZFUqzTf5EItusaDuzmXG) | [Shouldn't This Feel Easy?](https://open.spotify.com/album/15cubvXFZezkvHcVF4b5RU) | 2:49 |
+| 38 | [Uh Ah](https://open.spotify.com/track/7lWDHNwF1Rvt0vuOoDUhR3) | [TASHAN](https://open.spotify.com/artist/5WcbzZ1zwRG5qtwmxXMJCB) | [Uh Ah](https://open.spotify.com/album/0r0AWlCiPLIqSRcOvRoDii) | 2:13 |
 | 39 | [Kräfte/Mächte](https://open.spotify.com/track/0E9Iv6dsWzzC8qlhrQQc0Z) | [YAEL](https://open.spotify.com/artist/3kJ7c6rBMrQaLAXIFb61vp) | [Kräfte/Mächte](https://open.spotify.com/album/5F2wMUlDoD1dYzf0nyfNHS) | 1:49 |
 | 40 | [Das Kann Ja Gar Nicht](https://open.spotify.com/track/50n0JvQnM67OOBHtz1JFxC) | [Taby Pilgrim](https://open.spotify.com/artist/6oS2OIN8AtdBOenF1bm2eI), [Liser](https://open.spotify.com/artist/0NnzZzkMDO3cliiJugNoFl) | [ja](https://open.spotify.com/album/5IfoQesv0jFFcgE9UNjQUW) | 2:52 |
 | 41 | [Mindrunning](https://open.spotify.com/track/5Sz42FSRKh37Nj8iYhACFj) | [Femi Luna](https://open.spotify.com/artist/76e5g5LPWUlEHtTjKwSfsW) | [Mindrunning](https://open.spotify.com/album/23OO6osarvY6RqzzzGcZNR) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 49 | [Jazzy Boy](https://open.spotify.com/track/6pnmInjrkzb5BcDE4xJEE8) | [Feyva](https://open.spotify.com/artist/7GLq2u4tmRyLSW0k66J17w) | [Jazzy Boy](https://open.spotify.com/album/2FjyxHe3EGaxEYLMbVtcZM) | 3:06 |
 | 50 | [Suction Of Relativity](https://open.spotify.com/track/73wcfVf17JFXyyHyY28Uz1) | [Shaleen](https://open.spotify.com/artist/6S3LS6dVFu46JnfXaSplZu) | [Suction of Relativity](https://open.spotify.com/album/24qcTVeRO2SK42QGC4hDM6) | 4:33 |
 
-Snapshot ID: `MTY1OTg3ODIzNSwwMDAwMDAwMDEzODdkY2ZmMTI0ODY4NmY1MDI5ZmQzOTdjYzUxMTQ1`
+Snapshot ID: `MTY1OTg3ODIzNSwwMDAwMDAwMDE2YjI2Y2UxOTBjYjg1NzJmOTYwNGI4ZjA3YTI5NjI3`

@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: The Game
 
-316 songs - 16 hr 54 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
+317 songs - 16 hr 58 min - [published](https://open.spotify.com/playlist/263ylGzX2g8MfE4QemXHet)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,7 +192,8 @@
 | [Never Freestyle](https://open.spotify.com/track/1a9x6fk6pUMxr28vZR3nU3) | [Coast Contra](https://open.spotify.com/artist/4xZTKft62AsF0SC3rAuYwJ) | [Never Freestyle](https://open.spotify.com/album/77PEXiTnnWU0QhAwVSDFBH) | 4:26 | 2022-06-24 |  |
 | [No Cap](https://open.spotify.com/track/2O3x6oRhme4sQ1wlBguP9k) | [Medhane](https://open.spotify.com/artist/6lTiYE2IL4FUqf0CgGjI5i) | [Cold Water](https://open.spotify.com/album/6u66sAgu3xFfKhQpBr4dSu) | 1:20 | 2021-09-03 | 2022-03-08 |
 | [No Explanation](https://open.spotify.com/track/7FW4HUo39yRwGVxEoHqTa4) | [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [The Light Pack](https://open.spotify.com/album/14EzA7MWoKYPjzjeT4gtj3) | 3:24 | 2021-09-03 | 2022-07-27 |
-| [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/0H3tfyUrOPv7kmhJstCt3r) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 4:09 | 2022-08-12 |  |
+| [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/0H3tfyUrOPv7kmhJstCt3r) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/0pqUiDiakPP84CxdMlH2kO) | 4:09 | 2022-08-12 | 2022-08-18 |
+| [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/4BWbRimlDfSTUQkqMrkCem) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl) | 4:09 | 2022-08-12 |  |
 | [No Man Falls \(Feat\. Pusha T & 2 Chainz\)](https://open.spotify.com/track/4q0ycqVXBz2E9bOBIo636e) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [DRILLMATIC Heart vs\. Mind](https://open.spotify.com/album/1vb1Xo6rjqTQhxsFyGPdaQ) | 4:09 | 2022-08-12 | 2022-08-17 |
 | [No Más!](https://open.spotify.com/track/3Sxd2zTEoWwMPAVbBJGwAC) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Halo](https://open.spotify.com/album/26bwkDvo9hJSK7O1SUELQ3) | 3:06 | 2021-09-03 | 2022-03-17 |
 | [No Regrets](https://open.spotify.com/track/7bcOAQD3y9NpTQESuX5s5U) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt) | [No Regrets](https://open.spotify.com/album/1xzYe93YZ35KNW6VzILAut) | 3:02 | 2021-09-03 | 2022-07-22 |

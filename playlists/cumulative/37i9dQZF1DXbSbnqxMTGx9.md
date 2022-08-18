@@ -4,7 +4,7 @@
 
 > The ultimate reggae playlist\. Cover: Bunny Wailer
 
-166 songs - 9 hr 28 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
+167 songs - 9 hr 32 min - [published](https://open.spotify.com/playlist/1Re3dl58DlvduJv8hc4Smq)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,8 @@
 | [Morning Sun](https://open.spotify.com/track/5uqqDha6xHfmP4Gu1VyYxd) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU) | [Al Barry & Friends \(Deluxe Edition\)](https://open.spotify.com/album/4tPcpsbuVXJ9X4IfrZNeJd) | 2:56 | 2021-03-02 |  |
 | [Morning Sun](https://open.spotify.com/track/55qkCsBJydM5I87yfYsIsv) | [Al Barry](https://open.spotify.com/artist/4vNQY9dqHGNTP3VLJonsHU), [The Cimarons](https://open.spotify.com/artist/6VAPvCEhsB4cnTiFK4mx1f) | [This Is Trojan Boss Reggae](https://open.spotify.com/album/7gSBUPAK5KmKyfsA8AsfUx) | 2:57 | 2021-03-02 | 2022-07-29 |
 | [Mr\. Bojangles](https://open.spotify.com/track/7ouKT7R4BgwvAtoyzR8gCc) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu) | [1000 Volts of Holt \(Deluxe Edition\)](https://open.spotify.com/album/1bRaF6zDhFQuPqBxozEqcs) | 5:18 | 2021-03-02 | 2022-07-29 |
-| [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 | 2021-03-02 |  |
+| [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 | 2021-03-02 |  |
+| [Murder She Wrote \(Original Mix\)](https://open.spotify.com/track/0p4uJwIIGfN3tfTFvwALwB) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Murder She Wrote Single](https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ) | 4:07 | 2021-03-02 | 2022-08-18 |
 | [Murderer](https://open.spotify.com/track/5h5T5gtl1RqMxOuQ5O8rzs) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Original Ragga Muffin, Pt\. 1](https://open.spotify.com/album/1tWYxTZWSIWYk1chxhl62Z) | 3:53 | 2021-03-02 |  |
 | [My Conversation](https://open.spotify.com/track/2wIOKiZfp8h9ROw3eBAfcc) | [The Uniques](https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:27 | 2021-03-02 | 2022-07-29 |
 | [Napoleon Solo](https://open.spotify.com/track/0xnpRZaTwiMcJWL8Sv1U2R) | [Lynn Taitt & The Jets](https://open.spotify.com/artist/2Fmwp5N1JzqKMTFtCryUuf) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:27 | 2021-03-02 | 2022-07-29 |

@@ -4,13 +4,14 @@
 
 > Best new Anime tracks for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-200 songs - 12 hr 53 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
+202 songs - 13 hr 0 min - [published](https://open.spotify.com/playlist/5ULXJOEd3FHsM9P8zWg9KC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/track/7r7AFeFqZHVxa85ffesTAY) | [clammbon](https://open.spotify.com/artist/1gpNGL4WHSegm0WXj2j1m0), [DE DE MOUSE](https://open.spotify.com/artist/1mZtAFuxFAgqmTCqfKLWoj), [ユーレイ探偵団](https://open.spotify.com/artist/64bplJQVI6XnlmX7wK2aQ1) | [1,000,000,000,000,000,000,000,000 LOVE](https://open.spotify.com/album/2RPTDrLncqitqAaLegaEGw) | 3:08 | 2022-07-05 | 2022-07-29 |
 | [A piece of cake](https://open.spotify.com/track/4pae88hho7DMgeCKukQXet) | [Kiyono Yasuno](https://open.spotify.com/artist/2SdzLUuWOGCPXyQ5L7eXyd) | [A PIECE OF CAKE](https://open.spotify.com/album/4o9TQA0PoS0iea2MmA8ofx) | 2:41 | 2022-07-28 |  |
 | [Abracada\-Boo](https://open.spotify.com/track/6sScdgu1m1tey48IoeMDkt) | [Kaori Ishihara](https://open.spotify.com/artist/0iozpQbR93p8mOSDrevajw) | [Abracada\-Boo](https://open.spotify.com/album/2HdzJMCn6VXTuBJni0ANJ7) | 4:35 | 2022-08-02 |  |
+| [Ahatte Teppen'](https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen’](https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA) | 3:29 | 2022-08-16 |  |
 | [Ahatte Teppen' \- TV size](https://open.spotify.com/track/58uIXj0FV76d3g2h3UBZZC) | [May'n](https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6) | [Ahatte Teppen' \(TV size\)](https://open.spotify.com/album/3qMx7JqolPCn74lz6rdmRD) | 1:30 | 2022-07-05 | 2022-07-29 |
 | [ALIVE](https://open.spotify.com/track/5cBmwNnKGLPRCQWzFS0r0Y) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ALIVE](https://open.spotify.com/album/7lpsmkTYFRiDNIDyKRRLXP) | 3:37 | 2022-07-12 |  |
 | [ANIMA \-Naked Style.\-](https://open.spotify.com/track/7yqxGBNHp7K1of6vriCB69) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [Naked](https://open.spotify.com/album/0UTJliTI38ma4q7VV0uiF1) | 5:14 | 2022-05-28 | 2022-07-06 |
@@ -137,6 +138,7 @@
 | [スパイラル](https://open.spotify.com/track/2inMCpVHIQMTVwYLHz15A0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [スパイラル](https://open.spotify.com/album/43OuIdE4NxDhbo7mDTesEY) | 4:11 | 2022-05-28 | 2022-07-06 |
 | [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-05-28 | 2022-07-13 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-05-28 | 2022-07-27 |
+| [チクタクボーイ](https://open.spotify.com/track/2blNNMf0vvJPfZvywQmWjo) | [理芽](https://open.spotify.com/artist/1rFELoNfdLOYWPwtrBN6zS) | [チクタクボーイ](https://open.spotify.com/album/1e9Z3YnsuTi4PO7foCuK8e) | 2:45 | 2022-08-16 |  |
 | [デネブとスピカ](https://open.spotify.com/track/1hWAQK2Mrs9cpvfOq00j4K) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [デネブとスピカ](https://open.spotify.com/album/6h7qKLn5gAuEmMOJrDZ8h4) | 4:27 | 2022-07-07 | 2022-07-29 |
 | [ハイライト・ハイライト](https://open.spotify.com/track/4n9ZDnOKEFlOUvQvLZqUJ3) | [the peggies](https://open.spotify.com/artist/3imCOAQnI4fF5dsncQqLBW) | [ハイライト・ハイライト](https://open.spotify.com/album/6lD4x7WoKuq5qgupcHqEP0) | 3:56 | 2022-05-28 | 2022-06-14 |
 | [ハニージェットコースター](https://open.spotify.com/track/1SFS6Anu0829AMCXKltlNw) | [nasuo](https://open.spotify.com/artist/5ctRwRgDQ0lVKZRI83cMeq) | [TVアニメ「可愛いだけじゃない式守さん」オープニングテーマ「ハニージェットコースター」](https://open.spotify.com/album/6lEkrGHvjvWYNs2Mwo0yoy) | 3:33 | 2022-05-28 | 2022-07-27 |

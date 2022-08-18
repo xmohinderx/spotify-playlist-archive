@@ -1,12 +1,12 @@
 {
   "description": "Orgoglio! David Blank, Andrea Di Giovanni in cover \u2728",
-  "num_followers": 4378,
+  "num_followers": 4380,
   "original_name": "Pride Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMxMTI2NCwwMDAwMDAwMDg0MWRlMjE4MTlhM2UyMDAzMmRmNzlhZDYwYTY4ZTI3",
+  "snapshot_id": "MTY2MDMxMTI2NCwwMDAwMDAwMDA2NWExZDBjNTc3NGNlNmIyNjAyY2QzY2I0YjdiZTI4",
   "tracks": [
     {
       "added_at": "2022-08-12 13:34:24",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2022-08-12 13:34:24",
       "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
+        "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
+        "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
       },
       "artists": [
         {
-          "name": "Osvaldo Supino",
-          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
+          "name": "boyrebecca",
+          "url": "https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo"
+        },
+        {
+          "name": "ilromantico",
+          "url": "https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh"
+        },
+        {
+          "name": "M\u00a5SS KETA",
+          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
         }
       ],
-      "duration_ms": 196721,
-      "name": "Gold",
-      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
+      "duration_ms": 186234,
+      "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
+      "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
     },
     {
       "added_at": "2022-08-12 13:34:24",
@@ -1147,26 +1155,18 @@
     {
       "added_at": "2022-08-12 13:34:24",
       "album": {
-        "name": "Dulce de Leche (feat. M\u00a5SS KETA) [M\u00a5SS KETA remix]",
-        "url": "https://open.spotify.com/album/0y74kLDhdlHH850w5F5Rla"
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/2JpHSOi6FOjzQ6pBMoCIJs"
       },
       "artists": [
         {
-          "name": "boyrebecca",
-          "url": "https://open.spotify.com/artist/5ND8OakLNsL3ifDW9yd1Jo"
-        },
-        {
-          "name": "ilromantico",
-          "url": "https://open.spotify.com/artist/2sr0qRaLGhipr4ATCjpjCh"
-        },
-        {
-          "name": "M\u00a5SS KETA",
-          "url": "https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM"
+          "name": "Osvaldo Supino",
+          "url": "https://open.spotify.com/artist/2TBG5SJEZQDtdDAfHB2Xyj"
         }
       ],
-      "duration_ms": 186234,
-      "name": "Dulce de Leche (feat. M\u00a5SS KETA) - M\u00a5SS KETA remix",
-      "url": "https://open.spotify.com/track/7InqoJTGsQE8Dv3VflTrjJ"
+      "duration_ms": 196721,
+      "name": "Gold",
+      "url": "https://open.spotify.com/track/6zIBIkhO98iYaEks8h5HbX"
     },
     {
       "added_at": "2022-08-12 13:34:24",

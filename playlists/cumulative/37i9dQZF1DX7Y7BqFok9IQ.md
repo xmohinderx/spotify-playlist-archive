@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Marcus King
 
-116 songs - 7 hr 11 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
+117 songs - 7 hr 14 min - [published](https://open.spotify.com/playlist/2ytdQyvJSh0gNxZ2IJT8lV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-08 |  |
 | [Wicked Girl](https://open.spotify.com/track/6AZwTnQm2guVtmaKCINreN) | [Tyler Boone](https://open.spotify.com/artist/1Rj1i72Y5eJHan2pm2cqKz), [Peter Keys](https://open.spotify.com/artist/4B8ENwGA7LD85G3DiZSPu7) | [Wicked Girl](https://open.spotify.com/album/02wlom1pEz40ngTampIPeU) | 3:28 | 2022-03-18 |  |
 | [Wild](https://open.spotify.com/track/5X32g7xtJOlgmX6hNXebXa) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Wild](https://open.spotify.com/album/6GvNg6DywdIaWDTLaDFG1e) | 3:39 | 2022-07-22 | 2022-07-30 |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
 | [You Fool No One](https://open.spotify.com/track/3VwX9gYYcPgxBMwFzxLVqT) | [The Temperance Movement](https://open.spotify.com/artist/3SUI6pbPumjijbLHHY6vss), [Ian Paice](https://open.spotify.com/artist/2gNdXbhyIbXHWvurrlrUAq) | [You Fool No One](https://open.spotify.com/album/6vZ8EJfoHumz3tbNiFDpz0) | 3:46 | 2021-08-20 | 2022-07-29 |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

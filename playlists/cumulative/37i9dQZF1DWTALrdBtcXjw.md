@@ -4,14 +4,14 @@
 
 > Instrumental jazz to set the mood for a relaxed evening.
 
-165 songs - 15 hr 48 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
+166 songs - 15 hr 54 min - [published](https://open.spotify.com/playlist/7yuffmCwXVQZElB2HgVYTG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2223](https://open.spotify.com/track/0UCKaDSR7Q9RMG4HECtlWT) | [Andreas Toftemark](https://open.spotify.com/artist/1zGWQ3MEHXStCIbMsuSELF), [Felix Moseholm](https://open.spotify.com/artist/21v1ySgDH8XgKk1CekQHtv), [Calle Brickman](https://open.spotify.com/artist/4VoIE7LsD8ktzFFD5UED8m), [Andreas Svendsen](https://open.spotify.com/artist/0bCXY6V0VOWfibxyxZIxrH) | [2223](https://open.spotify.com/album/01BqKk5UlUnYfWhaMplxWE) | 7:14 | 2022-02-18 | 2022-08-12 |
 | [A Ballad for Now](https://open.spotify.com/track/6NYcahuBLO4sVuahWWF5V5) | [Christian Jacob](https://open.spotify.com/artist/27N1tGShltXJPjzwxs9eMZ), [Darek Oleszkiewicz](https://open.spotify.com/artist/1j4llYRtsnwcHIM0SrDstl), [Joe La barbera](https://open.spotify.com/artist/55CwMwuNvVsQXrC3KwMwUe) | [New Jazz Standards Vol 5 • the Music of Carl Saunders](https://open.spotify.com/album/5KcV3e2Dl3fQ1DngCZZITn) | 5:16 | 2022-05-19 |  |
 | [A Doll's Dream](https://open.spotify.com/track/5TCX4HQQEQqkLHlZJML806) | [European Jazz Trio](https://open.spotify.com/artist/4LTaFNJmsKqNvxGVhOVBXI) | [West Village](https://open.spotify.com/album/7gzA8ExUAm5N63xmO3C0KH) | 4:16 | 2020-03-31 | 2022-02-19 |
-| [A Pademonium of Parrots](https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt) | [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX) | [Ralph Bowen](https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu) | 6:56 | 2022-02-18 |  |
+| [A Pademonium of Parrots](https://open.spotify.com/track/6WlDDKY5DMMHf5w0sJaUkt) | [Ralph Bowen](https://open.spotify.com/artist/05ZColDwFrnLPvoaJkvqcX) | [Ralph Bowen](https://open.spotify.com/album/6Y1nWQufs1kJQknyOV3sQu) | 6:56 | 2022-02-18 | 2022-08-18 |
 | [A Touch Of Silver](https://open.spotify.com/track/4lsoraogx0H5pMYMQe9FyO) | [Nicholas Payton](https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4) | [Payton's Place](https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB) | 5:13 | 2020-03-31 |  |
 | [A Word from the Wise](https://open.spotify.com/track/2wBbbh6C5jyUunEvom98pJ) | [Doxas Brothers](https://open.spotify.com/artist/5a2mlBBRRNNYfpMdHjFgI5) | [A Word from the Wise](https://open.spotify.com/album/2WwQoU5Zv0lUoUfqwBw46n) | 5:57 | 2022-02-18 | 2022-07-29 |
 | [After You've Gone](https://open.spotify.com/track/1gl8PiCrspI8S4psbqjDgy) | [Eddie Henderson](https://open.spotify.com/artist/4LMsUGCTzMsLYcL90zb8sF) | [Be Cool](https://open.spotify.com/album/1mZiyKK7JnEeisBpPWvk7D) | 7:04 | 2020-03-31 |  |
@@ -89,6 +89,7 @@
 | [Lucky to be Me](https://open.spotify.com/track/5tMEOw8LjLhCizDcyCvw4H) | [Scott Hamilton](https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr), [Dena DeRose](https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3), [Ignasi González](https://open.spotify.com/artist/60JCzYj9SSZ3DZdyONwr5P), [Jo Krause](https://open.spotify.com/artist/1TYodU4WCCM39ztPleTYuy) | [Street of Dreams](https://open.spotify.com/album/7qIDAwVcQxA6jIIvaQ9WcD) | 6:42 | 2022-05-25 |  |
 | [Luiz](https://open.spotify.com/track/4ExjcScZAfGKTZmONryc8L) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Ambivalence](https://open.spotify.com/album/6aWBplHlxJd0wIi52KsHvS) | 4:47 | 2022-03-11 |  |
 | [Mack the Knife](https://open.spotify.com/track/4nqzQfEToqroBmlGejKsrc) | [Chad Lefkowitz\-Brown](https://open.spotify.com/artist/51WOYmkgWabvLeCV9kOEVe) | [Mack the Knife](https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu) | 5:31 | 2022-02-18 |  |
+| [Made Of Wood](https://open.spotify.com/track/4LIvvG87ifZM9kQ5llSXW3) | [Julia Hülsmann Quartet](https://open.spotify.com/artist/4F07h7WrleCZq4b6YLlBrd) | [Made Of Wood](https://open.spotify.com/album/1Q59mVCm924rwxfQkQBqGc) | 6:12 | 2022-08-17 |  |
 | [Make Me Rainbows](https://open.spotify.com/track/1m8uCoir0UBFB6wRxchbDG) | [Bill Charlap Trio](https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja) | [Notes From New York](https://open.spotify.com/album/1ljvVXm0WO7HVvc64AESd5) | 7:04 | 2022-02-18 |  |
 | [Manhattan](https://open.spotify.com/track/1g0jjb4pvsGBxGbM5OxvYT) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Manhattan](https://open.spotify.com/album/5mHR1XnBoXIDZ9KSTyCx2I) | 4:23 | 2022-05-19 | 2022-07-29 |
 | [Manhattan](https://open.spotify.com/track/7eooKc7DUKjCOfdxsXzxS0) | [Rob Van Bavel](https://open.spotify.com/artist/1hoKG6Fb0T7qUj1yL8MPsN) | [Time For Ballads \- The Studio Sessions](https://open.spotify.com/album/5UunarohrbI9z28uUYyw6q) | 4:23 | 2022-07-28 |  |

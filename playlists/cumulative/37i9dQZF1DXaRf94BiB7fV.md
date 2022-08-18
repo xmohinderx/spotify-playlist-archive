@@ -2,9 +2,9 @@
 
 ### [Fresh Finds India](https://open.spotify.com/playlist/37i9dQZF1DXaRf94BiB7fV)
 
-> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Arunima Wali, Artwork: Isu Kim
+> The best new music by independent artists and labels from India, updated every Wednesday\. Cover: Bharat Chauhan, Artwork: Isu Kim
 
-543 songs - 1 day 8 hr 30 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
+544 songs - 1 day 8 hr 35 min - [published](https://open.spotify.com/playlist/5ZxKEzYK5bckaAr3OIv47F)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,6 @@
 | [Cloud Burst](https://open.spotify.com/track/196EOSSuHR7vfHd4aCLQ3U) | [the Vyakt](https://open.spotify.com/artist/1jjcReDsyRtwyDtzPLJMkp) | [Cloud Burst](https://open.spotify.com/album/6DYd6ep2qaIAuDsAUAaLQh) | 2:18 | 2022-06-01 | 2022-06-23 |
 | [Confide](https://open.spotify.com/track/6qPqouEtKkfxM21hsIIA4T) | [Moosa Saleem](https://open.spotify.com/artist/16m66acFCoUlPwjQf9D6fN), [Jeremiah de Rozario](https://open.spotify.com/artist/77JtYqejZiIOtqTfrtadna) | [Confide](https://open.spotify.com/album/0hYbx3z1wbIdgrSxmRBkhL) | 3:19 | 2022-05-25 |  |
 | [Crimson Skies](https://open.spotify.com/track/3QehBxsgtGDgjp7dVjFSCl) | [The Earflower Experiment](https://open.spotify.com/artist/3PK4DyHQllh8lOJ4szoEBD), [Aidah Asrar](https://open.spotify.com/artist/15GsuMBgd7VB0W9NrfzxWL) | [Crimson Skies](https://open.spotify.com/album/5dEPM92xLzuoAxK9NMn7pd) | 3:23 | 2022-07-13 |  |
-| [Dairy](https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt) | [Aakash Rijia](https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO), [Diptanshu Tiwari](https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk), [Waseem Kazi](https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37) | [Dairy](https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5) | 3:36 | 2022-08-03 |  |
 | [Dancing in My Dream](https://open.spotify.com/track/664thPsoTugM6SDSyD1GA1) | [Akshit Dhall](https://open.spotify.com/artist/5Wkv6MeBhwP2or9G0RlNid) | [Dancing in My Dream](https://open.spotify.com/album/3rJF4N2rhgfaIgZNfjNBCV) | 3:58 | 2022-05-11 |  |
 | [dancing in the bedroom sky](https://open.spotify.com/track/6pszbuiSRAzNOUhKp2X8Fs) | [Ribhavv](https://open.spotify.com/artist/01nF5O4sTf8RDuec39ZPnp), [Mehakk](https://open.spotify.com/artist/5LwKjozJ2UXQ87xIFeCBdr) | [dancing in the bedroom sky](https://open.spotify.com/album/1NuPAPVolzg3Wd5UbCwWUp) | 3:25 | 2022-01-12 | 2022-02-17 |
 | [Dancing With My Shadows](https://open.spotify.com/track/0wptMnEupUHQ3GOwhULztk) | [Ashish Paul](https://open.spotify.com/artist/2xFsof8l4Zre8Ig8nsfHbC) | [Dancing With My Shadows](https://open.spotify.com/album/0O1AGOZj6PQ9JOBoJSavkK) | 3:45 | 2022-03-16 | 2022-04-14 |
@@ -108,6 +107,7 @@
 | [Dekho Wahaan Pe \- Four Lane](https://open.spotify.com/track/10pzp3sppIrKAi5ak31DPU) | [Gamak](https://open.spotify.com/artist/6qMwHOGfIumxsVWPQl5sfN) | [Dekho Wahaan Pe \(Four Lane\)](https://open.spotify.com/album/3pRNNflZfxEJNWS3IISp1d) | 3:09 | 2022-05-18 |  |
 | [destiny](https://open.spotify.com/track/703MCSYlznQHA5mcTQ2wB6) | [Sejal](https://open.spotify.com/artist/1A7xjiZRn87g7WFbG9oMqU) | [destiny](https://open.spotify.com/album/0cuqzPlbihVTYU4MYp8eMh) | 2:48 | 2022-02-16 | 2022-03-24 |
 | [Dhaage](https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE) | [Dhaage](https://open.spotify.com/album/6UcteRSKERxRKaaAc6rHsX) | 3:16 | 2022-03-16 | 2022-07-21 |
+| [Diary](https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt) | [Aakash Rijia](https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO), [Diptanshu Tiwari](https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk), [Waseem Kazi](https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37) | [Diary](https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5) | 3:36 | 2022-08-03 |  |
 | [Did You Know](https://open.spotify.com/track/5z3jl5kdmQF7rJ8OPyRyr6) | [KefiNama](https://open.spotify.com/artist/2U1Dsu0Ybgds4Y6X2ZebO4) | [Did You Know](https://open.spotify.com/album/0cJi8C1F5bIxbZNDGb6RiH) | 2:53 | 2022-08-03 |  |
 | [Dil Ko Teri Adat Hay](https://open.spotify.com/track/3IugFz2Kx4AqKzeunNG4P3) | [Rudra Majumdar](https://open.spotify.com/artist/23QRZ8N1bZAfPignwJawVT) | [Dil Ko Teri Adat Hay](https://open.spotify.com/album/5aDOsyB0Vaw1okkIeP7Sl3) | 3:21 | 2022-03-09 | 2022-03-17 |
 | [Dil Kya Kare](https://open.spotify.com/track/0t6dmEWhWChHunOngzhZl7) | [Pratik Jain](https://open.spotify.com/artist/4d70aBMkRozrHyVOTa7UYI) | [Dil Kya Kare](https://open.spotify.com/album/5QTd0jaEENaDtIJfMzqWZl) | 3:15 | 2022-02-09 | 2022-07-21 |
@@ -515,6 +515,7 @@
 | [Umeedein](https://open.spotify.com/track/7u78GRNpkTyMQOTig7I5ZX) | [Parindey Official](https://open.spotify.com/artist/6OpsqUXIYyNAXOZtj8yUrq) | [Umeedein](https://open.spotify.com/album/0a0psDMAuT3LykGlj3lxMG) | 4:15 | 2022-06-22 |  |
 | [Unhinged](https://open.spotify.com/track/6lIwKagE42bWpv1NYvNJgo) | [Peach Envy](https://open.spotify.com/artist/2f4yfI8MxxMuvc4qoBNxvP) | [Unhinged](https://open.spotify.com/album/3saMprSxG7E4bV4H5Sc2kY) | 4:19 | 2022-01-12 | 2022-01-14 |
 | [Unknown](https://open.spotify.com/track/0rJC86v7FeFJAN6lQUmNaL) | [SHAURYA BASTOLA](https://open.spotify.com/artist/3WzRg4kVGR1wXdnLxn7rNE) | [Unknown](https://open.spotify.com/album/0PKiIxxiS8RTkPFX2eodiX) | 3:13 | 2022-08-03 |  |
+| [Usne Kaha Tha](https://open.spotify.com/track/0CQqvd7bTiiRTDZzNmjifI) | [Bharat Chauhan](https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe) | [Usne Kaha Tha](https://open.spotify.com/album/0WGDaag3axxDy7awsxpRq0) | 4:20 | 2022-08-17 |  |
 | [Validation](https://open.spotify.com/track/4Geol9pXgkbXpBcHFddDtq) | [Prithvi Prajosh](https://open.spotify.com/artist/2yUsvzjSZohLO6cw1sR6RW) | [Validation](https://open.spotify.com/album/4tTBhnb4FjCpLt2mIgA6RI) | 2:49 | 2021-12-01 | 2022-01-13 |
 | [Vibin'](https://open.spotify.com/track/4uMeaY8lAraCV4glvExK8G) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Ann Pearson](https://open.spotify.com/artist/5rCx0VvnTYhOwp3yP0KYEC) | [Vibin'](https://open.spotify.com/album/12IC2WznXfPgoHXX7EDDJ6) | 4:24 | 2021-12-01 | 2022-01-13 |
 | [Waqt](https://open.spotify.com/track/4d70bpXNyxPFchPzEQU5JW) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL) | [Waqt](https://open.spotify.com/album/4d0yolr12CuiiFpBYbgLIa) | 4:34 | 2022-08-03 |  |

@@ -4,7 +4,7 @@
 
 > The best metal songs of the 2010s\. Cover: Avenged Sevenfold
 
-349 songs - 1 day 1 hr 37 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
+350 songs - 1 day 1 hr 42 min - [published](https://open.spotify.com/playlist/1bgDijw9RuxPGobkylisrP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Forward Momentum](https://open.spotify.com/track/6W138hHyE3DpxiZ7120zfS) | [Dark Tranquillity](https://open.spotify.com/artist/5EHvXKnNz78jkAVgTQLQ5O) | [Atoma](https://open.spotify.com/album/3N5vYy8vIFgpvtrIbFtvvG) | 3:40 | 2022-07-13 | 2022-07-27 |
 | [Fury](https://open.spotify.com/track/4bSepF6LUd6Vw4yfh4cpr4) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [MAXIMALISM](https://open.spotify.com/album/3JsTgs4JiSmbVwkkfY5vAh) | 2:58 | 2022-07-13 | 2022-07-27 |
 | [Ghost Walking](https://open.spotify.com/track/52lWFbQaG8VajS7y41hafF) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/73k8aD6VzabLHfwIdiasdS) | 4:30 | 2022-01-03 | 2022-07-29 |
+| [Ghost Walking](https://open.spotify.com/track/6pej2azEjNp6pEFpYPmCNi) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:30 | 2022-04-24 |  |
 | [Ging Gang Gong De Do Gong De Laga Raga](https://open.spotify.com/track/6a3zbseZr4MBt81paa8Cc4) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Venomous Rat Regeneration Vendor](https://open.spotify.com/album/1y6e636ylJkwxsBwk89gS6) | 3:18 | 2022-07-13 | 2022-07-27 |
 | [God = Dog](https://open.spotify.com/track/2P3YmNhaaZXrLrI3qYy5SD) | [Behemoth](https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9) | [I Loved You at Your Darkest](https://open.spotify.com/album/7FY3UoY2F1mdvptEBkHiZb) | 3:58 | 2022-07-13 | 2022-07-29 |
 | [God Is Dead?](https://open.spotify.com/track/3IKJNHnVZ2bXGjAFBJiUYo) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [13](https://open.spotify.com/album/5WXL9YjbNd4GIqWc9mZOOq) | 8:52 | 2022-01-03 |  |
@@ -131,7 +132,7 @@
 | [Here Comes Revenge](https://open.spotify.com/track/4Ixe61Sv0WlxBhDjRtEgH3) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 7:17 | 2022-07-13 | 2022-07-26 |
 | [Here Comes The Boom](https://open.spotify.com/track/4XixK9sp4Rq1UbvKXZSyt4) | [Rise Of The Northstar](https://open.spotify.com/artist/5vDfbSPkurKQxpVVXALJ4K) | [The Legacy of Shi](https://open.spotify.com/album/0BcG1327bQBcg09ysnzudZ) | 4:11 | 2022-01-03 |  |
 | [Heretic](https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Hail to the King](https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA) | 4:55 | 2022-07-13 |  |
-| [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 | 2022-07-13 |  |
+| [Hold On](https://open.spotify.com/track/5qTjvpAfdtyzauTprzgKao) | [All That Remains](https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14) | [For We Are Many](https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt) | 2:57 | 2022-07-13 | 2022-08-18 |
 | [Holy Hell](https://open.spotify.com/track/7z3Q4j4HJDSOZtbR5rbYdG) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2022-07-13 |  |
 | [Honest Eyes](https://open.spotify.com/track/0RcpgSqleSWsmhFi4LC1tA) | [Black Tide](https://open.spotify.com/artist/7wMYATkanaMX5FH4GMVZ4E) | [Post Mortem](https://open.spotify.com/album/4P5AnuXeQ8tQv9i0WVvJkq) | 3:54 | 2022-07-13 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/4quQVCnbwQ5kraewiIWFjV) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Tracing Back Roots](https://open.spotify.com/album/6sXe63cz9GMPey89TyoHya) | 4:08 | 2022-04-24 | 2022-07-28 |

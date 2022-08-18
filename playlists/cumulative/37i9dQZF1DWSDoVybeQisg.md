@@ -2,7 +2,7 @@
 
 ### [Psychedelic Rock](https://open.spotify.com/playlist/37i9dQZF1DWSDoVybeQisg)
 
-> Expand your mind with these psychedelic rock treasures\. Cover: Jim Morrison
+> Expand your mind with these psychedelic rock treasures\. Cover: The Doors
 
 108 songs - 7 hr 16 min - [published](https://open.spotify.com/playlist/3pi4HINlvE2D4FpaH97xE1)
 

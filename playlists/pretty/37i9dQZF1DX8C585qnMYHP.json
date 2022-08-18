@@ -1,12 +1,12 @@
 {
   "description": "The best new experimental music by independent artists and labels. Updates every Wednesday. Cover: Hatis Noit / Boku to Georges Artwork: Thami Nabil",
-  "num_followers": 91032,
+  "num_followers": 91095,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNDAwMCwwMDAwMDAwMGU3YTYwNmY0MmRjYjY1ZDZhOGQzNWRmMzk1NzQxY2E0",
+  "snapshot_id": "MTY2MDEwNDAwMCwwMDAwMDAwMGZkZTU4NjY0NDMxZGQ4NTgxZWI2YmFhNDdjNzRhODE5",
   "tracks": [
     {
       "added_at": "2022-08-10 04:00:00",
@@ -333,22 +333,6 @@
       "url": "https://open.spotify.com/track/3Kmn0mu69Lu2FEgyFkIaXs"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Picnic",
-        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
-      },
-      "artists": [
-        {
-          "name": "Picnic",
-          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
-        }
-      ],
-      "duration_ms": 436796,
-      "name": "Plush Hooves",
-      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
-    },
-    {
       "added_at": "2022-08-03 02:51:09",
       "album": {
         "name": "Shallots",
@@ -365,20 +349,20 @@
       "url": "https://open.spotify.com/track/3un8NWwFpSvbN0m0JZ29da"
     },
     {
-      "added_at": "2022-07-20 05:00:00",
+      "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Clear",
-        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
+        "name": "Picnic",
+        "url": "https://open.spotify.com/album/0Kd8yf0aMa6IgjV3KJS2RE"
       },
       "artists": [
         {
-          "name": "FFT",
-          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
+          "name": "Picnic",
+          "url": "https://open.spotify.com/artist/1AA7uvh7SPsyMW0x8tATOo"
         }
       ],
-      "duration_ms": 213083,
-      "name": "Clear (Eight-Circuit Mix)",
-      "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
+      "duration_ms": 436796,
+      "name": "Plush Hooves",
+      "url": "https://open.spotify.com/track/4xqdlgyj4LQvP13GBmP3AN"
     },
     {
       "added_at": "2022-08-03 02:51:09",
@@ -411,6 +395,22 @@
       "duration_ms": 258174,
       "name": "Victims of Victimless Crimes",
       "url": "https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "Clear",
+        "url": "https://open.spotify.com/album/0Je5XzFdnFSVL31MN3TdHQ"
+      },
+      "artists": [
+        {
+          "name": "FFT",
+          "url": "https://open.spotify.com/artist/4a3VAtqVMgurek8wZP5Nm6"
+        }
+      ],
+      "duration_ms": 213083,
+      "name": "Clear (Eight-Circuit Mix)",
+      "url": "https://open.spotify.com/track/7rH2MHD1iX2405rkYFO4uC"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
+        "name": "Killing It",
+        "url": "https://open.spotify.com/album/3OIDt5EGJ0cyrvAOfmjX22"
+      },
+      "artists": [
+        {
+          "name": "Kassie Krut",
+          "url": "https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Killing It",
+      "url": "https://open.spotify.com/track/4hQqvBV899zZK5iibYI8ZZ"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
         "name": "\u672a\u958b\u306e\u667a",
         "url": "https://open.spotify.com/album/2yTy8rqgHhTWWkPqlJ8udf"
       },
@@ -503,22 +519,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Killing It",
-        "url": "https://open.spotify.com/album/3OIDt5EGJ0cyrvAOfmjX22"
-      },
-      "artists": [
-        {
-          "name": "Kassie Krut",
-          "url": "https://open.spotify.com/artist/7GblQfA1PogV6RMgys9a7X"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Killing It",
-      "url": "https://open.spotify.com/track/4hQqvBV899zZK5iibYI8ZZ"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "Your Element (a spell of equality)",
         "url": "https://open.spotify.com/album/3mIgn7ZPO3EPIYzUXsycq6"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 155805,
       "name": "Your Element (a spell of equality)",
       "url": "https://open.spotify.com/track/6PUcSmfUnUEsRy7JhHrWVT"
-    },
-    {
-      "added_at": "2022-07-20 05:00:00",
-      "album": {
-        "name": "At the Opposite Pole of Architectural Virtue",
-        "url": "https://open.spotify.com/album/4SaqbnvjebkOsFlPDwqM4W"
-      },
-      "artists": [
-        {
-          "name": "Saint Abdullah",
-          "url": "https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP"
-        },
-        {
-          "name": "Eomac",
-          "url": "https://open.spotify.com/artist/6J30Iyy8uZbhTzepsSs5yJ"
-        }
-      ],
-      "duration_ms": 316693,
-      "name": "At the Opposite Pole of Architectural Virtue",
-      "url": "https://open.spotify.com/track/5RedG0fnDPdtnyqTlUQW9n"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -571,6 +551,26 @@
       "duration_ms": 111670,
       "name": "The Tower",
       "url": "https://open.spotify.com/track/6nx0pWdx5KpH09BuerI1uG"
+    },
+    {
+      "added_at": "2022-07-20 05:00:00",
+      "album": {
+        "name": "At the Opposite Pole of Architectural Virtue",
+        "url": "https://open.spotify.com/album/4SaqbnvjebkOsFlPDwqM4W"
+      },
+      "artists": [
+        {
+          "name": "Saint Abdullah",
+          "url": "https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP"
+        },
+        {
+          "name": "Eomac",
+          "url": "https://open.spotify.com/artist/6J30Iyy8uZbhTzepsSs5yJ"
+        }
+      ],
+      "duration_ms": 316693,
+      "name": "At the Opposite Pole of Architectural Virtue",
+      "url": "https://open.spotify.com/track/5RedG0fnDPdtnyqTlUQW9n"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -605,6 +605,22 @@
       "url": "https://open.spotify.com/track/2YMeKnmEmQns1KhoglEZqi"
     },
     {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "Pussy Galore",
+        "url": "https://open.spotify.com/album/7zJdl3F4qtx5nS5uk4tey8"
+      },
+      "artists": [
+        {
+          "name": "Pepper Levain",
+          "url": "https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m"
+        }
+      ],
+      "duration_ms": 266181,
+      "name": "Pussy Galore",
+      "url": "https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz"
+    },
+    {
       "added_at": "2022-07-27 14:53:59",
       "album": {
         "name": "The Leibowitz Files",
@@ -635,22 +651,6 @@
       "duration_ms": 360930,
       "name": "GHK",
       "url": "https://open.spotify.com/track/3tm8TAxIBc4mD7zvvPJP1S"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "Pussy Galore",
-        "url": "https://open.spotify.com/album/7zJdl3F4qtx5nS5uk4tey8"
-      },
-      "artists": [
-        {
-          "name": "Pepper Levain",
-          "url": "https://open.spotify.com/artist/2zyca7YVhnYEvNd9oOky7m"
-        }
-      ],
-      "duration_ms": 266181,
-      "name": "Pussy Galore",
-      "url": "https://open.spotify.com/track/3FjOcP7gTJJN1zePjLFrKz"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -707,22 +707,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "The Leibowitz Files",
-        "url": "https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i"
-      },
-      "artists": [
-        {
-          "name": "Autarkic",
-          "url": "https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ"
-        }
-      ],
-      "duration_ms": 306853,
-      "name": "Genesis, To Overcome (Messiah)",
-      "url": "https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "all thanks to you.",
         "url": "https://open.spotify.com/album/25ZZibZOM8rPgiqCyl6RAo"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 183470,
       "name": "all thanks to you.",
       "url": "https://open.spotify.com/track/1eZl3uZnDLa8UCgEi0FjDw"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "The Leibowitz Files",
+        "url": "https://open.spotify.com/album/0CzxZpspYSxj9hkSpbDB5i"
+      },
+      "artists": [
+        {
+          "name": "Autarkic",
+          "url": "https://open.spotify.com/artist/7phOvwBANyuRvVKTInnbxJ"
+        }
+      ],
+      "duration_ms": 306853,
+      "name": "Genesis, To Overcome (Messiah)",
+      "url": "https://open.spotify.com/track/0VcypcIJ9EWwVXpoN3EIoq"
     },
     {
       "added_at": "2022-07-27 14:53:59",
@@ -833,6 +833,22 @@
       "url": "https://open.spotify.com/track/4YlUqfyJ6IasiVEZ5D4GZE"
     },
     {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Renaissance",
+        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
+      },
+      "artists": [
+        {
+          "name": "DoomCannon",
+          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+        }
+      ],
+      "duration_ms": 420893,
+      "name": "Amalgamation",
+      "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
+    },
+    {
       "added_at": "2022-07-06 13:58:15",
       "album": {
         "name": "Amplified Guitar",
@@ -851,18 +867,18 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Renaissance",
-        "url": "https://open.spotify.com/album/6yXJbeTmzmIRmKQWYiIjCn"
+        "name": "Grow! (Re-sync)",
+        "url": "https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP"
       },
       "artists": [
         {
-          "name": "DoomCannon",
-          "url": "https://open.spotify.com/artist/1EKCFythC6ga1G4x4jYDwy"
+          "name": "Bby Eco",
+          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
         }
       ],
-      "duration_ms": 420893,
-      "name": "Amalgamation",
-      "url": "https://open.spotify.com/track/1CfrQxlwVBGJCoJmYjIFRW"
+      "duration_ms": 148101,
+      "name": "\u2940.001 Pollen",
+      "url": "https://open.spotify.com/track/2CPMMJDMC8aL91hqV9wZLr"
     },
     {
       "added_at": "2022-07-06 13:58:15",
@@ -903,18 +919,18 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Grow! (Re-sync)",
-        "url": "https://open.spotify.com/album/1VzZwAZzmehSqYk2aDsDmP"
+        "name": "Interd\u00e9pendence",
+        "url": "https://open.spotify.com/album/3ZRaoTgfU3HHaAsOXgTq0N"
       },
       "artists": [
         {
-          "name": "Bby Eco",
-          "url": "https://open.spotify.com/artist/3FwaHWrtYyjvLE06Bzcecu"
+          "name": "Ronan",
+          "url": "https://open.spotify.com/artist/4S1xu7bVWpAiNQWo3GWgu3"
         }
       ],
-      "duration_ms": 148101,
-      "name": "\u2940.001 Pollen",
-      "url": "https://open.spotify.com/track/2CPMMJDMC8aL91hqV9wZLr"
+      "duration_ms": 407804,
+      "name": "Interd\u00e9pendence",
+      "url": "https://open.spotify.com/track/0Zd6oKz2mNpi029VZgQPxs"
     },
     {
       "added_at": "2022-07-06 13:58:15",
@@ -931,22 +947,6 @@
       "duration_ms": 348385,
       "name": "Echolocating Chamagaadad",
       "url": "https://open.spotify.com/track/0mQmzyVmQVYoqwMMyZQVgv"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Interd\u00e9pendence",
-        "url": "https://open.spotify.com/album/3ZRaoTgfU3HHaAsOXgTq0N"
-      },
-      "artists": [
-        {
-          "name": "Ronan",
-          "url": "https://open.spotify.com/artist/4S1xu7bVWpAiNQWo3GWgu3"
-        }
-      ],
-      "duration_ms": 407804,
-      "name": "Interd\u00e9pendence",
-      "url": "https://open.spotify.com/track/0Zd6oKz2mNpi029VZgQPxs"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -983,6 +983,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/1gvFPed9kP8dEctN1VT0vM"
+      },
+      "artists": [
+        {
+          "name": "numeral",
+          "url": "https://open.spotify.com/artist/2JNfGEAw6QRRKc0Fy6l13V"
+        }
+      ],
+      "duration_ms": 283180,
+      "name": "Marauder",
+      "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
         "name": "Odyssey",
         "url": "https://open.spotify.com/album/1TGr8wA85mIUxewg8gyafM"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 453190,
       "name": "You told me you love running so I started to run too",
       "url": "https://open.spotify.com/track/0SXOuHsgTkrCHB3RBCFioo"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Dream Telepathy",
+        "url": "https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t"
+      },
+      "artists": [
+        {
+          "name": "Neukrapsio",
+          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
+        }
+      ],
+      "duration_ms": 168005,
+      "name": "Dream Telepathy",
+      "url": "https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1027,22 +1059,6 @@
       "duration_ms": 332777,
       "name": "Cosmos",
       "url": "https://open.spotify.com/track/3HyEjRo5IQQGbPJBawmrmV"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/1gvFPed9kP8dEctN1VT0vM"
-      },
-      "artists": [
-        {
-          "name": "numeral",
-          "url": "https://open.spotify.com/artist/2JNfGEAw6QRRKc0Fy6l13V"
-        }
-      ],
-      "duration_ms": 283180,
-      "name": "Marauder",
-      "url": "https://open.spotify.com/track/0J8HGawaxgKpOlpxkZq2OA"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1083,22 +1099,6 @@
       "duration_ms": 267880,
       "name": "deciduous tree emoji",
       "url": "https://open.spotify.com/track/4sG0oxVJgEt5aZfs5UxN1T"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
-        "name": "Dream Telepathy",
-        "url": "https://open.spotify.com/album/7vDF5EblbrQ9ju6ShS6j0t"
-      },
-      "artists": [
-        {
-          "name": "Neukrapsio",
-          "url": "https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa"
-        }
-      ],
-      "duration_ms": 168005,
-      "name": "Dream Telepathy",
-      "url": "https://open.spotify.com/track/4iXK42dVRO9VNRCPsnW595"
     },
     {
       "added_at": "2022-07-20 05:00:00",
@@ -1147,6 +1147,22 @@
       "duration_ms": 203317,
       "name": "Caballo Blanco",
       "url": "https://open.spotify.com/track/4hyrGkNTxTF35DE4E4O9Pi"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "just a little more life with u",
+        "url": "https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P"
+      },
+      "artists": [
+        {
+          "name": "innerinnerlife",
+          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
+        }
+      ],
+      "duration_ms": 193571,
+      "name": "just a little more life with u",
+      "url": "https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1215,22 +1231,6 @@
       "duration_ms": 236500,
       "name": "Aguachile",
       "url": "https://open.spotify.com/track/5jWvAfgvIjfM3gD247auvg"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "just a little more life with u",
-        "url": "https://open.spotify.com/album/40uK99AoMTVcqhOmyc6t7P"
-      },
-      "artists": [
-        {
-          "name": "innerinnerlife",
-          "url": "https://open.spotify.com/artist/3SJn3wuHQGbKFT0vDKT3Yo"
-        }
-      ],
-      "duration_ms": 193571,
-      "name": "just a little more life with u",
-      "url": "https://open.spotify.com/track/4DnPIFvrSk6OcFC185XwMG"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1437,20 +1437,20 @@
       "url": "https://open.spotify.com/track/0e5dMxPViv8XDK6ejcVZrY"
     },
     {
-      "added_at": "2022-06-29 16:46:05",
+      "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "The Sermon",
-        "url": "https://open.spotify.com/album/0OVNUAXh10iEB2sDTvb2vi"
+        "name": "A Beat for Peace",
+        "url": "https://open.spotify.com/album/2Dch0jE7Xa81GpzUdXqlPY"
       },
       "artists": [
         {
-          "name": "D. Majestic and the Spectral Band",
-          "url": "https://open.spotify.com/artist/17YBPIdTtr17ZC1sYfWUZ8"
+          "name": "Cemento Atlantico",
+          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
         }
       ],
-      "duration_ms": 220000,
-      "name": "The Sermon",
-      "url": "https://open.spotify.com/track/4wOnMRTy5qpaKfpBLXkvsi"
+      "duration_ms": 229450,
+      "name": "A Beat for Peace",
+      "url": "https://open.spotify.com/track/4raCAWMhMMk0pXJoEsL47w"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Hyle",
-        "url": "https://open.spotify.com/album/1KQdYH71BJMYvkkCT7dGkL"
-      },
-      "artists": [
-        {
-          "name": "No\u00e9mi B\u00fcchi",
-          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
-        }
-      ],
-      "duration_ms": 207532,
-      "name": "Manifesting Plastic Sorrow",
-      "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
-    },
-    {
-      "added_at": "2022-06-29 16:46:05",
-      "album": {
         "name": "anytrip k.o",
         "url": "https://open.spotify.com/album/3NC7GEko4qsdWQBFTeq1VI"
       },
@@ -1501,36 +1485,36 @@
       "url": "https://open.spotify.com/track/2mtC9Uv2xJIk8wjA1wwboo"
     },
     {
-      "added_at": "2022-07-27 14:53:59",
+      "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "A Beat for Peace",
-        "url": "https://open.spotify.com/album/2Dch0jE7Xa81GpzUdXqlPY"
+        "name": "The Sermon",
+        "url": "https://open.spotify.com/album/0OVNUAXh10iEB2sDTvb2vi"
       },
       "artists": [
         {
-          "name": "Cemento Atlantico",
-          "url": "https://open.spotify.com/artist/75mLxfyKPeBkmXEEAM3NlT"
+          "name": "D. Majestic and the Spectral Band",
+          "url": "https://open.spotify.com/artist/17YBPIdTtr17ZC1sYfWUZ8"
         }
       ],
-      "duration_ms": 229450,
-      "name": "A Beat for Peace",
-      "url": "https://open.spotify.com/track/4raCAWMhMMk0pXJoEsL47w"
+      "duration_ms": 220000,
+      "name": "The Sermon",
+      "url": "https://open.spotify.com/track/4wOnMRTy5qpaKfpBLXkvsi"
     },
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "New Latam Beats from Mexico Curated by Jiony",
-        "url": "https://open.spotify.com/album/2irKa5fP22B5tRLQ5z39Wn"
+        "name": "Hyle",
+        "url": "https://open.spotify.com/album/1KQdYH71BJMYvkkCT7dGkL"
       },
       "artists": [
         {
-          "name": "Amnl Prnt",
-          "url": "https://open.spotify.com/artist/3zTlgqco4hU2RcEzmTpHxQ"
+          "name": "No\u00e9mi B\u00fcchi",
+          "url": "https://open.spotify.com/artist/19UxgjmGT8uom3Qjx8CVo6"
         }
       ],
-      "duration_ms": 368710,
-      "name": "WilB",
-      "url": "https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n"
+      "duration_ms": 207532,
+      "name": "Manifesting Plastic Sorrow",
+      "url": "https://open.spotify.com/track/1hpP38nUgRJx0P1q0iLxI5"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1559,22 +1543,18 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "Tum Trib\u00f9 Reworked",
-        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
+        "name": "New Latam Beats from Mexico Curated by Jiony",
+        "url": "https://open.spotify.com/album/2irKa5fP22B5tRLQ5z39Wn"
       },
       "artists": [
         {
-          "name": "John Bringwolves",
-          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
-        },
-        {
-          "name": "Indianizer",
-          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
+          "name": "Amnl Prnt",
+          "url": "https://open.spotify.com/artist/3zTlgqco4hU2RcEzmTpHxQ"
         }
       ],
-      "duration_ms": 177903,
-      "name": "Tum Trib\u00f9 Reworked",
-      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
+      "duration_ms": 368710,
+      "name": "WilB",
+      "url": "https://open.spotify.com/track/3BK8MsRPv81VX36EYT2o4n"
     },
     {
       "added_at": "2022-07-29 14:41:10",
@@ -1603,18 +1583,22 @@
     {
       "added_at": "2022-06-29 16:46:05",
       "album": {
-        "name": "HATARI",
-        "url": "https://open.spotify.com/album/41tA9GN4L7VQUQS7ZYxBT0"
+        "name": "Tum Trib\u00f9 Reworked",
+        "url": "https://open.spotify.com/album/4UyiActwdoFeWE5JYVB9m5"
       },
       "artists": [
         {
-          "name": "Chrisman",
-          "url": "https://open.spotify.com/artist/3atHu8rA1gl18dlT9Ii7Ah"
+          "name": "John Bringwolves",
+          "url": "https://open.spotify.com/artist/0zT3ikJN0N8OJOPDuGLp93"
+        },
+        {
+          "name": "Indianizer",
+          "url": "https://open.spotify.com/artist/1zfrSl1G9vwwG0fTBhvpXp"
         }
       ],
-      "duration_ms": 177995,
-      "name": "HATARI",
-      "url": "https://open.spotify.com/track/5dAb6s9enOG038eYY4efBk"
+      "duration_ms": 177903,
+      "name": "Tum Trib\u00f9 Reworked",
+      "url": "https://open.spotify.com/track/3dDXCkuYKpsRJ4UsXnDGiL"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1631,6 +1615,38 @@
       "duration_ms": 501853,
       "name": "The Images Within",
       "url": "https://open.spotify.com/track/0EpTpmRk9Dvn1fBYbCbKWV"
+    },
+    {
+      "added_at": "2022-08-03 02:51:09",
+      "album": {
+        "name": "Todos Mis Labios",
+        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
+      },
+      "artists": [
+        {
+          "name": "Fenna Frei",
+          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
+        }
+      ],
+      "duration_ms": 229500,
+      "name": "Todos Mis Labios",
+      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
+    },
+    {
+      "added_at": "2022-06-29 16:46:05",
+      "album": {
+        "name": "HATARI",
+        "url": "https://open.spotify.com/album/41tA9GN4L7VQUQS7ZYxBT0"
+      },
+      "artists": [
+        {
+          "name": "Chrisman",
+          "url": "https://open.spotify.com/artist/3atHu8rA1gl18dlT9Ii7Ah"
+        }
+      ],
+      "duration_ms": 177995,
+      "name": "HATARI",
+      "url": "https://open.spotify.com/track/5dAb6s9enOG038eYY4efBk"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1651,22 +1667,6 @@
     {
       "added_at": "2022-07-27 14:53:59",
       "album": {
-        "name": "Extasi Exile",
-        "url": "https://open.spotify.com/album/54ToWFytyN9hSpThLOQZop"
-      },
-      "artists": [
-        {
-          "name": "VISIO",
-          "url": "https://open.spotify.com/artist/4Wlca9PlSpN4Tt3qgtuwlV"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Extasi Exile",
-      "url": "https://open.spotify.com/track/7dbOOWFqW9kbc70J2wxjNQ"
-    },
-    {
-      "added_at": "2022-07-27 14:53:59",
-      "album": {
         "name": "Degenerates",
         "url": "https://open.spotify.com/album/7F63gRu10MKegVkm7l9HZp"
       },
@@ -1679,6 +1679,22 @@
       "duration_ms": 546500,
       "name": "Inconsiderate",
       "url": "https://open.spotify.com/track/5pTKnE4eUMLCKAnlF8mSO1"
+    },
+    {
+      "added_at": "2022-07-27 14:53:59",
+      "album": {
+        "name": "Extasi Exile",
+        "url": "https://open.spotify.com/album/54ToWFytyN9hSpThLOQZop"
+      },
+      "artists": [
+        {
+          "name": "VISIO",
+          "url": "https://open.spotify.com/artist/4Wlca9PlSpN4Tt3qgtuwlV"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Extasi Exile",
+      "url": "https://open.spotify.com/track/7dbOOWFqW9kbc70J2wxjNQ"
     },
     {
       "added_at": "2022-06-29 16:46:05",
@@ -1695,22 +1711,6 @@
       "duration_ms": 268073,
       "name": "Emptiness Follows (Dreams of Our Love)",
       "url": "https://open.spotify.com/track/6zaIYGW4whKe85V6d3FP8h"
-    },
-    {
-      "added_at": "2022-08-03 02:51:09",
-      "album": {
-        "name": "Todos Mis Labios",
-        "url": "https://open.spotify.com/album/5caFtmGs3fkRnY0AHHXhEB"
-      },
-      "artists": [
-        {
-          "name": "Fenna Frei",
-          "url": "https://open.spotify.com/artist/2zLnIOF1Q4pejv36oLaLAw"
-        }
-      ],
-      "duration_ms": 229500,
-      "name": "Todos Mis Labios",
-      "url": "https://open.spotify.com/track/2CNbftUJwovQpaYUTnUH97"
     }
   ],
   "unique_name": "Fresh Finds Experimental",

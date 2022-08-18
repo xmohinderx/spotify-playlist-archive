@@ -1,12 +1,12 @@
 {
   "description": "centuries-old sailor songs gone viral - it's sea shanty season, baby.",
-  "num_followers": 388137,
+  "num_followers": 388389,
   "original_name": "Sea Shanties",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjUxNTMxNiwwMDAwMDAwMDcxZDQ3OTdiYmE3ZmY5OGMwZDcwNjdiODUzYzJjMWE5",
+  "snapshot_id": "MTY2MDc2MzMyOCwwMDAwMDAwMGM5NmIxNzc5YzA1ZmRiNTM1MTk0NThiNTdjNTczOGIx",
   "tracks": [
     {
       "added_at": "2022-06-29 15:08:36",
@@ -223,6 +223,38 @@
       "duration_ms": 173666,
       "name": "Lowlands Away",
       "url": "https://open.spotify.com/track/0xQulEotE4SkbS4hpi9P9X"
+    },
+    {
+      "added_at": "2022-08-17 19:08:48",
+      "album": {
+        "name": "The Songs of Tell Tale Harbour",
+        "url": "https://open.spotify.com/album/1lPvKp6bBWyYiEYwtC3gUC"
+      },
+      "artists": [
+        {
+          "name": "Alan Doyle",
+          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+        },
+        {
+          "name": "Jahlen Barnes",
+          "url": "https://open.spotify.com/artist/3f0ayxoDQhKJkAIVRWT9K5"
+        },
+        {
+          "name": "Alana Hibbert",
+          "url": "https://open.spotify.com/artist/5PwYRKSiUP0uoN8Sx297jt"
+        },
+        {
+          "name": "Bob Foster",
+          "url": "https://open.spotify.com/artist/3mwBLqFP3annV3WpUDb4Xv"
+        },
+        {
+          "name": "Kendel Carson",
+          "url": "https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Round For the House",
+      "url": "https://open.spotify.com/track/70iUFGZc3oQi4dJ3F3hwA0"
     },
     {
       "added_at": "2022-06-29 15:08:36",

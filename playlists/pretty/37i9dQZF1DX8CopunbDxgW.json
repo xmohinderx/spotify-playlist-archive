@@ -1,12 +1,12 @@
 {
   "description": "The essential indie dance, featuring Little Dragon",
-  "num_followers": 805601,
+  "num_followers": 805677,
   "original_name": "metropolis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGE2MWE3NjRmYWVmNWJhOTc0YjYwOTQ3YTFmMTg0NGIz",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDJlMjQzOWE5ZDNhMTk0MTNjMmE4NGM4OTVkN2Y5MDlk",
   "tracks": [
     {
       "added_at": "2022-07-01 04:02:00",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ"
     },
     {
-      "added_at": "2022-07-08 04:02:00",
-      "album": {
-        "name": "Missing You / Something About Your Love",
-        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 222650,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx"
-    },
-    {
       "added_at": "2021-07-01 19:31:29",
       "album": {
         "name": "Passion",
@@ -487,6 +471,22 @@
       "duration_ms": 138268,
       "name": "Passion",
       "url": "https://open.spotify.com/track/6ZJqCviTotiIujl1rfcL53"
+    },
+    {
+      "added_at": "2022-07-08 04:02:00",
+      "album": {
+        "name": "Missing You / Something About Your Love",
+        "url": "https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA"
+      },
+      "artists": [
+        {
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
+        }
+      ],
+      "duration_ms": 222650,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0liLrRUJW0oTNwsZh8kPBx"
     },
     {
       "added_at": "2021-02-10 02:41:12",
@@ -689,6 +689,22 @@
       "url": "https://open.spotify.com/track/6JJ3UK1YfxO26iEiMWUHHj"
     },
     {
+      "added_at": "2021-09-17 15:22:19",
+      "album": {
+        "name": "Joy",
+        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
+      },
+      "artists": [
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 281381,
+      "name": "Joy",
+      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "From a World to Another",
@@ -707,22 +723,6 @@
       "duration_ms": 287002,
       "name": "From a World to Another",
       "url": "https://open.spotify.com/track/09XQ9G55yMCNyKdVjpEyp4"
-    },
-    {
-      "added_at": "2021-09-17 15:22:19",
-      "album": {
-        "name": "Joy",
-        "url": "https://open.spotify.com/album/76GgZZUHQu2VQRLMXEIQcL"
-      },
-      "artists": [
-        {
-          "name": "salute",
-          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
-        }
-      ],
-      "duration_ms": 281381,
-      "name": "Joy",
-      "url": "https://open.spotify.com/track/17E3lZxFJnO49Gb0tdgVn0"
     },
     {
       "added_at": "2022-01-14 05:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
-      "added_at": "2021-05-28 21:12:16",
-      "album": {
-        "name": "Sunsetter",
-        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 228853,
-      "name": "Take You Higher",
-      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
-    },
-    {
       "added_at": "2022-06-03 04:01:00",
       "album": {
         "name": "Hi-Fidelity",
@@ -987,6 +971,22 @@
       "duration_ms": 199088,
       "name": "Hi-Fidelity",
       "url": "https://open.spotify.com/track/6bkedSfBm08y2ZWRl4v4iK"
+    },
+    {
+      "added_at": "2021-05-28 21:12:16",
+      "album": {
+        "name": "Sunsetter",
+        "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        }
+      ],
+      "duration_ms": 228853,
+      "name": "Take You Higher",
+      "url": "https://open.spotify.com/track/3QtNPpwrajozNB5AORHYzP"
     },
     {
       "added_at": "2021-09-10 19:20:08",
@@ -1097,26 +1097,6 @@
       "url": "https://open.spotify.com/track/3h3szgXLd2FJ0WSWj8om9t"
     },
     {
-      "added_at": "2021-06-04 19:30:55",
-      "album": {
-        "name": "Tunnel",
-        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 310573,
-      "name": "Tunnel",
-      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
-    },
-    {
       "added_at": "2022-08-05 04:00:00",
       "album": {
         "name": "Riverbed (feat. Birdy)",
@@ -1135,6 +1115,26 @@
       "duration_ms": 249326,
       "name": "Riverbed (feat. Birdy)",
       "url": "https://open.spotify.com/track/6GaWzv1cSgyUCuncicStu5"
+    },
+    {
+      "added_at": "2021-06-04 19:30:55",
+      "album": {
+        "name": "Tunnel",
+        "url": "https://open.spotify.com/album/1HBAAAthpIYZLWtcr6NZUX"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 310573,
+      "name": "Tunnel",
+      "url": "https://open.spotify.com/track/3ys5J8MAFYex3zO7n9VduT"
     },
     {
       "added_at": "2022-04-29 04:01:00",
@@ -1177,38 +1177,6 @@
       "url": "https://open.spotify.com/track/3G1nE9ZEv4eGEM48IAIv8u"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Domino",
-        "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
-      },
-      "artists": [
-        {
-          "name": "Myd",
-          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
-        }
-      ],
-      "duration_ms": 215760,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
-    },
-    {
-      "added_at": "2022-02-04 05:01:00",
-      "album": {
-        "name": "3AM",
-        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
-      },
-      "artists": [
-        {
-          "name": "DRAMA",
-          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
-        }
-      ],
-      "duration_ms": 225368,
-      "name": "3AM",
-      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
-    },
-    {
       "added_at": "2021-06-25 04:00:00",
       "album": {
         "name": "Baby Face",
@@ -1225,6 +1193,22 @@
       "url": "https://open.spotify.com/track/1xAHR5oihy1WyPtpAfGZ0p"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Domino",
+        "url": "https://open.spotify.com/album/5aI6axDIHP6Z9PgUbQNmQU"
+      },
+      "artists": [
+        {
+          "name": "Myd",
+          "url": "https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk"
+        }
+      ],
+      "duration_ms": 215760,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/4Kag7UC3ZCiEYJ0QYC2Mpk"
+    },
+    {
       "added_at": "2021-07-16 04:00:00",
       "album": {
         "name": "Low",
@@ -1239,6 +1223,22 @@
       "duration_ms": 274423,
       "name": "Low",
       "url": "https://open.spotify.com/track/52AlJfHPhlkY7OGrb2AjeQ"
+    },
+    {
+      "added_at": "2022-02-04 05:01:00",
+      "album": {
+        "name": "3AM",
+        "url": "https://open.spotify.com/album/0YqlofdeEDcLB3g61vCKHT"
+      },
+      "artists": [
+        {
+          "name": "DRAMA",
+          "url": "https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg"
+        }
+      ],
+      "duration_ms": 225368,
+      "name": "3AM",
+      "url": "https://open.spotify.com/track/3TwAePhxn7pwkdHNwpWgvp"
     },
     {
       "added_at": "2021-03-26 04:01:00",
@@ -1261,26 +1261,6 @@
       "url": "https://open.spotify.com/track/1nyyEarKbjbGm3iJqvZknV"
     },
     {
-      "added_at": "2022-07-15 04:00:00",
-      "album": {
-        "name": "To The Floor",
-        "url": "https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp"
-      },
-      "artists": [
-        {
-          "name": "Lil Silva",
-          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
-        },
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 189422,
-      "name": "To The Floor",
-      "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
-    },
-    {
       "added_at": "2021-12-03 05:35:00",
       "album": {
         "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
@@ -1299,6 +1279,50 @@
       "duration_ms": 242847,
       "name": "Straight Up Relaxin' (feat. Cosmo's Midnight)",
       "url": "https://open.spotify.com/track/342xhiMfFuR0zXbG35VIjy"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "Change / Take My Time",
+        "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
+      },
+      "artists": [
+        {
+          "name": "Supershy",
+          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
+        },
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "WAYNE SNOW",
+          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
+        }
+      ],
+      "duration_ms": 290018,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl"
+    },
+    {
+      "added_at": "2022-07-15 04:00:00",
+      "album": {
+        "name": "To The Floor",
+        "url": "https://open.spotify.com/album/1kFVmxdH3QCMjHe5oMBBBp"
+      },
+      "artists": [
+        {
+          "name": "Lil Silva",
+          "url": "https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn"
+        },
+        {
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
+        }
+      ],
+      "duration_ms": 189422,
+      "name": "To The Floor",
+      "url": "https://open.spotify.com/track/7huFrzl3tBNxSr8tp6zyDf"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1357,26 +1381,6 @@
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
     },
     {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "All Around The World (with Duckwrth)",
-        "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        }
-      ],
-      "duration_ms": 167540,
-      "name": "All Around The World (with Duckwrth)",
-      "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
-    },
-    {
       "added_at": "2022-02-11 05:01:00",
       "album": {
         "name": "Admit It (u don't want 2)",
@@ -1395,6 +1399,26 @@
       "duration_ms": 385074,
       "name": "Admit It (u don't want 2)",
       "url": "https://open.spotify.com/track/1447z3NQY5Dg6oik6Zh5rw"
+    },
+    {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "All Around The World (with Duckwrth)",
+        "url": "https://open.spotify.com/album/3TrrZvyvECJITBRTdLB6Dt"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "duration_ms": 167540,
+      "name": "All Around The World (with Duckwrth)",
+      "url": "https://open.spotify.com/track/3ngEX8ZedhgdYazU5wcKZx"
     },
     {
       "added_at": "2022-05-20 04:01:00",
@@ -1437,6 +1461,22 @@
       "url": "https://open.spotify.com/track/01XAVHIdfq8SNtZDplT0ZD"
     },
     {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "More Content",
+        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 181873,
+      "name": "Sonder",
+      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+    },
+    {
       "added_at": "2022-05-06 04:00:00",
       "album": {
         "name": "Bang My Line (feat. Tkay Maidza)",
@@ -1457,20 +1497,20 @@
       "url": "https://open.spotify.com/track/5phuEZAscX7xyQgvxyLKir"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
+      "added_at": "2022-07-29 18:04:14",
       "album": {
-        "name": "More Content",
-        "url": "https://open.spotify.com/album/3Sl6q9q5oRkU5fD3V9SNyQ"
+        "name": "So Typically Now",
+        "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
       },
       "artists": [
         {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+          "name": "U.S. Girls",
+          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
         }
       ],
-      "duration_ms": 181873,
-      "name": "Sonder",
-      "url": "https://open.spotify.com/track/2wynpXzuXf6Cvf2MqHYA9Z"
+      "duration_ms": 195804,
+      "name": "So Typically Now",
+      "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
     },
     {
       "added_at": "2021-07-12 15:18:44",
@@ -1503,46 +1543,6 @@
       "duration_ms": 191074,
       "name": "2gether",
       "url": "https://open.spotify.com/track/4dzBqc5t2GWJKpGqUoTbrU"
-    },
-    {
-      "added_at": "2022-07-29 18:04:14",
-      "album": {
-        "name": "So Typically Now",
-        "url": "https://open.spotify.com/album/30O790HefaQ8ppnxtHYUNc"
-      },
-      "artists": [
-        {
-          "name": "U.S. Girls",
-          "url": "https://open.spotify.com/artist/3AHFDfqhSqPBecjQDIOIJA"
-        }
-      ],
-      "duration_ms": 195804,
-      "name": "So Typically Now",
-      "url": "https://open.spotify.com/track/1IafXP9REln2SxcNXOCIDS"
-    },
-    {
-      "added_at": "2022-08-12 04:02:00",
-      "album": {
-        "name": "Change / Take My Time",
-        "url": "https://open.spotify.com/album/08nFm5wXYFGlkJ8jXn6cm5"
-      },
-      "artists": [
-        {
-          "name": "Supershy",
-          "url": "https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1"
-        },
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "WAYNE SNOW",
-          "url": "https://open.spotify.com/artist/4f44GWlEQdXaWl8gQ9sPBC"
-        }
-      ],
-      "duration_ms": 290018,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/09KmIUMlvTx7TZQrrSKCgl"
     },
     {
       "added_at": "2021-04-23 04:00:00",
@@ -1621,6 +1621,22 @@
       "url": "https://open.spotify.com/track/1CH4U9ysnaZx8A1uQ44Peg"
     },
     {
+      "added_at": "2021-06-25 04:00:00",
+      "album": {
+        "name": "Strike",
+        "url": "https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz"
+      },
+      "artists": [
+        {
+          "name": "Little Monarch",
+          "url": "https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29"
+        }
+      ],
+      "duration_ms": 173290,
+      "name": "Strike",
+      "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
+    },
+    {
       "added_at": "2022-03-25 04:00:00",
       "album": {
         "name": "Reborn",
@@ -1641,26 +1657,6 @@
       "url": "https://open.spotify.com/track/5FazJBNgurMEDrVaUqqliH"
     },
     {
-      "added_at": "2021-06-11 15:49:59",
-      "album": {
-        "name": "Nabi",
-        "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        },
-        {
-          "name": "OHHYUK",
-          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
-        }
-      ],
-      "duration_ms": 232914,
-      "name": "Nabi",
-      "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
-    },
-    {
       "added_at": "2022-05-20 04:01:00",
       "album": {
         "name": "Dance When You Cry",
@@ -1675,22 +1671,6 @@
       "duration_ms": 172204,
       "name": "Dance When You Cry",
       "url": "https://open.spotify.com/track/67yOsRrqyxkSttB5y3dC6T"
-    },
-    {
-      "added_at": "2021-06-25 04:00:00",
-      "album": {
-        "name": "Strike",
-        "url": "https://open.spotify.com/album/4ohoCzlYl56hEpCjBBY4Jz"
-      },
-      "artists": [
-        {
-          "name": "Little Monarch",
-          "url": "https://open.spotify.com/artist/1zeHZCkBteZhJHsRI9qv29"
-        }
-      ],
-      "duration_ms": 173290,
-      "name": "Strike",
-      "url": "https://open.spotify.com/track/66mRLX5KLp69nz6oAcvTLQ"
     },
     {
       "added_at": "2022-03-04 05:00:00",
@@ -1713,6 +1693,26 @@
       "url": "https://open.spotify.com/track/2Kb5Sy93AE70esO90eJgdQ"
     },
     {
+      "added_at": "2021-06-11 15:49:59",
+      "album": {
+        "name": "Nabi",
+        "url": "https://open.spotify.com/album/7hipzmwhqMczUi5h8YC6Jw"
+      },
+      "artists": [
+        {
+          "name": "Peggy Gou",
+          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
+        },
+        {
+          "name": "OHHYUK",
+          "url": "https://open.spotify.com/artist/68TCVp5t1Dxi2TvNuYoYK0"
+        }
+      ],
+      "duration_ms": 232914,
+      "name": "Nabi",
+      "url": "https://open.spotify.com/track/3Bb6SjhcywQ4euKYT2jxmp"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "BMW Track / So U Kno",
@@ -1727,6 +1727,26 @@
       "duration_ms": 343506,
       "name": "So U Kno",
       "url": "https://open.spotify.com/track/1IhY2i0jpvR5hGY9jdFvxv"
+    },
+    {
+      "added_at": "2021-06-15 15:40:23",
+      "album": {
+        "name": "TEMPO",
+        "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
+      },
+      "artists": [
+        {
+          "name": "NASAYA",
+          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
+        },
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 239274,
+      "name": "TEMPO",
+      "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
     },
     {
       "added_at": "2021-05-21 18:23:13",
@@ -1773,26 +1793,6 @@
       "url": "https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P"
     },
     {
-      "added_at": "2021-06-15 15:40:23",
-      "album": {
-        "name": "TEMPO",
-        "url": "https://open.spotify.com/album/4mQXMpqY7MrZpOedFmTFHu"
-      },
-      "artists": [
-        {
-          "name": "NASAYA",
-          "url": "https://open.spotify.com/artist/5932gYdqLCu1ftKVXf1PO4"
-        },
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 239274,
-      "name": "TEMPO",
-      "url": "https://open.spotify.com/track/2IUFjc60BspwuMtmZaRSPW"
-    },
-    {
       "added_at": "2022-04-29 04:01:00",
       "album": {
         "name": "I Go (Remixes)",
@@ -1833,32 +1833,20 @@
       "url": "https://open.spotify.com/track/7IRyfeJIBmi08GYgEZwWMM"
     },
     {
-      "added_at": "2021-09-10 19:20:08",
+      "added_at": "2021-05-21 18:23:13",
       "album": {
-        "name": "Suenos Bravos",
-        "url": "https://open.spotify.com/album/0qkdLopwwuWRoX4U4FpXL0"
+        "name": "Beato Classico",
+        "url": "https://open.spotify.com/album/0Eef0kccE2JYj205nak4pf"
       },
       "artists": [
         {
-          "name": "Bodysync",
-          "url": "https://open.spotify.com/artist/34KMxwDAHIvM7Kwt1PcClb"
-        },
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        },
-        {
-          "name": "Giraffage",
-          "url": "https://open.spotify.com/artist/4kubsO16bEfCADaVUyoYb6"
-        },
-        {
-          "name": "Daniela Andrade",
-          "url": "https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ"
+          "name": "J Lloyd",
+          "url": "https://open.spotify.com/artist/63wd5NS9hEIj1MchScLJB1"
         }
       ],
-      "duration_ms": 210440,
-      "name": "Suenos Bravos",
-      "url": "https://open.spotify.com/track/0GvR5AtuXU05hbkRA5o4WT"
+      "duration_ms": 208959,
+      "name": "Beato Classico",
+      "url": "https://open.spotify.com/track/26lc7CmsO3vT5ZHxjdmBDd"
     }
   ],
   "unique_name": "metropolis",

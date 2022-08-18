@@ -2,9 +2,9 @@
 
 ### [R&B Latino](https://open.spotify.com/playlist/37i9dQZF1DXdqxfWN3raU3)
 
-> Disfruta del más fino R&B creado en el continente y España\. Foto: Tiago PZK
+> Disfruta del más fino R&B creado en el continente y España\. Foto: Samantha Barrón
 
-152 songs - 8 hr 12 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
+153 songs - 8 hr 16 min - [published](https://open.spotify.com/playlist/322xEoodQLUql4qTRvYX7v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Bendita Diabla \- Apaga La Luz](https://open.spotify.com/track/0OxR238zEmOy20sSBbHgyK) | [E\-Lhoy](https://open.spotify.com/artist/5YTKQFU1MDt9KdsDhWdC5B) | [Bendita Diabla \(Apaga La Luz\)](https://open.spotify.com/album/1CYinQX03mYSKxn6kataX5) | 3:30 | 2021-12-13 |  |
 | [Beso Picor](https://open.spotify.com/track/4CJDgn1HDwNXaGyukJAwML) | [Itzel Noyz](https://open.spotify.com/artist/2ID3ThfGon3XyLsuVXPgOh) | [Beso Picor](https://open.spotify.com/album/4Fhv0IxxGkAiyUOiFOGYaR) | 3:46 | 2021-12-13 | 2022-07-23 |
 | [Brillo en Soledad](https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn) | [Fer Altuzar](https://open.spotify.com/artist/4swxZHw0mYIp39LbbkQPTL) | [Brillo en Soledad](https://open.spotify.com/album/1KGLc0Xue5u404KOGpEkFr) | 4:22 | 2021-12-13 |  |
+| [Bésame Lento](https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T) | [Bésame Lento](https://open.spotify.com/album/5AF3raSCoWij16qck0msSm) | 3:58 | 2022-08-17 |  |
 | [Cada Día Te Quiero Más](https://open.spotify.com/track/3cj60CwhSsrMr0nxMRIGKP) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975) | [Cada Día Te Quiero Más](https://open.spotify.com/album/5x4CBMHXg9zVY37KEZSS3J) | 3:12 | 2022-02-18 |  |
 | [Caliope](https://open.spotify.com/track/7LS0dVaYiiVQcSRl3HDUxS) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Flavor Colectivo](https://open.spotify.com/artist/5CpJ1RaJKGE5iZ14Dg3YYl) | [Caliope](https://open.spotify.com/album/5DVrsMjDWl9a7xUGjIpYJa) | 3:22 | 2022-01-21 |  |
 | [Cambio](https://open.spotify.com/track/0WvD8VcyBR81nZOVvVpC32) | [Alaíde](https://open.spotify.com/artist/2htg8Ya9Fbuy2zGKeL5q9i), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Cambio](https://open.spotify.com/album/1Wx284gZVggOh2cVd9NcDA) | 2:55 | 2021-12-13 | 2022-02-05 |
@@ -53,7 +54,7 @@
 | [Duele Tanto](https://open.spotify.com/track/0mCUGCjahjhItMa9pYLMYo) | [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Duele Tanto](https://open.spotify.com/album/0GRYVA4L5LmB9x5VlhUKor) | 3:12 | 2021-12-13 |  |
 | [Dámelo](https://open.spotify.com/track/6OyOEjszTYpiRlnH68J3Nu) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 3:03 | 2022-07-22 |  |
 | [Déjame decirte](https://open.spotify.com/track/1sInnRtvs3lO8NAwpfYYAR) | [Eva Ruiz](https://open.spotify.com/artist/0u2TFlIJZJiir8Oi7YkbwV) | [Déjame decirte](https://open.spotify.com/album/63bCPPHlxtewXlDXrFRGEz) | 3:15 | 2021-12-13 |  |
-| [Déjame Entrar](https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Déjame Entrar](https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K) | 3:37 | 2022-03-26 |  |
+| [Déjame Entrar](https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra) | [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Déjame Entrar](https://open.spotify.com/album/24oKPFIoA1Gd3iLOeJkd3K) | 3:37 | 2022-03-26 | 2022-08-18 |
 | [EL POETA](https://open.spotify.com/track/2fIPEgY8CJ4hh5UDZa2lB9) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:19 | 2021-12-13 | 2022-03-25 |
 | [Elige Bien](https://open.spotify.com/track/2Oy8GcHX1LHyBEvTvnE816) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Elige Bien](https://open.spotify.com/album/65izBXafV2afavC0J3JX5y) | 3:41 | 2021-12-13 |  |
 | [En un Rinconcito](https://open.spotify.com/track/3R44xWwx1miSjN58p7vlkd) | [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Fernanda Perochena](https://open.spotify.com/artist/3DxcAMHSrWV5c8PQafU2qS), [Daske Gaitán](https://open.spotify.com/artist/6X4iDmQtuCcuyILe3D00E6) | [Lo Que Muere No Acaba](https://open.spotify.com/album/7CSLDt5x0jtwohF2QlGmUo) | 3:32 | 2021-12-13 | 2022-01-29 |
@@ -123,7 +124,7 @@
 | [Que Quede Claro](https://open.spotify.com/track/4YfenXjiKqYlp1WSIOerAL) | [Babe Mija](https://open.spotify.com/artist/0gVYLAFNx3SJcjWoCqPbC3) | [Que Quede Claro](https://open.spotify.com/album/02tQvB53cVQ5AROvu9GlmW) | 3:24 | 2021-12-13 |  |
 | [Quiere Volar](https://open.spotify.com/track/4lFZxuEWZEEup0sth4LY0f) | [N4NO](https://open.spotify.com/artist/5DqmQVZ4gBQ7fQ4XcOfu1b), [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [Quiere Volar](https://open.spotify.com/album/597UHIUKXkBkN56KHUzWpm) | 3:02 | 2021-12-13 |  |
 | [Quién Diría](https://open.spotify.com/track/05teZS4fAVnTjJl5NYTIYZ) | [Selene](https://open.spotify.com/artist/5DURBx1fKt2VZesWMLtDiS) | [Quién Diría](https://open.spotify.com/album/0mdmUs0b4LjKcwGwP0EeQk) | 2:48 | 2022-01-28 |  |
-| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:03 | 2021-12-13 |  |
+| [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 | 2021-12-13 |  |
 | [Qué Maldición](https://open.spotify.com/track/4DNnkNigVl4Dc5Ja4BvKH9) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Qué Maldición](https://open.spotify.com/album/34b6Qme3ZOs6jrgx0BWV3O) | 3:09 | 2022-02-14 |  |
 | [Quédame](https://open.spotify.com/track/6vLpthP41nttqYeyhyBFNx) | [Miranda Santizo](https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT) | [Quédame](https://open.spotify.com/album/2suU0mvs2EMYre0h28MZ14) | 2:49 | 2021-12-13 |  |
 | [Químico](https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Químico](https://open.spotify.com/album/5Rf4NA823SjUQRrmGcFmaZ) | 3:19 | 2021-12-13 |  |

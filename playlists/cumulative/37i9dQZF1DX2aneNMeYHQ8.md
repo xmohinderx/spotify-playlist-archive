@@ -4,7 +4,7 @@
 
 > The best in alt, folk, and indie rock\. Cover: Caamp
 
-206 songs - 12 hr 26 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
+207 songs - 12 hr 29 min - [published](https://open.spotify.com/playlist/0rsiUCSpnpRaY4LTurJ99p)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,8 @@
 | [What’s Done is Done](https://open.spotify.com/track/4x4Wf1lCavlpuZQ7yyAswq) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [One is One](https://open.spotify.com/album/6SKy6TBTLjbC96dMV8blQJ) | 3:30 | 2022-05-25 |  |
 | [WHERE WE ARE](https://open.spotify.com/track/4MTmAFWHpvB9kPMSRgLFRp) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/5Vb119mjQekK46CfEWDQXW) | 2:52 | 2022-02-11 | 2022-07-29 |
 | [WHERE WE ARE](https://open.spotify.com/track/7l987hjMH9FBNXBE93Hrs7) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 2:52 | 2022-07-01 |  |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-07-01 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
 | [Wolves](https://open.spotify.com/track/7vfjYZWxOAjw5N7DLNAxvo) | [Naked Gypsy Queens](https://open.spotify.com/artist/3OrAxV2BbL9v6PvFpbGteS) | [Georgiana](https://open.spotify.com/album/1Kr6FJQ10sddvW8E2PeG2v) | 3:51 | 2022-02-11 | 2022-07-29 |
 | [Worry With You](https://open.spotify.com/track/4UcjIVkjhPd33gYvR5hYw7) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Worry With You](https://open.spotify.com/album/5KLKj0easvhHlP39QUXovl) | 3:51 | 2021-05-14 | 2022-07-29 |
 | [Young Lady, You're Scaring Me](https://open.spotify.com/track/1z9tECYvYsvautkr8G2XDK) | [Ron Gallo](https://open.spotify.com/artist/4rfE3kN2zKNC9L9tt3iVOg) | [Heavy Meta](https://open.spotify.com/album/397kqeXjazlPQ3JqquxDz5) | 3:40 | 2021-01-29 | 2022-01-15 |

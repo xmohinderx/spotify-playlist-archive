@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 
 > Enjoy the electric, amplified sound that is Chicago Blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,852 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,891 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 25 | [Lonesome Bedroom Blues](https://open.spotify.com/track/6a2GFiWodKXdHDFPcaCRdL) | [William Clarke](https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke) | [Blowin' Like Hell](https://open.spotify.com/album/6V9vz3rCyZg93CIaALPizp) | 5:45 |
 | 26 | [Somebody Have Mercy](https://open.spotify.com/track/4MUh1QHWGu6QWFJdwbmKmt) | [Luther "Guitar Junior" Johnson](https://open.spotify.com/artist/2uti5VYcw9CSKw9gYx639x) | [Living Chicago Blues, Vol\. 4](https://open.spotify.com/album/2u30yjGXHGTO5UTWlyG47J) | 3:05 |
 | 27 | [Work With Me Annie](https://open.spotify.com/track/75ZXx6ysguj5afBRtZ8tGR) | [Snooky Pryor](https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3) | [Shake My Hand](https://open.spotify.com/album/0FqH7CwavZR5SGVq76HCPm) | 4:18 |
-| 28 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
-| 29 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
+| 28 | [Ice Cream Man](https://open.spotify.com/track/7fFKM10IEtZubmfF0L5elV) | [John Brim](https://open.spotify.com/artist/7sdvOvyRT6ZFBv5rura7xI) | [Whose Muddy Shoes](https://open.spotify.com/album/50X6gAsoV3eM9O2QrIf2rp) | 2:44 |
+| 29 | [Kold Actions](https://open.spotify.com/track/0VQqkF65MjElD99dsky0hi) | [Jimmy Dawkins](https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc) | [Hot Wire 81 \(feat\. Richard Kirch, Sylvester Boines, Jimmy Schutte\) \[Blues Power\]](https://open.spotify.com/album/3yuhq2f5yW9DiYCweCFNGS) | 7:17 |
 | 30 | [Last Night](https://open.spotify.com/track/1eVYc7k0T5QmllPqfUwYHR) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [The Essential Little Walter](https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc) | 2:54 |
 | 31 | [Gotta Move On](https://open.spotify.com/track/7fP4SqRROudOtgaOeR72lg) | [Eddy Clearwater](https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS) | [West Side Strut](https://open.spotify.com/album/7g3FhubXyKNZIFnlVEz73k) | 4:40 |
 | 32 | [Everything's Gonna Be All Right](https://open.spotify.com/track/2f47wE92JeVnJ8EM0IGsNQ) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Heartaches And Pain](https://open.spotify.com/album/7hmhwWISoILoobUdovmoxC) | 4:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4rGCw5bMNp1.md) - [plain]
 | 49 | [Big Town Playboy](https://open.spotify.com/track/6OjxAve4uIJjsxTBn90HlQ) | [Little Johnny Jones](https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4) | [Chess Blues](https://open.spotify.com/album/2r6RT78O1ZcUW6RQorUJFi) | 2:57 |
 | 50 | [Dark Road](https://open.spotify.com/track/24qLayLMHE9K3vcivvCw5f) | [Eddie Taylor](https://open.spotify.com/artist/0jr3aWcRKkO3LqX09eWbot), [Floyd Jones](https://open.spotify.com/artist/3AyVg8vtIU4HIcmEDil18Y) | [Masters Of Modern Blues](https://open.spotify.com/album/1B3TvnCCMT5f1BQSlNkbhF) | 3:37 |
 
-Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDY2NDJkZTVlZjY5Njc3OThkZTkzZjNkZTAzYWVkMDE5`
+Snapshot ID: `MTY0ODQ5OTcyOCwwMDAwMDAwMDhkOWJmZjU5MDRkY2QzNzE2N2EzYTFhOGJjMDVmOWMz`

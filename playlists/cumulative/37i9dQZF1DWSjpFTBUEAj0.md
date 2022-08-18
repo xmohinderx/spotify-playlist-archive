@@ -4,12 +4,12 @@
 
 > A total apocalypse of the heart.
 
-127 songs - 12 hr 4 min - [published](https://open.spotify.com/playlist/1CtDWZwUz2r2X3MQ27jzF2)
+129 songs - 12 hr 14 min - [published](https://open.spotify.com/playlist/1CtDWZwUz2r2X3MQ27jzF2)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [1932\-33.\(1\)](https://open.spotify.com/track/56SYy4SoveQ8Eowdg2ZJcC) | [Vokeebokæybgo Lochtyblchvvaii](https://open.spotify.com/artist/43DxOFtmX9kK6HIUluJZtq) | [Beröringen](https://open.spotify.com/album/55WI5Qrk6B5TXmbIMUT7Bn) | 2:53 | 2022-05-25 |  |
-| [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 | 2022-05-25 |  |
+| [22.8.15](https://open.spotify.com/track/5uQXekp2AcuFsccL7tbDzo) | [Machine Woman](https://open.spotify.com/artist/2a8NONYfrGgsdUUORy4rFa) | [Thank You Slipknot](https://open.spotify.com/album/0MpW728Bh1K9lYQg3ivkOg) | 6:07 | 2022-05-25 | 2022-08-18 |
 | [A Feast Before The Drought](https://open.spotify.com/track/27vaKc2RsGCIC56OsEzL3g) | [Puce Mary](https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6) | [The Drought](https://open.spotify.com/album/30TrRJ7rD8qyEogM9xdwe0) | 6:44 | 2022-05-25 | 2022-07-29 |
 | [A Feast Before The Drought](https://open.spotify.com/track/2hXYggrEpQTAbwD90JEy1j) | [Puce Mary](https://open.spotify.com/artist/2ctwc8mjxxPLK9dbn6jjp6) | [The Drought](https://open.spotify.com/album/4FS3k3G2J2vA3mKxVDPYoG) | 6:44 | 2022-07-01 |  |
 | [A Hidden Star](https://open.spotify.com/track/58l1vmhAbYJYhzFMVEu4ms) | [Hannu Karjalainen](https://open.spotify.com/artist/1jrtEzcK5ERQoXAFVcQV00) | [A Hidden Star](https://open.spotify.com/album/76ACHyE2ULYkcCdBkUqMNt) | 4:42 | 2022-05-25 | 2022-07-26 |
@@ -42,6 +42,7 @@
 | [Bunt na zamówienie](https://open.spotify.com/track/2CVJO7kArPLP2BqT9yU6F4) | [Siksa](https://open.spotify.com/artist/3LscwuyoGDEuTWv4ibRkMY) | [Zemsta na wroga](https://open.spotify.com/album/0awSed1r9JtyUIq9QX6wi1) | 4:11 | 2022-05-25 | 2022-07-29 |
 | [Bureau](https://open.spotify.com/track/3wxC7rGg3Gg1pTqmQczLt4) | [RK7](https://open.spotify.com/artist/5CaV9AH4gT7gSBH5SQe4a6) | [Illinois, Vol\. 1](https://open.spotify.com/album/7DLUDnsR6xKIDVcFrOkiZh) | 1:29 | 2022-07-01 |  |
 | [Burian](https://open.spotify.com/track/5le7WPtDs63BwKxBHvDYO8) | [ILUITEQ](https://open.spotify.com/artist/1J6vVQgVSsWTwVhPz1wQmq) | [Soundtracks for Winter Departures](https://open.spotify.com/album/4ktjEssT9GeVlNhhliA269) | 5:05 | 2022-07-01 | 2022-07-27 |
+| [Careless Whispers](https://open.spotify.com/track/1qr3cyLVbZRrQH4jaJ0cq7) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 5:11 | 2022-08-17 |  |
 | [Chrome Dreams](https://open.spotify.com/track/6Z4YT5Qz3FAjURIhAlacsF) | [Night Gestalt](https://open.spotify.com/artist/4UuRl4uM2Nf7sbNFBKpZ6b) | [Thousand Year Waves](https://open.spotify.com/album/6UV2yKGCSjwpoBHra6IaRc) | 6:16 | 2022-05-25 | 2022-07-25 |
 | [Clean](https://open.spotify.com/track/5BHHAEdvkq7Z4vMXr9PPyT) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/6TolOVlI4gfOEuMit1ydWL) | 3:08 | 2022-07-01 |  |
 | [Clean](https://open.spotify.com/track/7iBQFdOUWlNN8oWX6xDwia) | [Pan Daijing](https://open.spotify.com/artist/2OA8e1A4qJVqDHbjnc86dR) | [Jade](https://open.spotify.com/album/2DdXNMENiElKkXXTdr0TWe) | 3:08 | 2022-05-25 | 2022-07-29 |
@@ -76,7 +77,7 @@
 | [Honey](https://open.spotify.com/track/15B8scX6MZbS3DcWYY3mUS) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/2lZt4WuEVJQs8LgvG2oppf) | 6:09 | 2022-05-25 | 2022-07-28 |
 | [Honey](https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v) | [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [skins n slime](https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ) | 6:09 | 2022-07-01 |  |
 | [I Might Be Dead](https://open.spotify.com/track/3CrugDkT5hrxchw6rZenYU) | [METAHESH](https://open.spotify.com/artist/0GOeXrdg9HYdG0etf07eyP) | [I Might Be Dead](https://open.spotify.com/album/5m9aBbCjvJ7vUT8A3gT3hZ) | 2:42 | 2022-05-25 |  |
-| [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 | 2022-05-25 |  |
+| [In Heaven](https://open.spotify.com/track/5bpF8FxjRZiuvlSQ7PfEuu) | [Hilary Woods](https://open.spotify.com/artist/4S05GVttpg3rjOte0SX749) | [In Heaven](https://open.spotify.com/album/2ZQiDIXoAx9DESqQeSUkLm) | 3:54 | 2022-05-25 | 2022-08-18 |
 | [Inevitable Truth](https://open.spotify.com/track/3UBlpER8dYeArWgFk9xgJD) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [The Alias Sessions](https://open.spotify.com/album/2tCcGzGEsrsYSgGW7mqFNI) | 4:26 | 2022-05-25 | 2022-07-29 |
 | [Intro](https://open.spotify.com/track/4weSG9WPRs1G30c8kd2ThX) | [Aho Ssan](https://open.spotify.com/artist/6DP0aNDMupNmkyK4drCrvC) | [Simulacrum](https://open.spotify.com/album/1JoOzfSC6Jh9mxxhvWhVTh) | 4:17 | 2022-05-25 | 2022-08-01 |
 | [Isolation Tank](https://open.spotify.com/track/4lLNOoPLe1dUjpMG7nxjmz) | [Tentacle](https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap) | [Isolation Tank](https://open.spotify.com/album/33WYg9FkoBFkrUtOqg2wq5) | 6:23 | 2022-05-25 | 2022-07-29 |
@@ -120,6 +121,7 @@
 | [The Hand](https://open.spotify.com/track/0fryT4KKeWuiU29AyI4tn2) | [Swoop and Cross](https://open.spotify.com/artist/1T6MT7JjxpMw2Pea8heOJm) | [The Hand](https://open.spotify.com/album/6LCSN7Gqa1TANxq6b5FwWE) | 14:30 | 2022-05-25 | 2022-07-29 |
 | [The Horizon Consumed in Red](https://open.spotify.com/track/18bLJFRd0iStFIPgDD6Mf2) | [Robinton Hobbs](https://open.spotify.com/artist/1yig2xRQATenaLRb1OAKs4) | [The Horizon Consumed in Red](https://open.spotify.com/album/7lgiaLDrpcqmI0tjLunLdU) | 6:24 | 2022-05-25 | 2022-07-28 |
 | [The Sacrifice](https://open.spotify.com/track/55xhBx627ivI3aWhI7HOck) | [Flora Yin\-Wong](https://open.spotify.com/artist/6G9Fk5r3RJUQSpsZWh6g6B), [Adam Sherry](https://open.spotify.com/artist/20niWzUm4Khvh3f1Y55NQi) | [The Sacrifice](https://open.spotify.com/album/7hQ4VwHV17rFjIachwQ8pp) | 3:48 | 2022-05-25 |  |
+| [The Star Compass](https://open.spotify.com/track/6eiKdoO7ZwZbQt99QIj5Qh) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:49 | 2022-08-17 |  |
 | [Thoral Experiment](https://open.spotify.com/track/0KhS9b00jUlRfK4gLtdWMC) | [Scanner](https://open.spotify.com/artist/7FEmduuEjfoagq6Qrgviji) | [Earthbound Transmissions](https://open.spotify.com/album/6cfxV50gEXtH9Pn21VEK4h) | 2:50 | 2022-05-25 | 2022-07-28 |
 | [time thieves](https://open.spotify.com/track/34QaVNIPTDprFeRlr0Ifff) | [Airda](https://open.spotify.com/artist/4D02Ag61s1bHSVfWu51lLO) | [ordinary ambient sketch](https://open.spotify.com/album/2V1CjGn6GuXFkUk1XUM6VA) | 9:08 | 2022-05-25 | 2022-07-29 |
 | [Transmission](https://open.spotify.com/track/0OuuJi4vvwFDzo64PTyMyD) | [Pharmakon](https://open.spotify.com/artist/1ix1aDOd7GSOeT9iqNh5KO) | [Contact](https://open.spotify.com/album/5zEb9tVCerWMgrp9XbMjGi) | 4:54 | 2022-07-01 |  |

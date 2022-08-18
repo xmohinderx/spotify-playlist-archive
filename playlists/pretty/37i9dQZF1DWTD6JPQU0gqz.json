@@ -1,12 +1,12 @@
 {
   "description": "Celebrando a los m\u00fasicos Afro-Latinos. Cover: Tego Calderon",
-  "num_followers": 44836,
+  "num_followers": 44837,
   "original_name": "Orgullo Afro-Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMDkwMjJiNjJmYzc2NGZlZGI5YzYzNGI3MThkNzY1ODAy",
+  "snapshot_id": "MTY1NDg1MTk5NywwMDAwMDAwMDg4YjRmMDBlOTM1M2IwMzE1MjEyNGY5ZmUzYTRiMDIw",
   "tracks": [
     {
       "added_at": "2022-06-10 09:06:37",
@@ -519,22 +519,6 @@
     {
       "added_at": "2022-06-10 09:06:37",
       "album": {
-        "name": "La Revancha del Burro",
-        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
-      },
-      "artists": [
-        {
-          "name": "Systema Solar",
-          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
-        }
-      ],
-      "duration_ms": 311981,
-      "name": "El Boton del Pantalon",
-      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
-    },
-    {
-      "added_at": "2022-06-10 09:06:37",
-      "album": {
         "name": "Mi ni\u00f1a Lola",
         "url": "https://open.spotify.com/album/6idfhWkHdRSUcqSjKF87Tk"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 269400,
       "name": "Mi ni\u00f1a Lola",
       "url": "https://open.spotify.com/track/7uDjOQtIiy7wk2UQdHj97u"
+    },
+    {
+      "added_at": "2022-06-10 09:06:37",
+      "album": {
+        "name": "La Revancha del Burro",
+        "url": "https://open.spotify.com/album/6wcGpbAMUEAMiqNuVS8nbt"
+      },
+      "artists": [
+        {
+          "name": "Systema Solar",
+          "url": "https://open.spotify.com/artist/2fsQcmsoEVZD4EHZOzARdx"
+        }
+      ],
+      "duration_ms": 311981,
+      "name": "El Boton del Pantalon",
+      "url": "https://open.spotify.com/track/5buBommaU2Fky8bZGd6aLW"
     },
     {
       "added_at": "2022-06-10 09:06:37",

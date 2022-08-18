@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Morocco.
 
-765 songs - 1 day 18 hr 9 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
+766 songs - 1 day 18 hr 13 min - [published](https://open.spotify.com/playlist/6oVuoPZGB8lcas4ebv85iY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,6 +193,7 @@
 | [DFK \- Inter'lol](https://open.spotify.com/track/0Ddjx5CNvX3yWnIYkPxk7L) | [Nessyou](https://open.spotify.com/artist/36K2nrm363VIEONhc2D5Mo) | [Direction L'Album](https://open.spotify.com/album/2HvxrVBZCopoor6ckgbFS5) | 0:57 | 2021-11-13 | 2021-11-19 |
 | [Diamond](https://open.spotify.com/track/5ZWTPl9SNP5HG7eZZxV8qK) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/4TmNR3ZS70JdZCrCX6QyNr) | 2:57 | 2022-05-07 | 2022-05-11 |
 | [Diamond](https://open.spotify.com/track/5qMtuivmlLWhyMc9Ez1MEu) | [L'morphine](https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u), [Hamza15\-3](https://open.spotify.com/artist/4KakN50EORWP9ML1bXhyWF) | [Diamond](https://open.spotify.com/album/6ZD7JqXlhqJ7ffrOEoVTIq) | 2:57 | 2021-11-11 | 2021-11-19 |
+| [DIE](https://open.spotify.com/track/3D29kjUyWxsT3jUUTtARVQ) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [KMT](https://open.spotify.com/album/5rS3VIo8faf2gtaNvAIavb) | 4:00 | 2022-08-17 |  |
 | [Die Hard](https://open.spotify.com/track/6gI9b2VsoWhjhIuIeToDVs) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL), [Amanda Reifer](https://open.spotify.com/artist/1PpDfXOUG7gxUjR1quWnwp) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:59 | 2022-05-14 | 2022-05-27 |
 | [Dinero](https://open.spotify.com/track/3ggtU1ZOKO8ZNiqPNyXGcm) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o) | [Dinero](https://open.spotify.com/album/6FfydthOJNOSCM8BeSqKh3) | 2:40 | 2021-06-28 | 2021-07-20 |
 | [Dionysus](https://open.spotify.com/track/2Wkm4JBcIV2uSuu4qlbqFN) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [MAP OF THE SOUL : PERSONA](https://open.spotify.com/album/2KqlAl1Kl5fZvbFgJ0qFB6) | 4:09 | 2022-02-24 | 2022-02-26 |
@@ -692,7 +693,7 @@
 | [TOUT VA BIEN \(feat\. Ninho & Naps\)](https://open.spotify.com/track/6OZwia8loN0aPS0vTvsBjR) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [QUARTIERS NORD](https://open.spotify.com/album/4EGHU1v3qmjchplaPqRWBC) | 3:12 | 2022-05-24 |  |
 | [TOXIC...](https://open.spotify.com/track/0aOdyvAanfj1GtO3RtDoxD) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 2:27 | 2022-08-13 |  |
 | [Traitement](https://open.spotify.com/track/1AEEWYcJzrTHksdQmixnHL) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Traitement](https://open.spotify.com/album/6fCkoAdNggGvVt6gUoKF5T) | 3:00 | 2021-09-15 | 2021-09-20 |
-| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 |  |
+| [Trap Roumi V2](https://open.spotify.com/track/1UCuu9ouBrppesU3JXe8b9) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Trap Roumi V2](https://open.spotify.com/album/0ULtzgEHEWKn2HBqivfRly) | 3:25 | 2021-04-21 | 2022-08-18 |
 | [TRAP ROUMI V3](https://open.spotify.com/track/07yjOxOAi1cxhO2FALf861) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [TRAP ROUMI V3](https://open.spotify.com/album/4W3m38nSMZmQcjxEopmMss) | 5:30 | 2022-01-04 | 2022-04-18 |
 | [Trigue Lycee \- Remix](https://open.spotify.com/track/2xQlFQeMuiyOEP3hNaAyfG) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Trigue Lycee \(Remix\)](https://open.spotify.com/album/2ef5UugVMcYIGQCfLqk9cd) | 3:05 | 2022-08-10 | 2022-08-12 |
 | [TRILL](https://open.spotify.com/track/5k9bEY4ISp2U6XNvqx1Yvj) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [TRILL](https://open.spotify.com/album/2zqBYm0eFdJRAPZ36V2vRl) | 2:10 | 2022-03-11 | 2022-03-14 |

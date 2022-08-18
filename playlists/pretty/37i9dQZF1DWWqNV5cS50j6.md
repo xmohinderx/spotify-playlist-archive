@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Indie music antimatter\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 657,663 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 657,954 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,14 +39,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 29 | [SOHO HOUSE \(feat\. Hello O'shay\)](https://open.spotify.com/track/2f6O9Os5EDdTHGvc1P4efs) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hello O'shay](https://open.spotify.com/artist/3YzuOhp0V0YIuaukc7U3Rp) | [MEMO](https://open.spotify.com/album/6LiZ2IqRLAb9uqz6NEMsdT) | 4:28 |
 | 30 | [Eye Tell \(!\)](https://open.spotify.com/track/2MAEd35YAuGXXCifA2M1Wz) | [Jim Legxacy](https://open.spotify.com/artist/7IrBqZo6diq3hV3GpUhrs2) | [Eye Tell \(!\)](https://open.spotify.com/album/1piNdNQfDq2mW2BiHC30by) | 2:10 |
 | 31 | [Act Up](https://open.spotify.com/track/1Oqr9YhCi3JmuHcyHDBhf8) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:04 |
-| 32 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 |
-| 33 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
+| 32 | [ZIG ZAGGING](https://open.spotify.com/track/3N1iERegpLyK2hztjYNp0M) | [Asha Imuno](https://open.spotify.com/artist/7qe188k1HYRj6PSFgaGljT) | [ZIG ZAGGING](https://open.spotify.com/album/79ontCOq1CIxW8gEeFVFvB) | 2:04 |
+| 33 | [Maybe Not](https://open.spotify.com/track/6Ppg45wf1F9t1W9sfyrYMD) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Maybe Not](https://open.spotify.com/album/2Wd8dBdUxM0uEgRdCINM25) | 2:50 |
 | 34 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 |
 | 35 | [Hotline](https://open.spotify.com/track/2T0uZowHdsxAYJyFS13KQI) | [bLAck pARty](https://open.spotify.com/artist/4C9Tvlt8v7d8R6h98FgdUy) | [Hotline](https://open.spotify.com/album/01abUW9eJNapjJv0E4rNMF) | 2:28 |
 | 36 | [Duo](https://open.spotify.com/track/0KbMjhlUH1xUGDgeIQzLsn) | [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Duo](https://open.spotify.com/album/5Mp5iZqsRMvP3izACMnLPF) | 2:06 |
 | 37 | [Power Freaks](https://open.spotify.com/track/06dWM8AMMjKE9Obf2L1ojy) | [Jean Dawson](https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP) | [Pixel Bath](https://open.spotify.com/album/121Hqnfr9tMBdL0LJuIstL) | 4:12 |
-| 38 | [Pretend](https://open.spotify.com/track/2ktU3yNNpfKIsG3Hn186Mq) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Pretend \[w/ Kota the Friend\]](https://open.spotify.com/album/32zuche1Ppeux5Tk7a1sOT) | 2:35 |
-| 39 | [What Does That Make Me?](https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [What Does That Make Me?](https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60) | 2:53 |
+| 38 | [What Does That Make Me?](https://open.spotify.com/track/6dIIH84jl5SgoLggwFFadz) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [What Does That Make Me?](https://open.spotify.com/album/5f00WY9ZPJ6Pz2AnrNgy60) | 2:53 |
+| 39 | [Pretend](https://open.spotify.com/track/2ktU3yNNpfKIsG3Hn186Mq) | [pluko](https://open.spotify.com/artist/01qbSocTDAe2DmKayS89A5), [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [Pretend \[w/ Kota the Friend\]](https://open.spotify.com/album/32zuche1Ppeux5Tk7a1sOT) | 2:35 |
 | 40 | [Freakout/Release](https://open.spotify.com/track/2vnjsf8ju9ncJbnIEIKphO) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [Freakout/Release](https://open.spotify.com/album/5SH3kCDtcn5XcNgxHPyZXx) | 3:17 |
 | 41 | [Mr\. Put It On](https://open.spotify.com/track/70EiV32gjM86o0XeTj5nq0) | [AG Club](https://open.spotify.com/artist/22KyrgRdE2K6aB5wtZls3c) | [Mr\. Put It On](https://open.spotify.com/album/1OE9RhxKK7NY2r9vRUP8hg) | 2:47 |
 | 42 | [MESS U MADE](https://open.spotify.com/track/1jZrlerU1ZWEI7oDPtHPGx) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [AFTER DINNER WE TALK DREAMS](https://open.spotify.com/album/0DNz0XsG6B1Vz1CcbuIsov) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 49 | [Sugar](https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [Sugar](https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01) | 1:54 |
 | 50 | [Michael](https://open.spotify.com/track/3BEG90ffpOk0TO8PTEA4AT) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno \(Deluxe\)](https://open.spotify.com/album/7dMtse1hCWqbfFGMLW2clA) | 2:45 |
 
-Snapshot ID: `MTY2MDY4MTg2MiwwMDAwMDAwMDZlNTY1NDZmMWQyYWQ3ZTdmOWI2OTlkN2FmZGQwMzhj`
+Snapshot ID: `MTY2MDc0OTg2NSwwMDAwMDAwMGIyYjhjMTAzYmRhMmNlZGYyZjY4OGJkYTQ2YmM0YWVh`

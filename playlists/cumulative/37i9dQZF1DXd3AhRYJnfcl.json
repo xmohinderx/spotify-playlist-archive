@@ -210,6 +210,32 @@
     },
     {
       "album": {
+        "name": "Eish'ha B Afia (Khatir)",
+        "url": "https://open.spotify.com/album/3qgIRDfNgnyxHi0YykyrWW"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Shafei",
+          "url": "https://open.spotify.com/artist/62HptqyCczb1325UIjFF7x"
+        },
+        {
+          "name": "Nancy Ajram",
+          "url": "https://open.spotify.com/artist/0LnHdW6HMPoOlNdhG3DHjE"
+        },
+        {
+          "name": "Marwan Pablo",
+          "url": "https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198826,
+      "name": "Eish'ha B Afia (Khatir)",
+      "url": "https://open.spotify.com/track/0VoGUSTCDyz5855v4S278P"
+    },
+    {
+      "album": {
         "name": "Tegy Ntrahn",
         "url": "https://open.spotify.com/album/45VciPIELkkQgWSkS2QLlq"
       },
@@ -547,7 +573,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 221374,
       "name": "Hob Meen",
       "url": "https://open.spotify.com/track/5pz9YaGFn6iV84WC8Xo4Jw"
@@ -897,7 +923,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 207695,
       "name": "Mehtar",
       "url": "https://open.spotify.com/track/0HOuIvqIhg8gmLSmh8tbOD"
@@ -919,6 +945,24 @@
       "duration_ms": 175911,
       "name": "Mesh Nadman",
       "url": "https://open.spotify.com/track/3g4p8OgtpxHpEHzEjnRo6J"
+    },
+    {
+      "album": {
+        "name": "Mesytara",
+        "url": "https://open.spotify.com/album/26hT0T2WvH4PhIxTLrNnSw"
+      },
+      "artists": [
+        {
+          "name": "Lamis Kan",
+          "url": "https://open.spotify.com/artist/4jmo0EdvNDABmNDmPmKhMj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168465,
+      "name": "Mesytara",
+      "url": "https://open.spotify.com/track/7H2uwSkd2mhRKyTOPRDE2L"
     },
     {
       "album": {
@@ -1605,7 +1649,7 @@
       ],
       "date_added": "2022-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 168465,
       "name": "\u0645\u0633\u064a\u0637\u0631\u0647",
       "url": "https://open.spotify.com/track/0ZjojzTQaoz1MZn0hGBaNP"

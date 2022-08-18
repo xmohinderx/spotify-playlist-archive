@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Vikram
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,416 likes - 79 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,487 likes - 79 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 37 | [Pilot Officer Nedumaran \- Background Score](https://open.spotify.com/track/0Et6G1v1HzdBrgtCu6PC6k) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ) | [Soorarai Pottru \(Original Background Score\)](https://open.spotify.com/album/3Ptlh3EuSHa9y9OZaNvqnd) | 0:53 |
 | 38 | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/track/7rto8ANj8esy1YSfDekGSL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Valimai Motion Poster Theme \(From "Valimai"\)](https://open.spotify.com/album/2jz0ydxBSQm359To6I4XE4) | 1:27 |
 | 39 | [Seemaraja Swag](https://open.spotify.com/track/2aZrRfplV2lvKbhzuEyO3U) | [D\. Imman](https://open.spotify.com/artist/1QcBqYUeQ4Ux3itkdDaFi0), [Shenbagaraj](https://open.spotify.com/artist/4sOq2wyRjNnnYNhpM24NdI), [Vignesh Narayanan](https://open.spotify.com/artist/1lSvO0nN0XCmQfOPhL3Oac), [Santhosh Hariharan](https://open.spotify.com/artist/4nWXekqN93Tx8hJUJwR66n), [Deepak](https://open.spotify.com/artist/2f1w7WdCu6ePA67yFTlLM3), [Swetha Suresh](https://open.spotify.com/artist/44vvZVE1qBKy23InVwjnRL) | [Seemaraja \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/41iC61HwQAga6GAVvOtXAz) | 1:30 |
-| 40 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
-| 41 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
+| 40 | [Kaala \(Tamil\) Teaser Theme](https://open.spotify.com/track/5qn6YDWxmMbW31AOzts8aF) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Kaala \(Tamil\) \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7ypfdQ9KvJb9NizV0dqh8y) | 1:10 |
+| 41 | [Kabali Whistle Theme](https://open.spotify.com/track/3mLMlgG8XqaGiIUxAzRipy) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Kabali \(Original Background Score\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/0H3C0x1ubGV1p9T2qTnPML) | 0:43 |
 | 42 | [Suruli \- Background Score](https://open.spotify.com/track/6Rw6t4Lz8oRn69tyJd446x) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Jagame Thandhiram \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0UJzrIeqV0yj1tpLihFk07) | 1:21 |
 | 43 | [Ghost Unmasked \- Background Score](https://open.spotify.com/track/0wgOTeDbMblOxncPcXLCvf) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:14 |
 | 44 | [Wedding Party \- Background Score](https://open.spotify.com/track/0APxSVP73DpITxWovXrEZj) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:36 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 78 | [Manmadhan Theme Music](https://open.spotify.com/track/3v3a6pzDuXm1FBvbEf0XgL) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Manmadhan \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0xAqOpePLMt4LOwoS41dBl) | 1:23 |
 | 79 | [Con Man Theme \(From "Masss"\)](https://open.spotify.com/track/3aTwmfaxQ6icUXmVCvPc8b) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Masss \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5hzJ98YUQ00xb3FBzWOjPC) | 2:23 |
 
-Snapshot ID: `MTY1NzI4ODAxMiwwMDAwMDAwMDA5OGY2Y2IxYzk0MGRlOTZlMTljOTQ0ODdhNjkyMGFh`
+Snapshot ID: `MTY1NzI4ODAxMiwwMDAwMDAwMDQ4NThhOTQ1OGY0ZTU3OTkzNzk4NjI0ODA2ZmZlYjFj`

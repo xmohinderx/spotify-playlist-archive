@@ -1,15 +1,143 @@
 {
   "description": "Los grandes \u00e9xitos de Daddy Yankee y Nicky Jam en un mismo lugar.",
-  "num_followers": 113564,
+  "num_followers": 113732,
   "original_name": "Dos \u00edconos: Daddy Yankee x Nicky Jam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODk0MDI0OCwwMDAwMDAwMDBhYTg3YjQ1MzVlMzE5MTg4ZTU3Y2E4NzNjMjk5MmE0",
+  "snapshot_id": "MTY2MDc1NjY5NCwwMDAwMDAwMDkwOTY3M2NkMWRkNjQ0Y2Q5NGI1MTM2N2ZjZjg1OTRm",
   "tracks": [
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "Sin Novia",
+        "url": "https://open.spotify.com/album/28reK64UlkkhWCwmNb9DAl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 188411,
+      "name": "Sin Novia",
+      "url": "https://open.spotify.com/track/4IsO1J5LSrVwkQOIEdZ417"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "Ojos Rojos",
+        "url": "https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 152110,
+      "name": "Ojos Rojos",
+      "url": "https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/0ffCDiEj0kSf1Z4cLLAyHl"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 192006,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/5vUIh7sODY1sD6EIo49Dka"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Lil Jon",
+          "url": "https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK"
+        }
+      ],
+      "duration_ms": 182413,
+      "name": "BOMB\u00d3N",
+      "url": "https://open.spotify.com/track/4OAPnWJ3J5w4c4IBLh2chn"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
+      "album": {
+        "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+        "url": "https://open.spotify.com/album/0uEAjbeFr70dBF41LTs1cD"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        }
+      ],
+      "duration_ms": 158086,
+      "name": "Nicky Jam: Bzrp Music Sessions, Vol. 41",
+      "url": "https://open.spotify.com/track/03LfOYi0icz4souspZVVhq"
+    },
+    {
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
@@ -29,7 +157,7 @@
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Mundial (Deluxe Version)",
         "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
@@ -45,7 +173,7 @@
       "url": "https://open.spotify.com/track/33a2zTGZocgU9XVDDILHM3"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Travesuras",
         "url": "https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He"
@@ -61,7 +189,7 @@
       "url": "https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Talento de Barrio",
         "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
@@ -77,7 +205,7 @@
       "url": "https://open.spotify.com/track/0Xfo7PfltbOrAiBs0eSCTH"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -93,7 +221,7 @@
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "El Cartel: The Big Boss",
         "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
@@ -109,7 +237,7 @@
       "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
@@ -125,7 +253,7 @@
       "url": "https://open.spotify.com/track/26QKsGW4hMuwiEE1ftUMHe"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
@@ -145,7 +273,7 @@
       "url": "https://open.spotify.com/track/4PJ3umtW1aWdfh5EITHc6T"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Mu\u00e9velo",
         "url": "https://open.spotify.com/album/6sTdi5hrN3uFhARaqbikjG"
@@ -165,7 +293,7 @@
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Barrio Fino En Directo",
         "url": "https://open.spotify.com/album/2rNUIqPFIbq5bSH46jHUZy"
@@ -181,7 +309,7 @@
       "url": "https://open.spotify.com/track/4Xtlw8oXkIOvzV7crUBKeZ"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Que Tire Pa Lante",
         "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
@@ -197,7 +325,7 @@
       "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -217,7 +345,7 @@
       "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "S\u00edgueme Y Te Sigo",
         "url": "https://open.spotify.com/album/0hi7qqQbGUV5Vm6OtUlE1J"
@@ -233,7 +361,7 @@
       "url": "https://open.spotify.com/track/7F7kL3i6SDEIbDcoJZGiig"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Te Busco",
         "url": "https://open.spotify.com/album/5mTPkLSMfQdLrb4DOXDQDh"
@@ -253,7 +381,7 @@
       "url": "https://open.spotify.com/track/2hi1aFllOFRNH8gIHxQvD9"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Con Calma",
         "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
@@ -273,7 +401,7 @@
       "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -293,7 +421,7 @@
       "url": "https://open.spotify.com/track/0iP84MjJ1KvnzxWa91Zsvt"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Dance Latin # 1 Hits",
         "url": "https://open.spotify.com/album/4GMgJaHCYCH8YVqEYZ0NxA"
@@ -321,7 +449,7 @@
       "url": "https://open.spotify.com/track/0bMRpUsk1IWi5O2NIkWsqR"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Greatest Hits Vol. 1",
         "url": "https://open.spotify.com/album/2kQxNs7CGUGJrUgS6PnmOJ"
@@ -341,7 +469,7 @@
       "url": "https://open.spotify.com/track/0OBshoie90ABJmXp76BIp5"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
@@ -361,7 +489,7 @@
       "url": "https://open.spotify.com/track/2pWOMNQJW3g2zmGjP0Vkb0"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "VIDA",
         "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
@@ -381,7 +509,7 @@
       "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Dura",
         "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
@@ -397,7 +525,7 @@
       "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -413,7 +541,7 @@
       "url": "https://open.spotify.com/track/5EFAloMY9VlEKrjllKoXjL"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Juegos Prohibidos",
         "url": "https://open.spotify.com/album/13A1xwgLxWDMarimSzgGtT"
@@ -429,7 +557,7 @@
       "url": "https://open.spotify.com/track/0cpxR4XkBg6Gm4VIUCiwYN"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Barrio Fino (Bonus Track Version)",
         "url": "https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2"
@@ -445,7 +573,7 @@
       "url": "https://open.spotify.com/track/228BxWXUYQPJrJYHDLOHkj"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Definitivamente",
         "url": "https://open.spotify.com/album/6pJLqbnEE1gjMZ15dpi1cH"
@@ -465,7 +593,7 @@
       "url": "https://open.spotify.com/track/113PlnpZbHd3WIqeYjhZWv"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Cheerleader (feat. Nicky Jam) [Felix Jaehn Remix]",
         "url": "https://open.spotify.com/album/2iTOL3spi3OG2FH4wKismY"
@@ -485,7 +613,7 @@
       "url": "https://open.spotify.com/track/2Pc6PwPhcIThcK34ElYJri"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Si Supieras",
         "url": "https://open.spotify.com/album/4lmKt00bHLEeqJRTlNOxXS"
@@ -505,7 +633,7 @@
       "url": "https://open.spotify.com/track/7MRU4vOkywuhZ9kbFiPuiu"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Piensas en M\u00ed",
         "url": "https://open.spotify.com/album/5ZaSzyQcoisKR0DHwKbKHx"
@@ -521,7 +649,7 @@
       "url": "https://open.spotify.com/track/2uhkqlbBlLRYItG0eDzFTR"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Talento de Barrio",
         "url": "https://open.spotify.com/album/7JeWY0pvC27pCgn5eiSeV6"
@@ -537,7 +665,7 @@
       "url": "https://open.spotify.com/track/2jnZUvhw2LTvDI6YidRVcO"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Si T\u00fa No Est\u00e1s",
         "url": "https://open.spotify.com/album/0amNwDcNVIINDp6zXfjxSg"
@@ -557,7 +685,7 @@
       "url": "https://open.spotify.com/track/2pDODfTQlKUvlq2lc83Whl"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "El Desorden",
         "url": "https://open.spotify.com/album/4mB0S19kFt0O2REi1W21mB"
@@ -581,7 +709,7 @@
       "url": "https://open.spotify.com/track/0JOUrhZGMCx3lk9VosAQWl"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -601,7 +729,7 @@
       "url": "https://open.spotify.com/track/3u8fKvW5X1zvrsweW5h2xa"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Shaky Shaky",
         "url": "https://open.spotify.com/album/0j74hxgbgc4THmz7rasxgn"
@@ -617,7 +745,7 @@
       "url": "https://open.spotify.com/track/7gcMKL3lnDxsp4bIXyv6Zk"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Tu Primera Vez",
         "url": "https://open.spotify.com/album/0EnrF2xIslYWg7BmfOmI5x"
@@ -633,7 +761,7 @@
       "url": "https://open.spotify.com/track/4zbYC54N8jcI55NyK2GtX9"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Tanta Falta Remix",
         "url": "https://open.spotify.com/album/1H5ki3YSO29zF5kEmN3Fd4"
@@ -653,7 +781,7 @@
       "url": "https://open.spotify.com/track/2AbPshGfRDKLlkM0lrDNTR"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Desahogo (feat. Carla Morrison)",
         "url": "https://open.spotify.com/album/2eJA1FwzgGFXNB1nhXnOJM"
@@ -673,7 +801,7 @@
       "url": "https://open.spotify.com/track/71oz9Wgbrm873aMlVBrDKR"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "King Daddy",
         "url": "https://open.spotify.com/album/3xtMlD79fXUjZ92e1c4TnX"
@@ -689,7 +817,7 @@
       "url": "https://open.spotify.com/track/6WuufZDBNoEJBTinRiznhO"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Mi Cama (Remix)",
         "url": "https://open.spotify.com/album/6dVC3KSMioVw7ywpXx10cl"
@@ -713,7 +841,7 @@
       "url": "https://open.spotify.com/track/38QmUDpkoYlNbMKvpvAsrE"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "PAM",
         "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
@@ -737,7 +865,7 @@
       "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Satisfacci\u00f3n",
         "url": "https://open.spotify.com/album/54kKKlH1NeDeihHxTYEvGA"
@@ -761,7 +889,7 @@
       "url": "https://open.spotify.com/track/21WvAGxPUNJARcZoSqswd7"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/3mCZPmix70kS3uC4aOXz7w"
@@ -777,7 +905,7 @@
       "url": "https://open.spotify.com/track/4yORNsoYe4XnK99EXhKhWB"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -793,7 +921,7 @@
       "url": "https://open.spotify.com/track/4lMBnVOEKScRyQyfyJQwI4"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "El Cartel: The Big Boss",
         "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
@@ -809,7 +937,7 @@
       "url": "https://open.spotify.com/track/6Whz0X5fTmsTMrWuFTBp60"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Prestige",
         "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
@@ -829,7 +957,7 @@
       "url": "https://open.spotify.com/track/2QSuNcQxqFfokvbS7SInHG"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "La Rompe Corazones",
         "url": "https://open.spotify.com/album/3IFkypuR7Wij9252tKarRw"
@@ -849,7 +977,7 @@
       "url": "https://open.spotify.com/track/2Q85xwXagilpHKTfdrbC7M"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Polvo",
         "url": "https://open.spotify.com/album/3xhACmNvvaKmvdslE1bevB"
@@ -869,7 +997,7 @@
       "url": "https://open.spotify.com/track/68mrW6gXHgupgSiDHgaDi5"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Adictiva",
         "url": "https://open.spotify.com/album/7Eeyj4vopzd7c1aAhwXFGU"
@@ -889,7 +1017,7 @@
       "url": "https://open.spotify.com/track/6MJUCumnQsQEKbCy28tbCP"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "F\u00e9nix",
         "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
@@ -905,7 +1033,7 @@
       "url": "https://open.spotify.com/track/4S2JBCs9FfFEJPLEf8YiE7"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Mundial (Deluxe Version)",
         "url": "https://open.spotify.com/album/45se0M80yOL4t9j3REDyEK"
@@ -921,7 +1049,7 @@
       "url": "https://open.spotify.com/track/42RRK0WSxwG117CEFHdGOY"
     },
     {
-      "added_at": "2022-07-27 16:44:08",
+      "added_at": "2022-08-17 17:18:14",
       "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"

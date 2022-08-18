@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest, freshest R&B tunes\.  Cover: Kehlani & Babyface
 
-[Spotify](https://open.spotify.com/user/spotify) - 916,959 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 917,164 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 66 | [Rollercoaster](https://open.spotify.com/track/4sciT4OOWK3iD41rtkrTYY) | [Jade Novah](https://open.spotify.com/artist/7HvZ0wFF6TW2kxX8AVVY3K), [Kenyon Dixon](https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be) | [Rollercoaster](https://open.spotify.com/album/6bTIVYkJDjjsSakD5nfLNa) | 3:33 |
 | 67 | [ICED OUT SUMMER](https://open.spotify.com/track/1PpsJPjSge3JHkNYJImD08) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW), [BenjiFlow](https://open.spotify.com/artist/3NRpcByltnHx7oZxWbg8Lt), [Oscar \#Worldpeace](https://open.spotify.com/artist/63h1vcgwz5lbgfiIyF6mcs), [MINIKINGZ](https://open.spotify.com/artist/6C3nOkdYuYvX3xXy4lJCa9) | [ICED OUT SUMMER](https://open.spotify.com/album/6xOEoNnvwiGdOX6Kr7WM5P) | 2:40 |
 | 68 | [Odds](https://open.spotify.com/track/3gDIzJLAOIiFqcCXjcz8hp) | [Dave B.](https://open.spotify.com/artist/5bfqwcEcRrMhtY9smw3IeJ), [Da\-P](https://open.spotify.com/artist/4PKHlnz8cQ79kQ6kd3GufJ) | [it's not that deep](https://open.spotify.com/album/438o26Y0oRAh6vpyboYWQP) | 2:52 |
-| 69 | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/track/1UlkeNTAI6j9xon4RcEVT2) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Elijah Beuzieron](https://open.spotify.com/artist/089fAXVN8TcByzhdKywnay) | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/album/6n4GEw9B0ssEHzRw19bdsg) | 2:50 |
+| 69 | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/track/1UlkeNTAI6j9xon4RcEVT2) | [Jenevieve](https://open.spotify.com/artist/0dUYLC7DLjeS8gIh8cz2Pq), [Benziboy](https://open.spotify.com/artist/2HVYZvpEGdadr91TCxyPW2) | [2NLuv \(feat\. Benziboy\)](https://open.spotify.com/album/6n4GEw9B0ssEHzRw19bdsg) | 2:50 |
 | 70 | [Alarming](https://open.spotify.com/track/2UoJrCdK3wjkRO5eI2Nq6E) | [Ojerime](https://open.spotify.com/artist/2kVmW0EZG23dqsqeRZ4Jg0) | [Alarming](https://open.spotify.com/album/5kXCZPGdySsOUx6xhpVKFG) | 2:55 |
 | 71 | [all of that](https://open.spotify.com/track/13rhDmlqwOZAtQiaIE40m0) | [agajon](https://open.spotify.com/artist/5ZqhVXS0lKksMwTqFTBY3k), [LAYLA](https://open.spotify.com/artist/4GJrFqexwHiTMZWjaPEkTy) | [all of that](https://open.spotify.com/album/3xset6R3izwNhY3n0L2ijI) | 2:38 |
 | 72 | [If You Want My Love](https://open.spotify.com/track/6muk6XM856ryXVRyv1m8yj) | [Jordan Occasionally](https://open.spotify.com/artist/7dV9Gu3qcrjyMkvPEHRsOX) | [If You Want My Love](https://open.spotify.com/album/7qUwQ0bUDNJnyZb8IWpglN) | 3:42 |

@@ -1,12 +1,12 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. Photo: Connor Seidel (1969 Collective)",
-  "num_followers": 101064,
+  "num_followers": 101088,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGY3ZGMwOTBmODJmODc0ZjUzMDc3MmY0YWUxMWZhMTIy",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGNhNzg4ZWZhNWNjZjg0ODJlZjJjNjBmNGNkMTQyM2Fi",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -639,22 +639,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
-      },
-      "artists": [
-        {
-          "name": "Geoffroy",
-          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Travelling",
         "url": "https://open.spotify.com/album/4DansuCidnugwQO3H3S7VA"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 227446,
       "name": "Le triomphe d'une perruche",
       "url": "https://open.spotify.com/track/3THc1qpseFOdr5z6JqAk7y"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/2HJxiWkcVAbXuOMaY5wEor"
+      },
+      "artists": [
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/2WxZsGInatsAG5Z2NCgCHN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -703,18 +703,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dans tes bras",
-        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
       },
       "artists": [
         {
-          "name": "Ingrid St-Pierre",
-          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
         }
       ],
-      "duration_ms": 207133,
-      "name": "Dans tes bras",
-      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -735,18 +735,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+        "name": "Dans tes bras",
+        "url": "https://open.spotify.com/album/2xCJ4fVEW1Nlc1t4a4Z5yN"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+          "name": "Ingrid St-Pierre",
+          "url": "https://open.spotify.com/artist/0da2pDG05vWX87bHrrC64w"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+      "duration_ms": 207133,
+      "name": "Dans tes bras",
+      "url": "https://open.spotify.com/track/5rxr2CjBBU3NXsYxrXrjRe"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -783,6 +783,26 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Tu ne seras jamais l\u00e0",
+        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
+      },
+      "artists": [
+        {
+          "name": "C\u0153ur De Pirate",
+          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
+        },
+        {
+          "name": "Alexandra Streliski",
+          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Tu ne seras jamais l\u00e0",
+      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Heavy Stone",
         "url": "https://open.spotify.com/album/0NPeCHqKkiqkMSwazQz9yb"
       },
@@ -811,26 +831,6 @@
       "duration_ms": 197111,
       "name": "Les joailliers (piano, voix)",
       "url": "https://open.spotify.com/track/2rtiiJyThyR4loAtz7ExSf"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Tu ne seras jamais l\u00e0",
-        "url": "https://open.spotify.com/album/4fYbZnjvq99Qft84BJepre"
-      },
-      "artists": [
-        {
-          "name": "C\u0153ur De Pirate",
-          "url": "https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA"
-        },
-        {
-          "name": "Alexandra Streliski",
-          "url": "https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Tu ne seras jamais l\u00e0",
-      "url": "https://open.spotify.com/track/6WNVFXtZyFmfosAxvisgPL"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -883,22 +883,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Go Get It",
-        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
-      },
-      "artists": [
-        {
-          "name": "Dominique Fils-Aim\u00e9",
-          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
-        }
-      ],
-      "duration_ms": 141509,
-      "name": "Go Get It",
-      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "The Ballad of the Runaway Girl",
         "url": "https://open.spotify.com/album/4thL3jIVt8oFNZgvnHslkU"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 281131,
       "name": "Ton vieux nom",
       "url": "https://open.spotify.com/track/0N48WjkYqRjnjGpTGAA0Ok"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Go Get It",
+        "url": "https://open.spotify.com/album/5ornCn9likRC8UcYRgbUZV"
+      },
+      "artists": [
+        {
+          "name": "Dominique Fils-Aim\u00e9",
+          "url": "https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC"
+        }
+      ],
+      "duration_ms": 141509,
+      "name": "Go Get It",
+      "url": "https://open.spotify.com/track/0NLScgFk4MNJ1SSGtNUiZc"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "L'heure mauve",
-        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
-      },
-      "artists": [
-        {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "Les fleurs d\u2019une autre dimension",
-      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Interlude",
         "url": "https://open.spotify.com/album/7LeYTtQQe3CBRgRdIx1cZk"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 299560,
       "name": "Qtv",
       "url": "https://open.spotify.com/track/6awabNZmJaJBEuZVkUsadS"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "L'heure mauve",
+        "url": "https://open.spotify.com/album/4iCEdP4X0yU7bLPMvAl9zL"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "Les fleurs d\u2019une autre dimension",
+      "url": "https://open.spotify.com/track/4NR968l97Z5ozs8wk85IIL"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Espoir",
-        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
+        "name": "Satellite",
+        "url": "https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46"
       },
       "artists": [
         {
-          "name": "Ariane Moffatt",
-          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
+          "name": "Genevi\u00e8ve Racette",
+          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
         }
       ],
-      "duration_ms": 210177,
-      "name": "Espoir",
-      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
+      "duration_ms": 229567,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1295,34 +1295,34 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Satellite",
-        "url": "https://open.spotify.com/album/7cTthdPgZAHv44s7VCar46"
+        "name": "Espoir",
+        "url": "https://open.spotify.com/album/1WoZ8Ugtcpg8gXD9VNDSJ2"
       },
       "artists": [
         {
-          "name": "Genevi\u00e8ve Racette",
-          "url": "https://open.spotify.com/artist/3puoZ6FIQPCCA2mX9Yh6fU"
+          "name": "Ariane Moffatt",
+          "url": "https://open.spotify.com/artist/5x9UA1g9OYt1wCyPb0YN8l"
         }
       ],
-      "duration_ms": 229567,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/1ndqHrik6dcm5ZIu7bZUY0"
+      "duration_ms": 210177,
+      "name": "Espoir",
+      "url": "https://open.spotify.com/track/1mGRwSfyiVBnvMbfOKAP2x"
     },
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "The Paradise Club",
-        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
+        "name": "Hiboux",
+        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
       },
       "artists": [
         {
-          "name": "Claudia Bouvette",
-          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
         }
       ],
-      "duration_ms": 184680,
-      "name": "1000 Bornes",
-      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
+      "duration_ms": 245426,
+      "name": "Derri\u00e8re le bruit",
+      "url": "https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Hiboux",
-        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
+        "name": "The Paradise Club",
+        "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
       "artists": [
         {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+          "name": "Claudia Bouvette",
+          "url": "https://open.spotify.com/artist/3ppelsCZFOVBUny0HZS6nn"
         }
       ],
-      "duration_ms": 245426,
-      "name": "Derri\u00e8re le bruit",
-      "url": "https://open.spotify.com/track/124cRsjCieRBFKiwr0yPqV"
+      "duration_ms": 184680,
+      "name": "1000 Bornes",
+      "url": "https://open.spotify.com/track/669Wu8pGCMfDJHFVkUwXco"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1387,6 +1387,22 @@
       "duration_ms": 220607,
       "name": "Feu de for\u00eat",
       "url": "https://open.spotify.com/track/7mVYp5DvhrOLm3cGg8mK8M"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Hiboux",
+        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas G\u00e9mus",
+          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
+        }
+      ],
+      "duration_ms": 199693,
+      "name": "Girouette",
+      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1435,22 +1451,6 @@
       "duration_ms": 247513,
       "name": "Au\u200b-\u200bdel\u00e0 de la mar\u00e9e (la m\u00e8re et le p\u00e8re et leur petit)",
       "url": "https://open.spotify.com/track/0rqY0DYt2aRwhoWBd89EVZ"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Hiboux",
-        "url": "https://open.spotify.com/album/4D7WHshT3h2wZngM9x4AzQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas G\u00e9mus",
-          "url": "https://open.spotify.com/artist/26G3zw1ksovIyzq8pYRjXj"
-        }
-      ],
-      "duration_ms": 199693,
-      "name": "Girouette",
-      "url": "https://open.spotify.com/track/7cEjFMHqhnJEbpbnHUQP7E"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
-      },
-      "artists": [
-        {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Bo\u00eete aux lettres",
         "url": "https://open.spotify.com/album/4Ziyy1jo91GImMnuTHtU19"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 179426,
       "name": "Entre deux montagnes",
       "url": "https://open.spotify.com/track/4ZMMRQAoDqftCgABEKwE1A"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Qui a mis le feu",
+        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
+      },
+      "artists": [
+        {
+          "name": "Mat Vezio",
+          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Qui a mis le feu",
+      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
     },
     {
       "added_at": "2022-08-12 04:01:00",

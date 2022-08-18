@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 128543,
+  "num_followers": 128551,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "MzU3Niw2M2I0OGVjMjdkNDdhNDRhZmM4ODhjNjU4NjQwNWVlNzFlOWM2YTgz",
+  "snapshot_id": "MzU3OSxlNjdjMTM5NGEyMGYyYWIwNDM5OTdhNGI4MDU2OGVjY2IxZmY5M2Ex",
   "tracks": [
+    {
+      "added_at": "2022-08-17 16:40:31",
+      "album": {
+        "name": "Lois Eyes",
+        "url": "https://open.spotify.com/album/0tVGx4MmbLFWlNujwyUMGM"
+      },
+      "artists": [
+        {
+          "name": "Manu Zain",
+          "url": "https://open.spotify.com/artist/6MIXwGBFXAuLoaZ6s0fCT7"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Lois Eyes",
+      "url": "https://open.spotify.com/track/5NLjv0kPAAk2Jjw6i3U4Ns"
+    },
     {
       "added_at": "2022-08-16 16:40:07",
       "album": {

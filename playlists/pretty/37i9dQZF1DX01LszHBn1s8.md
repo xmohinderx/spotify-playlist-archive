@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> super freaky girl friday 😈
+> super freaky girl wednesday 😈
 
-[Spotify](https://open.spotify.com/user/spotify) - 94,306 likes - 534 songs - 1 day 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 94,326 likes - 534 songs - 1 day 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -543,4 +543,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 | 533 | [Cold \(feat\. Future\)](https://open.spotify.com/track/7gwLQ4tZ5UdZ7qNcDyJ8wr) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/3ThQ5dvf9wlqB0C7evh5nH) | 3:54 |
 | 534 | [Slumber Party \(feat\. Princess Nokia\)](https://open.spotify.com/track/11ZulcYY4lowvcQm4oe3VJ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 2:58 |
 
-Snapshot ID: `MTY2MDY1NjQ3MywwMDAwMDAwMGFhMGUwZjA3OTE1MWY4NmZjYTlkNGE1Y2E1N2U5Mzg2`
+Snapshot ID: `MTY2MDcyNDcyMiwwMDAwMDAwMGM4ODFmNmUwOTk2NDJiNTlmMmUwYWI3NjFlMjc5NGMx`

@@ -1,12 +1,12 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 133586,
+  "num_followers": 133640,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMzA1OSwwMDAwMDAwMDA1ODU4OGQzYjE5NTBiYzlhMDc0OWI5YjNjZjkwODJj",
+  "snapshot_id": "MTY2MDUzMzA1OSwwMDAwMDAwMGM2NzA4Nzk5N2Q2NDIwNDJkOTZiZDUyYTZkMjFkNDEx",
   "tracks": [
     {
       "added_at": "2022-08-15 03:10:59",
@@ -799,22 +799,6 @@
     {
       "added_at": "2022-08-15 03:10:59",
       "album": {
-        "name": "Everything I Didn\u2019t Say",
-        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
-      },
-      "artists": [
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "Ugly",
-      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
-    },
-    {
-      "added_at": "2022-08-15 03:10:59",
-      "album": {
         "name": "Breakup Season (feat. Samm Henshaw)",
         "url": "https://open.spotify.com/album/2F1NcprbTMK4hoSHwfi1Dz"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 192750,
       "name": "Breakup Season (feat. Samm Henshaw)",
       "url": "https://open.spotify.com/track/5b0AY8ZEWEzePJolcjsBWA"
+    },
+    {
+      "added_at": "2022-08-15 03:10:59",
+      "album": {
+        "name": "Everything I Didn\u2019t Say",
+        "url": "https://open.spotify.com/album/7sb53RUF8x70PzjPmDxF0Q"
+      },
+      "artists": [
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "Ugly",
+      "url": "https://open.spotify.com/track/2kHQScyzjnhhuBPQQ1AVfo"
     },
     {
       "added_at": "2022-08-15 03:10:59",
@@ -923,6 +923,22 @@
     {
       "added_at": "2022-08-15 03:10:59",
       "album": {
+        "name": "Chilombo (Deluxe)",
+        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Summer 2020",
+      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
+    },
+    {
+      "added_at": "2022-08-15 03:10:59",
+      "album": {
         "name": "Hope For Sale",
         "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 226733,
       "name": "Awake",
       "url": "https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L"
-    },
-    {
-      "added_at": "2022-08-15 03:10:59",
-      "album": {
-        "name": "Chilombo (Deluxe)",
-        "url": "https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v"
-      },
-      "artists": [
-        {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Summer 2020",
-      "url": "https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be"
     },
     {
       "added_at": "2022-08-15 03:10:59",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-15 03:10:59",
       "album": {
-        "name": "The Juice: Vol. I",
-        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
-      },
-      "artists": [
-        {
-          "name": "Emotional Oranges",
-          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "Built That Way",
-      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
-    },
-    {
-      "added_at": "2022-08-15 03:10:59",
-      "album": {
         "name": "IT'S NOT THAT SERIOUS",
         "url": "https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 140950,
       "name": "IT'S NOT THAT SERIOUS",
       "url": "https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX"
+    },
+    {
+      "added_at": "2022-08-15 03:10:59",
+      "album": {
+        "name": "The Juice: Vol. I",
+        "url": "https://open.spotify.com/album/3No5rGRQefAlVJgWusDEwQ"
+      },
+      "artists": [
+        {
+          "name": "Emotional Oranges",
+          "url": "https://open.spotify.com/artist/12trz2INGglrKMzLmg0y2C"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "Built That Way",
+      "url": "https://open.spotify.com/track/1KFRlrRRuvyrIwgjcSr1Qr"
     },
     {
       "added_at": "2022-08-15 03:10:59",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-08-15 03:10:59",
       "album": {
+        "name": "This Could Be (Chill Mix)",
+        "url": "https://open.spotify.com/album/1EePdJthRN92skeHT0hzev"
+      },
+      "artists": [
+        {
+          "name": "Duke & Jones",
+          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "This Could Be - Chill Mix",
+      "url": "https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y"
+    },
+    {
+      "added_at": "2022-08-15 03:10:59",
+      "album": {
         "name": "Two Sides",
         "url": "https://open.spotify.com/album/03ir5ImoetQFACvTPTn4sK"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 226195,
       "name": "Two Sides",
       "url": "https://open.spotify.com/track/0HN3K1Y4sRJIHZmI2s5pU1"
-    },
-    {
-      "added_at": "2022-08-15 03:10:59",
-      "album": {
-        "name": "This Could Be (Chill Mix)",
-        "url": "https://open.spotify.com/album/1EePdJthRN92skeHT0hzev"
-      },
-      "artists": [
-        {
-          "name": "Duke & Jones",
-          "url": "https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "This Could Be - Chill Mix",
-      "url": "https://open.spotify.com/track/1fMh032FtBwJDk1iGurH9Y"
     },
     {
       "added_at": "2022-08-15 03:10:59",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2022-08-15 03:10:59",
       "album": {
+        "name": "heights",
+        "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
+      },
+      "artists": [
+        {
+          "name": "53 Thieves",
+          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
+        }
+      ],
+      "duration_ms": 231910,
+      "name": "heights",
+      "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
+    },
+    {
+      "added_at": "2022-08-15 03:10:59",
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
-    },
-    {
-      "added_at": "2022-08-15 03:10:59",
-      "album": {
-        "name": "heights",
-        "url": "https://open.spotify.com/album/3gcAlGXMz9NQnIu2Hl4g2j"
-      },
-      "artists": [
-        {
-          "name": "53 Thieves",
-          "url": "https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K"
-        }
-      ],
-      "duration_ms": 231910,
-      "name": "heights",
-      "url": "https://open.spotify.com/track/5BUG8bEiTNV44s2SCFML0V"
     },
     {
       "added_at": "2022-08-15 03:10:59",

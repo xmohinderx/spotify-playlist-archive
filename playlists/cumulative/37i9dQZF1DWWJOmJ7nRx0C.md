@@ -4,7 +4,7 @@
 
 > The hardest songs, loud\. Very loud\. Cover: Hollywood Undead
 
-430 songs - 1 day 2 hr 7 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
+431 songs - 1 day 2 hr 12 min - [published](https://open.spotify.com/playlist/2UlZpIm54Pz4o9EirPo1mN)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -416,7 +416,8 @@
 | [We Are No Saints](https://open.spotify.com/track/3BPdKJxzfJX63N7LYLDpI6) | [Blind Channel](https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs) | [We Are No Saints](https://open.spotify.com/album/0LsCf8tIWzbZwfsIOJDkAg) | 3:10 | 2021-11-12 | 2022-01-15 |
 | [Weapon](https://open.spotify.com/track/0CGj0cu1kyQq08Zw5tt1Tt) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Weapon](https://open.spotify.com/album/4R2GKWF7ofLMXBoQhXzE3z) | 3:34 | 2022-04-08 | 2022-08-06 |
 | [Welcome to the Chaos \(feat\. Spencer Charnas of Ice Nine Kills\)](https://open.spotify.com/track/1lk2MrlN6AEdDwWH4WxTPe) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP), [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Welcome to the Chaos](https://open.spotify.com/album/3CabAmIlmEmZ9L2KmsHUUc) | 3:28 | 2022-08-05 |  |
-| [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 |  |
+| [We’ll Be Back](https://open.spotify.com/track/1sI2Duw2PyugyW9EYbmdqO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:29 | 2022-08-12 |  |
+| [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2022-08-18 |
 | [What Would You Do? \[Feat\. Gavin Rossdale\]](https://open.spotify.com/track/61bvjHRHHFB0gNab4kKqCK) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW), [Gavin Rossdale](https://open.spotify.com/artist/6lBam1B1t8wpnH7pJHWnj6) | [What Would You Do?](https://open.spotify.com/album/4w2yJlTLXCQWtzQMo8kWxa) | 4:50 | 2022-07-08 |  |
 | [What's Coming To Me](https://open.spotify.com/track/22M7aCQ5lhKlkQ3Yabj0Va) | [Dorothy](https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up) | [What's Coming To Me](https://open.spotify.com/album/1Y4UGqQjoSr2lSs8ACyHTs) | 3:34 | 2021-07-09 | 2022-02-19 |
 | [What's the Trick?](https://open.spotify.com/track/14FW5L81Px03LnnsXnB2LG) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Fear Of The Dawn](https://open.spotify.com/album/46qeiLBu3KwqFQpJBT7t6B) | 3:34 | 2022-04-22 | 2022-06-25 |

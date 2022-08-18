@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Vamos a dar una vuelta en ruedas al ritmo de la m\u00fasica! ",
-  "num_followers": 13855,
+  "num_followers": 13867,
   "original_name": "Rollerskater",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNjU0OTIzMCwwMDAwMDAwMDFmMjEwNWUyNjY3OTlkNDYwZjk2NWI0MDE1ODI4ZmM5",
+  "snapshot_id": "MTYxNjU0OTIzMCwwMDAwMDAwMGU2YmFhZDA4NWY4OGFiODk4ZjVmMDMyNjM2MDY2NmIx",
   "tracks": [
     {
       "added_at": "2021-03-24 01:27:10",
@@ -363,22 +363,6 @@
     {
       "added_at": "2021-03-24 01:27:10",
       "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 221820,
-      "name": "Break My Heart",
-      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
-    },
-    {
-      "added_at": "2021-03-24 01:27:10",
-      "album": {
         "name": "Isolation",
         "url": "https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 207454,
       "name": "After The Storm (feat. Tyler, The Creator & Bootsy Collins)",
       "url": "https://open.spotify.com/track/1otG6j1WHNvl9WgXLWkHTo"
+    },
+    {
+      "added_at": "2021-03-24 01:27:10",
+      "album": {
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 221820,
+      "name": "Break My Heart",
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
     },
     {
       "added_at": "2021-03-24 01:27:10",

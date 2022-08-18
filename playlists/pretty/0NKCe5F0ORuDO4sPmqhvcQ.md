@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,281 likes - 108 songs - 6 hr 6 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 21,281 likes - 109 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -116,5 +116,6 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 106 | [Beloved](https://open.spotify.com/track/3A0CuG6A2FsdwwLyva84r1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 3:19 |
 | 107 | [love ya](https://open.spotify.com/track/1hTENYTuKFe5x0MRNqF2ET) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [love ya](https://open.spotify.com/album/26jcbTMMY51TUr1UVWyUVv) | 3:07 |
 | 108 | [Long Way Down](https://open.spotify.com/track/2ZPgXDbzIozq6pprS2FWrw) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83) | [Return To Form](https://open.spotify.com/album/6nJAkFOqU6cTHBZR4W9BvX) | 3:36 |
+| 109 | [Change of Pace](https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Change of Pace](https://open.spotify.com/album/2AbwZQbhhWiiW2OgVBmrF9) | 3:56 |
 
-Snapshot ID: `OTkxOCw1ZDZmZTJkOTFlMThkNGM4OGNiMWFlNmQ1NGUzOTBmYzc5NTQ3ZjI1`
+Snapshot ID: `OTkxOSxjNzIxMGE0OWY1MzQ3N2YxNmNkOWQ5YmQ4ZDA5ZGMyM2NmOTk0NDI4`

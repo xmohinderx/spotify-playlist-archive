@@ -1,12 +1,12 @@
 {
   "description": "killer songs from badass artists. Cover: Soccer Mommy",
-  "num_followers": 303196,
+  "num_followers": 303333,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMGFiOTEwYjcxNDRiYjI1MGE5YzU2ZDYzMzY1NzYwMzdi",
+  "snapshot_id": "MTY1MzAxOTIwMCwwMDAwMDAwMDU0OTczOGZiZDE0YzY5ZTMxMTI3OThlYmRhNmVhNWJh",
   "tracks": [
     {
       "added_at": "2022-05-20 04:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Remind Me Tomorrow",
-        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
-      },
-      "artists": [
-        {
-          "name": "Sharon Van Etten",
-          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
-        }
-      ],
-      "duration_ms": 314080,
-      "name": "Jupiter 4",
-      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Moveys",
         "url": "https://open.spotify.com/album/5C66ZV77hQsUlhSIYJYcar"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 245843,
       "name": "Idaho",
       "url": "https://open.spotify.com/track/4FvqAI5GwPspJE3TkMGnEb"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Remind Me Tomorrow",
+        "url": "https://open.spotify.com/album/4bfvR9TMwCm2tzXpboLH3t"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "duration_ms": 314080,
+      "name": "Jupiter 4",
+      "url": "https://open.spotify.com/track/74n118P9h9Sz2AwDSc3f8N"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -887,6 +887,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "Free to Live in Colour",
+        "url": "https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X"
+      },
+      "artists": [
+        {
+          "name": "Pixey",
+          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
+        }
+      ],
+      "duration_ms": 194312,
+      "name": "Free to Live in Colour",
+      "url": "https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Immune",
         "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 222293,
       "name": "Freak Like Me",
       "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
-        "name": "Free to Live in Colour",
-        "url": "https://open.spotify.com/album/4luQOplfg3mJ2MnNy2rT5X"
-      },
-      "artists": [
-        {
-          "name": "Pixey",
-          "url": "https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI"
-        }
-      ],
-      "duration_ms": 194312,
-      "name": "Free to Live in Colour",
-      "url": "https://open.spotify.com/track/4LqnVwGQlJQ7HvW8tEA9vp"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "The Sky Is Bleeding",
-        "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
-      },
-      "artists": [
-        {
-          "name": "Biig Piig",
-          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
-        }
-      ],
-      "duration_ms": 172066,
-      "name": "American Beauty",
-      "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Happy Birthday, Ratboy",
         "url": "https://open.spotify.com/album/0LqZlJQ8AA0L7WAszLSKwn"
       },
@@ -1263,18 +1247,34 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Blue Weekend",
-        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
+        "name": "The Sky Is Bleeding",
+        "url": "https://open.spotify.com/album/1Uo1xB5dmrRWnhuouxDRib"
       },
       "artists": [
         {
-          "name": "Wolf Alice",
-          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
         }
       ],
-      "duration_ms": 261213,
-      "name": "The Last Man On Earth",
-      "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
+      "duration_ms": 172066,
+      "name": "American Beauty",
+      "url": "https://open.spotify.com/track/5sd5iSdc2bRXGirMiBcMDb"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "I Don't Know You Like I Used To",
+        "url": "https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK"
+      },
+      "artists": [
+        {
+          "name": "Mercury.",
+          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+        }
+      ],
+      "duration_ms": 259306,
+      "name": "I Don't Know You Like I Used To",
+      "url": "https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "I Don't Know You Like I Used To",
-        "url": "https://open.spotify.com/album/5e3OhB22RlQvlupARyzRzK"
+        "name": "Blue Weekend",
+        "url": "https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0"
       },
       "artists": [
         {
-          "name": "Mercury.",
-          "url": "https://open.spotify.com/artist/0MaDtBu4Hw0qLH95poDSCk"
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
         }
       ],
-      "duration_ms": 259306,
-      "name": "I Don't Know You Like I Used To",
-      "url": "https://open.spotify.com/track/7w6jP8Me8FrF4aeOrTiNRl"
+      "duration_ms": 261213,
+      "name": "The Last Man On Earth",
+      "url": "https://open.spotify.com/track/2Xv7xN6e5UJxRGwPWN0vYK"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Headful of Sugar",
-        "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
-      },
-      "artists": [
-        {
-          "name": "Sunflower Bean",
-          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
-        }
-      ],
-      "duration_ms": 189634,
-      "name": "Moment In The Sun - Bonus Track",
-      "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "one hand on the steering wheel the other sewing a garden",
         "url": "https://open.spotify.com/album/0ulrUoMnkAdxqX80c0dkfF"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Headful of Sugar",
+        "url": "https://open.spotify.com/album/4TNBepDYtSZtnWuvlUnKmj"
+      },
+      "artists": [
+        {
+          "name": "Sunflower Bean",
+          "url": "https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8"
+        }
+      ],
+      "duration_ms": 189634,
+      "name": "Moment In The Sun - Bonus Track",
+      "url": "https://open.spotify.com/track/0yqGaBZ0r4av8o40knrpjz"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Dandelion",
-        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
-      },
-      "artists": [
-        {
-          "name": "The Greeting Committee",
-          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
-        }
-      ],
-      "duration_ms": 143493,
-      "name": "Make Out",
-      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Somewhere",
         "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 247506,
       "name": "Bad girl",
       "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG"
+      },
+      "artists": [
+        {
+          "name": "The Greeting Committee",
+          "url": "https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm"
+        }
+      ],
+      "duration_ms": 143493,
+      "name": "Make Out",
+      "url": "https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Thirstier",
         "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 261941,
       "name": "Don't Go Puttin Wishes in My Head",
       "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Romantic Images",
-        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
-      },
-      "artists": [
-        {
-          "name": "Molly Burch",
-          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
-        }
-      ],
-      "duration_ms": 171359,
-      "name": "Heart of Gold",
-      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "Let Me Do One More",
         "url": "https://open.spotify.com/album/5MH2ICGjLf6Lm9G72Rfx2f"
       },
@@ -1903,18 +1887,18 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "The Greatest Part",
-        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+        "name": "Romantic Images",
+        "url": "https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT"
       },
       "artists": [
         {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+          "name": "Molly Burch",
+          "url": "https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5"
         }
       ],
-      "duration_ms": 169257,
-      "name": "Hunter",
-      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+      "duration_ms": 171359,
+      "name": "Heart of Gold",
+      "url": "https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0"
     },
     {
       "added_at": "2022-05-20 04:00:00",
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
+        "name": "The Greatest Part",
+        "url": "https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 169257,
+      "name": "Hunter",
+      "url": "https://open.spotify.com/track/466VygGb2Jte8wlEWq0snM"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
         "name": "Until It Stops (Spotify Singles)",
         "url": "https://open.spotify.com/album/6EmA1GZ0KIb5cpXBOrIB5y"
       },
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2022-05-20 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 166821,
-      "name": "Jersey",
-      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
-    },
-    {
-      "added_at": "2022-05-20 04:00:00",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 166453,
       "name": "Nervous",
       "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
+    },
+    {
+      "added_at": "2022-05-20 04:00:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 166821,
+      "name": "Jersey",
+      "url": "https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P"
     },
     {
       "added_at": "2022-05-20 04:00:00",

@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 
 > ur on the list bb 🪐 featuring Pinkpantheress and Sam Gellaitry
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,026 likes - 120 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,169 likes - 120 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 |
 | 2 | [Anymore](https://open.spotify.com/track/0UYbhQk9tUzDeqjcsfDFRF) | [YAZ](https://open.spotify.com/artist/6VvnLfGL8XDQomLEa91WPk) | [Anymore](https://open.spotify.com/album/78Q3dFiGFA9wZwpm9OSocq) | 2:30 |
 | 3 | [on & on](https://open.spotify.com/track/2fmtrXfvbN8xkHwE0zgTTc) | [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN) | [on & on](https://open.spotify.com/album/7w7KTRXTqdtVASfvZpWIfH) | 2:15 |
-| 4 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
-| 5 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 |
-| 6 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 |
-| 7 | [Chains](https://open.spotify.com/track/2SZJ3D6uHMbIBtLfzCMITG) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Chains](https://open.spotify.com/album/6JY4I760vc5YrxFWcUCmt3) | 3:18 |
-| 8 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 |
-| 9 | [58bethe7](https://open.spotify.com/track/4AoY7FQ1IbsFvacBPTMEwg) | [Cocktail Party Effect](https://open.spotify.com/artist/4QJ9l39vFGrG8dtJzOp3Zb) | [SNKRX010](https://open.spotify.com/album/26BKHxppgBzptm8xav2tdy) | 3:53 |
-| 10 | [weird circle](https://open.spotify.com/track/7dq4mEawDhXL1xxIsvd7ZD) | [Loli in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [weird circle](https://open.spotify.com/album/0vUW1BR8OFZ9iv7V9LXigd) | 2:11 |
-| 11 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 |
+| 4 | [54321](https://open.spotify.com/track/6Vn5hk8NQIkzGsdkx5nF4q) | [April](https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d) | [54321](https://open.spotify.com/album/0r6Ygz79VaCJ4BXrtPZH8z) | 2:20 |
+| 5 | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/track/4uK0HBycTNPrY2gBz86aT0) | [COUCOU CHLOE](https://open.spotify.com/artist/5xmw3tD4MbvhA1ay1U0HEC), [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WIZZ \(COBRAH REMIX\)](https://open.spotify.com/album/3OxkywfJhqbLeuNopSEVw9) | 2:40 |
+| 6 | [How’d You Go out Like That](https://open.spotify.com/track/3VlZSJOZpw5WbLbctHD43T) | [Take Van](https://open.spotify.com/artist/3BLx7avD36sNpMNA1nZ7Dj) | [How’d You Go out Like That](https://open.spotify.com/album/4iOAHgJCJYExmVb4ofX6ia) | 2:42 |
+| 7 | [Coochie \(a bedtime story\)](https://open.spotify.com/track/1YlGZLo4J0URBx31Qvd5zg) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Coochie \(a bedtime story\)](https://open.spotify.com/album/2cQKZRfGU3kSnxyNCHZuiZ) | 3:02 |
+| 8 | [Chains](https://open.spotify.com/track/2SZJ3D6uHMbIBtLfzCMITG) | [Elphi](https://open.spotify.com/artist/0yLTeVbHQPauLPHSKDCIrY) | [Chains](https://open.spotify.com/album/6JY4I760vc5YrxFWcUCmt3) | 3:18 |
+| 9 | [No One Dies From Love \(DJ\_Dave Edit\)](https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [No One Dies From Love \(The Remixes\)](https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi) | 3:51 |
+| 10 | [58bethe7](https://open.spotify.com/track/4AoY7FQ1IbsFvacBPTMEwg) | [Cocktail Party Effect](https://open.spotify.com/artist/4QJ9l39vFGrG8dtJzOp3Zb) | [SNKRX010](https://open.spotify.com/album/26BKHxppgBzptm8xav2tdy) | 3:53 |
+| 11 | [weird circle](https://open.spotify.com/track/7dq4mEawDhXL1xxIsvd7ZD) | [Loli in early 20s](https://open.spotify.com/artist/2E701AAAlg7LthbISEZv0N) | [weird circle](https://open.spotify.com/album/0vUW1BR8OFZ9iv7V9LXigd) | 2:11 |
 | 12 | [Tagawa 3000](https://open.spotify.com/track/3ShelGqdJtLNZ1OruxBdgk) | [Golin](https://open.spotify.com/artist/02c7cpyK3byoTQcHtxHWHS), [Buga](https://open.spotify.com/artist/1MhMgLDFqKu6sdioUeq5dI) | [Tagawa 3000](https://open.spotify.com/album/6ydEEoVXVsTBH3DgvsaYiZ) | 2:02 |
 | 13 | [Buss Down](https://open.spotify.com/track/3FPApN9ITPe43zexQ8HwMV) | [Y U QT](https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV) | [Sweet Fantasy](https://open.spotify.com/album/4OYvkBTqKeIpIgBDS3q5CU) | 4:36 |
 | 14 | [Just Remember](https://open.spotify.com/track/0r00GmsuZ6o12uKsYjn8wz) | [Sharda](https://open.spotify.com/artist/4iAs0GwTsi8q6a7ZnzR2Qi) | [Just Remember](https://open.spotify.com/album/0WLCXtpAAkKqt2AIaNpwD3) | 4:08 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1XLSH8Oafp.md) - [plain]
 | 119 | [Luv Like](https://open.spotify.com/track/3cJSNe3eSkegr9dZsZxr6c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Luv Like](https://open.spotify.com/album/3dGdrMdedYlcSaijiU6AV3) | 3:06 |
 | 120 | [snow](https://open.spotify.com/track/4lcRjGl7nZheu16dwc9vi1) | [MIMIDEATH](https://open.spotify.com/artist/55VDe291360aWSrwt1U96m) | [snow](https://open.spotify.com/album/4Uqy5C6jOODfd4ia3vvPYt) | 2:02 |
 
-Snapshot ID: `MTY2MDY2MzE4OSwwMDAwMDAwMDQ0OWNjMGE4OGFmNTQzMmMxNGM2OTgzMmQ2NmVkMTAy`
+Snapshot ID: `MTY2MDc0ODQ5NywwMDAwMDAwMGY2OTdhZWJiMzZjYTU3MGRmMDMzMDBhZTY1MjZkZThh`

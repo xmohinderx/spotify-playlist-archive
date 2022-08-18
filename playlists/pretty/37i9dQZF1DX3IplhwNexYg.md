@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 
 > Raw and unfiltered\. Cover: Pillow Queens
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,713 likes - 65 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,726 likes - 65 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 3 | [R Entertainment](https://open.spotify.com/track/2FL3nYZ8T0HmluyJx83FEL) | [Sports Team](https://open.spotify.com/artist/04JIxSs2P0iteVWtaskfeh) | [R Entertainment](https://open.spotify.com/album/32RAzHZGl1TmEx6C24Cd5X) | 3:08 |
 | 4 | [Bad Love](https://open.spotify.com/track/0atclF6Pp5MffEEi7CSFlE) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Blue Skies](https://open.spotify.com/album/1vzqa9wcGcflSTyVbQPRFE) | 2:30 |
 | 5 | [I Love You](https://open.spotify.com/track/4mKn6gwhP3HYuo11aNqI2y) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/1R7vPDuTFeqCGOLj1JwfRH) | 5:05 |
-| 6 | [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 |
+| 6 | [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 |
 | 7 | [Stranger Days](https://open.spotify.com/track/2YrFwJC9jDaI0BoxtKRI9K) | [Skegss](https://open.spotify.com/artist/3SGLeWc7J5Ve0CinAOrb3a) | [Stranger Days](https://open.spotify.com/album/1TaRqKa2nsaqSYMJgAwuvT) | 4:11 |
 | 8 | [Little Fix](https://open.spotify.com/track/10kO3DBfY2UJSeYOuxDZPd) | [Sprints](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Little Fix](https://open.spotify.com/album/2Hw3eI5w9JgGXqgnAS0rAi) | 3:16 |
 | 9 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3IplhwNexYg.md) - [plain]
 | 64 | [Spilling Yr Guts](https://open.spotify.com/track/6wVjWIoAuJUqizw5MdgzDf) | [Apollo Ghosts](https://open.spotify.com/artist/1kELNMadpWBN7W2moY0h9O) | [Spilling Yr Guts](https://open.spotify.com/album/54jluCmKYHXQp2cii3NOzN) | 2:52 |
 | 65 | [It's Permanent](https://open.spotify.com/track/7xb85Q1Wy969N6nkcJRWqX) | [Ultra Q](https://open.spotify.com/artist/57JelvPHs2P6BROjeHhHZ3) | [It's Permanent](https://open.spotify.com/album/1SUPtafQuEviIXihO8mQmt) | 3:32 |
 
-Snapshot ID: `MTY0ODgyMjk5NywwMDAwMDAwMGZiNGZjMGJkNjkyOTZmYWMyMWVmNGFmNTgwYjRjNDE1`
+Snapshot ID: `MTY0ODgyMjk5NywwMDAwMDAwMDBjYTRlOTA2NTQxNjQyYzJhMmFlNDNkYTY1YzFkMzhm`

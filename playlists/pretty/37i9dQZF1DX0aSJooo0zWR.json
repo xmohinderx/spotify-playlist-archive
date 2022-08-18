@@ -1,12 +1,12 @@
 {
   "description": "Electrified jazz, complex beats and virtuoso playing. Cover: Chick Corea",
-  "num_followers": 158439,
+  "num_followers": 158497,
   "original_name": "Fusion Fest",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDgxNjBmNzU2MjFiYTlkOWFlMGYyZGUzZDRlYzczYTAw",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDFlMjJiZmJkYzZlZmVkMWEwNDg4MTFmYjIzNWQwYmZl",
   "tracks": [
     {
       "added_at": "2022-06-10 04:02:00",
@@ -171,22 +171,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Unorthodox Behaviour",
-        "url": "https://open.spotify.com/album/269fg0y6CZLjYoWgTiIad0"
-      },
-      "artists": [
-        {
-          "name": "Brand X",
-          "url": "https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy"
-        }
-      ],
-      "duration_ms": 383160,
-      "name": "Nuclear Burn",
-      "url": "https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Spectrum",
         "url": "https://open.spotify.com/album/5JmNk3ayVaujKO5hFvU5YA"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 589786,
       "name": "Stratus",
       "url": "https://open.spotify.com/track/1BYVhbLZ6PAsv36Gc8iPuK"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Unorthodox Behaviour",
+        "url": "https://open.spotify.com/album/269fg0y6CZLjYoWgTiIad0"
+      },
+      "artists": [
+        {
+          "name": "Brand X",
+          "url": "https://open.spotify.com/artist/4DngluvBNHm2Q0rLW1yEqy"
+        }
+      ],
+      "duration_ms": 383160,
+      "name": "Nuclear Burn",
+      "url": "https://open.spotify.com/track/0aVwclUm2FsksllwpJRlaX"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -289,6 +289,22 @@
       "url": "https://open.spotify.com/track/4IFQvZZTHrbF5NenzeMsWS"
     },
     {
+      "added_at": "2021-06-25 04:02:00",
+      "album": {
+        "name": "Septet",
+        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
+      },
+      "artists": [
+        {
+          "name": "John Carroll Kirby",
+          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
+        }
+      ],
+      "duration_ms": 251643,
+      "name": "P64 By My Side",
+      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
+    },
+    {
       "added_at": "2021-08-27 04:01:00",
       "album": {
         "name": "Ring of Saturn",
@@ -307,22 +323,6 @@
       "duration_ms": 240550,
       "name": "Ring of Saturn",
       "url": "https://open.spotify.com/track/36rhJ2LhrKRdwjBzfZ5lLy"
-    },
-    {
-      "added_at": "2021-06-25 04:02:00",
-      "album": {
-        "name": "Septet",
-        "url": "https://open.spotify.com/album/2y6wLCRuqOHjcLLt7THlTQ"
-      },
-      "artists": [
-        {
-          "name": "John Carroll Kirby",
-          "url": "https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld"
-        }
-      ],
-      "duration_ms": 251643,
-      "name": "P64 By My Side",
-      "url": "https://open.spotify.com/track/5nCg3pngZg0yKhsr2u6fPA"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -359,22 +359,6 @@
     {
       "added_at": "2021-02-12 00:49:35",
       "album": {
-        "name": "Tore Down House",
-        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
-      },
-      "artists": [
-        {
-          "name": "Scott Henderson",
-          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
-        }
-      ],
-      "duration_ms": 352466,
-      "name": "Dolemite",
-      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
         "name": "Black Market",
         "url": "https://open.spotify.com/album/4COZn5okauxP5luXkwEPLd"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 390640,
       "name": "Black Market",
       "url": "https://open.spotify.com/track/5dJS5oBmC6wvJ2nNzl5hNo"
+    },
+    {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Tore Down House",
+        "url": "https://open.spotify.com/album/57ryIYKFaMMU1js1sT1yOb"
+      },
+      "artists": [
+        {
+          "name": "Scott Henderson",
+          "url": "https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn"
+        }
+      ],
+      "duration_ms": 352466,
+      "name": "Dolemite",
+      "url": "https://open.spotify.com/track/2IelzQCLKetKXGmnXxP3S1"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -721,6 +721,30 @@
       "url": "https://open.spotify.com/track/1QJuEcbNibz1gw7YL96xwn"
     },
     {
+      "added_at": "2021-10-29 04:02:00",
+      "album": {
+        "name": "Blue Macaw",
+        "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
+      },
+      "artists": [
+        {
+          "name": "Slowya.roll",
+          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
+        },
+        {
+          "name": "Anatole Muster",
+          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
+        },
+        {
+          "name": "Hadrien Feraud",
+          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "Blue Macaw",
+      "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "The New Heritage",
@@ -747,30 +771,6 @@
       "duration_ms": 145643,
       "name": "The New Heritage",
       "url": "https://open.spotify.com/track/58Hjh0cpp5V5cFTcQ15Wcr"
-    },
-    {
-      "added_at": "2021-10-29 04:02:00",
-      "album": {
-        "name": "Blue Macaw",
-        "url": "https://open.spotify.com/album/3KLP0wQK8crexU3vRAeXLU"
-      },
-      "artists": [
-        {
-          "name": "Slowya.roll",
-          "url": "https://open.spotify.com/artist/3VlbOrMVyRIrtVE71jLu6N"
-        },
-        {
-          "name": "Anatole Muster",
-          "url": "https://open.spotify.com/artist/3wfxadqnYdgo7M31acbDVK"
-        },
-        {
-          "name": "Hadrien Feraud",
-          "url": "https://open.spotify.com/artist/3pOfWINUxMN6ntbayQt85j"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Blue Macaw",
-      "url": "https://open.spotify.com/track/4lauttF1t783X0RKNuzEWo"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -821,6 +821,22 @@
       "url": "https://open.spotify.com/track/3OtqffoS8ktgeZsKp7Bt5h"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Visions of the Emerald Beyond",
+        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
+      },
+      "artists": [
+        {
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
+        }
+      ],
+      "duration_ms": 212560,
+      "name": "Be Happy",
+      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
+    },
+    {
       "added_at": "2022-04-08 04:02:00",
       "album": {
         "name": "Funkdombe - edit",
@@ -839,22 +855,6 @@
       "duration_ms": 230374,
       "name": "Funkdombe - edit",
       "url": "https://open.spotify.com/track/7sOEgNweXVf2N4ae7hzKMU"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Visions of the Emerald Beyond",
-        "url": "https://open.spotify.com/album/7J0OL2Ai73lJZu06coM0Oo"
-      },
-      "artists": [
-        {
-          "name": "Mahavishnu Orchestra",
-          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
-        }
-      ],
-      "duration_ms": 212560,
-      "name": "Be Happy",
-      "url": "https://open.spotify.com/track/2tjkwLNeVDrtpnX13UsycD"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/50pEhOaOetbijbuifNvqgb"
     },
     {
-      "added_at": "2021-07-16 04:01:00",
-      "album": {
-        "name": "Liberation Time",
-        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
-      },
-      "artists": [
-        {
-          "name": "John McLaughlin",
-          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
-        }
-      ],
-      "duration_ms": 321693,
-      "name": "As the Spirit Sings",
-      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
-    },
-    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Sleepwalk",
@@ -1115,6 +1099,22 @@
       "duration_ms": 297359,
       "name": "You Gotta Get It While You Can",
       "url": "https://open.spotify.com/track/0Qpdo9lUFMy538k4lzNURQ"
+    },
+    {
+      "added_at": "2021-07-16 04:01:00",
+      "album": {
+        "name": "Liberation Time",
+        "url": "https://open.spotify.com/album/1e34TNabxm7UvTL1dNNpr9"
+      },
+      "artists": [
+        {
+          "name": "John McLaughlin",
+          "url": "https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY"
+        }
+      ],
+      "duration_ms": 321693,
+      "name": "As the Spirit Sings",
+      "url": "https://open.spotify.com/track/7nFjBk5Ads8vihepgdOHoJ"
     },
     {
       "added_at": "2022-04-29 04:02:00",
@@ -1381,6 +1381,26 @@
       "url": "https://open.spotify.com/track/6pEh6OWcqZNXrY6eHjyksA"
     },
     {
+      "added_at": "2022-08-12 04:02:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ"
+      },
+      "artists": [
+        {
+          "name": "Ragawerk",
+          "url": "https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON"
+        },
+        {
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        }
+      ],
+      "duration_ms": 344506,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
+    },
+    {
       "added_at": "2021-02-12 00:49:35",
       "album": {
         "name": "Quarantena",
@@ -1395,22 +1415,6 @@
       "duration_ms": 318205,
       "name": "Lockdown Boogie",
       "url": "https://open.spotify.com/track/08eipHpqv6jwKnPnG0BO2n"
-    },
-    {
-      "added_at": "2021-02-12 00:49:35",
-      "album": {
-        "name": "Level One",
-        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
-      },
-      "artists": [
-        {
-          "name": "The Eleventh House",
-          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
-        }
-      ],
-      "duration_ms": 182040,
-      "name": "Level One",
-      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
     },
     {
       "added_at": "2021-02-12 00:49:35",
@@ -1441,6 +1445,22 @@
       "url": "https://open.spotify.com/track/3zAhM2peL0ztwt20uzLC8x"
     },
     {
+      "added_at": "2021-02-12 00:49:35",
+      "album": {
+        "name": "Level One",
+        "url": "https://open.spotify.com/album/6AtCu7AMCXsLOW8Isemusi"
+      },
+      "artists": [
+        {
+          "name": "The Eleventh House",
+          "url": "https://open.spotify.com/artist/6gYvM7rw3TCx7cJn4ZDXhi"
+        }
+      ],
+      "duration_ms": 182040,
+      "name": "Level One",
+      "url": "https://open.spotify.com/track/6bTRDQpZ9f7WPhr74KtpvO"
+    },
+    {
       "added_at": "2021-06-11 04:01:00",
       "album": {
         "name": "TB",
@@ -1467,26 +1487,6 @@
       "duration_ms": 292899,
       "name": "TB",
       "url": "https://open.spotify.com/track/3hPVtMhgSYWioG9Q8ikl4N"
-    },
-    {
-      "added_at": "2021-11-12 05:01:00",
-      "album": {
-        "name": "NIKARA presents Black Wall Street",
-        "url": "https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL"
-      },
-      "artists": [
-        {
-          "name": "NIKARA presents Black Wall Street",
-          "url": "https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng"
-        },
-        {
-          "name": "Kenny Barron",
-          "url": "https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3"
-        }
-      ],
-      "duration_ms": 366236,
-      "name": "Heather Grey (BK Gritty)",
-      "url": "https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ"
     }
   ],
   "unique_name": "Fusion Fest",

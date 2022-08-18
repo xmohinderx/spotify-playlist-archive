@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 26824,
+  "num_followers": 26826,
   "original_name": "Ninja Tune - New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzExMixjYzU3ZjIxN2EzNWI0MDAzYzFkMGQ1ZTMwZWFiM2EwNmM4MDZkMDg4",
+  "snapshot_id": "MzExMyw3Mzg2OGE5ODMyNTU4MDE1M2UzNmIyM2NhZmVjNTM3ZjY5NDllNzRm",
   "tracks": [
     {
       "added_at": "2022-08-03 16:11:16",
@@ -51,6 +51,22 @@
       "duration_ms": 364165,
       "name": "You Need Me",
       "url": "https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB"
+    },
+    {
+      "added_at": "2022-08-17 15:50:31",
+      "album": {
+        "name": "Bad Dad",
+        "url": "https://open.spotify.com/album/5NzdoZVEY284kNxlR2HblZ"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "duration_ms": 220441,
+      "name": "Bad Dad",
+      "url": "https://open.spotify.com/track/12tzUisHWGTVrz5g2Hudz9"
     },
     {
       "added_at": "2022-08-10 14:03:31",

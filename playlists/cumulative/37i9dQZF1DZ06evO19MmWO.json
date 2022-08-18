@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 172466,
       "name": "Ah'w Baby",
       "url": "https://open.spotify.com/track/0Bs7dKLx8C7LypcCCGbBpo"
@@ -73,7 +73,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 174813,
       "name": "Blue And Lonesome - Single Version",
       "url": "https://open.spotify.com/track/6VhYbFu0awTAtouzcbl8v2"
@@ -127,7 +127,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 187773,
       "name": "Blues With A Feeling",
       "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
@@ -207,7 +207,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 185133,
       "name": "Come Back Baby",
       "url": "https://open.spotify.com/track/769YWmOdBirkmlu6en7TAh"
@@ -225,7 +225,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 184133,
       "name": "Confessin' The Blues",
       "url": "https://open.spotify.com/track/0AMmcGNhUamE66jP5dum25"
@@ -243,7 +243,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 181506,
       "name": "Crazy For My Baby",
       "url": "https://open.spotify.com/track/65s63lMQn0haXTBhjPqgKf"
@@ -297,7 +297,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 188413,
       "name": "Driftin'",
       "url": "https://open.spotify.com/track/1tfJ6C6KuQhvXdL7cijHJ8"
@@ -351,7 +351,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 136013,
       "name": "Hate To See You Go",
       "url": "https://open.spotify.com/track/5jthNmPnbVPiEcO8JGgRsZ"
@@ -369,7 +369,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Hate To See You Go - Extended",
       "url": "https://open.spotify.com/track/3stgNDeoJuRr3HB4GVHQF4"
@@ -533,7 +533,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-14",
+      "date_removed": null,
       "duration_ms": 160186,
       "name": "Joliet Blues",
       "url": "https://open.spotify.com/track/28AUjQQLabQ80nRG37TnOF"
@@ -649,7 +649,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 307826,
       "name": "Long Distance Call",
       "url": "https://open.spotify.com/track/0HrQoyIK6ia0XjZviwW0Fv"
@@ -685,7 +685,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 174522,
       "name": "Me and My Chauffeur",
       "url": "https://open.spotify.com/track/1REOluXV2Mz0dIPm2LhYw9"
@@ -739,7 +739,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 158440,
       "name": "Mellow Down Easy",
       "url": "https://open.spotify.com/track/2ZEzJC5b9H6BrDfavP3Sr9"
@@ -783,7 +783,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 162040,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-08",
+      "date_removed": null,
       "duration_ms": 171640,
       "name": "Off The Wall",
       "url": "https://open.spotify.com/track/33zZbABpbAWIHmLKq09DBf"
@@ -880,6 +880,24 @@
     },
     {
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192493,
+      "name": "Quarter To Twelve",
+      "url": "https://open.spotify.com/track/4LXVw2WryoaU26qAj5Mqc2"
+    },
+    {
+      "album": {
         "name": "Little Walter",
         "url": "https://open.spotify.com/album/4A3npjd6hsbOuRZPgO6oKp"
       },
@@ -891,7 +909,7 @@
       ],
       "date_added": "2022-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 191773,
       "name": "Rattlesnake",
       "url": "https://open.spotify.com/track/2m4yIr7L9DAgO22xaYnPDb"
@@ -945,7 +963,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 173013,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/3jQUu2mIntB5hUQizHhOUd"
@@ -999,7 +1017,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 168400,
       "name": "Tell Me Mama",
       "url": "https://open.spotify.com/track/4ZWk2MpXBIQv0hd5KO8VwE"
@@ -1035,7 +1053,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 192533,
       "name": "That's It",
       "url": "https://open.spotify.com/track/7ADwNseUUqMpk1q0xBJ2az"
@@ -1089,7 +1107,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 173693,
       "name": "Tonight With A Fool",
       "url": "https://open.spotify.com/track/5E9jeFIBqogmSdYaUx6Anp"
@@ -1173,7 +1191,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 138360,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/5EyuudNHIu2xPnTLn3tvq8"

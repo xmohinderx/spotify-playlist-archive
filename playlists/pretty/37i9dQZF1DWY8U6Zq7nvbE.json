@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs right now.",
-  "num_followers": 1117868,
+  "num_followers": 1117919,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMDUxOWFhMmE1ZmRhOTgzODg0ZTIwYjc0MWY4ZjJmM2Jk",
+  "snapshot_id": "MTYxNTUwMzcyMCwwMDAwMDAwMGVkMTQ4N2ZlNjlkNDZmNTAyYjEzYjM5OTYwZTBlYmZl",
   "tracks": [
     {
       "added_at": "2021-03-11 23:02:00",
@@ -335,26 +335,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Body Back (feat. Maia Wright) [Acoustic]",
-        "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
-      },
-      "artists": [
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        },
-        {
-          "name": "Maia Wright",
-          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
-        }
-      ],
-      "duration_ms": 196363,
-      "name": "Body Back (feat. Maia Wright) - Acoustic",
-      "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Lonely (with benny blanco) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/7HWrpFGNHEaylb0DK0xrkH"
       },
@@ -371,6 +351,26 @@
       "duration_ms": 155188,
       "name": "Lonely (with benny blanco) - Acoustic",
       "url": "https://open.spotify.com/track/4fKiuIavbsoTRZ6R7xuAyT"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Body Back (feat. Maia Wright) [Acoustic]",
+        "url": "https://open.spotify.com/album/0qVzs84aveFRnx0lRxkSRc"
+      },
+      "artists": [
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        },
+        {
+          "name": "Maia Wright",
+          "url": "https://open.spotify.com/artist/5qQFXHDOeYjiZVrCUO56Pk"
+        }
+      ],
+      "duration_ms": 196363,
+      "name": "Body Back (feat. Maia Wright) - Acoustic",
+      "url": "https://open.spotify.com/track/72QN4En2X8QFxqJV6pvxzR"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -523,22 +523,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Diamonds (Acoustic)",
-        "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 194541,
-      "name": "Diamonds - Acoustic",
-      "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Haloes (Acoustic)",
         "url": "https://open.spotify.com/album/0zfZHVd16gHfXWnlBXrswq"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 182502,
       "name": "Haloes - Acoustic",
       "url": "https://open.spotify.com/track/10OPvmzW6Hq3E8L7cHDJ5u"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Diamonds (Acoustic)",
+        "url": "https://open.spotify.com/album/6xMjjKuAngFJw7oh0lsfG8"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 194541,
+      "name": "Diamonds - Acoustic",
+      "url": "https://open.spotify.com/track/4y8OZW2dyWRobsi2w0C64W"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Bruises EP",
-        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "Bruises - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "Always On My Mind",
         "url": "https://open.spotify.com/album/6fEji3YIRWFLPtBM8UCULk"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Bruises EP",
+        "url": "https://open.spotify.com/album/3bAq5agU2IUDfDuO4w50aR"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 226453,
+      "name": "Bruises - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/77IwQu0ItQ9ph6F9gDhMLk"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -691,30 +691,6 @@
       "duration_ms": 216830,
       "name": "Black Car (feat. ALMA) - Acoustic",
       "url": "https://open.spotify.com/track/7dKtLzhDKZ2aKDqoyZYdEw"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
-        "name": "We Used To",
-        "url": "https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1"
-      },
-      "artists": [
-        {
-          "name": "Heather Sommer",
-          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
-        },
-        {
-          "name": "Kunis",
-          "url": "https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX"
-        },
-        {
-          "name": "Richie Nuzz",
-          "url": "https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2"
-        }
-      ],
-      "duration_ms": 158313,
-      "name": "We Used To",
-      "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -763,6 +739,30 @@
       "duration_ms": 253686,
       "name": "I Still Haven't Found Found What I'm Looking For",
       "url": "https://open.spotify.com/track/1gnOyb8vuF9bXz5eyjoBxh"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "We Used To",
+        "url": "https://open.spotify.com/album/6dX82RtIYbiZBXHJmhlYM1"
+      },
+      "artists": [
+        {
+          "name": "Heather Sommer",
+          "url": "https://open.spotify.com/artist/0EHYuPn9Xng2lZP2cfz4cV"
+        },
+        {
+          "name": "Kunis",
+          "url": "https://open.spotify.com/artist/6S3DzPANfTWOacHiKfOsEX"
+        },
+        {
+          "name": "Richie Nuzz",
+          "url": "https://open.spotify.com/artist/5oRdpu7dD17viMa3uhXMk2"
+        }
+      ],
+      "duration_ms": 158313,
+      "name": "We Used To",
+      "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
     },
     {
       "added_at": "2021-03-11 23:02:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2021-03-11 23:02:00",
       "album": {
-        "name": "Strangers EP Unplugged",
-        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 242581,
-      "name": "Girl I Wish I Didn't Know - Acoustic",
-      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
-    },
-    {
-      "added_at": "2021-03-11 23:02:00",
-      "album": {
         "name": "LULU, Vol. 1",
         "url": "https://open.spotify.com/album/4WNPWn19iZOFvDwVbjEcZG"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 225316,
       "name": "All That I Need",
       "url": "https://open.spotify.com/track/2htuDl6TWC2cxia8ZTdBSU"
+    },
+    {
+      "added_at": "2021-03-11 23:02:00",
+      "album": {
+        "name": "Strangers EP Unplugged",
+        "url": "https://open.spotify.com/album/139IHc8keqLycMck1EvMTz"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 242581,
+      "name": "Girl I Wish I Didn't Know - Acoustic",
+      "url": "https://open.spotify.com/track/2Zmt6TqxG2UGDxg4SjNVkA"
     },
     {
       "added_at": "2021-03-11 23:02:00",

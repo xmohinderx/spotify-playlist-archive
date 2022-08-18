@@ -136,6 +136,24 @@
     },
     {
       "album": {
+        "name": "Bad Dad",
+        "url": "https://open.spotify.com/album/5NzdoZVEY284kNxlR2HblZ"
+      },
+      "artists": [
+        {
+          "name": "PVA",
+          "url": "https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220441,
+      "name": "Bad Dad",
+      "url": "https://open.spotify.com/track/12tzUisHWGTVrz5g2Hudz9"
+    },
+    {
+      "album": {
         "name": "Ants From Up There (Deluxe)",
         "url": "https://open.spotify.com/album/4ZGAjDHKwwcMZSkDALzlSO"
       },

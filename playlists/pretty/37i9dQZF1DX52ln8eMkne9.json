@@ -1,12 +1,12 @@
 {
   "description": "Soft and cozy vocal and instrumental jazz. Cover: Melody Gardot",
-  "num_followers": 69169,
+  "num_followers": 69297,
   "original_name": "Cozy Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1MDU1MSwwMDAwMDAwMDkwYWQyYjU5MDFiZmZjYzhiNDQ3MmEwODFhNTlkMWNj",
+  "snapshot_id": "MTY2MDY1MDU1MSwwMDAwMDAwMGFjMWQzMzI5ZDViMTc1M2RlZTFjNDczY2Y2MmFhMzM4",
   "tracks": [
     {
       "added_at": "2022-08-16 11:49:11",
@@ -59,22 +59,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
-      },
-      "artists": [
-        {
-          "name": "Bill Evans Trio",
-          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
-        }
-      ],
-      "duration_ms": 297320,
-      "name": "My Foolish Heart",
-      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Chet Baker Sings",
         "url": "https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 215466,
       "name": "It's Always You - Vocal Version",
       "url": "https://open.spotify.com/track/06UkYE0SZ3Y8zGRFOuWGAe"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Waltz For Debby [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2"
+      },
+      "artists": [
+        {
+          "name": "Bill Evans Trio",
+          "url": "https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS"
+        }
+      ],
+      "duration_ms": 297320,
+      "name": "My Foolish Heart",
+      "url": "https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "My Kinda Swing",
-        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
-      },
-      "artists": [
-        {
-          "name": "Ernestine Anderson",
-          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/3y2T4X0ECN8LWG72gKIjFL"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
         "url": "https://open.spotify.com/album/2ftcjZRb2ne1GyJZnBNCQZ"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 221000,
       "name": "If It Was (feat. J\u00f3el P\u00e1lsson)",
       "url": "https://open.spotify.com/track/3jRhwpzXmmYr0lyHn4aZa3"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "My Kinda Swing",
+        "url": "https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa"
+      },
+      "artists": [
+        {
+          "name": "Ernestine Anderson",
+          "url": "https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/3y2T4X0ECN8LWG72gKIjFL"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Return To You",
-        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
-      },
-      "artists": [
-        {
-          "name": "Sara Gazarek",
-          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
-        }
-      ],
-      "duration_ms": 312786,
-      "name": "And So It Goes",
-      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Samara Joy",
         "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 233613,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Return To You",
+        "url": "https://open.spotify.com/album/5muVIXk6kRkRbGTCRWz1uj"
+      },
+      "artists": [
+        {
+          "name": "Sara Gazarek",
+          "url": "https://open.spotify.com/artist/7JAxSqDybAiZCDoqJ1R1fc"
+        }
+      ],
+      "duration_ms": 312786,
+      "name": "And So It Goes",
+      "url": "https://open.spotify.com/track/703WlQONsXodIABGbGvF6M"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1267,6 +1267,26 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
+        "name": "Because I Love You",
+        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
+      },
+      "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
+        {
+          "name": "Romain Collin",
+          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+        }
+      ],
+      "duration_ms": 250936,
+      "name": "Because I Love You",
+      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
         "name": "12th Avenue",
         "url": "https://open.spotify.com/album/5fxTcupBle4mwU8NUUm6Zd"
       },
@@ -1279,26 +1299,6 @@
       "duration_ms": 277065,
       "name": "12th Avenue",
       "url": "https://open.spotify.com/track/2x5Rw8dR4Vi0tHSHk3ApNc"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
-        "name": "The Essential Rosemary Clooney",
-        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
-      },
-      "artists": [
-        {
-          "name": "Rosemary Clooney",
-          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Blame It On My Youth (with Paul Weston & His Orchestra)",
-      "url": "https://open.spotify.com/track/3M6oAV6Mc88W9mQsVYyEIF"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1319,22 +1319,22 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Because I Love You",
-        "url": "https://open.spotify.com/album/35qbEfm5IdIPTzJxS51fT5"
+        "name": "The Essential Rosemary Clooney",
+        "url": "https://open.spotify.com/album/6IIfhQA1oHBvHGJQZnbXfP"
       },
       "artists": [
         {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+          "name": "Rosemary Clooney",
+          "url": "https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK"
         },
         {
-          "name": "Romain Collin",
-          "url": "https://open.spotify.com/artist/3TLGhZ93eWc4caAzMiMWJV"
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
         }
       ],
-      "duration_ms": 250936,
-      "name": "Because I Love You",
-      "url": "https://open.spotify.com/track/4nf5wpXpZ1WVF0SCdl3tLb"
+      "duration_ms": 219760,
+      "name": "Blame It On My Youth (with Paul Weston & His Orchestra)",
+      "url": "https://open.spotify.com/track/3M6oAV6Mc88W9mQsVYyEIF"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "On My Way to You",
-        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
-      },
-      "artists": [
-        {
-          "name": "Rigmor Gustafsson",
-          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
-        }
-      ],
-      "duration_ms": 357013,
-      "name": "What Are You Doing The Rest Of Your Life",
-      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Songs From Other Places (Special Edition)",
         "url": "https://open.spotify.com/album/4HZ7gRidkAp1iL8qDgtJy1"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 252213,
       "name": "Bonita - Special Edition",
       "url": "https://open.spotify.com/track/2tfYHSW4tSX38ng3GLiv0H"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "On My Way to You",
+        "url": "https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX"
+      },
+      "artists": [
+        {
+          "name": "Rigmor Gustafsson",
+          "url": "https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU"
+        }
+      ],
+      "duration_ms": 357013,
+      "name": "What Are You Doing The Rest Of Your Life",
+      "url": "https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1675,18 +1675,18 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Same Soul",
-        "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
+        "name": "Amorozsofia -Abstract Jo\u00e3o-",
+        "url": "https://open.spotify.com/album/5Mz5Z0GBfDnDnh3fCQITLG"
       },
       "artists": [
         {
-          "name": "Karen Rosenberg",
-          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
+          "name": "Goro Ito Ensemble",
+          "url": "https://open.spotify.com/artist/6f7iXhB7uBGjVP8Rn79QGq"
         }
       ],
-      "duration_ms": 380380,
-      "name": "Behind Me",
-      "url": "https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq"
+      "duration_ms": 280493,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/5BIVTo728wEfYS3xf29eYl"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Amorozsofia -Abstract Jo\u00e3o-",
-        "url": "https://open.spotify.com/album/5Mz5Z0GBfDnDnh3fCQITLG"
+        "name": "Same Soul",
+        "url": "https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng"
       },
       "artists": [
         {
-          "name": "Goro Ito Ensemble",
-          "url": "https://open.spotify.com/artist/6f7iXhB7uBGjVP8Rn79QGq"
+          "name": "Karen Rosenberg",
+          "url": "https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77"
         }
       ],
-      "duration_ms": 280493,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/5BIVTo728wEfYS3xf29eYl"
+      "duration_ms": 380380,
+      "name": "Behind Me",
+      "url": "https://open.spotify.com/track/6aIVqjNgXQuRAVNh3altlq"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "The Art of Jazz with Miriam Netti",
-        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
-      },
-      "artists": [
-        {
-          "name": "Miriam Netti",
-          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
-        }
-      ],
-      "duration_ms": 310275,
-      "name": "May I Come In",
-      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Close to You (with Jacky Terrasson Trio)",
         "url": "https://open.spotify.com/album/55F0v4gDfpFdyLqhvFQcvY"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 243640,
       "name": "Close to You",
       "url": "https://open.spotify.com/track/5XSz5Jeo2aaNMEMIJnzSnC"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "The Art of Jazz with Miriam Netti",
+        "url": "https://open.spotify.com/album/4lfb694MUymWtIMowS1SO2"
+      },
+      "artists": [
+        {
+          "name": "Miriam Netti",
+          "url": "https://open.spotify.com/artist/4ADL2QLAHszBP0oYINSMaP"
+        }
+      ],
+      "duration_ms": 310275,
+      "name": "May I Come In",
+      "url": "https://open.spotify.com/track/0YhFeyMLMbQ09mMFa8Konr"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1835,34 +1835,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Birdsong",
-        "url": "https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q"
-      },
-      "artists": [
-        {
-          "name": "Champian Fulton",
-          "url": "https://open.spotify.com/artist/5urGxtsVyaytt3raSxNumC"
-        },
-        {
-          "name": "Fukushi Tainaka",
-          "url": "https://open.spotify.com/artist/4kecaU5QMmXvaPqkyu016c"
-        },
-        {
-          "name": "Hide Tanaka",
-          "url": "https://open.spotify.com/artist/3TPnfYtGbR7EEEQySaPOpU"
-        },
-        {
-          "name": "Scott Hamilton",
-          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
-        }
-      ],
-      "duration_ms": 433826,
-      "name": "Just Friends",
-      "url": "https://open.spotify.com/track/1rJLy5c4fRgRe0JPemxQx6"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Roots",
         "url": "https://open.spotify.com/album/7ACxyKjhzgOkPDU95nIOdP"
       },
@@ -1895,6 +1867,34 @@
       "duration_ms": 364506,
       "name": "Always and Forever",
       "url": "https://open.spotify.com/track/5BEpDnyCvBkKhizH1xrtzX"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Birdsong",
+        "url": "https://open.spotify.com/album/7oVJbVW9q9pPmZehgFwz4Q"
+      },
+      "artists": [
+        {
+          "name": "Champian Fulton",
+          "url": "https://open.spotify.com/artist/5urGxtsVyaytt3raSxNumC"
+        },
+        {
+          "name": "Fukushi Tainaka",
+          "url": "https://open.spotify.com/artist/4kecaU5QMmXvaPqkyu016c"
+        },
+        {
+          "name": "Hide Tanaka",
+          "url": "https://open.spotify.com/artist/3TPnfYtGbR7EEEQySaPOpU"
+        },
+        {
+          "name": "Scott Hamilton",
+          "url": "https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr"
+        }
+      ],
+      "duration_ms": 433826,
+      "name": "Just Friends",
+      "url": "https://open.spotify.com/track/1rJLy5c4fRgRe0JPemxQx6"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Once Upon A Summertime",
-        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
-      },
-      "artists": [
-        {
-          "name": "BLOSSOM DEARIE",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Surrey With The Fringe On Top",
-      "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "At First Light",
         "url": "https://open.spotify.com/album/4iJTuwQiLeteB5MaPKtF7A"
       },
@@ -2023,6 +2007,22 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
+        "name": "Once Upon A Summertime",
+        "url": "https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n"
+      },
+      "artists": [
+        {
+          "name": "BLOSSOM DEARIE",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Surrey With The Fringe On Top",
+      "url": "https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
         "name": "Cool Velvet: Stan Getz And Strings",
         "url": "https://open.spotify.com/album/3dJrIpP3hIbGBgrv2qre4I"
       },
@@ -2035,6 +2035,22 @@
       "duration_ms": 246866,
       "name": "It Never Entered My Mind",
       "url": "https://open.spotify.com/track/2qKjC8YrPXUiXB0Dj6onV1"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 306893,
+      "name": "I\u2019m Old Fashioned",
+      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2063,22 +2079,6 @@
       "duration_ms": 270000,
       "name": "With You",
       "url": "https://open.spotify.com/track/2ZKc7hQb9ZmC1N44viyo1J"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 306893,
-      "name": "I\u2019m Old Fashioned",
-      "url": "https://open.spotify.com/track/6KM0MJaeSXK87u6iLhHBu6"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
+        "name": "A Child Is Born",
+        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
+      },
+      "artists": [
+        {
+          "name": "Dara Tucker",
+          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
+        }
+      ],
+      "duration_ms": 174186,
+      "name": "A Child Is Born",
+      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
         "name": "Torm\u00e9 Meets The British",
         "url": "https://open.spotify.com/album/71a4NTy8eDbuWIuDsql1Ad"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 208000,
       "name": "A Nightingale Sang In Berkeley Square",
       "url": "https://open.spotify.com/track/4uj6RnMziVv84LKVQ9OxhZ"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
-        "name": "A Child Is Born",
-        "url": "https://open.spotify.com/album/69ClUZBQVjOXSDf00pzLvx"
-      },
-      "artists": [
-        {
-          "name": "Dara Tucker",
-          "url": "https://open.spotify.com/artist/5pSRNxDFAIW18vu0im7kql"
-        }
-      ],
-      "duration_ms": 174186,
-      "name": "A Child Is Born",
-      "url": "https://open.spotify.com/track/1AGn0quGIiPiSTtyRzj1rM"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Neon Blue",
-        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
-      },
-      "artists": [
-        {
-          "name": "Muriel Zoe",
-          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
-        }
-      ],
-      "duration_ms": 262346,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "I'll Follow The Sun",
         "url": "https://open.spotify.com/album/0UolljxEJxx4l5cDvEoqNE"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 139605,
       "name": "I'll Follow the Sun",
       "url": "https://open.spotify.com/track/1bktB5CagQYfxL5YO3OctN"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Neon Blue",
+        "url": "https://open.spotify.com/album/6HB4riiVFAoYGkeDPwmdeh"
+      },
+      "artists": [
+        {
+          "name": "Muriel Zoe",
+          "url": "https://open.spotify.com/artist/4BwzaXVRPUYnVYGo07Queq"
+        }
+      ],
+      "duration_ms": 262346,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/2KCvVYuwYhuzxbH7pQSfUL"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2351,38 +2351,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 336600,
-      "name": "I Know I Dream",
-      "url": "https://open.spotify.com/track/4tKuk0iRGIw12J8fwpI7OH"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
-        "name": "The Art of Jazz with Ben Besiakov",
-        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
-      },
-      "artists": [
-        {
-          "name": "Ben Besiakov",
-          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
-        }
-      ],
-      "duration_ms": 319955,
-      "name": "Emily",
-      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -2411,22 +2379,34 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "More Than You Know",
-        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
       },
       "artists": [
         {
-          "name": "Silva Thordardottir",
-          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
-        },
-        {
-          "name": "Steingr\u00edmur Teague",
-          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
         }
       ],
-      "duration_ms": 240300,
-      "name": "Ev'ry Time We Say Goodbye",
-      "url": "https://open.spotify.com/track/4lvVJeZqInEZ0YwsX55w4N"
+      "duration_ms": 336600,
+      "name": "I Know I Dream",
+      "url": "https://open.spotify.com/track/4tKuk0iRGIw12J8fwpI7OH"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "The Art of Jazz with Ben Besiakov",
+        "url": "https://open.spotify.com/album/2mqPHMDt8VDECQV1VNQmh3"
+      },
+      "artists": [
+        {
+          "name": "Ben Besiakov",
+          "url": "https://open.spotify.com/artist/5yZadAMrFsD1BPOC01DpJ4"
+        }
+      ],
+      "duration_ms": 319955,
+      "name": "Emily",
+      "url": "https://open.spotify.com/track/5Ug1JZFSNu4YBEfF5gAtPI"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2479,6 +2459,42 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
+        "name": "Confessions",
+        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
+      },
+      "artists": [
+        {
+          "name": "Veronica Swift",
+          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
+        }
+      ],
+      "duration_ms": 403429,
+      "name": "Confession / The Other Woman",
+      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "More Than You Know",
+        "url": "https://open.spotify.com/album/4VU42lLFiXY4Xcr4tcoPZa"
+      },
+      "artists": [
+        {
+          "name": "Silva Thordardottir",
+          "url": "https://open.spotify.com/artist/15pWNgeHdSd6PpWoClC1HG"
+        },
+        {
+          "name": "Steingr\u00edmur Teague",
+          "url": "https://open.spotify.com/artist/6JlwSTq6pDBUFXnM5eCpuF"
+        }
+      ],
+      "duration_ms": 240300,
+      "name": "Ev'ry Time We Say Goodbye",
+      "url": "https://open.spotify.com/track/4lvVJeZqInEZ0YwsX55w4N"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
         "name": "Grasiela Piasson & Guga Stroeter",
         "url": "https://open.spotify.com/album/1bZ1IxMM8lVMtMVkLWqSZ4"
       },
@@ -2499,22 +2515,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Confessions",
-        "url": "https://open.spotify.com/album/1yi4NWdyakAZVxpnbKhrCG"
-      },
-      "artists": [
-        {
-          "name": "Veronica Swift",
-          "url": "https://open.spotify.com/artist/0YyqJ4bcQqxXdsdpgQPwtl"
-        }
-      ],
-      "duration_ms": 403429,
-      "name": "Confession / The Other Woman",
-      "url": "https://open.spotify.com/track/1dl1TuvLNpZKhU0tmEtIUz"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Seed",
         "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
       },
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
-      },
-      "artists": [
-        {
-          "name": "Caity Gyorgy",
-          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
-        }
-      ],
-      "duration_ms": 335720,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Surrender",
         "url": "https://open.spotify.com/album/5dFmnDotQPcuXAA2kdogmo"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 301320,
       "name": "A Time For Love",
       "url": "https://open.spotify.com/track/0Oho1Elt6nNyiHZyZR8OaG"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/05tAyvFf9Z15aC0rViC5qu"
+      },
+      "artists": [
+        {
+          "name": "Caity Gyorgy",
+          "url": "https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa"
+        }
+      ],
+      "duration_ms": 335720,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/4pHydJxZ7Bb7xEIsFVcquI"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2635,22 +2635,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "Life Came into Colour",
-        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
-      },
-      "artists": [
-        {
-          "name": "Katharine Timoney",
-          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
-        }
-      ],
-      "duration_ms": 316166,
-      "name": "Life Came into Colour",
-      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
       },
@@ -2667,22 +2651,6 @@
     {
       "added_at": "2022-08-16 11:49:11",
       "album": {
-        "name": "There's No Business Like Show Business",
-        "url": "https://open.spotify.com/album/5hfAVwmk3yR0eVK8PDaggT"
-      },
-      "artists": [
-        {
-          "name": "Emma Smith",
-          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
-        }
-      ],
-      "duration_ms": 403864,
-      "name": "There's No Business Like Show Business",
-      "url": "https://open.spotify.com/track/3MmB4jqssFJsjIcoYWHT37"
-    },
-    {
-      "added_at": "2022-08-16 11:49:11",
-      "album": {
         "name": "Like Song, Like Weather",
         "url": "https://open.spotify.com/album/3GXSmLkrNU89CpYIuv9QD7"
       },
@@ -2695,6 +2663,22 @@
       "duration_ms": 366200,
       "name": "I Loves You, Porgy",
       "url": "https://open.spotify.com/track/4saZV3enmCs9p3JfdtpCwn"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "Life Came into Colour",
+        "url": "https://open.spotify.com/album/3t3qFGMm0AnYbNQpYuTuBv"
+      },
+      "artists": [
+        {
+          "name": "Katharine Timoney",
+          "url": "https://open.spotify.com/artist/2yWFqhoEprHiXcvLxnuNI7"
+        }
+      ],
+      "duration_ms": 316166,
+      "name": "Life Came into Colour",
+      "url": "https://open.spotify.com/track/0fkyyAgPx7XuQXfkk8FnVD"
     },
     {
       "added_at": "2022-08-16 11:49:11",
@@ -2727,6 +2711,22 @@
       "duration_ms": 210600,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/1Td5BcPlFaDctmFFAbcILg"
+    },
+    {
+      "added_at": "2022-08-16 11:49:11",
+      "album": {
+        "name": "There's No Business Like Show Business",
+        "url": "https://open.spotify.com/album/5hfAVwmk3yR0eVK8PDaggT"
+      },
+      "artists": [
+        {
+          "name": "Emma Smith",
+          "url": "https://open.spotify.com/artist/6Kcax12zGyJGkuEYRcidcm"
+        }
+      ],
+      "duration_ms": 403864,
+      "name": "There's No Business Like Show Business",
+      "url": "https://open.spotify.com/track/3MmB4jqssFJsjIcoYWHT37"
     }
   ],
   "unique_name": "Cozy Jazz",

@@ -4,7 +4,7 @@
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-96 songs - 7 hr 56 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
+100 songs - 8 hr 19 min - [published](https://open.spotify.com/playlist/0zy8b8voSxCSA3RsWKT2B6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2022-08-09 |  |
 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/4GN0WoIfo80dMHkN0BaOpT) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/13erHC29vAcOrFeLe7cGJ6) | 4:29 | 2022-08-09 |  |
 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/7tuPytonFlywSkxbzeu4st), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 | 2022-08-09 |  |
+| [New Horizons](https://open.spotify.com/track/5bUqKbPcmA88YyT07rACBp) | [Netherworld](https://open.spotify.com/artist/3BgGKIFP67i8kBOM3DsUSN) | [Mørketid](https://open.spotify.com/album/0ZaEbfmPAuH2JRTGCUMiDp) | 9:23 | 2022-08-17 |  |
 | [Night Bus](https://open.spotify.com/track/02M7FV29TMBj8GSxECo5Bm) | [Burial](https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF) | [Burial](https://open.spotify.com/album/38MtIlsByS3HzNX7FrfEfF) | 2:20 | 2022-08-11 |  |
 | [Opalescent](https://open.spotify.com/track/0fZXClbtHvHG0FDWpQy1wg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Opalescent](https://open.spotify.com/album/7wPJ4V3ueggJxvaYscV9Ou) | 2:11 | 2022-08-09 |  |
 | [Oto](https://open.spotify.com/track/0VhkCytrhq2EjntoAkbjvZ) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz), [Ryuichi Sakamoto](https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA) | [Cendre](https://open.spotify.com/album/6Ug9IHC7kmelugY2t0MMQe) | 3:49 | 2022-08-09 |  |
@@ -82,12 +83,14 @@
 | [Tears From The Compound Eye](https://open.spotify.com/track/0nRe4ZWzbiFjJIJFEk1u3F) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [The Campfire Headphase](https://open.spotify.com/album/0wBiN0fKhy0ywx732SpgUs) | 4:03 | 2022-08-09 |  |
 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 | 2022-08-09 |  |
 | [The Light](https://open.spotify.com/track/0PaOYkEinHPDxK4yq7sR5l) | [The Album Leaf](https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE) | [Into The Blue Again](https://open.spotify.com/album/79ceEHSgk3hWNMTSOWeb4V) | 4:29 | 2022-08-09 |  |
+| [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 | 2022-08-17 |  |
 | [The Six Million Dollar Sandwich](https://open.spotify.com/track/50agOpq6jS1rg4VrZ9Noly) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 3:02 | 2022-08-09 |  |
 | [The Sun Is Scheduled to Come Out Tomorrow](https://open.spotify.com/track/08OiY4KLXsohk1HOVzJH5D) | [Chris Zabriskie](https://open.spotify.com/artist/4e1c0g0L9diwIpBeyfV8ka) | [I Am a Man Who Will Fight for Your Honor](https://open.spotify.com/album/5FhTurkBSxWbfg1Y3LJPXx) | 7:04 | 2022-08-09 |  |
 | [The Unfinished](https://open.spotify.com/track/6DhVDxXWzKRDQIG3eOkcHm) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 4:38 | 2022-08-09 |  |
 | [There Is A Number Of Small Things](https://open.spotify.com/track/5BTsPUjhMREI6BwJ4zIpiu) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Yesterday Was Dramatic – Today Is OK](https://open.spotify.com/album/1NNVjD5ZkVg6eeR62OmEs2) | 6:31 | 2022-08-09 |  |
 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 | 2022-08-09 |  |
 | [Track3a \(2waynice\)](https://open.spotify.com/track/0jV5pkyZByn7pV12Rzbtuu) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 5:30 | 2022-08-09 |  |
+| [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 | 2022-08-17 |  |
 | [Tummaa](https://open.spotify.com/track/3uqfAKW2VR03fYYSOhXbfA) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [Tummaa](https://open.spotify.com/album/0XyHuW8AmvvsTBEIGVK8iQ) | 10:18 | 2022-08-09 |  |
 | [Under the Water It Glowed](https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 5:09 | 2022-08-09 |  |
 | [V](https://open.spotify.com/track/1TInFFEp6bNWX4E2wLHh39) | [Gregg Kowalsky](https://open.spotify.com/artist/1RDj9L6G463JqFz4kbWoGq) | [Tape Chants](https://open.spotify.com/album/11KyPBhF9RpbILPg8NNuEC) | 1:16 | 2022-08-09 |  |
@@ -101,6 +104,7 @@
 | [white mountain](https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [dedication](https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi) | 3:39 | 2022-08-11 |  |
 | [White Noiz](https://open.spotify.com/track/3JjXYP1XVbcrFYwgbFsPCZ) | [Akira Yamaoka](https://open.spotify.com/artist/6f7UIM59MQy6y0bJmQcRNe) | [SILENT HILL2 \(Original Soundtrack\)](https://open.spotify.com/album/5XjZ6xhbPbALPVGd5Zx0Cw) | 1:23 | 2022-08-09 |  |
 | [Wholesome](https://open.spotify.com/track/30n6bv7fnQYIK3CvaFibT7) | [Philip Jeck](https://open.spotify.com/artist/17Woab4l0eJybbj5ymknYK) | [7](https://open.spotify.com/album/6WKXCjXWZlK1SmJYUXnMO3) | 8:26 | 2022-08-09 |  |
+| [Will She Come Back](https://open.spotify.com/track/72IAQhgUbr0HC4bicLR2Up) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 5:00 | 2022-08-17 |  |
 | [Wind and Snow](https://open.spotify.com/track/1lUqMBDI4ttfqZUmNRvXn6) | [Grouper](https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i) | [Dragging a Dead Deer Up a Hill](https://open.spotify.com/album/0r1ffFQRFvtthTdLV2ZPWL) | 4:30 | 2022-08-09 |  |
 | [Woe Is the Transgression I](https://open.spotify.com/track/2zpTolaAqlsIauPX764rMs) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/63Gy5cxnjLWYpxbcjEezgj) | 8:44 | 2022-08-09 |  |
 | [Your Guts Are Like Mine](https://open.spotify.com/track/2U2XTouEcaW4HkyC5Xdtrc) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Telegraphs in Negative / Mouths Trapped in Static](https://open.spotify.com/album/6AjNtLOoML3GDOyOOfZ9ka) | 2:15 | 2022-08-09 |  |

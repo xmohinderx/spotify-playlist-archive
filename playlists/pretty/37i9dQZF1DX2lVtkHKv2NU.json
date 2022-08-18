@@ -1,12 +1,12 @@
 {
   "description": "me gustas mucho. <3 I've got a crush on you.",
-  "num_followers": 263855,
+  "num_followers": 264057,
   "original_name": "internet crush",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcyMjgwNiwwMDAwMDAwMGY3ZGQ5M2IxZTQ2NTEzYWZmYzc2MjczMmE3MGFlOTFl",
+  "snapshot_id": "MTY1OTcyMjgwNiwwMDAwMDAwMDU5N2QxZjQzODZjZjVmN2E1MTA0NDM4M2Y2MTI0MGI5",
   "tracks": [
     {
       "added_at": "2022-08-05 18:06:46",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-05 18:06:46",
       "album": {
-        "name": "Todo De Ti",
-        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 199604,
-      "name": "Todo De Ti",
-      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
-    },
-    {
-      "added_at": "2022-08-05 18:06:46",
-      "album": {
         "name": "death bed (coffee for your head)",
         "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 173333,
       "name": "death bed (coffee for your head)",
       "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "added_at": "2022-08-05 18:06:46",
+      "album": {
+        "name": "Todo De Ti",
+        "url": "https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 199604,
+      "name": "Todo De Ti",
+      "url": "https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF"
     },
     {
       "added_at": "2022-08-05 18:06:46",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2022-08-05 18:06:46",
       "album": {
-        "name": "What A Shame",
-        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
-      },
-      "artists": [
-        {
-          "name": "Leyla Blue",
-          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
-        }
-      ],
-      "duration_ms": 177200,
-      "name": "What A Shame",
-      "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
-    },
-    {
-      "added_at": "2022-08-05 18:06:46",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/6FTZtwV3e6WYgVeRhi6Gbm"
       },
@@ -1163,18 +1147,18 @@
     {
       "added_at": "2022-08-05 18:06:46",
       "album": {
-        "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-        "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
+        "name": "What A Shame",
+        "url": "https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX"
       },
       "artists": [
         {
-          "name": "Hiko",
-          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+          "name": "Leyla Blue",
+          "url": "https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj"
         }
       ],
-      "duration_ms": 165600,
-      "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
-      "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
+      "duration_ms": 177200,
+      "name": "What A Shame",
+      "url": "https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA"
     },
     {
       "added_at": "2022-08-05 18:06:46",
@@ -1195,6 +1179,22 @@
       "duration_ms": 124000,
       "name": "Falling for U",
       "url": "https://open.spotify.com/track/2xhGZ3WzOa3tir28y7Cb88"
+    },
+    {
+      "added_at": "2022-08-05 18:06:46",
+      "album": {
+        "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+        "url": "https://open.spotify.com/album/3sDyDb1TaOpMmQCyEZwp1c"
+      },
+      "artists": [
+        {
+          "name": "Hiko",
+          "url": "https://open.spotify.com/artist/0KYOBAf6Zky4CFQne2JPTX"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "I Wanna Ride I Wanna Ride (Sped Up): Vegas",
+      "url": "https://open.spotify.com/track/4StJ0qBDOUtbLGLcFXJCcS"
     },
     {
       "added_at": "2022-08-05 18:06:46",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2022-08-05 18:06:46",
       "album": {
-        "name": "Loverboy",
-        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
-      },
-      "artists": [
-        {
-          "name": "A-Wall",
-          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
-        }
-      ],
-      "duration_ms": 224520,
-      "name": "Loverboy",
-      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
-    },
-    {
-      "added_at": "2022-08-05 18:06:46",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/59GRmAvlGs7KjLizFnV7Y9"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 116630,
       "name": "Funny Thing",
       "url": "https://open.spotify.com/track/1c5CllrZr45UBhWpIqM332"
+    },
+    {
+      "added_at": "2022-08-05 18:06:46",
+      "album": {
+        "name": "Loverboy",
+        "url": "https://open.spotify.com/album/1K1loWZRyk1Dtk5zIy4qjx"
+      },
+      "artists": [
+        {
+          "name": "A-Wall",
+          "url": "https://open.spotify.com/artist/56OjNTX2bkrdGcB0staUOV"
+        }
+      ],
+      "duration_ms": 224520,
+      "name": "Loverboy",
+      "url": "https://open.spotify.com/track/3CboywxfJIgvHqi2FF4exb"
     },
     {
       "added_at": "2022-08-05 18:06:46",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2022-08-05 18:06:46",
       "album": {
-        "name": "if i could make it go quiet",
-        "url": "https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 186672,
-      "name": "Body And Mind",
-      "url": "https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj"
-    },
-    {
-      "added_at": "2022-08-05 18:06:46",
-      "album": {
         "name": "Rabbit Hearted.",
         "url": "https://open.spotify.com/album/2DQwYn02bAofAeBPzLohdz"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 198807,
       "name": "Silly Girl",
       "url": "https://open.spotify.com/track/0ZP3E9L1I0C6rmD0CAKqDc"
+    },
+    {
+      "added_at": "2022-08-05 18:06:46",
+      "album": {
+        "name": "if i could make it go quiet",
+        "url": "https://open.spotify.com/album/6EWTSpE0fh1tqRkajIZ2Tp"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 186672,
+      "name": "Body And Mind",
+      "url": "https://open.spotify.com/track/2dAHKe37uyUrB0v0PJrDDj"
     },
     {
       "added_at": "2022-08-05 18:06:46",

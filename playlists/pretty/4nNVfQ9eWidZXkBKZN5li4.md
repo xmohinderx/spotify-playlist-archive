@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4nNVfQ9eWidZXkBKZN5li4.md) - [plain]
 
 > Get on top of Bollywood's all time hits \- Kesariya, Raataan Lambiyan, Ranjha , Param Sundari, Shayad and more ft\. A R Rahman, Pritam, Arijit Singh, Neha Kakkar, Badshah, B Praak and the best of India\. Listen to Bollywood favourites only on this playlist!
 
-[Filtr India](https://open.spotify.com/user/filtrindia) - 215,773 likes - 81 songs - 4 hr 53 min
+[Filtr India](https://open.spotify.com/user/filtrindia) - 215,846 likes - 81 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

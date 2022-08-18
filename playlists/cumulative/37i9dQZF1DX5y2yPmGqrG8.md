@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-392 songs - 1 day 13 hr 6 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
+393 songs - 1 day 13 hr 9 min - [published](https://open.spotify.com/playlist/0efnGJvMdYsuYkdVEFLrdS)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,7 +191,7 @@
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2022-01-11 | 2022-07-18 |
 | [Inspirit](https://open.spotify.com/track/5MuOyrchRTf3geg8GQYkvi) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Inspirit](https://open.spotify.com/album/6Xe3dIJgHmJVdFSjk3kMlz) | 4:12 | 2021-10-06 | 2022-07-28 |
 | [Intimate Immensity](https://open.spotify.com/track/5VcPhqJLSz3eV1yi1qRWE9) | [Tomaga](https://open.spotify.com/artist/22UtZr56I5MgK9Ru1QfUCj) | [Intimate Immensity](https://open.spotify.com/album/2AxgUJn3b65z7fcLg457Pj) | 4:44 | 2021-10-06 | 2022-06-15 |
-| [Introspection \(Edit\)](https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/3KqeFM8PuKvoOHzVo1oxmZ) | 2:35 | 2021-10-06 |  |
+| [Introspection \(Edit\)](https://open.spotify.com/track/5JVtVJFun3pgNdDlUQlkOm) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4) | [Introspection \(Edit\)](https://open.spotify.com/album/3KqeFM8PuKvoOHzVo1oxmZ) | 2:35 | 2021-10-06 | 2022-08-18 |
 | [It Was 9:30 and You Were Beautiful](https://open.spotify.com/track/2juufw7FlVjhDb3vtRwJNS) | [WMD](https://open.spotify.com/artist/4huXijLHlm8VMzeob86QvD) | [Reminisce](https://open.spotify.com/album/3b5iksRC1DTnQhY9Mgmv5l) | 4:33 | 2021-10-06 |  |
 | [June 15th](https://open.spotify.com/track/0KIRuP1CDEdn53hs0f0ich) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [The First Minute of a New Day](https://open.spotify.com/album/0tC2JC67HViIMswO9iChcT) | 7:57 | 2021-10-06 | 2022-07-24 |
 | [June 26th](https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh) | [Lars Bartkuhn](https://open.spotify.com/artist/1LnmRVWmQ6KILkjb8ep0zW), [The First Minute of a New Day](https://open.spotify.com/artist/082GUxu1YVW1rL9Off8juq), [Kabuki](https://open.spotify.com/artist/7eRc93g1wju97Og3KYVsEB) | [Missing Pages](https://open.spotify.com/album/3mFkJPTgbdnnZIJoXs425c) | 5:39 | 2021-10-06 | 2022-07-28 |
@@ -205,6 +205,7 @@
 | [Lemon Day](https://open.spotify.com/track/4G0m7oplySbleIlWeLu3vH) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Lemon Day](https://open.spotify.com/album/5kU780ntZsCfCMhEn1DLQE) | 18:31 | 2022-08-03 |  |
 | [Limerence](https://open.spotify.com/track/1KeUP2WeWCXq3yd7MZsnmN) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [When Man Fails You](https://open.spotify.com/album/2jCY7x3xWM2Gn8yWDCIbgK) | 5:48 | 2021-10-06 | 2022-04-19 |
 | [Llanto](https://open.spotify.com/track/6E2ZWCcqDfOg1dHtzw99aA) | [Camille Mandoki](https://open.spotify.com/artist/1yeZSt0NrlRsgscElnX09R) | [We Used to Talk for Hours](https://open.spotify.com/album/7M7eUfngPvWbEePRC4Sozr) | 4:12 | 2022-03-30 | 2022-06-15 |
+| [Log In Your Fire](https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog / I Could Be Your Moon](https://open.spotify.com/album/0Mh4KBhAf7Rvq2kHCu61YK) | 2:51 | 2022-02-04 |  |
 | [Log In Your Fire](https://open.spotify.com/track/7txXo9E9GS7ioSX1g3RNSv) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH), [Emile Mosseri](https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1) | [I Could Be Your Dog \(Prequel\)](https://open.spotify.com/album/010kVtJGaVvJPmMyAHscKD) | 2:51 | 2022-02-04 | 2022-07-29 |
 | [Looking Forward to Something, Dude](https://open.spotify.com/track/5Zy5Ibs37sbDaVvxv6w2uA) | [Joseph Shabason](https://open.spotify.com/artist/7xoTSPGUr9u8FWR4G8AWoS) | [Aytche](https://open.spotify.com/album/5dArEEtokoCG3ycxekhFuc) | 4:01 | 2021-10-06 | 2022-07-12 |
 | [Looking You In Silence](https://open.spotify.com/track/6nIVSeN1LtdGW7pngh7lrq) | [Suso Saiz](https://open.spotify.com/artist/5gdvIKIFREcJmy3LV6yhBh) | [Resonant Bodies](https://open.spotify.com/album/4ysdhWlJQEhsCJDzkeixpz) | 2:24 | 2022-03-11 | 2022-07-29 |

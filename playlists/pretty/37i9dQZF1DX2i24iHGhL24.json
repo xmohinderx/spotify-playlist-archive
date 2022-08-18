@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Avril Lavigne",
-  "num_followers": 71044,
+  "num_followers": 71163,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDM0OTJlNmQ5MGZmMTc2OWJmYTAwNWRlYzgxNGI5Yzg4",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDNlYWUwNmMwNTZmNzFkNzRiZDE0OTY2ZDZiOWQ0MzI3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 188166,
+      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
+      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "When I'm Alone: The Piano Retrospective",
         "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 250836,
       "name": "Tim McGraw - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2WjIiFJyC42JPqaQDF6qve"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 188166,
-      "name": "All Night Long (All Night) - Recorded at Spotify Studios Stockholm",
-      "url": "https://open.spotify.com/track/5dsk3uLRghh1WmuN21LEW8"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 193015,
-      "name": "when the party\u2019s over",
-      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "July (Bedroom Session)",
         "url": "https://open.spotify.com/album/10jBojX5TwmsAflUdJFfz7"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 210720,
       "name": "July - Bedroom Session",
       "url": "https://open.spotify.com/track/3OQmQTpwZBL3yTr5mCCvOH"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/7saSlN9qdW5wKoN4M9nNRq"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 193015,
+      "name": "when the party\u2019s over",
+      "url": "https://open.spotify.com/track/0U9oiRl4hYwORmWwkYihZN"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -927,6 +927,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Moon River",
+        "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 157674,
+      "name": "Moon River",
+      "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1ZleRuxSdLEhoseEcstEN8"
       },
@@ -943,18 +959,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Moon River",
-        "url": "https://open.spotify.com/album/7oEH9W5vXYrgeFM9h3SEx5"
+        "name": "drivers license",
+        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
       },
       "artists": [
         {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+          "name": "Us The Duo",
+          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
         }
       ],
-      "duration_ms": 157674,
-      "name": "Moon River",
-      "url": "https://open.spotify.com/track/6MbITmnWbLYhQzcLBVFAs3"
+      "duration_ms": 228693,
+      "name": "drivers license",
+      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -975,22 +991,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "drivers license",
-        "url": "https://open.spotify.com/album/0CCwZdow3z8rNFTP7uOawf"
-      },
-      "artists": [
-        {
-          "name": "Us The Duo",
-          "url": "https://open.spotify.com/artist/3QGKsAfhZdldQCLuLjk6zl"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "drivers license",
-      "url": "https://open.spotify.com/track/6i8lDXu86pOsPwGbxoD4RI"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1140,22 +1140,6 @@
       "added_at": "2022-08-12 04:01:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
-      },
-      "artists": [
-        {
-          "name": "Fitz and The Tantrums",
-          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
-        }
-      ],
-      "duration_ms": 221361,
-      "name": "Let Me Love You - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6sHBQWEvoS10m9PE9mY9ND"
       },
       "artists": [
@@ -1167,6 +1151,22 @@
       "duration_ms": 195920,
       "name": "Leave (Get Out) - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/6ClEErrTmd3GzRqGiCEC8G"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36"
+      },
+      "artists": [
+        {
+          "name": "Fitz and The Tantrums",
+          "url": "https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4"
+        }
+      ],
+      "duration_ms": 221361,
+      "name": "Let Me Love You - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1Ue0oCRGIs4ARyg3ucMmRJ"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "All Too Well",
-        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 315475,
-      "name": "All Too Well",
-      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 237876,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "All Too Well",
+        "url": "https://open.spotify.com/album/6efKXWSoIcByFOuxyu7Sh3"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 315475,
+      "name": "All Too Well",
+      "url": "https://open.spotify.com/track/3iTb61NCoUhOvbChmdhcRM"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Wrecking Ball (Acoustic)",
+        "url": "https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4"
+      },
+      "artists": [
+        {
+          "name": "Bailey Rushlow",
+          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
+        }
+      ],
+      "duration_ms": 210865,
+      "name": "Wrecking Ball - Acoustic",
+      "url": "https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Manchild",
         "url": "https://open.spotify.com/album/4T3bAELPl0l8HhqKMp7Z8I"
       },
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Wrecking Ball (Acoustic)",
-        "url": "https://open.spotify.com/album/2nETuQ5qhW7T4gAiiptjd4"
-      },
-      "artists": [
-        {
-          "name": "Bailey Rushlow",
-          "url": "https://open.spotify.com/artist/1tTQcokfKcsCxZaHF2pIhw"
-        }
-      ],
-      "duration_ms": 210865,
-      "name": "Wrecking Ball - Acoustic",
-      "url": "https://open.spotify.com/track/161JZ8ANbUaizt4sgI8j21"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Where My Girls At",
         "url": "https://open.spotify.com/album/0R9XTwNzP51tPzw5tRlagB"
       },
@@ -1463,6 +1463,22 @@
       "duration_ms": 164526,
       "name": "Where My Girls At",
       "url": "https://open.spotify.com/track/3BCjEiinht1jcDdIoaHAhH"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "A Thousand Miles",
+        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
+      },
+      "artists": [
+        {
+          "name": "SADBOii",
+          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
+        }
+      ],
+      "duration_ms": 190605,
+      "name": "A Thousand Miles",
+      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1483,18 +1499,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "A Thousand Miles",
-        "url": "https://open.spotify.com/album/6AzueJX2gqemZr8bPpQaqs"
+        "name": "Elliot's Song",
+        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
       },
       "artists": [
         {
-          "name": "SADBOii",
-          "url": "https://open.spotify.com/artist/1fzPKzbxV0zBhhquKXLisN"
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
         }
       ],
-      "duration_ms": 190605,
-      "name": "A Thousand Miles",
-      "url": "https://open.spotify.com/track/3Q2evpFHIdcR8BkhA3AxZM"
+      "duration_ms": 153124,
+      "name": "Elliot's Song",
+      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1527,22 +1543,6 @@
       "duration_ms": 225186,
       "name": "When You Love Someone",
       "url": "https://open.spotify.com/track/7bxcHHBpto3NgHAMeGCKFH"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Elliot's Song",
-        "url": "https://open.spotify.com/album/3rCeLP9YZJ8UXvbrS3EMyy"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 153124,
-      "name": "Elliot's Song",
-      "url": "https://open.spotify.com/track/0ZpMlIPfnFzVn3qVNeMMev"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1635,6 +1635,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Wedding Songs",
         "url": "https://open.spotify.com/album/3e2GfHTpoxEbCUdCj5TRzl"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 231308,
       "name": "Anyone",
       "url": "https://open.spotify.com/track/2vK25Z3YBFJ44agZlDz9GG"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/1Gohh6kwFpUJiwr5cqG9y8"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/3zMii5HJl31nRBgcuvwHcf"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1787,6 +1787,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Another Bundle of Tantrums",
+        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Thompson",
+          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
+        }
+      ],
+      "duration_ms": 247816,
+      "name": "Rather Be",
+      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/6h9bC3nDWad10hG7b5UCbd"
       },
@@ -1807,22 +1823,6 @@
       "duration_ms": 146668,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/6Ngyk6TvmMeXqxlgdq0u9f"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Another Bundle of Tantrums",
-        "url": "https://open.spotify.com/album/79KDLcAFHxGR6D6p6x0kXB"
-      },
-      "artists": [
-        {
-          "name": "Jasmine Thompson",
-          "url": "https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg"
-        }
-      ],
-      "duration_ms": 247816,
-      "name": "Rather Be",
-      "url": "https://open.spotify.com/track/1dRrzIe6iCMEOXtut9CHg1"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Teenage Dream",
-        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
-      },
-      "artists": [
-        {
-          "name": "V\u00c9RIT\u00c9",
-          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
-        }
-      ],
-      "duration_ms": 275954,
-      "name": "Teenage Dream",
-      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "It's Gonna Be Me",
         "url": "https://open.spotify.com/album/43mqswumv5wL0UseBpGeMV"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 174349,
       "name": "It's Gonna Be Me",
       "url": "https://open.spotify.com/track/0BiuccnShiPP1MIccIu6m5"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Teenage Dream",
+        "url": "https://open.spotify.com/album/4sZ5bTIQJec8eqKBMEPPEL"
+      },
+      "artists": [
+        {
+          "name": "V\u00c9RIT\u00c9",
+          "url": "https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc"
+        }
+      ],
+      "duration_ms": 275954,
+      "name": "Teenage Dream",
+      "url": "https://open.spotify.com/track/01I5I4ykvMQwplZIkO4SxX"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Soft Pop Hits",
-        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 182986,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 261977,
       "name": "Don't Speak - Recorded at Electric Lady Studios NYC",
       "url": "https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Soft Pop Hits",
+        "url": "https://open.spotify.com/album/1UQTvOQdqokFFcRDUGYvXX"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 182986,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/3baZNMeoFa4vTZ3SZK71xD"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2827,22 +2827,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Black Velvet (Junos 365 Sessions)",
-        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
-      },
-      "artists": [
-        {
-          "name": "Meghan Patrick",
-          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
-        }
-      ],
-      "duration_ms": 218283,
-      "name": "Black Velvet - Junos 365 Sessions",
-      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "You And I",
         "url": "https://open.spotify.com/album/0avKRT69O6IzBHiMNiAGr0"
       },
@@ -2855,6 +2839,22 @@
       "duration_ms": 199000,
       "name": "You And I",
       "url": "https://open.spotify.com/track/7ECVu9dvPZVG1xEcwWfCRk"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Black Velvet (Junos 365 Sessions)",
+        "url": "https://open.spotify.com/album/3vRrUGaOVWRzyKuzdFvK41"
+      },
+      "artists": [
+        {
+          "name": "Meghan Patrick",
+          "url": "https://open.spotify.com/artist/5bQxLohAAiOat0EMYuHjzJ"
+        }
+      ],
+      "duration_ms": 218283,
+      "name": "Black Velvet - Junos 365 Sessions",
+      "url": "https://open.spotify.com/track/2ccf3s5PhImfbhrmg21CMG"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2955,18 +2955,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
-        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
+        "name": "Cover Sessions, Vol. 2",
+        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
       },
       "artists": [
         {
-          "name": "Pale Waves",
-          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
+          "name": "Laura Zocca",
+          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
         }
       ],
-      "duration_ms": 218938,
-      "name": "22 - Recorded At Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
+      "duration_ms": 212027,
+      "name": "Wildest Dreams",
+      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -2991,18 +2991,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cover Sessions, Vol. 2",
-        "url": "https://open.spotify.com/album/3gQrQ8BQNEtaUXbr7vx9ss"
+        "name": "Spotify Singles (Recorded At Metropolis Studios, London)",
+        "url": "https://open.spotify.com/album/0SClXAA2IiMdo4emMv0cRv"
       },
       "artists": [
         {
-          "name": "Laura Zocca",
-          "url": "https://open.spotify.com/artist/43sKBGtNLR3Ovs81KWzQg7"
+          "name": "Pale Waves",
+          "url": "https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA"
         }
       ],
-      "duration_ms": 212027,
-      "name": "Wildest Dreams",
-      "url": "https://open.spotify.com/track/7AgpN0aQSjp1rjWafXn8Xu"
+      "duration_ms": 218938,
+      "name": "22 - Recorded At Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/3ZfTICadMJOZniz7oA99d5"
     },
     {
       "added_at": "2022-08-12 04:01:00",

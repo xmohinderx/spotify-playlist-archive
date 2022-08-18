@@ -4,7 +4,7 @@
 
 > Relax with this soothing soundtrack from the nineties...
 
-209 songs - 14 hr 58 min - [published](https://open.spotify.com/playlist/7fhSCJ8q7xulx4bYNQXkWm)
+210 songs - 15 hr 3 min - [published](https://open.spotify.com/playlist/7fhSCJ8q7xulx4bYNQXkWm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [No Matter What](https://open.spotify.com/track/5x0rQU3Bd0ZlH2OiIvZQFz) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [Where We Belong](https://open.spotify.com/album/4qMB43IvJVKikOUv6lhPZj) | 4:34 | 2020-07-08 | 2022-07-29 |
 | [No More "I Love You's"](https://open.spotify.com/track/2Pn5gvVioma5LHPxgEBBmD) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Medusa](https://open.spotify.com/album/1T2aRQcFUL59f9kQ876dLX) | 4:51 | 2020-07-08 | 2022-07-29 |
 | [No Scrubs](https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs) | [TLC](https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq) | [Fanmail](https://open.spotify.com/album/1CvjjpvqVMoyprsf74bpYW) | 3:34 | 2020-07-08 |  |
+| [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2020-07-08 |  |
 | [Nothing Compares 2 U](https://open.spotify.com/track/6QYH8cjdC23Qt2HT4UtycH) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [So Far: The Best of Sinéad O'Connor](https://open.spotify.com/album/0NEqYqkLFoLgsRlfIS3xoV) | 4:40 | 2020-07-08 | 2022-07-29 |
 | [Nothing Else Matters \(Remastered\)](https://open.spotify.com/track/2CtemffYhT0DJWcT1XW047) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 6:28 | 2020-07-08 |  |
 | [Ocean Drive](https://open.spotify.com/track/5WjvNVcZmAHah5q1oaxMNE) | [Lighthouse Family](https://open.spotify.com/artist/6edGSAX5dVpeJVwu1Q0NwJ) | [Ocean Drive](https://open.spotify.com/album/1UvIkBJ2cOVaq8Lrk4ArGy) | 3:48 | 2020-07-08 | 2022-07-29 |
@@ -203,7 +204,7 @@
 | [Why](https://open.spotify.com/track/2fYYmPNwDaNpw1KRSxpQ5H) | [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum) | [Diva](https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B) | 4:53 | 2020-07-08 | 2022-07-29 |
 | [Will You Be There \- Single Version](https://open.spotify.com/track/0uVmFg5PZuqsZ0tT5QuqDe) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/3ubQZz8WgIfvjSoekS5daO) | 3:40 | 2020-07-08 | 2022-07-28 |
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2020-07-08 |  |
-| [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 | 2020-07-08 |  |
+| [Without You](https://open.spotify.com/track/1kMOJBmpfWD9fir6st9uqS) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Music Box](https://open.spotify.com/album/2NKxb7pk04CuZab5udkGUl) | 3:33 | 2020-07-08 | 2022-08-18 |
 | [Wonderwall \- Remastered](https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY) | [Oasis](https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4) | [\(What's The Story\) Morning Glory? \(Deluxe Remastered Edition\)](https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4) | 4:18 | 2020-07-08 |  |
 | [Words](https://open.spotify.com/track/3nOOb6TsMieTPVibUMB3j5) | [Boyzone](https://open.spotify.com/artist/6X9aYHnQ75YI8o08aoa0iS) | [A Different Beat](https://open.spotify.com/album/1seIHWj1rewnPl39zbL88z) | 4:01 | 2020-07-08 | 2022-02-23 |
 | [Would I Lie To You?](https://open.spotify.com/track/62R1MRux3R0v2cngA2xdJn) | [Charles & Eddie](https://open.spotify.com/artist/5rIhaCHkbFVvLJpKHWwOJD) | [Playlist: 90s Pop](https://open.spotify.com/album/6DUy5QdkKXI15NFbk3pYAZ) | 3:24 | 2020-07-08 | 2022-07-29 |

@@ -4337,7 +4337,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 235872,
       "name": "Fortunate (Feat. Kanye West, Dreezy & CHILLER)",
       "url": "https://open.spotify.com/track/1eZAwpXSwtoXYkm8GAZJAH"
@@ -4371,6 +4371,36 @@
       "duration_ms": 235872,
       "name": "Fortunate (Feat. Kanye West, Dreezy & CHILLER)",
       "url": "https://open.spotify.com/track/1w3CY37sZRF124apyxxzH2"
+    },
+    {
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Dreezy",
+          "url": "https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054"
+        },
+        {
+          "name": "CHILLER",
+          "url": "https://open.spotify.com/artist/3klsOr0E1Vro9ojNeiHkWQ"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235872,
+      "name": "Fortunate (Feat. Kanye West, Dreezy & CHILLER)",
+      "url": "https://open.spotify.com/track/365eCTLl2eaWqrCGhnZu4e"
     },
     {
       "album": {
@@ -11859,10 +11889,28 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 625793,
       "name": "The Black Slim Shady",
       "url": "https://open.spotify.com/track/1K1B8B7DM4pxJmFSLKDvwC"
+    },
+    {
+      "album": {
+        "name": "DRILLMATIC Heart vs. Mind",
+        "url": "https://open.spotify.com/album/2yBfRM9cxHgHb155SdDoWl"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 625793,
+      "name": "The Black Slim Shady",
+      "url": "https://open.spotify.com/track/42DZT2eoL7rJBw21f3sb0h"
     },
     {
       "album": {

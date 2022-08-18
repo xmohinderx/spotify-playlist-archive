@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Arunima Wali, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Bharat Chauhan, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "published_playlist_ids": [
     "5ZxKEzYK5bckaAr3OIv47F"
@@ -1776,32 +1776,6 @@
     },
     {
       "album": {
-        "name": "Dairy",
-        "url": "https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5"
-      },
-      "artists": [
-        {
-          "name": "Aakash Rijia",
-          "url": "https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO"
-        },
-        {
-          "name": "Diptanshu Tiwari",
-          "url": "https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk"
-        },
-        {
-          "name": "Waseem Kazi",
-          "url": "https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37"
-        }
-      ],
-      "date_added": "2022-08-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 216923,
-      "name": "Dairy",
-      "url": "https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt"
-    },
-    {
-      "album": {
         "name": "Dancing in My Dream",
         "url": "https://open.spotify.com/album/3rJF4N2rhgfaIgZNfjNBCV"
       },
@@ -2005,6 +1979,32 @@
       "duration_ms": 196750,
       "name": "Dhaage",
       "url": "https://open.spotify.com/track/1YHnsw5xO7w5eck4FrBPPW"
+    },
+    {
+      "album": {
+        "name": "Diary",
+        "url": "https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5"
+      },
+      "artists": [
+        {
+          "name": "Aakash Rijia",
+          "url": "https://open.spotify.com/artist/41EGOwB47gkCtiDhfNRKqO"
+        },
+        {
+          "name": "Diptanshu Tiwari",
+          "url": "https://open.spotify.com/artist/59mS8hSfhbkJoQNQ4BwaDk"
+        },
+        {
+          "name": "Waseem Kazi",
+          "url": "https://open.spotify.com/artist/5sMYVVgiBFIijUPXsDxN37"
+        }
+      ],
+      "date_added": "2022-08-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216923,
+      "name": "Diary",
+      "url": "https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt"
     },
     {
       "album": {
@@ -10111,6 +10111,24 @@
       "duration_ms": 193125,
       "name": "Unknown",
       "url": "https://open.spotify.com/track/0rJC86v7FeFJAN6lQUmNaL"
+    },
+    {
+      "album": {
+        "name": "Usne Kaha Tha",
+        "url": "https://open.spotify.com/album/0WGDaag3axxDy7awsxpRq0"
+      },
+      "artists": [
+        {
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260894,
+      "name": "Usne Kaha Tha",
+      "url": "https://open.spotify.com/track/0CQqvd7bTiiRTDZzNmjifI"
     },
     {
       "album": {

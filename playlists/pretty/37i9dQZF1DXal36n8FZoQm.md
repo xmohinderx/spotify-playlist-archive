@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 
 > The official playlist for Cobra Kai\. Watch on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,354 likes - 121 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,377 likes - 121 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXal36n8FZoQm.md) - [plain]
 | 92 | [Kickstart My Heart](https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood](https://open.spotify.com/album/23krn1eEy7o3u9laLI1PLD) | 4:44 |
 | 93 | [The Cobra Effect](https://open.spotify.com/track/5rIPiNfzGNsycXlt5r5P26) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 2:33 |
 | 94 | [Christmas Wrapping](https://open.spotify.com/track/3nhzTOc939C4v4ecTEZTPl) | [The Waitresses](https://open.spotify.com/artist/57AKOY1SF1062tuVzgAPv8) | [The Best Of The Waitresses](https://open.spotify.com/album/5WBJTuam0c279awlGAfEaU) | 5:20 |
-| 95 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |
+| 95 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 |
 | 96 | [Dojo From Hell](https://open.spotify.com/track/6wcWfKhR6cVqhJXiSNMHcD) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 1:50 |
 | 97 | [Feel The Night](https://open.spotify.com/track/1feLODy7BXa0tjkHJ2fOeQ) | [Baxter Robinson](https://open.spotify.com/artist/6JmPvDxWnZ7iQJPhFj69Mr) | [The Karate Kid: The Original Motion Picture Soundtrack](https://open.spotify.com/album/1zNIDZncmWNpb1WkyfRPdH) | 3:16 |
 | 98 | [Duel of the Snakes \(Mega\-Edit\)](https://open.spotify.com/track/4s69std16qKEsvAa4ZHmmB) | [Leo Birenberg & Zach Robinson](https://open.spotify.com/artist/1jesNA0xWqXtanMVTB1EMp) | [Cobra Kai: Season 3 \(Soundtrack from the Netflix Original Series\)](https://open.spotify.com/album/4op6NAPFktkyqLtRdPD4wC) | 9:58 |

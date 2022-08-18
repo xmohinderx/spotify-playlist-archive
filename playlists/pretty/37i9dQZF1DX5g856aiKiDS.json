@@ -1,12 +1,12 @@
 {
   "description": "Chill Korean tunes that's perfect with your latte or americano. (\uce74\ud398\uc640 \uc5b4\uc6b8\ub9ac\ub294 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uc744 \uac10\uc0c1\ud558\uc138\uc694.)",
-  "num_followers": 410419,
+  "num_followers": 410679,
   "original_name": "Dalkom Cafe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTU1MiwwMDAwMDAwMDMyYWZkYmM4YTY5MjhmOTNjZTZjZjEzYTcyMDBlMWJl",
+  "snapshot_id": "MTY2MDMyOTU1MiwwMDAwMDAwMGJhMzY1MDAzOWM3ZmY4NWE0M2NjMzc1MTE5NjFhZjkx",
   "tracks": [
     {
       "added_at": "2022-08-12 18:39:12",
@@ -591,22 +591,6 @@
     {
       "added_at": "2022-08-12 18:39:12",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 188293,
-      "name": "Flu",
-      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
-    },
-    {
-      "added_at": "2022-08-12 18:39:12",
-      "album": {
         "name": "Maybe We Could Be a Thing",
         "url": "https://open.spotify.com/album/6AQcFf0gaBZWaZgGZZPMmI"
       },
@@ -631,22 +615,18 @@
     {
       "added_at": "2022-08-12 18:39:12",
       "album": {
-        "name": "NOBODY",
-        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
       },
       "artists": [
         {
-          "name": "Blue.D",
-          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
-        },
-        {
-          "name": "MINO",
-          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 201183,
-      "name": "NOBODY",
-      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
+      "duration_ms": 188293,
+      "name": "Flu",
+      "url": "https://open.spotify.com/track/2j0MsDAMJ2ahsxP3z86ChI"
     },
     {
       "added_at": "2022-08-12 18:39:12",
@@ -691,6 +671,26 @@
       "duration_ms": 202342,
       "name": "Hello Tutorial",
       "url": "https://open.spotify.com/track/36UcoqH2P24RtSGbLKLK3w"
+    },
+    {
+      "added_at": "2022-08-12 18:39:12",
+      "album": {
+        "name": "NOBODY",
+        "url": "https://open.spotify.com/album/2m3vWrMY3MvVNSDMyEH1N8"
+      },
+      "artists": [
+        {
+          "name": "Blue.D",
+          "url": "https://open.spotify.com/artist/0rK0ZPLX4fKnFSbqs6gYfY"
+        },
+        {
+          "name": "MINO",
+          "url": "https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8"
+        }
+      ],
+      "duration_ms": 201183,
+      "name": "NOBODY",
+      "url": "https://open.spotify.com/track/3U5ti2dwp5FA70lZPrhv9l"
     },
     {
       "added_at": "2022-08-12 18:39:12",

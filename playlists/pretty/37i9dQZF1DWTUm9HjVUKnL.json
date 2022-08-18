@@ -1,13 +1,77 @@
 {
   "description": "Spotify Singles. Like nothing you\u2019ve heard before.  Cover: Glass Animals, Arooj Aftab, and The Kid LAROI. ",
-  "num_followers": 212761,
+  "num_followers": 212760,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM4NDc5NiwwMDAwMDAwMDIzZTlkMmRlODY1ZjczMzhhNDRjYTZiZWExN2MzZDk3",
+  "snapshot_id": "MTY2MDc0NzE4NCwwMDAwMDAwMGI5NDdlZWIzZGE3YzIwYjUyNmNjZDkzZmNiZjFjOThm",
   "tracks": [
+    {
+      "added_at": "2022-08-17 14:39:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 213477,
+      "name": "Hardlight - Spotify Single",
+      "url": "https://open.spotify.com/track/4M1iZuqOD006zoIxyOk5VK"
+    },
+    {
+      "added_at": "2022-08-17 14:39:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0"
+      },
+      "artists": [
+        {
+          "name": "Spacey Jane",
+          "url": "https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA"
+        }
+      ],
+      "duration_ms": 284935,
+      "name": "The Only Exception - Spotify Single",
+      "url": "https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF"
+    },
+    {
+      "added_at": "2022-08-17 14:39:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 228109,
+      "name": "Bigger Love - Spotify Singles",
+      "url": "https://open.spotify.com/track/2t02C7mGZnwv5rnMBEYts9"
+    },
+    {
+      "added_at": "2022-08-17 14:39:44",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
+      },
+      "artists": [
+        {
+          "name": "Milk & Bone",
+          "url": "https://open.spotify.com/artist/4fmvA5uVlZUNsje29D1PaW"
+        }
+      ],
+      "duration_ms": 208698,
+      "name": "On br\u00fblera - Spotify Singles",
+      "url": "https://open.spotify.com/track/5yYaqnixSbNmlcYRywbCfm"
+    },
     {
       "added_at": "2022-08-01 20:13:16",
       "album": {

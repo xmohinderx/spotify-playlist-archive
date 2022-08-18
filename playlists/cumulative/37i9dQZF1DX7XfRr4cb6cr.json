@@ -19,7 +19,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-11",
+      "date_removed": null,
       "duration_ms": 232000,
       "name": "1 Room",
       "url": "https://open.spotify.com/track/0aO0VzGOXaamluotV8aD3U"
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 327600,
       "name": "atomic bombs atomic bonds i love you",
       "url": "https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt"
@@ -1091,7 +1091,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 231592,
       "name": "Honest Labour (feat. HforSpirit)",
       "url": "https://open.spotify.com/track/3reCdVXmx9UVQlLhzqAh8H"
@@ -1113,7 +1113,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 308662,
       "name": "Horn in Deep Night",
       "url": "https://open.spotify.com/track/6rsrcdXlac37j8YozUfHpT"
@@ -1377,6 +1377,24 @@
       "duration_ms": 796000,
       "name": "Konvektion",
       "url": "https://open.spotify.com/track/5fOr0VJwhHuOFyh6FCZVyO"
+    },
+    {
+      "album": {
+        "name": "Labyrinth",
+        "url": "https://open.spotify.com/album/05tgMikykkZ6h0jFyaRxvC"
+      },
+      "artists": [
+        {
+          "name": "4lienetic",
+          "url": "https://open.spotify.com/artist/4lOwCvuSv7ickecVE7dUBk"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Labyrinth",
+      "url": "https://open.spotify.com/track/3XRZYdGyThxKYPucHpLvVA"
     },
     {
       "album": {
@@ -1711,7 +1729,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 196800,
       "name": "My Darkest Hour",
       "url": "https://open.spotify.com/track/4xo58k1mlaohC1gcLW1F60"
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/44yYxVlcLb3lp9EokUElUn"
@@ -2087,7 +2105,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-27",
+      "date_removed": null,
       "duration_ms": 216000,
       "name": "Pipopapipo",
       "url": "https://open.spotify.com/track/7IZ3Sauja9QpcZ2HQLC9mX"
@@ -2239,7 +2257,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 383080,
       "name": "Sacro Bosco",
       "url": "https://open.spotify.com/track/27gRCQY4CNnc7qLz84TFj0"
@@ -3257,7 +3275,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 165000,
       "name": "With Eyes Unclouded By Longing",
       "url": "https://open.spotify.com/track/6Bm1HcsOBtJEwxjnVQ7yE7"

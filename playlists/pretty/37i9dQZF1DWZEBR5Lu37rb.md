@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 
 > The iconic songs celebrating love across the African continent from the 2000's to date
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,953 likes - 97 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,981 likes - 97 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 86 | [Kahlet Laayoune](https://open.spotify.com/track/0zqQI8ysvCrDAJPmLuEDev) | [Mok Saib](https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW) | [Kahlet Laayoune](https://open.spotify.com/album/0tztx9JoOcjRnBZoWvojzF) | 4:02 |
 | 87 | [Aiyana](https://open.spotify.com/track/3ZfTPhtcI8mK94oA3I19Dp) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [Aiyana](https://open.spotify.com/album/4fxMTrsf8jOeZKqajiElcL) | 3:04 |
 | 88 | [Cinderella](https://open.spotify.com/track/08xsIKGLcAx6YtKFwWi5p7) | [Alikiba](https://open.spotify.com/artist/2nGoKcLdXktxEXvMdTDsIT) | [CINDERELLA](https://open.spotify.com/album/0QSQibBpOOzPpiZcR54iY8) | 4:17 |
-| 89 | [Njiwa](https://open.spotify.com/track/25JonxVTCZOIul9uyv3ff6) | [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL), [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH) | [Njiwa](https://open.spotify.com/album/68mKgdafZqoom8qgiRBQLa) | 4:18 |
+| 89 | [Njiwa](https://open.spotify.com/track/4vQv5HRVJs89gKdbRb7Uro) | [Nandy](https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH), [Willy Paul](https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL) | [Njiwa](https://open.spotify.com/album/2kE28W8yYhQob3RY9v7Iqj) | 4:18 |
 | 90 | [Te Quiero](https://open.spotify.com/track/7zRlNqDdp7sAFCYK93vQdG) | [Mortadha Ftiti](https://open.spotify.com/artist/1JKD6r1BHHPW5UjN9JKwia) | [Te Quiero](https://open.spotify.com/album/6m5EDdTc49BELQhMPgkIzp) | 3:01 |
 | 91 | [Bembeleza](https://open.spotify.com/track/47S0nvI30nN9VgDcIyGxBo) | [Marlaw](https://open.spotify.com/artist/2Mubfa0R9X7HoCHatHctGL) | [Sungura Na Fisi](https://open.spotify.com/album/6cTRrJGMTZmF1wAtGFVbah) | 4:42 |
 | 92 | [Wangu \(feat\. Sanaipei Tande\)](https://open.spotify.com/track/71cps6SJrIIGQhZQRL2GLT) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Sanaipei Tande](https://open.spotify.com/artist/1kP9asYdOE5UeBmNVYZX1J) | [African Popstar EP](https://open.spotify.com/album/7qqcWtHS6aVvRUvmbATORH) | 3:06 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZEBR5Lu37rb.md) - [plain]
 | 96 | [Hey Baby](https://open.spotify.com/track/6QSb60sn9DaOuTKoeTHBtr) | [Colonel Moustapha](https://open.spotify.com/artist/6M8r2WBh4hYgx8v5bmw8Yd), [Marya](https://open.spotify.com/artist/5VhnfPg1YsCfdoS5QR9o6J) | [Hey Baby](https://open.spotify.com/album/0joHCEkM7DAir7xqWgm3NW) | 3:05 |
 | 97 | [Haiwihaiwi \(feat\. Bienaime\)](https://open.spotify.com/track/2SNo5wyDBUU7Op1Vz3paVX) | [Wendy Kimani](https://open.spotify.com/artist/0Ep2fNEERde3ns2luc8clT), [Bien Aime](https://open.spotify.com/artist/7F39RDj6PGoOTLqSxWcScL) | [My Essence](https://open.spotify.com/album/0zGiZdTgKFSRLVWd0XLeFi) | 3:29 |
 
-Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDNhYjllNGNmMjMxMWU2YWRjNGRlNjBiYWQ0NDNiZDFm`
+Snapshot ID: `MTY0NDUwNTA5MSwwMDAwMDAwMDAxNDhhMmU1ZGJiNmI0ZjA5NGJiMGRkOWZiODgwZWZk`

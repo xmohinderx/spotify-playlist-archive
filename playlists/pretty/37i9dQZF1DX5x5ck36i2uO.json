@@ -1,12 +1,12 @@
 {
   "description": "\ubd80\ub4dc\ub7fd\uace0 \uace0\uae09\uc2a4\ub7ec\uc6b4 \uc7ac\uc988\ud5a5\uc774 \uac00\ubbf8\ub41c \ud799\ud569\uc74c\uc545\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 5562,
+  "num_followers": 5573,
   "original_name": "\uc7ac\uc988\ub9db \ud799\ud569",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMDZjOTU4ZDdjZjJkM2ZjNTNmODhhZDhlODIyNDhhMWJj",
+  "snapshot_id": "MTY1ODQ4MjMwOCwwMDAwMDAwMGFlZDg3MTY3ZTMxMjBkMGFkMDQ0NjVmNGRiNTMzMjRk",
   "tracks": [
     {
       "added_at": "2022-07-22 09:31:48",
@@ -311,22 +311,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "MOON AND BACK",
-        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 240094,
-      "name": "Girl in New York (jazz)",
-      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "Black & White Film",
         "url": "https://open.spotify.com/album/6PIfLssUGUbQwFYf1frasa"
       },
@@ -343,22 +327,34 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "PAID IN SEOUL",
-        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
+        "name": "MOON AND BACK",
+        "url": "https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX"
       },
       "artists": [
         {
-          "name": "Don Malik",
-          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
-        },
-        {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
         }
       ],
-      "duration_ms": 182013,
-      "name": "Chingchingching (Feat. DeVita)",
-      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
+      "duration_ms": 240094,
+      "name": "Girl in New York (jazz)",
+      "url": "https://open.spotify.com/track/19IE0jlhDD1xpF4XWBTGN9"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "RANDOM BOX",
+        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+      },
+      "artists": [
+        {
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Roommate",
+      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -387,18 +383,22 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "RANDOM BOX",
-        "url": "https://open.spotify.com/album/51ea2XXI3WLPs5Vs0ou5a8"
+        "name": "PAID IN SEOUL",
+        "url": "https://open.spotify.com/album/3gaEvY1i5mFMW7fFMxMn1F"
       },
       "artists": [
         {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
+          "name": "Don Malik",
+          "url": "https://open.spotify.com/artist/1DKIdDHKHi3rIwG4UB5zLE"
+        },
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Roommate",
-      "url": "https://open.spotify.com/track/70EzzdKkfORRFG1P5A2A0D"
+      "duration_ms": 182013,
+      "name": "Chingchingching (Feat. DeVita)",
+      "url": "https://open.spotify.com/track/6jKbZh8WfA2dgkdZ6lPaI8"
     },
     {
       "added_at": "2022-07-22 09:31:48",
@@ -483,22 +483,6 @@
     {
       "added_at": "2022-07-22 09:31:48",
       "album": {
-        "name": "BLOO IN WONDERLAND 2",
-        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
-      },
-      "artists": [
-        {
-          "name": "BLOO",
-          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
-        }
-      ],
-      "duration_ms": 306520,
-      "name": "Bloo Story",
-      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
-    },
-    {
-      "added_at": "2022-07-22 09:31:48",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 175160,
       "name": "i (Feat. Jung Yup) (Prod. BOYCOLD)",
       "url": "https://open.spotify.com/track/6lANlfKORDVvUtn7TAODY3"
+    },
+    {
+      "added_at": "2022-07-22 09:31:48",
+      "album": {
+        "name": "BLOO IN WONDERLAND 2",
+        "url": "https://open.spotify.com/album/5V3hJUzlxSMjbKUniQSf5J"
+      },
+      "artists": [
+        {
+          "name": "BLOO",
+          "url": "https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1"
+        }
+      ],
+      "duration_ms": 306520,
+      "name": "Bloo Story",
+      "url": "https://open.spotify.com/track/2TkLBWRw5W05Sf1VdgJvTr"
     },
     {
       "added_at": "2022-07-22 09:31:48",

@@ -1,12 +1,12 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 51534,
+  "num_followers": 51647,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDgwZGU2MTQzOGMwNTM5ODk4OTdlYTVlZGM5MjhmYTQz",
+  "snapshot_id": "MTY0MzE1MDgyMiwwMDAwMDAwMDdhZDIzMjAzODgwMmRkY2RiOGZiYmY1MjNkODEzMDYz",
   "tracks": [
     {
       "added_at": "2022-01-25 22:47:02",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "C\u00f3mo Quieres Que Te Quiera",
-      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Voces de Ultrarumba",
         "url": "https://open.spotify.com/album/44wPRtOt2DMSy8C4ELLuwX"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 192386,
       "name": "Vacaciones",
       "url": "https://open.spotify.com/track/3Aj18tBmQKLTGU3KEpbZ40"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "C\u00f3mo Quieres Que Te Quiera",
+      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 194870,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "La Extraordinaria Paradoja Del Sonido Quijano",
         "url": "https://open.spotify.com/album/6UEfKdBxC0Zf9EIbGvK5QY"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 197320,
       "name": "La Lola",
       "url": "https://open.spotify.com/track/0VnAETWOc4BCr4YbzfI7zH"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/4XIrvN5W5fTbTRrSnFN2Ny"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 194870,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/5Aax4WuBCyiVp4NDB3lg5j"
     },
     {
       "added_at": "2022-01-25 22:47:02",

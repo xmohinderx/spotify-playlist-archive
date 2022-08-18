@@ -2,9 +2,9 @@
 
 ### [Latin R&B](https://open.spotify.com/playlist/37i9dQZF1DX2MJVTOdWtbm)
 
-> Lo nuevo del R&B Latino\. Fresh R&B Latin tracks\. Cover: Destiny Rogers
+> Fresh R&B Latin tracks, solo lo nuevo del R&B Latino\.  Cover: Destiny Rogers
 
-162 songs - 8 hr 38 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
+163 songs - 8 hr 41 min - [published](https://open.spotify.com/playlist/6BABfI7FRig6PawzmBqz25)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Cerezos II](https://open.spotify.com/track/2yw2lAqQveFFWzr8Bu6uHG) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Experimento](https://open.spotify.com/album/74gTwPmW6qHE5TpKh5kPud) | 4:01 | 2022-02-11 |  |
 | [Cerquita del Mar](https://open.spotify.com/track/5l6VAepfKDFDa2sR0fAELo) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG) | [Cerquita del Mar](https://open.spotify.com/album/5GouiabFEFinoSTOy0DqQM) | 3:21 | 2022-08-05 |  |
 | [Chimbita](https://open.spotify.com/track/1s8LnjztT2IIxezpn0JP7H) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Chimbita](https://open.spotify.com/album/4q0baF6ACF19h9lFRz3Dit) | 2:45 | 2022-08-05 |  |
-| [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-02-11 |  |
+| [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-02-11 | 2022-08-18 |
 | [CINCO](https://open.spotify.com/track/4rogcVulmlEmSi08u3VWc8) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [5](https://open.spotify.com/album/158sVr4HeR7ukWJMDGmdFw) | 3:27 | 2022-03-11 | 2022-05-07 |
 | [Cliché](https://open.spotify.com/track/6q5eVWbNaW19NZWNeLqjyM) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [Cliché](https://open.spotify.com/album/0l5ayQ0P7lUKSidsIJyp7T) | 2:53 | 2022-02-11 | 2022-07-29 |
 | [CON TAL](https://open.spotify.com/track/6hvsPuihxUfnp6GARyAO3w) | [Marval](https://open.spotify.com/artist/0qKkpjlY5VEmY4n6CRbPZM) | [CON TAL](https://open.spotify.com/album/1wJYAtnHZRBqt8H3cwRwBm) | 2:54 | 2022-02-11 |  |
@@ -125,6 +125,7 @@
 | [papacito](https://open.spotify.com/track/1nV5gbrDdxfua6ICkCVTgY) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [antisocial butterfly](https://open.spotify.com/album/0pZWmEVf32O4FD96hUwnGb) | 3:05 | 2022-05-20 | 2022-08-06 |
 | [Pausa](https://open.spotify.com/track/2WghQbGkuUcc2pOwTMO8Xa) | [EVAH](https://open.spotify.com/artist/0Jq68za8AyaPdrI4NEuMni) | [Pausa](https://open.spotify.com/album/5Y2KMjZlfEdAZtOp5JeXXY) | 4:03 | 2022-02-11 |  |
 | [Pegao](https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG) | [Immasoul](https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Natural](https://open.spotify.com/album/0wYdnzS5bRsAZHhxGGDt00) | 2:49 | 2022-02-11 | 2022-08-06 |
+| [Pleasure \(feat\. RINI\)](https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI) | [Abrina](https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58), [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3) | [Pleasure \(feat\. RINI\)](https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz) | 2:41 | 2022-08-17 |  |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-20 |  |
 | [Por ti](https://open.spotify.com/track/1dHcEAIWUzou2udyajJqTm) | [Kira Brown](https://open.spotify.com/artist/3pa5M2Ewzy6L18H0PtrcD8), [AMEX](https://open.spotify.com/artist/22yjgBso2UylN40c0ZVdFY) | [Por ti](https://open.spotify.com/album/64lqoB0guQb5b8bArbwXze) | 2:52 | 2022-02-11 | 2022-05-20 |
 | [Potion](https://open.spotify.com/track/3agEscWdLfv8XEttP6OZMP) | [Jarline](https://open.spotify.com/artist/1DMtxSXoLR9Nmo0HisvlpC) | [Potion](https://open.spotify.com/album/4oq3z64mnf0l3GHLJHsvFk) | 2:55 | 2022-07-26 | 2022-08-06 |

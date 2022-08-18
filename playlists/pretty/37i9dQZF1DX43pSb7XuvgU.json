@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de Jos\u00e9 Jos\u00e9 y Juan Gabriel en un mismo lugar.",
-  "num_followers": 70601,
+  "num_followers": 70755,
   "original_name": "Dos \u00cdconos: Jos\u00e9 Jos\u00e9 x Juan Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDNkODlhNWY4NTI1NWNkZjFlZDJmOTY0ZWMxY2RhN2Jl",
+  "snapshot_id": "MTY0MDgyMDgzNywwMDAwMDAwMDUxNjlmZWFhNDg5NDFkNzRjMTI5ZjBhMDE0NjgyMjE1",
   "tracks": [
     {
       "added_at": "2021-12-29 23:33:57",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "15 Anos De Exitos",
-        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 177013,
-      "name": "Se Me Olvid\u00f3 Otra Vez",
-      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Promesas",
         "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 175066,
       "name": "Me Vas a Echar de Menos",
       "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "15 Anos De Exitos",
+        "url": "https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 177013,
+      "name": "Se Me Olvid\u00f3 Otra Vez",
+      "url": "https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -747,22 +747,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "O T\u00fa o Yo",
-      "url": "https://open.spotify.com/track/0NCQuXo5AGew6q50KwPngk"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Si Me Dejas Ahora",
         "url": "https://open.spotify.com/album/67vQGGmJo6HWohZswCAnXc"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 175293,
       "name": "Mientras Llueve",
       "url": "https://open.spotify.com/track/5bV4nYoPmhTkUShCMs8H8a"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "O T\u00fa o Yo",
+      "url": "https://open.spotify.com/track/0NCQuXo5AGew6q50KwPngk"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -847,22 +847,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Ella",
-        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 165680,
-      "name": "Te Sigo Amando",
-      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Reencuentro",
         "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 223266,
       "name": "Buenos D\u00edas, Amor",
       "url": "https://open.spotify.com/track/5uXc8RpwAwKylPa0qeBhJl"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Ella",
+        "url": "https://open.spotify.com/album/0BAsKASCKXy1Gi7hdGNXIX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 165680,
+      "name": "Te Sigo Amando",
+      "url": "https://open.spotify.com/track/3Bn5su26JosHjkbIrxgz0j"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Con Tu Amor",
-        "url": "https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 249546,
-      "name": "Con Tu Amor",
-      "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 242480,
       "name": "Adi\u00f3s, Princesa",
       "url": "https://open.spotify.com/track/2NlIbM3lP1XbiJLcUevGwc"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Con Tu Amor",
+        "url": "https://open.spotify.com/album/5QQBnJ6jJF0hwQ7KrMJs4X"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 249546,
+      "name": "Con Tu Amor",
+      "url": "https://open.spotify.com/track/4cusMbDIB1bt7Z3F8YXxXX"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Todo",
+        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "Tengo Que Olvidar",
+      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
         "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 209186,
       "name": "Siempre Estoy Pensando en Ti (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
       "url": "https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Todo",
-        "url": "https://open.spotify.com/album/6X4xZK2oV8ydJDnIMpL5TX"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "Tengo Que Olvidar",
-      "url": "https://open.spotify.com/track/4yrX8XKr7g75yemExDlcO5"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "Juan Gabriel Con Banda... El Recodo",
-        "url": "https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 302906,
-      "name": "Ahora Con la Banda... Te Voy a Olvidar / Ya para Qu\u00e9 / La Farsante",
-      "url": "https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "Siempre Estoy Pensando En Ti",
         "url": "https://open.spotify.com/album/3GZBUlOokXQdZxBdby96bZ"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 114733,
       "name": "Ases y Tercia de Reyes",
       "url": "https://open.spotify.com/track/6OHJnVV4vXHbJdIRSpzviA"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "Juan Gabriel Con Banda... El Recodo",
+        "url": "https://open.spotify.com/album/3noaO4I0Z1RCHltgBtmabl"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 302906,
+      "name": "Ahora Con la Banda... Te Voy a Olvidar / Ya para Qu\u00e9 / La Farsante",
+      "url": "https://open.spotify.com/track/4tZ4seoyOqBvjlGlrJenF3"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
+        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
+        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 132773,
+      "name": "Ya No Vuelvo a Molestarte",
+      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
         "name": "Los D\u00fao 2",
         "url": "https://open.spotify.com/album/15SmxvmFr0a33i5c1f2T19"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 269533,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/5rSWafwAbqksTW1egLSowr"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
-        "name": "Con Mariachi Vol.2 (with El Mariachi M\u00e9xico '70 de Pepe L\u00f3pez)",
-        "url": "https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 132773,
-      "name": "Ya No Vuelvo a Molestarte",
-      "url": "https://open.spotify.com/track/7ykNB1WZij1HwzWAEaykA4"
     },
     {
       "added_at": "2021-12-29 23:33:57",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2021-12-29 23:33:57",
       "album": {
-        "name": "El Mexico Que Se Nos Fue",
-        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
-      },
-      "artists": [
-        {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
-        }
-      ],
-      "duration_ms": 277120,
-      "name": "El M\u00e9xico Que Se Nos Fue",
-      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
-    },
-    {
-      "added_at": "2021-12-29 23:33:57",
-      "album": {
         "name": "El Pr\u00edncipe de la Canci\u00f3n",
         "url": "https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 265600,
       "name": "Tu Primera Vez",
       "url": "https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830"
+    },
+    {
+      "added_at": "2021-12-29 23:33:57",
+      "album": {
+        "name": "El Mexico Que Se Nos Fue",
+        "url": "https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q"
+      },
+      "artists": [
+        {
+          "name": "Juan Gabriel",
+          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+        }
+      ],
+      "duration_ms": 277120,
+      "name": "El M\u00e9xico Que Se Nos Fue",
+      "url": "https://open.spotify.com/track/0pgLQNQUeji7Dc7SASQaIW"
     },
     {
       "added_at": "2021-12-29 23:33:57",

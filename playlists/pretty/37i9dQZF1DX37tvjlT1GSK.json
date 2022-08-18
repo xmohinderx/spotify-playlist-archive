@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Carin Leon en portada. ",
-  "num_followers": 695126,
+  "num_followers": 695285,
   "original_name": "Sierre\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDdmN2Y1MDY5OWY2ZTZkMzVjNjk4OTZiNWYzYTQ2Nzdh",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDE1YmJkNzYwMGE0N2QyZDI1M2NlNWZiNTdjZDUzZmY0",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 154760,
+      "name": "Brillo",
+      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Ya acab\u00f3 (Con Becky G)",
         "url": "https://open.spotify.com/album/6XZejfd76Y8JU23nnaVDTc"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 154760,
-      "name": "Brillo",
-      "url": "https://open.spotify.com/track/5gS11pL9yQcnKrzbmliOwh"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Perro Abandonado",
-        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 211198,
-      "name": "Perro Abandonado",
-      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 189750,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/2sVM0on2db42X3aH5hrx7o"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Perro Abandonado",
+        "url": "https://open.spotify.com/album/36l93OeIGI6bU9VmET5DlI"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        }
+      ],
+      "duration_ms": 211198,
+      "name": "Perro Abandonado",
+      "url": "https://open.spotify.com/track/2Xibft7dpTSCS9EQk5mQs0"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Obsessed (Deluxe)",
         "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 177420,
       "name": "Dejalo Ir",
       "url": "https://open.spotify.com/track/0IWbhl9q9HISium2adh6h2"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/7CRtdR3YSFhXOQ22ZVomgy"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/1S7FT0rhQ6AaTg0yBbFxYS"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1455,6 +1455,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "El Dolido",
+        "url": "https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln"
+      },
+      "artists": [
+        {
+          "name": "Victor Eme",
+          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
+        }
+      ],
+      "duration_ms": 194998,
+      "name": "El Dolido",
+      "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "Bla Bla Bla",
         "url": "https://open.spotify.com/album/3MUTf7mGalEj8B10tFFDY5"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 136248,
       "name": "Bla Bla Bla",
       "url": "https://open.spotify.com/track/2Fa31aSs31jeYTK2P85ZkL"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "El Dolido",
-        "url": "https://open.spotify.com/album/1uIJQImkY7FhTE28n9Arln"
-      },
-      "artists": [
-        {
-          "name": "Victor Eme",
-          "url": "https://open.spotify.com/artist/7pqC92doZ7JCuW52HhonW6"
-        }
-      ],
-      "duration_ms": 194998,
-      "name": "El Dolido",
-      "url": "https://open.spotify.com/track/1ZNxbZioh358Z04ECc3l53"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Cuando Se Ama a Una Mujer",
-        "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 216372,
-      "name": "Cuando Se Ama a Una Mujer",
-      "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Quiero Contarte",
         "url": "https://open.spotify.com/album/1I5KpnbMgFjUdApgWeLxyC"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 160597,
       "name": "Quiero Contarte",
       "url": "https://open.spotify.com/track/6PKzSSyKOup6JdrJwi85ay"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Cuando Se Ama a Una Mujer",
+        "url": "https://open.spotify.com/album/6Hgro2Y0AyPo8NJc9hPxiw"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 216372,
+      "name": "Cuando Se Ama a Una Mujer",
+      "url": "https://open.spotify.com/track/0sQYmLOa5trLFpUWbHxpZ9"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1691,18 +1691,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "De La Finikera",
-        "url": "https://open.spotify.com/album/7fksSbYuu7VSTp33FSojv3"
+        "name": "Rayas En La Cara",
+        "url": "https://open.spotify.com/album/50ZfxOvxBmSABVkVLYDSDv"
       },
       "artists": [
         {
-          "name": "Las Mar\u00edas",
-          "url": "https://open.spotify.com/artist/1BsFNAYZkEx6rvQJH4sN6w"
+          "name": "Angel Tumbado",
+          "url": "https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq"
+        },
+        {
+          "name": "Angel Ureta",
+          "url": "https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8"
         }
       ],
-      "duration_ms": 194960,
-      "name": "From La Finikera",
-      "url": "https://open.spotify.com/track/0ya66ZjAYqkP3nQWhXe9Xc"
+      "duration_ms": 174080,
+      "name": "Rayas En La Cara",
+      "url": "https://open.spotify.com/track/3WxrfhDdNCHEy8ofNFSqsf"
     }
   ],
   "unique_name": "Sierre\u00f1o 2022",

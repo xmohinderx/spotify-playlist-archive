@@ -1,12 +1,12 @@
 {
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0634\u0639\u0628\u064a\u0629 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631! \u063a\u0644\u0627\u0641: \u062d\u0643\u064a\u0645\n\n",
-  "num_followers": 42987,
+  "num_followers": 43013,
   "original_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTYyODgwMCwwMDAwMDAwMDliODIwMjg5Yzg5ZWI4Yzc3NDhiODRiMDM3ZTlhMjhk",
+  "snapshot_id": "MTY1OTYyODgwMCwwMDAwMDAwMDY2NzIzNDJiZDUyYzFmMTBkMTUyOWNkYjkxZTcwMDQ2",
   "tracks": [
     {
       "added_at": "2022-08-04 16:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
+        "name": "Mesh Hasebak",
+        "url": "https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV"
+      },
+      "artists": [
+        {
+          "name": "Hassan El Asmar",
+          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
+        }
+      ],
+      "duration_ms": 348249,
+      "name": "Ketab Hayaty",
+      "url": "https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
         "name": "Eish Besho'ak",
         "url": "https://open.spotify.com/album/59Behg6SoGd5d4U4ljmZDg"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 334800,
       "name": "100 Wesh",
       "url": "https://open.spotify.com/track/0ioV5GPv4KQjvBaWE7VTu3"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
-        "name": "Mesh Hasebak",
-        "url": "https://open.spotify.com/album/5VZqJeaS9npyDjJrGdkPnV"
-      },
-      "artists": [
-        {
-          "name": "Hassan El Asmar",
-          "url": "https://open.spotify.com/artist/2V9eL6H3ZeeLRKYud48vax"
-        }
-      ],
-      "duration_ms": 348249,
-      "name": "Ketab Hayaty",
-      "url": "https://open.spotify.com/track/4SlWoiEKOBzolCg2CP2Alx"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -787,34 +787,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "Donjwan (feat. Amr Yousef, Hassan Elraddad & Yara)",
-        "url": "https://open.spotify.com/album/39myupeh2lms0htXCRYpgv"
-      },
-      "artists": [
-        {
-          "name": "Mahmoud El Leithy",
-          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
-        },
-        {
-          "name": "Amr Yousef",
-          "url": "https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ"
-        },
-        {
-          "name": "Hassan Elraddad",
-          "url": "https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW"
-        },
-        {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Donjwan (feat. Amr Yousef, Hassan Elraddad & Yara)",
-      "url": "https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u062c\u0627\u0645\u062f\u0647 (\u0647\u062f\u0649)",
         "url": "https://open.spotify.com/album/5OxqnvljU74DCJfHDL3UgY"
       },
@@ -827,6 +799,22 @@
       "duration_ms": 186857,
       "name": "\u062c\u0627\u0645\u062f\u0647 - \u0647\u062f\u0649",
       "url": "https://open.spotify.com/track/14GniDplO0FbXvk9MgYOT6"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
+        "url": "https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf"
+      },
+      "artists": [
+        {
+          "name": "Saad El Soghayar",
+          "url": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
+        }
+      ],
+      "duration_ms": 254912,
+      "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
+      "url": "https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -867,18 +855,30 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
-        "url": "https://open.spotify.com/album/2I2dMRK4GoHT8OqLqUOnxf"
+        "name": "Donjwan (feat. Amr Yousef, Hassan Elraddad & Yara)",
+        "url": "https://open.spotify.com/album/39myupeh2lms0htXCRYpgv"
       },
       "artists": [
         {
-          "name": "Saad El Soghayar",
-          "url": "https://open.spotify.com/artist/1fNhDktKNtf7g7COrlJguP"
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        },
+        {
+          "name": "Amr Yousef",
+          "url": "https://open.spotify.com/artist/2k39kWM8QPPwDQ3OLbVZZZ"
+        },
+        {
+          "name": "Hassan Elraddad",
+          "url": "https://open.spotify.com/artist/1OLMBIjZa6BlqAOjL5oIkW"
+        },
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
         }
       ],
-      "duration_ms": 254912,
-      "name": "\u0623\u0646\u0627 \u0627\u0644\u0639\u0631\u064a\u0633",
-      "url": "https://open.spotify.com/track/08VaEgwrjwYF62fJr8A0nF"
+      "duration_ms": 198620,
+      "name": "Donjwan (feat. Amr Yousef, Hassan Elraddad & Yara)",
+      "url": "https://open.spotify.com/track/7tIjuahzTIksfKRBHn4eN2"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -1099,18 +1099,22 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u0648\u0642\u062a \u0627\u0644\u0645\u0635\u0644\u062d\u0629",
-        "url": "https://open.spotify.com/album/5g9lc6VOkWss2QwOvd0YFG"
+        "name": "\u064a\u0644\u0627 \u0633\u0644\u0627\u0645",
+        "url": "https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3"
       },
       "artists": [
         {
           "name": "Omar Kamal",
           "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
+        },
+        {
+          "name": "Ahmed Sheba",
+          "url": "https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc"
         }
       ],
-      "duration_ms": 224302,
-      "name": "\u0648\u0642\u062a \u0627\u0644\u0645\u0635\u0644\u062d\u0629",
-      "url": "https://open.spotify.com/track/5M0tLy6AaUbSyb87kNBSj4"
+      "duration_ms": 242442,
+      "name": "\u064a\u0644\u0627 \u0633\u0644\u0627\u0645",
+      "url": "https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -1215,22 +1219,18 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u064a\u0644\u0627 \u0633\u0644\u0627\u0645",
-        "url": "https://open.spotify.com/album/0NHWTldRKmOBfdAQa5yQO3"
+        "name": "\u0648\u0642\u062a \u0627\u0644\u0645\u0635\u0644\u062d\u0629",
+        "url": "https://open.spotify.com/album/5g9lc6VOkWss2QwOvd0YFG"
       },
       "artists": [
         {
           "name": "Omar Kamal",
           "url": "https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV"
-        },
-        {
-          "name": "\u0623\u062d\u0645\u062f \u0634\u064a\u0628\u0629",
-          "url": "https://open.spotify.com/artist/4qlDgyj8BzNEmCsjS3xbNh"
         }
       ],
-      "duration_ms": 242442,
-      "name": "\u064a\u0644\u0627 \u0633\u0644\u0627\u0645",
-      "url": "https://open.spotify.com/track/3ta6cNExN9B19VKESQtsnr"
+      "duration_ms": 224302,
+      "name": "\u0648\u0642\u062a \u0627\u0644\u0645\u0635\u0644\u062d\u0629",
+      "url": "https://open.spotify.com/track/5M0tLy6AaUbSyb87kNBSj4"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -1619,22 +1619,6 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u0631\u0624\u064a\u0647",
-        "url": "https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk"
-      },
-      "artists": [
-        {
-          "name": "Wael El Fashny",
-          "url": "https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD"
-        }
-      ],
-      "duration_ms": 314096,
-      "name": "\u0631\u0624\u064a\u0647",
-      "url": "https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
         "name": "\u0628\u064a\u0639\u062f\u064a \u0642\u0635\u0627\u062f\u064a",
         "url": "https://open.spotify.com/album/0FCUiGppzbGdXdvhsdS0Hu"
       },
@@ -1647,38 +1631,6 @@
       "duration_ms": 228750,
       "name": "\u0628\u064a\u0639\u062f\u064a \u0642\u0635\u0627\u062f\u064a",
       "url": "https://open.spotify.com/track/7ne1OIdQoG7jwdupoKxyZ7"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
-        "name": "ElSo7ab Yala",
-        "url": "https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J"
-      },
-      "artists": [
-        {
-          "name": "Misho Gamal",
-          "url": "https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet"
-        }
-      ],
-      "duration_ms": 271092,
-      "name": "ElSo7ab Yala",
-      "url": "https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp"
-    },
-    {
-      "added_at": "2022-08-04 16:00:00",
-      "album": {
-        "name": "Ya Dmaghy",
-        "url": "https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6"
-      },
-      "artists": [
-        {
-          "name": "Diab",
-          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "Ya Dmaghy",
-      "url": "https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY"
     },
     {
       "added_at": "2022-08-04 16:00:00",
@@ -1699,18 +1651,66 @@
     {
       "added_at": "2022-08-04 16:00:00",
       "album": {
-        "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
-        "url": "https://open.spotify.com/album/3i1LShxG8qpiWas7pAuya0"
+        "name": "\u0631\u0624\u064a\u0647",
+        "url": "https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk"
       },
       "artists": [
         {
-          "name": "Ahmad Amer",
-          "url": "https://open.spotify.com/artist/4l9xrd6fwIvxgxa5kc1ilJ"
+          "name": "Wael El Fashny",
+          "url": "https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD"
         }
       ],
-      "duration_ms": 313775,
-      "name": "\u0646\u0627\u0633 \u0631\u062e\u0627\u0635",
-      "url": "https://open.spotify.com/track/1cx8SaH3qOkQy2xzXqwbwu"
+      "duration_ms": 314096,
+      "name": "\u0631\u0624\u064a\u0647",
+      "url": "https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "Ya Dmaghy",
+        "url": "https://open.spotify.com/album/3JtokkqzWVglzQnL1q13s6"
+      },
+      "artists": [
+        {
+          "name": "Diab",
+          "url": "https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "Ya Dmaghy",
+      "url": "https://open.spotify.com/track/52gnDXlnvJZTTAQOC000wY"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "ElSo7ab Yala",
+        "url": "https://open.spotify.com/album/07r7JWc9srIQL0IYtUI86J"
+      },
+      "artists": [
+        {
+          "name": "Misho Gamal",
+          "url": "https://open.spotify.com/artist/6w4zJXRxkPD5Z1onGcEfet"
+        }
+      ],
+      "duration_ms": 271092,
+      "name": "ElSo7ab Yala",
+      "url": "https://open.spotify.com/track/4StABzuf6ZgFibqFSNEjmp"
+    },
+    {
+      "added_at": "2022-08-04 16:00:00",
+      "album": {
+        "name": "\u0643\u0627\u0633 \u0627\u0644\u0639\u0630\u0627\u0628",
+        "url": "https://open.spotify.com/album/7Kwjlfuqw1QjmK5hHyFovJ"
+      },
+      "artists": [
+        {
+          "name": "Waed",
+          "url": "https://open.spotify.com/artist/2lJxCVBy3A4nHP3kh1lkDg"
+        }
+      ],
+      "duration_ms": 253709,
+      "name": "\u0643\u0627\u0633 \u0627\u0644\u0639\u0630\u0627\u0628",
+      "url": "https://open.spotify.com/track/691pg3e2jxVBpIyuokCsf6"
     }
   ],
   "unique_name": "\u0634\u0639\u0628\u064a \u0645\u0635\u0631\u064a",

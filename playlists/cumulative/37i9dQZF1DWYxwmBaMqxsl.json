@@ -754,6 +754,24 @@
     },
     {
       "album": {
+        "name": "Ever Since You Came",
+        "url": "https://open.spotify.com/album/72goGK8ag1HjjFDirVAjWI"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277000,
+      "name": "Ever Since You Came",
+      "url": "https://open.spotify.com/track/7GaJHvb45wl4F5QYuesmI8"
+    },
+    {
+      "album": {
         "name": "The Insider",
         "url": "https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX"
       },
@@ -1464,6 +1482,24 @@
     },
     {
       "album": {
+        "name": "Life In The Deepest Blue",
+        "url": "https://open.spotify.com/album/4a30lMOexLL1l9Y8n9AzR7"
+      },
+      "artists": [
+        {
+          "name": "Astoria Three",
+          "url": "https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173834,
+      "name": "Life In The Deepest Blue",
+      "url": "https://open.spotify.com/track/7xVV4ujd2zDDJeyxcBR4i0"
+    },
+    {
+      "album": {
         "name": "Light Wave",
         "url": "https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9"
       },
@@ -2055,6 +2091,24 @@
       "duration_ms": 264626,
       "name": "Prelude to a Kiss",
       "url": "https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8"
+    },
+    {
+      "album": {
+        "name": "Stars in Your Eyes",
+        "url": "https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4"
+      },
+      "artists": [
+        {
+          "name": "James Jackson Jazz Trio",
+          "url": "https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193213,
+      "name": "Pretty Are Your Eyes",
+      "url": "https://open.spotify.com/track/0QXIct82DEE5RmlpeVHE4Y"
     },
     {
       "album": {
@@ -2999,6 +3053,24 @@
       "duration_ms": 286250,
       "name": "Yet another dream",
       "url": "https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y"
+    },
+    {
+      "album": {
+        "name": "You Can Call Me Again",
+        "url": "https://open.spotify.com/album/1FVvVtu6dwRrZlrx08pL6p"
+      },
+      "artists": [
+        {
+          "name": "Norris Walker Trio",
+          "url": "https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "You Can Call Me Again",
+      "url": "https://open.spotify.com/track/2o0AN4oU66mlc9dH54ENFd"
     },
     {
       "album": {

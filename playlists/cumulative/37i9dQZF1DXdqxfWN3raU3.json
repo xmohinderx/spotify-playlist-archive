@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Foto: Tiago PZK",
+  "description": "Disfruta del m\u00e1s fino R&B creado en el continente y Espa\u00f1a. Foto: Samantha Barr\u00f3n",
   "name": "R&B Latino",
   "published_playlist_ids": [
     "322xEoodQLUql4qTRvYX7v"
@@ -457,6 +457,28 @@
       "duration_ms": 262852,
       "name": "Brillo en Soledad",
       "url": "https://open.spotify.com/track/5VJX4IshKU7hSk6ov8jlGn"
+    },
+    {
+      "album": {
+        "name": "B\u00e9same Lento",
+        "url": "https://open.spotify.com/album/5AF3raSCoWij16qck0msSm"
+      },
+      "artists": [
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        },
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238000,
+      "name": "B\u00e9same Lento",
+      "url": "https://open.spotify.com/track/2b1z1Z44zzakWfqTycS1rL"
     },
     {
       "album": {
@@ -941,7 +963,7 @@
       ],
       "date_added": "2022-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 217411,
       "name": "D\u00e9jame Entrar",
       "url": "https://open.spotify.com/track/4oM5VvGeb3Gz9tVJqRZqra"
@@ -2346,7 +2368,7 @@
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 183475,
+      "duration_ms": 188193,
       "name": "Qui\u00e9reme As\u00ed",
       "url": "https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK"
     },

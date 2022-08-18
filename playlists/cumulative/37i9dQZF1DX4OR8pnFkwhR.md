@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: CVLTE
 
-352 songs - 21 hr 19 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
+359 songs - 21 hr 42 min - [published](https://open.spotify.com/playlist/3egMOJl8BjDmQKjIUlEPsP)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [bloom](https://open.spotify.com/track/4OjPtEtDQ5xqE7m8WuUley) | [macico](https://open.spotify.com/artist/3E8101axpM3NdTLpv4vhhk) | [bloom](https://open.spotify.com/album/551wBdThRnp6v8uT8AlQug) | 3:52 | 2022-02-22 | 2022-04-21 |
 | [Bomboclap](https://open.spotify.com/track/1CHN5TeKq86MnDC6VUrzLh) | [DONGURIZU](https://open.spotify.com/artist/1K4Acb9dvEU10jF5pGfJ3v) | [Bomboclap](https://open.spotify.com/album/4VWKGhXXgH0Ww68yk7LTwn) | 5:41 | 2022-05-17 | 2022-06-01 |
 | [Bonnie & Clyde](https://open.spotify.com/track/6SJ6ILaHlY46nhHNigSCtP) | [Young Dalu](https://open.spotify.com/artist/0hdHoi970cAuqTINgtnLrm), [OSAMI](https://open.spotify.com/artist/5wKEj2ICoq0Va6spZNvfTr), [Wes Period](https://open.spotify.com/artist/0Pb8ZfFfE2O0pvsFdwVUYl) | [Bonnie & Clyde](https://open.spotify.com/album/6MSlBb3UVoJlgp5Dtkvpch) | 2:59 | 2022-03-29 | 2022-05-25 |
+| [Brain Scratch](https://open.spotify.com/track/1AzGq7oRfqR36LzaCWTiTI) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN) | [Brain Scratch](https://open.spotify.com/album/71tODak7A2364WwWyGhXcf) | 3:23 | 2022-08-16 |  |
 | [Burning Fuel](https://open.spotify.com/track/6g9fyqAjF8zk4QhNYkjdYL) | [Bleecker Chrome](https://open.spotify.com/artist/63F60S2TQ5VC0KLx8dWNc8) | [SEVEN THIRTY ONE](https://open.spotify.com/album/1t40QHVlS8MF8ReiAz67xV) | 2:50 | 2022-03-29 | 2022-08-16 |
 | [Businessman](https://open.spotify.com/track/4pFT8B1n09iD1gMhcZnGcf) | [Sean Oshima](https://open.spotify.com/artist/4LC3wsmgBW48A6DtXtCWsw) | [Businessman](https://open.spotify.com/album/0VNDhYYxlpcvBLYJLFQ6dO) | 2:57 | 2022-07-28 | 2022-08-03 |
 | [Bジャンプ](https://open.spotify.com/track/4srFT0JT4zcoPv7YFfd53J) | [4na](https://open.spotify.com/artist/4oFbU35Y1ezMvUlB6B5MTF) | [Bジャンプ](https://open.spotify.com/album/4gx6cVuTGWieuv6KlyucEj) | 3:32 | 2022-04-05 | 2022-05-18 |
@@ -42,6 +43,7 @@
 | [crash](https://open.spotify.com/track/0M8fxdsZtUTqo4bD1HxOng) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [crash](https://open.spotify.com/album/1H9MBQi6MUPyVq4oXWEtz8) | 2:46 | 2022-06-07 | 2022-07-01 |
 | [d.s.m \- Studio Live Session](https://open.spotify.com/track/1383Xfuq08qSbx4zMJPFRd) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun Studio Live Session](https://open.spotify.com/album/5LlCwmuxbZODLBZqviAlOM) | 3:11 | 2022-04-05 | 2022-04-22 |
 | [Dadaism](https://open.spotify.com/track/2CrIYfWLOTdNFsOR7QfGE2) | [ARAWA](https://open.spotify.com/artist/3jIaFeZJTaWRt0pSOnK5Gm) | [Dadaism](https://open.spotify.com/album/7szLNdzqs579yj4qZE0iaS) | 3:42 | 2022-03-22 | 2022-05-11 |
+| [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 |  |
 | [DESIRE](https://open.spotify.com/track/2ravTxFpwFgqXzDmQru4H3) | [CYBER RUI](https://open.spotify.com/artist/6kWLNH5QV9lGRhx2Kj7nA2) | [TIME TO SHINE](https://open.spotify.com/album/7wOxANTRpk4rz0M6KSt3wK) | 3:08 | 2022-04-20 | 2022-05-25 |
 | [Devil's Kiss](https://open.spotify.com/track/4H2WRCEiJviNs9c3kCItMM) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Devil's Kiss](https://open.spotify.com/album/25xKemGzB1B54AZFVcAROR) | 4:34 | 2022-07-26 | 2022-08-03 |
 | [DINDON](https://open.spotify.com/track/4rYap0Hsov9eM8LxhZDSBQ) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [DINDON](https://open.spotify.com/album/3zZPGpFtwIgcy1ARRD0hVF) | 3:23 | 2022-03-29 | 2022-05-11 |
@@ -51,6 +53,7 @@
 | [DREAM\*](https://open.spotify.com/track/4kmHuW46LewgV23TMVY7Br) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 2:30 | 2022-07-14 |  |
 | [Drippin' Desert](https://open.spotify.com/track/3oIRoQoLagPUYw3JcvuVeq) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Telegraph](https://open.spotify.com/album/3ismxDq0GXM0yuiF6U8We3) | 4:19 | 2022-07-28 |  |
 | [Drippin' Desert](https://open.spotify.com/track/5LwhU17yOVvsBKw1SBW9aj) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [telegraph](https://open.spotify.com/album/0iA4MRC2v2WBEfgw8FSesc) | 4:19 | 2022-07-26 | 2022-07-29 |
+| [DRIVE AWAY](https://open.spotify.com/track/0vW92UN6Bd8BFLBoxrCZHW) | [Gambs](https://open.spotify.com/artist/16AEm9MJ06RFrLAsbqCiwv) | [ONE NIGHT ALONe](https://open.spotify.com/album/0WKurIdB96b0JSawNbzh1J) | 3:59 | 2022-08-16 |  |
 | [Drivin'](https://open.spotify.com/track/5dTFgyqxUJENFQgT3WpYDQ) | [LAGHEADS](https://open.spotify.com/artist/4ByaRqzQAftsd7bdCS3hqN), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Drivin'](https://open.spotify.com/album/7hFgHs48yLBm8Q5WOLBSCJ) | 2:51 | 2022-07-19 |  |
 | [drivin'](https://open.spotify.com/track/2arT5zAY4wphTwipc07SeS) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [drivin'](https://open.spotify.com/album/0k6uJOhFGvSW7n5iqrJr3A) | 3:47 | 2022-03-15 | 2022-04-13 |
 | [D・T・F](https://open.spotify.com/track/061MFvSxejBkapUzNkOEia) | [BREIMEN](https://open.spotify.com/artist/3SasVdv6zvCEY29rst8PBU) | [D・T・F](https://open.spotify.com/album/2euKaGrPxK3Y1T2g8Ws3t1) | 3:31 | 2022-04-27 | 2022-06-15 |
@@ -85,6 +88,7 @@
 | [i was ur girl](https://open.spotify.com/track/6mk4ljqIKz0KpKyBE0mXTB) | [Kinami](https://open.spotify.com/artist/5Zm3vMvLFPUji0Y2txuRdt) | [ご自愛](https://open.spotify.com/album/1S20yx09e37gcIn4xPzskF) | 3:15 | 2022-05-17 | 2022-06-15 |
 | [ia](https://open.spotify.com/track/0Gh8WFwlECOD2v57zF15Nn) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/3hfq2hcMkXGUl6tewG5yQT) | 4:14 | 2022-07-28 | 2022-08-10 |
 | [ia](https://open.spotify.com/track/2mnUQfzbAM5KLLL6vjhlpG) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [ia](https://open.spotify.com/album/61ON4UP1najrsFvPXTt7j8) | 4:14 | 2022-07-14 | 2022-07-29 |
+| [Indie Slime](https://open.spotify.com/track/40cN265DZzEX7gg4jPU6SQ) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj), [PARKGOLF](https://open.spotify.com/artist/56oGj3qZcyqRZkHL4IrMz9) | [Indie Slime](https://open.spotify.com/album/1JNqR6Octbf9QtuD9zlOOh) | 2:25 | 2022-08-16 |  |
 | [Jubilee](https://open.spotify.com/track/4GvzdbMFTbxMavCVbE9yF2) | [Dortmund Moon Sliders](https://open.spotify.com/artist/7jO3GDwLJmvGJH1wj0zBZv) | [Life Is Beautiful](https://open.spotify.com/album/6n8QbQQAamira9hPwP1URm) | 3:48 | 2022-05-10 | 2022-05-18 |
 | [kabin](https://open.spotify.com/track/4jUywzQdvP3CJjJ4BfeDif) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/0iRuZp1ClTJ1HIKPihHv8s) | 3:27 | 2022-07-28 |  |
 | [KANDEN \(feat\. ゆるふわギャング\)](https://open.spotify.com/track/0PYB0GpSmN26QVXtvdzMv4) | [Kamui](https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C), [Yurufuwa Gang](https://open.spotify.com/artist/5F80x2l9juqR6RLeuACpqS) | [YC2.5](https://open.spotify.com/album/6Zn3tfvVOXgR7UoQodijM0) | 2:51 | 2022-08-07 |  |
@@ -237,6 +241,7 @@
 | [ガラスが割れた!!](https://open.spotify.com/track/367jwubxXh3834vcMVb3ii) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [ガラスが割れた!!](https://open.spotify.com/album/0AyG1T4anvvrdADtJvfwIv) | 2:57 | 2022-07-19 |  |
 | [グッドバイソング](https://open.spotify.com/track/2ZrnJgMf5FZftiFtBJW9sP) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [DREAM DROPPER](https://open.spotify.com/album/6Jzn1Cni94VChGWzQH2Eqh) | 2:37 | 2022-02-17 | 2022-03-09 |
 | [ケダモノのフレンズ](https://open.spotify.com/track/6WUytTGUVFHTVGOqty1UPs) | [にしな](https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70) | [odds and ends](https://open.spotify.com/album/4T0USknu2Yz9mhoB6enHH0) | 3:37 | 2022-02-27 | 2022-04-20 |
+| [コズミック](https://open.spotify.com/track/2wIGnFXppV7dbp8I1bmA9B) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [コズミック](https://open.spotify.com/album/5XhlBoKq69TkOtXF8uN6CA) | 2:38 | 2022-08-16 |  |
 | [サマーブルーム](https://open.spotify.com/track/6b7PLhYnmxUXZepngv875O) | [Ryukku to Soine Gohan](https://open.spotify.com/artist/5LRYFq7w1jFGA4TGd0bB9D) | [サマーブルーム](https://open.spotify.com/album/07dE5hGDY5YzyC8OonL8Il) | 4:33 | 2022-07-05 | 2022-07-27 |
 | [シトラス](https://open.spotify.com/track/3E7EqKi9z8dRoWUame2a88) | [Kei Sugawara](https://open.spotify.com/artist/7xlTOxmnztZVNgoPlMV6YS) | [シトラス](https://open.spotify.com/album/7w8SJy9LxvERNlDtuFulId) | 3:10 | 2022-02-17 | 2022-03-09 |
 | [ショートショート](https://open.spotify.com/track/51u6JSKwD9wDMQ40DyYc4i) | [幽体コミュニケーションズ](https://open.spotify.com/artist/3dLMNvMcmgkMxqf2smWYs4) | [\(汽水のコピー\)](https://open.spotify.com/album/20QQSAjtnSXzG8U4PmJKpU) | 3:07 | 2022-03-01 | 2022-03-30 |
@@ -326,6 +331,7 @@
 | [濡溶](https://open.spotify.com/track/7GW6IgNWf23xbwyQ3rfwNR) | [新東京](https://open.spotify.com/artist/4z1tFGABx36ganyB3MZEK0) | [濡溶](https://open.spotify.com/album/0OSmMCfoplA3Rqpevs7Dqu) | 1:34 | 2022-02-22 | 2022-03-30 |
 | [灰になって空に舞う](https://open.spotify.com/track/0cv01P6YagCS2AzVJ7Zm53) | [BURNABLE/UNBURNABLE](https://open.spotify.com/artist/18gC8b8KN9bId452Xdbl3p) | [灰になって空に舞う](https://open.spotify.com/album/42O4d68FPjGsellVrCxJBp) | 2:50 | 2022-04-12 | 2022-05-18 |
 | [煙](https://open.spotify.com/track/7dGYY5OqFqcHCGfXANJpnd) | [ナカムラマユ](https://open.spotify.com/artist/0SEwHBIuSqJzE4b8OrOlKz) | [煙](https://open.spotify.com/album/3bcnckNl3V1iMXQnKXd3NG) | 3:40 | 2022-04-27 | 2022-05-20 |
+| [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 |  |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [燦然と輝くとは](https://open.spotify.com/track/5e7W1M0dXPaOUcPg5Hpk49) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [燦然と輝くとは](https://open.spotify.com/album/2dSL2PM3SupqRJr104jxkS) | 1:14 | 2022-05-10 | 2022-06-01 |
 | [琥珀色の素肌](https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [tonun 2](https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ) | 3:25 | 2022-02-17 | 2022-03-09 |
@@ -354,6 +360,7 @@
 | [酔ひもせす](https://open.spotify.com/track/4uMgC3IQoT8wvupuPWotG1) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [酔ひもせす/グッドラック](https://open.spotify.com/album/55IkehGMr9Saotpbt8h8O2) | 3:42 | 2022-03-29 | 2022-06-15 |
 | [銃の部品](https://open.spotify.com/track/0AmXho7WWR4MprccR2pILw) | [PEOPLE 1](https://open.spotify.com/artist/2llRPLPOCvnAiUozItvPsU) | [銃の部品](https://open.spotify.com/album/3lF7gg3xzznR7gL6IKm4LB) | 2:34 | 2022-04-19 | 2022-05-20 |
 | [関係のない人](https://open.spotify.com/track/3WlAqL1Vaei9e84PDNh5FH) | [Kaneyorimasaru](https://open.spotify.com/artist/5h5smZjPHUEDyYNuafjehf) | [関係のない人](https://open.spotify.com/album/6gcvBSWLvo4zpdPYQDiZPS) | 3:33 | 2022-04-12 | 2022-05-18 |
+| [陶芸](https://open.spotify.com/track/7HcufLjbzyaRauzRET8hfj) | [kojikoji](https://open.spotify.com/artist/13lFKnH7sS9T35uPQmxaOs) | [Mining](https://open.spotify.com/album/7KvPSi87joIQXyTgPLoHe8) | 2:17 | 2022-08-16 |  |
 | [雨の魔法](https://open.spotify.com/track/1lWVxJGW5s5LCNgO2mQB0v) | [RQNY](https://open.spotify.com/artist/5G395u0vEWgpDykp47OjSP) | [雨の魔法](https://open.spotify.com/album/1zKpfBrMjF0bYj4ZGs5c7H) | 3:53 | 2022-04-28 | 2022-05-25 |
 | [雨宿り](https://open.spotify.com/track/2a2PVdfnVS8FP7rej4Jzkt) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [雨宿り](https://open.spotify.com/album/2IjnZrk1AFFgYwTmDWJill) | 4:32 | 2022-07-26 | 2022-07-29 |
 | [青を掬う](https://open.spotify.com/track/2917sge1opN5LbWy8IsIzu) | [あたらよ](https://open.spotify.com/artist/2yRnjWtHzmDELwYaUiX0Yh) | [青を掬う](https://open.spotify.com/album/28ZRPnbsRseTQvZWN8HFVE) | 3:59 | 2022-05-03 | 2022-05-27 |

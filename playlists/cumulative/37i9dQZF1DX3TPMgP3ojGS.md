@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,514 songs - 2 day 20 hr 39 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
+1,515 songs - 2 day 20 hr 41 min - [published](https://open.spotify.com/playlist/6P1AtIr4JGwSOgl9rwTOJW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Bedtime Story](https://open.spotify.com/track/6Vfbw73ppOiI72xfTwxeRz) | [Pierre Koenigs](https://open.spotify.com/artist/5VfDxDonlL9ImwQFQksAcY) | [Images of Now](https://open.spotify.com/album/4Fyk5yMOFNqjG2NTCksZQb) | 2:34 | 2021-03-22 | 2022-04-03 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-03-29 | 2022-07-25 |
 | [Before the End](https://open.spotify.com/track/4tyxHnPMfFZcJdZS8R1zcT) | [Max Rossiter](https://open.spotify.com/artist/1QBHSnspvme5KAL4PJ2tDw) | [Before the End](https://open.spotify.com/album/7zEORVyhxLXS2AXKtWNI08) | 2:20 | 2022-03-29 | 2022-04-12 |
+| [Before We Met](https://open.spotify.com/track/1gB9Hvz050IuA28oxXtydl) | [Minik Jakobsen](https://open.spotify.com/artist/6UJfJw5p9sg08LBKb9Ckfe) | [Before We Met](https://open.spotify.com/album/6dD11SUFl17tNcD0qxpZAJ) | 1:53 | 2022-08-17 |  |
 | [Before your eyes](https://open.spotify.com/track/4xugZez7zpHFNTgkf0DLV1) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Before your eyes](https://open.spotify.com/album/0o9d8yy6sU4pkrwu06Y84t) | 3:00 | 2022-03-08 |  |
 | [Beginning](https://open.spotify.com/track/0xfBAFqqp2bMbtRV2AIWRe) | [Megan Wofford](https://open.spotify.com/artist/3ac7SLoq4Rbms8XZE0rdkA) | [Awake](https://open.spotify.com/album/6sf1sDNB9paGfjOzavrIXj) | 2:26 | 2021-03-06\* | 2022-07-29 |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2021-10-07 |  |
@@ -390,7 +391,7 @@
 | [Epenthesis](https://open.spotify.com/track/1n4aWKep4lJeeDMkmkfJav) | [Lauren Hawley](https://open.spotify.com/artist/5UDWPRjs2Qvdp65nqY3f2r) | [Epenthesis](https://open.spotify.com/album/0aH8bPdKkSPIAyTGi7mM3D) | 2:51 | 2021-03-17 | 2022-07-29 |
 | [Episode](https://open.spotify.com/track/1drr6zT3kdWCr78jPuBYDt) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 2:30 | 2021-03-07 | 2021-05-25 |
 | [Erin's Waltz](https://open.spotify.com/track/7CzyIeMXvK2BFc9rc6wqJf) | [Per Magnusson](https://open.spotify.com/artist/6r9azAnNoGhtJ4ljPU4a2U) | [Erin's Waltz](https://open.spotify.com/album/3mAciq9EYfuFTLUVarqP6L) | 3:17 | 2021-03-11 | 2022-04-17 |
-| [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-03-29 |  |
+| [erinna](https://open.spotify.com/track/7yKhLZM7KvuutJEDBAkSbB) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [erinna](https://open.spotify.com/album/6VXZhQ3CoSjtYCxdn9In1X) | 2:08 | 2022-03-29 | 2022-08-18 |
 | [Ernestine](https://open.spotify.com/track/21EkhHVDKtaHawLN4NVwxG) | [Daniel Daecher](https://open.spotify.com/artist/10m0FXVWKgzBLEJteDQN41) | [Ernestine](https://open.spotify.com/album/2DHWxYznTTDXMKoeiimKO1) | 2:49 | 2021-03-21 | 2022-04-10 |
 | [Escaping Reality](https://open.spotify.com/track/7yMHwH6DywcjlVhTWtjlvs) | [Jakob Ahlbom](https://open.spotify.com/artist/2VZTNKYLnhbnV3FwGJlp3K) | [Escaping Reality](https://open.spotify.com/album/0fBSqtlGo2gheiYkSZqdjV) | 3:02 | 2021-03-10 | 2022-04-15 |
 | [Eselsbrücke](https://open.spotify.com/track/230vejrWpxzH8YQmEQZS3K) | [Heike Blau](https://open.spotify.com/artist/3dcO6J0QtVq4xwePBwkq3W) | [Eselsbrücke](https://open.spotify.com/album/7kGv4jUzQ3yus7kMOsqbzi) | 2:21 | 2022-04-14 | 2022-04-19 |

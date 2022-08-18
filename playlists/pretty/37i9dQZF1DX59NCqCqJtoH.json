@@ -1,12 +1,12 @@
 {
   "description": "We hear you.",
-  "num_followers": 880818,
+  "num_followers": 881762,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY4MjM5NiwwMDAwMDAwMDQ5NTJmOTA3NmUwMzU2ZDAzNTUwYjUzNmY5Zjg4YzI0",
+  "snapshot_id": "MTY2MDY4MjM5NiwwMDAwMDAwMGU1MGFhNjIyYTNjZDExYWRmOWNmMmYxN2ZkZDlhMDE0",
   "tracks": [
     {
       "added_at": "2022-08-12 19:46:36",
@@ -807,6 +807,22 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "five seconds flat",
+        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 182887,
+      "name": "ceilings",
+      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "fools (can't help falling in love) (feat. Sody)",
         "url": "https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 122723,
       "name": "Can't Love Myself",
       "url": "https://open.spotify.com/track/0MO1qNhm8aRZchi8CJlIRo"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
-        "name": "five seconds flat",
-        "url": "https://open.spotify.com/album/7vh3nkUP7HlDQIeSm7Ht6N"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 182887,
-      "name": "ceilings",
-      "url": "https://open.spotify.com/track/3hiuZQQ33aDnu4Xmmn8Lr7"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -935,6 +935,22 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 235035,
+      "name": "Pancakes for Dinner",
+      "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "Demons and Monsters",
         "url": "https://open.spotify.com/album/3tibCn5U6tDOLkjncjGvI3"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
-        "name": "Give Me A Minute",
-        "url": "https://open.spotify.com/album/2PullXMROSpzCdFdzEmFhy"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 235035,
-      "name": "Pancakes for Dinner",
-      "url": "https://open.spotify.com/track/4HffeEF97c6UxNePgbuECW"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
-        "name": "Stranger in the Alps",
-        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Smoke Signals",
-      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
         "name": "Call U Tomorrow",
         "url": "https://open.spotify.com/album/7pdP0BWJ8Faz6ZbWb3UCGc"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 186666,
       "name": "Call U Tomorrow",
       "url": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
+        "name": "Stranger in the Alps",
+        "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 324773,
+      "name": "Smoke Signals",
+      "url": "https://open.spotify.com/track/5w52BJAqGkV1ewaCVLmjhi"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "JAMIE",
+        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Darling",
+      "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "this body means nothing to me",
         "url": "https://open.spotify.com/album/59KqxBTfo4IpsQrxpPkwwR"
       },
@@ -1179,22 +1195,6 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
-        "name": "Worn Out Heart",
-        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
-      },
-      "artists": [
-        {
-          "name": "yaeow",
-          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
-        }
-      ],
-      "duration_ms": 142588,
-      "name": "I Need U",
-      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
         "name": "Not a Home",
         "url": "https://open.spotify.com/album/71gwt7c6svVHx8B3G9TkNr"
       },
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
-        "name": "JAMIE",
-        "url": "https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl"
+        "name": "Worn Out Heart",
+        "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+          "name": "yaeow",
+          "url": "https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH"
         }
       ],
-      "duration_ms": 302000,
-      "name": "Darling",
-      "url": "https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz"
+      "duration_ms": 142588,
+      "name": "I Need U",
+      "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 181480,
+      "name": "Only Ones Who Know",
+      "url": "https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "is your bedroom ceiling bored? (feat. Cavetown)",
         "url": "https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 207509,
       "name": "is your bedroom ceiling bored? (feat. Cavetown)",
       "url": "https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 181480,
-      "name": "Only Ones Who Know",
-      "url": "https://open.spotify.com/track/7ABWRukVQcXrIrDKDx5Gek"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -1467,38 +1467,6 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
-        "name": "Sorry for Me",
-        "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
-      },
-      "artists": [
-        {
-          "name": "Ricky Montgomery",
-          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
-        }
-      ],
-      "duration_ms": 197513,
-      "name": "Sorry for Me",
-      "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
-        "name": "Man\u2019s Best Friend",
-        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
-      },
-      "artists": [
-        {
-          "name": "Cavetown",
-          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Idea of Her",
-      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
         "name": "Bad Idea",
         "url": "https://open.spotify.com/album/7nC6jmFJ2jpycTEgeu9a4J"
       },
@@ -1519,6 +1487,38 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "Man\u2019s Best Friend",
+        "url": "https://open.spotify.com/album/2L1GB55rNVE3rQYPjCeUTt"
+      },
+      "artists": [
+        {
+          "name": "Cavetown",
+          "url": "https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Idea of Her",
+      "url": "https://open.spotify.com/track/167NK7xPIRNKnSmUE9dBrQ"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
+        "name": "Sorry for Me",
+        "url": "https://open.spotify.com/album/07BwJ6hbLUKarUoMiA34rQ"
+      },
+      "artists": [
+        {
+          "name": "Ricky Montgomery",
+          "url": "https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw"
+        }
+      ],
+      "duration_ms": 197513,
+      "name": "Sorry for Me",
+      "url": "https://open.spotify.com/track/5F9WcQalHpZAwKzWi6pBWg"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "minor",
         "url": "https://open.spotify.com/album/2UZw04wDxLVceADw2Gi1Qy"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
-        "name": "WHEN THE DEVIL CRIES",
-        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
-      },
-      "artists": [
-        {
-          "name": "347aidan",
-          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
-        }
-      ],
-      "duration_ms": 148324,
-      "name": "WHEN THE DEVIL CRIES",
-      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
         "name": "Sick of Losing Soulmates",
         "url": "https://open.spotify.com/album/6QBJTOxkR7sM0snlvzD4d2"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 267377,
       "name": "Sick of Losing Soulmates",
       "url": "https://open.spotify.com/track/4hjbxjZpJ8H6qRCzDOGI0M"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
+        "name": "WHEN THE DEVIL CRIES",
+        "url": "https://open.spotify.com/album/0qJDLgO9SYRVocqdP72M7x"
+      },
+      "artists": [
+        {
+          "name": "347aidan",
+          "url": "https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw"
+        }
+      ],
+      "duration_ms": 148324,
+      "name": "WHEN THE DEVIL CRIES",
+      "url": "https://open.spotify.com/track/2oeMjGwvO0mDjEYGxO1iLG"
     },
     {
       "added_at": "2022-08-12 19:46:36",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2022-08-12 19:46:36",
       "album": {
+        "name": "Smile in the Face of the Devil",
+        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
+      },
+      "artists": [
+        {
+          "name": "Matt Maltese",
+          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
+        }
+      ],
+      "duration_ms": 158714,
+      "name": "Smile in the Face of the Devil",
+      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
+    },
+    {
+      "added_at": "2022-08-12 19:46:36",
+      "album": {
         "name": "Cross the Sea",
         "url": "https://open.spotify.com/album/5ScFaVUiLnexP71s2kXqPS"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 138007,
       "name": "don't cry",
       "url": "https://open.spotify.com/track/2tB9EXMGGzvRdxxwyzIJCC"
-    },
-    {
-      "added_at": "2022-08-12 19:46:36",
-      "album": {
-        "name": "Smile in the Face of the Devil",
-        "url": "https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC"
-      },
-      "artists": [
-        {
-          "name": "Matt Maltese",
-          "url": "https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf"
-        }
-      ],
-      "duration_ms": 158714,
-      "name": "Smile in the Face of the Devil",
-      "url": "https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3"
     },
     {
       "added_at": "2022-08-12 19:46:36",

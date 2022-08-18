@@ -1195,10 +1195,28 @@
       ],
       "date_added": "2019-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 288793,
       "name": "Spirit",
       "url": "https://open.spotify.com/track/3bCllR1v5AhEwm9Wl8kyBT"
+    },
+    {
+      "album": {
+        "name": "Mildew",
+        "url": "https://open.spotify.com/album/0Rl2oukHRhIEK48o5ZbJNu"
+      },
+      "artists": [
+        {
+          "name": "Jack Larsen",
+          "url": "https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o"
+        }
+      ],
+      "date_added": "2019-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289193,
+      "name": "Spirit",
+      "url": "https://open.spotify.com/track/0f9vhmR2FVZ75t69Lvo39b"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 474213,
+  "num_followers": null,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODg1NjA2MCwwMDAwMDAwMDAzY2FlMzczODQxZTg1ZmM1YjdjNzFmYzk0ODlhN2Mw",
+  "snapshot_id": "MTY1ODg1NjA2MCwwMDAwMDAwMDBiZjVkYzRjN2IxZDVjOTEyMzBlZWMzN2QwMzY5OWZm",
   "tracks": [
     {
       "added_at": "2022-07-26 17:21:00",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "Tocororo",
-        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Richard Bona",
-          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
-        }
-      ],
-      "duration_ms": 194706,
-      "name": "Ay, Mam\u00e1 In\u00e9s",
-      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Una Noche Con Rub\u00e9n Blades",
         "url": "https://open.spotify.com/album/3iptT1nxZTR7fX4Cf8KHbJ"
       },
@@ -867,6 +847,26 @@
       "duration_ms": 522080,
       "name": "El Cantante",
       "url": "https://open.spotify.com/track/62qut4QWc4SptIRYikqvBK"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "Tocororo",
+        "url": "https://open.spotify.com/album/1e2GBOtPyLu7iuNm4EvFKG"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Richard Bona",
+          "url": "https://open.spotify.com/artist/70wm2qxYZ4i2KqcyyH2GyT"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Ay, Mam\u00e1 In\u00e9s",
+      "url": "https://open.spotify.com/track/5eeZItvyhs0zNAN17uDnPM"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -943,22 +943,18 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "Ivan Lins | Chucho Vald\u00e9s e Irakere",
-        "url": "https://open.spotify.com/album/12nxvMgS8cQPZ3hZKnrj1s"
+        "name": "E Music",
+        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
       },
       "artists": [
         {
-          "name": "Irakere",
-          "url": "https://open.spotify.com/artist/2xbLfmO8N89nCiA55XsSeI"
-        },
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+          "name": "Pete Escovedo",
+          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
         }
       ],
-      "duration_ms": 517106,
-      "name": "La Explosi\u00f3n (Instrumental) - Ao Vivo",
-      "url": "https://open.spotify.com/track/460e8voeb8mHQA8kl4AQMq"
+      "duration_ms": 341066,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -979,18 +975,22 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "E Music",
-        "url": "https://open.spotify.com/album/40PuB9YHSod4WSW0Qkozh7"
+        "name": "Ivan Lins | Chucho Vald\u00e9s e Irakere",
+        "url": "https://open.spotify.com/album/12nxvMgS8cQPZ3hZKnrj1s"
       },
       "artists": [
         {
-          "name": "Pete Escovedo",
-          "url": "https://open.spotify.com/artist/3EXBBqXojqnitE9lPX0uUZ"
+          "name": "Irakere",
+          "url": "https://open.spotify.com/artist/2xbLfmO8N89nCiA55XsSeI"
+        },
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 341066,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/40hvnBSpgJ9W6BsQe4v8UO"
+      "duration_ms": 517106,
+      "name": "La Explosi\u00f3n (Instrumental) - Ao Vivo",
+      "url": "https://open.spotify.com/track/460e8voeb8mHQA8kl4AQMq"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
+        "name": "El Suelo Mio",
+        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
+      },
+      "artists": [
+        {
+          "name": "Jorge Roeder",
+          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
+        }
+      ],
+      "duration_ms": 209760,
+      "name": "El Suelo Mio",
+      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
         "name": "Dreams in Transition",
         "url": "https://open.spotify.com/album/75pe3vO6xqrfOU1UW8e9f5"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 598869,
       "name": "Mu\u00f1eca",
       "url": "https://open.spotify.com/track/3i8caNkPz81Qtzw9lC7cKu"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
-        "name": "El Suelo Mio",
-        "url": "https://open.spotify.com/album/3wYZp4aSYfIAA2bVZzTdq4"
-      },
-      "artists": [
-        {
-          "name": "Jorge Roeder",
-          "url": "https://open.spotify.com/artist/7uPwzRdNGh9MT4bY9QsW6x"
-        }
-      ],
-      "duration_ms": 209760,
-      "name": "El Suelo Mio",
-      "url": "https://open.spotify.com/track/4C3nxAQpqNoCTQat7Wdy4t"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1504,29 +1504,13 @@
           "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
         },
         {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 265173,
-      "name": "Quimbara",
-      "url": "https://open.spotify.com/track/7mqqWVpuUHekEdlVOSQjmy"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
-        "name": "Listen Here",
-        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
-      },
-      "artists": [
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "In Flight",
-      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
+      "duration_ms": 259853,
+      "name": "Don\u00b4t You Worry 'Bout A Thing",
+      "url": "https://open.spotify.com/track/5SSN8J2KnrpW1CLpKJhXXO"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1563,22 +1547,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
-        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
-      },
-      "artists": [
-        {
-          "name": "Sergio Mendes & Brasil '66",
-          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "The Fool On The Hill",
-      "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/0trcpUrMlHBGmOHvIvVGYF"
       },
@@ -1591,6 +1559,22 @@
       "duration_ms": 250933,
       "name": "Manteca Theme",
       "url": "https://open.spotify.com/track/6B7KCxP46cF2Fc28Dkcin9"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "The Greatest Hits Of Sergio Mendes And Brasil '66",
+        "url": "https://open.spotify.com/album/0D1FEIRWIJ6H8SyHLX055P"
+      },
+      "artists": [
+        {
+          "name": "Sergio Mendes & Brasil '66",
+          "url": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+        }
+      ],
+      "duration_ms": 198533,
+      "name": "The Fool On The Hill",
+      "url": "https://open.spotify.com/track/1gBzDyq7e4CU8feOTXwI43"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1611,22 +1595,18 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "The Bronx Pyramid",
-        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+        "name": "Listen Here",
+        "url": "https://open.spotify.com/album/07KdM1RxB17RPj7PY6o2Oi"
       },
       "artists": [
         {
-          "name": "Carlos Henriquez",
-          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 321420,
-      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
-      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
+      "duration_ms": 341560,
+      "name": "In Flight",
+      "url": "https://open.spotify.com/track/3Mk8X0BQTypfytrfwMoVKM"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1643,6 +1623,26 @@
       "duration_ms": 131386,
       "name": "Seven Steps To Heaven",
       "url": "https://open.spotify.com/track/5JPGaCstRDwLekgNkgK9cK"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "The Bronx Pyramid",
+        "url": "https://open.spotify.com/album/3tzUc7mPAuBZCWAM28Ithw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Henriquez",
+          "url": "https://open.spotify.com/artist/7jDk9ohezXq697Zz5X2KPI"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 321420,
+      "name": "Descarga Entre Amigos (feat. Rub\u00e9n Blades)",
+      "url": "https://open.spotify.com/track/2wDWb88s7POYtWg5757eiE"
     },
     {
       "added_at": "2022-07-26 17:21:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2022-07-26 17:21:00",
       "album": {
-        "name": "Enchantment",
-        "url": "https://open.spotify.com/album/3NaX3LlcZvDgsUoscFGOfY"
-      },
-      "artists": [
-        {
-          "name": "Hilton Ruiz",
-          "url": "https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1"
-        }
-      ],
-      "duration_ms": 432026,
-      "name": "Enchantment",
-      "url": "https://open.spotify.com/track/1EtpgxQQIHUV9x46yA1H4B"
-    },
-    {
-      "added_at": "2022-07-26 17:21:00",
-      "album": {
         "name": "Ser\u00eda Una Pena",
         "url": "https://open.spotify.com/album/7jHcC0gencrmn5AsQfW9mr"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 261881,
       "name": "Ser\u00eda Una Pena",
       "url": "https://open.spotify.com/track/56Bd82ndrBY1JQ8r3oQzVl"
+    },
+    {
+      "added_at": "2022-07-26 17:21:00",
+      "album": {
+        "name": "Fantasia Cubana: Variations On Classical Themes",
+        "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Chopin: Prelude In E-Minor",
+      "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
     }
   ],
   "unique_name": "Latin Jazz",

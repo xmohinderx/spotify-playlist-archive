@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AuRugisweW.md) - [plain]
 
 > Songs of the crossroads and "that old evil spirit"—from Robert Johnson to John Mayer, from early blues to new Americana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,156 likes - 59 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,174 likes - 59 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

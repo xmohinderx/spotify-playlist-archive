@@ -1,12 +1,12 @@
 {
   "description": "songs that break bones",
-  "num_followers": 87499,
+  "num_followers": 88004,
   "original_name": "LOCKJAW",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY3MzIyOSwwMDAwMDAwMGZkNTg2MzRlNTJmZWMxODIxNTk3Nzg3YmVkNmM1NWQ0",
+  "snapshot_id": "MTY2MDY3MzIyOSwwMDAwMDAwMDg0NzE0NDY0ZmEzNGQ2NjVkN2JmYmM0YWI3NzE4NzJh",
   "tracks": [
     {
       "added_at": "2022-08-13 18:27:22",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-08-13 18:27:22",
       "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 134116,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
+    },
+    {
+      "added_at": "2022-08-13 18:27:22",
+      "album": {
         "name": "SIMP",
         "url": "https://open.spotify.com/album/4SR1C8HMMnFHpcU4cDGlRa"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 180000,
       "name": "SIMP",
       "url": "https://open.spotify.com/track/7uIrdhnGQw7bZSR2ygopuX"
-    },
-    {
-      "added_at": "2022-08-13 18:27:22",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/2a8cs4ziDk29KUAdUhHwQB"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 134116,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/2b1MCbfwRZ1teOX1vSm4Xt"
     },
     {
       "added_at": "2022-08-13 18:27:22",
@@ -893,6 +893,26 @@
       "url": "https://open.spotify.com/track/5hOnCHMwQdXOd4qfAWEhKP"
     },
     {
+      "added_at": "2022-08-16 18:07:09",
+      "album": {
+        "name": "Freddie's Inferno",
+        "url": "https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl"
+      },
+      "artists": [
+        {
+          "name": "Freddie Dredd",
+          "url": "https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F"
+        },
+        {
+          "name": "prodby668",
+          "url": "https://open.spotify.com/artist/56g4P11Gxl7nROZBbm8X3F"
+        }
+      ],
+      "duration_ms": 108013,
+      "name": "Want (feat. prodby668)",
+      "url": "https://open.spotify.com/track/1sRqm1JxQL88mrHhMLpQ5y"
+    },
+    {
       "added_at": "2022-08-13 18:27:22",
       "album": {
         "name": "Mase in '97",
@@ -911,34 +931,6 @@
       "duration_ms": 100008,
       "name": "Mase in '97",
       "url": "https://open.spotify.com/track/7j6OJzMIJL5JcFHyeSJZGV"
-    },
-    {
-      "added_at": "2022-08-13 18:27:22",
-      "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        },
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 157557,
-      "name": "Do Not Disturb (feat. Lil Yachty & Offset)",
-      "url": "https://open.spotify.com/track/5Ojb9dF8VoBHUwbDfPxMlg"
     }
   ],
   "unique_name": "LOCKJAW",

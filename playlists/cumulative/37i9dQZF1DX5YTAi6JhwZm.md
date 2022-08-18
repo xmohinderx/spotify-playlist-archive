@@ -4,7 +4,7 @@
 
 > Uplifting and happy jazz to get you in a good mood.
 
-143 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
+144 songs - 12 hr 27 min - [published](https://open.spotify.com/playlist/4R45R96b2S3hona44q5p1v)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Around the World](https://open.spotify.com/track/72dRQ0TXjgpKfSL5MXYXnj) | [Lucas Figueiredo Santana](https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N) | [Around the World](https://open.spotify.com/album/5aAAWjKyIFCxAgU43bdgXP) | 7:49 | 2022-02-18 |  |
 | [Au Privave](https://open.spotify.com/track/1PA0tI1YObjGqpTKgKoUJP) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/2Od5gIW3c3szwoTxl0Hhu7) | 3:58 | 2022-03-04 | 2022-07-29 |
 | [Au Privave](https://open.spotify.com/track/576Fa7kMpr3VmVT0ssn9TM) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Sonny Stitt Sits In With The Oscar Peterson Trio](https://open.spotify.com/album/1wOXBNVlNBZKqr9SPZ8VDu) | 3:59 | 2022-06-29 |  |
+| [Bang Bang](https://open.spotify.com/track/211mkZYf9YaQhlev1Vze5F) | [Dizzy Gillespie](https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn) | [Talkin' Verve](https://open.spotify.com/album/2lhapGz7nbjmiJEil7iAFX) | 3:03 | 2022-08-17 |  |
 | [Barefoot Sunday Blues](https://open.spotify.com/track/4n5AUkvieP9NglLITjihFH) | [Cannonball Adderley Quartet](https://open.spotify.com/artist/7F2B7VhQySTBRaqJqv4NDR) | [Cannonball Takes Charge](https://open.spotify.com/album/2nrR6HvGvjglD7umMvdj66) | 7:03 | 2022-03-04 |  |
 | [Better Git It in Your Soul](https://open.spotify.com/track/16nJl8NnriCJxraco5Zssm) | [Charles Mingus](https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H) | [Ah Um](https://open.spotify.com/album/7pojWP7x9uEFSJgw765khA) | 7:20 | 2022-01-13 | 2022-03-09 |
 | [Billy Boy](https://open.spotify.com/track/1uJgfVUbZ6DtDMHENnPT11) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 6:20 | 2022-03-04 |  |
@@ -73,7 +74,7 @@
 | [Konrads Hopp Om Livet](https://open.spotify.com/track/110sjAg7oDeOoZpFnyFHEl) | [Atomic](https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6) | [Bikini Tapes](https://open.spotify.com/album/3pUna5UTvVlrR9RYFUpT7A) | 9:49 | 2021-12-17 | 2022-07-29 |
 | [Konrads Hopp Om Livet](https://open.spotify.com/track/3OF48WGuSdJnJjgn2V1M4H) | [Atomic](https://open.spotify.com/artist/5MaqvdfplsuBzHTHrBxjr6) | [Bikini Tapes](https://open.spotify.com/album/3nhLxFU9wTxXiY7NZVA2RD) | 9:49 | 2022-06-29 |  |
 | [La La La La](https://open.spotify.com/track/6JdEe9rpK06pzsWzwiyd7W) | [La La Lars](https://open.spotify.com/artist/4OIW2CNYqaBZ50PrqcNpyg), [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Jonas Kullhammar](https://open.spotify.com/artist/3hHc4tqyPsRJOzzqaxkadB), [Lars Skoglund](https://open.spotify.com/artist/7qn4gClb24W6l4oG2sAPm1), [Calle Bagge](https://open.spotify.com/artist/1LU9KWP28USoKTyd0DCvKr), [Johan Berthling](https://open.spotify.com/artist/38aUI0eoAJAgRHtcYARlCT) | [La La Lars](https://open.spotify.com/album/5L1jwQzcmmYTZ9kcvO02SF) | 3:40 | 2022-02-24 | 2022-04-29 |
-| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-17 |  |
+| [Le Coiffeur](https://open.spotify.com/track/2dk9zmPIOjVXhUgeLgfKNU) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Gettin' Around](https://open.spotify.com/album/1kKp5dSbveAtH9KmuGP6z9) | 7:02 | 2021-12-17 | 2022-08-18 |
 | [Lester Leaps In](https://open.spotify.com/track/6xtHD6E7iIyRCopIsTzW0U) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Now!](https://open.spotify.com/album/1fkIYdW25bQGXNoipxIXoG) | 6:21 | 2022-02-25 |  |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/12OrCaKyaaigMeFxCsHqxV) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/5LzRK06BTasIf2T4H61zZm) | 5:06 | 2022-03-31 | 2022-07-29 |
 | [Let Me Take You for a Walk](https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1) | [Rikard From](https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc) | [Sun of June](https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4) | 5:06 | 2022-06-29 |  |

@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-130 songs - 6 hr 58 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
+131 songs - 7 hr 0 min - [published](https://open.spotify.com/playlist/0yLqmxmaa7qrm1xUP9mC5t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,7 +75,7 @@
 | [Lost For Words](https://open.spotify.com/track/6BFmIFysuR7WZBXd28jQlG) | [Cornelia Benton](https://open.spotify.com/artist/5R64qcoeryTQQVE72MZgoU) | [Lost For Words](https://open.spotify.com/album/3gnQ2B3ZdU8gQdMgA4xc9z) | 3:12 | 2021-12-09 |  |
 | [Luminescent](https://open.spotify.com/track/5OWhqrWWxTYmbYbIpAmE4u) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Luminescent](https://open.spotify.com/album/64UGm861qokqOZbmpjR6du) | 4:24 | 2021-12-09 |  |
 | [Lumineux](https://open.spotify.com/track/6KSBZVXd7VlaiF0tdcZnJz) | [Alice Rolande](https://open.spotify.com/artist/0z2to7jTZIdleuywyDi8zC) | [Lumineux](https://open.spotify.com/album/1X7uHbofmLyvKIWjfSZWqt) | 3:37 | 2021-12-09 |  |
-| [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2021-12-09 |  |
+| [Maitri Lake \(432hz\)](https://open.spotify.com/track/5dXCkj7h7B1Hg4MwTHcixd) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Maitri Lake \(432hz\)](https://open.spotify.com/album/71rEntjg6kz31bN6xUrAHe) | 3:43 | 2021-12-09 | 2022-08-18 |
 | [Masandra Turnings](https://open.spotify.com/track/24QVOrVKmWaFGcWKX9zoyI) | [Tribal Tranquility](https://open.spotify.com/artist/3kqCmBNUxv4gydsfojdTgS) | [Masandra Turnings](https://open.spotify.com/album/4qgEEqId4Jt9s8keIpKv26) | 2:46 | 2021-12-09 |  |
 | [Meditations](https://open.spotify.com/track/1MHEMARc3VukbGGn4pc1oE) | [Drift Far Away](https://open.spotify.com/artist/05QqQCiZ0kiF1jRCm6YRT2) | [Open Sky](https://open.spotify.com/album/6OFXea6xNBtFBbCNXFVaQD) | 4:27 | 2021-12-09 |  |
 | [Mindcrafters](https://open.spotify.com/track/2Z52IJPhFot0N5l61lfSXt) | [Blu Tortle](https://open.spotify.com/artist/031BRepXAp6dkFtycUUs5X) | [Mindcrafters](https://open.spotify.com/album/4FvdLZNZlMMECgYv5f7pWb) | 4:08 | 2021-12-09 |  |
@@ -121,6 +121,7 @@
 | [Svalbard](https://open.spotify.com/track/4JfiZjxURRSroTqETjK2za) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/5EoiOmTiADBanOUgtYbWSg) | 3:19 | 2022-07-22 |  |
 | [Svalbard](https://open.spotify.com/track/6vc1ie7orjBJYeJVR4yh8r) | [Julyan Brynn](https://open.spotify.com/artist/4M5Z3s7BTxyZuifI4YWp6v) | [Floating Hearts](https://open.spotify.com/album/1nRpZdYMCTU0QfiOF737WI) | 3:19 | 2021-12-09 | 2022-04-21 |
 | [Sweven](https://open.spotify.com/track/7LbnfJ4bZ8UZRcb9l8Txld) | [Andy Kamman](https://open.spotify.com/artist/2bI9xKlbtS0cPS3rQ8x87y) | [Sweven](https://open.spotify.com/album/0Ixj5uPjN9PPtqoPE2u8pS) | 3:13 | 2021-12-09 |  |
+| [Sólestur](https://open.spotify.com/track/7F6aZaOPixAPSwEWUgUlwH) | [Elsa Gudmundsdottir](https://open.spotify.com/artist/5zgSiZmivqPWPZICFTKarK) | [Sólestur](https://open.spotify.com/album/4Symuw8H6FtmbDWqRRGsbN) | 2:09 | 2022-08-15 |  |
 | [Takamatsu](https://open.spotify.com/track/2aYiFoNV3dRUckwX6KJdLS) | [Fahda Mohamed](https://open.spotify.com/artist/4VfWZbve2pnVwUYQ11EdU4) | [Arrivals](https://open.spotify.com/album/2916XN3NlK1G7JQhsxIhRz) | 3:08 | 2021-12-09 |  |
 | [The Art of Subtlety](https://open.spotify.com/track/42VUDVOwj9wUafDjvGJcGt) | [Laura Antelme](https://open.spotify.com/artist/1VyQIhBhaTFWcJMl44KcSJ) | [The Art of Subtlety](https://open.spotify.com/album/41mrMfaXTOrPMyaL66iv0U) | 1:42 | 2022-05-26 | 2022-07-30 |
 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 | 2021-12-09 |  |

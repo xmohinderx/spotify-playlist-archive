@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 
 > Una selección de temas de amor y desamor, con mucho feeling\. Foto: Paulo Londra
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,368 likes - 72 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,493 likes - 72 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ghyz32wen4.md) - [plain]
 | 62 | [CERO, DOS](https://open.spotify.com/track/6jSkGlUMfrhidBGTGhdKsN) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [CERO, DOS](https://open.spotify.com/album/7KChubVF25Sx3TixA4RkoJ) | 3:29 |
 | 63 | [Malibú](https://open.spotify.com/track/4GR2VDGNBpGyE4wZy0VTSj) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Malibú](https://open.spotify.com/album/62bGLItJa7M2TGq4WMhvlz) | 3:40 |
 | 64 | [UNDOSTRES](https://open.spotify.com/track/3U0DLCsgve2tFyrVNJJ21U) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [UNDOSTRES](https://open.spotify.com/album/0uinxnauQiaTu8QySpjkrC) | 3:28 |
-| 65 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:03 |
+| 65 | [Quiéreme Así](https://open.spotify.com/track/2bOw3b1eAOtYXzyaB63KXK) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Quiéreme Así](https://open.spotify.com/album/5ugHOB3qvt50RpLkuoIYYN) | 3:08 |
 | 66 | [Volando a Ti](https://open.spotify.com/track/1O65SV67NMFiQDzM33tyGk) | [Jezreel](https://open.spotify.com/artist/7iGFvtUk5Aq6Tb5GVisMvx) | [Volando a Ti](https://open.spotify.com/album/3BPKMfndun4bLRrRRo3NBl) | 4:18 |
 | 67 | [Febrero Azul](https://open.spotify.com/track/11VHpYlyZsLhYfr66QUzPJ) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU) | [Febrero Azul](https://open.spotify.com/album/1VrhwgwkE6jjjJcweMdSoY) | 3:34 |
 | 68 | [Chica del Verano](https://open.spotify.com/track/415SDloEFOgfjFMgMhEOIY) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY) | [Chica del Verano](https://open.spotify.com/album/2BIYUpu5FC2ajpBJqpCEX9) | 3:38 |

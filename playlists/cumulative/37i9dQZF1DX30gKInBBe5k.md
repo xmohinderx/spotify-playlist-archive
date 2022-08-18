@@ -4,7 +4,7 @@
 
 > Bare emotions and stripped\-down intensity: a hardcore home for slowcore fans.
 
-118 songs - 10 hr 42 min - [published](https://open.spotify.com/playlist/1EhgTfPau3YN9Ge7TgxXdp)
+119 songs - 10 hr 48 min - [published](https://open.spotify.com/playlist/1EhgTfPau3YN9Ge7TgxXdp)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,8 +64,9 @@
 | [Katy Song](https://open.spotify.com/track/6Gmc3OUoP4JotwPb2CIXYD) | [Red House Painters](https://open.spotify.com/artist/2GATzeg62cr6sH29wSOVWe) | [Red House Painters I](https://open.spotify.com/album/2zbrGDAGfwMhDVkeg1CGl5) | 8:22 | 2021-06-25 | 2022-07-29 |
 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/39KOhhh83o7jp7We40NSsg) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/5Fbhl4nU4FaLjxspC5g8ca) | 6:39 | 2021-06-25 | 2022-07-29 |
 | [Let Me Go Let Me Go Let Me Go](https://open.spotify.com/track/4aSM8NeNrjYLBJxOiLZNqk) | [Jason Molina](https://open.spotify.com/artist/4tBNwdhdWAXGzzaPTp9dRE) | [Let Me Go, Let Me Go, Let Me Go](https://open.spotify.com/album/68kIBfvmlkUHmzJyZbiH5Z) | 6:39 | 2021-06-25 |  |
+| [Lie In The Sound](https://open.spotify.com/track/0MsMR2rURAR4gSHzMWx8tZ) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4BInGpL7KK8U8up43J5dfj) | 5:42 | 2021-06-25 |  |
 | [Lie In The Sound](https://open.spotify.com/track/4DPJgYReY3KMPPzR1jQ2VP) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/0FYhVNeOcfTLgtHISgpsb5) | 5:42 | 2021-06-25 | 2022-07-29 |
-| [Lie In The Sound](https://open.spotify.com/track/7F8skye75dhR8vceTSWYM9) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4SfqCvZNYx1sPEIWCRyI26) | 5:42 | 2021-06-25 |  |
+| [Lie In The Sound](https://open.spotify.com/track/7F8skye75dhR8vceTSWYM9) | [Trespassers William](https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa) | [Different Stars](https://open.spotify.com/album/4SfqCvZNYx1sPEIWCRyI26) | 5:42 | 2021-06-25 | 2022-08-18 |
 | [Life On Earth](https://open.spotify.com/track/1aZt2IkeGMFQ4WnDUDq97D) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/5vr9Dd2iUMCQpB0RP1B3pU) | 10:12 | 2021-06-25 | 2022-07-29 |
 | [Life on Earth](https://open.spotify.com/track/1auVRfsbR30fKYv2m7KmJi) | [Tiny Vipers](https://open.spotify.com/artist/4kgIlus6ToyP9mUHoIvLtc) | [Life On Earth](https://open.spotify.com/album/28D7r9JZELsUNdDzNR12q3) | 10:12 | 2021-06-25 |  |
 | [Liferaft](https://open.spotify.com/track/1lii7ZXQTxPHozDSjmkibm) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [WhatFunLifeWas](https://open.spotify.com/album/2IpqDJKaf7873tRUmxuxae) | 4:40 | 2021-06-25 | 2022-07-29 |

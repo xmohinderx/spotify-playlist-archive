@@ -4,7 +4,7 @@
 
 > Raw and unfiltered\. Cover: Pillow Queens
 
-170 songs - 9 hr 30 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
+171 songs - 9 hr 33 min - [published](https://open.spotify.com/playlist/6icr08W6LxkqPUtZpmcgvv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,8 @@
 | [Where to Start](https://open.spotify.com/track/7eP0RO2UD7gtmGrxuRHI5Z) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Where to Start](https://open.spotify.com/album/42PIz233QL3gza5A3lnwNt) | 3:00 | 2021-03-09 | 2022-01-17 |
 | [who cares](https://open.spotify.com/track/7hoqbmmpY9eO5qKBnHSZZE) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [who cares](https://open.spotify.com/album/3D14NekjVfBIsn7tRNshAv) | 3:04 | 2022-01-24 |  |
 | [Why](https://open.spotify.com/track/1F4uLKgpFcHSNGYdoG3946) | [Krush Puppies](https://open.spotify.com/artist/55chtDaw410l2H31kc8PHF) | [Why](https://open.spotify.com/album/238DqpkeDaIYGATfOeVo1D) | 3:33 | 2022-04-01 |  |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-04-01 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-10 | 2022-08-18 |
 | [Win](https://open.spotify.com/track/0Z2d1Wv9VaHFxNxdgdKeBE) | [Nasty Cherry](https://open.spotify.com/artist/3a4OHGZwsqHc3eRChiDkS9) | [Win](https://open.spotify.com/album/3riT2ROhv1aQ7zZYut5cmQ) | 2:44 | 2021-03-09 | 2022-01-17 |
 | [Wind in My Sail](https://open.spotify.com/track/6qzKy0MR6hR7tjcw0a66Ct) | [\*repeat repeat](https://open.spotify.com/artist/0PEqo7RkX5wkaYwlT6hINn) | [Wind in My Sail](https://open.spotify.com/album/1thTc5DAfIg41RtmnFYyzf) | 3:05 | 2021-03-09 | 2022-01-17 |
 | [With Or Without](https://open.spotify.com/track/4aobh4j9xhG08Yb7VkcCzd) | [Tired Lion](https://open.spotify.com/artist/5Vf0Z6jyMOGr07Gf8irDMt) | [With Or Without](https://open.spotify.com/album/4OPRKb28mSim18LxaWMErZ) | 3:30 | 2021-03-09 | 2022-01-17 |

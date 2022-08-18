@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODA3MDg2NSwwMDAwMDAwMGI5ZmEyNzljODllYjJjNGEwNjczNjA1MDQ0YTc2NTEz",
+  "snapshot_id": "MTY1ODA3MDg2NSwwMDAwMDAwMDA1MzcyZTI3YjkyMmNhNzQ4M2M4NGY4M2E2MzVjN2E4",
   "tracks": [
     {
       "added_at": "2022-07-17 15:14:25",
@@ -319,18 +319,22 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "The Familiar Stranger",
-        "url": "https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6"
+        "name": "E3 AF",
+        "url": "https://open.spotify.com/album/78prqMEFoQ6AKyDN8DEtqI"
       },
       "artists": [
         {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+          "name": "Dizzee Rascal",
+          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
+        },
+        {
+          "name": "Ocean Wisdom",
+          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
         }
       ],
-      "duration_ms": 236571,
-      "name": "Sleepless Nights",
-      "url": "https://open.spotify.com/track/4Xod1PPGEhSXsNq4TeMdrZ"
+      "duration_ms": 211986,
+      "name": "Don't Be Dumb",
+      "url": "https://open.spotify.com/track/77bDkxiH9316mW6JGYNoon"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -375,22 +379,18 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "E3 AF",
-        "url": "https://open.spotify.com/album/78prqMEFoQ6AKyDN8DEtqI"
+        "name": "The Familiar Stranger",
+        "url": "https://open.spotify.com/album/31r2AedXvvd13nNpVRfcC6"
       },
       "artists": [
         {
-          "name": "Dizzee Rascal",
-          "url": "https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv"
-        },
-        {
-          "name": "Ocean Wisdom",
-          "url": "https://open.spotify.com/artist/0D9N9NxMbXKjmoRI1JVdz8"
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
         }
       ],
-      "duration_ms": 211986,
-      "name": "Don't Be Dumb",
-      "url": "https://open.spotify.com/track/77bDkxiH9316mW6JGYNoon"
+      "duration_ms": 236571,
+      "name": "Sleepless Nights",
+      "url": "https://open.spotify.com/track/4Xod1PPGEhSXsNq4TeMdrZ"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -767,34 +767,22 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Man in Meridian",
-        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
+        "name": "No Celebrations EP",
+        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
       },
       "artists": [
         {
-          "name": "Jme",
-          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
+          "name": "Flowdan",
+          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
         },
         {
-          "name": "Bossman Birdie",
-          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
-        },
-        {
-          "name": "Paper Pabs",
-          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
-        },
-        {
-          "name": "President T",
-          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
-        },
-        {
-          "name": "Big H",
-          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
+          "name": "Abstrakt Sonance",
+          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
         }
       ],
-      "duration_ms": 285255,
-      "name": "Man in Meridian",
-      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
+      "duration_ms": 162000,
+      "name": "Come From",
+      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -823,22 +811,34 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "No Celebrations EP",
-        "url": "https://open.spotify.com/album/5i2fTMDge5lHM9RtLFrcLT"
+        "name": "Man in Meridian",
+        "url": "https://open.spotify.com/album/5FnZx8CDt31zZy5vVhzK4m"
       },
       "artists": [
         {
-          "name": "Flowdan",
-          "url": "https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4"
+          "name": "Jme",
+          "url": "https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5"
         },
         {
-          "name": "Abstrakt Sonance",
-          "url": "https://open.spotify.com/artist/00qKBesewdWy5l0bpMdosp"
+          "name": "Bossman Birdie",
+          "url": "https://open.spotify.com/artist/13sqxAHntdRq2aWVbuYmSg"
+        },
+        {
+          "name": "Paper Pabs",
+          "url": "https://open.spotify.com/artist/3ibOrGQsnZMfmQUSFDrdLl"
+        },
+        {
+          "name": "President T",
+          "url": "https://open.spotify.com/artist/1jVgvfKynkRWY4SymwtOBS"
+        },
+        {
+          "name": "Big H",
+          "url": "https://open.spotify.com/artist/5bPMrj2JeYuaAqA807hw7I"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Come From",
-      "url": "https://open.spotify.com/track/7dmlWyfECfsgQ9OFTVPejU"
+      "duration_ms": 285255,
+      "name": "Man in Meridian",
+      "url": "https://open.spotify.com/track/2kr904XjBkf3RivRwXZxc0"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1279,18 +1279,26 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Don't Sleep",
-        "url": "https://open.spotify.com/album/5rQlv7bqYV1s4g6y6KcKP4"
+        "name": "Norf Face",
+        "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
       },
       "artists": [
         {
-          "name": "Nick Brewer",
-          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
+          "name": "Frisco",
+          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
+        },
+        {
+          "name": "Norf Face",
+          "url": "https://open.spotify.com/artist/2vx0BQk6J282s1fpwyhGA0"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
         }
       ],
-      "duration_ms": 141020,
-      "name": "Don't Sleep",
-      "url": "https://open.spotify.com/track/70dAhHaNpyVSpiIaikbo2p"
+      "duration_ms": 57391,
+      "name": "Frisco's Pattern",
+      "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
     },
     {
       "added_at": "2022-07-17 15:14:25",
@@ -1319,26 +1327,18 @@
     {
       "added_at": "2022-07-17 15:14:25",
       "album": {
-        "name": "Norf Face",
-        "url": "https://open.spotify.com/album/7o6bhqYxz0nWyjwCYsmARy"
+        "name": "Don't Sleep",
+        "url": "https://open.spotify.com/album/5rQlv7bqYV1s4g6y6KcKP4"
       },
       "artists": [
         {
-          "name": "Frisco",
-          "url": "https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw"
-        },
-        {
-          "name": "Norf Face",
-          "url": "https://open.spotify.com/artist/2vx0BQk6J282s1fpwyhGA0"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+          "name": "Nick Brewer",
+          "url": "https://open.spotify.com/artist/208noPGY2GqJdxhq09SoSR"
         }
       ],
-      "duration_ms": 57391,
-      "name": "Frisco's Pattern",
-      "url": "https://open.spotify.com/track/5tMrhoLH1HwcWKZaOKT33G"
+      "duration_ms": 141020,
+      "name": "Don't Sleep",
+      "url": "https://open.spotify.com/track/70dAhHaNpyVSpiIaikbo2p"
     },
     {
       "added_at": "2022-07-17 15:14:25",

@@ -30,6 +30,24 @@
     },
     {
       "album": {
+        "name": "No Lookin' Back",
+        "url": "https://open.spotify.com/album/3TvDVoxi5iIi1oqCPMt4zp"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212413,
+      "name": "26 Blvd",
+      "url": "https://open.spotify.com/track/3OK2VUpcjQQZAqGHw95N4G"
+    },
+    {
+      "album": {
         "name": "Moosetape",
         "url": "https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T"
       },
@@ -169,7 +187,7 @@
       ],
       "date_added": "2022-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 366039,
       "name": "Baapu",
       "url": "https://open.spotify.com/track/5fGH7wUp2unAd9UxbA4eGq"
@@ -1523,7 +1541,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 200775,
       "name": "Nakhre",
       "url": "https://open.spotify.com/track/0hqCAsa7naJaaF7F680i5Q"
@@ -1723,6 +1741,24 @@
       "duration_ms": 196133,
       "name": "Phulkari",
       "url": "https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO"
+    },
+    {
+      "album": {
+        "name": "Plug Talk",
+        "url": "https://open.spotify.com/album/3U8R6hOmgBXVxoxii9NBt7"
+      },
+      "artists": [
+        {
+          "name": "Navaan Sandhu",
+          "url": "https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162346,
+      "name": "Plug Talk",
+      "url": "https://open.spotify.com/track/4HKbWbn8acXeTq6j0rqO5z"
     },
     {
       "album": {

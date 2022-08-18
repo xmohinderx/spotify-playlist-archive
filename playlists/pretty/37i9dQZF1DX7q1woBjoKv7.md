@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: Kamaiyah
+> California music breaking waves\. Cover: LaRussell
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,784 likes - 51 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,790 likes - 51 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 24 | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/track/37bDM2Llg0gA1iqdFZFByC) | [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [Lonely \(feat\. Bino Rideaux\)](https://open.spotify.com/album/2H1PS3AVtPPQ5fW1nHgFhh) | 3:11 |
 | 25 | [PRO](https://open.spotify.com/track/2wQTsC2OgmTcgwlH2A79JY) | [Day Sulan](https://open.spotify.com/artist/5wrJuArO5sOmhl2QJ1Z0sk) | [PRO](https://open.spotify.com/album/07PEh5SjC5jU0C8DaB1mcg) | 3:02 |
 | 26 | [Save Yourself](https://open.spotify.com/track/4vkI2f7lkWtDMPgB6em0t3) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX) | [The Blue Hour](https://open.spotify.com/album/4DTVVsFW3Jhi4Jw8flTAGR) | 3:07 |
-| 27 | [Drive](https://open.spotify.com/track/2VRI2vVGOyDhSAETbtG0bU) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes & Big.Ass.Kids present: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:25 |
+| 27 | [Drive](https://open.spotify.com/track/2VRI2vVGOyDhSAETbtG0bU) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:25 |
 | 28 | [Fly Like An Eagle \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5hGbVwHALNW6aqlY6HmSDb) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Fly Like an Eagle \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2FRv54YdknVaD2A2B3reLU) | 2:58 |
 | 29 | [Water Sign \(with Jhené Aiko\)](https://open.spotify.com/track/4ble9mm36r5obIKiFYbrXC) | [AUGUST 08](https://open.spotify.com/artist/2iB8eFB6flwQculkUrRssi), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Towards The Moon](https://open.spotify.com/album/7Cec0O8jFFOrAM5rAV2NtF) | 4:20 |
 | 30 | [Secret's Safe](https://open.spotify.com/track/1sdusXPv3BquvE9Sg6chPB) | [Larrenwong](https://open.spotify.com/artist/640usVTv5HrcuHVw2WCXQz), [Kezia](https://open.spotify.com/artist/6QRZexC48OMSnzGpiLxTHK) | [Songs That I Hate to Sing](https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW) | 3:37 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7q1woBjoKv7.md) - [plain]
 | 50 | [Faded](https://open.spotify.com/track/0S9daaQdXj5b1p9h59Iold) | [4L JAVI](https://open.spotify.com/artist/6G4OzVMmNRMt8q6aPTKV3a) | [Letters 2 U](https://open.spotify.com/album/29g1LnngoNk0WyQyAWVQZj) | 2:31 |
 | 51 | [Reflections](https://open.spotify.com/track/5QYFf3CS7HFHOCoSjo7DRF) | [Likybo](https://open.spotify.com/artist/16Nc36xAtNyQ7BMBcDsaLv) | [Reflections](https://open.spotify.com/album/6Xz94tRbeGpv5mzYa8X5TT) | 2:14 |
 
-Snapshot ID: `MTY2MDM1NzY2MywwMDAwMDAwMDllMWNhZDQ5MTU4ZDVmNDJkYzljNzEyYTdmMWQzZDE0`
+Snapshot ID: `MTY2MDc3NjkyOCwwMDAwMDAwMGYzYTY3MzBiYWY5OTEzZDU3ZWEzZjQwNzM4OTgzZDc4`

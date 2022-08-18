@@ -4,7 +4,7 @@
 
 > Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.
 
-225 songs - 14 hr 7 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
+228 songs - 14 hr 19 min - [published](https://open.spotify.com/playlist/16lfBzqcUXT8nJukNLWVkv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [damn](https://open.spotify.com/track/7dNxxkapvf5eRkw24PHSpy) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [LOVE ALL SERVE ALL](https://open.spotify.com/album/6VJwkUQXD3DnqqUUaxqDzH) | 4:19 | 2022-06-06 |  |
 | [Day In Day Out](https://open.spotify.com/track/5RTWTDzC0neY2cRljMw0zB) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Day In Day Out](https://open.spotify.com/album/2LUbONUfN9g9zPxL1ukeW5) | 2:58 | 2022-06-14 | 2022-07-06 |
 | [DBTWO!](https://open.spotify.com/track/3tGzMXFs9RWxcCKiZQxiC6) | [ena mori](https://open.spotify.com/artist/5FW3vzEP2gQB3RQRNmR6ON) | [DON'T BLAME THE WILD ONE!](https://open.spotify.com/album/4U7IlPTJAlT5n1BJX6lCgI) | 3:42 | 2022-07-28 |  |
+| [dead2me.](https://open.spotify.com/track/0NsnAcdO7vVrQgPH6SoiF3) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [dead2me.](https://open.spotify.com/album/6UaYSCrPhRj92JDySXKFc7) | 3:30 | 2022-08-16 |  |
 | [Deep Himawari](https://open.spotify.com/track/4Djw11FVmjUYfOOS96qIgW) | [SANABAGUN.](https://open.spotify.com/artist/7tiKnydNP65EPFiYRiW2Pu) | [Deep Himawari](https://open.spotify.com/album/3CbskWWeIvgowtLb2MQAaZ) | 3:34 | 2022-06-23 | 2022-07-20 |
 | [Do What U Love](https://open.spotify.com/track/1qn2VwBsPI0iF6uiqOylRD) | [Kaoru Tominaga](https://open.spotify.com/artist/7h8VFlFvY1tPKovx1mKTGE), [Sho Asano](https://open.spotify.com/artist/7oNLOW0qxiKDZnG9xkP6CX) | [Do What U Love](https://open.spotify.com/album/2IHKQdjkiFyCO1yqz5IcZI) | 3:37 | 2022-06-21 | 2022-07-20 |
 | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/track/7kuuBMGV8Y4BLmjF5LLAV1) | [SPENSR](https://open.spotify.com/artist/5jzmNh6iGnT9NpmQSHGeiO), [VivaOla](https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9) | [Draw Me \(feat\. VivaOla\)](https://open.spotify.com/album/1D5JPBryEXZFilbWtSbnS8) | 2:33 | 2022-05-26 | 2022-06-10 |
@@ -90,6 +91,7 @@
 | [Long Night out](https://open.spotify.com/track/2AgPtmjYgpJ1RX1PTUbywv) | [futures](https://open.spotify.com/artist/2wtFS2xpKzmzVCD1k9vhI6) | [What’s a future?](https://open.spotify.com/album/1DLXcDfhvGfkzeCPjBCdCv) | 5:48 | 2022-07-19 |  |
 | [Love Inside](https://open.spotify.com/track/3KkW1OyyxzsHA4joskFfTI) | [Pictured Resort](https://open.spotify.com/artist/7BCf2R7bgylYjfgeq5Zrrm) | [Once Upon A Season](https://open.spotify.com/album/3kpwGzS5p8mkA4dO2ll0oL) | 3:58 | 2022-07-05 | 2022-07-27 |
 | [Mad Doctor](https://open.spotify.com/track/5zi0i85j65B7VeHofufPwt) | [CHAMELEON LIME WHOOPIEPIE](https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj) | [MAD DOCTOR](https://open.spotify.com/album/5fOaAZm7tVTv5aimJ9FKbv) | 2:33 | 2022-05-26 | 2022-06-29 |
+| [MAGIC WAYS](https://open.spotify.com/track/783nZiDSXc4qLTXwx5t04g) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [MAGIC WAYS](https://open.spotify.com/album/6ABM2rD5JvdwPGZDQ3bNEw) | 4:29 | 2022-08-16 |  |
 | [Marmalade](https://open.spotify.com/track/41lzOu3fYK2bqHoXCAoXlo) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [OHTORA](https://open.spotify.com/artist/16W2CFdMJKvN99ZWwoEB0k) | [Marmalade](https://open.spotify.com/album/2LYiSNiCHglLQjyeTC0fyl) | 2:58 | 2022-08-03 |  |
 | [mayonnaise](https://open.spotify.com/track/4lErKE9FjE7pbqY85t3nn5) | [ego apartment](https://open.spotify.com/artist/20SNDAIdUW3fjTA14UvSj4) | [EGO APARTMENT](https://open.spotify.com/album/2eY4Vn0kpCGAIg58PlT8yB) | 3:46 | 2022-05-31 | 2022-08-12 |
 | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/track/5ExfTiWAHvxG03Kq9zrjBn) | [Akihito Okano](https://open.spotify.com/artist/1ioDAlx6i5snCxm2z9ZnUD), [井口理](https://open.spotify.com/artist/573aEcIHzIyX9guZtasykj) | [MELODY \(prod.by BREIMEN\)](https://open.spotify.com/album/6l85wjdD63ne29466jIuOV) | 4:05 | 2022-05-26 | 2022-06-29 |
@@ -223,6 +225,7 @@
 | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/track/1PvDnTxwVndr7bOrbtI2Zx) | [池田智子 × TENDRE](https://open.spotify.com/artist/3fakwzQVQaFb8QNhRNttmt) | [水星 × 今夜はブギー・バック nice vocal](https://open.spotify.com/album/1mMru6AAyUijyh3vMMjJpk) | 5:01 | 2022-05-26 | 2022-06-08 |
 | [流星群](https://open.spotify.com/track/4G1Kk1S5y5SKFFJ9Bwn35U) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [流星群](https://open.spotify.com/album/1NVfNGKoeTlThe7SMCooXT) | 3:09 | 2022-05-26 | 2022-06-22 |
 | [点と線 \(feat\. さとうもか\)](https://open.spotify.com/track/48JIfccdKcd1swFuFc7s64) | [美的計画](https://open.spotify.com/artist/4hiUgGl5CgLqYUWDTIjlnC), [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [BITEKI](https://open.spotify.com/album/6IryR0y7YeL11qhnXrwxkX) | 4:21 | 2022-05-26 | 2022-06-18 |
+| [熱帯夜](https://open.spotify.com/track/112kowSRpto8kuq8ZJYkWc) | [swim swim](https://open.spotify.com/artist/2se9xMe6mXRqmRQD8jmNpf) | [熱帯夜](https://open.spotify.com/album/3BiSgv3GdEveK9Mt2nlXtL) | 4:04 | 2022-08-16 |  |
 | [熱海](https://open.spotify.com/track/64rOTOdvUSvQDeCdfEJBaN) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [熱海](https://open.spotify.com/album/5xghl14jAO10QpOjuNC1Ua) | 3:58 | 2022-07-05 | 2022-07-22 |
 | [生きてみるわ](https://open.spotify.com/track/1r1rgstZ6j5c9PIIvcVdaX) | [AAAMYYY](https://open.spotify.com/artist/5YCsKCBbhMHBKBh2MllF5d) | [ECHO CHAMBER](https://open.spotify.com/album/23hqO5nN3rLdA2NWUnIP9O) | 3:32 | 2022-07-07 | 2022-08-12 |
 | [生きる](https://open.spotify.com/track/2fVaeXxHlTXGg2lwRzOKOw) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [春火燎原](https://open.spotify.com/album/0PuAbMj3Q0pg3XuNTYY9yM) | 4:01 | 2022-05-26 | 2022-06-15 |

@@ -1,12 +1,12 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 380279,
+  "num_followers": 380546,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDliMDdmM2FkZTQyYThmOTJmZmRlMjBhZDMzZGI1YTA5",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDdhODYyZDFhODY0OTY1OTc2ODJhZGNiMjAzNjE5YjE3",
   "tracks": [
     {
       "added_at": "2020-12-22 17:15:29",
@@ -441,6 +441,22 @@
       "url": "https://open.spotify.com/track/0feV26ESzVptPP83N82VAO"
     },
     {
+      "added_at": "2020-12-22 20:57:01",
+      "album": {
+        "name": "What Falling in Love Is For",
+        "url": "https://open.spotify.com/album/5KFYPrdsq0FtuGtEH4jZUE"
+      },
+      "artists": [
+        {
+          "name": "Emmit Fenn",
+          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
+        }
+      ],
+      "duration_ms": 174791,
+      "name": "What Falling in Love Is For",
+      "url": "https://open.spotify.com/track/3SxAg03DY1UYpP8RABjdDP"
+    },
+    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Someone\u2019s EP II X",
@@ -459,22 +475,6 @@
       "duration_ms": 266289,
       "name": "go with u - Louis La Roche Remix",
       "url": "https://open.spotify.com/track/5FxcDJENpjWY6lL9CnbHgc"
-    },
-    {
-      "added_at": "2020-12-22 20:57:01",
-      "album": {
-        "name": "What Falling in Love Is For",
-        "url": "https://open.spotify.com/album/5KFYPrdsq0FtuGtEH4jZUE"
-      },
-      "artists": [
-        {
-          "name": "Emmit Fenn",
-          "url": "https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6"
-        }
-      ],
-      "duration_ms": 174791,
-      "name": "What Falling in Love Is For",
-      "url": "https://open.spotify.com/track/3SxAg03DY1UYpP8RABjdDP"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -983,22 +983,18 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Fabrique Club",
-        "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
+        "name": "Oh Uncertainty! A Universe Despairs",
+        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
       },
       "artists": [
         {
-          "name": "Moi Je",
-          "url": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
-        },
-        {
-          "name": "Petit Biscuit",
-          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
+          "name": "Blood Cultures",
+          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
         }
       ],
-      "duration_ms": 227697,
-      "name": "Fais rien (Petit Biscuit Remix)",
-      "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
+      "duration_ms": 213040,
+      "name": "Best for You",
+      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1023,34 +1019,22 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "Oh Uncertainty! A Universe Despairs",
-        "url": "https://open.spotify.com/album/3HN0QjWQJSzQPRXiJRxhzX"
+        "name": "Fabrique Club",
+        "url": "https://open.spotify.com/album/6Hw68lfchRLr4nfRAnC45E"
       },
       "artists": [
         {
-          "name": "Blood Cultures",
-          "url": "https://open.spotify.com/artist/1kDqy7SpqyJ7aZi7cqSBis"
-        }
-      ],
-      "duration_ms": 213040,
-      "name": "Best for You",
-      "url": "https://open.spotify.com/track/5cOCrukAObZVCm7M8iKyqp"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
-        "name": "Shine A Light",
-        "url": "https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9"
-      },
-      "artists": [
+          "name": "Moi Je",
+          "url": "https://open.spotify.com/artist/2lmGTNC0PsE7j5KDO9POvW"
+        },
         {
-          "name": "The C90s",
-          "url": "https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej"
+          "name": "Petit Biscuit",
+          "url": "https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2"
         }
       ],
-      "duration_ms": 349962,
-      "name": "Shine A Light - Flight Facilities Remix",
-      "url": "https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd"
+      "duration_ms": 227697,
+      "name": "Fais rien (Petit Biscuit Remix)",
+      "url": "https://open.spotify.com/track/6nYJaQMAbU66vlZOWXy6Q4"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1067,6 +1051,22 @@
       "duration_ms": 243284,
       "name": "Baby It's You",
       "url": "https://open.spotify.com/track/2g8y0qpGaM3HTWWJZiInKA"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "Shine A Light",
+        "url": "https://open.spotify.com/album/1r0jL1OzptvUXSe7YrF9j9"
+      },
+      "artists": [
+        {
+          "name": "The C90s",
+          "url": "https://open.spotify.com/artist/40axc1GOR5BCEmC9QfI4Ej"
+        }
+      ],
+      "duration_ms": 349962,
+      "name": "Shine A Light - Flight Facilities Remix",
+      "url": "https://open.spotify.com/track/68yqiuPVxrT9OySWFDwDDd"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2020-12-22 17:15:29",
       "album": {
-        "name": "These Days",
-        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
-      },
-      "artists": [
-        {
-          "name": "NEIL FRANCES",
-          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
-        }
-      ],
-      "duration_ms": 233454,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
-    },
-    {
-      "added_at": "2020-12-22 17:15:29",
-      "album": {
         "name": "Chihiro (Remixes)",
         "url": "https://open.spotify.com/album/5PQgIvaINhDN7I3RNmtYyQ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 212963,
       "name": "Chihiro",
       "url": "https://open.spotify.com/track/4sa0z53uQH0pBQPDaAnQcl"
+    },
+    {
+      "added_at": "2020-12-22 17:15:29",
+      "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/1EAPdPWIn8Y6KvGI3OGUJa"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        }
+      ],
+      "duration_ms": 233454,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/2elnaPXB82wgWJFZop0TJq"
     },
     {
       "added_at": "2020-12-22 17:15:29",
@@ -1301,6 +1301,22 @@
       "url": "https://open.spotify.com/track/6oEFRBgGkATGn8ZpQ0TTdl"
     },
     {
+      "added_at": "2021-03-19 20:47:30",
+      "album": {
+        "name": "Oasis",
+        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
+      },
+      "artists": [
+        {
+          "name": "Attom",
+          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
+        }
+      ],
+      "duration_ms": 202247,
+      "name": "Oasis",
+      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
+    },
+    {
       "added_at": "2020-12-22 17:15:29",
       "album": {
         "name": "Northern Lights",
@@ -1319,22 +1335,6 @@
       "duration_ms": 255792,
       "name": "Northern Lights",
       "url": "https://open.spotify.com/track/3VT2WolplCglmbxCdiFy5A"
-    },
-    {
-      "added_at": "2021-03-19 20:47:30",
-      "album": {
-        "name": "Oasis",
-        "url": "https://open.spotify.com/album/7BCdGiEPeZ3ysc0rF8PSsj"
-      },
-      "artists": [
-        {
-          "name": "Attom",
-          "url": "https://open.spotify.com/artist/1Xq5wasmlEwC6TqCqJtP5o"
-        }
-      ],
-      "duration_ms": 202247,
-      "name": "Oasis",
-      "url": "https://open.spotify.com/track/3jlFMDKI3hjKvqzXry1Yq1"
     },
     {
       "added_at": "2020-12-22 17:15:29",

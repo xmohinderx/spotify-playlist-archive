@@ -236,28 +236,6 @@
     },
     {
       "album": {
-        "name": "Algo Anda Mal #1",
-        "url": "https://open.spotify.com/album/49DoT0m6sL0QTmQvhzPCOu"
-      },
-      "artists": [
-        {
-          "name": "Omar Varela",
-          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
-        },
-        {
-          "name": "Kaleb Di Masi",
-          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
-        }
-      ],
-      "date_added": "2022-08-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164308,
-      "name": "Algo Anda Mal #1",
-      "url": "https://open.spotify.com/track/3WaXtgvWKGWZ5DZuk8r69w"
-    },
-    {
-      "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope"
       },
@@ -4239,6 +4217,28 @@
       "duration_ms": 290120,
       "name": "Olv\u00eddala",
       "url": "https://open.spotify.com/track/0cXGtTRfQKSHojilCoBAOd"
+    },
+    {
+      "album": {
+        "name": "OMAR ALGO ANDA MAL #1",
+        "url": "https://open.spotify.com/album/49DoT0m6sL0QTmQvhzPCOu"
+      },
+      "artists": [
+        {
+          "name": "Omar Varela",
+          "url": "https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU"
+        },
+        {
+          "name": "Kaleb Di Masi",
+          "url": "https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4"
+        }
+      ],
+      "date_added": "2022-08-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164308,
+      "name": "OMAR ALGO ANDA MAL #1",
+      "url": "https://open.spotify.com/track/3WaXtgvWKGWZ5DZuk8r69w"
     },
     {
       "album": {

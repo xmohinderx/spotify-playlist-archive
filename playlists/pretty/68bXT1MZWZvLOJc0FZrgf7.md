@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/68bXT1MZWZvLOJc0FZrgf7.md) - [plain]
 
 > Press play and dance away to your favorite electronic hits\. Featuring Rezz, Alan Walker, Kygo and more! Cover: Gioli &amp; Assia
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 117,728 likes - 184 songs - 9 hr 42 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 117,722 likes - 184 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

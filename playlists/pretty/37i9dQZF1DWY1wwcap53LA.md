@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Tanner Adell
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,770 likes - 88 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,799 likes - 88 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

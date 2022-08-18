@@ -1,12 +1,12 @@
 {
   "description": "Esta es la plebada que est\u00e1 marcando tendencia en la M\u00fasica Mexicana. Ivonne Galaz en portada.",
-  "num_followers": 42460,
+  "num_followers": 42520,
   "original_name": "La Nueva Ola: M\u00fasica Mexicana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxMDg3NSwwMDAwMDAwMDM2NjBmNWRlYWZlOTg0MDE4MzEzM2VhNzk5N2Y2M2E0",
+  "snapshot_id": "MTY1OTcxMDg3NSwwMDAwMDAwMGU4ZjRlM2Q5ZGVlZTgyYjM1N2U2MWYyMTllYzYxMjU0",
   "tracks": [
     {
       "added_at": "2022-08-05 14:47:55",
@@ -373,26 +373,6 @@
       "url": "https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec"
     },
     {
-      "added_at": "2022-04-01 18:32:14",
-      "album": {
-        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Juli\u00e1n Mercado",
-          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
-        }
-      ],
-      "duration_ms": 187250,
-      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
-      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
-    },
-    {
       "added_at": "2021-12-27 20:28:17",
       "album": {
         "name": "Me Gusta Mi Vida",
@@ -411,6 +391,26 @@
       "duration_ms": 227726,
       "name": "Me Gusta Mi Vida",
       "url": "https://open.spotify.com/track/1lRYofIUSURrWsUVafsmzH"
+    },
+    {
+      "added_at": "2022-04-01 18:32:14",
+      "album": {
+        "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+        "url": "https://open.spotify.com/album/3c985F15MGQkPkUlCBPj79"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Juli\u00e1n Mercado",
+          "url": "https://open.spotify.com/artist/4NEQrC4AlByMUOmOp9H5hZ"
+        }
+      ],
+      "duration_ms": 187250,
+      "name": "Cuando Te Acuerdes De Mi (En Vivo)",
+      "url": "https://open.spotify.com/track/1pQrVutT9kzgLavLMUFubD"
     },
     {
       "added_at": "2022-06-07 16:00:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO"
     },
     {
-      "added_at": "2022-06-17 17:30:56",
-      "album": {
-        "name": "Lo Que Construimos - Spotify Singles",
-        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
-      },
-      "artists": [
-        {
-          "name": "Virlan Garcia",
-          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
-        }
-      ],
-      "duration_ms": 219222,
-      "name": "Lo Que Construimos - Spotify Singles",
-      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
-    },
-    {
       "added_at": "2022-01-14 06:00:00",
       "album": {
         "name": "Vive Y Dejame Vivir",
@@ -551,6 +535,22 @@
       "duration_ms": 175511,
       "name": "El H",
       "url": "https://open.spotify.com/track/2ztok6d84IR08FrwByYEEW"
+    },
+    {
+      "added_at": "2022-06-17 17:30:56",
+      "album": {
+        "name": "Lo Que Construimos - Spotify Singles",
+        "url": "https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF"
+      },
+      "artists": [
+        {
+          "name": "Virlan Garcia",
+          "url": "https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD"
+        }
+      ],
+      "duration_ms": 219222,
+      "name": "Lo Que Construimos - Spotify Singles",
+      "url": "https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv"
     },
     {
       "added_at": "2022-06-07 16:00:00",
@@ -961,38 +961,6 @@
       "url": "https://open.spotify.com/track/0fVPo3kDYTcH4LNVgjK5K9"
     },
     {
-      "added_at": "2022-06-08 22:42:54",
-      "album": {
-        "name": "El Sereno",
-        "url": "https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 163328,
-      "name": "El Sereno",
-      "url": "https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA"
-    },
-    {
-      "added_at": "2022-08-05 14:47:55",
-      "album": {
-        "name": "Sorry For The Wait 2",
-        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
-      },
-      "artists": [
-        {
-          "name": "Herencia de Patrones",
-          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
-        }
-      ],
-      "duration_ms": 268527,
-      "name": "Fabi",
-      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
-    },
-    {
       "added_at": "2022-07-08 05:00:00",
       "album": {
         "name": "Veneno Verde",
@@ -1011,6 +979,38 @@
       "duration_ms": 155373,
       "name": "Veneno Verde",
       "url": "https://open.spotify.com/track/6BzRNgPi8xJH6LzLfXplpL"
+    },
+    {
+      "added_at": "2022-08-05 14:47:55",
+      "album": {
+        "name": "Sorry For The Wait 2",
+        "url": "https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH"
+      },
+      "artists": [
+        {
+          "name": "Herencia de Patrones",
+          "url": "https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6"
+        }
+      ],
+      "duration_ms": 268527,
+      "name": "Fabi",
+      "url": "https://open.spotify.com/track/27y2E8LZkB3dfEZzjKmyZ9"
+    },
+    {
+      "added_at": "2022-06-08 22:42:54",
+      "album": {
+        "name": "El Sereno",
+        "url": "https://open.spotify.com/album/3oA4dxVIFwgL6sjPmRZtHz"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 163328,
+      "name": "El Sereno",
+      "url": "https://open.spotify.com/track/5QPWf9dawZ1Y9RbQHIUSlA"
     },
     {
       "added_at": "2022-02-23 16:41:23",
@@ -1093,22 +1093,6 @@
       "url": "https://open.spotify.com/track/7qQZ6wGQO2lb4jRyuysx6s"
     },
     {
-      "added_at": "2022-07-08 05:00:00",
-      "album": {
-        "name": "Ya No Me Vuelvo a Enamorar",
-        "url": "https://open.spotify.com/album/7ro1zMzIZl2Od9nVl1kOYk"
-      },
-      "artists": [
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Ya No Me Vuelvo a Enamorar",
-      "url": "https://open.spotify.com/track/1AEvAdtH4tOzVElQF88FDO"
-    },
-    {
       "added_at": "2022-08-05 14:47:55",
       "album": {
         "name": "Falso Amigo",
@@ -1127,6 +1111,22 @@
       "duration_ms": 195583,
       "name": "Falso Amigo",
       "url": "https://open.spotify.com/track/7Gmh0Emb8tt5XKCavZZfvD"
+    },
+    {
+      "added_at": "2022-07-08 05:00:00",
+      "album": {
+        "name": "Ya No Me Vuelvo a Enamorar",
+        "url": "https://open.spotify.com/album/7ro1zMzIZl2Od9nVl1kOYk"
+      },
+      "artists": [
+        {
+          "name": "Abraham Vazquez",
+          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Ya No Me Vuelvo a Enamorar",
+      "url": "https://open.spotify.com/track/1AEvAdtH4tOzVElQF88FDO"
     },
     {
       "added_at": "2022-02-23 16:41:23",

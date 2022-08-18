@@ -4,7 +4,7 @@
 
 > Ambient at the movies; great atmospheric, ethereal film soundtracks.
 
-83 songs - 4 hr 57 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
+84 songs - 5 hr 0 min - [published](https://open.spotify.com/playlist/7uxp56zGiSEJTuIfzdU3G9)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Title](https://open.spotify.com/track/7pRtdexXhJ8NKOHTBFrPOG) | [Disasterpeace](https://open.spotify.com/artist/7rSMEcqv4Ez0OLgJKDjrvq) | [It Follows \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3xDWKjmxCOanU9ATEy6UqD) | 2:17 | 2022-05-27 | 2022-07-29 |
 | [Vacuum](https://open.spotify.com/track/4TM98xnatOQ1AAzpgfOOLX) | [Egopusher](https://open.spotify.com/artist/6OyLCLGxOLOnQK1MrXBVuz) | [Ambient Mix Tape](https://open.spotify.com/album/2RM4GLMLWBrXCEzz0XL1BM) | 2:55 | 2022-05-27 |  |
 | [Vanity](https://open.spotify.com/track/1unH1mDWKxidZvjgnLigXg) | [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Jackie \(Original Soundtrack Album\)](https://open.spotify.com/album/198sB62Rh8wbNNXDIvMHzD) | 2:59 | 2022-05-27 |  |
+| [Wear Your Seat Belt](https://open.spotify.com/track/0gSV4AFHXzOszSK38cOYno) | [Cliff Martinez](https://open.spotify.com/artist/2OVqg3lxC8ZIf0vHcEqaCf) | [Solaris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79bDOVRjT4e6vSQZsGHnTW) | 3:10 | 2022-08-17 |  |
 | [Welcome to Lunar Industries](https://open.spotify.com/track/4NkxNXR19hl20qlB2DOgAx) | [Clint Mansell](https://open.spotify.com/artist/01xiB0IlXMXy3wrrotgDnU) | [Moon \(Original Score\)](https://open.spotify.com/album/0ux9vxJhJoFKaD66UH3160) | 7:11 | 2022-05-27 |  |
 | [What Do You Know?](https://open.spotify.com/track/4PYkiul9hjpW4RNSHRrJRR) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/70iPSxP7Jtb2ZwrypiZFQG) | 2:36 | 2022-05-27 |  |
 | [What Do You Know?](https://open.spotify.com/track/6VCwwRPHsfaQLwxmUBD0hR) | [Ben Salisbury](https://open.spotify.com/artist/3WifYZsO8WO6hGlWIDM4Zq), [Geoff Barrow](https://open.spotify.com/artist/53b2a4ytPlelgBJYLLocWh) | [Annihilation \(Music from the Motion Picture\)](https://open.spotify.com/album/0zTrUccbI88qkwHvfpH9sP) | 2:36 | 2022-05-27 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > A quality alternative blend\. Cover: Marcus Mumford
 
-429 songs - 1 day 2 hr 8 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
+430 songs - 1 day 2 hr 11 min - [published](https://open.spotify.com/playlist/5atRHR4vc4jlkDH31Rwpnd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,8 @@
 | [In My Head](https://open.spotify.com/track/06RESLziavoi6gBcXJnvXF) | [Michigander](https://open.spotify.com/artist/0oL26Dn9y761yfJgNb3vfu), [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [In My Head](https://open.spotify.com/album/2cCZOwzwsyLDCEdaPVcBPm) | 3:15 | 2022-04-08 | 2022-07-16 |
 | [in the wake of your leave](https://open.spotify.com/track/1uOUdiCQ51D8hx4gJn6wDD) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [angel in realtime.](https://open.spotify.com/album/54g9Q7VZdJYNrmEsx93gHV) | 4:03 | 2022-02-25 | 2022-06-25 |
 | [In Your Room](https://open.spotify.com/track/6lpx1OmemC7HUxIvnGo42J) | [Susannah Joffe](https://open.spotify.com/artist/3JGxLjd5coSPknSlbYyNLw) | [In Your Room](https://open.spotify.com/album/4SDZaw9i23vNfEXguYlUti) | 3:26 | 2022-08-12 |  |
-| [It Ain't Over](https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [It Ain't Over](https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng) | 3:48 | 2022-07-22 |  |
+| [It Ain't Over](https://open.spotify.com/track/46NnMrWFwS0P6HyJ8tgNi8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [It Ain't Over](https://open.spotify.com/album/4Jbu5TQmeAmE1pdLkZQGng) | 3:48 | 2022-07-22 | 2022-08-18 |
+| [It Ain't Over](https://open.spotify.com/track/4fNtMdGY2dYp2ODClA9CB4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 3:48 | 2022-08-12 |  |
 | [It's a good day \(to fight the system\)](https://open.spotify.com/track/29pn29WZFkunYdDSv5w1Ta) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [I’m not a mother, but I have children](https://open.spotify.com/album/3g658ZgE7SVrv89Y3VkjgX) | 3:17 | 2021-12-10 | 2022-01-08 |
 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 | 2021-12-10 | 2022-02-26 |
 | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 | 2022-01-07 | 2022-05-07 |

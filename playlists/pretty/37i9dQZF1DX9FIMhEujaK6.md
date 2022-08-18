@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,821 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,967 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 47 | [Is It True \- Four Tet Remix](https://open.spotify.com/track/5Yc2SVCeXXcDdALmmXIslb) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb), [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Is It True \(Four Tet Remix\)](https://open.spotify.com/album/35qrfQOhXIFZoLq9gNEUXM) | 5:25 |
 | 48 | [Sacred](https://open.spotify.com/track/3scH3LfC2eyoX4zd5sp759) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sacred](https://open.spotify.com/album/4DEhXZRlriX0ZRJvE5dU9i) | 5:47 |
 | 49 | [M\. Dupont](https://open.spotify.com/track/5PVGKs7sAoDdK0cvMDaKqR) | [The Dining Rooms](https://open.spotify.com/artist/399t4qwl1M9sMlOtlxVP7e) | [Subterranean Modern Vol\. 1](https://open.spotify.com/album/42n3hWmZuEOrNExFM8qEd8) | 5:59 |
-| 50 | [Burnt Orange](https://open.spotify.com/track/2Ot2c0TFAg0ENgAiDfh3IO) | [Elkka](https://open.spotify.com/artist/5Ly0z60jjgsY4rkmjRFtPS) | [Burnt Orange](https://open.spotify.com/album/3krmis8XpyRrEGKQ4LXRf4) | 5:36 |
+| 50 | [Kiss](https://open.spotify.com/track/35Tb3Ii35rcvP1qyRQsW1a) | [Iorie](https://open.spotify.com/artist/1ruewEJphCPPAOSjowo9AH), [Cesar B.](https://open.spotify.com/artist/68Mf2sUOnyJoE6Xm6k0eE2) | [Summer](https://open.spotify.com/album/0YtlbRJFIedxN8a9f8ZyJp) | 7:50 |
 
-Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDk1OTFlNTFlMmFhNTY3NTU1ZDUyZmQ5YWYzODJjYmYw`
+Snapshot ID: `MTY1ODMwMzk3NSwwMDAwMDAwMDUwM2UwZTY0MTczZTczMWIwZDBlMDBhOWVmOGMyNDk2`

@@ -4,7 +4,7 @@
 
 > Här hör du de bästa svenska låtarna just nu.
 
-530 songs - 1 day 4 hr 7 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
+531 songs - 1 day 4 hr 10 min - [published](https://open.spotify.com/playlist/7a7Rgh6ytRT1AxGURNfohE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,7 @@
 | [Bigger Than The Universe](https://open.spotify.com/track/2A5qivViPNykdAiRLXrxUF) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0FLkjiFbRwGs5X2SnII6Oq) | 3:02 | 2022-03-03 | 2022-07-29 |
 | [Bigger Than The Universe](https://open.spotify.com/track/4O1FGUf2xndvsmtMQtHZNp) | [Anders Bagge](https://open.spotify.com/artist/7MgeBZ2pgnnkISLd8wsn0T) | [Bigger Than The Universe](https://open.spotify.com/album/0jnA15McQjMuXilDq9w2BW) | 3:02 | 2022-07-28 |  |
 | [Bleeding](https://open.spotify.com/track/1IN8Lfkdh4t3BBIKNqwBDC) | [Johanna Nordström](https://open.spotify.com/artist/17C52JPayCIXZJwgoAMvj3) | [Bleeding](https://open.spotify.com/album/6lUWA3vDu8WIvd8TPGFKnO) | 3:26 | 2022-05-30 |  |
-| [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 | 2022-06-02 |  |
+| [Blessed](https://open.spotify.com/track/4EL02W94lT5v7cAJw7i59s) | [Seinabo Sey](https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i) | [Blessed / Black Star](https://open.spotify.com/album/28ykkNfCAOhfUloUtxRQIO) | 3:11 | 2022-06-02 | 2022-08-18 |
 | [Blicka](https://open.spotify.com/track/2xg7Baa5xTntOAhtbEfI0v) | [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [Blicka](https://open.spotify.com/album/5r7UIKuE6SdoivyjvUeC3F) | 2:55 | 2022-03-17 | 2022-07-29 |
 | [Bluffin](https://open.spotify.com/track/2Cyow8nZDqP9tolduIf2KX) | [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Bluffin](https://open.spotify.com/album/5V90vPXC1pH7cbi3lsILVw) | 2:59 | 2022-03-10 |  |
 | [Blå](https://open.spotify.com/track/0hel3UahHwK9SfUF85M1WK) | [Hov1](https://open.spotify.com/artist/68dW5BU6sdVNf099EylxEt) | [Blå](https://open.spotify.com/album/4NQguSrcgRiDznaKoowh8u) | 4:19 | 2021-12-16 | 2022-02-06 |
@@ -298,6 +298,7 @@
 | [MANO](https://open.spotify.com/track/4erg578HXlAcoJRaeI03Jh) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MANO](https://open.spotify.com/album/22b2uytJ3zeJZn4eaFuym1) | 2:48 | 2022-02-05 | 2022-07-21 |
 | [MANO](https://open.spotify.com/track/5SjWXrGT82DWuXxkMcC3DB) | [Jireel](https://open.spotify.com/artist/2EWsHDexsSInArfFkhA2i6) | [MOTY](https://open.spotify.com/album/5P0fVGNFuCNtFzkKI0i7ij) | 2:48 | 2022-07-28 |  |
 | [MER](https://open.spotify.com/track/0FHJmO5wdJsNUCNEkd5OZ3) | [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [MER](https://open.spotify.com/album/3pKahzSD2oF35BNuc5i5Oi) | 2:33 | 2022-07-21 |  |
+| [Metal Firecracker](https://open.spotify.com/track/7tzifC2bbcUfLz1RoH2zeR) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Metal Firecracker](https://open.spotify.com/album/3v8exQFqsuCKKi1nWHgJND) | 3:03 | 2022-08-11 |  |
 | [Mildest High](https://open.spotify.com/track/6YCe7aJVBWDEkJklrjVwmy) | [Bavé](https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM) | [Mildest High](https://open.spotify.com/album/5V7zY5PJ0sl5hgT7Jow9pQ) | 3:03 | 2022-06-23 | 2022-07-23 |
 | [Minnet Av Ett Hav](https://open.spotify.com/track/17xpeHftsvBZRt9OYfNZ00) | [Laleh](https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq) | [Minnet Av Ett Hav](https://open.spotify.com/album/7KWH3xa5MMcXvqW4CgnxMd) | 3:46 | 2021-12-16 | 2022-04-02 |
 | [Miss The Party](https://open.spotify.com/track/1u70gXN0eulrXoeZEiIXyv) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu), [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Learning Experience](https://open.spotify.com/album/2oFo9ugJ7G6jRAGh1uX3Wp) | 3:12 | 2022-04-07 |  |

@@ -63,7 +63,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 407653,
       "name": "Ain't No Way",
       "url": "https://open.spotify.com/track/3XpmFvsO8U4kMlVmxcc0AH"
@@ -215,7 +215,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 274188,
       "name": "Damn Your Eyes",
       "url": "https://open.spotify.com/track/2G3jRqrVVl8PmJOqNP64tr"
@@ -374,6 +374,24 @@
     },
     {
       "album": {
+        "name": "Live at the Greek Theatre",
+        "url": "https://open.spotify.com/album/5SlvNA2GDzdlu4mJut3WcH"
+      },
+      "artists": [
+        {
+          "name": "Joe Bonamassa",
+          "url": "https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373125,
+      "name": "Going Down - Live",
+      "url": "https://open.spotify.com/track/46aW1XoxfDLztY4mSdLyGs"
+    },
+    {
+      "album": {
         "name": "Time Clocks",
         "url": "https://open.spotify.com/album/1suaXSbT97Vm2D8x2N6cnD"
       },
@@ -407,7 +425,7 @@
       ],
       "date_added": "2022-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 259226,
       "name": "I Want My Crown",
       "url": "https://open.spotify.com/track/2in7I4NcwamHLIEMh4V8o5"
@@ -607,7 +625,7 @@
       ],
       "date_added": "2022-08-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 421219,
       "name": "Mainline Florida - Live",
       "url": "https://open.spotify.com/track/0NRX4unLHXXFrZtFfSmHu6"
@@ -701,7 +719,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 216080,
       "name": "Nutbush City Limits",
       "url": "https://open.spotify.com/track/07nZ2XeSabtqpx9Gy67xac"
@@ -723,7 +741,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 229840,
       "name": "Nutbush City Limits - Live",
       "url": "https://open.spotify.com/track/76nH08xYcm4PiKwpHMuyGU"
@@ -977,7 +995,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 349573,
       "name": "Summertime - Live",
       "url": "https://open.spotify.com/track/2kBpoD0of0GlqHcnlqp5JE"
@@ -1017,7 +1035,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 386520,
       "name": "The Ballad of John Henry",
       "url": "https://open.spotify.com/track/1jIerjgmmIjYoiRaf0DaM0"
@@ -1107,7 +1125,7 @@
       ],
       "date_added": "2022-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 269360,
       "name": "Walk In My Shadow - Live",
       "url": "https://open.spotify.com/track/79Xp4e2RCN5LAwZzQFNFL3"

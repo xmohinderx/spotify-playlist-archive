@@ -4,7 +4,7 @@
 
 > Heavy Metal forever\. From classics to fresh new tracks, just play it loud! Cover: Mastodon
 
-560 songs - 1 day 17 hr 50 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
+561 songs - 1 day 17 hr 55 min - [published](https://open.spotify.com/playlist/6NpBTQ0b3N3b1zdtxQGNsV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,7 +540,8 @@
 | [Weight of Glory](https://open.spotify.com/track/4ci5XV2gPtCedFJQkq23Sb) | [Wolves At The Gate](https://open.spotify.com/artist/0Z88iXWc4YVhtu1eFtsGk6) | [Eulogies](https://open.spotify.com/album/089tIF7kCTWpbeGo6yrHZU) | 2:46 | 2022-03-22 | 2022-04-12 |
 | [Welcome To The Circus](https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Welcome To The Circus](https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw) | 4:16 | 2022-06-10 |  |
 | [Werewolves of Armenia \- Rerecorded Version](https://open.spotify.com/track/7uV7feIzEHk0TS1xWw4zwU) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Werewolves of Armenia \(New Version 2020\)](https://open.spotify.com/album/0pcyE5m2GWpW8CsYv0BiMk) | 4:15 | 2021-12-17 | 2022-07-29 |
-| [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 |  |
+| [We’ll Be Back](https://open.spotify.com/track/1sI2Duw2PyugyW9EYbmdqO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:29 | 2022-07-08 |  |
+| [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 | 2022-06-24 | 2022-08-18 |
 | [What's Become of Us](https://open.spotify.com/track/4EAmlWH965iATPqkcdQaeh) | [Lords of Black](https://open.spotify.com/artist/5PgEqen6HcezHZRU1PJO0Z) | [What's Become of Us](https://open.spotify.com/album/3xemJeY99vJmR5WuILSLnL) | 4:58 | 2021-12-17 | 2022-07-28 |
 | [When Death Calls](https://open.spotify.com/track/1VZBYfPpzfeOPqgxU1BaZD) | [Sorcerer](https://open.spotify.com/artist/2O1JmZHgbLq9ttqx0AqjVm) | [When Death Calls](https://open.spotify.com/album/4RjYWZdYEqhWiYG0640W6g) | 6:43 | 2021-12-17 | 2022-07-19 |
 | [When Metal Meets the Beast](https://open.spotify.com/track/2i3SLHADphUoXINNtTTx2E) | [Knights of the Realm](https://open.spotify.com/artist/7drZpVrfcqFcFdX3of49Uo) | [When Metal Meets the Beast](https://open.spotify.com/album/661UL4VHgRjyxoOyCcUOBO) | 4:05 | 2021-12-17 | 2022-07-21 |

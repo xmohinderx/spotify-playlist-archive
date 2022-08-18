@@ -1,12 +1,12 @@
 {
   "description": "Claim your space with the newest songs from LGBTQIA+ artists. Cover: Demi Lovato",
-  "num_followers": 811809,
+  "num_followers": 811858,
   "original_name": "Out Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM3Mjk0NSwwMDAwMDAwMDQxZTBlY2M4MjYxZWViZTJiNDU5YWJmMmQ0NWI0ZGRm",
+  "snapshot_id": "MTY1OTM3Mjk0NSwwMDAwMDAwMGZlMzBjZDhlY2M5OWM4MmMzNTRhOTM4NWQzNjBkYmZj",
   "tracks": [
     {
       "added_at": "2022-07-31 21:56:59",
@@ -487,22 +487,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "for the girls",
-        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 157685,
-      "name": "for the girls",
-      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Broken Hearts Club",
         "url": "https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 203036,
       "name": "Out Loud (feat. Kehlani)",
       "url": "https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "for the girls",
+        "url": "https://open.spotify.com/album/2kgCpb55LqgeaIu34UterB"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 157685,
+      "name": "for the girls",
+      "url": "https://open.spotify.com/track/0ZKGfdW7a1vUIMulTbNmqM"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -595,22 +595,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
-      },
-      "artists": [
-        {
-          "name": "Noah Davis",
-          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
-        }
-      ],
-      "duration_ms": 200453,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Blow Out My Candle",
         "url": "https://open.spotify.com/album/2bc0REgbhglGuJH3Mt4hmk"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 179326,
       "name": "Blow Out My Candle",
       "url": "https://open.spotify.com/track/1cK0KFqlnTQC6oqPh3CXt2"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/0IzNmO6dTVd1jebYlk6t41"
+      },
+      "artists": [
+        {
+          "name": "Noah Davis",
+          "url": "https://open.spotify.com/artist/7lVbD38aVBVACNzgta9awX"
+        }
+      ],
+      "duration_ms": 200453,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/2FcbwSTgbQeweZv0bA9hI7"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -643,22 +643,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "PANORAMA",
-        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
-      },
-      "artists": [
-        {
-          "name": "Hayley Kiyoko",
-          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
-        }
-      ],
-      "duration_ms": 185995,
-      "name": "sugar at the bottom",
-      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "Bronco",
         "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 250213,
       "name": "The Curse of the Blackened Eye",
       "url": "https://open.spotify.com/track/5WhdOYLmpNgENGhtzyvEXc"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "PANORAMA",
+        "url": "https://open.spotify.com/album/2TJlASpVb5tgcEY0RMyZjQ"
+      },
+      "artists": [
+        {
+          "name": "Hayley Kiyoko",
+          "url": "https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN"
+        }
+      ],
+      "duration_ms": 185995,
+      "name": "sugar at the bottom",
+      "url": "https://open.spotify.com/track/6LO0ryApQDcoL42O5o872S"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
-      },
-      "artists": [
-        {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
-        }
-      ],
-      "duration_ms": 182443,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "rising",
         "url": "https://open.spotify.com/album/4Ozq72UWig4PdVy3yGyzAE"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 158600,
       "name": "coming of age",
       "url": "https://open.spotify.com/track/5S3Yt7uP3Fp3vcxf1v9B1Z"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/0pvbtMDkjdbU3XDKU6Zm6P"
+      },
+      "artists": [
+        {
+          "name": "Tone Sekelius",
+          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+        }
+      ],
+      "duration_ms": 182443,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/0tmMGxsxRd78NJGrMesWtx"
     },
     {
       "added_at": "2022-07-31 21:56:59",
@@ -859,22 +859,6 @@
     {
       "added_at": "2022-07-31 21:56:59",
       "album": {
-        "name": "Big Time",
-        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
-      },
-      "artists": [
-        {
-          "name": "Angel Olsen",
-          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
-        }
-      ],
-      "duration_ms": 247293,
-      "name": "Big Time",
-      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
-    },
-    {
-      "added_at": "2022-07-31 21:56:59",
-      "album": {
         "name": "ALPHA",
         "url": "https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 164693,
       "name": "I Can Only Whisper (feat. BADBADNOTGOOD)",
       "url": "https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1"
+    },
+    {
+      "added_at": "2022-07-31 21:56:59",
+      "album": {
+        "name": "Big Time",
+        "url": "https://open.spotify.com/album/02R7PREL8nCr02CEYLy7YH"
+      },
+      "artists": [
+        {
+          "name": "Angel Olsen",
+          "url": "https://open.spotify.com/artist/6mKqFxGMS5TGDZI3XkT5Rt"
+        }
+      ],
+      "duration_ms": 247293,
+      "name": "Big Time",
+      "url": "https://open.spotify.com/track/1K2Hql13Y6fcOSy2Y15qNm"
     },
     {
       "added_at": "2022-07-31 21:56:59",

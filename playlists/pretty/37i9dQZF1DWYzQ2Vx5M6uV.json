@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Ir Sais, Manuel Turizo\n",
-  "num_followers": 96989,
+  "num_followers": 97038,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGNhMTVkZjZkN2VjNjVjMGM4MzIzNzNjYTFlZjgxNzU5",
+  "snapshot_id": "MTY1NzIzNDgwMCwwMDAwMDAwMGFlNjY5OTdkNWY4MjY3ZjBmMDllZmU2ZGNmOGFmNTUw",
   "tracks": [
     {
       "added_at": "2022-05-12 19:39:03",
@@ -487,6 +487,26 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
+        "name": "Beamer (Bad Boys)",
+        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 195047,
+      "name": "Beamer (Bad Boys)",
+      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
         "name": "Blessings REMIX (feat. French Montana & Davido)",
         "url": "https://open.spotify.com/album/3kxuAgeGxSrMLi9qu4F6x9"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 225000,
       "name": "Blessings REMIX (feat. French Montana & Davido)",
       "url": "https://open.spotify.com/track/4qxWose1KJgPDYQkMs0Ng5"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "Beamer (Bad Boys)",
-        "url": "https://open.spotify.com/album/2H2xvktwcRVmjsIn9KnOhh"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        },
-        {
-          "name": "Rvssian",
-          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
-        }
-      ],
-      "duration_ms": 195047,
-      "name": "Beamer (Bad Boys)",
-      "url": "https://open.spotify.com/track/1pkNZFVhcshcvN5I6Nvb0q"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "Flavors 2",
-        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
-      },
-      "artists": [
-        {
-          "name": "LATENIGHTJIGGY",
-          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
-        },
-        {
-          "name": "Caleb Calloway",
-          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
-        }
-      ],
-      "duration_ms": 194042,
-      "name": "Prende",
-      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "Diggy Dee (Remix)",
         "url": "https://open.spotify.com/album/1gcCnNk1xuCmeHW0v62ZoN"
       },
@@ -1263,6 +1243,26 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
+        "name": "Flavors 2",
+        "url": "https://open.spotify.com/album/5cUTeXN3B75U1f7cmnyZB2"
+      },
+      "artists": [
+        {
+          "name": "LATENIGHTJIGGY",
+          "url": "https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah"
+        },
+        {
+          "name": "Caleb Calloway",
+          "url": "https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi"
+        }
+      ],
+      "duration_ms": 194042,
+      "name": "Prende",
+      "url": "https://open.spotify.com/track/5GQfpkhixRA9U3LKINOjRH"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
         "name": "Te Gusta",
         "url": "https://open.spotify.com/album/67MdWtZFN7krw2dyhzHf3V"
       },
@@ -1283,6 +1283,26 @@
       "duration_ms": 206538,
       "name": "Te Gusta",
       "url": "https://open.spotify.com/track/1EamspfiJHlyOZdyqGWl5z"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "ARENA",
+        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
+      },
+      "artists": [
+        {
+          "name": "Dylan Fuentes",
+          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
+        },
+        {
+          "name": "Daramola",
+          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
+        }
+      ],
+      "duration_ms": 261702,
+      "name": "designer (with Daramola)",
+      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1315,46 +1335,6 @@
     {
       "added_at": "2022-05-12 19:39:03",
       "album": {
-        "name": "ARENA",
-        "url": "https://open.spotify.com/album/2ypwm0uqa0yT100p8kVWq4"
-      },
-      "artists": [
-        {
-          "name": "Dylan Fuentes",
-          "url": "https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin"
-        },
-        {
-          "name": "Daramola",
-          "url": "https://open.spotify.com/artist/36qm7VRfBdnnJRBS1fd0mA"
-        }
-      ],
-      "duration_ms": 261702,
-      "name": "designer (with Daramola)",
-      "url": "https://open.spotify.com/track/7cyUsEK6wnG7YLkTIdjYJ9"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
-        "name": "LOML (feat. Olamide)",
-        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
-      },
-      "artists": [
-        {
-          "name": "Cheque",
-          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
-        },
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 196139,
-      "name": "LOML (feat. Olamide)",
-      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
-    },
-    {
-      "added_at": "2022-05-12 19:39:03",
-      "album": {
         "name": "Next To You Part II (feat. Rvssian & Davido)",
         "url": "https://open.spotify.com/album/67hfw7M0E3Rty5HntU1eC2"
       },
@@ -1379,6 +1359,26 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2022-05-12 19:39:03",
+      "album": {
+        "name": "LOML (feat. Olamide)",
+        "url": "https://open.spotify.com/album/5ti4HTub24sdxO98BEy0LH"
+      },
+      "artists": [
+        {
+          "name": "Cheque",
+          "url": "https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 196139,
+      "name": "LOML (feat. Olamide)",
+      "url": "https://open.spotify.com/track/0FZlLFD2yQLxVD4IoiQMFm"
     },
     {
       "added_at": "2022-05-12 19:39:03",
@@ -1441,26 +1441,6 @@
       "url": "https://open.spotify.com/track/66nfXAO6C4u5EFQ2DZR8MZ"
     },
     {
-      "added_at": "2022-05-19 23:00:00",
-      "album": {
-        "name": "A Little Bit",
-        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
-      },
-      "artists": [
-        {
-          "name": "Matteo",
-          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
-        },
-        {
-          "name": "Idahams",
-          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
-        }
-      ],
-      "duration_ms": 182449,
-      "name": "A Little Bit (feat. Idahams)",
-      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
-    },
-    {
       "added_at": "2022-05-12 19:39:03",
       "album": {
         "name": "Nightshift",
@@ -1479,6 +1459,26 @@
       "duration_ms": 178920,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/0X48LLpHYxS1u4JcBeq9m3"
+    },
+    {
+      "added_at": "2022-05-19 23:00:00",
+      "album": {
+        "name": "A Little Bit",
+        "url": "https://open.spotify.com/album/7wbsace1VaY31fir8cMVNB"
+      },
+      "artists": [
+        {
+          "name": "Matteo",
+          "url": "https://open.spotify.com/artist/31s5WlyPC6fwjO56yCwors"
+        },
+        {
+          "name": "Idahams",
+          "url": "https://open.spotify.com/artist/6jPVueiSr0OHgVetuTuv5O"
+        }
+      ],
+      "duration_ms": 182449,
+      "name": "A Little Bit (feat. Idahams)",
+      "url": "https://open.spotify.com/track/5Fgu8nTqg5CtXxGJrZ0RH1"
     },
     {
       "added_at": "2022-05-12 19:39:03",

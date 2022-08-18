@@ -4,7 +4,7 @@
 
 > Keep your finger on the pulse of Americana\. Cover: Larkin Poe
 
-321 songs - 20 hr 0 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
+322 songs - 20 hr 4 min - [published](https://open.spotify.com/playlist/1H5Sok0MEuwSOB35Thab6M)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,8 @@
 | [Dogs Run On](https://open.spotify.com/track/0s7aoxrKBPvqc0SptaSm35) | [Maya De Vitry](https://open.spotify.com/artist/183NiypM74rwjSbeava1pq) | [Dogs Run On](https://open.spotify.com/album/0XxzYBvtUBUdoqw6VrqhvK) | 3:36 | 2021-12-17 | 2022-04-02 |
 | [Domino](https://open.spotify.com/track/5OhOcsBmC5Buaz0Z3gGFTa) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [Domino](https://open.spotify.com/album/1lWgeVavytenPpClYpxyDI) | 2:48 | 2021-12-17 | 2022-04-02 |
 | [Don't Bother Me](https://open.spotify.com/track/0qXhEpz1OnQzxovxnYCG9l) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [Don't Bother Me](https://open.spotify.com/album/3XZIH8fWJIWug0oiVjGVWE) | 3:29 | 2022-04-15 | 2022-07-23 |
-| [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 |  |
+| [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 | 2022-08-05 |  |
+| [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 | 2022-02-25 | 2022-08-18 |
 | [Dreamer](https://open.spotify.com/track/3ZKCzPpeAm1EbwDkVMvYE7) | [Scott Hirsch](https://open.spotify.com/artist/6u1qI4cUpJV3UCqZI8lHyT), [Kelly McFarling](https://open.spotify.com/artist/7dBCtHnpE9LRrRftcPRbJr) | [Dreamer](https://open.spotify.com/album/7IepJT6QQV379tlsxJm0Eb) | 4:54 | 2021-12-17 |  |
 | [Dried Up River](https://open.spotify.com/track/6saTpYJv62gbFeRgC7VF82) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Dried Up River](https://open.spotify.com/album/5QveyiS7sznogAxujItLjZ) | 3:51 | 2021-12-17 | 2022-05-14 |
 | [Driver 8](https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Driver 8](https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu) | 3:35 | 2021-12-17 |  |

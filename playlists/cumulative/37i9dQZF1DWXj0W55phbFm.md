@@ -4,7 +4,7 @@
 
 > The classic trumpet players in jazz\. Cover: Miles Davis
 
-127 songs - 13 hr 2 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
+128 songs - 13 hr 6 min - [published](https://open.spotify.com/playlist/51VUBPDUeBVmMBu3JyYpOE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Easy To Remember](https://open.spotify.com/track/0QKbUoVUNbmxpOaURXiday) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs) | [Approaching Standards](https://open.spotify.com/album/1OGhqJimAFVAtyX7PKbakD) | 6:09 | 2022-05-13 |  |
 | [El Sino](https://open.spotify.com/track/18cJUKYB7dLm5Orkft6p7q) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Byrd's Eye View](https://open.spotify.com/album/2tW2Qt9MCkDuUB2QVjEHAF) | 10:03 | 2022-05-13 |  |
 | [Embraceable You](https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP) | [Jim Hall](https://open.spotify.com/artist/5pMmqpG3HsoJ6EDDoXGXEr), [Ruby Braff](https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv) | [Complete Recordings](https://open.spotify.com/album/75J4YwN6TuTTTppIKbaK2O) | 4:58 | 2022-05-13 | 2022-07-29 |
-| [Four Mothers](https://open.spotify.com/track/2YOXkfaCzf94gkGauUYbTK) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [The Ultimate Jazz Archive 29 \(2 Of 4\)](https://open.spotify.com/album/5BLGeqFdXZ34IhX4ah1AIM) | 2:49 | 2022-05-13 |  |
+| [Four Mothers](https://open.spotify.com/track/2YOXkfaCzf94gkGauUYbTK) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [The Ultimate Jazz Archive 29 \(2 Of 4\)](https://open.spotify.com/album/5BLGeqFdXZ34IhX4ah1AIM) | 2:49 | 2022-05-13 | 2022-08-18 |
 | [Four Mothers](https://open.spotify.com/track/0FZfBWTbHljuoqDN6VzbRL) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [This Is LA Jazz](https://open.spotify.com/album/3HDFKtZ8d3vUgsGFZ5rn1q) | 2:50 | 2022-05-13 | 2022-07-29 |
 | [Freddie Freeloader \(feat\. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers\)](https://open.spotify.com/track/2x91iJc0UkFcjRMEZ2CoWB) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:46 | 2022-05-13 |  |
 | [Gemini II](https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w) | [Marcus Belgrave](https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX) | [Gemini II](https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm) | 5:37 | 2022-05-13 |  |
@@ -121,6 +121,7 @@
 | [Tipsy](https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd) | [Benny Bailey](https://open.spotify.com/artist/57fCBf7506avv91VXx6KIb) | [Big Brass](https://open.spotify.com/album/78pLNg78QC03ZklpkgBQAM) | 7:02 | 2022-05-13 |  |
 | [Trance Dance](https://open.spotify.com/track/64OCeZwEXZDoTt1MVlWRUO) | [Goran Kajfes](https://open.spotify.com/artist/0HfOvXPsKgF3wkhZthqOPr), [Goran Kajfes Subtropic Arkestra](https://open.spotify.com/artist/4goaddAeVzC9t8NV5oY9w7) | [The Reason Why Vol\. 3](https://open.spotify.com/album/73wsAfhptI38YMPmq8JBc4) | 8:53 | 2022-05-13 |  |
 | [Tranquillity \- Remastered 1998](https://open.spotify.com/track/0OpBBKn1A98ReYTtspUIfX) | [Howard McGhee](https://open.spotify.com/artist/3z4qqrJqPWfTl9CSUNxb93) | [Howard McGhee: Volume 2 / Tal Farlow Quartet](https://open.spotify.com/album/05EaQrsQQrLM8wmmZRapyg) | 4:10 | 2022-05-13 |  |
+| [Tune\-Up](https://open.spotify.com/track/6eTC4K6kgWb1uabLqrLAxW) | [Miles Davis Quartet](https://open.spotify.com/artist/4sQVPSDmfqIxG9W8o2EROX) | [Blue Haze](https://open.spotify.com/album/5n4EHlLEtSUmTThc8sesDM) | 3:53 | 2022-08-17 |  |
 | [Weather Bird](https://open.spotify.com/track/3eMrYc092k7SIJfWJ7oasR) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek), [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Louis Armstrong: Portrait Of The Artist As A Young Man 1923\-1934](https://open.spotify.com/album/7xYnLZK3hR60bzd6sRNOvm) | 2:41 | 2022-08-12 |  |
 | [Weaver Of Dreams \- Remastered 2003/Rudy Van Gelder Edition](https://open.spotify.com/track/4N6JkrGD78eLooaTDmwo9s) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [Ready For Freddie \(Rudy Van Gelder Remaster Edition\)](https://open.spotify.com/album/1WW55eOxlZCvPWJDYmhZXD) | 6:35 | 2022-05-13 |  |
 | [West End Blues](https://open.spotify.com/track/2STqplYkSLD5ovON11dwcB) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [This Is Jazz \#1](https://open.spotify.com/album/2xRcy7P8BrID3FSCWfD8nQ) | 3:15 | 2022-05-13 |  |

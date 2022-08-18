@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: MAJAN
 
-272 songs - 13 hr 22 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
+273 songs - 13 hr 24 min - [published](https://open.spotify.com/playlist/4wMgKXJWsULbe4I9HZDGUL)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,8 +78,8 @@
 | [Drunk Dial](https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [It Was Fun While It Lasted](https://open.spotify.com/album/0d2livswZ7Q3puCCJCE0Ge) | 2:30 | 2022-07-14 | 2022-07-22 |
 | [Dunkelblau](https://open.spotify.com/track/018xarXmBSWkxODkNHf78I) | [Ion Miles](https://open.spotify.com/artist/1OJvqVmekd5OPxlTeHmlBl), [BHZ](https://open.spotify.com/artist/3mmI5HKArDwgggj4j0aJyC) | [Dunkelblau](https://open.spotify.com/album/5icoOM6Pwcny1jn2aoLBXf) | 3:47 | 2022-06-16 | 2022-06-24 |
 | [Eigentlich](https://open.spotify.com/track/2J0r4Ekv7TYMgXakOtTjt7) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1), [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC) | [Eigentlich](https://open.spotify.com/album/7eBy3KHcADRlTEgK5A6gGJ) | 2:38 | 2022-07-14 |  |
-| [Eiskalter Vodka](https://open.spotify.com/track/6aPVsvXCtTTUQ9OycaCKt3) | [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Eiskalter Vodka](https://open.spotify.com/album/5mnKhoyJ8JHy5kni0A01PR) | 2:29 | 2022-08-11 |  |
 | [Eiskalter Vodka](https://open.spotify.com/track/3kajf7IGh5sK7T99YAyFmy) | [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb) | [Eiskalter Vodka](https://open.spotify.com/album/01jtc3ZgOmJv6moODyHvHw) | 2:29 | 2022-07-25 | 2022-08-12 |
+| [Eiskalter Vodka](https://open.spotify.com/track/6aPVsvXCtTTUQ9OycaCKt3) | [Mirco Kima](https://open.spotify.com/artist/30RwqXb05doFA1yZM7HURb), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [Eiskalter Vodka](https://open.spotify.com/album/5mnKhoyJ8JHy5kni0A01PR) | 2:29 | 2022-08-11 |  |
 | [Engel](https://open.spotify.com/track/6ru74IGueZLufY6JHklJc9) | [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F), [Marvin Game](https://open.spotify.com/artist/5Gi9FP1m5OCW7sYwetsUBd) | [Engel](https://open.spotify.com/album/3yiQLEvP0dvk7ittQK3Lya) | 2:53 | 2022-07-04 | 2022-07-12 |
 | [EPOCHE](https://open.spotify.com/track/7t2waTytPcRDjEOFv0C2UP) | [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [EPOCHE](https://open.spotify.com/album/5pliDIxxlkj8TTfNHV04FY) | 1:52 | 2022-07-21 | 2022-07-29 |
 | [Escape From BABYLON](https://open.spotify.com/track/3f9lNXFSpE93mkVcQmm4x3) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Escape From BABYLON](https://open.spotify.com/album/2bcbMl6COtcqmSU5WBiUr8) | 2:21 | 2022-06-20 | 2022-07-01 |
@@ -214,7 +214,8 @@
 | [So Cold \(The Good Wife Trailer\)](https://open.spotify.com/track/6eLOyOwKUJvjN0f9equFf8) | [Ben Cocks](https://open.spotify.com/artist/7yNYyqPx2N4tCfE8omk9pZ), [Nikisha Reyes\-Pile](https://open.spotify.com/artist/3TyzFhjcE4DtMNc5edayQl) | [...As Heard In](https://open.spotify.com/album/0jtVQYmLnOjF6YsanisKct) | 3:46 | 2022-08-01 |  |
 | [Something In The Way](https://open.spotify.com/track/4gHnSNHs8RyVukKoWdS99f) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2UJcKiJxNryhL050F5Z1Fk) | 3:52 | 2022-07-14 | 2022-07-26 |
 | [Sommergewitter](https://open.spotify.com/track/2H7jZg2HliuQhZjfBblLrZ) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Sommergewitter](https://open.spotify.com/album/0y1jv7eymP0ZOITC6hQHyP) | 2:18 | 2022-06-13 | 2022-07-26 |
-| [Sommervibe](https://open.spotify.com/track/6jmodExDPh67eDiu4yceEp) | [Mateo](https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi) | [Sommervibe](https://open.spotify.com/album/0l9GfVrKmqSwsTteF4E9i0) | 1:53 | 2022-08-04 |  |
+| [Sommervibe](https://open.spotify.com/track/5sQqRC6wFJ2KpVEbUAsDSG) | [Mateo](https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi) | [Sommervibe](https://open.spotify.com/album/2NyW0H39UnGfN06WFhvYGk) | 1:53 | 2022-08-15 |  |
+| [Sommervibe](https://open.spotify.com/track/6jmodExDPh67eDiu4yceEp) | [Mateo](https://open.spotify.com/artist/6cuTkD9BPQSLew4TKCFNQi) | [Sommervibe](https://open.spotify.com/album/0l9GfVrKmqSwsTteF4E9i0) | 1:53 | 2022-08-04 | 2022-08-18 |
 | [Sonntagabend](https://open.spotify.com/track/7yCMaqrv6bqET0cnjkptMx) | [Dante YN](https://open.spotify.com/artist/7oIvDwKGV2SuH4HJl0CKPp) | [Sonntagabend](https://open.spotify.com/album/4ACMm01VoykpTp8FQsGM7B) | 2:18 | 2022-07-07 | 2022-07-22 |
 | [Space Cadet \(feat\. Gunna\)](https://open.spotify.com/track/1fewSx2d5KIZ04wsooEBOz) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [NOT ALL HEROES WEAR CAPES \(Deluxe\)](https://open.spotify.com/album/3IO8IPjwXuzPJnoaqkwYrj) | 3:23 | 2022-07-19 |  |
 | [Space Song](https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv) | 5:20 | 2022-06-09 | 2022-07-14 |

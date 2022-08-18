@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Tomberlin",
-  "num_followers": 47540,
+  "num_followers": 47613,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDI0NzBmYzAzZjEyOGZiYjMxNjYxNTgzZmFmYjc0NjBi",
+  "snapshot_id": "MTY1NDAzMDcyNCwwMDAwMDAwMDdlMWFhMDkwNzc3Mjc3OGEyZDJjZGI0NWI2MmY2OGY5",
   "tracks": [
     {
       "added_at": "2022-04-29 04:00:00",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Song for Nick Drake",
-        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 177387,
-      "name": "Song for Nick Drake",
-      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Out of My Province",
         "url": "https://open.spotify.com/album/3nz8jovd9m48kT4HnJLrUk"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 287150,
       "name": "Oh Canada",
       "url": "https://open.spotify.com/track/4LKH9EGWayUvhM3CzmPVEI"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Song for Nick Drake",
+        "url": "https://open.spotify.com/album/0tD7F0mOkgQliDESDRBLey"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 177387,
+      "name": "Song for Nick Drake",
+      "url": "https://open.spotify.com/track/1ZMpeW7DIRIpWCpFxAFuf6"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Sorceress",
-        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
-      },
-      "artists": [
-        {
-          "name": "Jess Williamson",
-          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
-        }
-      ],
-      "duration_ms": 186509,
-      "name": "Wind On Tin",
-      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Pick Apart",
         "url": "https://open.spotify.com/album/3zLwkjB6CMrlyeEvlNriiO"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 215793,
       "name": "Pick Apart",
       "url": "https://open.spotify.com/track/0ssUuvHbzmex6n2ZojDvuS"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Sorceress",
+        "url": "https://open.spotify.com/album/7MVsXLrGD9X1iBM0AQGFE6"
+      },
+      "artists": [
+        {
+          "name": "Jess Williamson",
+          "url": "https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9"
+        }
+      ],
+      "duration_ms": 186509,
+      "name": "Wind On Tin",
+      "url": "https://open.spotify.com/track/5eaLSLnaAHcUph093i4Bqr"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Blindsided",
-        "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
-      },
-      "artists": [
-        {
-          "name": "Hovvdy",
-          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Kings & Queens",
         "url": "https://open.spotify.com/album/3vgMeqqU1tzZRnq4aMSxA1"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 278753,
       "name": "Kings & Queens",
       "url": "https://open.spotify.com/track/03SZ2O8n8ngB92Xlnh3urC"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Blindsided",
+        "url": "https://open.spotify.com/album/7oRmDTnNW7VXWKXBBMFYNF"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/1v8R8ZlnD5brSRkPMSEWjm"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Vagabon",
-        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
-      },
-      "artists": [
-        {
-          "name": "Vagabon",
-          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
-        }
-      ],
-      "duration_ms": 207078,
-      "name": "Every Woman",
-      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Geist",
         "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 228492,
       "name": "A Thread to Find",
       "url": "https://open.spotify.com/track/1zHpGGZ5Q6Plp9eWVAQMu6"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Vagabon",
+        "url": "https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh"
+      },
+      "artists": [
+        {
+          "name": "Vagabon",
+          "url": "https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp"
+        }
+      ],
+      "duration_ms": 207078,
+      "name": "Every Woman",
+      "url": "https://open.spotify.com/track/3SkLIkoxSb8PKHMT4Ct9U2"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Red Bird Pt. 2 (Morning)",
-        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
+        "name": "Geist",
+        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
       },
       "artists": [
         {
-          "name": "Florist",
-          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+          "name": "Shannon Lay",
+          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
         }
       ],
-      "duration_ms": 326156,
-      "name": "Red Bird Pt. 2 (Morning)",
-      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
+      "duration_ms": 278316,
+      "name": "Rare to Wake",
+      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Sam Amidon",
-        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
+        "name": "Red Bird Pt. 2 (Morning)",
+        "url": "https://open.spotify.com/album/7Jb7z8Sdo4xZiMxqhF4N45"
       },
       "artists": [
         {
-          "name": "Sam Amidon",
-          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
         }
       ],
-      "duration_ms": 294360,
-      "name": "Maggie",
-      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
+      "duration_ms": 326156,
+      "name": "Red Bird Pt. 2 (Morning)",
+      "url": "https://open.spotify.com/track/23W60m1igNcv0DUov523DO"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Geist",
-        "url": "https://open.spotify.com/album/27P4Y493lQQpm3vBXfRMel"
+        "name": "Sam Amidon",
+        "url": "https://open.spotify.com/album/1Jk12pD1RaSl1SM9Ig5X8m"
       },
       "artists": [
         {
-          "name": "Shannon Lay",
-          "url": "https://open.spotify.com/artist/1Kssd2mp7BMKGZUUKncUt6"
+          "name": "Sam Amidon",
+          "url": "https://open.spotify.com/artist/6TTJ0xLPPNDyv4bXyukzU4"
         }
       ],
-      "duration_ms": 278316,
-      "name": "Rare to Wake",
-      "url": "https://open.spotify.com/track/1BuTCkxfbIA8oEwdPDOuK2"
+      "duration_ms": 294360,
+      "name": "Maggie",
+      "url": "https://open.spotify.com/track/00DyyDxPVjFdtLILeZsxjv"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Crushing",
-        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 196106,
-      "name": "Convention",
-      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "A Color of the Sky",
         "url": "https://open.spotify.com/album/5XgsP1RlwCnPU8f3NuoY2K"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 226824,
       "name": "The Right Thing Is Hard To Do",
       "url": "https://open.spotify.com/track/6mBg5msp0A14K7VfbTY272"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Crushing",
+        "url": "https://open.spotify.com/album/4u3aIyQbywYaxgF7TcXuIu"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 196106,
+      "name": "Convention",
+      "url": "https://open.spotify.com/track/0cT41FjcuUS4HFhq4IwnNY"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Strange to Explain",
-        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
-      },
-      "artists": [
-        {
-          "name": "Woods",
-          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
-        }
-      ],
-      "duration_ms": 215564,
-      "name": "Be There Still",
-      "url": "https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 149589,
       "name": "Till The Moon Don't Shine - Cover",
       "url": "https://open.spotify.com/track/3KTGcgACVFQVXxdEc8Outr"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Strange to Explain",
+        "url": "https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI"
+      },
+      "artists": [
+        {
+          "name": "Woods",
+          "url": "https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ"
+        }
+      ],
+      "duration_ms": 215564,
+      "name": "Be There Still",
+      "url": "https://open.spotify.com/track/7dQ76KVAyQkPqpynSmNCot"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1743,6 +1743,22 @@
       "duration_ms": 190695,
       "name": "Cady Road",
       "url": "https://open.spotify.com/track/1ANTgkucU94X8WNLWtzAyq"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "Stay In Touch",
+        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
+      },
+      "artists": [
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "duration_ms": 289987,
+      "name": "Homes",
+      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -1883,22 +1899,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Stay In Touch",
-        "url": "https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4"
-      },
-      "artists": [
-        {
-          "name": "Georgia Harmer",
-          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
-        }
-      ],
-      "duration_ms": 289987,
-      "name": "Homes",
-      "url": "https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "Ultraviolet",
         "url": "https://open.spotify.com/album/1rLY7IDUdjqqNlEqmRnIUd"
       },
@@ -1967,22 +1967,6 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "May",
-        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 238515,
-      "name": "May",
-      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
-    },
-    {
-      "added_at": "2022-04-29 04:00:00",
-      "album": {
         "name": "The Monster Who Hated Pennsylvania",
         "url": "https://open.spotify.com/album/13qO35v1fPlEsvctgnCMrs"
       },
@@ -1995,6 +1979,22 @@
       "duration_ms": 167173,
       "name": "Helena",
       "url": "https://open.spotify.com/track/2BsSqz6lCeJl8tErM2ZlL4"
+    },
+    {
+      "added_at": "2022-04-29 04:00:00",
+      "album": {
+        "name": "May",
+        "url": "https://open.spotify.com/album/53MJvvksiE4OBv49EWp0dl"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 238515,
+      "name": "May",
+      "url": "https://open.spotify.com/track/4JhCFrz0W9JuwsgT1c4HJT"
     },
     {
       "added_at": "2022-04-29 04:00:00",
@@ -2031,18 +2031,18 @@
     {
       "added_at": "2022-04-29 04:00:00",
       "album": {
-        "name": "Hotline",
-        "url": "https://open.spotify.com/album/6Hfps8ijDGS0blJR1YqvZ5"
+        "name": "Calling The Shots",
+        "url": "https://open.spotify.com/album/2tqxQyefvJhebANvFfyS97"
       },
       "artists": [
         {
-          "name": "Lael Neale",
-          "url": "https://open.spotify.com/artist/7mi56yFiPlaLW2PtsZnoWF"
+          "name": "Jamie B.",
+          "url": "https://open.spotify.com/artist/0V7j0A3N5hup0XNQVKYvrQ"
         }
       ],
-      "duration_ms": 170497,
-      "name": "Hotline",
-      "url": "https://open.spotify.com/track/478PwX4m7LBB6nOMFGl2U7"
+      "duration_ms": 231382,
+      "name": "Calling The Shots",
+      "url": "https://open.spotify.com/track/327V3cyuKrjlHzcoup18bX"
     }
   ],
   "unique_name": "Folk Arc",

@@ -759,7 +759,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 290146,
       "name": "Apocalypse",
       "url": "https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5"
@@ -6859,7 +6859,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
@@ -7453,7 +7453,7 @@
       ],
       "date_added": "2021-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 145800,
       "name": "love nwantiti (ah ah ah)",
       "url": "https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g"
@@ -12225,10 +12225,44 @@
       ],
       "date_added": "2022-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 183737,
       "name": "Thallumaala Paattu",
       "url": "https://open.spotify.com/track/1JGdOSXhyXpAu7xUpoygxW"
+    },
+    {
+      "album": {
+        "name": "Thallumaala",
+        "url": "https://open.spotify.com/album/09coDJ0hDNRUkN3qJnGfIy"
+      },
+      "artists": [
+        {
+          "name": "Hrithik Jayakish",
+          "url": "https://open.spotify.com/artist/1uyEDo5vVeOUdz0xbLBKb4"
+        },
+        {
+          "name": "Neha Girish",
+          "url": "https://open.spotify.com/artist/7j7JiRc4hgylqljp5gmKcv"
+        },
+        {
+          "name": "Eshaan Sanil",
+          "url": "https://open.spotify.com/artist/1zdLDvuJcKyCtgrPAKwEIQ"
+        },
+        {
+          "name": "Thejas Krishna",
+          "url": "https://open.spotify.com/artist/485YsYvNnyDA6LZOq4BGA2"
+        },
+        {
+          "name": "Vishnu Vijay",
+          "url": "https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183737,
+      "name": "Thallumaala Paattu - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/3iH9MTX6mSGgSNlw9Q2T6t"
     },
     {
       "album": {
@@ -13521,7 +13555,7 @@
       ],
       "date_added": "2021-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 172626,
       "name": "Woman",
       "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"

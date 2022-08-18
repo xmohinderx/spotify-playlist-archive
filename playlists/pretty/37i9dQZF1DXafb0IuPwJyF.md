@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。毎週月曜日更新。Cover: TWICE
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,526 likes - 49 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,743 likes - 49 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,23 +12,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 2 | [雨燦々](https://open.spotify.com/track/34PR0zLBVl7VMF9E7dDwdo) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [雨燦々](https://open.spotify.com/album/2gv7KqKXqTEfXnNOUyu85q) | 4:55 |
 | 3 | [Celebrate](https://open.spotify.com/track/5ZwlnR8yGofZ0669mEh8Xm) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Celebrate](https://open.spotify.com/album/3JWwlQso9kjpJ7q7aw8C2F) | 3:08 |
 | 4 | [くびったけ](https://open.spotify.com/track/3L0rXIx0aocJrFq7AQxBKI) | [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv) | [くびったけ](https://open.spotify.com/album/57kc4sqcplMurw6VSgztUw) | 3:54 |
-| 5 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
-| 6 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 |
-| 7 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
+| 5 | [ダンスホール](https://open.spotify.com/track/4NaaF28BeO9WzjDrSS71Nz) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ダンスホール](https://open.spotify.com/album/3OyEc77lPQ8QOWMIWvZl08) | 3:23 |
+| 6 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 |
+| 7 | [私は最強](https://open.spotify.com/track/5YQNjKZofFhlBCIzTVY6rW) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [ウタの歌 ONE PIECE FILM RED](https://open.spotify.com/album/5WStsinR0ZOQRoCI6rQPZA) | 4:17 |
 | 8 | [堕天](https://open.spotify.com/track/1ndUYRPchJVNQCM7XwN7Hq) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [堕天](https://open.spotify.com/album/6TyquheH5JW6c5YuZ4ectA) | 2:52 |
 | 9 | [Greatest Journey](https://open.spotify.com/track/7FaArVLHS3aEqfhAishhk7) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Greatest Journey](https://open.spotify.com/album/0QbN68y6D0WCViH0iiDlQ5) | 2:58 |
 | 10 | [あいもかわらず](https://open.spotify.com/track/5LCHehf37b64IBHggD6xQf) | [Huwie Ishizaki](https://open.spotify.com/artist/4NZJF1Qong0IAWBRE2EjTr), [Masaki Suda](https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX) | [あいもかわらず](https://open.spotify.com/album/15nCW8kn6TVp1ZZphcBa0p) | 4:30 |
-| 11 | [Start Over](https://open.spotify.com/track/6SSFrvijK2HjByYwRO8Rob) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [Start Over](https://open.spotify.com/album/2RDWLFSIcQK9SazGCnf09J) | 3:21 |
-| 12 | [Free Free Free](https://open.spotify.com/track/0cGlG9r39bvpKz9VU8IQao) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/7lmMXFuKXhwQQB8QDno8mc) | [Free Free Free](https://open.spotify.com/album/3tTuUhsbHbu5XAwkhz82Yc) | 4:14 |
-| 13 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 |
-| 14 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
-| 15 | [タイムマシン](https://open.spotify.com/track/0C7VgMgDuyOEku3sslCbyC) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [タイムマシン](https://open.spotify.com/album/5suK3hqIM3p9iogpM0buCz) | 3:21 |
+| 11 | [Free Free Free](https://open.spotify.com/track/0cGlG9r39bvpKz9VU8IQao) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Lilas Ikuta](https://open.spotify.com/artist/7lmMXFuKXhwQQB8QDno8mc) | [Free Free Free](https://open.spotify.com/album/3tTuUhsbHbu5XAwkhz82Yc) | 4:14 |
+| 12 | [3636](https://open.spotify.com/track/207OCGfaLuJllRSgHtKLji) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [3636](https://open.spotify.com/album/0LSU1wIbJmGLZhzOnkk9sN) | 4:11 |
+| 13 | [Always You](https://open.spotify.com/track/38kfx7lgJFHFxJMAvMMkRy) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [Always You](https://open.spotify.com/album/4dSCQ1zLL6BqSYHgIepPQD) | 4:04 |
+| 14 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
+| 15 | [Start Over](https://open.spotify.com/track/6SSFrvijK2HjByYwRO8Rob) | [THE BEAT GARDEN](https://open.spotify.com/artist/7gcQfJbjZ2W440kQ2wmqzk) | [Start Over](https://open.spotify.com/album/2RDWLFSIcQK9SazGCnf09J) | 3:21 |
 | 16 | [真夏の恋は気まぐれ](https://open.spotify.com/track/3DYLsJ0hAzbVGCOIWN011L) | [tonun](https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG) | [真夏の恋は気まぐれ](https://open.spotify.com/album/6B0YhBGykGrRAfkgCe2ODk) | 4:09 |
-| 17 | [魔法](https://open.spotify.com/track/1ScnuKJ4IaoRmJD8xYJfjM) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [魔法](https://open.spotify.com/album/3vcoq8uYCBi7tTkDTVfSuj) | 4:18 |
-| 18 | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe) | 3:45 |
-| 19 | [What's up](https://open.spotify.com/track/6pBLBPnfColV4UhAPnocWK) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [What's up](https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox) | 3:33 |
-| 20 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
-| 21 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
+| 17 | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [I Wanna Be Your Ghost \(feat\. Ghosts\)](https://open.spotify.com/album/3yMv72mFXC359orTQ2mZHe) | 3:45 |
+| 18 | [What's up](https://open.spotify.com/track/6pBLBPnfColV4UhAPnocWK) | [Rin音](https://open.spotify.com/artist/2sd5k8N8cAOm6Q8OCcePw4), [クボタカイ](https://open.spotify.com/artist/0eg7sMst2b9wLVyMgtRFpY), [asmi](https://open.spotify.com/artist/3UY1KK0iXeC0mpaK0ltFza), [A夏目](https://open.spotify.com/artist/2HUc3XMRhQi0UBcSGGa0mH) | [What's up](https://open.spotify.com/album/0oOTQm1tIux02oMc9xcdox) | 3:33 |
+| 19 | [左右盲](https://open.spotify.com/track/797EOD68bmVFiyalgBGeOZ) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [左右盲](https://open.spotify.com/album/7gXTELLABqdYBJ9R9bQ443) | 4:27 |
+| 20 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 |
+| 21 | [タイムマシン](https://open.spotify.com/track/0C7VgMgDuyOEku3sslCbyC) | [Yuuri](https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W) | [タイムマシン](https://open.spotify.com/album/5suK3hqIM3p9iogpM0buCz) | 3:21 |
 | 22 | [しわくちゃな雲を抱いて](https://open.spotify.com/track/2wTP562D8SY3ZHPVMivgHp) | [DISH//](https://open.spotify.com/artist/0jJmZHZHNe8n24Y33z5Nil) | [しわくちゃな雲を抱いて](https://open.spotify.com/album/1iJ5EnMJPZB2nWBzmFCooh) | 3:55 |
 | 23 | [Mixed Nuts](https://open.spotify.com/track/3RFL9hE5cBocBsjD5XLJLQ) | [Official HIGE DANdism](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Mixed Nuts](https://open.spotify.com/album/2PN9UPqCKmZgXNtZPJtsc4) | 3:33 |
 | 24 | [Night Rider](https://open.spotify.com/track/0FnJ2EWTyl7QUQcDEbpN16) | [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [Boyhood](https://open.spotify.com/album/6yhxG10zFkBXMIRfvveRE6) | 3:19 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 43 | [Treasure hunting](https://open.spotify.com/track/3p9K3VmLDSFBuOU0UYnhBC) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [Treasure hunting](https://open.spotify.com/album/3ON4buFEMTNxdp0Klp1EY6) | 5:05 |
 | 44 | [ソーイングボックス](https://open.spotify.com/track/76NhiCBPrYxaXfh0jeUBcD) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [ソーイングボックス](https://open.spotify.com/album/0DTHqhSxuoZm9usnV5J0wH) | 3:14 |
 | 45 | [Change](https://open.spotify.com/track/2FM1aNnqVfUsBkyTcxQmVm) | [ao](https://open.spotify.com/artist/5NUhVvh0ERaLUcVqbUfDhK) | [Change](https://open.spotify.com/album/7ybRhDFyFV9bRXMIGW6wbl) | 3:24 |
-| 46 | [Scream](https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:20 |
-| 47 | [HAVE A NICE DAY](https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAVE A NICE DAY](https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3) | 3:40 |
-| 48 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 |
-| 49 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 |
+| 46 | [Thinking](https://open.spotify.com/track/5ZuVfW3iyz4AUA7aSDwNtp) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Thinking](https://open.spotify.com/album/3DpicBvCX079m21wMy9cMt) | 4:02 |
+| 47 | [Othello](https://open.spotify.com/track/4TAnJMwy3dFjRMyYsvQ9Fh) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Othello](https://open.spotify.com/album/3i2MhTc7yo7UNtpSSP3Lzp) | 4:29 |
+| 48 | [Scream](https://open.spotify.com/track/2jUMhjwi5VZ6GqKGZlVg6F) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [BE:1](https://open.spotify.com/album/3bzgtBdR3ljgLUxFTBfCmU) | 3:20 |
+| 49 | [HAVE A NICE DAY](https://open.spotify.com/track/0xY6JkJY1ltWdbx9YQJM84) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb) | [HAVE A NICE DAY](https://open.spotify.com/album/2g0Rw5XYIxKqBkXVuU44E3) | 3:40 |
 
-Snapshot ID: `MTY2MDQ4OTIwMCwwMDAwMDAwMDUzYmRiZmNlZWRlM2I1ZTA5NjkxNDFmZjMyYjQ2Yzdh`
+Snapshot ID: `MTY2MDc3MzI1MiwwMDAwMDAwMGYzMDVkMjI3ZWQ3NDI3OTIzYWU4NTliZGQ4OTFlOTM1`

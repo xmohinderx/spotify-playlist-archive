@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 
 > Clásicos del folklore argentino de la mano de sus más grandes intérpretes\. Foto: Chaqueño Palavecino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,354 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,417 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Ley Y La Trampa](https://open.spotify.com/track/0L5wghl5RSXbOInxDhHAUU) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [La Ley Y La Trampa](https://open.spotify.com/album/1iBOBHP4VTGUKplKdtXot4) | 2:48 |
 | 2 | [Eterno Amor](https://open.spotify.com/track/4fhQ48hixjThGi2za030We) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Mejor Que Nunca](https://open.spotify.com/album/0MIp2J88uFC5z0y00SmmdT) | 3:41 |
 | 3 | [Entre La Tierra Y El Cielo](https://open.spotify.com/track/1hQgzgaxymIbhqoWpMYDnf) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 4:51 |
-| 4 | [Zamba para Olvidarte \(with Diego Torres\)](https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 5:02 |
+| 4 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
 | 5 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/0YhkCXDzIkVcv1ToW5BSbt) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Sole](https://open.spotify.com/album/5gPAkqdpxaPRc5ZvigqNok) | 3:13 |
 | 6 | [La Cerrillana](https://open.spotify.com/track/4E38Uglo9qAS9VqHdhyycF) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:00 |
 | 7 | [Zamba de Amor en Vuelo](https://open.spotify.com/track/2cVlTjHnCyozDmiUR64dmy) | [Tamara Castro](https://open.spotify.com/artist/11PnNvuse5a0xPupBIeHyW) | [Lo Mejor de Mi...](https://open.spotify.com/album/6jaKNEm0vp1mzqyNx3Emdn) | 3:30 |
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 10 | [Vienes y Te Vas](https://open.spotify.com/track/188wTON3SZIoUVG39rINeq) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 3:05 |
 | 11 | [Entra a Mi Hogar](https://open.spotify.com/track/0vICUGzGQoi7KT0ALk4r2m) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [Los 20 Años de Los Manseros Santiagueños](https://open.spotify.com/album/175Pk8soXmGSZPy2R6Ic3n) | 3:19 |
 | 12 | [Luna Cautiva](https://open.spotify.com/track/6RLy54zWiCxdbobwzSwBNq) | [Los Chalchaleros](https://open.spotify.com/artist/0t8lKcdJV0dEicuocOteOw) | [Éxitos Sin Fronteras](https://open.spotify.com/album/3SGF45hToDUlV5Gvurtmp7) | 3:50 |
-| 13 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
+| 13 | [Zamba para Olvidarte \(with Diego Torres\)](https://open.spotify.com/track/6LLOYYePoJZs8Gy7FmoZ7o) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Cantora](https://open.spotify.com/album/0GEdAkGPf0hOqaHtg6arIl) | 5:02 |
 | 14 | [Zamba para Olvidarte](https://open.spotify.com/track/5V1FwqoPmvZllRuQCuZAyx) | [Daniel Toro](https://open.spotify.com/artist/3kww2RwVsla3J0eZyfRLIu) | [Zamba para Olvidarte](https://open.spotify.com/album/30n0qbEez9YgxftQ9Kv7jO) | 3:19 |
 | 15 | [A Don Amancio](https://open.spotify.com/track/4S7TxyUNJzGNg9asjU954f) | [Chaqueño Palavecino](https://open.spotify.com/artist/1GlOpg3dPUft550esb82K3) | [Chaqueñadas](https://open.spotify.com/album/6R49gTlWLOhwKDnw95olcP) | 2:29 |
 | 16 | [Canto a Monte Quemado](https://open.spotify.com/track/5duHZK8NLA4JlfLe1ohnvb) | [Los Manseros Santiagueños](https://open.spotify.com/artist/0IAWTLWnUIzKVQDTGoYJk2) | [30 Años Con el Canto](https://open.spotify.com/album/10WOUoHlzhyTLKhMJdVP0x) | 2:29 |
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o2KmaQFzHW.md) - [plain]
 | 85 | [La Tempranera](https://open.spotify.com/track/4Px7Z8x7JBJNlX0HSf9lfJ) | [Duo Coplanacu](https://open.spotify.com/artist/4PGCodvYkKFR1qPfeDlIPQ) | [Desde Adentro](https://open.spotify.com/album/3sVX158atFIJCx8C3hhav0) | 4:53 |
 | 86 | [No Te Puedo Olvidar](https://open.spotify.com/track/0aGS8vkuScHGUomEiUo2ri) | [Jorge Cafrune](https://open.spotify.com/artist/3uy9MpO6gLAW1LHhDRXM38) | [Grandes Del Folklore](https://open.spotify.com/album/10sMUx7o8wqKvctxvatyi3) | 3:01 |
 | 87 | [Jazmín de Luna](https://open.spotify.com/track/4fbY00uU5nctQjO3xhoobi) | [Los Tucu Tucu](https://open.spotify.com/artist/793ACUr9nbTLP7KZUddXzU) | [Tributo, Sus 20 Mejores Canciones](https://open.spotify.com/album/3XQCWyBzi6lMqpbL8GV7UZ) | 3:04 |
-| 88 | [Angelitos Negros](https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:14 |
-| 89 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
+| 88 | [Y Va Pasando la Vida](https://open.spotify.com/track/09yvQeZIRvECwGGg964mz0) | [Los Del Suquía](https://open.spotify.com/artist/4Apvih9OZt9ghebGFIVcXI) | [El Estilo Romántico](https://open.spotify.com/album/772LrlucinRlQP8KlOfaF2) | 3:40 |
+| 89 | [Angelitos Negros](https://open.spotify.com/track/1Qat6Mf8sXwGwtu40wdzrt) | [Los 3 Del Río](https://open.spotify.com/artist/36d5z1gYjS3JTSkG7qh61z) | [Los 3 Del Río](https://open.spotify.com/album/4BMvkK3SHicB9fj05q4s0Q) | 4:14 |
 | 90 | [La Engañera](https://open.spotify.com/track/4CW7J5XQGm24KMXD6euxfM) | [Carlos Torres Vila](https://open.spotify.com/artist/5OQpgiuh3jzgADQidpRcTb) | [Carlos Torres Vila\-Los Elegidos](https://open.spotify.com/album/6DKp4qYEUKGsgjz6YzizWC) | 3:08 |
 
-Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDU5ZWU4OWQ1YmRiYzIyMTZlMmJmMzA3MGI2NWE2ZWE1`
+Snapshot ID: `MTY1MDkxNjI2NywwMDAwMDAwMDIwYzY0ZDdlYzdjYzAyYTNmZGQzYmRmN2E5ZDQyOGYz`

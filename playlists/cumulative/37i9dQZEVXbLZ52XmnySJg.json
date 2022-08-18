@@ -135,7 +135,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 221271,
       "name": "Aankhon Se Batana",
       "url": "https://open.spotify.com/track/1ZiReD9pPTttQWwSoYqdyH"
@@ -233,7 +233,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 223399,
       "name": "Ae Watan (Male)",
       "url": "https://open.spotify.com/track/4wNLPh3T8dxrJwC32MzIUd"
@@ -1956,6 +1956,36 @@
     },
     {
       "album": {
+        "name": "Coka 2.0 (From \"Liger\")",
+        "url": "https://open.spotify.com/album/4HHY31rL3PutmhdbuIhzmK"
+      },
+      "artists": [
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        },
+        {
+          "name": "Sukh-E Muzical Doctorz",
+          "url": "https://open.spotify.com/artist/0yniDkE5y7ci4X9OtLBXaQ"
+        },
+        {
+          "name": "Lisa Mishra",
+          "url": "https://open.spotify.com/artist/418X5slNWlJwym4x3Oq3Cs"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166391,
+      "name": "Coka 2.0 (From \"Liger\")",
+      "url": "https://open.spotify.com/track/6TtNVOFQUbQDUbTQwdILH1"
+    },
+    {
+      "album": {
         "name": "NAKAMURA",
         "url": "https://open.spotify.com/album/3jqQFIXUakuDXdhFVvI7Ko"
       },
@@ -2109,7 +2139,7 @@
       ],
       "date_added": "2022-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 203186,
       "name": "Desh Mere (From \"Bhuj The Pride Of India\")",
       "url": "https://open.spotify.com/track/2HbrsAxOZfG0s1xCQuk6nB"
@@ -2287,7 +2317,7 @@
       ],
       "date_added": "2021-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 231486,
       "name": "Dil Ko Karaar Aaya (From \"Sukoon\")",
       "url": "https://open.spotify.com/track/5urYiIXu1ZhfMAOsp7WDTc"
@@ -3837,7 +3867,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-10",
+      "date_removed": null,
       "duration_ms": 238252,
       "name": "Hum Nashe Mein Toh Nahin",
       "url": "https://open.spotify.com/track/5L70RGPJEdooqtrgR7vd6U"
@@ -4093,7 +4123,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 206060,
       "name": "Insane",
       "url": "https://open.spotify.com/track/3UhmuWcFaLS3AO3kI9ynQ2"
@@ -4623,7 +4653,7 @@
       ],
       "date_added": "2022-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 232513,
       "name": "Kaanunna Kalyanam (From \"Sita Ramam (Telugu)\")",
       "url": "https://open.spotify.com/track/3eH3HTKPBmxvbT7OgxjNit"
@@ -4707,7 +4737,7 @@
       ],
       "date_added": "2021-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 234722,
       "name": "Kaise Hua (From \"Kabir Singh\")",
       "url": "https://open.spotify.com/track/1y1rQTkWmrZdJmjwuK07GC"
@@ -5249,7 +5279,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 217848,
       "name": "Lehra Do",
       "url": "https://open.spotify.com/track/1E2Hs9fuKr9wSPAvlYX8lR"
@@ -5755,7 +5785,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 374666,
       "name": "Maa Tujhe Salaam",
       "url": "https://open.spotify.com/track/3aozKh1z4SSZXAm7TpcXtk"
@@ -5859,6 +5889,28 @@
       "duration_ms": 239294,
       "name": "Malwa Block",
       "url": "https://open.spotify.com/track/4d3tiblcaqGdji7XvPGHiq"
+    },
+    {
+      "album": {
+        "name": "Manavaalan Thug (From \"Thallumaala\")",
+        "url": "https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD"
+      },
+      "artists": [
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        },
+        {
+          "name": "SA",
+          "url": "https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Manavaalan Thug - From \"Thallumaala\"",
+      "url": "https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF"
     },
     {
       "album": {
@@ -7657,7 +7709,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 223271,
       "name": "Rangisari (From \"Jugjugg Jeeyo\")",
       "url": "https://open.spotify.com/track/0DXfJ2iKRDEG7rPgssWFea"
@@ -7987,7 +8039,7 @@
       ],
       "date_added": "2022-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 632960,
       "name": "Sandese Aate Hai (From \"Border\")",
       "url": "https://open.spotify.com/track/2Zx1TmHSTxMc7DaUUWZnAn"
@@ -9075,7 +9127,7 @@
       ],
       "date_added": "2021-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 313999,
       "name": "Teri Mitti",
       "url": "https://open.spotify.com/track/75hrPAosuDiO9F3DKwVP12"
@@ -9751,7 +9803,7 @@
       ],
       "date_added": "2021-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/2J2Z1SkXYghSajLibnQHOa"

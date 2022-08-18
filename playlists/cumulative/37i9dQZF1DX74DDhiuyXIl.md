@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-218 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
+219 songs - 16 hr 17 min - [published](https://open.spotify.com/playlist/3PHd0BgAU7GtH83PqXsATM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,6 +131,7 @@
 | [愛情怎麼了嗎](https://open.spotify.com/track/5ZaPc3ILOQT4Qc26AZe9od) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [愛情怎麼了嗎](https://open.spotify.com/album/16SRsxQho3RdwRnFIQlE40) | 4:08 | 2022-06-20 |  |
 | [愛情的模樣 Life Live](https://open.spotify.com/track/4b1SzvKg74EQ8ftVH0ke8Z) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY), [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [五月天 人生無限公司 Life Live 好友加班篇](https://open.spotify.com/album/5Rfn5E0vo8RIUfWsr0B31Y) | 5:11 | 2022-06-06 |  |
 | [慢冷](https://open.spotify.com/track/3NNDJfWMGHuNpvHWTImmlW) | [Fish Leong](https://open.spotify.com/artist/3aIDSTKS9yH745GUQBxDcS) | [我好嗎? \- 太陽如常升起](https://open.spotify.com/album/13EgeVmtvcqQIdJJix6QzM) | 4:49 | 2022-06-06 |  |
+| [我不是白馬王子 \(feat\. 高爾宣 & 李杰明\)](https://open.spotify.com/track/3v9017g56OYJzBmBtSxzSi) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [高爾宣](https://open.spotify.com/artist/7rrL3cuBnPUQyGIMCfyzpD), [W.M.L](https://open.spotify.com/artist/5PeVQEj4Yr0TB9CuG83dPB) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 3:35 | 2022-08-15 |  |
 | [我不願看你變了模樣](https://open.spotify.com/track/3G7ny2PEZp2MqLg5qXgJIE) | [簡弘亦](https://open.spotify.com/artist/0u0FqeMALEaiT19otJOm8C) | [我不願看你變了模樣](https://open.spotify.com/album/2Flk8OajZEVjjwrTg5SIMf) | 4:47 | 2022-06-13 | 2022-06-27 |
 | [我以為你不會出現 \(UAG安全感形象曲\)](https://open.spotify.com/track/20OrMs4eAhIHyG82wHaGy0) | [告五人](https://open.spotify.com/artist/6xErgeZYatiaQ36SB5bvi8) | [我以為你不會出現](https://open.spotify.com/album/6jCdDLLM1EH24grt1rqmIQ) | 5:46 | 2022-06-13 |  |
 | [我们没有爱错](https://open.spotify.com/track/1t0h4qVm249uDur73ONbbD) | [Kelly Pan](https://open.spotify.com/artist/2hJxcuFTgP89GdmCVXfXyi) | [我们没有爱错](https://open.spotify.com/album/4ezcrw8beXk4fw6Qrjo53z) | 5:05 | 2022-06-06 | 2022-07-13 |
@@ -149,7 +150,7 @@
 | [放過自己](https://open.spotify.com/track/1AVYznIek3SoK9xSAsnAuH) | [Ada Zhuang](https://open.spotify.com/artist/42l9R70OWvywz9JN9DCVOM) | [放過自己](https://open.spotify.com/album/4JbsUHHIczczvvAPh137S8) | 4:09 | 2022-08-08 |  |
 | [救世主](https://open.spotify.com/track/22QgawZFbjPJ0R8BZTLhxQ) | [Power Station](https://open.spotify.com/artist/6zCAdMK7SVxKyGMnAc26Cy) | [都是因為愛](https://open.spotify.com/album/642Wu4osR9HAqIC08z1YUg) | 4:33 | 2022-06-27 | 2022-07-29 |
 | [敢傻敢衝 \- 2020黑松沙士年度主題曲](https://open.spotify.com/track/3V0psPzZ73wCDh4BmM7izM) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [敢傻敢衝](https://open.spotify.com/album/3W8AXuHbge4JtOzjhmLIpo) | 3:17 | 2022-06-06 |  |
-| [日常、遠方及其他](https://open.spotify.com/track/2lEBagjEKT6fdHtYjJipII) | [郭真榕](https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH) | [日常、遠方及其他](https://open.spotify.com/album/189CcFeQ1acLGlbEUmpUL8) | 6:05 | 2022-07-18 |  |
+| [日常、遠方及其他](https://open.spotify.com/track/2lEBagjEKT6fdHtYjJipII) | [郭真榕](https://open.spotify.com/artist/6tQ9tgGfydvXjNqnzYJ5lH) | [日常、遠方及其他](https://open.spotify.com/album/189CcFeQ1acLGlbEUmpUL8) | 6:05 | 2022-07-18 | 2022-08-18 |
 | [时光洪流](https://open.spotify.com/track/05yDoVDvARdRQCzDNNd6a1) | [程响](https://open.spotify.com/artist/0EZ1dmFa27KXSwDwcZKT1O) | [时光洪流](https://open.spotify.com/album/4BXBO9Tqn43erEulVz5rNz) | 4:11 | 2022-06-20 |  |
 | [明年 \(Let Go\)](https://open.spotify.com/track/4WegZMLkhwLStHRO9cPsTi) | [Crowd Lu](https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD) | [明年 \(Let Go\)](https://open.spotify.com/album/2LnX8RfkcsUosGOQgwsh8I) | 4:13 | 2022-06-06 | 2022-07-23 |
 | [星辰大海](https://open.spotify.com/track/47O6EPP78iQOOma2OVsYwS) | [黄霄雲](https://open.spotify.com/artist/4vcc1VAbvzJjbMTsPYL6OU) | [星辰大海](https://open.spotify.com/album/6TMqv3zCwNxM8JbNeUpk4P) | 3:27 | 2022-06-06 |  |

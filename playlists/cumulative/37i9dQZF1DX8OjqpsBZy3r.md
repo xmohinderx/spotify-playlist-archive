@@ -4,7 +4,7 @@
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-115 songs - 6 hr 24 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
+116 songs - 6 hr 27 min - [published](https://open.spotify.com/playlist/5RPUuOuY7lpUPnjhceluUd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,8 @@
 | [Right Girl Wrong Time](https://open.spotify.com/track/29tk7q2IPdPpt9sPubbxdQ) | [Tyra Madison](https://open.spotify.com/artist/6QJWnamgxenwynyhKuRnrh) | [Right Girl Wrong Time](https://open.spotify.com/album/4WuFzWY3ULpdd2FjJw6zkQ) | 3:47 | 2021-12-03 | 2022-07-16 |
 | [Rock and A Hard Place](https://open.spotify.com/track/4686eQ81DEswHa90bcdlC9) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Rock and A Hard Place](https://open.spotify.com/album/7Gqqhy2ohX3puChylfkvT0) | 3:27 | 2022-07-15 |  |
 | [Salt, Lime & Tequila](https://open.spotify.com/track/4xpTjwZPnpB4FO8EJh0trf) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/630WEiYZ1baGeXgXSpuRCl) | 2:55 | 2021-12-03 | 2022-07-29 |
-| [Salt, Lime & Tequila](https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN) | 2:55 | 2022-07-25 |  |
+| [Salt, Lime & Tequila](https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN) | 2:55 | 2022-07-25 | 2022-08-18 |
+| [Salt, Lime & Tequila](https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg) | 2:55 | 2022-07-25 |  |
 | [Sawin' Logs](https://open.spotify.com/track/1dkQGcf85MVCZE75TycROr) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Sawin' Logs](https://open.spotify.com/album/6FjQdtGDHRKcnghgPmj0bi) | 2:51 | 2021-12-03 | 2022-07-16 |
 | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/track/1zSP3prCgF50ZAiDX7rfDy) | [Grant Gilbert](https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919) | [She Goes Home \(Dirty Breakup Song\)](https://open.spotify.com/album/3Fd2MJsqGbqAY9lGoHajU6) | 3:19 | 2022-04-01 |  |
 | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/track/6VVqPBFZIbcmv14zNfOc13) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw), [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [She Likes It \(feat\. Jake Scott\)](https://open.spotify.com/album/6w0l7fLsiJTgVAgoxMzBIu) | 2:43 | 2022-01-28 |  |

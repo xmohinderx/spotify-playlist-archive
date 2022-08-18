@@ -1,12 +1,12 @@
 {
   "description": "Psyched-out bands from the four corners of the world.",
-  "num_followers": 305352,
+  "num_followers": 305557,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDM1Mzk4OSwwMDAwMDAwMDU3NjAzODExYTIwN2Q5YTY2OTI3OTIxMDg2ZGVmODg0",
+  "snapshot_id": "MTY2MDM1Mzk4OSwwMDAwMDAwMDFiNWE3OGNkMGFiYjEwZjc0ZTBjNDUzYTZhMjJjZGJl",
   "tracks": [
     {
       "added_at": "2022-04-12 18:03:13",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/1Y4Tk1FR4Muw6ATFcMsnnt"
     },
     {
-      "added_at": "2021-11-12 05:23:58",
+      "added_at": "2022-01-28 02:59:48",
       "album": {
-        "name": "Corsicana Lemonade",
-        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
       },
       "artists": [
         {
-          "name": "White Denim",
-          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
         }
       ],
-      "duration_ms": 244346,
-      "name": "At Night In Dreams",
-      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
+      "duration_ms": 266992,
+      "name": "Fuzz Jam",
+      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
     },
     {
       "added_at": "2022-04-12 18:03:13",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/0LtOwyZoSNZKJWHqjzADpW"
     },
     {
-      "added_at": "2022-01-28 02:59:48",
+      "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+        "name": "Corsicana Lemonade",
+        "url": "https://open.spotify.com/album/4WK9kL67qfZcphKP2VUvFz"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "White Denim",
+          "url": "https://open.spotify.com/artist/0RdRumkn2UydUjqytNJ2Cp"
         }
       ],
-      "duration_ms": 266992,
-      "name": "Fuzz Jam",
-      "url": "https://open.spotify.com/track/3Pk8ZaUsbzUt4UaCuBh9Mc"
+      "duration_ms": 244346,
+      "name": "At Night In Dreams",
+      "url": "https://open.spotify.com/track/402inY9UFrPImLssOP0Wo8"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -537,6 +537,22 @@
       "url": "https://open.spotify.com/track/038gKq7MYQFa20Q7MdHySX"
     },
     {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Fuckin Whatever",
+        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
+      },
+      "artists": [
+        {
+          "name": "Fuckin Whatever",
+          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
+        }
+      ],
+      "duration_ms": 213211,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
+    },
+    {
       "added_at": "2022-04-22 19:38:56",
       "album": {
         "name": "SongBook",
@@ -599,22 +615,6 @@
       "duration_ms": 329693,
       "name": "Plea From The Soul",
       "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Fuckin Whatever",
-        "url": "https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI"
-      },
-      "artists": [
-        {
-          "name": "Fuckin Whatever",
-          "url": "https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe"
-        }
-      ],
-      "duration_ms": 213211,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -683,22 +683,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Paraphernalia",
-        "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
-      },
-      "artists": [
-        {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
-        }
-      ],
-      "duration_ms": 263453,
-      "name": "Paraphernalia",
-      "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Moonlust",
         "url": "https://open.spotify.com/album/5dsTu76YBUMKIvgjrswqpF"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 203680,
       "name": "Shell Island",
       "url": "https://open.spotify.com/track/6zdthQLxB71PgKzTrgp36I"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Paraphernalia",
+        "url": "https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1"
+      },
+      "artists": [
+        {
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+        }
+      ],
+      "duration_ms": 263453,
+      "name": "Paraphernalia",
+      "url": "https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
-        "name": "Steeple",
-        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
-      },
-      "artists": [
-        {
-          "name": "Wolf People",
-          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
-        }
-      ],
-      "duration_ms": 318960,
-      "name": "Silbury Sands",
-      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
         "name": "Sophomore",
         "url": "https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 332335,
       "name": "Time Frame",
       "url": "https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
+        "name": "Steeple",
+        "url": "https://open.spotify.com/album/5PSeF8WdU42LRl09O5n5vY"
+      },
+      "artists": [
+        {
+          "name": "Wolf People",
+          "url": "https://open.spotify.com/artist/6ZkaJWNgRHvDBiuZsyTaZK"
+        }
+      ],
+      "duration_ms": 318960,
+      "name": "Silbury Sands",
+      "url": "https://open.spotify.com/track/0a88jyCYlQUGIIFrGbQ286"
     },
     {
       "added_at": "2021-11-12 05:23:58",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2021-11-12 05:23:58",
       "album": {
+        "name": "Sacred Drugs",
+        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
+      },
+      "artists": [
+        {
+          "name": "Al Lover",
+          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
+        }
+      ],
+      "duration_ms": 186858,
+      "name": "A Shaman's Hand is Infinite",
+      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
+    },
+    {
+      "added_at": "2021-11-12 05:23:58",
+      "album": {
         "name": "Font\u00e4n",
         "url": "https://open.spotify.com/album/0kyJHCH5zr45XB4ZXnl9cg"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 205160,
       "name": "Indian Zone Drum Killer Inc.",
       "url": "https://open.spotify.com/track/0AMWwBYxbWI8D0E1FFwmWP"
-    },
-    {
-      "added_at": "2021-11-12 05:23:58",
-      "album": {
-        "name": "Sacred Drugs",
-        "url": "https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST"
-      },
-      "artists": [
-        {
-          "name": "Al Lover",
-          "url": "https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A"
-        }
-      ],
-      "duration_ms": 186858,
-      "name": "A Shaman's Hand is Infinite",
-      "url": "https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i"
     }
   ],
   "unique_name": "Neo-Psychedelic Rock",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: LUNAX",
+  "description": "The biggest Dance hits and the ones to come. Welcome to the Main Stage! Cover: Ti\u00ebsto",
   "name": "Main Stage",
   "published_playlist_ids": [
     "4Sc3vClwMPjm8ROhpN4cCx"
@@ -960,6 +960,28 @@
     },
     {
       "album": {
+        "name": "Don't Say You Love Me",
+        "url": "https://open.spotify.com/album/5hGvwPfeqjW2wgOnPRcWn7"
+      },
+      "artists": [
+        {
+          "name": "LIZOT",
+          "url": "https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe"
+        },
+        {
+          "name": "OBS",
+          "url": "https://open.spotify.com/artist/5pT9S3KV5SqnzKHpSYf3ko"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Don't Say You Love Me",
+      "url": "https://open.spotify.com/track/0UaV0TmHdXvihhsbZeeIG4"
+    },
+    {
+      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1407,6 +1429,28 @@
       "duration_ms": 156444,
       "name": "Hasta La Vista",
       "url": "https://open.spotify.com/track/0PTO7jQosM3VY3Orohun9y"
+    },
+    {
+      "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/5RK7gHsV6IJ54NBJxan4fk"
+      },
+      "artists": [
+        {
+          "name": "Prezioso",
+          "url": "https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr"
+        },
+        {
+          "name": "Laurell",
+          "url": "https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160625,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/2cMH4ENPzIeKqXS0PbKLoY"
     },
     {
       "album": {
@@ -3369,7 +3413,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 136299,
       "name": "Tell Me Secrets",
       "url": "https://open.spotify.com/track/23omipnKWnESchdmJ3qGDq"
@@ -3951,7 +3995,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 174193,
       "name": "Worlds On Fire (with R3HAB & Au/Ra)",
       "url": "https://open.spotify.com/track/7grzdNt3eQRiBC70GksRp1"

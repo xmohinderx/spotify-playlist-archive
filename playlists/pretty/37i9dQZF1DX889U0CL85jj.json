@@ -1,12 +1,12 @@
 {
   "description": "Just chill.",
-  "num_followers": 2376064,
+  "num_followers": 2376513,
   "original_name": "Chill Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDIzNjMwOSwwMDAwMDAwMGQzYzcyNTFmY2RlOGZkMWQ2NGM3NjFlZTQ5MjRlNzgy",
+  "snapshot_id": "MTY2MDc3NzcyMCwwMDAwMDAwMDY4NGI0YzVkZTA4YjNjY2Q0ZmY3NjkzMTJlY2UwYTNi",
   "tracks": [
     {
       "added_at": "2022-08-04 16:23:17",
@@ -57,28 +57,24 @@
       "url": "https://open.spotify.com/track/5EQxUpN2n5MUXtqIGbUOzk"
     },
     {
-      "added_at": "2022-08-04 16:23:17",
+      "added_at": "2022-08-17 23:08:40",
       "album": {
-        "name": "12:34 AM",
-        "url": "https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ"
+        "name": "Cabriolet",
+        "url": "https://open.spotify.com/album/40SEs7WEPREj4xeb9mVNv2"
       },
       "artists": [
         {
-          "name": "Billy Lemos",
-          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+          "name": "Smoke Trees",
+          "url": "https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI"
         },
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        },
-        {
-          "name": "Maxwell Young",
-          "url": "https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q"
+          "name": "Lito Akari",
+          "url": "https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu"
         }
       ],
-      "duration_ms": 127000,
-      "name": "12:34 AM",
-      "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
+      "duration_ms": 162222,
+      "name": "Cabriolet",
+      "url": "https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -111,6 +107,30 @@
       "duration_ms": 226306,
       "name": "peas",
       "url": "https://open.spotify.com/track/7afu0r3cro65yBIL2YWp00"
+    },
+    {
+      "added_at": "2022-08-04 16:23:17",
+      "album": {
+        "name": "12:34 AM",
+        "url": "https://open.spotify.com/album/4bJGMpZ7LqygIsCM3G9ZYQ"
+      },
+      "artists": [
+        {
+          "name": "Billy Lemos",
+          "url": "https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC"
+        },
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        },
+        {
+          "name": "Maxwell Young",
+          "url": "https://open.spotify.com/artist/5HONdRTLNvBjlD2LirKp0q"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "12:34 AM",
+      "url": "https://open.spotify.com/track/16iNVfWKKZPDjctIcd0KMn"
     },
     {
       "added_at": "2022-08-04 16:23:17",
@@ -2483,22 +2503,6 @@
       "duration_ms": 141216,
       "name": "Flight",
       "url": "https://open.spotify.com/track/67pRBaiwhGyMpXXfPVzER3"
-    },
-    {
-      "added_at": "2022-08-04 16:23:17",
-      "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/1YuD9tjpVMRbSmWDfOiyem"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 203492,
-      "name": "Dreamland",
-      "url": "https://open.spotify.com/track/5Bkw0lMhwk8tF4kMgCCJLv"
     },
     {
       "added_at": "2022-08-04 16:23:17",

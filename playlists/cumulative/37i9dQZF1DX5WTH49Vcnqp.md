@@ -4,7 +4,7 @@
 
 > all the hottest indie tunes in the world rn feat\. Thelma Plum, PinkPantheress & Rex Orange County 🐍
 
-492 songs - 1 day 4 hr 9 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
+494 songs - 1 day 4 hr 17 min - [published](https://open.spotify.com/playlist/5RqnN0oKCcJKCYYq3GeJkr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -210,6 +210,7 @@
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-07 | 2022-04-08 |
 | [hurt myself](https://open.spotify.com/track/4Pxi7M3fCCBDG0EfC17eHw) | [Tommy Ice](https://open.spotify.com/artist/3AUIYVmhwrsw8UOPHEv91Z), [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn) | [hurt myself](https://open.spotify.com/album/2BOwR2blb9HlRzO9l28X4d) | 3:19 | 2021-12-30 | 2022-02-15 |
 | [I Can't Get Over You](https://open.spotify.com/track/7tdFmz7aTM0MTssyzOSXta) | [Leo Sun](https://open.spotify.com/artist/40F0oisdGBuAC0i1vh2cxW) | [I Can't Get Over You](https://open.spotify.com/album/3OCO1ebyxBC6CXsF99Xara) | 4:21 | 2022-04-07 | 2022-06-17 |
+| [I Don't Need To Hide](https://open.spotify.com/track/6MMmYccw3ZtPAEZAI1a1nV) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [I Don't Need To Hide](https://open.spotify.com/album/0RDiXqepkB2CYtpkB5Xc97) | 3:54 | 2022-08-18 |  |
 | [I Don't Wanna Leave](https://open.spotify.com/track/0mWXMQ8hrrAJfxN7LG2Wsk) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Surrender](https://open.spotify.com/album/3SB9ntsoNwC4oUP6xM9DIN) | 4:29 | 2021-12-28 | 2022-01-21 |
 | [I Fucked It Up](https://open.spotify.com/track/7nGxhKrc7bVYe2IsNmiocK) | [Goddess911](https://open.spotify.com/artist/55qm9Rk7W6cAQa0nVIiqd8), [Heather Shannon](https://open.spotify.com/artist/6ApjpR0Ba5oNRKDYul2pF2) | [I Fucked It Up](https://open.spotify.com/album/2vTqV6IsNsrPx7nCGNTEOC) | 4:16 | 2021-12-28 | 2022-01-28 |
 | [i h8 that i still feel bad for u](https://open.spotify.com/track/5HydZtPFOvbmqXiTcTFykW) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [i h8 that i still feel bad for u](https://open.spotify.com/album/0poCuOTE8PbLmxMeIickpd) | 2:55 | 2022-02-10 | 2022-04-05 |
@@ -432,6 +433,7 @@
 | [tend the garden](https://open.spotify.com/track/5drrhaJL9w46bQpwGfeuBV) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [tend the garden](https://open.spotify.com/album/7bzO92EHw4j5BXcvAcMacl) | 4:27 | 2021-12-28 | 2022-01-14 |
 | [The Boat I Row](https://open.spotify.com/track/1HVYQj4liQb1QOygBfjZqV) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [The Slow Rush B\-Sides & Remixes](https://open.spotify.com/album/0PUdc9WBtlyjG9Ba9DPmKa) | 3:58 | 2022-02-17 | 2022-03-31 |
 | [The Brown Snake](https://open.spotify.com/track/31CbsclpQWU4bKzLKnLHaS) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [The Brown Snake](https://open.spotify.com/album/2KBj0ahthLPdXhYODnXRIL) | 3:15 | 2022-08-11 |  |
+| [The Only Exception \- Spotify Single](https://open.spotify.com/track/4GSP51OmKGNs57ZT9coUDF) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 4:44 | 2022-08-16 |  |
 | [The Only Heartbreaker](https://open.spotify.com/track/6y6bUurXB0FfhddEU5Qch0) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Only Heartbreaker](https://open.spotify.com/album/1YMGcCHQ4xkwiWXpGGXmkY) | 3:04 | 2021-12-28 | 2022-03-02 |
 | [the perfect pair](https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:57 | 2022-08-11 |  |
 | [The Rhythm](https://open.spotify.com/track/1PhR7tMOmCZOEUmr7TdmFN) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Giving The World Away](https://open.spotify.com/album/2TwATR1G07ckXIDydjPKsw) | 4:30 | 2022-04-21 | 2022-06-10 |

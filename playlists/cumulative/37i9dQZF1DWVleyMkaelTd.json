@@ -1668,6 +1668,24 @@
     },
     {
       "album": {
+        "name": "Rio Lindo",
+        "url": "https://open.spotify.com/album/0aC2r9F9VoEBhYa5MYUVq6"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223895,
+      "name": "Rio Lindo",
+      "url": "https://open.spotify.com/track/3usSv5DQqZlulKLHRumXGH"
+    },
+    {
+      "album": {
         "name": "Sentido",
         "url": "https://open.spotify.com/album/0jmt8MYM4dZvhJ5sxsCAQa"
       },

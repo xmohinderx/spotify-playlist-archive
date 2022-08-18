@@ -4,7 +4,7 @@
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-133 songs - 8 hr 27 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
+134 songs - 8 hr 31 min - [published](https://open.spotify.com/playlist/1nsDgfpPkRNK6I7NchiJ6w)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,8 +61,9 @@
 | [Hangman](https://open.spotify.com/track/2IqJS58ybf01nSQYMme5Ku) | [Chris Pureka](https://open.spotify.com/artist/0TcLzrilnmNFyaTgLULSg3) | [How I Learned to See in the Dark](https://open.spotify.com/album/0M8a5g7ff4dGXnU8ofv4di) | 4:52 | 2021-06-01 |  |
 | [Hardcore](https://open.spotify.com/track/3gHOThR42dJBUnlbNoCQEF) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Hardcore](https://open.spotify.com/album/3EB8voAV8PNRicdD6KDtFV) | 4:08 | 2022-06-01 |  |
 | [Heavy Crown](https://open.spotify.com/track/5v2ByxOB3Q9p5DsAndtuO2) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Trixie Mattel: Moving Parts \(The Acoustic Soundtrack\)](https://open.spotify.com/album/5Vcfkp2blCZRjJ7sjuVe1r) | 2:19 | 2021-06-01 |  |
+| [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 | 2022-06-10 |  |
 | [Here is a Heart](https://open.spotify.com/track/1AP9wJbH7FsauJJOCyHj9T) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1xsZ1diSgF3VxX5yKXD0n8) | 4:23 | 2021-06-01 | 2022-07-29 |
-| [Here is a Heart](https://open.spotify.com/track/2Q1nBjqwQQQqwQ0CpIkmdO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:23 | 2022-06-10 |  |
+| [Here is a Heart](https://open.spotify.com/track/2Q1nBjqwQQQqwQ0CpIkmdO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:23 | 2022-06-10 | 2022-08-18 |
 | [Holler](https://open.spotify.com/track/1aYqVeAM5XBlj67RHscBMo) | [Amy Ray](https://open.spotify.com/artist/6FTNWiXksh4ADVB5QdJqCF) | [Holler](https://open.spotify.com/album/6sChAWxd6hgcp0N24NcyEJ) | 3:40 | 2021-06-01 |  |
 | [Hope There's Someone](https://open.spotify.com/track/416EHtY9ysWtXLeasImLR4) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Turning](https://open.spotify.com/album/32PMUnVUGlL0V4vuzUKvUe) | 4:42 | 2021-06-01 | 2022-07-29 |
 | [Hope There's Someone \- Live](https://open.spotify.com/track/0B4hF7YOkUIud1AJUR3kPO) | [Antony and the Johnsons](https://open.spotify.com/artist/4fxp616ALtFWnXfwxnjLzW) | [Turning](https://open.spotify.com/album/6mpAk967R6Oo9dyxi149Eb) | 4:42 | 2022-06-10 |  |

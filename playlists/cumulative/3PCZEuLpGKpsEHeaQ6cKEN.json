@@ -52,6 +52,24 @@
     },
     {
       "album": {
+        "name": "All Mine",
+        "url": "https://open.spotify.com/album/71dkC0kz5fl6b0rtjPPeBe"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "All Mine",
+      "url": "https://open.spotify.com/track/55vxJOfCXlkiFzELyNTYQm"
+    },
+    {
+      "album": {
         "name": "Antibodies",
         "url": "https://open.spotify.com/album/4hAoKf5xkhdK0myoWXKQgS"
       },
@@ -389,7 +407,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 208805,
       "name": "Buggin' Out",
       "url": "https://open.spotify.com/track/1QrFMYZoTSoU0w82ezQHbb"
@@ -581,6 +599,32 @@
       "duration_ms": 186184,
       "name": "Crazy Love",
       "url": "https://open.spotify.com/track/7N27d3skYJYc8HhEM1cIGu"
+    },
+    {
+      "album": {
+        "name": "Day N Night",
+        "url": "https://open.spotify.com/album/7qjzUP0zERhX2SCx1EnBQk"
+      },
+      "artists": [
+        {
+          "name": "Afrojack",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Black V Neck",
+          "url": "https://open.spotify.com/artist/2l0xOjnrmYsxNoQ0QI3G5a"
+        },
+        {
+          "name": "Muni Long",
+          "url": "https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179199,
+      "name": "Day N Night",
+      "url": "https://open.spotify.com/track/3ehuQZkvZVeSgbshFFZKW2"
     },
     {
       "album": {
@@ -1885,7 +1929,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 155106,
       "name": "Jack Flip",
       "url": "https://open.spotify.com/track/2yQcHJYJngvxS6L3kH7eRm"
@@ -2975,6 +3019,24 @@
       "duration_ms": 141071,
       "name": "Pas de Bourree",
       "url": "https://open.spotify.com/track/2jlBmHo2o5fKpPFob62EsH"
+    },
+    {
+      "album": {
+        "name": "Pia Pia",
+        "url": "https://open.spotify.com/album/3bb45MCSfDYnmEs4NGLihW"
+      },
+      "artists": [
+        {
+          "name": "mOat",
+          "url": "https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213069,
+      "name": "Pia Pia",
+      "url": "https://open.spotify.com/track/6DQ6LUgtfHYgtGl5doSYJt"
     },
     {
       "album": {
@@ -4293,6 +4355,28 @@
       "duration_ms": 183529,
       "name": "Wasted",
       "url": "https://open.spotify.com/track/5Q2lulGI9ZQbwf18skmtqw"
+    },
+    {
+      "album": {
+        "name": "Wasting",
+        "url": "https://open.spotify.com/album/17etdGKRWd0PHiVYWcZvqc"
+      },
+      "artists": [
+        {
+          "name": "Inpetto",
+          "url": "https://open.spotify.com/artist/0WDjOCmlubUVdRozCz46sM"
+        },
+        {
+          "name": "Nadia Gattas",
+          "url": "https://open.spotify.com/artist/1q5bqIr1FUGq2545aJSmlw"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180274,
+      "name": "Wasting",
+      "url": "https://open.spotify.com/track/0TGNIvkCNfRKiwDbkcSBGS"
     },
     {
       "album": {

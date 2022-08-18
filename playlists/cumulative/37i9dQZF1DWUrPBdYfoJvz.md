@@ -4,7 +4,7 @@
 
 > All the greatest Ambient tracks in one place\. Cover: Brian Eno
 
-133 songs - 15 hr 39 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
+135 songs - 16 hr 2 min - [published](https://open.spotify.com/playlist/4tCCo6NoGYqZ9eXOzwjcnm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [1/1 \- Remastered 2004](https://open.spotify.com/track/3bCmDqflFBHijgJfvtqev5) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 1: Music For Airports \(Remastered 2004\)](https://open.spotify.com/album/063f8Ej8rLVTz9KkjQKEMa) | 17:21 | 2021-12-22 |  |
 | [12 Hours Before](https://open.spotify.com/track/3pcrD4NBBBQGMJATRhk25C) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y) | [Chernobyl \(Music from the Original TV Series\)](https://open.spotify.com/album/5q53mBxAsq77kK9aCHcAtZ) | 2:31 | 2021-12-22 |  |
 | [4:14](https://open.spotify.com/track/5snT0KvkN7Ty0oiVyxZMfE) | [Global Communication](https://open.spotify.com/artist/6YktolrgGPFMwWrmAgf4hu) | [76:14](https://open.spotify.com/album/4y0wXNP3t9rUv1y58Peuj1) | 4:15 | 2021-12-22 |  |
+| [92982.3](https://open.spotify.com/track/0BWfj3oeIWOQOTzpikVEG1) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [92982](https://open.spotify.com/album/1fsBK1GajNTKmwFqb77u9z) | 7:07 | 2022-08-17 |  |
 | [?](https://open.spotify.com/track/15RDpqONY9BUkRzpRtFZf5) | [Mark Pritchard](https://open.spotify.com/artist/7wDfZhaCORLgP3K62R3MJK) | [Under The Sun](https://open.spotify.com/album/39OlksvQLqQOOOctXERwmK) | 6:03 | 2021-12-22 |  |
 | [A Delicate Romance](https://open.spotify.com/track/1EKcXCqix2v6qb6rj2m5Ty) | [John Foxx](https://open.spotify.com/artist/36pk438TUUMdX59j1zbvTu), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [Translucence + Drift Music](https://open.spotify.com/album/5odrKqpDhUq8jzkptVhN2K) | 7:14 | 2021-12-22 |  |
 | [A Lake](https://open.spotify.com/track/3GgSZWI0IFZeOGLTMPPYEp) | [Emily A\. Sprague](https://open.spotify.com/artist/3GeWutjuNRg9uRqiIejRT9) | [Water Memory](https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6) | 13:25 | 2021-12-22 |  |
@@ -98,7 +99,8 @@
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-12-22 |  |
 | [Pop 1](https://open.spotify.com/track/3T6hC2yWf0fsUxM7uWXkDn) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 5:11 | 2021-12-22 |  |
 | [Pop 2](https://open.spotify.com/track/6XtiBZ34C9R5qvG9VBJBOJ) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Pop](https://open.spotify.com/album/32Nl49izVyngH22kD1lrkk) | 8:33 | 2021-12-22 |  |
-| [Quest](https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:45 | 2021-12-22 |  |
+| [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 | 2022-08-17 |  |
+| [Quest](https://open.spotify.com/track/4flhWFm1w51Rm3dwQneAyW) | [Brian Hodgson](https://open.spotify.com/artist/7lw7yFmEaZMTiIpy3b5ZjT), [Delia Derbyshire](https://open.spotify.com/artist/7xVgcD64SOhLoXfCxN7yg8), [Don Harper](https://open.spotify.com/artist/2JJiKj9j7wPS8vz8UlAO9X) | [Kpm 1000 Series: Electrosonic](https://open.spotify.com/album/4cnjJ8sGy8OJiZM34nmQe7) | 1:45 | 2021-12-22 | 2022-08-18 |
 | [Rasch Und Mäßig Bewegt](https://open.spotify.com/track/1BhNdKPskUFQVELGgqaHIH) | [Asmus Tietchens](https://open.spotify.com/artist/1VR7bz3EQSo38riLKO8oJK) | [Eisgang / Dämmerattacke](https://open.spotify.com/album/2cNBhp9Us7dF9R9ldFRmRa) | 19:53 | 2021-12-22 |  |
 | [Russian Snow](https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU) | [Lucette Bourdin](https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3) | [Rising Fog](https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil) | 8:28 | 2021-12-22 |  |
 | [Sad Ocean](https://open.spotify.com/track/1yC5ZxdbyrwZrcPaBPtm4Y) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [Mirage](https://open.spotify.com/album/5S8GmGhxXvI9WTcVP61ecF) | 3:48 | 2021-12-22 |  |

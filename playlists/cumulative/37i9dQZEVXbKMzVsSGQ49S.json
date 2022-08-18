@@ -3528,6 +3528,24 @@
     },
     {
       "album": {
+        "name": "St\u00f3r agnar\u00f6gn",
+        "url": "https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1"
+      },
+      "artists": [
+        {
+          "name": "BR\u00cdET",
+          "url": "https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199120,
+      "name": "D\u00fdr\u00f0 \u00ed dau\u00f0a\u00fe\u00f6gn",
+      "url": "https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -13117,7 +13135,7 @@
       ],
       "date_added": "2021-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 207853,
       "name": "Shivers",
       "url": "https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5"

@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Francis Mercier.",
-  "num_followers": 69062,
+  "num_followers": 69077,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMDYzNmIxNjk1NTBiMGE2NmZkZGU4YTdlNWEzZGRlMDcw",
+  "snapshot_id": "MTY2MDMwMjEwMywwMDAwMDAwMGE0NGQzNjUwNmViMWI1Njk2OTVhNTUyZmNkMDM4YTlm",
   "tracks": [
     {
       "added_at": "2022-07-14 21:35:16",
@@ -531,18 +531,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Before I Spill Myself",
-        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
+        "name": "Show Me Love (feat. Meer Colon)",
+        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
       },
       "artists": [
         {
           "name": "TeaMarrr",
           "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
+        },
+        {
+          "name": "Meer Colon",
+          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
         }
       ],
-      "duration_ms": 248904,
-      "name": "Chasing Amy",
-      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
+      "duration_ms": 168510,
+      "name": "Show Me Love (feat. Meer Colon)",
+      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -675,22 +679,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Show Me Love (feat. Meer Colon)",
-        "url": "https://open.spotify.com/album/0LWFzHbifhwlQsSj6XxDMJ"
+        "name": "Before I Spill Myself",
+        "url": "https://open.spotify.com/album/3AK7VAPf2hnnLMpITKokgq"
       },
       "artists": [
         {
           "name": "TeaMarrr",
           "url": "https://open.spotify.com/artist/1cWyN6TA0n4j9JtqI0sOpt"
-        },
-        {
-          "name": "Meer Colon",
-          "url": "https://open.spotify.com/artist/7hAMaYbIrHi6dH64fPNcTP"
         }
       ],
-      "duration_ms": 168510,
-      "name": "Show Me Love (feat. Meer Colon)",
-      "url": "https://open.spotify.com/track/2ShUIgUNPsamHqdmLDtQ1P"
+      "duration_ms": 248904,
+      "name": "Chasing Amy",
+      "url": "https://open.spotify.com/track/3KSQ1BjRT0T4dnu6Z7UL8c"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1129,6 +1129,22 @@
       "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
+      "added_at": "2022-08-12 11:01:43",
+      "album": {
+        "name": "K\u00c8M",
+        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
+      },
+      "artists": [
+        {
+          "name": "Kelly Krow",
+          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
+        }
+      ],
+      "duration_ms": 165624,
+      "name": "K\u00c8M",
+      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
+    },
+    {
       "added_at": "2022-07-14 21:35:16",
       "album": {
         "name": "Anthology, Vol. IV",
@@ -1175,22 +1191,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Melanin",
         "url": "https://open.spotify.com/album/6Mj7wkPDHPr6OV4mDZCUsp"
       },
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
         "name": "Ba L on Bye (Remix)",
         "url": "https://open.spotify.com/album/4C8j0BgGIJa0nNqnzlAMMH"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 216412,
       "name": "Ba L on Bye (Remix)",
       "url": "https://open.spotify.com/track/4fWZzg3eAFjAakACvYO9nD"
-    },
-    {
-      "added_at": "2022-08-12 11:01:43",
-      "album": {
-        "name": "K\u00c8M",
-        "url": "https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3"
-      },
-      "artists": [
-        {
-          "name": "Kelly Krow",
-          "url": "https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p"
-        }
-      ],
-      "duration_ms": 165624,
-      "name": "K\u00c8M",
-      "url": "https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1447,18 +1447,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7"
+        "name": "Haiti debout",
+        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
       },
       "artists": [
         {
-          "name": "Dro X Yani",
-          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
+          "name": "B\u00e9lO",
+          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
         }
       ],
-      "duration_ms": 153123,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/2i1m6FdKuKP15EKPTpJ0U5"
+      "duration_ms": 198533,
+      "name": "Kote moun yo",
+      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Haiti debout",
-        "url": "https://open.spotify.com/album/7iQLxY4WDpSaeUJh9T43GE"
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/6YIYNivggHcvNR3UKXpEz7"
       },
       "artists": [
         {
-          "name": "B\u00e9lO",
-          "url": "https://open.spotify.com/artist/5EbA6WV9yXuZQicAUSzjcM"
+          "name": "Dro X Yani",
+          "url": "https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK"
         }
       ],
-      "duration_ms": 198533,
-      "name": "Kote moun yo",
-      "url": "https://open.spotify.com/track/356kn7ubMjPvMYT7VCYLts"
+      "duration_ms": 153123,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/2i1m6FdKuKP15EKPTpJ0U5"
     },
     {
       "added_at": "2022-07-14 21:35:16",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2022-07-14 21:35:16",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2022-07-14 21:35:16",
-      "album": {
         "name": "Perle De Culture",
         "url": "https://open.spotify.com/album/46ZoiD5bKfYvg67611YS2v"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 265929,
       "name": "Twa Fey",
       "url": "https://open.spotify.com/track/4jlBiJhx1o4QTHRjvEuCx3"
+    },
+    {
+      "added_at": "2022-07-14 21:35:16",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2022-07-14 21:35:16",

@@ -1,12 +1,12 @@
 {
-  "description": "Expand your mind with these psychedelic rock treasures. Cover: Jim Morrison \n",
-  "num_followers": 996729,
+  "description": "Expand your mind with these psychedelic rock treasures. Cover: The Doors",
+  "num_followers": 997241,
   "original_name": "Psychedelic Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYzNjU2NzcxMywwMDAwMDAwMDhiZDk4MTE1Zjc4YmJjMzNlOWM0ZTcwZTFkNjljY2Yz",
+  "snapshot_id": "MTY2MDc0NTg0NSwwMDAwMDAwMDJkMjRiOGViY2Y4MGY0YzZmYjViNDM0ZjA0NGRkNGM3",
   "tracks": [
     {
       "added_at": "2021-11-10 18:08:33",
@@ -23,22 +23,6 @@
       "duration_ms": 434720,
       "name": "Riders on the Storm",
       "url": "https://open.spotify.com/track/14XWXWv5FoCbFzLksawpEe"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Strange Days",
-        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
-      },
-      "artists": [
-        {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "People Are Strange",
-      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -71,6 +55,22 @@
       "duration_ms": 214026,
       "name": "Time of the Season - Mono Version",
       "url": "https://open.spotify.com/track/5AJrhrwz4oSZX2PwwV4qrN"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Strange Days",
+        "url": "https://open.spotify.com/album/6v5IVMmY1IvWtbfnQoiFSf"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "People Are Strange",
+      "url": "https://open.spotify.com/track/1Jmqubf9kGkWeYQXQKImL5"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -191,6 +191,22 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+      },
+      "artists": [
+        {
+          "name": "The Pretty Things",
+          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+        }
+      ],
+      "duration_ms": 86693,
+      "name": "The Good Mr. Square",
+      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "Wheels Of Fire",
         "url": "https://open.spotify.com/album/0zrtTZC7yY2TOEhnbJzSb9"
       },
@@ -303,22 +319,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Forever Changes (2015 Remaster)",
-        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
-      },
-      "artists": [
-        {
-          "name": "Love",
-          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
-        }
-      ],
-      "duration_ms": 197274,
-      "name": "Alone Again Or - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Magical Mystery Tour (Remastered)",
         "url": "https://open.spotify.com/album/2BtE7qm1qzM80p9vLSiXkj"
       },
@@ -335,34 +335,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Waiting for the Sun",
-        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+        "name": "Forever Changes (2015 Remaster)",
+        "url": "https://open.spotify.com/album/2amHBpP8C0EUy6yBNy6nN6"
       },
       "artists": [
         {
-          "name": "The Doors",
-          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+          "name": "Love",
+          "url": "https://open.spotify.com/artist/3Q6OOkfssqoMSTtl11J5Uk"
         }
       ],
-      "duration_ms": 264960,
-      "name": "Five to One",
-      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Light and Heavy/The Best of...",
-        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
-      },
-      "artists": [
-        {
-          "name": "Iron Butterfly",
-          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
-        }
-      ],
-      "duration_ms": 173986,
-      "name": "In-A-Gadda-Da-Vida - Single Version",
-      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
+      "duration_ms": 197274,
+      "name": "Alone Again Or - 2015 Remaster",
+      "url": "https://open.spotify.com/track/1XuccRABkfUVB4FjSVhjL1"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -383,6 +367,22 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
+        "name": "Waiting for the Sun",
+        "url": "https://open.spotify.com/album/0qZTwrunzX3LG45PvRghmh"
+      },
+      "artists": [
+        {
+          "name": "The Doors",
+          "url": "https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt"
+        }
+      ],
+      "duration_ms": 264960,
+      "name": "Five to One",
+      "url": "https://open.spotify.com/track/5FlBGGwGuqYmqr0qeBWrxe"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -399,6 +399,22 @@
       "duration_ms": 312253,
       "name": "Venus In Furs",
       "url": "https://open.spotify.com/track/29engDqjmMr3VLqMm0c0WE"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Light and Heavy/The Best of...",
+        "url": "https://open.spotify.com/album/5SRbMc6fb21BcI3eq3aF7X"
+      },
+      "artists": [
+        {
+          "name": "Iron Butterfly",
+          "url": "https://open.spotify.com/artist/3cdvlbCYf4WoBdy89RWkNS"
+        }
+      ],
+      "duration_ms": 173986,
+      "name": "In-A-Gadda-Da-Vida - Single Version",
+      "url": "https://open.spotify.com/track/41TqRBgF4Ahyr4vGmZVk8b"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -531,22 +547,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "The Who Sell Out (Super Deluxe)",
-        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
-      },
-      "artists": [
-        {
-          "name": "The Who",
-          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
-        }
-      ],
-      "duration_ms": 247306,
-      "name": "I Can See For Miles - Mono Version",
-      "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Fifth Dimension",
         "url": "https://open.spotify.com/album/3dfPMayEO2G87wzXPMEvmb"
       },
@@ -563,34 +563,18 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/1mz6AZJZanmgynkVQgflMK"
+        "name": "The Who Sell Out (Super Deluxe)",
+        "url": "https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9"
       },
       "artists": [
         {
-          "name": "The Pretty Things",
-          "url": "https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO"
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
         }
       ],
-      "duration_ms": 86693,
-      "name": "The Good Mr. Square",
-      "url": "https://open.spotify.com/track/3tRFo1mXVNC5Wwrv7T8trF"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
-        "name": "Mothership (Remastered)",
-        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 422680,
-      "name": "No Quarter - Remaster",
-      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
+      "duration_ms": 247306,
+      "name": "I Can See For Miles - Mono Version",
+      "url": "https://open.spotify.com/track/7B9F9nLxe7MZgZ68Jj86Fn"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -607,6 +591,22 @@
       "duration_ms": 550506,
       "name": "Hellbound Train",
       "url": "https://open.spotify.com/track/3IPpgcViKQ2E81XgMnT3yw"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Mothership (Remastered)",
+        "url": "https://open.spotify.com/album/4wExFfncaUIqSgoxnqa3Eh"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 422680,
+      "name": "No Quarter - Remaster",
+      "url": "https://open.spotify.com/track/55ZL7fjGAWfClmpnsK6Xon"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -675,22 +675,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Happy Trails",
-        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
-      },
-      "artists": [
-        {
-          "name": "Quicksilver Messenger Service",
-          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
-        }
-      ],
-      "duration_ms": 212733,
-      "name": "Who Do You Love - Pt. 1",
-      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Clear Spot",
         "url": "https://open.spotify.com/album/3m2ltFkbJ34zxghz9vlY6p"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 177506,
       "name": "Her Eyes Are a Blue Million Miles",
       "url": "https://open.spotify.com/track/6fJSEk0GDtPOk3gFxcnbUy"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Happy Trails",
+        "url": "https://open.spotify.com/album/7d9IZA5hVMlRqkRszYt66r"
+      },
+      "artists": [
+        {
+          "name": "Quicksilver Messenger Service",
+          "url": "https://open.spotify.com/artist/7DCnwoFMqGN6eZULdcLZeL"
+        }
+      ],
+      "duration_ms": 212733,
+      "name": "Who Do You Love - Pt. 1",
+      "url": "https://open.spotify.com/track/14hykKy6TC9y6chiptCtje"
     },
     {
       "added_at": "2021-11-10 18:08:33",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2021-11-10 18:08:33",
       "album": {
-        "name": "Back To The Story",
-        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
-      },
-      "artists": [
-        {
-          "name": "The Idle Race",
-          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
-        }
-      ],
-      "duration_ms": 108626,
-      "name": "Morning Sunshine",
-      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
-    },
-    {
-      "added_at": "2021-11-10 18:08:33",
-      "album": {
         "name": "Tangerine Dream",
         "url": "https://open.spotify.com/album/5fJeHZxuTPxAGyJGQpGt5Z"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 480800,
       "name": "The Sky Children",
       "url": "https://open.spotify.com/track/2vRdgBjvjF6LHaWVssDeGN"
+    },
+    {
+      "added_at": "2021-11-10 18:08:33",
+      "album": {
+        "name": "Back To The Story",
+        "url": "https://open.spotify.com/album/5678hRmz2whvG6ttxmlGYW"
+      },
+      "artists": [
+        {
+          "name": "The Idle Race",
+          "url": "https://open.spotify.com/artist/04eUV5Ml7cff2sEJEwll6G"
+        }
+      ],
+      "duration_ms": 108626,
+      "name": "Morning Sunshine",
+      "url": "https://open.spotify.com/track/6Nny1WrFpBvhgbqHhI4j0W"
     },
     {
       "added_at": "2021-11-10 18:08:33",

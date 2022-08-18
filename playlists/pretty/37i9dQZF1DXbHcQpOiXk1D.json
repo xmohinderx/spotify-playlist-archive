@@ -1,12 +1,12 @@
 {
   "description": "The best from Britain's vibrant scene. Cover: Kokoroko",
-  "num_followers": 264707,
+  "num_followers": 264755,
   "original_name": "Jazz UK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEyNjcxMCwwMDAwMDAwMGNiYTlhNjJkM2VlOGU2YzY5NmNlM2Y0NTQwOWE4ZDIy",
+  "snapshot_id": "MTY2MDEyNjcxMCwwMDAwMDAwMDMxMjk0NDMxZTZhZmI3YzYwODYzMjg0NmUzNTcyNzVk",
   "tracks": [
     {
       "added_at": "2022-08-04 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "Could We Be More",
+        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
+      },
+      "artists": [
+        {
+          "name": "Kokoroko",
+          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
+        }
+      ],
+      "duration_ms": 338506,
+      "name": "War Dance",
+      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Freedom Fables",
         "url": "https://open.spotify.com/album/3HDaoy8TYaaLfKPKSVcsOq"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 369160,
       "name": "If I Know",
       "url": "https://open.spotify.com/track/47VF1JogE1dN0joA5FTebh"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Could We Be More",
-        "url": "https://open.spotify.com/album/2EN95hEamtoztxIF6WATgZ"
-      },
-      "artists": [
-        {
-          "name": "Kokoroko",
-          "url": "https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr"
-        }
-      ],
-      "duration_ms": 338506,
-      "name": "War Dance",
-      "url": "https://open.spotify.com/track/3b86b9BbVcFY307DXiiaP8"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -743,22 +743,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Consortium",
-        "url": "https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP"
+        "name": "Through The Noise (Chant No. 2)",
+        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
       },
       "artists": [
         {
-          "name": "Maliki",
-          "url": "https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk"
-        },
-        {
-          "name": "Aidan Newland",
-          "url": "https://open.spotify.com/artist/67buHEsCVsZq8BWDEptLEB"
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
         }
       ],
-      "duration_ms": 306012,
-      "name": "Consortium",
-      "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
+      "duration_ms": 288933,
+      "name": "Through The Noise (Chant No. 2)",
+      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -779,18 +775,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Through The Noise (Chant No. 2)",
-        "url": "https://open.spotify.com/album/0Ta7zn4Nj7wE8WcHeuHExX"
+        "name": "Consortium",
+        "url": "https://open.spotify.com/album/4OKkAZ6kcuyzpK7KAQVePP"
       },
       "artists": [
         {
-          "name": "Nubiyan Twist",
-          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+          "name": "Maliki",
+          "url": "https://open.spotify.com/artist/1ERFAODrl5Aj4SQjrcWKyk"
+        },
+        {
+          "name": "Aidan Newland",
+          "url": "https://open.spotify.com/artist/67buHEsCVsZq8BWDEptLEB"
         }
       ],
-      "duration_ms": 288933,
-      "name": "Through The Noise (Chant No. 2)",
-      "url": "https://open.spotify.com/track/5QG1CBiBZqbznczwEVQFFG"
+      "duration_ms": 306012,
+      "name": "Consortium",
+      "url": "https://open.spotify.com/track/0hC7mPGowDqVgvgJJhYuOw"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -863,18 +863,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Searching",
-        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
+        "name": "Collage 2",
+        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
       },
       "artists": [
         {
-          "name": "Ugolino",
-          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
+          "name": "Conor Albert",
+          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
+        },
+        {
+          "name": "ELSAS",
+          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
         }
       ],
-      "duration_ms": 221000,
-      "name": "Searching",
-      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
+      "duration_ms": 192859,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -899,22 +903,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Collage 2",
-        "url": "https://open.spotify.com/album/7wmtYbwBMDpk0ie1aSUdm4"
+        "name": "Searching",
+        "url": "https://open.spotify.com/album/3DjTtuhKc7GYtHJ1xcJQ7w"
       },
       "artists": [
         {
-          "name": "Conor Albert",
-          "url": "https://open.spotify.com/artist/0zJjil03QRbxSliMkw230M"
-        },
-        {
-          "name": "ELSAS",
-          "url": "https://open.spotify.com/artist/3DXu8CSVepHWKsHHMMOuEo"
+          "name": "Ugolino",
+          "url": "https://open.spotify.com/artist/3kJ677diTb4gXi6diE9ay7"
         }
       ],
-      "duration_ms": 192859,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/7zu4F2AtCvns6DINJCJ5AM"
+      "duration_ms": 221000,
+      "name": "Searching",
+      "url": "https://open.spotify.com/track/5YqtViWfGGRKAev4K1FJnC"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -951,6 +951,46 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "It's All Relative",
+        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+      },
+      "artists": [
+        {
+          "name": "J-Fills",
+          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+        }
+      ],
+      "duration_ms": 198843,
+      "name": "Begotten",
+      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
+    },
+    {
+      "added_at": "2022-08-10 10:18:30",
+      "album": {
+        "name": "It's All Good",
+        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        },
+        {
+          "name": "Jackson Mathod",
+          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
+        },
+        {
+          "name": "David Mrakpor",
+          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
+        }
+      ],
+      "duration_ms": 204120,
+      "name": "It's All Good",
+      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Fleur bleue",
         "url": "https://open.spotify.com/album/5TckHbP7bzLjA8JgoImqcu"
       },
@@ -967,6 +1007,22 @@
       "duration_ms": 233933,
       "name": "Fleur bleue",
       "url": "https://open.spotify.com/track/7gPMJj8rKTU5YVJxtiKuNw"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Bring Backs",
+        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
+      },
+      "artists": [
+        {
+          "name": "Alfa Mist",
+          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
+        }
+      ],
+      "duration_ms": 289213,
+      "name": "Coasting",
+      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -995,34 +1051,18 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "It's All Relative",
-        "url": "https://open.spotify.com/album/5fnXzQ7I4DTOvpqGY5GIKZ"
+        "name": "Something I Said",
+        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
       },
       "artists": [
         {
-          "name": "J-Fills",
-          "url": "https://open.spotify.com/artist/1IG1876d05DNkNOHIc9wZC"
+          "name": "Sophie Faith",
+          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
         }
       ],
-      "duration_ms": 198843,
-      "name": "Begotten",
-      "url": "https://open.spotify.com/track/26FJaA3wWRE8MlgbFripAU"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Bring Backs",
-        "url": "https://open.spotify.com/album/4qoGWMatT4g6qA7UCoPnJq"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        }
-      ],
-      "duration_ms": 289213,
-      "name": "Coasting",
-      "url": "https://open.spotify.com/track/45zytZAj81qytwN9vBIS1N"
+      "duration_ms": 196235,
+      "name": "Something I Said",
+      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1051,18 +1091,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Something I Said",
-        "url": "https://open.spotify.com/album/0zr2ptBk071gHAlhpPDLG2"
+        "name": "Fix It",
+        "url": "https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL"
       },
       "artists": [
         {
-          "name": "Sophie Faith",
-          "url": "https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh"
+          "name": "Joe Armon-Jones",
+          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+        },
+        {
+          "name": "Goya Gumbani",
+          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
         }
       ],
-      "duration_ms": 196235,
-      "name": "Something I Said",
-      "url": "https://open.spotify.com/track/1gYnHtPZLkoyLN5GxyBZu2"
+      "duration_ms": 233696,
+      "name": "Fix It",
+      "url": "https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1091,22 +1135,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Fix It",
-        "url": "https://open.spotify.com/album/38mGI3mqjh7Jdj0KxW0quL"
+        "name": "Who Am I (eh-eh)",
+        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
       },
       "artists": [
         {
-          "name": "Joe Armon-Jones",
-          "url": "https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5"
+          "name": "Isatta Sheriff",
+          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
         },
         {
-          "name": "Goya Gumbani",
-          "url": "https://open.spotify.com/artist/0Up93b7Ut6uacH5Zv8sBkx"
+          "name": "Koralle",
+          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
         }
       ],
-      "duration_ms": 233696,
-      "name": "Fix It",
-      "url": "https://open.spotify.com/track/6A4IsE49xSN07NqbXiUMFc"
+      "duration_ms": 190466,
+      "name": "Who Am I (eh-eh)",
+      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1123,6 +1167,26 @@
       "duration_ms": 328988,
       "name": "No BS",
       "url": "https://open.spotify.com/track/4evaB44maldA4OML15SHQk"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
+        "name": "Did It Yesterday",
+        "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
+      },
+      "artists": [
+        {
+          "name": "Jake Milliner",
+          "url": "https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS"
+        },
+        {
+          "name": "Tane",
+          "url": "https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3"
+        }
+      ],
+      "duration_ms": 188401,
+      "name": "Did It Yesterday",
+      "url": "https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1159,46 +1223,6 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Who Am I (eh-eh)",
-        "url": "https://open.spotify.com/album/0CGNWI2meh3fOhLpagrkDm"
-      },
-      "artists": [
-        {
-          "name": "Isatta Sheriff",
-          "url": "https://open.spotify.com/artist/0MzwdYm3L1uIIFASbl13XK"
-        },
-        {
-          "name": "Koralle",
-          "url": "https://open.spotify.com/artist/3OW3qK7Wl9ESAGLvjVOw2h"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Who Am I (eh-eh)",
-      "url": "https://open.spotify.com/track/3DBGRXEiGyQOxdkV6JltUY"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Did It Yesterday",
-        "url": "https://open.spotify.com/album/6qVwOxqFQMNawnwxpUzPEo"
-      },
-      "artists": [
-        {
-          "name": "Jake Milliner",
-          "url": "https://open.spotify.com/artist/5GbsEElDfxIjlM3rknGexS"
-        },
-        {
-          "name": "Tane",
-          "url": "https://open.spotify.com/artist/5mrQPFvQLVkRwBVyob0OY3"
-        }
-      ],
-      "duration_ms": 188401,
-      "name": "Did It Yesterday",
-      "url": "https://open.spotify.com/track/3qcDDIxV01o13XtN21BRHk"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
         "name": "Days Like This",
         "url": "https://open.spotify.com/album/130gHXGawD0GHuL0VnfAVh"
       },
@@ -1219,30 +1243,6 @@
       "duration_ms": 218969,
       "name": "Days Like This",
       "url": "https://open.spotify.com/track/5HHpKZFPMp2QzLMRiaT5sx"
-    },
-    {
-      "added_at": "2022-08-10 10:18:30",
-      "album": {
-        "name": "It's All Good",
-        "url": "https://open.spotify.com/album/1nQjbiLg6hwnvqfVmgjY1r"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        },
-        {
-          "name": "Jackson Mathod",
-          "url": "https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx"
-        },
-        {
-          "name": "David Mrakpor",
-          "url": "https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr"
-        }
-      ],
-      "duration_ms": 204120,
-      "name": "It's All Good",
-      "url": "https://open.spotify.com/track/01oUxAHgeE334OxvH21D5W"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
+        "name": "Monument",
+        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 496546,
+      "name": "Warm Data",
+      "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
+    },
+    {
+      "added_at": "2022-08-04 23:00:00",
+      "album": {
         "name": "Red and Green (Blue Lab Beats Remix)",
         "url": "https://open.spotify.com/album/1ifUgR4IwQyFNhMI3FZzM6"
       },
@@ -1323,18 +1339,22 @@
     {
       "added_at": "2022-08-04 23:00:00",
       "album": {
-        "name": "Monument",
-        "url": "https://open.spotify.com/album/5Q45lNUhaH40wPqhUgjJNC"
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn"
       },
       "artists": [
         {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+          "name": "Richard Spaven",
+          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
         }
       ],
-      "duration_ms": 496546,
-      "name": "Warm Data",
-      "url": "https://open.spotify.com/track/0mfh5RdoeDV7DGLOMytUyc"
+      "duration_ms": 313733,
+      "name": "Nova",
+      "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
     },
     {
       "added_at": "2022-08-04 23:00:00",
@@ -1367,26 +1387,6 @@
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/7FV75h8cbt6sf9XClbiT3Z"
-    },
-    {
-      "added_at": "2022-08-04 23:00:00",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/6E4fyKEXySdsJMWYE3IDQn"
-      },
-      "artists": [
-        {
-          "name": "Richard Spaven",
-          "url": "https://open.spotify.com/artist/1vPmwfwytzhoK1cXXWzQWI"
-        },
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "Nova",
-      "url": "https://open.spotify.com/track/6iBzYMUeA5fWP6T4kq5dez"
     }
   ],
   "unique_name": "Jazz UK",

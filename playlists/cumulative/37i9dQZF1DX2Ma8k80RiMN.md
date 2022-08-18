@@ -4,7 +4,7 @@
 
 > Come inside The Sweet Suite and get in the mood with some amazing R&B and soul ballads from the past and present.
 
-84 songs - 6 hr 34 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
+85 songs - 6 hr 38 min - [published](https://open.spotify.com/playlist/1hna57tdO5fufuV8wdlNPX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,7 @@
 | [The Secret Garden \(Sweet Seduction Suite\)](https://open.spotify.com/track/3PZW66625MiyEmZaat7tce) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt), [Al B\. Sure!](https://open.spotify.com/artist/1fvz0vd4P0LNMkAysF1ivk), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Back On The Block](https://open.spotify.com/album/5DR4gcd3fj3E6XhbPTaF82) | 6:41 | 2021-11-10 |  |
 | [Turn off the Lights](https://open.spotify.com/track/47nJdvSobIGBYdN7y2caLM) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Teddy \(Expanded Edition\)](https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM) | 5:54 | 2022-03-14 |  |
 | [What You Won't Do for Love](https://open.spotify.com/track/7Cw9qRzAA9RMH4DxMkg6pr) | [Phyllis Hyman](https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv) | [Living All Alone](https://open.spotify.com/album/1iOHlsTOydpJYP3kIuuwYD) | 4:02 | 2021-11-10 | 2022-07-28 |
-| [Whatever It Takes](https://open.spotify.com/track/1g795gFDpVVmUF4RNbNjue) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Easy Jazz Classics](https://open.spotify.com/album/5VMaILtZ8uxldsF6p9Z0Ap) | 5:35 | 2021-11-10 |  |
+| [Whatever It Takes](https://open.spotify.com/track/1g795gFDpVVmUF4RNbNjue) | [Anita Baker](https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG) | [Easy Jazz Classics](https://open.spotify.com/album/5VMaILtZ8uxldsF6p9Z0Ap) | 5:35 | 2021-11-10 | 2022-08-18 |
 | [Whatever You Want](https://open.spotify.com/track/4chxiKYwSBoE0pvO4Ea0uv) | [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW) | [20th Century Masters: The Millennium Collection: Best Of Tony! Toni! Tone!](https://open.spotify.com/album/3ER3DiMgMVNPJRS2UjwEiz) | 4:51 | 2021-11-10 | 2022-07-28 |
 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 | 2021-11-10 |  |
 | [Where I Wanna Be](https://open.spotify.com/track/2uZwyxrg6VPvlVsvclIfel) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [Where I Wanna Be](https://open.spotify.com/album/01riz9JMpPdL99fYhoZaph) | 4:13 | 2021-11-10 |  |
@@ -92,5 +92,6 @@
 | [You Want My Love](https://open.spotify.com/track/5BQf3eyCsoSP5jNGx9sPdD) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [You Want My Love](https://open.spotify.com/album/2GGcfPODdGZ3m6riQU4rNq) | 3:14 | 2021-11-10 |  |
 | [You're My Latest, Greatest Inspiration](https://open.spotify.com/track/24Uu2LvYtrQucgUL69WzMx) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Love's Greatest Hits](https://open.spotify.com/album/6VrgfU55RZBu5EMsfnGDaF) | 5:22 | 2021-11-10 | 2022-07-21 |
 | [Your Smile](https://open.spotify.com/track/15SNslBn9n3jutwxlJGpMd) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire ..\. And More](https://open.spotify.com/album/3CIbsYH74GA2PAtXsPBlT9) | 4:15 | 2021-11-10 | 2022-07-29 |
+| [Your Smile](https://open.spotify.com/track/7GPd68coLrQ0prQcbceWkG) | [Rene & Angela](https://open.spotify.com/artist/01Wck2m10xhdxUrLaMq60y) | [Street Called Desire \(Expanded Edition\)](https://open.spotify.com/album/3pUaS5txjbE7K6LwdTTay5) | 4:15 | 2022-03-14 |  |
 
 \*This playlist was first scraped on 2021-12-21. Prior content cannot be recovered.

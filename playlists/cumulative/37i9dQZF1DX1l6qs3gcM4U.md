@@ -4,7 +4,7 @@
 
 > Fall in love with the sensual sounds of Kizomba! Cover: Loony Johnson with Djodje.
 
-266 songs - 16 hr 9 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
+267 songs - 16 hr 13 min - [published](https://open.spotify.com/playlist/33PmHWTm7jqDMnzqBQ57ZY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Tu e Eu](https://open.spotify.com/track/61MMYdbqReDE7AEwYPuI9o) | [Luciana Abreu](https://open.spotify.com/artist/51kdi9RNIRrjIZ8EOYDv0J), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [La](https://open.spotify.com/album/3AiAjf2faHx2APDIlArxPM) | 3:25 | 2022-07-22 |  |
 | [Tu E Eu](https://open.spotify.com/track/4PbzWvzsW7KGZAyrp2eAbX) | [Luciana Abreu](https://open.spotify.com/artist/51kdi9RNIRrjIZ8EOYDv0J), [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61) | [Luciana Abreu](https://open.spotify.com/album/293ZgnekzPA1v75QpDzc9h) | 3:25 | 2022-03-25 | 2022-04-20 |
 | [Tu És a Mulher](https://open.spotify.com/track/3AxKlhbCVMwrDbP4laSyys) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [King Ckwa](https://open.spotify.com/album/7F4vDACMrg7U40ZRAA1VTV) | 4:36 | 2021-12-10 |  |
+| [Tudo bem, Não está tudo bem](https://open.spotify.com/track/29UOyfi97l74DWtaw3LLMB) | [Queentanisha](https://open.spotify.com/artist/6rrpOVmgZi95NRA4VKrpam) | [Tudo bem, Não está tudo bem](https://open.spotify.com/album/7eRuUEGWadfsnXVB1l8Qyn) | 4:25 | 2022-08-12 |  |
 | [Tudo de Novo](https://open.spotify.com/track/0xdYdzu9XSwKTRjOWWUEgS) | [Eva Rapdiva](https://open.spotify.com/artist/3aS15wWCmzXkFRIvbu2KUd), [Gerilson Insrael](https://open.spotify.com/artist/4VnA54lsQnc9ImvrEY34fO) | [Tudo de Novo](https://open.spotify.com/album/0EOvEnan4nHBtwRKQ0qyfz) | 4:19 | 2022-02-14 |  |
 | [Tudo Pa Bo](https://open.spotify.com/track/6FEpX1hurNq4JEAws8nIhe) | [Denis Graça](https://open.spotify.com/artist/1cT0pBQ6D82GzRBeoMiXkV) | [Tudo Pa Bo](https://open.spotify.com/album/3Qtr8JQ44NWFYIgsZO1nly) | 4:21 | 2021-12-10 | 2022-05-30 |
 | [Tudo por Amor](https://open.spotify.com/track/7LtfpklIMpsU0tWw0EbIOl) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Kataleya](https://open.spotify.com/artist/17ABH2YXJGKpvpoqeeQLSP) | [Tudo por Amor](https://open.spotify.com/album/0L7a3qE6SVlrzHpfZiD7Fa) | 3:26 | 2021-12-10 |  |
@@ -271,7 +272,7 @@
 | [Você Me Kuia](https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4) | [Jay Oliver](https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X) | [Longe de Ti](https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1) | 4:08 | 2022-02-14 |  |
 | [Vou Arriscar](https://open.spotify.com/track/7kVndwoIjvzkYxxbuoV2UM) | [Chelsy Shantel](https://open.spotify.com/artist/7KO8A7idPh9D7zwd52QW44), [Nsoki](https://open.spotify.com/artist/6HfAa52MnValWEHNMdWAlH) | [Vou Arriscar](https://open.spotify.com/album/7AnHcW2hu73RuWTdWD9pmh) | 3:43 | 2021-12-10 | 2022-07-29 |
 | [Vou Ter Saudades](https://open.spotify.com/track/3LV7JsBzte182GK1p6wOUX) | [C4 Pedro](https://open.spotify.com/artist/5IccCciXwIjKPROLcD1Qao) | [Vou Ter Saudades](https://open.spotify.com/album/66lpG91jKZ7VUHNQRqD9Ks) | 3:11 | 2022-03-25 | 2022-04-21 |
-| [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 |  |
+| [Water](https://open.spotify.com/track/2YGCbj4HPFKc40ow5Ica9X) | [Derick Banks](https://open.spotify.com/artist/6i82JFbfMvOi01V8M937aK), [P\. Lowe](https://open.spotify.com/artist/5iwOutOAetaUm6Yg14BRTu), [Archie & Sizzle](https://open.spotify.com/artist/6GYBds9JOCUmcooVni808I) | [Water](https://open.spotify.com/album/0iP0x5PfiePxWk18TMjoGf) | 4:21 | 2021-12-10 | 2022-08-18 |
 | [You](https://open.spotify.com/track/4oj1WpRBb0K4BVsonGwENA) | [Djodje](https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo) | [You](https://open.spotify.com/album/3dshYkPBm10Z8AmEzhXCu7) | 3:15 | 2021-12-10 |  |
 | [É Mentira](https://open.spotify.com/track/6akHiBM9q6bPCg9SBCBoSz) | [JP da Maika](https://open.spotify.com/artist/5SwwERvBGTyuz8UlXepZvr) | [DaMaika Season](https://open.spotify.com/album/4guI5Wy4lUy3veJKlcwBPE) | 3:43 | 2022-02-25 | 2022-04-06 |
 

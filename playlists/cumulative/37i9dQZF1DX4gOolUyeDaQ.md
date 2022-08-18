@@ -4,7 +4,7 @@
 
 > ¡Al agua! Nosotros ponemos la música.
 
-452 songs - 1 day 0 hr 21 min - [published](https://open.spotify.com/playlist/3rFwQRzDpOjYFNLNYRvS7o)
+453 songs - 1 day 0 hr 25 min - [published](https://open.spotify.com/playlist/3rFwQRzDpOjYFNLNYRvS7o)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,7 @@
 | [LA CANCIÓN](https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:02 | 2022-06-17 | 2022-08-16 |
 | [La Culpa](https://open.spotify.com/track/4BXsw7o6JzAOI39MkpNbAv) | [Juli](https://open.spotify.com/artist/7kAiyf8Q01UySGGmqjeRTc), [Tote](https://open.spotify.com/artist/4JvhKLSrtJy7jAWYaatd64) | [La Culpa](https://open.spotify.com/album/1EWkRymE3kphpmxO9m2DZZ) | 2:50 | 2022-06-03 | 2022-06-12 |
 | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6dmXZ9B5HdFAyzHeTneYBK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [LA FAMA \(with The Weeknd\)](https://open.spotify.com/album/39LyZrNGkbc2IUeVOhwmGU) | 3:08 | 2022-06-03 | 2022-07-28 |
-| [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-08-15 |  |
+| [LA FAMA \(with The Weeknd\)](https://open.spotify.com/track/6Y46tOTRhkBamosyuWa6YX) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 3:08 | 2022-08-15 | 2022-08-18 |
 | [La fiesta](https://open.spotify.com/track/0v1EnT2sDsuLnvwo7Z3N3c) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [La fiesta](https://open.spotify.com/album/2oeYX230n70YtQDkmbeRPp) | 3:32 | 2022-06-03 | 2022-07-26 |
 | [La Forma en Que Me Miras](https://open.spotify.com/track/6t94PGXYAuo9GbJEnMpPcW) | [Super Yei](https://open.spotify.com/artist/6HqgxkTt9KGyt27zYrwVan), [Sammy](https://open.spotify.com/artist/2raERfjzsdnUUQeZSge5eZ), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [La Forma en Que Me Miras](https://open.spotify.com/album/4C1RvpT7vJ7H8j21larWQU) | 5:07 | 2022-06-28 | 2022-07-02 |
 | [La Funka](https://open.spotify.com/track/0XpMTExp5q4nLZZZ3msDGn) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [La Funka](https://open.spotify.com/album/0EN9tz6tsXi8MOUjNLVf1G) | 3:18 | 2022-06-03 | 2022-07-29 |
@@ -287,6 +287,7 @@
 | [No Puede Ser \- with Eladio Carrion](https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [No Puede Ser \(with Eladio Carrion\)](https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP) | 3:11 | 2022-06-03 | 2022-07-29 |
 | [No Puedo Olvidarte](https://open.spotify.com/track/3whHs54O3eVpuF5R3rx2A6) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [No Puedo Olvidarte](https://open.spotify.com/album/5OxEF4B7QicAp3dJDaagcP) | 2:45 | 2022-06-28 | 2022-07-06 |
 | [NO SE OLVIDA](https://open.spotify.com/track/49qCDjCcu8OvKlSDBYDzHv) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [NO SE OLVIDA](https://open.spotify.com/album/0HVoLSZFWBp9F5JbiWrJqA) | 4:10 | 2022-06-03 | 2022-07-28 |
+| [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/track/6N7LquYjc3c53qr4PSJbi5) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Noche de Novela \(feat\. Ed Sheeran\)](https://open.spotify.com/album/4OciFRoNTzmF0ORAQqCrk9) | 3:11 | 2022-08-17 |  |
 | [Noche de Teteo](https://open.spotify.com/track/5YBvKoQDMAd7IjonxPQYFN) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Noche de Teteo](https://open.spotify.com/album/5Qt0bEk7a3RONCNxHJIFdx) | 3:22 | 2022-07-19 |  |
 | [Noche y Dia](https://open.spotify.com/track/6TQP1kV9oD8R6dQcCfhr5S) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [Noche y Dia](https://open.spotify.com/album/2xzE5tu9kDViuquh6PAYCn) | 2:49 | 2022-06-28 | 2022-07-24 |
 | [Noches en Miami](https://open.spotify.com/track/6MkRRQcKD5n3bLmFA3rJbd) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Noches en Miami](https://open.spotify.com/album/2dCZVCwASQV3KKhnAXY7Py) | 2:34 | 2022-06-03 | 2022-07-26 |

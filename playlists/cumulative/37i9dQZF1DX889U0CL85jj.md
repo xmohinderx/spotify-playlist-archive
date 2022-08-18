@@ -4,7 +4,7 @@
 
 > Just chill.
 
-307 songs - 17 hr 34 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
+308 songs - 17 hr 36 min - [published](https://open.spotify.com/playlist/4xMryNZOIXSOcA9on5hgsi)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [But There's Still the Moon](https://open.spotify.com/track/0tA5pH2uW1fKCQ44khDie8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [But There's Still the Moon](https://open.spotify.com/album/6hbufZ1A81iozgnd8QMD7B) | 3:39 | 2020-04-17 | 2022-07-29 |
 | [But There's Still The Moon](https://open.spotify.com/track/37DJAHf9kl40AIoHI9Fnsn) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [But There's Still The Moon](https://open.spotify.com/album/1CwsZRhnP2gXJmJap9IGMB) | 3:39 | 2022-06-10 |  |
 | [Buzzed](https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [Buzzed](https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9) | 2:39 | 2021-06-07 |  |
+| [Cabriolet](https://open.spotify.com/track/05ZeiujqFx9XGekEXogxdZ) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI), [Lito Akari](https://open.spotify.com/artist/4ATIy1cxe2gE276vbRv2Hu) | [Cabriolet](https://open.spotify.com/album/40SEs7WEPREj4xeb9mVNv2) | 2:42 | 2022-08-17 |  |
 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 | 2020-05-22 | 2022-01-22 |
 | [Can't Stop Your Lovin'](https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Can't Stop Your Lovin'](https://open.spotify.com/album/4wk1q3SvmE08InkoJKodlW) | 3:57 | 2019-07-26 |  |
 | [Charmed](https://open.spotify.com/track/6F5jUW0lOVlCSvhCH0yl3f) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Charmed](https://open.spotify.com/album/3jfaxyujChdnrEbjYDaYax) | 2:38 | 2022-03-28 |  |
@@ -77,7 +78,7 @@
 | [Dream Away](https://open.spotify.com/track/3L3GtwAflCkqh4QCoacRYk) | [The Midnight](https://open.spotify.com/artist/2NFrAuh8RQdQoS7iYFbckw) | [Monsters](https://open.spotify.com/album/1WKMbxcldmwnXaCIGgEpUW) | 3:39 | 2020-08-10 | 2022-01-22 |
 | [Dream For Dreaming](https://open.spotify.com/track/2dMMC7nrI2v1wYdncGJVXY) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dream For Dreaming](https://open.spotify.com/album/3oVYWStRa3452eCmKHhKKZ) | 3:39 | 2019-10-04 | 2022-01-22 |
 | [dreamin'](https://open.spotify.com/track/4PlzJVdaRYC9Fg2AqlOxer) | [53 Thieves](https://open.spotify.com/artist/4IwM0dNvhWqqtsTyulxe2K) | [dreamin'](https://open.spotify.com/album/4OVHuaHyH9KpFwgbJTdSS1) | 3:27 | 2020-03-09 |  |
-| [Dreamland](https://open.spotify.com/track/5Bkw0lMhwk8tF4kMgCCJLv) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/1YuD9tjpVMRbSmWDfOiyem) | 3:23 | 2020-05-01 |  |
+| [Dreamland](https://open.spotify.com/track/5Bkw0lMhwk8tF4kMgCCJLv) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/1YuD9tjpVMRbSmWDfOiyem) | 3:23 | 2020-05-01 | 2022-08-18 |
 | [Dreams](https://open.spotify.com/track/17TX3VpcIYnjHLTFbXE9zO) | [Abby Holliday](https://open.spotify.com/artist/4q7Td1MO6rNg3UCvqrzz1k) | [WHEN WE'RE FAR APART I FALL APART](https://open.spotify.com/album/2YjUjPvj8KfFyhnE24KJxU) | 4:16 | 2021-08-27 | 2022-01-22 |
 | [either side](https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [either side](https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX) | 2:47 | 2021-06-07 |  |
 | [Every Day Is A Holiday](https://open.spotify.com/track/7vjWe160MXCv2jiyH3EQMH) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Every Day Is A Holiday](https://open.spotify.com/album/2ghvPH9H4tJcFqqzcR4RK3) | 5:53 | 2020-08-10 |  |

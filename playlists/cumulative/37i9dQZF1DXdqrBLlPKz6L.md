@@ -4,7 +4,7 @@
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Micro TDH
 
-72 songs - 3 hr 55 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
+73 songs - 3 hr 58 min - [published](https://open.spotify.com/playlist/6opAfCvVy9IGx107v1jCvA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/track/2uCUEMPaiBg3mOBzP0ygId) | [Junior Caldera](https://open.spotify.com/artist/0rwGV1HhNWK2Ta4rjmlmtp), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r), [Pipo Martinez](https://open.spotify.com/artist/3NBtvR4R4OWimH7bzLOvYB) | [One Direction \(feat\. Pipo Martinez\)](https://open.spotify.com/album/4Js4KZ1XTWxnxM1yi38poT) | 3:15 | 2022-04-08 |  |
 | [Panamera](https://open.spotify.com/track/6ggVSxqawOpYsjsyOYKtGC) | [D'Avila](https://open.spotify.com/artist/6elNbQJgp30Ml9u2jO9RwX), [Dimc](https://open.spotify.com/artist/6dsf1MmhDry9AMFBGy6A1O), [Zuco OMG](https://open.spotify.com/artist/2AsK0GD1xFCS4L3lv8im4w) | [Panamera](https://open.spotify.com/album/4CZrPqu9r8VFm5RA6M4v5v) | 3:15 | 2021-10-15 |  |
 | [Patrón](https://open.spotify.com/track/2bE5ZNbhykDaIYqOCH3rQk) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Noriel](https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL) | [Apokalypsis 2](https://open.spotify.com/album/4kznHcUa9sdGewkst0xIQH) | 5:30 | 2022-04-08 |  |
-| [puta otaku](https://open.spotify.com/track/6gitUIABDIgVIAxvyAqzGu) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7Bj2Nd3SOLgC6JqfF1v1V9) | 3:00 | 2021-10-15 |  |
+| [puta otaku](https://open.spotify.com/track/6gitUIABDIgVIAxvyAqzGu) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7Bj2Nd3SOLgC6JqfF1v1V9) | 3:00 | 2021-10-15 | 2022-08-18 |
+| [puta otaku](https://open.spotify.com/track/5UZakxsgKAzTTFCNFDbisw) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7jXPV2VCxH64UDQykpgdOH) | 3:00 | 2022-04-08 |  |
 | [Putero](https://open.spotify.com/track/1dAPH16FxFISqNNqYkOwg5) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [The Good Trip](https://open.spotify.com/album/0xlPK1D3VcRtgT29aZX2VY) | 3:09 | 2021-10-15 |  |
 | [Q 'VacilOn](https://open.spotify.com/track/1WsBNIhyn8z2UnuvlFTJM4) | [Skisia2](https://open.spotify.com/artist/0i2AykTPNRZdh7qfCy8eor), [AG SixTeen](https://open.spotify.com/artist/2Skstmc3athPlfSbdxEsR2), [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux) | [Q 'VacilOn](https://open.spotify.com/album/4ABD3I1tBANiGl803jPwgX) | 3:16 | 2021-10-15 |  |
 | [Rockstars](https://open.spotify.com/track/3FSlnw2ULKtzZmKRsCePM9) | [Frijo](https://open.spotify.com/artist/4D2d63igYEdzhzFnxrSow7), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Rockstars](https://open.spotify.com/album/5gxGWqgqGj0NIz4ssk5ftv) | 3:04 | 2021-10-15 |  |

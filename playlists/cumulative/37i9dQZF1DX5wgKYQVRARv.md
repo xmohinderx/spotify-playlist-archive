@@ -4,7 +4,7 @@
 
 > Fresh and recent tracks from the world of Prog Metal\. Cover: Northlane
 
-540 songs - 1 day 23 hr 4 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
+541 songs - 1 day 23 hr 11 min - [published](https://open.spotify.com/playlist/0wuVpBlHkf8BHNGS6SodaM)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -287,6 +287,7 @@
 | [Monsters](https://open.spotify.com/track/3z0qwVdt3UXLgnzkbVTGBG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Monsters](https://open.spotify.com/album/34fBTHDUHzSHWxfxsMXvHh) | 3:32 | 2022-07-13 | 2022-07-28 |
 | [Moonflowers Bloom in Misery](https://open.spotify.com/track/1aE3j2yUjvfeUexBdMDKHA) | [Swallow The Sun](https://open.spotify.com/artist/0ulKlNlo0iPx5ZS6VMTHWQ) | [Moonflowers \(Deluxe Edition\)](https://open.spotify.com/album/5RuHZCFV4cYtFIrj4NIXek) | 6:19 | 2021-12-17 |  |
 | [Moonlight](https://open.spotify.com/track/41Uv8L9GjLc4JFKE9AZWfO) | [Interloper](https://open.spotify.com/artist/1iObP7TbWyteHGmnkXs24O) | [Search Party](https://open.spotify.com/album/2I1ezfcRda9OBew6feCEvw) | 4:29 | 2021-12-17 | 2022-07-27 |
+| [More](https://open.spotify.com/track/4Wt0BhFibCl8USnEX0wQmI) | [Flying Colors](https://open.spotify.com/artist/7vdTrczuBydSrfUcoruaeX) | [Third Degree](https://open.spotify.com/album/36tjJmRAztF6E0JOsMgK4o) | 7:09 | 2022-07-08 |  |
 | [More](https://open.spotify.com/track/5quGkbU3UVj1Bnsdxw06Rf) | [Flying Colors](https://open.spotify.com/artist/7vdTrczuBydSrfUcoruaeX) | [More](https://open.spotify.com/album/2YiloHFEGRCGgkRxAgsJZg) | 7:09 | 2021-12-17 | 2022-07-29 |
 | [Morning Star](https://open.spotify.com/track/12CPUFGm3Vh7ChLKMszBpD) | [Eastern High](https://open.spotify.com/artist/1gJKvdur2uUAEJcRaB95v7) | [Morning Star](https://open.spotify.com/album/2BtOiUOMECXOjB1z9Yqw3z) | 5:13 | 2021-12-17 | 2022-07-29 |
 | [Morse Code](https://open.spotify.com/track/2SZhCWsdtviCg0k3k1ecQG) | [Gracchus](https://open.spotify.com/artist/4vxxZALsgAXbF0fDPESlqZ) | [Morse Code](https://open.spotify.com/album/44PEAsERFmzuGvANNkn2E0) | 4:06 | 2021-12-17 | 2022-07-25 |
@@ -357,7 +358,7 @@
 | [Reclaim](https://open.spotify.com/track/4CYXS6XxPaqPdTOu7RApQ4) | [From Sorrow To Serenity](https://open.spotify.com/artist/2s4zBLzqaGlaBYzGG5G3Q5) | [Reclaim](https://open.spotify.com/album/3P8HJRzE1Awh92lXIZqsU0) | 3:16 | 2022-07-13 | 2022-07-29 |
 | [Red Letter](https://open.spotify.com/track/5t10PRTb216lrqwi1PPRMG) | [Arch Echo](https://open.spotify.com/artist/4ilweWzFHh6vrr7OOuDcUh) | [Red Letter](https://open.spotify.com/album/1NCLqFsHz3CArDSzA3V2T1) | 4:50 | 2022-01-28 |  |
 | [Remanence](https://open.spotify.com/track/71OQ9gOH6NUMLSBq2i1mfx) | [Dukkha](https://open.spotify.com/artist/7nyn1GFcq9woxZSQIYkNLi) | [Remanence](https://open.spotify.com/album/7mxcGyauyqgMX4YHzFP8nn) | 4:12 | 2021-12-17 | 2022-07-25 |
-| [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 |  |
+| [Reprogram \- Single Version](https://open.spotify.com/track/5R8IEz7wqrbgTW2u8c52gU) | [Hacktivist](https://open.spotify.com/artist/3hZtRePYRKW6wLtZ3gpnk7) | [Reprogram](https://open.spotify.com/album/6VNdkapfDgOF42ZkB3kcRQ) | 4:26 | 2022-07-13 | 2022-08-18 |
 | [Reptile](https://open.spotify.com/track/6hWHGG68ZARHuuNTUvW8vg) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Reptile](https://open.spotify.com/album/1rqFnKswVUvYL5EjjME4Z4) | 3:44 | 2022-07-13 |  |
 | [Rest](https://open.spotify.com/track/4PKGtdh5xf04gf1b5OlXR2) | [Curses](https://open.spotify.com/artist/5Waz4LdRTkbyqfgladPHHk) | [Rest](https://open.spotify.com/album/5J1F9sJQetwCcdMU6VfEHM) | 4:03 | 2022-07-13 |  |
 | [Rigel](https://open.spotify.com/track/2v94YzlQ7jNn2IHcGHw7L6) | [Thessa](https://open.spotify.com/artist/7AmcyOXvn35ZkuUWSIn8eu) | [Arcus](https://open.spotify.com/album/5pVn4oUe0UzrcS1p2irbax) | 4:43 | 2022-07-13 |  |

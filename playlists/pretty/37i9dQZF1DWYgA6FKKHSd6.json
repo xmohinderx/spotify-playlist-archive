@@ -1,12 +1,12 @@
 {
   "description": "A perfect rendezvous of funk, jazz, R&B, and soul. Cover: Eric Darius",
-  "num_followers": 205196,
+  "num_followers": 205216,
   "original_name": "Sax and the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDE0YTRlZjg4NmIzYmExMDYxMzFjOTI1YWIxZTk2Zjhl",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDMzZWIyMjhlMjE4NWIzMTIwZWQwYmZlZjYwN2JiMGI3",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -753,6 +753,22 @@
       "url": "https://open.spotify.com/track/5H6VCCvafjEQWIrnui0wOd"
     },
     {
+      "added_at": "2022-07-15 04:02:00",
+      "album": {
+        "name": "Leave It to the Gods",
+        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
+      },
+      "artists": [
+        {
+          "name": "D.S. Wilson",
+          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
+        }
+      ],
+      "duration_ms": 266506,
+      "name": "Leave It to the Gods",
+      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
+    },
+    {
       "added_at": "2021-07-12 18:23:33",
       "album": {
         "name": "Echoes Of The Heart",
@@ -771,38 +787,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sophistication",
-        "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
-      },
-      "artists": [
-        {
-          "name": "Grady Nichols",
-          "url": "https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA"
-        }
-      ],
-      "duration_ms": 227920,
-      "name": "Livin' The Life",
-      "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Leave It to the Gods",
-        "url": "https://open.spotify.com/album/6VEDP9KD6ndDnNnBene1aX"
-      },
-      "artists": [
-        {
-          "name": "D.S. Wilson",
-          "url": "https://open.spotify.com/artist/7n8T90C12QlPZnMCOOegmO"
-        }
-      ],
-      "duration_ms": 266506,
-      "name": "Leave It to the Gods",
-      "url": "https://open.spotify.com/track/3DvdHFeQ3AeZNzxHy61Gcu"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "City Beat",
         "url": "https://open.spotify.com/album/2qh5ZiEghmYBPamiTUeO2z"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 242933,
       "name": "City Beat",
       "url": "https://open.spotify.com/track/3T9bPsBqGslbXXKMcUBjMo"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Sophistication",
+        "url": "https://open.spotify.com/album/4VVMxzihZPr0scQRRjSkNN"
+      },
+      "artists": [
+        {
+          "name": "Grady Nichols",
+          "url": "https://open.spotify.com/artist/6nThAZ6QnRjV4OWso1nXGA"
+        }
+      ],
+      "duration_ms": 227920,
+      "name": "Livin' The Life",
+      "url": "https://open.spotify.com/track/2VIqaZxvr3VujsbSjbrl43"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -839,38 +839,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "L.I.T.",
-        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
-      },
-      "artists": [
-        {
-          "name": "Riley Richard",
-          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
-        }
-      ],
-      "duration_ms": 258138,
-      "name": "L.I.T.",
-      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Poetry In Motion",
-        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
-      },
-      "artists": [
-        {
-          "name": "Najee",
-          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
-        }
-      ],
-      "duration_ms": 280613,
-      "name": "Stratosphere",
-      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "And Coffee",
         "url": "https://open.spotify.com/album/1hIWkw4oviD5KkaMMJNoLd"
       },
@@ -891,18 +859,34 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Romance Language",
-        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+        "name": "Poetry In Motion",
+        "url": "https://open.spotify.com/album/65KJcqC8fnZhmAlp2xsJAd"
       },
       "artists": [
         {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+          "name": "Najee",
+          "url": "https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3"
         }
       ],
-      "duration_ms": 288731,
-      "name": "I Wish I Wasn't",
-      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
+      "duration_ms": 280613,
+      "name": "Stratosphere",
+      "url": "https://open.spotify.com/track/0PClILX1b9qL40YodPjBzS"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "L.I.T.",
+        "url": "https://open.spotify.com/album/59i6TmB5fQ806IkSl5XyeN"
+      },
+      "artists": [
+        {
+          "name": "Riley Richard",
+          "url": "https://open.spotify.com/artist/3gYM4qdpRiNT5GRIMB5iY4"
+        }
+      ],
+      "duration_ms": 258138,
+      "name": "L.I.T.",
+      "url": "https://open.spotify.com/track/7JWyMt0OBBnPKuTGx6UNYs"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -923,6 +907,22 @@
       "duration_ms": 270133,
       "name": "Wild Tales (feat. Russ Freeman)",
       "url": "https://open.spotify.com/track/0JpSVTcs8PBLD5ZmOj26cF"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Romance Language",
+        "url": "https://open.spotify.com/album/6evpmPsZzuiEp1sWPbgg75"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 288731,
+      "name": "I Wish I Wasn't",
+      "url": "https://open.spotify.com/track/2XwFh1c0eeB0mAdJsYCaoo"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "As the Days Go by...",
+        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+      },
+      "artists": [
+        {
+          "name": "Alfonzo Blackwell",
+          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+        }
+      ],
+      "duration_ms": 309827,
+      "name": "As the Days Go by...",
+      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Homebrew (Radio Mix)",
         "url": "https://open.spotify.com/album/79QLG9fEzrDkbEeBJU3Dc4"
       },
@@ -1151,18 +1167,18 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "As the Days Go by...",
-        "url": "https://open.spotify.com/album/3EefR2XmjoXKQSX80HncCa"
+        "name": "Sexy Saxy, Vol. 3",
+        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
       },
       "artists": [
         {
-          "name": "Alfonzo Blackwell",
-          "url": "https://open.spotify.com/artist/5EBTM4IYuzYJX0MbvYPwXz"
+          "name": "Jarez",
+          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
         }
       ],
-      "duration_ms": 309827,
-      "name": "As the Days Go by...",
-      "url": "https://open.spotify.com/track/2ysmazV8DCgEZ6T49FKlKE"
+      "duration_ms": 263128,
+      "name": "What U Want, What U Need",
+      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1203,38 +1219,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Sexy Saxy, Vol. 3",
-        "url": "https://open.spotify.com/album/4h6LnoIwO8rzt9XncM5bIQ"
-      },
-      "artists": [
-        {
-          "name": "Jarez",
-          "url": "https://open.spotify.com/artist/4QXyNrZiA9bnaEM1vrXBjr"
-        }
-      ],
-      "duration_ms": 263128,
-      "name": "What U Want, What U Need",
-      "url": "https://open.spotify.com/track/2OTBqWfzx08u2KbROvZlhZ"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "Breakin' Thru",
-        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
-      },
-      "artists": [
-        {
-          "name": "Eric Darius",
-          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
-        }
-      ],
-      "duration_ms": 270968,
-      "name": "Breakin' Thru",
-      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Smooth Jazz SAX Showcase",
         "url": "https://open.spotify.com/album/457oSFJJWye9WFlKlhHGUn"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 248146,
       "name": "American Garden",
       "url": "https://open.spotify.com/track/7i2LhxMAk8Ih3VBkEARiVr"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Breakin' Thru",
+        "url": "https://open.spotify.com/album/24dW1Q7SRpwk4R1FXuolVI"
+      },
+      "artists": [
+        {
+          "name": "Eric Darius",
+          "url": "https://open.spotify.com/artist/39HDjLbYtWrCQrqpl9sOX8"
+        }
+      ],
+      "duration_ms": 270968,
+      "name": "Breakin' Thru",
+      "url": "https://open.spotify.com/track/4hHPO7Vt4eGqEPreB35Tn7"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
+        "name": "There's A Riot Goin' On",
+        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
+      },
+      "artists": [
+        {
+          "name": "George Howard",
+          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
+        }
+      ],
+      "duration_ms": 190866,
+      "name": "Luv N' Haight",
+      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
         "name": "Sweetness",
         "url": "https://open.spotify.com/album/0fEG5FbdY24aA6sSlceKEW"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 410753,
       "name": "Sweetness",
       "url": "https://open.spotify.com/track/6XqIJu5pvnmk2hYjne89E9"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "There's A Riot Goin' On",
-        "url": "https://open.spotify.com/album/7ePa1hoszJWnri1MpUUkmT"
-      },
-      "artists": [
-        {
-          "name": "George Howard",
-          "url": "https://open.spotify.com/artist/0MDjU3FoGxwGH0rbkcwF2f"
-        }
-      ],
-      "duration_ms": 190866,
-      "name": "Luv N' Haight",
-      "url": "https://open.spotify.com/track/0Cul7Nx1V0E1bPkuajTr4m"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Play",
-        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
-      },
-      "artists": [
-        {
-          "name": "Jeff Kashiwa",
-          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
-        }
-      ],
-      "duration_ms": 292320,
-      "name": "The Lucky One",
-      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Pulling Off The Covers",
         "url": "https://open.spotify.com/album/1cl7i0OKKnt75YYUmpiwN4"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 248880,
       "name": "Setembro",
       "url": "https://open.spotify.com/track/1bZuzZgY4M6wLNs1aFWlS9"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Play",
+        "url": "https://open.spotify.com/album/6LWgHsHvcDcVg0Oj5inJP4"
+      },
+      "artists": [
+        {
+          "name": "Jeff Kashiwa",
+          "url": "https://open.spotify.com/artist/7GVLgt36lHtKdbxooYQhbW"
+        }
+      ],
+      "duration_ms": 292320,
+      "name": "The Lucky One",
+      "url": "https://open.spotify.com/track/0ipCht4s0zuTzjLvLDstXf"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1549,22 +1549,6 @@
       "url": "https://open.spotify.com/track/451nSdShMhPPmJ6OUTzOfC"
     },
     {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
-        "name": "M.P.3",
-        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
-      },
-      "artists": [
-        {
-          "name": "Mike Phillips",
-          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Gonna' Miss You",
-      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
-    },
-    {
       "added_at": "2022-08-05 04:02:00",
       "album": {
         "name": "Funky Fridays, Vol. 2",
@@ -1617,6 +1601,22 @@
       "url": "https://open.spotify.com/track/25Rnl8atJveD19RlPMnTCP"
     },
     {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "M.P.3",
+        "url": "https://open.spotify.com/album/5dHIYzhFckBVCZO7FTA5VN"
+      },
+      "artists": [
+        {
+          "name": "Mike Phillips",
+          "url": "https://open.spotify.com/artist/7qvPuqxswjsFxbsDUfaNGb"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Gonna' Miss You",
+      "url": "https://open.spotify.com/track/4TCscGfdcw4qamFgbtwBpA"
+    },
+    {
       "added_at": "2022-06-03 04:02:00",
       "album": {
         "name": "Say What",
@@ -1631,6 +1631,22 @@
       "duration_ms": 227077,
       "name": "Say What",
       "url": "https://open.spotify.com/track/7vrvAwJcZTprmPELVAPmir"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "Moment of Truth",
+        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
+      },
+      "artists": [
+        {
+          "name": "Neamen Lyles",
+          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
+        }
+      ],
+      "duration_ms": 263106,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
     },
     {
       "added_at": "2021-07-12 18:09:21",
@@ -1651,42 +1667,6 @@
     {
       "added_at": "2021-07-12 18:09:21",
       "album": {
-        "name": "Moment of Truth",
-        "url": "https://open.spotify.com/album/3K7UdIzAbmFjiP6bnMTjKd"
-      },
-      "artists": [
-        {
-          "name": "Neamen Lyles",
-          "url": "https://open.spotify.com/artist/0Yze9MrGrFuc5yMDqCwnVM"
-        }
-      ],
-      "duration_ms": 263106,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/16SqVat33WWYI4ebWf2iJq"
-    },
-    {
-      "added_at": "2022-07-15 04:02:00",
-      "album": {
-        "name": "Journey To Love",
-        "url": "https://open.spotify.com/album/6Aiv4objMa8nWGJxf83ht8"
-      },
-      "artists": [
-        {
-          "name": "Nathan Mitchell",
-          "url": "https://open.spotify.com/artist/3MFEZHs5sogmFDMISdJ5BX"
-        },
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 280625,
-      "name": "Journey To Love",
-      "url": "https://open.spotify.com/track/4RBYqegYxDPp6J7hPC70oS"
-    },
-    {
-      "added_at": "2021-07-12 18:09:21",
-      "album": {
         "name": "Prime Time",
         "url": "https://open.spotify.com/album/3eoSNLul2FSqaoQfsN7Gs1"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 239506,
       "name": "Prime Time",
       "url": "https://open.spotify.com/track/73y1mF0koz768FqU0BkgK5"
+    },
+    {
+      "added_at": "2021-07-12 18:09:21",
+      "album": {
+        "name": "City Life",
+        "url": "https://open.spotify.com/album/47q7hsJSojyhP4XbUPGkcP"
+      },
+      "artists": [
+        {
+          "name": "Michael Lington",
+          "url": "https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre"
+        },
+        {
+          "name": "Dave Stewart",
+          "url": "https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg"
+        }
+      ],
+      "duration_ms": 294346,
+      "name": "City Life",
+      "url": "https://open.spotify.com/track/0OXsI6rI38UK0QXVgaQ6yy"
     }
   ],
   "unique_name": "Sax and the City",

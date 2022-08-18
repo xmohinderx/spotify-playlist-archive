@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 
 > Spellistan för den svenska sommaren.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,406 likes - 56 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,417 likes - 56 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 9 | [Änglamark](https://open.spotify.com/track/1skhM0OBR7YCtT7FOgoJQL) | [Lisa Nilsson](https://open.spotify.com/artist/68QvqbdqwqqjW39YpUJHdG) | [Ingen gör det bättre](https://open.spotify.com/album/0Z6CdX7lZC4Tu3Sw7I4pbD) | 3:39 |
 | 10 | [Att angöra en brygga](https://open.spotify.com/track/4bpuchtERXyNXg6GegymSq) | [Monica Zetterlund](https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD) | [Midsommarklassiker 2021](https://open.spotify.com/album/5fAkO01sraQ7NUWqFdY7FV) | 2:34 |
 | 11 | [Om](https://open.spotify.com/track/3tgDP0BTRP10i4HkLlAER3) | [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu) | [Om](https://open.spotify.com/album/7gvTJrFo67qu7HrwRVYcLM) | 4:02 |
-| 12 | [Kung av sand](https://open.spotify.com/track/7C9SQqsckFfCu0lwcjoxNU) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [GT25 \- Samtliga Hits!](https://open.spotify.com/album/6TOhFPZivcvhJSINywnllA) | 4:37 |
+| 12 | [Kung av sand](https://open.spotify.com/track/2pIpooJWX5q8DIctvrdQP2) | [Gyllene Tider](https://open.spotify.com/artist/0FINyNBXqnTlRC4dvpSeSb) | [Konstpaus](https://open.spotify.com/album/2oyO3AERUiatly73ZCrWHW) | 4:39 |
 | 13 | [Visa vid vindens ängar](https://open.spotify.com/track/1JulpjKmGVrTro4b8s21mq) | [Håkan Hellström](https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc) | [Samlade singlar! 2000\-2010](https://open.spotify.com/album/0DTvpNaEOrs8sdkKUZYG1N) | 5:11 |
 | 14 | [Hon Kommer Med Solsken](https://open.spotify.com/track/0GdHzLwAZkDcJz6cAV0Qz9) | [Östen Med Resten](https://open.spotify.com/artist/20nKo8C8M0JpIznby9Dv5p) | [Greatest of the Best](https://open.spotify.com/album/03wYV1m0EmBAhtgVLvGNKn) | 2:55 |
 | 15 | [En dag på stranden](https://open.spotify.com/track/6dMvhYyfs0jNssQV69zrsY) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [Tillfälligheternas spel \(Jubileumsutgåva\)](https://open.spotify.com/album/2ag4brKtyNwj4RmEDCuQfz) | 4:18 |
@@ -65,4 +65,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZFVMeJPr1Z.md) - [plain]
 | 55 | [Idas sommarvisa](https://open.spotify.com/track/2RMsi5l0uQX4P02zNmuSIS) | [Alice Scherman](https://open.spotify.com/artist/0NInuq50w2W3MDM5kZfq7P) | [Idas sommarvisa](https://open.spotify.com/album/7lDGD4QOhMnMMD0Hq42Zy4) | 1:51 |
 | 56 | [Till Stockholms skärgård](https://open.spotify.com/track/3O2FOUxhhmq8dCxceTNG9k) | [Lasse Berghagen](https://open.spotify.com/artist/7kdGjv0IIQJcU2bth1yoqY) | [På begäran](https://open.spotify.com/album/2tKPZAWQQSlzMfc2sdQPoE) | 4:38 |
 
-Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDQyMjcxMTE3MDc3YWJlZGM4MTIxZTY3ZDViOWM1NWQ4`
+Snapshot ID: `MTU5NTUzMDMwMiwwMDAwMDAwMDdjNzY0YWUyODA2ZmIzMjhkODUwZDdlZGYzOWJiNWE3`

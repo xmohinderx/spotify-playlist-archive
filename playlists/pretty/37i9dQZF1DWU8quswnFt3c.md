@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nazia Hassan
 
-[Spotify](https://open.spotify.com/user/spotify) - 843,271 likes - 70 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 843,232 likes - 70 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 28 | [Come Apart](https://open.spotify.com/track/7uDPHQ8ZRfeqwmYGDGYAio) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Come Apart](https://open.spotify.com/album/7HFKrcFsBxZTbDd6kTYowF) | 3:04 |
 | 29 | [בימים ההם](https://open.spotify.com/track/6n0Rajp2KbX5X7HeJrAyrH) | [Odeya](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בימים ההם](https://open.spotify.com/album/3kyru2X7jEoQuScV2KmJVO) | 2:58 |
 | 30 | [Some Of Us Are Brave](https://open.spotify.com/track/076Ang4pgcByLvOEzNpW94) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/7jvUHQQ7qlH4aymSXEDMkn) | 3:53 |
-| 31 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
-| 32 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 |
+| 31 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 |
+| 32 | [Ley de Atracción](https://open.spotify.com/track/3Hg8KE0DQjo6aFJwFp2A8D) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Ley de Atracción](https://open.spotify.com/album/1uFe6wvy8CAtjsszaOVwNW) | 3:37 |
 | 33 | [MERICHANE](https://open.spotify.com/track/3o3YFP1o1SEb4Rh5jNkVT4) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 4:18 |
 | 34 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
 | 35 | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/track/6LJPpIlmgxeiJBP6AS1eh5) | [Milena Warthon](https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd) | [MARAVILLOSO \(Machu Picchu\)](https://open.spotify.com/album/6uvGQ1cg5yDn9AkPUsUVLR) | 3:02 |
@@ -52,13 +52,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 42 | [Azadî](https://open.spotify.com/track/4C79mdd7zUzW2hVwJmJLwk) | [Naaz](https://open.spotify.com/artist/736HGQRGr9rjG4VmmSpkz8) | [Azadî](https://open.spotify.com/album/6zJCr9aBd5PIt6ltumUA4O) | 3:21 |
 | 43 | [Wifey \- Feat\. Lil Keed](https://open.spotify.com/track/1F12ArAq906JEJhfLFuhYh) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj), [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29) | [Sweet My Life](https://open.spotify.com/album/5Tpk1oiARkbmnZZHNJJmmS) | 3:05 |
 | 44 | [No Me Gustan los Grises](https://open.spotify.com/track/3csSDv4S9IzB7FetDpBn66) | [Mery Granados](https://open.spotify.com/artist/0aJgv15DVDKvr0yWb5BzP1) | [No Me Gustan los Grises](https://open.spotify.com/album/2JzCk4SJDCnYXlP5RT6v4x) | 3:37 |
-| 45 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 |
-| 46 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
+| 45 | [heartache in july](https://open.spotify.com/track/42rTk25vRoiJUpBayPRaOR) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [born in the teens](https://open.spotify.com/album/7yrGizIEOMJb4ytbCOKhPn) | 3:13 |
+| 46 | [TWTC](https://open.spotify.com/track/2CsnWF7nKkLV2IS42BaTjS) | [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [TWTC](https://open.spotify.com/album/2wxaTB6AQkHZAvXemWJM8b) | 3:24 |
 | 47 | [An kapou kapou m' agapas](https://open.spotify.com/track/1iGn8Ro9AvGcgFC9Bpl4M1) | [Stefania](https://open.spotify.com/artist/0HZUhj5PZHzHMWSI4s8rOQ) | [An kapou kapou m' agapas](https://open.spotify.com/album/7LueUWaZS06KOtNLvQRK8J) | 3:12 |
 | 48 | [NA JAW](https://open.spotify.com/track/7dabUwTb0gLl974JRHxKNC) | [Dominika Plonka](https://open.spotify.com/artist/7CyMpvAC2CTnxaZVFh9aO8), [Miroff](https://open.spotify.com/artist/6BanFN5Xaq11YYRogYOtnD), [Wuja HZG](https://open.spotify.com/artist/5fvxRg4qqtJ72QdsCOotTj) | [NA JAW](https://open.spotify.com/album/2afUIxih65L6c308R5dZ1a) | 2:45 |
 | 49 | [Vanishing Love](https://open.spotify.com/track/63n0C5DD3gU1rUAfZ9pitu) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [Gei](https://open.spotify.com/album/2WJal4nsKHRiqSRiu8OBts) | 4:40 |
-| 50 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 |
-| 51 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 |
+| 50 | [Như Lời Đồn](https://open.spotify.com/track/5aUlYDU9wWSVPRdrbCSPHF) | [Bao Anh](https://open.spotify.com/artist/4fCHhderLwLacsIOIKgu3J) | [Như Lời Đồn](https://open.spotify.com/album/1Ljk64JLVQVnV9S0lWqPlZ) | 3:39 |
+| 51 | [No Fool](https://open.spotify.com/track/1HZQxsJHV5cZmSBZBDuhXH) | [Grace](https://open.spotify.com/artist/3GKpXtb9Zb3QvDg9uzNi98) | [No Fool](https://open.spotify.com/album/6RPCehQmjAX0JRR6z9oAyW) | 2:24 |
 | 52 | [Affable Dork](https://open.spotify.com/track/2gcYt3SKCNbXzCquDxDfDG) | [Clara Benin](https://open.spotify.com/artist/5ebPSE9YI5aLeZ1Z2gkqjn) | [Affable Dork](https://open.spotify.com/album/2Ocf5CSTHwhNfPeA173Tgo) | 4:19 |
 | 53 | [الوردة البيضا](https://open.spotify.com/track/506DZmhqvdH9574i9S5g5x) | [Zena Emad](https://open.spotify.com/artist/1MtoCzEftS4dUT2poujgbH) | [الوردة البيضا](https://open.spotify.com/album/2QsEDwrvsdqTbHXfOmdkGO) | 3:57 |
 | 54 | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/track/3elqH6YbzTGQtlYdlmIbZC) | [Cláudia Pascoal](https://open.spotify.com/artist/4mgrIhoYnm5QMXkDHhPaDJ) | [Eh Para a Frente, Eh Para trás](https://open.spotify.com/album/3srSDFJhgwBetFxmT1nvgM) | 3:31 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 64 | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/track/6SAwt2AylvrFdwzJg4va7U) | [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Iss Baarish Mein \(Neeti Mohan Version\)](https://open.spotify.com/album/6HOdxSKHk2VnInpw9sBbWi) | 4:09 |
 | 65 | [tricky situation](https://open.spotify.com/track/2RupwaICWPZgf5kK6WN9av) | [Ffion](https://open.spotify.com/artist/6gYn1myEM7sARWIoT2AVWG) | [tricky situation](https://open.spotify.com/album/3LxNmsxNPOgG5HoDATneGG) | 2:06 |
 | 66 | [Alchemy](https://open.spotify.com/track/4trTjRaAzPMQrAInUSEKZA) | [Sio](https://open.spotify.com/artist/4hIQjO5iXCXx71iZBQQ1Jh) | [Alchemy](https://open.spotify.com/album/0D8HrT2FaWgG6PBLxT6amn) | 2:25 |
-| 67 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
-| 68 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
-| 69 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
-| 70 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
+| 67 | [Khatt](https://open.spotify.com/track/7n6WZ6B685kKuhVsWCuZTe) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Khatt](https://open.spotify.com/album/5YE64t1MFZB7d5OOUGYAHq) | 3:52 |
+| 68 | [No More Doubt](https://open.spotify.com/track/4Oq69vJVrRt4Q5bSQhoeB4) | [Romane](https://open.spotify.com/artist/0n4XFcBXIvCkXZdXQFMigW) | [No More Doubt](https://open.spotify.com/album/2KYLphOnR1zIzSF26BCoBA) | 2:56 |
+| 69 | [TYF](https://open.spotify.com/track/5SCwhJYHypju5RCI7zgVk2) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [TYF](https://open.spotify.com/album/1Z3VaI95Uej1kjjtaKFamW) | 3:33 |
+| 70 | [จ๊วดหน้าฮ้าน](https://open.spotify.com/track/5JqNGI6DXY8GUxFqtz4EwG) | [Jintara Poonlarp](https://open.spotify.com/artist/3KlfbBoTPmF2TwJxFzveRI) | [จ๊วดหน้าฮ้าน](https://open.spotify.com/album/1NLzon0T0W1MGIIS7M05fR) | 5:02 |
 
-Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDNjYzE3ZGQyNDU0ZWRhN2ZkNDk0NGI1YzVjN2I1NDdh`
+Snapshot ID: `MTY1OTUyNjk4MSwwMDAwMDAwMDRkODEyNjJiYjAyYjgwOTI2ZDliN2U0NWJiZmQ2N2E4`

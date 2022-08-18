@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 
 > Only the hottest South African House and Dance singles out right now\. Cover: <a href="https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K?si=l71J8PpWRua6TAi1qSWMaA">DJ Kabila</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,843 likes - 74 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,881 likes - 74 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4IFcj5utrY.md) - [plain]
 | 6 | [S'khanyisele](https://open.spotify.com/track/45B0hJinafl61IjK5WOqFA) | [Senior Oat](https://open.spotify.com/artist/5cAwYPpCI9QI5V7N0mxUKw), [Sir Bless](https://open.spotify.com/artist/0vJss0iY4jFfFk1DQP3I2m) | [Thief In The Night](https://open.spotify.com/album/5qVSIkvWJAuaMVwBov8b0b) | 6:15 |
 | 7 | [Lover](https://open.spotify.com/track/6JMJPX4sm1QEmsKDp18rjZ) | [Dwson](https://open.spotify.com/artist/60ZIrIA1iT9NStXmdAuhjR), [Jullian Gomes](https://open.spotify.com/artist/1GG3lCU6RzggGm6w5GRQBi) | [Lover](https://open.spotify.com/album/01QoLhtw9fRGaQDkVtQdLR) | 7:06 |
 | 8 | [Don't Wanna Be Myself](https://open.spotify.com/track/5jJFXPFguqo6fZqqGggwuq) | [Pando G](https://open.spotify.com/artist/4nbklwOZ5lnv1otsaaDJZg) | [Don't Wanna Be Myself](https://open.spotify.com/album/1ewQWghR0AV0TnBaMpT0Ml) | 8:45 |
-| 9 | [Endaweni](https://open.spotify.com/track/6FERFGC2KvPaXzv5exZD2I) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [A New Dawn](https://open.spotify.com/album/1vO3FTTKTfx6e2K0nhPnpe) | 5:41 |
+| 9 | [Endaweni](https://open.spotify.com/track/6FERFGC2KvPaXzv5exZD2I) | [DJ Kabila](https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K), [Deep Narratives](https://open.spotify.com/artist/0H929hRKMr7lbGcVOx4Q4c), [Makhanj](https://open.spotify.com/artist/1uYUUIkkkal5V3mIqk6KnV) | [A New Dawn](https://open.spotify.com/album/1vO3FTTKTfx6e2K0nhPnpe) | 5:41 |
 | 10 | [Bloody Samaritan \(Sun\-El Musician Remix\)](https://open.spotify.com/track/78zI0cdKlSm8bmH8TWia6W) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6) | [Bloody Samaritan \(Sun\-El Musician Remix\)](https://open.spotify.com/album/2PxvoawD4ty9UnZhWylV0o) | 3:22 |
 | 11 | [Buya Faanaa](https://open.spotify.com/track/7ekBzUvEIfjA97jEfRN7QF) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Coolkruger](https://open.spotify.com/artist/4QetKXwMztESdkPNuBy1Wu), [Dj Couza](https://open.spotify.com/artist/4dAuZsVP2DOlv0mwtWEU1L) | [Groovy Since 90 Sumthin'](https://open.spotify.com/album/6RICRX15ckBZRTkleAgyPX) | 7:47 |
 | 12 | [iVolovolo](https://open.spotify.com/track/1JLoqwDcNStb1HgHAyxWsM) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq), [Michael King](https://open.spotify.com/artist/4QXIwYRu5HTQiTFYWl7Yri) | [iVolovolo](https://open.spotify.com/album/5EHqm4YXBZ0kQLObE0c7WR) | 7:30 |

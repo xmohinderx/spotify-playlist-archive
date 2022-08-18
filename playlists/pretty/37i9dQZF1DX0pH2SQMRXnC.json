@@ -1,12 +1,12 @@
 {
   "description": "Only the biggest Hardstyle tracks!",
-  "num_followers": 1024590,
+  "num_followers": 1025493,
   "original_name": "Hardstyle Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ4NTc3MCwwMDAwMDAwMDdkOWExNWI4MmFmNmYzMjMzYjhlNWJlZmEyNzc4MTlm",
+  "snapshot_id": "MTY1ODQ4NTc3MCwwMDAwMDAwMGEzOGNjNWQ1MTkyODNlOGU4MDU0NmViMWFlOTEyZmRj",
   "tracks": [
     {
       "added_at": "2022-07-22 10:29:30",
@@ -519,6 +519,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Invincible",
+        "url": "https://open.spotify.com/album/5T9ZLjYnXMrfmWx0Bif7Xh"
+      },
+      "artists": [
+        {
+          "name": "Neolux",
+          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
+        }
+      ],
+      "duration_ms": 177166,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/6GXB5IyqwhZMdyYqpPkW1X"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "Alone, Pt. II (Remixes)",
         "url": "https://open.spotify.com/album/2mxUoEbnEU5HQUApB1tm1X"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 222346,
       "name": "Alone, Pt. II - Da Tweekaz Remix",
       "url": "https://open.spotify.com/track/22iyqD0gyzWHy6oAvPVAWk"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Invincible",
-        "url": "https://open.spotify.com/album/5T9ZLjYnXMrfmWx0Bif7Xh"
-      },
-      "artists": [
-        {
-          "name": "Neolux",
-          "url": "https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ"
-        }
-      ],
-      "duration_ms": 177166,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/6GXB5IyqwhZMdyYqpPkW1X"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -619,26 +619,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "The Qontinent 2017",
-        "url": "https://open.spotify.com/album/4wFrgPwlJau4Zthm0bCqdu"
-      },
-      "artists": [
-        {
-          "name": "Darren Styles",
-          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
-        },
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        }
-      ],
-      "duration_ms": 222400,
-      "name": "Us Against The World (Da Tweekaz Remix)",
-      "url": "https://open.spotify.com/track/3uJnYKR844kT7MLpm0cquz"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Surrender (The Remixes)",
         "url": "https://open.spotify.com/album/3vZnfxMSVRnfrRoBmGfA1W"
       },
@@ -663,6 +643,26 @@
       "duration_ms": 204906,
       "name": "Surrender - Hixxy Remix",
       "url": "https://open.spotify.com/track/7qK0mNHVdVbnqt3Prd26Vs"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "The Qontinent 2017",
+        "url": "https://open.spotify.com/album/4wFrgPwlJau4Zthm0bCqdu"
+      },
+      "artists": [
+        {
+          "name": "Darren Styles",
+          "url": "https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "duration_ms": 222400,
+      "name": "Us Against The World (Da Tweekaz Remix)",
+      "url": "https://open.spotify.com/track/3uJnYKR844kT7MLpm0cquz"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -743,6 +743,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Feel Inside",
+        "url": "https://open.spotify.com/album/38hPyLLn3FqBEymQE2V5gj"
+      },
+      "artists": [
+        {
+          "name": "D-Block & S-te-Fan",
+          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Feel Inside",
+      "url": "https://open.spotify.com/track/52173U8Lw9eFYIQUGZUpQT"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "Infinity",
         "url": "https://open.spotify.com/album/0ZgC3V8ELGpS2jyC56AjpI"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 239812,
       "name": "Infinity",
       "url": "https://open.spotify.com/track/4oXfq53zABX3oq2fQ7zDzj"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Feel Inside",
-        "url": "https://open.spotify.com/album/38hPyLLn3FqBEymQE2V5gj"
-      },
-      "artists": [
-        {
-          "name": "D-Block & S-te-Fan",
-          "url": "https://open.spotify.com/artist/6L7a6wPGpvLtTwOsMLnF1z"
-        }
-      ],
-      "duration_ms": 195200,
-      "name": "Feel Inside",
-      "url": "https://open.spotify.com/track/52173U8Lw9eFYIQUGZUpQT"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
-        "url": "https://open.spotify.com/album/1ILd8VjhR9VV89Z5i8RAuO"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Warface",
-          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
-        }
-      ],
-      "duration_ms": 261182,
-      "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
-      "url": "https://open.spotify.com/track/7f8sMzOd2e5eHfiTqThjtQ"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Mellow",
         "url": "https://open.spotify.com/album/2uM2YRfQXxpsCjDxuZdqiY"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 169839,
       "name": "Mellow",
       "url": "https://open.spotify.com/track/6AQpd05OyowTvtO7I3BdBU"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
+        "url": "https://open.spotify.com/album/1ILd8VjhR9VV89Z5i8RAuO"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        }
+      ],
+      "duration_ms": 261182,
+      "name": "Intents HighScore (Official Intents Festival 2022 Anthem)",
+      "url": "https://open.spotify.com/track/7f8sMzOd2e5eHfiTqThjtQ"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -1255,6 +1255,26 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Superstring (Aftershock Remix)",
+        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
+      },
+      "artists": [
+        {
+          "name": "Cygnus X",
+          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
+        },
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        }
+      ],
+      "duration_ms": 144020,
+      "name": "Superstring - Aftershock Remix",
+      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "Silence (feat. Sarah McLachlan) [Brennan Heart Remix]",
         "url": "https://open.spotify.com/album/3hlMZy5Z5qZnMCzDkIc0Lr"
       },
@@ -1275,26 +1295,6 @@
       "duration_ms": 263453,
       "name": "Silence - Brennan Heart Remix",
       "url": "https://open.spotify.com/track/0cfxGRaCEFKwz66bURIYz5"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Superstring (Aftershock Remix)",
-        "url": "https://open.spotify.com/album/11wftEXsKjwB4ghjI5x15Y"
-      },
-      "artists": [
-        {
-          "name": "Cygnus X",
-          "url": "https://open.spotify.com/artist/2D507sfeGL9YBBsF5P2XcG"
-        },
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        }
-      ],
-      "duration_ms": 144020,
-      "name": "Superstring - Aftershock Remix",
-      "url": "https://open.spotify.com/track/7qyFlRMfN3B1eUXzKoVRw2"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Drift Away (Numa Numa Yay)",
-        "url": "https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2"
-      },
-      "artists": [
-        {
-          "name": "Refuzion",
-          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
-        }
-      ],
-      "duration_ms": 172422,
-      "name": "Drift Away (Numa Numa Yay)",
-      "url": "https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Summer Is Magic",
         "url": "https://open.spotify.com/album/39SCxlZlsWq36TfHa4rEVP"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 174504,
       "name": "Summer Is Magic",
       "url": "https://open.spotify.com/track/4fGMjp3k7d7OAx6y9zAIDN"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Drift Away (Numa Numa Yay)",
+        "url": "https://open.spotify.com/album/634u94Ov4HnrF8mXT88Mt2"
+      },
+      "artists": [
+        {
+          "name": "Refuzion",
+          "url": "https://open.spotify.com/artist/1BpCQRsYuiRg1TXKR2SQe1"
+        }
+      ],
+      "duration_ms": 172422,
+      "name": "Drift Away (Numa Numa Yay)",
+      "url": "https://open.spotify.com/track/5FvdZ8gbPKr6qfen05303Q"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -1827,42 +1827,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Orange Heart (feat. Sian Evans)",
-        "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
-      },
-      "artists": [
-        {
-          "name": "Headhunterz",
-          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
-        },
-        {
-          "name": "Sian Evans",
-          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
-        }
-      ],
-      "duration_ms": 230321,
-      "name": "Orange Heart",
-      "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Time Will Tell (Official Reverze Anthem 2022)",
-        "url": "https://open.spotify.com/album/4HAZqNT1tPZYKkVZf9gl4U"
-      },
-      "artists": [
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Time Will Tell (Official Reverze Anthem 2022)",
-      "url": "https://open.spotify.com/track/5iOnaHiwl3grSPx9zNTZy8"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "All Or Nothing",
         "url": "https://open.spotify.com/album/2Vu78SBKc1DAyOOShWdRHo"
       },
@@ -1887,6 +1851,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Time Will Tell (Official Reverze Anthem 2022)",
+        "url": "https://open.spotify.com/album/4HAZqNT1tPZYKkVZf9gl4U"
+      },
+      "artists": [
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Time Will Tell (Official Reverze Anthem 2022)",
+      "url": "https://open.spotify.com/track/5iOnaHiwl3grSPx9zNTZy8"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "The Wellerman (Sea Shanty)",
         "url": "https://open.spotify.com/album/1c5f9Qa41aKzuko7bNsxJW"
       },
@@ -1899,6 +1879,26 @@
       "duration_ms": 216049,
       "name": "The Wellerman (Sea Shanty)",
       "url": "https://open.spotify.com/track/2TS8X1CY0G0sThZ80PupZ5"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Orange Heart (feat. Sian Evans)",
+        "url": "https://open.spotify.com/album/1AjWr3eqVWrYD0cUB9buhr"
+      },
+      "artists": [
+        {
+          "name": "Headhunterz",
+          "url": "https://open.spotify.com/artist/6C0KWmCdqrLU2LzzWBPbOy"
+        },
+        {
+          "name": "Sian Evans",
+          "url": "https://open.spotify.com/artist/2DTw633fgdoxrqv7uPdcCw"
+        }
+      ],
+      "duration_ms": 230321,
+      "name": "Orange Heart",
+      "url": "https://open.spotify.com/track/5pwVSplL0EaOyuTphPipJX"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2147,30 +2147,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "6OKI - Rave Royale EP",
-        "url": "https://open.spotify.com/album/11ibpJAfVHfwyqFOsKVenu"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Brennan Heart",
-          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 190400,
-      "name": "Close to You (feat. PollyAnna)",
-      "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Demons (Restrained Remix)",
         "url": "https://open.spotify.com/album/7FHacZmnEKvYtAybE9S7CU"
       },
@@ -2191,6 +2167,30 @@
       "duration_ms": 240000,
       "name": "Demons - Restrained Remix",
       "url": "https://open.spotify.com/track/4cN1uno0iSzRsOOSE4NvF9"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "6OKI - Rave Royale EP",
+        "url": "https://open.spotify.com/album/11ibpJAfVHfwyqFOsKVenu"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Brennan Heart",
+          "url": "https://open.spotify.com/artist/5QySqc6yAFDx9m7fedFZmC"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 190400,
+      "name": "Close to You (feat. PollyAnna)",
+      "url": "https://open.spotify.com/track/4gEC7He07d6cuzkQ7MSobQ"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2415,22 +2415,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "The Hymn Of Nivoria",
-        "url": "https://open.spotify.com/album/0PtV7fwlczsaljzUDngApT"
-      },
-      "artists": [
-        {
-          "name": "NIVIRO",
-          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
-        }
-      ],
-      "duration_ms": 187678,
-      "name": "The Hymn Of Nivoria",
-      "url": "https://open.spotify.com/track/0kd4QYttPngU4rG9fekZvj"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Deep End (Maxtreme Remix)",
         "url": "https://open.spotify.com/album/503FY6ehD3u23Sa66wdJIC"
       },
@@ -2451,6 +2435,22 @@
       "duration_ms": 183967,
       "name": "Deep End - Maxtreme Remix",
       "url": "https://open.spotify.com/track/3eKF84e3XvQjaKoPYMbBk1"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "The Hymn Of Nivoria",
+        "url": "https://open.spotify.com/album/0PtV7fwlczsaljzUDngApT"
+      },
+      "artists": [
+        {
+          "name": "NIVIRO",
+          "url": "https://open.spotify.com/artist/2nsCjA4fEasmnlOK0wXU7T"
+        }
+      ],
+      "duration_ms": 187678,
+      "name": "The Hymn Of Nivoria",
+      "url": "https://open.spotify.com/track/0kd4QYttPngU4rG9fekZvj"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2575,22 +2575,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "I'm Alive",
-        "url": "https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU"
-      },
-      "artists": [
-        {
-          "name": "Adaro",
-          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
-        }
-      ],
-      "duration_ms": 224903,
-      "name": "I'm Alive - Rebirth Anthem 2019",
-      "url": "https://open.spotify.com/track/749ZUdCd2sGwGZfAPnZJos"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Coming Down",
         "url": "https://open.spotify.com/album/3StePv0Tk2zKECoflkvmp7"
       },
@@ -2607,6 +2591,22 @@
       "duration_ms": 165011,
       "name": "Coming Down",
       "url": "https://open.spotify.com/track/4gobxfa0JUTV1riZfyHSqm"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "I'm Alive",
+        "url": "https://open.spotify.com/album/4aAyxSa4XSM2Bi3qjr99LU"
+      },
+      "artists": [
+        {
+          "name": "Adaro",
+          "url": "https://open.spotify.com/artist/05ndiewdJogtosuRWN8iwF"
+        }
+      ],
+      "duration_ms": 224903,
+      "name": "I'm Alive - Rebirth Anthem 2019",
+      "url": "https://open.spotify.com/track/749ZUdCd2sGwGZfAPnZJos"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2671,22 +2671,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "F.O.O.L.",
-        "url": "https://open.spotify.com/album/6LF2nUkqmDjMNBwpQEwt0z"
+        "name": "Remedy",
+        "url": "https://open.spotify.com/album/08Avi9VPyYA3rw9h1k8Cdy"
       },
       "artists": [
         {
-          "name": "LNY TNZ",
-          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+          "name": "D-Charged",
+          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
         },
         {
-          "name": "Sarah de Warren",
-          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+          "name": "John Harris",
+          "url": "https://open.spotify.com/artist/1pDBb4n20yenVKIfmchhQC"
         }
       ],
-      "duration_ms": 185810,
-      "name": "F.O.O.L. - Hard Mix",
-      "url": "https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH"
+      "duration_ms": 153870,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/31q4Bx8xOt4bdSHZnV7kvF"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2711,22 +2711,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/4ujFvZaPhjUdCnnBbJPWP9"
+        "name": "F.O.O.L.",
+        "url": "https://open.spotify.com/album/6LF2nUkqmDjMNBwpQEwt0z"
       },
       "artists": [
         {
-          "name": "Elle Mariachi",
-          "url": "https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY"
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
         },
         {
-          "name": "TuneSquad",
-          "url": "https://open.spotify.com/artist/39YVoF5k7dLHrgSGfHu5Gm"
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
         }
       ],
-      "duration_ms": 250312,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/1bW1Y5WzeOiKXsJQGCYlVr"
+      "duration_ms": 185810,
+      "name": "F.O.O.L. - Hard Mix",
+      "url": "https://open.spotify.com/track/5PaX3RxYZKeqIZzuC2vtOH"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2747,22 +2747,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Freaky",
-        "url": "https://open.spotify.com/album/4TtC0lDNUVHwq8UG85RTVO"
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/4ujFvZaPhjUdCnnBbJPWP9"
       },
       "artists": [
         {
-          "name": "Basslovers United",
-          "url": "https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu"
+          "name": "Elle Mariachi",
+          "url": "https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY"
         },
         {
-          "name": "Grrtz",
-          "url": "https://open.spotify.com/artist/170bgKr0pCqYU077RSuzqQ"
+          "name": "TuneSquad",
+          "url": "https://open.spotify.com/artist/39YVoF5k7dLHrgSGfHu5Gm"
         }
       ],
-      "duration_ms": 208700,
-      "name": "Freaky",
-      "url": "https://open.spotify.com/track/2fd3xKY5HZZKaS9Ynvynb1"
+      "duration_ms": 250312,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/1bW1Y5WzeOiKXsJQGCYlVr"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2787,22 +2787,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Remedy",
-        "url": "https://open.spotify.com/album/08Avi9VPyYA3rw9h1k8Cdy"
+        "name": "Freaky",
+        "url": "https://open.spotify.com/album/4TtC0lDNUVHwq8UG85RTVO"
       },
       "artists": [
         {
-          "name": "D-Charged",
-          "url": "https://open.spotify.com/artist/6bPXSfsHFvyltUwfqUrrLy"
+          "name": "Basslovers United",
+          "url": "https://open.spotify.com/artist/4KpgeSLtjj0txr6drzaedu"
         },
         {
-          "name": "John Harris",
-          "url": "https://open.spotify.com/artist/1pDBb4n20yenVKIfmchhQC"
+          "name": "Grrtz",
+          "url": "https://open.spotify.com/artist/170bgKr0pCqYU077RSuzqQ"
         }
       ],
-      "duration_ms": 153870,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/31q4Bx8xOt4bdSHZnV7kvF"
+      "duration_ms": 208700,
+      "name": "Freaky",
+      "url": "https://open.spotify.com/track/2fd3xKY5HZZKaS9Ynvynb1"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -2843,22 +2843,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Everybody Dance Now",
-        "url": "https://open.spotify.com/album/1eypUs5ufFH95SbyMMW7kP"
-      },
-      "artists": [
-        {
-          "name": "Primeshock",
-          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
-        }
-      ],
-      "duration_ms": 206900,
-      "name": "Everybody Dance Now",
-      "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Still Alive",
         "url": "https://open.spotify.com/album/6ZwW3ENnDYQqafmExvEhuy"
       },
@@ -2871,6 +2855,22 @@
       "duration_ms": 201804,
       "name": "Still Alive",
       "url": "https://open.spotify.com/track/0ZFbjz111lD5ZmCweY4iV9"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Everybody Dance Now",
+        "url": "https://open.spotify.com/album/1eypUs5ufFH95SbyMMW7kP"
+      },
+      "artists": [
+        {
+          "name": "Primeshock",
+          "url": "https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS"
+        }
+      ],
+      "duration_ms": 206900,
+      "name": "Everybody Dance Now",
+      "url": "https://open.spotify.com/track/2KhdaSCtP7AXW4x9WypfxU"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3263,26 +3263,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/377OkXqXNCNsUNiArXIVq7"
-      },
-      "artists": [
-        {
-          "name": "Rebelion",
-          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
-        },
-        {
-          "name": "Ava Silver",
-          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
-        }
-      ],
-      "duration_ms": 190665,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/0CPePM7Vm5XUp2n66otp8s"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Hard 2 Hire",
         "url": "https://open.spotify.com/album/7fuqKRuqVsjekxjCpdMdly"
       },
@@ -3299,6 +3279,26 @@
       "duration_ms": 241333,
       "name": "Hard 2 Hire",
       "url": "https://open.spotify.com/track/1OB78PnhUrUSmzDHgitVSD"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/377OkXqXNCNsUNiArXIVq7"
+      },
+      "artists": [
+        {
+          "name": "Rebelion",
+          "url": "https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg"
+        },
+        {
+          "name": "Ava Silver",
+          "url": "https://open.spotify.com/artist/0l6LU5NRvLTVeRDJZznwLX"
+        }
+      ],
+      "duration_ms": 190665,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/0CPePM7Vm5XUp2n66otp8s"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3447,26 +3447,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "Kingdom Comes",
-        "url": "https://open.spotify.com/album/4d6cq051HQEbbU1hvepc7I"
-      },
-      "artists": [
-        {
-          "name": "KELTEK",
-          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
-        },
-        {
-          "name": "Diandra Faye",
-          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
-        }
-      ],
-      "duration_ms": 218157,
-      "name": "Kingdom Comes",
-      "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "Reach For The Sky",
         "url": "https://open.spotify.com/album/2kQNfDNKvA4aRSUvxIkgdU"
       },
@@ -3483,6 +3463,26 @@
       "duration_ms": 167612,
       "name": "Reach For The Sky",
       "url": "https://open.spotify.com/track/3XyMLRRZvxj3dhHdgVoTyv"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Kingdom Comes",
+        "url": "https://open.spotify.com/album/4d6cq051HQEbbU1hvepc7I"
+      },
+      "artists": [
+        {
+          "name": "KELTEK",
+          "url": "https://open.spotify.com/artist/1Od0hPnXSqA9pipLqNXJ7e"
+        },
+        {
+          "name": "Diandra Faye",
+          "url": "https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q"
+        }
+      ],
+      "duration_ms": 218157,
+      "name": "Kingdom Comes",
+      "url": "https://open.spotify.com/track/3pr7N1tEtoQbJUlediJWJ3"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3635,26 +3635,6 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
-        "name": "The Master",
-        "url": "https://open.spotify.com/album/6eo5n6UR0mhrVUVr0ef8pj"
-      },
-      "artists": [
-        {
-          "name": "Jebroer",
-          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
-        },
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        }
-      ],
-      "duration_ms": 187227,
-      "name": "The Master",
-      "url": "https://open.spotify.com/track/0zP1BZps3Or5ukfRZDwTjt"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
         "name": "All On Me (Remixes)",
         "url": "https://open.spotify.com/album/5vXuvCkxNiWXOb3NFndpHt"
       },
@@ -3679,6 +3659,26 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "The Master",
+        "url": "https://open.spotify.com/album/6eo5n6UR0mhrVUVr0ef8pj"
+      },
+      "artists": [
+        {
+          "name": "Jebroer",
+          "url": "https://open.spotify.com/artist/7jp5R1aY7kmwBYX3jIu9yk"
+        },
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        }
+      ],
+      "duration_ms": 187227,
+      "name": "The Master",
+      "url": "https://open.spotify.com/track/0zP1BZps3Or5ukfRZDwTjt"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "A New Dawn",
         "url": "https://open.spotify.com/album/6rLCvkI1WfZ0j4X5QRCYy4"
       },
@@ -3699,6 +3699,22 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Insomnia",
+        "url": "https://open.spotify.com/album/1f2gYX8iI0VFDCk51Okbxw"
+      },
+      "artists": [
+        {
+          "name": "Hypnose",
+          "url": "https://open.spotify.com/artist/2UBCeOEjEhqNkm6IFzVV4D"
+        }
+      ],
+      "duration_ms": 152008,
+      "name": "Insomnia",
+      "url": "https://open.spotify.com/track/3UzPphFplwF1AS1tjyrbtp"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "FUTS (Fuck Up The Speakers)",
         "url": "https://open.spotify.com/album/0m2G7Wr6gUg2j1eu9ckYnM"
       },
@@ -3715,22 +3731,6 @@
       "duration_ms": 221216,
       "name": "FUTS - Fuck Up The Speakers",
       "url": "https://open.spotify.com/track/0lb7jsjOwUPEtb6uaGDfLN"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Insomnia",
-        "url": "https://open.spotify.com/album/1f2gYX8iI0VFDCk51Okbxw"
-      },
-      "artists": [
-        {
-          "name": "Hypnose",
-          "url": "https://open.spotify.com/artist/2UBCeOEjEhqNkm6IFzVV4D"
-        }
-      ],
-      "duration_ms": 152008,
-      "name": "Insomnia",
-      "url": "https://open.spotify.com/track/3UzPphFplwF1AS1tjyrbtp"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3767,6 +3767,26 @@
     {
       "added_at": "2022-07-22 10:29:30",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm"
+      },
+      "artists": [
+        {
+          "name": "TCM",
+          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
+        },
+        {
+          "name": "Anklebreaker",
+          "url": "https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC"
+        }
+      ],
+      "duration_ms": 184837,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
         "name": "Trip To Tomorrow",
         "url": "https://open.spotify.com/album/54eWpBGnOsZkADEGirKRLd"
       },
@@ -3791,26 +3811,6 @@
       "duration_ms": 179500,
       "name": "High From It (Coone & Sephyx Remix)",
       "url": "https://open.spotify.com/track/3XussQ7yygu3uoAPEDlwhi"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/4Ov2ROEu45kJN8JsKGoXJm"
-      },
-      "artists": [
-        {
-          "name": "TCM",
-          "url": "https://open.spotify.com/artist/26JDxOz4FrVBX1AquFCzdp"
-        },
-        {
-          "name": "Anklebreaker",
-          "url": "https://open.spotify.com/artist/33SlSV9Phemrs59SmjA2QC"
-        }
-      ],
-      "duration_ms": 184837,
-      "name": "Need You Now",
-      "url": "https://open.spotify.com/track/1Ic64CNrb7cZXrClDYDjpV"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3851,6 +3851,22 @@
       "duration_ms": 181224,
       "name": "Speaker Test - Pherato Remix",
       "url": "https://open.spotify.com/track/5GsJhXlbmAr6rSkAd9j2W9"
+    },
+    {
+      "added_at": "2022-07-22 10:29:30",
+      "album": {
+        "name": "Hit 'Em",
+        "url": "https://open.spotify.com/album/5pZ7OHl8T2iycRLdBTwMvR"
+      },
+      "artists": [
+        {
+          "name": "Refract",
+          "url": "https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm"
+        }
+      ],
+      "duration_ms": 180761,
+      "name": "Hit 'Em",
+      "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
     },
     {
       "added_at": "2022-07-22 10:29:30",
@@ -3903,22 +3919,6 @@
       "duration_ms": 178717,
       "name": "Bodyshock",
       "url": "https://open.spotify.com/track/5OJCdGZbGPWPLqxQrEf1tS"
-    },
-    {
-      "added_at": "2022-07-22 10:29:30",
-      "album": {
-        "name": "Hit 'Em",
-        "url": "https://open.spotify.com/album/5pZ7OHl8T2iycRLdBTwMvR"
-      },
-      "artists": [
-        {
-          "name": "Refract",
-          "url": "https://open.spotify.com/artist/41lWiT1FGPMHKu8DEoOMGm"
-        }
-      ],
-      "duration_ms": 180761,
-      "name": "Hit 'Em",
-      "url": "https://open.spotify.com/track/06wgx2IGE8gme8tJpQQtVk"
     },
     {
       "added_at": "2022-07-22 10:29:30",

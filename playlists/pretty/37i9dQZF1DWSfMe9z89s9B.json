@@ -1,12 +1,12 @@
 {
   "description": "These progressive R&B and soul tracks can't be put in a box. Cover: Greek",
-  "num_followers": 1286571,
+  "num_followers": 1286779,
   "original_name": "Alternative R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyODcxMCwwMDAwMDAwMDdmYzJiN2QwZWIyZDMzMGUxMzZmZjQ3OWE0ZjI5MGQ4",
+  "snapshot_id": "MTY2MDMyODcxMCwwMDAwMDAwMDA0NmIwODA2Y2YwZjRiYzU5YjQ3OTM3YzVlZjBlNTdm",
   "tracks": [
     {
       "added_at": "2022-07-24 03:13:05",
@@ -27,7 +27,7 @@
     {
       "added_at": "2022-08-05 04:14:30",
       "album": {
-        "name": "Pigeons & Planes & Big.Ass.Kids present: See You Next Year",
+        "name": "Pigeons & Planes presents: See You Next Year",
         "url": "https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm"
       },
       "artists": [
@@ -773,26 +773,6 @@
       "url": "https://open.spotify.com/track/2qEyhtx20tSCSubM3JXhxu"
     },
     {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "All Masks",
-        "url": "https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
-        },
-        {
-          "name": "Masego",
-          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
-        }
-      ],
-      "duration_ms": 270118,
-      "name": "All Masks [Feat. Masego]",
-      "url": "https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en"
-    },
-    {
       "added_at": "2022-06-10 04:00:00",
       "album": {
         "name": "AZEB - EP",
@@ -827,6 +807,26 @@
       "duration_ms": 216760,
       "name": "careless (feat. daniel caesar)",
       "url": "https://open.spotify.com/track/3xqtvSfofDvSMVwwSbuvKi"
+    },
+    {
+      "added_at": "2022-07-29 04:14:33",
+      "album": {
+        "name": "All Masks",
+        "url": "https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Masego",
+          "url": "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        }
+      ],
+      "duration_ms": 270118,
+      "name": "All Masks [Feat. Masego]",
+      "url": "https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -911,6 +911,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "moonlit room",
+        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
+      },
+      "artists": [
+        {
+          "name": "UMI",
+          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
+        }
+      ],
+      "duration_ms": 250679,
+      "name": "moonlit room",
+      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "Most Wanted (Deluxe)",
         "url": "https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 221538,
       "name": "Ease Up",
       "url": "https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "moonlit room",
-        "url": "https://open.spotify.com/album/4fNpiEQNMa4ehobympXbQi"
-      },
-      "artists": [
-        {
-          "name": "UMI",
-          "url": "https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde"
-        }
-      ],
-      "duration_ms": 250679,
-      "name": "moonlit room",
-      "url": "https://open.spotify.com/track/5KzBH7THRVKCCmkMp1tazw"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/2UFymEI5CxaY7RFcn0SFaz"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Three Dimensions Deep",
-        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
-      },
-      "artists": [
-        {
-          "name": "Amber Mark",
-          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
-        }
-      ],
-      "duration_ms": 173774,
-      "name": "Bliss",
-      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
-    },
-    {
       "added_at": "2022-07-24 02:54:27",
       "album": {
         "name": "Sinner",
@@ -1119,22 +1103,18 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "Buzzed",
-        "url": "https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9"
+        "name": "Three Dimensions Deep",
+        "url": "https://open.spotify.com/album/1S8KMYJE7raT6e6hfPRLUU"
       },
       "artists": [
         {
-          "name": "\u00bfT\u00e9o?",
-          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
-        },
-        {
-          "name": "WILLOW",
-          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+          "name": "Amber Mark",
+          "url": "https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu"
         }
       ],
-      "duration_ms": 159732,
-      "name": "Buzzed",
-      "url": "https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT"
+      "duration_ms": 173774,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/4Csvnz7PR04ttCcDAhUz6o"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1155,6 +1135,26 @@
       "duration_ms": 148280,
       "name": "Avalanche",
       "url": "https://open.spotify.com/track/1zm4wE5UxlqWMkaGWcopsj"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Buzzed",
+        "url": "https://open.spotify.com/album/4JGWwlyl97ylcdcuU8IVS9"
+      },
+      "artists": [
+        {
+          "name": "\u00bfT\u00e9o?",
+          "url": "https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u"
+        },
+        {
+          "name": "WILLOW",
+          "url": "https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF"
+        }
+      ],
+      "duration_ms": 159732,
+      "name": "Buzzed",
+      "url": "https://open.spotify.com/track/125DSBjIfOOCkmyRukprZT"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1195,6 +1195,26 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "Tell Me Why",
+        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        },
+        {
+          "name": "SABRI",
+          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+        }
+      ],
+      "duration_ms": 188200,
+      "name": "Tell Me Why",
+      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "Daygo (w/ gianni & kyle)",
         "url": "https://open.spotify.com/album/0GGqUvHTZgiXPDnIsed3Gz"
       },
@@ -1213,24 +1233,20 @@
       "url": "https://open.spotify.com/track/1cXbG5cSc9jJMCyW2VnBBv"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-29 04:14:33",
       "album": {
-        "name": "Tell Me Why",
-        "url": "https://open.spotify.com/album/0g8h1QxnKUsfnEgVwKTuJN"
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
       },
       "artists": [
         {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        },
-        {
-          "name": "SABRI",
-          "url": "https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5"
+          "name": "Unusual Demont",
+          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
         }
       ],
-      "duration_ms": 188200,
-      "name": "Tell Me Why",
-      "url": "https://open.spotify.com/track/75QLOfbDw2IyEuY5OZWV5r"
+      "duration_ms": 114416,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1267,22 +1283,6 @@
       "duration_ms": 101298,
       "name": "slideshow",
       "url": "https://open.spotify.com/track/1NxCtk7ybnoLfNBBnMg5oM"
-    },
-    {
-      "added_at": "2022-07-29 04:14:33",
-      "album": {
-        "name": "Sugar",
-        "url": "https://open.spotify.com/album/4bPrS4muAMw2G5M6ARaZ01"
-      },
-      "artists": [
-        {
-          "name": "Unusual Demont",
-          "url": "https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR"
-        }
-      ],
-      "duration_ms": 114416,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/5KfUqRRbm6ACSzLxUS57R2"
     },
     {
       "added_at": "2022-07-15 04:02:46",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
+        "name": "Bruises",
+        "url": "https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0"
+      },
+      "artists": [
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        }
+      ],
+      "duration_ms": 266859,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
         "name": "HAZY",
         "url": "https://open.spotify.com/album/0UnN9OMzVQv5lO3yo7tWGN"
       },
@@ -1383,38 +1399,6 @@
       "duration_ms": 168746,
       "name": "HAZY",
       "url": "https://open.spotify.com/track/6zlIN2RRLiNzitagYR44m0"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
-        "name": "Bruises",
-        "url": "https://open.spotify.com/album/3nS5kN4xG8OhNbR7xmdfX0"
-      },
-      "artists": [
-        {
-          "name": "Jordan Rakei",
-          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
-        }
-      ],
-      "duration_ms": 266859,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4zuzAypEjNbmkfpMaef7AB"
-    },
-    {
-      "added_at": "2022-07-22 04:15:47",
-      "album": {
-        "name": "Unless",
-        "url": "https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague"
-      },
-      "artists": [
-        {
-          "name": "Che Ecru",
-          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
-        }
-      ],
-      "duration_ms": 96806,
-      "name": "Unless",
-      "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
     },
     {
       "added_at": "2022-06-10 04:00:00",
@@ -1437,6 +1421,22 @@
       "url": "https://open.spotify.com/track/3IQ6PPDCEJBRFiqUCWeyI0"
     },
     {
+      "added_at": "2022-07-22 04:15:47",
+      "album": {
+        "name": "Unless",
+        "url": "https://open.spotify.com/album/69NeEDtsHX9D4Nq6YHague"
+      },
+      "artists": [
+        {
+          "name": "Che Ecru",
+          "url": "https://open.spotify.com/artist/45AMD9qU0ERQY5RvR7deHR"
+        }
+      ],
+      "duration_ms": 96806,
+      "name": "Unless",
+      "url": "https://open.spotify.com/track/2K6Qg2lX5mUb11no6S5Ma0"
+    },
+    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "flora + fana",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "R&B?",
-        "url": "https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz"
-      },
-      "artists": [
-        {
-          "name": "Tierra Whack",
-          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
-        }
-      ],
-      "duration_ms": 179439,
-      "name": "Heaven",
-      "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Party Sickness",
         "url": "https://open.spotify.com/album/0fwHTsZvukaWOUHCbSQhJf"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 229414,
       "name": "Party Sickness",
       "url": "https://open.spotify.com/track/06DcUBxCvBAqvWgpExtbLE"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "R&B?",
+        "url": "https://open.spotify.com/album/1OTZupPjEaLRA8mbO4qvKz"
+      },
+      "artists": [
+        {
+          "name": "Tierra Whack",
+          "url": "https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh"
+        }
+      ],
+      "duration_ms": 179439,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/5RMe2tA7RRyWP3cb3upPLd"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2022-06-10 04:00:00",
       "album": {
-        "name": "either side",
-        "url": "https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX"
-      },
-      "artists": [
-        {
-          "name": "LOONY",
-          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
-        }
-      ],
-      "duration_ms": 167213,
-      "name": "either side",
-      "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
-    },
-    {
-      "added_at": "2022-06-10 04:00:00",
-      "album": {
         "name": "Problems",
         "url": "https://open.spotify.com/album/1Ez1yDVUqoT3HuUtiZuThL"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 154768,
       "name": "Problems",
       "url": "https://open.spotify.com/track/2iq4Pc3NhTJU466gppAKCX"
+    },
+    {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "either side",
+        "url": "https://open.spotify.com/album/7EcfkZxkjFLn0FASWQmFkX"
+      },
+      "artists": [
+        {
+          "name": "LOONY",
+          "url": "https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0"
+        }
+      ],
+      "duration_ms": 167213,
+      "name": "either side",
+      "url": "https://open.spotify.com/track/6ktq7bBlxFi3aPexm5N31m"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1585,6 +1585,22 @@
       "url": "https://open.spotify.com/track/7iaCPgRVRsp2gjBlLhG91s"
     },
     {
+      "added_at": "2022-06-10 04:00:00",
+      "album": {
+        "name": "Home Maker",
+        "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
+      },
+      "artists": [
+        {
+          "name": "Sudan Archives",
+          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+        }
+      ],
+      "duration_ms": 232967,
+      "name": "Home Maker (Edit)",
+      "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
+    },
+    {
       "added_at": "2022-07-15 04:02:46",
       "album": {
         "name": "Nothing",
@@ -1601,20 +1617,20 @@
       "url": "https://open.spotify.com/track/0Eto5S71KnEkPzmFGUM6TM"
     },
     {
-      "added_at": "2022-06-10 04:00:00",
+      "added_at": "2022-07-15 04:02:46",
       "album": {
-        "name": "Home Maker",
-        "url": "https://open.spotify.com/album/65DXmlrnWyJwqelAyE4JrU"
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
       },
       "artists": [
         {
-          "name": "Sudan Archives",
-          "url": "https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u"
+          "name": "Khi Infinite",
+          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
         }
       ],
-      "duration_ms": 232967,
-      "name": "Home Maker (Edit)",
-      "url": "https://open.spotify.com/track/5rFtI5SpdK3VT7vmd0GAhs"
+      "duration_ms": 163725,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
     },
     {
       "added_at": "2022-07-29 04:14:33",
@@ -1651,22 +1667,6 @@
       "duration_ms": 256000,
       "name": "Heatwave",
       "url": "https://open.spotify.com/track/5NPNg1glR6Mo2zprm832qW"
-    },
-    {
-      "added_at": "2022-07-15 04:02:46",
-      "album": {
-        "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/5iigwSrb7BkMa9Flopzkr8"
-      },
-      "artists": [
-        {
-          "name": "Khi Infinite",
-          "url": "https://open.spotify.com/artist/6wthNkb9tOcsMdNtrHI5vs"
-        }
-      ],
-      "duration_ms": 163725,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/7LKeX6HZw7lSSlaLRGMWWY"
     },
     {
       "added_at": "2022-07-15 04:02:46",

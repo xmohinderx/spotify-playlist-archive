@@ -56,6 +56,28 @@
     },
     {
       "album": {
+        "name": "202 (Speed)",
+        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142006,
+      "name": "202 - Speed",
+      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
+    },
+    {
+      "album": {
         "name": "ACORDA PEDRINHO",
         "url": "https://open.spotify.com/album/3zYKRs5QY4f5B66TTAg3p6"
       },
@@ -132,6 +154,24 @@
     },
     {
       "album": {
+        "name": "Anestesiado",
+        "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
+      },
+      "artists": [
+        {
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174786,
+      "name": "Anestesiado",
+      "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
+    },
+    {
+      "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
       },
@@ -161,7 +201,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 229173,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
@@ -767,7 +807,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 202907,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
@@ -1175,7 +1215,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 195120,
       "name": "Notion",
       "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
@@ -1315,7 +1355,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 207413,
       "name": "Over",
       "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
@@ -1527,7 +1567,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 96825,
       "name": "Rocking A Cardigan in Atlanta",
       "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
@@ -1629,7 +1669,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 180645,
       "name": "Senta Danadinha",
       "url": "https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m"
@@ -1829,7 +1869,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 232146,
       "name": "Something In The Way",
       "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
@@ -2135,7 +2175,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 168066,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"

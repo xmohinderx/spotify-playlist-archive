@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 
 > La esquina donde la Música Mexicana se junta con los ritmos urbanos\. Lefty SM & Santa RM en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,607 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,774 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYp0EKplWoKi.md) - [plain]
 | 47 | [Relojito Adiamantado](https://open.spotify.com/track/1r9My2hXZ2Bc1OiN7YPii6) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Relojito Adiamantado](https://open.spotify.com/album/3GjHAOsVfsiYb698EgpzEm) | 2:58 |
 | 48 | [Aunque Me Llames](https://open.spotify.com/track/2Ni9hThJLlN7FYiZCc5Hje) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Aunque Me Llames](https://open.spotify.com/album/77XOAYM4BA0PdRbPLKs8d8) | 4:58 |
 | 49 | [Contigo No Fue](https://open.spotify.com/track/24KGKNglICq4YhNvaZfkA7) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [La Cotorrisa](https://open.spotify.com/artist/72j1bOj19ZViXuyppnx5tJ), [Strecci](https://open.spotify.com/artist/7p1l2K7lVH2v4hrT3Y3tOv) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:49 |
-| 50 | [Me Falta la Mitad](https://open.spotify.com/track/6kYCW00ZxqKBbtx7y4r4Dd) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Falta la Mitad](https://open.spotify.com/album/1LeGs6JDRdZ9C8O7T52ddQ) | 3:15 |
+| 50 | [Me Falta la Mitad](https://open.spotify.com/track/6kYCW00ZxqKBbtx7y4r4Dd) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Me Falta la Mitad](https://open.spotify.com/album/1LeGs6JDRdZ9C8O7T52ddQ) | 3:18 |
 
 Snapshot ID: `MTY1OTY3NTYwMCwwMDAwMDAwMDViMmNjYTI1YWY5NWYxYjkwNDAzODI4YWRjY2FhODRk`

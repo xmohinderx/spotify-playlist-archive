@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 
 > 100 uplifting and happy songs to get you smiling, put a spring in your step &amp; lift your mood
 
-[Topsify](https://open.spotify.com/user/topsify) - 503,473 likes - 100 songs - 5 hr 52 min
+[Topsify](https://open.spotify.com/user/topsify) - 503,471 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/6Qf2sXTjlH3HH30Ijo6AUp.md) - [plain]
 | 99 | [Into the Groove](https://open.spotify.com/track/2m0M7YqCy4lXfedh18qd8N) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 4:45 |
 | 100 | [One Call Away](https://open.spotify.com/track/7soJgKhQTO8hLP2JPRkL5O) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Nine Track Mind](https://open.spotify.com/album/3kndSWeE2IYOrZEToZrHEV) | 3:14 |
 
-Snapshot ID: `MTY0Niw3Zjk1ODVkNjhmZmIzNzNkNDM5ZjE4NzQ5NjhmMzc1M2Q4MmRlNzNi`
+Snapshot ID: `MTY0OCw2NDRmNTc5NjRjZWZlMDEwNjc2OTRlNzM3ZDljNmNhZGZmZWUwZDU2`

@@ -1,12 +1,12 @@
 {
   "description": "Rock with a Drop  Cover: GG Magree \\m/",
-  "num_followers": 269231,
+  "num_followers": 269401,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGFmNDc1Y2M1OTFmMzE0Y2ZkNDliZTg2YWU4MzM4NTEz",
+  "snapshot_id": "MTY2MDI3NjgwMCwwMDAwMDAwMGUxY2Y3YTZkZjdhYWI5YWU3ZGZhOTI4M2I2ZjlmNzA3",
   "tracks": [
     {
       "added_at": "2022-06-24 04:01:00",
@@ -257,22 +257,6 @@
       "url": "https://open.spotify.com/track/4hR3hQKELrARHNZJ51D14s"
     },
     {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Nothing For Free",
-        "url": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
-      },
-      "artists": [
-        {
-          "name": "Pendulum",
-          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
-        }
-      ],
-      "duration_ms": 183049,
-      "name": "Nothing For Free",
-      "url": "https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ"
-    },
-    {
       "added_at": "2022-07-01 04:01:00",
       "album": {
         "name": "Timebomb (feat. MOD SUN)",
@@ -291,6 +275,22 @@
       "duration_ms": 182040,
       "name": "Timebomb (feat. MOD SUN)",
       "url": "https://open.spotify.com/track/4kAsc2vx4NBqk9dXn1nrZC"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Nothing For Free",
+        "url": "https://open.spotify.com/album/2C5pOup7ksQ7YFutOlP6nA"
+      },
+      "artists": [
+        {
+          "name": "Pendulum",
+          "url": "https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B"
+        }
+      ],
+      "duration_ms": 183049,
+      "name": "Nothing For Free",
+      "url": "https://open.spotify.com/track/7eJqLdEQ96D5Xzc406xkeZ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -383,18 +383,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Joytime III",
-        "url": "https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW"
+        "name": "Crusade",
+        "url": "https://open.spotify.com/album/5jlfz88EPcULVoVMxD171B"
       },
       "artists": [
         {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Proud",
-      "url": "https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR"
+      "duration_ms": 171428,
+      "name": "Crusade",
+      "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -463,30 +467,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Amnesia (feat. GASHI)",
-        "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
-      },
-      "artists": [
-        {
-          "name": "Loud Luxury",
-          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
-        },
-        {
-          "name": "Ship Wrek",
-          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
-        },
-        {
-          "name": "GASHI",
-          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
-        }
-      ],
-      "duration_ms": 193548,
-      "name": "Amnesia (feat. GASHI)",
-      "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Miss Anthropocene (Rave Edition)",
         "url": "https://open.spotify.com/album/2FQYkZIuXLy222CVzgPbQ0"
       },
@@ -507,6 +487,30 @@
       "duration_ms": 195300,
       "name": "Violence - REZZ Remix",
       "url": "https://open.spotify.com/track/2khrbeiEg5R6jZwbJzR5OL"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Amnesia (feat. GASHI)",
+        "url": "https://open.spotify.com/album/51BR8645FA5RjZus314Tpy"
+      },
+      "artists": [
+        {
+          "name": "Loud Luxury",
+          "url": "https://open.spotify.com/artist/6t1gpxYbY8OlLA7D2RiikQ"
+        },
+        {
+          "name": "Ship Wrek",
+          "url": "https://open.spotify.com/artist/1ic0FHNGIjXZAWH6O6Reif"
+        },
+        {
+          "name": "GASHI",
+          "url": "https://open.spotify.com/artist/0JOxt5QOwq0czoJxvSc5hS"
+        }
+      ],
+      "duration_ms": 193548,
+      "name": "Amnesia (feat. GASHI)",
+      "url": "https://open.spotify.com/track/1xvh5ujI8fogjmadcLmLBZ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -591,22 +595,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Crusade",
-        "url": "https://open.spotify.com/album/5jlfz88EPcULVoVMxD171B"
+        "name": "Joytime III",
+        "url": "https://open.spotify.com/album/662MMKEWOxGXbPXQIcgBlW"
       },
       "artists": [
         {
           "name": "Marshmello",
           "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
         }
       ],
-      "duration_ms": 171428,
-      "name": "Crusade",
-      "url": "https://open.spotify.com/track/29Dvkvp7Wgd1VJdDvVJlvf"
+      "duration_ms": 191000,
+      "name": "Proud",
+      "url": "https://open.spotify.com/track/4YXKVaWzHaVyDq2pVS5cgR"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "So Far So Good",
+        "url": "https://open.spotify.com/album/4nZ4dv1XvDE25Lf2MFhOqA"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 175163,
+      "name": "High",
+      "url": "https://open.spotify.com/track/09AvsbivV1FQBRAEBJh7UL"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Onyx",
         "url": "https://open.spotify.com/album/7tWLBskvupaWXOWzfmiU97"
       },
@@ -811,26 +827,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
-        }
-      ],
-      "duration_ms": 237203,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Liar (with OST)",
         "url": "https://open.spotify.com/album/1dVm3KtEc7sr2ymzpXBxDn"
       },
@@ -867,6 +863,26 @@
       "duration_ms": 227167,
       "name": "Unbound",
       "url": "https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/62Ue60s1T4isvLz36lrqhO"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+        }
+      ],
+      "duration_ms": 237203,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/5dLP5JbgWGZttnUv4NFJeg"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -911,22 +927,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Death Of An Optimist",
-        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
-      },
-      "artists": [
-        {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
-        }
-      ],
-      "duration_ms": 168736,
-      "name": "We Did It!!!",
-      "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Lifeline",
         "url": "https://open.spotify.com/album/2Qo8w5A9zfXAIAZIO4StXS"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 246400,
       "name": "Lifeline",
       "url": "https://open.spotify.com/track/2GxBmvhUHMz9nwEcBzpFBK"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "INSPIRED",
-        "url": "https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA"
-      },
-      "artists": [
-        {
-          "name": "NEFFEX",
-          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
-        }
-      ],
-      "duration_ms": 113600,
-      "name": "INSPIRED",
-      "url": "https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -991,6 +975,38 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "INSPIRED",
+        "url": "https://open.spotify.com/album/7t5Dm6FdR4a2R2dZCKopEA"
+      },
+      "artists": [
+        {
+          "name": "NEFFEX",
+          "url": "https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6"
+        }
+      ],
+      "duration_ms": 113600,
+      "name": "INSPIRED",
+      "url": "https://open.spotify.com/track/1Dfa2akEVc3sh6HhAxlZmE"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Death Of An Optimist",
+        "url": "https://open.spotify.com/album/0n5LA95QYWAs9wwkkA8Sji"
+      },
+      "artists": [
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        }
+      ],
+      "duration_ms": 168736,
+      "name": "We Did It!!!",
+      "url": "https://open.spotify.com/track/6nebUmkUoc7fITIKPjS47K"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "LOVE ME",
         "url": "https://open.spotify.com/album/1YKGI3mInNowuk50Q5HWsQ"
       },
@@ -1007,6 +1023,30 @@
       "duration_ms": 204705,
       "name": "LOVE ME",
       "url": "https://open.spotify.com/track/08WLYptwEeNak4i7S32gh7"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
+      },
+      "artists": [
+        {
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
+        },
+        {
+          "name": "Parachute",
+          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
+        },
+        {
+          "name": "Will Anderson",
+          "url": "https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn"
+        }
+      ],
+      "duration_ms": 202493,
+      "name": "Emotion Sickness",
+      "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1035,6 +1075,26 @@
       "duration_ms": 175699,
       "name": "hand crushed by a mallet (Remix) [feat. Fall Out Boy, Craig Owens, Nicole Dollanganger]",
       "url": "https://open.spotify.com/track/5Mm2CJzNRiICC5MWRWQnBo"
+    },
+    {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Black Velvet",
+        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+      },
+      "artists": [
+        {
+          "name": "Infected Mushroom",
+          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+        },
+        {
+          "name": "Ninet Tayeb",
+          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+        }
+      ],
+      "duration_ms": 248400,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1107,30 +1167,6 @@
       "duration_ms": 193500,
       "name": "Kill Me Better",
       "url": "https://open.spotify.com/track/5ohyF1TaL2ks2mrEJqLtfs"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "Parachute",
-          "url": "https://open.spotify.com/artist/2PCUhxD40qlMqsKHjTZD2e"
-        },
-        {
-          "name": "Will Anderson",
-          "url": "https://open.spotify.com/artist/3jASw3YQHarl90fZWNyCdn"
-        }
-      ],
-      "duration_ms": 202493,
-      "name": "Emotion Sickness",
-      "url": "https://open.spotify.com/track/5NWyhQjPTh37ygOq4UHYZk"
     },
     {
       "added_at": "2022-07-08 04:01:00",
@@ -1221,24 +1257,24 @@
       "url": "https://open.spotify.com/track/0DlrV801mOlq3zZijliOqB"
     },
     {
-      "added_at": "2022-08-12 04:00:00",
+      "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Black Velvet",
-        "url": "https://open.spotify.com/album/2sLR9P3xAhR74bmiyK6V8i"
+        "name": "Sentiment",
+        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
       },
       "artists": [
         {
-          "name": "Infected Mushroom",
-          "url": "https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI"
+          "name": "Said The Sky",
+          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
         },
         {
-          "name": "Ninet Tayeb",
-          "url": "https://open.spotify.com/artist/4oEhVAb4wkpqQbOqVMroI4"
+          "name": "The Maine",
+          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
         }
       ],
-      "duration_ms": 248400,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/0UyvpiRpS6aR33jAHweZbL"
+      "duration_ms": 201076,
+      "name": "Go on Then, Love",
+      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1299,66 +1335,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Sentiment",
-        "url": "https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA"
-      },
-      "artists": [
-        {
-          "name": "Said The Sky",
-          "url": "https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu"
-        },
-        {
-          "name": "The Maine",
-          "url": "https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Go on Then, Love",
-      "url": "https://open.spotify.com/track/6yQAwPJmFn0OBTKWOnQFfv"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "HELLRAISERS, Part 2",
-        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Oli Sykes",
-          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 142065,
-      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Get To U",
-        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
-      },
-      "artists": [
-        {
-          "name": "Papa Khan",
-          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
-        }
-      ],
-      "duration_ms": 176008,
-      "name": "Get To U",
-      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Hearteater",
         "url": "https://open.spotify.com/album/07nDVEKSCJsJRwnkH86CFa"
       },
@@ -1375,6 +1351,22 @@
       "duration_ms": 217394,
       "name": "Hearteater",
       "url": "https://open.spotify.com/track/6MOxVSR91hsELyBKwJPvPB"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Get To U",
+        "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
+      },
+      "artists": [
+        {
+          "name": "Papa Khan",
+          "url": "https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM"
+        }
+      ],
+      "duration_ms": 176008,
+      "name": "Get To U",
+      "url": "https://open.spotify.com/track/7J5d8EHVjEYbMgOXGi0PKD"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1439,6 +1431,30 @@
       "duration_ms": 170769,
       "name": "Cash Machine (Remix) [feat. Dillon Francis & grandson]",
       "url": "https://open.spotify.com/track/6FqS20S6qXlbL3o2htqszT"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "HELLRAISERS, Part 2",
+        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 142065,
+      "name": "Dummy (with Oli Sykes of Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3JwkRRgHtBI8RlM5hUSH28"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1529,6 +1545,22 @@
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
     },
     {
+      "added_at": "2022-08-12 04:00:00",
+      "album": {
+        "name": "Falling Asleep at the Wheel / Julie",
+        "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Falling Asleep at the Wheel",
+      "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
+    },
+    {
       "added_at": "2022-06-24 04:01:00",
       "album": {
         "name": "Love You For All Time",
@@ -1547,6 +1579,26 @@
       "duration_ms": 157803,
       "name": "Love You For All Time",
       "url": "https://open.spotify.com/track/3Lu1fijr9XkO4eSfhya2cG"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "LOUD",
+        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Venomous (feat. Spencer Charnas of Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1587,22 +1639,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "LOUD",
-        "url": "https://open.spotify.com/album/45soPQg7CQgBOWHgTBvIFf"
+        "name": "Ohio is for Lovers",
+        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
       },
       "artists": [
         {
-          "name": "Sullivan King",
-          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
         },
         {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+          "name": "Siiickbrain",
+          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
         }
       ],
-      "duration_ms": 204375,
-      "name": "Venomous (feat. Spencer Charnas of Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/6my1SNH8U6TTT5S5vLOKVW"
+      "duration_ms": 232123,
+      "name": "Ohio is for Lovers",
+      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1627,26 +1679,6 @@
       "duration_ms": 195720,
       "name": "Kill The Machine (feat. Bad/Love)",
       "url": "https://open.spotify.com/track/0AkxZb3XkSOdLghm6EB7p2"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Ohio is for Lovers",
-        "url": "https://open.spotify.com/album/3xCjB3Cd9KsxnLciMdE331"
-      },
-      "artists": [
-        {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
-        },
-        {
-          "name": "Siiickbrain",
-          "url": "https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE"
-        }
-      ],
-      "duration_ms": 232123,
-      "name": "Ohio is for Lovers",
-      "url": "https://open.spotify.com/track/78QULk7GWaRjHz15jPLPuQ"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1683,22 +1715,6 @@
       "duration_ms": 165771,
       "name": "Electric Eye - Single Edit",
       "url": "https://open.spotify.com/track/32VZeeOSLQYnUhWDWDqNBH"
-    },
-    {
-      "added_at": "2022-08-12 04:00:00",
-      "album": {
-        "name": "Falling Asleep at the Wheel / Julie",
-        "url": "https://open.spotify.com/album/1e6GaUxeBFQt7AoDHUqJf2"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Falling Asleep at the Wheel",
-      "url": "https://open.spotify.com/track/1z9224GKMBkAS3xdTKnExL"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -1851,6 +1867,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "Next To You",
+        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
+      },
+      "artists": [
+        {
+          "name": "Subshock & Evangelos",
+          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
+        }
+      ],
+      "duration_ms": 171034,
+      "name": "Next To You",
+      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Time Isn't Real",
         "url": "https://open.spotify.com/album/3pvUm6HjqJQEx9gKXc3l7g"
       },
@@ -1867,22 +1899,6 @@
       "duration_ms": 213560,
       "name": "Dying To Know You",
       "url": "https://open.spotify.com/track/58kTdDfCfgxi1EC8iq1HcO"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Next To You",
-        "url": "https://open.spotify.com/album/1X6fKhyeWmD9sNnAcLb6Tj"
-      },
-      "artists": [
-        {
-          "name": "Subshock & Evangelos",
-          "url": "https://open.spotify.com/artist/2zmc5GOSrIaronLdKaqluH"
-        }
-      ],
-      "duration_ms": 171034,
-      "name": "Next To You",
-      "url": "https://open.spotify.com/track/77Zo65ur5OzpBIkCaX4wsa"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2119,26 +2135,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Understand",
-        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
-      },
-      "artists": [
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        },
-        {
-          "name": "Brendan Yates",
-          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
-        }
-      ],
-      "duration_ms": 223637,
-      "name": "Understand (Feat. Brendan Yates)",
-      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "Neon Future IV",
         "url": "https://open.spotify.com/album/6iXzARQs7wdSYzhYJWvJKc"
       },
@@ -2159,6 +2155,26 @@
       "duration_ms": 204443,
       "name": "Halfway Dead",
       "url": "https://open.spotify.com/track/54xv1MnxP9aZIAqkvh7z81"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
+        "name": "Understand",
+        "url": "https://open.spotify.com/album/25K6HjnAYFyBig7OntQbqS"
+      },
+      "artists": [
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "duration_ms": 223637,
+      "name": "Understand (Feat. Brendan Yates)",
+      "url": "https://open.spotify.com/track/5jhRsVcC3BSMy29hwvMLLr"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2359,6 +2375,30 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
+        "name": "The Trip Out",
+        "url": "https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b"
+      },
+      "artists": [
+        {
+          "name": "The Crystal Method",
+          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+        },
+        {
+          "name": "Koda",
+          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
+        },
+        {
+          "name": "VAAAL",
+          "url": "https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng"
+        }
+      ],
+      "duration_ms": 201235,
+      "name": "Watch Me Now (feat. Koda & VAAAL)",
+      "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
+    },
+    {
+      "added_at": "2022-06-24 04:01:00",
+      "album": {
         "name": "Regret (Remix)",
         "url": "https://open.spotify.com/album/5yeVrIiSsye63K1hSkD07A"
       },
@@ -2399,26 +2439,22 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "The Trip Out",
-        "url": "https://open.spotify.com/album/78qwuQ29QWiA4PkfF6CC2b"
+        "name": "Tear You Apart (feat. Aaron Gillespie)",
+        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
       },
       "artists": [
         {
-          "name": "The Crystal Method",
-          "url": "https://open.spotify.com/artist/5eKLa1xyHLq8ERWmT1CRHj"
+          "name": "GG Magree",
+          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
         },
         {
-          "name": "Koda",
-          "url": "https://open.spotify.com/artist/3WhvgoOwfFRjuHf7zgCptu"
-        },
-        {
-          "name": "VAAAL",
-          "url": "https://open.spotify.com/artist/69F2d9RXVEVXH6Dhy5G7ng"
+          "name": "Aaron Gillespie",
+          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
         }
       ],
-      "duration_ms": 201235,
-      "name": "Watch Me Now (feat. Koda & VAAAL)",
-      "url": "https://open.spotify.com/track/7Lc7Sqh2drQf8c2LK5v2Hu"
+      "duration_ms": 143180,
+      "name": "Tear You Apart (feat. Aaron Gillespie)",
+      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
     },
     {
       "added_at": "2022-06-24 04:01:00",
@@ -2443,42 +2479,6 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Tear You Apart (feat. Aaron Gillespie)",
-        "url": "https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r"
-      },
-      "artists": [
-        {
-          "name": "GG Magree",
-          "url": "https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n"
-        },
-        {
-          "name": "Aaron Gillespie",
-          "url": "https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6"
-        }
-      ],
-      "duration_ms": 143180,
-      "name": "Tear You Apart (feat. Aaron Gillespie)",
-      "url": "https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
-        "name": "Enemy VIP (with Shane Told of Silverstein)",
-        "url": "https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        }
-      ],
-      "duration_ms": 198620,
-      "name": "Enemy VIP (with Shane Told of Silverstein)",
-      "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
-    },
-    {
-      "added_at": "2022-06-24 04:01:00",
-      "album": {
         "name": "RIOT",
         "url": "https://open.spotify.com/album/5h6WP688YII1yf26BOxPtw"
       },
@@ -2499,38 +2499,18 @@
     {
       "added_at": "2022-06-24 04:01:00",
       "album": {
-        "name": "Radium Girls",
-        "url": "https://open.spotify.com/album/3vpk9zb559Jo7dsmZRBZo9"
+        "name": "Enemy VIP (with Shane Told of Silverstein)",
+        "url": "https://open.spotify.com/album/2iwX9yHexLZSn0PtOu3D8G"
       },
       "artists": [
         {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        },
-        {
-          "name": "The Bloody Beetroots",
-          "url": "https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5"
-        },
-        {
-          "name": "Pussy Riot",
-          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
-        },
-        {
-          "name": "The Last Internationale",
-          "url": "https://open.spotify.com/artist/2K9hz9205EQR7KkKNdyXFc"
-        },
-        {
-          "name": "Aimee Interrupter",
-          "url": "https://open.spotify.com/artist/511ZM3AQ8CNe4VNMcYvdB0"
-        },
-        {
-          "name": "White Lung",
-          "url": "https://open.spotify.com/artist/2iT2Fmot4VzWgdOTgp3j9M"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         }
       ],
-      "duration_ms": 229327,
-      "name": "Radium Girls",
-      "url": "https://open.spotify.com/track/3sParXYPLALwjvEvdUFy5v"
+      "duration_ms": 198620,
+      "name": "Enemy VIP (with Shane Told of Silverstein)",
+      "url": "https://open.spotify.com/track/0b0vvHAw17DwRllYuEKD9A"
     }
   ],
   "unique_name": "Rocktronic",

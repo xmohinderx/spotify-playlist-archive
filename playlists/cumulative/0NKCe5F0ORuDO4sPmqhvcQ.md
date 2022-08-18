@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-288 songs - 16 hr 0 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
+289 songs - 16 hr 3 min - [published](https://open.spotify.com/playlist/2FU048829m51pM28Qzz5gm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Can't Say No](https://open.spotify.com/track/1q8w7j7ukxaHGAWsAgotEa) | [Kaien Cruz](https://open.spotify.com/artist/6iyDjhh4mDePK6LPSwlLGE) | [BUFFERING...](https://open.spotify.com/album/5p611tPdHx6106delXBiHv) | 2:20 | 2021-12-07 | 2022-01-08 |
 | [care about u](https://open.spotify.com/track/06wwvpMsqaIXXeFHb6qJqD) | [Pauline Herr](https://open.spotify.com/artist/66VgJGpaRMwrNaS2MPqIDf) | [care about u](https://open.spotify.com/album/0LI5BkEhcvmCOiaTKuHOg2) | 3:21 | 2021-12-07 | 2022-01-08 |
 | [cbd](https://open.spotify.com/track/00iYCxpoIxtyBr2JzhIpxx) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [cbd](https://open.spotify.com/album/4rEY8UXU7WajkXrkPdGluV) | 2:41 | 2022-01-21 | 2022-03-10 |
+| [Change of Pace](https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau) | [Maddy O'Neal](https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF), [MOONZz](https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab) | [Change of Pace](https://open.spotify.com/album/2AbwZQbhhWiiW2OgVBmrF9) | 3:56 | 2022-08-17 |  |
 | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/track/65X5k4AUa5sWiTld3zUXns) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [slenderbodies](https://open.spotify.com/artist/3S4d3YRNGg2OhnNm3QvfhA) | [Chasing Paradise \(with slenderbodies\)](https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi) | 2:25 | 2022-07-29 |  |
 | [Cold Comfort \(feat\. Andrew Paley\) \- OMAS Remix](https://open.spotify.com/track/54bvLApXwHqh869Uqt74TJ) | [StayLoose](https://open.spotify.com/artist/6kyUfziWP8ydAsKzyXsC83), [Andrew Paley](https://open.spotify.com/artist/17YZc3pOoK9itwBjQKiLvb), [OMAS](https://open.spotify.com/artist/6TwO05VN5ZM3DYVEsP9vjK) | [Cold Comfort \(feat\. Andrew Paley\) \[Remixes\]](https://open.spotify.com/album/0bKng3SwvPUbN0oqxgN3rQ) | 3:55 | 2022-01-14 | 2022-02-01 |
 | [Colors \(with Eyelar\)](https://open.spotify.com/track/7tw2IW7jxu4v2t6pe5NlKK) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [Colors \(with Eyelar\)](https://open.spotify.com/album/1cRO8t5peO3syRy0l6cASg) | 3:51 | 2022-07-29 |  |

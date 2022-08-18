@@ -1,12 +1,12 @@
 {
   "description": "The hustle king and worldwide multi talent of Korean hip-hop/r&b.",
-  "num_followers": 1642,
+  "num_followers": 1738,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDJhNDAxYTg5OGVlMDk0MGRiNjg2OWJhMDBjMTU4YTYw",
+  "snapshot_id": "MTY1OTQ2MzEwNSwwMDAwMDAwMDIxZjRhNDE5MThiNTEwYjViM2U0NjY0ZTE4YjM2Mjc1",
   "tracks": [
     {
       "added_at": "2022-08-02 17:58:25",
@@ -691,26 +691,6 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "Son Malas (Feat. Jay Park)",
-        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
-      },
-      "artists": [
-        {
-          "name": "Mozart La Para",
-          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 148640,
-      "name": "Son Malas",
-      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
         "name": "B.A.R.S, Vol. 1",
         "url": "https://open.spotify.com/album/5396jqhnc6ExzfTb797qVO"
       },
@@ -731,6 +711,26 @@
       "duration_ms": 164250,
       "name": "Sho Nuff",
       "url": "https://open.spotify.com/track/4A9Qs6OO0NO8y2OheOLldD"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
+        "name": "Son Malas (Feat. Jay Park)",
+        "url": "https://open.spotify.com/album/7pO4kGrPiU6lQoA832UXt0"
+      },
+      "artists": [
+        {
+          "name": "Mozart La Para",
+          "url": "https://open.spotify.com/artist/0odliLZMTk45CEVzF3Zocl"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 148640,
+      "name": "Son Malas",
+      "url": "https://open.spotify.com/track/1nBA795YhyTO5992WmhEzW"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1299,18 +1299,22 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Remastered",
+          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
         }
       ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+      "duration_ms": 230087,
+      "name": "JOAH - Remastered",
+      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1335,22 +1339,18 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Remastered",
-          "url": "https://open.spotify.com/artist/7bc4CuYMrx8yZUfjR8kKzE"
         }
       ],
-      "duration_ms": 230087,
-      "name": "JOAH - Remastered",
-      "url": "https://open.spotify.com/track/32f0F3bMCTsUnorBsr9Jj8"
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1594,15 +1594,11 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "VIC MENSA",
-          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 198893,
-      "name": "Yacht (feat. Vic Mensa)",
-      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -1614,11 +1610,15 @@
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "VIC MENSA",
+          "url": "https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+      "duration_ms": 198893,
+      "name": "Yacht (feat. Vic Mensa)",
+      "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
     },
     {
       "added_at": "2022-08-02 17:58:25",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2022-08-02 17:58:25",
       "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 240736,
+      "name": "Ride Me",
+      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
+    },
+    {
+      "added_at": "2022-08-02 17:58:25",
+      "album": {
         "name": "SOJU (Remix)",
         "url": "https://open.spotify.com/album/5up3gHITO86zXeGtDm79K8"
       },
@@ -2115,22 +2131,6 @@
       "duration_ms": 318747,
       "name": "SOJU - Remix",
       "url": "https://open.spotify.com/track/4QuqMDWbg2poF8ytkH6pCm"
-    },
-    {
-      "added_at": "2022-08-02 17:58:25",
-      "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5ikIgNGFVc8nwQ8Xzsg1p4"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 240736,
-      "name": "Ride Me",
-      "url": "https://open.spotify.com/track/5ZvRzu5RNxIwvyPGTx8plM"
     },
     {
       "added_at": "2022-08-02 17:58:25",

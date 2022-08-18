@@ -1,12 +1,12 @@
 {
   "description": "G\u00e5 loss till Spotifys fetaste festl\u00e5tar!",
-  "num_followers": 95085,
+  "num_followers": 95089,
   "original_name": "Det blir kaoz!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMGQxYjg2ZGQyYThhYWZkYmQwYzExYTk0ZTNlYjYxNThl",
+  "snapshot_id": "MTY1OTA0NjIyNSwwMDAwMDAwMDBiMTM3ZGI1ZjUyMmY1YTE0YTA1ZWIwMzMyMDE4NGYw",
   "tracks": [
     {
       "added_at": "2022-07-28 22:10:25",
@@ -663,6 +663,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Blink 2022",
+        "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
+      },
+      "artists": [
+        {
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        },
+        {
+          "name": "John Dahlb\u00e4ck",
+          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "Blink 2022",
+      "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "Okay",
         "url": "https://open.spotify.com/album/7d5FKzrSPqpKczy9IP5zOE"
       },
@@ -715,30 +739,6 @@
       "duration_ms": 186190,
       "name": "You Got The Love (feat. Jules Buckley & The Heritage Orchestra) - Ti\u00ebsto Remix",
       "url": "https://open.spotify.com/track/3N50cZLMLohd9DcGA4LIMp"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Blink 2022",
-        "url": "https://open.spotify.com/album/3KQQcrP3wiHcZb8YfxXoFQ"
-      },
-      "artists": [
-        {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
-        },
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        },
-        {
-          "name": "John Dahlb\u00e4ck",
-          "url": "https://open.spotify.com/artist/15xvsJMf8phaNa1LYvL9Qv"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "Blink 2022",
-      "url": "https://open.spotify.com/track/3g8DqSjSZyY1o30Y4xnWqs"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
-        "name": "La La La",
-        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
-      },
-      "artists": [
-        {
-          "name": "B3nte",
-          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
-        },
-        {
-          "name": "B3VA",
-          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
-        }
-      ],
-      "duration_ms": 135692,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
         "name": "Remember the Summer (feat. Karra)",
         "url": "https://open.spotify.com/album/6B0znwNH8mpUMNgH7uO1H3"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 170624,
       "name": "Remember the Summer (feat. Karra)",
       "url": "https://open.spotify.com/track/6S2MDC31VIH79OwGU87L0s"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
+        "name": "La La La",
+        "url": "https://open.spotify.com/album/5WCbGsEaqNdhJKp2PewRsa"
+      },
+      "artists": [
+        {
+          "name": "B3nte",
+          "url": "https://open.spotify.com/artist/2ykUp1K8tRaOUFd8vvcwXl"
+        },
+        {
+          "name": "B3VA",
+          "url": "https://open.spotify.com/artist/03D4LIjTc757nhPDNmiZ1x"
+        }
+      ],
+      "duration_ms": 135692,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/5FzWSLtPEnVc3knAh070CA"
     },
     {
       "added_at": "2022-07-28 22:10:25",
@@ -1367,6 +1367,30 @@
     {
       "added_at": "2022-07-28 22:10:25",
       "album": {
+        "name": "Fly",
+        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
+      },
+      "artists": [
+        {
+          "name": "Alex D'Rosso",
+          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
+        },
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "Behmer",
+          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
+        }
+      ],
+      "duration_ms": 134857,
+      "name": "Fly",
+      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
+    },
+    {
+      "added_at": "2022-07-28 22:10:25",
+      "album": {
         "name": "What Is Love (feat. Nito-Onna)",
         "url": "https://open.spotify.com/album/7FFM8eDpTQPPVPrYoPu7gM"
       },
@@ -1391,30 +1415,6 @@
       "duration_ms": 147560,
       "name": "What Is Love (feat. Nito-Onna)",
       "url": "https://open.spotify.com/track/6vUIW5SQODOUwPzBoOrWQ2"
-    },
-    {
-      "added_at": "2022-07-28 22:10:25",
-      "album": {
-        "name": "Fly",
-        "url": "https://open.spotify.com/album/4kWFb4NacUYGGiseCUuPnF"
-      },
-      "artists": [
-        {
-          "name": "Alex D'Rosso",
-          "url": "https://open.spotify.com/artist/6gT6Fw0g5nBD3RQiZub7cA"
-        },
-        {
-          "name": "Rasmus Gozzi",
-          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
-        },
-        {
-          "name": "Behmer",
-          "url": "https://open.spotify.com/artist/6UZvJbrEJxkycbgUznMIF9"
-        }
-      ],
-      "duration_ms": 134857,
-      "name": "Fly",
-      "url": "https://open.spotify.com/track/11kIkw1cDlqJDvwYYPBfAF"
     },
     {
       "added_at": "2022-07-28 22:10:25",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: CRAVITY",
+  "description": "Future K-Pop hits! Cover: THE BOYZ",
   "name": "K-Pop Rising",
   "published_playlist_ids": [
     "365X6AQFdYqkXtDjWksHVf"
@@ -157,6 +157,28 @@
       "duration_ms": 212415,
       "name": "1, 2, 3",
       "url": "https://open.spotify.com/track/1qpH7j4JRNbnv1aRysrdOH"
+    },
+    {
+      "album": {
+        "name": "1, 2, 3",
+        "url": "https://open.spotify.com/album/6wFkV8mhP1oLUKNOTck5Cz"
+      },
+      "artists": [
+        {
+          "name": "GEMINI",
+          "url": "https://open.spotify.com/artist/67IWlRdLy3UcfY3q968euj"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179840,
+      "name": "1, 2, 3 (Feat. BIG Naughty)",
+      "url": "https://open.spotify.com/track/2hIHcImzcUtUjc947xqCZK"
     },
     {
       "album": {
@@ -1325,7 +1347,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 201080,
       "name": "BOOM",
       "url": "https://open.spotify.com/track/3jATBjBJAWLVkAB2gCjrqE"
@@ -1809,7 +1831,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 169253,
       "name": "Candy Sugar Pop",
       "url": "https://open.spotify.com/track/767gRjedAWnbUer6ARRS8d"
@@ -4801,7 +4823,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 207866,
       "name": "I Missed You",
       "url": "https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N"
@@ -6623,7 +6645,7 @@
       ],
       "date_added": "2022-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 212403,
       "name": "MOVE",
       "url": "https://open.spotify.com/track/5QzjOeD7eXFZpVVyVC7ls2"
@@ -7017,6 +7039,24 @@
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"
+    },
+    {
+      "album": {
+        "name": "blanc",
+        "url": "https://open.spotify.com/album/1fUwVSrt6qTwkpWBmb5HDL"
+      },
+      "artists": [
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236396,
+      "name": "Not About You",
+      "url": "https://open.spotify.com/track/4fVyrplBcb6lVgij1b8pIO"
     },
     {
       "album": {
@@ -9057,6 +9097,28 @@
       "duration_ms": 260493,
       "name": "Somewhere (Feat. GRAY, Hoody, ELO & DeVita)",
       "url": "https://open.spotify.com/track/0g6THFTGvC9Ci22S3mNtKq"
+    },
+    {
+      "album": {
+        "name": "Sool",
+        "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
+      },
+      "artists": [
+        {
+          "name": "snzae",
+          "url": "https://open.spotify.com/artist/55l6wA0gGh2Y1OpE5lUYLc"
+        },
+        {
+          "name": "THAMA",
+          "url": "https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230560,
+      "name": "Sool (Feat. THAMA)",
+      "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
     },
     {
       "album": {
@@ -11157,6 +11219,24 @@
       "duration_ms": 257752,
       "name": "Where the sea sleeps",
       "url": "https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO"
+    },
+    {
+      "album": {
+        "name": "THE BOYZ 7TH MINI ALBUM [BE AWARE]",
+        "url": "https://open.spotify.com/album/6D8I9oW0ALsppfPzY9ysXR"
+      },
+      "artists": [
+        {
+          "name": "THE BOYZ",
+          "url": "https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191853,
+      "name": "WHISPER",
+      "url": "https://open.spotify.com/track/52uklJhyhJbLvHrgkiqCaW"
     },
     {
       "album": {

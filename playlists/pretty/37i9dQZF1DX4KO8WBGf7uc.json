@@ -1,12 +1,12 @@
 {
   "description": "Lo que suena en la noche.",
-  "num_followers": 207020,
+  "num_followers": 207215,
   "original_name": "Andando De Noche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDMxM2ZjMjE0NWJkNThiOTFlNWE3NDM4YzU4OTAwYzI5",
+  "snapshot_id": "MTY1NjU5OTA4MCwwMDAwMDAwMDJhMjAyNDdjZWU1Yjg2NDYwOGRmY2M4ZGFlY2MyOWY2",
   "tracks": [
     {
       "added_at": "2022-06-30 14:24:40",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2022-06-30 14:24:40",
       "album": {
-        "name": "Na' Personal",
-        "url": "https://open.spotify.com/album/3Nq8ogKH4JChsuGhBoCEdz"
-      },
-      "artists": [
-        {
-          "name": "Miky Woodz",
-          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
-        },
-        {
-          "name": "Alex Rose",
-          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
-        }
-      ],
-      "duration_ms": 225509,
-      "name": "Na' Personal",
-      "url": "https://open.spotify.com/track/16fZpc0Md2q1SGu8FMTo6x"
-    },
-    {
-      "added_at": "2022-06-30 14:24:40",
-      "album": {
         "name": "B11 (feat. Myke Towers)",
         "url": "https://open.spotify.com/album/3dwf8z3LfHFTlAHiyrcGzb"
       },
@@ -1531,6 +1511,26 @@
       "duration_ms": 251929,
       "name": "B11 (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/4o1DxRjMCHDwBiOKv88rOl"
+    },
+    {
+      "added_at": "2022-06-30 14:24:40",
+      "album": {
+        "name": "Na' Personal",
+        "url": "https://open.spotify.com/album/3Nq8ogKH4JChsuGhBoCEdz"
+      },
+      "artists": [
+        {
+          "name": "Miky Woodz",
+          "url": "https://open.spotify.com/artist/1pf0MPKfKdvS8J779mS1Ay"
+        },
+        {
+          "name": "Alex Rose",
+          "url": "https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4"
+        }
+      ],
+      "duration_ms": 225509,
+      "name": "Na' Personal",
+      "url": "https://open.spotify.com/track/16fZpc0Md2q1SGu8FMTo6x"
     },
     {
       "added_at": "2022-06-30 14:24:40",

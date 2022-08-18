@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 63671,
+  "num_followers": 63812,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDJmODRiOTg5MDkwYTY1YjFiYmU4Njc1NDE1NjliOTU1",
+  "snapshot_id": "MTY1ODQ2MjQ2MCwwMDAwMDAwMDg1NDljOTEyNGRjOTQxZmM1NTFmYWM0OGI4OTNlZDNm",
   "tracks": [
     {
       "added_at": "2022-07-22 04:01:00",
@@ -219,22 +219,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "A Lifetime Rolls By (annasara Rework)",
-        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
+        "name": "hundred00",
+        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
       },
       "artists": [
         {
-          "name": "BPMoore",
-          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
-        },
-        {
-          "name": "annasara",
-          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
+          "name": "Lara Somogyi",
+          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
         }
       ],
-      "duration_ms": 176120,
-      "name": "A Lifetime Rolls By - annasara Rework",
-      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
+      "duration_ms": 289210,
+      "name": "hundred00",
+      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -259,18 +255,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "hundred00",
-        "url": "https://open.spotify.com/album/0kBZkLsisJMS1n2WgbGo4C"
+        "name": "A Lifetime Rolls By (annasara Rework)",
+        "url": "https://open.spotify.com/album/06d6otha9XjgY2QWtB05Xo"
       },
       "artists": [
         {
-          "name": "Lara Somogyi",
-          "url": "https://open.spotify.com/artist/4vFvy7t3jlzAYrNYjW8uDo"
+          "name": "BPMoore",
+          "url": "https://open.spotify.com/artist/7IZYQVOMyQi55ytXjYoXrP"
+        },
+        {
+          "name": "annasara",
+          "url": "https://open.spotify.com/artist/77UdbRpv75Hby0KyMASqJJ"
         }
       ],
-      "duration_ms": 289210,
-      "name": "hundred00",
-      "url": "https://open.spotify.com/track/0QWKituzXIFotLHfRFyGJG"
+      "duration_ms": 176120,
+      "name": "A Lifetime Rolls By - annasara Rework",
+      "url": "https://open.spotify.com/track/0r3ROaj4TrysELcI4LHODu"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -623,6 +623,38 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Next Winter",
+        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
+      },
+      "artists": [
+        {
+          "name": "Mark Slater",
+          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
+        }
+      ],
+      "duration_ms": 234683,
+      "name": "Next Winter",
+      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Falling Colour",
+        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
+      },
+      "artists": [
+        {
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
+        }
+      ],
+      "duration_ms": 215293,
+      "name": "Falling Colour",
+      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Pavane (Sam Thompson Rework)",
         "url": "https://open.spotify.com/album/4bp10nfuQAiVcDKyw6WmYc"
       },
@@ -647,38 +679,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Falling Colour",
-        "url": "https://open.spotify.com/album/1mvRZHRMIwG0uAVgedZVNd"
-      },
-      "artists": [
-        {
-          "name": "Vanbur",
-          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
-        }
-      ],
-      "duration_ms": 215293,
-      "name": "Falling Colour",
-      "url": "https://open.spotify.com/track/5HzWbFpjFBo219h3Gt5PRb"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Next Winter",
-        "url": "https://open.spotify.com/album/6ZWxDNKRbwvPHa8quQNf9P"
-      },
-      "artists": [
-        {
-          "name": "Mark Slater",
-          "url": "https://open.spotify.com/artist/63TOnUvxBBCq0yJN9wKuXF"
-        }
-      ],
-      "duration_ms": 234683,
-      "name": "Next Winter",
-      "url": "https://open.spotify.com/track/0UfpJngBbA7yILNdoNDqlM"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Unfold (XXIM:EXPO #2)",
         "url": "https://open.spotify.com/album/5uYQKIVEnscyHzaJMjjzvu"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 218743,
       "name": "Familiar",
       "url": "https://open.spotify.com/track/1mpjUgi6E654UOtWtnE0Pk"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
-      },
-      "artists": [
-        {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
-        }
-      ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -735,6 +719,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Recaptures",
         "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 210600,
       "name": "Minquiers",
       "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Music For Growing Flowers",
+        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
+      },
+      "artists": [
+        {
+          "name": "Erland Cooper",
+          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
+        }
+      ],
+      "duration_ms": 334506,
+      "name": "Music For Growing Flowers - Pt. 4",
+      "url": "https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -847,22 +863,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Ocean",
-        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ndag S\u00f8ndag",
-          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
-        }
-      ],
-      "duration_ms": 238764,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "A Light Without Flame",
         "url": "https://open.spotify.com/album/0dypri6yEpgORaQbPFJmxK"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 238223,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/2tmqbpH32WeXK10SJdcPmP"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/7LRGLAQd2fdDOU7ygP0DrF"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ndag S\u00f8ndag",
+          "url": "https://open.spotify.com/artist/5JXcRgvs6LG0vYLZnk9i7H"
+        }
+      ],
+      "duration_ms": 238764,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/3boXyamYzmzAvMbu5Rwmlv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -931,22 +947,6 @@
       "duration_ms": 305900,
       "name": "Brainwash",
       "url": "https://open.spotify.com/track/2ahhgh9KTpnmb0tmu3dHDb"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Music For Growing Flowers",
-        "url": "https://open.spotify.com/album/4ivhFfoUuBby0JKvbAuOeE"
-      },
-      "artists": [
-        {
-          "name": "Erland Cooper",
-          "url": "https://open.spotify.com/artist/636k3cBTCgdZfXzCj7Cuaa"
-        }
-      ],
-      "duration_ms": 334506,
-      "name": "Music For Growing Flowers - Pt. 4",
-      "url": "https://open.spotify.com/track/3kSKcgJ0FYz7t2k4p71jiy"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -999,6 +999,22 @@
       "duration_ms": 334653,
       "name": "Enfantillages pittoresques: II. Berceuse - Christian L\u00f6ffler Rework (FRAGMENTS / Erik Satie)",
       "url": "https://open.spotify.com/track/5vXc6FRNDW6VkZNKJtTtb1"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Close To Her",
+        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Gustafsson",
+          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
+        }
+      ],
+      "duration_ms": 209558,
+      "name": "Close To Her",
+      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1083,22 +1099,6 @@
       "duration_ms": 237827,
       "name": "Peter",
       "url": "https://open.spotify.com/track/4ANqaM60727eZi2Xxo9r8I"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Close To Her",
-        "url": "https://open.spotify.com/album/7fDowPFB51eACxbg61btqa"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Gustafsson",
-          "url": "https://open.spotify.com/artist/01H1M5VvnktKBqpU0TX8Rl"
-        }
-      ],
-      "duration_ms": 209558,
-      "name": "Close To Her",
-      "url": "https://open.spotify.com/track/0lPNt1OxNuABFtU8sUxDJv"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Owls",
-        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
-      },
-      "artists": [
-        {
-          "name": "Samuel Powell",
-          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Owls",
-      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Klass (MISSUXO Film Edit)",
         "url": "https://open.spotify.com/album/6p2p0YSsOa8vs6igIWINQa"
       },
@@ -1279,6 +1263,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Owls",
+        "url": "https://open.spotify.com/album/4y9qF03bF30CXAK0qwzoLI"
+      },
+      "artists": [
+        {
+          "name": "Samuel Powell",
+          "url": "https://open.spotify.com/artist/1qb9AWGLwoHz2r3eQYPmIG"
+        }
+      ],
+      "duration_ms": 242880,
+      "name": "Owls",
+      "url": "https://open.spotify.com/track/5kSTJK3ExBwzr12h2CDivO"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "All of Us",
         "url": "https://open.spotify.com/album/2xsfxKRrbaKRc4LNbpgcZK"
       },
@@ -1307,22 +1307,6 @@
       "duration_ms": 329999,
       "name": "A Dream, A Sequence",
       "url": "https://open.spotify.com/track/32VUIIpKt22BW8V1mLt4R4"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Mishkin & Septuagint",
-        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
-      },
-      "artists": [
-        {
-          "name": "Paul Haslinger",
-          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
-        }
-      ],
-      "duration_ms": 195719,
-      "name": "Mishkin",
-      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Mishkin & Septuagint",
+        "url": "https://open.spotify.com/album/1CgRejUrIDJCnbAo3VB3nc"
+      },
+      "artists": [
+        {
+          "name": "Paul Haslinger",
+          "url": "https://open.spotify.com/artist/5d9PdhcsOsXj0GIM857nvE"
+        }
+      ],
+      "duration_ms": 195719,
+      "name": "Mishkin",
+      "url": "https://open.spotify.com/track/5g1f2Vt8KVgPj8ZqmeNNO4"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Grande Anse",
         "url": "https://open.spotify.com/album/23J4oBfI2idJvAmHIlDGzI"
       },
@@ -1379,26 +1379,6 @@
       "duration_ms": 181250,
       "name": "Grande Anse",
       "url": "https://open.spotify.com/track/1xOaETzZpfvTpADA2kvnZZ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Can't Sleep",
-        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
-      },
-      "artists": [
-        {
-          "name": "Rebecca Dale",
-          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
-        },
-        {
-          "name": "Joby Burgess",
-          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
-        }
-      ],
-      "duration_ms": 428453,
-      "name": "Can't Sleep",
-      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1423,6 +1403,26 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Can't Sleep",
+        "url": "https://open.spotify.com/album/4VTDInQ5dnlXYwaqWbLNzk"
+      },
+      "artists": [
+        {
+          "name": "Rebecca Dale",
+          "url": "https://open.spotify.com/artist/5y0ldLcTRdGf53DeJnrQz0"
+        },
+        {
+          "name": "Joby Burgess",
+          "url": "https://open.spotify.com/artist/3jNNxhqxHJws22fYew1EC2"
+        }
+      ],
+      "duration_ms": 428453,
+      "name": "Can't Sleep",
+      "url": "https://open.spotify.com/track/6mus9lF8bgipBehHDZ9Top"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Clair de lune",
         "url": "https://open.spotify.com/album/1ELRQdm7g1MR5HolqHIR38"
       },
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
+        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
+      },
+      "artists": [
+        {
+          "name": "Paulette Verl\u00e9e",
+          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
+        }
+      ],
+      "duration_ms": 278613,
+      "name": "February",
+      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "LUNA",
         "url": "https://open.spotify.com/album/4HwFLDcgHHI1t0OpUGeW5M"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 266785,
       "name": "Charles Duke",
       "url": "https://open.spotify.com/track/2C7lu8FJWZXeIv1MV6ena8"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "choses vues \u00e0 droite et \u00e0 gauche (sans lunettes)",
-        "url": "https://open.spotify.com/album/5dwzGbAvljyDtSkBdTkWYN"
-      },
-      "artists": [
-        {
-          "name": "Paulette Verl\u00e9e",
-          "url": "https://open.spotify.com/artist/2Kn9tuEFJjD03T5PafKbfL"
-        }
-      ],
-      "duration_ms": 278613,
-      "name": "February",
-      "url": "https://open.spotify.com/track/6rZ6M5pvZrFF1ddfX5HExU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1531,18 +1531,18 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bells Variation",
-        "url": "https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ"
+        "name": "Our True Nature",
+        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
       },
       "artists": [
         {
-          "name": "Alban Claudin",
-          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+          "name": "Teodor Wolgers",
+          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
         }
       ],
-      "duration_ms": 179023,
-      "name": "Bells Variation",
-      "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
+      "duration_ms": 343666,
+      "name": "Abandoned Places",
+      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Bells Variation",
+        "url": "https://open.spotify.com/album/1xUcujAojrWcNUGWNmdGgZ"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        }
+      ],
+      "duration_ms": 179023,
+      "name": "Bells Variation",
+      "url": "https://open.spotify.com/track/2Th3UvKap32u5YdGLgsmRj"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "False Sunset (Todd & Klein Rework)",
         "url": "https://open.spotify.com/album/0g51tMtR6ktoyXnqTdSaqU"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 187850,
       "name": "False Sunset - Todd & Klein Rework",
       "url": "https://open.spotify.com/track/7z6FjRYp5m3PVGIyV8cM9u"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Our True Nature",
-        "url": "https://open.spotify.com/album/3QsWVLbBZB9P2cHPHn4AQ7"
-      },
-      "artists": [
-        {
-          "name": "Teodor Wolgers",
-          "url": "https://open.spotify.com/artist/150sLjaVg4A3g4M0Pvs4Qr"
-        }
-      ],
-      "duration_ms": 343666,
-      "name": "Abandoned Places",
-      "url": "https://open.spotify.com/track/6KbkmrCXCBanKxhdpqkRfB"
     }
   ],
   "unique_name": "Classical X",

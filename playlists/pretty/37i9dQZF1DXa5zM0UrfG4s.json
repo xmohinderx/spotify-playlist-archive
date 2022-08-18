@@ -1,12 +1,12 @@
 {
   "description": "Spillelisten som byr p\u00e5 en rekke b\u00f8gdebangers du liker \u00e5 spelle i kjerra! Cover: Den BB & Oskar Westerlin",
-  "num_followers": 87149,
+  "num_followers": 87185,
   "original_name": "Livet p\u00e5 B\u00f8gda!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMDljZWRmMThlZWZjMWMwNGQ5MGVkNzVhYmYyY2M5NWRj",
+  "snapshot_id": "MTY1OTY1MDQ2MCwwMDAwMDAwMGI1YWZmNDAwNDcyYmY0YzNjNzQyODNjOTBiMTc5MzQz",
   "tracks": [
     {
       "added_at": "2022-08-04 22:01:00",
@@ -159,26 +159,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Block Party",
-        "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
-      },
-      "artists": [
-        {
-          "name": "Ballinciaga",
-          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
-        },
-        {
-          "name": "ADAAM",
-          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
-        }
-      ],
-      "duration_ms": 125555,
-      "name": "Block Party",
-      "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "MISSF\u00d6RST\u00c5TT (Roc Boyz Remix)",
         "url": "https://open.spotify.com/album/0MKKTiQSyTr116fbPq79vf"
       },
@@ -195,6 +175,26 @@
       "duration_ms": 114400,
       "name": "MISSF\u00d6RST\u00c5TT - Roc Boyz Remix",
       "url": "https://open.spotify.com/track/5PnY5zibauLwrMFIBfmwM3"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Block Party",
+        "url": "https://open.spotify.com/album/6zkX0G2P3biWJLOCTf0KIj"
+      },
+      "artists": [
+        {
+          "name": "Ballinciaga",
+          "url": "https://open.spotify.com/artist/7GgWpPrcNYH90st7I3nJtv"
+        },
+        {
+          "name": "ADAAM",
+          "url": "https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO"
+        }
+      ],
+      "duration_ms": 125555,
+      "name": "Block Party",
+      "url": "https://open.spotify.com/track/26d3s0266f5EwHuRr5CxPi"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -271,26 +271,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
-        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
-      },
-      "artists": [
-        {
-          "name": "LOAM",
-          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
-        },
-        {
-          "name": "Ringnes-Ronny",
-          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
-        }
-      ],
-      "duration_ms": 186692,
-      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
-      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
         "url": "https://open.spotify.com/album/6d0YHvx8Sq39C1c2j8kpXy"
       },
@@ -307,6 +287,26 @@
       "duration_ms": 120312,
       "name": "Kj\u00e6re Alkohol feat. Roc Boyz (Hall of Fame)",
       "url": "https://open.spotify.com/track/35Wj4BI93AUX20ZIXsKJHy"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "MEDVETSL\u00d6S (Ringnes-Ronny Remix)",
+        "url": "https://open.spotify.com/album/45I8yqaI4OJyg425GLNowv"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        },
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "duration_ms": 186692,
+      "name": "MEDVETSL\u00d6S - Ringnes-Ronny Remix",
+      "url": "https://open.spotify.com/track/6GgK6y4XRp2D4hNO5oj7Bt"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -579,26 +579,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Fylleangst",
-        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
-      },
-      "artists": [
-        {
-          "name": "Oskar Westerlin",
-          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
-        },
-        {
-          "name": "Den BB",
-          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
-        }
-      ],
-      "duration_ms": 118125,
-      "name": "Fylleangst",
-      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "Eventyr",
         "url": "https://open.spotify.com/album/3k1qxu2Poumv9vMlu3toNt"
       },
@@ -615,6 +595,26 @@
       "duration_ms": 147600,
       "name": "Eventyr",
       "url": "https://open.spotify.com/track/2Fo7dvlTHm2wRVeddiY5vV"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Fylleangst",
+        "url": "https://open.spotify.com/album/5qBlO7VFJFPzDet3AZ1Q74"
+      },
+      "artists": [
+        {
+          "name": "Oskar Westerlin",
+          "url": "https://open.spotify.com/artist/0oXnxfuBoIz4DlUCbvxWxd"
+        },
+        {
+          "name": "Den BB",
+          "url": "https://open.spotify.com/artist/3YP7MBWoSfkTwq0pOMj651"
+        }
+      ],
+      "duration_ms": 118125,
+      "name": "Fylleangst",
+      "url": "https://open.spotify.com/track/1gcTGGDqXQWe97FMTUxPP9"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -987,18 +987,22 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Jag \u00e4r taggad",
-        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
+        "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
+        "url": "https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO"
       },
       "artists": [
         {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+          "name": "PAT49",
+          "url": "https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs"
+        },
+        {
+          "name": "Kappa Laks",
+          "url": "https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj"
         }
       ],
-      "duration_ms": 136814,
-      "name": "Jag \u00e4r taggad",
-      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
+      "duration_ms": 129453,
+      "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
+      "url": "https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1019,22 +1023,18 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
-        "url": "https://open.spotify.com/album/3LxA06EibvV4UMSVhL1EgO"
+        "name": "Jag \u00e4r taggad",
+        "url": "https://open.spotify.com/album/1W0E6v9QnzzS9IWs5Rwpoz"
       },
       "artists": [
         {
-          "name": "PAT49",
-          "url": "https://open.spotify.com/artist/6p3M0KTYqaOs3aOmQ6iVMs"
-        },
-        {
-          "name": "Kappa Laks",
-          "url": "https://open.spotify.com/artist/7ewAbX1zy9l54vpnjsDUPj"
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
         }
       ],
-      "duration_ms": 129453,
-      "name": "Er Det Du Eller Meg Som Er Mest Fucked Up?",
-      "url": "https://open.spotify.com/track/11By0UO1ssT4kJ4eXhwRVb"
+      "duration_ms": 136814,
+      "name": "Jag \u00e4r taggad",
+      "url": "https://open.spotify.com/track/7F05vRdjrBljwevx0lwvZM"
     },
     {
       "added_at": "2022-08-04 22:01:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-08-04 22:01:00",
       "album": {
-        "name": "Supa",
-        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
-      },
-      "artists": [
-        {
-          "name": "Kevin Boine",
-          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
-        }
-      ],
-      "duration_ms": 172106,
-      "name": "Supa",
-      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
-    },
-    {
-      "added_at": "2022-08-04 22:01:00",
-      "album": {
         "name": "FRATERNITY",
         "url": "https://open.spotify.com/album/6MG2YTCUxJnihyrrFOoA5I"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 126450,
       "name": "FRATERNITY",
       "url": "https://open.spotify.com/track/7wcbaD93iX2uIcP1X9oDKq"
+    },
+    {
+      "added_at": "2022-08-04 22:01:00",
+      "album": {
+        "name": "Supa",
+        "url": "https://open.spotify.com/album/0C35dCaP5mabObx9eIplwG"
+      },
+      "artists": [
+        {
+          "name": "Kevin Boine",
+          "url": "https://open.spotify.com/artist/7vjysb7HY9cLyDyHCMEtZu"
+        }
+      ],
+      "duration_ms": 172106,
+      "name": "Supa",
+      "url": "https://open.spotify.com/track/5oPb3OoSRF8KCjkZ8lSwSE"
     }
   ],
   "unique_name": "Livet p\u00e5 B\u00f8gda!",

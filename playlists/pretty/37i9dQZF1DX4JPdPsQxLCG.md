@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes to soundtrack your weekend\. Cover: The Tragically Hip
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,238 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,244 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,14 +92,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 82 | [Sun in an Empty Room](https://open.spotify.com/track/4r1AS456lSXXXv6aVpDT4e) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reunion Tour](https://open.spotify.com/album/1RIXytPt0J9WcBOvsklInr) | 4:00 |
 | 83 | [Years In The Making](https://open.spotify.com/track/6oqg3JVXv3ocNkLlAVfEFN) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Blink Once](https://open.spotify.com/album/49JNEHi48l2G1EvAppNWLT) | 2:57 |
 | 84 | [She Ain't Pretty](https://open.spotify.com/track/3lQl6N5vnASpox2hdHpH2w) | [The Northern Pikes](https://open.spotify.com/artist/2BLAzgwe8OzvLOPTZDBCtw) | [Snow In June](https://open.spotify.com/album/51UDRztqnNOkq3WLIDKGAa) | 2:43 |
-| 85 | [Hot Girls In Love](https://open.spotify.com/track/1pB5Y2BPLez1J49KKKewUE) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [KEEP IT UP](https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i) | 3:59 |
-| 86 | [Load Me Up](https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:40 |
-| 87 | [Everything Is Alright](https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:13 |
-| 88 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
+| 85 | [Load Me Up](https://open.spotify.com/track/63PN42ugudZf4DDhXeWQ2M) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:40 |
+| 86 | [Hot Girls In Love](https://open.spotify.com/track/1pB5Y2BPLez1J49KKKewUE) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [KEEP IT UP](https://open.spotify.com/album/5n81anOT1X7UnSHtq4PL2i) | 3:59 |
+| 87 | [American Psycho](https://open.spotify.com/track/7kHMq0z0nKPYDDIXltRzij) | [Treble Charger](https://open.spotify.com/artist/24DYOmDNLWoZxLh1SbNpSY) | [Wide Awake Bored](https://open.spotify.com/album/0AYMaqYA1iUckwV5lFLKCu) | 3:24 |
+| 88 | [Everything Is Alright](https://open.spotify.com/track/42lrhaZzqJqCYHlfQTGozP) | [The Glorious Sons](https://open.spotify.com/artist/5CPxrqCStgt6AfI4fLiedH) | [Young Beauties and Fools](https://open.spotify.com/album/7bauAaXGIb5m0O5zliJKwE) | 3:13 |
 | 89 | [Highway of Heroes \- Remastered](https://open.spotify.com/track/30NBRD11nWJX2lRMVC2hDI) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Time Capsule](https://open.spotify.com/album/0NIV4KxIC0ed3d5PTdlPYQ) | 3:51 |
 | 90 | [Plea from a Cat Named Virtute](https://open.spotify.com/track/6FfMiOK3Ma2GNAbjbGxFVn) | [The Weakerthans](https://open.spotify.com/artist/1US3cA3tVZ50O7n4xE1o0K) | [Reconstruction Site](https://open.spotify.com/album/14gpuI6JNy9gekaT0p6m9N) | 3:49 |
-| 91 | [Bad Timing \- 2012 Remaster](https://open.spotify.com/track/1DXCKvUwlBAZJf9TuQweQb) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:09 |
-| 92 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 |
+| 91 | [Hello Time Bomb](https://open.spotify.com/track/60VbLbx7B1ST4zYJBatjne) | [Matthew Good Band](https://open.spotify.com/artist/0BwxeEcojb5X47ugNMQvhL) | [Beautiful Midnight](https://open.spotify.com/album/5ISNKUHRn9zX5vM7Z6Khka) | 3:58 |
+| 92 | [Bad Timing \- 2012 Remaster](https://open.spotify.com/track/1DXCKvUwlBAZJf9TuQweQb) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [Five Days in July](https://open.spotify.com/album/38xKbwxuitwGAgjTPoEnWm) | 5:09 |
 | 93 | [Wheat Kings](https://open.spotify.com/track/6s7xf54h0BGyohJHlgMj2J) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Yer Favourites](https://open.spotify.com/album/6tcv9H1TNubc9o0gy2eIAG) | 4:19 |
 | 94 | [Ocean Pearl](https://open.spotify.com/track/6mJsaJ0U6abpPVPPAcAF2r) | [54\-40](https://open.spotify.com/artist/1Y4l4YawNAZndGBSrZxb3N) | [Smilin' Buddha Cabaret](https://open.spotify.com/album/1C62w5tRzjcNJEA5SlHglE) | 3:27 |
 | 95 | [Closing Time](https://open.spotify.com/track/2MeYsitFbcxoNVCO31Vjmz) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [The Future](https://open.spotify.com/album/7E4FRoU4Pk0WuO1SQMV1Bo) | 5:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 99 | [Poor Ol' Broken Hearted Me](https://open.spotify.com/track/5tSLSixFTTLmiDmU3jlsuk) | [The Trews](https://open.spotify.com/artist/2mCd5QO8EUB5rmbGUbCrTJ) | [Den of Thieves](https://open.spotify.com/album/43B4a3MCUaoQ5kbYGD6IGF) | 4:18 |
 | 100 | [I'm An Adult Now](https://open.spotify.com/track/3V1rmBGMWs3GmcM8wkxRki) | [The Pursuit Of Happiness](https://open.spotify.com/artist/0lVGx5D7ylaycWxIdGXMt0) | [Love Junk](https://open.spotify.com/album/31BdrZHZlWKIGjoy0aaplt) | 4:29 |
 
-Snapshot ID: `MTY1MTUxNTQwMCwwMDAwMDAwMDY3OWE4MjA5NzM2NmU0ZWZhNDIyNjM1MTJiMWM2ZDlm`
+Snapshot ID: `MTY1MTUxNTQwMCwwMDAwMDAwMDU1YjZmYTQ0MjQ2M2RkNTBmNmZjODI2OWY5ODQ3N2Y5`

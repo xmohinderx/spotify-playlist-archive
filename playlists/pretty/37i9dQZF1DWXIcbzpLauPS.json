@@ -1,12 +1,12 @@
 {
   "description": "This is the new Core at its finest. Cover: Norma Jean",
-  "num_followers": 868195,
+  "num_followers": 868202,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMDZlYjE0N2FhOGRiNDUxYjEzNTY0YjJlOWZlNDJjODUz",
+  "snapshot_id": "MTY2MDMwOTIwMCwwMDAwMDAwMGI1MzhjZWY3NzU0ZDdmNGM1NDA5ZmIyNDE1YTljYTc2",
   "tracks": [
     {
       "added_at": "2022-08-12 13:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Lifestyles of the Sick & Dangerous",
-        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
-      },
-      "artists": [
-        {
-          "name": "Blind Channel",
-          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
-        }
-      ],
-      "duration_ms": 189482,
-      "name": "Alive or Only Burning",
-      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/0aT6W0YSIzX0mnIOsQSeJc"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 188057,
       "name": "Fever",
       "url": "https://open.spotify.com/track/2FpylwTwA3dDi9eHbqHPIN"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Lifestyles of the Sick & Dangerous",
+        "url": "https://open.spotify.com/album/2kcAri2GgDTQD7k8k727Mb"
+      },
+      "artists": [
+        {
+          "name": "Blind Channel",
+          "url": "https://open.spotify.com/artist/3L58J6a7f0jyy2p6f3MSAs"
+        }
+      ],
+      "duration_ms": 189482,
+      "name": "Alive or Only Burning",
+      "url": "https://open.spotify.com/track/3OFbZftPhoSCFbxyNBzPF3"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Play Time",
-        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 216917,
-      "name": "Play Time",
-      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Your Love I'll Never Need",
         "url": "https://open.spotify.com/album/17yymNfb1oyI5bBn0BvXv2"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 200843,
       "name": "Your Love I'll Never Need",
       "url": "https://open.spotify.com/track/228ijND7JwCIpNt8sYlHYW"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Play Time",
+        "url": "https://open.spotify.com/album/4VCY5HtkP5SU8AqSo36y9K"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 216917,
+      "name": "Play Time",
+      "url": "https://open.spotify.com/track/5lWTv6nMPXeVFHifOIpX4U"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Circles",
+        "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
+      },
+      "artists": [
+        {
+          "name": "Dark Divine",
+          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
+        }
+      ],
+      "duration_ms": 182057,
+      "name": "Circles",
+      "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "What Is War",
         "url": "https://open.spotify.com/album/2Fig0Wysa46RMtW7JyNAc9"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 239975,
       "name": "What Is War",
       "url": "https://open.spotify.com/track/3qPDkJVT3nTadE0DowU2w5"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Circles",
-        "url": "https://open.spotify.com/album/48yuoZ91DAKQGAvfPwNYF0"
-      },
-      "artists": [
-        {
-          "name": "Dark Divine",
-          "url": "https://open.spotify.com/artist/3CMyREgx8ZErRUydXlmCDX"
-        }
-      ],
-      "duration_ms": 182057,
-      "name": "Circles",
-      "url": "https://open.spotify.com/track/0JIEEyj0EsqTZORin5bxnM"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Sunchaser",
-        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
-      },
-      "artists": [
-        {
-          "name": "The Wise Man's Fear",
-          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
-        }
-      ],
-      "duration_ms": 209564,
-      "name": "Sunchaser",
-      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Suffer",
         "url": "https://open.spotify.com/album/2Km1B3OkljeuAyGAmnxZT2"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 203290,
       "name": "Suffer",
       "url": "https://open.spotify.com/track/66ZM0tKioRCiW5TyPUdfpl"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Sunchaser",
+        "url": "https://open.spotify.com/album/7zz108OrdqIflvbY8boOgl"
+      },
+      "artists": [
+        {
+          "name": "The Wise Man's Fear",
+          "url": "https://open.spotify.com/artist/0Ir2YUbOtgP5GeOzQicQ44"
+        }
+      ],
+      "duration_ms": 209564,
+      "name": "Sunchaser",
+      "url": "https://open.spotify.com/track/06tK7kL7Q37Fx57FUWrB2H"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -887,6 +887,26 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Coffin",
+        "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
+      },
+      "artists": [
+        {
+          "name": "Holding Absence",
+          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
+        },
+        {
+          "name": "Alpha Wolf",
+          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
+        }
+      ],
+      "duration_ms": 264306,
+      "name": "Aching Longing",
+      "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "Breaking Point",
         "url": "https://open.spotify.com/album/0W8BIHCskTZcmkrvVEgjfK"
       },
@@ -947,26 +967,6 @@
       "duration_ms": 207627,
       "name": "Damage Done",
       "url": "https://open.spotify.com/track/3akrI54x0JHbERhlCT35bZ"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Coffin",
-        "url": "https://open.spotify.com/album/4qPVQisdRPip6QzcBXP7Xz"
-      },
-      "artists": [
-        {
-          "name": "Holding Absence",
-          "url": "https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU"
-        },
-        {
-          "name": "Alpha Wolf",
-          "url": "https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc"
-        }
-      ],
-      "duration_ms": 264306,
-      "name": "Aching Longing",
-      "url": "https://open.spotify.com/track/49UQKQom802JUWPq63lxEb"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
+        "name": "Fuckin' Up",
+        "url": "https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe"
+      },
+      "artists": [
+        {
+          "name": "Jynx",
+          "url": "https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Fuckin' Up",
+      "url": "https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
         "name": "NWWM",
         "url": "https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm"
       },
@@ -1091,22 +1107,6 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Fuckin' Up",
-        "url": "https://open.spotify.com/album/0Z8QwHGTJRzNvIaiVnsmLe"
-      },
-      "artists": [
-        {
-          "name": "Jynx",
-          "url": "https://open.spotify.com/artist/3nthcaxiFmmeqZun308NSM"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Fuckin' Up",
-      "url": "https://open.spotify.com/track/774PuvXYcdfGrw9mFrl27q"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
         "name": "Sentiments",
         "url": "https://open.spotify.com/album/7lMBWUI1LBTAEIY4RiKu6m"
       },
@@ -1119,6 +1119,22 @@
       "duration_ms": 252000,
       "name": "Low",
       "url": "https://open.spotify.com/track/1HG4TOUb5ETGmd6mJAwQrZ"
+    },
+    {
+      "added_at": "2022-07-08 00:00:00",
+      "album": {
+        "name": "Losing You",
+        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+      },
+      "artists": [
+        {
+          "name": "Our Promise",
+          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+        }
+      ],
+      "duration_ms": 198657,
+      "name": "Losing You",
+      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
     },
     {
       "added_at": "2022-07-29 13:00:00",
@@ -1139,18 +1155,18 @@
     {
       "added_at": "2022-07-08 00:00:00",
       "album": {
-        "name": "Losing You",
-        "url": "https://open.spotify.com/album/3xktdDHWRCYC4zkypdLlUb"
+        "name": "Heavy Pendulum",
+        "url": "https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t"
       },
       "artists": [
         {
-          "name": "Our Promise",
-          "url": "https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD"
+          "name": "Cave In",
+          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
         }
       ],
-      "duration_ms": 198657,
-      "name": "Losing You",
-      "url": "https://open.spotify.com/track/1if0Z6htYQenIrHO23yl28"
+      "duration_ms": 295690,
+      "name": "Careless Offering",
+      "url": "https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48"
     },
     {
       "added_at": "2022-07-08 00:00:00",
@@ -1167,22 +1183,6 @@
       "duration_ms": 234080,
       "name": "Nighthawk",
       "url": "https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl"
-    },
-    {
-      "added_at": "2022-07-08 00:00:00",
-      "album": {
-        "name": "Heavy Pendulum",
-        "url": "https://open.spotify.com/album/7tsD5NnZCCk1RxnIIYwY7t"
-      },
-      "artists": [
-        {
-          "name": "Cave In",
-          "url": "https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi"
-        }
-      ],
-      "duration_ms": 295690,
-      "name": "Careless Offering",
-      "url": "https://open.spotify.com/track/1Z9hcTK8kolIJz2387Qi48"
     },
     {
       "added_at": "2022-07-08 00:00:00",

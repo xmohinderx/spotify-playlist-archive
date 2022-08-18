@@ -1,28 +1,28 @@
 {
-  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Arunima Wali, Artwork: Isu Kim",
-  "num_followers": 33410,
+  "description": "The best new music by independent artists and labels from India, updated every Wednesday. Cover: Bharat Chauhan, Artwork: Isu Kim",
+  "num_followers": 33537,
   "original_name": "Fresh Finds India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNjg4NywwMDAwMDAwMGE0NjM0NGY0NzI3OWE3N2EyNzhjZDQwNDY3YzdkYTJm",
+  "snapshot_id": "MTY2MDcxNzk4MSwwMDAwMDAwMDM3NjEzNzAyZTllNDI0ZGQ2NjRmMzFiZDY4OWY0Nzdl",
   "tracks": [
     {
-      "added_at": "2022-08-10 04:48:07",
+      "added_at": "2022-08-17 06:33:01",
       "album": {
-        "name": "Miley Ho Tum Mujhe",
-        "url": "https://open.spotify.com/album/68VvlFeY3nXhDk65hLWWzu"
+        "name": "Usne Kaha Tha",
+        "url": "https://open.spotify.com/album/0WGDaag3axxDy7awsxpRq0"
       },
       "artists": [
         {
-          "name": "Arunima Wali",
-          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+          "name": "Bharat Chauhan",
+          "url": "https://open.spotify.com/artist/2sSTjTnRtGa3KrEjMoMaAe"
         }
       ],
-      "duration_ms": 242142,
-      "name": "Miley Ho Tum Mujhe",
-      "url": "https://open.spotify.com/track/1P0FLn4DFZxClrCogPGo38"
+      "duration_ms": 260894,
+      "name": "Usne Kaha Tha",
+      "url": "https://open.spotify.com/track/0CQqvd7bTiiRTDZzNmjifI"
     },
     {
       "added_at": "2022-08-10 04:48:07",
@@ -63,6 +63,38 @@
     {
       "added_at": "2022-08-10 04:48:07",
       "album": {
+        "name": "Miley Ho Tum Mujhe",
+        "url": "https://open.spotify.com/album/68VvlFeY3nXhDk65hLWWzu"
+      },
+      "artists": [
+        {
+          "name": "Arunima Wali",
+          "url": "https://open.spotify.com/artist/2XbJp0erWMnqGVUj3KqhKT"
+        }
+      ],
+      "duration_ms": 242142,
+      "name": "Miley Ho Tum Mujhe",
+      "url": "https://open.spotify.com/track/1P0FLn4DFZxClrCogPGo38"
+    },
+    {
+      "added_at": "2022-08-10 04:48:07",
+      "album": {
+        "name": "Dil Patang",
+        "url": "https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj"
+      },
+      "artists": [
+        {
+          "name": "KhoslaRaghu",
+          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Dil Patang",
+      "url": "https://open.spotify.com/track/1RbTj7XTHJ8K4AHjUwcR2h"
+    },
+    {
+      "added_at": "2022-08-10 04:48:07",
+      "album": {
         "name": "Tumse Pyaar Hai",
         "url": "https://open.spotify.com/album/2Zanv0MTkL3qlfC6ZecG9Y"
       },
@@ -91,22 +123,6 @@
       "duration_ms": 226771,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/62wIEo8z0vfdeYihXzrXsm"
-    },
-    {
-      "added_at": "2022-08-10 04:48:07",
-      "album": {
-        "name": "Dil Patang",
-        "url": "https://open.spotify.com/album/6IaWMrvJQLgudyIHa6r0dj"
-      },
-      "artists": [
-        {
-          "name": "KhoslaRaghu",
-          "url": "https://open.spotify.com/artist/20tfEk8GA9lO1i0cZsslKS"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Dil Patang",
-      "url": "https://open.spotify.com/track/1RbTj7XTHJ8K4AHjUwcR2h"
     },
     {
       "added_at": "2022-08-10 04:48:07",
@@ -439,7 +455,7 @@
     {
       "added_at": "2022-08-10 04:48:07",
       "album": {
-        "name": "Dairy",
+        "name": "Diary",
         "url": "https://open.spotify.com/album/0t8605FkHapnU78MDXeoB5"
       },
       "artists": [
@@ -457,7 +473,7 @@
         }
       ],
       "duration_ms": 216923,
-      "name": "Dairy",
+      "name": "Diary",
       "url": "https://open.spotify.com/track/4eO3IqF9x7MWmW3rDYcPzt"
     },
     {

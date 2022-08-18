@@ -4,7 +4,7 @@
 
 > Why so serious? Get through your workday with K\-Pop\. \(내적댄스 유발 노동요와 함께 신나는 업무시간을 보내세요!\)
 
-816 songs - 1 day 22 hr 21 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
+817 songs - 1 day 22 hr 24 min - [published](https://open.spotify.com/playlist/0D18aBi0Sv1wtiPPmYkA2H)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 | 2021-11-17 | 2022-07-27 |
 | [Rollin'](https://open.spotify.com/track/2VJOpzv5sBpstCX9venJr5) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/0mOAG4DOqKvV7uwDhlpFMm) | 3:17 | 2021-11-17 | 2022-07-29 |
 | [Rollin'](https://open.spotify.com/track/4ajYy2PqT3czWrpI4rgmIP) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/4GQIMQs8dxEjI3el1HCGzq) | 3:17 | 2022-07-08 | 2022-08-04 |
+| [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 | 2022-08-12 |  |
 | [Rollin' Rollin'](https://open.spotify.com/track/3Ds44Sf36tCFKmkV1IDr88) | [Love Potion](https://open.spotify.com/artist/2rGLBQaH5FnBgyl5VOgRZY) | [PRODUCE 48 \- 30 Girls 6 Concepts](https://open.spotify.com/album/1WzVAxZWm3JDNbI0jzk0dF) | 2:55 | 2021-11-17 | 2022-04-18 |
 | [Roly\-Poly](https://open.spotify.com/track/36r4cTfmjVo5JYqNBIcjk6) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [John Travolta Wanna Be](https://open.spotify.com/album/6dCsrXRW9GqW1N1Vwk2dMC) | 3:34 | 2022-01-03 | 2022-04-17 |
 | [Rough](https://open.spotify.com/track/3CVeGXpoPKJQ9JuhPp3mpL) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [SNOWFLAKE](https://open.spotify.com/album/0COnSwFb5qOhABUyWNw6Kp) | 3:29 | 2021-11-17 | 2022-08-13 |
@@ -723,7 +724,7 @@
 | [Tropical Love](https://open.spotify.com/track/5bZJLlIoG9tDY7YWMQEbRQ) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [OH MY GIRL SUMMER PACKAGE \[FALL IN LOVE\]](https://open.spotify.com/album/6Bqnwz3nM8RcHNTSKQ0DYU) | 3:24 | 2021-11-17 | 2022-06-14 |
 | [Trouble Maker](https://open.spotify.com/track/5HjqTCM49ZkHdk6dvGPaAC) | [Trouble Maker](https://open.spotify.com/artist/0ztjVBmFk6OuHq6XBBwMI9) | [Trouble Maker](https://open.spotify.com/album/3lTvAMhcWQCQcjXxEpjyKR) | 3:39 | 2022-01-03 | 2022-07-20 |
 | [TT](https://open.spotify.com/track/1nMbZ9OsVNSLEyijI80EST) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Twicecoaster:lane1](https://open.spotify.com/album/6kDty5vSEGHiTHS8OwXSCj) | 3:32 | 2021-11-17 | 2022-07-27 |
-| [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-11-17 |  |
+| [Uh\-Oh](https://open.spotify.com/track/1OBb2wZMXKNmtdyyejLIyL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Uh\-Oh](https://open.spotify.com/album/3PzrNuMGWGpp8WOfrmpkaU) | 3:27 | 2021-11-17 | 2022-08-18 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/0S38pb0gNLNpOeyV3w9gXb) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:51 | 2022-02-03 | 2022-07-29 |
 | [Universe \(Let's Play Ball\)](https://open.spotify.com/track/6hHrPwQYGp9kPL7xLZviBS) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Universe \(Let's Play Ball\)](https://open.spotify.com/album/31BJasH9nLradtMdJEIDXk) | 3:51 | 2022-02-03 | 2022-07-22 |
 | [Up & Down](https://open.spotify.com/track/6BKOhvRPY54uvfqWwg7MKi) | [EXID](https://open.spotify.com/artist/1xs6WFotNQSXweo0GXrS0O) | [AH YEAH](https://open.spotify.com/album/54r8xseUAz0c9ORidjAKmZ) | 3:09 | 2022-03-24 | 2022-04-15 |

@@ -1,12 +1,12 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 37142,
+  "num_followers": 37168,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODI0NzEwOCwwMDAwMDAwMDE4MjIzMjkwZmU1NTQxZDllZTA4OWRlMzE2Y2VlZWQ2",
+  "snapshot_id": "MTY1ODI0NzEwOCwwMDAwMDAwMDA0NTBhNGMyNWE1NDhkYTE2ZDUxYjA1YWZmM2JmZTBj",
   "tracks": [
     {
       "added_at": "2022-07-19 16:11:48",
@@ -343,18 +343,18 @@
     {
       "added_at": "2022-07-19 16:11:48",
       "album": {
-        "name": "The Long March",
-        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
+        "name": "Between City Walls",
+        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
       },
       "artists": [
         {
-          "name": "Le Trio Joubran",
-          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
+          "name": "Maysa Daw",
+          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
         }
       ],
-      "duration_ms": 285040,
-      "name": "The Trees We Wear",
-      "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
+      "duration_ms": 221043,
+      "name": "Enough",
+      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
     },
     {
       "added_at": "2022-07-19 16:11:48",
@@ -375,18 +375,18 @@
     {
       "added_at": "2022-07-19 16:11:48",
       "album": {
-        "name": "Between City Walls",
-        "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
+        "name": "The Long March",
+        "url": "https://open.spotify.com/album/5dJlSIaJS8ts3ZQkCC3jt5"
       },
       "artists": [
         {
-          "name": "Maysa Daw",
-          "url": "https://open.spotify.com/artist/3oCd1GdkMu8peoq2r9ceI6"
+          "name": "Le Trio Joubran",
+          "url": "https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI"
         }
       ],
-      "duration_ms": 221043,
-      "name": "Enough",
-      "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+      "duration_ms": 285040,
+      "name": "The Trees We Wear",
+      "url": "https://open.spotify.com/track/2A6iLQWuN0h6RW0hvFcIUz"
     },
     {
       "added_at": "2022-07-19 16:11:48",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2022-07-19 16:11:48",
       "album": {
-        "name": "Room",
-        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
-      },
-      "artists": [
-        {
-          "name": "Fadi Ammous",
-          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Room",
-      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
-    },
-    {
-      "added_at": "2022-07-19 16:11:48",
-      "album": {
         "name": "BEL7AFLI",
         "url": "https://open.spotify.com/album/1e2VKrq3Pt8TLflBCJLeEs"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 166421,
       "name": "BEL7AFLI",
       "url": "https://open.spotify.com/track/0YI7Z8BjqsYsySjD3qpOkK"
+    },
+    {
+      "added_at": "2022-07-19 16:11:48",
+      "album": {
+        "name": "Room",
+        "url": "https://open.spotify.com/album/6lAmjHAwltL9jRp1GAGCEX"
+      },
+      "artists": [
+        {
+          "name": "Fadi Ammous",
+          "url": "https://open.spotify.com/artist/1jDVc6g1Qkiwxnbjz02Gpi"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Room",
+      "url": "https://open.spotify.com/track/5u1ZzIFYcbEKhntyrZffO7"
     },
     {
       "added_at": "2022-07-19 16:11:48",

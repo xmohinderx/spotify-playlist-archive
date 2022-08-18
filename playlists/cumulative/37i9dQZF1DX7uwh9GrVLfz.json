@@ -217,7 +217,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 182866,
       "name": "Ato-Ichinene",
       "url": "https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD"
@@ -2859,7 +2859,7 @@
       ],
       "date_added": "2022-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 222093,
       "name": "MUZIC",
       "url": "https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS"
@@ -4916,6 +4916,24 @@
     },
     {
       "album": {
+        "name": "Endangered Species",
+        "url": "https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz"
+      },
+      "artists": [
+        {
+          "name": "LETEPATHYS",
+          "url": "https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74111,
+      "name": "The Wristband of THE HIGH-LOWS at My Parents' House",
+      "url": "https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt"
+    },
+    {
+      "album": {
         "name": "GIZMO\u3068\u3044\u3063\u3057\u3087",
         "url": "https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk"
       },
@@ -6019,6 +6037,24 @@
       "duration_ms": 174160,
       "name": "\u30a4\u30a8\u30b9\u30de\u30f3",
       "url": "https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB"
+    },
+    {
+      "album": {
+        "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb / \u30b3\u30de\u30f3\u30c9\u30d0\u30c8\u30eb!",
+        "url": "https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF"
+      },
+      "artists": [
+        {
+          "name": "\u6771\u4eac\u521d\u671f\u885d\u52d5",
+          "url": "https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287182,
+      "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
+      "url": "https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc"
     },
     {
       "album": {

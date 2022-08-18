@@ -1,12 +1,12 @@
 {
   "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Alfredo Olivas en portada.",
-  "num_followers": 296615,
+  "num_followers": 297100,
   "original_name": "Norte\u00f1o 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY3NTA0MSwwMDAwMDAwMDMxYmRiY2Q3MDg0OWI0MGQzOGU2NjMxY2U0MjUxM2Vk",
+  "snapshot_id": "MTY2MDY3NTA0MSwwMDAwMDAwMGQ0YTEzNTQxNTYzOTljNzdlY2VhZmNkYjY4MGRjOWRl",
   "tracks": [
     {
       "added_at": "2022-08-05 05:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "La Clase",
-        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 174272,
-      "name": "El Fat Tony",
-      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
-    },
-    {
-      "added_at": "2022-07-01 05:00:00",
-      "album": {
         "name": "Vive Y Dejame Vivir",
         "url": "https://open.spotify.com/album/7obSSQZvfcaXki0vc6U847"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 176208,
       "name": "El Vago De Los Nike",
       "url": "https://open.spotify.com/track/3MdhvQ8BprBhd4lYlgtPt2"
+    },
+    {
+      "added_at": "2022-07-01 05:00:00",
+      "album": {
+        "name": "La Clase",
+        "url": "https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 174272,
+      "name": "El Fat Tony",
+      "url": "https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN"
     },
     {
       "added_at": "2022-06-20 22:08:45",
@@ -677,20 +677,20 @@
       "url": "https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH"
     },
     {
-      "added_at": "2022-03-11 06:00:00",
+      "added_at": "2022-02-22 21:59:42",
       "album": {
-        "name": "Que las Cuartitos No Falten",
-        "url": "https://open.spotify.com/album/63zx8Ne7jC03DB4w2yyQ6k"
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+          "name": "Los Dorados",
+          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
         }
       ],
-      "duration_ms": 164690,
-      "name": "El H",
-      "url": "https://open.spotify.com/track/2JSp7tQTyQz6GA8Ko3m0Lw"
+      "duration_ms": 201084,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
     },
     {
       "added_at": "2022-06-10 05:00:00",
@@ -709,20 +709,20 @@
       "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
-      "added_at": "2022-02-22 21:59:42",
+      "added_at": "2022-03-11 06:00:00",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/0GrIKHwtfk4TpzwwJh9QPu"
+        "name": "Que las Cuartitos No Falten",
+        "url": "https://open.spotify.com/album/63zx8Ne7jC03DB4w2yyQ6k"
       },
       "artists": [
         {
-          "name": "Los Dorados",
-          "url": "https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 201084,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/5CYjYxgqGkYVXP70iVasim"
+      "duration_ms": 164690,
+      "name": "El H",
+      "url": "https://open.spotify.com/track/2JSp7tQTyQz6GA8Ko3m0Lw"
     },
     {
       "added_at": "2022-03-11 06:00:00",
@@ -909,20 +909,20 @@
       "url": "https://open.spotify.com/track/6E3InxDzcHJG7Pe4HrgxkV"
     },
     {
-      "added_at": "2022-01-14 06:00:00",
+      "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
-        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 232801,
-      "name": "Solo Un D\u00eda - En Vivo",
-      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
+      "duration_ms": 167370,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
     },
     {
       "added_at": "2022-04-15 05:00:00",
@@ -941,20 +941,20 @@
       "url": "https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-01-14 06:00:00",
       "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+        "name": "Pistiembre Todo El A\u00f1o (En Vivo)",
+        "url": "https://open.spotify.com/album/4Q7M6FhTy0WhQcqHr8uIQt"
       },
       "artists": [
         {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 167370,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c"
+      "duration_ms": 232801,
+      "name": "Solo Un D\u00eda - En Vivo",
+      "url": "https://open.spotify.com/track/2VZ4vDpWOszIVHzM6iLbmU"
     },
     {
       "added_at": "2022-07-01 05:00:00",
@@ -1421,10 +1421,10 @@
       "url": "https://open.spotify.com/track/1YloxcHYgx9UHpJGSY5dPx"
     },
     {
-      "added_at": "2022-07-01 05:00:00",
+      "added_at": "2022-08-05 05:00:00",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
+        "name": "Bola De Envidiosos",
+        "url": "https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ"
       },
       "artists": [
         {
@@ -1432,9 +1432,9 @@
           "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 187146,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
+      "duration_ms": 143146,
+      "name": "Bola De Envidiosos",
+      "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
     },
     {
       "added_at": "2022-08-05 05:00:00",
@@ -1533,10 +1533,10 @@
       "url": "https://open.spotify.com/track/0ihv6gQs9XoIr7me3M9sCy"
     },
     {
-      "added_at": "2022-08-05 05:00:00",
+      "added_at": "2022-07-01 05:00:00",
       "album": {
-        "name": "Bola De Envidiosos",
-        "url": "https://open.spotify.com/album/5G4dgSw1uii6SvLTofW2AQ"
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/5l4olNshYhYbGE5D5rOS9J"
       },
       "artists": [
         {
@@ -1544,9 +1544,9 @@
           "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
         }
       ],
-      "duration_ms": 143146,
-      "name": "Bola De Envidiosos",
-      "url": "https://open.spotify.com/track/7Ke15MvpKaBJ1cdsVst69S"
+      "duration_ms": 187146,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/08ckx6TnHaRZlp7fZdxxPj"
     },
     {
       "added_at": "2022-07-01 05:00:00",

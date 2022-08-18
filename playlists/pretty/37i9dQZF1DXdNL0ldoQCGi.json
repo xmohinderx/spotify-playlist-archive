@@ -1,15 +1,55 @@
 {
   "description": "Aquelas m\u00fasicas que voc\u00ea ouve viralizando por a\u00ed mas n\u00e3o sabe o nome.",
-  "num_followers": 107797,
+  "num_followers": 108057,
   "original_name": "faz a trend",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDU3ODU0MywwMDAwMDAwMGIyOWU2YWFkNjFiMzU4NWZkNDJkYTkyYTM2N2Q4YjY0",
+  "snapshot_id": "MTY2MDc2NDgxOSwwMDAwMDAwMDUyZWY4MmVjY2QyNjkyYzYzZmNjMTU0MTI1NjE1ZmY3",
   "tracks": [
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
+      "album": {
+        "name": "202 (Speed)",
+        "url": "https://open.spotify.com/album/6uH5sAKYYfL8BdqI2YOmhJ"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "duration_ms": 142006,
+      "name": "202 - Speed",
+      "url": "https://open.spotify.com/track/29wpflca4iReYa4UX7lSYg"
+    },
+    {
+      "added_at": "2022-08-17 19:33:39",
+      "album": {
+        "name": "202",
+        "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "202",
+      "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
+    },
+    {
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde",
         "url": "https://open.spotify.com/album/29k7p5Pj0CJbXL3chFwPIP"
@@ -25,7 +65,7 @@
       "url": "https://open.spotify.com/track/1KHWBJTX7apuuYsEmqZLa8"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Bafora o Lan\u00e7a (Remix)",
         "url": "https://open.spotify.com/album/7qzJO4kNeCHPM2jwtmoZyt"
@@ -45,7 +85,7 @@
       "url": "https://open.spotify.com/track/4NFkcqZ3jU2O9rgEbuluVn"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "S\u00e3o Jo\u00e3o Chegou",
         "url": "https://open.spotify.com/album/2mRd5JYntGJebVPtg7l3mu"
@@ -61,31 +101,7 @@
       "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "\u00c9 o Trem!",
-        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
-      },
-      "artists": [
-        {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "CalliCartel",
-          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
-        },
-        {
-          "name": "Victor WAO",
-          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
-        }
-      ],
-      "duration_ms": 120046,
-      "name": "N\u00e3o faz isso Comigo n\u00e3o",
-      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Put0 & Cheiroso",
         "url": "https://open.spotify.com/album/1lpHrSd1HburI64wruD7gp"
@@ -117,27 +133,47 @@
       "url": "https://open.spotify.com/track/71bp9kW2tipFFKy4EiQMLR"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
-        "name": "202",
-        "url": "https://open.spotify.com/album/5F5QjUVSgXHrXj7xbhSRW6"
+        "name": "Anestesiado",
+        "url": "https://open.spotify.com/album/4o3Aga2Oc5GbQNNE6dJySZ"
       },
       "artists": [
         {
-          "name": "Kweller",
-          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
-        },
-        {
-          "name": "Enzo Cello",
-          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+          "name": "Bruno Gadiol",
+          "url": "https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3"
         }
       ],
-      "duration_ms": 170000,
-      "name": "202",
-      "url": "https://open.spotify.com/track/3imzmQM2DPPVBLMiBBexRL"
+      "duration_ms": 174786,
+      "name": "Anestesiado",
+      "url": "https://open.spotify.com/track/148IPSNoDbIEVdfwIIsxHx"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
+      "album": {
+        "name": "\u00c9 o Trem!",
+        "url": "https://open.spotify.com/album/0D14aOyRKsQkrFVrB5idpx"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "CalliCartel",
+          "url": "https://open.spotify.com/artist/0s5MMDYKWYf4XksClf5Oiq"
+        },
+        {
+          "name": "Victor WAO",
+          "url": "https://open.spotify.com/artist/1ew4rMO5r0Oon1R9xZxo8Q"
+        }
+      ],
+      "duration_ms": 120046,
+      "name": "N\u00e3o faz isso Comigo n\u00e3o",
+      "url": "https://open.spotify.com/track/0zTZONeg1hFNplaZGc7siE"
+    },
+    {
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Cafajeste",
         "url": "https://open.spotify.com/album/3oNWLBkwPia3Qbap1KauRi"
@@ -157,7 +193,7 @@
       "url": "https://open.spotify.com/track/2sqNPoXHyxWoLP1Jhoeirj"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Poesia do Polly",
         "url": "https://open.spotify.com/album/0qReMRfKYJEQNmN4Byoxmd"
@@ -173,7 +209,7 @@
       "url": "https://open.spotify.com/track/5CJzNKWqr1gLUgZ2Yx7CZy"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Virando o Olhinho",
         "url": "https://open.spotify.com/album/4cvDlA9Wkz11INek2lPamN"
@@ -189,7 +225,7 @@
       "url": "https://open.spotify.com/track/3lQnTQFBxk1HMsj8aa4syY"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Tapinha",
         "url": "https://open.spotify.com/album/153Ri9zQdq540R7a2uYQ4q"
@@ -209,7 +245,7 @@
       "url": "https://open.spotify.com/track/51kGHvWwCdwbHWAVXnwPSC"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Plut\u00e3o",
         "url": "https://open.spotify.com/album/6guynEevDTunJTTAWhNFXc"
@@ -225,7 +261,7 @@
       "url": "https://open.spotify.com/track/4NWqFtTU1wnvlsU7XjeIGM"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Oi, Como Ce T\u00e1?",
         "url": "https://open.spotify.com/album/4Y0n73TdglcGIKQLuaRVou"
@@ -253,7 +289,7 @@
       "url": "https://open.spotify.com/track/5Z4TYur0O9OxmxIo6GC2Gq"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "1, 2, 3 (feat. Jason Derulo & De La Ghetto)",
         "url": "https://open.spotify.com/album/1jHSAfCHKUFx5imuezI7HE"
@@ -277,23 +313,7 @@
       "url": "https://open.spotify.com/track/4QtiVmuA88tPQiCOHZuQ5b"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Purple Hearts (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
-      },
-      "artists": [
-        {
-          "name": "Sofia Carson",
-          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
-        }
-      ],
-      "duration_ms": 176859,
-      "name": "Come Back Home",
-      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Hits 2021 (Mashup)",
         "url": "https://open.spotify.com/album/1d0uBY1kZF18Y3dRwCzafa"
@@ -313,35 +333,23 @@
       "url": "https://open.spotify.com/track/1R8bpZGAVUxeygsKfHnInQ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
-        "name": "Oompa Loompa",
-        "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
+        "name": "Purple Hearts (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/3wDjzYFS8eWE3bLSpXK4gd"
       },
       "artists": [
         {
-          "name": "slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "LARINHX",
-          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
-        },
-        {
-          "name": "Heavy Baile",
-          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
-        },
-        {
-          "name": "Leo Justi",
-          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
+          "name": "Sofia Carson",
+          "url": "https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ"
         }
       ],
-      "duration_ms": 194884,
-      "name": "Oompa Loompa",
-      "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
+      "duration_ms": 176859,
+      "name": "Come Back Home",
+      "url": "https://open.spotify.com/track/1I4dwH7C0jBAEtz5DjlJgQ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Viz\u00e3o de Cria 2",
         "url": "https://open.spotify.com/album/3W3xxYwImmhuDQhYCRb1Tl"
@@ -385,7 +393,7 @@
       "url": "https://open.spotify.com/track/4eTtgdIXEy2LvLeg7NNSov"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Take It Or Squeeze It",
         "url": "https://open.spotify.com/album/3XdJ1vN71jqV69uJ6oCsPL"
@@ -405,7 +413,7 @@
       "url": "https://open.spotify.com/track/4F3AZKEJubvPsl0hBArVBW"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "MORANGO DO NORDESTE",
         "url": "https://open.spotify.com/album/4mZhTD9apQZ00b5b3hhZzf"
@@ -425,7 +433,7 @@
       "url": "https://open.spotify.com/track/5becemiQUfhRwDOmwc7LDS"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "ZIMA",
         "url": "https://open.spotify.com/album/2jTUSGIQ6bUClribNqzoTf"
@@ -445,23 +453,35 @@
       "url": "https://open.spotify.com/track/68WBThXJjEP9XyzFHppAdX"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
-        "name": "Celebration (double disc version)",
-        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+        "name": "Oompa Loompa",
+        "url": "https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M"
       },
       "artists": [
         {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+          "name": "slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "LARINHX",
+          "url": "https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i"
+        },
+        {
+          "name": "Heavy Baile",
+          "url": "https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M"
+        },
+        {
+          "name": "Leo Justi",
+          "url": "https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0"
         }
       ],
-      "duration_ms": 240280,
-      "name": "Material Girl",
-      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+      "duration_ms": 194884,
+      "name": "Oompa Loompa",
+      "url": "https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Imagination & the Misfit Kid",
         "url": "https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0"
@@ -477,7 +497,23 @@
       "url": "https://open.spotify.com/track/1ZdhOMWyFR8Iv9eylMGYg2"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
+      "album": {
+        "name": "Celebration (double disc version)",
+        "url": "https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 240280,
+      "name": "Material Girl",
+      "url": "https://open.spotify.com/track/22sLuJYcvZOSoLLRYev1s5"
+    },
+    {
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "The Stranger (Legacy Edition)",
         "url": "https://open.spotify.com/album/1Mhn9VosyjtWn4dMPFlna6"
@@ -493,7 +529,7 @@
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Don't Play That Song (Mono)",
         "url": "https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7"
@@ -509,7 +545,7 @@
       "url": "https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Purrr!",
         "url": "https://open.spotify.com/album/6qLRpElUtErtN1VJa8tS5Y"
@@ -525,7 +561,7 @@
       "url": "https://open.spotify.com/track/1yvSMyZn27M4wEslpSvB0D"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
@@ -545,7 +581,7 @@
       "url": "https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Tem Cabar\u00e9 Essa Noite",
         "url": "https://open.spotify.com/album/3TZPyR5hOBzLOO6iBuhfL2"
@@ -565,7 +601,7 @@
       "url": "https://open.spotify.com/track/25rz3D4oroFC0GXm3xFXnG"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "YOU",
         "url": "https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z"
@@ -581,7 +617,7 @@
       "url": "https://open.spotify.com/track/0otRX6Z89qKkHkQ9OqJpKt"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Metflix",
         "url": "https://open.spotify.com/album/36GkjPO0oYcbKFCYtbPEHj"
@@ -605,7 +641,7 @@
       "url": "https://open.spotify.com/track/3ZtHHGpAPSWC7Gnios4lmK"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Me Chama de Amor (Arrochadeira Remix)",
         "url": "https://open.spotify.com/album/6VHZaHeeY9g9bYrgbyVsOq"
@@ -625,7 +661,7 @@
       "url": "https://open.spotify.com/track/1ih3nbYJ0lugsku6065BC5"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Coisas Que Eu S\u00f3 Falaria Brincando",
         "url": "https://open.spotify.com/album/0YtlM9VXtus41Th3TpIONE"
@@ -653,7 +689,7 @@
       "url": "https://open.spotify.com/track/0a3Bfmq7czUFUsk2VZUA28"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "SNAP",
         "url": "https://open.spotify.com/album/4Cv9qCS1q3FDyyRFHGyc1g"
@@ -669,7 +705,7 @@
       "url": "https://open.spotify.com/track/0QPRDC97rIQB3Jh3hrVJoH"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Z-Sides",
         "url": "https://open.spotify.com/album/6wOJyevNYXevqTZCn6Xk5T"
@@ -685,7 +721,7 @@
       "url": "https://open.spotify.com/track/4IhTXiZLKATmwhMZIb1GQN"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Pontos de Exclama\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb"
@@ -701,7 +737,7 @@
       "url": "https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
@@ -717,7 +753,7 @@
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Euphoria (Original Score from the HBO Series)",
         "url": "https://open.spotify.com/album/788r22Bhr3IHLTNPy8pZea"
@@ -733,7 +769,7 @@
       "url": "https://open.spotify.com/track/6EtKlIQmGPB9SX8UjDJG5s"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Ily",
         "url": "https://open.spotify.com/album/66lnwqrH113PHR2tGXoya7"
@@ -749,7 +785,7 @@
       "url": "https://open.spotify.com/track/0S8OkXHUuSHKyCTKomDxaw"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "The Wolf of Grape Street",
         "url": "https://open.spotify.com/album/3PE60QLwMWd92LYRAEcuml"
@@ -765,23 +801,7 @@
       "url": "https://open.spotify.com/track/0MoQI1EZGSHLhd5UBdxPol"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Candydrip",
-        "url": "https://open.spotify.com/album/6eiCnBFhY8yvhLjZzjIsxQ"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 207413,
-      "name": "Over",
-      "url": "https://open.spotify.com/track/23CKxEwKWsLs6LD5poGOLM"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "This Is The End: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/1SFKmqhTTEkE3PmSBEMpa3"
@@ -797,7 +817,7 @@
       "url": "https://open.spotify.com/track/4rTeOSYqwXNz5qPR2DUTFZ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Embaixador do Piseiro em Casa - Ao Vivo",
         "url": "https://open.spotify.com/album/2p8Ak3oGSuWvNZ5CW8pygX"
@@ -817,7 +837,7 @@
       "url": "https://open.spotify.com/track/4cOvirEduQ56JOQVMdWz5A"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Hard To Imagine The Neighbourhood Ever Changing",
         "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
@@ -833,7 +853,7 @@
       "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/3xG021y87AUy0wWIlWvGw4"
@@ -849,7 +869,7 @@
       "url": "https://open.spotify.com/track/7v3rmoy5jcn4h5UqwQyCM3"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "No Ouvidinho",
         "url": "https://open.spotify.com/album/4Ljc7jLwnwltjgugXbGOoq"
@@ -865,7 +885,7 @@
       "url": "https://open.spotify.com/track/4QWumyD2uwiePBBha9XBHI"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "I\u2019m Tired (with Zendaya) - Bonus Track",
         "url": "https://open.spotify.com/album/28phJkFTSPLnwo555dFLKu"
@@ -885,23 +905,7 @@
       "url": "https://open.spotify.com/track/6LtHYDgYHRCHoKK3snfr2w"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Rocking A Cardigan in Atlanta",
-        "url": "https://open.spotify.com/album/7ePcmHng6bcS27DmaD9D95"
-      },
-      "artists": [
-        {
-          "name": "lil Shordie Scott",
-          "url": "https://open.spotify.com/artist/1r29dFdSenwksTQdkH7r6I"
-        }
-      ],
-      "duration_ms": 96825,
-      "name": "Rocking A Cardigan in Atlanta",
-      "url": "https://open.spotify.com/track/0N0h5lXc4HOiLgGb9EZi8m"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "M\u00e1quina do Tempo",
         "url": "https://open.spotify.com/album/6ehm0SMBBoSxH8oSrFXre6"
@@ -917,7 +921,7 @@
       "url": "https://open.spotify.com/track/2XymTaHTrQWDEuSyhfZvqF"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "My World 2.0",
         "url": "https://open.spotify.com/album/3BmcYMh0KYsimWL6p2gPa9"
@@ -937,7 +941,7 @@
       "url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Trouble Deluxe Edition",
         "url": "https://open.spotify.com/album/77eKpEVxmSr1RhqMlirlTF"
@@ -953,7 +957,7 @@
       "url": "https://open.spotify.com/track/4v7DCN09hgXkKazefkznDQ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Boyfriend",
         "url": "https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc"
@@ -969,7 +973,7 @@
       "url": "https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Confident",
         "url": "https://open.spotify.com/album/56yYgfX6M5FlpETfyZSHkn"
@@ -985,7 +989,7 @@
       "url": "https://open.spotify.com/track/3uwnnTQcHM1rDqSfA4gQNz"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
@@ -1001,7 +1005,7 @@
       "url": "https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Cry Baby (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY"
@@ -1017,7 +1021,7 @@
       "url": "https://open.spotify.com/track/03f7xZmt2wHCIDJBFPK8G4"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Mad Love The Prequel",
         "url": "https://open.spotify.com/album/5xrOcCoO3jkXRjHQjfESM6"
@@ -1037,7 +1041,7 @@
       "url": "https://open.spotify.com/track/48QmG1dfvMuYLxMPt7KSRA"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "PIRATA",
         "url": "https://open.spotify.com/album/2LeCiUHBSmUMyrclDEEBly"
@@ -1053,7 +1057,7 @@
       "url": "https://open.spotify.com/track/6EDj1nbl9wo6ivGI1t59G4"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "All For Us (from the HBO Original Series Euphoria)",
         "url": "https://open.spotify.com/album/6x4UQQ7TVOja89iXV047Zo"
@@ -1073,7 +1077,7 @@
       "url": "https://open.spotify.com/track/10hMM5nsZQf66ldBlgWBfG"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Rihanna",
         "url": "https://open.spotify.com/album/6DoJq2RqQevgGMkpAFuPtw"
@@ -1089,27 +1093,7 @@
       "url": "https://open.spotify.com/track/2OmSPqvPsPK5m5X6UByh5S"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Senta Danadinha",
-        "url": "https://open.spotify.com/album/3i0hdb3jIlK1QNcrAnHi8k"
-      },
-      "artists": [
-        {
-          "name": "Fillipe Dom",
-          "url": "https://open.spotify.com/artist/0QMWLYwcO27Ypn8Qr1xJ5m"
-        },
-        {
-          "name": "Ruivinha de Marte",
-          "url": "https://open.spotify.com/artist/5Xx8dipXXNS0AjPDULXA0z"
-        }
-      ],
-      "duration_ms": 180645,
-      "name": "Senta Danadinha",
-      "url": "https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Motivando a la Yal",
         "url": "https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF"
@@ -1125,7 +1109,7 @@
       "url": "https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Toxic Pony",
         "url": "https://open.spotify.com/album/0foeyhY6LY8jZazsuQvSXf"
@@ -1149,7 +1133,7 @@
       "url": "https://open.spotify.com/track/6QHXcb0eFwOKZOZ9bOFmxm"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Tom's Diner",
         "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
@@ -1169,23 +1153,7 @@
       "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Notion",
-        "url": "https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx"
-      },
-      "artists": [
-        {
-          "name": "The Rare Occasions",
-          "url": "https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt"
-        }
-      ],
-      "duration_ms": 195120,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Hyperion",
         "url": "https://open.spotify.com/album/0JA38Ekhsv43y2lBj5GQkQ"
@@ -1205,7 +1173,7 @@
       "url": "https://open.spotify.com/track/2vXKRlJBXyOcvZYTdNeckS"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Black Star Elephant",
         "url": "https://open.spotify.com/album/6zXb9FQMzawvY2Au8Kxky3"
@@ -1221,23 +1189,7 @@
       "url": "https://open.spotify.com/track/1fidCEsYlaVE3pHwKCvpFZ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Vs Head Vs Heart",
-        "url": "https://open.spotify.com/album/53QfQ7ykD9nVoTaCvsdVi8"
-      },
-      "artists": [
-        {
-          "name": "Emma Louise",
-          "url": "https://open.spotify.com/artist/1A96iePIMNFBjLrjXEl718"
-        }
-      ],
-      "duration_ms": 202907,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5sAYqcQTEQbTbxdcqI4b8v"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "U Are My High",
         "url": "https://open.spotify.com/album/0LMzMzG385642dtYwsVLkq"
@@ -1253,7 +1205,7 @@
       "url": "https://open.spotify.com/track/3S7A85bAWOd6ltk6r2ANOI"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Mujeriego",
         "url": "https://open.spotify.com/album/43sxUsU622oLloqafw61vN"
@@ -1269,7 +1221,7 @@
       "url": "https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Chase Atlantic",
         "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
@@ -1285,7 +1237,7 @@
       "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Heaven Or Hell",
         "url": "https://open.spotify.com/album/7z4GhRfLqfSkqrj5F3Yt2B"
@@ -1301,23 +1253,7 @@
       "url": "https://open.spotify.com/track/7AzlLxHn24DxjgQX73F9fU"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Tell Me It's Real (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4m8XN9CKqve1ExYBnNu5kt"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 229173,
-      "name": "Atlantis",
-      "url": "https://open.spotify.com/track/1Fid2jjqsHViMX6xNH70hE"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
@@ -1333,7 +1269,7 @@
       "url": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Public Displays Of Affection",
         "url": "https://open.spotify.com/album/2ngrG39dI2ofhCxjmFnKv5"
@@ -1349,23 +1285,7 @@
       "url": "https://open.spotify.com/track/3M5azWqeZbfoVkGXygatlb"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Serotonin Dreams",
-        "url": "https://open.spotify.com/album/1I79ZTFJ5FVLwMYRWvhk73"
-      },
-      "artists": [
-        {
-          "name": "BoyWithUke",
-          "url": "https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp"
-        }
-      ],
-      "duration_ms": 168066,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/3M214U0mwSm041GsQR3nrO"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Own Brand Freestyle",
         "url": "https://open.spotify.com/album/7lR5tiB0EL8xr8HodoIXg7"
@@ -1389,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6Jzdxguk63s6CVVXHIrQ0x"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
@@ -1417,7 +1337,7 @@
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
     },
     {
-      "added_at": "2022-08-15 15:49:03",
+      "added_at": "2022-08-17 19:33:39",
       "album": {
         "name": "Donda",
         "url": "https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz"
@@ -1431,22 +1351,6 @@
       "duration_ms": 226652,
       "name": "Praise God",
       "url": "https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T"
-    },
-    {
-      "added_at": "2022-08-15 15:49:03",
-      "album": {
-        "name": "Nevermind (Remastered)",
-        "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
-      },
-      "artists": [
-        {
-          "name": "Nirvana",
-          "url": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
-        }
-      ],
-      "duration_ms": 232146,
-      "name": "Something In The Way",
-      "url": "https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s"
     }
   ],
   "unique_name": "faz a trend",

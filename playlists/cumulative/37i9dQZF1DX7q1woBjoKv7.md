@@ -2,7 +2,7 @@
 
 ### [Ripple Effect: Bay to LA ](https://open.spotify.com/playlist/37i9dQZF1DX7q1woBjoKv7)
 
-> California music breaking waves\. Cover: Kamaiyah
+> California music breaking waves\. Cover: LaRussell
 
 439 songs - 22 hr 1 min - [published](https://open.spotify.com/playlist/7aCz9WTkVveWry6ECm9qAk)
 
@@ -127,7 +127,7 @@
 | [Dreamchaser](https://open.spotify.com/track/2pgRCyR76WkLgnCXjsTQ5b) | [Murs](https://open.spotify.com/artist/2dWF6m2ksP9GN75fufFp16) | [Murray's Revenge](https://open.spotify.com/album/3KemAqTdgRAp1ZKInbgxyq) | 2:34 | 2022-06-23 | 2022-07-02 |
 | [DRILL MUSIC IN ZION](https://open.spotify.com/track/3GrHP2CwUNecBc1SdVMTJ8) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [DRILL MUSIC IN ZION](https://open.spotify.com/album/0UennjqMxb1SAsaf7bsSwE) | 4:31 | 2022-08-12 | 2022-08-14 |
 | [Drive](https://open.spotify.com/track/2vzbsLzYwD9St0phYhR0Lt) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg) | [Drive](https://open.spotify.com/album/0S7csLoFSrkT3eVLMxSdFa) | 2:25 | 2022-06-10 | 2022-07-30 |
-| [Drive](https://open.spotify.com/track/2VRI2vVGOyDhSAETbtG0bU) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes & Big.Ass.Kids present: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:25 | 2022-08-13 |  |
+| [Drive](https://open.spotify.com/track/2VRI2vVGOyDhSAETbtG0bU) | [See You Next Year](https://open.spotify.com/artist/6NV0b1K9BhoZYSBk9ZPnWv), [Fana Hues](https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg), [MIKE DEAN](https://open.spotify.com/artist/5TAipisjquAkq2o7lzMJyc) | [Pigeons & Planes presents: See You Next Year](https://open.spotify.com/album/7kcpj6h0JGPKOh59ZvbUdm) | 2:25 | 2022-08-13 |  |
 | [Drive By](https://open.spotify.com/track/6THXudILWQ4VZQ3mganpt8) | [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Babyface Ray](https://open.spotify.com/artist/3zZ88AwlTwfCJkowsFCvLA) | [Drive By](https://open.spotify.com/album/1irwcgHKeiwvpyXFXSAkqu) | 3:41 | 2022-08-12 | 2022-08-14 |
 | [Drones \(feat\. Kendrick Lamar, Snoop Dogg, Ty Dolla $ign & James Fauntleroy\)](https://open.spotify.com/track/3zdsJOO5FIAgukJUMgboV8) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [James Fauntleroy](https://open.spotify.com/artist/5ooSG9S0glqP5ZrqqaHBvT), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [DRONES](https://open.spotify.com/album/1cSZDrpp0lic8Y70I3JGUa) | 4:25 | 2022-01-29 | 2022-03-05 |
 | [Ease Up](https://open.spotify.com/track/4ykxlLzlR2B7OhpkPBMhUW) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Most Wanted \(Deluxe\)](https://open.spotify.com/album/46fxxm1oHMPzR51GElXrAt) | 3:41 | 2022-08-12 | 2022-08-14 |

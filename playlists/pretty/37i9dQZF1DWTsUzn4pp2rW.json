@@ -1,12 +1,12 @@
 {
   "description": "Get into the mood with beautiful collections of Jazz Pop tunes. Cover: Michael Bubl\u00e9",
-  "num_followers": 96181,
+  "num_followers": 96267,
   "original_name": "Jazz Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMDEzNThlNjJmZTQyZmYxN2E1MGI1NjU3NTg1NDk3NzAz",
+  "snapshot_id": "MTY2MDI1NTIwMCwwMDAwMDAwMGU2NTMwNDQxNmFiYzhmMDZjMDQ3NWJlYzIzZDBkYWJk",
   "tracks": [
     {
       "added_at": "2022-08-11 22:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Flores para Frida",
-        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
-      },
-      "artists": [
-        {
-          "name": "Flora Mart\u00ednez",
-          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
-        }
-      ],
-      "duration_ms": 163043,
-      "name": "You Belong To My Heart - Solamente una Vez",
-      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "I Ran (So Far Away)",
         "url": "https://open.spotify.com/album/7qhixjUIoIgMYA2Q3yjJi0"
       },
@@ -319,34 +303,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Love Is In The Picture",
-        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+        "name": "Flores para Frida",
+        "url": "https://open.spotify.com/album/2RnkhkkMf3ohTkeynGNfMq"
       },
       "artists": [
         {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+          "name": "Flora Mart\u00ednez",
+          "url": "https://open.spotify.com/artist/7gjr06Lie1BDJuefW3v9YQ"
         }
       ],
-      "duration_ms": 218142,
-      "name": "Love Is In The Picture",
-      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Gin & Jazz",
-        "url": "https://open.spotify.com/album/4toXuWuzSbedAkzn2yUMol"
-      },
-      "artists": [
-        {
-          "name": "Andy Jordan",
-          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Gin & Jazz",
-      "url": "https://open.spotify.com/track/4uItJBBvUNCx1KFX3mvkr5"
+      "duration_ms": 163043,
+      "name": "You Belong To My Heart - Solamente una Vez",
+      "url": "https://open.spotify.com/track/6s4lefaSddnWhOiT1hBre5"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -375,18 +343,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Mary's Prayer",
-        "url": "https://open.spotify.com/album/6vOp6eBQeJnEeG88NNEmR6"
+        "name": "Gin & Jazz",
+        "url": "https://open.spotify.com/album/4toXuWuzSbedAkzn2yUMol"
       },
       "artists": [
         {
-          "name": "Lizette",
-          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+          "name": "Andy Jordan",
+          "url": "https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Mary's Prayer",
-      "url": "https://open.spotify.com/track/0uCdUcTpmaHHnoapSi4B7e"
+      "duration_ms": 148000,
+      "name": "Gin & Jazz",
+      "url": "https://open.spotify.com/track/4uItJBBvUNCx1KFX3mvkr5"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -407,6 +375,38 @@
       "duration_ms": 190026,
       "name": "SOMETHIN' (feat. Ego Ella May)",
       "url": "https://open.spotify.com/track/5Uq45pwM3VHj9PeWDyjWLR"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Love Is In The Picture",
+        "url": "https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 218142,
+      "name": "Love Is In The Picture",
+      "url": "https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Mary's Prayer",
+        "url": "https://open.spotify.com/album/6vOp6eBQeJnEeG88NNEmR6"
+      },
+      "artists": [
+        {
+          "name": "Lizette",
+          "url": "https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Mary's Prayer",
+      "url": "https://open.spotify.com/track/0uCdUcTpmaHHnoapSi4B7e"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "For Seasons to Come",
-        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
+        "name": "A Little Love",
+        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
       },
       "artists": [
         {
-          "name": "Ginne Marker",
-          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
+          "name": "Quiana Lynell",
+          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
         }
       ],
-      "duration_ms": 240009,
-      "name": "Sunny Days",
-      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
+      "duration_ms": 200933,
+      "name": "Just A Little Lovin' (Early In The Mornin')",
+      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -791,34 +791,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "A Little Love",
-        "url": "https://open.spotify.com/album/3s13EHpoHIY8NeksK7rakt"
+        "name": "For Seasons to Come",
+        "url": "https://open.spotify.com/album/2tVnOZF7F6ohwI7al2TG0G"
       },
       "artists": [
         {
-          "name": "Quiana Lynell",
-          "url": "https://open.spotify.com/artist/1VnqxwpVqjPPJ77ij1tE48"
+          "name": "Ginne Marker",
+          "url": "https://open.spotify.com/artist/0NShpiolVrABxF4nKiSL39"
         }
       ],
-      "duration_ms": 200933,
-      "name": "Just A Little Lovin' (Early In The Mornin')",
-      "url": "https://open.spotify.com/track/0QLT2yy9khnCVaW1Q2vvmx"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Something My Heart Trusts",
-        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 277036,
-      "name": "Something My Heart Trusts",
-      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
+      "duration_ms": 240009,
+      "name": "Sunny Days",
+      "url": "https://open.spotify.com/track/4Ob8OMyF3uMIHEndVD3II1"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -835,6 +819,22 @@
       "duration_ms": 198800,
       "name": "Before I Do",
       "url": "https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Something My Heart Trusts",
+        "url": "https://open.spotify.com/album/0mOcEVuekT3TycU6CSAByw"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 277036,
+      "name": "Something My Heart Trusts",
+      "url": "https://open.spotify.com/track/3x6MMrVeJrWLbLCs6wgMf0"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Taller",
-        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 189733,
-      "name": "Endings Are Beginnings",
-      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "We Might As Well Dance",
         "url": "https://open.spotify.com/album/2CdQxLBNwamLhBAwqMd26n"
       },
@@ -1403,6 +1387,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Taller",
+        "url": "https://open.spotify.com/album/7jOdaYjTq3ErydG8Z8DVNj"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 189733,
+      "name": "Endings Are Beginnings",
+      "url": "https://open.spotify.com/track/2yURsJKJAQ8tqvArTu9BIL"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "The Best of George White Group",
         "url": "https://open.spotify.com/album/2Gyht2Z72A6pCwP8vQaw4P"
       },
@@ -1415,38 +1415,6 @@
       "duration_ms": 248921,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/11w63dY47cyo5GhSexU6YS"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 253246,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Back to the Start",
-        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
-      },
-      "artists": [
-        {
-          "name": "Gordon Robertson",
-          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
-        }
-      ],
-      "duration_ms": 196154,
-      "name": "Back to the Start",
-      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1471,18 +1439,34 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Out Of The Shadows",
-        "url": "https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH"
+        "name": "Back to the Start",
+        "url": "https://open.spotify.com/album/0NiWwfEyQTYgRltIOGJ0M6"
       },
       "artists": [
         {
-          "name": "Parry Ray",
-          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+          "name": "Gordon Robertson",
+          "url": "https://open.spotify.com/artist/2QOoyXdfUKSMCK1c7pDam5"
         }
       ],
-      "duration_ms": 264000,
-      "name": "She Used To Be Mine",
-      "url": "https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf"
+      "duration_ms": 196154,
+      "name": "Back to the Start",
+      "url": "https://open.spotify.com/track/4Na3IDBm27qhGq8dwz0ps2"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 253246,
+      "name": "Saturday",
+      "url": "https://open.spotify.com/track/7zHHQ5UI8P6BkZXvmjmlJM"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1539,6 +1523,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Out Of The Shadows",
+        "url": "https://open.spotify.com/album/5zzAVxK9UBimzOd6b5iyOH"
+      },
+      "artists": [
+        {
+          "name": "Parry Ray",
+          "url": "https://open.spotify.com/artist/6eWnjKdp3WMtFhIRFO3KRN"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "She Used To Be Mine",
+      "url": "https://open.spotify.com/track/66cyDInjEEpnQ25TdYeNvf"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "No Meanness",
         "url": "https://open.spotify.com/album/1ezRr7TQOVGNLILA2Oe8Xj"
       },
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "My One and Only Love",
+        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
+      },
+      "artists": [
+        {
+          "name": "Jose Reinoso",
+          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
+        }
+      ],
+      "duration_ms": 246423,
+      "name": "My One and Only Love",
+      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "Featuring EP",
         "url": "https://open.spotify.com/album/6HIiwDEN449szjTsa2SwDC"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 176543,
       "name": "I'd Run to the Moon",
       "url": "https://open.spotify.com/track/1y4g7ZmRG18Yxckjf4fXfP"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "My One and Only Love",
-        "url": "https://open.spotify.com/album/2o2InWRo5MckwfoAif3w6S"
-      },
-      "artists": [
-        {
-          "name": "Jose Reinoso",
-          "url": "https://open.spotify.com/artist/2yWY3Ocvnnu0at3c976leJ"
-        }
-      ],
-      "duration_ms": 246423,
-      "name": "My One and Only Love",
-      "url": "https://open.spotify.com/track/7gmngIN8brGgBP61hhX8rK"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Little Songs",
-        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
-      },
-      "artists": [
-        {
-          "name": "Alan Hsiao",
-          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
-        }
-      ],
-      "duration_ms": 211893,
-      "name": "Okay Far Away",
-      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/0Tm4Rdomm1U9gey2wKa09r"
       },
@@ -1763,6 +1747,38 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Little Songs",
+        "url": "https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC"
+      },
+      "artists": [
+        {
+          "name": "Alan Hsiao",
+          "url": "https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG"
+        }
+      ],
+      "duration_ms": 211893,
+      "name": "Okay Far Away",
+      "url": "https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Dynamite EP",
+        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
+      },
+      "artists": [
+        {
+          "name": "Equal Echo",
+          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
+        }
+      ],
+      "duration_ms": 210454,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "I Can't Make You Love Me",
         "url": "https://open.spotify.com/album/6S7MfLDElqYq7SvyTIXRYq"
       },
@@ -1779,26 +1795,6 @@
       "duration_ms": 256000,
       "name": "I Can't Make You Love Me",
       "url": "https://open.spotify.com/track/678zWynlu5RcyEnGUe0EQZ"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Make Someone Happy",
-        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 282702,
-      "name": "Make Someone Happy",
-      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1839,18 +1835,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "This Is Not Jazz",
-        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
+        "name": "Make Someone Happy",
+        "url": "https://open.spotify.com/album/1jjxzX4wNzRiTETj76qlrz"
       },
       "artists": [
         {
-          "name": "Marcell",
-          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+        },
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
         }
       ],
-      "duration_ms": 283106,
-      "name": "The Very Thought Of You",
-      "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
+      "duration_ms": 282702,
+      "name": "Make Someone Happy",
+      "url": "https://open.spotify.com/track/1NwlQ1rL7MkuJppWF7lnHb"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1871,18 +1871,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Dynamite EP",
-        "url": "https://open.spotify.com/album/4nR20Yz3OUZhFbg0dFgAsO"
+        "name": "This Is Not Jazz",
+        "url": "https://open.spotify.com/album/5EExcDadXPrglslXW9lHEM"
       },
       "artists": [
         {
-          "name": "Equal Echo",
-          "url": "https://open.spotify.com/artist/0W22sUJ7JzaGdjJvZ94H4X"
+          "name": "Marcell",
+          "url": "https://open.spotify.com/artist/0JvUFDnuWPbuyRa6ptVkLk"
         }
       ],
-      "duration_ms": 210454,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/5U16vigbwV6tA5v9XHCm4h"
+      "duration_ms": 283106,
+      "name": "The Very Thought Of You",
+      "url": "https://open.spotify.com/track/5cEDAmOy6U1AF9CAU7FvAk"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1899,22 +1899,6 @@
       "duration_ms": 201000,
       "name": "When The Stars Align",
       "url": "https://open.spotify.com/track/71dit7trObYaqZuVU8xsBV"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Sunshine & Lullaby",
-        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
-      },
-      "artists": [
-        {
-          "name": "Matthew Hermosura",
-          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
-        }
-      ],
-      "duration_ms": 247986,
-      "name": "Sunshine & Lullaby",
-      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -1943,6 +1927,22 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
+        "name": "Sunshine & Lullaby",
+        "url": "https://open.spotify.com/album/5KBuxVQaHTEobBxlMPglhT"
+      },
+      "artists": [
+        {
+          "name": "Matthew Hermosura",
+          "url": "https://open.spotify.com/artist/6lTUjzrkveIemv9jnBVMfy"
+        }
+      ],
+      "duration_ms": 247986,
+      "name": "Sunshine & Lullaby",
+      "url": "https://open.spotify.com/track/67qv5GoZCaVf5Z8613r5bY"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
         "name": "Reverie",
         "url": "https://open.spotify.com/album/4qSzTvuhsYZ04AwjSBJkpt"
       },
@@ -1955,6 +1955,22 @@
       "duration_ms": 229687,
       "name": "If I'd Had Your Heart",
       "url": "https://open.spotify.com/track/4L6ZAzBxxMbxu4uTVZCo6U"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Luxury and Waste",
+        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
+      },
+      "artists": [
+        {
+          "name": "Torun Eriksen",
+          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
+        }
+      ],
+      "duration_ms": 233384,
+      "name": "Be That Someone",
+      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2007,22 +2023,6 @@
       "duration_ms": 250000,
       "name": "You Are My Everything",
       "url": "https://open.spotify.com/track/3IDM9IoiIZge85sVvqYG0x"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Luxury and Waste",
-        "url": "https://open.spotify.com/album/1N3wClxD2MZop9UDEzAd7B"
-      },
-      "artists": [
-        {
-          "name": "Torun Eriksen",
-          "url": "https://open.spotify.com/artist/355ri5bzRz85zOK6injNyn"
-        }
-      ],
-      "duration_ms": 233384,
-      "name": "Be That Someone",
-      "url": "https://open.spotify.com/track/4szkIWrv3a1D9LhiozKTi2"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Softly Loudly",
-        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
-      },
-      "artists": [
-        {
-          "name": "Emma Nabarro-Steel",
-          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
-        }
-      ],
-      "duration_ms": 235539,
-      "name": "Love is Easy",
-      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "The Revolution of Me",
         "url": "https://open.spotify.com/album/7lrFoIBeZqBBguaeZBxqHn"
       },
@@ -2359,6 +2343,42 @@
       "duration_ms": 242526,
       "name": "Made Me Cry",
       "url": "https://open.spotify.com/track/6yzwqS4gK9tYfkHeZy9IBS"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Trying Times",
+        "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
+      },
+      "artists": [
+        {
+          "name": "Deelee Dube",
+          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
+        },
+        {
+          "name": "Russell Malone",
+          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+        }
+      ],
+      "duration_ms": 229682,
+      "name": "Still Trying",
+      "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Softly Loudly",
+        "url": "https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B"
+      },
+      "artists": [
+        {
+          "name": "Emma Nabarro-Steel",
+          "url": "https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q"
+        }
+      ],
+      "duration_ms": 235539,
+      "name": "Love is Easy",
+      "url": "https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2403,22 +2423,18 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Trying Times",
-        "url": "https://open.spotify.com/album/5BA2kBYkdmrhKWtk3YY8ti"
+        "name": "Beyond Mediocrity",
+        "url": "https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH"
       },
       "artists": [
         {
-          "name": "Deelee Dube",
-          "url": "https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb"
-        },
-        {
-          "name": "Russell Malone",
-          "url": "https://open.spotify.com/artist/4U5eHAv5qBumRcWEl84ZCb"
+          "name": "9m88",
+          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
         }
       ],
-      "duration_ms": 229682,
-      "name": "Still Trying",
-      "url": "https://open.spotify.com/track/6lYSEJANSrEwgUzNus8KRO"
+      "duration_ms": 223995,
+      "name": "Aim High",
+      "url": "https://open.spotify.com/track/4tGo8louHXYYJZT4dUuUyk"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2451,22 +2467,6 @@
       "duration_ms": 158641,
       "name": "Sleepy Time",
       "url": "https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
-        "name": "Beyond Mediocrity",
-        "url": "https://open.spotify.com/album/6gV2UvsUCLzOSpDa3OlFUH"
-      },
-      "artists": [
-        {
-          "name": "9m88",
-          "url": "https://open.spotify.com/artist/4PjY2961rc0MHE9zHYWEnH"
-        }
-      ],
-      "duration_ms": 223995,
-      "name": "Aim High",
-      "url": "https://open.spotify.com/track/4tGo8louHXYYJZT4dUuUyk"
     },
     {
       "added_at": "2022-08-11 22:00:00",
@@ -2523,22 +2523,6 @@
     {
       "added_at": "2022-08-11 22:00:00",
       "album": {
-        "name": "Can't Fight Love",
-        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
-      },
-      "artists": [
-        {
-          "name": "Marif\u00e9",
-          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Can't Fight Love",
-      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
-    },
-    {
-      "added_at": "2022-08-11 22:00:00",
-      "album": {
         "name": "Flights of Imagination",
         "url": "https://open.spotify.com/album/2eLF1fJClf8VcIPAOhQafc"
       },
@@ -2551,6 +2535,22 @@
       "duration_ms": 195601,
       "name": "And Time Froze",
       "url": "https://open.spotify.com/track/5iHOWdd8kt00RUGRp56Den"
+    },
+    {
+      "added_at": "2022-08-11 22:00:00",
+      "album": {
+        "name": "Can't Fight Love",
+        "url": "https://open.spotify.com/album/5sA7cYMhDl7Xqx8fPmHpZV"
+      },
+      "artists": [
+        {
+          "name": "Marif\u00e9",
+          "url": "https://open.spotify.com/artist/1NN1tNV02Nxhcw2c5YNj2X"
+        }
+      ],
+      "duration_ms": 256000,
+      "name": "Can't Fight Love",
+      "url": "https://open.spotify.com/track/2ffjgH34upcSYa0dKnCxvW"
     },
     {
       "added_at": "2022-08-11 22:00:00",

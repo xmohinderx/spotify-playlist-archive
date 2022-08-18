@@ -1,12 +1,12 @@
 {
   "description": "Traditional West African blues and North African desert blues. Cover: Songhoy Blues",
-  "num_followers": 3919,
+  "num_followers": 3934,
   "original_name": "African Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDUyZGY2NjhjZDM5YmU1ZWZlZDY4M2Y3ZmFmODM1YmU2",
+  "snapshot_id": "MTYwNjc5ODg2MCwwMDAwMDAwMDEyN2MzYTI2YTQyNzgyOTU0N2YzOTQxNDA3ZTQ1YTQ5",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -367,6 +367,22 @@
     {
       "added_at": "2020-12-01 05:01:00",
       "album": {
+        "name": "Elwan",
+        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
+      },
+      "artists": [
+        {
+          "name": "Tinariwen",
+          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
+        }
+      ],
+      "duration_ms": 224400,
+      "name": "Tiw\u00e0yyen",
+      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
+    },
+    {
+      "added_at": "2020-12-01 05:01:00",
+      "album": {
         "name": "Kulanjan",
         "url": "https://open.spotify.com/album/1WwCoePsIIlf5Szu128XKL"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 329866,
       "name": "Catfish Blues",
       "url": "https://open.spotify.com/track/0ZcNDNY1v8xoeYrZ0PUPao"
-    },
-    {
-      "added_at": "2020-12-01 05:01:00",
-      "album": {
-        "name": "Elwan",
-        "url": "https://open.spotify.com/album/41KpeN0qV6BBsuJgd8tZrE"
-      },
-      "artists": [
-        {
-          "name": "Tinariwen",
-          "url": "https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb"
-        }
-      ],
-      "duration_ms": 224400,
-      "name": "Tiw\u00e0yyen",
-      "url": "https://open.spotify.com/track/30A3vEsySPkeXzXeMITvwE"
     },
     {
       "added_at": "2020-12-01 05:01:00",

@@ -1,12 +1,12 @@
 {
   "description": "Some of the most beautiful French love songs. ",
-  "num_followers": 52226,
+  "num_followers": 52252,
   "original_name": "Je t'aime",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMDZlMDgwOTUxOWM0ODFjYTA3OGE4NDY1MmM0ZWEwMWQy",
+  "snapshot_id": "MTY0MjgwMDAwMywwMDAwMDAwMGMzOTUzYzA3MGE4NjU5Y2RiZjlkZjk4MjM0Y2UxNzAw",
   "tracks": [
     {
       "added_at": "2022-01-18 23:00:02",
@@ -553,22 +553,6 @@
       "url": "https://open.spotify.com/track/1nlG27VjnsZqh5t4PqPcPB"
     },
     {
-      "added_at": "2022-01-18 23:00:02",
-      "album": {
-        "name": "Le temps est bon",
-        "url": "https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw"
-      },
-      "artists": [
-        {
-          "name": "Isabelle Pierre",
-          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
-        }
-      ],
-      "duration_ms": 209360,
-      "name": "Le temps est bon",
-      "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
-    },
-    {
       "added_at": "2021-01-30 03:13:15",
       "album": {
         "name": "C\u0153ur de pirate",
@@ -583,6 +567,22 @@
       "duration_ms": 169106,
       "name": "Comme des enfants",
       "url": "https://open.spotify.com/track/5H3ChVfItCaDpj1vPbigyX"
+    },
+    {
+      "added_at": "2022-01-18 23:00:02",
+      "album": {
+        "name": "Le temps est bon",
+        "url": "https://open.spotify.com/album/3DLFupu4f4MmTLy6TZv4sw"
+      },
+      "artists": [
+        {
+          "name": "Isabelle Pierre",
+          "url": "https://open.spotify.com/artist/6defgaFYnHND3Zy5CZf8Ix"
+        }
+      ],
+      "duration_ms": 209360,
+      "name": "Le temps est bon",
+      "url": "https://open.spotify.com/track/3XXd9jqR6IpMtxMmbMuoyn"
     },
     {
       "added_at": "2021-01-30 03:13:15",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2021-01-30 03:13:15",
       "album": {
-        "name": "Elles chantent Cabrel",
-        "url": "https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0"
-      },
-      "artists": [
-        {
-          "name": "Ariane Brunet",
-          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
-        }
-      ],
-      "duration_ms": 186866,
-      "name": "Je l'aime \u00e0 mourir",
-      "url": "https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT"
-    },
-    {
-      "added_at": "2021-01-30 03:13:15",
-      "album": {
         "name": "La Voix 5",
         "url": "https://open.spotify.com/album/5lc1e0BZoxJSvbWI7l6KNW"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 247973,
       "name": "Tu ne sauras jamais",
       "url": "https://open.spotify.com/track/255h1g53lT3LmG6djeescl"
+    },
+    {
+      "added_at": "2021-01-30 03:13:15",
+      "album": {
+        "name": "Elles chantent Cabrel",
+        "url": "https://open.spotify.com/album/6t2XVmjJahrLkLpkcQfss0"
+      },
+      "artists": [
+        {
+          "name": "Ariane Brunet",
+          "url": "https://open.spotify.com/artist/4nW5qDmFfqfYsNEil8gqxg"
+        }
+      ],
+      "duration_ms": 186866,
+      "name": "Je l'aime \u00e0 mourir",
+      "url": "https://open.spotify.com/track/4Gkand3D5w5hXmyWmLtcdT"
     },
     {
       "added_at": "2021-01-30 03:13:15",

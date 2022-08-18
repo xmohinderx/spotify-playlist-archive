@@ -4,7 +4,7 @@
 
 > Progressive House Club Anthems\. IF YOU LOVE FESTIVAL MUSIC, THIS IS YOUR PLAYLIST! Check the biggest anthems of Progressive House for 2022 with the most energetic and emotional music updated every week.
 
-79 songs - 4 hr 13 min - not published yet
+79 songs - 4 hr 13 min - [published](https://open.spotify.com/playlist/1Hvu2MIsN55fb0PgQQ9jgu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

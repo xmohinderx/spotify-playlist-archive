@@ -846,6 +846,28 @@
     },
     {
       "album": {
+        "name": "Change of Pace",
+        "url": "https://open.spotify.com/album/2AbwZQbhhWiiW2OgVBmrF9"
+      },
+      "artists": [
+        {
+          "name": "Maddy O'Neal",
+          "url": "https://open.spotify.com/artist/2G4VZIbfdmr60dYUB0oIxF"
+        },
+        {
+          "name": "MOONZz",
+          "url": "https://open.spotify.com/artist/7cTaYwNT1P49mASgKULKab"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236800,
+      "name": "Change of Pace",
+      "url": "https://open.spotify.com/track/3e8crxi6lSdMuIF6cbuWau"
+    },
+    {
+      "album": {
         "name": "Chasing Paradise (with slenderbodies)",
         "url": "https://open.spotify.com/album/0B3RsQ68U3zlZlGmO1kIsi"
       },

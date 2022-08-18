@@ -4,7 +4,7 @@
 
 > Hits of the 70s, 80s and 90s for gamers who love things retro.
 
-427 songs - 1 day 5 hr 46 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
+428 songs - 1 day 5 hr 51 min - [published](https://open.spotify.com/playlist/28maSpA5bzCPJTSBtwdjUV)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Day One \(feat\. Big L, A.G., Lord Finesse, & O.C.\)](https://open.spotify.com/track/0xyR0utsJZGtHdcuBqTEVZ) | [Diamond D](https://open.spotify.com/artist/1YypK4ExBm4UY1TRAOur8M), [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [A.G.](https://open.spotify.com/artist/4thsoee1SA3GbbPofv6tZE), [Lord Finesse,](https://open.spotify.com/artist/5l1PJmnyWyc4zYB5aImAio), [O.C](https://open.spotify.com/artist/61NRYdCrAE7dDiBx1yPbYq) | [Rare & Unreleased](https://open.spotify.com/album/799MZNbFZ6Lgrqs8sJ6T6i) | 4:14 | 2021-05-19 | 2022-03-04 |
 | [Detroit Rock City](https://open.spotify.com/track/7Dtukb9NLJs1i0lohMlIC5) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Double Platinum \(Remastered Version\)](https://open.spotify.com/album/5geXfGrkFVo5eiVz4DL0Q9) | 3:35 | 2021-05-19 | 2022-07-29 |
 | [Don't Bring Me Down](https://open.spotify.com/track/7rjMG5Lm94fEdQ9XxD5WLg) | [Electric Light Orchestra](https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk) | [The Essential Electric Light Orchestra](https://open.spotify.com/album/0wzmqCoQ3rZTuCuIwK1jKp) | 4:03 | 2021-05-19 | 2022-07-29 |
-| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2021-05-19 |  |
+| [Don't Stop Believin'](https://open.spotify.com/track/4bHsxqR3GMrXTxEPLuK5ue) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 4:10 | 2021-05-19 |  |
 | [Don't Sweat The Technique](https://open.spotify.com/track/3YXlTtlYDXI2SyofNm1ccg) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Gold](https://open.spotify.com/album/7cEhLD8Rovs1U2wSFx6agz) | 4:21 | 2021-05-19 | 2022-04-25 |
 | [Down Under](https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Business As Usual](https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84) | 3:42 | 2021-05-19 | 2022-07-28 |
 | [Dr\. Feelgood](https://open.spotify.com/track/5X0bLSho0KTiSQYCI0IOcl) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Dr\. Feelgood 20th Anniversary \(Expanded Version\)](https://open.spotify.com/album/2roIODnunU2CI0QWY3T8H9) | 4:50 | 2021-05-19 | 2022-07-29 |
@@ -233,7 +233,7 @@
 | [Livin' Proof](https://open.spotify.com/track/6ETW8Q1Xd68dp4Ck1ieE7e) | [Group Home](https://open.spotify.com/artist/48elQHSJ3DmffHQpf89jxX) | [Livin' Proof](https://open.spotify.com/album/0Z1TmuXS8XNpznM7c3F0BU) | 4:14 | 2021-05-19 | 2022-01-10 |
 | [Living On The Ceiling](https://open.spotify.com/track/1LysqZOvGYyVNjPz0HYU7m) | [Blancmange](https://open.spotify.com/artist/3LtBdgNHdH0Ix8hCFZ4NJG) | [The Platinum Collection](https://open.spotify.com/album/7oS0WvPmX0SuhAwMPm2w6I) | 3:59 | 2021-05-19 | 2022-07-22 |
 | [London Calling \- Remastered](https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [London Calling \(Remastered\)](https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a) | 3:20 | 2021-05-19 | 2022-07-29 |
-| [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-05-19 |  |
+| [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 | 2021-05-19 | 2022-08-18 |
 | [Ma Baker](https://open.spotify.com/track/4SMVEIfMusETeLhl7ptFUh) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [The Best Year Of My Life: 1977](https://open.spotify.com/album/676zismhApKOdm0q9L4wiJ) | 4:35 | 2021-05-19 | 2022-07-29 |
 | [Machinehead](https://open.spotify.com/track/6dJODklApmve5IzgKWUqV2) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Sixteen Stone \(Remastered\)](https://open.spotify.com/album/5IJm0boSQuEBLiYNZJKV2Y) | 4:16 | 2021-05-19 | 2022-04-26 |
 | [Mama Said Knock You Out](https://open.spotify.com/track/6dQJI4hFolhMnZhSHxkuGc) | [LL Cool J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [All World](https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M) | 4:47 | 2021-05-19 | 2022-06-01 |
@@ -413,6 +413,7 @@
 | [White Wedding \- Part 1 \- 2001\- Remaster](https://open.spotify.com/track/4zmx3vEPgRPjRT2CszUsZo) | [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Billy Idol](https://open.spotify.com/album/7356ztInCyuUn4iQVdJxGy) | 4:10 | 2021-05-19 | 2022-07-25 |
 | [Who Am I \(What's My Name\)?](https://open.spotify.com/track/5XhkV07Vou38wnrzwURUOC) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/7f9KDGqY7X2VLBM5aA66KM) | 4:06 | 2021-05-19 | 2022-04-21 |
 | [Who Can It Be Now?](https://open.spotify.com/track/29r3fDexnrto7WABfpblNH) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [The Essential Men At Work](https://open.spotify.com/album/30aG9Rjezn1vxaYXrB8j3d) | 3:23 | 2021-05-19 | 2022-07-02 |
+| [Wicked Game](https://open.spotify.com/track/7w5AOd6HrDIHewHfpABEss) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Heart Shaped World](https://open.spotify.com/album/5Das42Qx4AoU9iT4M7PW3U) | 4:49 | 2021-05-19 |  |
 | [Wild Child](https://open.spotify.com/track/3iC3Numiy9P3AkF7iioKmx) | [W.A.S.P.](https://open.spotify.com/artist/3BVkDHWRvLJEyKdvhLbjsq) | [The Last Command](https://open.spotify.com/album/6208JTIcyn2wSRjiRXMTUv) | 5:12 | 2021-05-19 | 2022-07-20 |
 | [Wind Of Change](https://open.spotify.com/track/3ovjw5HZZv43SxTwApooCM) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Crazy World](https://open.spotify.com/album/3dLKM8bD8R3H3XnSOXGjTF) | 5:12 | 2021-05-19 |  |
 | [Work](https://open.spotify.com/track/52QkhYa8lRm7DD6Mb8996S) | [Gang Starr](https://open.spotify.com/artist/5cMgGlA1xGyeAB2ctYlRdZ) | [Moment Of Truth](https://open.spotify.com/album/4DSFC9FF6BSj0ciObLMylF) | 2:57 | 2021-05-19 | 2022-03-22 |

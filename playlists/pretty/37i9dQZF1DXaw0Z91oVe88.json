@@ -1,12 +1,12 @@
 {
   "description": "\uc6b0\uc0b0\uc744 \ub358\uc9c0\uace0 \ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uace0 \uc2f6\uc740 \ub0a0\uc5d0 \ub4e4\uc73c\uc138\uc694!",
-  "num_followers": 1199,
+  "num_followers": 1218,
   "original_name": "\ube57 \uc18d\uc73c\ub85c \ub6f0\uc5b4\ub4e4\uc5b4",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDQ0MSwwMDAwMDAwMDE4NjdhZjZkZGIyNTM1OGE1ODZmMjAyMWEwNWFlOGVi",
+  "snapshot_id": "MTY2MDMzMDQ0MSwwMDAwMDAwMDIyNjc3YjY1YmMwMDA0ZDMwMTE3MjJjNDlmZDRjMjMz",
   "tracks": [
     {
       "added_at": "2022-08-12 18:54:01",
@@ -75,22 +75,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "Like Water - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
-      },
-      "artists": [
-        {
-          "name": "WENDY",
-          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
-        }
-      ],
-      "duration_ms": 261013,
-      "name": "Like Water",
-      "url": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "Delight - The 2nd Mini Album",
         "url": "https://open.spotify.com/album/75sPv82oaDKYjtuuS4l3Vc"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
+        "name": "Like Water - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/1Ao5vWPO13f4l0ldwxOKL7"
+      },
+      "artists": [
+        {
+          "name": "WENDY",
+          "url": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
+        }
+      ],
+      "duration_ms": 261013,
+      "name": "Like Water",
+      "url": "https://open.spotify.com/track/37LhFxchiyAJVop5JgRZgY"
     },
     {
       "added_at": "2022-08-12 18:54:01",
@@ -243,22 +243,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
-      },
-      "artists": [
-        {
-          "name": "soowoo",
-          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
-        }
-      ],
-      "duration_ms": 168480,
-      "name": "All I Have",
-      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "Sool",
         "url": "https://open.spotify.com/album/1afTZ3mebjnJsWkg8n8WS7"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 230560,
       "name": "Sool (Feat. THAMA)",
       "url": "https://open.spotify.com/track/2wLsNE3k1TGAMm5JSqsYUX"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/1i69rOSur7z9iARKyz0tZZ"
+      },
+      "artists": [
+        {
+          "name": "soowoo",
+          "url": "https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo"
+        }
+      ],
+      "duration_ms": 168480,
+      "name": "All I Have",
+      "url": "https://open.spotify.com/track/6GJJ8nmShJUDSIyyjl9yqv"
     },
     {
       "added_at": "2022-08-12 18:54:01",
@@ -419,6 +419,26 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
+        "name": "Crush on You",
+        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        },
+        {
+          "name": "GRAY",
+          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+        }
+      ],
+      "duration_ms": 218886,
+      "name": "Whatever You Do",
+      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
         "name": "New Edition 42",
         "url": "https://open.spotify.com/album/0V3R0jOLSn5K6jqSdPMEAM"
       },
@@ -439,22 +459,18 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "Crush on You",
-        "url": "https://open.spotify.com/album/6hvSnbuh5dAzYqO87FZHWY"
+        "name": "Cold World",
+        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
       },
       "artists": [
         {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        },
-        {
-          "name": "GRAY",
-          "url": "https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W"
+          "name": "OVAN",
+          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
         }
       ],
-      "duration_ms": 218886,
-      "name": "Whatever You Do",
-      "url": "https://open.spotify.com/track/2NDXgC3MbeyCUxThv3uYBt"
+      "duration_ms": 208306,
+      "name": "Cold World",
+      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
     },
     {
       "added_at": "2022-08-12 18:54:01",
@@ -523,22 +539,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "Cold World",
-        "url": "https://open.spotify.com/album/1LV9rvmb5ibcrCKLcv6Pv2"
-      },
-      "artists": [
-        {
-          "name": "OVAN",
-          "url": "https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS"
-        }
-      ],
-      "duration_ms": 208306,
-      "name": "Cold World",
-      "url": "https://open.spotify.com/track/4N2qh0ovGWJOSPqCB2007q"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "ONE",
         "url": "https://open.spotify.com/album/2jiqNvn5avoJkcSNaUE1EA"
       },
@@ -603,22 +603,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "PAGE",
-        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
-      },
-      "artists": [
-        {
-          "name": "Kang Seung Yoon",
-          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
-        }
-      ],
-      "duration_ms": 224288,
-      "name": "WERE WE?",
-      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "Spring to Spring",
         "url": "https://open.spotify.com/album/2eWnAFsvpRhlP3j1nCFzCR"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
+        "name": "PAGE",
+        "url": "https://open.spotify.com/album/65UY7ED1QGhIlQ63pucq8g"
+      },
+      "artists": [
+        {
+          "name": "Kang Seung Yoon",
+          "url": "https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL"
+        }
+      ],
+      "duration_ms": 224288,
+      "name": "WERE WE?",
+      "url": "https://open.spotify.com/track/6p0Mxm4v5RUHaS2k3KHVBE"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
         "name": "#TUSM",
         "url": "https://open.spotify.com/album/60CuCZCEUJ8wQQCpAR9lf3"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "Fuzzy peach",
-        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
+        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
       },
       "artists": [
         {
-          "name": "Lyn",
-          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+          "name": "Yi Sung Yol",
+          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
         }
       ],
-      "duration_ms": 251653,
-      "name": "Fuzzy peach",
-      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
+      "duration_ms": 265000,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
     },
     {
       "added_at": "2022-08-12 18:54:01",
@@ -699,18 +699,34 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "Hundred Million Stars from the Sky (Original Television Soundtrack), Pt. 1",
-        "url": "https://open.spotify.com/album/00vsz6H264Nbmq4XXMgK7d"
+        "name": "YOU (feat .Beenzino)",
+        "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
       },
       "artists": [
         {
-          "name": "Yi Sung Yol",
-          "url": "https://open.spotify.com/artist/1uwchldM1ngqs8xCZg0DK9"
+          "name": "Lim Seul Ong",
+          "url": "https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR"
         }
       ],
-      "duration_ms": 265000,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6SHcJIhRWtiHGmWuAwlxUt"
+      "duration_ms": 255689,
+      "name": "YOU (feat. Beenzino)",
+      "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
+        "name": "Fuzzy peach",
+        "url": "https://open.spotify.com/album/26peULcrRxnzOoRCqQZEzx"
+      },
+      "artists": [
+        {
+          "name": "Lyn",
+          "url": "https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy"
+        }
+      ],
+      "duration_ms": 251653,
+      "name": "Fuzzy peach",
+      "url": "https://open.spotify.com/track/3mWDyC2TAIk71P5wbwyXod"
     },
     {
       "added_at": "2022-08-12 18:54:01",
@@ -747,22 +763,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "YOU (feat .Beenzino)",
-        "url": "https://open.spotify.com/album/3EDGzwwhumpoxgsqGwzpFn"
-      },
-      "artists": [
-        {
-          "name": "Lim Seul Ong",
-          "url": "https://open.spotify.com/artist/0lfuVlyKgbJIpdDXEfGRiR"
-        }
-      ],
-      "duration_ms": 255689,
-      "name": "YOU (feat. Beenzino)",
-      "url": "https://open.spotify.com/track/0U3rsGULd1uysrZo4B7bCj"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "Still",
         "url": "https://open.spotify.com/album/38b0mzFmSaM5JozS7Lfte4"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-08-12 18:54:01",
       "album": {
-        "name": "You Erase Me",
-        "url": "https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB"
-      },
-      "artists": [
-        {
-          "name": "ClaD",
-          "url": "https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t"
-        }
-      ],
-      "duration_ms": 181091,
-      "name": "You Erase Me",
-      "url": "https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e"
-    },
-    {
-      "added_at": "2022-08-12 18:54:01",
-      "album": {
         "name": "Let\u2019s Dance For Me",
         "url": "https://open.spotify.com/album/3ZCz0hoSW7vmlsop1BDDes"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 215840,
       "name": "Let\u2019s Dance For Me",
       "url": "https://open.spotify.com/track/4B98oSagUnhwOevFz4Pao4"
+    },
+    {
+      "added_at": "2022-08-12 18:54:01",
+      "album": {
+        "name": "You Erase Me",
+        "url": "https://open.spotify.com/album/13dKrAwZZZAVChkOuhZ9LB"
+      },
+      "artists": [
+        {
+          "name": "ClaD",
+          "url": "https://open.spotify.com/artist/1wcpuACr4nnlIO4EXptG6t"
+        }
+      ],
+      "duration_ms": 181091,
+      "name": "You Erase Me",
+      "url": "https://open.spotify.com/track/2EK0Oo72mbDGmAqhh9VT4e"
     },
     {
       "added_at": "2022-08-12 18:54:01",

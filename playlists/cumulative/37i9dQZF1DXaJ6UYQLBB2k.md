@@ -4,7 +4,7 @@
 
 > Re\-live the glory of Ambient from the 1990s.
 
-75 songs - 7 hr 26 min - [published](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
+76 songs - 7 hr 43 min - [published](https://open.spotify.com/playlist/099b4qP987Avm2d4iVZhyZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Pendulum Man](https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm) | [Bark Psychosis](https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi) | [Hex](https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP) | 9:53 | 2021-12-23 |  |
 | [Phaze](https://open.spotify.com/track/6BA4U2AJ2So49LRolXPuLI) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 1:30 | 2021-12-23 |  |
 | [Poa Alpina](https://open.spotify.com/track/4K4kedXFAuW6gn8iwgGFTw) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Substrata + Man with a Movie Camera](https://open.spotify.com/album/5QIf4hNIAksV1uMCXHVkAZ) | 4:11 | 2021-12-23 |  |
+| [Postscript](https://open.spotify.com/track/3g1hBwztBeoT9dK9w16ENA) | [Bowery Electric](https://open.spotify.com/artist/6a27jEzxHDgONdmADAGcej) | [Beat](https://open.spotify.com/album/6jbGBeBtwD05O0EV9RFjlC) | 16:41 | 2022-08-17 |  |
 | [Precipice](https://open.spotify.com/track/4oTeGVTZhMgn1ZwuJzroOu) | [Jeff Greinke](https://open.spotify.com/artist/3g94tTUOoqf4IweFjbAA30) | [Lost Terrain](https://open.spotify.com/album/2ByS4Re6ViTadx6HsPaPx5) | 5:14 | 2021-12-23 |  |
 | [Requiem](https://open.spotify.com/track/53ePThh79POIkszFoT3Fbj) | [Stevia](https://open.spotify.com/artist/2fA9w9Erri16xX73CJzK2M), [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Greenpeace](https://open.spotify.com/album/4mAIu3JQTKEmTLq2oiiz8w) | 7:27 | 2021-12-23 | 2022-07-29 |
 | [Resolution](https://open.spotify.com/track/3E3wz4dZ5iG71KQxbEfkmp) | [Adham Shaikh](https://open.spotify.com/artist/5jYKOT6F4yFRxLripcUnRu), [Tim Floyd](https://open.spotify.com/artist/6kq8fkuEqOfcqZhUHa69KG) | [Drift](https://open.spotify.com/album/1ZP8ZRPWDYfj6aGWtJua11) | 4:46 | 2021-12-23 |  |

@@ -1,12 +1,12 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 26587,
+  "num_followers": 26625,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTcxNzY0OSwwMDAwMDAwMGRiY2ZjOGFjNzg5ODhlZWI0MzBmZWVjZDQ4MzliNjlm",
+  "snapshot_id": "MTY1OTcxNzY0OSwwMDAwMDAwMGI2Yjk3YzVlOWFmNDQ2Y2I3YTQ3NDkwMzVmN2NmOGE0",
   "tracks": [
     {
       "added_at": "2022-08-05 16:40:49",
@@ -471,22 +471,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "skins n slime",
-        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
-      },
-      "artists": [
-        {
-          "name": "Oliver Coates",
-          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
-        }
-      ],
-      "duration_ms": 369400,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "Night Journeys II",
         "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 436776,
       "name": "Night Journeys II",
       "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
+        "name": "skins n slime",
+        "url": "https://open.spotify.com/album/6ZdXLyJH5kdDayoZL4peVQ"
+      },
+      "artists": [
+        {
+          "name": "Oliver Coates",
+          "url": "https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM"
+        }
+      ],
+      "duration_ms": 369400,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/7MztPpvttaNO1nxhfUxJ9v"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -723,6 +723,22 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
+        "name": "Connections",
+        "url": "https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0"
+      },
+      "artists": [
+        {
+          "name": "Ocoeur",
+          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
+        }
+      ],
+      "duration_ms": 318373,
+      "name": "Opposite Sides",
+      "url": "https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
         "name": "Past and Future Tense",
         "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
       },
@@ -779,22 +795,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Connections",
-        "url": "https://open.spotify.com/album/0XPEa03giPkkTHDsCHf3H0"
-      },
-      "artists": [
-        {
-          "name": "Ocoeur",
-          "url": "https://open.spotify.com/artist/4lybctGarwN1hdctv433Js"
-        }
-      ],
-      "duration_ms": 318373,
-      "name": "Opposite Sides",
-      "url": "https://open.spotify.com/track/5KwIpjS1J5h0ZaDlPtEL76"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "58500 (Daniel Avery Remix)",
         "url": "https://open.spotify.com/album/2t85UNkhR842v0V60Fb3N8"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Muckbirth",
-        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
-      },
-      "artists": [
-        {
-          "name": "Teset",
-          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Muckbirth",
-      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "Madre",
         "url": "https://open.spotify.com/album/5qxNqr74lxcQefXV9hqRiP"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 221775,
       "name": "An Absolute Living Hell, Pt. 1",
       "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
+        "name": "Muckbirth",
+        "url": "https://open.spotify.com/album/5CRO1vqjhQFgwsYyVzwn6Y"
+      },
+      "artists": [
+        {
+          "name": "Teset",
+          "url": "https://open.spotify.com/artist/7MbIeVKuMWsZnQXw4Uhim0"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Muckbirth",
+      "url": "https://open.spotify.com/track/7tMe5bFiL485sPdkT6VDXZ"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Breakdown",
-        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
-      },
-      "artists": [
-        {
-          "name": "Tentacle",
-          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
-        }
-      ],
-      "duration_ms": 447034,
-      "name": "Breakdown (The End of Chemical Romance)",
-      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "Razor (Foam and Sand Remix)",
         "url": "https://open.spotify.com/album/7avH6B4ow8bIPK0aAOYUky"
       },
@@ -967,22 +951,18 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Never The Right Time",
-        "url": "https://open.spotify.com/album/3DuVru3YXCKfrNajnEUlVR"
+        "name": "Breakdown",
+        "url": "https://open.spotify.com/album/1IqGcxtak2nImHCN0JZNc0"
       },
       "artists": [
         {
-          "name": "Andy Stott",
-          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
-        },
-        {
-          "name": "Alison Skidmore",
-          "url": "https://open.spotify.com/artist/0FgCQutC1MiV23DPuBDU0W"
+          "name": "Tentacle",
+          "url": "https://open.spotify.com/artist/52MyOkwwYswnDTHL4gvQap"
         }
       ],
-      "duration_ms": 270840,
-      "name": "The beginning",
-      "url": "https://open.spotify.com/track/6HgTlArv4GmaXKPprexTep"
+      "duration_ms": 447034,
+      "name": "Breakdown (The End of Chemical Romance)",
+      "url": "https://open.spotify.com/track/4GqaPXGufg6y8yrBnBgkjn"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -999,6 +979,26 @@
       "duration_ms": 472500,
       "name": "2c",
       "url": "https://open.spotify.com/track/4vVCKY4vnslc7dfJmN3mZC"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
+        "name": "Never The Right Time",
+        "url": "https://open.spotify.com/album/3DuVru3YXCKfrNajnEUlVR"
+      },
+      "artists": [
+        {
+          "name": "Andy Stott",
+          "url": "https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K"
+        },
+        {
+          "name": "Alison Skidmore",
+          "url": "https://open.spotify.com/artist/0FgCQutC1MiV23DPuBDU0W"
+        }
+      ],
+      "duration_ms": 270840,
+      "name": "The beginning",
+      "url": "https://open.spotify.com/track/6HgTlArv4GmaXKPprexTep"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "The landscape has become a bed",
-        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
-      },
-      "artists": [
-        {
-          "name": "Low Flung",
-          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
-        }
-      ],
-      "duration_ms": 299870,
-      "name": "Open plain",
-      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "Wants a Diamond Pivot Bright",
         "url": "https://open.spotify.com/album/2xs94fBaqCFtaf3zNmLvhC"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 177682,
       "name": "Valley Candle",
       "url": "https://open.spotify.com/track/4Hgz6gl0LnuNrLJI6QFELb"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
+        "name": "The landscape has become a bed",
+        "url": "https://open.spotify.com/album/4Bilo1qXu2xzjW1ZSvalK6"
+      },
+      "artists": [
+        {
+          "name": "Low Flung",
+          "url": "https://open.spotify.com/artist/7FRTM6sphATqwmzvNrGezw"
+        }
+      ],
+      "duration_ms": 299870,
+      "name": "Open plain",
+      "url": "https://open.spotify.com/track/730hlLtDWpD2i0492i9rME"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -1435,18 +1435,22 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Martes + Utop\u00eda",
-        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
+        "name": "Bucolic Architecture (Flug 8 Remix)",
+        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
       },
       "artists": [
         {
-          "name": "Murcof",
-          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
+          "name": "Yoann Pisterman",
+          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
+        },
+        {
+          "name": "Flug 8",
+          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
         }
       ],
-      "duration_ms": 399893,
-      "name": "Mir",
-      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
+      "duration_ms": 386754,
+      "name": "Bucolic Architecture - Flug 8 Remix",
+      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -1487,22 +1491,18 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Bucolic Architecture (Flug 8 Remix)",
-        "url": "https://open.spotify.com/album/6KWziNGstz2rpZS5H88PGW"
+        "name": "Martes + Utop\u00eda",
+        "url": "https://open.spotify.com/album/6NELWnONxOcazBuQfGyo1e"
       },
       "artists": [
         {
-          "name": "Yoann Pisterman",
-          "url": "https://open.spotify.com/artist/3LZxoiZhqiHHz5R1YcVC9A"
-        },
-        {
-          "name": "Flug 8",
-          "url": "https://open.spotify.com/artist/1TUyL6A6jprqDVEAJOZ29I"
+          "name": "Murcof",
+          "url": "https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd"
         }
       ],
-      "duration_ms": 386754,
-      "name": "Bucolic Architecture - Flug 8 Remix",
-      "url": "https://open.spotify.com/track/3cQWC4VNioX0gQVRXv8Yhi"
+      "duration_ms": 399893,
+      "name": "Mir",
+      "url": "https://open.spotify.com/track/6ws5eFRss9GyI0q8shl6U4"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
-        "name": "Acrobatic Thoughts",
-        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
-      },
-      "artists": [
-        {
-          "name": "Panoram",
-          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
-        }
-      ],
-      "duration_ms": 452968,
-      "name": "Wandering Frames",
-      "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
         "name": "Possessed (Original Score)",
         "url": "https://open.spotify.com/album/3qFUz77lFTarOn9nSzSkAY"
       },
@@ -1663,6 +1647,22 @@
     {
       "added_at": "2022-08-05 16:40:49",
       "album": {
+        "name": "Acrobatic Thoughts",
+        "url": "https://open.spotify.com/album/3rPskmtLpjAgGtbh1aZUXN"
+      },
+      "artists": [
+        {
+          "name": "Panoram",
+          "url": "https://open.spotify.com/artist/69sdy5pLF8VHpUAHL5lKO7"
+        }
+      ],
+      "duration_ms": 452968,
+      "name": "Wandering Frames",
+      "url": "https://open.spotify.com/track/13TVia1BQ0CThZeyiAHHIk"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
         "name": "The Flash",
         "url": "https://open.spotify.com/album/6ZMQKff7TtJQraOaXwVI9h"
       },
@@ -1675,22 +1675,6 @@
       "duration_ms": 337150,
       "name": "Don't Worry - Child Mix",
       "url": "https://open.spotify.com/track/0j9Waqd2mmYCStV7YiLgxQ"
-    },
-    {
-      "added_at": "2022-08-05 16:40:49",
-      "album": {
-        "name": "Nothing Lasts Forever",
-        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
-      },
-      "artists": [
-        {
-          "name": "Solee",
-          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
-        }
-      ],
-      "duration_ms": 286283,
-      "name": "Adagio I - Mut",
-      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-08-05 16:40:49",
@@ -1727,6 +1711,22 @@
       "duration_ms": 324000,
       "name": "Cradle - Patience Rework",
       "url": "https://open.spotify.com/track/66Qij0mjaVDgFiaQpQkPY3"
+    },
+    {
+      "added_at": "2022-08-05 16:40:49",
+      "album": {
+        "name": "Nothing Lasts Forever",
+        "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
+      },
+      "artists": [
+        {
+          "name": "Solee",
+          "url": "https://open.spotify.com/artist/0r0m8up7CjS8TJodH2HX7C"
+        }
+      ],
+      "duration_ms": 286283,
+      "name": "Adagio I - Mut",
+      "url": "https://open.spotify.com/track/6qgzqQRF5KVmzsd9PsFZmP"
     },
     {
       "added_at": "2022-08-05 16:40:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 
 > Real Rap\. All Pressure\. Cover: Big Boss Vette
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,309 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,409 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 24 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 |
 | 25 | [Big Steppa](https://open.spotify.com/track/4wS4YABWUMDxcbImu3llWL) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [You Still Here, Ho ?](https://open.spotify.com/album/42C76ZnwdWqEu6zs6NFW1A) | 2:27 |
 | 26 | [BIA BIA \(feat\. Lil Jon\)](https://open.spotify.com/track/23xteU6IlMeNxJ2sYcjHlR) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Lil Jon](https://open.spotify.com/artist/7sfl4Xt5KmfyDs2T3SVSMK) | [FOR CERTAIN](https://open.spotify.com/album/5B857SgrQIAmcJGj0sFOSg) | 2:05 |
-| 27 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
+| 27 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
 | 28 | [Trick](https://open.spotify.com/track/60kkJZwSjzmoXP9dOWUlqe) | [Erica Banks](https://open.spotify.com/artist/2SXhbucehn00OBVKhzxDyM) | [Diary of The Flow Queen](https://open.spotify.com/album/03CKGhq7xh22fxkhHGJxp2) | 3:07 |
-| 29 | [Type Shit \(feat\. Cardi B\)](https://open.spotify.com/track/4N4wemxs9Em6nJ5kXTjEsS) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Culture III](https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3) | 3:09 |
+| 29 | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/track/5pH8a5XwtyjHhGWXINFDgu) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Top Notch \(feat\. Fivio Foreign\)](https://open.spotify.com/album/6ZMqT0qr0Sh9lb1Ww2bU7M) | 2:49 |
 | 30 | [Record Straight](https://open.spotify.com/track/6i7mdZTIEUGD7jrc0xnPBV) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 1\)](https://open.spotify.com/album/3e9yHrVpvAh2xeIvG7WcQO) | 1:56 |
 | 31 | [BAFWM](https://open.spotify.com/track/47q42DLArt5uwS8oQso7Yy) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Redemption](https://open.spotify.com/album/3WGdvwAomZimfvzf1GT0Er) | 2:47 |
 | 32 | [Suck It Up](https://open.spotify.com/track/03qq2X85nmp16V4LJluQJ2) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Suck It Up](https://open.spotify.com/album/1cNGvkYmxFKI4hTS4pidxM) | 3:01 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZwCeILEyQAy.md) - [plain]
 | 42 | [M$\. Hardbody](https://open.spotify.com/track/7mnkT43jt8l9Cpg3UYRy8G) | [$hyfromdatre](https://open.spotify.com/artist/3f0iI02WmX2ozlN86BhnmC) | [No $hy $H!t Allowed](https://open.spotify.com/album/4LeMJPDlEX1A4n9kY1HXYa) | 2:05 |
 | 43 | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/track/3c7G8oF298vWlCsOKK2P5B) | [Big Jade](https://open.spotify.com/artist/50ZeZoB1p1mg7V2iGTI6od), [Peso Peso](https://open.spotify.com/artist/4sUMXGoB71qnOF7H691QGj) | [Pesos \(feat\. Peso Peso\)](https://open.spotify.com/album/3MhO1OnqbkMyXascwTDKs5) | 2:02 |
 | 44 | [Thief In The Night \(with G Herbo\)](https://open.spotify.com/track/46gUCMauloWD4iuobiQdsu) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [Trendsetter](https://open.spotify.com/album/5diRNQUhdOVkGo8TbWnMIx) | 2:46 |
-| 45 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
-| 46 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 |
+| 45 | [Gloss Up Broke Boy](https://open.spotify.com/track/1MfF2yFgnZxBUg7OajwaW3) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Casino Jizzle](https://open.spotify.com/artist/2QS0MtUaiAa88MigAiNev9) | [Gloss Up Broke Boy](https://open.spotify.com/album/6kxg2gokrJkrFt8acYAL0o) | 3:01 |
+| 46 | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/track/5WT4iHghHUOJkbxPq8MryJ) | [Girll Codee](https://open.spotify.com/artist/2yNSw1444IAEFmZBDr9saO), [HoodCelebrityy](https://open.spotify.com/artist/5t6cgFa6vbJbNuxUTgT1L9) | [Chaa Chaa Chaa \(feat\. HoodCelebrityy\)](https://open.spotify.com/album/4tXiLGssJW4PCETKkVmW5v) | 3:05 |
 | 47 | [Wat U Need](https://open.spotify.com/track/5K4zdrXD3WuDVBRsAIGCO9) | [E Chapo](https://open.spotify.com/artist/1B1yx0TYWWvufQuFoRqnL6) | [Wat U Need](https://open.spotify.com/album/0G3gjrxHd6QIbiSGxNBJ2h) | 2:01 |
 | 48 | [Talk](https://open.spotify.com/track/1r1s3410xYexj6RHM670dc) | [Renni Rucci](https://open.spotify.com/artist/5RnUS48fC3nHEjbKeb8TPz) | [Talk](https://open.spotify.com/album/6SJDmsoNuteasF86EPiZQK) | 2:01 |
 | 49 | [Not Gang \(feat\. EST Gee\)](https://open.spotify.com/track/5FomOoKIQFmXKalg8ORKf0) | [OMB Bloodbath](https://open.spotify.com/artist/791JV2CttYVOeGa9F6Kdu3), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Blood Sample](https://open.spotify.com/album/1XTLPFNI7FRwXRytYL2ny3) | 3:09 |
 | 50 | [Soufside](https://open.spotify.com/track/06cK6iwM27beDMNd9wNc7e) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Soufside](https://open.spotify.com/album/7Kq0Dzmw53JzS4NZEWtthg) | 1:50 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDFiZjY4MzkzY2M5NTg3YTU5MWJmMjQ0NzZmODBjOWMy`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMGI3YmQ2MGYwNTYwZjEzYWNhZDlhZTliZTZiYzExZmY0`

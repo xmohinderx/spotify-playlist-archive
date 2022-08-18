@@ -1,12 +1,12 @@
 {
   "description": "Classic soft rock. For that free and easy feeling.",
-  "num_followers": 83118,
+  "num_followers": 83231,
   "original_name": "Free & Easy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMDNhNDZmNmVkZTc5MzEzOGYxNjViOWZlNjVjMGRiNjlk",
+  "snapshot_id": "MTY1OTA2NzI2MCwwMDAwMDAwMGNhZDE4ODNlOTFhMTBjZjI4MDFhMDgxZDgyM2MxMTcw",
   "tracks": [
     {
       "added_at": "2021-04-22 18:12:12",
@@ -1181,6 +1181,22 @@
       "url": "https://open.spotify.com/track/2aT4FycQXXc4SkD2Sdm9YJ"
     },
     {
+      "added_at": "2021-04-22 18:12:12",
+      "album": {
+        "name": "Nights Are Forever",
+        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
+      },
+      "artists": [
+        {
+          "name": "England Dan & John Ford Coley",
+          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
+        }
+      ],
+      "duration_ms": 281293,
+      "name": "Love Is the Answer (Single Version)",
+      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
+    },
+    {
       "added_at": "2022-03-31 19:29:02",
       "album": {
         "name": "Takin' It Easy",
@@ -1211,22 +1227,6 @@
       "duration_ms": 192186,
       "name": "Just One Look - 2015 Remaster",
       "url": "https://open.spotify.com/track/0Jq7kVcsOi4lEmw5oQeWqO"
-    },
-    {
-      "added_at": "2021-04-22 18:12:12",
-      "album": {
-        "name": "Nights Are Forever",
-        "url": "https://open.spotify.com/album/3oY6Per6dlppqYHahhu1ED"
-      },
-      "artists": [
-        {
-          "name": "England Dan & John Ford Coley",
-          "url": "https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO"
-        }
-      ],
-      "duration_ms": 281293,
-      "name": "Love Is the Answer (Single Version)",
-      "url": "https://open.spotify.com/track/7FM0XCpgR3HMZcwjDo2TlI"
     },
     {
       "added_at": "2021-04-22 18:12:12",

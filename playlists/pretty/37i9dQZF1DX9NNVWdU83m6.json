@@ -1,12 +1,12 @@
 {
   "description": "A progressive fusion of jazz, rock and avant-garde.",
-  "num_followers": 27481,
+  "num_followers": 27526,
   "original_name": "Prog Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDBmNzc0ZTI3N2IxZWZhODk1MmJhMzBhOWY4YmMwOWYx",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGMxYTRiNTUzYjAzOTczM2VmZjJiMDI0NWUyMWFmMDYx",
   "tracks": [
     {
       "added_at": "2022-07-15 04:02:00",
@@ -485,22 +485,6 @@
       "url": "https://open.spotify.com/track/3yeTtLm3XjsQkmSdRnzhrq"
     },
     {
-      "added_at": "2021-10-01 04:02:00",
-      "album": {
-        "name": "Akashic Xronicles",
-        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
-      },
-      "artists": [
-        {
-          "name": "fox capture plan",
-          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
-        }
-      ],
-      "duration_ms": 267915,
-      "name": "Akashic Xronicles",
-      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
-    },
-    {
       "added_at": "2021-01-27 19:39:49",
       "album": {
         "name": "The Inner Mounting Flame",
@@ -519,6 +503,22 @@
       "duration_ms": 375600,
       "name": "Vital Transformation (with John McLaughlin) - Remastered",
       "url": "https://open.spotify.com/track/76UO345JoM0FJWHwDOYz5y"
+    },
+    {
+      "added_at": "2021-10-01 04:02:00",
+      "album": {
+        "name": "Akashic Xronicles",
+        "url": "https://open.spotify.com/album/0Lb3rsnN9rot0aF8Wymt4P"
+      },
+      "artists": [
+        {
+          "name": "fox capture plan",
+          "url": "https://open.spotify.com/artist/7sEmXHrnEnX7PScoJAvSvo"
+        }
+      ],
+      "duration_ms": 267915,
+      "name": "Akashic Xronicles",
+      "url": "https://open.spotify.com/track/1eoIihBKrasGaUzAl3J9jT"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Two Drink Minimum",
-        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
-      },
-      "artists": [
-        {
-          "name": "Wayne Krantz",
-          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
-        }
-      ],
-      "duration_ms": 407000,
-      "name": "Whippersnapper",
-      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
-    },
-    {
-      "added_at": "2021-01-27 19:39:49",
-      "album": {
         "name": "The Line",
         "url": "https://open.spotify.com/album/1gkQrJsigMrfrw78FFCMzU"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 280666,
       "name": "Lowell",
       "url": "https://open.spotify.com/track/308taPCrUlttzRJi7crHwy"
+    },
+    {
+      "added_at": "2021-01-27 19:39:49",
+      "album": {
+        "name": "Two Drink Minimum",
+        "url": "https://open.spotify.com/album/4znqHDVUn47mb7xVt8L3PP"
+      },
+      "artists": [
+        {
+          "name": "Wayne Krantz",
+          "url": "https://open.spotify.com/artist/2jT3Zlaqv3r8hxHdWE8Xig"
+        }
+      ],
+      "duration_ms": 407000,
+      "name": "Whippersnapper",
+      "url": "https://open.spotify.com/track/38OEZLqzLi42CFtBTiCxWf"
     },
     {
       "added_at": "2021-01-27 19:39:49",
@@ -893,20 +893,20 @@
       "url": "https://open.spotify.com/track/0Q9sfhxPWLBoM0zYWiAhwA"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
+      "added_at": "2021-01-27 19:39:49",
       "album": {
-        "name": "Tea Champ",
-        "url": "https://open.spotify.com/album/7KVpT0JKtocfSeBaSdJ5kJ"
+        "name": "The Inner Mounting Flame",
+        "url": "https://open.spotify.com/album/6XHQCPGwvSaqv9MZ2tauqr"
       },
       "artists": [
         {
-          "name": "Waldo's Gift",
-          "url": "https://open.spotify.com/artist/5CDHEnQ7vIRfL4I18XnLQb"
+          "name": "Mahavishnu Orchestra",
+          "url": "https://open.spotify.com/artist/3Ao7NH7lRyQAeKQg2mlTcO"
         }
       ],
-      "duration_ms": 289476,
-      "name": "Tea Champ",
-      "url": "https://open.spotify.com/track/59YqsVBEWPKQoTlBaxBrv6"
+      "duration_ms": 387826,
+      "name": "The Noonward Race - Remastered",
+      "url": "https://open.spotify.com/track/4BWrLhJXXYAlVIHOLSPsmN"
     }
   ],
   "unique_name": "Prog Jazz",

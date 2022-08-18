@@ -1,12 +1,12 @@
 {
   "description": "Descubra Mac J\u00falia e novos talentos brasileiros no horizonte.",
-  "num_followers": 421678,
+  "num_followers": 421674,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGFhMzNmYTI0ZGQ0ZGY1NGUzODg2ZGZjNWI2YTZkNmNk",
+  "snapshot_id": "MTY2MDUzMjQ2MCwwMDAwMDAwMGMwNDQxMjJkNzY5NjMxMjM3YWJkMmQxNGQ0MTY5MTY2",
   "tracks": [
     {
       "added_at": "2022-08-15 03:01:00",
@@ -115,22 +115,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Assalto Perigoso",
-        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
-      },
-      "artists": [
-        {
-          "name": "Melody",
-          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
-        }
-      ],
-      "duration_ms": 155417,
-      "name": "Assalto Perigoso",
-      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Calculista",
         "url": "https://open.spotify.com/album/6KCcAGSlLAlUo3nGAQqWMy"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 158057,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/3tEaSuDA0eWnIF8ari2Xly"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Assalto Perigoso",
+        "url": "https://open.spotify.com/album/3wNuvSVXS49LSCNXGHaVzs"
+      },
+      "artists": [
+        {
+          "name": "Melody",
+          "url": "https://open.spotify.com/artist/7ySZCEP4HFGckYYPK5rqFI"
+        }
+      ],
+      "duration_ms": 155417,
+      "name": "Assalto Perigoso",
+      "url": "https://open.spotify.com/track/49GdoM9fiTXVOx1a6JTokJ"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -270,6 +270,10 @@
         {
           "name": "Nagalli",
           "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
         }
       ],
       "duration_ms": 169057,
@@ -447,26 +451,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "P90",
-        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
-      },
-      "artists": [
-        {
-          "name": "JayPluggz",
-          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
-        },
-        {
-          "name": "Brocasito",
-          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
-        }
-      ],
-      "duration_ms": 123383,
-      "name": "P90",
-      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Rock Danger, Vol. 1",
         "url": "https://open.spotify.com/album/10NgAPEXrO27p2uhmuZgyu"
       },
@@ -487,6 +471,26 @@
       "duration_ms": 178005,
       "name": "Dia de Baile",
       "url": "https://open.spotify.com/track/3dYN651z0KSUQnC0fxCKWN"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "P90",
+        "url": "https://open.spotify.com/album/6bemhnTC1gXKmGhuYOtVJz"
+      },
+      "artists": [
+        {
+          "name": "JayPluggz",
+          "url": "https://open.spotify.com/artist/5plOn7vFrwAlvqDfDCtM1M"
+        },
+        {
+          "name": "Brocasito",
+          "url": "https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM"
+        }
+      ],
+      "duration_ms": 123383,
+      "name": "P90",
+      "url": "https://open.spotify.com/track/43ZNwGCrC4ZD5e0DGGMbvV"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -779,6 +783,22 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
+        "name": "Comum - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
+      },
+      "artists": [
+        {
+          "name": "\u00c0VU\u00c0",
+          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
+        }
+      ],
+      "duration_ms": 211428,
+      "name": "Comum - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
         "name": "Vendaval (Ao Vivo)",
         "url": "https://open.spotify.com/album/0CdhqJwe0aAWf0Oz7SYSiF"
       },
@@ -795,22 +815,6 @@
       "duration_ms": 233236,
       "name": "Vendaval - Ao Vivo",
       "url": "https://open.spotify.com/track/2fkVehr2ZC9tEI2EpeOIOT"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
-        "name": "Comum - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5oIvG4FNiXlSOCEb4Ow184"
-      },
-      "artists": [
-        {
-          "name": "\u00c0VU\u00c0",
-          "url": "https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik"
-        }
-      ],
-      "duration_ms": 211428,
-      "name": "Comum - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/18L8x8zxwq7jxXbZuYWJ6c"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -927,26 +931,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
-      },
-      "artists": [
-        {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
-        },
-        {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
-        }
-      ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "Gostosa Posturada",
         "url": "https://open.spotify.com/album/3NQXrEDQR2TG7rnYP6TwMF"
       },
@@ -971,6 +955,26 @@
       "duration_ms": 216923,
       "name": "Potranca",
       "url": "https://open.spotify.com/track/0l1jN8AUIHnTJYTbTh5kX9"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+      },
+      "artists": [
+        {
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+        },
+        {
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+        }
+      ],
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2022-08-15 03:01:00",
@@ -1111,22 +1115,6 @@
     {
       "added_at": "2022-08-15 03:01:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
-      },
-      "artists": [
-        {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
-        }
-      ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
-    },
-    {
-      "added_at": "2022-08-15 03:01:00",
-      "album": {
         "name": "S\u00f3 Me Liga pra Fazer Amor",
         "url": "https://open.spotify.com/album/1Yscc4bPFtdYy7jduWE0Pa"
       },
@@ -1143,6 +1131,22 @@
       "duration_ms": 155382,
       "name": "S\u00f3 Me Liga pra Fazer Amor",
       "url": "https://open.spotify.com/track/1k1rB1VVyH72Woe4jS7SRt"
+    },
+    {
+      "added_at": "2022-08-15 03:01:00",
+      "album": {
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+      },
+      "artists": [
+        {
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+        }
+      ],
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2022-08-15 03:01:00",

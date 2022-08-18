@@ -4,7 +4,7 @@
 
 > 새벽 감성\. Issa Vibe.
 
-156 songs - 8 hr 49 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
+157 songs - 8 hr 53 min - [published](https://open.spotify.com/playlist/7hAGoFxP75Hq4uhkZnOFeo)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [I\`m not ready yet](https://open.spotify.com/track/1jbUZJlpPejvs6QAe31rNu) | [MAGO](https://open.spotify.com/artist/7Bot84kmw6HboO5cTVSLXP) | [I\`m not ready yet](https://open.spotify.com/album/7ebi1OOJMvN5j0e51w11Xw) | 3:10 | 2022-04-21 | 2022-07-12 |
 | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/track/1e7SDFFex4hsV5uZCyH6QW) | [Jflow](https://open.spotify.com/artist/3k0PWW1VH0ZNcew1eBN5H1), [Peej](https://open.spotify.com/artist/1fERpjPPt0AJDpT3p7NbiP) | [If You Didn’t Know \(With\. Peej\)](https://open.spotify.com/album/3KILBs3bHUA8R6zbCoDgJJ) | 4:56 | 2022-04-18 | 2022-07-25 |
 | [In place \(feat\. woOnim\)](https://open.spotify.com/track/7pOnJzS7Iyl8MilMSa4yKH) | [Daehan](https://open.spotify.com/artist/1OfRPrepoCciCk7oDpIbAO), [WoOnim](https://open.spotify.com/artist/7CGyRLtNG8TvIT8rNmQAL1) | [In place](https://open.spotify.com/album/1M2GJomN0N9jiWUT1hxueM) | 3:15 | 2022-07-25 | 2022-07-29 |
+| [In the Blur of the Rain](https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [Evergray](https://open.spotify.com/album/7DMeNlCClB36augRfjESKN) | 3:53 | 2022-08-12 |  |
 | [in the car](https://open.spotify.com/track/3pYKGgI0CzsiXUtqI97tuR) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 2:57 | 2022-04-18 | 2022-04-29 |
 | [Incense \(prod\. SIM2\)](https://open.spotify.com/track/2yC1fI9PYueIbfLutk7MRe) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [Incense](https://open.spotify.com/album/5U4ND6omwQW72sVyRKnfsK) | 3:08 | 2022-04-21 | 2022-05-08 |
 | [Island \(rough\)](https://open.spotify.com/track/79kkH6IeyyGYXvhUy5S8HH) | [2xxx](https://open.spotify.com/artist/4cMtnnGdRvh8KIi2RA7ZeU), [Colde](https://open.spotify.com/artist/2gbgqFRVv5UCjo1uVYNGjg) | [Life+unconsciousness](https://open.spotify.com/album/0ENIw3VQ7WFRb9oMT5n8wx) | 1:36 | 2022-04-18 | 2022-04-21 |
@@ -138,7 +139,7 @@
 | [Sunrise \(Feat\. EunBii\)](https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN) | [Wildberry](https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf), [EunBii](https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE) | [SUNRISE](https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov) | 3:18 | 2022-04-21 | 2022-07-27 |
 | [SUNSET WITH YOU](https://open.spotify.com/track/7AOtWjLx5SaKVVGzberZ7i) | [Def.](https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58) | [LOVE.](https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU) | 3:23 | 2022-04-18 |  |
 | [supporting actor](https://open.spotify.com/track/7GKckapJsvimFkGtOoOSB9) | [chzz!](https://open.spotify.com/artist/4mZtqkh7yOrhvKOeOOUOwp) | [room](https://open.spotify.com/album/139XdvoTZye44xNfvJhLOz) | 3:15 | 2022-04-18 | 2022-04-21 |
-| [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 |  |
+| [the day we first met](https://open.spotify.com/track/5gCLED9Td32I3QAwRTFpeg) | [BLOO](https://open.spotify.com/artist/3ghCvruix2FYZ81DHRlOt1) | [MOON AND BACK](https://open.spotify.com/album/5mwjmXHp1zgVbmfQQu9uUX) | 2:04 | 2022-04-18 | 2022-08-18 |
 | [The fin.](https://open.spotify.com/track/5Nr6Z6PpXfyyDjD0J1s6QK) | [MNYL](https://open.spotify.com/artist/6poxjkXTjsM1ucj5rmcyEZ) | [The fin.](https://open.spotify.com/album/0xMZKhtuUSuY14i0bGExLl) | 3:27 | 2022-04-18 | 2022-07-09 |
 | [The Theater](https://open.spotify.com/track/32DpcsdvyzseJWwjjOetkL) | [Austn](https://open.spotify.com/artist/4R65InJeiLYNmwZdyyBY8i) | [The Theater](https://open.spotify.com/album/3SuhEMydqNp4tk7q45yTDP) | 2:45 | 2022-06-18 | 2022-07-05 |
 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 | 2022-04-18 |  |

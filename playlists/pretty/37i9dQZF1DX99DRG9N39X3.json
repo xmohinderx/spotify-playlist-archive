@@ -1,12 +1,12 @@
 {
   "description": "The biggest rock songs of the last decade. Cover: Twenty One Pilots",
-  "num_followers": 433617,
+  "num_followers": 433773,
   "original_name": "10s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDk2MmYxNmM5YmY3MjFiMGM5ZjUwOGMwODU1YjYzZWE5",
+  "snapshot_id": "MTY1ODQxOTU5OSwwMDAwMDAwMDA0NDhjZjc1OTFlMDJjOThlNjY3OTU4YWNmYzQ3MTM3",
   "tracks": [
     {
       "added_at": "2022-03-09 13:40:09",
@@ -387,22 +387,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Hypersonic Missiles",
-        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 237986,
-      "name": "Hypersonic Missiles",
-      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 224333,
       "name": "Gold on the Ceiling",
       "url": "https://open.spotify.com/track/5lN1EH25gdiqT1SFALMAq1"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
     },
     {
       "added_at": "2022-03-09 13:40:09",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2022-03-09 13:40:09",
       "album": {
-        "name": "Outrage! Is Now",
-        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
-      },
-      "artists": [
-        {
-          "name": "Death From Above 1979",
-          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
-        }
-      ],
-      "duration_ms": 198081,
-      "name": "Freeze Me",
-      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
-    },
-    {
-      "added_at": "2022-03-09 13:40:09",
-      "album": {
         "name": "Future Hearts",
         "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 189418,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
+    },
+    {
+      "added_at": "2022-03-09 13:40:09",
+      "album": {
+        "name": "Outrage! Is Now",
+        "url": "https://open.spotify.com/album/4kKKH6cFBtNd9etSJzkMjZ"
+      },
+      "artists": [
+        {
+          "name": "Death From Above 1979",
+          "url": "https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj"
+        }
+      ],
+      "duration_ms": 198081,
+      "name": "Freeze Me",
+      "url": "https://open.spotify.com/track/50jXnyrzW4mcBBqFTMEoAC"
     },
     {
       "added_at": "2022-03-09 13:40:09",

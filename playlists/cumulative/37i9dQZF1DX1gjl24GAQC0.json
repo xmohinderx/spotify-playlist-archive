@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? Cover: \bGolden Child(\uace8\ub4e0 \ucc28\uc77c\ub4dc) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? Cover: \bBAE173 [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "published_playlist_ids": [
     "1rQmqTB8OYYXGSYSv738KR"
@@ -1617,6 +1617,24 @@
       "duration_ms": 176546,
       "name": "Darl+ing",
       "url": "https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5"
+    },
+    {
+      "album": {
+        "name": "ODYSSEY:DaSH",
+        "url": "https://open.spotify.com/album/4tr2tGgWohMbeh5wlMj8QO"
+      },
+      "artists": [
+        {
+          "name": "BAE173",
+          "url": "https://open.spotify.com/artist/60315n11JElel8KhdHg8jM"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209733,
+      "name": "DaSH",
+      "url": "https://open.spotify.com/track/6j00mQpXjdXuovqU9owUDa"
     },
     {
       "album": {
@@ -5135,7 +5153,7 @@
       ],
       "date_added": "2022-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 207506,
       "name": "Replay",
       "url": "https://open.spotify.com/track/4b33wUnbWt4YSZLWkwtlds"

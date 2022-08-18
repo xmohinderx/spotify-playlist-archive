@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars.",
-  "num_followers": 383257,
+  "num_followers": 383305,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDUwMjUwMSwwMDAwMDAwMDA0M2IzMWU3MjkxYmZhNmVjYmI5ZDZjNWQyMjQ0YzQ4",
+  "snapshot_id": "MTY2MDUwMjUwMSwwMDAwMDAwMDkzMTZkY2I1NjAwNmMyYmIzMTgzN2VjMTI1YTk5ZjFj",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Tell Me It Is",
-      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "The Highway Kind",
         "url": "https://open.spotify.com/album/3iN9tmhAGOfIPbKEklyujQ"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 182090,
       "name": "Real Damn Good",
       "url": "https://open.spotify.com/track/1LMWwN346h8JYkQQ5MEzbZ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0Wt3shUb59XT3O7on9mOjs"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 185000,
+      "name": "Tell Me It Is",
+      "url": "https://open.spotify.com/track/0BzYmo297CZAhrfpNSKSjj"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Nothing But Love Songs",
-        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
-      },
-      "artists": [
-        {
-          "name": "Randy Rogers Band",
-          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
-        }
-      ],
-      "duration_ms": 225180,
-      "name": "Nothing But Love Songs",
-      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Baby Do",
         "url": "https://open.spotify.com/album/06EhqGLZlsxKMC6O2sPVgG"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 208392,
       "name": "Baby Do",
       "url": "https://open.spotify.com/track/1SfmBUgRfSDAl7pbfY6ks0"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Nothing But Love Songs",
+        "url": "https://open.spotify.com/album/56G2DJ71govyBPz6qWHEPK"
+      },
+      "artists": [
+        {
+          "name": "Randy Rogers Band",
+          "url": "https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3"
+        }
+      ],
+      "duration_ms": 225180,
+      "name": "Nothing But Love Songs",
+      "url": "https://open.spotify.com/track/7jJ32IueHuaOZmvp4npqCU"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Fooled Around",
+        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
+      },
+      "artists": [
+        {
+          "name": "Presley Drake",
+          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
+        }
+      ],
+      "duration_ms": 192125,
+      "name": "Fooled Around",
+      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
         "url": "https://open.spotify.com/album/2WJBLEqI8tvjDV3ZgrHzNr"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 242253,
       "name": "A Guitar, A Singer and A Song (feat. Vince Gill)",
       "url": "https://open.spotify.com/track/7L3fHu03qNMVo6XS6BQfzF"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Fooled Around",
-        "url": "https://open.spotify.com/album/1CDfkllTerM9sZEAs0Gd0Q"
-      },
-      "artists": [
-        {
-          "name": "Presley Drake",
-          "url": "https://open.spotify.com/artist/0IQG9LULw1mZehtAXtF9ld"
-        }
-      ],
-      "duration_ms": 192125,
-      "name": "Fooled Around",
-      "url": "https://open.spotify.com/track/5BIOWZoUF45eU07lNuPXz6"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -943,22 +943,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Wherever I Am",
-        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
-      },
-      "artists": [
-        {
-          "name": "Kolton Moore & the Clever Few",
-          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
-        }
-      ],
-      "duration_ms": 253101,
-      "name": "Wherever I Am",
-      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Built Different",
         "url": "https://open.spotify.com/album/4ShfeQkF2wvKB17ZrMnKTn"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 180453,
       "name": "Built Different",
       "url": "https://open.spotify.com/track/0zEAZTsPl7VXJJ6vx2iAkZ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Wherever I Am",
+        "url": "https://open.spotify.com/album/4aQw7SewykLPkahUFWdGoS"
+      },
+      "artists": [
+        {
+          "name": "Kolton Moore & the Clever Few",
+          "url": "https://open.spotify.com/artist/14V8ZRhL66NIzXAmYtQ8Vj"
+        }
+      ],
+      "duration_ms": 253101,
+      "name": "Wherever I Am",
+      "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "South of Forever",
-        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
-      },
-      "artists": [
-        {
-          "name": "Clayton Mullen",
-          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
-        }
-      ],
-      "duration_ms": 247211,
-      "name": "South of Forever",
-      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "South of Forever",
+        "url": "https://open.spotify.com/album/63WijTROz8hPeDh7MmI9e9"
+      },
+      "artists": [
+        {
+          "name": "Clayton Mullen",
+          "url": "https://open.spotify.com/artist/6iRDBNeREg0Je2y9LZzD2g"
+        }
+      ],
+      "duration_ms": 247211,
+      "name": "South of Forever",
+      "url": "https://open.spotify.com/track/7HWOixNkts8dToUVeOV6cL"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "John Wayne",
-        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
-      },
-      "artists": [
-        {
-          "name": "Rachel LaRen",
-          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
-        }
-      ],
-      "duration_ms": 188995,
-      "name": "John Wayne",
-      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "I Just Want You",
         "url": "https://open.spotify.com/album/7cdDtUoGbIgVDEkFaS3rA6"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Dancin' With The Devil",
-        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+        "name": "John Wayne",
+        "url": "https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M"
       },
       "artists": [
         {
-          "name": "Josh Ward",
-          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+          "name": "Rachel LaRen",
+          "url": "https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv"
         }
       ],
-      "duration_ms": 178848,
-      "name": "Dancin' With The Devil",
-      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+      "duration_ms": 188995,
+      "name": "John Wayne",
+      "url": "https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1223,6 +1207,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Dancin' With The Devil",
+        "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
+      },
+      "artists": [
+        {
+          "name": "Josh Ward",
+          "url": "https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd"
+        }
+      ],
+      "duration_ms": 178848,
+      "name": "Dancin' With The Devil",
+      "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "What Else Can She Do",
         "url": "https://open.spotify.com/album/7F9RFUFFz7QLcLfTxgpzmX"
       },
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+        "name": "Cow Pissin'",
+        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Carson Jeffrey",
+          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
         }
       ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+      "duration_ms": 217446,
+      "name": "Cow Pissin'",
+      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
         "name": "The One You Know",
         "url": "https://open.spotify.com/album/2Ghe25vEXBDc17A5YlOaaB"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 220066,
       "name": "The One You Know",
       "url": "https://open.spotify.com/track/1x3pjQoyhtctVe7NsTVeAU"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Cow Pissin'",
-        "url": "https://open.spotify.com/album/6JlPe2irVAqKKas5JYi1Oj"
-      },
-      "artists": [
-        {
-          "name": "Carson Jeffrey",
-          "url": "https://open.spotify.com/artist/4wDMfwJrSuFKolGyGC5K1l"
-        }
-      ],
-      "duration_ms": 217446,
-      "name": "Cow Pissin'",
-      "url": "https://open.spotify.com/track/3PNamkV6w2LbcYX6mdZKgv"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Break Up In A Bar",
-        "url": "https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 216133,
-      "name": "Break Up In A Bar",
-      "url": "https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Break Up In A Bar",
+        "url": "https://open.spotify.com/album/2Z7T8o2cJVPN8xMUsh2kc5"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 216133,
+      "name": "Break Up In A Bar",
+      "url": "https://open.spotify.com/track/1UcWlY9PXa0GjqEOksJ1Gk"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Hang Me Out to Dry",
-        "url": "https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK"
-      },
-      "artists": [
-        {
-          "name": "Slade Coulter",
-          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
-        }
-      ],
-      "duration_ms": 237077,
-      "name": "Hang Me Out to Dry",
-      "url": "https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Texas",
         "url": "https://open.spotify.com/album/57JqhOplFcXZLR8mZ7p3q5"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 222186,
       "name": "Texas",
       "url": "https://open.spotify.com/track/3XIfx3GzMzoEXUDF2vEbBZ"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Hang Me Out to Dry",
+        "url": "https://open.spotify.com/album/35ZxnWk862bt1mVkkGWqlK"
+      },
+      "artists": [
+        {
+          "name": "Slade Coulter",
+          "url": "https://open.spotify.com/artist/0Qht1bMfMyq85aI74COUvn"
+        }
+      ],
+      "duration_ms": 237077,
+      "name": "Hang Me Out to Dry",
+      "url": "https://open.spotify.com/track/5SVtmwF54HuB6pvNUl72s6"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "I'm Not Him",
-        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
-      },
-      "artists": [
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "I'm Not Him",
-      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
         "name": "Honky Tonk in Heaven",
         "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 167520,
       "name": "Wild Horses",
       "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "I'm Not Him",
+        "url": "https://open.spotify.com/album/5WIjwjbdNGAbATC0iSnyO7"
+      },
+      "artists": [
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+        }
+      ],
+      "duration_ms": 195882,
+      "name": "I'm Not Him",
+      "url": "https://open.spotify.com/track/6nuOYIRmlyQIBZZ11Zmmr0"
     },
     {
       "added_at": "2022-08-12 04:01:00",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Cody Hibbard",
-        "url": "https://open.spotify.com/album/6xmxKXhPm7ZVISNoDsZo5K"
+        "name": "S\u00d5L Sessions",
+        "url": "https://open.spotify.com/album/1e2EDJwPez79eKupUecgD6"
       },
       "artists": [
         {
-          "name": "Cody Hibbard",
-          "url": "https://open.spotify.com/artist/71DKcYMBfZtxrOB7w6pKq5"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 215693,
-      "name": "Down in Flames",
-      "url": "https://open.spotify.com/track/2P0oaaPrziT3qhjyZCSp2f"
+      "duration_ms": 266783,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/48QruqVpJwCpgKOmQtjewC"
     }
   ],
   "unique_name": "Texas Country Now",

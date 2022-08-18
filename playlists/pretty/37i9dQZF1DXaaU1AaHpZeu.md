@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 
 > Nuevos hallazgos de música indie latina\. En portada: Carlos Sadness y La Bien Querida.
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,678 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,709 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaU1AaHpZeu.md) - [plain]
 | 30 | [Ni Ahí](https://open.spotify.com/track/4ED6n19LDyErFdRH1whJs8) | [Paul Higgs](https://open.spotify.com/artist/0IomtauMPN6jngzrLsCb5V) | [Ni Ahí](https://open.spotify.com/album/1vGx1eYzecpo13ve6f2QRp) | 3:21 |
 | 31 | [Fuera de Control](https://open.spotify.com/track/5yom35IF9MryhoWXg1yKyG) | [Los Andes](https://open.spotify.com/artist/2Fkq4qiW9XD4mx4yFD94X2), [Mentalistas](https://open.spotify.com/artist/4jgUEhSY6ukyUFeuLi1m1C) | [Backgammonesque](https://open.spotify.com/album/45nvAY6orqh64wBn7WaJtR) | 3:28 |
 | 32 | [Fantasmas en Mi Cama](https://open.spotify.com/track/0YOaoZWj9BAj3o9VhHgAxd) | [Chloé Silva](https://open.spotify.com/artist/58NvZS9y8CUo1VUEyGdcKc) | [Fantasmas en Mi Cama](https://open.spotify.com/album/1kbx2aTxboSm2Q5cIvd9Vd) | 3:10 |
-| 33 | [Frio Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frio Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 |
+| 33 | [Frío Blues](https://open.spotify.com/track/5uKWEd2V4M8ELUpQR01ttX) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [Frío Blues](https://open.spotify.com/album/7ArZMGlCkmAp3r4fvZhXmB) | 2:45 |
 | 34 | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/track/60uCZaPtkdQ5XXLYSLjLon) | [ADRIANAH](https://open.spotify.com/artist/4qqpXhZ0OApTtS6cOOaPHn) | [Muñeca \(Sin Pilas Incluidas\)](https://open.spotify.com/album/5f8tUSpNqjENnKf3oKIGMU) | 3:29 |
 | 35 | [Pinky](https://open.spotify.com/track/5wuiYSW949mfA4azJ32mx2) | [Lara91k](https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW) | [Pinky](https://open.spotify.com/album/2c4TTzqtBc7EIeNBSZgWlF) | 2:46 |
 | 36 | [En Libertad](https://open.spotify.com/track/4CRdKP15xOYIKWgcPj9pvT) | [Fernando Milagros](https://open.spotify.com/artist/73swvRHLV2DJfD57xx5CBN) | [Cenizas](https://open.spotify.com/album/1UqjdcUWYIruAA8ybNyXZ9) | 3:58 |

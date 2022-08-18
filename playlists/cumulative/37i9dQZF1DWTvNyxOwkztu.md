@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy these relaxed beats.
 
-204 songs - 11 hr 20 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
+205 songs - 11 hr 23 min - [published](https://open.spotify.com/playlist/1B3KGcDzKz7tniplCeg7Gc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Lupino](https://open.spotify.com/track/4V8fOkKXGpPcUp7lvFWdS0) | [Magnofield](https://open.spotify.com/artist/4wNM69xY7xVOi8WK46t4tT) | [Lupino](https://open.spotify.com/album/6LNyTa0FtB9YYohiEACjhW) | 3:20 | 2021-12-09 | 2022-05-19 |
 | [Malin's Song](https://open.spotify.com/track/69FgBAyTOSwswhqea2C6Er) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [For Love](https://open.spotify.com/album/4LBj9X5oIwy48MNG74H8jy) | 4:03 | 2021-12-09 | 2022-05-21 |
 | [Maze](https://open.spotify.com/track/3fG4uUJ8yTCfe9KHUQM45W) | [Sasupt](https://open.spotify.com/artist/1UZDqEZC20MLeXRrbhtWbq) | [Maze](https://open.spotify.com/album/0803IoVPGn37OTU19kKF7z) | 2:06 | 2021-12-09 | 2022-07-21 |
+| [Midsommar](https://open.spotify.com/track/0f91Dvbc5tc6DN7e2QaNyC) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Midsommar](https://open.spotify.com/album/1hsH4qErR4O6USTu2k7O3w) | 2:36 | 2022-08-05 |  |
 | [Mirror](https://open.spotify.com/track/3uRAxz8ic40d9IuNe8fnsb) | [Jako Diaz](https://open.spotify.com/artist/0N5xjvZDyBf8kGuYCBJNJz), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Mirror](https://open.spotify.com/album/0LcRgOY46NK9q6SSTldhbC) | 4:02 | 2021-12-09 |  |
 | [Mirrors](https://open.spotify.com/track/6SEqz6adzlLPDzNrf8mCCf) | [Jones Meadow](https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Mirrors](https://open.spotify.com/album/2rHruBFK7lCidKa4HrEqYB) | 3:40 | 2022-02-26 |  |
 | [mojito](https://open.spotify.com/track/54JmK6z8m7jM2oaDlq7flm) | [genelion](https://open.spotify.com/artist/2TMzn3AIEg6b4Nd28MjUNA) | [mojito](https://open.spotify.com/album/3PK9VIEk2Ni3TB2R7bc3JS) | 2:15 | 2022-05-20 | 2022-07-27 |
@@ -185,7 +186,7 @@
 | [Sïstër](https://open.spotify.com/track/6dnNEVwVUG7hRwVYAyCcV1) | [Lstn](https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp) | [Sïstër](https://open.spotify.com/album/6WhIiPn8rVCtFXfk4PBIuS) | 3:23 | 2021-12-09 |  |
 | [The Kármán Line](https://open.spotify.com/track/1dcu7ZenUoBB7J0r1sg5lz) | [Pablo Nouvelle](https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P) | [The Kármán Line](https://open.spotify.com/album/1JQp2HkeTTYoaQOTcJdFfi) | 3:23 | 2021-12-09 | 2022-04-21 |
 | [The Morning After \- Radio Edit](https://open.spotify.com/track/3Efc5gn8M6ZkjwcPFGz1ZP) | [Sound Nomaden](https://open.spotify.com/artist/1R4DbF6CAroRPIDBAkPIi0) | [The Morning After \(Radio Edit\)](https://open.spotify.com/album/7qSRFKdJaK8cmAae3wxbzC) | 3:52 | 2021-12-09 |  |
-| [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2022-05-20 |  |
+| [The right mood](https://open.spotify.com/track/0lzMp9DVxuCFUXE1eztXjc) | [Alan Devale](https://open.spotify.com/artist/5KuppFlfwpXUiNaNsRwIiY) | [The right mood](https://open.spotify.com/album/3KXn4vx4FKBFhCpiWgzx3f) | 3:12 | 2022-05-20 | 2022-08-18 |
 | [The Screen](https://open.spotify.com/track/7JZpf4Rct4FfrRpQ3KkEOG) | [Oruam](https://open.spotify.com/artist/7hswPtRs02dG03rVj7wQBK) | [The Screen](https://open.spotify.com/album/6qzUxr3JUL5D6SWT2TK3sr) | 3:17 | 2021-12-09 |  |
 | [The Third in Line](https://open.spotify.com/track/0aCzk0rLcSarPylQmx6txM) | [Dandara](https://open.spotify.com/artist/6h2EcimpzT4Ft2t2vfjEt4) | [Third in Line](https://open.spotify.com/album/242CvoMDlEco9NHuSlcFZR) | 6:16 | 2021-12-09 | 2022-04-21 |
 | [There For You](https://open.spotify.com/track/2m8dDOhC8fIaCFQ53c1l5z) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [There For You](https://open.spotify.com/album/62H7U1XbShQDiRaGtGWlBo) | 2:45 | 2022-02-26 | 2022-05-21 |

@@ -1,12 +1,12 @@
 {
   "description": "The Mills Brothers, The Andrews Sisters and other classic vocal groups.",
-  "num_followers": 1176,
+  "num_followers": 1179,
   "original_name": "Close Harmony Vocals",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGM4YmFjZDUzMWQ4YjZkNjE4MWUyMDNjZjBhZWQ5MTli",
+  "snapshot_id": "MTY0ODQ5NTc0OSwwMDAwMDAwMGEzNzQ3YWNhMjEyYjAyYzhkYzM0YjI1ZjkxYTI4ZWQ3",
   "tracks": [
     {
       "added_at": "2020-08-17 22:49:59",
@@ -195,6 +195,30 @@
     {
       "added_at": "2020-08-17 22:49:59",
       "album": {
+        "name": "Bing-His Legendary Years 1931-1957",
+        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        },
+        {
+          "name": "The Andrews Sisters",
+          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
+        },
+        {
+          "name": "Vic Schoen & His Orchestra",
+          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
+        }
+      ],
+      "duration_ms": 162506,
+      "name": "Ac-Cent-Tchu-Ate The Positive - Single Version",
+      "url": "https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI"
+    },
+    {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
         "name": "America's Bandleader",
         "url": "https://open.spotify.com/album/31DxnMa6Do5GPZzz1JoMKT"
       },
@@ -219,30 +243,6 @@
       "duration_ms": 183213,
       "name": "Let's Have Another Cup Of Coffee (From \"Face The Music\") - 2002 Remastered",
       "url": "https://open.spotify.com/track/5DMTreJFLW0tzLdqIC7OtZ"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Bing-His Legendary Years 1931-1957",
-        "url": "https://open.spotify.com/album/2KDC9MOVhSPFY3ANMB6aDw"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        },
-        {
-          "name": "The Andrews Sisters",
-          "url": "https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM"
-        },
-        {
-          "name": "Vic Schoen & His Orchestra",
-          "url": "https://open.spotify.com/artist/5wHn4S5C2d5fqXIPnJWe42"
-        }
-      ],
-      "duration_ms": 162506,
-      "name": "Ac-Cent-Tchu-Ate The Positive - Single Version",
-      "url": "https://open.spotify.com/track/7kjhZR3dESBnn0GoHf3tVI"
     },
     {
       "added_at": "2020-08-17 22:49:59",
@@ -277,6 +277,22 @@
       "url": "https://open.spotify.com/track/2ARoWEBWZGyGSoHY1Clo1g"
     },
     {
+      "added_at": "2020-08-17 22:49:59",
+      "album": {
+        "name": "Hits Singles: Collectors Series",
+        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
+      },
+      "artists": [
+        {
+          "name": "The Duprees",
+          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
+        }
+      ],
+      "duration_ms": 151768,
+      "name": "Have You Heard",
+      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
+    },
+    {
       "added_at": "2022-03-28 19:29:09",
       "album": {
         "name": "Tea For Two (with Gene Nelson, Axel Stordahl & His Orchestra & The Page Cavanaugh Trio)",
@@ -295,22 +311,6 @@
       "duration_ms": 191306,
       "name": "Tea for Two (with Axel Stordahl & His Orchestra)",
       "url": "https://open.spotify.com/track/6EzCJwgHK5v8UJzmBSfFml"
-    },
-    {
-      "added_at": "2020-08-17 22:49:59",
-      "album": {
-        "name": "Hits Singles: Collectors Series",
-        "url": "https://open.spotify.com/album/0gPMn15Lddsz0xpsxjCfcH"
-      },
-      "artists": [
-        {
-          "name": "The Duprees",
-          "url": "https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS"
-        }
-      ],
-      "duration_ms": 151768,
-      "name": "Have You Heard",
-      "url": "https://open.spotify.com/track/1fsWE3xBbvORHHPqICzTyR"
     },
     {
       "added_at": "2020-08-17 22:49:59",

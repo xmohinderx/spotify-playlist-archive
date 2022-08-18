@@ -4,7 +4,7 @@
 
 > Soft and gentle piano interpretations of jazz classics.
 
-152 songs - 9 hr 8 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
+153 songs - 9 hr 12 min - [published](https://open.spotify.com/playlist/6xTqxAHYGsV8fLb86hItpW)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Alfie](https://open.spotify.com/track/0hM1KJAmxzankL3lgogyxf) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [Alfie](https://open.spotify.com/album/5Utoepi0mubUEicgDq7WnY) | 2:43 | 2022-03-10 |  |
 | [All The Things You Are](https://open.spotify.com/track/11Bap5k9jpMjBbqQA9gSez) | [Leslie North](https://open.spotify.com/artist/5szgdDciMINkEQk9KbWkGj) | [My Favorite Things](https://open.spotify.com/album/5cuc2ZYIENDkCfUUytmZ4R) | 3:12 | 2021-12-14 |  |
 | [Angel Eyes](https://open.spotify.com/track/3xy6OojnbfqihCYayRFXhG) | [Franco Reiss](https://open.spotify.com/artist/67WjJlQvj3PHZKkBTpVbOy) | [Angel Eyes](https://open.spotify.com/album/7Ax5m45a1FCPw7ztlGSwIb) | 3:49 | 2022-03-10 | 2022-04-27 |
-| [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 |  |
+| [as time goes by](https://open.spotify.com/track/7a6iQySheFxla0uEF4tt74) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 3:21 | 2021-12-14 | 2022-08-18 |
 | [Ask Me Now](https://open.spotify.com/track/0Fjj6Gvywafx1n5HStRNs5) | [Daniel Hopeland](https://open.spotify.com/artist/2vrFPeJli5gfJIv5zxVwbO) | [Ask Me Now](https://open.spotify.com/album/0q9x1QQbHUsNMuSwbuvclJ) | 3:56 | 2021-12-14 |  |
 | [Au revoir](https://open.spotify.com/track/2vQfLhQeG7yYiw8mzJbhDb) | [Jules Pierre Gardot](https://open.spotify.com/artist/0fHTm5jbK6RV7bii71wf5G) | [Au revoir](https://open.spotify.com/album/3cLz9BiihAnWPt8KVw2ad3) | 2:31 | 2022-05-24 |  |
 | [Autumn Leaves](https://open.spotify.com/track/4LYLph6AcRon1BE7FBWJ3T) | [Matt Lingus](https://open.spotify.com/artist/0mnRAVVSkBG8afaNTkh3r5) | [Autumn Leaves](https://open.spotify.com/album/0tyCq5vbWN9HCkcqdDQhxm) | 3:26 | 2021-12-14 |  |
@@ -78,6 +78,7 @@
 | [It Never Entered My Mind](https://open.spotify.com/track/59ZAYTcEyevPRJyCCvN6ki) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [It Never Entered My Mind](https://open.spotify.com/album/6e4jhbpbyodyS1CPOwpxMC) | 4:02 | 2021-12-14 |  |
 | [It's Only A Paper Moon](https://open.spotify.com/track/7naIptuhLR1lTnnxx4Dx46) | [Maki Yuoma](https://open.spotify.com/artist/3VUflANX1g7LBvBXRZKatX) | [I Keep Clinging To Close](https://open.spotify.com/album/4rCMPGvTEERHD29NspCuC7) | 4:26 | 2022-03-10 |  |
 | [I’ll be seeing you](https://open.spotify.com/track/5G9YKF1s6iBcsphlKZ43qD) | [Jeff Robins](https://open.spotify.com/artist/74TmlbkJzQhvG8Jurm01cE) | [You must believe in spring](https://open.spotify.com/album/2K69h6JK7ZyinakSj3GYKf) | 2:30 | 2021-12-14 |  |
+| [Juniper Leaves](https://open.spotify.com/track/5prNNKn1SNLrJsL5Ic4vew) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [A Future With You](https://open.spotify.com/album/3NWgJbG6uuLJ95veEskx06) | 4:13 | 2022-08-17 |  |
 | [Just A Piece of My Heart](https://open.spotify.com/track/0fNFJKmcfEOKbuQgqB3c2d) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lola and Kirby](https://open.spotify.com/album/2D8ZM8bjkyNukFOO7od8Li) | 4:07 | 2022-06-29 |  |
 | [Let's Do It \(Let's Fall In Love\)](https://open.spotify.com/track/7E1eNodaXumIQKrnzv2kzb) | [Dylan McFerrin](https://open.spotify.com/artist/2u2yE1h7hm3GT561nJL4rS) | [A Foggy Day](https://open.spotify.com/album/3MPhQbsiYueZQ89XBRCgL1) | 3:52 | 2022-03-10 |  |
 | [Like Someone In Love](https://open.spotify.com/track/1DfNHZVzrwezNXui3BKlYR) | [Mary Steinbrecher](https://open.spotify.com/artist/2SKFOdoUtDTKWiIPfyerTa) | [Like Someone In Love](https://open.spotify.com/album/2RP5lMF8K8wxguYeLoAWrJ) | 4:08 | 2021-12-14 |  |
@@ -134,9 +135,9 @@
 | [Summertime](https://open.spotify.com/track/48VBjzx0eH2CkOEjBDlxft) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Summertime](https://open.spotify.com/album/67FpasD3efqkbHYrZoeytx) | 4:41 | 2022-03-10 | 2022-08-12 |
 | [Taking A Chance On Love](https://open.spotify.com/track/1f9NMymXfaYatJPvlkilXv) | [George Shearing](https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn) | [Grand Piano](https://open.spotify.com/album/4nkc7tvHOT1xhiaTbjuFiL) | 2:35 | 2022-03-10 | 2022-05-25 |
 | [tea for two](https://open.spotify.com/track/2hX0ncE771SfgEmu1wBBi8) | [Bruno Sanders](https://open.spotify.com/artist/4gsIYNl0tbPrqyHBwvGcDe) | [ballads by midnight](https://open.spotify.com/album/07J4OkfknpIgmcVducHkbk) | 5:44 | 2021-12-14 |  |
-| [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 |  |
+| [Tenderly](https://open.spotify.com/track/6Qur3sb3jen75OnKG2Omv6) | [Carl Clementine](https://open.spotify.com/artist/4EES4U6kaJgZyrbnF21VCg) | [Lover Man](https://open.spotify.com/album/4vT3k8HlxyiOlTEHde8Unz) | 2:40 | 2021-12-14 | 2022-08-18 |
 | [That Old Fashioned Moon](https://open.spotify.com/track/00nvkAH00WYbmXddpr9i3v) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [That Old Fashioned Moon](https://open.spotify.com/album/7K81q7vpeES90oyfHnltli) | 2:49 | 2022-08-11 |  |
-| [The Midnight Sun Will Never Set](https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/2huBri0orubku9NvzOqWbw) | 4:48 | 2022-03-10 |  |
+| [The Midnight Sun Will Never Set](https://open.spotify.com/track/5RmbmVNTYmbRHB55UayS3n) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Midnight Sun Will Never Set](https://open.spotify.com/album/2huBri0orubku9NvzOqWbw) | 4:48 | 2022-03-10 | 2022-08-18 |
 | [The Nearness Of You](https://open.spotify.com/track/2eFOuwEBv8SRLL5QJgoKMH) | [Dennis Green](https://open.spotify.com/artist/12erKof3Sw4kvmah9xm01L) | [The Nearness Of You](https://open.spotify.com/album/1zcCFnzUu34kwvF3Fl6nPa) | 3:14 | 2021-12-14 |  |
 | [The Reasons That I Love You](https://open.spotify.com/track/4jwFix4ZBxag78Cu1BOJf1) | [Dennis Riley\-Jones](https://open.spotify.com/artist/5x35NpbnjiEoY5sntHQLgr) | [The Reasons That I Love You](https://open.spotify.com/album/77BhqnRpXIrfBqXiteR3hj) | 4:07 | 2022-08-11 |  |
 | [The Shadow Of Your Smile \- From The Sandpiper](https://open.spotify.com/track/1JXImcBMjydCrUc9ClAEwO) | [Bill Mays](https://open.spotify.com/artist/1ilp455TV1iDOBdrxrqKTQ) | [Cinematic Jazz \#16: The Piano](https://open.spotify.com/album/5ceVKHppWUQt2xkA1wbxdG) | 4:09 | 2021-12-14 |  |

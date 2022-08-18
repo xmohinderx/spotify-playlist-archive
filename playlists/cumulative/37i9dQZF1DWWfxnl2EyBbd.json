@@ -1100,6 +1100,32 @@
     },
     {
       "album": {
+        "name": "You've Been Warned",
+        "url": "https://open.spotify.com/album/44uZLWz6KGCIYN9kHNgIuO"
+      },
+      "artists": [
+        {
+          "name": "Roberta Piket",
+          "url": "https://open.spotify.com/artist/7bpPpC3Sr6XbvmWvJXusEO"
+        },
+        {
+          "name": "Harvie S",
+          "url": "https://open.spotify.com/artist/4VUN8x6ggBQmQOiO9Ui1fe"
+        },
+        {
+          "name": "Billy Mintz",
+          "url": "https://open.spotify.com/artist/0x93sQfixNNuX3utx7cU25"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161686,
+      "name": "Flight (Slow)",
+      "url": "https://open.spotify.com/track/6Nw6PMW4vKujeHj3Q2wZck"
+    },
+    {
+      "album": {
         "name": "Songs: The Art of the Trio, Vol. 3",
         "url": "https://open.spotify.com/album/4XrD4Ta5YWbmJ1O1I4qnS9"
       },
@@ -1289,7 +1315,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 312080,
       "name": "Hush - Nikki Iles",
       "url": "https://open.spotify.com/track/2kkgAsYTi28uYl7KM0BJCr"
@@ -1431,7 +1457,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 301120,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/0nXlU9IfgrhI5tZo3KktvM"
@@ -3601,7 +3627,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 439146,
       "name": "The Dance That Never Was",
       "url": "https://open.spotify.com/track/2IUAOAEEDYwnfVZB1tQRoT"
@@ -3867,7 +3893,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 291466,
       "name": "Touch Her Soft Lips And Part",
       "url": "https://open.spotify.com/track/7o65XOJ6wuSlzJ6aXtMxlT"
@@ -4055,7 +4081,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 322362,
       "name": "When I Fell for You",
       "url": "https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM"

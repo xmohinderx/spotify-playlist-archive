@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Santa Fe Klan; Maluma & Anitta; Danna Paola; Paulo Londra & Ed Sheeran; y más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 712,443 likes - 48 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,588 likes - 48 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

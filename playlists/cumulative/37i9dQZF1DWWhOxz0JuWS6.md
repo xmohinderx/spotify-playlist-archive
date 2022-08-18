@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.
 
-506 songs - 1 day 12 hr 31 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
+507 songs - 1 day 12 hr 34 min - [published](https://open.spotify.com/playlist/5Hsskn5n9BE0Rj9yfUKAoG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [Drowning Man \- Remastered 2008](https://open.spotify.com/track/6h98Gj4DMr2LbUHm5JCZBa) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:14 | 2020-12-08 | 2022-05-25 |
 | [Duchess \- Remastered 2007](https://open.spotify.com/track/3kAAZxqahUU8GfY7tqtYoT) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [Duke](https://open.spotify.com/album/1FFpEn1rjlucjU5L5JXggy) | 6:37 | 2020-12-08 | 2022-07-28 |
 | [Dynamite \- 2015 Remaster](https://open.spotify.com/track/2CIGd6H7GkZLB02wVgkWJp) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Blackout](https://open.spotify.com/album/5FdpusvFzKwUmygqmgDzKG) | 4:14 | 2020-12-08 | 2022-07-15 |
-| [Edie \(Ciao Baby\)](https://open.spotify.com/track/0VBwnyPvxv39tQAirTYsMz) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV) | 4:46 | 2020-12-08 |  |
+| [Edie \(Ciao Baby\)](https://open.spotify.com/track/0VBwnyPvxv39tQAirTYsMz) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV) | 4:46 | 2020-12-08 | 2022-08-18 |
 | [Edie \(Ciao Baby\)](https://open.spotify.com/track/3KTYf4XJ0Ghd8EiIhGM1Nb) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Sonic Temple](https://open.spotify.com/album/6N2W8EmbyRboYLsEqnWBKk) | 4:46 | 2020-12-08 | 2022-07-29 |
 | [Empty Rooms](https://open.spotify.com/track/21hvIW7umCAu3dWab4MYR1) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Run For Cover](https://open.spotify.com/album/5L7OArC51NP8i6EswjugZI) | 4:17 | 2020-12-08 |  |
 | [Errol \- Remastered](https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p) | [Australian Crawl](https://open.spotify.com/artist/41fDGRDlzczk5Yo2wDo0H4) | [Sirocco \(Remastered\)](https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF) | 3:30 | 2020-12-08 |  |
@@ -240,6 +240,7 @@
 | [Like A Rock](https://open.spotify.com/track/5Jno63iv0mzu5OZ28asYbE) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Like A Rock](https://open.spotify.com/album/5zkrBl6rudGLk8YhscRbjl) | 5:55 | 2020-12-08 |  |
 | [Like A Song..\. \- Remastered 2008](https://open.spotify.com/track/6hYqSE49Myq65J6i9eRq8c) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [War \(Remastered\)](https://open.spotify.com/album/6GaqU0TlYBKHUiSJ0AT9A2) | 4:47 | 2020-12-08 | 2022-07-26 |
 | [Lil' Devil](https://open.spotify.com/track/2eCMo4mGYHqa9KbIZH2UJZ) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/2Ah76CkWPKnhhuwQT8DcHQ) | 2:44 | 2020-12-08 | 2022-07-26 |
+| [Lil' Devil](https://open.spotify.com/track/7yegaaIxiqkPANAVLFCteI) | [The Cult](https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS) | [Electric](https://open.spotify.com/album/40P0nhd8xLFpuWt6TmR4lB) | 2:46 | 2020-12-08 |  |
 | [Listen Like Thieves](https://open.spotify.com/track/4CXPPtJaJf5uZRmFLEarAK) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves](https://open.spotify.com/album/1U6tgUieq2uuKip6DVxM31) | 3:45 | 2022-03-28 | 2022-05-25 |
 | [Listen Like Thieves](https://open.spotify.com/track/2NnwJBDPTeqBoIn2G707aZ) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Listen Like Thieves \(Remastered\)](https://open.spotify.com/album/7xYuZehiCGjWOb0pIZoNCS) | 3:46 | 2020-12-08 | 2022-07-29 |
 | [Little T&A \- Remastered](https://open.spotify.com/track/7K3rmA4f6NEElsxKEOOt8H) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:23 | 2020-12-08 | 2022-07-29 |

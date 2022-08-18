@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 
 > Tune in here for new and current hits in Contemporary Christian music!  Cover:  Steven Curtis Chapman
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,861 likes - 99 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,916 likes - 99 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUileP28ODwg.md) - [plain]
 | 16 | [I See Grace](https://open.spotify.com/track/3QT7ruZDodBTndp0q0EpW5) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [I See Grace](https://open.spotify.com/album/7LFddJR03IFXK5AY3qV2Il) | 3:13 |
 | 17 | [Hold You Tight](https://open.spotify.com/track/5Ra30hSwA5Q2kkYf4yidcq) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Into The Wild](https://open.spotify.com/album/2hZfROCvTvSqmOpYJUeT1b) | 2:55 |
 | 18 | [Satisfied](https://open.spotify.com/track/0IyTcIqHEJ88InweSal5zK) | [Stars Go Dim](https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3) | [Grace In The Wilderness](https://open.spotify.com/album/7EzCGwKYyb50jwP9CQ3i3w) | 2:46 |
-| 19 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk), [Tedd T.](https://open.spotify.com/artist/1Clv08TUPb1Z68yRVRBT3c) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 |
+| 19 | [Getting Started \- Radio Version](https://open.spotify.com/track/3KwzdWIyI2KuXSe2eh98KU) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Getting Started \(Radio Version\)](https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a) | 3:39 |
 | 20 | [Hard Times](https://open.spotify.com/track/67TGuYcdTm9fQyUvXbTCrv) | [Unspoken](https://open.spotify.com/artist/0CqDqmyIQ9VQHQp52OEbB0) | [Hard Times](https://open.spotify.com/album/0WrA9C0zhyyXwrzKucVEse) | 2:57 |
 | 21 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/13PDtpRgQ7FT3mdoziwl7Q) | [I AM THEY](https://open.spotify.com/artist/0XJ5RIvhlOL0harjI9jZvX) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/6fyNpkBi15SKd0PBMdMbsM) | 3:49 |
 | 22 | [Sunday Sermons](https://open.spotify.com/track/3l9iNZD6J3nDZMlAhH48Q1) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [My Jesus](https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q) | 3:20 |

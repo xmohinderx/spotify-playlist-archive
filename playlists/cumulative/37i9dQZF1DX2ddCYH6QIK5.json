@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Lore Vain, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: MONKYMAN, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "published_playlist_ids": [
     "769sf2A9Kk835wCxbodHwy"
@@ -413,7 +413,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 217666,
       "name": "Angels",
       "url": "https://open.spotify.com/track/79S4QPeR3QQw8KPMTTZLzt"
@@ -889,7 +889,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 137771,
       "name": "Boring Together",
       "url": "https://open.spotify.com/track/6J0ktPu6HxorYkSKhw5JSd"
@@ -1362,6 +1362,28 @@
     },
     {
       "album": {
+        "name": "Dance Alone",
+        "url": "https://open.spotify.com/album/1iTCfYk72yIY7jMJPr6zBA"
+      },
+      "artists": [
+        {
+          "name": "Yubik",
+          "url": "https://open.spotify.com/artist/4rQiYfSqmicW55TlG6vjK7"
+        },
+        {
+          "name": "SANDHAUS",
+          "url": "https://open.spotify.com/artist/3VPDTHXbhY1NdFM3xpf2Ta"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290388,
+      "name": "Dance Alone",
+      "url": "https://open.spotify.com/track/0G0tlmi6MRNP6VOHtmGJle"
+    },
+    {
+      "album": {
         "name": "Daniel, You Passed The Test",
         "url": "https://open.spotify.com/album/4oISpli0xXeXvWGREjZ9mS"
       },
@@ -1449,7 +1471,7 @@
       ],
       "date_added": "2022-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 232649,
       "name": "Deliverance",
       "url": "https://open.spotify.com/track/4g5sUpU55LX4G0OaF4mWF4"
@@ -1615,7 +1637,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 212293,
       "name": "Double Trouble",
       "url": "https://open.spotify.com/track/35gpDSDqmXHN3tJMhpyDpU"
@@ -1727,6 +1749,24 @@
       "duration_ms": 233696,
       "name": "Drowned Body",
       "url": "https://open.spotify.com/track/1wRVsJqak9oiPhhHWfcJKl"
+    },
+    {
+      "album": {
+        "name": "Dschungel",
+        "url": "https://open.spotify.com/album/3laNqjkfJ28s3CGDKdlWQ4"
+      },
+      "artists": [
+        {
+          "name": "Die Anteile",
+          "url": "https://open.spotify.com/artist/7yFn4E4Lun7lW0hwOr7n0M"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183281,
+      "name": "Dschungel",
+      "url": "https://open.spotify.com/track/5UwfBZURi6AcCZlVNo2jd4"
     },
     {
       "album": {
@@ -2117,7 +2157,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 411700,
       "name": "Felicity",
       "url": "https://open.spotify.com/track/1MiQ67ljfXuuxh25CbdbUr"
@@ -3870,6 +3910,42 @@
     },
     {
       "album": {
+        "name": "Love Letter",
+        "url": "https://open.spotify.com/album/7JMR6pD3mbFit5Vrll5sfR"
+      },
+      "artists": [
+        {
+          "name": "vega vi",
+          "url": "https://open.spotify.com/artist/43f4sgvk9KqSsQqpUii5tO"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/1eEQEdo6HZogMZtlrtPAUY"
+    },
+    {
+      "album": {
+        "name": "Lullaby",
+        "url": "https://open.spotify.com/album/4l84LnnbwihjgzYKi0Nvzx"
+      },
+      "artists": [
+        {
+          "name": "VINTER",
+          "url": "https://open.spotify.com/artist/55LYzBVulUhB6GYloNdtUj"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167400,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/5E098JvWYE6cia9YEH3q6T"
+    },
+    {
+      "album": {
         "name": "Mad",
         "url": "https://open.spotify.com/album/4zMT8egvuqwvcKuMrmgRoD"
       },
@@ -4007,7 +4083,7 @@
       ],
       "date_added": "2022-08-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 134244,
       "name": "Mein derzeitiges Leben in Kurzform",
       "url": "https://open.spotify.com/track/0xr2QqkYP5Nb8l5naWyQfn"
@@ -4468,6 +4544,24 @@
     },
     {
       "album": {
+        "name": "Noiseless Noise",
+        "url": "https://open.spotify.com/album/3dB9O1roaymXhrKiQsygue"
+      },
+      "artists": [
+        {
+          "name": "Fomies",
+          "url": "https://open.spotify.com/artist/1wUWT3r2atzIpT08Fje9EH"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 354800,
+      "name": "Noiseless Noise",
+      "url": "https://open.spotify.com/track/6bAuq7rBeyX8x0qIbIvHKK"
+    },
+    {
+      "album": {
         "name": "Not Alone",
         "url": "https://open.spotify.com/album/2R6rqIY8Or07Bvd3QOQPRY"
       },
@@ -4685,6 +4779,24 @@
       "duration_ms": 144708,
       "name": "OVVERNIGHT",
       "url": "https://open.spotify.com/track/3X9RmGEnwmY2w0KOZ22B12"
+    },
+    {
+      "album": {
+        "name": "Pacemaker",
+        "url": "https://open.spotify.com/album/4wcNpVpkjNkboOYpFxXM3C"
+      },
+      "artists": [
+        {
+          "name": "Richie Setford",
+          "url": "https://open.spotify.com/artist/0zltAdfMFjhIwz78Ttv7if"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233799,
+      "name": "Pacemaker",
+      "url": "https://open.spotify.com/track/4is1qAjhTeOD4bKV0aZ304"
     },
     {
       "album": {
@@ -5277,6 +5389,24 @@
       "duration_ms": 148664,
       "name": "ROSA",
       "url": "https://open.spotify.com/track/4VkqS1YW73oVi3r186l0yr"
+    },
+    {
+      "album": {
+        "name": "Routine",
+        "url": "https://open.spotify.com/album/2Dplfc7k5a4bYO3P7oZvhu"
+      },
+      "artists": [
+        {
+          "name": "Reveries",
+          "url": "https://open.spotify.com/artist/60tGV9yMHKfk2MJvar5vLB"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201880,
+      "name": "Routine",
+      "url": "https://open.spotify.com/track/5JLnA176P8AozeI8AVlvvA"
     },
     {
       "album": {
@@ -6339,7 +6469,7 @@
       ],
       "date_added": "2022-05-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 180124,
       "name": "The End",
       "url": "https://open.spotify.com/track/474rr9J1qEIeKmcaRuISGY"
@@ -6465,7 +6595,7 @@
       ],
       "date_added": "2022-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 213499,
       "name": "Through The Night",
       "url": "https://open.spotify.com/track/27mj4TuM0Kypnyo9dTNNKw"
@@ -6559,6 +6689,24 @@
       "duration_ms": 156693,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/4GIsIMkEvyLLlsqrTVpkGH"
+    },
+    {
+      "album": {
+        "name": "The Big Business Experience, Pt. 1",
+        "url": "https://open.spotify.com/album/0zbutoqFwjgCYIzKQRswfb"
+      },
+      "artists": [
+        {
+          "name": "Mikka Bozu",
+          "url": "https://open.spotify.com/artist/2OcWVlGXYVKwR4vtjEvpyF"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195925,
+      "name": "Traces",
+      "url": "https://open.spotify.com/track/5KhnrnJduaIeG7qq7Kly1Y"
     },
     {
       "album": {
@@ -6995,7 +7143,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 211648,
       "name": "When It Hits Me",
       "url": "https://open.spotify.com/track/027tgJp4xdyRUWAXDxmbqe"
@@ -7017,6 +7165,24 @@
       "duration_ms": 163500,
       "name": "Where Are We Going",
       "url": "https://open.spotify.com/track/0efaZ3dCcrSjhyvGhxjJIM"
+    },
+    {
+      "album": {
+        "name": "Where Do We Go",
+        "url": "https://open.spotify.com/album/0XNfw6o7OnCKRyXWWeFl8h"
+      },
+      "artists": [
+        {
+          "name": "MONKYMAN",
+          "url": "https://open.spotify.com/artist/1OZYsEHLgv8uRLvMAywgod"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 400293,
+      "name": "Where Do We Go",
+      "url": "https://open.spotify.com/track/4eUmP6oMbMllJbYuNrHFDv"
     },
     {
       "album": {

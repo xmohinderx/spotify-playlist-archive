@@ -1,12 +1,12 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 300033,
+  "num_followers": 300245,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDBkOGM0NDI3OWNjNzM3ZDRjZWRjMDNiMmZhMTdmYmRl",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMGM0OWY5ODExNTljNWE1ZDU0ZTRkZWZiMWFjZjRhODU2",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -775,22 +775,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "What Lana Says",
-        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
-      },
-      "artists": [
-        {
-          "name": "Proleter",
-          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
-        }
-      ],
-      "duration_ms": 279200,
-      "name": "What Lana Says",
-      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Glam! - Single",
         "url": "https://open.spotify.com/album/7z35Jlg8WYcek0lb1N49h9"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 187689,
       "name": "Glam - Electro-swing Remix",
       "url": "https://open.spotify.com/track/7dnSxJbkmOWI1v8W3loMcR"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "What Lana Says",
+        "url": "https://open.spotify.com/album/0bgECObKJgewcwX2Vt7vGC"
+      },
+      "artists": [
+        {
+          "name": "Proleter",
+          "url": "https://open.spotify.com/artist/5dCpFeKxLbycrnsjWZjha8"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "What Lana Says",
+      "url": "https://open.spotify.com/track/5l1deuLMR3ZqRAdq5SpVeE"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -963,22 +963,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "Wake Up Romeo",
-        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
-      },
-      "artists": [
-        {
-          "name": "Caro Emerald",
-          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
-        }
-      ],
-      "duration_ms": 207793,
-      "name": "Wake Up Romeo",
-      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Electro Carousel Club Night (Selected by Dr Cat)",
         "url": "https://open.spotify.com/album/1fM5x33jVkuJiA1Hf3F5Jm"
       },
@@ -991,22 +975,6 @@
       "duration_ms": 200559,
       "name": "Take It Easy",
       "url": "https://open.spotify.com/track/15tFVhuNMklFTudioIzRF5"
-    },
-    {
-      "added_at": "2021-05-21 04:01:00",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
-      },
-      "artists": [
-        {
-          "name": "Klisch\u00e9e",
-          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
-        }
-      ],
-      "duration_ms": 196470,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
     },
     {
       "added_at": "2020-10-30 09:06:04",
@@ -1027,6 +995,38 @@
       "duration_ms": 224588,
       "name": "Mr Magpie - Jamie Berry Remix",
       "url": "https://open.spotify.com/track/7GeJy444mvPIpFby9zUaWP"
+    },
+    {
+      "added_at": "2021-05-21 04:01:00",
+      "album": {
+        "name": "So Good",
+        "url": "https://open.spotify.com/album/4j5hKLe8PcSammSkht2CHD"
+      },
+      "artists": [
+        {
+          "name": "Klisch\u00e9e",
+          "url": "https://open.spotify.com/artist/6qokeohfvbaNK1m0VfIEtB"
+        }
+      ],
+      "duration_ms": 196470,
+      "name": "So Good",
+      "url": "https://open.spotify.com/track/5zoU9m2Xg2fYgVzbuiqdzP"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "Wake Up Romeo",
+        "url": "https://open.spotify.com/album/3G7phDeAbKOpTLHBy5EdEk"
+      },
+      "artists": [
+        {
+          "name": "Caro Emerald",
+          "url": "https://open.spotify.com/artist/492hDmhPyuIjP3MgTcIqgm"
+        }
+      ],
+      "duration_ms": 207793,
+      "name": "Wake Up Romeo",
+      "url": "https://open.spotify.com/track/5FPbrikKdq0j2KOrINrnXM"
     },
     {
       "added_at": "2022-02-25 05:02:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2020-10-30 09:06:04",
       "album": {
-        "name": "My 20s Woman",
-        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "Phos Toni",
-          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "My 20s Woman",
-      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
-    },
-    {
-      "added_at": "2020-10-30 09:06:04",
-      "album": {
         "name": "Bass Age Big Band",
         "url": "https://open.spotify.com/album/5mjTjPdZzIuMDmJPQu3Ywq"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 215625,
       "name": "Comin' Up Swinging",
       "url": "https://open.spotify.com/track/7KaR0WJwomHKGJWp29m89T"
+    },
+    {
+      "added_at": "2020-10-30 09:06:04",
+      "album": {
+        "name": "My 20s Woman",
+        "url": "https://open.spotify.com/album/1fyfPMEPW6VBGtaxVWNI0A"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Phos Toni",
+          "url": "https://open.spotify.com/artist/1D2acYwVzm55CayJwUwqB5"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "My 20s Woman",
+      "url": "https://open.spotify.com/track/7bLY55RMYIyFLVwSUXgwW7"
     },
     {
       "added_at": "2021-02-19 05:01:00",

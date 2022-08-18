@@ -1,12 +1,12 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 329329,
+  "num_followers": 329400,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY0OTM1NSwwMDAwMDAwMGQxYmM4Y2Q5ZjU5NDEzYTQ4MDE1YTk3NDNlMzAwNjg1",
+  "snapshot_id": "MTY2MDY0OTM1NSwwMDAwMDAwMDUwYzQ2OTg2ZGNkNWM4NDgxOTQ1YjJmYWNjNjJjYWM0",
   "tracks": [
     {
       "added_at": "2022-08-16 11:29:15",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
+        "name": "The Magic of Now",
+        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
+      },
+      "artists": [
+        {
+          "name": "Orrin Evans",
+          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "Dave",
+      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
         "name": "The Great Belonging",
         "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 371120,
       "name": "The Great Belonging",
       "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
-        "name": "The Magic of Now",
-        "url": "https://open.spotify.com/album/6WHjgmOf2n8tjd2d4GJt6y"
-      },
-      "artists": [
-        {
-          "name": "Orrin Evans",
-          "url": "https://open.spotify.com/artist/1E4jlqY2HEXKLT0YkNy3HL"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "Dave",
-      "url": "https://open.spotify.com/track/0mF2uLwZb2puMEiKI3hVYT"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "In Pursuit Of The 27th Man",
-        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
-      },
-      "artists": [
-        {
-          "name": "Horace Silver",
-          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
-        }
-      ],
-      "duration_ms": 323666,
-      "name": "Liberated Brother",
-      "url": "https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "Alfie",
         "url": "https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 397173,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "In Pursuit Of The 27th Man",
+        "url": "https://open.spotify.com/album/1jSn14NPxq3RfopCPluTyp"
+      },
+      "artists": [
+        {
+          "name": "Horace Silver",
+          "url": "https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5"
+        }
+      ],
+      "duration_ms": 323666,
+      "name": "Liberated Brother",
+      "url": "https://open.spotify.com/track/4ZVsHkOW4A3ChH1yeLqi1I"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Trouble Maker",
-        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 407333,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "Jacob Karlzon Trio: Today",
         "url": "https://open.spotify.com/album/10ZG1HoTjvzHzq7kvATtMm"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 407333,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/6onu3dtSozmPb5GBbcXL3m"
       },
@@ -623,6 +623,22 @@
       "duration_ms": 315903,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/0kHc5lXxGsf4Dfe0iLhEsE"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "Tributary",
+        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
+      },
+      "artists": [
+        {
+          "name": "Julian Lage",
+          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
+        }
+      ],
+      "duration_ms": 347240,
+      "name": "Tributary",
+      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -711,22 +727,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u"
-      },
-      "artists": [
-        {
-          "name": "Hegge",
-          "url": "https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G"
-        }
-      ],
-      "duration_ms": 327146,
-      "name": "New Bromance",
-      "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "Nil's Jazz Ensemble",
         "url": "https://open.spotify.com/album/2Cy5KeZYcmMsRtbVFzmfLY"
       },
@@ -747,6 +747,22 @@
       "duration_ms": 237186,
       "name": "Reflexiones",
       "url": "https://open.spotify.com/track/38XhQOlYqpwM16JoRPKSFd"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/1I5B2Z0aFETAorqMcAO33u"
+      },
+      "artists": [
+        {
+          "name": "Hegge",
+          "url": "https://open.spotify.com/artist/5EWX8RNmEZQNPmKQY4XU1G"
+        }
+      ],
+      "duration_ms": 327146,
+      "name": "New Bromance",
+      "url": "https://open.spotify.com/track/0BMQBzqD8ywT5gSQFmXpHp"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -823,22 +839,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Tributary",
-        "url": "https://open.spotify.com/album/4Smd5XsAnGKCt8QepEw9AM"
-      },
-      "artists": [
-        {
-          "name": "Julian Lage",
-          "url": "https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT"
-        }
-      ],
-      "duration_ms": 347240,
-      "name": "Tributary",
-      "url": "https://open.spotify.com/track/7q6UmBKNhBLgMt0dg9UKr2"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "Homeward Bound",
         "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
       },
@@ -887,6 +887,34 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
+        "name": "Golden Treasures",
+        "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
+      },
+      "artists": [
+        {
+          "name": "Ari Hoenig",
+          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
+        },
+        {
+          "name": "Yoav Eshed",
+          "url": "https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5"
+        },
+        {
+          "name": "Gadi Lehavi",
+          "url": "https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o"
+        },
+        {
+          "name": "Ben Tiberio",
+          "url": "https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos"
+        }
+      ],
+      "duration_ms": 374653,
+      "name": "It Might as Well Be Spring",
+      "url": "https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
         "name": "Mack the Knife",
         "url": "https://open.spotify.com/album/71f5NDDwjmhnZbagOektXu"
       },
@@ -915,34 +943,6 @@
       "duration_ms": 433360,
       "name": "I Didn't Know What Time It Was",
       "url": "https://open.spotify.com/track/753IPE29U6NWJtWOqAin7T"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
-        "name": "Golden Treasures",
-        "url": "https://open.spotify.com/album/6HVVdncUSlgCkRh5qQaTV4"
-      },
-      "artists": [
-        {
-          "name": "Ari Hoenig",
-          "url": "https://open.spotify.com/artist/1P6Llrp12ldpVbyC8gCHBz"
-        },
-        {
-          "name": "Yoav Eshed",
-          "url": "https://open.spotify.com/artist/0xgMRXvX4wS1we58R46Xh5"
-        },
-        {
-          "name": "Gadi Lehavi",
-          "url": "https://open.spotify.com/artist/01FRXq3Es0z4crmTkjkR7o"
-        },
-        {
-          "name": "Ben Tiberio",
-          "url": "https://open.spotify.com/artist/4HF9chz1OmDunHzUD3ZIos"
-        }
-      ],
-      "duration_ms": 374653,
-      "name": "It Might as Well Be Spring",
-      "url": "https://open.spotify.com/track/0mmhNRfvI599pLb0bNV13N"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -1371,30 +1371,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
-      },
-      "artists": [
-        {
-          "name": "Emil Brandqvist",
-          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
-        },
-        {
-          "name": "Emil Brandqvist Trio",
-          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
-        },
-        {
-          "name": "Maija Kauhanen",
-          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
-        }
-      ],
-      "duration_ms": 366133,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "In a Sentimental Mood",
         "url": "https://open.spotify.com/album/56K1pQYA5ZTmpCGjQbJV0l"
       },
@@ -1423,6 +1399,30 @@
       "duration_ms": 270266,
       "name": "Awakening",
       "url": "https://open.spotify.com/track/6bK3YND4NEVYhjnLWo7YQ0"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/3AOFyozta3QSEfa7T9supv"
+      },
+      "artists": [
+        {
+          "name": "Emil Brandqvist",
+          "url": "https://open.spotify.com/artist/5u17bcLy3Geti3XAx7gSr8"
+        },
+        {
+          "name": "Emil Brandqvist Trio",
+          "url": "https://open.spotify.com/artist/6i6sHi3KJ6rgqxmbBaFDoG"
+        },
+        {
+          "name": "Maija Kauhanen",
+          "url": "https://open.spotify.com/artist/4IfPb99Q6EIAGqE1w9Gw4q"
+        }
+      ],
+      "duration_ms": 366133,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/2uLa2EKuWZ62AsBUE1TNi6"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -1599,6 +1599,34 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
+        "name": "First Quartet",
+        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
+      },
+      "artists": [
+        {
+          "name": "James Kitchman",
+          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
+        },
+        {
+          "name": "Bruno Heinen",
+          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
+        },
+        {
+          "name": "Tom McCredie",
+          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
+        },
+        {
+          "name": "Shane Forbes",
+          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
+        }
+      ],
+      "duration_ms": 290506,
+      "name": "First Day",
+      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
         "name": "Without Deception",
         "url": "https://open.spotify.com/album/6LUlAvbrFf5GdxXAO0Fznc"
       },
@@ -1639,50 +1667,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Yellow Fields",
-        "url": "https://open.spotify.com/album/6tw9j5BoCn63TftByUOIKR"
-      },
-      "artists": [
-        {
-          "name": "Eberhard Weber",
-          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
-        }
-      ],
-      "duration_ms": 299693,
-      "name": "Touch",
-      "url": "https://open.spotify.com/track/0rHgcsBwgdZuHR6YPquW49"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
-        "name": "First Quartet",
-        "url": "https://open.spotify.com/album/0KpteW5dC4xgy87G1VnZLZ"
-      },
-      "artists": [
-        {
-          "name": "James Kitchman",
-          "url": "https://open.spotify.com/artist/53tiP49hLQv8D4a47sNLhW"
-        },
-        {
-          "name": "Bruno Heinen",
-          "url": "https://open.spotify.com/artist/3ho0Fv00t64fgBVDl9Zgi7"
-        },
-        {
-          "name": "Tom McCredie",
-          "url": "https://open.spotify.com/artist/5w5Nkr21IYe3eIaaIUcO2s"
-        },
-        {
-          "name": "Shane Forbes",
-          "url": "https://open.spotify.com/artist/72uaHN9nH6VQvVaKoN62KB"
-        }
-      ],
-      "duration_ms": 290506,
-      "name": "First Day",
-      "url": "https://open.spotify.com/track/4PeEDqQxyNQQDE5Zs7DC2s"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/4syZHZiuvbXt0nWb9QT39A"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 330213,
       "name": "To Mr K.K.",
       "url": "https://open.spotify.com/track/1naTwydH0ks78g3oXpTmGC"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "Yellow Fields",
+        "url": "https://open.spotify.com/album/6tw9j5BoCn63TftByUOIKR"
+      },
+      "artists": [
+        {
+          "name": "Eberhard Weber",
+          "url": "https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT"
+        }
+      ],
+      "duration_ms": 299693,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/0rHgcsBwgdZuHR6YPquW49"
     },
     {
       "added_at": "2022-08-16 11:29:15",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2022-08-16 11:29:15",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
-    },
-    {
-      "added_at": "2022-08-16 11:29:15",
-      "album": {
         "name": "In the Wee Small Hours of the Morning",
         "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 270027,
       "name": "In the Wee Small Hours of the Morning",
       "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+    },
+    {
+      "added_at": "2022-08-16 11:29:15",
+      "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2022-08-16 11:29:15",

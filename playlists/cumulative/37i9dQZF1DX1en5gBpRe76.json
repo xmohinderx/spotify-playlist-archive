@@ -867,7 +867,7 @@
     {
       "album": {
         "name": "Talking Book",
-        "url": "https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y"
+        "url": "https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw"
       },
       "artists": [
         {
@@ -878,6 +878,24 @@
       "date_added": "2020-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 178200,
+      "name": "You Are The Sunshine Of My Life",
+      "url": "https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX"
+    },
+    {
+      "album": {
+        "name": "Talking Book",
+        "url": "https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2020-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2022-08-18",
       "duration_ms": 180200,
       "name": "You Are The Sunshine Of My Life",
       "url": "https://open.spotify.com/track/1xKvdXVMW2J6HAAyjLYbJo"

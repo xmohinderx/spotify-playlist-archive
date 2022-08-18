@@ -1,12 +1,12 @@
 {
   "description": "pov: essa mami n te quer mais // ROSAL\u00cdA",
-  "num_followers": 223877,
+  "num_followers": 224161,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NDA4NSwwMDAwMDAwMDA0NWFjYmRiOGY4ZWNiMjFmMWQ5NTI5YzU3MDYzYTNl",
+  "snapshot_id": "MTY2MDI3NDA4NSwwMDAwMDAwMGEzNTA1MTBhZjliOTVkMTE0YjY3YzdiZTYwZDU4ZjQ3",
   "tracks": [
     {
       "added_at": "2022-08-12 03:14:45",
@@ -735,6 +735,22 @@
     {
       "added_at": "2022-08-12 03:14:45",
       "album": {
+        "name": "Dolls EP",
+        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
+      },
+      "artists": [
+        {
+          "name": "Bella Poarch",
+          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
+        }
+      ],
+      "duration_ms": 174002,
+      "name": "Living Hell",
+      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
+    },
+    {
+      "added_at": "2022-08-12 03:14:45",
+      "album": {
         "name": "Ap\u00ea 1001",
         "url": "https://open.spotify.com/album/1YBdcdUHmr5q2yrUf7ARYV"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/3q6ZCGgFDIVCJQ5XG4JTL2"
-    },
-    {
-      "added_at": "2022-08-12 03:14:45",
-      "album": {
-        "name": "Dolls EP",
-        "url": "https://open.spotify.com/album/4W8QhTVggLgkJLdsXLLnnz"
-      },
-      "artists": [
-        {
-          "name": "Bella Poarch",
-          "url": "https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm"
-        }
-      ],
-      "duration_ms": 174002,
-      "name": "Living Hell",
-      "url": "https://open.spotify.com/track/6bTbMMEShyGyrcuIwtBlpA"
     },
     {
       "added_at": "2022-08-12 03:14:45",

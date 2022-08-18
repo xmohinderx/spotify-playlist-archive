@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 82985,
+  "num_followers": 83127,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1Nzg2OCwwMDAwMDAwMDY4MjI3MDVmMjY4OTQxZjAyZjlmYmFmZWE2M2ZiNzE1",
+  "snapshot_id": "MTY2MDY1Nzg2OCwwMDAwMDAwMDg3NGE1NWI3YTNjMWQ4MDhjY2E3ZTU0ZGQ1ZGE1MTA2",
   "tracks": [
     {
       "added_at": "2022-07-21 20:30:32",
@@ -375,22 +375,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "Sister",
-        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 268829,
-      "name": "Sister",
-      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "Nova / Moth",
         "url": "https://open.spotify.com/album/17nT2QOQmMPEETOsNDK1Bp"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 342000,
       "name": "Nova",
       "url": "https://open.spotify.com/track/7dYjEwbLJ1B5reoz3lWra0"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "Sister",
+        "url": "https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 268829,
+      "name": "Sister",
+      "url": "https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "Dub Reggae",
-        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
-      },
-      "artists": [
-        {
-          "name": "King Tubby",
-          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
-        }
-      ],
-      "duration_ms": 218693,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "Swim",
         "url": "https://open.spotify.com/album/3gkW0gOyovtdcscDX6WZ6O"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+        "name": "Dub Reggae",
+        "url": "https://open.spotify.com/album/5c1GnEPAEjvyqqhV7mSkjS"
       },
       "artists": [
         {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+          "name": "King Tubby",
+          "url": "https://open.spotify.com/artist/1AMMMSq3rJdZtFGnBXEkz7"
         }
       ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
+      "duration_ms": 218693,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/0t0F3Qyt3kKFU7rGxKa02t"
     },
     {
       "added_at": "2022-08-16 13:51:08",
@@ -563,6 +547,22 @@
       "duration_ms": 278124,
       "name": "NO SKIN",
       "url": "https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy"
+      },
+      "artists": [
+        {
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
+        }
+      ],
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -877,26 +877,6 @@
       "url": "https://open.spotify.com/track/3XPOwqZH6WsBLn3uURmXQ4"
     },
     {
-      "added_at": "2022-08-16 13:51:08",
-      "album": {
-        "name": "Another Dose (feat. Mick Jenkins)",
-        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
-      },
-      "artists": [
-        {
-          "name": "Gamblers",
-          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
-        },
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        }
-      ],
-      "duration_ms": 138760,
-      "name": "Another Dose (feat. Mick Jenkins)",
-      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
-    },
-    {
       "added_at": "2022-06-24 00:45:24",
       "album": {
         "name": "Pueblo",
@@ -915,6 +895,26 @@
       "duration_ms": 103220,
       "name": "Pueblo",
       "url": "https://open.spotify.com/track/4LOw0j83cz4aaqgP555uAT"
+    },
+    {
+      "added_at": "2022-08-16 13:51:08",
+      "album": {
+        "name": "Another Dose (feat. Mick Jenkins)",
+        "url": "https://open.spotify.com/album/5NqQIZptkFt28aRMa62QvO"
+      },
+      "artists": [
+        {
+          "name": "Gamblers",
+          "url": "https://open.spotify.com/artist/0mkPR7AJ7qhuFaS9Eh2Lmm"
+        },
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        }
+      ],
+      "duration_ms": 138760,
+      "name": "Another Dose (feat. Mick Jenkins)",
+      "url": "https://open.spotify.com/track/09GY9rmMFHOuH3Z7sGSoKz"
     },
     {
       "added_at": "2022-06-24 00:45:24",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-06-24 00:45:24",
       "album": {
-        "name": "OnlyL",
-        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        }
-      ],
-      "duration_ms": 288038,
-      "name": "I Know",
-      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
-    },
-    {
-      "added_at": "2022-06-24 00:45:24",
-      "album": {
         "name": "All Inclusive",
         "url": "https://open.spotify.com/album/3Ds49Xs732sr7FXcH6OrLJ"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2022-06-24 00:45:24",
+      "album": {
+        "name": "OnlyL",
+        "url": "https://open.spotify.com/album/3S0Bc7ND7GBGyBUElLAXqU"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        }
+      ],
+      "duration_ms": 288038,
+      "name": "I Know",
+      "url": "https://open.spotify.com/track/4oV37nYkVu3IZ64ZGxghT7"
     },
     {
       "added_at": "2022-06-24 00:45:24",

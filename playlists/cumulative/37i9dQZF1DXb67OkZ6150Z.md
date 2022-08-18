@@ -4,7 +4,7 @@
 
 > Indie takes on songs others make\. Cover: Remi Wolf
 
-343 songs - 21 hr 13 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
+344 songs - 21 hr 16 min - [published](https://open.spotify.com/playlist/1xscuBe0hUgZ7Q0c20ddVX)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -263,7 +263,7 @@
 | [Sparks](https://open.spotify.com/track/0XWe8Cxl9ebrtE4I9lkFD3) | [Field Guide](https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz), [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Parachutes](https://open.spotify.com/album/2FhVMpJN2jtR2BwvZOFZop) | 3:45 | 2021-11-19 | 2022-04-21 |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2021-03-12 | 2022-04-20 |
 | [Stay \- Spotify Singles](https://open.spotify.com/track/2mKGjVCoxL8Um9GkNhhyto) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6lsdqhAPgBr4zykC1SXhW5) | 2:55 | 2021-10-08 |  |
-| [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 | 2021-10-08 |  |
+| [Steal My Sunshine \(feat\. Cherry Glazerr\)](https://open.spotify.com/track/3dVumZf1SZX1OzsNht9reC) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [Steal My Sunshine / Novocaine For The Soul](https://open.spotify.com/album/7tfjWfYOhPMyb5uu0mC5w1) | 4:00 | 2021-10-08 | 2022-08-18 |
 | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/track/0864RUJfVHsr25hM5pxonl) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Such Great Heights \(615 Sessions\)](https://open.spotify.com/album/30HFiTr4QBg533rhuDXYw1) | 3:51 | 2021-03-12 | 2022-04-21 |
 | [Summer Madness](https://open.spotify.com/track/7fpiYh33Xph4OPj8gS8jL0) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Summer Madness](https://open.spotify.com/album/2g0Mwf7ujbQmtZzMAhiCkp) | 3:21 | 2021-03-12 |  |
 | [Summer's End \- Spotify Singles](https://open.spotify.com/track/2lVPHHSn8elKFEf1d6evFG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Maria Taylor](https://open.spotify.com/artist/6iKiDPed4LAQEcPZpvf00m) | [Spotify Singles](https://open.spotify.com/album/1pBRAyTNXs1QRRAFRZ4Ygs) | 3:54 | 2021-03-19 |  |
@@ -275,6 +275,7 @@
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 | 2021-03-12 | 2022-07-29 |
 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/4pR4OUNzzhK3vDY89PN1Oa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Candid](https://open.spotify.com/album/02b3E6hkZ8TslA7nDnrrb2) | 2:45 | 2021-03-12 |  |
 | [Teardrop](https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j) | [Hayley Williams](https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM) | [Teardrop](https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y) | 3:26 | 2021-03-12 | 2022-07-21 |
+| [Teenage Dream](https://open.spotify.com/track/3Y2MvObZdPakD1X71KOxCD) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Teenage Dream](https://open.spotify.com/album/0FPqPpVTND59rpe6YsNnyz) | 2:57 | 2022-08-17 |  |
 | [That Don't Impress Me Much \- triple j Like A Version](https://open.spotify.com/track/1ZOK8VkScTdXrccs7hkUPq) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [That Don't Impress Me Much \(triple j Like A Version\)](https://open.spotify.com/album/1FUq5cHUqKxQZQZ5xhB8O9) | 4:04 | 2021-03-12 | 2022-07-28 |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-10-08 |  |
 | [The End of the World](https://open.spotify.com/track/0Sg9bWEaPtDO2JE7qwcMvy) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [The End of the World](https://open.spotify.com/album/1mucviYBsV3qhlMmO0wSgz) | 2:58 | 2021-03-12 | 2022-08-10 |

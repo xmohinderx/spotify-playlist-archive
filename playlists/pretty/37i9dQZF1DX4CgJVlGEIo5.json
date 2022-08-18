@@ -1,12 +1,12 @@
 {
   "description": "Cherish the day with these low-key favorites.",
-  "num_followers": 294369,
+  "num_followers": 294465,
   "original_name": "Easy Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMDE3ZmQxZGUxYjYzZTQ1N2U0ODQ2ZDNkNTQ4NDdiZTc4",
+  "snapshot_id": "MTY0ODA3MTA4MSwwMDAwMDAwMDE4OGQ5NDU0NTk2OTdmNDEzMDU0ZjM3NTY0OGE1NjE3",
   "tracks": [
     {
       "added_at": "2022-03-23 21:31:21",
@@ -775,22 +775,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "By The Way, I Forgive You",
-        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Every Time I Hear That Song",
-      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "History Of A Feeling",
         "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 173426,
       "name": "Resentment",
       "url": "https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "By The Way, I Forgive You",
+        "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Every Time I Hear That Song",
+      "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Starfire",
-        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
-      },
-      "artists": [
-        {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
-        }
-      ],
-      "duration_ms": 190066,
-      "name": "Cheap Date",
-      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Vinter",
         "url": "https://open.spotify.com/album/6ah9pwb4VzAVru5OahGLxO"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 169044,
       "name": "Little Marks",
       "url": "https://open.spotify.com/track/3f6CKzOD5zaVvHCOboOp7Y"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Starfire",
+        "url": "https://open.spotify.com/album/0AwyOQYwqrVYA0owehyAIB"
+      },
+      "artists": [
+        {
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+        }
+      ],
+      "duration_ms": 190066,
+      "name": "Cheap Date",
+      "url": "https://open.spotify.com/track/4HLNo8wZoxWejkPY9W59J4"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
         "name": "Hearts That Strain",
         "url": "https://open.spotify.com/album/5mtKBCFyLMuEqk9jCHYHr9"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 191000,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/3AUUbyL5s60ZxJa7JOFovi"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2022-03-23 21:31:21",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2022-03-23 21:31:21",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
-      },
-      "artists": [
-        {
-          "name": "Aoife O'Donovan",
-          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
-        }
-      ],
-      "duration_ms": 210196,
-      "name": "Phoenix",
-      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
-    },
-    {
-      "added_at": "2022-03-23 21:31:21",
-      "album": {
         "name": "Signs of Life",
         "url": "https://open.spotify.com/album/4MOkPB90s3AsnbjNmGJ5x2"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 233026,
       "name": "System",
       "url": "https://open.spotify.com/track/15mRJR5eMKMtV3e5fU2aDE"
+    },
+    {
+      "added_at": "2022-03-23 21:31:21",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/2coGGOjBDPEts7MCgAxrsj"
+      },
+      "artists": [
+        {
+          "name": "Aoife O'Donovan",
+          "url": "https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa"
+        }
+      ],
+      "duration_ms": 210196,
+      "name": "Phoenix",
+      "url": "https://open.spotify.com/track/2xtgvbuwqBgjI89UmCHApY"
     }
   ],
   "unique_name": "Easy Acoustic",

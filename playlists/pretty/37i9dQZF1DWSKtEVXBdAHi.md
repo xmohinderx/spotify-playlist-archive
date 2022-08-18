@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 
 > Utan bra musik blir det ingen bra AW\. Så enkel är ekvationen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,998 likes - 80 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,000 likes - 80 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 47 | [Not Ok](https://open.spotify.com/track/6aoGtdWXBkYQ2O2wnyIz2x) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [Not Ok](https://open.spotify.com/album/3GTuto6NDtZegL6idSk183) | 3:30 |
 | 48 | [Solo Dance](https://open.spotify.com/track/3R6dPfF2yBO8mHySW1XDAa) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB) | [Solo Dance](https://open.spotify.com/album/7J6SYqcOQ705IYA0DUec38) | 2:54 |
 | 49 | [Harder \(with Bebe Rexha\)](https://open.spotify.com/track/5RgBnDtHKFHgtVdqabjGE3) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Snacks](https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb) | 2:39 |
-| 50 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
-| 51 | [All Star](https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [whoisFIYAH](https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8) | [All Star](https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm) | 2:31 |
+| 50 | [All Star](https://open.spotify.com/track/7eqL9wlOJXQDwzdjUbhTT0) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c), [Hot Shade](https://open.spotify.com/artist/3GtCKJA4SkOxN65MWjm82R), [TEN TIMES](https://open.spotify.com/artist/3NccRg2H1XTSVekaTZZ3Xd), [whoisFIYAH](https://open.spotify.com/artist/3f7MOkILh9Qh6dn0ks3vQ8) | [All Star](https://open.spotify.com/album/2Es570t0nOuNYxQcdDfZXm) | 2:31 |
+| 51 | [One Touch](https://open.spotify.com/track/5EKiBMhzRLALeGDPdoAKkQ) | [Jess Glynne](https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [One Touch](https://open.spotify.com/album/73JUDiyiu0OXCzzM2jjVkL) | 3:17 |
 | 52 | [I Don't Care \(with Justin Bieber\) \- Jonas Blue Remix](https://open.spotify.com/track/1VYj8u5I4L5Xl21zQiQMx7) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [I Don't Care \(with Justin Bieber\) \[Jonas Blue Remix\]](https://open.spotify.com/album/35Cuz13gq76FoBKrEMlYTT) | 3:12 |
 | 53 | [Tough Love \(feat\. Agnes, Vargas & Lagola\)](https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6), [Agnes](https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu), [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [TIM](https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ) | 3:11 |
 | 54 | [With You](https://open.spotify.com/track/1xK7enJZVdv37fnnxoZlPq) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [With You](https://open.spotify.com/album/03Rd91m56yw4XklwHF9FHq) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKtEVXBdAHi.md) - [plain]
 | 79 | [Thorns](https://open.spotify.com/track/6DuE8kXIDJ3oiCibWXmgeN) | [Faustix](https://open.spotify.com/artist/6jPriOYMyUL9kNonBI1CNd) | [Thorns](https://open.spotify.com/album/57ATyOS7Gud3uEjzIbMp7Y) | 3:06 |
 | 80 | [Long Way Home](https://open.spotify.com/track/1zZPjx3m2M604sI7GpI2ZR) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Long Way Home](https://open.spotify.com/album/0gsRK96dxwHjosLKpHgns4) | 2:49 |
 
-Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDFiZTRkNDNiYjAzM2Y3NjRhZDE2OGRiMTQzYzk1NmEz`
+Snapshot ID: `MTU4MjAzMjY5MCwwMDAwMDAwMDcxOWE5MzgzNTFjMjIyMTdjZGQyODU3YzZhNzBmY2E1`

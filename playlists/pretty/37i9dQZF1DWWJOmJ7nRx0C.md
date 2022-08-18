@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 
 > The hardest songs, loud\. Very loud\. Cover: Hollywood Undead
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,244 likes - 150 songs - 9 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,455 likes - 150 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 96 | [Classless Act \(feat\. Vince Neil of Motley Crue\)](https://open.spotify.com/track/05liOVVybQw3UyyrEOAcSw) | [Classless Act](https://open.spotify.com/artist/4UciATnuVJDY2ZMgiERxK1), [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Classless Act \(feat\. Vince Neil of Mötley Crüe\)](https://open.spotify.com/album/2TGWTcdEm3PydLgMmxBawv) | 3:14 |
 | 97 | [Family](https://open.spotify.com/track/3z67pAKSP7DQkRpWOD28T1) | [Badflower](https://open.spotify.com/artist/3T55D3LMiygE9eSKFpiAye) | [This Is How The World Ends](https://open.spotify.com/album/1A2doQQJcGdh1ORygfbEp9) | 4:07 |
 | 98 | [AfterLife](https://open.spotify.com/track/51lcM37Li2HOhk8F8kPwUv) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/4iFOMGs1kbc2SJoFRBEBCJ) | 4:03 |
-| 99 | [We’ll Be Back](https://open.spotify.com/track/4SsN1B9ZaSOFmBb4wVu1WB) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [We’ll Be Back](https://open.spotify.com/album/2aeNfVklb5vG8aThJMIQ69) | 4:29 |
+| 99 | [We’ll Be Back](https://open.spotify.com/track/1sI2Duw2PyugyW9EYbmdqO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Soldier On! / Night Stalkers / We’ll Be Back](https://open.spotify.com/album/2qS54pyHeqvTvzdWAo91rv) | 4:29 |
 | 100 | [Dreams of Nowhere](https://open.spotify.com/track/0XagPzF4JY9rxH8wZ0Qzv9) | [Soilwork](https://open.spotify.com/artist/7wqP36o9lqWteOCxBnXlwx) | [Dreams Of Nowhere](https://open.spotify.com/album/2xQwrxXBneEnpqvsJ5rXt3) | 4:29 |
 | 101 | [Ringin' In My Head](https://open.spotify.com/track/1WvT1OcoGlm9g3Sjx9W3Gw) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [The Human Condition \(Deluxe Edition\)](https://open.spotify.com/album/4ZtEyTG6s7MfPjoEDrxH9C) | 4:12 |
 | 102 | [Another Last Time](https://open.spotify.com/track/3IzeRtUTIeMMHYxWpjEm4P) | [Dirty Honey](https://open.spotify.com/artist/0XBRd3N11rCbh0s8qHf41m) | [Dirty Honey](https://open.spotify.com/album/0vyPTdAxmOLpOHHAkWJAa0) | 4:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWJOmJ7nRx0C.md) - [plain]
 | 149 | [Awaken Love](https://open.spotify.com/track/3lUljv8dQ66rCPw8Z5G5Ms) | [Lacey Sturm](https://open.spotify.com/artist/09LCTrVGnMsGbxexUFJoap) | [Awaken Love](https://open.spotify.com/album/14Yjv6pmzJmUCqewnThxxq) | 4:27 |
 | 150 | [Only Love Can Save Me Now \[Feat\. Matt Cameron & Kim Thayil\]](https://open.spotify.com/track/4jXoiJSLQkAft0L5D1yjDb) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Matt Cameron](https://open.spotify.com/artist/4NfvOU2TMtQhyBOW0erSDf), [Kim Thayil](https://open.spotify.com/artist/0XY2RjIqyilsOHYiNro5tD) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 5:12 |
 
-Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDg2MDY0NTU5NzJmMDdlNTc2MmQ3YTc3MTM0MmNkOGFl`
+Snapshot ID: `MTY2MDI3Njg2MCwwMDAwMDAwMDI5ZjY0YmIyZTNlYmMyNDgxYTQ1M2FlNDlkZTY1NzE4`

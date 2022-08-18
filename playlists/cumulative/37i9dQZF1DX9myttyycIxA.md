@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: girlpuppy
 
-565 songs - 1 day 8 hr 14 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
+567 songs - 1 day 8 hr 22 min - [published](https://open.spotify.com/playlist/4XA1SOQIX98lp2gcRgRzUr)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [DIVER](https://open.spotify.com/track/4ozfvmH8diTEA69mVnjQrM) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [DIVER](https://open.spotify.com/album/4djBKbRIxnLHPApowO8tbL) | 3:01 | 2021-07-16 | 2022-04-29 |
 | [Dizzy](https://open.spotify.com/track/3z9BIZNLWWGlta78pY2kd2) | [Tennis System](https://open.spotify.com/artist/2ChSBG1Njjt2SQ2Lt5dziF) | [Autophobia](https://open.spotify.com/album/4GJULEg4ykZYEt5lfq6Fdp) | 3:37 | 2022-05-06 | 2022-07-09 |
 | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/track/5d1TzfQh1uuIwh3HQXMyGa) | [Fleece](https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm) | [Do U Mind? \(Leave the Light On\)](https://open.spotify.com/album/5LfUy7NkFPoM8w63kp3iDi) | 3:42 | 2021-03-05 | 2022-04-29 |
+| [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 | 2022-08-17 |  |
 | [Doja Cat](https://open.spotify.com/track/2kXgy7JdxMUlk6OzkxWbzg) | [Pity Party \(Girls Club\)](https://open.spotify.com/artist/5J3QKfJDFyjR3Q2qRcRaIU) | [Doja Cat](https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol) | 2:40 | 2022-04-26 | 2022-06-25 |
 | [drink](https://open.spotify.com/track/0BKepmBtw6vSh6AVhoT0Uo) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [drink](https://open.spotify.com/album/0Lt7OKElAxGnG9WRywJjfB) | 2:30 | 2022-01-28 | 2022-02-22 |
 | [Drink The Lake](https://open.spotify.com/track/66ODte3X9Uk7ON85hnDNmw) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Drink The Lake](https://open.spotify.com/album/111JuJ9c9okr6iskmC7DR3) | 3:15 | 2021-03-05 | 2022-04-29 |
@@ -349,7 +350,7 @@
 | [Movies](https://open.spotify.com/track/31LKL7XfxR1PTm6Or9KTKv) | [Weyes Blood](https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9) | [Titanic Rising](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX) | 5:53 | 2021-03-05 | 2022-04-15 |
 | [Mr\. Lonely](https://open.spotify.com/track/7AyqUwYAXXzBMvH12lRUWo) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Parking Lot](https://open.spotify.com/album/3ljazEefHFWlgzR3Hbz4qG) | 2:48 | 2022-03-26 | 2022-04-14 |
 | [Muscle Memory](https://open.spotify.com/track/0dRQJ2toZYGLcgfDZmx4mL) | [Art Moore](https://open.spotify.com/artist/63c8LndU96a2DpE9OhilbC) | [Muscle Memory](https://open.spotify.com/album/1iAFICvSpHa8ikT8MOLdI7) | 3:16 | 2022-05-20 | 2022-07-09 |
-| [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 |  |
+| [Must Be a Cop](https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y) | [Husbands](https://open.spotify.com/artist/2FUIaEhxMNdiBpO8ykabdP) | [Must Be a Cop](https://open.spotify.com/album/4igY3gMllO1ThzJpZVjQzO) | 3:49 | 2021-06-11 | 2022-08-18 |
 | [Mystery Key \- Eyedress Remix](https://open.spotify.com/track/0RMxx9ZD0KXSnUYPwunVbw) | [Provoker](https://open.spotify.com/artist/62s5q1tm3UAcRnbGY9CCI9), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Body Jumper \(Deluxe\)](https://open.spotify.com/album/7DaHhFanoQbsCBHM7bzWUa) | 2:17 | 2022-03-26 | 2022-05-19 |
 | [Mythical Bonds](https://open.spotify.com/track/3qWEIZd7qxdBnywCHDX4AZ) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [Mythical Bonds](https://open.spotify.com/album/74Q7dSC1RXdhoB76Eac49Q) | 2:04 | 2022-07-22 |  |
 | [Navy](https://open.spotify.com/track/7kReLxmnpzrUBEp6fzFY8E) | [gglum](https://open.spotify.com/artist/3AYjDTXEMqJP0h1iXq8eYO) | [Navy](https://open.spotify.com/album/721v4tJJZVgOJgrftH01l9) | 3:34 | 2021-09-10 | 2022-04-28 |
@@ -374,6 +375,7 @@
 | [Nowhere, LA](https://open.spotify.com/track/7MmY1Y5pzY7U84sf8KH7uE) | [Why Bonnie](https://open.spotify.com/artist/4FAX5kglTvU5WiFq7yPNb9) | [Nowhere, LA](https://open.spotify.com/album/26cITT0Klc8cspvfpH9WNH) | 3:26 | 2022-07-29 |  |
 | [nrvs again](https://open.spotify.com/track/4WugVoKEajXnwN3JjqmUdC) | [dad sports](https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U) | [nrvs again](https://open.spotify.com/album/4vaILOzSe7nAFfwzMho1Wq) | 3:38 | 2021-03-05 | 2022-04-27 |
 | [numb or something](https://open.spotify.com/track/0pFlhJEMOoC4HUgRZTFJg2) | [MAYA LUCIA](https://open.spotify.com/artist/5Ttuy2He3faVKwepReA6U3) | [numb or something](https://open.spotify.com/album/1yxvBUFNaSSRJwTjqQMkVz) | 4:07 | 2022-07-29 |  |
+| [Ocean](https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE) | [Young Jesus](https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP), [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Ocean](https://open.spotify.com/album/1dBMg19trPIuXYKt70snYC) | 4:41 | 2022-08-17 |  |
 | [off the grid](https://open.spotify.com/track/2vxL1OQU2xlv4q2FGTFTdT) | [Yot Club](https://open.spotify.com/artist/6FugQjLquBF4JzATRN70bR) | [off the grid](https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI) | 2:55 | 2022-05-20 |  |
 | [Ohm](https://open.spotify.com/track/1Wo5tkzxPBoqOfwoTSMNJU) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [Been Stellar](https://open.spotify.com/album/2GJ26CJoley2UA0ytkHteu) | 5:29 | 2022-08-12 |  |
 | [Ok on My Own](https://open.spotify.com/track/76gAbSOSA7zC1w90wOWGAW) | [Comfort Club](https://open.spotify.com/artist/21G9CpO300CeQxXo8R3FXw) | [Ok on My Own](https://open.spotify.com/album/4U7hgHFYrPFSDWhSGk9Rkx) | 3:20 | 2021-03-05 | 2022-01-05 |
@@ -398,7 +400,7 @@
 | [Poolside](https://open.spotify.com/track/5e1Q0FuvCEVDFVAztkSLnL) | [Dreamgirl](https://open.spotify.com/artist/7JPPLV24jlpVoHz5dHN6pR) | [Poolside](https://open.spotify.com/album/6ZXyOy9MkWxGPtMXl72RnX) | 2:18 | 2022-04-29 |  |
 | [Potions](https://open.spotify.com/track/3Bqw48ecyeeOHvuU1jYy6C) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK) | [Potions](https://open.spotify.com/album/3b5PbgWTo7i4S00wFekoiV) | 3:10 | 2021-03-05 | 2022-04-29 |
 | [Power](https://open.spotify.com/track/7z15lhmC8TWqaun5bWmzd9) | [IAN SWEET](https://open.spotify.com/artist/6mrOjLZyPub9LcecUarcMD) | [Power](https://open.spotify.com/album/6aAdr2Ct9k3KVEAJFwTUgN) | 3:22 | 2021-03-05 | 2022-04-15 |
-| [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 | 2022-04-29 |  |
+| [Pretty](https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow), [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Pretty](https://open.spotify.com/album/22dulUCoaoKoVpmg2irQmo) | 3:19 | 2022-04-29 | 2022-08-18 |
 | [pretty girl in la](https://open.spotify.com/track/5NdUIQzOj9YuxHKLEYRZCA) | [girlhouse](https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX) | [the girlhouse ep](https://open.spotify.com/album/4iwP3pc1MGgEVtPygt5KZL) | 3:34 | 2021-05-14 | 2022-04-29 |
 | [Pretty Pictures](https://open.spotify.com/track/330fmJp9kvEMPjLhoc29Zl) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Any Shape You Take](https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y) | 2:58 | 2021-08-27 | 2022-04-29 |
 | [Prove It](https://open.spotify.com/track/6DK7eKgThVAYH0VtQhtG6x) | [Lala Lala](https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE) | [Prove It](https://open.spotify.com/album/0nUe42yrUWiUl7pTUhPwGy) | 2:47 | 2021-09-10 | 2022-04-29 |

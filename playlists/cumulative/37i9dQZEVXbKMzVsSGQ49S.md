@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-907 songs - 2 day 2 hr 26 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
+908 songs - 2 day 2 hr 29 min - [published](https://open.spotify.com/playlist/3Rgnj48dhQD0TIHePADQ4d)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,6 +188,7 @@
 | [Dua Lipa](https://open.spotify.com/track/0LnS7aOdOdI1dNKZqdOLz4) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:15 | 2022-05-07 | 2022-05-15 |
 | [Dvel ég í draumahöll](https://open.spotify.com/track/3ovhC4v5a73S0afcOHhnu2) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/2YfZ5os3DmJV9HMNX1TO6l) | 1:48 | 2022-05-30 |  |
 | [Dvel ég í draumahöll](https://open.spotify.com/track/44APbTIWsNtA4lJivNJSQ6) | [Hafdís Huld](https://open.spotify.com/artist/1tNJibl39hvCIVSnGaiwx5) | [Vögguvísur](https://open.spotify.com/album/0Hr58TK8oPAI33wF9f6tew) | 1:48 | 2021-03-27\* | 2022-05-31 |
+| [Dýrð í dauðaþögn](https://open.spotify.com/track/5faV3B9PfIOabLD8PPUAxo) | [BRÍET](https://open.spotify.com/artist/6opz1Ax3VqCmeQBGax1erx) | [Stór agnarögn](https://open.spotify.com/album/3kD0eb4wgmccYXYOhFZoL1) | 3:19 | 2022-08-17 |  |
 | [Easy On Me](https://open.spotify.com/track/0gplL1WMoJ6iYaPgMCL0gX) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Easy On Me](https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S) | 3:44 | 2021-10-17 | 2021-11-21 |
 | [Easy On Me](https://open.spotify.com/track/46IZ0fSY2mpAiktS3KOqds) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:44 | 2021-11-21 | 2022-05-08 |
 | [Eat Your Salad](https://open.spotify.com/track/0rNIEBlBuo5108lnHyGbqJ) | [Citi Zēni](https://open.spotify.com/artist/0kJje6gpjclOrCsPxZtoAW) | [Eat Your Salad](https://open.spotify.com/album/6W0RNAULq6QYSf6cjPl7U2) | 3:01 | 2022-05-11 | 2022-05-17 |
@@ -675,7 +676,7 @@
 | [SEKRET](https://open.spotify.com/track/0zC65JcBBk4GYAjL2tHKXa) | [Ronela Hajati](https://open.spotify.com/artist/6oJgxdOelVr3JnOY9u3j9K) | [SEKRET](https://open.spotify.com/album/1rgqkkA0icE8lUBV2amAvf) | 3:01 | 2022-05-11 | 2022-05-13 |
 | [Sentimentai](https://open.spotify.com/track/0JNPmXGU9K9DJpV9eHppZz) | [Monika LIU](https://open.spotify.com/artist/2YLwIrzSnsbpBMKWzwu6JD) | [Sentimentai](https://open.spotify.com/album/7vlt4TnVHs132OL0a0YE5E) | 3:00 | 2022-05-15 | 2022-05-19 |
 | [Set Me Free](https://open.spotify.com/track/76TRCnbYfo9GU5DPsZ1uI9) | [Eden Alene](https://open.spotify.com/artist/3E7T8t0FwjEVxg9jufWZQG) | [Set Me Free](https://open.spotify.com/album/08DdXBJAEq7TPj0EbkhJK5) | 2:59 | 2021-05-21 | 2021-06-09 |
-| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 |  |
+| [Shivers](https://open.spotify.com/track/50nfwKoDiSYg8zOCREWAm5) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [=](https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq) | 3:27 | 2021-10-31 | 2022-08-18 |
 | [Shivers](https://open.spotify.com/track/6bQfNiqyCX7UaQSvVVGo4I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/5kFCfioZraFsRWpoitQjmx) | 3:27 | 2021-09-12 | 2021-09-17 |
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-17 | 2021-10-31 |
 | [Show Out \(with Skepta & Pop Smoke\)](https://open.spotify.com/track/5CFJRZRq6sdKKtRwNPWbYv) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj) | [Man On The Moon III: The Chosen](https://open.spotify.com/album/64nbgEEIcY4g1ElVLONJ0w) | 2:54 | 2022-07-02 | 2022-07-04 |

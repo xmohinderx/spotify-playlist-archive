@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Taiwan.
 
-457 songs - 1 day 4 hr 8 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
+458 songs - 1 day 4 hr 12 min - [published](https://open.spotify.com/playlist/6qEGFgtQEnclzvoSiB5z4r)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Girls](https://open.spotify.com/track/2WTHLEVjfefbGoW7F3dXIg) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Girls \- The 2nd Mini Album](https://open.spotify.com/album/4w1dbvUy1crv0knXQvcSeY) | 4:00 | 2022-07-09 | 2022-08-04 |
 | [Girls Want Girls \(with Lil Baby\)](https://open.spotify.com/track/37Nqx7iavZpotJSDXZWbJ3) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:41 | 2021-09-11 | 2021-09-16 |
 | [Glimpse of Us](https://open.spotify.com/track/6xGruZOHLs39ZbVccQTuPZ) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Glimpse of Us](https://open.spotify.com/album/6ZZvx0aefZV3LKa053fn71) | 3:53 | 2022-06-15 | 2022-08-17 |
+| [GLORIA](https://open.spotify.com/track/6CnvWizSE8b1xgJAu427uB) | [G.E.M.](https://open.spotify.com/artist/7aRC4L63dBn3CiLDuWaLSI) | [GLORIA](https://open.spotify.com/album/5vaxD3z7lhHm0PcbAtSI0E) | 4:04 | 2022-08-17 |  |
 | [Gone](https://open.spotify.com/track/2dHoVW9AxJVSRebPRyV2aA) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [R](https://open.spotify.com/album/5BQcoDfcZ8aBcikYX9B7Ob) | 3:27 | 2021-03-27\* | 2021-04-18 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2021-05-23 | 2021-10-03 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2021-05-20 | 2021-05-23 |
@@ -272,7 +273,7 @@
 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 | 2021-06-08 |  |
 | [不期而遇的夏天 \- 電影《不期而遇的夏天》主題曲](https://open.spotify.com/track/5QRgqxZ4XQadnaOBjt2dN1) | [Eason Chan](https://open.spotify.com/artist/2QcZxAgcs2I1q7CtCkl6MI) | [不期而遇的夏天 \(電影《不期而遇的夏天》主題曲\)](https://open.spotify.com/album/2nLHmTomlBgsZP7OWxpEjC) | 3:30 | 2021-09-25 | 2021-09-26 |
 | [与我无关](https://open.spotify.com/track/4BYVQGBJUKSDkfRrCd9M2e) | [阿冗](https://open.spotify.com/artist/3dTgjg7lzUGiD3NwcGCK1n) | [与我无关](https://open.spotify.com/album/5yPinjqLoVyKhcc4QNTYUg) | 4:00 | 2022-07-01 | 2022-07-04 |
-| [什麼都不必說 \- 2022 Remix](https://open.spotify.com/track/1Sfb8BFB0eZyzvBRz31GpT) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [什麼都不必說 \(2022 Remix\)](https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq) | 3:30 | 2022-07-20 |  |
+| [什麼都不必說 \- 2022 Remix](https://open.spotify.com/track/1Sfb8BFB0eZyzvBRz31GpT) | [比莉](https://open.spotify.com/artist/50PlAIy0jv3INiwksQtCeh), [NICKTHEREAL](https://open.spotify.com/artist/1fHw35wWkpOw05sswFSl70) | [什麼都不必說 \(2022 Remix\)](https://open.spotify.com/album/7oIc0LSFU9ZRJr9Eip8Wxq) | 3:30 | 2022-07-20 | 2022-08-18 |
 | [从前说](https://open.spotify.com/track/1GpbSYjurHKlxhcxCZ1Bqa) | [小阿七](https://open.spotify.com/artist/7tDLiRbNQalA5uvTpX2bKh) | [从前说](https://open.spotify.com/album/0abB0JEwzX23OwKnv97VBb) | 4:11 | 2022-02-21 |  |
 | [他們說我是沒有用的年輕人](https://open.spotify.com/track/2h5j6lshsRkShTQ527SOlj) | [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [他們說我是沒有用的年輕人](https://open.spotify.com/album/52wbyXpG9wiklOacpLGrig) | 5:23 | 2021-03-27\* | 2021-06-28 |
 | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/track/5f939ccwoOJXxU2Sj6RxU4) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [以年為單位的愛情\(電影《以年為單位的戀愛》片尾主題曲\)](https://open.spotify.com/album/7vLFjY35aHSs0xwkzCTVAR) | 4:31 | 2022-01-05 | 2022-01-21 |

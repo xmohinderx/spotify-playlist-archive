@@ -1,12 +1,12 @@
 {
   "description": "Female-identifying only tunes, with some of  <a href=\u201cspotify:artist:5rZUNweztKBI1Xy3XhYHoJ\u201d>Danielle Ponder's</a> personal picks. Cover: Danielle Ponder",
-  "num_followers": 19760,
+  "num_followers": 19773,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMGYxYmIwMWU0ZjAwMTg3ZmE3NThkZTU4MDI4OGQ1ZDlk",
+  "snapshot_id": "MTY2MDI1MTYxNywwMDAwMDAwMDgzMWM4N2I0MTRkZDU0MGRjZjQxY2VkYThmZDdiMTJk",
   "tracks": [
     {
       "added_at": "2022-08-03 04:00:00",
@@ -515,6 +515,22 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
+        "name": "About U",
+        "url": "https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB"
+      },
+      "artists": [
+        {
+          "name": "Savannah R\u00e9",
+          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
+        }
+      ],
+      "duration_ms": 162870,
+      "name": "About U",
+      "url": "https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
         "name": "No One Dies From Love (The Remixes)",
         "url": "https://open.spotify.com/album/4VPwf2tJMsGcV52TgihvYi"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 231111,
       "name": "No One Dies From Love (DJ_Dave Edit)",
       "url": "https://open.spotify.com/track/20q0OglvgOtzxH2YexMNXl"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
-        "name": "About U",
-        "url": "https://open.spotify.com/album/48lbAUdEwFZFKWY2y4BfvB"
-      },
-      "artists": [
-        {
-          "name": "Savannah R\u00e9",
-          "url": "https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s"
-        }
-      ],
-      "duration_ms": 162870,
-      "name": "About U",
-      "url": "https://open.spotify.com/track/4bBdFSu4WcfJhWl1EsreVj"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "Whatever Fits Together",
-        "url": "https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS"
-      },
-      "artists": [
-        {
-          "name": "Skullcrusher",
-          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
-        }
-      ],
-      "duration_ms": 225154,
-      "name": "Whatever Fits Together",
-      "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Jealousy",
         "url": "https://open.spotify.com/album/61T3geiuTQFQXmYWWLMGjk"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 150087,
       "name": "Jealousy",
       "url": "https://open.spotify.com/track/1ioUAJiIHAoimp2QGhWXXM"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "Whatever Fits Together",
+        "url": "https://open.spotify.com/album/5cpmLPqkR7Kw66HNO3QWlS"
+      },
+      "artists": [
+        {
+          "name": "Skullcrusher",
+          "url": "https://open.spotify.com/artist/1GUaQ6GpaxFPKZ0SCSsnwD"
+        }
+      ],
+      "duration_ms": 225154,
+      "name": "Whatever Fits Together",
+      "url": "https://open.spotify.com/track/7E9xLaEn82sboW3CLJCO9X"
     },
     {
       "added_at": "2022-08-03 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-08-03 04:00:00",
       "album": {
-        "name": "firstborn",
-        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
-      },
-      "artists": [
-        {
-          "name": "Nicolle Galyon",
-          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
-        }
-      ],
-      "duration_ms": 192008,
-      "name": "tendencies.",
-      "url": "https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ"
-    },
-    {
-      "added_at": "2022-08-03 04:00:00",
-      "album": {
         "name": "Direct Me",
         "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 232610,
       "name": "Direct Me",
       "url": "https://open.spotify.com/track/1Phj6A6sGPghCKkHHR7WvC"
+    },
+    {
+      "added_at": "2022-08-03 04:00:00",
+      "album": {
+        "name": "firstborn",
+        "url": "https://open.spotify.com/album/0ELKDJn9moMEzskSNVqeCe"
+      },
+      "artists": [
+        {
+          "name": "Nicolle Galyon",
+          "url": "https://open.spotify.com/artist/6fDCewwmQuk1vqMilPzBKn"
+        }
+      ],
+      "duration_ms": 192008,
+      "name": "tendencies.",
+      "url": "https://open.spotify.com/track/6AIAtvZ7dBr06SmhrPRTSQ"
     },
     {
       "added_at": "2022-08-03 04:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Traditional country sounds from artists of yesterday and today.",
-  "num_followers": 571063,
+  "num_followers": 571424,
   "original_name": "Traditional Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMDE5N2U3YjI4NDJjMDc2NDk4ZDU0ZjQ3Y2JiNjJkZjVk",
+  "snapshot_id": "MTY1OTY3MjAwMCwwMDAwMDAwMGMwZjU1YTk1N2MzZWEwOWZkMmVmMjM2NTNkMzcyZGEz",
   "tracks": [
     {
       "added_at": "2022-08-05 04:00:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Now And Then",
-        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
+        "name": "Time Marches On",
+        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
       },
       "artists": [
         {
-          "name": "Shenandoah",
-          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
         }
       ],
-      "duration_ms": 204333,
-      "name": "Two Dozen Roses",
-      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
+      "duration_ms": 185360,
+      "name": "Time Marches On",
+      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Time Marches On",
-        "url": "https://open.spotify.com/album/5zSPDpefI09DHOSdQLJTW6"
+        "name": "Now And Then",
+        "url": "https://open.spotify.com/album/53ggnni69yCjLQIboZCc3e"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+          "name": "Shenandoah",
+          "url": "https://open.spotify.com/artist/36eTeLNx8ErucrEyRm6JOo"
         }
       ],
-      "duration_ms": 185360,
-      "name": "Time Marches On",
-      "url": "https://open.spotify.com/track/2TIEeLrOQrGnO2D2OeDDJu"
+      "duration_ms": 204333,
+      "name": "Two Dozen Roses",
+      "url": "https://open.spotify.com/track/0e05wFNr6zg1ULcp4NKs1p"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
-        "name": "Jalopies & Expensive Guitars",
-        "url": "https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT"
-      },
-      "artists": [
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        }
-      ],
-      "duration_ms": 235853,
-      "name": "Bible and a .44",
-      "url": "https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
         "name": "Texas to Tennessee",
         "url": "https://open.spotify.com/album/1mP7Dz3kH8vUPkraFnW6a6"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 204453,
       "name": "Catching Up With An Ol' Memory",
       "url": "https://open.spotify.com/track/6j9Lnhx9V0oRi18kEUWLdw"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
+        "name": "Jalopies & Expensive Guitars",
+        "url": "https://open.spotify.com/album/2OVwF1wNT8lJgiYLhjFzKT"
+      },
+      "artists": [
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        }
+      ],
+      "duration_ms": 235853,
+      "name": "Bible and a .44",
+      "url": "https://open.spotify.com/track/14Bn5n5iGEVMZN5nb9xUVF"
     },
     {
       "added_at": "2022-08-05 04:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2022-08-05 04:00:00",
       "album": {
+        "name": "Shakin' In Them Boots",
+        "url": "https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        }
+      ],
+      "duration_ms": 169095,
+      "name": "Shakin' In Them Boots",
+      "url": "https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF"
+    },
+    {
+      "added_at": "2022-08-05 04:00:00",
+      "album": {
         "name": "On The Rocks",
         "url": "https://open.spotify.com/album/5p5lKDY6Ag62f8HWfIFzQ0"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 151506,
       "name": "Sold (The Grundy County Auction Incident)",
       "url": "https://open.spotify.com/track/4PkVIBGCoYfGi8MQQS4m7U"
-    },
-    {
-      "added_at": "2022-08-05 04:00:00",
-      "album": {
-        "name": "Shakin' In Them Boots",
-        "url": "https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3"
-      },
-      "artists": [
-        {
-          "name": "Jade Eagleson",
-          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
-        }
-      ],
-      "duration_ms": 169095,
-      "name": "Shakin' In Them Boots",
-      "url": "https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF"
     },
     {
       "added_at": "2022-08-05 04:00:00",

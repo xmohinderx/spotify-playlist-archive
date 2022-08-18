@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Anitta com Maluma, Luan Santana, Thiaguinho e mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,768,195 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,768,309 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Lo nuevo del R&B Latino. Fresh R&B Latin tracks. Cover: Destiny Rogers",
+  "description": "Fresh R&B Latin tracks, solo lo nuevo del R&B Latino.  Cover: Destiny Rogers",
   "name": "Latin R&B",
   "published_playlist_ids": [
     "6BABfI7FRig6PawzmBqz25"
@@ -457,7 +457,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 149318,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq"
@@ -2299,6 +2299,28 @@
       "duration_ms": 169317,
       "name": "Pegao",
       "url": "https://open.spotify.com/track/3xRL44yxBVRAReOGShbXaG"
+    },
+    {
+      "album": {
+        "name": "Pleasure (feat. RINI)",
+        "url": "https://open.spotify.com/album/3FeCrMtnuv4FZiSc3EHeEz"
+      },
+      "artists": [
+        {
+          "name": "Abrina",
+          "url": "https://open.spotify.com/artist/3FfeeQuvoeef4F19qixt58"
+        },
+        {
+          "name": "RINI",
+          "url": "https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161305,
+      "name": "Pleasure (feat. RINI)",
+      "url": "https://open.spotify.com/track/6vZVtJgg7G16h2XxSa2mKI"
     },
     {
       "album": {

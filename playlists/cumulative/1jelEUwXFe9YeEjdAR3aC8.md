@@ -4,7 +4,7 @@
 
 > Chill songs by Billie Eilish, Lauv, and more! Chill out to these indie, pop, and folk tracks, and discover new favorites! Cover: Billie Eilish
 
-123 songs - 6 hr 51 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
+124 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/3sjWktyD1KzSMZBUWy3pNl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Hollow Lover](https://open.spotify.com/track/0wqfPpcKewaI7muAVNzo2x) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/6oU83NRccLBCqr1JI92MLi) | 3:07 | 2022-06-13 | 2022-07-05 |
 | [How Ashes Are Made](https://open.spotify.com/track/0EI5cEJFggH0VStM3FeMUV) | [Dave McKendry](https://open.spotify.com/artist/5OE3WxCOZMByTrhE7JZGTI) | [How Ashes Are Made](https://open.spotify.com/album/3kGYywVMS05rOsbq0PeyaL) | 2:55 | 2022-06-26 | 2022-07-05 |
 | [Howling](https://open.spotify.com/track/07Bf6NNEWHOgivLQbb1Akg) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [I Was / I Am](https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG) | 4:45 | 2022-06-06 |  |
-| [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-04 |  |
+| [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 | 2022-07-04 | 2022-08-18 |
 | [Hurtless](https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Hurtless](https://open.spotify.com/album/1WKIR7hhHN1DvJPn09gIST) | 3:00 | 2022-06-06 |  |
 | [i tried](https://open.spotify.com/track/37EQsOkuUxhqV1yJcPC1TY) | [Camylio](https://open.spotify.com/artist/2Mf6MBoMOgpxxm3QuH9Tk4) | [i tried](https://open.spotify.com/album/5fvv0vjvISZwMuHE49g89U) | 2:40 | 2022-06-06 |  |
 | [Imposter Syndrome](https://open.spotify.com/track/7HY0wLHPhWer6uSUYxsL3k) | [Abe Parker](https://open.spotify.com/artist/5V61WloeXM3XLslOqJ8RES) | [Imposter Syndrome](https://open.spotify.com/album/2t9G4JSr0tgjiudH6KWyGl) | 3:13 | 2022-08-08 | 2022-08-16 |
@@ -83,6 +83,7 @@
 | [Nothing's All The Time](https://open.spotify.com/track/3m3bd62913zzUd48L53Lc1) | [Ashley Kutcher](https://open.spotify.com/artist/1Zi1c8sWZTy5rDiN3lAuEj) | [Nothing's All The Time](https://open.spotify.com/album/6mpySMwG3IZ7hSnqGF9Z2A) | 2:42 | 2022-06-06 | 2022-06-27 |
 | [Off Day](https://open.spotify.com/track/6oFgBPbWhE63WrK0Lkq1GB) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [The Outsider EP](https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp) | 3:48 | 2022-06-06 |  |
 | [Oh New York](https://open.spotify.com/track/3FZamdRhHBbuxeeaWWwrZy) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Best I Can](https://open.spotify.com/album/5GA1Wp8OHxF4zdjHa4MTGI) | 3:22 | 2022-07-04 | 2022-07-11 |
+| [on air](https://open.spotify.com/track/2x6nALrYw5RU5EZZppj4Kj) | [always centered at night](https://open.spotify.com/artist/2g7F60LTm23xTIRugl1Ovw), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF), [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl) | [on air](https://open.spotify.com/album/3o3WxRyujYTqTpvqPOvRDm) | 4:12 | 2022-08-17 |  |
 | [One Day Less](https://open.spotify.com/track/3rMbh1zLsh91EcNgu7KuPy) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [One Day Less](https://open.spotify.com/album/6btELiaRuDMZSrhu9PE2xY) | 3:27 | 2022-07-17 |  |
 | [parachute \(plan b\)](https://open.spotify.com/track/0e7NDaxEHdmaqIkIrh4H4K) | [Kira Kosarin](https://open.spotify.com/artist/7jksCPW6uDQiTDVbcyLV79) | [parachute \(plan b\)](https://open.spotify.com/album/4theDWWeWmshurXJSYtmPJ) | 2:47 | 2022-06-06 | 2022-06-14 |
 | [Peter Pan Was Right](https://open.spotify.com/track/2At18rPHOuTEjGEppwGV0A) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [Peter Pan Was Right](https://open.spotify.com/album/7qrZu53xdYZvbCrLpoA92t) | 3:12 | 2022-06-06 | 2022-07-18 |

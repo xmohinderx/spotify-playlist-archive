@@ -360,6 +360,24 @@
     },
     {
       "album": {
+        "name": "Crescent",
+        "url": "https://open.spotify.com/album/52LLofRlwJJHhp13vDPIFc"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351379,
+      "name": "Crescent",
+      "url": "https://open.spotify.com/track/6rMKk5y9f3gbUKRrWhUclo"
+    },
+    {
+      "album": {
         "name": "Satori",
         "url": "https://open.spotify.com/album/1GUXN088ad0bOWQ6f6wWAY"
       },
@@ -491,7 +509,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 137528,
       "name": "Doubled Flutes",
       "url": "https://open.spotify.com/track/31WhK6qzj9WmsVa46XROQR"
@@ -1203,7 +1221,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 606000,
       "name": "Music for Six Rooms",
       "url": "https://open.spotify.com/track/2kTVyBg5HoJBXo2qNPb7Tf"
@@ -1366,6 +1384,24 @@
     },
     {
       "album": {
+        "name": "Music for Tomato Plants",
+        "url": "https://open.spotify.com/album/4UvdKF7LlJmxCh3U3VWjKb"
+      },
+      "artists": [
+        {
+          "name": "Loris S. Sarid",
+          "url": "https://open.spotify.com/artist/0gYheMncGk0zhnDEwpRidl"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266277,
+      "name": "Orizzontale Verticale",
+      "url": "https://open.spotify.com/track/0rpFR0DN8k47KPO4q1hT02"
+    },
+    {
+      "album": {
         "name": "Overlay (KMRU Remix)",
         "url": "https://open.spotify.com/album/0FmXDaoU4rJXla1BUC36AY"
       },
@@ -1453,7 +1489,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 138564,
       "name": "Ozu",
       "url": "https://open.spotify.com/track/3hNZUs8RSUk3HbFQGcrWnK"
@@ -2305,6 +2341,24 @@
       "duration_ms": 203389,
       "name": "Wellspring",
       "url": "https://open.spotify.com/track/24VUp1TcA8U27YfwlNenlQ"
+    },
+    {
+      "album": {
+        "name": "night songs",
+        "url": "https://open.spotify.com/album/4HgM0Ms4FM24xEEpgZDWSO"
+      },
+      "artists": [
+        {
+          "name": "awakened souls",
+          "url": "https://open.spotify.com/artist/0rZWhvBtGN1KqVD7mKnwUU"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366321,
+      "name": "where thoughts fade",
+      "url": "https://open.spotify.com/track/7zEnnB85gJjC2ZRjTRkXlH"
     },
     {
       "album": {

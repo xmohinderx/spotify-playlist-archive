@@ -4,7 +4,7 @@
 
 > Get ready for dinner with some upbeat, cool, funky and cooking jazz.
 
-156 songs - 16 hr 56 min - [published](https://open.spotify.com/playlist/6BjwyoA9Lay57oVZdsqp91)
+157 songs - 16 hr 59 min - [published](https://open.spotify.com/playlist/6BjwyoA9Lay57oVZdsqp91)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Lost \- Remastered 1999 / Rudy Van Gelder Edition](https://open.spotify.com/track/5RHDSMlvyETLM6bEYXOk4v) | [Jackie McLean](https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA) | [A Fickle Sonance](https://open.spotify.com/album/4051tUgDDS3N4S4X8r4HlL) | 4:48 | 2022-01-20 | 2022-03-05 |
 | [Lou's Blues](https://open.spotify.com/track/6nXk6cBsgoyvNePVb8sdvt) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:44 | 2021-12-21 | 2022-05-25 |
 | [Mack The Knife](https://open.spotify.com/track/6n2DYYZd6d7l7duwKDbcEX) | [Kenny Dorham](https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er) | [Quiet Kenny](https://open.spotify.com/album/12tlFVNl1jvVru8EtB5HEn) | 3:02 | 2021-12-21 |  |
-| [Mamacita](https://open.spotify.com/track/7jo5jsXWiBIzQfPTSwNKBt) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW), [Tony Sestanovich](https://open.spotify.com/artist/2S27O34UwJEsIRSToUoyyo) | [Step Lightly](https://open.spotify.com/album/7v3BwsFlrqdLNZc2CfmDzl) | 5:47 | 2022-05-11 |  |
+| [Mamacita](https://open.spotify.com/track/7jo5jsXWiBIzQfPTSwNKBt) | [Blue Mitchell](https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW), [Tony Sestanovich](https://open.spotify.com/artist/2S27O34UwJEsIRSToUoyyo) | [Step Lightly](https://open.spotify.com/album/7v3BwsFlrqdLNZc2CfmDzl) | 5:47 | 2022-05-11 | 2022-08-18 |
 | [Midnight Mambo](https://open.spotify.com/track/4Lp28xhDHUNvdcnfYf4Hhq) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [Leapin' And Lopin'](https://open.spotify.com/album/2akec72Ypln9yScfhHo8rm) | 7:12 | 2022-05-11 |  |
 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 | 2021-12-21 |  |
 | [Montono Blues](https://open.spotify.com/track/5CVm6NEFOwGKa5QraGTUUH) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d) | [Bluesy Burrell](https://open.spotify.com/album/3AlZ0JVd44GuMrx0RVrzzF) | 4:44 | 2021-12-21 |  |
@@ -140,6 +140,7 @@
 | [The Jody Grind](https://open.spotify.com/track/2gK90iDN9ggQoECv4494mb) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Jody Grind](https://open.spotify.com/album/1ova3sOrIf9V2s076VCZ9w) | 5:50 | 2022-03-04 |  |
 | [The More I See You \- Rudy Van Gelder Edition](https://open.spotify.com/track/42iATJYN5S908wQMReeDkV) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [Roll Call](https://open.spotify.com/album/2wXfYEZKGQlfy2hKZbwtU7) | 6:47 | 2022-03-04 |  |
 | [The One Before This](https://open.spotify.com/track/7g5GPIbDp40slf9MZ8p4bA) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK), [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [Boss Tenors: Straight Ahead From Chicago August 1961](https://open.spotify.com/album/3roiMTcjRTDTqyDTc29Pjv) | 7:13 | 2021-12-21 |  |
+| [The Seventh Son](https://open.spotify.com/track/7xNzzXvTBzRG68G19N7iA5) | [Mose Allison](https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm) | [Mose Allison Sings](https://open.spotify.com/album/5a5XbcCrFeD24y2ZdUOhFL) | 2:37 | 2022-08-17 |  |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2021-12-21 |  |
 | [The Song Is Ended \- Remastered](https://open.spotify.com/track/45FosUx3MXslHj0yVKEWrN) | [Horace Parlan](https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e) | [Headin' South](https://open.spotify.com/album/3zLWpN31cZL0isbgDtdcXy) | 5:55 | 2022-05-11 |  |
 | [The Song Is You](https://open.spotify.com/track/2BDZCdN2zLYjfbZ3WdqZBC) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [A Stranger In Town](https://open.spotify.com/album/7bzD7vIdt5nxTEJe8F6Y2k) | 9:42 | 2021-12-21 | 2022-03-09 |

@@ -4,7 +4,7 @@
 
 > It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
 
-230 songs - 14 hr 33 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
+231 songs - 14 hr 35 min - [published](https://open.spotify.com/playlist/0VkXfjoWKQcjAxrDWon3jk)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,8 @@
 | [White House Road \(OurVinyl Sessions\)](https://open.spotify.com/track/3BCsNM2w6HcCbrVWlhjTpk) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV), [OurVinyl](https://open.spotify.com/artist/4MhBe0d439ToDXCWlT3wae) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/42nsomRaEURVkNt7IF1IFu) | 4:28 | 2022-07-22 |  |
 | [White House Road \- OurVinyl Sessions](https://open.spotify.com/track/55KHk8PhJC3HIpT3mA2smL) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Tyler Childers \| OurVinyl Sessions](https://open.spotify.com/album/4kWFXcmFlcZTZVi68NMqKw) | 4:28 | 2021-12-17 | 2022-07-29 |
 | [Whole World Gone Crazy](https://open.spotify.com/track/6sEVFnBN97Fcq065OsUMVI) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Whole World Gone Crazy](https://open.spotify.com/album/7GhLQmRmvFJUu2jcoNyJur) | 3:04 | 2022-04-29 |  |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-07-22 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-03-11 | 2022-08-18 |
 | [Working Poor](https://open.spotify.com/track/3izRf9rlci9WN1mSQCze9a) | [Fantastic Negrito](https://open.spotify.com/artist/5QXLMdpKeByOo5ypH9gT13) | [Working Poor](https://open.spotify.com/album/2vnCT14EXHJ5ZWdwpqPj7E) | 3:59 | 2021-12-17 | 2022-02-12 |
 | [Worry](https://open.spotify.com/track/1hAIPXpzfpBGsWGYTf69MM) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Worry](https://open.spotify.com/album/4lsxhQoLG5OEUEfVlUgA9H) | 3:05 | 2021-12-17 | 2022-07-29 |
 | [Worry](https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Optimisme](https://open.spotify.com/album/6uK3gAaZuQEh5cpB33B5GF) | 3:05 | 2022-07-22 |  |

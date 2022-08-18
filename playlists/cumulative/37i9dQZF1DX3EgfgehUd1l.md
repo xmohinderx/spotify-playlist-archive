@@ -4,7 +4,7 @@
 
 > Vintage easy listening from the fifties...
 
-213 songs - 9 hr 24 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
+214 songs - 9 hr 27 min - [published](https://open.spotify.com/playlist/2jXYw271QWNTNjZdsrC7FY)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Chicka Boom](https://open.spotify.com/track/3cJgmYBjL9BHjqBe331L07) | [Guy Mitchell](https://open.spotify.com/artist/1YAtBHWaWzZnkaoSFHGTBV) | [Rock\-A\-Billy \- The Triad Sessions & More](https://open.spotify.com/album/6eMhNgB0h1J1gGMJTfLEwt) | 2:44 | 2020-07-08 | 2022-03-22 |
 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 | 2020-07-08 |  |
 | [Cindy Oh Cindy](https://open.spotify.com/track/1mbXUmzG184YuT72QSGDBW) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Backline Volume 62](https://open.spotify.com/album/51W0rYKefZgAhZmPEMmoxR) | 3:03 | 2020-07-08 | 2022-07-29 |
-| [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 | 2020-07-08 |  |
+| [Come prima](https://open.spotify.com/track/1PlV6IT8zWLrhJThiIozbv) | [Marino Marini](https://open.spotify.com/artist/2XLDoRIbLGPDqTXeTrVIbo) | [Guaglione](https://open.spotify.com/album/3JP375sFTecotrjU3tN0wc) | 2:41 | 2020-07-08 | 2022-08-18 |
 | [Dark Moon](https://open.spotify.com/track/4wP00KOVlbp6UZRtfY4aoY) | [Tony Brent](https://open.spotify.com/artist/4JHTfWmgZf3Hz7JLBGrJnj) | [Must Have](https://open.spotify.com/album/5tS3mnciRSD6nPw2HPqLny) | 2:35 | 2020-07-08 | 2022-07-28 |
 | [Diana](https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX) | [Paul Anka](https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh) | [Put Your Head On My Shoulder: The Very Best Of Paul Anka](https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON) | 2:18 | 2020-07-08 |  |
 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 | 2020-07-08 |  |
@@ -117,6 +117,7 @@
 | [Love Letters In The Sand](https://open.spotify.com/track/6I3bK0tihjv6EzeLhzBKbn) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Ultimate Collection](https://open.spotify.com/album/5VGsOFbjwg9hOxwIPvyKIY) | 2:17 | 2020-07-08 | 2022-07-29 |
 | [Love Letters In The Sand \- Single Version](https://open.spotify.com/track/1eqGYJJr2z2GXK1i0hD3BC) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone's Greatest Hits \(Reissue\)](https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ) | 2:14 | 2020-07-08 |  |
 | [Love Me Forever](https://open.spotify.com/track/7btY1s2T1ITVqQ9g9HrTTp) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Backline Volume 63](https://open.spotify.com/album/6aHbkUj1zttZbx6cPki27R) | 2:54 | 2020-07-08 | 2022-07-28 |
+| [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 | 2020-07-08 |  |
 | [Love Me Tender \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/1bZdOnI0GIcB2xqQqQH7DY) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:25 | 2020-07-08 |  |
 | [Lucille](https://open.spotify.com/track/4YXKKnIZuk7UtXH5oC0ffa) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly!](https://open.spotify.com/album/18VnWTsdEcofimkOHcWBAu) | 2:23 | 2020-07-08 |  |
 | [Lucille](https://open.spotify.com/track/7sMVQ6JaDNBqVe53AlgzdC) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Good Golly! \(Reissue\)](https://open.spotify.com/album/3I0MTKPy3MzCSLkIWHmGGb) | 2:24 | 2020-07-08 | 2022-07-05 |

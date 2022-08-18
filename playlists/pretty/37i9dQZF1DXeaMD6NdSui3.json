@@ -1,12 +1,12 @@
 {
   "description": "Simply Texas blues at its best.",
-  "num_followers": 94945,
+  "num_followers": 94993,
   "original_name": "Lone Star Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDgzMGYzZDc3YjQ2MGE4ZjhkMjg3ZTQzODUyY2YyY2Iw",
+  "snapshot_id": "MTY0ODQ5OTYyNCwwMDAwMDAwMDUwMDJiNjQ0MDU5ODU3YjMwNmIwNTE3MDcyYjk2NGZj",
   "tracks": [
     {
       "added_at": "2016-03-18 21:56:19",
@@ -121,22 +121,6 @@
       "url": "https://open.spotify.com/track/5fZY8YYJMnhD9HNWB4C4zU"
     },
     {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
-        "name": "The Essential Jimmie Vaughan",
-        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
-      },
-      "artists": [
-        {
-          "name": "Jimmie Vaughan",
-          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
-        }
-      ],
-      "duration_ms": 383760,
-      "name": "Dengue Woman Blues",
-      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
-    },
-    {
       "added_at": "2016-03-18 21:56:19",
       "album": {
         "name": "Texas Bluesman",
@@ -151,6 +135,22 @@
       "duration_ms": 174133,
       "name": "Why Don't You Eat Where You Slept Last Night?",
       "url": "https://open.spotify.com/track/2WdjmV6o9JeFqQIKQvF2ej"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Essential Jimmie Vaughan",
+        "url": "https://open.spotify.com/album/61ahDSudLBKZ06utlL3g4y"
+      },
+      "artists": [
+        {
+          "name": "Jimmie Vaughan",
+          "url": "https://open.spotify.com/artist/4gPGI1vW8TOypARV9Ykzae"
+        }
+      ],
+      "duration_ms": 383760,
+      "name": "Dengue Woman Blues",
+      "url": "https://open.spotify.com/track/4OGyibX2nayDVCUfFN4u8x"
     },
     {
       "added_at": "2016-03-18 21:56:19",
@@ -711,22 +711,6 @@
     {
       "added_at": "2018-02-27 16:43:49",
       "album": {
-        "name": "The Very Baddest of... ZZ Top",
-        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
-    },
-    {
-      "added_at": "2018-02-27 16:43:49",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/1SNeILyRS6UHWV0zlRbmLb"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 246600,
       "name": "Starting All Over",
       "url": "https://open.spotify.com/track/3T1iXyK8LzxE4QYbU30z2N"
+    },
+    {
+      "added_at": "2018-02-27 16:43:49",
+      "album": {
+        "name": "The Very Baddest of... ZZ Top",
+        "url": "https://open.spotify.com/album/0P7d8Q1oSVDhrpUkJLwbNn"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/5J0LnWOXiQY2usZd2SFDdn"
     },
     {
       "added_at": "2018-02-27 16:43:49",

@@ -769,7 +769,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 273453,
       "name": "Blink of an Eye",
       "url": "https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6"
@@ -3095,6 +3095,24 @@
       "duration_ms": 233422,
       "name": "Jealous",
       "url": "https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp"
+    },
+    {
+      "album": {
+        "name": "The Sweetest Part",
+        "url": "https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "date_added": "2022-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234057,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ"
     },
     {
       "album": {

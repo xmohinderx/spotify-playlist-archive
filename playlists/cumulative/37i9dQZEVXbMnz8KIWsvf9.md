@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-424 songs - 1 day 0 hr 51 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
+425 songs - 1 day 0 hr 54 min - [published](https://open.spotify.com/playlist/5k364REG40DwdRwVFYopYc)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -371,6 +371,7 @@
 | [สลักจิต](https://open.spotify.com/track/03Yp2uEOtPGHQ6E9XSjmyv) | [Pop Pongkool](https://open.spotify.com/artist/1C6qssOWal7Sii2guMg0mx), [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [สลักจิต \(feat\. Da Endorphine\)](https://open.spotify.com/album/2UUUwWqFQUIRfzkcCqf50v) | 4:24 | 2022-07-19 |  |
 | [สองใจ \- เพลงประกอบละคร วันทอง](https://open.spotify.com/track/5sXuqzLmT1z6Gnf3S2TzSz) | [Da Endorphine](https://open.spotify.com/artist/7z9oTDasH4sBISUE2Hxrki) | [เพลงประกอบละคร วันทอง](https://open.spotify.com/album/0u4nlYmFv63JtoNUVBwpaT) | 4:10 | 2021-03-27\* | 2021-07-23 |
 | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/track/4CTgPJbgNQ031q8HzhTtq2) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [สายตาหลอกกันไม่ได้ \(Eyes don't lie\)](https://open.spotify.com/album/5fFOH4YGk6BS0yXc7SZWtI) | 3:08 | 2021-03-27\* | 2022-01-19 |
+| [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/track/58ViLaYQWchYq9vMfW5Prk) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [สิ่งเล็กน้อย \(LESS IS MORE\)](https://open.spotify.com/album/3KBZ0ZGAQOH2dcz2MI51xk) | 3:27 | 2022-08-17 |  |
 | [หยอก หยอก](https://open.spotify.com/track/6tkhy9Be0jO98dyeJtlX8s) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [หยอก หยอก](https://open.spotify.com/album/3RuiM7ZD9LRf8Sn5i2cX5M) | 2:59 | 2021-04-01 | 2021-08-20 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0joifGFQVXZY8dZlwN9Gue) | [Billkin](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/24fGy2iVe1Ptkqh4CJqps9) | 4:10 | 2021-06-19 | 2021-06-26 |
 | [หลอกกันทั้งนั้น \(Fake News\) \- From "แปลรักฉันด้วยใจเธอ Part 2"](https://open.spotify.com/track/0JK7pZajOQyfJ2OPxkrWbh) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [หลอกกันทั้งนั้น \(Fake News\) \[From "แปลรักฉันด้วยใจเธอ Part 2"\]](https://open.spotify.com/album/0Gex9SSDNTtbiL4JOqfOhl) | 4:14 | 2021-06-12 | 2021-08-03 |
@@ -398,7 +399,7 @@
 | [เผลอหรือตั้งใจ](https://open.spotify.com/track/0mt8i1U8mZsptqKxEc4ScO) | [Ink Waruntorn](https://open.spotify.com/artist/1Twi7NfmUzbXF7lEMaGCqF) | [เผลอหรือตั้งใจ](https://open.spotify.com/album/5p7h0FH5wQR7w8hRZPa8sO) | 3:09 | 2021-04-18 | 2021-06-18 |
 | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/track/3Tzztaw6T9gtOsitE8A4dh) | [The White Hair Cut](https://open.spotify.com/artist/2uL9cdYQwaJbvudGv4VxOc) | [เผื่อว่าจะพบเธอสักวัน](https://open.spotify.com/album/5gZYy0eAVTbNN47UAbfj5S) | 4:38 | 2022-07-11 |  |
 | [เพราะเธอนั้นเป็นเหมือนดั่งโลกทั้งใบ](https://open.spotify.com/track/5W7rKNXaUZ6uyC85SlG2EF) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [เพราะเธอนั้นเป็นเหมือนดั่งโลกทั้งใบ](https://open.spotify.com/album/0wBHCf3putYJEsWZdXR7p4) | 5:08 | 2021-10-23 | 2021-10-24 |
-| [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 | 2021-11-27 |  |
+| [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/3YN1Qgpgt5xVurl2mUFA4y) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [It's Gonna Be OK](https://open.spotify.com/album/37wolAPWNOJfdRRwW1N6gL) | 3:37 | 2021-11-27 | 2022-08-18 |
 | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\)](https://open.spotify.com/track/19KNYtZF0xP7VCIItvGSJZ) | [Tilly Birds](https://open.spotify.com/artist/4esoPgrgPKbWa6gwU8EGmH), [MILLI](https://open.spotify.com/artist/15D6XEjr6LVGGc6dNmS2yz) | [เพื่อนเล่น ไม่เล่นเพื่อน \(Just Being Friendly\) \[feat\. MILLI\]](https://open.spotify.com/album/1aO65qDUbY2vJWXYzHP2vj) | 3:39 | 2021-04-30 | 2021-11-27 |
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2021-08-21 | 2022-08-07 |
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |

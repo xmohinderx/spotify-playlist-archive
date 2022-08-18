@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 
 > The trending country songs and viral hits you need to know\. Cover: Mason Ramsey
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,729 likes - 87 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,737 likes - 87 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 52 | [I Don't Wanna Go To Heaven](https://open.spotify.com/track/55lJN2gIzJM9SCfwzxAEjf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [I Don't Wanna Go To Heaven](https://open.spotify.com/album/34SxCd3VfttsdTekzG6ROb) | 3:21 |
 | 53 | [Like A Boy](https://open.spotify.com/track/4PogesCtj51SnEM2ZqLp6r) | [Lauren Weintraub](https://open.spotify.com/artist/0eYsDVXAe2mc4F8QrBLHAq) | [Like A Boy](https://open.spotify.com/album/57IFh9v1WO3rBi7NVO7gR3) | 2:44 |
 | 54 | [Nothing Left](https://open.spotify.com/track/4PBRtI33xDYgLFneUxPl2f) | [Halle Kearns](https://open.spotify.com/artist/1qhXfHiXKvDP2563X2uFpY) | [Nothing Left](https://open.spotify.com/album/0sMWNg8rHxI8ubZjDqzMIi) | 2:57 |
-| 55 | [Salt, Lime & Tequila](https://open.spotify.com/track/6HqellfyRqgbB6vqNXHPmh) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Salt, Lime & Tequila](https://open.spotify.com/album/4JOamYj3bZqdVc2CRBjIXN) | 2:55 |
+| 55 | [Salt, Lime & Tequila](https://open.spotify.com/track/4BGvTMV2DIwIa4ixT37fnG) | [Ryan Griffin](https://open.spotify.com/artist/7dMEBGtGI6O7PoTEucAaBT) | [Slow Down Sunrise](https://open.spotify.com/album/4sU7v920pDs01u7d8f6sSg) | 2:55 |
 | 56 | [Side Effects](https://open.spotify.com/track/7oKZnoWkLDZjsNsPxYvIWx) | [Sophia Scott](https://open.spotify.com/artist/3lNLsfeVJSiSyjk2tXnPAp) | [Side Effects](https://open.spotify.com/album/38q9a6NcGWx8y1uu0NZgNG) | 3:11 |
 | 57 | [on God.](https://open.spotify.com/track/3p0DyJNBe047f8y7DQOP3h) | [Sammy Arriaga](https://open.spotify.com/artist/3FKSNTDo480gbDePzxc3y3) | [Boots x Beats](https://open.spotify.com/album/6yTa2jxGNCiQsdsLAu3888) | 2:35 |
 | 58 | [Colt 45 \(Country Remix\)](https://open.spotify.com/track/0kgRRHa5CMeCciIgYT67re) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb), [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ) | [Colt 45 \(Country Remix\)](https://open.spotify.com/album/4hcoGCFaURlQwT0uFRdJd6) | 3:23 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8OjqpsBZy3r.md) - [plain]
 | 86 | [Forever and Ever, Amen](https://open.spotify.com/track/1ipcb9qXpSHWhSUvdxJhsx) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [Always & Forever](https://open.spotify.com/album/28ZWOeiZ8l4Uydl3hZjvgv) | 3:32 |
 | 87 | [Boy](https://open.spotify.com/track/7A8OfzqXBHYGk61FZTHoeo) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
 
-Snapshot ID: `MTY2MDY2OTU1MSwwMDAwMDAwMDlhZWUzNWIxYTdlYmQ5ZDk2YjFkYjQ4ZThkMzRmYTVl`
+Snapshot ID: `MTY2MDY2OTU1MSwwMDAwMDAwMDY4ZDAzNTEwMDJiMjhlYTc2MmViNTg1MDNlYTZiOTkz`

@@ -4,7 +4,7 @@
 
 > Family\-friendly Motown classics
 
-52 songs - 2 hr 43 min - [published](https://open.spotify.com/playlist/0YLSm4An2Vm2jJU8FKC7AZ)
+53 songs - 2 hr 46 min - [published](https://open.spotify.com/playlist/0YLSm4An2Vm2jJU8FKC7AZ)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,8 @@
 | [War](https://open.spotify.com/track/4ZEEcEMGjkWOfZNBcIB9yE) | [Edwin Starr](https://open.spotify.com/artist/1B8AXU6gIIafpyLEpbcv1u) | [War And Peace](https://open.spotify.com/album/26pzgagMwY4opUvVUdSuum) | 3:20 | 2020-09-29 |  |
 | [What Becomes Of The Brokenhearted](https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP) | [Jimmy Ruffin](https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy) | [Sings Top Ten](https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV) | 2:58 | 2020-09-29 |  |
 | [Where Did Our Love Go](https://open.spotify.com/track/69RH84na5iUNwrwxpgjC5j) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [Where Did Our Love Go](https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV) | 2:33 | 2020-09-29 |  |
-| [You Are The Sunshine Of My Life](https://open.spotify.com/track/1xKvdXVMW2J6HAAyjLYbJo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y) | 3:00 | 2020-09-29 |  |
+| [You Are The Sunshine Of My Life](https://open.spotify.com/track/0n2pjCIMKwHSXoYfEbYMfX) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/3PResMqFgQYBfzTnqTKwQw) | 2:58 | 2020-09-29 |  |
+| [You Are The Sunshine Of My Life](https://open.spotify.com/track/1xKvdXVMW2J6HAAyjLYbJo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Talking Book](https://open.spotify.com/album/67Pt0fZCow0Dw3qNjAUV2Y) | 3:00 | 2020-09-29 | 2022-08-18 |
 | [You Can't Hurry Love](https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes A' Go\-Go \(Expanded Edition\)](https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6) | 2:47 | 2020-09-29 |  |
 | [You Keep Me Hangin' On](https://open.spotify.com/track/4a01ClusxuZiloOK5UgLUn) | [The Supremes](https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV) | [The Supremes Sing Holland, Dozier, Holland](https://open.spotify.com/album/5BrLn546krr08d9UvOj73k) | 2:43 | 2020-09-29 |  |
 | [You've Really Got A Hold On Me \- Alternate Stereo Mix](https://open.spotify.com/track/7ifcJ5DDytGf8aITxmgsLN) | [Smokey Robinson & The Miracles](https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt) | [OOO Baby Baby: The Anthlogy](https://open.spotify.com/album/4BIB3esNYszk2DL0E54Cy4) | 3:12 | 2020-09-29 |  |

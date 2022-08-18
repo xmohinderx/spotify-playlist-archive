@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 
 > Los temas más prendidos del trap desde Venezuela, Colombia, Perú y Ecuador\. Foto: Micro TDH
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,624 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,644 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 28 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |
 | 29 | [¿Que Nalgas Son Esas?](https://open.spotify.com/track/2VkFtqDPapy6UaHARdghVS) | [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [¿Que Nalgas Son Esas?](https://open.spotify.com/album/6LyOSerd3DNwni2WYl2Qzf) | 2:49 |
 | 30 | [Bon Appétit](https://open.spotify.com/track/1QseGaBHU6q2KRPKEWEVrY) | [Reke](https://open.spotify.com/artist/3ioziSz4mXRv5xJ5pENJH4) | [Una Sangre, Vol\. 3: Trapicheando](https://open.spotify.com/album/1ZSf5zV02X8P3Xbj9LcIm2) | 4:09 |
-| 31 | [puta otaku](https://open.spotify.com/track/6gitUIABDIgVIAxvyAqzGu) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7Bj2Nd3SOLgC6JqfF1v1V9) | 3:00 |
+| 31 | [puta otaku](https://open.spotify.com/track/5UZakxsgKAzTTFCNFDbisw) | [Yung Iverson](https://open.spotify.com/artist/32FZMa8a5INqhHHssRtkux), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [puta otaku](https://open.spotify.com/album/7jXPV2VCxH64UDQykpgdOH) | 3:00 |
 | 32 | [Hennessy](https://open.spotify.com/track/2Cz3yDcBoePfcJCYdpYZCC) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Apokalypsis](https://open.spotify.com/album/396w1nHvgP7SQvdPq4SZya) | 3:49 |
 | 33 | [Bolero 808](https://open.spotify.com/track/4LFRvZF78H1R5adZZ8gYGL) | [Jaycob Duque](https://open.spotify.com/artist/2NEwLjbrw5RA4KWYhUIM9r), [Argüello](https://open.spotify.com/artist/6igd1VAlbbrTDCMFLXfcwy) | [Bolero 808](https://open.spotify.com/album/0tDqrQpbvpTII7Yf35SthC) | 2:45 |
 | 34 | [Tyqc](https://open.spotify.com/track/4IX9LPTkilIwaVKhCjRofn) | [Cabaio](https://open.spotify.com/artist/0yIYD7cBLd9VdHEUQ0fqAJ) | [Tyqc](https://open.spotify.com/album/6gZ2Fz1C2Pmd91IOyerJIv) | 2:55 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdqrBLlPKz6L.md) - [plain]
 | 59 | [No Me Digas Na](https://open.spotify.com/track/3BhPjlUWvkWjAeTxhxbCcl) | [Aleman](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym), [Trainer](https://open.spotify.com/artist/6MB0O7jOsJ1OrkPAIlK3l2), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [Humo en la Trampa 2](https://open.spotify.com/album/48081X2ns6kHKFS84IowXl) | 3:36 |
 | 60 | [Negro](https://open.spotify.com/track/1oiQSttaF5b3ZI5masPw6i) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Negro](https://open.spotify.com/album/43q3UPszpuNHz8gBFwKBtg) | 3:17 |
 
-Snapshot ID: `MTY0OTM5NDAwMCwwMDAwMDAwMGUwMTljMWEwNzhlMmFmMGY2NDI0ZmZjNzI5OTM5NTZi`
+Snapshot ID: `MTY0OTM5NDAwMCwwMDAwMDAwMDk5OWEyM2EyNWNmMDFjNGJjZTUxM2ZjNWIwN2I4MTdh`

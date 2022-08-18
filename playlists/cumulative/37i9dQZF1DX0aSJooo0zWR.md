@@ -4,7 +4,7 @@
 
 > Electrified jazz, complex beats and virtuoso playing\. Cover: Chick Corea
 
-125 songs - 12 hr 18 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
+126 songs - 12 hr 24 min - [published](https://open.spotify.com/playlist/6VNcN9Rm3QVGsJM7Qz2ea6)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,10 +58,11 @@
 | [Hard\-Wired](https://open.spotify.com/track/55ItYh50tubp0w8jSbr6sj) | [Dave Weckl](https://open.spotify.com/artist/6h0KtnUiBpkxxjvZZPvNSw) | [Hard\-Wired](https://open.spotify.com/album/7zJPWOGX9SdA0HSkZD5qmS) | 4:03 | 2021-02-12 |  |
 | [Have You Heard](https://open.spotify.com/track/07BUBegoXmSQcokCOMAWwt) | [Pat Metheny Group](https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt) | [Letter From Home](https://open.spotify.com/album/4dunPCYlcSkjfFdOKR32ZD) | 6:25 | 2021-02-12 |  |
 | [Heads in the Cloud](https://open.spotify.com/track/21kRj1t8bIrZ23ILh90MMd) | [Dry Jack](https://open.spotify.com/artist/5oXemLdpMSd2L1A0iLzvgh) | [Whale City](https://open.spotify.com/album/1GSle18vm2ymASsjX39ZQa) | 6:41 | 2021-02-12 | 2022-07-26 |
-| [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 | 2021-11-12 |  |
+| [Heather Grey \(BK Gritty\)](https://open.spotify.com/track/7x5Dul8CyNveFqG8j9p9LZ) | [NIKARA presents Black Wall Street](https://open.spotify.com/artist/3aKINS5KI279EKkNpHcMng), [Kenny Barron](https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3) | [NIKARA presents Black Wall Street](https://open.spotify.com/album/1ajCBcWKmPE52w4d0h0AhL) | 6:06 | 2021-11-12 | 2022-08-18 |
 | [Hell's Bells](https://open.spotify.com/track/0DKvzig7rwfWTZ0gvb0Zfx) | [Bill Bruford](https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz) | [Master Strokes 1978\-1985](https://open.spotify.com/album/7dpEiWIjnz5K2RzOx6qIBl) | 3:34 | 2021-02-12 |  |
 | [Hullo Bolinas](https://open.spotify.com/track/6YxmY8tjb6nY0FPPYRjVFT) | [John Scofield](https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK), [Steve Swallow](https://open.spotify.com/artist/6mrjnfLYDl91oh10EIeKPV), [Bill Stewart](https://open.spotify.com/artist/6g23EYtQQXDz44soLZMS39) | [Hullo Bolinas](https://open.spotify.com/album/6bpFnGUbzA6UPdAtSTvw7T) | 4:11 | 2021-02-12 | 2022-07-28 |
 | [Hunting Heads](https://open.spotify.com/track/5euz3r8UPd1b8YYstR3nDH) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb) | [Hunting Heads](https://open.spotify.com/album/3gkJk5kJkI9YPzAWtJP16E) | 7:02 | 2021-04-09 | 2022-08-16 |
+| [I Promise](https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe) | [Ragawerk](https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON), [Max Clouth](https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1) | [I Promise](https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ) | 5:44 | 2022-08-12 |  |
 | [jiriki](https://open.spotify.com/track/63vIR3Bp9BiTuXqUTC64UM) | [Sokoband](https://open.spotify.com/artist/5AYESF2HxMlU0oMbhLOsmL) | [Sokoband](https://open.spotify.com/album/5NNkK4LPAccGITR29de0Zv) | 7:46 | 2021-02-12 | 2022-07-29 |
 | [JosHUA!](https://open.spotify.com/track/2EawGMU71NkLKgBMau09qE) | [Tangible Jazz Dreams](https://open.spotify.com/artist/6uFzhLZ9nAOJCSWT0RpFPN) | [Meltdown](https://open.spotify.com/album/5pCN9sKpemavxFuIqV1oXI) | 7:03 | 2022-04-01 | 2022-07-29 |
 | [K4Y](https://open.spotify.com/track/6lHAH1CHfFDO2vjahZNqFJ) | [Daniel Weiss](https://open.spotify.com/artist/1C1dIy1LMvY2twCVueCoCP), [Yaniv Taubenhouse](https://open.spotify.com/artist/5EmzSgnKdfQh0wEZ5aiGLo) | [K4Y](https://open.spotify.com/album/705VGnP2jRgbmW1cHKDhcD) | 8:29 | 2021-02-12 | 2022-07-29 |

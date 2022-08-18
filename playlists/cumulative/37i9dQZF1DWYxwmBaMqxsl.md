@@ -4,7 +4,7 @@
 
 > Soft and moody jazz for a rainy day.
 
-171 songs - 11 hr 22 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
+175 songs - 11 hr 37 min - [published](https://open.spotify.com/playlist/3gSdGstAEf78VwlStuMXxy)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Elegant Flower](https://open.spotify.com/track/1SY8ygEeUjQd0A3Tupx4EI) | [Cyrus Chestnut](https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO) | [Cyrus Chestnut](https://open.spotify.com/album/3TbBfPc80wHFp5GQKLW3vb) | 4:44 | 2022-01-27 | 2022-06-01 |
 | [Eternity](https://open.spotify.com/track/3AxL4mOBBcz5vse4V7o7es) | [Greydon Park Band](https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S) | [Eternity](https://open.spotify.com/album/0fFkT2IJK4lCPGKX8LGseX) | 3:38 | 2021-12-14 |  |
 | [Evening Silence](https://open.spotify.com/track/3ObWIAbtVhxTPguDsHT9vf) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 4:27 | 2022-08-10 |  |
+| [Ever Since You Came](https://open.spotify.com/track/7GaJHvb45wl4F5QYuesmI8) | [Geeder](https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1) | [Ever Since You Came](https://open.spotify.com/album/72goGK8ag1HjjFDirVAjWI) | 4:37 | 2022-08-17 |  |
 | [Fading Dreams](https://open.spotify.com/track/7xCCrULuI3kbxF5bzYo80f) | [Carl Antaine](https://open.spotify.com/artist/5KXf7KzCn3CFeB3hRvHvqc) | [The Insider](https://open.spotify.com/album/791J5RIlG4Eptun25ffYtX) | 2:04 | 2021-12-14 |  |
 | [Fading Love](https://open.spotify.com/track/5xEOUPnUkpErHaxHi2D1tr) | [Burt Mitchell](https://open.spotify.com/artist/5Wj6zFHgENkOCOMh4ZwGX0) | [Fading Love](https://open.spotify.com/album/4rghfEFwsI9ATrjmUzjQvq) | 4:40 | 2021-12-14 |  |
 | [Fantastic, That's You](https://open.spotify.com/track/0JUg0sZeed300oK3FIP4Ak) | [Earl Hines](https://open.spotify.com/artist/2mY5u4CceAPrpBnse1WpFr) | [Once Upon A Time](https://open.spotify.com/album/2z9eYLpgriuyG2ubLEpsRY) | 4:10 | 2021-12-14 |  |
@@ -88,6 +89,7 @@
 | [Landing](https://open.spotify.com/track/5Ay0F2FMw9j8HiAKqDI8re) | [Red Brick Lane](https://open.spotify.com/artist/2zw8MpGMCASv0YfeAuUUzJ) | [Landing](https://open.spotify.com/album/3iwyJEQgPwHdyBl2eCxjjZ) | 3:01 | 2021-12-14 |  |
 | [Late Lament](https://open.spotify.com/track/3eDOviMyR6gSoN2AeONg7Q) | [Tim Franks Trio](https://open.spotify.com/artist/6tFpLOLeaW3EmB3r8VEMok) | [Late Lament](https://open.spotify.com/album/4dJPl3BYP23MU5cAVJUT3z) | 5:20 | 2021-12-14 |  |
 | [Let's Not](https://open.spotify.com/track/4LJfsJaMLMWNpysdH5K5oS) | [Danny Ryan Jazz Band](https://open.spotify.com/artist/3xs6vmsEWnke7fTjjn0n3j) | [Blueberry Street](https://open.spotify.com/album/1RDmHgLLP027hDRFZxg0Fo) | 4:25 | 2022-06-08 |  |
+| [Life In The Deepest Blue](https://open.spotify.com/track/7xVV4ujd2zDDJeyxcBR4i0) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [Life In The Deepest Blue](https://open.spotify.com/album/4a30lMOexLL1l9Y8n9AzR7) | 2:53 | 2022-08-17 |  |
 | [Light Wave](https://open.spotify.com/track/7F3h33seOeoDMEW65Vz2mj) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Light Wave](https://open.spotify.com/album/04WmEv2QCADVuxTOEKKIb9) | 3:45 | 2022-06-22 |  |
 | [Longing](https://open.spotify.com/track/7dgPOj3RPNNreOeAUHSTce) | [Basinettes](https://open.spotify.com/artist/3PGR6FLLZdC24ZKvow1IQQ) | [Longing](https://open.spotify.com/album/2BDjjzJZW81xcSbwu0ow5c) | 3:16 | 2021-12-14 |  |
 | [Lost in Orbit](https://open.spotify.com/track/7ijPIncR5k622S2j28ktCr) | [Dan Evans\-Parker](https://open.spotify.com/artist/4OSxWbYWRbUZzmkKS6PRM4) | [Lost in Orbit](https://open.spotify.com/album/7L3O8woHpsgk4Us0PU7YdL) | 2:33 | 2021-12-14 |  |
@@ -121,6 +123,7 @@
 | [On a rainy night](https://open.spotify.com/track/23UsmEE9f1y1OTRWpxZsnx) | [Astoria Three](https://open.spotify.com/artist/72pfIIbH2JQbShGyx4c7ri) | [I fall in love too easily](https://open.spotify.com/album/5P4UboAiY1NObMGBNryw37) | 2:54 | 2021-12-14 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/6YesOn7fGTzg1RF9c9KYdJ) | [Steve Devon](https://open.spotify.com/artist/2CBhuQLdCpuNengnHtXADd) | [Only Trust Your Heart](https://open.spotify.com/album/2KCET0Oz3QsDlfigCUn6nx) | 3:57 | 2021-12-14 |  |
 | [Prelude to a Kiss](https://open.spotify.com/track/4WTKq8cF5bZJNlvZyKVff8) | [Brendan Maynard + 2](https://open.spotify.com/artist/28j2IaYoLNPDEr3ogCZ4tM) | [Giant Steps](https://open.spotify.com/album/2m5RKUit8PUNE6QPcmA7sI) | 4:24 | 2021-12-14 |  |
+| [Pretty Are Your Eyes](https://open.spotify.com/track/0QXIct82DEE5RmlpeVHE4Y) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Stars in Your Eyes](https://open.spotify.com/album/0e1PjJ10JCgMQLAIUT4NJ4) | 3:13 | 2022-08-17 |  |
 | [Rainbow Mountains](https://open.spotify.com/track/3c0kOPcHy2wJr3p8Vkno2j) | [Chris Memento](https://open.spotify.com/artist/6dLMos1sm6vC0KWbloaCXb) | [Rainbow Mountains](https://open.spotify.com/album/2DMK4fULgBjylc9Kj8J73K) | 4:50 | 2022-05-31 |  |
 | [Reaching](https://open.spotify.com/track/1zL6ms4dZJ1l8y8F46llOv) | [The Midnight Quartet](https://open.spotify.com/artist/3RgMoZ7V6T8taBTLb58Wld) | [Reaching](https://open.spotify.com/album/7nWW2h7SFTPQJgJX0h1IMA) | 3:22 | 2021-12-14 |  |
 | [Remembering Benny](https://open.spotify.com/track/7HFXTKZhD4wsko0rty1WIk) | [Three Four Trio](https://open.spotify.com/artist/71RWScq7sSiOx08UQe37fv) | [A Simple Book](https://open.spotify.com/album/49asGdlaiX4oisY9vHf3vt) | 3:49 | 2022-08-10 |  |
@@ -173,6 +176,7 @@
 | [Would You Be Mine?](https://open.spotify.com/track/6lMSD6SW8sazpPANmZSKi0) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Would You Be Mine?](https://open.spotify.com/album/2VyiqxfAFBkkT6QR29PoA2) | 2:38 | 2021-12-14 | 2022-05-04 |
 | [Yesterday](https://open.spotify.com/track/2eIry6lu8pdyShi9RPk2dR) | [Tommies Trio](https://open.spotify.com/artist/2k2e33oHCm8aQalDfKTvz6) | [Yesterday](https://open.spotify.com/album/5mfTNVaNN6hwzcBKZ6Pj9w) | 3:47 | 2022-06-08 |  |
 | [Yet another dream](https://open.spotify.com/track/5tJwP1uR77rBWkFUdzmB2Y) | [Tom Bates](https://open.spotify.com/artist/2HyugLj7NVwGIowZWzX2D1) | [Just a fool](https://open.spotify.com/album/293iki1PCPrjghcqs9r8dY) | 4:46 | 2021-12-14 |  |
+| [You Can Call Me Again](https://open.spotify.com/track/2o0AN4oU66mlc9dH54ENFd) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [You Can Call Me Again](https://open.spotify.com/album/1FVvVtu6dwRrZlrx08pL6p) | 3:31 | 2022-08-17 |  |
 | [You Confuse Me](https://open.spotify.com/track/46WT4GuSWziUJIDtjUJHQr) | [Jeff Laine & Co](https://open.spotify.com/artist/4i2Ps9G6SHd16reEGA5xva) | [You Confuse Me](https://open.spotify.com/album/4lXqZHzOGouVzTh2J2FFip) | 3:11 | 2021-12-14 |  |
 | [You Don't Know What Love Is](https://open.spotify.com/track/4bDk3TKM6kF1MT2Tzek7QJ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [You Don't Know What Love Is](https://open.spotify.com/album/3WpU0MCWwrDDqsA3KZQJnt) | 2:30 | 2021-12-14 |  |
 | [You Keep Coming Back Like A Song](https://open.spotify.com/track/7G0wlQpJ1CEwvhrP6W3kQU) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Red Garland Revisited!](https://open.spotify.com/album/4NgTZ6fgi3EdfmUIsueHjD) | 5:35 | 2022-01-26 |  |

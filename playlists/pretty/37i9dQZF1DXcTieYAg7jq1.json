@@ -1,12 +1,12 @@
 {
   "description": "Featuring that new vintage. Cover: Sarah Kang",
-  "num_followers": 399257,
+  "num_followers": 399366,
   "original_name": "Retro Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDI0YzBiY2Y1YWQ2ODkzMGI0M2IxYWFlYTk1ZDRmY2I1",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDEyYjRjMTliNzQzODYyNzQzN2QxYjIwOGJlZjdiN2Fm",
   "tracks": [
     {
       "added_at": "2022-08-12 04:01:00",
@@ -265,6 +265,22 @@
       "url": "https://open.spotify.com/track/4Hn4zAkBUaNnT8m9p7cYaf"
     },
     {
+      "added_at": "2022-07-01 04:01:00",
+      "album": {
+        "name": "A Song For Every Moon",
+        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
+      },
+      "artists": [
+        {
+          "name": "Bruno Major",
+          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "duration_ms": 169410,
+      "name": "Places We Won't Walk",
+      "url": "https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1"
+    },
+    {
       "added_at": "2022-02-18 05:02:00",
       "album": {
         "name": "Texas Moon",
@@ -283,22 +299,6 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
-    },
-    {
-      "added_at": "2022-07-01 04:01:00",
-      "album": {
-        "name": "A Song For Every Moon",
-        "url": "https://open.spotify.com/album/5UFBJXQtytWA9vfaO2DxLx"
-      },
-      "artists": [
-        {
-          "name": "Bruno Major",
-          "url": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "duration_ms": 169410,
-      "name": "Places We Won't Walk",
-      "url": "https://open.spotify.com/track/30QNjcM3Q1GnLFIIJjWQL1"
     },
     {
       "added_at": "2022-02-04 05:02:00",
@@ -761,22 +761,6 @@
       "url": "https://open.spotify.com/track/6UOkF086zUgYXnqFxqUvEI"
     },
     {
-      "added_at": "2022-06-24 04:02:00",
-      "album": {
-        "name": "Good Man (First Love)",
-        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 160361,
-      "name": "Good Man (First Love)",
-      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Building Balance",
@@ -791,6 +775,22 @@
       "duration_ms": 184952,
       "name": "Consider Me",
       "url": "https://open.spotify.com/track/6eA8pANu9ryDcoTTe5myKk"
+    },
+    {
+      "added_at": "2022-06-24 04:02:00",
+      "album": {
+        "name": "Good Man (First Love)",
+        "url": "https://open.spotify.com/album/1vS9mqQQuGIFvLklJucvQJ"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 160361,
+      "name": "Good Man (First Love)",
+      "url": "https://open.spotify.com/track/3HxTb6ITqXf7RMjX2DGVv5"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "If My Wife New I\u2019d Be Dead",
-        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 244693,
-      "name": "I Don't Really Care for You",
-      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Long Lost",
         "url": "https://open.spotify.com/album/5xiePX6kXj5ZsmUsqIqzeD"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 177366,
       "name": "Not Dead Yet",
       "url": "https://open.spotify.com/track/6xVd8klTvL6ZRovgIhIs98"
+    },
+    {
+      "added_at": "2021-12-03 05:01:00",
+      "album": {
+        "name": "If My Wife New I\u2019d Be Dead",
+        "url": "https://open.spotify.com/album/6zn3DcldhCpu6f5HvV32bw"
+      },
+      "artists": [
+        {
+          "name": "CMAT",
+          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
+        }
+      ],
+      "duration_ms": 244693,
+      "name": "I Don't Really Care for You",
+      "url": "https://open.spotify.com/track/4CQv2F0m8ssGBVq7v8uBGu"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1021,22 +1021,6 @@
       "url": "https://open.spotify.com/track/2GeR7M97pCrWrMh8d6BlrF"
     },
     {
-      "added_at": "2021-12-24 05:00:00",
-      "album": {
-        "name": "Holy Water",
-        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
-      },
-      "artists": [
-        {
-          "name": "Brett Eldredge",
-          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
-        }
-      ],
-      "duration_ms": 165253,
-      "name": "Holy Water",
-      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
-    },
-    {
       "added_at": "2021-12-03 05:01:00",
       "album": {
         "name": "Mine Forever",
@@ -1051,6 +1035,22 @@
       "duration_ms": 288283,
       "name": "Mine Forever",
       "url": "https://open.spotify.com/track/6fGNYNyM6PL9qE6kkFaW49"
+    },
+    {
+      "added_at": "2021-12-24 05:00:00",
+      "album": {
+        "name": "Holy Water",
+        "url": "https://open.spotify.com/album/2IqSupOGT9SFUaxv7oQUMn"
+      },
+      "artists": [
+        {
+          "name": "Brett Eldredge",
+          "url": "https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz"
+        }
+      ],
+      "duration_ms": 165253,
+      "name": "Holy Water",
+      "url": "https://open.spotify.com/track/0iXqDv92jTifES3rxAYDNc"
     },
     {
       "added_at": "2021-12-03 05:01:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Italian Ice",
-        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
-      },
-      "artists": [
-        {
-          "name": "Nicole Atkins",
-          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
-        }
-      ],
-      "duration_ms": 243769,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
-    },
-    {
-      "added_at": "2021-12-03 05:01:00",
-      "album": {
         "name": "Love Is Love",
         "url": "https://open.spotify.com/album/658qjvfIWOhCwaOZixkb45"
       },
@@ -1585,20 +1569,20 @@
       "url": "https://open.spotify.com/track/3evHzU2xmG80c3jS4YT6ZI"
     },
     {
-      "added_at": "2022-03-25 04:01:00",
+      "added_at": "2021-12-03 05:01:00",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+        "name": "Italian Ice",
+        "url": "https://open.spotify.com/album/5fMEqegQ5CNA7V4OB7ROWV"
       },
       "artists": [
         {
-          "name": "Michael Bubl\u00e9",
-          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
         }
       ],
-      "duration_ms": 275817,
-      "name": "Bring It On Home to Me",
-      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
+      "duration_ms": 243769,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6L8waqXbOl7OXhhH3acVfk"
     },
     {
       "added_at": "2022-04-01 04:02:00",
@@ -1623,6 +1607,22 @@
       "duration_ms": 230101,
       "name": "Where the Light Is",
       "url": "https://open.spotify.com/track/73Jp82FaQRWl6iii1Gl0lw"
+    },
+    {
+      "added_at": "2022-03-25 04:01:00",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 275817,
+      "name": "Bring It On Home to Me",
+      "url": "https://open.spotify.com/track/5bVFeC0hVdaA29A1V6hIqY"
     },
     {
       "added_at": "2021-12-03 05:01:00",

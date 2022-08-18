@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: LATENIGHTJIGGY
 
-131 songs - 6 hr 46 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
+132 songs - 6 hr 48 min - [published](https://open.spotify.com/playlist/3Dw6MeHZ1290HOvRyOOXlR)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Boyfriend](https://open.spotify.com/track/59CfNbkERJ3NoTXDvoURjj) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Boyfriend](https://open.spotify.com/album/4jUfPmvZGiRRJwULbfk1dc) | 2:33 | 2022-03-25 | 2022-06-01 |
 | [Casino](https://open.spotify.com/track/3gsMgG06G0igLNVVe1RDak) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [1 of 1](https://open.spotify.com/album/3D1NZYi3GsenO5uWDFrRI6) | 3:01 | 2022-03-31 | 2022-06-01 |
 | [CERQUITA](https://open.spotify.com/track/2Xg3vz32NEuKWWU73Hi1mc) | [õndas](https://open.spotify.com/artist/2C5bspfGva39DUPg5ZYJ4p), [Nani](https://open.spotify.com/artist/4csfMLGLT1ikinHV3FRTmL) | [CERQUITA](https://open.spotify.com/album/3uj1zQCI0RiOEvqIAFIurW) | 2:39 | 2022-03-21 |  |
-| [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-03-21 |  |
+| [Chiquita](https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l) | 2:29 | 2022-08-11 |  |
+| [Chiquita](https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq) | [Taylor DeBlock](https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD) | [Chiquita](https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv) | 2:29 | 2022-03-21 | 2022-08-18 |
 | [CHURCH GIRL](https://open.spotify.com/track/2mqTtvbKxH7SoEQ2oGAnsA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:44 | 2022-08-01 |  |
 | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/track/6QqF0MqjQVotftZIuQUbvf) | [Col3trane](https://open.spotify.com/artist/4hTL3jOgvZwOqegEZTOrCc), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Clutch \(feat\. Kiana Ledé\)](https://open.spotify.com/album/3TfI9sGZXMZtRYDMuSdDxd) | 3:26 | 2022-03-21 |  |
 | [cold feet](https://open.spotify.com/track/16Q5CS1hO8nTybYOj4ibsP) | [marcos g](https://open.spotify.com/artist/3O2UFvuhmgSDH3q6miqELN), [ELLIE](https://open.spotify.com/artist/0niZWQWN4icezT9adyLj4w) | [cold feet](https://open.spotify.com/album/4vx4AhMfe8CoH4jdzxorCw) | 2:59 | 2022-03-21 |  |

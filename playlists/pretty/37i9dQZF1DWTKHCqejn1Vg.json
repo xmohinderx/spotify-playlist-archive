@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 5150,
+  "num_followers": 5191,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMzMDE1NSwwMDAwMDAwMDY5Yjc0YTlhMjkzOWFjYmFjOTk4YmI5ZTIxMDdhMzZh",
+  "snapshot_id": "MTY2MDMzMDE1NSwwMDAwMDAwMDk3NjZjM2QxZTQ4MmY5ZmE2MTViYjFjOWFjMzU4YTFj",
   "tracks": [
     {
       "added_at": "2022-08-12 18:49:15",
@@ -155,22 +155,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Honestly",
-        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
-      },
-      "artists": [
-        {
-          "name": "HeeJin",
-          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
-        }
-      ],
-      "duration_ms": 197013,
-      "name": "Honestly",
-      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "There And Back Again",
         "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 196986,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "Honestly",
+        "url": "https://open.spotify.com/album/2YUFblD9rLzVfgSJVBjmhx"
+      },
+      "artists": [
+        {
+          "name": "HeeJin",
+          "url": "https://open.spotify.com/artist/3Rhvjo5PVNMeUa5OzFXzks"
+        }
+      ],
+      "duration_ms": 197013,
+      "name": "Honestly",
+      "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -283,18 +283,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+        "name": "Worldwide",
+        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "Okasian",
+          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
         }
       ],
-      "duration_ms": 224951,
-      "name": "2nd THOTS",
-      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
+      "duration_ms": 244153,
+      "name": "YOU KNOW",
+      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -419,22 +423,18 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Worldwide",
-        "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
       },
       "artists": [
         {
           "name": "Jay Park",
           "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "Okasian",
-          "url": "https://open.spotify.com/artist/5XdnR0kqQUWzeTDdsJNulO"
         }
       ],
-      "duration_ms": 244153,
-      "name": "YOU KNOW",
-      "url": "https://open.spotify.com/track/6YM2Wl7KAr0MExcTiYpw5D"
+      "duration_ms": 224951,
+      "name": "2nd THOTS",
+      "url": "https://open.spotify.com/track/0foI16PJZOEd56Rg83zVSD"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -491,26 +491,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "S.O.S (Sink or Swim)",
-        "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 180720,
-      "name": "Wet The Bed",
-      "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "New Edition 41",
         "url": "https://open.spotify.com/album/3JhDyQCniCuttwqA9eFtUs"
       },
@@ -527,6 +507,26 @@
       "duration_ms": 195187,
       "name": "Not Bad (feat. Dawon)",
       "url": "https://open.spotify.com/track/2NQJBaeX4YuZlQveSIRIyT"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "S.O.S (Sink or Swim)",
+        "url": "https://open.spotify.com/album/1e9a1koBntuC0NdrJuqmel"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 180720,
+      "name": "Wet The Bed",
+      "url": "https://open.spotify.com/track/0SdSuUUoVuQWA40yldhDht"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -639,18 +639,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Waves Like",
-        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
       },
       "artists": [
         {
-          "name": "Jazzyfact",
-          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Harujongil",
-      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -671,22 +675,34 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+        "name": "Waves Like",
+        "url": "https://open.spotify.com/album/00rJeDpdXyLu7YJo7CT4tE"
       },
       "artists": [
         {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+          "name": "Jazzyfact",
+          "url": "https://open.spotify.com/artist/7l9DszIMmxbcc24RJwqJY8"
         }
       ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
+      "duration_ms": 224000,
+      "name": "Harujongil",
+      "url": "https://open.spotify.com/track/4Dwsvu6JgyAH78GfdlUxBh"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "In the Blur of the Rain",
+      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -803,22 +819,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "In the Blur of the Rain",
-      "url": "https://open.spotify.com/track/5NbGKVTywRBQpqkkaQJi5j"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "kiss my lips",
         "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
       },
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
+        "name": "Evergray",
+        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
+      },
+      "artists": [
+        {
+          "name": "Jiwoo",
+          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
+        }
+      ],
+      "duration_ms": 210466,
+      "name": "Kurkdjian",
+      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -915,6 +931,22 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
+        "name": "I'M LOVIN' AMY",
+        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        }
+      ],
+      "duration_ms": 202853,
+      "name": "Murder On The Dance Floor",
+      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
         "name": "XYZ",
         "url": "https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc"
       },
@@ -931,22 +963,6 @@
       "duration_ms": 237215,
       "name": "DRiNK 2 4GET (feat. oceanfromtheblue)",
       "url": "https://open.spotify.com/track/0Dmy2qmiAKQDbgv2ESvRhx"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
-        "name": "I'M LOVIN' AMY",
-        "url": "https://open.spotify.com/album/1N3ZneaWp9SVREC9JSgsia"
-      },
-      "artists": [
-        {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
-        }
-      ],
-      "duration_ms": 202853,
-      "name": "Murder On The Dance Floor",
-      "url": "https://open.spotify.com/track/6nuAMaTLREca7BWlXlm52s"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -987,22 +1003,6 @@
     {
       "added_at": "2022-08-12 18:49:15",
       "album": {
-        "name": "Evergray",
-        "url": "https://open.spotify.com/album/7DMeNlCClB36augRfjESKN"
-      },
-      "artists": [
-        {
-          "name": "Jiwoo",
-          "url": "https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg"
-        }
-      ],
-      "duration_ms": 210466,
-      "name": "Kurkdjian",
-      "url": "https://open.spotify.com/track/6Nk37ODgtd8b4wLzzKNXlU"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
         "name": "Dawn Call",
         "url": "https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX"
       },
@@ -1015,42 +1015,6 @@
       "duration_ms": 193844,
       "name": "Dawn Call",
       "url": "https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
-        "name": "White Lie",
-        "url": "https://open.spotify.com/album/0AHZ4jGTztI0ieKKAicmdg"
-      },
-      "artists": [
-        {
-          "name": "Aden",
-          "url": "https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv"
-        },
-        {
-          "name": "Gist",
-          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "White Lie (feat. GI$T)",
-      "url": "https://open.spotify.com/track/48ORreJCgCLSEj13xCFy70"
-    },
-    {
-      "added_at": "2022-08-12 18:49:15",
-      "album": {
-        "name": "BOYCOLD",
-        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
-      },
-      "artists": [
-        {
-          "name": "Sik-K",
-          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Get That Money",
-      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
     },
     {
       "added_at": "2022-08-12 18:49:15",
@@ -1071,6 +1035,38 @@
       "duration_ms": 198000,
       "name": "Sunrise (Feat. EunBii)",
       "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "BOYCOLD",
+        "url": "https://open.spotify.com/album/702oAXJwcml4VxPHLQWwrS"
+      },
+      "artists": [
+        {
+          "name": "Sik-K",
+          "url": "https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Get That Money",
+      "url": "https://open.spotify.com/track/1Hmj4hRlzSfs7RA1jCkU5m"
+    },
+    {
+      "added_at": "2022-08-12 18:49:15",
+      "album": {
+        "name": "Fragile",
+        "url": "https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe"
+      },
+      "artists": [
+        {
+          "name": "CAMO",
+          "url": "https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "Runners",
+      "url": "https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn"
     },
     {
       "added_at": "2022-08-12 18:49:15",

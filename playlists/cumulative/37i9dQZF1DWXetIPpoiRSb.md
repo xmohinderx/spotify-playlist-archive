@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Caity Baser
 
-818 songs - 1 day 17 hr 21 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
+819 songs - 1 day 17 hr 24 min - [published](https://open.spotify.com/playlist/5O9jjDsmvcXgHKwc2ajhjj)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Always Been You](https://open.spotify.com/track/2zpZkOV7sD9C4Cv0cukoHV) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Always Been You](https://open.spotify.com/album/1VhOdgOjIARBn6SoNyeQDa) | 2:11 | 2021-11-27 | 2022-02-26 |
 | [Always On My Mind](https://open.spotify.com/track/4sWH0Fhl1a6yBCXnYm73Jp) | [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Champagne Problems \#DQH1](https://open.spotify.com/album/62XwEYC2iJIX37oZlJbsvi) | 2:44 | 2022-01-10 | 2022-03-04 |
 | [American Cliché](https://open.spotify.com/track/2IFioAFD8QEIq17UwOaSFb) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [American Cliché](https://open.spotify.com/album/2LNj7phPxqxUhn05s0itfQ) | 3:23 | 2021-02-06 | 2021-04-24 |
+| [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/track/32il27dOrLpIru8Evp4Pu7) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB), [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [American Psycho \(with Mae Muller feat\. Trippie Redd\)](https://open.spotify.com/album/6iB6SNSkqxjN65t5tBETcp) | 2:33 | 2022-08-17 |  |
 | [Angel Baby](https://open.spotify.com/track/2m6Ko3CY1qXNNja8AlugNc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Angel Baby](https://open.spotify.com/album/44CdsgXhU5R2esprq0tf43) | 3:40 | 2021-09-10 | 2022-01-11 |
 | [Another Life \(feat\. FLETCHER & Josh Golden\)](https://open.spotify.com/track/3ng7epefERNazaZkkbwLdq) | [Surf Mesa](https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ), [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg), [Josh Golden](https://open.spotify.com/artist/6wUAn24MOirNVNqQM47fda) | [Another Life](https://open.spotify.com/album/5NUs7V7ETbYhyArrEGxyPr) | 2:42 | 2021-08-28 | 2021-12-04 |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2021-01-23 | 2021-04-03 |

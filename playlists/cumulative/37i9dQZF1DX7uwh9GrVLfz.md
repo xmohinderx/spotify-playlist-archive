@@ -4,7 +4,7 @@
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: IF
 
-438 songs - 23 hr 57 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
+440 songs - 1 day 0 hr 3 min - [published](https://open.spotify.com/playlist/7mGuiem8b98d8gMLhYEh8n)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ain't Nothing](https://open.spotify.com/track/1Y5CDS0yJ10aB5g0xWaQ5Z) | [BACK DROP BOMB](https://open.spotify.com/artist/7iT9CcoboEEyJXPPrnLM3T) | [Ain't Nothing](https://open.spotify.com/album/2TyfNadUiT54W25ySe9K7E) | 4:21 | 2022-05-12 | 2022-07-29 |
 | [Andy](https://open.spotify.com/track/3JnVplRv5OFdNP8fHIZLYy) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Andy](https://open.spotify.com/album/2ZIm49qejBACCFTueJ8wTc) | 2:50 | 2022-05-12 |  |
 | [Ashtray](https://open.spotify.com/track/4wFaKe5coaqpWw38VJUqNo) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 2:18 | 2022-05-17 | 2022-07-26 |
-| [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 |  |
+| [Ato\-Ichinene](https://open.spotify.com/track/0dWj7tC2TQaz8854rKZ5xD) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [Little Playmate](https://open.spotify.com/album/6UFJosFQcUU2Pj3EZJP9Mt) | 3:02 | 2022-05-17 | 2022-08-18 |
 | [Awaking Now](https://open.spotify.com/track/4WAmdwMGWeWW85onNiOw84) | [ONIONRING](https://open.spotify.com/artist/45b4d7M7mlDpXAYFK3JZ5w) | [Trajectory](https://open.spotify.com/album/1hCK81KZpUEhQHrk7s3mYh) | 2:28 | 2022-05-12 | 2022-07-21 |
 | [Ball & Cube with Vegetable](https://open.spotify.com/track/2R6jjHhOzuwh5dfpDEqz99) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [鄙、天国](https://open.spotify.com/album/5qrUsfI8Hre2TH3DYtWUhe) | 3:09 | 2022-08-09 |  |
 | [Bang!](https://open.spotify.com/track/0eMVVP1LmCasntaKPkAnc3) | [THE STAR CLUB](https://open.spotify.com/artist/4yr6O5ybp9x2SaZe7gyGyx) | [Booster Shot](https://open.spotify.com/album/7oQCrUHLsjTA5HKTjfKFjJ) | 2:41 | 2022-05-17 | 2022-07-04 |
@@ -164,7 +164,7 @@
 | [MORATORIUM](https://open.spotify.com/track/22BlETticZbVWRXTw8SKD2) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [FROM HERE TO EVERYWHERE](https://open.spotify.com/album/59Htpa3CGxlTNxHQI7skRV) | 2:30 | 2022-05-12 | 2022-07-29 |
 | [Morning](https://open.spotify.com/track/5XPXxsSl07ER8tufQ7mIfz) | [OWl](https://open.spotify.com/artist/0maedf6L3q44shFk35Bs9Y) | [KICKASS](https://open.spotify.com/album/3LF5paSFlt197Sq3EnRGLr) | 2:39 | 2022-06-14 | 2022-07-29 |
 | [MUZIC](https://open.spotify.com/track/4Zxt7WB2E7qkyav5eiSYnj) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [AIN'T SEEN NOTHING YET](https://open.spotify.com/album/4RU5eq7GsGxKEo28TdOHUg) | 3:38 | 2022-05-12 | 2022-07-23 |
-| [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 | 2022-05-12 |  |
+| [MUZIC](https://open.spotify.com/track/1LrmWErruRbgfafzcilZNS) | [EGG BRAIN](https://open.spotify.com/artist/7dmVux6qeQNS636kmtoUEI) | [MUZIC](https://open.spotify.com/album/4UfnTbzbPnLbF6K1RttHp5) | 3:42 | 2022-05-12 | 2022-08-18 |
 | [MY FIRST KISS](https://open.spotify.com/track/3giExKWjsn2GSeXR5AQIMc) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/3UW4q3FZ3YCCzyXe8zTYFa) | 3:11 | 2022-07-21 |  |
 | [MY FIRST KISS](https://open.spotify.com/track/5KwK5Ojq91gC2gBEWuopOS) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [LOVE IS A BATTLEFIELD](https://open.spotify.com/album/1QwhR7nfWScyyDaa6Rwj5y) | 3:11 | 2022-05-19 | 2022-07-28 |
 | [My Secret Summer](https://open.spotify.com/track/3FwwlkM5aps7yKctEwKLuS) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [WILL KEEP MARCHING](https://open.spotify.com/album/2olIfuO9oEQ0DBQPeBjb5A) | 2:57 | 2022-05-12 | 2022-07-23 |
@@ -278,6 +278,7 @@
 | [The Gift](https://open.spotify.com/track/7DTQOBUV8zMErJfPkf4zVr) | [Hi\-STANDARD](https://open.spotify.com/artist/5bqCpmhZzNzRzzKSbbDkeH) | [THE GIFT](https://open.spotify.com/album/0X8NMXBEiGQIRSehZzsXJd) | 2:22 | 2022-05-19 | 2022-07-26 |
 | [THE NIGHT WITHOUT A STAR](https://open.spotify.com/track/5mqKM1gPH7247hZoE6Q0NR) | [Northern19](https://open.spotify.com/artist/4fsXgCjIFWNkCrO2rHd5da) | [EVERLASTING](https://open.spotify.com/album/4obqQshTLGtcdosdYVlx3D) | 2:56 | 2022-05-12 | 2022-07-25 |
 | [THE SOOTHING](https://open.spotify.com/track/3N56UMx9kEOzx97maRtHZY) | [POT](https://open.spotify.com/artist/1t3RYrq8bMooxAhnuBVMds) | [THE SOOTHING](https://open.spotify.com/album/2gjSsAWMvLkhZbzHayDjrs) | 2:41 | 2022-05-12 | 2022-07-14 |
+| [The Wristband of THE HIGH\-LOWS at My Parents' House](https://open.spotify.com/track/7pCrcx296Mz5B7FLRsHSkt) | [LETEPATHYS](https://open.spotify.com/artist/6mrp4Qwn9ekWEK73Vct3BM) | [Endangered Species](https://open.spotify.com/album/1QQpRsMfOvBk9kzIXJfhxz) | 1:14 | 2022-08-16 |  |
 | [Time goes on](https://open.spotify.com/track/78YAWfKE8BZKvWX1ZwGCPK) | [GIZMO](https://open.spotify.com/artist/1jH2XUfqilYR4F2oZ7gm2V) | [GIZMOといっしょ](https://open.spotify.com/album/5MsWIbsWjgsHbIbA0YPonk) | 2:34 | 2022-06-07 | 2022-07-04 |
 | [Tomorrow Song](https://open.spotify.com/track/3HmhhB2nqkukgJkSfdIXBw) | [SHIMA](https://open.spotify.com/artist/7kJGMy7TllRTlJS6bafIfE) | [Tomorrow Song](https://open.spotify.com/album/46twmDeKT3UP4A4pE9z80y) | 3:08 | 2022-05-24 | 2022-07-29 |
 | [Tonight](https://open.spotify.com/track/0dnIaNDy2cRcJSbKdANRik) | [COUNTRY YARD](https://open.spotify.com/artist/7zAPELMruolERj0vMJGp76) | [The Roots Evolved](https://open.spotify.com/album/1tNSCVXD75Va3P3U0t733a) | 2:52 | 2022-05-17 | 2022-07-27 |
@@ -339,6 +340,7 @@
 | [アサインブレイカー](https://open.spotify.com/track/6n9WWWocRjT72N7LOqZza5) | [SABOTEN](https://open.spotify.com/artist/7sXuNhQNs04fBoANVpwUq0) | [バカと天才とハミングバード](https://open.spotify.com/album/69Rosf0INFy0sUfrJWW8Yn) | 2:48 | 2022-05-12 | 2022-05-16 |
 | [アンダイイングロックンロール](https://open.spotify.com/track/0CuGdMFTSacKYJuZEIzxMK) | [AIR SWELL](https://open.spotify.com/artist/0k1XY7YS3ggrZu8UeyNlUo) | [アンダイイングロックンロール](https://open.spotify.com/album/09iqf2C8Gw5JvChHnC8otU) | 2:49 | 2022-05-19 | 2022-07-28 |
 | [イエスマン](https://open.spotify.com/track/3QEjFMdEio9xXI9ovRMCMB) | [THE PERRY](https://open.spotify.com/artist/2bUj8mfwedR3OobVVLgGOx) | [イエスマン](https://open.spotify.com/album/0PmeaCohxjFdC7wyzQc8S1) | 2:54 | 2022-05-24 | 2022-07-21 |
+| [エンドロール](https://open.spotify.com/track/34leYne4zziRmoUEj82Jlc) | [東京初期衝動](https://open.spotify.com/artist/0yIugVENIPSMYiZTYi2CUM) | [エンドロール / コマンドバトル!](https://open.spotify.com/album/3VZI9J4WFixloKbFyuaSnF) | 4:47 | 2022-08-16 |  |
 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 | 2022-05-24 |  |
 | [クラーク博士と僕](https://open.spotify.com/track/5Tc0JZXCvmS51vVwPyV3RJ) | [su\-xing\-cyu](https://open.spotify.com/artist/2SU7W9Mkvei3bZkF3XuOjP) | [メジャーデビューというボケ](https://open.spotify.com/album/2gSRGSg2fgVMAIbgWYPDHZ) | 2:18 | 2022-05-12 |  |
 | [グッドバイ](https://open.spotify.com/track/7nMbUWh4wAmdVPy5FWW7Aa) | [マイティマウンテンズ](https://open.spotify.com/artist/31voAK1zx8UMpcLy8mbLAW) | [MIGHTY MOUNTAINS](https://open.spotify.com/album/3meQjVI8X0PezEQtkhJ1rS) | 2:42 | 2022-05-19 | 2022-07-03 |

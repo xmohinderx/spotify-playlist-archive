@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 
 > Keep your finger on the pulse of Americana\. Cover: Larkin Poe
 
-[Spotify](https://open.spotify.com/user/spotify) - 589,861 likes - 150 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 589,926 likes - 150 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 75 | [I Just Came Home To Count The Memories](https://open.spotify.com/track/6dP99TIwVsyUIJOCfvGpYl) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [I Just Came Home To Count The Memories](https://open.spotify.com/album/7rHnORf4k6tS3G8uJcPqT5) | 4:06 |
 | 76 | [Better For You](https://open.spotify.com/track/0ZHstdIl6lbENFFj5A9R8C) | [Jonathan Terrell](https://open.spotify.com/artist/2SQQDXpVix78q2nKkks3E3) | [Better For You](https://open.spotify.com/album/2zQoCOG7PmZkFikB6K4aTs) | 3:22 |
 | 77 | [Something More Than Love](https://open.spotify.com/track/5TyRTaciFtVQE4wXwBnIpw) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Something More Than Love](https://open.spotify.com/album/3hih4g7LudeBQyzuZZBHrs) | 3:07 |
-| 78 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6zy5mComj7NwXGSBQ9VVEd) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/album/7j4q31uhuHLZb4tzVHhdkp) | 3:41 |
+| 78 | [Dooley's Farm \(feat\. Billy Strings\)](https://open.spotify.com/track/6mfq2McYfeiVIBa1tPA2gU) | [Molly Tuttle & Golden Highway](https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE), [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf) | [Crooked Tree](https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc) | 3:41 |
 | 79 | [RHODODENDRON](https://open.spotify.com/track/3Ugq8kEET6KgKBmZ3ttCNl) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [LIFE ON EARTH](https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3) | 3:34 |
 | 80 | [Promise Rings](https://open.spotify.com/track/5JaHVcRCP2pBAYIes1VrjK) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [Monoflora](https://open.spotify.com/album/398U3OCGdd08lD6gdMC0rE) | 4:14 |
 | 81 | [See The Light](https://open.spotify.com/track/28DIGBWD9YtAIit4ASWY3C) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Dreamland](https://open.spotify.com/album/1Mik9EmHCENXPMjHOgOwRB) | 2:50 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Fzl4v4w9Zp.md) - [plain]
 | 149 | [Plain Dealing](https://open.spotify.com/track/7CVFMKpWFqztojsuR654u9) | [Pony Bradshaw](https://open.spotify.com/artist/0ATGYvt8HyUK8ydaxJybSi) | [Plain Dealing](https://open.spotify.com/album/7BIu512T3yrvo01oPR8LDM) | 2:49 |
 | 150 | [Age of a Man](https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Age of a Man](https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU) | 3:39 |
 
-Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMDQwMDEwMzA3NDFjODM2N2VkNTA1YTAwYmMwMjIxYjM3`
+Snapshot ID: `MTY1OTY3MjAwMCwwMDAwMDAwMGRhZDNlMzNhZjliMjQ3MjM5MDExZTkwMDUzZWU5YWQ1`

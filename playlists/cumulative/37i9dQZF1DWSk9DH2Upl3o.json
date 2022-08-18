@@ -427,10 +427,28 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 426602,
       "name": "Hungersite",
       "url": "https://open.spotify.com/track/24SSx6gMzDtVB0njwSzChH"
+    },
+    {
+      "album": {
+        "name": "Dripfield",
+        "url": "https://open.spotify.com/album/3NwJRNY5uYjQP62rkQEXyV"
+      },
+      "artists": [
+        {
+          "name": "Goose",
+          "url": "https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz"
+        }
+      ],
+      "date_added": "2022-06-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 426602,
+      "name": "Hungersite",
+      "url": "https://open.spotify.com/track/5FKKjiUjOXu9Kinlkc1VzA"
     },
     {
       "album": {

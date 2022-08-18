@@ -4,7 +4,7 @@
 
 > centuries\-old sailor songs gone viral \- it's sea shanty season, baby.
 
-79 songs - 4 hr 3 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
+80 songs - 4 hr 4 min - [published](https://open.spotify.com/playlist/6GvH0VpVCfijhWjgTOMewu)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [Roll, Boys, Roll!](https://open.spotify.com/track/78oB43ccLvINGO48J6E7j7) | [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Clayton Kennedy](https://open.spotify.com/artist/3ZBJsOEjp8s1b3aQn4sE4U), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition, Vol\. 2\) \[Original Game Soundtrack\]](https://open.spotify.com/album/3xIHHyUh7RTAzLzXUzksBB) | 1:55 | 2022-03-10 |  |
 | [Rolling Down to Old Maui](https://open.spotify.com/track/4jYve1plJiAZ9qqjOBbQbf) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Between the Breaks…Live! \(Remastered\)](https://open.spotify.com/album/300wwAVXwfizhcSEQkWs8T) | 3:37 | 2022-03-10 | 2022-07-29 |
 | [Rolling Down to Old Maui](https://open.spotify.com/track/1GpU4h6s3mc13uJgkSUPLf) | [Stan Rogers](https://open.spotify.com/artist/3cS04S9ChhEClgDghrhOzg) | [Between The Breaks Live!](https://open.spotify.com/album/72wsYn92bmcNFwR9M6he9f) | 3:38 | 2022-06-29 |  |
+| [Round For the House](https://open.spotify.com/track/70iUFGZc3oQi4dJ3F3hwA0) | [Alan Doyle](https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL), [Jahlen Barnes](https://open.spotify.com/artist/3f0ayxoDQhKJkAIVRWT9K5), [Alana Hibbert](https://open.spotify.com/artist/5PwYRKSiUP0uoN8Sx297jt), [Bob Foster](https://open.spotify.com/artist/3mwBLqFP3annV3WpUDb4Xv), [Kendel Carson](https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg) | [The Songs of Tell Tale Harbour](https://open.spotify.com/album/1lPvKp6bBWyYiEYwtC3gUC) | 1:35 | 2022-08-17 |  |
 | [Running Down to Cuba](https://open.spotify.com/track/7I5Io7uuk6kFvFe16Wm3xZ) | [Michiel Schrey](https://open.spotify.com/artist/2KgIhGBEJK4W6Uw5WVeoaV), [Sean Dagher](https://open.spotify.com/artist/5JgxqXmh1TrVDZn7gAgqLw), [Nils Brown](https://open.spotify.com/artist/42cM14lDAB0KzoBWQ86TWu) | [Assassin's Creed 4: Black Flag \(Sea Shanty Edition\) \[Original Game Soundtrack\]](https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi) | 1:29 | 2022-03-10 |  |
 | [Rye Whiskey](https://open.spotify.com/track/5Pnb6NnOVs5ZWRpKTphvKq) | [The Pirates Charles](https://open.spotify.com/artist/0fjtn0AzKbAlIsJMC3Xmd1) | [Rise](https://open.spotify.com/album/6QHyrmOH2XsjEWiWfRuOju) | 4:06 | 2022-03-10 |  |
 | [Santiana](https://open.spotify.com/track/21Jm43WPaIsv82UJsPkMF0) | [The Longest Johns](https://open.spotify.com/artist/5k979N1TnPncUyqlXlaRSv) | [Between Wind And Water](https://open.spotify.com/album/0czdThetfLyCdGpAF2dRqR) | 2:54 | 2022-06-29 |  |

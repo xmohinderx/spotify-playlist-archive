@@ -1,12 +1,12 @@
 {
   "description": "Fast cars, zombie love, and psychobilly freakouts!",
-  "num_followers": 143052,
+  "num_followers": 143138,
   "original_name": "Hot Rods & Horror Shows",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMGZhNDkzM2Q2NGZkMjJmYTJlODBlOTNiMjI4YzNkZWIw",
+  "snapshot_id": "MTYxMDgxNTY3NSwwMDAwMDAwMDIxMjAxODdlZjI2MTZkOWRkNmUyOTZlZWVjMTMwZWFi",
   "tracks": [
     {
       "added_at": "2021-01-16 16:47:50",
@@ -431,18 +431,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Decade of Decay \u2013 the Gravest Hits of Bzfos",
-        "url": "https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE"
+        "name": "Songs of Unspeakable Terror",
+        "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
       },
       "artists": [
         {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+          "name": "Bloody Hammers",
+          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
         }
       ],
-      "duration_ms": 227120,
-      "name": "Monster Mutant Boogie",
-      "url": "https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS"
+      "duration_ms": 198480,
+      "name": "A Night to Dismember",
+      "url": "https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -463,6 +463,22 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
+        "name": "Decade of Decay \u2013 the Gravest Hits of Bzfos",
+        "url": "https://open.spotify.com/album/7Lvr4EH8brRQ2iO2MGA3IE"
+      },
+      "artists": [
+        {
+          "name": "Bloodsucking Zombies from outer Space",
+          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Monster Mutant Boogie",
+      "url": "https://open.spotify.com/track/52DIHgGz4qDzxIYBS1EzmS"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
         "name": "Yet Not Human",
         "url": "https://open.spotify.com/album/5NbtaLyBInCV08m1qqayUn"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 185958,
       "name": "Rebirth",
       "url": "https://open.spotify.com/track/5HrTdDEXCIvDw8hpVizq1E"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
-        "name": "Songs of Unspeakable Terror",
-        "url": "https://open.spotify.com/album/18WFSTsaFEFNG9P5jM5gxM"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hammers",
-          "url": "https://open.spotify.com/artist/6MC1i9hToT9dRxdN4hIHEW"
-        }
-      ],
-      "duration_ms": 198480,
-      "name": "A Night to Dismember",
-      "url": "https://open.spotify.com/track/6Oz1iTAMTFQiOVxHZhNlYQ"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -611,22 +611,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "All These Fiendish Things",
-        "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
-      },
-      "artists": [
-        {
-          "name": "Bloodsucking Zombies from outer Space",
-          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "Night Flier",
-      "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Be My End",
         "url": "https://open.spotify.com/album/6zNt1H80jWVERyW4UyVjq0"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 158545,
       "name": "Be My End",
       "url": "https://open.spotify.com/track/5tp1SK9wnHy3onxp3CrmXe"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "All These Fiendish Things",
+        "url": "https://open.spotify.com/album/5YQHYdhHRa5D5B6e6Er3hj"
+      },
+      "artists": [
+        {
+          "name": "Bloodsucking Zombies from outer Space",
+          "url": "https://open.spotify.com/artist/0KqznEOu3uw5H643xIvlq9"
+        }
+      ],
+      "duration_ms": 209973,
+      "name": "Night Flier",
+      "url": "https://open.spotify.com/track/5hrSN6pRbv7ldRA8lFqMuC"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -691,22 +691,6 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Love Tattoo",
-        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
-      },
-      "artists": [
-        {
-          "name": "Imelda May",
-          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "Johnny Got A Boom Boom",
-      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
-    },
-    {
-      "added_at": "2021-01-16 16:47:50",
-      "album": {
         "name": "Big City Lights",
         "url": "https://open.spotify.com/album/5YKlWkVRpjt0lvV6hxe6gi"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178000,
       "name": "Come A Little Closer",
       "url": "https://open.spotify.com/track/4Tel3fqGkIkhK9hvS9mj63"
+    },
+    {
+      "added_at": "2021-01-16 16:47:50",
+      "album": {
+        "name": "Love Tattoo",
+        "url": "https://open.spotify.com/album/16s0XOdNFDoBnhY81QYY3H"
+      },
+      "artists": [
+        {
+          "name": "Imelda May",
+          "url": "https://open.spotify.com/artist/6AnjHMqEAps8VJdHU8RykH"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "Johnny Got A Boom Boom",
+      "url": "https://open.spotify.com/track/1LRCCvucMksncuUk7h7g9e"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -755,18 +755,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "The Power of 3",
-        "url": "https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y"
+        "name": "Doctors & Churches",
+        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
       },
       "artists": [
         {
-          "name": "The Meteors",
-          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
+          "name": "Miss Vincent",
+          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
         }
       ],
-      "duration_ms": 181546,
-      "name": "Rockin' at the House of Strange",
-      "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"
+      "duration_ms": 210240,
+      "name": "Doctors & Churches",
+      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
     },
     {
       "added_at": "2021-01-16 16:47:50",
@@ -787,18 +787,18 @@
     {
       "added_at": "2021-01-16 16:47:50",
       "album": {
-        "name": "Doctors & Churches",
-        "url": "https://open.spotify.com/album/78ClJ6GN8613bqLx0BThJ5"
+        "name": "The Power of 3",
+        "url": "https://open.spotify.com/album/2gnRgPZJ0OqctKSfiap17y"
       },
       "artists": [
         {
-          "name": "Miss Vincent",
-          "url": "https://open.spotify.com/artist/2yvzGtFdv8dlpBqErEXPXx"
+          "name": "The Meteors",
+          "url": "https://open.spotify.com/artist/7a2sloQlmdKSmj3fwMMpg9"
         }
       ],
-      "duration_ms": 210240,
-      "name": "Doctors & Churches",
-      "url": "https://open.spotify.com/track/57C9ovU3HVtgSdHIjcnD6g"
+      "duration_ms": 181546,
+      "name": "Rockin' at the House of Strange",
+      "url": "https://open.spotify.com/track/1eTnInP2B470IIF2iOkzf8"
     },
     {
       "added_at": "2021-01-16 16:47:50",

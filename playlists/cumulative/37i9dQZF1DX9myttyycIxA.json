@@ -2724,6 +2724,24 @@
     },
     {
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N"
+      },
+      "artists": [
+        {
+          "name": "Tommy Lefroy",
+          "url": "https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169200,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL"
+    },
+    {
+      "album": {
         "name": "Doja Cat",
         "url": "https://open.spotify.com/album/4Mo70Mn9T9VcIiCH77VPol"
       },
@@ -6257,7 +6275,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 229195,
       "name": "Must Be a Cop",
       "url": "https://open.spotify.com/track/3EK8CQiAGRn8iXgzQO4J5Y"
@@ -6712,6 +6730,28 @@
     },
     {
       "album": {
+        "name": "Ocean",
+        "url": "https://open.spotify.com/album/1dBMg19trPIuXYKt70snYC"
+      },
+      "artists": [
+        {
+          "name": "Young Jesus",
+          "url": "https://open.spotify.com/artist/7pq7EnlN1IHSyffRTklSqP"
+        },
+        {
+          "name": "Tomberlin",
+          "url": "https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281146,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1HcgUrKSisYAtSOosxNVFE"
+    },
+    {
+      "album": {
         "name": "off the grid",
         "url": "https://open.spotify.com/album/0NKBvnl8MUkjXR9takqRVI"
       },
@@ -7163,7 +7203,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 199000,
       "name": "Pretty",
       "url": "https://open.spotify.com/track/5rg2cr5aokhrm5gQNpyHXi"

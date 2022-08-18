@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGmBAqGWLG1.md) - [plain]
 
 > Escuchá la banda de sonido de La Serie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,750 likes - 49 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,754 likes - 49 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

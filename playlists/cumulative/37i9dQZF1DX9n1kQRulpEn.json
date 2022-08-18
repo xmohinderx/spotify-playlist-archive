@@ -37,7 +37,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 377000,
       "name": "900",
       "url": "https://open.spotify.com/track/0KoDN3WUZdpYRGnaH4vXwm"
@@ -712,6 +712,24 @@
     },
     {
       "album": {
+        "name": "This Here Is Bobby Timmons",
+        "url": "https://open.spotify.com/album/2kWl3HOLorETEmR8GBWrHX"
+      },
+      "artists": [
+        {
+          "name": "Bobby Timmons",
+          "url": "https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 324160,
+      "name": "Dat Dere",
+      "url": "https://open.spotify.com/track/5DLMl8htquCxvOnO1k60dy"
+    },
+    {
+      "album": {
         "name": "Jubilation! Celebrating Cannonball Adderley",
         "url": "https://open.spotify.com/album/7kEkIBO5Yd62koWjRR3j01"
       },
@@ -727,7 +745,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 422403,
       "name": "Del Sasser",
       "url": "https://open.spotify.com/track/3IWp07UL6dh4kEQlG0xZPL"
@@ -985,7 +1003,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 398920,
       "name": "Hoe Down",
       "url": "https://open.spotify.com/track/21yAA8fIZEYrfITyQqcL3U"
@@ -1057,7 +1075,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 366920,
       "name": "I'm an Old Cowhand",
       "url": "https://open.spotify.com/track/25pu9QeS7jArSXDaoDb5wz"
@@ -1079,6 +1097,24 @@
       "duration_ms": 435986,
       "name": "Inner Urge",
       "url": "https://open.spotify.com/track/35DNc0UGHEBHXGFoNBpioc"
+    },
+    {
+      "album": {
+        "name": "The Historic Donaueschingen Jazz Concert 1957 (Live)",
+        "url": "https://open.spotify.com/album/7frb8B9xg2eOx1gM54IWem"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311988,
+      "name": "J. B. Blues - Live",
+      "url": "https://open.spotify.com/track/78E9yL69VAWEx0XkSmsyqd"
     },
     {
       "album": {
@@ -1499,7 +1535,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 305655,
       "name": "Night Drive with Ornette",
       "url": "https://open.spotify.com/track/4jLv4eukwFEYArA4CehonQ"
@@ -1601,7 +1637,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 315893,
       "name": "One For Newk - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/3f3wxyntMNxbDB6ij3tJLz"
@@ -1821,7 +1857,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 451560,
       "name": "Rhubarb",
       "url": "https://open.spotify.com/track/2zuMEXTZ2hYiATJTgrTho9"
@@ -2479,7 +2515,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 419160,
       "name": "The Wobbler",
       "url": "https://open.spotify.com/track/7aiZS7kjkHTtpSZudOHYQe"

@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 44947,
+  "num_followers": 44939,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDUyMWU0ZTY0ZDA4MzBmNDViNTQ5ZjgwMmNlMjJkY2E2",
+  "snapshot_id": "MTY0MDA5MDkzOSwwMDAwMDAwMDQzODMzNjdlZTBmMDFkYjc3NzkwMjNlNDc2ZTlmYTc2",
   "tracks": [
     {
       "added_at": "2021-12-21 12:48:59",
@@ -103,6 +103,22 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "Behold",
+        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 195252,
+      "name": "What Child Is This?",
+      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "Together Again",
         "url": "https://open.spotify.com/album/63ioxWaTiiVPgDWaR53by6"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 194133,
       "name": "A Child Is Born",
       "url": "https://open.spotify.com/track/5DqobGKm29qWFJxFCzVrFO"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "Behold",
-        "url": "https://open.spotify.com/album/1Yn7YD40ikGVNPDQklj4rX"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 195252,
-      "name": "What Child Is This?",
-      "url": "https://open.spotify.com/track/2OWHlfjpe1GwUp9s0F6uXF"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -223,22 +223,6 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
-      },
-      "artists": [
-        {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        }
-      ],
-      "duration_ms": 195173,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
         "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
         "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 226426,
       "name": "An Old Fashioned Christmas",
       "url": "https://open.spotify.com/track/7b3EE8oiI8Cu7sfDO46zs8"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
+      },
+      "artists": [
+        {
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        }
+      ],
+      "duration_ms": 195173,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -607,18 +607,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Have Yourself a Soulful Little Christmas",
-        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
       },
       "artists": [
         {
-          "name": "Kenny Burrell",
-          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
         }
       ],
-      "duration_ms": 227920,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
+      "duration_ms": 170000,
+      "name": "What Are You Doing New Year's Eve",
+      "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -639,18 +639,18 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+        "name": "Have Yourself a Soulful Little Christmas",
+        "url": "https://open.spotify.com/album/2qecynSla5V5qcg8Xdqzgw"
       },
       "artists": [
         {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+          "name": "Kenny Burrell",
+          "url": "https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB"
         }
       ],
-      "duration_ms": 170000,
-      "name": "What Are You Doing New Year's Eve",
-      "url": "https://open.spotify.com/track/0K5JvHdRiqnMKtNfDfljJx"
+      "duration_ms": 227920,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/0kuQpE8kmDdQ7GHyK7VV6N"
     },
     {
       "added_at": "2021-12-21 12:48:59",
@@ -755,6 +755,26 @@
     {
       "added_at": "2021-12-21 12:48:59",
       "album": {
+        "name": "The Christmas Feeling",
+        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
+      },
+      "artists": [
+        {
+          "name": "Peter Asplund",
+          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
+        },
+        {
+          "name": "Vivian Buczek",
+          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
+        }
+      ],
+      "duration_ms": 298813,
+      "name": "Christmas Memories",
+      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
+    },
+    {
+      "added_at": "2021-12-21 12:48:59",
+      "album": {
         "name": "A Nancy Wilson Christmas",
         "url": "https://open.spotify.com/album/5tI1MB1rVlks6MYEPARQI1"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 177293,
       "name": "Christmas Blues",
       "url": "https://open.spotify.com/track/3zGmF8FaNTnHq25YlWYhIQ"
-    },
-    {
-      "added_at": "2021-12-21 12:48:59",
-      "album": {
-        "name": "The Christmas Feeling",
-        "url": "https://open.spotify.com/album/2PAGkZAGKuOT3SWqoLwNLx"
-      },
-      "artists": [
-        {
-          "name": "Peter Asplund",
-          "url": "https://open.spotify.com/artist/3gCWfv5obnwNI5vF6PTAwz"
-        },
-        {
-          "name": "Vivian Buczek",
-          "url": "https://open.spotify.com/artist/7pvJqc7hW0HQjoa89jfDPq"
-        }
-      ],
-      "duration_ms": 298813,
-      "name": "Christmas Memories",
-      "url": "https://open.spotify.com/track/1g7y6l9D4nd9N0f34sNHyy"
     },
     {
       "added_at": "2021-12-21 12:48:59",

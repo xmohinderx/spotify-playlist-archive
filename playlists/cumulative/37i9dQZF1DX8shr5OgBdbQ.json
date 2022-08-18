@@ -962,6 +962,40 @@
     },
     {
       "album": {
+        "name": "The Songs of Tell Tale Harbour",
+        "url": "https://open.spotify.com/album/1lPvKp6bBWyYiEYwtC3gUC"
+      },
+      "artists": [
+        {
+          "name": "Alan Doyle",
+          "url": "https://open.spotify.com/artist/2PBvv7vrSx0SVp3Fz0loqL"
+        },
+        {
+          "name": "Jahlen Barnes",
+          "url": "https://open.spotify.com/artist/3f0ayxoDQhKJkAIVRWT9K5"
+        },
+        {
+          "name": "Alana Hibbert",
+          "url": "https://open.spotify.com/artist/5PwYRKSiUP0uoN8Sx297jt"
+        },
+        {
+          "name": "Bob Foster",
+          "url": "https://open.spotify.com/artist/3mwBLqFP3annV3WpUDb4Xv"
+        },
+        {
+          "name": "Kendel Carson",
+          "url": "https://open.spotify.com/artist/2W8FruCxhU62g9jJ8cJESg"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 95000,
+      "name": "Round For the House",
+      "url": "https://open.spotify.com/track/70iUFGZc3oQi4dJ3F3hwA0"
+    },
+    {
+      "album": {
         "name": "Assassin's Creed 4: Black Flag (Sea Shanty Edition) [Original Game Soundtrack]",
         "url": "https://open.spotify.com/album/2lMgz2BBwwzkc9ZfNB9zYi"
       },

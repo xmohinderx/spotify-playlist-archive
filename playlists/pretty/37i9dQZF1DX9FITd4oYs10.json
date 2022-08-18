@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 12941,
+  "num_followers": 12982,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMGI0YjkwMzk5Y2QwZjZmZjUzZTMzZGQxMjE2NjQzZGY1",
+  "snapshot_id": "MTY1OTM5MDIyNSwwMDAwMDAwMDFlNjFlYzEzOGRmNThlMGRiZmFjZmY4NzQ0NDdmY2Fm",
   "tracks": [
     {
       "added_at": "2022-08-01 21:43:45",
@@ -827,6 +827,22 @@
     {
       "added_at": "2022-08-01 21:43:45",
       "album": {
+        "name": "Relic\u00e1rio",
+        "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
+      },
+      "artists": [
+        {
+          "name": "Menestrel",
+          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
+        }
+      ],
+      "duration_ms": 191933,
+      "name": "Relic\u00e1rio",
+      "url": "https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7"
+    },
+    {
+      "added_at": "2022-08-01 21:43:45",
+      "album": {
         "name": "Sensa\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/6PldTF2mMFrxvlb6YAFRD1"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 272004,
       "name": "Sensa\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6wqRHXRG301Xedy3wBCCwo"
-    },
-    {
-      "added_at": "2022-08-01 21:43:45",
-      "album": {
-        "name": "Relic\u00e1rio",
-        "url": "https://open.spotify.com/album/6qp8a3Tx1FRR70uoa6xcWR"
-      },
-      "artists": [
-        {
-          "name": "Menestrel",
-          "url": "https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT"
-        }
-      ],
-      "duration_ms": 191933,
-      "name": "Relic\u00e1rio",
-      "url": "https://open.spotify.com/track/60CZZExLs2g78by2XrDBC7"
     },
     {
       "added_at": "2022-08-01 21:43:45",

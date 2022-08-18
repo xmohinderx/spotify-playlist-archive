@@ -1,13 +1,29 @@
 {
   "description": "Cover Artist: Nothing More &amp; Primal Darkness                                                  Rock out while you work out! Follow for updates!",
-  "num_followers": 57026,
+  "num_followers": 57025,
   "original_name": "Hard Rock Workout",
   "owner": {
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "MTc4MyxjMjYyMTFmYzk0ZTBmZTkxZmRkMDIxZDI1NGIwODdjOWViOTk3MWNj",
+  "snapshot_id": "MTc5MywxODc0YWY2YjJkZjNkMjIxYmZmOTEyNTkyNjQxZTc3NWVlMmQ2NWQ5",
   "tracks": [
+    {
+      "added_at": "2022-08-17 19:31:15",
+      "album": {
+        "name": "YOU DON\u2019T KNOW WHAT LOVE MEANS",
+        "url": "https://open.spotify.com/album/1BfOMEIpEQE8Xj2yYJLHPR"
+      },
+      "artists": [
+        {
+          "name": "NOTHING MORE",
+          "url": "https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc"
+        }
+      ],
+      "duration_ms": 248946,
+      "name": "YOU DON'T KNOW WHAT LOVE MEANS",
+      "url": "https://open.spotify.com/track/2Ktf2I6JdWIczgrBpLEnXn"
+    },
     {
       "added_at": "2022-07-25 20:43:18",
       "album": {
@@ -223,6 +239,70 @@
       "duration_ms": 160493,
       "name": "War?",
       "url": "https://open.spotify.com/track/5Q7m1Km199HHMB926xxbrs"
+    },
+    {
+      "added_at": "2022-08-17 19:32:04",
+      "album": {
+        "name": "The Retaliators Theme Song (21 Bullets) [feat. Motley Crue, Asking Alexandria, Ice Nine Kills, From Ashes To New]",
+        "url": "https://open.spotify.com/album/5vyHnq2QdGJWMzjrjn4S6k"
+      },
+      "artists": [
+        {
+          "name": "The Retaliators",
+          "url": "https://open.spotify.com/artist/0DqFxv4ZnxzDc6KPt6cUD5"
+        },
+        {
+          "name": "M\u00f6tley Cr\u00fce",
+          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
+        },
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        },
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 242336,
+      "name": "The Retaliators Theme (21 Bullets) (feat. M\u00f6tley Cr\u00fce, Asking Alexandria, Ice Nine Kills, From Ashes To New)",
+      "url": "https://open.spotify.com/track/3iEmgajStVBooooNaltdOv"
+    },
+    {
+      "added_at": "2022-08-17 19:33:09",
+      "album": {
+        "name": "Black Thunder",
+        "url": "https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv"
+      },
+      "artists": [
+        {
+          "name": "The HU",
+          "url": "https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Black Thunder",
+      "url": "https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy"
+    },
+    {
+      "added_at": "2022-06-10 10:45:36",
+      "album": {
+        "name": "Welcome To The Circus",
+        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 256741,
+      "name": "Welcome To The Circus",
+      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     },
     {
       "added_at": "2021-10-29 11:52:27",
@@ -2559,22 +2639,6 @@
       "duration_ms": 210175,
       "name": "Bottom of The Top",
       "url": "https://open.spotify.com/track/4MCko2lInqpb0hKRZxRdGz"
-    },
-    {
-      "added_at": "2022-06-10 10:45:36",
-      "album": {
-        "name": "Welcome To The Circus",
-        "url": "https://open.spotify.com/album/4UlXCia6g1ERBw4XjinURw"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 256741,
-      "name": "Welcome To The Circus",
-      "url": "https://open.spotify.com/track/1r3PWB1ZzxrPsIj2DNoa10"
     }
   ],
   "unique_name": "Hard Rock Workout",

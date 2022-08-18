@@ -1093,6 +1093,28 @@
     {
       "album": {
         "name": "Njiwa",
+        "url": "https://open.spotify.com/album/2kE28W8yYhQob3RY9v7Iqj"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/5rc8E6DVPnRrYDIqYv4HhH"
+        },
+        {
+          "name": "Willy Paul",
+          "url": "https://open.spotify.com/artist/3CCHaNvCKYNWWrAYo5C8TL"
+        }
+      ],
+      "date_added": "2022-02-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258220,
+      "name": "Njiwa",
+      "url": "https://open.spotify.com/track/4vQv5HRVJs89gKdbRb7Uro"
+    },
+    {
+      "album": {
+        "name": "Njiwa",
         "url": "https://open.spotify.com/album/68mKgdafZqoom8qgiRBQLa"
       },
       "artists": [
@@ -1107,7 +1129,7 @@
       ],
       "date_added": "2022-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 258220,
       "name": "Njiwa",
       "url": "https://open.spotify.com/track/25JonxVTCZOIul9uyv3ff6"

@@ -55,7 +55,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -139,7 +139,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 115426,
       "name": "Beat Boutique",
       "url": "https://open.spotify.com/track/0rjIUB7ZevwjJiybEIuQIo"
@@ -379,7 +379,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 181977,
       "name": "Cool Cruiser",
       "url": "https://open.spotify.com/track/5STTE3rxT5B8GpqoxBhmTO"
@@ -695,7 +695,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 132570,
       "name": "Hastle",
       "url": "https://open.spotify.com/track/5mEMZUryDazoP7uY6ZXgWC"
@@ -812,6 +812,28 @@
     },
     {
       "album": {
+        "name": "Bootleg Beats",
+        "url": "https://open.spotify.com/album/5VeLluSageWRYdDLnWKY22"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        },
+        {
+          "name": "Adam Mills",
+          "url": "https://open.spotify.com/artist/3yvNDjWsj4naAfKrhWvH1m"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117228,
+      "name": "Lounging at Dave's",
+      "url": "https://open.spotify.com/track/5byTzKp9kbMCG5miJ7NJZe"
+    },
+    {
+      "album": {
         "name": "High Drama",
         "url": "https://open.spotify.com/album/6nVKvvfOnN3rB2lui1tMZr"
       },
@@ -859,7 +881,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-12",
+      "date_removed": null,
       "duration_ms": 154173,
       "name": "Man on the Move",
       "url": "https://open.spotify.com/track/40QHBWHk8P25QWIzZXjs1x"
@@ -881,7 +903,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-13",
+      "date_removed": null,
       "duration_ms": 264352,
       "name": "Marrakech",
       "url": "https://open.spotify.com/track/5g8V7qpugfxt7rKyL7oEwB"
@@ -979,7 +1001,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 169215,
       "name": "Mystique Voyage",
       "url": "https://open.spotify.com/track/4sgv8AIbpS2ABbxVtiOCCc"
@@ -1177,7 +1199,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 80600,
       "name": "Regent Street",
       "url": "https://open.spotify.com/track/6jONUb62DB6QS22Lk06FmB"
@@ -1213,7 +1235,7 @@
       ],
       "date_added": "2022-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 135533,
       "name": "Rocky Mountain Runabout",
       "url": "https://open.spotify.com/track/0onhMFZBampcxMxkIDxmU0"
@@ -1271,7 +1293,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-16",
+      "date_removed": null,
       "duration_ms": 242125,
       "name": "Serengeti",
       "url": "https://open.spotify.com/track/06K7wmMQ4rBkOv3LRTuqiR"
@@ -1289,7 +1311,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 217218,
       "name": "Sheer Elegance",
       "url": "https://open.spotify.com/track/1grBclN9HxtPvCsPsQ69Dj"
@@ -1631,7 +1653,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 146214,
       "name": "Weekend",
       "url": "https://open.spotify.com/track/40JxNRnTUrSsWqs2mRM4TS"
@@ -1671,7 +1693,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-17",
+      "date_removed": null,
       "duration_ms": 177333,
       "name": "Work Out",
       "url": "https://open.spotify.com/track/0kf25bZM9C8ejuDlYpg3eT"

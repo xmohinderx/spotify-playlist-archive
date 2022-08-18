@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > Fresh releases from Latin independent artists and labels\. Lanzamientos frescos de artistas y sellos latinxs independientes\. musica gratis & Juana Rozas on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,163 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,166 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 15 | [Nevel](https://open.spotify.com/track/6wZ02O2sdWq8uUTpKyA7l2) | [YUNG BOI](https://open.spotify.com/artist/2IZTXLWKJGbmFiqly8VmvG) | [Amanece](https://open.spotify.com/album/4tKJLsb1LZLuJ09coedQqo) | 2:14 |
 | 16 | [Natural](https://open.spotify.com/track/03SLmnUTzDVHThnuFsZhcK) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Natural](https://open.spotify.com/album/4BLjShadSxoIYj899qy8Tw) | 3:28 |
 | 17 | [Viernes 13](https://open.spotify.com/track/6FDpPn3yrzqGd1Ga15Ju4O) | [Eflexx](https://open.spotify.com/artist/1Hn4pH541qMOF6J8F3jprI), [60k Cvndy](https://open.spotify.com/artist/3DYX3dAFVcFm28EObj4j3x) | [Viernes 13](https://open.spotify.com/album/4jgvk03mDBT8TEnm72Rtgv) | 1:39 |
-| 18 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 |
-| 19 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
+| 18 | [Negro](https://open.spotify.com/track/09hvR9r7vIxdNDS8Jcylb5) | [Mayra Cárdenas](https://open.spotify.com/artist/2WqHyrHA3jRZWmTFTIynZ1) | [Negro](https://open.spotify.com/album/47nXLO7WVGjNijy7I7cEpT) | 4:05 |
+| 19 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 |
 | 20 | [HASTA QUE VUELVA A NACER](https://open.spotify.com/track/4M1qy4gik7rB7x6ghabyCs) | [BAJOCERO](https://open.spotify.com/artist/0zry48rNmbs7Qd3gM4YkEq) | [HASTA QUE VUELVA A NACER](https://open.spotify.com/album/1k5OWhbf77VJkyvvknzi4p) | 2:26 |
 | 21 | [Caracoles](https://open.spotify.com/track/7D2iqTnsZi9KQKUu5BOd2b) | [Ferna](https://open.spotify.com/artist/58FJ0VvcKAYY89TFOczBfK) | [Caracoles](https://open.spotify.com/album/4o4IPuj2n9rgsgfP44cQ9E) | 2:59 |
 | 22 | [Todos los males del mundo](https://open.spotify.com/track/2lfWlv2m3SNVwXU3byZYbs) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA), [Pablo Lesuit](https://open.spotify.com/artist/4lA8TrVb4WS2bcyqaokXaT), [Adrie](https://open.spotify.com/artist/4RuSib7ZtJd4SI61XGkCto) | [Todos los males del mundo](https://open.spotify.com/album/7IuScTr4oggpnAse4t8G4m) | 2:56 |
-| 23 | [Vivo, Nasty](https://open.spotify.com/track/0FB4hbyCJsask8UEFwmTct) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [Vivo, Nasty](https://open.spotify.com/album/7BQfeXcKCpnyCMB62DTthq) | 3:25 |
-| 24 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
+| 23 | [Hoy Dejé De Llorar](https://open.spotify.com/track/7mQyrhiwZf5xOIr0klasjZ) | [Sonia Z](https://open.spotify.com/artist/27UX8NEXtI5CrpnqSAJWuh), [LA LOU](https://open.spotify.com/artist/75w81Tb6ENWrHm71RDYsof) | [Hoy Dejé De Llorar](https://open.spotify.com/album/4PM1GeOZpI3cP8329Plp1D) | 2:31 |
+| 24 | [Vivo, Nasty](https://open.spotify.com/track/0FB4hbyCJsask8UEFwmTct) | [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7) | [Vivo, Nasty](https://open.spotify.com/album/7BQfeXcKCpnyCMB62DTthq) | 3:25 |
 | 25 | [Huracan](https://open.spotify.com/track/3qJ26P2dLkSp5PxxGWVKBF) | [Sara Ontaneda](https://open.spotify.com/artist/3gNLzb7aAJ0ZfUkyEvomsC) | [Huracan](https://open.spotify.com/album/4FPzcCgliOsV62ZYXk9xqi) | 3:04 |
 | 26 | [Fumar en el Cine](https://open.spotify.com/track/4U4gAOrhVCaCz1qdV4cT5z) | [Cítrico](https://open.spotify.com/artist/00CoCNLLdB7cWFgA8NG5q9), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Fumar en el Cine](https://open.spotify.com/album/3U1fAnbdelWZ3dKxCISPvr) | 3:20 |
 | 27 | [Cables](https://open.spotify.com/track/0Xu5v9Ip6EM4zlQPMpbt1P) | [BICHA](https://open.spotify.com/artist/1vKbeZ75wHSMkcw2CisYbl) | [Cables](https://open.spotify.com/album/4lnhke8dhD04dReOJt39Vy) | 2:33 |
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 29 | [Otra Temporada](https://open.spotify.com/track/6QLWfSMC5xy7l3RN02IkdF) | [Media Hermana](https://open.spotify.com/artist/0oa0TL1V6tfg7ERfm2sMiE), [Santiago Palacios](https://open.spotify.com/artist/5qMJSUGULtqZMQ1nTXNB2I) | [Otra Temporada](https://open.spotify.com/album/7rhPutrEYnhtontH4puTpJ) | 4:01 |
 | 30 | [Humo](https://open.spotify.com/track/6zMrs96ltfF9YrXDuaGbku) | [Gletcher](https://open.spotify.com/artist/1koh2JIk9Q42FNn0llOpdi) | [Humo](https://open.spotify.com/album/7GXHP9ky24SraHw4kuCC2k) | 3:42 |
 | 31 | [El Modo](https://open.spotify.com/track/5xGWm9iIIXimUuZj9r7n0T) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ) | [El Modo](https://open.spotify.com/album/1kw9zmGzt5UUXLygT33LRS) | 4:16 |
-| 32 | [A Medias](https://open.spotify.com/track/3NH7Cdm2G8zLZi8IqJ8gTn) | [Salazar](https://open.spotify.com/artist/73X4fppU5NABqeJgfX8nnf), [Blvck Reyes](https://open.spotify.com/artist/6xlYWUlopRTwGr2oOPa426) | [A Medias](https://open.spotify.com/album/6nCNu4TnCgP06u4TrP9UyD) | 2:40 |
-| 33 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
-| 34 | [Ecos](https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Ecos](https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ) | 3:32 |
+| 32 | [Espejos](https://open.spotify.com/track/6a6Zy6G2kqpavrBdw07Z5G) | [Mimi Rose](https://open.spotify.com/artist/0gm0s1Jbc0lIuzDLHH1SYB) | [Lo que no ves](https://open.spotify.com/album/1VS6jRkmlTR5IlbxNsDFGW) | 2:15 |
+| 33 | [Ecos](https://open.spotify.com/track/5Ap6XYlUXlyDyEXdP70htc) | [Cerro Dublín](https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7) | [Ecos](https://open.spotify.com/album/4Yojme5Y0iF4NDmsbUuRfZ) | 3:32 |
+| 34 | [A Medias](https://open.spotify.com/track/3NH7Cdm2G8zLZi8IqJ8gTn) | [Salazar](https://open.spotify.com/artist/73X4fppU5NABqeJgfX8nnf), [Blvck Reyes](https://open.spotify.com/artist/6xlYWUlopRTwGr2oOPa426) | [A Medias](https://open.spotify.com/album/6nCNu4TnCgP06u4TrP9UyD) | 2:40 |
 | 35 | [azúcar](https://open.spotify.com/track/7ijx9EtHx1ImdRkC9LQoJW) | [mau](https://open.spotify.com/artist/0ZURfcYcS9GldV99dbHWCr) | [azúcar](https://open.spotify.com/album/5dugwIhpvF8pm3DfGeVsBL) | 2:03 |
 | 36 | [Mi Lugar](https://open.spotify.com/track/6KAZ0FZgGR1uh7IupPnhxy) | [cata rec](https://open.spotify.com/artist/6FuVz60JBS0jAVEpDzdY2A) | [Mi Lugar](https://open.spotify.com/album/3UPvbNI1syOcOrvNdxPV2C) | 2:53 |
 | 37 | [Marisol](https://open.spotify.com/track/4iOe9PEYklFUXJMJAg7JDG) | [Aquiles Moon](https://open.spotify.com/artist/1UejGxMb9Ad1LkvLbphlq4), [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Marisol](https://open.spotify.com/album/2EuAUwiVcfAFrVQaKmHFtJ) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 49 | [Reporte de Noche](https://open.spotify.com/track/0VfbwhLCU5RoURk2fx8z8F) | [Aerobot](https://open.spotify.com/artist/7BO2i1MVKhUrwQHFBkvBfQ) | [Reporte de Noche](https://open.spotify.com/album/37tTyLymHPCuxMJ0J433zv) | 3:26 |
 | 50 | [Ser \(Cuna Nueva\)](https://open.spotify.com/track/6hwuyhh0RjFL1UOLq6YEwn) | [Mario Amarilla](https://open.spotify.com/artist/7upGAc8LqNX6CwxtJj0VI3) | [Habitar](https://open.spotify.com/album/3tpKaE9HTWamxY5njATfGB) | 4:51 |
 
-Snapshot ID: `MTY2MDEwNzYwMCwwMDAwMDAwMDE5ZWRkYzJiNTVhMjk0OTRmY2RlZmVhMGVlMTNjYjYy`
+Snapshot ID: `MTY2MDEwNzYwMCwwMDAwMDAwMGU3ZmNhODA4Mjc4MzNmNzMxZjNlYmQzYjhjZGM3YmQz`

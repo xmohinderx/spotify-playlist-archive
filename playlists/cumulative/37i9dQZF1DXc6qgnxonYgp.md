@@ -4,7 +4,7 @@
 
 > Featuring today's dopest MCs.<br/>Cover : Hip Hop Tamizha
 
-134 songs - 8 hr 2 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
+135 songs - 8 hr 5 min - [published](https://open.spotify.com/playlist/2SIjOp6tcQivzahElH8QdC)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,8 @@
 | [Naan Yaar](https://open.spotify.com/track/2VHuE9Sz1tnqHcMyRxDB6R) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/4Zhr35lEc3bXeyXzPyj48c) | 3:05 | 2021-12-01 | 2022-07-29 |
 | [Naan Yaar](https://open.spotify.com/track/5d9alcJcZ8PKIyDOsFHsk7) | [Vijen](https://open.spotify.com/artist/2thb5pAKfufijFyRXQh0xR) | [Naan Yaar](https://open.spotify.com/album/0Vvu96doHMiLDUAT4RUOhG) | 3:05 | 2021-12-01 |  |
 | [Naanum Rowdy Dhan](https://open.spotify.com/track/4mW6qUbgy5gZOOWgsOMrHf) | [MC Jango](https://open.spotify.com/artist/4ETKTaJy7hLeCcJmxj5SJf) | [SIRAI](https://open.spotify.com/album/3ydiEA2Gmht52HdXXmfEcZ) | 3:05 | 2022-07-27 |  |
-| [Nagaram \(Bcb2 Remix\)](https://open.spotify.com/track/1qCqjch238s51lrkvJgxqc) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Tha Q](https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY), [Ruff Jana](https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT) | [Thula](https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs) | 3:15 | 2021-12-01 |  |
+| [Nagaram \(Bcb2 Remix\)](https://open.spotify.com/track/1qCqjch238s51lrkvJgxqc) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Tha Q](https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY), [Ruff Jana](https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT) | [Thula](https://open.spotify.com/album/2V8Q4wFKo9zci8eYggtfHs) | 3:15 | 2021-12-01 | 2022-08-18 |
+| [Nagaram \(Bcb2 Remix\)](https://open.spotify.com/track/4BEo25pBzNWC06bzadSkAd) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Tha Q](https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY), [Ruff Jana](https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT) | [Thula](https://open.spotify.com/album/1ZiHy43t34l6WJ8oXpjZW4) | 3:15 | 2021-12-01 |  |
 | [Nagaram Bcb2 \(Remix\) \[feat\. tha Q & Ruff Jana\]](https://open.spotify.com/track/2eeQFhb7gRB0lSZJJ4ogWM) | [Mc Sai](https://open.spotify.com/artist/4eZg8HhuJeHqjw7g1a02E9), [Tha Q](https://open.spotify.com/artist/0geLs9KTpcRlOe31eTD9gY), [Ruff Jana](https://open.spotify.com/artist/31bApG7752orvyE4YgQtqT) | [Thula](https://open.spotify.com/album/0XCydXuBYxqLEbUcAV9Syj) | 3:15 | 2021-12-01 | 2022-07-29 |
 | [Namma Stories](https://open.spotify.com/track/3TmyH58VMepcWFbtPRNlUC) | [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71), [SIRI](https://open.spotify.com/artist/41wifu6xToBViv1DGicbJj), [Hanumankind](https://open.spotify.com/artist/4nVa6XlBFlIkF6msW57PHp), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Kartik Shah](https://open.spotify.com/artist/3zSrMVeD3D3NghELeUK4Xb) | [Namma Stories](https://open.spotify.com/album/6eDPOLEhnYFjOo8SP5qkki) | 3:48 | 2021-12-01 |  |
 | [Nee Poonal](https://open.spotify.com/track/772Huc3dRgVniRvwqr2sZg) | [Neroshen](https://open.spotify.com/artist/0jfg5hubgI0U5lVX2rnUan) | [Nee Poonal](https://open.spotify.com/album/20a2xQJxz5CfI8wZ0sz2Dq) | 2:20 | 2021-12-01 |  |

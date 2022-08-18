@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 
 > Lyrical\. Legit\. This Pride vision of Folk, Americana, and Singer\-Songwriter music features LGBTQQIA+ acts and allies\. Cover: Angel Olsen
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,540 likes - 88 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,594 likes - 88 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 21 | [Wild Turkey](https://open.spotify.com/track/4aX4dqpYXTxRMTcjekxPyp) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wild Turkey](https://open.spotify.com/album/7iaq4ZxNNKZl9v92lOxQ7N) | 4:32 |
 | 22 | [First Time](https://open.spotify.com/track/03R9GOTrB56l1znR4j5jhR) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [The Greatest Part](https://open.spotify.com/album/1CZYxx4kb3EdV5Gl25vhST) | 2:43 |
 | 23 | [Up All Night](https://open.spotify.com/track/3z6QhS1zOdSSt6VevNJQMV) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Tasjan! Tasjan! Tasjan!](https://open.spotify.com/album/28OiUhh3Dl2HtgPOF5BFPg) | 3:05 |
-| 24 | [Here is a Heart](https://open.spotify.com/track/2Q1nBjqwQQQqwQ0CpIkmdO) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure](https://open.spotify.com/album/1T8PdV0KCGPIATvOyYJ66c) | 4:23 |
+| 24 | [Here is a Heart](https://open.spotify.com/track/0pMuYi969CAQ2gwJjR0Fgn) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Transmitter Failure \(Bonus Track Version\)](https://open.spotify.com/album/66BFEncEfO6c8zgKXWKBrZ) | 4:23 |
 | 25 | [Come What May](https://open.spotify.com/track/75xfI6mkO4352qCDcN95q4) | [Daisy O'Connor](https://open.spotify.com/artist/5mgASfRlHMBB97OZRD0bmC) | [Lightchasers](https://open.spotify.com/album/5jfpAKsqql4dsgW6GzosyU) | 3:14 |
 | 26 | [Capa de Revista](https://open.spotify.com/track/3d5B5nqP5r6aUDJYf4JPSN) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Capa de Revista](https://open.spotify.com/album/0wm8lBrvdnyzoaOMJoToN5) | 2:54 |
 | 27 | [Secrets \- Cellar Door](https://open.spotify.com/track/1WFTbfjtW9DsL2txiNYKyK) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [The Family Tree: The Leaves](https://open.spotify.com/album/6yVhQdTHZ7oKaT6ICfx1AM) | 4:25 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5TMFhaZc9ov.md) - [plain]
 | 87 | [Illuminate the Dark](https://open.spotify.com/track/2hgw4ZGGLwObz7a89jnyhZ) | [Tom Goss](https://open.spotify.com/artist/1zLAXcROEhMZL9IhVu5Vvh) | [Wait](https://open.spotify.com/album/5BqkJ6970fStH2JCAzKcnf) | 2:43 |
 | 88 | [All\-American Boy](https://open.spotify.com/track/7i2xzOJU1O7hrP8kqqBchZ) | [Steve Grand](https://open.spotify.com/artist/0oqk73d6vKVx8Ekz4onThW) | [All American Boy](https://open.spotify.com/album/40nTEfg3tTj1bptrG7IQU0) | 4:57 |
 
-Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMDYxMjhjNWFjOThlMzgzODdkZmE1YmU1YjI1ZDg0YWNl`
+Snapshot ID: `MTY1NDgzMzYwMCwwMDAwMDAwMGM2MmNlMDU3YjA2MDIyYjgzNTJhYzMxNGViODYyZmFi`

@@ -34,6 +34,24 @@
     },
     {
       "album": {
+        "name": "Ahatte Teppen\u2019",
+        "url": "https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA"
+      },
+      "artists": [
+        {
+          "name": "May'n",
+          "url": "https://open.spotify.com/artist/0JQH8OHvGdooprROP18Wg6"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209766,
+      "name": "Ahatte Teppen'",
+      "url": "https://open.spotify.com/track/1Ahd8RIuzNBZFwkH2AhYlR"
+    },
+    {
+      "album": {
         "name": "$HUFFLE",
         "url": "https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4"
       },

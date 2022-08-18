@@ -4,7 +4,7 @@
 
 > When the funk is just too funky for words to keep up.
 
-200 songs - 14 hr 10 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
+201 songs - 14 hr 14 min - [published](https://open.spotify.com/playlist/0VOQIkEXNtvvWCaWdPdkUl)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,13 +157,14 @@
 | [Royal Highness](https://open.spotify.com/track/42y27OIathcePEZFs5bYSk) | [Lettuce](https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8) | [Elevate](https://open.spotify.com/album/5gk2psRxpCHdMXMhZ6prYf) | 5:24 | 2020-11-13 |  |
 | [Rubberneck](https://open.spotify.com/track/4LplKZlHqBnibK932aTxKc) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [The Shakedown](https://open.spotify.com/album/6wKstFXknq7quU5pgIwZOr) | 3:21 | 2020-11-13 |  |
 | [S Rank](https://open.spotify.com/track/23Ww50OpRlSoEL1vLhdKNw) | [Cody Dear](https://open.spotify.com/artist/019crWCRkPjQjBnhKaafTV) | [Songs Like These](https://open.spotify.com/album/6CyBHWNGfph10i6q4cRysI) | 5:13 | 2020-11-13 | 2022-07-28 |
+| [Samson](https://open.spotify.com/track/6d2O45piXdSJ1ieRFuYYXn) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Lost Knights](https://open.spotify.com/album/06wmF4jhsHKfmqhKdAZfvi) | 3:42 | 2022-04-15 |  |
 | [Samson](https://open.spotify.com/track/7xAQ9zk5scU81sw6b7ksnS) | [Orgone](https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE) | [Samson](https://open.spotify.com/album/4oCLcthdqF1PLY9ZE6lmAi) | 3:42 | 2022-04-15 | 2022-07-29 |
 | [Sandra](https://open.spotify.com/track/7o2RSn34h4bvZdMWA0NoFo) | [Black Mantra](https://open.spotify.com/artist/1tBlcYKEE7iWjaZ8O9nEf5) | [VXNTX VXNTX](https://open.spotify.com/album/7xFQHkRtycWyYZ4O4fbP9l) | 3:11 | 2020-11-13 | 2022-07-24 |
 | [Saturday Morning](https://open.spotify.com/track/72KvdSoiLLrbTmeuh8wNsw) | [Funkwrench Blues](https://open.spotify.com/artist/1HefbPVFSMuXvPsE9EL1fs), [David D.R\. Robbins](https://open.spotify.com/artist/6djNiYf7SqY2NMGCG7zTyc) | [Saturday Morning](https://open.spotify.com/album/74ICzRbSJUOgMZ773OrEud) | 2:29 | 2022-04-29 |  |
 | [Saturn](https://open.spotify.com/track/19pDIVteJMebeU3KrB7rYR) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/4XipjE8vNOXj7Xc9FlD962) | 3:37 | 2020-11-13 |  |
 | [Saturn](https://open.spotify.com/track/1vgU4yZcYrAsAeYh5FeZ74) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi) | [The Olympians](https://open.spotify.com/album/2UkCnAUvgigPDKmVjw9dQR) | 3:37 | 2020-11-13 | 2022-07-29 |
 | [Say Goodbye](https://open.spotify.com/track/2Eblxsqy81aZDCjqJs3NAc) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG) | [Say Goodbye](https://open.spotify.com/album/2wzIY3mmvtjR0ejmZmbFrv) | 3:07 | 2020-11-13 | 2022-07-29 |
-| [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Nate Edgar](https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 | 2020-11-13 |  |
+| [Say Goodbye](https://open.spotify.com/track/1btR46PFIB5xnpIJJxniBB) | [Lucas de Mulder](https://open.spotify.com/artist/7g8fMHhsjLE4d5ItdVjdVQ), [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Nate Edgar](https://open.spotify.com/artist/5XJx5aio4PF3x4rdTkGmG0) | [Say Goodbye](https://open.spotify.com/album/5A2nu2JUX7DpEZ9koqOBaG) | 3:07 | 2020-11-13 | 2022-08-18 |
 | [Shine It](https://open.spotify.com/track/69xdPh6CEOpwcP4ZpReWmH) | [Medeski, Martin & Wood](https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw) | [End Of The World Party \(Just In Case\)](https://open.spotify.com/album/1hCxbfoen4fGGbbrE3pfZX) | 4:59 | 2020-11-13 |  |
 | [Shiny Boots](https://open.spotify.com/track/5cmB8ZZ9FDQ3D03BzRG5u0) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Piers Green](https://open.spotify.com/artist/2BD3op8zryBDr5nhRg2Pm8) | [Shiny Boots](https://open.spotify.com/album/6COvwsnQ4Qkzy8QjgRuhEd) | 4:33 | 2020-11-13 | 2022-07-17 |
 | [Since You Wonder](https://open.spotify.com/track/1hoRpaGSnypLeqiqByLtco) | [Family Company](https://open.spotify.com/artist/68TMIdW3csuFrzKleLKrM0) | [Since You Wonder](https://open.spotify.com/album/1kjrunpZTsPJ41i2fGRlU7) | 3:57 | 2021-04-09 | 2022-04-21 |

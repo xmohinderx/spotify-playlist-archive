@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXazaFUkKf7jt.md) - [plain]
 
 > Essential tracks from masterpiece RPG series, “SaGa”\. ゲーム史の変遷と共に歩み続け30年。数々の感動を生み続けるRPG「SaGa」シリーズの名曲たちをプレイリストで。
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,335 likes - 49 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,350 likes - 49 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

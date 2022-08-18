@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 
 > Brand new music from Steve Aoki’s Dim Mak Records, updated every Tuesday and Friday!
 
-[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,480 likes - 61 songs - 3 hr 5 min
+[Dim Mak Records](https://open.spotify.com/user/dimmakrecords) - 44,480 likes - 60 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,7 @@ pretty - [cumulative](/playlists/cumulative/6Gp3E89xD6vRQtuAKFizMo.md) - [plain]
 | 56 | [sunlight](https://open.spotify.com/track/6a3x9zlNGV7p0W1OiAqwsE) | [juuku](https://open.spotify.com/artist/2ixBQngmF4ZFXYHi8sJTfl) | [sunlight](https://open.spotify.com/album/2Mo4wiX9gCcL69yyCwhvdU) | 2:51 |
 | 57 | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \- Dr\. Fresch Remix](https://open.spotify.com/track/7wawZoPGDr6N559kjYJ8Ug) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Young Buck](https://open.spotify.com/artist/4pr7J7wzgObkE3DD3Izi7q), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX), [Dr\. Fresch](https://open.spotify.com/artist/1htHgbGwgCWJBfGiQwcRqC) | [Mawlee \(feat\. Young Buck & DJ Afterthought\) \[Remixes\]](https://open.spotify.com/album/10F4eR4qIrp52jK6H9DIcP) | 3:21 |
 | 58 | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/track/3p7IU6JT6C0gBs6YXCrLwx) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6) | [Tear You Apart \(feat\. Aaron Gillespie\)](https://open.spotify.com/album/6YkRHSL3FzJR0KRNPMYm2r) | 2:23 |
-| 59 | [End Of The World](https://open.spotify.com/track/25tekS8txsCQov85px1xm2) | [End of the World](https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs) | [End Of The World](https://open.spotify.com/album/31mDl63BV0n2ipUk8Mvigs) | 3:45 |
-| 60 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 |
-| 61 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 |
+| 59 | [Lights Out](https://open.spotify.com/track/0piqEtzcndLn6q4FTZMYGB) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [Lights Out](https://open.spotify.com/album/699pfQZ7g6XRHPeTC6Oxf0) | 3:18 |
+| 60 | [Frenzy](https://open.spotify.com/track/7aPb8EasDwT3CetqJPtZF6) | [Ivoryghost](https://open.spotify.com/artist/7bqVQ6CwlOmsuQ7QnhEBR8) | [Frenzy](https://open.spotify.com/album/4ImJzC49JzlIyi4xcgW5oo) | 3:18 |
 
-Snapshot ID: `NTg2Nyw1Y2U3OTMyMjI5ODdlYTJiNGVlNjc4NDEyMzc0MDQ0YTVjNzcxOGVi`
+Snapshot ID: `NTg2OCwxMmMzY2I0ZWEwMWU5OGE0YzRjOTE1Yzc3MmI3NmNkN2RjZWExOTFj`

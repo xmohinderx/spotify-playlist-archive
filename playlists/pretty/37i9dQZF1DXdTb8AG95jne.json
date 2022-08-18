@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: The Black Skirt(\uac80\uc815\uce58\ub9c8)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 388229,
+  "num_followers": 388412,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDMyOTAzMywwMDAwMDAwMDgzNGI3MDJjZjQzNzZlZTBiNjNiYmYyOThlYWMyMTc4",
+  "snapshot_id": "MTY2MDMyOTAzMywwMDAwMDAwMDhiYTc5YWUzZTY1ZDcwYzg0NjkzNzBlNDQ3MmNmYjM4",
   "tracks": [
     {
       "added_at": "2022-08-12 18:30:33",
@@ -595,6 +595,26 @@
     {
       "added_at": "2022-08-12 18:30:33",
       "album": {
+        "name": "naps!",
+        "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
+      },
+      "artists": [
+        {
+          "name": "1415",
+          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
+        },
+        {
+          "name": "WONPIL",
+          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
+        }
+      ],
+      "duration_ms": 205161,
+      "name": "naps!",
+      "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
+    },
+    {
+      "added_at": "2022-08-12 18:30:33",
+      "album": {
         "name": "RECONNECT",
         "url": "https://open.spotify.com/album/5xll0TV8daHI8mPW3R9SyC"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 243087,
       "name": "For the gone(with ELLE KOREA)",
       "url": "https://open.spotify.com/track/2yPFwTJ1tUSLH0D28u3153"
-    },
-    {
-      "added_at": "2022-08-12 18:30:33",
-      "album": {
-        "name": "naps!",
-        "url": "https://open.spotify.com/album/3EnlNFwmB3Lpf932SlGbMq"
-      },
-      "artists": [
-        {
-          "name": "1415",
-          "url": "https://open.spotify.com/artist/71JjZRW0sCWpF1EuaS9TQA"
-        },
-        {
-          "name": "WONPIL",
-          "url": "https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP"
-        }
-      ],
-      "duration_ms": 205161,
-      "name": "naps!",
-      "url": "https://open.spotify.com/track/2psNTcUeXlI5vBt0zgehpw"
     },
     {
       "added_at": "2022-08-12 18:30:33",
@@ -671,6 +671,22 @@
     {
       "added_at": "2022-08-12 18:30:33",
       "album": {
+        "name": "Answer",
+        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
+      },
+      "artists": [
+        {
+          "name": "homezone",
+          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
+        }
+      ],
+      "duration_ms": 224500,
+      "name": "Answer",
+      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
+    },
+    {
+      "added_at": "2022-08-12 18:30:33",
+      "album": {
         "name": "YOUTH",
         "url": "https://open.spotify.com/album/7BCfH2egHZqKnWrBOLf0fE"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 265058,
       "name": "in the bed",
       "url": "https://open.spotify.com/track/3WhLjQxdRYrI4JjmIEFnPe"
-    },
-    {
-      "added_at": "2022-08-12 18:30:33",
-      "album": {
-        "name": "Answer",
-        "url": "https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r"
-      },
-      "artists": [
-        {
-          "name": "homezone",
-          "url": "https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK"
-        }
-      ],
-      "duration_ms": 224500,
-      "name": "Answer",
-      "url": "https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht"
     },
     {
       "added_at": "2022-08-12 18:30:33",

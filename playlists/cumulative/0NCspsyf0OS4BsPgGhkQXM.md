@@ -4,7 +4,7 @@
 
 > The official Trap Nation playlist that includes all of our recent &amp; favorite songs
 
-416 songs - 22 hr 29 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
+418 songs - 22 hr 34 min - [published](https://open.spotify.com/playlist/4kcwyPbE1feiqHb7M3oaMd)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -354,6 +354,7 @@
 | [Stay \- Afinity Remix](https://open.spotify.com/track/1BTc2Jtvi0xXbuew9QsQXs) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Afinity](https://open.spotify.com/artist/6N7etQK8kFwtD0Kch6FVvf) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:40 | 2022-07-29 |  |
 | [Stranger Inside Me](https://open.spotify.com/track/4NyZeyQTf9lzybdYrw8AnK) | [Kuoga.](https://open.spotify.com/artist/6zVuQdorqzJrQy6jPACUr7), [Ivy](https://open.spotify.com/artist/4GqL0DrjpEK0YYRH1VyPBI) | [Until It Isn't](https://open.spotify.com/album/0PUh79wOZHNlFddJytsl9z) | 4:13 | 2022-02-16 | 2022-03-19 |
 | [Stronger](https://open.spotify.com/track/2bTrbsUXZlZQPDGrrwdSLT) | [Cerus](https://open.spotify.com/artist/7fquLeTBUvpluuODNIgSLY), [RMNCE](https://open.spotify.com/artist/7LWf0GAZdARfcenjTJmpMc), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [Stronger](https://open.spotify.com/album/4x9hFPLf32q0J3kMHpOFLy) | 3:48 | 2022-05-12 |  |
+| [Sweat](https://open.spotify.com/track/4qZYebAsenZ7Su6fAkAmMh) | [CryJaxx](https://open.spotify.com/artist/4FidvjA9dxE6bhpHGC6ns9), [ERVIS](https://open.spotify.com/artist/2SASbxZSgWPzlQ6iFyRx0d) | [Sweat](https://open.spotify.com/album/6iovaxHlE2iDacVh60ADqZ) | 2:03 | 2022-08-17 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/0iRfffwrWG4TfNc65SpxDm) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Invisible](https://open.spotify.com/artist/6GRKwhGojrzpj0486YlBA9), [The Late Night Project](https://open.spotify.com/artist/7vmMpy0sV8E6kyruaJrgF9) | [Sweet Child O' Mine](https://open.spotify.com/album/3wNyS2c2RRJVSqSsUYqzmj) | 2:43 | 2022-04-01 | 2022-04-30 |
 | [Sweet Revenge](https://open.spotify.com/track/0uawQC7MQYf2TQ6MdX2yeQ) | [Heyz](https://open.spotify.com/artist/5X1EM1jg35YB5jmw7qVIlh), [ELLIS!](https://open.spotify.com/artist/3GPPLSi7KokwrVlLlTMYgC), [DJ Afterthought](https://open.spotify.com/artist/46yoMIbiLf1tIH3CRZiSGX) | [Sweet Revenge](https://open.spotify.com/album/3RMPCBY2FEhdVWlxzsaacc) | 3:48 | 2022-06-17 |  |
 | [TAKE](https://open.spotify.com/track/3KqPQD3vQbJUTkRsiUzps2) | [KLOUD](https://open.spotify.com/artist/24Hb4GKFYquK73R8mTyInu) | [1093](https://open.spotify.com/album/7tX0LuJuHqNFx9ucD9889K) | 3:23 | 2022-01-14 |  |
@@ -382,6 +383,7 @@
 | [Treading Water](https://open.spotify.com/track/4cv3Hq71572CK731yfAVB0) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Treading Water](https://open.spotify.com/album/272T5Er6qPGusHv42ZcmEW) | 3:33 | 2022-02-18 | 2022-06-04 |
 | [Trials \(feat\. IDK\)](https://open.spotify.com/track/2rathjWuM0Hr7TAn57jCnt) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Trials \(feat\. IDK\)](https://open.spotify.com/album/3aKN8T2FwLCnJa3eau7QDg) | 2:13 | 2022-08-05 |  |
 | [Troublemaker](https://open.spotify.com/track/64SRXE4aBC9Rrxa8OcoLey) | [Omido](https://open.spotify.com/artist/1JHi3wMSHjY01RGrlo7lGh), [EthanUno](https://open.spotify.com/artist/5QbhVJedf1XUbmQummp2CN) | [Troublemaker](https://open.spotify.com/album/4NBJnT98n5402H49c6PqFI) | 3:34 | 2022-03-04 | 2022-04-02 |
+| [Turn It Up](https://open.spotify.com/track/5Wn8iDP15VZtdY4MBHB9tm) | [Haterade](https://open.spotify.com/artist/57mNUYCvfPsEKFMrA678JH), [Pozy](https://open.spotify.com/artist/1nCX4ojjdscBRbiCdUqfY0), [Nyukyung](https://open.spotify.com/artist/2Fy5gf1UQY332twQmg1gfw) | [Turn It Up](https://open.spotify.com/album/2GGEaprMylPPPFUI6lqi7v) | 2:21 | 2022-08-17 |  |
 | [Two Face \(Dark Version\)](https://open.spotify.com/track/3qFz4Yl3L2USyP7EfbVFQy) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Two Face \(Dark Version\)](https://open.spotify.com/album/21HSZwwUJvYRIGt595DQza) | 2:35 | 2022-03-18 | 2022-04-19 |
 | [ULTRA](https://open.spotify.com/track/0iz4UuJnAG1rx2jXHiFgLR) | [REMNANT.exe](https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3) | [ULTRA](https://open.spotify.com/album/7KFGsYeWP46xuPSOqP867h) | 5:22 | 2022-03-23 | 2022-04-19 |
 | [Undefeated](https://open.spotify.com/track/10yggPuoa0Bok31juJUUhi) | [Lucha](https://open.spotify.com/artist/0jkgNCEAyUXUD4u8nO6olG), [Godmode](https://open.spotify.com/artist/3R4VCoPt7V1poOWpdU43X8) | [Undefeated](https://open.spotify.com/album/0isnfwtXBvNY2cMVrMosnn) | 3:06 | 2022-02-07 | 2022-03-19 |

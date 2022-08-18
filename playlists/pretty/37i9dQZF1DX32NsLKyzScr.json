@@ -1,12 +1,12 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2183092,
+  "num_followers": 2183816,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI4MDQxNywwMDAwMDAwMGVjMDIzNzhiNzc4NmUxMWE5MGE1OWE4Mjk0NmYzMTAw",
+  "snapshot_id": "MTY2MDI4MDQxNywwMDAwMDAwMDgyMDgxZGNjOTQzODM4M2IxYzYzYmY0MmMzY2Q2NDQ3",
   "tracks": [
     {
       "added_at": "2022-08-12 05:00:17",
@@ -1443,30 +1443,6 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
-        "name": "My Universe (Galantis Remix)",
-        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        },
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Galantis",
-          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
-        }
-      ],
-      "duration_ms": 224908,
-      "name": "My Universe - Galantis Remix",
-      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
-    },
-    {
-      "added_at": "2022-08-12 05:00:17",
-      "album": {
         "name": "Sweetest Pie (David Guetta Remixes)",
         "url": "https://open.spotify.com/album/3dOimtCkfFTZEgII99rZFl"
       },
@@ -1491,22 +1467,26 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+        "name": "My Universe (Galantis Remix)",
+        "url": "https://open.spotify.com/album/7eMHMiz2uvtDDMbvKRJxlP"
       },
       "artists": [
         {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         },
         {
-          "name": "Sentinel",
-          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Galantis",
+          "url": "https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu"
         }
       ],
-      "duration_ms": 145174,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
+      "duration_ms": 224908,
+      "name": "My Universe - Galantis Remix",
+      "url": "https://open.spotify.com/track/1DlczmjByrS4qxRVfGjpqN"
     },
     {
       "added_at": "2022-08-12 05:00:17",
@@ -1527,6 +1507,26 @@
       "duration_ms": 208253,
       "name": "Who Do You Love",
       "url": "https://open.spotify.com/track/2w1rG2MPE4vF77znvevuz5"
+    },
+    {
+      "added_at": "2022-08-12 05:00:17",
+      "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/7HYcGsdfiY8AEOgGesSknZ"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Sentinel",
+          "url": "https://open.spotify.com/artist/2GPNLOJ6KU8G9VyrLsz1Sw"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/7mXNYEVh9FW72c12qBaO3p"
     },
     {
       "added_at": "2022-08-12 05:00:17",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
-      },
-      "artists": [
-        {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
-    },
-    {
-      "added_at": "2022-08-12 05:00:17",
-      "album": {
         "name": "Easy",
         "url": "https://open.spotify.com/album/3Jkk3mOfUiIcaJboZ77lkp"
       },
@@ -1851,22 +1835,18 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj"
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
       "artists": [
         {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "Showtek",
-          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 221904,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH"
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2022-08-12 05:00:17",
@@ -1891,6 +1871,26 @@
       "duration_ms": 146706,
       "name": "With My Friends",
       "url": "https://open.spotify.com/track/69wzXH2xyoQCaMydQ45rUt"
+    },
+    {
+      "added_at": "2022-08-12 05:00:17",
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/6RybNqYFHu5cxoOsGlo4yj"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Showtek",
+          "url": "https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7"
+        }
+      ],
+      "duration_ms": 221904,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/1mlk3vLtVptfxRcnx3avyH"
     },
     {
       "added_at": "2022-08-12 05:00:17",
@@ -1991,26 +1991,18 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
-        "name": "Dancing In The Moonlight (feat. NEIMY) [Ti\u00ebsto Remix]",
-        "url": "https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM"
+        "name": "Life Like This",
+        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
       },
       "artists": [
         {
-          "name": "Jub\u00ebl",
-          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
-        },
-        {
-          "name": "NEIMY",
-          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
         }
       ],
-      "duration_ms": 147146,
-      "name": "Dancing In The Moonlight (feat. NEIMY) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/3dgVBgrgHLzbhAYepa1V1V"
+      "duration_ms": 187214,
+      "name": "Life Like This",
+      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
     },
     {
       "added_at": "2022-08-12 05:00:17",
@@ -2035,6 +2027,30 @@
     {
       "added_at": "2022-08-12 05:00:17",
       "album": {
+        "name": "Dancing In The Moonlight (feat. NEIMY) [Ti\u00ebsto Remix]",
+        "url": "https://open.spotify.com/album/01V4ONsXyDVNeiCT2k0PIM"
+      },
+      "artists": [
+        {
+          "name": "Jub\u00ebl",
+          "url": "https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X"
+        },
+        {
+          "name": "NEIMY",
+          "url": "https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dancing In The Moonlight (feat. NEIMY) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/3dgVBgrgHLzbhAYepa1V1V"
+    },
+    {
+      "added_at": "2022-08-12 05:00:17",
+      "album": {
         "name": "Feel Your Love (Tomorrowland Mix)",
         "url": "https://open.spotify.com/album/24n3EoncsbDrqv4GI5UdDH"
       },
@@ -2055,22 +2071,6 @@
       "duration_ms": 170434,
       "name": "Feel Your Love - Tomorrowland Mix",
       "url": "https://open.spotify.com/track/3DZvtV9nOQ2RDfT4nvEEi9"
-    },
-    {
-      "added_at": "2022-08-12 05:00:17",
-      "album": {
-        "name": "Life Like This",
-        "url": "https://open.spotify.com/album/3awL1PVJHVHzC3IK2pMQzM"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        }
-      ],
-      "duration_ms": 187214,
-      "name": "Life Like This",
-      "url": "https://open.spotify.com/track/4NG4Llkx8gdthZorvEQkri"
     },
     {
       "added_at": "2022-08-12 05:00:17",

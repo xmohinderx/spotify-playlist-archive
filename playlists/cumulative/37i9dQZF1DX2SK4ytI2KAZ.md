@@ -4,7 +4,7 @@
 
 > alternative songs and a good time.
 
-389 songs - 21 hr 49 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
+391 songs - 21 hr 55 min - [published](https://open.spotify.com/playlist/1Bj13TwCdIEL5pmYy3YM5V)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,8 @@
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-01-21 |  |
 | [Look at the Sky](https://open.spotify.com/track/4l5nn3zlcrKSB1eyfuWHhu) | [Porter Robinson](https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam) | [Look at the Sky](https://open.spotify.com/album/1BEsCHUcX6slXc4N957W2y) | 5:09 | 2021-03-10 |  |
 | [Lose Money](https://open.spotify.com/track/5k6nFk3OyHxrZu6bHGYNan) | [Culture Wars](https://open.spotify.com/artist/0DoNSZa1R1DV69oY1djlbf) | [teche](https://open.spotify.com/album/64tfW7uOt51l5TU7LyLgcf) | 3:06 | 2021-09-09 | 2022-05-04 |
-| [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 |  |
+| [Loser](https://open.spotify.com/track/6WkRlNw5zd50xqm4Kd1mp5) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Loser](https://open.spotify.com/album/7r1ccYfMGvbkcAB0T2yDCq) | 3:05 | 2022-07-29 | 2022-08-18 |
+| [Loser](https://open.spotify.com/track/7uC88PADBOV6yYDsF5ib5t) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh) | [Homesick](https://open.spotify.com/album/6PmqLs9QBsOq6nWGlbgWKv) | 3:05 | 2022-08-12 |  |
 | [Loser](https://open.spotify.com/track/1dRaYeS22TQZ3jRLFfe7vM) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Subject to Flooding](https://open.spotify.com/album/3C96WnL2IhxgpmOIuokjm4) | 2:55 | 2021-03-10 | 2022-04-21 |
 | [Love Is Mystical](https://open.spotify.com/track/12pdXFcruNcPUbZypKUDgz) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:34 | 2022-06-27 |  |
 | [Love Is Mystical](https://open.spotify.com/track/4RJnzmVL12aIuWpMoXu2u4) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Love Is Mystical](https://open.spotify.com/album/5gmi6GYczChNiZSBdwtjBo) | 3:34 | 2022-03-11 | 2022-04-14 |
@@ -385,7 +386,8 @@
 | [Why Did You Run?](https://open.spotify.com/track/2xrRl0h13K2kqBpJN6P98Y) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Pep Talks](https://open.spotify.com/album/5CuJb813nzBM4FMfTNByH9) | 3:53 | 2022-06-27 |  |
 | [Why Did You Run?](https://open.spotify.com/track/3IMh0b6bFDuFNB7F0E0A9h) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Why Did You Run?](https://open.spotify.com/album/4sQoMHf0N0lmmpKwHFUrmj) | 3:53 | 2021-03-10 | 2022-07-13 |
 | [Wild](https://open.spotify.com/track/2F1Da8WqpBe5FGkRckppsC) | [Royal Teeth](https://open.spotify.com/artist/1niOQVlqnlW8hFqKSlbx7p) | [Act Naturally](https://open.spotify.com/album/2h8gvXkde0zvU7RTAI6j9h) | 4:33 | 2022-03-11 | 2022-04-21 |
-| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-04-29 |  |
+| [Wild Child](https://open.spotify.com/track/02bJ6uGeHKfNOhIc9qyA8e) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Dropout Boogie](https://open.spotify.com/album/7LLyQJzyD56Avzk3uFzKUk) | 2:44 | 2022-08-12 |  |
+| [Wild Child](https://open.spotify.com/track/0dgAZ1j5irH1FlA5WrpHW4) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Wild Child](https://open.spotify.com/album/3qq1cgY9TrPmzscvmON5Vb) | 2:44 | 2022-04-29 | 2022-08-18 |
 | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/track/6dgniKsterTlem7d54gGjP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx) | 5:09 | 2022-01-21 |  |
 | [Window](https://open.spotify.com/track/2TV9fAIDDJ3dMwJCj1a5pc) | [MAGIC GIANT](https://open.spotify.com/artist/7eaa5bidliPI0djFYv166f) | [In The Wind](https://open.spotify.com/album/7tSccVmXBn6RyHKoeKgKIv) | 3:29 | 2021-03-10 | 2022-05-28 |
 | [WONDER](https://open.spotify.com/track/6dZQEvVq2Zt23bD99bpInc) | [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [WONDER](https://open.spotify.com/album/2LUpdRveZYA02M51m1sJPb) | 3:45 | 2021-03-10 | 2022-07-29 |

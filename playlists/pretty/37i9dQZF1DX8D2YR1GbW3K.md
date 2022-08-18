@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 
 > Nostalgic <a href="spotify:genre:edm\_dance">dance</a> festival favourites from the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,826 likes - 125 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,951 likes - 125 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 67 | [Walking with Elephants](https://open.spotify.com/track/6wPMapHawG4uns1R3vHzUG) | [Ten Walls](https://open.spotify.com/artist/4veIvBHKoUacjuoMOm3vsg) | [Walking With Elephants](https://open.spotify.com/album/7etzwfYztvvEQqqx9ryWxj) | 5:25 |
 | 68 | [Dum Dee Dum](https://open.spotify.com/track/4kT18i0w2ZYeLTFPdpkihT) | [Keys N Krates](https://open.spotify.com/artist/6c1pBXHYjFcGQQNO5MMsdd) | [Dum Dee Dum](https://open.spotify.com/album/2flfiBDZEo70M2PBhqCzuB) | 3:12 |
 | 69 | [Internet Friends](https://open.spotify.com/track/5qFL2uwfnGU8FccwLMgPNQ) | [Knife Party](https://open.spotify.com/artist/2DuJi13MWHjRHrqRUwk8vH) | [100% No Modern Talking](https://open.spotify.com/album/2Ha5B3dapothPfMP9gWvQB) | 5:01 |
-| 70 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
-| 71 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [EDM Hits](https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi) | 3:25 |
+| 70 | [Calling \(Lose My Mind\) \- Radio Edit](https://open.spotify.com/track/6LNjIsgHNs4q75uPt4rYf6) | [Sebastian Ingrosso](https://open.spotify.com/artist/6hyMWrxGBsOx6sWcVj1DqP), [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Ryan Tedder](https://open.spotify.com/artist/4we5S2VLjgY9KzIzApL1KI) | [EDM Hits](https://open.spotify.com/album/37bu5iGP8qyG50MbFUKbGi) | 3:25 |
+| 71 | [Mammoth](https://open.spotify.com/track/76fqWMe0buqQoaNTIbLWmr) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [MOGUAI](https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ) | [Mammoth](https://open.spotify.com/album/4H0bjkai5WPp6Y5oLpk2iv) | 5:32 |
 | 72 | [Strangers](https://open.spotify.com/track/2U0pVx4m1Kdm1Gsjjm6iq8) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Myon](https://open.spotify.com/artist/0nTbVTXLLbBA4xCtn0cFkv), [Shane 54](https://open.spotify.com/artist/2ITbqEgyp32vL3BxEFmQ1V), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Worlds Apart](https://open.spotify.com/album/3ZLP4gT36JCBPH0PZUUcPj) | 3:24 |
 | 73 | [Till The Sky Falls Down](https://open.spotify.com/track/1YddMZzakt7WEZ9y1xGQgR) | [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri) | [The New Daylight \(Radio Versions\)](https://open.spotify.com/album/76AmfDmFp6G67x16si8mUR) | 3:50 |
 | 74 | [Get Up \(Rattle\)](https://open.spotify.com/track/1zYsvExrADZ5L7Epqd5J6D) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\)](https://open.spotify.com/album/7atvI5BIhbfq7sGp6jjCz3) | 2:46 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D2YR1GbW3K.md) - [plain]
 | 124 | [Teenage Crime \- Radio Edit](https://open.spotify.com/track/3WeOzaQI5ukIzBOiHv3TWh) | [Adrian Lux](https://open.spotify.com/artist/5kp9Qhzri9LrDkzrtjt5Sh) | [Adrian Lux](https://open.spotify.com/album/1BrunRBB6h877zDUxep7eh) | 2:48 |
 | 125 | [Kick Out The Epic Motherf\*\*ker \- Vocal Version](https://open.spotify.com/track/5B4RzgnBLi7BU1CLQ4j0Nw) | [Dada Life](https://open.spotify.com/artist/00sAT5YX8W3xNd1EuqyHw9) | [Kick Out The Epic Motherf\*\*ker \(Vocal Version\)](https://open.spotify.com/album/2lXDflusONskee9ju4BhuN) | 3:27 |
 
-Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDU1YjMyZDJhNTZhZmE2MzVkMTUwYzE0ZGUyN2E2N2Fj`
+Snapshot ID: `MTY1NDgwNDc2NiwwMDAwMDAwMDA3OTAyNDQyNjk0MGU1MGE5ZWIyNjVjYzRiOGU1ZjJi`

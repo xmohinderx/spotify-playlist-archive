@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 
 > ur favorite queer bedroom club
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,611 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,734 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4YipRSmIneQ.md) - [plain]
 | 42 | [Tear the House Up](https://open.spotify.com/track/2niTP3UJywDtTQj6dP1axR) | [Zebra Katz](https://open.spotify.com/artist/5Tz4zMiRWqiQVAymWZz99a), [Hervé](https://open.spotify.com/artist/0lmpSjaPzC8ChqeFQ6Z3VS) | [Tear the House Up](https://open.spotify.com/album/7FORrQznVtVBRb6UJpeQju) | 4:40 |
 | 43 | [UP N DOWN](https://open.spotify.com/track/4yPQpupT0yMWpzXfZqrzUT) | [Izzy Camina](https://open.spotify.com/artist/1bEvuUxdYlGYGq5WvDAE1u) | [UP N DOWN](https://open.spotify.com/album/6HHLuMoKzxWyI2wYv5RmiL) | 3:17 |
 | 44 | [Put Cha Back In It](https://open.spotify.com/track/2HaDgYUwvxt4bqVuwaY8uY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Vibrate EP](https://open.spotify.com/album/1XA5pJst8an1je2nL1abwX) | 2:08 |
-| 45 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 |
-| 46 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 45 | [Mugler](https://open.spotify.com/track/3uqXJXVspIA6rgcciv5xFi) | [Housewife 9](https://open.spotify.com/artist/2BWlGuH1XFha6dh3IXGcJM), [Soso Zelda](https://open.spotify.com/artist/4Y4BIUg4pXSsCcCWFJHzBp) | [Mugler](https://open.spotify.com/album/0XsuV7RykFeQnTbTEdf4mF) | 2:31 |
+| 46 | [On Your Mind](https://open.spotify.com/track/5aqsZYOE5bP1cY4sSaw0Jq) | [Doss](https://open.spotify.com/artist/7bQLFALIEawxhkyFiiLVhM) | [On Your Mind](https://open.spotify.com/album/23r79fk0k3TCumBLqaPKa6) | 4:06 |
 | 47 | [PAPER BOYFRIEND](https://open.spotify.com/track/5kmgBZhT1uXEljgE0EJahO) | [GFOTY](https://open.spotify.com/artist/3FPflECmvkrze212dLPRSC), [Spinee](https://open.spotify.com/artist/3DvZPVHIRXdnEluWadwf71) | [Dog Food](https://open.spotify.com/album/3aVuMazxmHxjR4YwCHWOrX) | 2:03 |
 | 48 | [BUY ME NOW](https://open.spotify.com/track/0TObe8QnOyojmnDAwjNRQK) | [JACKIE EXTREME](https://open.spotify.com/artist/3lTxQgwx9i1S3u0UoZHCRr) | [BUY ME NOW](https://open.spotify.com/album/0bHvRDHpYMYwqHu7PLOXmI) | 3:35 |
 | 49 | [Megalomaniac](https://open.spotify.com/track/0bY1YyjwCbsXnFYcwRIVqI) | [SONIKKU](https://open.spotify.com/artist/31iYRMOM5mUFDxPMMljOZ9) | [MOLG](https://open.spotify.com/album/0zgXgVJ4DWmbrKpWkwqBIR) | 3:47 |
 | 50 | [P.M.P](https://open.spotify.com/track/1VA0mnllvpmDA9bnRAuTXL) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [P.M.P](https://open.spotify.com/album/6g1CyzJuejx3AVopNeS1aX) | 3:22 |
 
-Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMGMzOTMxNzcwNDJlNDQ1NWRmZmJhYzQwYWJkYTMwZjVh`
+Snapshot ID: `MTY2MDY1NzgyNCwwMDAwMDAwMDZjNDk3ZWNhMzdkMzdkMmQxZTIwMzgwYTg5NDQ3NGQw`

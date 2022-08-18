@@ -4,7 +4,7 @@
 
 > 命を持たないVOCALOIDの魅力を特集。
 
-414 songs - 1 day 0 hr 12 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
+416 songs - 1 day 0 hr 19 min - [published](https://open.spotify.com/playlist/6qzbo920cTo80ckwDfcddt)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [CH4NGE \- feat\. 可不](https://open.spotify.com/track/4qVHEZ8pbcI7EyliSL7AHJ) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [可不](https://open.spotify.com/artist/3VxmIoSoAMfL0xAAQ7jHqE) | [CH4NGE](https://open.spotify.com/album/2c9Bn5UuRZj9YVykyjb0hc) | 2:12 | 2022-06-09 | 2022-07-29 |
 | [CHO \-DARI\-](https://open.spotify.com/track/6yKuRTRiaM1fUmxasPWCUu) | [23.exe](https://open.spotify.com/artist/6ChA8LcoGpOlKZhoOUbRZT) | [LIME](https://open.spotify.com/album/17dYvFTZVCtDhz8LewtGGa) | 2:39 | 2022-06-30 | 2022-07-17 |
 | [Chubyou Gekihatsu Boy](https://open.spotify.com/track/6Lxu9Er4UWqLrYxqQSLJET) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [Chubyou Gekihatsu Boy](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:26 | 2022-06-09 | 2022-07-16 |
+| [Cider](https://open.spotify.com/track/7G10Us1QGIM4ATFXRUHH1Y) | [Aaanna Japanese Special](https://open.spotify.com/artist/3o4wFYVNIJAVKhZtjGcf27) | [Cider](https://open.spotify.com/album/2VIh1E1r6xg8B10ECYzmtt) | 3:41 | 2022-08-16 |  |
 | [Cinderella \- Giga First Night Remix](https://open.spotify.com/track/2p8z2rZWj7G7hFkhU77SLz) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP), [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS) | [Cinderella \(Giga First Night Remix\)](https://open.spotify.com/album/6hN2meZRTAyOBCw7zTDIVw) | 2:22 | 2022-06-14 | 2022-07-28 |
 | [City](https://open.spotify.com/track/26aXmMU69wVGqjfVAeAO2P) | [jon\-YAKITORY](https://open.spotify.com/artist/0XDvcwWavm2VcdiXwDKgvB) | [City](https://open.spotify.com/album/2AXLE5uha6JuuyUB8yHwc7) | 3:39 | 2022-08-11 |  |
 | [Corruption](https://open.spotify.com/track/2v4XHce3jhMqouDohhSpxa) | [Paseri Onuma](https://open.spotify.com/artist/5eSWEOCUeNBF0st7okwgG2) | [Chromosome](https://open.spotify.com/album/2Gbl2xafjzYDuWHyiGBAQg) | 3:10 | 2022-07-19 | 2022-07-24 |
@@ -38,7 +39,7 @@
 | [day by days](https://open.spotify.com/track/6SRkWroP8AXI5bqNfmI6Mn) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [day by days](https://open.spotify.com/album/7Ir2ssbW6ov5OxbiQNcksm) | 2:09 | 2022-07-26 |  |
 | [Digital Girl](https://open.spotify.com/track/15h9C2CLOJyNNdfNVFcp7m) | [KIRA](https://open.spotify.com/artist/11T32AM3Tp0oYZ3PEWHGLZ), [Hatsune Miku](https://open.spotify.com/artist/2AynL2BUHgIk5ApzFVwDIL) | [Digital Girl](https://open.spotify.com/album/5LyEP5iDIqGJMKbRpsKDMq) | 3:02 | 2022-06-28 | 2022-07-13 |
 | [DOKUZU](https://open.spotify.com/track/7G19YO3m77NNF8wlDkRmi0) | [NAKISO](https://open.spotify.com/artist/7e0etbPYy2kovCgnbT1g2Y) | [DOKUZU](https://open.spotify.com/album/4BBVbKO8I1m5rXIMd0QUb7) | 2:00 | 2022-07-26 |  |
-| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 |  |
+| [ENVY BABY](https://open.spotify.com/track/7rPKtXBW35rSQH1i6QAvyk) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [ENVY BABY](https://open.spotify.com/album/0rp0Htb5EVN4G9boRMNPk4) | 2:15 | 2022-07-26 | 2022-08-18 |
 | [Fire◎Flower \- Live](https://open.spotify.com/track/2em0N9s1HUwDa9qGQyxs6u) | [Len Kagamine](https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [初音ミクシンフォニー〜Miku Symphony 2017〜 オーケストラ ライブ](https://open.spotify.com/album/71Xb3lHcKLgdwnMa7mYl3d) | 4:27 | 2022-06-09 | 2022-06-13 |
 | [flos](https://open.spotify.com/track/0qEvefkCUltXldv8EPOSDV) | [R Sound Design](https://open.spotify.com/artist/2KJvs9nIWfFTZ1lk7bBFlW) | [Quartia](https://open.spotify.com/album/4mNIRxw9vfv2XA1zrW0h5i) | 4:34 | 2022-06-09 | 2022-07-28 |
 | [GAME OVER](https://open.spotify.com/track/10v2a17K4NKw2kDA7BnZP5) | [そおだー](https://open.spotify.com/artist/2y8LsL92IyiID6jXKmltch) | [GAME OVER](https://open.spotify.com/album/6FVI5s0rC37l0sITHYzBv1) | 2:19 | 2022-07-14 | 2022-07-20 |
@@ -59,6 +60,7 @@
 | [IMAWANOKIWA](https://open.spotify.com/track/1gStV6Xw1MRITx0y7rQTkr) | [いよわ](https://open.spotify.com/artist/1fSVE9lefGUq0ZGexaMWMU) | [ねむるピンクノイズ](https://open.spotify.com/album/1NNcuKA3cpkH88r8trOCBy) | 4:13 | 2022-06-30 | 2022-07-25 |
 | [Iゆえに](https://open.spotify.com/track/2zEr5CZpgOhjAe54NkYieg) | [Parsley Onuma](https://open.spotify.com/artist/3NRa5cYPYh7cNGH6u3DN9N) | [Iゆえに](https://open.spotify.com/album/4u6HPNc8xPBmva1V2rtyHo) | 3:32 | 2022-07-05 | 2022-07-07 |
 | [Juumensou](https://open.spotify.com/track/7wIKr31uQ5ecXbLMDzYDYK) | [YM](https://open.spotify.com/artist/5X62tnENHL02oDZuZwDDqz) | [Exit Tunes Presents Gumism From Megpoid \(Vocaloid\)](https://open.spotify.com/album/6LRbHwDnHpqcLxGfXR0C5c) | 3:42 | 2022-06-09 | 2022-07-29 |
+| [Kakikeshite,Quartet](https://open.spotify.com/track/1OWgMtoukPCHTBLXbbGwPC) | [Uka Roku](https://open.spotify.com/artist/7hBob8G136429eesHGCbcH) | [Kakikeshite,Quartet](https://open.spotify.com/album/0CWV5tZ9mz6obaqbIySMHs) | 3:58 | 2022-08-16 |  |
 | [KING](https://open.spotify.com/track/5vCNAauCaecW0tT2mZDLG9) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [KING](https://open.spotify.com/album/5caSwBLTwvq0mk7cQwtf2O) | 2:15 | 2022-06-09 |  |
 | [Lap Tap Love](https://open.spotify.com/track/7weaxG7FEqDVCyZsLsyaKX) | [koyori](https://open.spotify.com/artist/6gZ9klmJVVAgpXEdL6sZQE), [向日葵](https://open.spotify.com/artist/5fY5L5NPHQRgEhdjgTvoCZ) | [Resonance](https://open.spotify.com/album/4r5hRygA5bz0oDlJoRC7Yy) | 3:22 | 2022-06-09 | 2022-06-11 |
 | [Lost Umbrella](https://open.spotify.com/track/2zAi85TQB7mLzl8P1ySAj9) | [稲葉曇](https://open.spotify.com/artist/25b7eSZD64Sm8ReHZ1WDc7) | [ANTICYCLONE](https://open.spotify.com/album/0QoalZudcGlnFFoN9Qr8UB) | 3:24 | 2022-07-26 |  |
@@ -253,7 +255,7 @@
 | [ヒトサマアレルギー](https://open.spotify.com/track/5wzZpasFh4cOfFA8LbBMcB) | [かいりきベア feat.flower](https://open.spotify.com/artist/18pfezVicJROB7KoWV74Mc) | [一期一会](https://open.spotify.com/album/5R9hc0gwV3pBoiyz0jM3BM) | 3:18 | 2022-06-09 | 2022-07-28 |
 | [ヒバナ \-Reloaded\-](https://open.spotify.com/track/3g2jMbl3XTP0k0cYb5rN6p) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [アンドロイドガール](https://open.spotify.com/album/6TPhM7fNV68heKndka6F0Q) | 3:26 | 2022-06-23 |  |
 | [ヒール](https://open.spotify.com/track/0sXDadhHOfTMgOWITjV3Hk) | [ルワン](https://open.spotify.com/artist/0UOSYwTdo7kX41HWeuykKm) | [ヒール](https://open.spotify.com/album/4BzabrfUSNVwqqTU3TJ1Qx) | 3:40 | 2022-06-14 | 2022-07-29 |
-| [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 | 2022-06-14 |  |
+| [ビターチョコデコレーション](https://open.spotify.com/track/6JFD96zWsIdGPqLOTVE1uU) | [syudou](https://open.spotify.com/artist/43XkWaoCS0wKjuMJrWFgoa) | [最悪](https://open.spotify.com/album/0FxgZJNSWavuZIPVL90DEW) | 3:17 | 2022-06-14 | 2022-08-18 |
 | [ビバハピ](https://open.spotify.com/track/4QaDgEbUd91TklG65p65JK) | [Mitchie M](https://open.spotify.com/artist/2MRx5cgvkudCT0FHafXcPx), [Miku Hatsune](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [The Greatest Idol](https://open.spotify.com/album/6vcfg5AQ5Yu31SnUHWVkLV) | 3:35 | 2022-07-10 | 2022-07-13 |
 | [ビートシンカー](https://open.spotify.com/track/1vGOT1kLjpSIpeX1Ttm3P7) | [DIVELA](https://open.spotify.com/artist/3uoFD08dOvDpdyl1IGH4dt) | [ミライコレクション](https://open.spotify.com/album/2DzfW4dqIF1J7KCM0y2i2d) | 3:42 | 2022-06-23 | 2022-07-19 |
 | [フィクサー](https://open.spotify.com/track/2DYupgAcdomatly7Lhw8zv) | [ぬゆり](https://open.spotify.com/artist/3ZIOAB6YRggYj0LIG6JLXx) | [plotoplan](https://open.spotify.com/album/5GhRicRw19hWj6PeZJQfW9) | 4:07 | 2022-06-09 | 2022-07-25 |

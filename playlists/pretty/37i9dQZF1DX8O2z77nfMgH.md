@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Los lanzamientos latinos más destacados\. En portada: Anitta y Maluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 899,462 likes - 55 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 899,657 likes - 55 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 15 | [XT4S1S](https://open.spotify.com/track/7dMTCS9BLzBqYTlAuHP8TM) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [XT4S1S](https://open.spotify.com/album/2SGONYwprYHZruYFhQYiFC) | 3:39 |
 | 16 | [NO ERES SANTA](https://open.spotify.com/track/3hK7qOPSyva12t0ldBvPqg) | [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl), [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [NO ERES SANTA](https://open.spotify.com/album/2Ago8ElVy0vKd7izBKDxvC) | 4:19 |
 | 17 | [Lejos de Ti](https://open.spotify.com/track/5B26ba8DVAD18tstVEwcOW) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [Lejos de Ti](https://open.spotify.com/album/1dWLpH4Z7QFzSTyjEM5WIi) | 3:40 |
-| 18 | [Algo Anda Mal \#1](https://open.spotify.com/track/3WaXtgvWKGWZ5DZuk8r69w) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Algo Anda Mal \#1](https://open.spotify.com/album/49DoT0m6sL0QTmQvhzPCOu) | 2:44 |
+| 18 | [OMAR ALGO ANDA MAL \#1](https://open.spotify.com/track/3WaXtgvWKGWZ5DZuk8r69w) | [Omar Varela](https://open.spotify.com/artist/5xIOUIBQhGFX7HIj8lhdyU), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [OMAR ALGO ANDA MAL \#1](https://open.spotify.com/album/49DoT0m6sL0QTmQvhzPCOu) | 2:44 |
 | 19 | [Luna De Miel](https://open.spotify.com/track/64wZ48tD8S7DqmK48IuRbS) | [HIT$ MUSIC](https://open.spotify.com/artist/44ALfmkGESKyMbbRrvw9gT), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Luna De Miel](https://open.spotify.com/album/7szQVBbtMWBLx9uoiAZ6SD) | 2:34 |
 | 20 | [Nalgona](https://open.spotify.com/track/2TluUChIW39tfUZhrsJdGa) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Sergio Acosta](https://open.spotify.com/artist/76yOiYbsm9mQ9cPFUKWNFw) | [Nalgona](https://open.spotify.com/album/41P9vKICWvQcjRGZwc0kaP) | 3:09 |
 | 21 | [TU ME HACES PENSAR](https://open.spotify.com/track/7eTFkW7ZPiecDkfAifEIGD) | [Julianno Sosa](https://open.spotify.com/artist/4IC2X34tZmHG3VfTbpzvwL) | [TU ME HACES PENSAR](https://open.spotify.com/album/7lMPG3mFg9ARz8InsdrCrM) | 3:01 |

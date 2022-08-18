@@ -1,12 +1,12 @@
 {
   "description": "You've come to the crossroads of soul, folk, and the blues. Cover: Amythyst Kiah",
-  "num_followers": 413568,
+  "num_followers": 413639,
   "original_name": "Blues Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDU1YjdhN2FiZTdhMTVmZmQxOWI2YTRlZDk3MjZhZGRj",
+  "snapshot_id": "MTY2MDI3NjkyMCwwMDAwMDAwMDFhMGRjMGZmNmFhYjYwOGI2Y2ZkNzE1OWJjZDdmMDc0",
   "tracks": [
     {
       "added_at": "2022-08-12 04:02:00",
@@ -267,22 +267,6 @@
     {
       "added_at": "2022-01-28 05:01:00",
       "album": {
-        "name": "WE ARE",
-        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 237244,
-      "name": "CRY",
-      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
-    },
-    {
-      "added_at": "2022-01-28 05:01:00",
-      "album": {
         "name": "aloha",
         "url": "https://open.spotify.com/album/3rioHzbE7RDGbgxzg9uFNd"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 221476,
       "name": "neve give up",
       "url": "https://open.spotify.com/track/2a5qaGUrVHWAIrh0xmTADM"
+    },
+    {
+      "added_at": "2022-01-28 05:01:00",
+      "album": {
+        "name": "WE ARE",
+        "url": "https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 237244,
+      "name": "CRY",
+      "url": "https://open.spotify.com/track/4fwCa8XejynU81AhXovR9r"
     },
     {
       "added_at": "2022-01-28 05:01:00",
@@ -845,6 +845,22 @@
       "url": "https://open.spotify.com/track/4hDxqXmufOdDFlqnUqcamD"
     },
     {
+      "added_at": "2022-05-27 04:03:00",
+      "album": {
+        "name": "Face Your Fear",
+        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
+      },
+      "artists": [
+        {
+          "name": "Curtis Harding",
+          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
+        }
+      ],
+      "duration_ms": 268733,
+      "name": "Wednesday Morning Atonement",
+      "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
+    },
+    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Leftover Feelings",
@@ -865,22 +881,6 @@
       "url": "https://open.spotify.com/track/77iW0ZOavE4PDj9s7DsKqV"
     },
     {
-      "added_at": "2022-05-27 04:03:00",
-      "album": {
-        "name": "Face Your Fear",
-        "url": "https://open.spotify.com/album/3Can2qB9S1pOcElpkfExB1"
-      },
-      "artists": [
-        {
-          "name": "Curtis Harding",
-          "url": "https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3"
-        }
-      ],
-      "duration_ms": 268733,
-      "name": "Wednesday Morning Atonement",
-      "url": "https://open.spotify.com/track/1jJeYe1XBYid6aiTcHlBC1"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Black Hole Rainbow",
@@ -897,22 +897,6 @@
       "url": "https://open.spotify.com/track/0cSJAbriuoamIYy7AfK2lr"
     },
     {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
-        "name": "Made In Muscle Shoals Vol. 2",
-        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
-      },
-      "artists": [
-        {
-          "name": "The Revivalists",
-          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Got Love - Made In Muscle Shoals",
-      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
-    },
-    {
       "added_at": "2022-01-28 05:01:00",
       "album": {
         "name": "Roll With Me",
@@ -927,6 +911,22 @@
       "duration_ms": 260333,
       "name": "Roll With Me",
       "url": "https://open.spotify.com/track/5e8EPbTXBC9nnXctV4CWB3"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Made In Muscle Shoals Vol. 2",
+        "url": "https://open.spotify.com/album/1lBoq5SRprSiyxDcQNpob5"
+      },
+      "artists": [
+        {
+          "name": "The Revivalists",
+          "url": "https://open.spotify.com/artist/5kuJibJcwOC53s3OkoGMRA"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Got Love - Made In Muscle Shoals",
+      "url": "https://open.spotify.com/track/4TN7nQty1SvMEwNxOaug0b"
     },
     {
       "added_at": "2022-05-27 04:03:00",
@@ -1225,20 +1225,20 @@
       "url": "https://open.spotify.com/track/2ITbC6v8GHxn33LT4Qq4ym"
     },
     {
-      "added_at": "2022-01-28 05:01:00",
+      "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Introducing Junior Kimbrough",
-        "url": "https://open.spotify.com/album/1Aw2XfNshXdkGEcl8myTnD"
+        "name": "Full Throttle",
+        "url": "https://open.spotify.com/album/19GYEqqEXkYbCGNh65mRlu"
       },
       "artists": [
         {
-          "name": "Junior Kimbrough",
-          "url": "https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr"
+          "name": "Clayton Sturgeon",
+          "url": "https://open.spotify.com/artist/48MYOaXNicyTiWBlRCkogN"
         }
       ],
-      "duration_ms": 137413,
-      "name": "Feels so Bad - Previously Unreleased Take",
-      "url": "https://open.spotify.com/track/5cl45ejCEAoCeYzuOr7k1z"
+      "duration_ms": 191124,
+      "name": "Full Throttle",
+      "url": "https://open.spotify.com/track/3a9hjQyEt5g1L6jbK46oM3"
     }
   ],
   "unique_name": "Blues Roots",

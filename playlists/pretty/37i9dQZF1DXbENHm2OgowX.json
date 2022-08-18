@@ -1,12 +1,12 @@
 {
   "description": "wandering the forest as the fog floats through the trees",
-  "num_followers": 13590,
+  "num_followers": 13682,
   "original_name": "gloomcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NzI5MDc4OCwwMDAwMDAwMGRhMTkxODNlMmY4YTNiOTVkY2U2YjllOGFmNjM2MDI3",
+  "snapshot_id": "MTY1NzI5MDc4OCwwMDAwMDAwMGJhZjM2MjQ2OTg1MGM1ZmI2YTM1ODg0NDQ1NTNkODhm",
   "tracks": [
     {
       "added_at": "2022-07-08 14:33:08",
@@ -111,22 +111,6 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Stratosphere",
-        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
-      },
-      "artists": [
-        {
-          "name": "Duster",
-          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
-        }
-      ],
-      "duration_ms": 125933,
-      "name": "Gold Dust",
-      "url": "https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
         "name": "Unknown Pleasures (Collector's Edition)",
         "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 233719,
       "name": "Shadowplay - 2007 Remaster",
       "url": "https://open.spotify.com/track/4ZuC5MfGjRQs3pZtPxqMYP"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Stratosphere",
+        "url": "https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "duration_ms": 125933,
+      "name": "Gold Dust",
+      "url": "https://open.spotify.com/track/40MYrR5GY6f0ghFOnJJC9v"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Tourist",
-        "url": "https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX"
-      },
-      "artists": [
-        {
-          "name": "Axel Fl\u00f3vent",
-          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
-        }
-      ],
-      "duration_ms": 256394,
-      "name": "Sea Creatures",
-      "url": "https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
         "name": "Unknown Pleasures (Collector's Edition)",
         "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
       },
@@ -319,6 +303,22 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
+        "name": "I Could Live In Hope",
+        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+      },
+      "artists": [
+        {
+          "name": "Low",
+          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+        }
+      ],
+      "duration_ms": 348800,
+      "name": "Words",
+      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
         "name": "Deathconsciousness",
         "url": "https://open.spotify.com/album/6MH3CAXp8AN8ELrbex18dM"
       },
@@ -335,18 +335,18 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "I Could Live In Hope",
-        "url": "https://open.spotify.com/album/61dByu8oBt4qdym9Rkz39w"
+        "name": "Tourist",
+        "url": "https://open.spotify.com/album/0fCaCuGVDA5ggkYJLNcaRX"
       },
       "artists": [
         {
-          "name": "Low",
-          "url": "https://open.spotify.com/artist/0wz0jO9anccPzH04N7FLBH"
+          "name": "Axel Fl\u00f3vent",
+          "url": "https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ"
         }
       ],
-      "duration_ms": 348800,
-      "name": "Words",
-      "url": "https://open.spotify.com/track/01OXa5tVuCssU6j8TY7kxr"
+      "duration_ms": 256394,
+      "name": "Sea Creatures",
+      "url": "https://open.spotify.com/track/62p6yXgCQ1Ywcw3MU78dZn"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -367,18 +367,18 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Unknown Pleasures (Collector's Edition)",
-        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+        "name": "Below the House",
+        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
       "artists": [
         {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+          "name": "Planning For Burial",
+          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
         }
       ],
-      "duration_ms": 291706,
-      "name": "New Dawn Fades - 2007 Remaster",
-      "url": "https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU"
+      "duration_ms": 150299,
+      "name": "(Something)",
+      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -415,22 +415,6 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Below the House",
-        "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
-      },
-      "artists": [
-        {
-          "name": "Planning For Burial",
-          "url": "https://open.spotify.com/artist/4nhaUpMjrBW8vywsP2yzzD"
-        }
-      ],
-      "duration_ms": 150299,
-      "name": "(Something)",
-      "url": "https://open.spotify.com/track/1y8cEPxGEX2sp5OS5XOFYB"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
         "name": "A Crow Looked at Me",
         "url": "https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 147533,
       "name": "Real Death",
       "url": "https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Unknown Pleasures (Collector's Edition)",
+        "url": "https://open.spotify.com/album/33qkK1brpt6t8unIpeM2Oy"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 291706,
+      "name": "New Dawn Fades - 2007 Remaster",
+      "url": "https://open.spotify.com/track/5EabbLQZbdhCqG6aK9PFLU"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Closer (Collector's Edition)",
-        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
-      },
-      "artists": [
-        {
-          "name": "Joy Division",
-          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
-        }
-      ],
-      "duration_ms": 364293,
-      "name": "The Eternal - 2007 Remaster",
-      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
         "name": "Below the House",
         "url": "https://open.spotify.com/album/31lWxuVOP2hrbyqetVueTW"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 213426,
       "name": "Warmth of You",
       "url": "https://open.spotify.com/track/11HCS8E6veZP3Mkf3f5Kal"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Closer (Collector's Edition)",
+        "url": "https://open.spotify.com/album/1HnxC8MLDciii5LebJ09Ko"
+      },
+      "artists": [
+        {
+          "name": "Joy Division",
+          "url": "https://open.spotify.com/artist/432R46LaYsJZV2Gmc4jUV5"
+        }
+      ],
+      "duration_ms": 364293,
+      "name": "The Eternal - 2007 Remaster",
+      "url": "https://open.spotify.com/track/7rLB8H9GIzlxgXxXVqQltR"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
-        "name": "Green Wall",
-        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
-      },
-      "artists": [
-        {
-          "name": "Wreath",
-          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
-        }
-      ],
-      "duration_ms": 122000,
-      "name": "Waiting for Your Train",
-      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
         "name": "Gazing Back At Earth",
         "url": "https://open.spotify.com/album/7bLpr6loDfBGLeHW6imrKA"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 316000,
       "name": "Gazing Back At Earth",
       "url": "https://open.spotify.com/track/2KoGypklxRxHITV7UreTUP"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
+        "name": "Green Wall",
+        "url": "https://open.spotify.com/album/5BBhvTuPLebldrjg1oyPqE"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "duration_ms": 122000,
+      "name": "Waiting for Your Train",
+      "url": "https://open.spotify.com/track/4eUOEthFna4tWFZd9Xkd0R"
     },
     {
       "added_at": "2022-07-08 14:33:08",
@@ -707,6 +707,22 @@
     {
       "added_at": "2022-07-08 14:33:08",
       "album": {
+        "name": "Slowdown",
+        "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Brett",
+          "url": "https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz"
+        }
+      ],
+      "duration_ms": 497009,
+      "name": "Slowdown",
+      "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
+    },
+    {
+      "added_at": "2022-07-08 14:33:08",
+      "album": {
         "name": "Gold of the Azure (Marconi Union Remix)",
         "url": "https://open.spotify.com/album/43cP2xH2L43NJBDgMslzWZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 396773,
       "name": "Gold of the Azure - Marconi Union Remix",
       "url": "https://open.spotify.com/track/4QTLMYj1dHVMgIihKvbidY"
-    },
-    {
-      "added_at": "2022-07-08 14:33:08",
-      "album": {
-        "name": "Slowdown",
-        "url": "https://open.spotify.com/album/4T5nJayq61rBgNZRzF8o4Y"
-      },
-      "artists": [
-        {
-          "name": "Thomas Brett",
-          "url": "https://open.spotify.com/artist/24hkUG05qbSP0SqKye9Ahz"
-        }
-      ],
-      "duration_ms": 497009,
-      "name": "Slowdown",
-      "url": "https://open.spotify.com/track/41QYplWe7lMbiQ0hOi2ZlM"
     },
     {
       "added_at": "2022-07-08 14:33:08",

@@ -4,7 +4,7 @@
 
 > Laid back sounds to see you through your day.
 
-366 songs - 20 hr 37 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
+367 songs - 20 hr 41 min - [published](https://open.spotify.com/playlist/395pTXWBe61bIiK2GSpSLA)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Biblical](https://open.spotify.com/track/1rPiAgK5DD2ve9aPujSJB7) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Biblical](https://open.spotify.com/album/4GWFMj7p4nXeRkHs3k8vSH) | 3:49 | 2021-12-16 | 2022-01-12 |
 | [Birthday Cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [Birthday Cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 | 2022-03-25 |  |
 | [Blessed & Free](https://open.spotify.com/track/0HCFZGK3c1TQorbyPHcj1l) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Blessed & Free](https://open.spotify.com/album/055uuuPMs7soYjnONo02QV) | 3:18 | 2022-01-11 | 2022-04-27 |
-| [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 | 2022-04-11 |  |
+| [Blink of an Eye](https://open.spotify.com/track/2uyfgIj0vJT3HiLogBQZi6) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Birds That Flew and Ships That Sailed](https://open.spotify.com/album/0LkHp8NkBfr8dwIpklV4U0) | 4:33 | 2022-04-11 | 2022-08-18 |
 | [Block me out](https://open.spotify.com/track/7AX1eCw6qcX54PrDylynJr) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Block me out](https://open.spotify.com/album/3gRzJoa3WSp3XUD585RRvN) | 4:09 | 2022-04-11 |  |
 | [Bloodline](https://open.spotify.com/track/4UGssFKaiKeeNqtQvPNH7n) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [Bloodline](https://open.spotify.com/album/4Pai2PESVr2exnYu71e1ML) | 3:15 | 2021-12-16 | 2022-07-29 |
 | [Boomerang](https://open.spotify.com/track/3TIoOu5ZQwcHI41kH047gT) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Boomerang](https://open.spotify.com/album/58vNxqPKsR1XSGDhaoVdiT) | 2:48 | 2022-03-25 | 2022-03-28 |
@@ -177,6 +177,7 @@
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-16 |  |
 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 | 2022-03-25 |  |
 | [Jealous](https://open.spotify.com/track/72LSM9qFFXFkTaz91tBGHp) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Jealous](https://open.spotify.com/album/5r1DgUZlvQtt0R5JRZBOBo) | 3:53 | 2022-03-08 | 2022-07-29 |
+| [Jealous](https://open.spotify.com/track/0sEVg9cdJMXgDtcCxEs3zQ) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [The Sweetest Part](https://open.spotify.com/album/3cwz7V6sJUCca7rMR79GO9) | 3:54 | 2022-08-02 |  |
 | [July](https://open.spotify.com/track/7Bt8AKBl6B0LYw8KQW8taX) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [July](https://open.spotify.com/album/0YjpN6yFdeGA0WyhqvNS1J) | 4:08 | 2021-12-16 | 2022-04-05 |
 | [Jump](https://open.spotify.com/track/6zqgrY3jXBSMx3WuNErdTB) | [REUNIØN](https://open.spotify.com/artist/0xGQO6SPjYCzbeDgjpfJ5n) | [Jump](https://open.spotify.com/album/1ytsYG5T02plyHuYfIyw1w) | 4:16 | 2021-12-16 | 2022-02-15 |
 | [justified](https://open.spotify.com/track/6IW4TUC3zHW4tpikDg1w7Y) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [justified](https://open.spotify.com/album/4d4qaLHCcfXzMbGa33Kpqg) | 3:00 | 2021-12-16 | 2022-03-26 |

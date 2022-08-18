@@ -1,12 +1,12 @@
 {
   "description": "La playlist officielle de l\u2019\u00e9dition 2022 des Francos de Montr\u00e9al!",
-  "num_followers": 2105,
+  "num_followers": 2104,
   "original_name": "Francos de Montr\u00e9al 2022",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMGNhZTM2NzdhZGEwM2VhYzBhMTA5ZTIwNjExZTU3ZGQw",
+  "snapshot_id": "MTY1NTMxMzE4NSwwMDAwMDAwMDM5NTJiZGU4YWRiNzAyMTMyYjk4N2Q4MTU4Zjc0ZWM0",
   "tracks": [
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mwen Pare",
-        "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
-      },
-      "artists": [
-        {
-          "name": "Magdala",
-          "url": "https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz"
-        }
-      ],
-      "duration_ms": 294545,
-      "name": "Mwen Pare",
-      "url": "https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "Citoyen d'Am\u00e9rique",
         "url": "https://open.spotify.com/album/2BTaLMAnPPNox2ieVctOas"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 146106,
       "name": "Am\u00e8ne-toi chez nous",
       "url": "https://open.spotify.com/track/3IjLvU7Of9foqyfRrvktKG"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Mwen Pare",
+        "url": "https://open.spotify.com/album/6fr77G7A7FxNRCu7UoY56g"
+      },
+      "artists": [
+        {
+          "name": "Magdala",
+          "url": "https://open.spotify.com/artist/3uadfXnnMTKpzaGo96mRFz"
+        }
+      ],
+      "duration_ms": 294545,
+      "name": "Mwen Pare",
+      "url": "https://open.spotify.com/track/17dbXxphEFaswso4XiWMNQ"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
+        "name": "Rome",
+        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
+      },
+      "artists": [
+        {
+          "name": "Peter Peter",
+          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+        }
+      ],
+      "duration_ms": 323480,
+      "name": "Rome",
+      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
         "name": "OC\u00c9AN",
         "url": "https://open.spotify.com/album/49JXCaffV2JxIkhka67PLE"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Rome",
-        "url": "https://open.spotify.com/album/58BmzL3226C7UsG9AYORDW"
+        "name": "Mon coeur pour te garder (version bonus)",
+        "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
       },
       "artists": [
         {
-          "name": "Peter Peter",
-          "url": "https://open.spotify.com/artist/52NQGJWKvdWMbKxThs2fNC"
+          "name": "Am\u00e9lie Veille",
+          "url": "https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h"
         }
       ],
-      "duration_ms": 323480,
-      "name": "Rome",
-      "url": "https://open.spotify.com/track/185RE28Qi77f6GnHYaPkpr"
+      "duration_ms": 206373,
+      "name": "Mon coeur pour te garder",
+      "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1143,18 +1159,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Mon coeur pour te garder (version bonus)",
-        "url": "https://open.spotify.com/album/34H51ANAsWXe9SrANF6BTY"
+        "name": "Airs pa\u00efens",
+        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
       },
       "artists": [
         {
-          "name": "Am\u00e9lie Veille",
-          "url": "https://open.spotify.com/artist/6l1fj74wjDW6adX1r3H29h"
+          "name": "F\u00e9lix Dyotte",
+          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
         }
       ],
-      "duration_ms": 206373,
-      "name": "Mon coeur pour te garder",
-      "url": "https://open.spotify.com/track/3lCtEAvtIuCOtb4wi9k4Jn"
+      "duration_ms": 149293,
+      "name": "J'esp\u00e8re",
+      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1203,22 +1219,6 @@
       "duration_ms": 218653,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/5yE3Mi1Vu66PB6zyAIIPFu"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
-        "name": "Airs pa\u00efens",
-        "url": "https://open.spotify.com/album/3aPV9ERy4YhhFOd88R8NsD"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Dyotte",
-          "url": "https://open.spotify.com/artist/4tyILT4TvcD3XKUo0GxBj8"
-        }
-      ],
-      "duration_ms": 149293,
-      "name": "J'esp\u00e8re",
-      "url": "https://open.spotify.com/track/2rlu5RD8NUOLkjg9Mrg6ET"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Bienvenue \u00e0 Baveuse City",
-        "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
-      },
-      "artists": [
-        {
-          "name": "Marie-Gold",
-          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
-        }
-      ],
-      "duration_ms": 175600,
-      "name": "La Presse (Baby Girl)",
-      "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
-    },
-    {
-      "added_at": "2022-05-25 18:00:00",
-      "album": {
         "name": "All\u00f4 Fant\u00f4me",
         "url": "https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 396142,
       "name": "Sur la pointe des pieds",
       "url": "https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7"
+    },
+    {
+      "added_at": "2022-05-25 18:00:00",
+      "album": {
+        "name": "Bienvenue \u00e0 Baveuse City",
+        "url": "https://open.spotify.com/album/6Ewy5jluK73NCmTeHN9sNC"
+      },
+      "artists": [
+        {
+          "name": "Marie-Gold",
+          "url": "https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "La Presse (Baby Girl)",
+      "url": "https://open.spotify.com/track/7JnfndIUMmzrMWFF9s9VgA"
     },
     {
       "added_at": "2022-05-25 18:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2022-05-25 18:00:00",
       "album": {
-        "name": "Qui a mis le feu",
-        "url": "https://open.spotify.com/album/7devaNGpSc9fBF5GzZuw6W"
+        "name": "Fauve",
+        "url": "https://open.spotify.com/album/4Mvoq66t7irGEQ77MV6RM1"
       },
       "artists": [
         {
-          "name": "Mat Vezio",
-          "url": "https://open.spotify.com/artist/20zIZk4XpHgNPwW0Dx1O8X"
+          "name": "Velours Velours",
+          "url": "https://open.spotify.com/artist/1DXXGN22iihmr6gKcYwuWg"
         }
       ],
-      "duration_ms": 171546,
-      "name": "Qui a mis le feu",
-      "url": "https://open.spotify.com/track/4WIpgkUySL7bkVfaX0xl04"
+      "duration_ms": 253274,
+      "name": "Je t\u2019aime",
+      "url": "https://open.spotify.com/track/4qywUTrv0kO4e5Gr8rvZbE"
     }
   ],
   "unique_name": "Francos de Montr\u00e9al 2022",

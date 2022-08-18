@@ -1,12 +1,12 @@
 {
   "description": "Descubre hoy a los artistas de ma\u00f1ana. Foto: Judeline",
-  "num_followers": 19290,
+  "num_followers": 19302,
   "original_name": "Radar Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDY4YzAwMGE4MDNlYmNmYzZjZDk3NGVjODE4NzExM2Rm",
+  "snapshot_id": "MTY1OTA0ODIxNiwwMDAwMDAwMDI4MjllZmVhMTgwYmU2Mzk4NmYwZmU2ZDI2NGFmYzUw",
   "tracks": [
     {
       "added_at": "2022-07-28 22:43:36",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "un poco m\u00e1s",
+        "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
+      },
+      "artists": [
+        {
+          "name": "daniel sabater",
+          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
+        }
+      ],
+      "duration_ms": 138741,
+      "name": "un poco m\u00e1s",
+      "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "Lombard\u00eda 22",
         "url": "https://open.spotify.com/album/7qjzwofzO07Q4bFOlP8dfi"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 179984,
       "name": "Inercia",
       "url": "https://open.spotify.com/track/7ymbUvGWcBe2iCRapBipKj"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "un poco m\u00e1s",
-        "url": "https://open.spotify.com/album/5b1U3awRVijau7faHNtnxJ"
-      },
-      "artists": [
-        {
-          "name": "daniel sabater",
-          "url": "https://open.spotify.com/artist/5yTNm3JFNfBa79zLIRKVwN"
-        }
-      ],
-      "duration_ms": 138741,
-      "name": "un poco m\u00e1s",
-      "url": "https://open.spotify.com/track/1WFmdhHDXQT3xS1kMzuQNC"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -571,26 +571,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "La Lluvia",
-        "url": "https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0"
-      },
-      "artists": [
-        {
-          "name": "Yarea",
-          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
-        },
-        {
-          "name": "KICKBOMBO",
-          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "La Lluvia",
-      "url": "https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "un poco s\u00ed...",
         "url": "https://open.spotify.com/album/3QR37dZ8Zkmx7ZWU4mCUKD"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 144624,
       "name": "Disneyland Paris",
       "url": "https://open.spotify.com/track/2AeMKItKccbghNb24kruJB"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "La Lluvia",
+        "url": "https://open.spotify.com/album/0WL9vGpQb9rw1coTXvz6o0"
+      },
+      "artists": [
+        {
+          "name": "Yarea",
+          "url": "https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl"
+        },
+        {
+          "name": "KICKBOMBO",
+          "url": "https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "La Lluvia",
+      "url": "https://open.spotify.com/track/5aM5QibidKdtMMB8YzGhtR"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
-        "name": "Moncler",
-        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
-      },
-      "artists": [
-        {
-          "name": "Ters",
-          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
-        }
-      ],
-      "duration_ms": 186156,
-      "name": "Moncler",
-      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
         "name": "canci\u00f3n de amor",
         "url": "https://open.spotify.com/album/4Gv5KVGBNzwMikrM6bOLBV"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 177002,
       "name": "canci\u00f3n de amor",
       "url": "https://open.spotify.com/track/16ZMVvoC20S1ehGOOxYxkg"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
+        "name": "Moncler",
+        "url": "https://open.spotify.com/album/10vp9TVLfS1ByCx0atI6x9"
+      },
+      "artists": [
+        {
+          "name": "Ters",
+          "url": "https://open.spotify.com/artist/5Mf1s6zvBdwT3ZmEfWVovB"
+        }
+      ],
+      "duration_ms": 186156,
+      "name": "Moncler",
+      "url": "https://open.spotify.com/track/3xe0zQi4tsynmXmwCLpbX1"
     },
     {
       "added_at": "2022-07-28 22:43:36",
@@ -815,6 +815,26 @@
     {
       "added_at": "2022-07-28 22:43:36",
       "album": {
+        "name": "Ya No Hace Falta",
+        "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
+      },
+      "artists": [
+        {
+          "name": "yes I M",
+          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
+        },
+        {
+          "name": "Casero",
+          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
+        }
+      ],
+      "duration_ms": 201076,
+      "name": "Ya No Hace Falta",
+      "url": "https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt"
+    },
+    {
+      "added_at": "2022-07-28 22:43:36",
+      "album": {
         "name": "Dime Algo (bonito) (True Fans Edition)",
         "url": "https://open.spotify.com/album/3Pvc669UGSa0e2LajSLL9g"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 172384,
       "name": "Quiero Bailar",
       "url": "https://open.spotify.com/track/1590e2UlpOTir9oYiKR3oY"
-    },
-    {
-      "added_at": "2022-07-28 22:43:36",
-      "album": {
-        "name": "Ya No Hace Falta",
-        "url": "https://open.spotify.com/album/3Al8q1fJTsyuYI9xogyDHV"
-      },
-      "artists": [
-        {
-          "name": "yes I M",
-          "url": "https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy"
-        },
-        {
-          "name": "Casero",
-          "url": "https://open.spotify.com/artist/6RXmHX7FgxZz6ycoC6IgPy"
-        }
-      ],
-      "duration_ms": 201076,
-      "name": "Ya No Hace Falta",
-      "url": "https://open.spotify.com/track/68ig9yZZ1tMU0xtY7QOASt"
     },
     {
       "added_at": "2022-07-28 22:43:36",

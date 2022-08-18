@@ -157,7 +157,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-15",
+      "date_removed": null,
       "duration_ms": 248965,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/6Ijgotp139ahnNIFw4Vr1N"
@@ -227,7 +227,7 @@
       ],
       "date_added": "2022-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 169180,
       "name": "Chasing Stars (feat. James Bay) [VIP Mix]",
       "url": "https://open.spotify.com/track/46MmaCvze8GcEcwU1fTfWe"
@@ -517,7 +517,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 180000,
       "name": "Falkor's Return",
       "url": "https://open.spotify.com/track/46a2imjeJLAJAMaJghKyFQ"
@@ -837,7 +837,7 @@
       ],
       "date_added": "2022-06-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 113294,
       "name": "HARDCORE",
       "url": "https://open.spotify.com/track/42wW7YIlVS5UGUat9C75No"
@@ -1211,7 +1211,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
@@ -1317,7 +1317,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 200826,
       "name": "Phantom Pt. II",
       "url": "https://open.spotify.com/track/2A3emhzbZo7eSvEUtAm3ZS"
@@ -1507,7 +1507,7 @@
       ],
       "date_added": "2022-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 264834,
       "name": "Snake Eyes",
       "url": "https://open.spotify.com/track/08ypS6EF8F13l8EUa5I2J4"
@@ -1587,6 +1587,28 @@
       "duration_ms": 223448,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU"
+    },
+    {
+      "album": {
+        "name": "Think About Me",
+        "url": "https://open.spotify.com/album/3uy36BQ4KfPhacRYarKzGT"
+      },
+      "artists": [
+        {
+          "name": "Azifm",
+          "url": "https://open.spotify.com/artist/3KhcY0eVTSmC16IXBPICt7"
+        },
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/3etLA4Y9THE0KfmbunVrAg"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280000,
+      "name": "Think About Me",
+      "url": "https://open.spotify.com/track/1vqpzfLgdGzZUlqSjkz6Sr"
     },
     {
       "album": {

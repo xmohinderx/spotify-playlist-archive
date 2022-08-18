@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요.
 
-153 songs - 8 hr 42 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
+154 songs - 8 hr 45 min - [published](https://open.spotify.com/playlist/2hMrDXlFlo12UdmYhIsIau)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [I Wish](https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Ex](https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx) | 3:18 | 2022-05-11 | 2022-07-23 |
 | [I wonder](https://open.spotify.com/track/0P0VXGVjj3TNoXMyWWSsuK) | [Hello Fox](https://open.spotify.com/artist/5F7gjj7mqSIPMv7hbaAQVd) | [I wonder](https://open.spotify.com/album/4S7Cchlit8FEWzt0a0qrDe) | 2:57 | 2022-07-04 | 2022-07-29 |
 | [I'm busy](https://open.spotify.com/track/21QltCzKyoezfGmgjHhXcM) | [IGWI](https://open.spotify.com/artist/4whp4PfaJKVotmQSuMlO4U) | [I'm busy](https://open.spotify.com/album/3Oj5jVbZ57FS5waEWgAf0K) | 3:21 | 2022-05-11 | 2022-06-30 |
-| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 |  |
+| [I'm In Love](https://open.spotify.com/track/1D82HRevEEavXuo6U2WIcz) | [Sin Ye Young](https://open.spotify.com/artist/02SENF0XVfxRTZrniEV2aF) | [Woori The Virgin, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2KEq2SyHbGTZwEBM9ASoii) | 3:00 | 2022-06-13 | 2022-08-18 |
 | [If I \(with Yun DDanDDan\)](https://open.spotify.com/track/2Leb6RTSFvdVEXW20Pnv1U) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Yun DDanDDan](https://open.spotify.com/artist/0fnx3yyvXH5E0UATpygzzt) | [If I \(with Yun DDanDDan\)](https://open.spotify.com/album/6qGRlVGMoRhvsKjkixQe6Y) | 3:49 | 2022-05-11 | 2022-07-21 |
 | [Imagine Love](https://open.spotify.com/track/6mjhtxtQab50DeMnphYDjy) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF) | [Adult Trainee, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0q5ZHEqTgIgiSbyl1chayB) | 3:11 | 2022-05-11 | 2022-08-13 |
 | [Insta lover](https://open.spotify.com/track/3tBJU6ap8mv45X9Z32xhpu) | [Mia](https://open.spotify.com/artist/24nwTOGM8qUNwKYWY2c0xr) | [Not a fairytale](https://open.spotify.com/album/1g2VqUtlR2v6KJL8X0lSr7) | 3:16 | 2022-06-13 | 2022-07-27 |
@@ -141,6 +141,7 @@
 | [Type & Delete](https://open.spotify.com/track/0jrc18dt5N6fOJtRUIH9Dv) | [Dalzi](https://open.spotify.com/artist/3itJiDOt0vbIIMkYTy5Dp1), [Kim Kyu Jong](https://open.spotify.com/artist/3WMXYNpeC5Z5POJdES9VDp), [LEE IN JUN](https://open.spotify.com/artist/7vNf4Mqk9uJjZNr4Qnwqf7) | [Type & Delete](https://open.spotify.com/album/4V44wdgmFu3rpWT62ernmW) | 3:50 | 2022-05-11 | 2022-07-29 |
 | [U \(feat\. ARIAZ, 시현 & ESON\)](https://open.spotify.com/track/6ezxrPOjX6mOspfdKelSfY) | [CIELOGROOVE](https://open.spotify.com/artist/39Bud6jG9IdSbnZAx9ERUd), [ARIAZ](https://open.spotify.com/artist/7F4X79mifvL5ke5KxaqYFi), [시현](https://open.spotify.com/artist/6cR7tnVNB3blGX4miHEE6t), [ESON](https://open.spotify.com/artist/0VIAKQLmpZM9Hq5ZVo1jXo) | [U](https://open.spotify.com/album/7D49Qp5tHUm2puTI7S3XOd) | 3:41 | 2022-05-11 | 2022-07-29 |
 | [Ugly, Lovely \(feat\. INFP\)](https://open.spotify.com/track/51N5xzPBGodwhO2cKlkT32) | [Flospoon](https://open.spotify.com/artist/1AKNuWhUvKilX2soCIcKDi), [INFP](https://open.spotify.com/artist/0LaVG6zmxdXwzg9VvT88Qq) | [Ugly, Lovely](https://open.spotify.com/album/0tlHvOiBZJAwMjEktwQtF9) | 3:59 | 2022-05-11 | 2022-07-29 |
+| [UH\-RA? \(feat\. dress\)](https://open.spotify.com/track/7nqpSc48taCt7DpPX8XTI9) | [CHOI YOOJUNG](https://open.spotify.com/artist/1ygbGmBWGTX0llbLrD9648), [Ahn byeong woong](https://open.spotify.com/artist/6cJ883ebXg0pWAwlzMcBxe), [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z) | [UH\-RA? with KozyPop](https://open.spotify.com/album/7JWfmdSg7VBvgi2gQA9Xib) | 3:37 | 2022-08-12 |  |
 | [UTK](https://open.spotify.com/track/5xmdfFyKJQGiA4nglg9s3S) | [Kirin](https://open.spotify.com/artist/3dFiM806dnbA7YUIgOHDBc), [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [UTK](https://open.spotify.com/album/0yNAYvt4NAZxeIiEyVpOhd) | 3:47 | 2022-05-11 | 2022-07-27 |
 | [Waggy](https://open.spotify.com/track/4PaV21Q4jkSvfQ5iAcFJef) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [White Wind](https://open.spotify.com/album/60m09rutmwj5ewOJoFIAVY) | 3:12 | 2022-05-11 | 2022-06-09 |
 | [Wanna go for a walk?](https://open.spotify.com/track/05aHjamumAJ0m9L24mgGBp) | [LiYoon](https://open.spotify.com/artist/6MAEen0SL68c1kJ7Ylaxvn) | [Wanna go for a walk?](https://open.spotify.com/album/3ULtXyAUl3AQ3t6iXvXfIp) | 3:05 | 2022-06-20 | 2022-07-26 |

@@ -1,12 +1,12 @@
 {
   "description": "Alternative meets electronic. Cover: Sub Urban + BENEE",
-  "num_followers": 423719,
+  "num_followers": 423853,
   "original_name": "Alternative Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMGFiMDE0NjkzOGU2NWQyNTkzOGY5YjgwMWMwMDM1ZDcw",
+  "snapshot_id": "MTY1NTc1MDc5MywwMDAwMDAwMGVhM2FlZGFkMzI5NjBjYWZhYThkMzQxZGNjZGJkNGIw",
   "tracks": [
     {
       "added_at": "2022-06-17 04:02:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Float",
-        "url": "https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R"
-      },
-      "artists": [
-        {
-          "name": "Call Me Karizma",
-          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
-        }
-      ],
-      "duration_ms": 169093,
-      "name": "Float",
-      "url": "https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Your Touch",
         "url": "https://open.spotify.com/album/5JFoJ30gCidTapLFVuyTeF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 225038,
       "name": "Your Touch",
       "url": "https://open.spotify.com/track/5Mnh0r4fIBfKW1QjaRBKFH"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "Float",
+        "url": "https://open.spotify.com/album/057yHZleUWDU9CKw9ihU2R"
+      },
+      "artists": [
+        {
+          "name": "Call Me Karizma",
+          "url": "https://open.spotify.com/artist/5fENlrINIVP0gJOtKxvORt"
+        }
+      ],
+      "duration_ms": 169093,
+      "name": "Float",
+      "url": "https://open.spotify.com/track/54JbP4PgOMQGowCbCfjCNA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Draw Down The Moon",
-        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
-      },
-      "artists": [
-        {
-          "name": "Foxing",
-          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Go Down Together",
-      "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Lunatic",
         "url": "https://open.spotify.com/album/5YSnsjuEl52GiHFj0vRzDR"
       },
@@ -1503,22 +1487,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "OH NAH OH NAH (feat. Kamiyada+)",
-        "url": "https://open.spotify.com/album/19284bUazQyICc55efdKcc"
+        "name": "Draw Down The Moon",
+        "url": "https://open.spotify.com/album/4DOnbp4wcdxexquFeRhT6n"
       },
       "artists": [
         {
-          "name": "93FEETOFSMOKE",
-          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
-        },
-        {
-          "name": "Kamiyada+",
-          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+          "name": "Foxing",
+          "url": "https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR"
         }
       ],
-      "duration_ms": 158935,
-      "name": "OH NAH OH NAH (feat. Kamiyada+)",
-      "url": "https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB"
+      "duration_ms": 195706,
+      "name": "Go Down Together",
+      "url": "https://open.spotify.com/track/0oSHS50JBCzpgetwyPuf1d"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1543,6 +1523,26 @@
       "duration_ms": 171587,
       "name": "Sound the Alarm (feat. Rivers Cuomo of Weezer & Royal & the Serpent)",
       "url": "https://open.spotify.com/track/3OyRfX2JGBCPWoQsYBFqQu"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "OH NAH OH NAH (feat. Kamiyada+)",
+        "url": "https://open.spotify.com/album/19284bUazQyICc55efdKcc"
+      },
+      "artists": [
+        {
+          "name": "93FEETOFSMOKE",
+          "url": "https://open.spotify.com/artist/0plNgbIlOc13T8ot3vyK79"
+        },
+        {
+          "name": "Kamiyada+",
+          "url": "https://open.spotify.com/artist/7cB6KjTm98hhNE9eeyhcnF"
+        }
+      ],
+      "duration_ms": 158935,
+      "name": "OH NAH OH NAH (feat. Kamiyada+)",
+      "url": "https://open.spotify.com/track/3DD5a4oJQo4ZIjDsYWvMjB"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
-      },
-      "artists": [
-        {
-          "name": "Diskopunk",
-          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
-        }
-      ],
-      "duration_ms": 197749,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
-    },
-    {
-      "added_at": "2022-06-17 04:02:00",
-      "album": {
         "name": "Death Of A Fantasy",
         "url": "https://open.spotify.com/album/6lmFyx2YERrRXaGBnMw8bL"
       },
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "come around",
-        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/4b7DQdQztY3wvk8DJB8bgz"
       },
       "artists": [
         {
-          "name": "Omri",
-          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+          "name": "Diskopunk",
+          "url": "https://open.spotify.com/artist/5Ck4KWOZsbrSQpiLimooDp"
         }
       ],
-      "duration_ms": 219789,
-      "name": "come around",
-      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
+      "duration_ms": 197749,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/5jRJlGB5EP7HFKwYBKvlSA"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1691,6 +1675,22 @@
       "duration_ms": 219745,
       "name": "Heaven Angel",
       "url": "https://open.spotify.com/track/3rk6IW3MBirMnertH3l5Ek"
+    },
+    {
+      "added_at": "2022-06-17 04:02:00",
+      "album": {
+        "name": "come around",
+        "url": "https://open.spotify.com/album/2ZRUYAxTyymZaYKvPhXATs"
+      },
+      "artists": [
+        {
+          "name": "Omri",
+          "url": "https://open.spotify.com/artist/2Lku5fIu2jo19qXhz82Qio"
+        }
+      ],
+      "duration_ms": 219789,
+      "name": "come around",
+      "url": "https://open.spotify.com/track/4ghFfl5uKi45yybjTniMeJ"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1727,18 +1727,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Guilty Pleasure",
-        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
+        "name": "Can't Get You Out of My Head",
+        "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
       },
       "artists": [
         {
-          "name": "Groupthink",
-          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
+          "name": "Johnny Goth",
+          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
         }
       ],
-      "duration_ms": 187059,
-      "name": "Guilty Pleasure",
-      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
+      "duration_ms": 190728,
+      "name": "Can't Get You Out of My Head",
+      "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
     },
     {
       "added_at": "2022-06-17 04:02:00",
@@ -1759,18 +1759,18 @@
     {
       "added_at": "2022-06-17 04:02:00",
       "album": {
-        "name": "Can't Get You Out of My Head",
-        "url": "https://open.spotify.com/album/3BE31HD0sbdeIBL791ayyV"
+        "name": "Guilty Pleasure",
+        "url": "https://open.spotify.com/album/6IVoJEH4qvoXUngVo6R96d"
       },
       "artists": [
         {
-          "name": "Johnny Goth",
-          "url": "https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b"
+          "name": "Groupthink",
+          "url": "https://open.spotify.com/artist/6RQvRKNtkO1CeNyGkY8ok0"
         }
       ],
-      "duration_ms": 190728,
-      "name": "Can't Get You Out of My Head",
-      "url": "https://open.spotify.com/track/6mtTiVREzK3kV0E65MXCZo"
+      "duration_ms": 187059,
+      "name": "Guilty Pleasure",
+      "url": "https://open.spotify.com/track/0fXxaWPApfhAx0SQ8CGrEU"
     },
     {
       "added_at": "2022-06-17 04:02:00",

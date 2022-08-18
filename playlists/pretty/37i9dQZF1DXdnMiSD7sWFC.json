@@ -1,12 +1,12 @@
 {
   "description": "your guide for a peaceful night.",
-  "num_followers": 34874,
+  "num_followers": 34901,
   "original_name": "night light ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMDQyMmNlYWZjZGQ5MjZmZWYyNDMxZGYxOTA0YWM4NDA1",
+  "snapshot_id": "MTY0MjAxMDMwNCwwMDAwMDAwMGI2OGU1ODA4NjEyYTdkYjk4YTliZjE1MjY1OTIyMDA4",
   "tracks": [
     {
       "added_at": "2022-01-12 17:58:24",
@@ -931,22 +931,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Different Kinds of Light",
-        "url": "https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 185533,
-      "name": "Different Kinds of Light",
-      "url": "https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Different Kinds of Light",
+        "url": "https://open.spotify.com/album/3GuKxYi7tirtH3BZvTGddh"
+      },
+      "artists": [
+        {
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
+        }
+      ],
+      "duration_ms": 185533,
+      "name": "Different Kinds of Light",
+      "url": "https://open.spotify.com/track/53qIXnw0apr7SVNbfdiGqR"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "I Can Go With You",
-        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
-      },
-      "artists": [
-        {
-          "name": "Sam Burton",
-          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
-        }
-      ],
-      "duration_ms": 216080,
-      "name": "I Can Go With You",
-      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "If & When",
         "url": "https://open.spotify.com/album/39VHhQwmza9iT3K3PuNHSU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 213252,
       "name": "You're Smiling (But I Don't Believe You)",
       "url": "https://open.spotify.com/track/7ajY0y3joEbeL1gZW4ujmR"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "I Can Go With You",
+        "url": "https://open.spotify.com/album/5CgAtDCY8HxQ0eyt4RQQCj"
+      },
+      "artists": [
+        {
+          "name": "Sam Burton",
+          "url": "https://open.spotify.com/artist/38uF92nRI3YmOAeocf4D6J"
+        }
+      ],
+      "duration_ms": 216080,
+      "name": "I Can Go With You",
+      "url": "https://open.spotify.com/track/2PRTaVpNOOIQSKuOqbjfSX"
     },
     {
       "added_at": "2022-01-12 17:58:24",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-01-12 17:58:24",
       "album": {
-        "name": "Don't Shy Away",
-        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
-      },
-      "artists": [
-        {
-          "name": "Loma",
-          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
-        }
-      ],
-      "duration_ms": 290053,
-      "name": "Ocotillo",
-      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2022-01-12 17:58:24",
-      "album": {
         "name": "Count The Stairs",
         "url": "https://open.spotify.com/album/3SN77D9un4frOIHa3vbblM"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 214221,
       "name": "Seeing Things",
       "url": "https://open.spotify.com/track/4hbv9aipddzC45SYVXPc3K"
+    },
+    {
+      "added_at": "2022-01-12 17:58:24",
+      "album": {
+        "name": "Don't Shy Away",
+        "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
+      },
+      "artists": [
+        {
+          "name": "Loma",
+          "url": "https://open.spotify.com/artist/4oCcCzMjKNCjQTzxtVlOJT"
+        }
+      ],
+      "duration_ms": 290053,
+      "name": "Ocotillo",
+      "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
     },
     {
       "added_at": "2022-01-12 17:58:24",

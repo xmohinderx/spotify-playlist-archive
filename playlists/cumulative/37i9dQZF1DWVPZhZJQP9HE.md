@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Vaisagh
 
-168 songs - 10 hr 13 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
+169 songs - 10 hr 17 min - [published](https://open.spotify.com/playlist/2PMncOoQzIIDP1bjPCpxj8)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,6 +167,7 @@
 | [Vazhvatha Savatha](https://open.spotify.com/track/6XJKEahOAoz5HJkEHbWDiO) | [AJ Shangarjan](https://open.spotify.com/artist/2TVyorJdc9z0nv29BHuS60), [Deshany AJS](https://open.spotify.com/artist/71iFtU6JCRgIAE8QfNySiV) | [Vazhvatha Savatha](https://open.spotify.com/album/5lN01Il4dJaDNXNmvTVRkU) | 3:03 | 2022-07-21 | 2022-08-10 |
 | [Veeran \- From "Think Originals"](https://open.spotify.com/track/1fC8EY8jDB1cZHkhFhPLFF) | [Kaber Vasuki](https://open.spotify.com/artist/7dDSQfbUWrNvRqpNP92slb) | [Veeran \(From "Think Originals"\)](https://open.spotify.com/album/2rf47Fe6cNoGWYrTc5SqSv) | 2:57 | 2022-08-04 |  |
 | [Velli Meenum](https://open.spotify.com/track/4M988VyRKdAq26avTTzXDm) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Jeevanandhan Ram](https://open.spotify.com/artist/4n87xJBRV9T5lxg02Bl6ax), [Ratheesh Seenivasagam](https://open.spotify.com/artist/3gbBYzebTn3CcnbiL5QD0h) | [Velli Meenum](https://open.spotify.com/album/4rJ3faxZnNbpc5U2r2tzKe) | 3:58 | 2022-07-25 |  |
+| [Vena Vena Poo \- From "Valigal"](https://open.spotify.com/track/500jwNLc6tCyJiHvUeIhGG) | [Gunaji](https://open.spotify.com/artist/1c8auuyeiow0zClBZgeJWo), [Arjun Heyjay](https://open.spotify.com/artist/4SRG9FDiXqDMispFR31N2g), [Guna Sekaran](https://open.spotify.com/artist/1w5Q2RXE3EfpuK8lFyRf1N) | [Vena Vena Poo \(From "Valigal"\)](https://open.spotify.com/album/1jtMDDSWyUI87iyCmLol3S) | 4:22 | 2022-08-17 |  |
 | [Vennilavum Ponninadhiyum](https://open.spotify.com/track/6l0zMrCEPTC1tIHRXqjwg2) | [ADY KRIZ](https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Vennilavum Ponninadhiyum](https://open.spotify.com/album/58PYBlSE6mWtDRD5aXPCx8) | 3:13 | 2022-02-03 |  |
 | [Vettai](https://open.spotify.com/track/4iWIMnU0cu45lsEIsG4wlc) | [Shabir](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng), [Yogi B](https://open.spotify.com/artist/614RN5ndeqpLlqg1yDbjtm) | [Vettai](https://open.spotify.com/album/7hTKG1aNFbQDr6YY7HZnGz) | 3:23 | 2022-04-05 | 2022-06-18 |
 | [Vizha](https://open.spotify.com/track/3nhlWORU1Zn9j9rNzFO9e2) | [Rishi K](https://open.spotify.com/artist/43IKH64gsHdNOnpTcUbIQj) | [Vizha](https://open.spotify.com/album/4WnsKl21JeKrzpsnuQCLNV) | 2:50 | 2022-08-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 
 > The perfect classical tunes for pruning, planting, and putting your feet up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,686 likes - 51 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,795 likes - 51 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUajed02NzWR.md) - [plain]
 | 50 | [Quartet in G major / Sol majeur / G\-dur: I\. Largo \- Allegro \- Largo](https://open.spotify.com/track/2HDDWLNltnJLPN2xUsMjOE) | [Georg Philipp Telemann](https://open.spotify.com/artist/2fg5h5pzleqI4RjFopWroj), [Petra Mullejans](https://open.spotify.com/artist/0JGI98ag3YDbM9SCHcnKXg), [Gottfried Von Der Goltz](https://open.spotify.com/artist/4Jq1SP0L2atkSMv5wNOU66), [Freiburger Barockorchester](https://open.spotify.com/artist/2fJKxKjBxD1X1NkkG78qai) | [Telemann: Complete Tafelmusik](https://open.spotify.com/album/5D10EAjaasKfPLtnKV6qAn) | 3:38 |
 | 51 | [Orfeo Ed Euridice: Dance of the Blessed Spirits \(Act II\)](https://open.spotify.com/track/6JoMhlsYqtzwBCVZaEdO6j) | [Christoph Willibald Gluck](https://open.spotify.com/artist/7vfydQ0nVBVgJ0ajs8EtRM), [Karlheinz Zoeller](https://open.spotify.com/artist/3hWZ5HYXvAJf8ZS9KkFYtn), [Berliner Philharmoniker](https://open.spotify.com/artist/6uRJnvQ3f8whVnmeoecv5Z), [Herbert von Karajan](https://open.spotify.com/artist/5zCaQxjl110XTrm4LQ1CxY) | [Herbert von Karajan \- Adagio 2](https://open.spotify.com/album/0DsmyLeY6xSF2r7pzs0Nwh) | 6:49 |
 
-Snapshot ID: `MTY1MjE4NDIwNiwwMDAwMDAwMGVkYjdlZmFkZDM5NmQ1MDZiMzQ3NGJmMWQ2NDNiNDk4`
+Snapshot ID: `MTY2MDc0NzUyMSwwMDAwMDAwMDYwZTBmOTIxNGFlYmQxNDJiNDczMjhiOWFlYjE1ZGNh`

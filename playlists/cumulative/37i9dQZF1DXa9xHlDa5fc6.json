@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-06-16",
-  "description": "Chill out with these awesome alt songs.",
+  "description": "unwind with these alternative favorites.",
   "name": "License To Chill",
   "published_playlist_ids": [
     "6Sz9PXGuNaiQlCoxe28vAO"
@@ -545,7 +545,7 @@
       ],
       "date_added": "2022-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 189886,
       "name": "Blows",
       "url": "https://open.spotify.com/track/25AByE7r0IzMqEHqZY1gZ8"
@@ -909,7 +909,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 260293,
       "name": "Coincidental",
       "url": "https://open.spotify.com/track/3pdaoKvvkDRW5ed0LM2LBe"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 260173,
       "name": "Daddy Issues",
       "url": "https://open.spotify.com/track/5E30LdtzQTGqRvNd7l6kG5"
@@ -1161,10 +1161,28 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 214230,
       "name": "Death of Me",
       "url": "https://open.spotify.com/track/0GX4H5WP1u97oVCStRXYyi"
+    },
+    {
+      "album": {
+        "name": "Desert Snow",
+        "url": "https://open.spotify.com/album/5M50Jray1eYGOW5gkTzUjT"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215853,
+      "name": "Desert Snow",
+      "url": "https://open.spotify.com/track/0BVZY0wh4lUICV71haiBR4"
     },
     {
       "album": {
@@ -1233,7 +1251,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 189651,
       "name": "Drag",
       "url": "https://open.spotify.com/track/0oXwUeFAE6IR2lYhaTpxRT"
@@ -1323,7 +1341,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 218106,
       "name": "Electric Love",
       "url": "https://open.spotify.com/track/2GiJYvgVaD2HtM8GqD9EgQ"
@@ -1547,6 +1565,24 @@
       "duration_ms": 245040,
       "name": "Friends",
       "url": "https://open.spotify.com/track/7A6lmFpkYkHTYQqkKzo71z"
+    },
+    {
+      "album": {
+        "name": "Friends I Barely Know",
+        "url": "https://open.spotify.com/album/51KS9zdT2oJWaRPEH1W6w5"
+      },
+      "artists": [
+        {
+          "name": "Windser",
+          "url": "https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179946,
+      "name": "Friends I Barely Know",
+      "url": "https://open.spotify.com/track/4Yzy5bGrMOlLpYcOtWxGIM"
     },
     {
       "album": {
@@ -2202,6 +2238,28 @@
     },
     {
       "album": {
+        "name": "I've Never Been To LA",
+        "url": "https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lang",
+          "url": "https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn"
+        },
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159129,
+      "name": "I've Never Been To LA (Edit)",
+      "url": "https://open.spotify.com/track/5f20q1GsH6sr5tD91jgbyP"
+    },
+    {
+      "album": {
         "name": "IFK (i fucking know)",
         "url": "https://open.spotify.com/album/63kQGsHtkPcqYLIhrQwC66"
       },
@@ -2805,7 +2863,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 196512,
       "name": "Minimum Wage",
       "url": "https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v"
@@ -3118,6 +3176,24 @@
     },
     {
       "album": {
+        "name": "Part Of The Band",
+        "url": "https://open.spotify.com/album/4B8N7qve3H2cNQux3vqywM"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260148,
+      "name": "Part Of The Band",
+      "url": "https://open.spotify.com/track/79vEv8zqy9tLYsTxxkXHXq"
+    },
+    {
+      "album": {
         "name": "Past Lives",
         "url": "https://open.spotify.com/album/2le3SAt5igCPLH6YEl12ln"
       },
@@ -3298,6 +3374,24 @@
     },
     {
       "album": {
+        "name": "Puffer",
+        "url": "https://open.spotify.com/album/0YmzktvGgOcjZCYjSdcG6n"
+      },
+      "artists": [
+        {
+          "name": "Cautious Clay",
+          "url": "https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152998,
+      "name": "Puffer",
+      "url": "https://open.spotify.com/track/2NC0JdCc2XgrNa0ipNOfML"
+    },
+    {
+      "album": {
         "name": "Record Player (with AJR)",
         "url": "https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5"
       },
@@ -3320,6 +3414,24 @@
     },
     {
       "album": {
+        "name": "Run Away to Mars",
+        "url": "https://open.spotify.com/album/7zqg9wqNkkdLuaHDB3LU0W"
+      },
+      "artists": [
+        {
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213753,
+      "name": "Run Away to Mars",
+      "url": "https://open.spotify.com/track/16ufCOlMEIJkFstIYtQT4w"
+    },
+    {
+      "album": {
         "name": "Scarecrow",
         "url": "https://open.spotify.com/album/26dmSjii3NjrZuodAR09zU"
       },
@@ -3335,6 +3447,28 @@
       "duration_ms": 200838,
       "name": "Scarecrow",
       "url": "https://open.spotify.com/track/40KHZqR1ADbcSAVzuzrmLm"
+    },
+    {
+      "album": {
+        "name": "Pastlife",
+        "url": "https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a"
+      },
+      "artists": [
+        {
+          "name": "Day Wave",
+          "url": "https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK"
+        },
+        {
+          "name": "KennyHoopla",
+          "url": "https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232653,
+      "name": "See You When The End's Near",
+      "url": "https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi"
     },
     {
       "album": {
@@ -3554,6 +3688,24 @@
     },
     {
       "album": {
+        "name": "Spinning the Truth Around",
+        "url": "https://open.spotify.com/album/6i7WsXMKef0aJnPUN9uMOP"
+      },
+      "artists": [
+        {
+          "name": "Blue October",
+          "url": "https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289165,
+      "name": "Spinning the Truth Around",
+      "url": "https://open.spotify.com/track/5Lkhf0rFPpKy3GaSimofXv"
+    },
+    {
+      "album": {
         "name": "Holding On, Holding Out",
         "url": "https://open.spotify.com/album/3bvnrracdMUT8W80YAtf4s"
       },
@@ -3727,7 +3879,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/1upVvXlWQUwAPuLN3oh8lk"
@@ -3799,7 +3951,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 255133,
       "name": "The Beach",
       "url": "https://open.spotify.com/track/2u0CelO5c81XS7z3dGpHbS"
@@ -3878,6 +4030,24 @@
     },
     {
       "album": {
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177533,
+      "name": "the perfect pair",
+      "url": "https://open.spotify.com/track/41P6Tnd8KIHqON0QIydx6a"
+    },
+    {
+      "album": {
         "name": "What\u2019s It Like Over There?",
         "url": "https://open.spotify.com/album/75HYUZI2d0FDMlsIEfp6Kj"
       },
@@ -3943,10 +4113,28 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 210943,
       "name": "The Youth",
       "url": "https://open.spotify.com/track/34VxehtpB6VaZ7s0rHOOXb"
+    },
+    {
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7cwi5zqBBnLFVNO1HR49Zd"
+      },
+      "artists": [
+        {
+          "name": "Vundabar",
+          "url": "https://open.spotify.com/artist/1W4itxt3vwhmrgLEBuVHJ6"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262346,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/1kOrZmrSnP1gub1kneRNHF"
     },
     {
       "album": {
@@ -4256,6 +4444,24 @@
     },
     {
       "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/46x6iizcB1N1WdwHO7EO7e"
+      },
+      "artists": [
+        {
+          "name": "Tegan and Sara",
+          "url": "https://open.spotify.com/artist/5e1BZulIiYWPRm8yogwUYH"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228466,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AsPDfysPpXHXm8JK85F3W"
+    },
+    {
+      "album": {
         "name": "Hummingbird",
         "url": "https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq"
       },
@@ -4267,7 +4473,7 @@
       ],
       "date_added": "2019-06-16",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 261760,
       "name": "You & I",
       "url": "https://open.spotify.com/track/6SgHlKcfkRQ6XohmDR1ugQ"
@@ -4289,6 +4495,24 @@
       "duration_ms": 270000,
       "name": "You and I",
       "url": "https://open.spotify.com/track/26WlFnTlUSM5R0xg5p6epW"
+    },
+    {
+      "album": {
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2022-08-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153000,
+      "name": "You Get Me So High",
+      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
       "album": {
@@ -4357,7 +4581,7 @@
       ],
       "date_added": "2021-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 177679,
       "name": "Your Life Your Time - Acoustic",
       "url": "https://open.spotify.com/track/33whXaknBDUx53evCaViv1"

@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 90s rock! Cover: Pixies.
 
-629 songs - 1 day 22 hr 8 min - [published](https://open.spotify.com/playlist/5fY6Ph5wM7EgXYDIjEJqVm)
+630 songs - 1 day 22 hr 13 min - [published](https://open.spotify.com/playlist/5fY6Ph5wM7EgXYDIjEJqVm)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -339,7 +339,7 @@
 | [Mota](https://open.spotify.com/track/5SvJWjPUiJcXqtXm8BmM5z) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Ixnay On The Hombre](https://open.spotify.com/album/2PSgMApk089eV6e5LPbQeS) | 2:57 | 2022-04-28 | 2022-07-27 |
 | [Mother Mother](https://open.spotify.com/track/6WGaVdhY8uMWMgxiKpdLVy) | [Tracy Bonham](https://open.spotify.com/artist/6RaSfqo4f0b42iNouQeAKK) | [The Burdens Of Being Upright](https://open.spotify.com/album/1tKKCue9Yi0oYnzP68fLvz) | 3:00 | 2022-04-28 | 2022-07-25 |
 | [Mother We Just Can't Get Enough](https://open.spotify.com/track/5rb29MoYiBwXzXCtJ94oa1) | [New Radicals](https://open.spotify.com/artist/0Grjlu7ncIuCaSYvCs9fcd) | [Maybe You've Been Brainwashed Too](https://open.spotify.com/album/13btXEnBerpA1UjIVtsMAR) | 5:46 | 2022-04-28 | 2022-05-25 |
-| [Motorcycle Drive By](https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:22 | 2022-04-28 |  |
+| [Motorcycle Drive By](https://open.spotify.com/track/47wtXjG0Sk6DI6cjkRBcEg) | [Third Eye Blind](https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS) | [Third Eye Blind](https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ) | 4:22 | 2022-04-28 | 2022-08-18 |
 | [Moving](https://open.spotify.com/track/6LpKziy8JtKAQG7C6KBxCn) | [Supergrass](https://open.spotify.com/artist/0sHeX8oQ6o7xic3wMf4NBU) | [Supergrass](https://open.spotify.com/album/7fAfHvKNHlQav4CtSN7Iqz) | 4:26 | 2022-04-28 | 2022-07-22 |
 | [Mr\. Self Destruct](https://open.spotify.com/track/2sSRhCDZQ53DsR105l18JN) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO) | [The Downward Spiral](https://open.spotify.com/album/7a7arAXDE0BiaMgHLhdjGF) | 4:30 | 2022-04-28 | 2022-07-17 |
 | [Mrs\. Potters Lullaby](https://open.spotify.com/track/7bGdwM0sbJK4nRDV43jTtp) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [This Desert Life](https://open.spotify.com/album/60561o2TNguqnXD5ZurDup) | 7:45 | 2022-04-28 | 2022-07-09 |
@@ -516,6 +516,7 @@
 | [Super Charger Heaven](https://open.spotify.com/track/22FOPSoXifaTrkrFvE3t9b) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [Astro Creep: 2000 Songs Of Love, Destruction And Other Synthetic Delusions Of The Electric Head](https://open.spotify.com/album/4U9gI7vQHDDo651yYJo02O) | 3:37 | 2022-04-28 | 2022-07-25 |
 | [Superunknown](https://open.spotify.com/track/6shF79BmasRYo0ktqAvmXz) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Superunknown \(Deluxe Edition\)](https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA) | 5:06 | 2022-04-28 | 2022-07-29 |
 | [Surf Wax America](https://open.spotify.com/track/1w8gsT5RBrFfTrLYhDRJIk) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 3:06 | 2022-04-28 | 2022-07-05 |
+| [Swallowed](https://open.spotify.com/track/5eilSVtn5pkequUpyV6w9d) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Razorblade Suitcase \(In Addition\)](https://open.spotify.com/album/5nLESM0i6o7nWCyu7FAeb9) | 4:51 | 2022-04-28 |  |
 | [Swallowed \- Remastered](https://open.spotify.com/track/2EYnvZoSEkwiC8ynBcjLyi) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [Razorblade Suitcase \(Remastered\)](https://open.spotify.com/album/4cEtSMK8OSQpxGk17nvR3W) | 4:51 | 2022-04-28 | 2022-07-29 |
 | [Sweating Bullets \- Remastered 2004](https://open.spotify.com/track/6i7IXg8j7ZngiEOgBYjkhw) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 5:27 | 2022-04-28 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/0273i5ysrlovK8rr0KJfQn) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Globe Sessions](https://open.spotify.com/album/1eFS4z1AJJCn2zzkZBwzPb) | 3:54 | 2022-04-28 |  |

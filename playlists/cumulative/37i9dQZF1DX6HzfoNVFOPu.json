@@ -5787,6 +5787,24 @@
     {
       "album": {
         "name": "Vampire Weekend",
+        "url": "https://open.spotify.com/album/7n8NJkGKAl2np1bXiRn0CY"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "date_added": "2022-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195733,
+      "name": "Oxford Comma",
+      "url": "https://open.spotify.com/track/0ful4PHfTIxzXiZSZsXQ0H"
+    },
+    {
+      "album": {
+        "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/5oXBmKbyJeQftWMo87cQ9F"
       },
       "artists": [
@@ -8299,7 +8317,7 @@
       ],
       "date_added": "2022-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 255813,
       "name": "Try Honesty",
       "url": "https://open.spotify.com/track/3fPSHjVO4iwwGEhHvTwlNb"

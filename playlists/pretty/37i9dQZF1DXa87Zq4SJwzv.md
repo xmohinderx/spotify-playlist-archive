@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 
 > Celebra el amor igualitario con una fina selección hecha por Sobrino.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,394 likes - 43 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,398 likes - 43 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa87Zq4SJwzv.md) - [plain]
 | 39 | [Heavy Metal and Reflective](https://open.spotify.com/track/71PgrkvpCrNxpM1nvapbqG) | [Azealia Banks](https://open.spotify.com/artist/7gRhy3MIPHQo5CXYfWaw9I) | [Broke with Expensive Taste](https://open.spotify.com/album/6ptPMZzScoFqSVfzph6m9B) | 2:36 |
 | 40 | [Burkina Faso](https://open.spotify.com/track/0oYlFcq0DgLXMzzBSZuPfR) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:55 |
 | 41 | [Huellas](https://open.spotify.com/track/6zAnj2RqKMo16ioTmwpM0s) | [Sobrino](https://open.spotify.com/artist/0vEEYg1cJscAAw4sekHSOf) | [Huellas](https://open.spotify.com/album/3XuSgPkpzVPVaYD0n0a8Pd) | 2:58 |
-| 42 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
-| 43 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 |
+| 42 | [Born Yesterday](https://open.spotify.com/track/0M6kxde1FdGI95X0XPuru6) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Born Yesterday](https://open.spotify.com/album/7mjYTOjmcH4UHnCdct2xZi) | 3:18 |
+| 43 | [Nonbinary](https://open.spotify.com/track/4lUlYGT5VvZWN3GBDIc9KT) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:19 |
 
-Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMDNjZmY4Mzg3ODQyMTlmMTZkNjM5YzU4MGU3NWNkNGEw`
+Snapshot ID: `MTY1NjU0NjIxNywwMDAwMDAwMDAyN2JiMmViMmMwZGMyYjk2OWU4MTkwMzhkYmVhMDZi`

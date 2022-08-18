@@ -375,6 +375,24 @@
     {
       "album": {
         "name": "Chiquita",
+        "url": "https://open.spotify.com/album/1xERT4eWPhXVdE1SI1Wq7l"
+      },
+      "artists": [
+        {
+          "name": "Taylor DeBlock",
+          "url": "https://open.spotify.com/artist/3LGMSoiXzbb7rX5ctDXFrD"
+        }
+      ],
+      "date_added": "2022-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149318,
+      "name": "Chiquita",
+      "url": "https://open.spotify.com/track/4za1MD83DGTxNnmsNlVmy7"
+    },
+    {
+      "album": {
+        "name": "Chiquita",
         "url": "https://open.spotify.com/album/57EgKo9V4vRdOSNaiBEfCv"
       },
       "artists": [
@@ -385,7 +403,7 @@
       ],
       "date_added": "2022-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 149318,
       "name": "Chiquita",
       "url": "https://open.spotify.com/track/7ACjdrdU2NaEq8s740awuq"

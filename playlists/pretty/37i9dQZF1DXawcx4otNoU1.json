@@ -1,12 +1,12 @@
 {
   "description": "For those cozy moments.",
-  "num_followers": 427838,
+  "num_followers": 428072,
   "original_name": "Spooning",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDY1NzUzNSwwMDAwMDAwMDk5YWE0Mzc4MTA1MjQ3NzlkZmUzZmM3NTJlMWIzZTVh",
+  "snapshot_id": "MTY2MDY1NzUzNSwwMDAwMDAwMGI1NWQ0ZjcwYzgwMGM4NDc3NDE3NmQ4MjA2ZjIxMmJh",
   "tracks": [
     {
       "added_at": "2022-08-12 12:00:00",
@@ -455,22 +455,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
-      },
-      "artists": [
-        {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "Better Together",
-      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "~how i'm feeling~",
         "url": "https://open.spotify.com/album/6EgJXcGqaUvgZIF9bqPXfP"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 189906,
       "name": "Feelings",
       "url": "https://open.spotify.com/track/0s26En1JoJhVj32vizElpA"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "In Between Dreams",
+        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+      },
+      "artists": [
+        {
+          "name": "Jack Johnson",
+          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "Better Together",
+      "url": "https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Every Kingdom",
-        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 249173,
-      "name": "Only Love",
-      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Affirmation",
         "url": "https://open.spotify.com/album/3w69KK7uEA8OsKuW3OeQcC"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 250360,
       "name": "I Knew I Loved You",
       "url": "https://open.spotify.com/track/6nozDLxeL0TE4MS9GqYU1v"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Every Kingdom",
+        "url": "https://open.spotify.com/album/57PgT4iuDurzlJnkYjrpce"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/2uhEKg8kIzpdvz4gyy6x8W"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "I Cry When I Laugh",
-        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 265381,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Last One",
         "url": "https://open.spotify.com/album/3tBjEC0oobiXFkfl6e9Qwq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 181823,
       "name": "Last One",
       "url": "https://open.spotify.com/track/4BMhlUG6LpQhcpvRuvfQRM"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "I Cry When I Laugh",
+        "url": "https://open.spotify.com/album/6AGmGousDdMGevlVZO04LO"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 265381,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5SIe3gy33G2i0oMexandjR"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Eyes on You",
-        "url": "https://open.spotify.com/album/6jsMdQu4HDvujVp2IQmweI"
-      },
-      "artists": [
-        {
-          "name": "Millie Turner",
-          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
-        }
-      ],
-      "duration_ms": 168080,
-      "name": "Eyes on You",
-      "url": "https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Kaleidoscope Evening",
         "url": "https://open.spotify.com/album/5am09sLNv7qC5QfPLC0KPG"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 163866,
       "name": "Kaleidoscope Evening",
       "url": "https://open.spotify.com/track/5D386TwGGyXGLxgFCO30kX"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
+        "name": "Eyes on You",
+        "url": "https://open.spotify.com/album/6jsMdQu4HDvujVp2IQmweI"
+      },
+      "artists": [
+        {
+          "name": "Millie Turner",
+          "url": "https://open.spotify.com/artist/53GC8IrnkJXGO7znOiv4tD"
+        }
+      ],
+      "duration_ms": 168080,
+      "name": "Eyes on You",
+      "url": "https://open.spotify.com/track/3Q6ppHSPI9Kpuc5ipKb7bP"
     },
     {
       "added_at": "2022-08-12 12:00:00",
@@ -1999,6 +1999,22 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "Amari' SZN 1",
+        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
+      },
+      "artists": [
+        {
+          "name": "Amari Noelle",
+          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
+        }
+      ],
+      "duration_ms": 182248,
+      "name": "Motion",
+      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "Risking It All",
         "url": "https://open.spotify.com/album/4ZeKP8mcR8tkpiKcIqIgeB"
       },
@@ -2035,22 +2051,6 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
-        "name": "Lightyears",
-        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
-      },
-      "artists": [
-        {
-          "name": "David Ryan Harris",
-          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
-        }
-      ],
-      "duration_ms": 250893,
-      "name": "Shelter",
-      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/4VwxhbPs1JBTsjZH9dcTht"
       },
@@ -2067,6 +2067,22 @@
     {
       "added_at": "2022-08-12 12:00:00",
       "album": {
+        "name": "Lightyears",
+        "url": "https://open.spotify.com/album/7cVQV3nQQebitwdDJMKmT9"
+      },
+      "artists": [
+        {
+          "name": "David Ryan Harris",
+          "url": "https://open.spotify.com/artist/3wnsAakCkhyU3yKQYMZmGo"
+        }
+      ],
+      "duration_ms": 250893,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/5JdnVXe1i6CI8a0cdPtLOc"
+    },
+    {
+      "added_at": "2022-08-12 12:00:00",
+      "album": {
         "name": "High Tide",
         "url": "https://open.spotify.com/album/4Ch60olKAVGKPhHtSPrmKx"
       },
@@ -2079,22 +2095,6 @@
       "duration_ms": 215386,
       "name": "High Tide",
       "url": "https://open.spotify.com/track/0eWVJ7gQPP0HcZOAuAzzi4"
-    },
-    {
-      "added_at": "2022-08-12 12:00:00",
-      "album": {
-        "name": "Amari' SZN 1",
-        "url": "https://open.spotify.com/album/7xHdTbAn5n1xFyW6afp5m4"
-      },
-      "artists": [
-        {
-          "name": "Amari Noelle",
-          "url": "https://open.spotify.com/artist/0oOSUbpeJXzsaPm0x7wBF7"
-        }
-      ],
-      "duration_ms": 182248,
-      "name": "Motion",
-      "url": "https://open.spotify.com/track/2S9z9vVqHYMHSDaekOIdtB"
     },
     {
       "added_at": "2022-08-12 12:00:00",

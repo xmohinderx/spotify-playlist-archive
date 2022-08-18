@@ -1,12 +1,12 @@
 {
   "description": "Real nasty house. Cover: Knock2",
-  "num_followers": 391083,
+  "num_followers": 391204,
   "original_name": "Nasty Bits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMDFiZWEzNTM5MmM2MzI4NDYxYzA1MWIwNmI1ODVhOGQ4",
+  "snapshot_id": "MTY2MDI3Njg2MCwwMDAwMDAwMGRmNmYxNzgxYmE5MTkzZWZkZWZhNGZmNTE5NWJlMjFm",
   "tracks": [
     {
       "added_at": "2022-07-29 04:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Work It",
-        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
-      },
-      "artists": [
-        {
-          "name": "VOLAC",
-          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
-        }
-      ],
-      "duration_ms": 154285,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Daddy / What Happens In Vegas",
         "url": "https://open.spotify.com/album/4jq7sudnqaNjpJh8FMNTKZ"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 160066,
       "name": "BOP - Hype Hop Edit (feat. DillanPonders, Kris the $pirit)",
       "url": "https://open.spotify.com/track/4pbekeVfUyyCNrBXgLBahS"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Work It",
+        "url": "https://open.spotify.com/album/4BNzkfb073vw9TvdtvGZRK"
+      },
+      "artists": [
+        {
+          "name": "VOLAC",
+          "url": "https://open.spotify.com/artist/4Nl6PVYLwbCFfr3UqQlFtE"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/2jC6oAT2P3w9HQBrRcQqFl"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -781,28 +781,20 @@
       "url": "https://open.spotify.com/track/0tjviLADqxF7DtolJgJLf1"
     },
     {
-      "added_at": "2022-07-22 04:01:00",
+      "added_at": "2022-07-29 04:01:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
+        "name": "Shalala",
+        "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
       },
       "artists": [
         {
-          "name": "Mike Cervello",
-          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
-        },
-        {
-          "name": "Curbi",
-          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
-        },
-        {
-          "name": "Confession",
-          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
         }
       ],
-      "duration_ms": 185515,
-      "name": "Deja Vu",
-      "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
+      "duration_ms": 168960,
+      "name": "Shalala",
+      "url": "https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -837,20 +829,28 @@
       "url": "https://open.spotify.com/track/3czS8iG6DI6SX5X4IT0uCu"
     },
     {
-      "added_at": "2022-07-29 04:01:00",
+      "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Shalala",
-        "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/6DX55O0G1V5RJVTCeO91ZX"
       },
       "artists": [
         {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+          "name": "Mike Cervello",
+          "url": "https://open.spotify.com/artist/4zYX8Aa744hQ5O2hpAYQI3"
+        },
+        {
+          "name": "Curbi",
+          "url": "https://open.spotify.com/artist/2XiiUuK68XNdHaHOAF5hnT"
+        },
+        {
+          "name": "Confession",
+          "url": "https://open.spotify.com/artist/415eldbC7phpeLkk7p5SG1"
         }
       ],
-      "duration_ms": 168960,
-      "name": "Shalala",
-      "url": "https://open.spotify.com/track/0GcTerEhHu6nqU93W0qa52"
+      "duration_ms": 185515,
+      "name": "Deja Vu",
+      "url": "https://open.spotify.com/track/4jRXoqeqFNxUI25ugusDyI"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -991,26 +991,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Burned",
-        "url": "https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        },
-        {
-          "name": "Coka Cobra",
-          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
-        }
-      ],
-      "duration_ms": 184285,
-      "name": "Burned",
-      "url": "https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Direct Me",
         "url": "https://open.spotify.com/album/7uqYxUvL2HPVg2aFLGFUAy"
       },
@@ -1051,22 +1031,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Licked",
-        "url": "https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4"
+        "name": "Burned",
+        "url": "https://open.spotify.com/album/4fHVjE9mafXWU5Ptbi9OnH"
       },
       "artists": [
         {
-          "name": "Wenzday",
-          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
         },
         {
-          "name": "Algo",
-          "url": "https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK"
+          "name": "Coka Cobra",
+          "url": "https://open.spotify.com/artist/6hkPxsEatcEhLl6sRPTHuC"
         }
       ],
-      "duration_ms": 318720,
-      "name": "G Spot",
-      "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
+      "duration_ms": 184285,
+      "name": "Burned",
+      "url": "https://open.spotify.com/track/1lCSVEqFldH6cTMnm28M8k"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1091,6 +1071,26 @@
       "duration_ms": 106875,
       "name": "Move To The Beat Like",
       "url": "https://open.spotify.com/track/4NVvx8aXIqxj2Pm0E4senX"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Licked",
+        "url": "https://open.spotify.com/album/3I549AvPzDfWUItpvHSid4"
+      },
+      "artists": [
+        {
+          "name": "Wenzday",
+          "url": "https://open.spotify.com/artist/1TOclxL64oLeB45DFWFFU2"
+        },
+        {
+          "name": "Algo",
+          "url": "https://open.spotify.com/artist/3b7KMI96oGOeQEoXhe4iBK"
+        }
+      ],
+      "duration_ms": 318720,
+      "name": "G Spot",
+      "url": "https://open.spotify.com/track/3jncEfaHJl2BMGjwk2POgn"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Pray For It",
-        "url": "https://open.spotify.com/album/5zKl0R2rtLDERSJOQz4hWR"
-      },
-      "artists": [
-        {
-          "name": "One True God",
-          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Pray For It",
-      "url": "https://open.spotify.com/track/32SL0NKS1QiR7XUKzlqufJ"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Lies",
         "url": "https://open.spotify.com/album/1c0Uiksf8eCx8QeRh4WhPC"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 167619,
       "name": "Lies",
       "url": "https://open.spotify.com/track/6Il5epZuJzpHVNVjYXrYIT"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Pray For It",
+        "url": "https://open.spotify.com/album/5zKl0R2rtLDERSJOQz4hWR"
+      },
+      "artists": [
+        {
+          "name": "One True God",
+          "url": "https://open.spotify.com/artist/35Of0m0cvpLYrmQ6qd5ocp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Pray For It",
+      "url": "https://open.spotify.com/track/32SL0NKS1QiR7XUKzlqufJ"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1259,6 +1259,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "Joker",
+        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
+      },
+      "artists": [
+        {
+          "name": "Kitone",
+          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
+        }
+      ],
+      "duration_ms": 127797,
+      "name": "Joker",
+      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Dance",
         "url": "https://open.spotify.com/album/31JMEsEl6SsAArvR0WLwQ3"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 221750,
       "name": "Here For You",
       "url": "https://open.spotify.com/track/1MKqVGJElkzGwG3MidkwNI"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "Joker",
-        "url": "https://open.spotify.com/album/30Z0hlDjEtGGxI6zKvdB2t"
-      },
-      "artists": [
-        {
-          "name": "Kitone",
-          "url": "https://open.spotify.com/artist/0G8avcrSozHqt8AJDrd4Xj"
-        }
-      ],
-      "duration_ms": 127797,
-      "name": "Joker",
-      "url": "https://open.spotify.com/track/2VvFtT6YXgtwcBjD8VMD24"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Move It",
-        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
-      },
-      "artists": [
-        {
-          "name": "Bok Nero",
-          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
-        }
-      ],
-      "duration_ms": 140701,
-      "name": "Move It",
-      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Trinity",
         "url": "https://open.spotify.com/album/0njFQTnCxfqVFWJh14Ptfd"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 222580,
       "name": "Trinity",
       "url": "https://open.spotify.com/track/2aYs0Kg0Mt9XbmzPml3pND"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Move It",
+        "url": "https://open.spotify.com/album/5wktvgz5IqlWiSegQBvQxo"
+      },
+      "artists": [
+        {
+          "name": "Bok Nero",
+          "url": "https://open.spotify.com/artist/7rnzdGq1qPizursGNI1P0V"
+        }
+      ],
+      "duration_ms": 140701,
+      "name": "Move It",
+      "url": "https://open.spotify.com/track/14JGGrnRhzw34yqcIlPlG6"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1491,6 +1491,30 @@
       "duration_ms": 195000,
       "name": "Fool",
       "url": "https://open.spotify.com/track/5DPkzkBSFFMY7u0QKSMIBC"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Move",
+        "url": "https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0"
+      },
+      "artists": [
+        {
+          "name": "SQWAD",
+          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
+        },
+        {
+          "name": "Badjokes",
+          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
+        },
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "duration_ms": 253440,
+      "name": "Move",
+      "url": "https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1577,30 +1601,6 @@
       "url": "https://open.spotify.com/track/0xWJdTcTxw1aJ1vqQwOlzp"
     },
     {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1b40F6fRwL4ddLOyii65M0"
-      },
-      "artists": [
-        {
-          "name": "SQWAD",
-          "url": "https://open.spotify.com/artist/46z8E62fwg6cqxCLNB1FrI"
-        },
-        {
-          "name": "Badjokes",
-          "url": "https://open.spotify.com/artist/4zE0NW3CyaxTBIulekUFMD"
-        },
-        {
-          "name": "Habstrakt",
-          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
-        }
-      ],
-      "duration_ms": 253440,
-      "name": "Move",
-      "url": "https://open.spotify.com/track/0JQmitIV9VQMT91VcvVNCU"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Surdose",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bored Ape Rave Club",
-        "url": "https://open.spotify.com/album/5fNa1rYMfbMkAbZn9sv1cm"
-      },
-      "artists": [
-        {
-          "name": "Bassjackers",
-          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
-        }
-      ],
-      "duration_ms": 146666,
-      "name": "Bored Ape Rave Club",
-      "url": "https://open.spotify.com/track/1cbzWFnvxNU9M059TVWDSU"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "This Is Night Bass: Vol. 14",
         "url": "https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 184091,
       "name": "Dibby Dibby DJ",
       "url": "https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Bored Ape Rave Club",
+        "url": "https://open.spotify.com/album/5fNa1rYMfbMkAbZn9sv1cm"
+      },
+      "artists": [
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "Bored Ape Rave Club",
+      "url": "https://open.spotify.com/track/1cbzWFnvxNU9M059TVWDSU"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1747,6 +1747,30 @@
       "duration_ms": 225000,
       "name": "Get Twisted",
       "url": "https://open.spotify.com/track/3fRBE44FFj6EXPtn4gXjXw"
+    },
+    {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Tune",
+        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
+      },
+      "artists": [
+        {
+          "name": "Dread MC",
+          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
+        },
+        {
+          "name": "DJ Q",
+          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
+        },
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Tune",
+      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
     },
     {
       "added_at": "2022-07-29 04:01:00",
@@ -1801,30 +1825,6 @@
       "url": "https://open.spotify.com/track/5W5OYUsIU6layuL0uQmCBX"
     },
     {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "Tune",
-        "url": "https://open.spotify.com/album/0wN5zaRkX38Eh8U8myFobq"
-      },
-      "artists": [
-        {
-          "name": "Dread MC",
-          "url": "https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn"
-        },
-        {
-          "name": "DJ Q",
-          "url": "https://open.spotify.com/artist/7dDPt2xIGymSDddx80OfF1"
-        },
-        {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Tune",
-      "url": "https://open.spotify.com/track/7ske1qDeuRwD933vcnD3OS"
-    },
-    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Hold Up",
@@ -1843,22 +1843,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Numb",
-        "url": "https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT"
-      },
-      "artists": [
-        {
-          "name": "Kage",
-          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
-        }
-      ],
-      "duration_ms": 225967,
-      "name": "Numb",
-      "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "Get It",
         "url": "https://open.spotify.com/album/3R0jtfmlb4Xd8zQOusrqNT"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 218709,
       "name": "Get It",
       "url": "https://open.spotify.com/track/4fF0io7XLVOSx5TD8DDMpc"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Numb",
+        "url": "https://open.spotify.com/album/2C1eeI6heXSrCmtkGOV2FT"
+      },
+      "artists": [
+        {
+          "name": "Kage",
+          "url": "https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot"
+        }
+      ],
+      "duration_ms": 225967,
+      "name": "Numb",
+      "url": "https://open.spotify.com/track/41EekfzAGeK44z1zQRhNgR"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
-        "name": "Bawl",
-        "url": "https://open.spotify.com/album/0773xEIGtlcBIrdC1yVEgS"
-      },
-      "artists": [
-        {
-          "name": "BROHUG",
-          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
-        }
-      ],
-      "duration_ms": 168960,
-      "name": "Bawl",
-      "url": "https://open.spotify.com/track/6hIcc2uUOjId7gln9WyCCP"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
         "name": "No Stoppin",
         "url": "https://open.spotify.com/album/5xws8aUsScDLDQ0isFesjS"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 185196,
       "name": "No Stoppin",
       "url": "https://open.spotify.com/track/7yhgXEXfxFZ3umffj1UPaQ"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "Bawl",
+        "url": "https://open.spotify.com/album/0773xEIGtlcBIrdC1yVEgS"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        }
+      ],
+      "duration_ms": 168960,
+      "name": "Bawl",
+      "url": "https://open.spotify.com/track/6hIcc2uUOjId7gln9WyCCP"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2022-07-22 04:01:00",
       "album": {
+        "name": "TIME",
+        "url": "https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp"
+      },
+      "artists": [
+        {
+          "name": "AYOR",
+          "url": "https://open.spotify.com/artist/5NzdRvsHUo8bIaIi7kTr74"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "TIME",
+      "url": "https://open.spotify.com/track/6Ui5bbINcHkcJM7c7qXyKj"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
         "name": "Night Bass Freshmen Vol 7",
         "url": "https://open.spotify.com/album/7yWb9vlqKtOF1Mbdc3tIS9"
       },
@@ -2063,22 +2079,6 @@
       "duration_ms": 213750,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/5b8lJ9il0hbE1HFBIGgTit"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "TIME",
-        "url": "https://open.spotify.com/album/7oKCEhzbHgertrWKkkKgxp"
-      },
-      "artists": [
-        {
-          "name": "AYOR",
-          "url": "https://open.spotify.com/artist/5NzdRvsHUo8bIaIi7kTr74"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "TIME",
-      "url": "https://open.spotify.com/track/6Ui5bbINcHkcJM7c7qXyKj"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2209,6 +2209,38 @@
       "url": "https://open.spotify.com/track/6Z6cXN7K3qjHNJe1Qy31Ar"
     },
     {
+      "added_at": "2022-08-12 04:01:00",
+      "album": {
+        "name": "Crew",
+        "url": "https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ"
+      },
+      "artists": [
+        {
+          "name": "BUTTER",
+          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+        }
+      ],
+      "duration_ms": 183309,
+      "name": "Crew",
+      "url": "https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC"
+    },
+    {
+      "added_at": "2022-07-22 04:01:00",
+      "album": {
+        "name": "The Afterhour Waltz",
+        "url": "https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC"
+      },
+      "artists": [
+        {
+          "name": "Stund",
+          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
+        }
+      ],
+      "duration_ms": 180480,
+      "name": "The Afterhour Waltz",
+      "url": "https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti"
+    },
+    {
       "added_at": "2022-07-22 04:01:00",
       "album": {
         "name": "Lookin At Me",
@@ -2227,22 +2259,6 @@
       "duration_ms": 158095,
       "name": "Lookin At Me",
       "url": "https://open.spotify.com/track/2O8vYJPpjxfHD1ZOl42T0d"
-    },
-    {
-      "added_at": "2022-07-22 04:01:00",
-      "album": {
-        "name": "The Afterhour Waltz",
-        "url": "https://open.spotify.com/album/7AyEpqNZeUzzwIluqR3PKC"
-      },
-      "artists": [
-        {
-          "name": "Stund",
-          "url": "https://open.spotify.com/artist/6nNP7Cm5qEpkL9sHNR5Zgk"
-        }
-      ],
-      "duration_ms": 180480,
-      "name": "The Afterhour Waltz",
-      "url": "https://open.spotify.com/track/1bpt1M45P9CntixjQ0apti"
     },
     {
       "added_at": "2022-07-22 04:01:00",
@@ -2267,18 +2283,22 @@
     {
       "added_at": "2022-08-12 04:01:00",
       "album": {
-        "name": "Crew",
-        "url": "https://open.spotify.com/album/6dMhTnkHKvIFCeldylvkIQ"
+        "name": "ALIEN",
+        "url": "https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q"
       },
       "artists": [
         {
-          "name": "BUTTER",
-          "url": "https://open.spotify.com/artist/5SOSqzQyhsHTTuxAMGPkaO"
+          "name": "jeonghyeon",
+          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
+        },
+        {
+          "name": "EXYT",
+          "url": "https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw"
         }
       ],
-      "duration_ms": 183309,
-      "name": "Crew",
-      "url": "https://open.spotify.com/track/7BI7gk1G4VgO8RZmk439vC"
+      "duration_ms": 166560,
+      "name": "ALIEN",
+      "url": "https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r"
     },
     {
       "added_at": "2022-08-05 04:01:00",
@@ -2303,26 +2323,6 @@
       "duration_ms": 222857,
       "name": "Reckless",
       "url": "https://open.spotify.com/track/37fAW4AI7aPtdZYyVU5JGo"
-    },
-    {
-      "added_at": "2022-08-12 04:01:00",
-      "album": {
-        "name": "ALIEN",
-        "url": "https://open.spotify.com/album/3NEiRqKazY4kENtQhKOw4q"
-      },
-      "artists": [
-        {
-          "name": "jeonghyeon",
-          "url": "https://open.spotify.com/artist/6sxcddx1xFwv0MblwbXNVq"
-        },
-        {
-          "name": "EXYT",
-          "url": "https://open.spotify.com/artist/19ykklbtr7n55Ix9klgevw"
-        }
-      ],
-      "duration_ms": 166560,
-      "name": "ALIEN",
-      "url": "https://open.spotify.com/track/4fci3f54oN8iJl75OZLm7r"
     }
   ],
   "unique_name": "Nasty Bits",

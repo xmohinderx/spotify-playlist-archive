@@ -1017,6 +1017,24 @@
     {
       "album": {
         "name": "Different Stars",
+        "url": "https://open.spotify.com/album/4BInGpL7KK8U8up43J5dfj"
+      },
+      "artists": [
+        {
+          "name": "Trespassers William",
+          "url": "https://open.spotify.com/artist/05DG9WOML9BsHwUS5HCcRa"
+        }
+      ],
+      "date_added": "2021-06-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342653,
+      "name": "Lie In The Sound",
+      "url": "https://open.spotify.com/track/0MsMR2rURAR4gSHzMWx8tZ"
+    },
+    {
+      "album": {
+        "name": "Different Stars",
         "url": "https://open.spotify.com/album/0FYhVNeOcfTLgtHISgpsb5"
       },
       "artists": [
@@ -1045,7 +1063,7 @@
       ],
       "date_added": "2021-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 342653,
       "name": "Lie In The Sound",
       "url": "https://open.spotify.com/track/7F8skye75dhR8vceTSWYM9"

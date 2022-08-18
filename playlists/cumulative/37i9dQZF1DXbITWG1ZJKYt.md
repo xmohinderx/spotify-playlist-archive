@@ -4,7 +4,7 @@
 
 > The best tunes in jazz history\. Cover: Louis Armstrong
 
-318 songs - 1 day 3 hr 49 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
+319 songs - 1 day 3 hr 54 min - [published](https://open.spotify.com/playlist/4TeJWp2FnWT3w9IWQNn7Hv)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [Monticello](https://open.spotify.com/track/0FKnknau5UBXgN2Q6vVHgC) | [The Monty Alexander Trio](https://open.spotify.com/artist/31KKBLM5RlNTW9EAYa6kW9) | [We've Only Just Begun](https://open.spotify.com/album/6ynS20qvBhX3zrvhCY9w93) | 3:52 | 2021-12-02 |  |
 | [Moon River](https://open.spotify.com/track/4rrLFMxzVVwAJjmvHLPL8y) | [Vince Guaraldi Trio](https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS) | [Jazz Impressions Of Black Orpheus \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0ZbVljVHaBZWOvaiSOtpgH) | 5:21 | 2021-12-02 |  |
 | [My Baby Just Cares for Me \- 2013 Remastered Version](https://open.spotify.com/track/6VTbbVjKOC2qWagIDbkJrC) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Little Girl Blue \(2013 Remastered Version\)](https://open.spotify.com/album/58gOQaPc4RCw8eWdTDRes7) | 3:35 | 2021-12-02 |  |
-| [My Favorite Things](https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 13:44 | 2021-12-02 |  |
+| [My Favorite Things](https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [My Favorite Things \(Deluxe Edition\)](https://open.spotify.com/album/3i7sNgNRwyGQmNP0CPuOM0) | 13:44 | 2021-12-02 | 2022-08-18 |
 | [My Foolish Heart](https://open.spotify.com/track/6yKkA8HzwWTZ5taIMaG4Nm) | [Bill Evans Trio](https://open.spotify.com/artist/3VEG6gxFIMfl4Cdog26avS) | [Waltz For Debby \[Original Jazz Classics Remasters\] \(OJC Remaster\)](https://open.spotify.com/album/0MjlKhtsyax9HSWNkYaWM2) | 4:57 | 2021-12-02 |  |
 | [My Funny Valentine](https://open.spotify.com/track/4l9hml2UCnxoNI3yCdL1BW) | [Chet Baker](https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T) | [Chet Baker Sings](https://open.spotify.com/album/5JJ779nrbHx0KB2lBrMMa4) | 2:21 | 2021-12-02 |  |
 | [My Funny Valentine](https://open.spotify.com/track/0MfK7lsLUvMq2CURkt61uF) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Cookin' With The Miles Davis Quintet \[Rudy Van Gelder edition\] \(Remastered\)](https://open.spotify.com/album/4klctF4THHFlLLTZGpa4D2) | 6:00 | 2021-12-02 | 2022-07-29 |
@@ -283,6 +283,7 @@
 | [The Masquerade Is Over](https://open.spotify.com/track/7rrM7Gg0k7tgCnTt2W7IMQ) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:40 | 2021-12-02 | 2022-05-03 |
 | [The Moontrane \- Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998](https://open.spotify.com/track/4ZAcQgIlpV5z7k7evEF0MJ) | [Larry Young](https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq) | [Unity \(Remastered / Rudy Van Gelder Edition\)](https://open.spotify.com/album/5a8cjdV55tR5l2noku0vVv) | 7:21 | 2021-12-02 |  |
 | [The Nearness Of You \- Remastered](https://open.spotify.com/track/7yCEzOAfijmD88IA1DHgSo) | [George Shearing Quintet](https://open.spotify.com/artist/6uduXqfPOgmcelx9Kclo3y), [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb) | [The Swingin's Mutual \(Expanded Edition / Remastered\)](https://open.spotify.com/album/5DeuKgqbg1Bw3AqqrwyqF7) | 3:00 | 2021-12-02 |  |
+| [The Plum Blossom \- Rudy Van Gelder Remaster](https://open.spotify.com/track/4HL2XUimEYLv0KDxD3Xpqz) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Eastern Sounds](https://open.spotify.com/album/651p7rfPaB7IiGIIR6Ys7f) | 4:55 | 2022-08-17 |  |
 | [The Shadow of Your Smile](https://open.spotify.com/track/0sRAziWSeUedBSKjapsy9F) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ), [Slide Hampton](https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys) | [A Day in Copenhagen](https://open.spotify.com/album/6JJtcOy0LWIT5Kh9W3m1CC) | 4:57 | 2021-12-02 |  |
 | [The Sidewinder \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/1dZHIbmuBDAwXfQOM4dyM3) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [The Sidewinder \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/1n1trPeeY9Q5H4eLbbHHRg) | 10:25 | 2022-03-11 |  |
 | [The Things We Did Last Summer](https://open.spotify.com/track/1cfMdMmJqBlLn4auevv0iB) | [Freddie Hubbard](https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em) | [The Hub of Hubbard](https://open.spotify.com/album/3TFjJOo2ycCrkiIMC0kKZa) | 7:19 | 2021-12-02 |  |

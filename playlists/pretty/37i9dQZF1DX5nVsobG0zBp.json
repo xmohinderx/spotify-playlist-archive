@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits do rap portugu\u00eas dos \u00faltimos anos. Foto: Wet Bed Gang",
-  "num_followers": 29221,
+  "num_followers": 29276,
   "original_name": "Rap Tuga Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMDFhMDk4YWMwMDM2YzQ3OWZjNjMwZDYxZTE4YzI3MDM3",
+  "snapshot_id": "MTY2MDI1ODgwMCwwMDAwMDAwMDNhZGFhNjgyZGIyMDEwNzgzODc1OTYyZjU2ZWVmZTA3",
   "tracks": [
     {
       "added_at": "2022-08-11 23:00:00",
@@ -435,6 +435,22 @@
     {
       "added_at": "2022-08-11 23:00:00",
       "album": {
+        "name": "Mais Antigo",
+        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        }
+      ],
+      "duration_ms": 206466,
+      "name": "Lembrei-me",
+      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
+    },
+    {
+      "added_at": "2022-08-11 23:00:00",
+      "album": {
         "name": "SYSTEM",
         "url": "https://open.spotify.com/album/4KzFk5taogXKJkKmFnt0D1"
       },
@@ -451,22 +467,6 @@
       "duration_ms": 246368,
       "name": "TRIBUNAL",
       "url": "https://open.spotify.com/track/31sUabnuTnFAM7rjMzKtfN"
-    },
-    {
-      "added_at": "2022-08-11 23:00:00",
-      "album": {
-        "name": "Mais Antigo",
-        "url": "https://open.spotify.com/album/6jv4CzMCPVJqt0DTlAiJw3"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        }
-      ],
-      "duration_ms": 206466,
-      "name": "Lembrei-me",
-      "url": "https://open.spotify.com/track/5hF6VYE61LV6Jr6dy86CvI"
     },
     {
       "added_at": "2022-08-11 23:00:00",

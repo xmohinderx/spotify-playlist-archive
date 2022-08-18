@@ -1,12 +1,12 @@
 {
   "description": "Post-hardcore. Post-punk. Post-rock. Post-everything. Cover: Metz",
-  "num_followers": 15686,
+  "num_followers": 3168,
   "original_name": "All Things Post",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY0ODY4MjAyMiwwMDAwMDAwMGNkZTczMDQ3NzZiOWQxOTFjY2ZlNGZiOTNkMjM1OGY0",
+  "snapshot_id": "MTY2MDc4MTQxOCwwMDAwMDAwMGM2YmNmZjIwM2ZiMWU2N2QzZGZmOGQ5NzM0YjY4NmZm",
   "tracks": [
     {
       "added_at": "2021-09-02 23:00:00",
@@ -299,22 +299,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Exister",
-        "url": "https://open.spotify.com/album/2x5nSfk63pJXL47mDXA3Hh"
-      },
-      "artists": [
-        {
-          "name": "Hot Water Music",
-          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Drag My Body",
-      "url": "https://open.spotify.com/track/0bEwPQwwgFyCvsqLkVOWhh"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Astro Coast",
         "url": "https://open.spotify.com/album/62G9kmLUjDoqkYBsPHwp42"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 234496,
       "name": "Floating Vibes",
       "url": "https://open.spotify.com/track/6UDYTfeSS4IVbJeHTaMxxA"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Exister",
+        "url": "https://open.spotify.com/album/2x5nSfk63pJXL47mDXA3Hh"
+      },
+      "artists": [
+        {
+          "name": "Hot Water Music",
+          "url": "https://open.spotify.com/artist/4dmaYARGTCpChLhHBdr3ff"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Drag My Body",
+      "url": "https://open.spotify.com/track/0bEwPQwwgFyCvsqLkVOWhh"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Ultra Mono",
-        "url": "https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6"
-      },
-      "artists": [
-        {
-          "name": "IDLES",
-          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
-        }
-      ],
-      "duration_ms": 187451,
-      "name": "War",
-      "url": "https://open.spotify.com/track/1CzagEt3BKgPOYjKTGdDKV"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "All Hail Bright Futures (Bonus Track Version)",
         "url": "https://open.spotify.com/album/0Gsm99gxGRwEoEfdzZTDfq"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 231653,
       "name": "Big Thinks Do Remarkable",
       "url": "https://open.spotify.com/track/0NNcqfgzO4ivslX7ALoz17"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Ultra Mono",
+        "url": "https://open.spotify.com/album/0ojQHzflxMs6SfvBBkRKt6"
+      },
+      "artists": [
+        {
+          "name": "IDLES",
+          "url": "https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C"
+        }
+      ],
+      "duration_ms": 187451,
+      "name": "War",
+      "url": "https://open.spotify.com/track/1CzagEt3BKgPOYjKTGdDKV"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -603,6 +603,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Fell In Love With A Ghost",
+        "url": "https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa"
+      },
+      "artists": [
+        {
+          "name": "Gvllow",
+          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
+        }
+      ],
+      "duration_ms": 225250,
+      "name": "Fell In Love With A Ghost",
+      "url": "https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Rites of Spring",
         "url": "https://open.spotify.com/album/0pU2blS70BzVWyC1tVyaLg"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 173067,
       "name": "Paradise and Plague",
       "url": "https://open.spotify.com/track/22JRnh2f6cfT7JYa43yMhk"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Fell In Love With A Ghost",
-        "url": "https://open.spotify.com/album/3lFbHdfhRD6jaqYleqNjpa"
-      },
-      "artists": [
-        {
-          "name": "Gvllow",
-          "url": "https://open.spotify.com/artist/69a2ovTpqzQrzthSkARvGn"
-        }
-      ],
-      "duration_ms": 225250,
-      "name": "Fell In Love With A Ghost",
-      "url": "https://open.spotify.com/track/2tmWeWTmfTX2TpLnNtnUlR"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "The Monitor",
-        "url": "https://open.spotify.com/album/4U9WLOC31iDcQ4gg5yUUEp"
-      },
-      "artists": [
-        {
-          "name": "Titus Andronicus",
-          "url": "https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1"
-        }
-      ],
-      "duration_ms": 429586,
-      "name": "A More Perfect Union",
-      "url": "https://open.spotify.com/track/2FErbkHZbZfibnbJGpf4yc"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Nothing Left to Love",
         "url": "https://open.spotify.com/album/3DJc8AdPpDbE2SRYXBB4p2"
       },
@@ -915,6 +899,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "The Monitor",
+        "url": "https://open.spotify.com/album/4U9WLOC31iDcQ4gg5yUUEp"
+      },
+      "artists": [
+        {
+          "name": "Titus Andronicus",
+          "url": "https://open.spotify.com/artist/5lJ4XQ2hlPlxACN7q3xKL1"
+        }
+      ],
+      "duration_ms": 429586,
+      "name": "A More Perfect Union",
+      "url": "https://open.spotify.com/track/2FErbkHZbZfibnbJGpf4yc"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "Everything a River Should Be",
         "url": "https://open.spotify.com/album/7IaSNQjmQl4ZgUREpXLoIz"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Twisted Tongues / Escape From Los Angeles",
-        "url": "https://open.spotify.com/album/4VSk5cWQF6BfFOLkaJB7kE"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241856,
-      "name": "Twisted Tongues",
-      "url": "https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Sick, Sad Heart",
         "url": "https://open.spotify.com/album/5yng3kreZeoPZzI8mZsG6q"
       },
@@ -979,6 +963,22 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
+        "name": "Twisted Tongues / Escape From Los Angeles",
+        "url": "https://open.spotify.com/album/4VSk5cWQF6BfFOLkaJB7kE"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241856,
+      "name": "Twisted Tongues",
+      "url": "https://open.spotify.com/track/3WEerYUbUTVFCWE3gcADiz"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
         "name": "King of Jeans",
         "url": "https://open.spotify.com/album/079UQBruCMoafmIwuISae3"
       },
@@ -991,6 +991,22 @@
       "duration_ms": 153680,
       "name": "False Jesii Part 2",
       "url": "https://open.spotify.com/track/0re1htGVLVpLvICvn2OLjM"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "December",
+        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
+      },
+      "artists": [
+        {
+          "name": "Introvert",
+          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
+        }
+      ],
+      "duration_ms": 186535,
+      "name": "December",
+      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1027,18 +1043,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "December",
-        "url": "https://open.spotify.com/album/3H69MrgNv9Oc0zsam8VYQ9"
+        "name": "Get My Mind Right",
+        "url": "https://open.spotify.com/album/0vWWAn7W7L10podK7A6tRB"
       },
       "artists": [
         {
-          "name": "Introvert",
-          "url": "https://open.spotify.com/artist/7FwkSwnzWbhUzwJEwlqlJw"
+          "name": "Fiddlehead",
+          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
         }
       ],
-      "duration_ms": 186535,
-      "name": "December",
-      "url": "https://open.spotify.com/track/63CWRhFuTxwv2oFAoaGtEH"
+      "duration_ms": 178909,
+      "name": "Get My Mind Right",
+      "url": "https://open.spotify.com/track/0XHX2cJ6kGYshbSytbExS6"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1055,22 +1071,6 @@
       "duration_ms": 313428,
       "name": "Firewood",
       "url": "https://open.spotify.com/track/4nrxXg3k9PM9EN5to4vNGj"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
-        "name": "Get My Mind Right",
-        "url": "https://open.spotify.com/album/0vWWAn7W7L10podK7A6tRB"
-      },
-      "artists": [
-        {
-          "name": "Fiddlehead",
-          "url": "https://open.spotify.com/artist/0q6u5HyVK4zwGuzEtqjHqa"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "Get My Mind Right",
-      "url": "https://open.spotify.com/track/0XHX2cJ6kGYshbSytbExS6"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Viet Cong",
-        "url": "https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h"
-      },
-      "artists": [
-        {
-          "name": "Preoccupations",
-          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
-        }
-      ],
-      "duration_ms": 252411,
-      "name": "Silhouettes",
-      "url": "https://open.spotify.com/track/6B5EAs1ytaHJNu9SQwfFNa"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Would It Kill You?",
         "url": "https://open.spotify.com/album/516klARf2DcEVPRXtoTPAr"
       },
@@ -1315,6 +1299,22 @@
       "duration_ms": 270104,
       "name": "Would It Kill You",
       "url": "https://open.spotify.com/track/0HbTKa82jEaiQkW0eIeMHx"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Viet Cong",
+        "url": "https://open.spotify.com/album/4PwcSxLNXfiKzlCaOh6u5h"
+      },
+      "artists": [
+        {
+          "name": "Preoccupations",
+          "url": "https://open.spotify.com/artist/2bs3QE2ZMBjmb0QTqAjCj3"
+        }
+      ],
+      "duration_ms": 252411,
+      "name": "Silhouettes",
+      "url": "https://open.spotify.com/track/6B5EAs1ytaHJNu9SQwfFNa"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Hall of the Sky",
-        "url": "https://open.spotify.com/album/7vRAmY1FbSrxCWUyXP5XzW"
-      },
-      "artists": [
-        {
-          "name": "Hopesfall",
-          "url": "https://open.spotify.com/artist/1FEgAMsvc3DM2OtT4dPn9i"
-        }
-      ],
-      "duration_ms": 524790,
-      "name": "Hall of the Sky",
-      "url": "https://open.spotify.com/track/2UCM6Hm8olrSft0vB9nL3g"
-    },
-    {
-      "added_at": "2021-09-02 23:00:00",
-      "album": {
         "name": "Equivalency",
         "url": "https://open.spotify.com/album/3G4cHtqrodOd8owrtcorRZ"
       },
@@ -1399,18 +1383,38 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Is Survived By",
-        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
+        "name": "Hall of the Sky",
+        "url": "https://open.spotify.com/album/7vRAmY1FbSrxCWUyXP5XzW"
       },
       "artists": [
         {
-          "name": "Touch\u00e9 Amor\u00e9",
-          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
+          "name": "Hopesfall",
+          "url": "https://open.spotify.com/artist/1FEgAMsvc3DM2OtT4dPn9i"
         }
       ],
-      "duration_ms": 210173,
-      "name": "Is Survived By",
-      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
+      "duration_ms": 524790,
+      "name": "Hall of the Sky",
+      "url": "https://open.spotify.com/track/2UCM6Hm8olrSft0vB9nL3g"
+    },
+    {
+      "added_at": "2021-09-02 23:00:00",
+      "album": {
+        "name": "Fluorescent",
+        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+      },
+      "artists": [
+        {
+          "name": "Life Awaits",
+          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
+        },
+        {
+          "name": "\u963f\u514b\u6c5f",
+          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+        }
+      ],
+      "duration_ms": 228728,
+      "name": "Everlast",
+      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
     },
     {
       "added_at": "2021-09-02 23:00:00",
@@ -1447,22 +1451,18 @@
     {
       "added_at": "2021-09-02 23:00:00",
       "album": {
-        "name": "Fluorescent",
-        "url": "https://open.spotify.com/album/7xdOZ1DtoyOUNR6svQzrCV"
+        "name": "Is Survived By",
+        "url": "https://open.spotify.com/album/2Qs1H2KjF6Bk2lSgFjQpOj"
       },
       "artists": [
         {
-          "name": "Life Awaits",
-          "url": "https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm"
-        },
-        {
-          "name": "\u963f\u514b\u6c5f",
-          "url": "https://open.spotify.com/artist/1t741fUiSCGyoWPoknIi4U"
+          "name": "Touch\u00e9 Amor\u00e9",
+          "url": "https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB"
         }
       ],
-      "duration_ms": 228728,
-      "name": "Everlast",
-      "url": "https://open.spotify.com/track/5YSSdM5hi1cYBPEPwdSqzF"
+      "duration_ms": 210173,
+      "name": "Is Survived By",
+      "url": "https://open.spotify.com/track/2T8u5Nfe8BV2gczPkcL0eE"
     },
     {
       "added_at": "2021-09-02 23:00:00",

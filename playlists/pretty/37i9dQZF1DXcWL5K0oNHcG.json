@@ -1,13 +1,33 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Knats Artwork: Joy Yamusangie",
-  "num_followers": 22977,
+  "num_followers": 23019,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY2MDEwNDAwMCwwMDAwMDAwMDA1N2Y2ZWRlZWY0ZThmYjM3ZDlmYmUyMzM0YWRmYmMw",
+  "snapshot_id": "MTY2MDcwODgwMCwwMDAwMDAwMGY2YWE4MDI1ODU1Yzk3ZGQ3YTEyMWEyZDdiOWJiNTJi",
   "tracks": [
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Endless Summer Drops",
+        "url": "https://open.spotify.com/album/6zAltOBOL1TefoawcGdvKV"
+      },
+      "artists": [
+        {
+          "name": "EXOTIC SKATES",
+          "url": "https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP"
+        },
+        {
+          "name": "MONKY",
+          "url": "https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O"
+        }
+      ],
+      "duration_ms": 286378,
+      "name": "Endless Summer Drops",
+      "url": "https://open.spotify.com/track/2Jjo4ixfRhLfmoqCUYbVR3"
+    },
     {
       "added_at": "2022-08-10 04:00:00",
       "album": {
@@ -29,6 +49,26 @@
       "url": "https://open.spotify.com/track/0uJu52vDlIrwwoYdD62TkU"
     },
     {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Ale\u00efa",
+        "url": "https://open.spotify.com/album/7aSEOKDeRaDwV8quza5v6o"
+      },
+      "artists": [
+        {
+          "name": "Lind\u00b7Froot",
+          "url": "https://open.spotify.com/artist/2ZH7xMbvnKqATEk5jER8dz"
+        },
+        {
+          "name": "Sharay Reed",
+          "url": "https://open.spotify.com/artist/6EZXGhI9nauRevgFl4VUrd"
+        }
+      ],
+      "duration_ms": 465657,
+      "name": "Ale\u00efa",
+      "url": "https://open.spotify.com/track/4EAkaRPN8v90UuqXjMlq6Y"
+    },
+    {
       "added_at": "2022-08-10 04:00:00",
       "album": {
         "name": "In the Pitt",
@@ -43,6 +83,90 @@
       "duration_ms": 400865,
       "name": "In the Pitt",
       "url": "https://open.spotify.com/track/1CeIWMMKtypWgyDTHrS9k9"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Subject to change",
+        "url": "https://open.spotify.com/album/2nl8AlLWyy50dMu54Tl824"
+      },
+      "artists": [
+        {
+          "name": "Titus Maz",
+          "url": "https://open.spotify.com/artist/37d7YzlD13SIAz8ptROpKv"
+        }
+      ],
+      "duration_ms": 225500,
+      "name": "Subject to change",
+      "url": "https://open.spotify.com/track/09WDDXXdAK2vR9CWIu9T3V"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "I Promise",
+        "url": "https://open.spotify.com/album/1jfSnPmMMZWWK7BfTlEByQ"
+      },
+      "artists": [
+        {
+          "name": "Ragawerk",
+          "url": "https://open.spotify.com/artist/2JOH11zxXs5tmCroqDJgON"
+        },
+        {
+          "name": "Max Clouth",
+          "url": "https://open.spotify.com/artist/7EHVLFAxz7VPpkyUqEt4y1"
+        }
+      ],
+      "duration_ms": 344506,
+      "name": "I Promise",
+      "url": "https://open.spotify.com/track/3ZdtrWDu1HzzkOahFCVfbe"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Inducer",
+        "url": "https://open.spotify.com/album/1Q4z8rScBllE8dQlxbDnxQ"
+      },
+      "artists": [
+        {
+          "name": "Russell Favret",
+          "url": "https://open.spotify.com/artist/0P8IOpX9JI9jXTRIMzmK0s"
+        }
+      ],
+      "duration_ms": 191590,
+      "name": "No Shade",
+      "url": "https://open.spotify.com/track/03M5Iz8gx0YMCjm3iD90i9"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Volta ao Catop\u00ea",
+        "url": "https://open.spotify.com/album/5U8aAX0S20zjuYegd4052K"
+      },
+      "artists": [
+        {
+          "name": "Pedro Gomes",
+          "url": "https://open.spotify.com/artist/2BAqtohDtp3a95qxi1wcJZ"
+        }
+      ],
+      "duration_ms": 257428,
+      "name": "Volta ao Catop\u00ea",
+      "url": "https://open.spotify.com/track/4eW3zVWI4PJbIVsV4i39wI"
+    },
+    {
+      "added_at": "2022-08-17 04:00:00",
+      "album": {
+        "name": "Medianoche",
+        "url": "https://open.spotify.com/album/12RWuSnuC2okLqeoIYV2uz"
+      },
+      "artists": [
+        {
+          "name": "J. White",
+          "url": "https://open.spotify.com/artist/10LN78B3CGfkHBYptZGbov"
+        }
+      ],
+      "duration_ms": 300026,
+      "name": "Medianoche",
+      "url": "https://open.spotify.com/track/52VNjB57vCYM7SNQWURgjv"
     },
     {
       "added_at": "2022-08-10 04:00:00",
@@ -307,22 +431,6 @@
       "duration_ms": 147435,
       "name": "Flower Power",
       "url": "https://open.spotify.com/track/1Dyin29sVydcawYIhztghb"
-    },
-    {
-      "added_at": "2022-08-10 04:00:00",
-      "album": {
-        "name": "Luminous (Piano Solo Ver.)",
-        "url": "https://open.spotify.com/album/0rP7FCzVPZSVNJJBlfV2Ky"
-      },
-      "artists": [
-        {
-          "name": "Mao Sone",
-          "url": "https://open.spotify.com/artist/674ZhINhNClUw6elVb96BG"
-        }
-      ],
-      "duration_ms": 390666,
-      "name": "Luminous (Piano Solo Ver.)",
-      "url": "https://open.spotify.com/track/6CeKexVXgJ41Ng5yvwbB1Z"
     },
     {
       "added_at": "2022-08-10 04:00:00",

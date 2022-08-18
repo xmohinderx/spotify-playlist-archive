@@ -4,7 +4,7 @@
 
 > The movement’s roots\. Los clásicos del Reggaeton\. Cover: Nicky Jam
 
-211 songs - 12 hr 46 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
+212 songs - 12 hr 49 min - [published](https://open.spotify.com/playlist/5IpFUHnh5qMyd0m1fdV3hG)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -200,6 +200,7 @@
 | [Te Suelto el Pelo](https://open.spotify.com/track/0Gh6QG4Z1pSvIo7btP1Ux4) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Quien Contra Mi](https://open.spotify.com/album/1xWGBUugmlHCwXH6AtpQCE) | 2:16 | 2022-04-05 | 2022-04-20 |
 | [Te Ves Buena](https://open.spotify.com/track/56vD8HM5H08hknJtMcNHOP) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:25 | 2021-12-09 |  |
 | [Tra Tra Tra \(Remix\)](https://open.spotify.com/track/1WlKaa17L1JGxPV73pLfHU) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Exitos](https://open.spotify.com/album/4RuUkuF6KkHpbScnOc7m1E) | 3:27 | 2021-12-09 | 2022-07-20 |
+| [Travesuras](https://open.spotify.com/track/2t7LjWmKWJV1X59zYaCsvy) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Travesuras](https://open.spotify.com/album/0bHiWhnjri1A0PSLEQE0He) | 3:15 | 2022-08-05 |  |
 | [Travesuras](https://open.spotify.com/track/1PtL0YQRtq3qxDGUSwZPJ5) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Nicky Jam Hits](https://open.spotify.com/album/4etANPc5BMELu5yx987Rpx) | 3:15 | 2021-12-09 | 2022-04-21 |
 | [Tu Príncipe](https://open.spotify.com/track/0Q7ZM15J0cJA9rd7pQYdRq) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/5i2HhIrYyMNQvmsBk9h8Im) | 3:25 | 2021-12-09 | 2022-07-29 |
 | [Tu Príncipe](https://open.spotify.com/track/2FNqnsX74ZlwduUAcnmzee) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Barrio Fino \(Bonus Track Version\)](https://open.spotify.com/album/4pLuE50wL9T26lSv42X0J2) | 3:25 | 2022-07-01 |  |
@@ -216,7 +217,7 @@
 | [Wiki Wiki](https://open.spotify.com/track/5GGecqjnP2hvrhhfFAl4VO) | [Yaviah](https://open.spotify.com/artist/0Y30TbA4p8SAfCzy2AFBa8) | [La Misión 4](https://open.spotify.com/album/05vrChqlagPD4ALM4L3TAG) | 2:49 | 2021-12-09 | 2022-04-20 |
 | [YO LE LLEGO](https://open.spotify.com/track/0uIfrUwwg0Z7KTitul7E3T) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 4:09 | 2021-12-09 |  |
 | [Yo No Soy Tu Marido](https://open.spotify.com/track/10bbgurV9w05vJVGAX9jYq) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Reggaeton Diamond Collection](https://open.spotify.com/album/3HD7DUUJXbxVd8q6Vujpri) | 3:19 | 2021-12-09 | 2022-06-15 |
-| [Yo no Soy Tu Marido](https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Kilates 2](https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL) | 3:21 | 2022-07-01 |  |
+| [Yo no Soy Tu Marido](https://open.spotify.com/track/2h9ymIolsmYaqwtxn69fXj) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Kilates 2](https://open.spotify.com/album/6rYQq40SoConI7BlkDlVXL) | 3:21 | 2022-07-01 | 2022-08-18 |
 | [Yo Te Lo Dije](https://open.spotify.com/track/7syG2WcnpcoJvxSZT9VbAa) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [La Familia](https://open.spotify.com/album/5Fqdd85mAoGDp0K9lmbPDp) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Yo Voy \(feat\. Daddy Yankee\)](https://open.spotify.com/track/5gflgO9EPbIBf16n5TKnQS) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1) | [Motivando a la Yal](https://open.spotify.com/album/2aItcV9jj0LvaluaDFTLqF) | 3:52 | 2021-12-09 |  |
 

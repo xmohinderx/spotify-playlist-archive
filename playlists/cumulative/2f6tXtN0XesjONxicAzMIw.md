@@ -2,7 +2,7 @@
 
 ### [2000s Hits Throwbacks](https://open.spotify.com/playlist/2f6tXtN0XesjONxicAzMIw)
 
-> The biggest 00s hits from Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
+> The biggest 00s hits from &quot;Teenage Dirtbag&quot; Wheatus, to Avril Lavigne, Sean Kingston, Usher, Shakira, Pussycat Dolls, and more!
 
 107 songs - 6 hr 55 min - [published](https://open.spotify.com/playlist/1ynosKRh1qAFE5dJbCyAPG)
 

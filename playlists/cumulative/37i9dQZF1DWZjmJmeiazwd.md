@@ -4,7 +4,7 @@
 
 > Rock out while you game.
 
-395 songs - 23 hr 51 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
+396 songs - 23 hr 55 min - [published](https://open.spotify.com/playlist/4hjyqOv4pr58cwOYvnLuVE)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Alive](https://open.spotify.com/track/2l1ZqaEr1fyFfHSudE7uSU) | [Tigress](https://open.spotify.com/artist/4wJ6pekF4hqpKdlXco2rJN) | [Human](https://open.spotify.com/album/7en8TRthEp3WueOnNV6zlN) | 2:47 | 2020-06-29 | 2022-07-29 |
 | [All or Nothing](https://open.spotify.com/track/4dMkVSiMt14svAqUlwMVuQ) | [Sylar](https://open.spotify.com/artist/78vP5COn64VXULgkIQovEA) | [All or Nothing](https://open.spotify.com/album/15wYtBlGoDxPUL283TyHgu) | 3:18 | 2020-06-29 | 2022-02-26 |
 | [Alone Again](https://open.spotify.com/track/7JP8lWYrxpA8luKU8IPd3Y) | [Asking Alexandria](https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ) | [See What’s On The Inside](https://open.spotify.com/album/11gvWPhkQyVoYIJgVsojmm) | 3:48 | 2021-12-10 |  |
+| [An Honest Mistake](https://open.spotify.com/track/7DoMGZLVzga3vhyZlb0hBX) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/3GNa5HhqzUlonZoLGYC8vb) | 3:39 | 2022-07-28 |  |
 | [An Honest Mistake \- CD Album Version](https://open.spotify.com/track/3C1TyhKaxnkjQ9A4zswIpW) | [The Bravery](https://open.spotify.com/artist/2bcrMsFlF632EQ6VZERWFu) | [The Bravery](https://open.spotify.com/album/0CVPZvowlghoM7LEjm2ixN) | 3:39 | 2020-06-29 | 2022-04-21 |
 | [And So It Went \[Feat\. Tom Morello\]](https://open.spotify.com/track/50yV9WzI1A98KAWjZC5oqw) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [Death By Rock And Roll](https://open.spotify.com/album/2ysgEIHY4aOMMbbu0uV6ey) | 4:30 | 2022-04-22 | 2022-05-21 |
 | [Angel](https://open.spotify.com/track/2qJkesdHu9sMMVFgkRkqhQ) | [Theory of a Deadman](https://open.spotify.com/artist/74eX4C98E4FCrAMl39qRsJ) | [Savages](https://open.spotify.com/album/6SfhyLVugAsXYDvs966WBn) | 3:22 | 2020-06-29 | 2022-02-26 |
@@ -242,7 +243,7 @@
 | [No Strings](https://open.spotify.com/track/7ySlDUcybvNllQd4WxCvtT) | [Confetti](https://open.spotify.com/artist/1oyUjl52ohRrCv3EL1UdpM) | [No Strings](https://open.spotify.com/album/2pyDFDmWBK3pAPprRqEOw5) | 2:32 | 2022-06-10 | 2022-07-27 |
 | [NO WAY OUT](https://open.spotify.com/track/7oib44NmCMvGNWnDDJjv5C) | [The Word Alive](https://open.spotify.com/artist/1CF8aEN939swnuIZGFI7Hk) | [MONOMANIA](https://open.spotify.com/album/2FxbVATTBMwI7ytSsYMp6f) | 3:35 | 2020-06-29 | 2022-07-29 |
 | [Nothing Else Matters](https://open.spotify.com/track/3ZFwuJwUpIl0GeXsvF1ELf) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica](https://open.spotify.com/album/37lWyRxkf3wQHCOlXM5WfX) | 6:28 | 2020-06-29 | 2022-04-21 |
-| [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2021-08-12 |  |
+| [Nowhere Generation](https://open.spotify.com/track/74zUPQTB6HMnfS1cagJnd8) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Generation](https://open.spotify.com/album/0NaOsrcxpNfSIPtTkazQdI) | 3:52 | 2021-08-12 | 2022-08-18 |
 | [Numb](https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Meteora](https://open.spotify.com/album/4Gfnly5CzMJQqkUFfoHaP3) | 3:05 | 2020-06-29 | 2022-02-26 |
 | [Oblivion](https://open.spotify.com/track/3Ye5icBka8ODjcaEQakPvZ) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Typhoons](https://open.spotify.com/album/05aqnnpYVOvsX0SIzmIuxi) | 2:41 | 2022-04-22 | 2022-05-21 |
 | [One + One](https://open.spotify.com/track/2kA6hOxNu2QINgkh6dYiEs) | [Death From Above 1979](https://open.spotify.com/artist/18H0sAptzdwid08XGg1Lcj) | [Is 4 Lovers](https://open.spotify.com/album/6H9QBo21NFBgN9Thf84pK7) | 3:46 | 2022-04-22 | 2022-05-14 |

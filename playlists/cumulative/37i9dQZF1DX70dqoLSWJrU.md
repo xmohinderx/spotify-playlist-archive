@@ -4,14 +4,15 @@
 
 > Heartbreaking and sad jazz songs.
 
-121 songs - 7 hr 4 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
+122 songs - 7 hr 7 min - [published](https://open.spotify.com/playlist/5uUFbAhLiVNLmtCNfyWc4t)
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | ['Round Midnight](https://open.spotify.com/track/4DZTYXrIy4fvNa1HhxxNC2) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Around Midnight](https://open.spotify.com/album/65qYYKLROzIJ1qN7CFaA0d) | 2:52 | 2022-05-25 |  |
 | [A Certain Sadness](https://open.spotify.com/track/3vHcprrLUS7hJ7sGljPVgf) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF), [Walter Wanderley](https://open.spotify.com/artist/1FKfMww5N8dkbyo2sp9nBA) | [A Certain Smile, A Certain Sadness \(Expanded Edition\)](https://open.spotify.com/album/1vLQYFvmDj7hTYvlvdMSQ4) | 3:08 | 2022-04-13 |  |
 | [After You've Gone](https://open.spotify.com/track/6D0AvLMvmAWXzYqGQK1Uh4) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Rhythm Is My Business](https://open.spotify.com/album/2YmioRpHchcSObTv10OkEu) | 4:18 | 2022-04-13 |  |
-| [Autumn Leaves \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Day By Day \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/album/24BolRWKmaJV85C5tMkmbO) | 3:03 | 2022-04-13 |  |
+| [Autumn Leaves \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/track/4WqvEcqLyjXgrWspu7P7Ki) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6), [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [Day By Day \(with Paul Weston & His Music From Hollywood\)](https://open.spotify.com/album/24BolRWKmaJV85C5tMkmbO) | 3:03 | 2022-04-13 | 2022-08-18 |
+| [Autumn Leaves \- Remastered](https://open.spotify.com/track/3AgqQbQWYLGsemeBHk1U1d) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Sings For Two In Love](https://open.spotify.com/album/1evRgENnDDNYH6KPjIFdQi) | 2:40 | 2022-08-17 |  |
 | [Baby Won't You Please Come Home](https://open.spotify.com/track/5j2Z5B0KIYUXT3auRIsV5Q) | [Dinah Washington](https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa) | [Blues, Soul & Ballads](https://open.spotify.com/album/3sFHBeNmI8Z754CicdT2Vp) | 2:07 | 2022-04-13 |  |
 | [Baby, Don't You Cry](https://open.spotify.com/track/30yadsMx45g0lPWUuYW7cX) | [Dakota Staton](https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx) | [Time To Swing](https://open.spotify.com/album/6BshCNZsaV5TD2rlwDutko) | 2:34 | 2022-04-13 |  |
 | [Baby, I Don't Cry Over You](https://open.spotify.com/track/5gXoSVnLyvxRFdvIhUElXS) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp), [Billy Kyle and His Trio](https://open.spotify.com/artist/2Ru6Dj5tdUgAzLrXcXje7q) | [The Blues Are Brewin'](https://open.spotify.com/album/3mkCRtRSj88ggrbkTCbEUQ) | 3:13 | 2022-04-13 |  |

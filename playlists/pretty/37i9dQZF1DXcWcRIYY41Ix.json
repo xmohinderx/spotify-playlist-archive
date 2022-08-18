@@ -1,12 +1,12 @@
 {
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Pedro Pastor",
-  "num_followers": 91633,
+  "num_followers": 91670,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTY1ODUwMzA2NCwwMDAwMDAwMDAzZTY1NTdmMzI0MTM4OWEwN2NhZDhkZDA2NTkyZTUx",
+  "snapshot_id": "MTY1ODUwMzA2NCwwMDAwMDAwMGMzOTRmNGNiNGIyN2IxYTY3NTkxMTQwNjIwNjhjMTg1",
   "tracks": [
     {
       "added_at": "2022-07-22 15:17:44",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Viento Sur",
-        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        }
-      ],
-      "duration_ms": 273332,
-      "name": "Lejos de la ciudad",
-      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "Saudade (Ac\u00fastica)",
         "url": "https://open.spotify.com/album/5msxr0FMU7qHRbpUdAEWCg"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 296671,
       "name": "Saudade - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0hMDCdTgDI01LKtiMjPdAV"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Viento Sur",
+        "url": "https://open.spotify.com/album/07YaDmmOtX88kOCryTmXh6"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        }
+      ],
+      "duration_ms": 273332,
+      "name": "Lejos de la ciudad",
+      "url": "https://open.spotify.com/track/3E6Biow3hFr1axedNqmRoe"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -635,26 +635,6 @@
       "duration_ms": 201452,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/5Fc0FUbxgQlC9ZBAb6ffYt"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
-        "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Guitarricadelafuente",
-          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
-        }
-      ],
-      "duration_ms": 211493,
-      "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
-      "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -715,6 +695,26 @@
       "duration_ms": 301935,
       "name": "Blue (feat. Jorge Drexler & Joan Manuel Serrat) - Diminuto Planeta Azul",
       "url": "https://open.spotify.com/track/1Qypv0IvYTc3pFZVVKiczs"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
+        "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Guitarricadelafuente",
+          "url": "https://open.spotify.com/artist/0oBiYchunKTMDesVICwrvL"
+        }
+      ],
+      "duration_ms": 211493,
+      "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
+      "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -927,22 +927,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
-        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00eda Cristina Plata",
-          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
-        }
-      ],
-      "duration_ms": 158560,
-      "name": "L\u00e1stima",
-      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 341037,
       "name": "Al o\u00edrla cantar",
       "url": "https://open.spotify.com/track/1GmzUjLKmccC28IAMFhW1t"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Despu\u00e9s de Todo: Compilado Latinoamericano",
+        "url": "https://open.spotify.com/album/5rjpOeUvHawt9zlpVzMmiX"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00eda Cristina Plata",
+          "url": "https://open.spotify.com/artist/4XDotByiioCWHV566OcWQc"
+        }
+      ],
+      "duration_ms": 158560,
+      "name": "L\u00e1stima",
+      "url": "https://open.spotify.com/track/5jaEobaW0naP6FP2GnQuY5"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1187,6 +1187,26 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
+        "name": "Versiones Desnudas",
+        "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
+      },
+      "artists": [
+        {
+          "name": "RIOLA",
+          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
+        },
+        {
+          "name": "Borja Pic\u00f3",
+          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
+        }
+      ],
+      "duration_ms": 219000,
+      "name": "Dame M\u00e1s (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
         "name": "Yo Soy",
         "url": "https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 222428,
       "name": "Las Bestias Que Me Acompa\u00f1an",
       "url": "https://open.spotify.com/track/3cM4LmOelaNH1fKOrpgp09"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
-        "name": "Versiones Desnudas",
-        "url": "https://open.spotify.com/album/0bKZ3UvO9QLSRcXUuaPgm5"
-      },
-      "artists": [
-        {
-          "name": "RIOLA",
-          "url": "https://open.spotify.com/artist/3Ri2BjKwyDM96dsOzYL5r9"
-        },
-        {
-          "name": "Borja Pic\u00f3",
-          "url": "https://open.spotify.com/artist/316btsfZWyV51FpNdg8LTZ"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Dame M\u00e1s (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/6fv2hZpznPsKawSRbo9osn"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Sana Sana",
-        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
-      },
-      "artists": [
-        {
-          "name": "Alejandro y Maria Laura",
-          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
-        }
-      ],
-      "duration_ms": 302976,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "Limoneros",
         "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 175786,
       "name": "Limoneros",
       "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Sana Sana",
+        "url": "https://open.spotify.com/album/1G95aTui2iEdUAyotrs6h9"
+      },
+      "artists": [
+        {
+          "name": "Alejandro y Maria Laura",
+          "url": "https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u"
+        }
+      ],
+      "duration_ms": 302976,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/341SLEDngz2H0kE52OTXao"
     },
     {
       "added_at": "2022-07-22 15:17:44",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2022-07-22 15:17:44",
       "album": {
-        "name": "Laura Itandehui",
-        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 264440,
-      "name": "Tiempo al Tiempo",
-      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
-    },
-    {
-      "added_at": "2022-07-22 15:17:44",
-      "album": {
         "name": "Los N\u00e1ufragos",
         "url": "https://open.spotify.com/album/1ZuTAeqMLd53krA4g6Riqh"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 202680,
       "name": "En Las Olas",
       "url": "https://open.spotify.com/track/6d3SDtnXjcQ7l7qNJGx1hY"
+    },
+    {
+      "added_at": "2022-07-22 15:17:44",
+      "album": {
+        "name": "Laura Itandehui",
+        "url": "https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 264440,
+      "name": "Tiempo al Tiempo",
+      "url": "https://open.spotify.com/track/3NItdQWWv3UkO0DPHrgFDl"
     },
     {
       "added_at": "2022-07-22 15:17:44",

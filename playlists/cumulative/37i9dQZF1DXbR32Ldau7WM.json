@@ -448,6 +448,24 @@
     },
     {
       "album": {
+        "name": "Crap Shit",
+        "url": "https://open.spotify.com/album/63QKzcgMKQ3IBxmyah2pPv"
+      },
+      "artists": [
+        {
+          "name": "the telephones",
+          "url": "https://open.spotify.com/artist/2wRKaUyXjAYRkelDUugZrQ"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150614,
+      "name": "Crap Shit",
+      "url": "https://open.spotify.com/track/66KwfIC541C6M7oBUnAAos"
+    },
+    {
+      "album": {
         "name": "DEAR",
         "url": "https://open.spotify.com/album/4OBpKvxYrXgkL3In9SoP5q"
       },
@@ -499,6 +517,24 @@
       "duration_ms": 131680,
       "name": "Drain Water",
       "url": "https://open.spotify.com/track/0zSJONiunE3g3fGjq7W4kv"
+    },
+    {
+      "album": {
+        "name": "Awakening:Sleeping",
+        "url": "https://open.spotify.com/album/3CtgykVNQgaZ42o6f89PQy"
+      },
+      "artists": [
+        {
+          "name": "MASS OF THE FERMENTING DREGS",
+          "url": "https://open.spotify.com/artist/14d5KCX9nprUcxnKIShrr1"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Dramatic",
+      "url": "https://open.spotify.com/track/3pT5vtG177l2jrxpPy76jB"
     },
     {
       "album": {
@@ -1103,7 +1139,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 224960,
       "name": "Hunter or Prey",
       "url": "https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V"
@@ -2155,7 +2191,7 @@
       ],
       "date_added": "2022-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 265420,
       "name": "Scratch",
       "url": "https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8"
@@ -3750,6 +3786,24 @@
     },
     {
       "album": {
+        "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+        "url": "https://open.spotify.com/album/6FxKYNWnLnNquosFco0msC"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "date_added": "2022-08-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278840,
+      "name": "\u30d4\u30b0\u30de\u30ea\u30aa\u30f3",
+      "url": "https://open.spotify.com/track/0rpOxMN9wo0iYdlT6q5yik"
+    },
+    {
+      "album": {
         "name": "YF \u4e0b",
         "url": "https://open.spotify.com/album/2K5jyDDqgCrrdZgsLps6Pl"
       },
@@ -4991,7 +5045,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2022-08-18",
       "duration_ms": 246506,
       "name": "\u7dd1\u9152",
       "url": "https://open.spotify.com/track/6OcssYxhXZ9pZAkcYfeEsU"

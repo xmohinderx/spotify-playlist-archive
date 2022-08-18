@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 
 > Khám phá 🎶 đáng nghe từ những 🎼 có thể bạn chưa biết\. Ảnh bìa: Phạm Nguyên Ngọc; thiết kế: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,367 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,385 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,16 +14,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 4 | [Giấc Mơ Rất Thơ](https://open.spotify.com/track/0xMIMrT7Vmwsejznw8LJAE) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [thaison!](https://open.spotify.com/artist/1VQyG9aks9QYQYzwmP12Fz) | [Giấc Mơ Rất Thơ](https://open.spotify.com/album/0Enf631SjxZSfjAHGPgpIU) | 2:52 |
 | 5 | [Quên Đặt Tên](https://open.spotify.com/track/0OYyivKo7eLtmHzYagW60S) | [Phạm Nguyên Ngọc](https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK), [BMZ](https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m) | [Quên Đặt Tên](https://open.spotify.com/album/0mSAYqvDCz9BcjSGLaRSyS) | 5:34 |
 | 6 | [Từng Là Chúng Ta](https://open.spotify.com/track/73ikMsMoQ9yy0ex2ncCMxC) | [Ngọc Dolil](https://open.spotify.com/artist/6VLN4hTrGOZ5Le1TVTwDTg) | [Từng Là Chúng Ta](https://open.spotify.com/album/3ge04XkhedMdUOpMWsOwMk) | 3:46 |
-| 7 | [Em Thích](https://open.spotify.com/track/3XEspwit4d8gwKKgeopfCv) | [Sean](https://open.spotify.com/artist/1xNqmjTeWon7iX8kbPKpZz), [Lửa](https://open.spotify.com/artist/4HOm37irsRwVEddNx6d0lq) | [Em Thích](https://open.spotify.com/album/0o0vf9ksC3aChWzJXZj6D0) | 2:56 |
-| 8 | [M Ngày Mai](https://open.spotify.com/track/34cCAgZ1og8Oy6lhC1MzPD) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Ngọc Yến](https://open.spotify.com/artist/66bL2ewcgzBICFSvdKaKCT) | [M Ngày Mai](https://open.spotify.com/album/6WMbOTcO0vK4zjeMpWRcCp) | 4:02 |
-| 9 | [Lời Em Nói](https://open.spotify.com/track/64ofw7HN2Wx1uvkC5z7nCo) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Lời Em Nói](https://open.spotify.com/album/0t998F3RSSPze3IjCU8EdW) | 4:05 |
-| 10 | [Vô Thường](https://open.spotify.com/track/0Wqxp4vGLSFzBXvPEApigk) | [FSRio](https://open.spotify.com/artist/066RIM4xKxX0yCCBtg3NYY), [Young N](https://open.spotify.com/artist/2LavRswnUDiEi4r2qn006Q) | [Vô Thường](https://open.spotify.com/album/3FZs1sCTsee9pErIGhAYKf) | 3:22 |
-| 11 | [EMCOHAY](https://open.spotify.com/track/6BVomcgT4btVhkZrt5FyMI) | [Solsilva](https://open.spotify.com/artist/42dopFsZz6H8X2VZl9Pd0I), [Kansy](https://open.spotify.com/artist/28JBwb0hnc65XxAymjJ1Z2) | [EMCOHAY](https://open.spotify.com/album/3Tgo3CJ4sHRC4ORhmy1Hpf) | 2:41 |
-| 12 | [Không Biết Yêu](https://open.spotify.com/track/2rtJIWFu5lcw1nkzV5RwUb) | [Diam](https://open.spotify.com/artist/3Ynv5eRtPGGOjIdEvEtoMq), [DreAw](https://open.spotify.com/artist/17D2Nb6MMFnQA9ketWFJCp) | [Không Biết Yêu](https://open.spotify.com/album/0u1RtXbPRsNkhw5fZHmI5p) | 2:44 |
-| 13 | [Chào 04](https://open.spotify.com/track/1MRPnIH8CA39OVC0xqR8tw) | [SouLH](https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O), [quanhat5am](https://open.spotify.com/artist/2lRwff4hwG9WEKKlMPqfo1) | [Chào 04](https://open.spotify.com/album/3TjmHyjZF3bycamaXEsA2r) | 4:40 |
-| 14 | [Vì Anh Biết](https://open.spotify.com/track/1FAspT5QTfdyfMZBlBMRjE) | [Võ Việt Phương](https://open.spotify.com/artist/1nwyJq8U2U3ixza7lgbRRv) | [Vì Anh Biết](https://open.spotify.com/album/3IlQMfTvQMIO9QBDW5AaQs) | 4:17 |
-| 15 | [Em Nghĩ Sao](https://open.spotify.com/track/1naUzsMBOHs4hm15sTut0Q) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Em Nghĩ Sao](https://open.spotify.com/album/5tWk3GIfQ6MDwggtEWPkYO) | 3:48 |
-| 16 | [Em Nào Đâu Thấy](https://open.spotify.com/track/5CD9gex4LucJ9bJqWpIgYi) | [Dein](https://open.spotify.com/artist/5EKK4e4Vb5BfU7tRhz6RIY) | [Em Nào Đâu Thấy](https://open.spotify.com/album/62fArUraY3zsohJdyxouMD) | 3:21 |
+| 7 | [M Ngày Mai](https://open.spotify.com/track/34cCAgZ1og8Oy6lhC1MzPD) | [2T](https://open.spotify.com/artist/5a9t9Ace3c3WLhwlYXsTGH), [Ngọc Yến](https://open.spotify.com/artist/66bL2ewcgzBICFSvdKaKCT) | [M Ngày Mai](https://open.spotify.com/album/6WMbOTcO0vK4zjeMpWRcCp) | 4:02 |
+| 8 | [Lời Em Nói](https://open.spotify.com/track/64ofw7HN2Wx1uvkC5z7nCo) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Lời Em Nói](https://open.spotify.com/album/0t998F3RSSPze3IjCU8EdW) | 4:05 |
+| 9 | [regret](https://open.spotify.com/track/3j0GWCC5vw7jylMjDZEAz5) | [qt.](https://open.spotify.com/artist/2PZrzgPEzozv50Ccu7f3ld) | [regret](https://open.spotify.com/album/49ed2UXd4qvqZKEZcjWrvZ) | 3:24 |
+| 10 | [Chang The Quen Mot Nguoi](https://open.spotify.com/track/0ZkwYK1rOnL7n6z0y1BANm) | [Flo D](https://open.spotify.com/artist/25cLQ8alZJssXY06KE3SZP), [Hổ](https://open.spotify.com/artist/31tcsz1SJ59GeQQEJeKuvZ) | [Chang The Quen Mot Nguoi](https://open.spotify.com/album/60ZclzimuGlrqUtsg34di7) | 3:27 |
+| 11 | [Anh Quen Có Em Rồi](https://open.spotify.com/track/1Zl23j8YIhMBUUsCdm4SXQ) | [ImD](https://open.spotify.com/artist/4kZKhAiaD155vll9hoEycu) | [Anh Quen Có Em Rồi](https://open.spotify.com/album/4zYTNK1RSl74Mt0QApHf4r) | 3:38 |
+| 12 | [Overseas](https://open.spotify.com/track/4q7nJY3ci9PcLxtOAJnEYt) | [Lil Waterboi](https://open.spotify.com/artist/4vA47myQ7vr80FkXS7JbkM), [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw) | [Overseas](https://open.spotify.com/album/2xfSDRnblmqZr7dMFksB8o) | 2:30 |
+| 13 | [EMCOHAY](https://open.spotify.com/track/6BVomcgT4btVhkZrt5FyMI) | [Solsilva](https://open.spotify.com/artist/42dopFsZz6H8X2VZl9Pd0I), [Kansy](https://open.spotify.com/artist/28JBwb0hnc65XxAymjJ1Z2) | [EMCOHAY](https://open.spotify.com/album/3Tgo3CJ4sHRC4ORhmy1Hpf) | 2:41 |
+| 14 | [Chào 04](https://open.spotify.com/track/1MRPnIH8CA39OVC0xqR8tw) | [SouLH](https://open.spotify.com/artist/1Uea5mxQzPTXigqZKed16O), [quanhat5am](https://open.spotify.com/artist/2lRwff4hwG9WEKKlMPqfo1) | [Chào 04](https://open.spotify.com/album/3TjmHyjZF3bycamaXEsA2r) | 4:40 |
+| 15 | [Vì Anh Biết](https://open.spotify.com/track/1FAspT5QTfdyfMZBlBMRjE) | [Võ Việt Phương](https://open.spotify.com/artist/1nwyJq8U2U3ixza7lgbRRv) | [Vì Anh Biết](https://open.spotify.com/album/3IlQMfTvQMIO9QBDW5AaQs) | 4:17 |
+| 16 | [Em Nghĩ Sao](https://open.spotify.com/track/1naUzsMBOHs4hm15sTut0Q) | [Lil Zpoet](https://open.spotify.com/artist/0T8DkuhhFhdWAMN0bdeLL7) | [Em Nghĩ Sao](https://open.spotify.com/album/5tWk3GIfQ6MDwggtEWPkYO) | 3:48 |
 | 17 | [Bất Cần](https://open.spotify.com/track/4NvUI0B8zb7OgV5z5n6pbS) | [Masta Trippy](https://open.spotify.com/artist/6mhwVvYiIjEBAbKoMrIW6K) | [Bất Cần](https://open.spotify.com/album/1RUaxIXWSiGj5pPn0NIM6b) | 3:10 |
 | 18 | [Lên Sau](https://open.spotify.com/track/12c9rJiU2GtS2MR1hMbaqB) | [ICD](https://open.spotify.com/artist/2nk2PnWoh8U5lR6xDhDGFu) | [Lên Sau](https://open.spotify.com/album/6Zj4alZOHAHsP6BJ7pckpQ) | 3:55 |
 | 19 | [Mây Mưa](https://open.spotify.com/track/5UY2LGUTenQKzafvDCJUbY) | [Limitlxss](https://open.spotify.com/artist/7CvaEyUJFgQOdgzfqqU5t7) | [Mây Mưa](https://open.spotify.com/album/7gOmdp3IQpPkC6g2qsFISb) | 3:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34s4fg4Zx3Z.md) - [plain]
 | 99 | [Sao Em Không Rep?](https://open.spotify.com/track/2IyaEEU6uYI20qnYpfBxeP) | [Daduc](https://open.spotify.com/artist/2IoOywNR2WMJSIVdPYhUCB), [DAGIAM](https://open.spotify.com/artist/0ACCThk8sjoRlvmeBJ90Hg) | [Sao Em Không Rep?](https://open.spotify.com/album/5PAvmwRrUuTWwf3ImHeYJq) | 3:11 |
 | 100 | [Mai Về](https://open.spotify.com/track/4K9pEXPOH7GwBkfBfn7bBW) | [Dfoxie37](https://open.spotify.com/artist/4zg9WrDAFl1dGh2eSWLnOG), [Myhai](https://open.spotify.com/artist/6SECEHj3VXuc2JP9FmSwiZ) | [Mai Về](https://open.spotify.com/album/1e2eM8MOgpmvsaSoa1gqi2) | 5:00 |
 
-Snapshot ID: `MTY2MDYxMjMzMSwwMDAwMDAwMDU0MGNlZGY2ZjA5OWYwYWM3NDRjYWI2YThhNDJhODI1`
+Snapshot ID: `MTY2MDcxMDAyOSwwMDAwMDAwMDFhMTRhZTkxMGMyOTVjNjYxZGU3MmFiMWRiYTViNzNh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 
 > Relax to the sound of classical guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,468 likes - 38 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,528 likes - 38 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBq4mDDFnfA.md) - [plain]
 | 37 | [Ronsard \(De Platero y Yo\)](https://open.spotify.com/track/76UK5gKqUosKutmEnBtWeY) | [Castelnuevo\-Tedesco](https://open.spotify.com/artist/4Tl9BcuIraxV7gBAdc7RhA), [Andrés Segovia](https://open.spotify.com/artist/3Din7QXYnTjT52WF62KS97) | [Reveries](https://open.spotify.com/album/49x5ATRMfvUVQDyEL9IyQM) | 3:10 |
 | 38 | [24 Studies, Op\. 35, "Exercises": Study No\. 17 in D Major](https://open.spotify.com/track/36RCsOzDM2cPkSL6Gotr16) | [Fernando Sor](https://open.spotify.com/artist/4KAvqco7JE80QdRlEjvyrd), [Timo Korhonen](https://open.spotify.com/artist/0lQAmXMjaOpe3l6Kj3JmoT) | [Sor: Fantasias Nos\. 7, 10, 13 / 24 Studies \(Excerpts\)](https://open.spotify.com/album/7JGXxvuPVAqgRJDQUyKd0R) | 1:44 |
 
-Snapshot ID: `MTY0MzE5NzA3OSwwMDAwMDAwMDE4ODA5ZTgzY2M5NjE1YTdlOGM4OTJjOTZhMjY0OWQy`
+Snapshot ID: `MTY2MDczMjYyNSwwMDAwMDAwMDhjMmRlYTA1ZjQ5ZDI4OGEwYmFmMDdjYzRiZDAzYmQ0`
